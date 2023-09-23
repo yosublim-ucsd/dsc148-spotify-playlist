@@ -4,7 +4,7 @@
 
 > Pop country hits of today and tomorrow\. Cover: Colbie Caillat
 
-248 songs - 13 hr 0 min
+249 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Home Sweet](https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Home Sweet](https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8) | 3:25 | 2021-12-17 |  |
 | [How Do I Do This](https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:51 | 2023-08-11 |  |
 | [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 | 2022-03-25 | 2023-02-25 |
+| [I Can Feel It](https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Can Feel It](https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi) | 2:43 | 2023-09-22 |  |
 | [I Can't \(feat\. Old Dominion\)](https://open.spotify.com/track/2YoOaGlM2zGpYBanN3AxrV) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Supernova \(Deluxe\)](https://open.spotify.com/album/7EVVjcblXEwmzOUFSIdExn) | 3:30 | 2021-12-17 | 2022-12-17 |
 | [I Can't Love You Any More](https://open.spotify.com/track/3Sm47s5VbZs7cHzEdqC4Tc) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Midtown Diaries](https://open.spotify.com/album/50zMs3AwxduoOoQoN17955) | 3:14 | 2021-12-17 | 2022-07-29 |
 | [I Can't Take You Anywhere](https://open.spotify.com/track/6qy96hXke3U5vSxZe5klYp) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [I Can't Take You Anywhere](https://open.spotify.com/album/2p63vg635NT4kQN3amdxRR) | 3:31 | 2023-03-17 | 2023-06-15 |
@@ -105,7 +106,7 @@
 | [I Know \(feat\. Tenille Townes & Bryce Vine\)](https://open.spotify.com/track/5DU3wahsCBJ6kkyDBYpIRN) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [I Know \(feat\. Tenille Townes & Bryce Vine\)](https://open.spotify.com/album/67YRdAiqz6kybb31VrYo58) | 3:03 | 2023-06-23 |  |
 | [I Know a Girl](https://open.spotify.com/track/2WtFMqCMT0fyTZOWNEiy5w) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [I Know a Girl](https://open.spotify.com/album/6D6FWN8ckh0wOCAi8377eI) | 3:16 | 2021-12-17 | 2022-01-08 |
 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 | 2021-12-17 |  |
-| [I Still Love You](https://open.spotify.com/track/1OcrmjcHuoTw1O5QHOpTc2) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [I Still Love You](https://open.spotify.com/album/3pRvMR2NZEkoudW2t6DHoe) | 3:44 | 2022-11-01 |  |
+| [I Still Love You](https://open.spotify.com/track/1OcrmjcHuoTw1O5QHOpTc2) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [I Still Love You](https://open.spotify.com/album/3pRvMR2NZEkoudW2t6DHoe) | 3:44 | 2022-11-01 | 2023-09-23 |
 | [I Want It All](https://open.spotify.com/track/1Td2fjoRbqG8TKAe2sjqS1) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [I Want It All](https://open.spotify.com/album/4UtZVkoehTswX1XyGvgT6X) | 3:21 | 2022-02-25 | 2022-08-04 |
 | [I Wonder](https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [I Wonder](https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy) | 3:26 | 2022-10-01 | 2023-04-26 |
 | [I'll Never Stop](https://open.spotify.com/track/6KZEHBZnEGRYIIEinjEEyD) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [New Town](https://open.spotify.com/album/5E0LXGmyDlFqUkLFzLdxdH) | 3:32 | 2021-12-17 | 2022-07-29 |

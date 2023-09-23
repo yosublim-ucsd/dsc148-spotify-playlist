@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-201 songs - 13 hr 26 min
+202 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [popular](https://open.spotify.com/track/1S15DDk2wLMJqWIYlDGqxU) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Volume 3](https://open.spotify.com/album/5OYji5WLp8YRndCuPO23ST) | 3:33 | 2020-10-20 | 2022-11-13 |
 | [popular](https://open.spotify.com/track/4n9TwryLI8dc7JA7zCS7He) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [search result](https://open.spotify.com/album/0QImn8JzTpAMxhGdKWzJCk) | 3:33 | 2020-10-20 | 2022-07-29 |
 | [popular](https://open.spotify.com/track/7IpmgwR3K4wFzWTS1ESWZj) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [search result](https://open.spotify.com/album/1wmIqJmiY5i7frir68g8JP) | 3:33 | 2020-10-20 | 2023-08-11 |
+| [Pure Smile Snake Venom](https://open.spotify.com/track/2vP6Rn1x35ybWBctcdooEF) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Powders](https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U) | 3:41 | 2023-09-22 |  |
 | [quiet face](https://open.spotify.com/track/0x2GowE3BwQCG7ZAYwiTxC) | [Nyokabi Kariuki](https://open.spotify.com/artist/04vacT34stkfP2TFkNvDf2) | [FEELING BODY](https://open.spotify.com/album/3D2gBvOa2KhfW0qXjN0lHj) | 3:10 | 2023-03-03 | 2023-04-01 |
 | [Rah \(feat\. Zoë Modiga\)](https://open.spotify.com/track/3CPcUIvlezozJDzmolebuT) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C), [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [Rah](https://open.spotify.com/album/4mycV2gcEOnp7q3LWYTMrw) | 8:55 | 2023-03-23 | 2023-04-01 |
 | [Raja Kirik \(Dog King\)](https://open.spotify.com/track/31F5fC1a6AGmzh7bZj7QwS) | [Yennu Ariendra](https://open.spotify.com/artist/4k01UHAnX9skbKaqYpD2nt), [J Mo'ong Santoso Pribadi](https://open.spotify.com/artist/3gjuapOhwP1QHYvIu3Xzjz) | [Raja Kirik](https://open.spotify.com/album/0fzYY8CqqgwFeeOm823Gfu) | 8:09 | 2020-10-20 | 2022-11-04 |
@@ -193,7 +194,7 @@
 | [WET](https://open.spotify.com/track/4JncjhRUDvh84eO25bopKp) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WET](https://open.spotify.com/album/5UUIPBAzbPaM9J05cLZiaw) | 2:49 | 2020-10-20 | 2023-01-03 |
 | [What They Call Us](https://open.spotify.com/track/4r7bIvlgghaidRNJghhs3o) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [What They Call Us](https://open.spotify.com/album/67rERGR5WbUsR5baHR8wIR) | 4:27 | 2022-10-10 | 2023-03-14 |
 | [What They Call Us](https://open.spotify.com/track/71ydsZmj3wLbdMkA6FPZIy) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 4:27 | 2022-10-10 |  |
-| [Who Gives a Thought](https://open.spotify.com/track/0IqZcNlUn3LALc6zwo1wxV) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 3:59 | 2023-04-15 |  |
+| [Who Gives a Thought](https://open.spotify.com/track/0IqZcNlUn3LALc6zwo1wxV) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 3:59 | 2023-04-15 | 2023-09-23 |
 | [Win Some](https://open.spotify.com/track/0U1e0nOw2WlQ6l2sTgfxJS) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 5:12 | 2022-09-21 | 2022-11-04 |
 | [You Do It](https://open.spotify.com/track/2kOugVC6skG1JO43K2EnNv) | [Marlene Ribeiro](https://open.spotify.com/artist/68xgZvZAZc8Iqz9kZUDEDc) | [You Do It](https://open.spotify.com/album/6zNAaDDagFo0xL1BhJFTMZ) | 7:21 | 2023-02-16 | 2023-03-25 |
 | [Zone 1 to 6000](https://open.spotify.com/track/4dKYEhGEEpTZFOXBAhDOcA) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Weighing of the Heart](https://open.spotify.com/album/1wv2yreeNsyBNnvlhOhvjO) | 3:25 | 2023-03-30 |  |

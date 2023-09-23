@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EwG4p1ArpU.md) - [plain]
 
 > ネット発の新たな才能として注目を集めるシンガーソングライター、Eveの楽曲を1つのプレイリストに。Essential tracks from Japanese singer\-songwriter, Eve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,769 likes - 61 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,879 likes - 61 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EwG4p1ArpU.md) - [plain]
 | 60 | [Yoino Myojo](https://open.spotify.com/track/3tFq9arkcubkFhDswd43nw) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 4:16 |
 | 61 | [Mellow](https://open.spotify.com/track/3w5kFSmtOVC5XAifIwR9Xz) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Smile](https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx) | 4:46 |
 
-Snapshot ID: `MCw2M2ZhMWVmMWIwYmQxYWI1ODY2MzFkZmI4NGQ2NWZjZWYxMWM1ZWM0`
+Snapshot ID: `MCxjOTMxMTRlNWQxYTU0MjMxZTljOWJkN2Y4NzFmZmYwMmRkYzQ5YmI2`

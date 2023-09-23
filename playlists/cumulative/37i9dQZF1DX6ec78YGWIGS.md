@@ -2,15 +2,16 @@
 
 ### [POP FLOW](https://open.spotify.com/playlist/37i9dQZF1DX6ec78YGWIGS)
 
-> Lo nuevo y lo más escuchado del pop\. Feat\. Emilia
+> Lo nuevo y lo más escuchado del pop\. Feat\. FMK
 
-170 songs - 8 hr 36 min
+172 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+ SINCERO](https://open.spotify.com/track/2wRoKIerlhzPSbeIVvSB2J) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h), [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C) | [+ SINCERO](https://open.spotify.com/album/6zWsMwn5J8zyA5P72LaUpZ) | 2:17 | 2023-05-12 | 2023-07-29 |
 | [1Amor](https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:32 | 2023-09-01 |  |
 | [2:50 Remix](https://open.spotify.com/track/74znaWw1hmQBusGPSOuTFy) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [2:50 Remix](https://open.spotify.com/album/0hbwAcjGBGP2gutKpQHA8d) | 3:51 | 2023-05-12 |  |
+| [5 Pal Peso](https://open.spotify.com/track/2O1lgvslX1y8KNuzBoOoSN) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [5 Pal Peso](https://open.spotify.com/album/0PTStF1KBPfNYFHSahtHDf) | 2:52 | 2023-09-22 |  |
 | [69](https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [69](https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2) | 3:41 | 2023-05-19 | 2023-09-01 |
 | [A Mi Lado](https://open.spotify.com/track/5Qw9OHZdAX40qw5hZCU0BS) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [A Mi Lado](https://open.spotify.com/album/05l6EnHyQrjPhCP24EzjKi) | 3:17 | 2023-05-12 |  |
 | [ADIÓS](https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:40 | 2023-05-12 |  |
@@ -95,6 +96,7 @@
 | [LORO](https://open.spotify.com/track/55UW6NYVtbjUgX4vwEV3GQ) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [LORO](https://open.spotify.com/album/1HXRxYf1zHa5WZu70DXYCo) | 2:36 | 2023-07-28 |  |
 | [Los del Espacio](https://open.spotify.com/track/1Hs1uUl8o2VtDp1DABFq0O) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Los del Espacio](https://open.spotify.com/album/6DVg3IJPFr7JZDDXYcyPbU) | 5:38 | 2023-06-02 |  |
 | [Los Locos](https://open.spotify.com/track/2UJM7omxwzXtAeOnHp2OBX) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [Los Locos](https://open.spotify.com/album/1LZvwBNycdy9Mc3C4uMBI5) | 3:57 | 2023-05-12 | 2023-05-27 |
+| [LuXxX](https://open.spotify.com/track/1tgWvt78QUQrghdsbiteyZ) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [LuXxX](https://open.spotify.com/album/3GmPKpcpxysC0XQ9AJFeky) | 3:21 | 2023-09-22 |  |
 | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX) | 3:37 | 2023-08-28 |  |
 | [Maldita Foto](https://open.spotify.com/track/4WkEH0PgystZUaN6QU6Z0B) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Maldita Foto](https://open.spotify.com/album/3Ka78dJC3Xm7UjN7IhCXG6) | 3:10 | 2023-05-12 | 2023-08-04 |
 | [Mami no llores](https://open.spotify.com/track/2KKIJwDbT4tbF9RdMg2aHC) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Del Infierno Al Cielo](https://open.spotify.com/album/30kEwSfr0p2jC2QCreyC9I) | 3:22 | 2023-06-30 | 2023-07-22 |

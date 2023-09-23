@@ -1,12 +1,12 @@
 {
   "description": "Get your gaming session going with this epic rap mix.",
-  "num_followers": 2088572,
+  "num_followers": 2088883,
   "original_name": "Power Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODQzMmZkN2RkNWVkNTRhZTFhNjMzMWM1Nzc0YzU1ZmJmOGJkOGQ1",
+  "snapshot_id": "MCxlZjQ1MzZlZDVkNzBmOTdiNmU3MjU4MTMzNWJhMGI2NDkzZDk1OGU5",
   "tracks": [
     {
       "added_at": "2022-11-02 01:50:57",
@@ -731,26 +731,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 180434,
-      "name": "Ballin' (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Championships",
         "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 180522,
       "name": "Going Bad (feat. Drake)",
       "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 180434,
+      "name": "Ballin' (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1523,22 +1523,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Simi",
-        "url": "https://open.spotify.com/album/6NrsgXTJ3x2RRR8b0v2M7S"
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
       "artists": [
         {
-          "name": "BlocBoy JB",
-          "url": "https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 181414,
-      "name": "Look Alive (feat. Drake)",
-      "url": "https://open.spotify.com/track/6HJ34Zyw6bg8yGm28AxLXf"
+      "duration_ms": 301064,
+      "name": "G.O.M.D",
+      "url": "https://open.spotify.com/track/0Thqjtu54vKMP06pwZkAWp"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1559,18 +1555,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+        "name": "Simi",
+        "url": "https://open.spotify.com/album/6NrsgXTJ3x2RRR8b0v2M7S"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "BlocBoy JB",
+          "url": "https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 301064,
-      "name": "G.O.M.D",
-      "url": "https://open.spotify.com/track/0Thqjtu54vKMP06pwZkAWp"
+      "duration_ms": 181414,
+      "name": "Look Alive (feat. Drake)",
+      "url": "https://open.spotify.com/track/6HJ34Zyw6bg8yGm28AxLXf"
     },
     {
       "added_at": "2022-10-28 04:00:00",

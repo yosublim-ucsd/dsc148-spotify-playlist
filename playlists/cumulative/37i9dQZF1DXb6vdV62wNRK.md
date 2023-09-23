@@ -4,7 +4,7 @@
 
 > Siento que arranco la carretera...
 
-131 songs - 6 hr 39 min
+132 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Compré Una Cantina](https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:39 | 2023-06-19 |  |
 | [Corrido de Barrera](https://open.spotify.com/track/2aXnirGEQmipzDLcLdfNnw) | [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [Pa' los Amigos](https://open.spotify.com/album/0gxsCb9Pc923Oe0ADf3Aw9) | 2:57 | 2023-06-19 |  |
 | [Creo Estar Soñando](https://open.spotify.com/track/6LOJGtfyJW14lMEj06qxQZ) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Mis 20 Exitos Originales](https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL) | 2:43 | 2023-06-19 |  |
-| [Cuando Los Hombres Lloran](https://open.spotify.com/track/0tAq9Pn5C9F6iTsAqvtj4s) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Las Bandas Más Matonas](https://open.spotify.com/album/14FxLzVmnS8EvGjyrkJZ7W) | 2:16 | 2023-06-19 |  |
+| [Cuando Los Hombres Lloran](https://open.spotify.com/track/0tAq9Pn5C9F6iTsAqvtj4s) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Las Bandas Más Matonas](https://open.spotify.com/album/14FxLzVmnS8EvGjyrkJZ7W) | 2:16 | 2023-06-19 | 2023-09-23 |
 | [Cuervo Sierra](https://open.spotify.com/track/4egR3W3kn5hcihVttAHtGL) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51) | [Cuervo Sierra](https://open.spotify.com/album/5WjbMzzti4lF2YwoEquLrj) | 2:55 | 2023-06-19 |  |
 | [Culiacán Vs\. Mazatlán](https://open.spotify.com/track/6TlCQBVenVdJWJknrVeCYr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:49 | 2023-06-19 |  |
 | [Del Negociante](https://open.spotify.com/track/7kDBoiWN02IUeXqeXHfEKL) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I) | [Los Amos del Terror](https://open.spotify.com/album/4mMSrnCY36DJpb92fbEGpq) | 3:07 | 2023-06-19 |  |
@@ -49,6 +49,7 @@
 | [El Hombre Del Equipo](https://open.spotify.com/track/0M6ubxqeWNNB6RgeobpaV2) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [Blanco y Negro Vol\. 1](https://open.spotify.com/album/6LK6fOmrYEovTCldkjLR6x) | 3:43 | 2023-06-19 |  |
 | [El Indio Enamorado](https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Indio Enamorado](https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt) | 3:08 | 2023-06-19 |  |
 | [El Jardinero](https://open.spotify.com/track/6Ije7DlkQW6yWLMSmxxTdW) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [Las Retro Chingonas](https://open.spotify.com/album/3TZ7PH4cKHVQDvLxSzB7A8) | 3:07 | 2023-06-19 | 2023-09-15 |
+| [El Jardinero](https://open.spotify.com/track/15p94RmWiXBXQidL2kX7F2) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [El Jardinero](https://open.spotify.com/album/0vb2KGJa1hHJVli2xq5lSL) | 3:13 | 2023-06-19 |  |
 | [El Nano \- Versión Estudio](https://open.spotify.com/track/5yhExZfb6gk2drPnJKBluu) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [En El Camino](https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M) | 3:18 | 2023-06-19 |  |
 | [El Numero Uno](https://open.spotify.com/track/517C3ko96edIA8XMh5nE3R) | [Los Incomparables De Tijuana](https://open.spotify.com/artist/1JrKcJc1BbSApAFYNJ4JAN) | [Los Corridos Del Millon](https://open.spotify.com/album/3Z8tyBwTyt3lp50bnqWy4e) | 3:56 | 2023-06-19 |  |
 | [El Palomito](https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 3:18 | 2023-06-19 |  |

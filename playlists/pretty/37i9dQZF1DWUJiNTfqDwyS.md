@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,364 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,260 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 |
-| 2 | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Smells Like Children](https://open.spotify.com/album/6nCgYzfYRa3SPmL0AW8is1) | 4:53 |
-| 3 | [Zombie](https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Disobey](https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe) | 4:14 |
+| 2 | [Zombie](https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Disobey](https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe) | 4:14 |
+| 3 | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Smells Like Children](https://open.spotify.com/album/6nCgYzfYRa3SPmL0AW8is1) | 4:53 |
 | 4 | [Word Up!](https://open.spotify.com/track/1pHPpLVH2XEN0xYRoQs4wq) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Word Up! \(The Remixes\)](https://open.spotify.com/album/1L9iPuSu8FZFaFzzqHQarF) | 2:52 |
 | 5 | [Everytime We Touch \- TEKKNO Version](https://open.spotify.com/track/1RQ50jZIxLYHd09bGo5jWk) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Everytime We Touch \(TEKKNO Version\)](https://open.spotify.com/album/68b4arc5OggOpXBCMTUdZc) | 3:17 |
 | 6 | [Faith](https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 2:26 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 39 | [When Doves Cry \- Radio Edit](https://open.spotify.com/track/6I0tw70v94hTCPjg1iZjrX) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Ruthless](https://open.spotify.com/album/5cfpgi0vLEmw2w5BZwSdtt) | 3:52 |
 | 40 | [Cinnamon Girl](https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 4:08 |
 | 41 | [Wicked Game](https://open.spotify.com/track/0evX82L72YwaZIEKw5fEQT) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Greatest Lovesongs Vol\. 666](https://open.spotify.com/album/6meTP5bnTECxbCBv8hzD7c) | 3:54 |
-| 42 | [Shout 2000](https://open.spotify.com/track/3iTGqLgYo57UjTHAieDOlA) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness](https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY) | 4:18 |
-| 43 | [Beat It](https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Beat It](https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL) | 3:30 |
+| 42 | [Beat It](https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Beat It](https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL) | 3:30 |
+| 43 | [Shout 2000](https://open.spotify.com/track/3iTGqLgYo57UjTHAieDOlA) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness](https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY) | 4:18 |
 | 44 | [Personal Jesus](https://open.spotify.com/track/4gZYw4chUdkjumdu0ODJ9t) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Personal Jesus](https://open.spotify.com/album/3YvC5RaRG42fAd6VGqWR0R) | 4:06 |
 | 45 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 |
 | 46 | [Diamonds](https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Diamonds](https://open.spotify.com/album/5NWxOLcBy2QEaNnTUgpIzy) | 4:06 |
 | 47 | [Cars \- Remix](https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 3:38 |
-| 48 | [Toxic](https://open.spotify.com/track/34ccBqL3xNaCzPxr0UqoEw) | [A Static Lullaby](https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb) | [Rattlesnake!](https://open.spotify.com/album/2V2ZDvSY1DCgoTDWz9SIsu) | 3:20 |
-| 49 | [Rebel Yell](https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Rebels](https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF) | 4:38 |
+| 48 | [Rebel Yell](https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Rebels](https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF) | 4:38 |
+| 49 | [Toxic](https://open.spotify.com/track/34ccBqL3xNaCzPxr0UqoEw) | [A Static Lullaby](https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb) | [Rattlesnake!](https://open.spotify.com/album/2V2ZDvSY1DCgoTDWz9SIsu) | 3:20 |
 | 50 | [Lay All Your Love on Me](https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [Looking for You](https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9) | 3:53 |
 
-Snapshot ID: `MCxiYmFlMTVjOGE3ODNlY2MzZTQyYjRkMTY0MjU1ZjllOWY4ZjA5OGIx`
+Snapshot ID: `MCxlMzQ4YTg3N2JlYTA5MmYwNzRiMzJkYTFhYjc5YzhmZTY4YzY0NTE0`

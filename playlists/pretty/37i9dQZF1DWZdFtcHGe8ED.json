@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 520693,
+  "num_followers": 520839,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjYyYjk2ODE4NzJhZmNjMDJmYzk2M2U5ZDYzZDlhYjI3OTdjMTY3",
+  "snapshot_id": "MCwwMTYwMDMxOTNhMjI2MTFlNGE2NTcyMmJmMDY0Y2E3Y2FlN2MxNzcx",
   "tracks": [
     {
       "added_at": "2023-06-27 13:33:22",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Enter The Grave",
-        "url": "https://open.spotify.com/album/3G3vlh9dfQMTcgcDhNkgut"
-      },
-      "artists": [
-        {
-          "name": "Evile",
-          "url": "https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Thrasher",
-      "url": "https://open.spotify.com/track/3ghhd7sdIcWrWL4yeYc81Q"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "The Years of Decay",
         "url": "https://open.spotify.com/album/5cIvu6047CsrlgRcdwd2HQ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 275386,
       "name": "Elimination",
       "url": "https://open.spotify.com/track/6lWFQo5NuR3y8Q6CHIRatA"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "Enter The Grave",
+        "url": "https://open.spotify.com/album/3G3vlh9dfQMTcgcDhNkgut"
+      },
+      "artists": [
+        {
+          "name": "Evile",
+          "url": "https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "Thrasher",
+      "url": "https://open.spotify.com/track/3ghhd7sdIcWrWL4yeYc81Q"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Pleasure to Kill",
-        "url": "https://open.spotify.com/album/5RP8ddfJnPDYvUjCbBS2Rc"
-      },
-      "artists": [
-        {
-          "name": "Kreator",
-          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
-        }
-      ],
-      "duration_ms": 248766,
-      "name": "Pleasure to Kill",
-      "url": "https://open.spotify.com/track/5PFhkQbjJge1h8k7wE1K5U"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "Mourn the Southern Skies",
         "url": "https://open.spotify.com/album/6Zv7TZNO5LrJH9dRUjouom"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 233145,
       "name": "My Time",
       "url": "https://open.spotify.com/track/7455R3ZkleZUXIl4qUrsEu"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "Pleasure to Kill",
+        "url": "https://open.spotify.com/album/5RP8ddfJnPDYvUjCbBS2Rc"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "duration_ms": 248766,
+      "name": "Pleasure to Kill",
+      "url": "https://open.spotify.com/track/5PFhkQbjJge1h8k7wE1K5U"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Ignorance & Surf Nicaragua",
-        "url": "https://open.spotify.com/album/6oIYHgssDkhfR0RgUoOyX0"
-      },
-      "artists": [
-        {
-          "name": "Sacred Reich",
-          "url": "https://open.spotify.com/artist/0UeVJTdCWGEFSSO9Tg9tiH"
-        }
-      ],
-      "duration_ms": 280400,
-      "name": "Surf Nicaragua",
-      "url": "https://open.spotify.com/track/0cjd7hXm53E1xAJsIYcSJN"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "Alice In Hell",
         "url": "https://open.spotify.com/album/5oKZacGOXxb7A2OwXgh9UY"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 236226,
       "name": "W.T.Y.D.",
       "url": "https://open.spotify.com/track/4puBhL71XaixTPxpK02yog"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "Ignorance & Surf Nicaragua",
+        "url": "https://open.spotify.com/album/6oIYHgssDkhfR0RgUoOyX0"
+      },
+      "artists": [
+        {
+          "name": "Sacred Reich",
+          "url": "https://open.spotify.com/artist/0UeVJTdCWGEFSSO9Tg9tiH"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "Surf Nicaragua",
+      "url": "https://open.spotify.com/track/0cjd7hXm53E1xAJsIYcSJN"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "The Wings of War",
-        "url": "https://open.spotify.com/album/2IUZN5c0AVdrnQKfxdMaPK"
-      },
-      "artists": [
-        {
-          "name": "Overkill",
-          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
-        }
-      ],
-      "duration_ms": 349386,
-      "name": "Last Man Standing",
-      "url": "https://open.spotify.com/track/01zm9AlUjboMitrlL3oVAz"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "Slaughter In The Vatican",
         "url": "https://open.spotify.com/album/5YnKblRYZeLlm90M9xAIvT"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 368840,
       "name": "Desecrator",
       "url": "https://open.spotify.com/track/3Lao9WQ5YkN6P9YKE0ppVX"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "The Wings of War",
+        "url": "https://open.spotify.com/album/2IUZN5c0AVdrnQKfxdMaPK"
+      },
+      "artists": [
+        {
+          "name": "Overkill",
+          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+        }
+      ],
+      "duration_ms": 349386,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/01zm9AlUjboMitrlL3oVAz"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Taking Over",
-        "url": "https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N"
-      },
-      "artists": [
-        {
-          "name": "Overkill",
-          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
-        }
-      ],
-      "duration_ms": 272333,
-      "name": "Wrecking Crew",
-      "url": "https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "State of Insurgency",
         "url": "https://open.spotify.com/album/72l4WhRIOstE9jzWVzpQDY"
       },
@@ -1727,6 +1711,22 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
+        "name": "Taking Over",
+        "url": "https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N"
+      },
+      "artists": [
+        {
+          "name": "Overkill",
+          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+        }
+      ],
+      "duration_ms": 272333,
+      "name": "Wrecking Crew",
+      "url": "https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
         "name": "Do-Over",
         "url": "https://open.spotify.com/album/1zndMZYyzhEbEVe4I9fB4D"
       },
@@ -1739,22 +1739,6 @@
       "duration_ms": 189280,
       "name": "Black Metal Sucks",
       "url": "https://open.spotify.com/track/62f5Wr85zS0rEhnh7Ege1Z"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/0isrNd8l4UqHhtPDhCKsId"
-      },
-      "artists": [
-        {
-          "name": "Nuclear Assault",
-          "url": "https://open.spotify.com/artist/2iu7W76DMacXn6hzAqmJJU"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "Sin",
-      "url": "https://open.spotify.com/track/4bFwNDLo9IeqHQ0iqFEaUA"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1787,6 +1771,22 @@
       "duration_ms": 234578,
       "name": "Blood On Our Hands",
       "url": "https://open.spotify.com/track/7y2XV9uAnhqMAUAYhHklRP"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/0isrNd8l4UqHhtPDhCKsId"
+      },
+      "artists": [
+        {
+          "name": "Nuclear Assault",
+          "url": "https://open.spotify.com/artist/2iu7W76DMacXn6hzAqmJJU"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "Sin",
+      "url": "https://open.spotify.com/track/4bFwNDLo9IeqHQ0iqFEaUA"
     },
     {
       "added_at": "2023-06-27 13:33:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Katnuf
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,991 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,010 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 8 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 |
 | 9 | [100 Doezoe Cash](https://open.spotify.com/track/0g45SM1MltjtFstJl35m0R) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Fatah](https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [100 Doezoe Cash](https://open.spotify.com/album/3jPB66A5yQ1zi6gwwnRlrb) | 3:14 |
 | 10 | [Bittersweet Goodbye](https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Bittersweet Goodbye](https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh) | 2:46 |
-| 11 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 |
+| 11 | [Paint The Town Red](https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:50 |
 | 12 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
 | 13 | [Lights Out \- Official song Formula 1 Heineken Dutch Grand Prix](https://open.spotify.com/track/6myxuB1q6TNsQS2vqNlbZh) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Lights Out \(Official song Formula 1 Heineken Dutch Grand Prix\)](https://open.spotify.com/album/7mIgjFSb0eTlimS6qIjNn5) | 3:10 |
 | 14 | [Only Lover](https://open.spotify.com/track/2rFfVt1pS7hmew01Q2uL2b) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Only Lover](https://open.spotify.com/album/2PrWENAZz992vvC92B129d) | 3:03 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 |
 | 40 | [Stout, Bad & Vies](https://open.spotify.com/track/15jJDcp0hJnpuYQz0eTf5l) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Stout, Bad & Vies](https://open.spotify.com/album/3txKVfxJiw2TQ84HvZHoFD) | 2:25 |
 
-Snapshot ID: `MCwyMzY3NjQwNDA0YzQ4NjVjNzYwZGVlZjdkM2Y0NDNkYTk0NTVlYjBl`
+Snapshot ID: `MCw0ZmIxMDNhODliMjQxNmIwYTM5MjI4MThiNDAzNWJiNmFkYmE4Yzlj`

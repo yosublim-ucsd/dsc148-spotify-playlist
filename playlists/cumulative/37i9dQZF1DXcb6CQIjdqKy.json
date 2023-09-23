@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU?si=vjXk5XQDTTGErlVVdcwkrQ\">Cory Asbury</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"spotify:artist:7yZC6AEhvCD5NFR8yDUxCG\">Riley Clemmons</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -136,6 +136,28 @@
       "duration_ms": 302102,
       "name": "Able",
       "url": "https://open.spotify.com/track/736A53Kw337Z5zrJhH24jP"
+    },
+    {
+      "album": {
+        "name": "Acts 2",
+        "url": "https://open.spotify.com/album/1dMORalDL5wqJ4xEIN61U1"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375735,
+      "name": "Acts 2",
+      "url": "https://open.spotify.com/track/2SMCSikXj3CYsghcaUVscv"
     },
     {
       "album": {
@@ -1059,6 +1081,28 @@
     },
     {
       "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0nvkheyJnQtb60m9bFjgkQ"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348866,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/7AR9lcmp2YH1eYhpSHB2Pz"
+    },
+    {
+      "album": {
         "name": "I Go To The Rock: The Gospel Music Of Whitney Houston",
         "url": "https://open.spotify.com/album/7lKMNq3VtZKyDsLMlJP3qn"
       },
@@ -1324,7 +1368,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 239296,
       "name": "Church Pew",
       "url": "https://open.spotify.com/track/0Z1ZBLSFEu16lc2JPbiWlw"
@@ -1637,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/5O1tpz2vdJXhGnFIwSzU9Z"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172027,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/33ztFxjys2xXQZBn0upbeE"
+    },
+    {
+      "album": {
         "name": "Are We There Yet?",
         "url": "https://open.spotify.com/album/4in3Sv8dAflANuxJnt8Qo0"
       },
@@ -1776,6 +1838,24 @@
       "duration_ms": 146000,
       "name": "Destroy Myself Just For You",
       "url": "https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB"
+    },
+    {
+      "album": {
+        "name": "Buz\u00f3n de Voz",
+        "url": "https://open.spotify.com/album/5RyQDplYD8TDxYJPP6oVOl"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210522,
+      "name": "Detras De Mi",
+      "url": "https://open.spotify.com/track/1h4vdbJlwTksTjcY55KpVf"
     },
     {
       "album": {
@@ -2470,7 +2550,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 251185,
       "name": "First Things First",
       "url": "https://open.spotify.com/track/3lcBpmaV7zkDtFzjzOB6GJ"
@@ -2744,6 +2824,28 @@
       "duration_ms": 219444,
       "name": "Getting Started - Radio Version",
       "url": "https://open.spotify.com/track/3KwzdWIyI2KuXSe2eh98KU"
+    },
+    {
+      "album": {
+        "name": "Give Me You",
+        "url": "https://open.spotify.com/album/7h5Mx3kdhRqbIqHJdYQzGb"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        },
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281509,
+      "name": "Give Me You",
+      "url": "https://open.spotify.com/track/77IonObfdmAlX3XZpZ4QT8"
     },
     {
       "album": {
@@ -4065,6 +4167,24 @@
     },
     {
       "album": {
+        "name": "Holy Hands",
+        "url": "https://open.spotify.com/album/6BIfrz3Im2b1U1DgDPfI1x"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204437,
+      "name": "Holy Hands",
+      "url": "https://open.spotify.com/track/0fBm16QCdtqEvrcT3b9H7E"
+    },
+    {
+      "album": {
         "name": "Tent Revival",
         "url": "https://open.spotify.com/album/70Y7WtUW8IbijDbI8thpCw"
       },
@@ -5279,6 +5399,24 @@
     },
     {
       "album": {
+        "name": "Church Pew",
+        "url": "https://open.spotify.com/album/28nagL70UdAzAs1ZgNOGnN"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203583,
+      "name": "Jesus Cries",
+      "url": "https://open.spotify.com/track/4euQFpAjLThkzv4S9Td2Ud"
+    },
+    {
+      "album": {
         "name": "We The Kingdom",
         "url": "https://open.spotify.com/album/0gkEJZHlqciximZV1b9Drp"
       },
@@ -5312,6 +5450,24 @@
       "duration_ms": 229240,
       "name": "Jesus Does - Single Version",
       "url": "https://open.spotify.com/track/7snUdAPX9DTr7HYU39rs1g"
+    },
+    {
+      "album": {
+        "name": "Jesus Is",
+        "url": "https://open.spotify.com/album/6eKcDzviRHeDhUTnI3jCUC"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183589,
+      "name": "Jesus Is",
+      "url": "https://open.spotify.com/track/2vuIs8YqeRgOOcguBucO1e"
     },
     {
       "album": {
@@ -5934,7 +6090,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 272975,
       "name": "Lead Us Again",
       "url": "https://open.spotify.com/track/0seNJfhpswD4tezTwdDihi"
@@ -6520,7 +6676,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 192196,
       "name": "Make It Through",
       "url": "https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA"
@@ -6952,6 +7108,24 @@
       "duration_ms": 556673,
       "name": "More Than Able (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV"
+    },
+    {
+      "album": {
+        "name": "First Things First",
+        "url": "https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj"
+      },
+      "artists": [
+        {
+          "name": "Consumed By Fire",
+          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149515,
+      "name": "MORE!",
+      "url": "https://open.spotify.com/track/66wPG22qStRk2Hl5h0905j"
     },
     {
       "album": {
@@ -10136,7 +10310,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 205363,
       "name": "Thank You, Lord",
       "url": "https://open.spotify.com/track/3s0tfDSB5pfsf36Fbu6LDh"
@@ -11312,7 +11486,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 252306,
       "name": "We Will Stand",
       "url": "https://open.spotify.com/track/0Hdpqso5qi1PyShUxluscB"

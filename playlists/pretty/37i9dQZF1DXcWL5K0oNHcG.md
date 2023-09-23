@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Mohini Dey Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,453 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,525 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Storm Rider](https://open.spotify.com/track/4NgYhrMBeuotD2GWDDAbzJ) | [Garot Michael Conklin](https://open.spotify.com/artist/64xZeZKFTNLDsueTpb6aFz) | [Storm Rider](https://open.spotify.com/album/1mMY83rM7RacclVYrddrNo) | 3:02 |
 | 75 | [Into the Mirrorball](https://open.spotify.com/track/79SgeJr7ZywlEiPqRbpSOW) | [FIQTIV](https://open.spotify.com/artist/4HKdNpQFevxrH3BqPQcgEt) | [Into the Mirrorball](https://open.spotify.com/album/1djecGAzkm9IkIZSfc21Ne) | 3:02 |
 
-Snapshot ID: `MCw3NjcyNmI2YjFhOWJjZDY0MWM0MDdhY2M3NzlmMDIzZTc0N2VhMTFl`
+Snapshot ID: `MCw4OTk5N2Y0ZTViNWIwY2U4MmRjMDIzMzUzYWFmOWNhMTZjODg2OTAw`

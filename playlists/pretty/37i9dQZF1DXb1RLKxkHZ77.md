@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Masdo, Aisyah Aziz
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,224 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,317 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Semua Aku Dirayakan](https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Semua Aku Dirayakan](https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ) | 5:10 |
 | 50 | [Gerimis Mengundang](https://open.spotify.com/track/3D9N3k4civFOuEsXXoUlq6) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [Gerimis Mengundang](https://open.spotify.com/album/6daxVY9Z9PULei728X9xVG) | 3:57 |
 
-Snapshot ID: `MCw3ODdlODlhYWI2YTI3NzFmYWZiYWMwNTMxMWJjYzg2YzY2MmE2ODky`
+Snapshot ID: `MCxjMWEzOGY5MzVhNTAwYTJiMTJkZjZlNjFkOGY2MzJlNzU2ZjIyMmFk`

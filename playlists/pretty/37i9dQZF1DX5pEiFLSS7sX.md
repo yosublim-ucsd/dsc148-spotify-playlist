@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,096 likes - 100 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,242 likes - 100 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 8 | [Endless Alleluia](https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:25 |
 | 9 | [Spirit Break Out \- Live](https://open.spotify.com/track/573mudwDhftRSSbvLHC8xS) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Still Believe \(Live\)](https://open.spotify.com/album/5SjDZwjks6vfJxdXbGnLal) | 6:22 |
 | 10 | [Holy Spirit \- Live](https://open.spotify.com/track/5Xjcst6Rle74VteHx0zczO) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Live From New York](https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP) | 8:09 |
-| 11 | [I Am Loved](https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [I Am Loved](https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem) | 7:12 |
-| 12 | [Lean Back \(Live\)](https://open.spotify.com/track/76AQAwj7BbMVIMRnHKkLuz) | [Capital City Music](https://open.spotify.com/artist/1LpieXNHBu8d1hEAmr4rvH) | [Kingdom Come \(Live\)](https://open.spotify.com/album/00k6ygAQhIav9FwyGX8oqJ) | 6:53 |
+| 11 | [Lean Back \(Live\)](https://open.spotify.com/track/76AQAwj7BbMVIMRnHKkLuz) | [Capital City Music](https://open.spotify.com/artist/1LpieXNHBu8d1hEAmr4rvH) | [Kingdom Come \(Live\)](https://open.spotify.com/album/00k6ygAQhIav9FwyGX8oqJ) | 6:53 |
+| 12 | [I Am Loved](https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [I Am Loved](https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem) | 7:12 |
 | 13 | [Breakthrough \- Live](https://open.spotify.com/track/2jU1OyF5MLOZzJp2FJVw83) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [spark\. \(Live\)](https://open.spotify.com/album/6ZncuYONBIPR4ZJjtXBehy) | 9:27 |
 | 14 | [Remember](https://open.spotify.com/track/5qA5acnPNB7v1vdZdbA0lA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:58 |
 | 15 | [Here as in Heaven](https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 8:19 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 45 | [Surrounded \(Fight My Battles\) \- Live](https://open.spotify.com/track/3RvSbCWVuW24rqpNYb8KEf) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [Moments \(Live\)](https://open.spotify.com/album/1WjKktf3q0AeA9My9MRPtp) | 5:49 |
 | 46 | [No Fear in Love](https://open.spotify.com/track/1L7hLhmNgsQ9eMc5C5ej6l) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [The Undoing](https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA) | 3:14 |
 | 47 | [Miracle](https://open.spotify.com/track/54rJa67IrktOcXKYw7wGTR) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Miracle](https://open.spotify.com/album/2xcM934KYzqGv2gQTtm5CH) | 4:56 |
-| 48 | [The Way \(New Horizon\)](https://open.spotify.com/track/5KrewqDNRC9lNe3Aj9ameN) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [We Say Yes](https://open.spotify.com/album/7FzR2gm8o75sFpdfuLT9Wg) | 7:05 |
-| 49 | [You Satisfy \(feat\. Elyssa Smith\)](https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F) | [Upper Room Music](https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf), [Elyssa Smith](https://open.spotify.com/artist/2enLZAXaXEpQXjaGguhA8f) | [Center of Your Love](https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL) | 4:56 |
+| 48 | [You Satisfy \(feat\. Elyssa Smith\)](https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F) | [Upper Room Music](https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf), [Elyssa Smith](https://open.spotify.com/artist/2enLZAXaXEpQXjaGguhA8f) | [Center of Your Love](https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL) | 4:56 |
+| 49 | [The Way \(New Horizon\)](https://open.spotify.com/track/5KrewqDNRC9lNe3Aj9ameN) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [We Say Yes](https://open.spotify.com/album/7FzR2gm8o75sFpdfuLT9Wg) | 7:05 |
 | 50 | [Love Changes Everything \(Live\)](https://open.spotify.com/track/05OrXppgIcMhLaiNthwiMk) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Here \(Live\)](https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8) | 5:58 |
 | 51 | [Isn't He \(This Jesus\)](https://open.spotify.com/track/3ehg0c0FEpEA2lxc8R4j6N) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Isn't He \(This Jesus\)](https://open.spotify.com/album/6RjmjrxlN18E8vR04zwfMu) | 9:50 |
 | 52 | [Behold \(Then Sings My Soul\) \- Live](https://open.spotify.com/track/1ploWGMJ1grQQrKcV2zwqb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [Let There Be Light \(Deluxe\)](https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja) | 6:46 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 75 | [Mention Of Your Name](https://open.spotify.com/track/1uXkEGf3fmK2OkdoDvJdH0) | [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Mention Of Your Name](https://open.spotify.com/album/1jAhwQDRVeCX1f80Woc8ST) | 5:26 |
 | 76 | [None But Jesus \- Live](https://open.spotify.com/track/5tgywPECreoxcE2m2DiPQm) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [United We Stand \(Live\)](https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f) | 5:29 |
 | 77 | [You Won't Let Go](https://open.spotify.com/track/5QcsUp7WqZqH4gpXPOpIoP) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 3:34 |
-| 78 | [Rain Your Glory Down \- Live](https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Rain](https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8) | 9:07 |
-| 79 | [You Deserve It All](https://open.spotify.com/track/2e5gy7g1ZNm1VgIds9PC0E) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 6:02 |
+| 78 | [You Deserve It All](https://open.spotify.com/track/2e5gy7g1ZNm1VgIds9PC0E) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 6:02 |
+| 79 | [Rain Your Glory Down \- Live](https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Rain](https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8) | 9:07 |
 | 80 | [Find Me](https://open.spotify.com/track/5JN3NqUutLCUf1zN5cEMLF) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp) | [Beautiful Surrender](https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd) | 4:25 |
 | 81 | [Never Going Back \(Live\) \[feat\. Brock Human\]](https://open.spotify.com/track/4DmEUh51ANACrLZOzNHR5C) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Brock Human](https://open.spotify.com/artist/3fKQOMOuRBYdymdO5yTKkp) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 9:03 |
 | 82 | [The Cause Of Christ](https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq) | 4:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 99 | [Sanctuary \- Live](https://open.spotify.com/track/0MHXhxkwnHpMupZQgYy2ZI) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [SEU Worship \(Live\)](https://open.spotify.com/album/0TqKuDcPHP3dtKBJSkQ7hx) | 9:29 |
 | 100 | [Heart Wide Open](https://open.spotify.com/track/4dHyyfxYOffgt29aQlRzLh) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 4:42 |
 
-Snapshot ID: `MCxmNzE2NmEwNDg5ZTgxMWY1ZjA1NGY2ZmEwOWM1YWQxYTkxYTQ1MDc1`
+Snapshot ID: `MCxkYmFjMTk5Yjg5OTdlOGViOWVkYTAyNjI0MzMwNDdhMDQ2Y2JmYzA0`

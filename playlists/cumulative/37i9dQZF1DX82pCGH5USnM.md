@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-736 songs - 1 day 17 hr 57 min
+739 songs - 1 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Asy](https://open.spotify.com/track/0xgQ3LG2JQcvtPivzIaACS) | [Glenneth](https://open.spotify.com/artist/1J1OlnQmAupMJMAlLDgnEa) | [Gaze](https://open.spotify.com/album/0k82yUpUYyvQV11mes5JgX) | 7:53 | 2020-10-27 | 2020-12-24 |
 | [Atamasco](https://open.spotify.com/track/7x0p3Zv2c8sPbWKVMowndy) | [SCÆNDALOUS](https://open.spotify.com/artist/1Vg3IL8IPc6KmKBrfxfFUq) | [Atamasco](https://open.spotify.com/album/1Ii3LKFwRry1gGHgtwAmUd) | 2:46 | 2021-05-06 |  |
 | [Audicity](https://open.spotify.com/track/0AUW5PDxB0OE9oGdgj5AL7) | [Solounge](https://open.spotify.com/artist/3UnDKCtOqVmqsLznc3Zj81) | [Audicity](https://open.spotify.com/album/6FhGljQpeIuQ9anXvvyCFd) | 3:16 | 2022-01-21 | 2023-07-07 |
+| [Aurola](https://open.spotify.com/track/2al0ddWon8jMM4mYf9mucp) | [Miriamy](https://open.spotify.com/artist/4GRc7Ci5nEs8ZEr2dm6cUz) | [Aurola](https://open.spotify.com/album/68JQM6V7BAGvStRUVhNGmy) | 2:20 | 2023-09-22 |  |
 | [Aurora](https://open.spotify.com/track/0CuGRk2X4Ph3kNHfcu5gZC) | [Milkweed](https://open.spotify.com/artist/57C636Jkd8eaZsGzRgWKLE) | [Aurora](https://open.spotify.com/album/2Vxy7rxT21xtORjHwiSSz3) | 2:21 | 2022-12-09 |  |
 | [automatic](https://open.spotify.com/track/2uCElAMajnpOd74my2NCdL) | [JAS Ü RAGY](https://open.spotify.com/artist/7b2TMfZW8CqOmhlCbPD7Y6) | [automatic](https://open.spotify.com/album/44tYba9AEqDHyd779C3XZC) | 2:51 | 2023-01-06 |  |
 | [Autumn Haze](https://open.spotify.com/track/3FnjmbHgL9CTNYPlk1JvKQ) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Deep Breathing](https://open.spotify.com/album/1kXgBAdzlspc1qzyVo74G4) | 3:50 | 2020-10-16 | 2021-04-21 |
@@ -401,6 +402,7 @@
 | [Mercenary](https://open.spotify.com/track/6T1iFdKQKR0UlOfOgscs3d) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Mercenary EP](https://open.spotify.com/album/5hPAFj34PSDDN7ztz0ouKu) | 5:50 | 2021-06-02 | 2021-08-20 |
 | [Mi Amor](https://open.spotify.com/track/3jqBtnZqoecYhGGzf0ZLBO) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Mi Amor](https://open.spotify.com/album/61UED012ycFtrMV5N13AuT) | 3:18 | 2023-02-03 |  |
 | [Midding](https://open.spotify.com/track/2jqPyoAGWAaxfjtHj8DZAb) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Midding](https://open.spotify.com/album/09KIZqC3nwi1nWWrb0Z0eL) | 7:32 | 2020-12-16 | 2020-12-24 |
+| [Midnight Snack](https://open.spotify.com/track/3BgBwSOMicBIfxRZpOewrz) | [Matt Bleu](https://open.spotify.com/artist/6sL4jX2tlj46oaPlC7Nn22) | [Midnight Snack](https://open.spotify.com/album/5fC41QDe37WTx5PpcR1b2K) | 2:06 | 2023-09-22 |  |
 | [Milano](https://open.spotify.com/track/23LxW8Ssmlpn4GjFrnDTFs) | [Ludvig Freso](https://open.spotify.com/artist/6EL8Sngq7vN8aVAjWmLivS) | [Metropolis](https://open.spotify.com/album/1DV8uae8K8K94y3W2RUHMW) | 1:59 | 2020-04-03\* | 2021-08-20 |
 | [Milano](https://open.spotify.com/track/11hZsWshuew6ChfGjFUJaZ) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Milano](https://open.spotify.com/album/5hQ3fkQ5WfNvap7WlAAUsd) | 3:35 | 2022-11-25 |  |
 | [Mio](https://open.spotify.com/track/4tf6Ks5ovtvHuUQg9E8Rkx) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Mio](https://open.spotify.com/album/19gzdJpMUX40CAMQNmyFpp) | 3:29 | 2023-01-06 |  |
@@ -460,6 +462,7 @@
 | [On the Fly](https://open.spotify.com/track/2noqFiLZzV5Z50Eyf5AfC3) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:02 | 2022-05-20 | 2022-06-10 |
 | [One Day](https://open.spotify.com/track/23xtj6sfcsi2pZjmLM0m6L) | [GIM GAM](https://open.spotify.com/artist/6l3713Vu1NzSyc18FhDN8Y) | [One Day](https://open.spotify.com/album/7oXojJOI8sgR1i5y9bRNlx) | 3:02 | 2022-09-02 |  |
 | [One Day Back](https://open.spotify.com/track/3DrTuirQtYns2DOev8VVag) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [One Day Back](https://open.spotify.com/album/0tqrWV0uxSRhDVRS1pf8Tj) | 3:30 | 2022-10-07 |  |
+| [One Day Left](https://open.spotify.com/track/1I1HlSJlLcKbKXMkiucFnr) | [Tales of Terra](https://open.spotify.com/artist/44PWNrMWTLwg7crjJN127B) | [One Day Left](https://open.spotify.com/album/1jB6WV9aFf2YzHBzi7k93O) | 2:13 | 2023-09-22 |  |
 | [One Try](https://open.spotify.com/track/0r2uhuFtiYZzeNncUUzvv7) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [One Try](https://open.spotify.com/album/6lsgyMkymdgSTK43XGqvqI) | 2:31 | 2022-05-10 | 2023-03-15 |
 | [One Try](https://open.spotify.com/track/1cqG2UKTksqEK69bleOoj3) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [One Try](https://open.spotify.com/album/3jGgGZFzyHGsD5855LRhgk) | 2:31 | 2023-03-10 |  |
 | [Opposite](https://open.spotify.com/track/6VLstEbmUW5oCxgahFe0Wf) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moment EP](https://open.spotify.com/album/0lIHGVhcEfhqRTMFCCYbmt) | 4:34 | 2021-09-09 | 2022-04-06 |

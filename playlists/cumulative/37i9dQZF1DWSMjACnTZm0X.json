@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ?si=prRrjUtGQxujNJuF3xT1rA\">Sarz</a> and <a href=\"https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb?si=QFltAuFqR8-u3XDwv85AeQ\">Crayon</a>",
+  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ?si=prRrjUtGQxujNJuF3xT1rA\">Sarz</a> and <a href=\"https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M?si=tyHvIZCzRHCIxQkovn6nXA\">Zuchu</a>",
   "name": "Piano to the World",
   "tracks": [
     {
@@ -292,6 +292,24 @@
       "duration_ms": 226527,
       "name": "ARIBA",
       "url": "https://open.spotify.com/track/6JP5zXwPYK7Bd3gOv3d4NH"
+    },
+    {
+      "album": {
+        "name": "Ask About Me",
+        "url": "https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175820,
+      "name": "Ask About Me",
+      "url": "https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O"
     },
     {
       "album": {
@@ -714,6 +732,24 @@
       "duration_ms": 237876,
       "name": "Champion Sound",
       "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
+    },
+    {
+      "album": {
+        "name": "Chapati",
+        "url": "https://open.spotify.com/album/4pcHseb6o0Gv6ZUVmGW33d"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200620,
+      "name": "Chapati",
+      "url": "https://open.spotify.com/track/1HILIVRnXkORHqLYzRbRaG"
     },
     {
       "album": {
@@ -1292,7 +1328,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 411066,
       "name": "Happy Day - Amapiano Remix",
       "url": "https://open.spotify.com/track/1WWIx02hn9qTGYqtq1nSpj"
@@ -1682,6 +1718,24 @@
       "duration_ms": 501283,
       "name": "Khusela (feat. Msaki)",
       "url": "https://open.spotify.com/track/1mg27ci1uDANuJ2ghZBrir"
+    },
+    {
+      "album": {
+        "name": "Kigbe (Heartbreak)",
+        "url": "https://open.spotify.com/album/7DJ2001zZSoSxMgEdwBryj"
+      },
+      "artists": [
+        {
+          "name": "Philou Louzolo",
+          "url": "https://open.spotify.com/artist/4zCYbkxFSNb6T2D2vFSg6C"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337635,
+      "name": "Kigbe (Heartbreak)",
+      "url": "https://open.spotify.com/track/0N2IJKlmqBVYrpYF9T0km5"
     },
     {
       "album": {
@@ -2098,7 +2152,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 454698,
       "name": "Mozambique (feat. 10x Guluva, Yung Silly Coon & PILLS)",
       "url": "https://open.spotify.com/track/6y6XLG70Bys7LyDkN8lwhD"
@@ -2908,7 +2962,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 168421,
       "name": "Sunmomi",
       "url": "https://open.spotify.com/track/5TqtBDyIdZiTpfJZL2o10M"

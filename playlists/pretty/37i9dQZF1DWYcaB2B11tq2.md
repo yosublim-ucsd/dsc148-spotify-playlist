@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,960 likes - 75 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,185 likes - 75 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 33 | [Me sostendrá](https://open.spotify.com/track/7zxuPZFuueFBEj8HkqQSSY) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Me sostendrá](https://open.spotify.com/album/5Tzxd9msntOlKgLeXMlwbS) | 5:25 |
 | 34 | [No Soy Huérfano \(Versión Radio\)](https://open.spotify.com/track/6myKbhpIGVMV5h0v4wXhnA) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [No Soy Huérfano \(Versión Radio\)](https://open.spotify.com/album/7h3IsK0imAHm61MGNQle0t) | 5:21 |
 | 35 | [Si Sabes Donde Hallarlo \(feat\. Marcos Vidal\)](https://open.spotify.com/track/1ShMaAfr3S4TrovNsMRBkv) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T), [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Cerca Estás](https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz) | 3:23 |
-| 36 | [Bonita](https://open.spotify.com/track/3xOekfcHl1gKWgn8V6rxVy) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Operación Mundial](https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK) | 4:05 |
-| 37 | [Ganas De Vivir](https://open.spotify.com/track/66bT5UMc1dVPmUt5apyQZ0) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Ganas De Vivir](https://open.spotify.com/album/5Rx91EycElkbKGnZFHPOM6) | 3:57 |
+| 36 | [Ganas De Vivir](https://open.spotify.com/track/66bT5UMc1dVPmUt5apyQZ0) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Ganas De Vivir](https://open.spotify.com/album/5Rx91EycElkbKGnZFHPOM6) | 3:57 |
+| 37 | [Bonita](https://open.spotify.com/track/3xOekfcHl1gKWgn8V6rxVy) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Operación Mundial](https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK) | 4:05 |
 | 38 | [Él Nos Ama](https://open.spotify.com/track/6ceXM33Unn92BZIVfjQZ3s) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta Al Jardin](https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6) | 4:18 |
 | 39 | [Tú](https://open.spotify.com/track/3VDTYrLawIMXGFDWycvZ6E) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [Tú](https://open.spotify.com/album/1rsthZYWA3LRLAo9rTUztl) | 5:19 |
 | 40 | [Soy Tu Dios](https://open.spotify.com/track/1p15LKTj0Ys2EmJ3IercHB) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Agua](https://open.spotify.com/album/0QQ96ktdyNgQcfnMV2gJK3) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 74 | [Lo Peor de Mi](https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Lo Peor de Mi](https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn) | 4:40 |
 | 75 | [Tiempo Para Perder](https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Tiempo Para Perder](https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC) | 3:40 |
 
-Snapshot ID: `MCxiNTFjYjhlZDYzOTM2MDY3ZTQ3MzhlMTg4ZjMyOGY2YjM0MDNiZjRj`
+Snapshot ID: `MCwxZWM0YjQ0MTZkMTAwOTg3OGVhY2VmMjgwOTQzOWUyMGQyMzEyYjM2`

@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 121859,
+  "num_followers": 122069,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmI3NTcwMGViN2UzY2VmZjBkNWZkZDQ5ODI1MjlmOTQyZTM5ZTM2",
+  "snapshot_id": "MCw0NmUxY2FiNjgxZTNkYTdjMzA5MzJiNTgyNTc1NmU4M2E4ZGE1ZmIw",
   "tracks": [
     {
       "added_at": "2023-07-18 19:55:42",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Slick",
-        "url": "https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb"
-      },
-      "artists": [
-        {
-          "name": "Eddie Kendricks",
-          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
-        }
-      ],
-      "duration_ms": 353453,
-      "name": "Intimate Friends",
-      "url": "https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "VENOLOGY",
         "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 252053,
       "name": "Sun, Moon & Herbs",
       "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "Slick",
+        "url": "https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kendricks",
+          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
+        }
+      ],
+      "duration_ms": 353453,
+      "name": "Intimate Friends",
+      "url": "https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Joli Mai",
-        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 226479,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "Part One",
         "url": "https://open.spotify.com/album/36qtMdwzo4s7lisavSgorV"
       },
@@ -487,18 +471,18 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
+        "name": "Joli Mai",
+        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
       },
       "artists": [
         {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
         }
       ],
-      "duration_ms": 381040,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
+      "duration_ms": 226479,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -515,6 +499,22 @@
       "duration_ms": 318785,
       "name": "Come on Home",
       "url": "https://open.spotify.com/track/1FhP3mymDoN2hX5p57uTnu"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
+      },
+      "artists": [
+        {
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Dub Reggae",
-        "url": "https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS"
-      },
-      "artists": [
-        {
-          "name": "King Tubby",
-          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
-        }
-      ],
-      "duration_ms": 218693,
-      "name": "Take Five",
-      "url": "https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "Nightrider",
         "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 300990,
       "name": "Nightrider",
       "url": "https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "Dub Reggae",
+        "url": "https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS"
+      },
+      "artists": [
+        {
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+        }
+      ],
+      "duration_ms": 218693,
+      "name": "Take Five",
+      "url": "https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
-        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "Do What You Gotta Do",
-      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "OnlyL",
         "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 288038,
       "name": "I Know",
       "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 275719,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 532313,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/3jYzcHvW4k6Lrfm6fj87Rn"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 275719,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -1055,18 +1055,22 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Remix",
-        "url": "https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6"
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
       },
       "artists": [
         {
-          "name": "Le Tigre",
-          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+          "name": "Pool Boy",
+          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
+        },
+        {
+          "name": "Cyril Hahn",
+          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
         }
       ],
-      "duration_ms": 384986,
-      "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
-      "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
+      "duration_ms": 228897,
+      "name": "Gated Area",
+      "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -1087,22 +1091,18 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
+        "name": "Remix",
+        "url": "https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6"
       },
       "artists": [
         {
-          "name": "Pool Boy",
-          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
-        },
-        {
-          "name": "Cyril Hahn",
-          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
         }
       ],
-      "duration_ms": 228897,
-      "name": "Gated Area",
-      "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
+      "duration_ms": 384986,
+      "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
+      "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
     },
     {
       "added_at": "2023-07-18 19:55:42",

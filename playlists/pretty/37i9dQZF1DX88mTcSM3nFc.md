@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 
 > christmas always makes me cry
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,586 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,591 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 4 | [River](https://open.spotify.com/track/3OHTX3Kf5qOOPwGepi5xe8) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Music From The Netflix Original Series The Politician](https://open.spotify.com/album/5Gik4usNaiTLBzBimuIEpJ) | 4:07 |
 | 5 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 |
 | 6 | [baby jesus is nobody’s baby now](https://open.spotify.com/track/6HwsLuTeG7W4BYeuvSPTsr) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody’s baby now](https://open.spotify.com/album/1x8xjOeUiVCRZkvIesrdWY) | 3:35 |
-| 7 | [‘tis the damn season](https://open.spotify.com/track/4GBkffrtA51p17JH35irGA) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 3:49 |
+| 7 | [White Christmas \- 1947 Version](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 |
 | 8 | [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:09 |
-| 9 | [White Christmas \- 1947 Version](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 |
+| 9 | [‘tis the damn season](https://open.spotify.com/track/4GBkffrtA51p17JH35irGA) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 3:49 |
 | 10 | [Ave Maria](https://open.spotify.com/track/1yTDvZLkC1WjVbsPPBf5dG) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Christmas In My Heart \(Expanded Edition\)](https://open.spotify.com/album/2jQQOtQEPL3QGdsTDrO8mu) | 2:51 |
 | 11 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 |
 | 12 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 41 | [The Holidays With You](https://open.spotify.com/track/3JMZ5QcFKxGpnMuqOWGvmU) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Holidays With You](https://open.spotify.com/album/02dmqljeCWllbNuP5BVbUg) | 2:05 |
 | 42 | [Christmas is The Only Time I'm Home](https://open.spotify.com/track/4JbwEU1apqYe1dXhThvjag) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Christmas is The Only Time I'm Home](https://open.spotify.com/album/1WuDKfHUB50Uz5bbv0Rn4Z) | 3:20 |
 | 43 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
-| 44 | [christmas will break your heart](https://open.spotify.com/track/0dMGq0YUOik1rMZicB96Qa) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [christmas will break your heart](https://open.spotify.com/album/3skXXEPIZHApEfglcwIlvR) | 4:26 |
-| 45 | [Frosty the Snowman](https://open.spotify.com/track/732qfVoTwzKNDTGm1MfJvp) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Hotel Café presents..\. Winter Songs](https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad) | 2:10 |
+| 44 | [Frosty the Snowman](https://open.spotify.com/track/732qfVoTwzKNDTGm1MfJvp) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Hotel Café presents..\. Winter Songs](https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad) | 2:10 |
+| 45 | [christmas will break your heart](https://open.spotify.com/track/0dMGq0YUOik1rMZicB96Qa) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [christmas will break your heart](https://open.spotify.com/album/3skXXEPIZHApEfglcwIlvR) | 4:26 |
 | 46 | [The Little Boy That Santa Claus Forgot \- 1990 Remaster](https://open.spotify.com/track/4nYhFybm5G4ETNt19pcKzs) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole, Christmas & Kids](https://open.spotify.com/album/6L559yGVxmFOW8ViMMbWI1) | 2:33 |
 | 47 | [Did I Make You Cry On Christmas Day? \(Well, You Deserved It!\)](https://open.spotify.com/track/0ONfnpyVTlpU2wyIouPJ0A) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 3:21 |
 | 48 | [Christmas Makes Me Cry](https://open.spotify.com/track/0pZjp6KTdWZVBIHGqfBaW7) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 2:50 |
 | 49 | [Whatever Happened To Christmas?](https://open.spotify.com/track/4fzMwQLxkY6qsimuyaDqed) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [The Jimmy Joyce Singers](https://open.spotify.com/artist/1M0wdYIdPlJz4Q0ZZjqdbt) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 3:06 |
 | 50 | [Another Lonely Christmas](https://open.spotify.com/track/26F1nzp6tCtXsiDcBCfZcg) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits / The B\-Sides](https://open.spotify.com/album/30DQNLvFkUv9SS15o8jXHZ) | 4:53 |
 
-Snapshot ID: `MCw1NWVmNTdjMmY5MzNmMTMxZmNkOGE4YzFkNDE5ZTc0ZWNjMmZlNDMz`
+Snapshot ID: `MCwxYTRmZjg5YzRjZDJmMDQzMjVmNTg5MjE1ODMwZGZkNDZlNDE5ZmYy`

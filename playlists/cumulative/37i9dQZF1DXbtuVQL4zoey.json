@@ -140,7 +140,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 80000,
       "name": "a little bossa",
       "url": "https://open.spotify.com/track/4LWlyRclaxRUscbVQQ3syw"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 171870,
       "name": "Aubade",
       "url": "https://open.spotify.com/track/2w9EnlbbEahdgm3ZNj758B"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 139736,
       "name": "Avenue",
       "url": "https://open.spotify.com/track/4jaabHRb9VW5OR0WAQB5JA"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 138139,
       "name": "Bike Ride",
       "url": "https://open.spotify.com/track/3Xq6IMKkk7fVHQRkyo3ef8"
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 108571,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/6k9RaYxMO9FnWu7oYLC1Fe"
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 114418,
       "name": "Bossa De Flauta",
       "url": "https://open.spotify.com/track/4bURJNtMormiqKdJoq2vcu"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 123076,
       "name": "Brazilian Relaxation",
       "url": "https://open.spotify.com/track/0YMvwk402Q43UuHhIzUJDV"
@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 123333,
       "name": "Calamares",
       "url": "https://open.spotify.com/track/0Wq9I3U3Hag2poT8SHf8Fo"
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 123375,
       "name": "Calypso",
       "url": "https://open.spotify.com/track/2XUJwfew9Dym5GGJx9iz3J"
@@ -2074,7 +2074,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 150000,
       "name": "Comets",
       "url": "https://open.spotify.com/track/0CIkHeRy9TMRJXfplWRDf1"
@@ -2200,7 +2200,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 155752,
       "name": "Copacabana Days",
       "url": "https://open.spotify.com/track/1zrrbPh20X2mZY74tgJ86s"
@@ -2384,7 +2384,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 212142,
       "name": "Curated Light",
       "url": "https://open.spotify.com/track/3IpACziWRGwdAPA4BxoUo0"
@@ -2616,7 +2616,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 162461,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/1s6LKq5nOjmqY65VdrmUej"
@@ -2812,6 +2812,24 @@
       "duration_ms": 160843,
       "name": "Early Rio",
       "url": "https://open.spotify.com/track/0rpf1OhSfp8hkOsFhONU0d"
+    },
+    {
+      "album": {
+        "name": "East Coast",
+        "url": "https://open.spotify.com/album/0PsUlLGnJ7l4hBNErLRhMs"
+      },
+      "artists": [
+        {
+          "name": "Molife",
+          "url": "https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175234,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/5E9Hv0qJghwtMpkf8rZdqW"
     },
     {
       "album": {
@@ -3214,7 +3232,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 162750,
       "name": "Fruit Salad",
       "url": "https://open.spotify.com/track/6IfPYRbW6tJyCf2qtPBciO"
@@ -4706,7 +4724,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 138352,
       "name": "Light Of Day",
       "url": "https://open.spotify.com/track/5rk8yGrnwfEyLzxhjcrlmq"
@@ -4858,7 +4876,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 126233,
       "name": "Loose Waves",
       "url": "https://open.spotify.com/track/1MiNU5skQjRrPIc7WC77PT"
@@ -5138,7 +5156,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 168648,
       "name": "Malibu Dreams",
       "url": "https://open.spotify.com/track/5RLcwTY0YKoYsobS6n5EG9"
@@ -6312,7 +6330,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 139756,
       "name": "Pincushion Island",
       "url": "https://open.spotify.com/track/7ilqawEgDbx8zVanjTqpMQ"
@@ -6705,6 +6723,24 @@
     },
     {
       "album": {
+        "name": "Resurrected",
+        "url": "https://open.spotify.com/album/3Mu69V1Epb8T2he3BcYhnc"
+      },
+      "artists": [
+        {
+          "name": "Byz Playground",
+          "url": "https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126225,
+      "name": "Resurrected",
+      "url": "https://open.spotify.com/track/3kSNdHcFAtT2PRIDhhEfPf"
+    },
+    {
+      "album": {
         "name": "Retrospective",
         "url": "https://open.spotify.com/album/1hdYL4Gu453c6Ve4lGsUH1"
       },
@@ -6860,7 +6896,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 147933,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/158kdVojsERlt5hDZrHbKX"
@@ -6914,7 +6950,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 152392,
       "name": "Salzburg, Vienna, Bratislava",
       "url": "https://open.spotify.com/track/1UBz80xTEt0P3mSGmbwIlo"
@@ -6954,7 +6990,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 119268,
       "name": "Samba For You",
       "url": "https://open.spotify.com/track/0y5PxI9uiVuh8DtueOvr75"
@@ -7486,7 +7522,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 98684,
       "name": "Sons de carrilh\u00f5es",
       "url": "https://open.spotify.com/track/5N5hbSkC5bykTudQmgE2BH"
@@ -7822,7 +7858,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 130675,
       "name": "Stressed Out",
       "url": "https://open.spotify.com/track/428XVwBl5Fb7INjU72Po14"
@@ -7880,7 +7916,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 119478,
       "name": "summer cloud",
       "url": "https://open.spotify.com/track/1mAcXjJI3LKcuPjVq5O8Ge"
@@ -8098,7 +8134,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 169473,
       "name": "Sunday Mornings",
       "url": "https://open.spotify.com/track/7sigACWgeejkcI9Q41FCue"
@@ -8170,7 +8206,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 177966,
       "name": "Sunny Grooves",
       "url": "https://open.spotify.com/track/23rwFBqSEHcz1frkz2ezdE"
@@ -8276,6 +8312,24 @@
       "duration_ms": 112963,
       "name": "Sunshine Recorder",
       "url": "https://open.spotify.com/track/49oVOPbXKaRLNaL5B1JG4U"
+    },
+    {
+      "album": {
+        "name": "sweet and lovely",
+        "url": "https://open.spotify.com/album/37LgQgs2KUdB4UcsH4so58"
+      },
+      "artists": [
+        {
+          "name": "Home Cook",
+          "url": "https://open.spotify.com/artist/5ywJbIqM6CaNHrhfRLKe8O"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135843,
+      "name": "sweet and lovely",
+      "url": "https://open.spotify.com/track/4aawMY32xXkK6QE4bT9enl"
     },
     {
       "album": {
@@ -8892,7 +8946,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 97747,
       "name": "Train Tales",
       "url": "https://open.spotify.com/track/5PVWIBum4skGcuHkI8bWKB"
@@ -9142,7 +9196,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 252857,
       "name": "Unwind",
       "url": "https://open.spotify.com/track/67p1eyYdwqs3d9CVZdSlzC"
@@ -9460,7 +9514,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 151683,
       "name": "Weekend In Rio",
       "url": "https://open.spotify.com/track/67mQ3ey8qs7870TnEe5OPr"
@@ -9496,7 +9550,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 147692,
       "name": "While The Sun Goes Down",
       "url": "https://open.spotify.com/track/6mO1z3z7Np7JS87Gkiw7xM"

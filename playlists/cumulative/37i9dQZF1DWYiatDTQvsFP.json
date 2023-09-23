@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "it's scary hours...\u26c8\ufe0f  cover: Aaliyah \ud83d\udd4a",
+  "description": "it's scary hours...\u26c8\ufe0f  cover: Mary J. Blige",
   "name": "mid:nite storm ",
   "tracks": [
+    {
+      "album": {
+        "name": "Meet the Girl Next Door",
+        "url": "https://open.spotify.com/album/0XV0p2kMctCT2aMIT7KZcv"
+      },
+      "artists": [
+        {
+          "name": "Lil' Mo",
+          "url": "https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222946,
+      "name": "4 Ever",
+      "url": "https://open.spotify.com/track/64IrqnZBUoCFmF8BXGOHnK"
+    },
     {
       "album": {
         "name": "90's Love",
@@ -16,7 +38,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 207781,
       "name": "90's Love",
       "url": "https://open.spotify.com/track/6izMYA7zfbugQijioqoUIi"
@@ -112,6 +134,28 @@
       "duration_ms": 295920,
       "name": "All I Want Is You (feat. J. Cole)",
       "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
+    },
+    {
+      "album": {
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234253,
+      "name": "All Night Long (feat. Puff Daddy)",
+      "url": "https://open.spotify.com/track/4Bh83s84d9YUiuLzeuF24N"
     },
     {
       "album": {
@@ -290,6 +334,28 @@
       "duration_ms": 296173,
       "name": "Baby (feat. Mike Shorey)",
       "url": "https://open.spotify.com/track/4lNrlPtaAKIOZVAdnVpnzR"
+    },
+    {
+      "album": {
+        "name": "Still I Rise",
+        "url": "https://open.spotify.com/album/0D0MqHQ5ug0IPnxR0QdFXm"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Outlawz",
+          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263306,
+      "name": "Baby Don't Cry (Keep Ya Head Up II)",
+      "url": "https://open.spotify.com/track/3ceAaa8IDMI5YDiackOKXO"
     },
     {
       "album": {
@@ -813,6 +879,28 @@
     },
     {
       "album": {
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231160,
+      "name": "Can't Nobody Hold Me Down (feat. Mase)",
+      "url": "https://open.spotify.com/track/1EM23A621Z0QyTlWKu7T1l"
+    },
+    {
+      "album": {
         "name": "Can't Stop Won't Stop (feat. Kodak Black)",
         "url": "https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ"
       },
@@ -930,7 +1018,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 258693,
       "name": "Come Back in One Piece (feat. DMX)",
       "url": "https://open.spotify.com/track/1HLd5AyNXsnBNpXCsZfH66"
@@ -1058,6 +1146,24 @@
       "duration_ms": 264000,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/2pifkKyH7zHadphSEkuqPQ"
+    },
+    {
+      "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268533,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS"
     },
     {
       "album": {
@@ -1335,6 +1441,24 @@
     },
     {
       "album": {
+        "name": "Jade To The Max",
+        "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
+      },
+      "artists": [
+        {
+          "name": "Jade",
+          "url": "https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216373,
+      "name": "Don't Walk Away",
+      "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
+    },
+    {
+      "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
@@ -1524,6 +1648,24 @@
       "duration_ms": 219847,
       "name": "Eve Gene",
       "url": "https://open.spotify.com/track/77GOTBYCjJHCEJsZUdVcV1"
+    },
+    {
+      "album": {
+        "name": "Pandemonium!",
+        "url": "https://open.spotify.com/album/6RbIKU1gt1xorUNQDVssBw"
+      },
+      "artists": [
+        {
+          "name": "B2K",
+          "url": "https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237546,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/2mNlMOTOtNkPR6di0XMZvm"
     },
     {
       "album": {
@@ -1946,7 +2088,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 275373,
       "name": "Girls, Girls, Girls",
       "url": "https://open.spotify.com/track/0vzb8Ii9B2fP9c0POFGPOZ"
@@ -2227,6 +2369,24 @@
     },
     {
       "album": {
+        "name": "Butterfly: 25th Anniversary Expanded Edition",
+        "url": "https://open.spotify.com/album/3VOqo81Nwyx8rcZEc2l379"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300093,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1jM5ZCFU2ZE2PyfX4xv6eb"
+    },
+    {
+      "album": {
         "name": "Honey EP",
         "url": "https://open.spotify.com/album/6Ae7Vj251EDHIGEwEYsdEH"
       },
@@ -2246,7 +2406,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 333600,
       "name": "Honey (feat. Mase & The Lox) - Bad Boy Remix",
       "url": "https://open.spotify.com/track/4fT89rIpn1BOJh6hvdp3n7"
@@ -2326,7 +2486,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 198680,
       "name": "I Changed My Mind",
       "url": "https://open.spotify.com/track/4w4RaMGPl2qnjSdPlp1KAE"
@@ -2388,7 +2548,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 254226,
       "name": "I Do (Wanna Get Close To You) (featuring Loon)",
       "url": "https://open.spotify.com/track/1gf5KKoAbd1vUWwRKzeXF3"
@@ -2497,6 +2657,50 @@
     },
     {
       "album": {
+        "name": "Faithfully",
+        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267160,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv"
+    },
+    {
+      "album": {
+        "name": "R&B Hits",
+        "url": "https://open.spotify.com/album/5Bp5PZqYJ9tiz0Hf6lOD5Q"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Loon",
+          "url": "https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "I Need a Girl (Pt. 1) [feat. Usher & Loon]",
+      "url": "https://open.spotify.com/track/7lVNTXkI3cHFvcXiI8damb"
+    },
+    {
+      "album": {
         "name": "Bad Boy's 10th Anniversary- The Hits",
         "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
       },
@@ -2600,7 +2804,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 178600,
       "name": "I'll Be",
       "url": "https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT"
@@ -2691,6 +2895,24 @@
     },
     {
       "album": {
+        "name": "From The Bottom Up",
+        "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
+      },
+      "artists": [
+        {
+          "name": "Brownstone",
+          "url": "https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304160,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
+    },
+    {
+      "album": {
         "name": "Cole World: The Sideline Story",
         "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
       },
@@ -2764,7 +2986,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 264933,
       "name": "It's Over Now",
       "url": "https://open.spotify.com/track/769geiA8btidGHda4BBDOJ"
@@ -2880,6 +3102,32 @@
       "duration_ms": 223093,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
+    },
+    {
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK"
+      },
+      "artists": [
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238333,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/2RqZFOLOnzVmHUX7ZMcaES"
     },
     {
       "album": {
@@ -3028,7 +3276,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 229373,
       "name": "Loungin (Who Do Ya Luv) - Remix",
       "url": "https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll"
@@ -3068,7 +3316,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 212727,
       "name": "Love You Better (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/4HaTbFvIyeinaV6koLK3L4"
@@ -3289,6 +3537,42 @@
     },
     {
       "album": {
+        "name": "Love Crimes",
+        "url": "https://open.spotify.com/album/5FA0SqkvmxtJi96oCqBjHb"
+      },
+      "artists": [
+        {
+          "name": "Ruff Endz",
+          "url": "https://open.spotify.com/artist/7liFhc0PDIx8etigqd2WhW"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242560,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/2WfhlEjoUII31H6imnQdvF"
+    },
+    {
+      "album": {
+        "name": "3LW",
+        "url": "https://open.spotify.com/album/7l1ra4zaCXyfr4yTby63t7"
+      },
+      "artists": [
+        {
+          "name": "3LW",
+          "url": "https://open.spotify.com/artist/2lFHVcUeJ9Gq6AZiU3ZAOa"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263440,
+      "name": "No More (Baby I'ma Do Right)",
+      "url": "https://open.spotify.com/track/5zn1hpm9N0ylKB7kOtpCw2"
+    },
+    {
+      "album": {
         "name": "Hip Hop 100 Hits - Urban rap & R n B anthems inc. Jay Z, A$ap Rocky, Wu-Tang Clan & Nas",
         "url": "https://open.spotify.com/album/1tIioq32KjWlt5vvk5rhqX"
       },
@@ -3416,7 +3700,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 242586,
       "name": "On the Hotline",
       "url": "https://open.spotify.com/track/3bsoEOP4NHEoeVbAAYdbaU"
@@ -3438,7 +3722,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 276800,
       "name": "One Call Away",
       "url": "https://open.spotify.com/track/0UNTBB02C1aB55Fu4H63qd"
@@ -3478,7 +3762,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 237560,
       "name": "Only Wanna Give It To You (feat. J. Cole)",
       "url": "https://open.spotify.com/track/1C3GfIyZjaX654Tva4QNtJ"
@@ -3606,7 +3890,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 163764,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
@@ -3702,7 +3986,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 262826,
       "name": "Put It On Me",
       "url": "https://open.spotify.com/track/0OvwzS8FX73Bw7ykMRmffU"
@@ -3724,7 +4008,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 194293,
       "name": "Put Your Hands Where My Eyes Could See (feat. Jamal)",
       "url": "https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH"
@@ -3820,6 +4104,24 @@
       "duration_ms": 226986,
       "name": "Ready or Not",
       "url": "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp"
+    },
+    {
+      "album": {
+        "name": "What's The 411?",
+        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269973,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
     },
     {
       "album": {
@@ -4084,7 +4386,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 302360,
       "name": "Song Cry",
       "url": "https://open.spotify.com/track/19ELgyBdMcEjGcbFHcY1ba"
@@ -4178,7 +4480,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 259493,
       "name": "Stingy",
       "url": "https://open.spotify.com/track/6De63WRULDaa1fxOyLilnv"
@@ -4443,6 +4745,24 @@
     },
     {
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277373,
+      "name": "The Sweetest Taboo",
+      "url": "https://open.spotify.com/track/0sKfhhj6hYyJIXnTiZV9vf"
+    },
+    {
+      "album": {
         "name": "Sail Out",
         "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
       },
@@ -4534,7 +4854,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 281506,
       "name": "Top of the World (feat. Ma$e)",
       "url": "https://open.spotify.com/track/6BxiFSFVzviEqe2eIaruLV"
@@ -4586,6 +4906,42 @@
       "duration_ms": 290493,
       "name": "Turn da Lights Off (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/0DdN7DAm3SVVfhrsaoGMuE"
+    },
+    {
+      "album": {
+        "name": "Keith Sweat",
+        "url": "https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV"
+      },
+      "artists": [
+        {
+          "name": "Keith Sweat",
+          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260666,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b"
+    },
+    {
+      "album": {
+        "name": "Pleasure & Pain",
+        "url": "https://open.spotify.com/album/3gY1qUrGzKNQnorPC9Lu72"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198880,
+      "name": "U Already Know",
+      "url": "https://open.spotify.com/track/0ahRDzkKq0KEi7FRoHb0qk"
     },
     {
       "album": {
@@ -4752,7 +5108,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 190826,
       "name": "Vivrant Thing",
       "url": "https://open.spotify.com/track/31KK3pcPclmIt087tPuwMr"
@@ -4964,7 +5320,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 324400,
       "name": "What's It Gonna Be?! (feat. Janet Jackson)",
       "url": "https://open.spotify.com/track/0FpLfrOyHblbDlHUsrPN1N"
@@ -4989,6 +5345,24 @@
     },
     {
       "album": {
+        "name": "702",
+        "url": "https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR"
+      },
+      "artists": [
+        {
+          "name": "702",
+          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166693,
+      "name": "Where My Girls At",
+      "url": "https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi"
+    },
+    {
+      "album": {
         "name": "All I Have",
         "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
       },
@@ -5000,7 +5374,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 159293,
       "name": "Why Don't We Fall in Love",
       "url": "https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO"
@@ -5018,7 +5392,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 243466,
       "name": "Wifey - Club Mix/Dirty Version",
       "url": "https://open.spotify.com/track/1NNDZc9BHaWe9JqIsPRlNV"
@@ -5036,7 +5410,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 183677,
       "name": "wish i never",
       "url": "https://open.spotify.com/track/5v8oHydXFHM1je05EFyIdw"
@@ -5102,6 +5476,24 @@
       "duration_ms": 287906,
       "name": "You Owe Me",
       "url": "https://open.spotify.com/track/2VqjCBJ4AxpDTrNRKhL0Pw"
+    },
+    {
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267440,
+      "name": "You're Makin' Me High",
+      "url": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYiatDTQvsFP"

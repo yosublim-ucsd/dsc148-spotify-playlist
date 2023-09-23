@@ -2159,6 +2159,32 @@
     },
     {
       "album": {
+        "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
+        "url": "https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153941,
+      "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
+      "url": "https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e"
+    },
+    {
+      "album": {
         "name": "Big Money",
         "url": "https://open.spotify.com/album/76fs9BkDU369ScWTlWaTt4"
       },
@@ -2266,7 +2292,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 200944,
       "name": "Bigger Picture uh huh",
       "url": "https://open.spotify.com/track/4MJ5oUOpL1a4mA2DjSRLn1"
@@ -2612,7 +2638,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 148302,
       "name": "Bluffin (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/1hS8xbWKEifaf0VuFpIY69"
@@ -6357,6 +6383,28 @@
     },
     {
       "album": {
+        "name": "Gang Time",
+        "url": "https://open.spotify.com/album/7CqIBingCuH1gQvKH2uJPM"
+      },
+      "artists": [
+        {
+          "name": "Calboy",
+          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134666,
+      "name": "Gang Time",
+      "url": "https://open.spotify.com/track/6oOO3Kok03oEsXRrWcKff3"
+    },
+    {
+      "album": {
         "name": "Gangsta Art",
         "url": "https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU"
       },
@@ -7107,6 +7155,24 @@
     },
     {
       "album": {
+        "name": "GTA",
+        "url": "https://open.spotify.com/album/0XJ7SlwKhONKSr4qUSeC9r"
+      },
+      "artists": [
+        {
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123464,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/0BjnnSOpNQa779935YIE81"
+    },
+    {
+      "album": {
         "name": "Gucci Flow",
         "url": "https://open.spotify.com/album/3lGERq1ZXRcK9x7uSggz3q"
       },
@@ -7304,7 +7370,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 191470,
       "name": "Hall of Fame",
       "url": "https://open.spotify.com/track/0l9ekYnsiUpnwFb0ErXYRJ"
@@ -8990,7 +9056,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 155054,
       "name": "IT IS (FEAT. RYLO RODRIGUEZ)",
       "url": "https://open.spotify.com/track/3497WWyaVZTUDEyfN0cwmA"
@@ -10927,6 +10993,24 @@
     },
     {
       "album": {
+        "name": "MC OLUOMO",
+        "url": "https://open.spotify.com/album/6SOHUdxwVth3saPV3VnnoE"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107412,
+      "name": "MC OLUOMO",
+      "url": "https://open.spotify.com/track/7d0wP4hqtVIQ23H5uEnqBm"
+    },
+    {
+      "album": {
         "name": "Me or Sum (feat. Future & Lil Baby)",
         "url": "https://open.spotify.com/album/6SEeNB2xGW1kmysKSvWYqC"
       },
@@ -11502,7 +11586,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 145454,
       "name": "Mosh Pit",
       "url": "https://open.spotify.com/track/6THwYdJS5zgKRDSsfoGXzW"
@@ -14116,7 +14200,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 218172,
       "name": "Pissy (feat. Roddy Ricch, Nardo Wick)",
       "url": "https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA"
@@ -14690,7 +14774,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 185748,
       "name": "Put It On Da Floor Again (feat. Cardi B)",
       "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
@@ -16331,6 +16415,24 @@
     },
     {
       "album": {
+        "name": "Set The Tone",
+        "url": "https://open.spotify.com/album/4nkBdox5tbf2DtxEHJl9S4"
+      },
+      "artists": [
+        {
+          "name": "The Real Meladee",
+          "url": "https://open.spotify.com/artist/5QgAjPJ1resFH43bMepkZT"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174730,
+      "name": "Set The Tone",
+      "url": "https://open.spotify.com/track/6ymnmbGOS5yi8EcwGS97HC"
+    },
+    {
+      "album": {
         "name": "Never Broke Again Presents: Green Flag Activity",
         "url": "https://open.spotify.com/album/6p45iXHeIoALPPd3UPrdJO"
       },
@@ -17057,6 +17159,28 @@
     },
     {
       "album": {
+        "name": "Smack Sh*t",
+        "url": "https://open.spotify.com/album/3Wa0UdCqXUAWNNuEr9ulHk"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179370,
+      "name": "Smack Sh*t",
+      "url": "https://open.spotify.com/track/02G0mbFgtqS3h1Ek29tBWW"
+    },
+    {
+      "album": {
         "name": "Small Town Hero",
         "url": "https://open.spotify.com/album/7JMaVgvy39sZ61TbSwSXQg"
       },
@@ -17090,6 +17214,28 @@
       "duration_ms": 204912,
       "name": "Smoke One",
       "url": "https://open.spotify.com/track/1NMvJLrsL07aatHDegq4x8"
+    },
+    {
+      "album": {
+        "name": "Smooth",
+        "url": "https://open.spotify.com/album/5CiZTOCNU2PVQQjsAGz1WP"
+      },
+      "artists": [
+        {
+          "name": "Kountry50K",
+          "url": "https://open.spotify.com/artist/1nAk4f03QT0MjFLLTY4PbH"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159137,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/7fT5oRGPyTQVoR56GLM57W"
     },
     {
       "album": {
@@ -17536,6 +17682,28 @@
       "duration_ms": 211667,
       "name": "Standin On Top Of Shit",
       "url": "https://open.spotify.com/track/6tR2v1xWlI0YokTsmdqnfw"
+    },
+    {
+      "album": {
+        "name": "Starstruck",
+        "url": "https://open.spotify.com/album/01EL8VkRfnMk9tWc88n34r"
+      },
+      "artists": [
+        {
+          "name": "2FeetBino",
+          "url": "https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153769,
+      "name": "Starstruck",
+      "url": "https://open.spotify.com/track/7vlvtegZco6Jr9oKTLkVt2"
     },
     {
       "album": {
@@ -20650,7 +20818,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 152582,
       "name": "Why",
       "url": "https://open.spotify.com/track/5EjqYGHpzhuoNGGb4ovuXT"

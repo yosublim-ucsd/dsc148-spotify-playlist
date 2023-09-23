@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Willie Nelson
 
-476 songs - 1 day 4 hr 39 min
+477 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,8 @@
 | [Start Walking Back](https://open.spotify.com/track/2k6mdp1lISrRmor4pFVyOP) | [Bluegrass at the Crossroads](https://open.spotify.com/artist/0Uq1BgIpWuhlqiwEQaJcFY), [Kristin Scott Benson](https://open.spotify.com/artist/7GmvUtieBmMajFTqGY7WVD), [Travis Book](https://open.spotify.com/artist/2FC7bqjpZNeNzsf5PO9ZKZ), [Skip Cherryholmes](https://open.spotify.com/artist/55NE1hINI2eIXJdVad8A9O), [Jeremy Garrett](https://open.spotify.com/artist/75j2lBW6hHJNAbEjm6Wi14), [Kevin Kehrberg](https://open.spotify.com/artist/7hqc38P5ghX6n7V5q3jJB1), [Darren Nicholson](https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f) | [Bluegrass at the Crossroads](https://open.spotify.com/album/2b5a0GsPj3Mn4jFLmySmMq) | 2:13 | 2022-09-30 | 2023-01-14 |
 | [Starting Over](https://open.spotify.com/track/0DFo7a8DQvONxF2Q5dpV3i) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Alpenglow](https://open.spotify.com/album/2iSaVUXzQK55C1IXDOCSDc) | 3:45 | 2022-10-28 |  |
 | [Steampipe Coffee](https://open.spotify.com/track/2h6ZLitWaeBw9af5hWRy4T) | [Circus No\. 9](https://open.spotify.com/artist/7EajkJlvOR5KiUni4v4xZu), [Jeff Sipe](https://open.spotify.com/artist/3uBCMHjZuIiCPMMt6c9Sbr) | [Steampipe Coffee](https://open.spotify.com/album/1O9h3PMwdwJhis2pjgt2s7) | 4:49 | 2022-05-27 | 2022-07-12 |
-| [Still Is Still Moving To Me](https://open.spotify.com/track/3unrbH3SAqhL8OiUVF399z) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Still Is Still Moving To Me](https://open.spotify.com/album/3oQaCyVNzJUob9WsUD0Naa) | 4:00 | 2023-08-04 |  |
+| [Still Is Still Moving To Me](https://open.spotify.com/track/3unrbH3SAqhL8OiUVF399z) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Still Is Still Moving To Me](https://open.spotify.com/album/3oQaCyVNzJUob9WsUD0Naa) | 4:00 | 2023-08-04 | 2023-09-23 |
+| [Still Is Still Moving To Me](https://open.spotify.com/track/6wMnZNnO4oWJwivp0WvW2W) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Bluegrass](https://open.spotify.com/album/65tnKCMWCQ5HJnzUn57dkO) | 4:00 | 2023-09-22 |  |
 | [Strange Fascination](https://open.spotify.com/track/1RQcETFoOBuy8oPHXE8dq7) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strange Fascination](https://open.spotify.com/album/5PnMwyxLM380aAXjAWn5gQ) | 4:18 | 2021-12-17 | 2022-07-27 |
 | [Strange Fascination](https://open.spotify.com/track/2ygPlZkaKoHXKBZ1LXZkXO) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strange Fascination](https://open.spotify.com/album/7kXILLnl4TJxQVfxb04wTs) | 4:18 | 2023-05-05 |  |
 | [Stress Dreams](https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn) | [Stress Dreams](https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW) | 8:01 | 2022-07-22 |  |

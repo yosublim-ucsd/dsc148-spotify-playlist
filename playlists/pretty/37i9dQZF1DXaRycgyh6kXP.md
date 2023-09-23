@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,933 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,038 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 48 | [Places](https://open.spotify.com/track/3RN6IMCkcJr44Xm7tdWWaK) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [Bad Vibes](https://open.spotify.com/album/5KRR8tyAUT6bcMOsCfM2Lh) | 5:02 |
 | 49 | [Soft Meadow](https://open.spotify.com/track/4Xe5aArRgoUutgD8MP00Qs) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 5:28 |
 | 50 | [U](https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Time Spent Away From U](https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM) | 6:08 |
-| 51 | [All the Way Down](https://open.spotify.com/track/3GZpSLgW7eaPzbJUFD7jfL) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Hallucinogen](https://open.spotify.com/album/0kbTEjztiBKiwDGqogecTy) | 4:28 |
-| 52 | [Overnight](https://open.spotify.com/track/75Qzn03RmrNsY0ZEIwCLdj) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [Solo Piano](https://open.spotify.com/album/79hPlit22yH2TfyeW1a32K) | 3:22 |
+| 51 | [Overnight](https://open.spotify.com/track/75Qzn03RmrNsY0ZEIwCLdj) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [Solo Piano](https://open.spotify.com/album/79hPlit22yH2TfyeW1a32K) | 3:22 |
+| 52 | [All the Way Down](https://open.spotify.com/track/3GZpSLgW7eaPzbJUFD7jfL) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Hallucinogen](https://open.spotify.com/album/0kbTEjztiBKiwDGqogecTy) | 4:28 |
 | 53 | [Silver Moon Over Sleeping Steeples](https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Gone To Earth \(Remastered 2003\)](https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc) | 2:21 |
 | 54 | [Stratus](https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ) | 3:04 |
-| 55 | [Smokebelch II \- Beatless Mix](https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic](https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw) | 4:16 |
-| 56 | [Faith in Strangers](https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K) | [Faith in Strangers](https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY) | 6:29 |
+| 55 | [Faith in Strangers](https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K) | [Faith in Strangers](https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY) | 6:29 |
+| 56 | [Smokebelch II \- Beatless Mix](https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic](https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw) | 4:16 |
 | 57 | [Eyes Be Closed](https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Within and Without](https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr) | 4:47 |
 | 58 | [You and I](https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 4:03 |
 | 59 | [Stay With Us](https://open.spotify.com/track/3Opk9C8pMgBCmbqXelH0I5) | [Seoul](https://open.spotify.com/artist/3e69LorE0YSsEaYY6x9XuG) | [I Become A Shade](https://open.spotify.com/album/1zP69up0zPq8SsIx4lvCkg) | 3:57 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 69 | [As Much as Possible](https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 5:40 |
 | 70 | [Kodomotachi](https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:06 |
 | 71 | [Lonely Romance](https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [To You EP](https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI) | 5:42 |
-| 72 | [My Lights Kiss Your Thoughts Every Moment](https://open.spotify.com/track/0sGJSiKG9sfYKEZkqvlRB4) | [Lucy Gooch](https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK) | [Rushing](https://open.spotify.com/album/4VxWJ3iWQ2PIE7KDFyoRut) | 2:16 |
-| 73 | [Half Hour Verve](https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei) | 4:05 |
+| 72 | [Half Hour Verve](https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei) | 4:05 |
+| 73 | [My Lights Kiss Your Thoughts Every Moment](https://open.spotify.com/track/0sGJSiKG9sfYKEZkqvlRB4) | [Lucy Gooch](https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK) | [Rushing](https://open.spotify.com/album/4VxWJ3iWQ2PIE7KDFyoRut) | 2:16 |
 | 74 | [Constant Reminder](https://open.spotify.com/track/0jbtAoiWy5saxeXoakNP2i) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Tiny Reminders](https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc) | 1:30 |
 | 75 | [born slipping](https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 4:32 |
 | 76 | [Appeayl 2 U part 1](https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75) | [Gayngs](https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI) | [Appeayl 2 U](https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U) | 3:56 |
@@ -96,11 +96,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 86 | [Lilith](https://open.spotify.com/track/4QcR7D7O1O7OUNVI2ICuwY) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD), [Bjork](https://open.spotify.com/artist/6xy8s41CbAZbN6skLwoPYn) | [Not For Threes](https://open.spotify.com/album/25HKkAZz1rpzQXkWSLpWZL) | 4:38 |
 | 87 | [Love In The Time Of Lexapro](https://open.spotify.com/track/2C3ssFGH4NoGIUp9YkHK2Q) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Love In The Time Of Lexapro](https://open.spotify.com/album/66KiYNDdmJ8h7KvDSwRCR0) | 4:06 |
 | 88 | [Passing By \- 2019 remaster](https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Far Away Trains Passing By](https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ) | 6:37 |
-| 89 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
-| 90 | [Holding Hands](https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Holding Hands](https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J) | 2:50 |
+| 89 | [Holding Hands](https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Holding Hands](https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J) | 2:50 |
+| 90 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
 | 91 | [Kilika](https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Themes for a New Earth](https://open.spotify.com/album/2nriy2p6VrJTgsQLvXnjSV) | 4:44 |
-| 92 | [You're the One](https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [I Lost My Body \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG) | 2:47 |
-| 93 | [Walking Flames](https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 4:10 |
+| 92 | [Walking Flames](https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 4:10 |
+| 93 | [You're the One](https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [I Lost My Body \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG) | 2:47 |
 | 94 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 |
 | 95 | [♥](https://open.spotify.com/track/49eZ5yVONl5o1O4UOdqKMQ) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/1jjUFDODxguSdb2hZLF2au) | 3:17 |
 | 96 | [Implosion\-Explosion](https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Tunnel and the Clearing](https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV) | 5:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 99 | [Permanence](https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC) | [Lomea](https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx) | [Permanence](https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3) | 3:49 |
 | 100 | [The Kiss](https://open.spotify.com/track/56jrNmzTvsGi7geeFTaW11) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 3:17 |
 
-Snapshot ID: `MCxmYzY0NzI5M2FkMTJlMTVmNDc0MGY4MjAwODU5YmJmNGQxY2QxNTQx`
+Snapshot ID: `MCxhMWMyMzBiMTUzNzQ3MjE2ZDAxM2ZkZTc4YWJhMmYxNjZkMWMzN2E5`

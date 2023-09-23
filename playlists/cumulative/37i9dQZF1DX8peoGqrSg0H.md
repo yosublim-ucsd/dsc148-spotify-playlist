@@ -4,7 +4,7 @@
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: DIDIxDADA
 
-383 songs - 23 hr 3 min
+385 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,11 +121,13 @@
 | [คำถาม](https://open.spotify.com/track/15Xn4r9FY3725iHIfyq5hE) | [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q) | [คำถาม](https://open.spotify.com/album/1yx9K6ymlCqz6iHXubz8DS) | 3:26 | 2022-05-26 | 2022-11-18 |
 | [คิด\(แต่ไม่\)ถึง \(Same Page?\)](https://open.spotify.com/track/4Cg2XGrrrczeZRPOnlAG67) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [คิด\(แต่ไม่\)ถึง \(Same Page?\)](https://open.spotify.com/album/2GFOBIiJ4Lpmwo6HpXxLBD) | 4:26 | 2022-05-26 | 2022-09-01 |
 | [คิดถึงได้ป่ะ?](https://open.spotify.com/track/5dosSBFk8OoEBYCnSw2Now) | [Jeanius](https://open.spotify.com/artist/2Yrofk4MfRHlqLGnxdk6Ht) | [คิดถึงได้ป่ะ?](https://open.spotify.com/album/16KMccAbKMAIrt3maHTlFD) | 3:02 | 2022-09-23 | 2022-10-08 |
+| [คิดสิ](https://open.spotify.com/track/2ETNrSPgFzST9bNmUKQzEM) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [คิดสิ](https://open.spotify.com/album/3cl7sIBeKmZwJ0pTMEikLY) | 3:57 | 2023-09-22 |  |
 | [คีย์ใจ \(Heart Key\)](https://open.spotify.com/track/1tEwJ5B0N3LRDThiwzjiy0) | [PEAKSayaa!](https://open.spotify.com/artist/4fpwdYCe1CPV9MbILA1WeF) | [คีย์ใจ \(Heart Key\)](https://open.spotify.com/album/38mO1WT3GehvATY9KkRjTf) | 3:33 | 2022-09-23 | 2022-10-08 |
-| [คืนนี้ออกไหม \(Night Out\)](https://open.spotify.com/track/6moRqJrR3ELxopY0k5fB6L) | [KRIST](https://open.spotify.com/artist/44bpIttZnohSzfXKoaw31l) | [คืนนี้ออกไหม \(Night Out\) \- Single](https://open.spotify.com/album/6fBiI2M0789dULbG6MCH6L) | 3:46 | 2023-09-15 |  |
+| [คืนนี้ออกไหม \(Night Out\)](https://open.spotify.com/track/6moRqJrR3ELxopY0k5fB6L) | [KRIST](https://open.spotify.com/artist/44bpIttZnohSzfXKoaw31l) | [คืนนี้ออกไหม \(Night Out\) \- Single](https://open.spotify.com/album/6fBiI2M0789dULbG6MCH6L) | 3:46 | 2023-09-15 | 2023-09-23 |
 | [คือเธอ \- Original soundtrack from "Cutie Pie 2 You"](https://open.spotify.com/track/2eXpVUUo3WeFkLcp3HWFZ9) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg), [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [คือเธอ \(Original soundtrack from "Cutie Pie 2 You"\)](https://open.spotify.com/album/1jaKAX6yT6fXPUdDuX6E6i) | 3:19 | 2023-02-02 | 2023-02-11 |
 | [คุยคนเดียวเก่ง](https://open.spotify.com/track/4DqaFHKqAsnBn9DfLWhRpW) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 3:22 | 2022-05-26 | 2022-12-24 |
 | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/track/2vQjt6vAghkAHa5WObuF2W) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/album/1XtKXmvNFMiuGJZ4vsxmVZ) | 3:43 | 2022-05-26 |  |
+| [งอนตลอด \(Tell Me What You Want\)](https://open.spotify.com/track/7hz7tpYU2mvsBBnxLIjk8o) | [Ice Paris](https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n) | [งอนตลอด \(Tell Me What You Want\)](https://open.spotify.com/album/1vUv6QoW9OEGv70WF6Rfru) | 3:16 | 2023-09-22 |  |
 | [งอนละ](https://open.spotify.com/track/5zFjMw9tOpbhlZWVCDalJA) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:41 | 2022-11-17 | 2023-09-20 |
 | [จะถ่ายรูปเธอให้ถึงสัก 1000 ใบ](https://open.spotify.com/track/1iO8Gwn33kImgOeDpFXTD5) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [จะถ่ายรูปเธอให้ถึงสัก 1000 ใบ](https://open.spotify.com/album/7qbW3ywq8vR5IhhsNMJ09F) | 3:17 | 2022-06-16 | 2022-07-02 |
 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 | 2023-04-10 |  |
@@ -219,7 +221,7 @@
 | [มาเอาไร \- A Rebound](https://open.spotify.com/track/0E1TRAWupIIwrC3vZDkHFd) | [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [มาเอาไร \(A Rebound\)](https://open.spotify.com/album/4bYkrPsvvRsRhYcaSl3TA7) | 3:03 | 2022-06-09 | 2022-06-17 |
 | [มาๆหายๆ feat.Karn The Parkinson](https://open.spotify.com/track/4DvOHc5Tguj6RN8o677cWC) | [LOSTBOYS](https://open.spotify.com/artist/35Ion6GBXviFXe5AzHduxb) | [I GOT LOST BUT LOOK WHAT I FOUND](https://open.spotify.com/album/4P76Ypg17RLMlwr17EPWL6) | 3:10 | 2022-06-23 | 2022-07-02 |
 | [มีปัญหาปรึกษาดาว](https://open.spotify.com/track/4YxaxRxi8lFZdAWS9nCmAn) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [มีปัญหาปรึกษาดาว](https://open.spotify.com/album/2Xt4DOcKSz4DZfB1cKsZAo) | 3:58 | 2022-05-26 | 2022-07-24 |
-| [ยอมแค่เธอ \(Loser\)](https://open.spotify.com/track/0ko2QIbamfYiRwG4eQcY4q) | [ATK](https://open.spotify.com/artist/5QKuqbXQ3cujnmrGOh4Qx1) | [ยอมแค่เธอ \(Loser\)](https://open.spotify.com/album/1B0vAYFcnVbFg5ySoLi8mX) | 3:53 | 2023-09-15 |  |
+| [ยอมแค่เธอ \(Loser\)](https://open.spotify.com/track/0ko2QIbamfYiRwG4eQcY4q) | [ATK](https://open.spotify.com/artist/5QKuqbXQ3cujnmrGOh4Qx1) | [ยอมแค่เธอ \(Loser\)](https://open.spotify.com/album/1B0vAYFcnVbFg5ySoLi8mX) | 3:53 | 2023-09-15 | 2023-09-23 |
 | [ยังมีความรักให้เธอเสมอ](https://open.spotify.com/track/1wMKxgl9ao5Rou5rHQo1cS) | [Mark Methathavach](https://open.spotify.com/artist/5CMGEfQ5n3LJqKcld9Z5Xl) | [ยังมีความรักให้เธอเสมอ](https://open.spotify.com/album/46EkpoOFyV88Tnoe6HlW5d) | 4:21 | 2022-06-23 | 2022-07-15 |
 | [ยิ่งเหงายิ่งคิดถึงเธอ](https://open.spotify.com/track/6CgJl6EjINVDLvRTYIHwl2) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ยิ่งเหงายิ่งคิดถึงเธอ](https://open.spotify.com/album/2FOjpZekfrJ3BYvCNuNRqS) | 4:10 | 2022-09-15 | 2022-10-13 |
 | [ยิ้มทั้งน้ำตา](https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ยิ้มทั้งน้ำตา](https://open.spotify.com/album/0gGRJrAvSjPI4U2mf0D0Hd) | 4:45 | 2023-03-09 |  |

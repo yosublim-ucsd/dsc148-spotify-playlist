@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,393 likes - 100 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,461 likes - 100 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 99 | [All This Love That I'm Givin'](https://open.spotify.com/track/18Zt6bYW7WZ7gIzFHPHNXu) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [Gwen McCrae: Cat & Atlantic Years](https://open.spotify.com/album/5hUkNJBkNpK5oINAjEdpVt) | 3:53 |
 | 100 | [Saturday Jam](https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD) | [Benedek](https://open.spotify.com/artist/0VGUa1xtVL7g1srvyzbY7t), [K\-Maxx](https://open.spotify.com/artist/5RSuS2evjc9IGjLJUt1iZR), [Sasac](https://open.spotify.com/artist/0ZfeJXXkQPkG21bGk3NTLt), [Turquoise Summers](https://open.spotify.com/artist/3m8JJr3ASeNiSHK85P4o4z), [Buscrates 16 Bit Ensemble](https://open.spotify.com/artist/2w04ct5AHBWI3AxA6PbuEb), [East Liberty Quarters](https://open.spotify.com/artist/4vJ4MIyanwJLkDECKh0Dik), [Henning](https://open.spotify.com/artist/5ppN1E00CZsVGCmTlAOtQO), [TONI CLARKE](https://open.spotify.com/artist/6vyhMj9yU8TGz3VfHfzNsB) | [Raw Silk Vol\. 1](https://open.spotify.com/album/4J8COrwRuMK2CQGNp9353D) | 4:11 |
 
-Snapshot ID: `MCwwNWM3MDc3ZWFmOTJkMzIyN2M3ZmE4MTRjYjVjNmE4ZGVlZjEyNDYw`
+Snapshot ID: `MCwyZDhkNmM1Y2Q4ZjNlZWEwMGFlMzJlYWZiYTI2M2QyNTg4ZDAxNWM1`

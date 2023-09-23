@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Tsuki
 
-144 songs - 9 hr 52 min
+145 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Come Alive](https://open.spotify.com/track/2QjcwXdj7h7ftIU4U93For) | [Deadbeat](https://open.spotify.com/artist/7DoljqvX8N0tjx7hC5ni7e), [Joey Illah](https://open.spotify.com/artist/6LqDmI7IuhPRe83EAdHAMV), [MR.O6OO](https://open.spotify.com/artist/6prEQtEIerqPBVuweTn39q) | [Come Alive](https://open.spotify.com/album/2FB5Jq7SWetNUBmr9w47lM) | 4:16 | 2022-05-06 | 2023-02-17 |
 | [Come Around](https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC) | [Come Around](https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O) | 3:48 | 2022-08-12 |  |
 | [Comedown](https://open.spotify.com/track/7HqdGd8YUpnAM2X4A2FBaZ) | [Harley D](https://open.spotify.com/artist/477hz7cR6hdGtsNQ5aj168) | [Comedown / What Makes You](https://open.spotify.com/album/2i2Ci4zaH3LrrnYH9d8TnU) | 4:27 | 2022-05-06 | 2022-07-27 |
+| [Complicated](https://open.spotify.com/track/4waq3ATMeZmOaHxHf9vLpp) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Complicated](https://open.spotify.com/album/5zwbiBQP3sm4kqV1I1ThVM) | 4:26 | 2023-09-22 |  |
 | [Confliction](https://open.spotify.com/track/1ExW4pjV1zROf5QveEk64S) | [CrossBreed](https://open.spotify.com/artist/3ifKKKcUBOYQ64Un0bpjQL), [MTD](https://open.spotify.com/artist/0DSkqLja3BBRvuoK0WcBDo), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Confliction](https://open.spotify.com/album/1WS53YDSSfOFyJPUQ1SR1E) | 3:20 | 2022-08-12 |  |
 | [Cool Out Son \- Benny Page & Isaac Maya Remix \- Edit](https://open.spotify.com/track/1rpw2J5u4jBB6gRow9JyUL) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34), [Benny Page](https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1), [Isaac Maya](https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8) | [Cool Out Son](https://open.spotify.com/album/6Z8z6IXng18jfx5kAzpCp4) | 3:28 | 2022-05-06 | 2023-09-20 |
 | [Dancing in the Dark](https://open.spotify.com/track/3DZExPtWIJE8LPMCLpHGxK) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Buunshin](https://open.spotify.com/artist/5ucX3eT8wlEQGRVwUyeqBj) | [Dancing in the Dark](https://open.spotify.com/album/35bk4rPp9c8t7wEmXgrBFU) | 2:47 | 2022-05-06 |  |
@@ -71,7 +72,7 @@
 | [Infinity](https://open.spotify.com/track/1EY6HivuyFfBETSEyDAPys) | [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC), [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Genesis](https://open.spotify.com/album/2EMenP3Cn1Ely4hLp6bhHy) | 4:09 | 2022-08-12 | 2023-05-21 |
 | [Is It Possible](https://open.spotify.com/track/6n2P6oGffDzXReGv3boofn) | [Furniss](https://open.spotify.com/artist/6Atar0bD8ULP5VWw3SlU3X) | [Is It Possible / Sinister](https://open.spotify.com/album/1ynrxjXnaTpGqqZhs5Gte5) | 4:24 | 2022-05-06 | 2022-07-26 |
 | [Journey \- VIP 2](https://open.spotify.com/track/1JRjRDsjnBlJMaZ9xyRgXW) | [Complex](https://open.spotify.com/artist/2ibvDiUxAdyKlz0YrXFyZH) | [Journey \(VIP 2\)](https://open.spotify.com/album/3Ocehutu2kFyNmxrNLhWvN) | 3:44 | 2022-05-06 | 2022-07-29 |
-| [Kickons](https://open.spotify.com/track/2jWC2T3dNIn5vHdyW7MvCZ) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Kickons](https://open.spotify.com/album/1feFNzuO4vDCFGA7OuqKM9) | 3:55 | 2022-08-12 |  |
+| [Kickons](https://open.spotify.com/track/2jWC2T3dNIn5vHdyW7MvCZ) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Kickons](https://open.spotify.com/album/1feFNzuO4vDCFGA7OuqKM9) | 3:55 | 2022-08-12 | 2023-09-23 |
 | [Kickons](https://open.spotify.com/track/2nLvgdviA51uIm9KnlcWv8) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Kickons](https://open.spotify.com/album/38XJnu6lO4uiRyGPnbpVW7) | 3:55 | 2022-05-06 | 2023-05-19 |
 | [Lady Petrol](https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Lady Petrol](https://open.spotify.com/album/24e3IAndixmqYlExyKTldi) | 5:09 | 2022-05-06 |  |
 | [Laser](https://open.spotify.com/track/6A8xdDCg9ZXX7ixqADU4Sp) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Let's Play](https://open.spotify.com/album/2bnmP4Sddqbmx5YqRTeKDt) | 4:11 | 2022-05-06 | 2022-07-28 |

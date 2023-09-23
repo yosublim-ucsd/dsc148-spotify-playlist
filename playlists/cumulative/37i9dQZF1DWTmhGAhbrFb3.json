@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Agbaye",
+        "url": "https://open.spotify.com/album/2jiYTUEzw4EOiLmr6Qow2k"
+      },
+      "artists": [
+        {
+          "name": "Torpor Snooze",
+          "url": "https://open.spotify.com/artist/5KKzkIqyec5NR4h5vxE0Wx"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Agbaye",
+      "url": "https://open.spotify.com/track/1155sK5VOJc7DC23kdiJjU"
+    },
+    {
+      "album": {
         "name": "All Along",
         "url": "https://open.spotify.com/album/7CRo25Q6dFAeZDTJ4Bgfgq"
       },
@@ -4354,7 +4372,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 136541,
       "name": "Silver And Coal",
       "url": "https://open.spotify.com/track/0FElHU73Oq9TU32BhWSie6"

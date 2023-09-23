@@ -1,12 +1,12 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 30945,
+  "num_followers": 30978,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTAyMmJlZjQyMzFjYjgzNjgzNWYxMDJjZjg5Nzk1NGNkNTM4ZjA4",
+  "snapshot_id": "MCw1YWNiMThkMDI3MTdiZWYyNjExOGUxOWE1NDBkZTU4OWFhOThkYjRi",
   "tracks": [
     {
       "added_at": "2023-09-22 00:01:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/2vsrbUajfq68KSTxKeSFqn"
-      },
-      "artists": [
-        {
-          "name": "Mette Henriette",
-          "url": "https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP"
-        }
-      ],
-      "duration_ms": 71160,
-      "name": "Divining",
-      "url": "https://open.spotify.com/track/4SBb0JU3bGQBVWra4nirwA"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Solid Ether",
         "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
       },
@@ -243,22 +227,34 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "\u00c1n tillits",
-        "url": "https://open.spotify.com/album/75UE0siCksMmA2Hcl1tIVi"
+        "name": "Begging",
+        "url": "https://open.spotify.com/album/1xHV3UVKqlEB1VCm3AiA0p"
       },
       "artists": [
         {
-          "name": "Magn\u00fas J\u00f3hann",
-          "url": "https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5"
-        },
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+          "name": "Mathias Eick",
+          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
         }
       ],
-      "duration_ms": 152234,
-      "name": "M\u00f3gr\u00e1",
-      "url": "https://open.spotify.com/track/3EjBZOjGpr8YKicl6E5TI8"
+      "duration_ms": 294986,
+      "name": "Begging",
+      "url": "https://open.spotify.com/track/258PbYttupkBbMUYHWSD8E"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/2vsrbUajfq68KSTxKeSFqn"
+      },
+      "artists": [
+        {
+          "name": "Mette Henriette",
+          "url": "https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP"
+        }
+      ],
+      "duration_ms": 71160,
+      "name": "Divining",
+      "url": "https://open.spotify.com/track/4SBb0JU3bGQBVWra4nirwA"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -279,18 +275,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Begging",
-        "url": "https://open.spotify.com/album/1xHV3UVKqlEB1VCm3AiA0p"
+        "name": "\u00c1n tillits",
+        "url": "https://open.spotify.com/album/75UE0siCksMmA2Hcl1tIVi"
       },
       "artists": [
         {
-          "name": "Mathias Eick",
-          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
+          "name": "Magn\u00fas J\u00f3hann",
+          "url": "https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5"
+        },
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
         }
       ],
-      "duration_ms": 294986,
-      "name": "Begging",
-      "url": "https://open.spotify.com/track/258PbYttupkBbMUYHWSD8E"
+      "duration_ms": 152234,
+      "name": "M\u00f3gr\u00e1",
+      "url": "https://open.spotify.com/track/3EjBZOjGpr8YKicl6E5TI8"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -335,38 +335,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Maridalen",
-        "url": "https://open.spotify.com/album/3Enn6CF41yQeXk0OWMNDti"
-      },
-      "artists": [
-        {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
-        }
-      ],
-      "duration_ms": 263600,
-      "name": "Maridalen",
-      "url": "https://open.spotify.com/track/1U4qTswiFt7oHJUtsnuxkW"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Contra La Indecisi\u00f3n",
-        "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
-        }
-      ],
-      "duration_ms": 352746,
-      "name": "Oktoberhavet",
-      "url": "https://open.spotify.com/track/3vAJ3gvTKRsXTO6XCbcI6q"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Khmer",
         "url": "https://open.spotify.com/album/76Z70kaNILhjzrf0wC0RB6"
       },
@@ -379,6 +347,22 @@
       "duration_ms": 301026,
       "name": "On Stream",
       "url": "https://open.spotify.com/track/6nqhMMxnXbb2kMuh2cNd2L"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Maridalen",
+        "url": "https://open.spotify.com/album/3Enn6CF41yQeXk0OWMNDti"
+      },
+      "artists": [
+        {
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+        }
+      ],
+      "duration_ms": 263600,
+      "name": "Maridalen",
+      "url": "https://open.spotify.com/track/1U4qTswiFt7oHJUtsnuxkW"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -407,6 +391,22 @@
       "duration_ms": 472053,
       "name": "The Door",
       "url": "https://open.spotify.com/track/7xlHjxJbGQjHA40E7pFnZB"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Contra La Indecisi\u00f3n",
+        "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+        }
+      ],
+      "duration_ms": 352746,
+      "name": "Oktoberhavet",
+      "url": "https://open.spotify.com/track/3vAJ3gvTKRsXTO6XCbcI6q"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Cirklar",
+        "url": "https://open.spotify.com/album/5TIo91wP9nusWE2LJTKzPM"
+      },
+      "artists": [
+        {
+          "name": "Tingvall Trio",
+          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
+        }
+      ],
+      "duration_ms": 289733,
+      "name": "Vulkanen",
+      "url": "https://open.spotify.com/track/7nTTRAinXFN70lO4CIDEqC"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "roads",
         "url": "https://open.spotify.com/album/0HZEY9yhNkDxB2fZPoAj92"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 286213,
       "name": "roads",
       "url": "https://open.spotify.com/track/3os2ZWpiap6mjJjuXRwoZw"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Cirklar",
-        "url": "https://open.spotify.com/album/5TIo91wP9nusWE2LJTKzPM"
-      },
-      "artists": [
-        {
-          "name": "Tingvall Trio",
-          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
-        }
-      ],
-      "duration_ms": 289733,
-      "name": "Vulkanen",
-      "url": "https://open.spotify.com/track/7nTTRAinXFN70lO4CIDEqC"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1219,30 +1219,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
-      },
-      "artists": [
-        {
-          "name": "Ketil Bj\u00f8rnstad",
-          "url": "https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph"
-        },
-        {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
-        },
-        {
-          "name": "Jon Christensen",
-          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
-        }
-      ],
-      "duration_ms": 367120,
-      "name": "Remembrance VI",
-      "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Being",
         "url": "https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC"
       },
@@ -1263,6 +1239,30 @@
       "duration_ms": 380306,
       "name": "The Pondering",
       "url": "https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
+      },
+      "artists": [
+        {
+          "name": "Ketil Bj\u00f8rnstad",
+          "url": "https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph"
+        },
+        {
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
+        },
+        {
+          "name": "Jon Christensen",
+          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
+        }
+      ],
+      "duration_ms": 367120,
+      "name": "Remembrance VI",
+      "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1295,22 +1295,6 @@
       "duration_ms": 249386,
       "name": "Point of View",
       "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Wood Circles",
-        "url": "https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP"
-      },
-      "artists": [
-        {
-          "name": "Thommy Andersson",
-          "url": "https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6"
-        }
-      ],
-      "duration_ms": 323176,
-      "name": "Fanfar",
-      "url": "https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1351,6 +1335,22 @@
       "duration_ms": 392653,
       "name": "The Void",
       "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Wood Circles",
+        "url": "https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP"
+      },
+      "artists": [
+        {
+          "name": "Thommy Andersson",
+          "url": "https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6"
+        }
+      ],
+      "duration_ms": 323176,
+      "name": "Fanfar",
+      "url": "https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Landkjenning",
+        "url": "https://open.spotify.com/album/6CzBXM5G2oIYxx004wSohG"
+      },
+      "artists": [
+        {
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+        }
+      ],
+      "duration_ms": 215552,
+      "name": "Landkjenning",
+      "url": "https://open.spotify.com/track/0rwKvhsCGby7GKkk3kDR3P"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Few Words",
         "url": "https://open.spotify.com/album/768ILtCs2fcV8udYKtYvo8"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 101175,
       "name": "Few Words",
       "url": "https://open.spotify.com/track/3MXtKi9TTIk2Ae4BLpiehg"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Landkjenning",
-        "url": "https://open.spotify.com/album/6CzBXM5G2oIYxx004wSohG"
-      },
-      "artists": [
-        {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
-        }
-      ],
-      "duration_ms": 215552,
-      "name": "Landkjenning",
-      "url": "https://open.spotify.com/track/0rwKvhsCGby7GKkk3kDR3P"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1743,18 +1743,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Kurzsam and Fulger",
-        "url": "https://open.spotify.com/album/02v7KZwhzrycECwi8OOB15"
+        "name": "Ancient Land, New Territory",
+        "url": "https://open.spotify.com/album/6IefZoNhUs1R1QONYERDRe"
       },
       "artists": [
         {
-          "name": "Christian Wallumr\u00f8d Ensemble",
-          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
+          "name": "Jonas Sj\u00f8vaag",
+          "url": "https://open.spotify.com/artist/544mcLr8VsXi1swrijY3fT"
+        },
+        {
+          "name": "Arild Andersen",
+          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
         }
       ],
-      "duration_ms": 373899,
-      "name": "Langsam",
-      "url": "https://open.spotify.com/track/0NKRiAOYSRLh93LkStI71j"
+      "duration_ms": 459000,
+      "name": "Sacred Rituals",
+      "url": "https://open.spotify.com/track/4fibLzZCLwcyvsO4Y2MFel"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1795,22 +1799,18 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Ancient Land, New Territory",
-        "url": "https://open.spotify.com/album/6IefZoNhUs1R1QONYERDRe"
+        "name": "Kurzsam and Fulger",
+        "url": "https://open.spotify.com/album/02v7KZwhzrycECwi8OOB15"
       },
       "artists": [
         {
-          "name": "Jonas Sj\u00f8vaag",
-          "url": "https://open.spotify.com/artist/544mcLr8VsXi1swrijY3fT"
-        },
-        {
-          "name": "Arild Andersen",
-          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
+          "name": "Christian Wallumr\u00f8d Ensemble",
+          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
         }
       ],
-      "duration_ms": 459000,
-      "name": "Sacred Rituals",
-      "url": "https://open.spotify.com/track/4fibLzZCLwcyvsO4Y2MFel"
+      "duration_ms": 373899,
+      "name": "Langsam",
+      "url": "https://open.spotify.com/track/0NKRiAOYSRLh93LkStI71j"
     },
     {
       "added_at": "2023-09-22 00:01:00",

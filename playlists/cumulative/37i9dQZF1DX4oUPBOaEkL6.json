@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hottest Latin hits in the US! Cover: KAROL G",
+  "description": "The hottest Latin hits in the US! Cover: Junior H, Jasiel Nu\u00f1ez & Peso Pluma",
   "name": "\u00c9xitos USA",
   "tracks": [
     {
@@ -378,7 +378,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 205299,
       "name": "As\u00ed Lo Quiso Dios",
       "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
@@ -620,6 +620,32 @@
       "duration_ms": 163940,
       "name": "Billete Grande (En Vivo)",
       "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
+    },
+    {
+      "album": {
+        "name": "BIPOLAR",
+        "url": "https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265045,
+      "name": "BIPOLAR",
+      "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
     },
     {
       "album": {
@@ -1260,7 +1286,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 173547,
       "name": "Copa Vac\u00eda",
       "url": "https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G"
@@ -1488,7 +1514,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 126522,
       "name": "DEMBOW B\u00c9LICO",
       "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
@@ -1834,7 +1860,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 187225,
       "name": "El Azul",
       "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
@@ -3293,6 +3319,24 @@
     },
     {
       "album": {
+        "name": "La V\u00edctima",
+        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156345,
+      "name": "La V\u00edctima",
+      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
+    },
+    {
+      "album": {
         "name": "Da\u00f1ado (Deluxe)",
         "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
       },
@@ -4474,6 +4518,24 @@
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
+    },
+    {
+      "album": {
+        "name": "Me Muevo Con Dios",
+        "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180374,
+      "name": "Movezz en silencio",
+      "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
     },
     {
       "album": {

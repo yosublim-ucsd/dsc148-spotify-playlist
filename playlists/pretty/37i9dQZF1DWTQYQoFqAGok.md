@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,678 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,689 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 15 | [Jazztepec](https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 3:58 |
 | 16 | [Charleston](https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [15 Éxitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta](https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1) | 2:28 |
 | 17 | [Mambo en Sax](https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj) | [Los Músicos De José](https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd) | [Dilo! Homenaje a Pérez Prado](https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY) | 3:15 |
-| 18 | [Fijate Que Suave](https://open.spotify.com/track/1PwJUleR5YVeNBckjSXDTg) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Jazz Vinil](https://open.spotify.com/album/52WJbxe0xZuqq4UAChFNXX) | 4:11 |
-| 19 | [Susano's Calipso](https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB) | [Cristobal Lopez](https://open.spotify.com/artist/5NI5xhoDsyrbcnBYH6UNmI) | [Dream Maker \(Guitar Smooth Jazz\)](https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc) | 3:22 |
+| 18 | [Susano's Calipso](https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB) | [Cristobal Lopez](https://open.spotify.com/artist/5NI5xhoDsyrbcnBYH6UNmI) | [Dream Maker \(Guitar Smooth Jazz\)](https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc) | 3:22 |
+| 19 | [Fijate Que Suave](https://open.spotify.com/track/1PwJUleR5YVeNBckjSXDTg) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Jazz Vinil](https://open.spotify.com/album/52WJbxe0xZuqq4UAChFNXX) | 4:11 |
 | 20 | [Calladito Te Ves Mejor](https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu) | [La Bermúdez](https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl), [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [Calladito Te Ves Mejor](https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C) | 3:56 |
 | 21 | [Al son de la marimba](https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh) | [Na'rimbo](https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt) | [...un poco mas.](https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM) | 6:10 |
 | 22 | [2 Cartas](https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Antonio Sánchez](https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw) | [2 Cartas](https://open.spotify.com/album/63hYNPwrWjNuTj9uxazvW3) | 4:45 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 47 | [Andamos Huyendo](https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J) | [Amanda Tovalin](https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK) | [Andamos Huyendo](https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ) | 4:51 |
 | 48 | [Por los Caminos del Sur](https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt) | [Guerrero Jazz](https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6) | [Mi Sentimiento Guerrerense](https://open.spotify.com/album/6035edQMGEkEvpgomvasDC) | 5:39 |
 | 49 | [Safo \(La Sacerdotiza Del Amor\)](https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Frente A Frente: Mexican Jazz Jam](https://open.spotify.com/album/3hF6IXgJlQ0gEwHJzVl9fr) | 3:24 |
-| 50 | [Suite Yusef Lateef](https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Guillaume Pouget](https://open.spotify.com/artist/68aVRNEtPd31Qmo77iGojE) | [Kumoi](https://open.spotify.com/album/2qLAtuAVOqy3KXRhLb7bsU) | 2:07 |
+| 50 | [La vida tiene que seguir, amor](https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj) | [Freddy Marichal](https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA), [Nuevas Relaciones, Las](https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c) | [Nuevas Relaciones: Atardecer](https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl) | 6:10 |
 
-Snapshot ID: `MCxmY2M2ZmQ2YzRlYTFlZDY2MTFlOWIxMjA5ZWYxN2JjZDhlZTBkMjFh`
+Snapshot ID: `MCwzMzhhODFlYTQ3MTgzYmI2YmJjMmQ4MjFhYjVhMmQ1ZThjNDBkYzJj`

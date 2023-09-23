@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > For those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,987 likes - 150 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,046 likes - 150 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 44 | [Last Request](https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:40 |
 | 45 | [You Are The Reason \- Duet Version](https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Only Human \(Special Edition\)](https://open.spotify.com/album/1RcwvxkvyE60CTFNagElek) | 3:10 |
 | 46 | [Lost Without You](https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:45 |
-| 47 | [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 |
-| 48 | [This I Promise You](https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 4:44 |
+| 47 | [This I Promise You](https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 4:44 |
+| 48 | [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 |
 | 49 | [All That Matters](https://open.spotify.com/track/6CLVh9sekZ1p2G8Tfhhj8h) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Journals](https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA) | 3:11 |
 | 50 | [Please Keep Loving Me](https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64) | 3:15 |
 | 51 | [One Call Away](https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) | 3:14 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 81 | [I Was Made For Loving You](https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile](https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS) | 3:08 |
 | 82 | [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 |
 | 83 | [1973 \- Acoustic](https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 3:29 |
-| 84 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 |
-| 85 | [Take Me Home](https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO) | 4:25 |
+| 84 | [Take Me Home](https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO) | 4:25 |
+| 85 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 |
 | 86 | [One Call Away \- Acoustic](https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away \(Acoustic + Remixes\)](https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q) | 3:09 |
 | 87 | [Dirty Old Town](https://open.spotify.com/track/3sPpEYjRGQYV0XOjy4pYqh) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [Goodnight \(Go Home\)](https://open.spotify.com/album/4VWuOzRhYZQ2Qo2upiTcbd) | 4:06 |
 | 88 | [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 |
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 118 | [Ghost in the Wind](https://open.spotify.com/track/7yyKgVdqUPMAZGIV02Ppip) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Air: Aquarius' Songs](https://open.spotify.com/album/4Md8YZmHgLlflGYj9HF5Bk) | 4:30 |
 | 119 | [Heartbeat](https://open.spotify.com/track/2Cj2XFOMBT8IrT0aapNTee) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Heartbeat](https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak) | 3:20 |
 | 120 | [Heaven on Earth](https://open.spotify.com/track/3FTpb7bVZEK503Ldoiewm1) | [Roann](https://open.spotify.com/artist/6OwRvBiAqnNokRLAtnGDLy), [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Heaven on Earth](https://open.spotify.com/album/08R8TFMIdn2IwhDOmfKmqA) | 3:12 |
-| 121 | [Bridge Back to Your Heart](https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk) | [The Beach](https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO) | [Bridge Back to Your Heart](https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA) | 4:21 |
-| 122 | [So Close To Magic](https://open.spotify.com/track/6aiss5Ofip4rDM88Fs1Yrg) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [So Close To Magic](https://open.spotify.com/album/0U9mWDHfGU2dOySdeHlQh1) | 3:22 |
+| 121 | [So Close To Magic](https://open.spotify.com/track/6aiss5Ofip4rDM88Fs1Yrg) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [So Close To Magic](https://open.spotify.com/album/0U9mWDHfGU2dOySdeHlQh1) | 3:22 |
+| 122 | [Bridge Back to Your Heart](https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk) | [The Beach](https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO) | [Bridge Back to Your Heart](https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA) | 4:21 |
 | 123 | [Radio](https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Radio](https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0) | 3:10 |
 | 124 | [May I Have This Dance](https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [May I Have This Dance](https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC) | 3:31 |
 | 125 | [Everything](https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9) | [Elle Eliades](https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i) | [Everything](https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ) | 3:39 |
@@ -151,12 +151,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 141 | [Kaleidoscope Evening](https://open.spotify.com/track/5D386TwGGyXGLxgFCO30kX) | [Reuben Fleetwood](https://open.spotify.com/artist/3V3OkC3z09nyxXgt87IPtH) | [Kaleidoscope Evening](https://open.spotify.com/album/5am09sLNv7qC5QfPLC0KPG) | 2:43 |
 | 142 | [Rebekah](https://open.spotify.com/track/18RQoXcen7pcKhFreuN02y) | [Jack Vallier](https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN) | [Rebekah \- EP](https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH) | 3:20 |
 | 143 | [Beautiful Lies](https://open.spotify.com/track/5FEURlJJerhVZqQT43aKFj) | [CokeCarl](https://open.spotify.com/artist/4la2pVycKuAABaLuWNnYCU) | [Beautiful Lies](https://open.spotify.com/album/2MmBJ72Yh8qfH8tIWEkhID) | 3:02 |
-| 144 | [Song For A Friend](https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Song For A Friend](https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I) | 3:56 |
-| 145 | [Animals \- Unplugged Version](https://open.spotify.com/track/2B4aEk81BPoL658L1XYG8y) | [Chris Call](https://open.spotify.com/artist/2VG4hPDzupCJX6q4sy1lRg) | [Animals](https://open.spotify.com/album/6DtdsdwOV5h6wG17vSpgn1) | 3:50 |
+| 144 | [Animals \- Unplugged Version](https://open.spotify.com/track/2B4aEk81BPoL658L1XYG8y) | [Chris Call](https://open.spotify.com/artist/2VG4hPDzupCJX6q4sy1lRg) | [Animals](https://open.spotify.com/album/6DtdsdwOV5h6wG17vSpgn1) | 3:50 |
+| 145 | [Song For A Friend](https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Song For A Friend](https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I) | 3:56 |
 | 146 | [Shelter](https://open.spotify.com/track/5JdnVXe1i6CI8a0cdPtLOc) | [David Ryan Harris](https://open.spotify.com/artist/3wnsAakCkhyU3yKQYMZmGo) | [Lightyears](https://open.spotify.com/album/7cVQV3nQQebitwdDJMKmT9) | 4:10 |
 | 147 | [If the Creek Don't Rise](https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Paupers Field](https://open.spotify.com/album/3358kRupkHRyMq6hbVqeh1) | 3:24 |
 | 148 | [Joshua](https://open.spotify.com/track/6bgoagsYAQaPn8vTP5uaJ1) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Baby Teeth](https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht) | 3:31 |
 | 149 | [Heights](https://open.spotify.com/track/6AeMqCW8yvsUlPbC2euMON) | [Only Girl](https://open.spotify.com/artist/2ZkQAcKkFO60QQybtXDStt) | [Heights](https://open.spotify.com/album/0XDFAkZ0lguLrmkJlq0bRp) | 3:46 |
 | 150 | [Keeper](https://open.spotify.com/track/4eAjYQi1Pcimj01jVl9DFO) | [Furns](https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy) | [Keeper](https://open.spotify.com/album/6diy4RSh46M4H07eFCSywl) | 4:25 |
 
-Snapshot ID: `MCwxNGQ4ZjMxODU5N2MzMmIxNTg5MjI4N2JiMTNiZTVlNTBmYTczMzFj`
+Snapshot ID: `MCxjZDcwNWQ0MDViZjQxYzU3NzZkMjYzYmUzNTcwMDE2MDY0NDQwYWE4`

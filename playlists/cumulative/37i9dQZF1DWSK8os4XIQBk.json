@@ -456,7 +456,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 214346,
       "name": "Anchor Man",
       "url": "https://open.spotify.com/track/2VpTP2ZgkwlUUKEgLiIFHI"
@@ -1397,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Coal",
+        "url": "https://open.spotify.com/album/2STtbigxgiR3GU5h6PowiT"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194604,
+      "name": "Coal",
+      "url": "https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw"
+    },
+    {
+      "album": {
         "name": "Bet You're from a Small Town",
         "url": "https://open.spotify.com/album/00rNMpiSdqmVWMmQsahNTo"
       },
@@ -1904,7 +1922,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 167333,
       "name": "Daylight Savings",
       "url": "https://open.spotify.com/track/4MQ3oCdmDXeXizWdYxdPM3"
@@ -2964,7 +2982,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 201800,
       "name": "Give Her That",
       "url": "https://open.spotify.com/track/6Shb0psixdhEjdlDkyexeu"
@@ -3072,7 +3090,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 201970,
       "name": "Goodbye\u2019s Kickin\u2019 In",
       "url": "https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA"
@@ -3789,6 +3807,24 @@
     },
     {
       "album": {
+        "name": "I Can Feel It",
+        "url": "https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163600,
+      "name": "I Can Feel It",
+      "url": "https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ"
+    },
+    {
+      "album": {
         "name": "Humble Quest",
         "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
@@ -4080,6 +4116,24 @@
       "duration_ms": 172106,
       "name": "I'm Not For Everyone",
       "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
+    },
+    {
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181066,
+      "name": "I'm Not Pretty",
+      "url": "https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU"
     },
     {
       "album": {
@@ -4394,6 +4448,28 @@
       "duration_ms": 171880,
       "name": "It Matters To Her",
       "url": "https://open.spotify.com/track/4aSRUXfKuBbmje0eXNukuL"
+    },
+    {
+      "album": {
+        "name": "It's Going Down",
+        "url": "https://open.spotify.com/album/4mYrW2yjTVXSEhoSKjCF22"
+      },
+      "artists": [
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        },
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130037,
+      "name": "It's Going Down",
+      "url": "https://open.spotify.com/track/11AhOBHzBFOYd5vrylorgK"
     },
     {
       "album": {
@@ -4862,7 +4938,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 145106,
       "name": "Little Songs",
       "url": "https://open.spotify.com/track/1SvFlRSYQRAkhigT0yoo8k"
@@ -5318,7 +5394,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 219853,
       "name": "Middle Ground (feat. Mickey Guyton)",
       "url": "https://open.spotify.com/track/3UK3ZCRxqV3FOEMnGxeFZa"
@@ -6362,7 +6438,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 177400,
       "name": "Out Of That Truck",
       "url": "https://open.spotify.com/track/1xdsRkWxWWUkKhh9hRtfYp"
@@ -6654,7 +6730,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 159640,
       "name": "Playin' On The Tracks",
       "url": "https://open.spotify.com/track/4YCwBjIphmO1L4eTWbAk0n"
@@ -6788,7 +6864,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 173346,
       "name": "Product Of (Feat. Lee Brice)",
       "url": "https://open.spotify.com/track/3Bb1txAwFxLW1PbKRlBV2x"
@@ -7164,7 +7240,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 177720,
       "name": "Sad Ass Country Song",
       "url": "https://open.spotify.com/track/3nn7clyurm04ygyjoRlBy6"
@@ -7240,6 +7316,28 @@
       "duration_ms": 219960,
       "name": "Same Car",
       "url": "https://open.spotify.com/track/6yCW8qaDobbzDQS4qjTfJO"
+    },
+    {
+      "album": {
+        "name": "Sarah's Place (feat. Noah Kahan)",
+        "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214056,
+      "name": "Sarah's Place (feat. Noah Kahan)",
+      "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
     },
     {
       "album": {
@@ -7374,7 +7472,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 157800,
       "name": "See You Next Summer",
       "url": "https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc"
@@ -7522,7 +7620,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 193898,
       "name": "Shoot Tequila",
       "url": "https://open.spotify.com/track/2ubqNCuBR6wezgKxiSlIBh"
@@ -7692,6 +7790,24 @@
       "duration_ms": 196733,
       "name": "Small Town Me",
       "url": "https://open.spotify.com/track/5XYk13uT6mzwe6P8lSrPdh"
+    },
+    {
+      "album": {
+        "name": "Small Town Somethin'",
+        "url": "https://open.spotify.com/album/0U1acuLEmKlqtPoiCX7vqU"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152253,
+      "name": "Small Town Somethin'",
+      "url": "https://open.spotify.com/track/2PYiiO6tPLmuCqNH2sV7J6"
     },
     {
       "album": {
@@ -8780,10 +8896,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 205531,
       "name": "The Tree",
       "url": "https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI"
+    },
+    {
+      "album": {
+        "name": "The Whiskey's Gone",
+        "url": "https://open.spotify.com/album/3B5ICHgHiMeBUq0xmH2Ntm"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177186,
+      "name": "The Whiskey's Gone",
+      "url": "https://open.spotify.com/track/1zSpONTt43MyPpw53vdfj2"
     },
     {
       "album": {
@@ -9266,7 +9400,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 128464,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/7tNHLrbkBhU6xh0GL0gTtQ"
@@ -9288,6 +9422,28 @@
       "duration_ms": 162546,
       "name": "Tulsa",
       "url": "https://open.spotify.com/track/6mGv9INV7tnfldu5hFv0eH"
+    },
+    {
+      "album": {
+        "name": "Two of Us",
+        "url": "https://open.spotify.com/album/6hBCrISl057IRjVjlghx5P"
+      },
+      "artists": [
+        {
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
+        },
+        {
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194800,
+      "name": "Two of Us",
+      "url": "https://open.spotify.com/track/4SBF12nxiWZhQCwC7EGFiR"
     },
     {
       "album": {
@@ -10004,6 +10160,24 @@
       "duration_ms": 267893,
       "name": "White Horse",
       "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
+    },
+    {
+      "album": {
+        "name": "Brothers Osborne",
+        "url": "https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188453,
+      "name": "Who Says You Can't Have Everything",
+      "url": "https://open.spotify.com/track/4KbLhLnwnhbHk0Aa13BeYD"
     },
     {
       "album": {

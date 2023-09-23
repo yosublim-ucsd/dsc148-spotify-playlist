@@ -4,12 +4,13 @@
 
 > smooth drifting only
 
-176 songs - 7 hr 56 min
+178 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [After World](https://open.spotify.com/track/43jFJOD28MIG9vgcqVlvhn) | [chipbagov](https://open.spotify.com/artist/0sd6x399jllqi3BqxgBvlw) | [After World](https://open.spotify.com/album/42cJG6MAXsrjoR7wV5e22G) | 2:11 | 2022-10-10 | 2023-08-05 |
 | [AFTERLIFE](https://open.spotify.com/track/5PfNKiRk4pyJWxle5cU0ba) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy) | [AFTERLIFE](https://open.spotify.com/album/3G5QIHz6XSKOUISBBbP28B) | 3:16 | 2022-10-10 |  |
+| [ALL FOR YOU](https://open.spotify.com/track/6EAewY7sUaLGigFkwsPZ05) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [ALL FOR YOU](https://open.spotify.com/album/6GkycAHZzXAIDBpEuM0XAR) | 1:31 | 2023-09-22 |  |
 | [Andromeda](https://open.spotify.com/track/3T9ouQ0YeXLayMQ9eWPAda) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [Andromeda](https://open.spotify.com/album/6x9oS9r0yMvUk0tnUBCFOQ) | 3:36 | 2022-10-10 | 2023-08-19 |
 | [Angel](https://open.spotify.com/track/0OIJbFfZfNoAA8oATXh0xr) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Angel](https://open.spotify.com/album/6PwehYyShfSDzzJPZyoZWq) | 3:18 | 2022-10-10 | 2023-08-19 |
 | [Angel](https://open.spotify.com/track/2fuyypeK7fMoQlps83Q9K1) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Angel](https://open.spotify.com/album/0ZJf5EajMpqKbUGeE6Sj4N) | 3:18 | 2023-03-10 | 2023-09-09 |
@@ -61,7 +62,7 @@
 | [Faith](https://open.spotify.com/track/4XwbUt1ryz68nbLdBD9dqs) | [STXRZ](https://open.spotify.com/artist/64IEvdOG2d4FAHDR4pNYQ4) | [Faith](https://open.spotify.com/album/3q6Ulf0dRhKrLd5P3cwfYl) | 2:05 | 2022-10-10 |  |
 | [FANTASIA](https://open.spotify.com/track/5ZN7Ryh3gWfYGwn7zHmktL) | [OXXXIDE](https://open.spotify.com/artist/3pAEadIxg8RlAQoDmpNqKS) | [FANTASIA](https://open.spotify.com/album/4I5ybDugkUxiJd2D5fwwTr) | 2:21 | 2023-03-10 | 2023-06-10 |
 | [Farewell](https://open.spotify.com/track/3QXLbx8kUNmcbWd1XhNJD4) | [ZXNTURY](https://open.spotify.com/artist/4ACYlsx2wt3mQ2syiTo6AK), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7), [FXLLEN WXRRIOR](https://open.spotify.com/artist/4O4tXxjzXrk06o08zTBVAL) | [Farewell](https://open.spotify.com/album/4i7eb70VPiIHWU7EEDNmIn) | 2:31 | 2022-10-10 | 2023-05-13 |
-| [Farewell](https://open.spotify.com/track/3S9cyna1oXy31j65808QkI) | [ZXNTURY](https://open.spotify.com/artist/4ACYlsx2wt3mQ2syiTo6AK), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7), [FXLLEN WXRRIOR](https://open.spotify.com/artist/4O4tXxjzXrk06o08zTBVAL) | [Farewell](https://open.spotify.com/album/5TpcZRePiWhdEqoWIiwM93) | 2:31 | 2023-03-10 |  |
+| [Farewell](https://open.spotify.com/track/3S9cyna1oXy31j65808QkI) | [ZXNTURY](https://open.spotify.com/artist/4ACYlsx2wt3mQ2syiTo6AK), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7), [FXLLEN WXRRIOR](https://open.spotify.com/artist/4O4tXxjzXrk06o08zTBVAL) | [Farewell](https://open.spotify.com/album/5TpcZRePiWhdEqoWIiwM93) | 2:31 | 2023-03-10 | 2023-09-23 |
 | [FIREFLIES](https://open.spotify.com/track/3om71PaqkmHXuxQ5d3Hxjk) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy), [Steveruu](https://open.spotify.com/artist/4NOFcRCgjvnRy8nKVGUM0L) | [FIREFLIES](https://open.spotify.com/album/5t94V0MZ61yjI0lt1sJUcP) | 2:43 | 2022-12-30 |  |
 | [flashback](https://open.spotify.com/track/6LK0dja7B2ibVgwZhVDvTw) | [Eyez Hate U](https://open.spotify.com/artist/0dIUq8UqtoJF5T7Lt3MxBT) | [flashback](https://open.spotify.com/album/7ExcQWKeWVTTA7UPQh3lXn) | 3:16 | 2022-10-10 |  |
 | [Fluxxwave](https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:30 | 2023-07-21 |  |
@@ -143,6 +144,7 @@
 | [Rainy Night Drive](https://open.spotify.com/track/5gbzQN044AiB69UiVuc6qZ) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw), [glexks](https://open.spotify.com/artist/5XPRNCxTj3Pph1A6h4XTB6) | [Rainy Night Drive](https://open.spotify.com/album/2VTQ3wglK5i3Lm6TK0ns6J) | 2:39 | 2022-10-10 |  |
 | [RENEGADE](https://open.spotify.com/track/6Yap10AMYjIDgRXLUcH1pt) | [Send 1](https://open.spotify.com/artist/1f4j1E8XNo0m6EsMbGDjRV) | [RENEGADE](https://open.spotify.com/album/5N93SkOr64iOa2bwsf5oyr) | 3:28 | 2022-10-10 | 2022-12-17 |
 | [Ridge Crest](https://open.spotify.com/track/4wQG1yyeTSoDCppLzBXJ9m) | [dxprxsslve](https://open.spotify.com/artist/61QWo0cPeQFZt2U1gEjyl9) | [Ridge Crest](https://open.spotify.com/album/4Rp8x8ZeJjVX0aQAnCGYNy) | 2:52 | 2022-12-23 |  |
+| [Rinse Repeat](https://open.spotify.com/track/5A3TRHr2EAYgsJOOmlYaxe) | [Elisabeth Brownlow](https://open.spotify.com/artist/4AhXblXPAw9O9c0a56tvD7) | [Rinse Repeat](https://open.spotify.com/album/46rjHo1V4l5DseiDqWj2UN) | 2:19 | 2023-09-22 |  |
 | [seaside](https://open.spotify.com/track/3Cj5VVbQnLRknyj2NriPJu) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Tokyomane](https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH) | [seaside](https://open.spotify.com/album/385VMmkSq2CVCIOTCtTdts) | 2:39 | 2022-10-10 |  |
 | [See U](https://open.spotify.com/track/54vyxEzMvLexzEgEBzIUNQ) | [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [See U](https://open.spotify.com/album/7C6ieOxP5402mZPtra25P0) | 2:50 | 2022-10-10 |  |
 | [SEE U IN WINTER](https://open.spotify.com/track/38s6G7066hE4dTvrTsSqoL) | [winternarnia](https://open.spotify.com/artist/6OoeFKBBbuYtyPM9E615D3), [NONTHENSE](https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn) | [SEE U IN WINTER](https://open.spotify.com/album/77fm9KnaipWrowbRD0fUz9) | 2:31 | 2022-12-23 |  |
@@ -159,7 +161,7 @@
 | [Space](https://open.spotify.com/track/5ZTwRO2Yy2ardUblJsVSAA) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K) | [Space](https://open.spotify.com/album/5jQNBxuQV1LK4SsVuqX78Z) | 2:00 | 2022-12-09 |  |
 | [Space](https://open.spotify.com/track/0W0KjUBX70GxtgVXraTcf9) | [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9), [Proof Nation](https://open.spotify.com/artist/7CV2yBOPHytA4ZrSPsjoLA) | [Space](https://open.spotify.com/album/0qh0hHIeYCqBJaDv7r12uR) | 2:25 | 2022-11-25 |  |
 | [Spacewave](https://open.spotify.com/track/2WzK3sBkdRm0VvfSKJjXCu) | [Confirmbackup](https://open.spotify.com/artist/6Da2INMo1oIn9flRNiIZqk) | [Spacewave](https://open.spotify.com/album/5BWydJ3ORPcf5Z7cCmFuyJ) | 3:26 | 2022-10-10 |  |
-| [Stay](https://open.spotify.com/track/4wBJ1sqcPukNqtMff4EEVb) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Kim](https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0) | [Stay](https://open.spotify.com/album/0lxkx8NDcNRiddCfUlpMfo) | 2:56 | 2022-10-10 |  |
+| [Stay](https://open.spotify.com/track/4wBJ1sqcPukNqtMff4EEVb) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Kim](https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0) | [Stay](https://open.spotify.com/album/0lxkx8NDcNRiddCfUlpMfo) | 2:56 | 2022-10-10 | 2023-09-23 |
 | [Still Breathing \- Original Mix](https://open.spotify.com/track/74Yy0Q60u9kNHqdtgVeBSq) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [Still Breathing \(Remix\)](https://open.spotify.com/album/3f2t838yL6Trx41BczL28v) | 3:08 | 2023-03-24 |  |
 | [STOP LIES](https://open.spotify.com/track/6FqFMy46LchyaU6IsYeSSY) | [ROMANE](https://open.spotify.com/artist/05ZFcoNvwrfxD1sIRmGqfp) | [STOP LIES](https://open.spotify.com/album/4B51pcp7eccRF5T2thjSEa) | 3:23 | 2022-10-10 | 2023-01-06 |
 | [STXPSISTER](https://open.spotify.com/track/0FPy83TDSljGoYKeIeQbzY) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [NEEDAYOU](https://open.spotify.com/artist/1FY51GlAxrrJULx9RdZe9x) | [STXPSISTER](https://open.spotify.com/album/1dwj8twYDVa7UHDP9LAiuS) | 1:56 | 2023-01-20 | 2023-06-10 |

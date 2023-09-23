@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,191 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,210 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 46 | [Tal Vez](https://open.spotify.com/track/5DYUNEs6WLl5PRdTzZX0GC) | [The Love Army](https://open.spotify.com/artist/3exRYG9uxjbexEWepSOt1S) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:49 |
 | 47 | [Nada Nos Detendrá](https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA) | [Grupo Ciruela](https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S) | [Regreso al Origen](https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn) | 3:12 |
 | 48 | [Mi Mami Dijo](https://open.spotify.com/track/6SqepgrJ8ThiNLmZZW0IcT) | [Los Monjes](https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO) | [Pebbles Vol\. 12, Mexico Pt\. 1, Originals Artifacts From The Psychedelic Era](https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy) | 2:05 |
-| 49 | [Mony Mony](https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX) | [Las Moskas](https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY) | [Rock Sound](https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ) | 2:43 |
-| 50 | [Tiempo Perdido](https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL) | [Nahuatl](https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K) | [Volumen I](https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk) | 4:41 |
+| 49 | [Tiempo Perdido](https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL) | [Nahuatl](https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K) | [Volumen I](https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk) | 4:41 |
+| 50 | [Mony Mony](https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX) | [Las Moskas](https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY) | [Rock Sound](https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ) | 2:43 |
 
-Snapshot ID: `MCwxMmFmMzNjOGQ5NDk1NWI3MTg0MWY3ODBmMzYxOTZhMzQxMWYyYmEx`
+Snapshot ID: `MCw5MzViNWY4YmUzYWRkYmZlOWJkMGJkMmZlNzQwNzJmNzcyZmFiYmFh`

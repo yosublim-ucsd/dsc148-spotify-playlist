@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG?si=EkIivxk7RU2wk4u8lu0xHA"> Lady Donli</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,078 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,110 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 |
 | 50 | [227](https://open.spotify.com/track/7uaRn34hfMmwzDTNdTNvsY) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 4:13 |
 
-Snapshot ID: `MCwzODEyZDdjMTczMzRjMTE0NDIxNjZiZTc2Zjk5MjMxNjcxYThjYWQ3`
+Snapshot ID: `MCwzOGRlMTM3ZWViMDQ4YmE5NDgxNGYxOGZiNGJiNDkxZmVkODIzNTUx`

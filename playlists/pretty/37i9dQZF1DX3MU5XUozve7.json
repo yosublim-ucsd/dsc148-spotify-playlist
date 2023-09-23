@@ -1,12 +1,12 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 871935,
+  "num_followers": 872215,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmI3NjNhOGZjNzNiNTFiOTMyNDYwZDM3YjFkMGMxNTEzM2M1Y2Y3",
+  "snapshot_id": "MCw0MzdiOTM4YTFiZDM5MjA4NzNkOGM4ZjgxYTc4ODFmYWM4NTY5YzU2",
   "tracks": [
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Start Static",
+        "url": "https://open.spotify.com/album/0jgOnSVNaP3rNb7bZ9b0QT"
+      },
+      "artists": [
+        {
+          "name": "Sugarcult",
+          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
+        }
+      ],
+      "duration_ms": 141293,
+      "name": "Bouncing Off The Walls",
+      "url": "https://open.spotify.com/track/6SlYsxvOXnB5sNg6ltf7pX"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "MY FAVORITE NIGHTMARES",
         "url": "https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ"
       },
@@ -1139,38 +1155,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "New Wave (U.S. Version)",
-        "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
-      },
-      "artists": [
-        {
-          "name": "Against Me!",
-          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "Thrash Unreal",
-      "url": "https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Start Static",
-        "url": "https://open.spotify.com/album/0jgOnSVNaP3rNb7bZ9b0QT"
-      },
-      "artists": [
-        {
-          "name": "Sugarcult",
-          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
-        }
-      ],
-      "duration_ms": 141293,
-      "name": "Bouncing Off The Walls",
-      "url": "https://open.spotify.com/track/6SlYsxvOXnB5sNg6ltf7pX"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Freedumb",
         "url": "https://open.spotify.com/album/272uyFl2Z35T3MPtHTg92C"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 109306,
       "name": "Cyco Vision",
       "url": "https://open.spotify.com/track/3I9K8tSZRsAw7bRYfbhJEA"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "New Wave (U.S. Version)",
+        "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
+      },
+      "artists": [
+        {
+          "name": "Against Me!",
+          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "Thrash Unreal",
+      "url": "https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "War on Errorism",
-        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 189733,
-      "name": "The Separation of Church and Skate",
-      "url": "https://open.spotify.com/track/1NVjbk3Q06lEvAPUlTauzr"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Box Car Racer",
         "url": "https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE"
       },
@@ -1283,18 +1267,34 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Sing Sing Death House",
-        "url": "https://open.spotify.com/album/4VrINRcJyLcENNLiDbCoBi"
+        "name": "War on Errorism",
+        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
       },
       "artists": [
         {
-          "name": "The Distillers",
-          "url": "https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT"
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 209626,
-      "name": "City Of Angels",
-      "url": "https://open.spotify.com/track/0sAIljILdEo8Ku4tPLQ7dF"
+      "duration_ms": 189733,
+      "name": "The Separation of Church and Skate",
+      "url": "https://open.spotify.com/track/1NVjbk3Q06lEvAPUlTauzr"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Proper Dose",
+        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 146622,
+      "name": "Keep This Up",
+      "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Sing Sing Death House",
+        "url": "https://open.spotify.com/album/4VrINRcJyLcENNLiDbCoBi"
+      },
+      "artists": [
+        {
+          "name": "The Distillers",
+          "url": "https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT"
+        }
+      ],
+      "duration_ms": 209626,
+      "name": "City Of Angels",
+      "url": "https://open.spotify.com/track/0sAIljILdEo8Ku4tPLQ7dF"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "The Best Of Goldfinger",
         "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
       },
@@ -1331,8 +1347,24 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Proper Dose",
-        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
+        "name": "Fast Times At Barrington High",
+        "url": "https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ"
+      },
+      "artists": [
+        {
+          "name": "The Academy Is...",
+          "url": "https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "About a Girl",
+      "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "The Story So Far",
+        "url": "https://open.spotify.com/album/3yWw068pxlaTirtN51cXf5"
       },
       "artists": [
         {
@@ -1340,9 +1372,9 @@
           "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
         }
       ],
-      "duration_ms": 146622,
-      "name": "Keep This Up",
-      "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
+      "duration_ms": 169960,
+      "name": "Heavy Gloom",
+      "url": "https://open.spotify.com/track/5YESYAHcr5GpjheBegwFd4"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1379,6 +1411,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Leaving Through The Window",
+        "url": "https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix"
+      },
+      "artists": [
+        {
+          "name": "Something Corporate",
+          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Punk Rock Princess",
+      "url": "https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "First Ditch Effort",
         "url": "https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy"
       },
@@ -1391,22 +1439,6 @@
       "duration_ms": 92106,
       "name": "Six Years on Dope",
       "url": "https://open.spotify.com/track/5HHR8lHtLowKzMavnA6GyW"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Fast Times At Barrington High",
-        "url": "https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ"
-      },
-      "artists": [
-        {
-          "name": "The Academy Is...",
-          "url": "https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "About a Girl",
-      "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1443,38 +1475,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Leaving Through The Window",
-        "url": "https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix"
-      },
-      "artists": [
-        {
-          "name": "Something Corporate",
-          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Punk Rock Princess",
-      "url": "https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Party Animals",
-        "url": "https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5"
-      },
-      "artists": [
-        {
-          "name": "Turbonegro",
-          "url": "https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz"
-        }
-      ],
-      "duration_ms": 158426,
-      "name": "All My Friends Are Dead",
-      "url": "https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "All Hallows EP",
         "url": "https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6"
       },
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "The Story So Far",
-        "url": "https://open.spotify.com/album/3yWw068pxlaTirtN51cXf5"
+        "name": "Party Animals",
+        "url": "https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5"
       },
       "artists": [
         {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+          "name": "Turbonegro",
+          "url": "https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz"
         }
       ],
-      "duration_ms": 169960,
-      "name": "Heavy Gloom",
-      "url": "https://open.spotify.com/track/5YESYAHcr5GpjheBegwFd4"
+      "duration_ms": 158426,
+      "name": "All My Friends Are Dead",
+      "url": "https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj"
     },
     {
       "added_at": "2022-07-26 16:46:12",

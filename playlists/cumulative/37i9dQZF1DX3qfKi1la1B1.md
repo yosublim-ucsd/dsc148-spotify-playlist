@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-280 songs - 18 hr 15 min
+282 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-07-27 |  |
 | [Butter \- Hidden Spheres Remix](https://open.spotify.com/track/30WL8qJoF0RUOOwmkALa7T) | [Nariaki Obukuro](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9), [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Strides Remixes](https://open.spotify.com/album/41gXeGhbitx4bPs69Epqof) | 3:54 | 2022-11-17 | 2022-12-14 |
 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 | 2023-01-26 |  |
-| [California and Me](https://open.spotify.com/track/768tjNAwyH3nIFee5BIdcl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [California and Me](https://open.spotify.com/album/2tt47cpLkXdRqYhOcp2C9x) | 3:36 | 2023-08-24 |  |
+| [California and Me](https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:36 | 2023-09-21 |  |
+| [California and Me](https://open.spotify.com/track/768tjNAwyH3nIFee5BIdcl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [California and Me](https://open.spotify.com/album/2tt47cpLkXdRqYhOcp2C9x) | 3:36 | 2023-08-24 | 2023-09-23 |
 | [Candlelight \- Spotify Singles](https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Spotify Singles](https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df) | 3:21 | 2023-07-20 |  |
 | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge) | 3:12 | 2023-02-21 | 2023-03-22 |
 | [Caught Up On You](https://open.spotify.com/track/3QjAG3LVB0P5x251vwinVm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Caught Up On You](https://open.spotify.com/album/6ICcS5WGbZr33DESzK9Xiq) | 3:26 | 2023-08-10 |  |
@@ -89,7 +90,8 @@
 | [friday](https://open.spotify.com/track/1kElYu8m1PcJ7DTTVv0d2u) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [friday](https://open.spotify.com/album/5aRjH7I1J7EQwyInITKUt2) | 2:49 | 2022-12-23 | 2023-01-27 |
 | [GIVE MINE](https://open.spotify.com/track/6s88qhU19OYs0MXb58LgwQ) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [GIVE MINE](https://open.spotify.com/album/5bhUSxacVDGCApH4qcc3SH) | 2:28 | 2023-06-20 | 2023-08-11 |
 | [Glimmerings](https://open.spotify.com/track/5m0UzW27BFvU7DT9pzyr7v) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Glimmerings](https://open.spotify.com/album/6BpAQHz5Bzx5mPNZAThv5m) | 4:01 | 2023-01-19 | 2023-02-08 |
-| [Glitch The System \(Glitch Bitch 2\)](https://open.spotify.com/track/0EyhPyMyKD04bSjQAohGIm) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Gentle Confrontation](https://open.spotify.com/album/232O7ibZyYtcDTNtyU6rlk) | 3:34 | 2023-09-21 |  |
+| [Glitch The System \(Glitch Bitch 2\)](https://open.spotify.com/track/0EyhPyMyKD04bSjQAohGIm) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Gentle Confrontation](https://open.spotify.com/album/232O7ibZyYtcDTNtyU6rlk) | 3:34 | 2023-09-21 | 2023-09-23 |
+| [Glitch The System \(Glitch Bitch 2\)](https://open.spotify.com/track/6jElW0nEQ1WRJHJLBUQqmx) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Gentle Confrontation](https://open.spotify.com/album/6t8EEPPBUhJiYucv3zsIKx) | 3:34 | 2023-09-21 |  |
 | [Gold　～また逢う日まで～](https://open.spotify.com/track/6hasQfFdygcQow58WNA614) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Gold　～また逢う日まで～](https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk) | 4:14 | 2023-07-27 |  |
 | [Green Jewel](https://open.spotify.com/track/443DP06PvfXbDqq9nVmtnK) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Green Jewel](https://open.spotify.com/album/3MGkpENNs3mkpjSj7R2TZ2) | 4:09 | 2023-06-01 | 2023-07-14 |
 | [Guess Who I Saw Today \(feat\. Gerald Clayton\) \- Duo Version](https://open.spotify.com/track/4VEOAK2Wf0HmxDfyk0r25t) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Guess Who I Saw Today \(Duo Version\)](https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI) | 4:45 | 2023-03-09 | 2023-04-14 |

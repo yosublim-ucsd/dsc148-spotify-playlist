@@ -2,15 +2,16 @@
 
 ### [sad hour](https://open.spotify.com/playlist/37i9dQZF1DWSqBruwoIXkA)
 
-> Heartbreak is the national anthem, we sing it proudly! Cover: Reneé Rapp
+> heartbreak feels good in a place like this Cover: Reneé Rapp
 
-572 songs - 1 day 7 hr 32 min
+574 songs - 1 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Wish I Didn't Have to\) Lie \[feat\. JORDY\]](https://open.spotify.com/track/0HXEPlkF9FrfuuDBCbsEAO) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa), [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [\(Wish I Didn't Have to\) Lie \[feat\. JORDY\]](https://open.spotify.com/album/6Xw2btwdvf4zFwt8XxBG0r) | 2:55 | 2021-12-17 | 2022-07-29 |
 | [0 OR 100 \(SIDE A\)](https://open.spotify.com/track/3mj6Vpr689fQFjyXq6TInY) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES V3](https://open.spotify.com/album/4B1AKRB1vuuwu8JoQHwDmW) | 2:23 | 2023-08-18 | 2023-09-09 |
 | [1 step forward, 3 steps back](https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:43 | 2022-05-16 |  |
+| [10 20 30](https://open.spotify.com/track/7s9HS9vgHMMliILkKe9aUG) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [10 20 30](https://open.spotify.com/album/615gukgFBNmt5FonnvbP9c) | 3:39 | 2023-09-22 |  |
 | [10 Summers](https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [10 Summers](https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx) | 2:40 | 2022-04-01 | 2022-05-20 |
 | [18](https://open.spotify.com/track/54F792TiwJOWmTJpbUqbXu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [18](https://open.spotify.com/album/7v8cb4h5R8a0i1NzjWLUod) | 2:58 | 2022-09-30 | 2022-12-10 |
 | [18](https://open.spotify.com/track/0xMDAZkHccTgIi87Tdd1An) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [18](https://open.spotify.com/album/0rfFKuEbn9Ez9qPGJQfFzf) | 2:51 | 2023-04-28 | 2023-05-06 |
@@ -67,6 +68,7 @@
 | [Bigger Person](https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:41 | 2023-07-14 |  |
 | [Bigger Than The Whole Sky](https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:38 | 2022-10-21 |  |
 | [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-02-09 |  |
+| [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-22 |  |
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2022-12-09 |  |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-08 | 2022-12-17 |
 | [Bodybag](https://open.spotify.com/track/0n7G59orkm7Sh7rvOXAopY) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Bodybag](https://open.spotify.com/album/2es7bY8oRAtSLFTdbr7A2l) | 3:33 | 2023-03-31 | 2023-06-04 |
@@ -245,7 +247,7 @@
 | [I Can Love Anyone \(As Long As It's You\)](https://open.spotify.com/track/16TVnHHANCCcDN7673V7tC) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [I Can Love Anyone \(As Long As It's You\)](https://open.spotify.com/album/3e6UcgzWDEJRC38lJ8Zj7o) | 3:22 | 2023-02-03 | 2023-03-18 |
 | [i can't breathe](https://open.spotify.com/track/1qFMIjTe9esCDiytqUY19t) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 3:33 | 2021-12-17 | 2023-02-11 |
 | [I Can't Swim](https://open.spotify.com/track/3T7yCHl6ovJaQHsSKQSgVm) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [I Can't Swim](https://open.spotify.com/album/4kUoDTy9PghTaRg2bJb4VG) | 3:38 | 2023-04-07 | 2023-04-15 |
-| [I Don't Miss You](https://open.spotify.com/track/3q9zwhKPHiUh8zVZ4sI5qs) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [I Don't Miss You](https://open.spotify.com/album/6ozapqxYdXe9uMaMfB6UZp) | 3:37 | 2023-04-07 |  |
+| [I Don't Miss You](https://open.spotify.com/track/3q9zwhKPHiUh8zVZ4sI5qs) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [I Don't Miss You](https://open.spotify.com/album/6ozapqxYdXe9uMaMfB6UZp) | 3:37 | 2023-04-07 | 2023-09-23 |
 | [I Don’t Think You Love Me](https://open.spotify.com/track/6aWGDTAPUyCLWS9mbbbo3G) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [I Don't Think You Love Me](https://open.spotify.com/album/4QkNLSAk97QwfQw76RQNbh) | 3:12 | 2022-01-21 | 2022-01-29 |
 | [I Fall Apart](https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:43 | 2022-01-07 | 2022-12-17 |
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2021-12-17 |  |
@@ -445,7 +447,7 @@
 | [Ruins](https://open.spotify.com/track/4yqi1WxBUMw75zodggxj6g) | [Kiki Halliday](https://open.spotify.com/artist/26KHYTbrhP5S5VBPlAkGC4), [Drew Schueler](https://open.spotify.com/artist/1F2PBVC03y1a9PCszIxJhI) | [Ruins](https://open.spotify.com/album/49xPyLWptFULo4SmaCW6D0) | 3:20 | 2022-05-27 | 2022-06-10 |
 | [rx](https://open.spotify.com/track/273h36reiuZ6Q92u4cmfID) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/0pzu94TJ8IufDvf416cdfO) | 3:20 | 2022-04-08 | 2022-05-20 |
 | [Saw It Coming](https://open.spotify.com/track/6gecBiCMM6BBttZ4r9BOma) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Saw It Coming](https://open.spotify.com/album/4hO2snTnpeTR9DxIpyGAPY) | 3:09 | 2023-02-24 | 2023-04-01 |
-| [Second to Last](https://open.spotify.com/track/5QqBKaGI2vLb8d33krUWap) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux) | [Second to Last](https://open.spotify.com/album/0AwxkrLnKxKZHwGb2WZyP2) | 2:50 | 2023-09-01 |  |
+| [Second to Last](https://open.spotify.com/track/5QqBKaGI2vLb8d33krUWap) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux) | [Second to Last](https://open.spotify.com/album/0AwxkrLnKxKZHwGb2WZyP2) | 2:50 | 2023-09-01 | 2023-09-23 |
 | [Secondhand Smoke](https://open.spotify.com/track/6qkIHn2trQOSJJrzyD1ew9) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [Secondhand Smoke](https://open.spotify.com/album/4Wu9Clf4wH6ItUqMfJkJA6) | 4:03 | 2023-03-10 | 2023-04-29 |
 | [Seeing Other People](https://open.spotify.com/track/3LpbQsIPCrp4nKqmCbx7xi) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6), [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Seeing Other People](https://open.spotify.com/album/014cyjQZihVY9akGL5uoIx) | 3:30 | 2022-12-09 | 2023-01-28 |
 | [seeing you with other girls](https://open.spotify.com/track/05EL9Ml4T3MQ2ICIONhbEF) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [seeing you with other girls](https://open.spotify.com/album/61XFhjOmYfEyHgTk35zgpY) | 2:57 | 2023-03-17 | 2023-04-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 
 > Planta de la bugambilia que me cubres y me matas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,553 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,627 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 56 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 |
 | 57 | [Las Curanderas](https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ) | [Laura Murcia](https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K) | [Las Curanderas](https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3) | 3:26 |
 | 58 | [Siempre Te Busqué](https://open.spotify.com/track/7a75CWRq82AGSHdL5Qw515) | [Monocordio](https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU) | [El Primer Rayo de Sol \- EP](https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ) | 4:25 |
-| 59 | [Si Alguna Vez](https://open.spotify.com/track/4ZTWBKgutQg9W9GP4cvxhC) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:53 |
+| 59 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Se Me Va A Quemar El Corazón](https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya) | 3:58 |
 | 60 | [Sabor a Mi](https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sandunga](https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3) | 4:20 |
 | 61 | [Carta](https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:24 |
 | 62 | [Cien Años](https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 3:25 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 66 | [Navegar](https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Navegar](https://open.spotify.com/album/2nNzpj5R1xuqeu7yLtP4tb) | 3:08 |
 | 67 | [Adentro](https://open.spotify.com/track/0xq1O6ihCy7Y6U2gBEGdPt) | [Rob](https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe), [Jack Lahana](https://open.spotify.com/artist/1hN9BKDXYUmkZa9B1gOn69), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Adentro](https://open.spotify.com/album/4M5M5qXVRSieQR6QMf3PQ1) | 3:48 |
 | 68 | [Ni una Gota de Amor](https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Aguerrida](https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6) | 2:31 |
-| 69 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Se Me Va A Quemar El Corazón](https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya) | 3:58 |
+| 69 | [Si Alguna Vez](https://open.spotify.com/track/4ZTWBKgutQg9W9GP4cvxhC) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:53 |
 | 70 | [Brindo](https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn) | 3:18 |
 | 71 | [Debut Y Despedida](https://open.spotify.com/track/7CvBC3ZivExveWMMjXBYS9) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Cuatro Copas Bohemia En La Finca Altozano \(Parte 1\)](https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23) | 3:03 |
 | 72 | [La Flor De La Canela](https://open.spotify.com/track/1uNBXMLgAC1mx1KH7reIG5) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y), [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Ciudadana del Mundo Volumen 1](https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR) | 3:22 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 82 | [Caras Lindas](https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:58 |
 | 83 | [Hace Tiempo](https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Hace Tiempo](https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J) | 4:12 |
 | 84 | [Habrá](https://open.spotify.com/track/5Ne4Y841FWmpmPDGL60FXH) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Habrá](https://open.spotify.com/album/0PYQK8hFeRgTgb0P4GAPZf) | 3:07 |
-| 85 | [La Bruja](https://open.spotify.com/track/5NCDaujx0xKLSuGci8qPIV) | [Musas Ensamble de Arpas](https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg) | [Tierra Latinoamericana](https://open.spotify.com/album/3hdqh8Yu6z74A8SCVR71la) | 3:00 |
-| 86 | [La Casita De La Selva](https://open.spotify.com/track/76rE4L1MBuEjiF5hR5vTDE) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [La Casita De La Selva](https://open.spotify.com/album/4Xhraf36zfM780liskyM6d) | 3:22 |
+| 85 | [La Casita De La Selva](https://open.spotify.com/track/76rE4L1MBuEjiF5hR5vTDE) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [La Casita De La Selva](https://open.spotify.com/album/4Xhraf36zfM780liskyM6d) | 3:22 |
+| 86 | [La Bruja](https://open.spotify.com/track/5NCDaujx0xKLSuGci8qPIV) | [Musas Ensamble de Arpas](https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg) | [Tierra Latinoamericana](https://open.spotify.com/album/3hdqh8Yu6z74A8SCVR71la) | 3:00 |
 | 87 | [Vuelas Tan Lindo](https://open.spotify.com/track/4Bq8JO07RD7i1QxDcfzfXS) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Vuelas Tan Lindo](https://open.spotify.com/album/7CnNO6AZJLshH040ljxn66) | 2:38 |
 | 88 | [Sabor a Mí \- Amuzgo](https://open.spotify.com/track/3Gdua3DERZXgZBaozvc9fb) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Mariano García](https://open.spotify.com/artist/0dUOCnp5qXw0yJscm4tldc) | [Sabor a Mar](https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v) | 3:17 |
 | 89 | [La Copa Rota](https://open.spotify.com/track/0OdHeU4ck2ix2R8NeOAe7r) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Cuatro Copas Bohemia En La Finca Altozano \(Parte 1\)](https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 99 | [La Corriente](https://open.spotify.com/track/0nw9LTQoeiFoDFpZUkyW43) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:31 |
 | 100 | [Marchita](https://open.spotify.com/track/2ytk2n3eCn8hsM3leSVqhN) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:46 |
 
-Snapshot ID: `MCxjYjQ0ZjM5ODFkZDNhZDlhMDRmMmFkOTVkZjYwMjU1YTY1MzU3NjEy`
+Snapshot ID: `MCw1NTE5MDU3ZjlkZmRkNmNmNWU4MjQyOGFjNjdkM2ViMjRiM2I2OWFm`

@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Sof\u00eda Campos",
-  "num_followers": 16481,
+  "num_followers": 16540,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODNmYjI1OGU0ZDA5NjJjZjg0Mzk2NDZhODRmNTdlZjkyZDJlOWE3",
+  "snapshot_id": "MCxhY2QxNmViODlhMDBlMjNhZDgxMTNhZWE5ZDNjODVjMWJkMDcyYWRh",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+        "name": "Mundo De Dos",
+        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
         }
       ],
-      "duration_ms": 308346,
-      "name": "Pajarito colibr\u00ed",
-      "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
+      "duration_ms": 168125,
+      "name": "So\u00f1ar Contigo",
+      "url": "https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -403,18 +403,34 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Mundo De Dos",
-        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
       },
       "artists": [
         {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 168125,
-      "name": "So\u00f1ar Contigo",
-      "url": "https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3"
+      "duration_ms": 308346,
+      "name": "Pajarito colibr\u00ed",
+      "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 158121,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -435,22 +451,6 @@
       "duration_ms": 185823,
       "name": "My Best Self",
       "url": "https://open.spotify.com/track/58e3Ax9ugjBhlSd5V0pMH1"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 158121,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "El Bueno Y El Malo",
-        "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Hermosa Drive",
-      "url": "https://open.spotify.com/track/5kIdVCUXE6JzR08sxRxNwc"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Lotta Love",
         "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 197624,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "El Bueno Y El Malo",
+        "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Hermosa Drive",
+      "url": "https://open.spotify.com/track/5kIdVCUXE6JzR08sxRxNwc"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Desaparezca Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2L8X2C1ySndk4McTP6lfpf"
-      },
-      "artists": [
-        {
-          "name": "Nacho Vegas",
-          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
-        }
-      ],
-      "duration_ms": 345706,
-      "name": "El Hombre Que Casi Conoci\u00f3 a Michi Panero",
-      "url": "https://open.spotify.com/track/4DLQ9mWBFWj7XjpQk1FtmP"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Norte",
         "url": "https://open.spotify.com/album/7rFobKKdxE3gRflCho8mUY"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 190380,
       "name": "Norte",
       "url": "https://open.spotify.com/track/14DdKjlEHuI1DlSS8aKW0o"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Desaparezca Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2L8X2C1ySndk4McTP6lfpf"
+      },
+      "artists": [
+        {
+          "name": "Nacho Vegas",
+          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
+        }
+      ],
+      "duration_ms": 345706,
+      "name": "El Hombre Que Casi Conoci\u00f3 a Michi Panero",
+      "url": "https://open.spotify.com/track/4DLQ9mWBFWj7XjpQk1FtmP"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Cicadas",
-        "url": "https://open.spotify.com/album/5jxsaf37OKx46MFdzgJXIa"
-      },
-      "artists": [
-        {
-          "name": "Uma",
-          "url": "https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs"
-        }
-      ],
-      "duration_ms": 204778,
-      "name": "Cicadas",
-      "url": "https://open.spotify.com/track/67FYnbzEnBa3Q1XEzaLFxD"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Mi otra mitad",
         "url": "https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 229524,
       "name": "Mi otra mitad",
       "url": "https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Cicadas",
+        "url": "https://open.spotify.com/album/5jxsaf37OKx46MFdzgJXIa"
+      },
+      "artists": [
+        {
+          "name": "Uma",
+          "url": "https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs"
+        }
+      ],
+      "duration_ms": 204778,
+      "name": "Cicadas",
+      "url": "https://open.spotify.com/track/67FYnbzEnBa3Q1XEzaLFxD"
     },
     {
       "added_at": "2023-09-08 04:00:00",

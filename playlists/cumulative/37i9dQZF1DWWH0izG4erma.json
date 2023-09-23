@@ -1421,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "Double Wide Grave",
+        "url": "https://open.spotify.com/album/3V7qMTsLa8Yf1HcerT7W5r"
+      },
+      "artists": [
+        {
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163749,
+      "name": "Double Wide Grave",
+      "url": "https://open.spotify.com/track/1PZX74WKN2cO4HruhWVFeD"
+    },
+    {
+      "album": {
         "name": "Down to the Devil",
         "url": "https://open.spotify.com/album/08FkK7BlweOZ7PFct99fMo"
       },
@@ -1620,7 +1638,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 188040,
       "name": "Freedom Like You",
       "url": "https://open.spotify.com/track/63AZvIXh7eIrPJKrr8Io6y"
@@ -1728,7 +1746,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 226304,
       "name": "Get There First",
       "url": "https://open.spotify.com/track/3qPyGq482dSHJhuLXeHqgu"
@@ -2041,6 +2059,24 @@
     },
     {
       "album": {
+        "name": "Hello From The Road",
+        "url": "https://open.spotify.com/album/3bz0NIqwz5bLkPz9pa8POe"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138708,
+      "name": "Hello From The Road",
+      "url": "https://open.spotify.com/track/3rLRzca9fl1v8UwmVvLB60"
+    },
+    {
+      "album": {
         "name": "High Time",
         "url": "https://open.spotify.com/album/00neLJxSSvcyqcy97jviyn"
       },
@@ -2302,6 +2338,24 @@
       "duration_ms": 227226,
       "name": "Homeboy",
       "url": "https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy"
+    },
+    {
+      "album": {
+        "name": "Houston",
+        "url": "https://open.spotify.com/album/5Bej7HvIC4cuAtEui51czB"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Ford",
+          "url": "https://open.spotify.com/artist/0vFdZPsqj3kQQNuWN2ett1"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Houston",
+      "url": "https://open.spotify.com/track/4PnJsoMs6wpyjLBbbsTr3l"
     },
     {
       "album": {
@@ -2924,7 +2978,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 194896,
       "name": "LOSER",
       "url": "https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH"

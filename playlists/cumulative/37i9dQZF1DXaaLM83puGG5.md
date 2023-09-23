@@ -2,7 +2,7 @@
 
 ### [House Party](https://open.spotify.com/playlist/37i9dQZF1DXaaLM83puGG5)
 
-> Keeping the party going with <a href="https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ?si=dLeGdE5sRY2XJzR99NpU\_w">Uncle Waffles<a>!
+> Keeping the party going with <a href="spotify:artist:68McnNC9twEtiynOAJRRgZ">Uncle Waffles</a> !
 
 946 songs - 2 day 11 hr 40 min
 

@@ -4,7 +4,7 @@
 
 > take a Louisville slugger to both headlights
 
-55 songs - 3 hr 6 min
+56 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Dirty Laundry](https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:24 | 2022-08-12 |  |
 | [DONE.](https://open.spotify.com/track/3CClN6lWM5m2dfpaFug3VP) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Pioneer](https://open.spotify.com/album/6SWKUE4kbjbsNjaY112Chp) | 3:25 | 2023-06-30 |  |
 | [DONE.](https://open.spotify.com/track/7t3yEWJXS4ZZE64JyJDJIg) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Pioneer](https://open.spotify.com/album/4oXEoK7WVM1lNbmB59IrJ1) | 3:25 | 2022-08-12 | 2023-07-08 |
+| [Drive You Out Of My Mind](https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Drive You Out Of My Mind](https://open.spotify.com/album/0tybIuD9JXSQ0zY1s9PQmv) | 3:32 | 2023-09-22 |  |
 | [Ever Since You Left](https://open.spotify.com/track/3miEfV2k8EEbn64jYaEq9m) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Welcome To The Block Party](https://open.spotify.com/album/0dNsg2k0JVBXDjAyASks9p) | 2:44 | 2022-08-12 |  |
 | [Gaslighter](https://open.spotify.com/track/4UN6sBmFTt2IqxN3IRqJT3) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:23 | 2022-08-12 | 2023-07-01 |
 | [Get over Yourself](https://open.spotify.com/track/0sr84SDJ9VN4EB7p2mWGur) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:20 | 2022-08-12 |  |

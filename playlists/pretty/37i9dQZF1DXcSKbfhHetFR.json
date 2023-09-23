@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 9110,
+  "num_followers": 9112,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDM5OGYxMTIwZDg0YmRiODhkMmRhMThjYTgyOTc1NmE4ODc1NGIz",
+  "snapshot_id": "MCxjODU5NjEyZGE3YTJiNTEyOWY2MjEwNjM0ZTJlM2Q5ODYzZTgyMjQ5",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -767,18 +767,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Le silence des roses",
-        "url": "https://open.spotify.com/album/2J5HzUbk4AxuM8j1sbyWKF"
+        "name": "Corpo-Trash-Vidange",
+        "url": "https://open.spotify.com/album/2YPx6Dndpg7rxy6xwck48d"
       },
       "artists": [
         {
-          "name": "France D'Amour",
-          "url": "https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI"
+          "name": "Band de Garage",
+          "url": "https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa"
         }
       ],
-      "duration_ms": 263640,
-      "name": "Si j'ai tort",
-      "url": "https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx"
+      "duration_ms": 175480,
+      "name": "La ch\u00e8vre",
+      "url": "https://open.spotify.com/track/2Nvculpts84TZr7VlUNwMi"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -799,18 +799,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Corpo-Trash-Vidange",
-        "url": "https://open.spotify.com/album/2YPx6Dndpg7rxy6xwck48d"
+        "name": "Le silence des roses",
+        "url": "https://open.spotify.com/album/2J5HzUbk4AxuM8j1sbyWKF"
       },
       "artists": [
         {
-          "name": "Band de Garage",
-          "url": "https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa"
+          "name": "France D'Amour",
+          "url": "https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI"
         }
       ],
-      "duration_ms": 175480,
-      "name": "La ch\u00e8vre",
-      "url": "https://open.spotify.com/track/2Nvculpts84TZr7VlUNwMi"
+      "duration_ms": 263640,
+      "name": "Si j'ai tort",
+      "url": "https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx"
     }
   ],
   "unique_name": "Je me souviens: alternatif",

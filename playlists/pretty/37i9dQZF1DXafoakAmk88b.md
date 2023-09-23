@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie driving the current\. Cover: Jordan Ward
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,057 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,099 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 26 | [Selfish Soul](https://open.spotify.com/track/3XqP0HAPdDN3Lkdoufds20) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Natural Brown Prom Queen](https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN) | 2:22 |
 | 27 | [Future Lover](https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:31 |
 | 28 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 |
-| 29 | [Familiarity](https://open.spotify.com/track/6hB5O4G6L5xa4r3wKSisH3) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Familiarity](https://open.spotify.com/album/48CGCAKq0qCLqZjEnKFBbE) | 3:27 |
-| 30 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
+| 29 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
+| 30 | [Familiarity](https://open.spotify.com/track/6hB5O4G6L5xa4r3wKSisH3) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Familiarity](https://open.spotify.com/album/48CGCAKq0qCLqZjEnKFBbE) | 3:27 |
 | 31 | [Wish](https://open.spotify.com/track/545N3VnU7ZSBEUtdRGSUS9) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Four Songs](https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98) | 3:01 |
 | 32 | [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 |
 | 33 | [no way out](https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [no way out](https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP) | 1:53 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 44 | [Can I Talk My Shit?](https://open.spotify.com/track/52qozr06OygMerkZTWPQzL) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Can I Talk My Shit?](https://open.spotify.com/album/0KeGhMBEcPkKZZdwUtyMFU) | 3:25 |
 | 45 | [9 lives](https://open.spotify.com/track/0v3qc1Q0LFX9jN7xQWasII) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [crumbs in my bed](https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh) | 2:27 |
 | 46 | [Blame](https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 2:50 |
-| 47 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 2:30 |
-| 48 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 |
+| 47 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 |
+| 48 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 2:30 |
 | 49 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 |
 | 50 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 |
 
-Snapshot ID: `MCxlZjZiMDNkMDRhMDgxMGQ5Y2MzYjUzNDQxZDhhOWJlMDM1MWM0M2U5`
+Snapshot ID: `MCxkNDVlNGQyMmM4ODI4ZjcwMDE5YmVlODhlNTkyZmU4NzAzNzEzMGMw`

@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Diamonds in My Chest",
+        "url": "https://open.spotify.com/album/3SH3DdcqS1NrHFp5jBjWPn"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219803,
+      "name": "Diamonds in My Chest",
+      "url": "https://open.spotify.com/track/3YjT6jjSO2evcEGWiV0M2O"
+    },
+    {
+      "album": {
         "name": "Diamonds In My Chest",
         "url": "https://open.spotify.com/album/4dl4tuViHtusW0aG1ncIwJ"
       },
@@ -982,7 +1000,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 219804,
       "name": "Diamonds In My Chest",
       "url": "https://open.spotify.com/track/0c1z7NPGh6SEyFHP9VXzUh"

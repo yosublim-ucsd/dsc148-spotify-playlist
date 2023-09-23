@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Grrrl Gang
 
-987 songs - 2 day 11 hr 3 min
+988 songs - 2 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [Connect The Dots](https://open.spotify.com/track/0ahWtlkee1OEm4iBZow6WO) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Connect The Dots](https://open.spotify.com/album/4FcU7hmQWLCxHsKdeBxOMu) | 2:05 | 2023-06-01 | 2023-07-21 |
 | [Connexion](https://open.spotify.com/track/4Zz89rmZGSEKOiJ8UmFjuM) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ) | [Connexion](https://open.spotify.com/album/0S5beypcqHwWtF322aflYg) | 2:59 | 2023-06-22 | 2023-07-07 |
 | [Cooking For One](https://open.spotify.com/track/2GurjJblHxTdQ7OVmQFfKJ) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Cooking For One](https://open.spotify.com/album/1nKLZECJDOD2mgFgaotaNK) | 2:41 | 2022-10-20 | 2022-12-02 |
-| [Cool Girl](https://open.spotify.com/track/6axDRBjjfQbbEuEYpUVo4M) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/6Uox06DanTELepB1AQvU6M) | 1:45 | 2023-09-21 |  |
+| [Cool Girl](https://open.spotify.com/track/4aXUKyFqYBSI7J6A1PwjTh) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/6aZFHnpTwonsLw8qVI5DdB) | 1:45 | 2023-09-21 |  |
+| [Cool Girl](https://open.spotify.com/track/6axDRBjjfQbbEuEYpUVo4M) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/6Uox06DanTELepB1AQvU6M) | 1:45 | 2023-09-21 | 2023-09-23 |
 | [CRAY CRAY](https://open.spotify.com/track/4TWfqCndoNB9iXs9PNZ4qS) | [The Sulis Club](https://open.spotify.com/artist/27vU0dOcGeurMc8VYTSfsQ) | [CRAY CRAY](https://open.spotify.com/album/6N5p0VTqHdBmeQKgumUyx5) | 3:15 | 2022-06-30 | 2022-08-05 |
 | [Crystal Sand](https://open.spotify.com/track/044boO65yZsvrJxa8lCWuT) | [Ali](https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ) | [Crystal Sand](https://open.spotify.com/album/1UNudptTf9hJ0efxxHZtKQ) | 3:29 | 2023-01-26 | 2023-02-10 |
 | [Cue Sign](https://open.spotify.com/track/4cBiqsGxRNpIE02zfMdhNf) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Cue Sign](https://open.spotify.com/album/4VWFmbeJULZek7Pmyg0bTO) | 3:36 | 2023-03-16 | 2023-04-29 |
@@ -408,7 +409,7 @@
 | [IN THE DOG HOUSE](https://open.spotify.com/track/4x9Yt0EnOEKRs2cdSJwSzN) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Franky Villani](https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb) | [IN THE DOG HOUSE](https://open.spotify.com/album/2gRMnlczuJaGBVYl1X1vpg) | 1:42 | 2022-08-04 | 2022-08-19 |
 | [In Your Loudest Fear](https://open.spotify.com/track/4oAUeju7DwlPHBWqbzGDP5) | [Reruntuh](https://open.spotify.com/artist/3TXx6cyIVfjddsP6Vygy7a) | [Water Will Find Me](https://open.spotify.com/album/7b89kC8vOz2uvWgdG4ZybI) | 6:05 | 2022-07-21 | 2022-09-02 |
 | [Independent Artist](https://open.spotify.com/track/02Dtp1urMF9P3Lv0zQlEal) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [Independent Artist](https://open.spotify.com/album/6tahA5ozFUvGAU43dH5ICC) | 3:14 | 2023-08-10 | 2023-08-25 |
-| [inferno \- Edit](https://open.spotify.com/track/2ACM0DK5xXBJlHZ8JQc9M5) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [inferno](https://open.spotify.com/album/5nEnJBGqhO81HTESoWTnq7) | 2:19 | 2023-08-31 | 2023-09-16 |
+| [inferno \- Edit](https://open.spotify.com/track/2ACM0DK5xXBJlHZ8JQc9M5) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [inferno](https://open.spotify.com/album/5nEnJBGqhO81HTESoWTnq7) | 2:19 | 2023-08-31 |  |
 | [Inilah JalanNya](https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Inilah JalanNya](https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH) | 2:40 | 2023-01-13 | 2023-03-18 |
 | [INSECURE](https://open.spotify.com/track/1QmXQ90HCMe9jCM0xrCdI4) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [INSECURE](https://open.spotify.com/album/4ct723N4CptKNkpDF8mls8) | 3:01 | 2022-09-22 | 2022-10-07 |
 | [Inside My Head](https://open.spotify.com/track/2gqK1yJ6FBSPhJdmLf0I9W) | [Bedroom Party](https://open.spotify.com/artist/2aSJ9BDyUpJgndRanmLCdr) | [Inside My Head](https://open.spotify.com/album/49hKtHlS7FU9tAuDkxHMlS) | 4:14 | 2023-04-07 | 2023-04-21 |
@@ -948,7 +949,7 @@
 | [但](https://open.spotify.com/track/54hpc7UxPBdpcsC7xFKEWB) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 2:22 | 2023-05-18 |  |
 | [但](https://open.spotify.com/track/76UXxB4NOsMLZqBQs0pBO5) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/5moXyP1DlFOPXyN8a0GqBW) | 2:22 | 2023-05-11 | 2023-05-23 |
 | [但](https://open.spotify.com/track/7IsKdMqFL1SbEnF6uzAMDi) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/3GzVqFTntf7x3CdsE2a3XW) | 2:22 | 2023-04-13 | 2023-05-13 |
-| [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 | 2022-03-24 |  |
+| [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 | 2022-03-24 | 2023-09-23 |
 | [午後迷茫2021](https://open.spotify.com/track/3owVY1qeMZJxEMRVs0POkj) | [Hormone Boys](https://open.spotify.com/artist/7MR5iqnOtuXv9RMMMQbOIl) | [午後迷茫2021](https://open.spotify.com/album/0zLsqb2rZ5nm4loxFTJkIL) | 5:15 | 2022-06-09 | 2022-07-01 |
 | [君莫問](https://open.spotify.com/track/0aTRqpyXgGs3yfnlRR4IBF) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [君莫問](https://open.spotify.com/album/5jCsCSxXDojiRu92WdoXFG) | 3:07 | 2023-05-25 | 2023-06-20 |
 | [咻蹦蹦](https://open.spotify.com/track/5s81MfT7Vjdd59vhhfoI00) | [WONFU](https://open.spotify.com/artist/6JQ21JTWuZpfT06VAQObFy) | [咻蹦蹦](https://open.spotify.com/album/0xrisTgisMjztdBvRxIyPN) | 2:42 | 2023-06-29 | 2023-07-07 |

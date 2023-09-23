@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves.  Cover:   <a href=\"https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq?si=wOs-xnXXSZugLvWWQBRR6A\">Cleo Sol</a>",
+  "description": "New music breaking waves.  Cover:   <a href=\"spotify:artist:6OmxkansdRyVTvo6BpZzKF\">jev.</a>",
   "name": "RIPPLE EFFECT",
   "tracks": [
     {
@@ -506,7 +506,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 125070,
       "name": "B.N.B",
       "url": "https://open.spotify.com/track/6hw99R0mfj4eNfZatyaePL"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 173146,
       "name": "Back In Office",
       "url": "https://open.spotify.com/track/5rrtDWbFizKTZ7GcsHYHh7"
@@ -760,7 +760,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 168019,
       "name": "BLKDEATH:",
       "url": "https://open.spotify.com/track/1PNr877IPrPPuj4ANiberD"
@@ -1271,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "METTENARRATIVE",
+        "url": "https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213626,
+      "name": "CHOCOLATE CITY",
+      "url": "https://open.spotify.com/track/5DMnRbwskRQAO35Lk1IGZC"
+    },
+    {
+      "album": {
         "name": "4 My Fans",
         "url": "https://open.spotify.com/album/5HCupVwP2tEJ4NTEarUl8c"
       },
@@ -1372,7 +1390,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 78576,
       "name": "Coastin\u2019",
       "url": "https://open.spotify.com/track/5dPUGqhZt7iJgbgPlx733p"
@@ -2279,6 +2297,24 @@
     },
     {
       "album": {
+        "name": "Eve",
+        "url": "https://open.spotify.com/album/1WcyjfjfTXfv1LaqLtJGqZ"
+      },
+      "artists": [
+        {
+          "name": "Precious Pepala",
+          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201167,
+      "name": "Eve",
+      "url": "https://open.spotify.com/track/4VWJqXO2lnHTPrDze7zeQe"
+    },
+    {
+      "album": {
         "name": "BLK2LIFE || A FUTURE PAST",
         "url": "https://open.spotify.com/album/5ULA4LSxoFzpCPERRiNuRT"
       },
@@ -2504,7 +2540,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 155362,
       "name": "Fifth",
       "url": "https://open.spotify.com/track/5DNpSTHMlVO4OdiQJ1uG8v"
@@ -2750,6 +2786,24 @@
       "duration_ms": 160078,
       "name": "Function",
       "url": "https://open.spotify.com/track/0DYcMa43MF2cFqNWoCkfYC"
+    },
+    {
+      "album": {
+        "name": "LONERWRLD, vol 1",
+        "url": "https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172251,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/0BV2Qn5ZFA70g9bSWmSxvq"
     },
     {
       "album": {
@@ -3323,6 +3377,24 @@
     },
     {
       "album": {
+        "name": "Holy Hands",
+        "url": "https://open.spotify.com/album/6BIfrz3Im2b1U1DgDPfI1x"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204437,
+      "name": "Holy Hands",
+      "url": "https://open.spotify.com/track/0fBm16QCdtqEvrcT3b9H7E"
+    },
+    {
+      "album": {
         "name": "Superghetto",
         "url": "https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI"
       },
@@ -3752,7 +3824,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 136574,
       "name": "JD's REVENGE",
       "url": "https://open.spotify.com/track/3F1jnTXKuJd6iPmjRMH4tO"
@@ -4477,6 +4549,24 @@
     },
     {
       "album": {
+        "name": "Marking My Time",
+        "url": "https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268038,
+      "name": "Marking My Time",
+      "url": "https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw"
+    },
+    {
+      "album": {
         "name": "SG8*",
         "url": "https://open.spotify.com/album/2vwmN3BESDjpuUWloIjM1S"
       },
@@ -4662,7 +4752,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 218920,
       "name": "Misty",
       "url": "https://open.spotify.com/track/0KIOREGplwUG2IYkl2B7LW"
@@ -5260,6 +5350,24 @@
       "duration_ms": 224451,
       "name": "Options (feat. Tamera & Bellah)",
       "url": "https://open.spotify.com/track/0DZsGL1M6txb1dobjIqca5"
+    },
+    {
+      "album": {
+        "name": "Our Roots Run Deep",
+        "url": "https://open.spotify.com/album/7JBdi7uaBTZ0ZiLqALbYBy"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184786,
+      "name": "Our Roots Run Deep",
+      "url": "https://open.spotify.com/track/3Wsb8BqisZpCO3ijhENBBa"
     },
     {
       "album": {
@@ -6936,6 +7044,24 @@
       "duration_ms": 180379,
       "name": "Tell Em",
       "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
+    },
+    {
+      "album": {
+        "name": "Pan African Rockstar",
+        "url": "https://open.spotify.com/album/2kA7NTDqESZM0B7COf3cfh"
+      },
+      "artists": [
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125805,
+      "name": "The Bad Ones",
+      "url": "https://open.spotify.com/track/0iOaXKUTATIIOqdfIvC8cz"
     },
     {
       "album": {

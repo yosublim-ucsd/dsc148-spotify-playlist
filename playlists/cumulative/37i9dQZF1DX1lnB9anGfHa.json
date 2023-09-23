@@ -2461,6 +2461,24 @@
     },
     {
       "album": {
+        "name": "Powders",
+        "url": "https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221106,
+      "name": "Pure Smile Snake Venom",
+      "url": "https://open.spotify.com/track/2vP6Rn1x35ybWBctcdooEF"
+    },
+    {
+      "album": {
         "name": "FEELING BODY",
         "url": "https://open.spotify.com/album/3D2gBvOa2KhfW0qXjN0lHj"
       },
@@ -3566,7 +3584,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 239640,
       "name": "Who Gives a Thought",
       "url": "https://open.spotify.com/track/0IqZcNlUn3LALc6zwo1wxV"

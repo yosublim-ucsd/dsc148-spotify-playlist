@@ -1,12 +1,12 @@
 {
   "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU?si=VTlAs-66TP6SDKypzYnC3A\">Ana\u00efs Cardot</a>. Updates every Wednesday.",
-  "num_followers": 211627,
+  "num_followers": 211747,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDAxNDlmYmQzZDFjMjczZmU2MTNjODY2ZDhhYzcyNzE4ZDNiYTgz",
+  "snapshot_id": "MCwzOTIwYTczNDYxYjRhZTk4YmY3ZGIzOTllYTk1MzNlNDUwM2NmYmE2",
   "tracks": [
     {
       "added_at": "2023-09-20 14:07:21",
@@ -23,6 +23,38 @@
       "duration_ms": 138000,
       "name": "Purple Room",
       "url": "https://open.spotify.com/track/67eYQpO7xtAcKlPu0oDDhe"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Sleep In",
+        "url": "https://open.spotify.com/album/2IK7CO3ubdJ7OUMefz2EOW"
+      },
+      "artists": [
+        {
+          "name": "Carvena",
+          "url": "https://open.spotify.com/artist/3rjSCrORMjZpQAjcglAnHl"
+        }
+      ],
+      "duration_ms": 167716,
+      "name": "Sleep In",
+      "url": "https://open.spotify.com/track/3tUs1HNIBaVGeIP0TnMcl9"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Renata",
+        "url": "https://open.spotify.com/album/6QyRqDmyqo7IIA6H0mWr5c"
+      },
+      "artists": [
+        {
+          "name": "Storm Ford",
+          "url": "https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2"
+        }
+      ],
+      "duration_ms": 120020,
+      "name": "Renata",
+      "url": "https://open.spotify.com/track/6ayG9P7pZh5uzOioDCnsap"
     },
     {
       "added_at": "2023-09-20 14:07:21",

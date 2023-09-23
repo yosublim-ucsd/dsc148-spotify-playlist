@@ -4,7 +4,7 @@
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: All Time Low, Abril Lavigne
 
-280 songs - 17 hr 9 min
+282 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Animals](https://open.spotify.com/track/1Td7TGT1XtK2ojUjz1mGUV) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Animals](https://open.spotify.com/album/75pgJat1FOBpDBBNPwaCW8) | 4:04 | 2022-01-14 | 2022-07-29 |
 | [Animals](https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:04 | 2022-07-01 | 2023-02-18 |
 | [Anno Satana](https://open.spotify.com/track/1iYkDXdNOzjbnOWuYPYHeO) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Anno Satana](https://open.spotify.com/album/1NlDv04JbrxfypB0XF0rSc) | 3:49 | 2022-01-14 | 2022-04-02 |
+| [ARMY OF ME](https://open.spotify.com/track/2BlT24FgI1HCXif1VJlG0L) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [ARMY OF ME](https://open.spotify.com/album/5Asim1a8EcJdU358R3hGpV) | 3:10 | 2023-09-22 |  |
 | [Artificial](https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Artificial](https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV) | 3:39 | 2023-08-11 |  |
 | [As It Was](https://open.spotify.com/track/0qx8jeLEWfTApU1AGZa8Lf) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [As It Was](https://open.spotify.com/album/6Qt0Z3HlexskLMnUrpMtxa) | 2:39 | 2022-05-27 | 2022-09-24 |
 | [Bad Friend](https://open.spotify.com/track/304JMEIUEQw4t5MKsY0Ad6) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Bad Friend](https://open.spotify.com/album/3cyXgBvwkhf1rIO5B23H8m) | 3:31 | 2023-07-21 |  |
@@ -179,6 +180,7 @@
 | [NØ GØDS, NØ MASTERS](https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:18 | 2022-08-26 |  |
 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 | 2022-01-14 | 2022-04-09 |
 | [One + One](https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [One + One](https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt) | 3:46 | 2022-01-14 | 2022-06-11 |
+| [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 | 2023-09-22 |  |
 | [Our Time Is Now](https://open.spotify.com/track/0dDs144SVansAFynvKYQMW) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Our Time Is Now](https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA) | 4:31 | 2022-10-14 | 2022-11-12 |
 | [Out Of Style](https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:22 | 2022-01-14 |  |
 | [Painkiller](https://open.spotify.com/track/6OMO6WdRhSfjMPAiPT94wH) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Human](https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W) | 2:59 | 2022-08-01 | 2022-11-26 |
@@ -186,7 +188,7 @@
 | [Paper Machete](https://open.spotify.com/track/5vdEuDGGG5PuyHwN6xtc6W) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Paper Machete](https://open.spotify.com/album/2ec7VED8zxmb93zpjdFYBM) | 3:22 | 2023-06-16 | 2023-07-01 |
 | [Pass The Nirvana](https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Pass The Nirvana](https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs) | 3:17 | 2022-09-02 | 2022-10-29 |
 | [Peach](https://open.spotify.com/track/1OWNwD4n5bGm8CcH3uuQ3C) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Peach](https://open.spotify.com/album/33LMoG1vTsoNnUy9vvy8t3) | 4:16 | 2022-01-14 | 2023-01-21 |
-| [Perhaps](https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Perhaps](https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb) | 3:48 | 2023-08-18 |  |
+| [Perhaps](https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Perhaps](https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb) | 3:48 | 2023-08-18 | 2023-09-23 |
 | [Planet Zero](https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo) | 3:42 | 2022-01-28 | 2022-11-13 |
 | [Planet Zero](https://open.spotify.com/track/7g2LuO2QFplZfsLKRFiVHl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 3:42 | 2022-11-11 | 2023-05-20 |
 | [Poor Boy a Long Way From Home](https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 4:08 | 2022-01-14 |  |
@@ -200,7 +202,7 @@
 | [Roses For You](https://open.spotify.com/track/0NRiFKtoYgflCzuCI8OG6t) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Roses For You](https://open.spotify.com/album/7qkjcLooZU0VyhhnbrxFUa) | 3:20 | 2022-09-02 | 2022-10-01 |
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-06-24 | 2022-08-13 |
 | [Sacred The Thread](https://open.spotify.com/track/1euMlU3weroX6ERo4vEfQl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Sacred The Thread](https://open.spotify.com/album/4dimPGtC8aTFM0jCf739TN) | 5:21 | 2023-05-19 |  |
-| [Sad Song](https://open.spotify.com/track/4hOC8bCq6Zz90K5kXEQvyv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Sad Song](https://open.spotify.com/album/71PTt2kbw3q1lb6YeMqyiF) | 3:23 | 2023-09-01 |  |
+| [Sad Song](https://open.spotify.com/track/4hOC8bCq6Zz90K5kXEQvyv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Sad Song](https://open.spotify.com/album/71PTt2kbw3q1lb6YeMqyiF) | 3:23 | 2023-09-01 | 2023-09-23 |
 | [Salvation](https://open.spotify.com/track/54VRGCpS5jUI4PXa5jAZFL) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Salvation](https://open.spotify.com/album/0Zjqgl37E3nYM9No5UA1Zm) | 3:35 | 2023-03-31 |  |
 | [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2022-09-09 | 2022-10-08 |
 | [Screaming Suicide](https://open.spotify.com/track/2zSb2Db4kNYH5qIs5V3BgG) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 5:30 | 2023-04-14 | 2023-07-01 |

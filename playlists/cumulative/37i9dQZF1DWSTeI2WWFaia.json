@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "97",
+      "url": "https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL"
+    },
+    {
+      "album": {
         "name": "WHO MADE THE SUNSHINE",
         "url": "https://open.spotify.com/album/6NrUdvJpIEyaBg5zZSOoV4"
       },
@@ -2276,7 +2294,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 174773,
       "name": "Daddy Kane (feat. Action Bronson)",
       "url": "https://open.spotify.com/track/5e6EI6FnKVBvM3i8mZsLRU"
@@ -3326,6 +3344,28 @@
       "duration_ms": 172721,
       "name": "Fireplace (feat. Jennifair)",
       "url": "https://open.spotify.com/track/43xKZy5ndorNyMK2xhOb2o"
+    },
+    {
+      "album": {
+        "name": "RIP Human Art",
+        "url": "https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274558,
+      "name": "Flavors of Karma",
+      "url": "https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7"
     },
     {
       "album": {
@@ -5484,7 +5524,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 198486,
       "name": "Latex Gloves",
       "url": "https://open.spotify.com/track/74sE79ReizotiesesgUm90"
@@ -5980,6 +6020,24 @@
       "duration_ms": 248810,
       "name": "Look Over Your Shoulder (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/5aULAy3NUfelCYKub4mOS9"
+    },
+    {
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236960,
+      "name": "Love Life",
+      "url": "https://open.spotify.com/track/4NW3t9GA7CyBisyoROefUs"
     },
     {
       "album": {
@@ -8912,7 +8970,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 114625,
       "name": "Sicilian Gold",
       "url": "https://open.spotify.com/track/3D8zRq1zN0hCwxgQutkKma"
@@ -9198,7 +9256,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 173647,
       "name": "Soft Landing",
       "url": "https://open.spotify.com/track/0TFzKqmZl7HjklWP0KWqXt"
@@ -10816,6 +10874,24 @@
       "duration_ms": 177373,
       "name": "TV Dinners (feat. Boldy James & Sideshow)",
       "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
+    },
+    {
+      "album": {
+        "name": "SUNDAY DINNER",
+        "url": "https://open.spotify.com/album/43C9qcFuylC5QjGspwpqTl"
+      },
+      "artists": [
+        {
+          "name": "Nick Grant",
+          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "TWO SIDES",
+      "url": "https://open.spotify.com/track/50bZ9l5bg1jgoglj6qgy8J"
     },
     {
       "album": {

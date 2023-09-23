@@ -2309,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274475,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM"
+    },
+    {
+      "album": {
         "name": "Dye Yer Hair",
         "url": "https://open.spotify.com/album/7bUhqpm35dpdoRYNgZCS7m"
       },
@@ -2954,7 +2972,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 182960,
       "name": "Float Away",
       "url": "https://open.spotify.com/track/6PIjKxxqT4H23Gv8jMWHUJ"
@@ -3498,7 +3516,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 145106,
       "name": "Grapefruit",
       "url": "https://open.spotify.com/track/332WZjqKelsZd6fLcb1Bgm"
@@ -5996,7 +6014,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 230935,
       "name": "Moments of Clarity",
       "url": "https://open.spotify.com/track/35abwQmAZvwCPBPzuXWob1"
@@ -6180,6 +6198,24 @@
       "duration_ms": 235309,
       "name": "My Honesty",
       "url": "https://open.spotify.com/track/5Ns3YcSiLiZ3bYNmq6F00b"
+    },
+    {
+      "album": {
+        "name": "my little tony",
+        "url": "https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179562,
+      "name": "my little tony",
+      "url": "https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo"
     },
     {
       "album": {
@@ -6512,7 +6548,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 228268,
       "name": "Nurse!",
       "url": "https://open.spotify.com/track/2gBHfUuzqb4JP662SOIX7O"
@@ -8911,6 +8947,24 @@
     },
     {
       "album": {
+        "name": "The Talker",
+        "url": "https://open.spotify.com/album/5BXR50ykahvMIalgUfzYmD"
+      },
+      "artists": [
+        {
+          "name": "Whispering Sons",
+          "url": "https://open.spotify.com/artist/2iIBcGbTd24FtVwuP9o2OT"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "The Talker",
+      "url": "https://open.spotify.com/track/1I8ZMHV00ELiUPlARDCX1M"
+    },
+    {
+      "album": {
         "name": "The Way It Shatters",
         "url": "https://open.spotify.com/album/4LGidB7kQRA1vAKEizMotl"
       },
@@ -9896,6 +9950,24 @@
       "duration_ms": 220408,
       "name": "Who Loves Ya? (Coup d'\u00e9tat)",
       "url": "https://open.spotify.com/track/6z9gUolZoaw9Lf2mG90ytt"
+    },
+    {
+      "album": {
+        "name": "Winnipesaukee",
+        "url": "https://open.spotify.com/album/7b6p4hv9p0grd6pKGDxjkB"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212117,
+      "name": "Winnipesaukee",
+      "url": "https://open.spotify.com/track/1Kh5HDAlCzDpIFMr3rZvdi"
     },
     {
       "album": {

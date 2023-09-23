@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,022,505 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,022,595 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 49 | [Melody](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Melody](https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg) | 2:47 |
 | 50 | [Set Me Free](https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Set Me Free](https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI) | 3:00 |
 
-Snapshot ID: `MCw0NDVlZWFiNzhlNzYzOGJhY2FkMDZhMTA0YTE0ZjkzZDRmZGU3MTFj`
+Snapshot ID: `MCw2YmJjYWQwNmI3MDQyYmE4NDVjNmVkZWUwNGI3ZTllMjhlMmM3ZTQ2`

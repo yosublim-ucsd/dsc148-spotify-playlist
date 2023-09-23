@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,175 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,244 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 12 | [Soldat](https://open.spotify.com/track/4c9lx29ADaRI0Hzy8ql69V) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [Soldat](https://open.spotify.com/album/30rq6uVi2lypmp6787cImE) | 2:19 |
 | 13 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 14 | [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 |
-| 15 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 |
+| 15 | [Paint The Town Red](https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:50 |
 | 16 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 | 17 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
 | 18 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 33 | [Andas in andas ut](https://open.spotify.com/track/7tHkIqI9XU8qCfLHIzl0pp) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Andas in andas ut](https://open.spotify.com/album/4Hy5SVsOUpO5ggDl3xOyen) | 2:36 |
 | 34 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 35 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
-| 36 | [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 4:25 |
+| 36 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 |
 | 37 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
 | 38 | [17](https://open.spotify.com/track/6y4Z3qrOwInrWJhocyiRcA) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [TRAPEN TILL RADION](https://open.spotify.com/album/7iAffbVeIbgvwwz04XOt5k) | 2:31 |
 | 39 | [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 |
 | 50 | [INGEN KAN SLÅ \(BOTEN ANNA\)](https://open.spotify.com/track/1pLglW5mDscxmbo32uaf3U) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [INGEN KAN SLÅ \(BOTEN ANNA\)](https://open.spotify.com/album/3wiC6E5VBDno4edLIFcWKY) | 2:09 |
 
-Snapshot ID: `MCwwY2QzMzg4M2YyNWIzYjcwMmQ4OGZhYzFiZGE3ZmIwZTFmNDUxNWJl`
+Snapshot ID: `MCxjZGRiNGY5MzNhOWUwYjI2ZTM5ODNkZGEyZjE5MzYyZjUxNGVkNzBi`

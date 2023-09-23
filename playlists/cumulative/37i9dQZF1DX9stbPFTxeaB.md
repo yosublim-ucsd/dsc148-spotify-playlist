@@ -4,15 +4,18 @@
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-106 songs - 7 hr 4 min
+110 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Always Free](https://open.spotify.com/track/0vD4NlJVWTYE8rdj1UGsAt) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 2:57 | 2023-09-22 |  |
 | [Any Way The Wind Blows](https://open.spotify.com/track/06v3DtMzR1u8XwNkEy8OEp) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Any Way The Wind Blows](https://open.spotify.com/album/1uPRDVR48w703zWvbd0Jt5) | 3:01 | 2020-08-21 | 2023-07-14 |
 | [Any Way the Wind Blows](https://open.spotify.com/track/5ECVygXKHN7Hqbutsa5bzJ) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Ways](https://open.spotify.com/album/2ZqdswALyu4SyQI2JHxbly) | 3:01 | 2020-08-21 |  |
 | [Before You Hit The Ground](https://open.spotify.com/track/4akqDi0F86Avv9yhujAk9P) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Wander This World](https://open.spotify.com/album/1gGPShgwiwjAXBOYwWgVV9) | 3:54 | 2020-08-21 | 2022-07-29 |
 | [Before You Hit The Ground](https://open.spotify.com/track/6X3oobD0XUStLRoCciGEmj) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Wander This World](https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG) | 3:54 | 2020-08-21 |  |
+| [Best Of Times](https://open.spotify.com/track/71Y2IwdmrmbMxB3Rq7fz4E) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Best Of Times](https://open.spotify.com/album/6bkOefhIbkWuboKf4nUnrM) | 3:27 | 2023-09-22 |  |
 | [Big Mouth](https://open.spotify.com/track/5mCuc8RrujOdKaqQ5dH9so) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Pearl River](https://open.spotify.com/album/52ap88GKN1tlssPoePQK0p) | 4:08 | 2020-08-21 |  |
+| [Blues\-a\-fied](https://open.spotify.com/track/0YIRYIx4Z0oJ5PF1DmqEFD) | [Anthony Gomes](https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg) | [High Voltage Blues](https://open.spotify.com/album/0ieocMI2zlwYG0JcJUq6Ey) | 3:33 | 2023-09-22 |  |
 | [Built For Comfort](https://open.spotify.com/track/34GVdYe8z3z7H7gylc3mCw) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Black to Blues](https://open.spotify.com/album/6W4rQeptwzL84iC4fb7TuI) | 4:24 | 2020-08-21 |  |
 | [Built For Comfort](https://open.spotify.com/track/5vXgup8xsz2qAd2cySLrBk) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Black to Blues](https://open.spotify.com/album/12jkU3QDHEWbtJWobBgR61) | 4:24 | 2020-08-21 | 2022-07-29 |
 | [Burning Out](https://open.spotify.com/track/5abyTR9t1SuyS8YAQZd6xA) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit Rising](https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H) | 3:28 | 2020-08-21 |  |
@@ -84,6 +87,7 @@
 | [Plastic Hamburgers](https://open.spotify.com/track/2bmBc4ovS9p18e1IUYHSE9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Plastic Hamburgers](https://open.spotify.com/album/5oYfjMuqOR07P45xNSjlab) | 3:37 | 2020-08-21 | 2022-07-29 |
 | [Plastic Hamburgers](https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead](https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS) | 3:37 | 2020-08-21 |  |
 | [Point of View](https://open.spotify.com/track/7xvRzWO7VuKSiQM1BWkEcs) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [Night Train to Budapest](https://open.spotify.com/album/0xGYLsyGj4WMxXS7rj1nJc) | 4:08 | 2020-08-21 |  |
+| [Put That Back](https://open.spotify.com/track/68c1MV92ptINojyzzheUJu) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 3:47 | 2023-09-22 |  |
 | [Riot](https://open.spotify.com/track/0tAXV5rJfrMcqTOPNzv9og) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Riot](https://open.spotify.com/album/2PSA0hNLqgBVBOa0lciwPt) | 5:02 | 2020-08-21 |  |
 | [Sailin' shoes](https://open.spotify.com/track/7i3Nj3LFRVSyn4dzYzAVVu) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Influence](https://open.spotify.com/album/3iUPd1kl1Nqh2AtgsgXgdF) | 3:22 | 2020-08-21 |  |
 | [Sailin' Shoes](https://open.spotify.com/track/5oQmwbutn2Y9QoFKT0h31v) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Influence](https://open.spotify.com/album/4LVZlwxt0KopNFeAjh6ScO) | 3:23 | 2020-08-21 | 2022-07-29 |

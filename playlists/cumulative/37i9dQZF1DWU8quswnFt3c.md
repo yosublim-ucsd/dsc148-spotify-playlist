@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Shakira
 
-1,459 songs - 3 day 8 hr 10 min
+1,460 songs - 3 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [A Woman's Worth](https://open.spotify.com/track/1NRorokmYEtr1koWybvaE4) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 5:03 | 2023-03-01 | 2023-04-06 |
 | [A.O.U](https://open.spotify.com/track/6oyagq8m6zMSeIGmCXkceD) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [A.O.U](https://open.spotify.com/album/671xpFoPFWV4zfs8C5yuuv) | 4:18 | 2022-07-09 | 2022-08-04 |
 | [About U](https://open.spotify.com/track/4bBdFSu4WcfJhWl1EsreVj) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [About U](https://open.spotify.com/album/48lbAUdEwFZFKWY2y4BfvB) | 2:42 | 2022-08-03 | 2022-09-09 |
-| [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 | 2023-09-06 |  |
+| [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 | 2023-09-06 | 2023-09-23 |
 | [Adicta al Perreo](https://open.spotify.com/track/7xj6vIyvd8qh9JjPzQhvHa) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Adicta al Perreo](https://open.spotify.com/album/6E4zCCVrnmZigYPqJJshdV) | 2:50 | 2022-04-06 | 2022-05-05 |
 | [ADIÓS](https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:40 | 2023-09-06 |  |
 | [Adiós Mi Negrito](https://open.spotify.com/track/6MKjQsM77ioTbQ5idx3sLp) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Adiós Mi Negrito](https://open.spotify.com/album/58OYosg2fG9Ykdz68filu1) | 4:25 | 2022-06-01 | 2022-07-07 |
@@ -350,6 +350,7 @@
 | [El Chino](https://open.spotify.com/track/7qs3pUILxp3VqyBLqhV6gU) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Chocolate Inglés](https://open.spotify.com/album/3pZONXDON8OV4eHSvPPh1q) | 3:38 | 2022-07-06 | 2022-08-04 |
 | [EL FINAL](https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [EL FINAL](https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00) | 3:52 | 2023-06-07 | 2023-07-06 |
 | [El Galb Yefdak](https://open.spotify.com/track/5lS6rBpq85NstaRES7R6ca) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [El Galb Yefdak](https://open.spotify.com/album/4GUiweSeHmpdWrZ3lqiXSw) | 3:45 | 2022-07-06 | 2022-07-08 |
+| [El Jefe](https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Jefe](https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X) | 2:50 | 2023-09-22 |  |
 | [El Muro](https://open.spotify.com/track/71hFIxMRthZAvbpnbLwpn5) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [El Muro](https://open.spotify.com/album/61ncSl5eA5WIdTxMvieAIw) | 3:13 | 2023-07-05 | 2023-08-03 |
 | [El Regalito](https://open.spotify.com/track/10VSk1JjgkNckHhlw4w4fv) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [El Regalito](https://open.spotify.com/album/1Nf4UdcDH5Dn1U5aqTovUl) | 2:31 | 2023-09-06 |  |
 | [El Sa3a Tes3a](https://open.spotify.com/track/1M7N6cJY42AXOhpRwKzUFU) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [El Sa3a Tes3a](https://open.spotify.com/album/1GJZhqPPsieEHz7nLKW17G) | 3:25 | 2022-03-09 | 2022-04-07 |

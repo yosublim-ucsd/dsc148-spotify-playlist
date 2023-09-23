@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa. Jesse Baez y Milkman en portada.",
+  "description": "Bienvenidx a la trampa mexa. Krusha G y Papi Trujillo en portada.",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 156691,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/2BNw1WhGHgPvVYKh94AH1j"
@@ -1735,6 +1735,32 @@
     },
     {
       "album": {
+        "name": "Infraganti",
+        "url": "https://open.spotify.com/album/76vMmSsl678VqUbB5UZzcJ"
+      },
+      "artists": [
+        {
+          "name": "Neelo",
+          "url": "https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q"
+        },
+        {
+          "name": "Mnzr",
+          "url": "https://open.spotify.com/artist/0ukubLrduRP1yb78hHKrbA"
+        },
+        {
+          "name": "Corona Beatz",
+          "url": "https://open.spotify.com/artist/4aSPgs6VDJdszVo2sBS2PJ"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Infraganti",
+      "url": "https://open.spotify.com/track/3gslN5n2cRyJKHUMV4M7dl"
+    },
+    {
+      "album": {
         "name": "INSTAX",
         "url": "https://open.spotify.com/album/7b1qkKvj0XPkzoXEKySUii"
       },
@@ -1922,7 +1948,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 132283,
       "name": "Le tir\u00e9",
       "url": "https://open.spotify.com/track/6cBeF1NWjZBfN3sLZ8kCRh"
@@ -2010,7 +2036,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 136888,
       "name": "Lilith",
       "url": "https://open.spotify.com/track/61ulBJqmUUU39xId334yEs"
@@ -2208,6 +2234,28 @@
       "duration_ms": 183512,
       "name": "Mill\u00f3n",
       "url": "https://open.spotify.com/track/64WAtGEW18TZJypuDepkxe"
+    },
+    {
+      "album": {
+        "name": "CIRCUS",
+        "url": "https://open.spotify.com/album/1RKKNHSeD6HuG15HevvGbe"
+      },
+      "artists": [
+        {
+          "name": "Kill the Clowns",
+          "url": "https://open.spotify.com/artist/7KczDuPvlKEo8nQCpa8my8"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166399,
+      "name": "MONOPSYCHO",
+      "url": "https://open.spotify.com/track/1RvNIXRus8PEkc8nhBji1D"
     },
     {
       "album": {
@@ -2584,7 +2632,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 97878,
       "name": "Ocioso",
       "url": "https://open.spotify.com/track/6XQkPFuJAvCDCOwfgUvxYY"
@@ -2702,6 +2750,28 @@
       "duration_ms": 183280,
       "name": "Pasaporte",
       "url": "https://open.spotify.com/track/3pwySwsJVgE1fvXtm1gJGs"
+    },
+    {
+      "album": {
+        "name": "Pay Me",
+        "url": "https://open.spotify.com/album/5icLajLMHTL7pdt7FOQTFe"
+      },
+      "artists": [
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228631,
+      "name": "Pay Me",
+      "url": "https://open.spotify.com/track/4N5jnDQ8qdpfjSySfyYSL0"
     },
     {
       "album": {
@@ -3488,6 +3558,28 @@
       "duration_ms": 156387,
       "name": "Tirando Flow Sesh #8",
       "url": "https://open.spotify.com/track/48LRWkjqh0MuiyQmGkqzgP"
+    },
+    {
+      "album": {
+        "name": "Trap Kingz",
+        "url": "https://open.spotify.com/album/6XD0ppc6d3Dv5vAhqnQxBi"
+      },
+      "artists": [
+        {
+          "name": "Krusha G",
+          "url": "https://open.spotify.com/artist/4OTXdFDQv95Y2bcB4TBYZw"
+        },
+        {
+          "name": "Papi Trujillo",
+          "url": "https://open.spotify.com/artist/7dG3aAHAFVHMyQo9meGLwb"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140346,
+      "name": "Trap Kingz",
+      "url": "https://open.spotify.com/track/2v0qGsN7KN3Wv4LZson2Fd"
     },
     {
       "album": {

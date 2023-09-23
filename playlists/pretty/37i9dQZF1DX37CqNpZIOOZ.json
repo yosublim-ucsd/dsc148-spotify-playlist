@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 20728,
+  "num_followers": 20731,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTk0OTdmMTc2M2IzODJhNDMyNDA2NzIyZWYxOTEyYzE4MmE5MTlh",
+  "snapshot_id": "MCw5MjhhYmVkMGQxYzMzOWVmYzc1MGRjOTYwODkzNGEwMThmODhlYzYy",
   "tracks": [
     {
       "added_at": "2022-06-20 09:55:21",
@@ -291,30 +291,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Capriccio - Works for Violin and Piano [Digital version]",
-        "url": "https://open.spotify.com/album/5Ahk9V4CcQluGsKMbFmize"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Strauss, R / Arr. Prihoda for Violin and Piano: Stimmungsbilder, Op. 9: No. 2, An einsamer Quelle",
-      "url": "https://open.spotify.com/track/0jg9K9w8QeYi5SlOA2z63j"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Richard Strauss: Four Last Songs / Wagner: Arias from Tannh\u00e4user",
         "url": "https://open.spotify.com/album/1fsJhFgqGAJiSJo61ALeSO"
       },
@@ -339,6 +315,30 @@
       "duration_ms": 276080,
       "name": "4 Lieder, Op. 27, TrV 170: No. 1, Ruhe, meine Seele!",
       "url": "https://open.spotify.com/track/5ep4jiZhv2eoFfFHtSU1df"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Capriccio - Works for Violin and Piano [Digital version]",
+        "url": "https://open.spotify.com/album/5Ahk9V4CcQluGsKMbFmize"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Strauss, R / Arr. Prihoda for Violin and Piano: Stimmungsbilder, Op. 9: No. 2, An einsamer Quelle",
+      "url": "https://open.spotify.com/track/0jg9K9w8QeYi5SlOA2z63j"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -767,6 +767,34 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Solti - Richard Strauss - The Operas",
+        "url": "https://open.spotify.com/album/5NoP4U6KVEhyzIWXJ9x1D5"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "duration_ms": 681213,
+      "name": "Daphne, Op. 82, TrV 272: \"Ich komme, ich komme\"",
+      "url": "https://open.spotify.com/track/0ylOOGWlbKBeAY3YaRY8bK"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss: Heimliche Aufforderung",
         "url": "https://open.spotify.com/album/7IwIpZ4Z6kWUuUdnmca7LG"
       },
@@ -815,34 +843,6 @@
       "duration_ms": 240306,
       "name": "Standchen, TrV 114",
       "url": "https://open.spotify.com/track/4vSZuTSLCZNj9EeCE60d0p"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Solti - Richard Strauss - The Operas",
-        "url": "https://open.spotify.com/album/5NoP4U6KVEhyzIWXJ9x1D5"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Ren\u00e9e Fleming",
-          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
-        }
-      ],
-      "duration_ms": 681213,
-      "name": "Daphne, Op. 82, TrV 272: \"Ich komme, ich komme\"",
-      "url": "https://open.spotify.com/track/0ylOOGWlbKBeAY3YaRY8bK"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -963,30 +963,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss, R.: Songs of Love and Death",
-        "url": "https://open.spotify.com/album/1mZpGPup33UGZausuqeXEK"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Hedwig Fassbender",
-          "url": "https://open.spotify.com/artist/0ng7ys4mdfdcKsHBqbO0In"
-        },
-        {
-          "name": "Hilko Dumno",
-          "url": "https://open.spotify.com/artist/3m7UD0lXMbu9bsJzneZ9gz"
-        }
-      ],
-      "duration_ms": 327266,
-      "name": "5 Lieder, Op. 39, TrV 189: No. 4. Befreit",
-      "url": "https://open.spotify.com/track/4a3jCbhZo3KPvLbz8bUmMh"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss: Josephslegende, Love Scene from Feuersnot & Festmarsch",
         "url": "https://open.spotify.com/album/2tXjyOIFgCw9yJxsFXGY9O"
       },
@@ -1007,6 +983,30 @@
       "duration_ms": 348533,
       "name": "Feuersnot, Op. 50, TrV 203: Love Scene",
       "url": "https://open.spotify.com/track/2C7IfSb4nMXuY7vmoBNwYY"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R.: Songs of Love and Death",
+        "url": "https://open.spotify.com/album/1mZpGPup33UGZausuqeXEK"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Hedwig Fassbender",
+          "url": "https://open.spotify.com/artist/0ng7ys4mdfdcKsHBqbO0In"
+        },
+        {
+          "name": "Hilko Dumno",
+          "url": "https://open.spotify.com/artist/3m7UD0lXMbu9bsJzneZ9gz"
+        }
+      ],
+      "duration_ms": 327266,
+      "name": "5 Lieder, Op. 39, TrV 189: No. 4. Befreit",
+      "url": "https://open.spotify.com/track/4a3jCbhZo3KPvLbz8bUmMh"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1383,6 +1383,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss, Richard: The Tone Poems",
+        "url": "https://open.spotify.com/album/1n4OAKBDnr5KAFQTyPpTOZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Detroit Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1TuMl6QKOFwgQZzzhzuds4"
+        },
+        {
+          "name": "Antal Dor\u00e1ti",
+          "url": "https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL"
+        }
+      ],
+      "duration_ms": 1221333,
+      "name": "Symphonic Fantasie from \"Die Frau ohne Schatten\", TrV 234a",
+      "url": "https://open.spotify.com/track/2OBooBFhjGORpuAc7LX3hS"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss, R.: Der Rosenkavalier",
         "url": "https://open.spotify.com/album/3OEr8l0Btve8mdFvjZoj6P"
       },
@@ -1407,30 +1431,6 @@
       "duration_ms": 330920,
       "name": "Der Rosenkavalier, Op. 59 / Act 1: \"Da geht er hin, der aufgeblasene schlechte Kerl\"",
       "url": "https://open.spotify.com/track/433MQfeWscw5iOydbZjy5c"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss, Richard: The Tone Poems",
-        "url": "https://open.spotify.com/album/1n4OAKBDnr5KAFQTyPpTOZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Detroit Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1TuMl6QKOFwgQZzzhzuds4"
-        },
-        {
-          "name": "Antal Dor\u00e1ti",
-          "url": "https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL"
-        }
-      ],
-      "duration_ms": 1221333,
-      "name": "Symphonic Fantasie from \"Die Frau ohne Schatten\", TrV 234a",
-      "url": "https://open.spotify.com/track/2OBooBFhjGORpuAc7LX3hS"
     },
     {
       "added_at": "2022-06-20 09:55:21",

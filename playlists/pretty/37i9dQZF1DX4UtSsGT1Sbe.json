@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1980s. Cover: Michael Jackson.",
-  "num_followers": 10429888,
+  "num_followers": 10431822,
   "original_name": "All Out 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmMzOTY1MTExY2IwZDI2NDY5Mjc1YWZhYjhhMjE2ZTg5ZDIzODQ5",
+  "snapshot_id": "MCw3NjljZDQ1ODlmNmYxMjZhNTM5YzBkM2I3YjA5OTUxN2ZhNjEwNDUx",
   "tracks": [
     {
       "added_at": "2023-07-27 15:01:01",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-07-27 15:01:01",
       "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 295515,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
+    },
+    {
+      "added_at": "2023-07-27 15:01:01",
+      "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 241306,
       "name": "Dancing In the Dark",
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
-    },
-    {
-      "added_at": "2023-07-27 15:01:01",
-      "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 295515,
-      "name": "With Or Without You",
-      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
       "added_at": "2023-07-27 15:01:01",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-07-27 15:01:01",
       "album": {
-        "name": "Dr. Feelgood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 284026,
-      "name": "Kickstart My Heart",
-      "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
-    },
-    {
-      "added_at": "2023-07-27 15:01:01",
-      "album": {
         "name": "H2O",
         "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 273173,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
+    },
+    {
+      "added_at": "2023-07-27 15:01:01",
+      "album": {
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 284026,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
     },
     {
       "added_at": "2023-07-27 15:01:01",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-07-27 15:01:01",
       "album": {
-        "name": "I Love Rock 'N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "I Love Rock 'N Roll",
-      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
-    },
-    {
-      "added_at": "2023-07-27 15:01:01",
-      "album": {
         "name": "Mistaken Identity",
         "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 228000,
       "name": "Bette Davis Eyes",
       "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
+    },
+    {
+      "added_at": "2023-07-27 15:01:01",
+      "album": {
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "I Love Rock 'N Roll",
+      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
       "added_at": "2023-07-27 15:01:01",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-07-27 15:01:01",
       "album": {
+        "name": "Crowded House",
+        "url": "https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh"
+    },
+    {
+      "added_at": "2023-07-27 15:01:01",
+      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 256173,
       "name": "The Lady In Red",
       "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
-    },
-    {
-      "added_at": "2023-07-27 15:01:01",
-      "album": {
-        "name": "Crowded House",
-        "url": "https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Don't Dream It's Over",
-      "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh"
     },
     {
       "added_at": "2023-07-27 15:01:01",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-07-27 15:01:01",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Little Lies - 2017 Remaster",
-      "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
-    },
-    {
-      "added_at": "2023-07-27 15:01:01",
-      "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
@@ -1427,22 +1411,6 @@
     {
       "added_at": "2023-07-27 15:01:01",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 365466,
-      "name": "Don't Stop 'Til You Get Enough",
-      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
-    },
-    {
-      "added_at": "2023-07-27 15:01:01",
-      "album": {
         "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
         "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
       },
@@ -1455,6 +1423,22 @@
       "duration_ms": 226240,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
+    },
+    {
+      "added_at": "2023-07-27 15:01:01",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 365466,
+      "name": "Don't Stop 'Til You Get Enough",
+      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
     },
     {
       "added_at": "2023-07-27 15:01:01",
@@ -1555,38 +1539,6 @@
     {
       "added_at": "2023-07-27 15:01:01",
       "album": {
-        "name": "Chicago 17 (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 229240,
-      "name": "You're the Inspiration - 2006 Remaster",
-      "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
-    },
-    {
-      "added_at": "2023-07-27 15:01:01",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 264906,
-      "name": "Gypsy",
-      "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
-    },
-    {
-      "added_at": "2023-07-27 15:01:01",
-      "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
       },
@@ -1599,6 +1551,22 @@
       "duration_ms": 520786,
       "name": "Purple Rain",
       "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
+    },
+    {
+      "added_at": "2023-07-27 15:01:01",
+      "album": {
+        "name": "Chicago 17 (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 229240,
+      "name": "You're the Inspiration - 2006 Remaster",
+      "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
     },
     {
       "added_at": "2023-07-27 15:01:01",
@@ -1651,6 +1619,22 @@
     {
       "added_at": "2023-07-27 15:01:01",
       "album": {
+        "name": "Look Sharp! (Extended Version)",
+        "url": "https://open.spotify.com/album/4rQV5S9FhajZdyzFfcyYw9"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 328093,
+      "name": "Listen To Your Heart",
+      "url": "https://open.spotify.com/track/5JvsxPAHsGxwNq4xto2HtM"
+    },
+    {
+      "added_at": "2023-07-27 15:01:01",
+      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
       },
@@ -1679,22 +1663,6 @@
       "duration_ms": 201693,
       "name": "Any Way You Want It",
       "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
-    },
-    {
-      "added_at": "2023-07-27 15:01:01",
-      "album": {
-        "name": "Look Sharp! (Extended Version)",
-        "url": "https://open.spotify.com/album/4rQV5S9FhajZdyzFfcyYw9"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 328093,
-      "name": "Listen To Your Heart",
-      "url": "https://open.spotify.com/track/5JvsxPAHsGxwNq4xto2HtM"
     },
     {
       "added_at": "2023-07-27 15:01:01",
@@ -1875,22 +1843,6 @@
     {
       "added_at": "2023-07-27 15:01:01",
       "album": {
-        "name": "Foreign Affair",
-        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 329800,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
-    },
-    {
-      "added_at": "2023-07-27 15:01:01",
-      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -1935,6 +1887,22 @@
       "duration_ms": 200480,
       "name": "London Calling - Remastered",
       "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
+    },
+    {
+      "added_at": "2023-07-27 15:01:01",
+      "album": {
+        "name": "Foreign Affair",
+        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 329800,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
     },
     {
       "added_at": "2023-07-27 15:01:01",
@@ -2019,18 +1987,18 @@
     {
       "added_at": "2023-07-27 15:01:01",
       "album": {
-        "name": "Foreigner (Expanded)",
-        "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
       "artists": [
         {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 200213,
-      "name": "Cold as Ice",
-      "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
+      "duration_ms": 222426,
+      "name": "Rock the Casbah - Remastered",
+      "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
     },
     {
       "added_at": "2023-07-27 15:01:01",
@@ -2051,34 +2019,18 @@
     {
       "added_at": "2023-07-27 15:01:01",
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+        "name": "Foreigner (Expanded)",
+        "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
       },
       "artists": [
         {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
         }
       ],
-      "duration_ms": 222426,
-      "name": "Rock the Casbah - Remastered",
-      "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
-    },
-    {
-      "added_at": "2023-07-27 15:01:01",
-      "album": {
-        "name": "A New Flame (Expanded Version)",
-        "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
-      },
-      "artists": [
-        {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "If You Don't Know Me by Now - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
+      "duration_ms": 200213,
+      "name": "Cold as Ice",
+      "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
     },
     {
       "added_at": "2023-07-27 15:01:01",
@@ -2099,18 +2051,18 @@
     {
       "added_at": "2023-07-27 15:01:01",
       "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+        "name": "A New Flame (Expanded Version)",
+        "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
         }
       ],
-      "duration_ms": 218626,
-      "name": "Like a Virgin",
-      "url": "https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ"
+      "duration_ms": 204000,
+      "name": "If You Don't Know Me by Now - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
     },
     {
       "added_at": "2023-07-27 15:01:01",
@@ -2127,6 +2079,22 @@
       "duration_ms": 194120,
       "name": "Jessie's Girl",
       "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
+    },
+    {
+      "added_at": "2023-07-27 15:01:01",
+      "album": {
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 218626,
+      "name": "Like a Virgin",
+      "url": "https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ"
     },
     {
       "added_at": "2023-07-27 15:01:01",
@@ -2211,18 +2179,18 @@
     {
       "added_at": "2023-07-27 15:01:01",
       "album": {
-        "name": "Super Trouper",
-        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
+        "name": "What's Love Got to Do with It?",
+        "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
         }
       ],
-      "duration_ms": 252853,
-      "name": "Super Trouper",
-      "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
+      "duration_ms": 226880,
+      "name": "What's Love Got to Do with It",
+      "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
     },
     {
       "added_at": "2023-07-27 15:01:01",
@@ -2239,6 +2207,22 @@
       "duration_ms": 233270,
       "name": "Run To You",
       "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
+    },
+    {
+      "added_at": "2023-07-27 15:01:01",
+      "album": {
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 252853,
+      "name": "Super Trouper",
+      "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
     },
     {
       "added_at": "2023-07-27 15:01:01",
@@ -2275,22 +2259,6 @@
     {
       "added_at": "2023-07-27 15:01:01",
       "album": {
-        "name": "What's Love Got to Do with It?",
-        "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 226880,
-      "name": "What's Love Got to Do with It",
-      "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
-    },
-    {
-      "added_at": "2023-07-27 15:01:01",
-      "album": {
         "name": "Freeze Frame",
         "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
       },
@@ -2303,22 +2271,6 @@
       "duration_ms": 216533,
       "name": "Centerfold",
       "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
-    },
-    {
-      "added_at": "2023-07-27 15:01:01",
-      "album": {
-        "name": "Celebrate!",
-        "url": "https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 298866,
-      "name": "Celebration",
-      "url": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
     },
     {
       "added_at": "2023-07-27 15:01:01",
@@ -2343,6 +2295,22 @@
     {
       "added_at": "2023-07-27 15:01:01",
       "album": {
+        "name": "Celebrate!",
+        "url": "https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 298866,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
+    },
+    {
+      "added_at": "2023-07-27 15:01:01",
+      "album": {
         "name": "No Brakes",
         "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
       },
@@ -2359,22 +2327,6 @@
     {
       "added_at": "2023-07-27 15:01:01",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
-      },
-      "artists": [
-        {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
-        }
-      ],
-      "duration_ms": 232400,
-      "name": "It's My Life - 1997 Remaster",
-      "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
-    },
-    {
-      "added_at": "2023-07-27 15:01:01",
-      "album": {
         "name": "Love Will Tear Us Apart",
         "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
       },
@@ -2387,6 +2339,22 @@
       "duration_ms": 208453,
       "name": "Love Will Tear Us Apart - 2020 Remaster",
       "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
+    },
+    {
+      "added_at": "2023-07-27 15:01:01",
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
+      },
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "It's My Life - 1997 Remaster",
+      "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
     },
     {
       "added_at": "2023-07-27 15:01:01",
@@ -2419,6 +2387,38 @@
       "duration_ms": 239826,
       "name": "If I Could Turn Back Time",
       "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
+    },
+    {
+      "added_at": "2023-07-27 15:01:01",
+      "album": {
+        "name": "The Very Best of Billy Ocean",
+        "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Caribbean Queen (No More Love On the Run)",
+      "url": "https://open.spotify.com/track/4JEylZNW8SbO4zUyfVrpb7"
+    },
+    {
+      "added_at": "2023-07-27 15:01:01",
+      "album": {
+        "name": "Arthur - The Album [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Arthur's Theme (Best That You Can Do)",
+      "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
     }
   ],
   "unique_name": "All Out 80s",

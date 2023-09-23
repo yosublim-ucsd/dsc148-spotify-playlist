@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 
 > Salsa que representa Puerto Rico\. Portada: El Gran Combo De Puerto Rico
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,375 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,422 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 | 47 | [No Tires La Primera Piedra](https://open.spotify.com/track/0OFAo20H6VUQB78GyLoJQJ) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Rodven Clasico: Tommy Olivencia Y Su Orquesta "30 Aniversario"](https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd) | 4:56 |
 | 48 | [Arroz Con Habichuela](https://open.spotify.com/track/6p8Dt5ofRsmwhBSYhDwMRS) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Arroz Con Habichuela](https://open.spotify.com/album/2uLb1q19tjdf66SuNpOsda) | 5:56 |
 | 49 | [25 Rosas](https://open.spotify.com/track/7BxjRWadxvkrqxC0J3ZHxK) | [Paquito Guzman](https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5) | [Serie Millennium 21: Paquito Guzman](https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn) | 4:39 |
-| 50 | [Tú Me Vuelves Loco](https://open.spotify.com/track/1OIfhmTXZWuKLibFKe5RFd) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Frankie Ruiz Gold](https://open.spotify.com/album/4I0GURNIly2aPl4KIqKDvU) | 4:55 |
+| 50 | [La Esencia Del Guaguancó](https://open.spotify.com/track/09ivtKa1GxucyzH3qFMBOL) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa) | [Anthology](https://open.spotify.com/album/15w229yWe9GblGtWjJC753) | 4:06 |
 
-Snapshot ID: `MCw5ZmVhNzJiOTM2YjQzNjMwYjJkNzc4OWJlZGQ1ZTc2Njc4MjA1YWMw`
+Snapshot ID: `MCwzMDAyMTgzYzM5OTgyMmY4MzRjZTUyMDZiNjEyMjU4OTJmNTM1MjBi`

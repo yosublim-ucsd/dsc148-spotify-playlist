@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,064 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,076 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 72 | [Non Fare Così](https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [PLAZA](https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8) | 3:12 |
 | 73 | [Latest Trends](https://open.spotify.com/track/7pnQ23WgZca9jEfMts9qsR) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [Latest Trends](https://open.spotify.com/album/0vkahJN8SNXT05PgGc46nu) | 2:38 |
 | 74 | [Whip Whip](https://open.spotify.com/track/3GlYaaFuFxEJWYiN0Vc41f) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Whip Whip](https://open.spotify.com/album/5nPvaJOnOIPRuDtRc2RicJ) | 1:57 |
-| 75 | [Body \(Remix\) \[feat\. Capo Plaza & Rondodasosa\]](https://open.spotify.com/track/1JAkXiY10vwLhSbcsiimrp) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Body \(Remix\) \[feat\. Capo Plaza & Rondodasosa\]](https://open.spotify.com/album/6DiEWYk79JFILIgUd6SrTA) | 3:25 |
-| 76 | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY) | 3:33 |
+| 75 | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY) | 3:33 |
+| 76 | [Body \(Remix\) \[feat\. Capo Plaza & Rondodasosa\]](https://open.spotify.com/track/1JAkXiY10vwLhSbcsiimrp) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Body \(Remix\) \[feat\. Capo Plaza & Rondodasosa\]](https://open.spotify.com/album/6DiEWYk79JFILIgUd6SrTA) | 3:25 |
 | 77 | [∞ LOVE \(feat\. Guè\)](https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:38 |
 | 78 | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd) | 2:33 |
 | 79 | [Chico \(feat\. Rose Villain & Luchè\)](https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mr\. Fini](https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf) | 3:21 |
 | 80 | [YAMAMAY](https://open.spotify.com/track/6P68S7IrfuDyXOmhUpwvxZ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [YAMAMAY](https://open.spotify.com/album/4yMQk3qc1pbUOLjgRN1gIB) | 2:42 |
 
-Snapshot ID: `MCxiYWUzZTI5NjUzNjU4YzdmOGNmMDhhMGJiMzU1NmVjMTJiNGYyOThi`
+Snapshot ID: `MCw4MjAxYTM4Y2NmNmJjM2I4NzQyNThjMDQ4MzA1ZmEyNGViOTIzOGQ5`

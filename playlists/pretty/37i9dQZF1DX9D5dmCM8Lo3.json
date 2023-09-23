@@ -1,12 +1,12 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 178786,
+  "num_followers": 179190,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjQ3MzJlZDVjOTEwMzBjNzMzZTlhNDFlNmU0MzkzYjk1ODNlZDY2",
+  "snapshot_id": "MCxjMDMyMzUwOWZkOTcyYjhlOTNjODYyOGYwMzI2ZGQyZmFmNDdhMDZk",
   "tracks": [
     {
       "added_at": "2023-07-18 20:06:10",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
+        "name": "C3L3STIAL\u5929\u306e",
+        "url": "https://open.spotify.com/album/3fRYgemQ0936FpVBvUjEgk"
+      },
+      "artists": [
+        {
+          "name": "bliss3three",
+          "url": "https://open.spotify.com/artist/5tP9MksSHHb59vV4N6HMHI"
+        }
+      ],
+      "duration_ms": 68571,
+      "name": "C3L3STIAL_CITY",
+      "url": "https://open.spotify.com/track/3A65Lka539xAGXoNNAN1Bs"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
         "name": "DIRT BIRD",
         "url": "https://open.spotify.com/album/3S64ZdqDFMAq4KoltiR1Sc"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 116589,
       "name": "Chiltonwalk.Temp",
       "url": "https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
-        "name": "C3L3STIAL\u5929\u306e",
-        "url": "https://open.spotify.com/album/3fRYgemQ0936FpVBvUjEgk"
-      },
-      "artists": [
-        {
-          "name": "bliss3three",
-          "url": "https://open.spotify.com/artist/5tP9MksSHHb59vV4N6HMHI"
-        }
-      ],
-      "duration_ms": 68571,
-      "name": "C3L3STIAL_CITY",
-      "url": "https://open.spotify.com/track/3A65Lka539xAGXoNNAN1Bs"
     }
   ],
   "unique_name": "webcore",

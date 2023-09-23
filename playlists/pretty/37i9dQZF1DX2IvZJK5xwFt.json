@@ -1,12 +1,12 @@
 {
   "description": "Only the best rock in the world. Cover: Linkin Park",
-  "num_followers": 159397,
+  "num_followers": 159549,
   "original_name": "Just Rock!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjdmODQ2MTM3YjA5YmI3N2E3Y2RjNDIwOWM1MjNmMzNhMzRjOWZk",
+  "snapshot_id": "MCxjYmMzN2UyNjU2N2RlNGU1ZmNmNjQ5NDQxNzY5MzBjNmE0ODNkYjBj",
   "tracks": [
     {
       "added_at": "2023-09-22 00:00:00",
@@ -59,7 +59,7 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "DROP",
+        "name": "DROP (feat. Randy Blythe)",
         "url": "https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE"
       },
       "artists": [
@@ -73,7 +73,7 @@
         }
       ],
       "duration_ms": 191208,
-      "name": "DROP",
+      "name": "DROP (feat. Randy Blythe)",
       "url": "https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33"
     },
     {

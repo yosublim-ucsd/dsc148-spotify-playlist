@@ -5718,6 +5718,10 @@
         {
           "name": "Shilpa Rao",
           "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
         }
       ],
       "date_added": "2023-09-15",
@@ -11862,7 +11866,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
@@ -12814,6 +12818,32 @@
       "duration_ms": 149802,
       "name": "God Must Hate Me",
       "url": "https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK"
+    },
+    {
+      "album": {
+        "name": "God Problems",
+        "url": "https://open.spotify.com/album/0d3jBzKsUXdynysqmqE07E"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 590857,
+      "name": "God Problems",
+      "url": "https://open.spotify.com/track/2aIKL1vIMOztwdxlG9hGoD"
     },
     {
       "album": {
@@ -15436,7 +15466,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 158104,
       "name": "I Wait for You",
       "url": "https://open.spotify.com/track/7EDcAz6iuKSkxH4VcC3Oko"
@@ -18320,7 +18350,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 216347,
       "name": "Last Time I Saw You",
       "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
@@ -28595,6 +28625,24 @@
     },
     {
       "album": {
+        "name": "September (sped up + slowed)",
+        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216022,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
+    },
+    {
+      "album": {
         "name": "Now, Then & Forever",
         "url": "https://open.spotify.com/album/2L8rj8VnahryOqg7vKHYzx"
       },
@@ -38418,7 +38466,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 181453,
       "name": "You Thought (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/698IDYJMDJS5IVakqcX8vo"

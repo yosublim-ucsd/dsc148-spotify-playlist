@@ -3956,7 +3956,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 122179,
       "name": "fromain",
       "url": "https://open.spotify.com/track/5LhVAZrBWUrqIcCLX90uPa"
@@ -5318,6 +5318,24 @@
       "duration_ms": 125728,
       "name": "Incandescent Sky - Demo",
       "url": "https://open.spotify.com/track/7cYwTwfI2cQdZvnSjsB6ah"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/5uUb9ixhJKIFVpJktTFair"
+      },
+      "artists": [
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134250,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/2Q0Sgox8fZRoqE61pD9m2y"
     },
     {
       "album": {
@@ -10156,7 +10174,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 129473,
       "name": "Rododendron",
       "url": "https://open.spotify.com/track/7bPT9pBJaTdl5L4J5SfAI5"
@@ -14540,6 +14558,32 @@
       "duration_ms": 86236,
       "name": "yesterday floor",
       "url": "https://open.spotify.com/track/1xAA5ZuoxcefBg3EmxIQJc"
+    },
+    {
+      "album": {
+        "name": "Yesterday's Tomorrow",
+        "url": "https://open.spotify.com/album/3pU2zQiCSXTLKpUY1sU3oa"
+      },
+      "artists": [
+        {
+          "name": "Lab Progression",
+          "url": "https://open.spotify.com/artist/1KWvzy2ks6bKSBD3rMj5yk"
+        },
+        {
+          "name": "Midan",
+          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
+        },
+        {
+          "name": "Jammin Berries",
+          "url": "https://open.spotify.com/artist/46TWlcFSSZbWiB9k9n0P8o"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140432,
+      "name": "Yesterday's Tomorrow",
+      "url": "https://open.spotify.com/track/7D2wp7jItC0PNJMp3fvDZm"
     },
     {
       "album": {

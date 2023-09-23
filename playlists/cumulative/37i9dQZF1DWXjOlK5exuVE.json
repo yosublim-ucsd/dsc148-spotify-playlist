@@ -184,10 +184,32 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 183871,
       "name": "Buenas Vibras",
       "url": "https://open.spotify.com/track/59RDOIHszAvUmJdnnV1x13"
+    },
+    {
+      "album": {
+        "name": "B\u00e9lico X Siempre",
+        "url": "https://open.spotify.com/album/1AFs1df7bscMEsh6CEI2Gj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173642,
+      "name": "B\u00e9lico X Siempre",
+      "url": "https://open.spotify.com/track/7uZ3mZbVE1e7NtYMBAK3hA"
     },
     {
       "album": {
@@ -268,6 +290,24 @@
       "duration_ms": 136913,
       "name": "Ch y la Pizza",
       "url": "https://open.spotify.com/track/1ySH55O0zbQBR77q8wQEyn"
+    },
+    {
+      "album": {
+        "name": "Chica La Bola",
+        "url": "https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173205,
+      "name": "Chica La Bola",
+      "url": "https://open.spotify.com/track/3Pl6cmIeByRLbclelIPAnJ"
     },
     {
       "album": {
@@ -867,6 +907,24 @@
     },
     {
       "album": {
+        "name": "El De La Defender Blanca",
+        "url": "https://open.spotify.com/album/4B4JQCRfMSBbsnZfGGJ1Xk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cartel",
+          "url": "https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181633,
+      "name": "El De La Defender Blanca",
+      "url": "https://open.spotify.com/track/1hWwQlh8IX6RroVqPpZmbc"
+    },
+    {
+      "album": {
         "name": "El De Las Mieles",
         "url": "https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp"
       },
@@ -882,6 +940,28 @@
       "duration_ms": 205141,
       "name": "El De Las Mieles",
       "url": "https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi"
+    },
+    {
+      "album": {
+        "name": "El Dos de los Antrax",
+        "url": "https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199769,
+      "name": "El Dos de los Antrax",
+      "url": "https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe"
     },
     {
       "album": {
@@ -1016,7 +1096,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 219533,
       "name": "El G\u00fcero - En vivo",
       "url": "https://open.spotify.com/track/7a6gK5GwlIvGTU4ayZhskd"
@@ -1214,10 +1294,36 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 174640,
       "name": "El Penal De La Loma",
       "url": "https://open.spotify.com/track/1E3USlazP7goXHmyAP6L8m"
+    },
+    {
+      "album": {
+        "name": "R\u00e9gulo Caro vs. Emilio Garra",
+        "url": "https://open.spotify.com/album/3jpK8xsQuiEeCLCj3zwpyY"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Emilio Garra",
+          "url": "https://open.spotify.com/artist/5EgezdXajH2FAf79KHmrah"
+        },
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "El pescador - Banda",
+      "url": "https://open.spotify.com/track/0RAIrifbFUXrGpVM42LfqL"
     },
     {
       "album": {
@@ -1347,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "El Toro Encartado - Spotify Singles",
+        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164245,
+      "name": "El Toro Encartado - Spotify Singles",
+      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
+    },
+    {
+      "album": {
         "name": "Corridos Volumen 1",
         "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
       },
@@ -1394,7 +1518,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 200493,
       "name": "Empujando la L\u00ednea",
       "url": "https://open.spotify.com/track/4doAczw4VqEa9qJu1M8Ou5"
@@ -1448,7 +1572,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 184848,
       "name": "En El Refuego",
       "url": "https://open.spotify.com/track/5a03ZGBn3dqr3H3W3li7FO"
@@ -1527,6 +1651,32 @@
     },
     {
       "album": {
+        "name": "Escuela de rancho (En Vivo)",
+        "url": "https://open.spotify.com/album/3PbdSYSoTRS2R0x4NcjgWx"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Wil Caro",
+          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204583,
+      "name": "Escuela de rancho - En Vivo",
+      "url": "https://open.spotify.com/track/29CUZN81Hjnn6wf6F6KYQg"
+    },
+    {
+      "album": {
         "name": "Musica, Polvora y Sangre",
         "url": "https://open.spotify.com/album/1EoN3U7I9CrVgLDUbEHEJV"
       },
@@ -1538,7 +1688,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 201000,
       "name": "Estilo Especial",
       "url": "https://open.spotify.com/track/5gu86M6D80wPPDnnrxCQ79"
@@ -1922,7 +2072,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 172200,
       "name": "La C\u00e1rcel De Cananea",
       "url": "https://open.spotify.com/track/5ZuBhTD8ZyV4ucBg9TKW8U"
@@ -1940,7 +2090,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 121013,
       "name": "La Escuadra (En Que Trabaja El Muchacho)",
       "url": "https://open.spotify.com/track/3gxbdfAgpjJiODrpx64e0C"
@@ -2460,7 +2610,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 249774,
       "name": "Los Tres Amarradores",
       "url": "https://open.spotify.com/track/2YOZV4dEKxK9s54VcpDBkD"
@@ -2731,6 +2881,28 @@
     },
     {
       "album": {
+        "name": "Mood Malandro",
+        "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191558,
+      "name": "Mood Malandro",
+      "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
+    },
+    {
+      "album": {
         "name": "Charro Avitia",
         "url": "https://open.spotify.com/album/1Y848NgqzkOr28SfcBshmV"
       },
@@ -2746,6 +2918,24 @@
       "duration_ms": 174800,
       "name": "M\u00e1quina 501",
       "url": "https://open.spotify.com/track/1wRF1D054vNvDga8dRfCdn"
+    },
+    {
+      "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123013,
+      "name": "Nene Zambada",
+      "url": "https://open.spotify.com/track/3IVFOkEMepCHIAGnUjvWJg"
     },
     {
       "album": {

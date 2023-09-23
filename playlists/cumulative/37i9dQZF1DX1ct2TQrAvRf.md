@@ -4,11 +4,12 @@
 
 > Best of Hip\-Hop from India\. Cover\- DG Immortals & Elvish Yadav
 
-104 songs - 5 hr 54 min
+106 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0 to 100](https://open.spotify.com/track/7cVe3mYMIfhOlz1NXFWv70) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 1:48 | 2023-03-27 | 2023-04-20 |
+| [170CM from Think Indie](https://open.spotify.com/track/7vIVeEZCmE0UdfIIDTC9Ho) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [Flameboi](https://open.spotify.com/artist/7gDVeDg6db32fZhZKIeL3n) | [170CM from Think Indie](https://open.spotify.com/album/0qi3yuIvmsXAQr2V5GBr7H) | 2:12 | 2023-09-22 |  |
 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 | 2023-03-27 |  |
 | [3:59 AM](https://open.spotify.com/track/2gNMXJDKRmKWuevBGjN8wo) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 4:32 | 2023-08-17 |  |
 | [Aaina](https://open.spotify.com/track/5SAgi6ZXqpCWQADP8XyRDY) | [AFKAP](https://open.spotify.com/artist/0VI5poXvvDVFaIPdL7M4rY) | [Aaina](https://open.spotify.com/album/6HbxSkGlSicnBUp5Uezh06) | 3:00 | 2023-03-27 | 2023-04-20 |
@@ -77,6 +78,7 @@
 | [Levels](https://open.spotify.com/track/60YICjIPdL7LDBcCMK0tAk) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Levels](https://open.spotify.com/album/3UhoziCnYqcgxFpzYSx233) | 3:48 | 2023-03-27 |  |
 | [Machayenge 4](https://open.spotify.com/track/71VXewVKFs0HcwEom489zH) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Machayenge 4](https://open.spotify.com/album/75500cJSqQKQafI8VAKxO2) | 6:38 | 2023-03-27 |  |
 | [Madari \(feat\. Karan Kanchan\)](https://open.spotify.com/track/6mn6FTPISyKwCo4On7CmVZ) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65), [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Madari](https://open.spotify.com/album/44VVN1lOB0mYZFEMDv5yX8) | 3:21 | 2023-06-09 | 2023-07-18 |
+| [Malabari Banger](https://open.spotify.com/track/0aXnTU90v6G1QVlimy0Kw8) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc) | [Malabari Banger](https://open.spotify.com/album/4ttj4IiGCCeFImxIJ8b2Ap) | 4:06 | 2023-09-22 |  |
 | [Manavaalan Thug \- From "Thallumaala"](https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm) | [Manavaalan Thug \(From "Thallumaala"\)](https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD) | 3:20 | 2023-06-01 | 2023-06-09 |
 | [Mirchi](https://open.spotify.com/track/5KkCsYIgMK5H7Ih31Dnd2Q) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Phenom](https://open.spotify.com/artist/3vQ75vDDu0nhfHuEW3n17Z) | [Mirchi](https://open.spotify.com/album/7veJEEW836HtKZG9Admr3z) | 3:12 | 2023-03-27 |  |
 | [Moosedrilla \(feat\. DIVINE\)](https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:52 | 2023-03-27 |  |

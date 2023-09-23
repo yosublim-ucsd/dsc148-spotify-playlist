@@ -4,7 +4,7 @@
 
 > Meet the vocalists representing Korea! \(Cover:Sion\(시온\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-425 songs - 1 day 3 hr 46 min
+426 songs - 1 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [I See You \(Feat\. Dongha\)](https://open.spotify.com/track/7ukwiVFOiH3Jh8ETip7qk9) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dongha](https://open.spotify.com/artist/21lne80DCBNegTOiqPBweb) | [New Edition 26](https://open.spotify.com/album/2dCX0b8Ixb4L1ys0ti0yRa) | 4:45 | 2021-12-20 | 2022-07-14 |
 | [I still can't believe it](https://open.spotify.com/track/74GRNRNGzmV6v9PC7nCCDR) | [KOYO](https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz) | [Bravo, My Life \(Original Soundtrack\), Pt.34](https://open.spotify.com/album/4C9xyKM41a9DLqCWqewSSJ) | 4:16 | 2022-08-18 | 2022-10-06 |
 | [I Still Love You](https://open.spotify.com/track/6RWADSjNxfNgzUrsfsD1H7) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Soul Pop City](https://open.spotify.com/album/56BCgGh2HwPJKKJmZ1dZKx) | 5:25 | 2023-01-13 | 2023-02-11 |
+| [I Want to Be Closer to You](https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [A Love Supreme](https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi) | 3:30 | 2023-09-22 |  |
 | [I will bear my grief\. Thank you.](https://open.spotify.com/track/5QAynerkLzjgFNPFT0RTts) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [I will bear my grief\. Thank you.](https://open.spotify.com/album/3d5sQWZYfybvm2AF0ejVL2) | 4:30 | 2022-11-23 | 2022-12-14 |
 | [I Will Go To You Like the First Snow](https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Guardian \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS) | 3:49 | 2021-12-20 |  |
 | [I Will Shine On You](https://open.spotify.com/track/4VnZhQatrHFXySz467yURC) | [Odett](https://open.spotify.com/artist/1jYtDU2z8vLKUWGKe9UhHu) | [May I Help You? \(Original Television Soundtrack\) Part.5](https://open.spotify.com/album/1vOYGpf02GZzCfPyZVvWPf) | 3:57 | 2023-01-10 | 2023-01-25 |
@@ -261,7 +262,7 @@
 | [Not My Fault](https://open.spotify.com/track/1ysdMnzZoC0zedcbGnKChd) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [Unsaid, Pt\. 1](https://open.spotify.com/album/6SKaAubOnUpjGqUi5T5W9z) | 4:38 | 2022-03-24 | 2022-04-19 |
 | [Nothing Between Us](https://open.spotify.com/track/7KbMO2Hk5u34XkLJzenQ0P) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Nothing Between Us](https://open.spotify.com/album/3hbUZ75XswpL7LjJ5iyUWX) | 3:17 | 2021-12-20 | 2022-07-26 |
 | [NUN MUL I JU RUG JU RUG](https://open.spotify.com/track/4LHTwx71a9xf7hIrsVp11n) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [\[Vol.21\] You Hee yul's Sketchbook 10th Anniversary Project : 9th Voice 'Sketchbook X Kim MinSeok'](https://open.spotify.com/album/2EaeCysFyddUWKt57blFzU) | 4:15 | 2022-03-29 | 2022-07-29 |
-| [Ode To The Stars](https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Leeraon](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Ode To The Stars](https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA) | 4:42 | 2021-12-20 |  |
+| [Ode To The Stars](https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Leeraon](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Ode To The Stars](https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA) | 4:42 | 2021-12-20 | 2023-09-23 |
 | [On A Starry Night](https://open.spotify.com/track/7wWPy7xxl4lBpuGSIUzt0h) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [On A Starry Night \(REVIBE Vol.3\)](https://open.spotify.com/album/3J2AhRHfqSOMwp6YYloJxC) | 4:32 | 2021-12-20 | 2022-07-28 |
 | [One Day More](https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [One Day More](https://open.spotify.com/album/6LqipT57Al2ZKzFdhhcz68) | 4:07 | 2021-12-20 | 2023-05-02 |
 | [One Late Night In 1994](https://open.spotify.com/track/1bHEMyPGu9H0NGlS9Vxpsf) | [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [One Late Night In 1994](https://open.spotify.com/album/0MLfjnIKcI9hY4UhLI1e85) | 3:50 | 2023-07-20 | 2023-08-11 |

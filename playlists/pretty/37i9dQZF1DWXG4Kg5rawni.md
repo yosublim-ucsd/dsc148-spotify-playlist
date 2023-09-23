@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 
 > Amor abençoado por Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,994 likes - 65 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,066 likes - 65 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,18 +15,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 5 | [Oração do Amor](https://open.spotify.com/track/136WFxJJfu6TOG213942Cz) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Amo Você Vol\. 19](https://open.spotify.com/album/37nPPwQsZvOT0uqT3Dyglu) | 3:49 |
 | 6 | [Metade de Mim](https://open.spotify.com/track/2aI59xoodYm6cB8JIPube0) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ), [Alexandre Silva](https://open.spotify.com/artist/4pv3YsIBMfpGMQgGXLZmFo) | [Sem Comparação](https://open.spotify.com/album/0wp8qH6qDd18GNJnGNwtHY) | 4:08 |
 | 7 | [Desde o Primeiro Momento](https://open.spotify.com/track/1pv5bRc2G6ZbiBkKpCDT1K) | [Pamela](https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG) | [Tempo de Sorrir](https://open.spotify.com/album/1GBGOqtdXd3Oup24fJ6B1B) | 4:04 |
-| 8 | [Sonho](https://open.spotify.com/track/0go1ERmjFYbI2Z6pwF0Qse) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx) | [Mãos Vazias](https://open.spotify.com/album/05B5n1uemv9gLwwJOeKrWl) | 4:36 |
-| 9 | [A Bênção do Senhor](https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Bênção do Senhor](https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9) | 4:10 |
-| 10 | [Mais \- Studio Session](https://open.spotify.com/track/0o6nEehnkqsyy1J4pMvoEZ) | [Amanda Rodrigues](https://open.spotify.com/artist/02UTfx9pxLYkiuMENQe2IW), [Pedro Mariano](https://open.spotify.com/artist/3flF2SJ6De8yPikxEI5bpY) | [Mais \(Studio Session\)](https://open.spotify.com/album/4jSX0OJw7dzgzvT3GSWleW) | 4:10 |
-| 11 | [Não É Acaso](https://open.spotify.com/track/06CVeOB2XtHeexwRs3zHto) | [Ministério F4ces](https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS) | [Não É Acaso](https://open.spotify.com/album/2Sr4zczIoqWtM9Owc97oka) | 3:55 |
+| 8 | [Não É Acaso](https://open.spotify.com/track/06CVeOB2XtHeexwRs3zHto) | [Ministério F4ces](https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS) | [Não É Acaso](https://open.spotify.com/album/2Sr4zczIoqWtM9Owc97oka) | 3:55 |
+| 9 | [Sonho](https://open.spotify.com/track/0go1ERmjFYbI2Z6pwF0Qse) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx) | [Mãos Vazias](https://open.spotify.com/album/05B5n1uemv9gLwwJOeKrWl) | 4:36 |
+| 10 | [A Bênção do Senhor](https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Bênção do Senhor](https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9) | 4:10 |
+| 11 | [Mais \- Studio Session](https://open.spotify.com/track/0o6nEehnkqsyy1J4pMvoEZ) | [Amanda Rodrigues](https://open.spotify.com/artist/02UTfx9pxLYkiuMENQe2IW), [Pedro Mariano](https://open.spotify.com/artist/3flF2SJ6De8yPikxEI5bpY) | [Mais \(Studio Session\)](https://open.spotify.com/album/4jSX0OJw7dzgzvT3GSWleW) | 4:10 |
 | 12 | [Beijo no Altar](https://open.spotify.com/track/2WOezAtyBM1RupEiU70bpp) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Wilian Nascimento Falando de Amor](https://open.spotify.com/album/66cFFmk9f3pqGsvVVYaDXj) | 4:21 |
 | 13 | [Te Amaria Outra Vez](https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Fernanda Brum \- Falando de Amor](https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE) | 4:23 |
 | 14 | [A Dois](https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [A Dois](https://open.spotify.com/album/0cEbSXoFpciH0qSdL4SU1T) | 3:56 |
 | 15 | [Deus Me Deu Você](https://open.spotify.com/track/2UfgNRxseC9S9Hmf8sW7tm) | [Thiago e Jéssica](https://open.spotify.com/artist/47Avc96OLqdMeyZldOlIhF) | [Deus Me Deu Você](https://open.spotify.com/album/27QzsDGSDFsnEQMqf6CyOl) | 4:23 |
 | 16 | [Um Verso de Amor](https://open.spotify.com/track/5P8LnyPsmeNztjsir8e5ke) | [Pamela](https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG), [Alex Gonzaga](https://open.spotify.com/artist/7uGIP1PFDEHgHsmO2kWJEd) | [Pamela Falando de Amor](https://open.spotify.com/album/1GGLOuf5RpSgokroQqOFHU) | 4:44 |
 | 17 | [Era Você](https://open.spotify.com/track/2pBNf05NfW1nrQqblf8VO0) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Lugar Mais Alto](https://open.spotify.com/album/4MwD9JVQ5rjY79jrO2ak9G) | 4:36 |
-| 18 | [À Moda Antiga](https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL) | [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U) | [À Moda Antiga](https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB) | 3:02 |
-| 19 | [Desde o Primeiro Sim](https://open.spotify.com/track/5RmyZkrPcN3YzdX6qinVtx) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Desde o Primeiro Sim](https://open.spotify.com/album/2aO1eeu6qWK6orMxpqgp0Y) | 4:28 |
+| 18 | [Desde o Primeiro Sim](https://open.spotify.com/track/5RmyZkrPcN3YzdX6qinVtx) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Desde o Primeiro Sim](https://open.spotify.com/album/2aO1eeu6qWK6orMxpqgp0Y) | 4:28 |
+| 19 | [À Moda Antiga](https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL) | [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U) | [À Moda Antiga](https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB) | 3:02 |
 | 20 | [Deus, Você e Eu](https://open.spotify.com/track/0WD0mcZTnBLhdHAvpSNy51) | [Saulo Vianna](https://open.spotify.com/artist/758WjLdtMlNGzWtoUaJCHe) | [Aperfeiçoou](https://open.spotify.com/album/3G5Gf6znSZ9gdIJBBc2tqD) | 3:59 |
 | 21 | [eu te convido](https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T) | [25 de fevereiro](https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv) | 3:05 |
 | 22 | [Meu Eterno Namorado](https://open.spotify.com/track/6fCkIEUDpl8mBQKkQe5h9O) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros \- Som Gospel](https://open.spotify.com/album/3IJpPRPjIDDkNVgdrwvuoe) | 4:42 |
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 55 | [do avesso](https://open.spotify.com/track/2xChBTNzEGP3K2aseARs2y) | [Marcos Martins](https://open.spotify.com/artist/1G8AP45en0n7qFcFJQEmtM), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS) | [do avesso](https://open.spotify.com/album/0HBYVOvWRPtTTmb08FrRLu) | 4:06 |
 | 56 | [Prometo](https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Sobre o Amor](https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn) | 2:52 |
 | 57 | [Nosso Castelo](https://open.spotify.com/track/3cwe5HZqAhygCVPPVcwsit) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nosso Castelo](https://open.spotify.com/album/20HqyoxH3L4OAL9J8rElVd) | 4:12 |
-| 58 | [Bem Maior Que o Céu](https://open.spotify.com/track/06XuWs8tYpf4Onbw48FF0u) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Amo Você Vol\. 21](https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj) | 5:03 |
-| 59 | [Canção do Amor](https://open.spotify.com/track/45yVIwLnEmGrLSK0xqr5Cs) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Canção do Amor](https://open.spotify.com/album/0yaKi8TPRzEJKKQH1jm7BD) | 3:28 |
-| 60 | [Um Pedacinho do Céu](https://open.spotify.com/track/1TBMTBW0724e5bWeCpO3YJ) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Um Pedacinho do Céu](https://open.spotify.com/album/4IopoSZsKYrVAV3F4rwjoG) | 3:53 |
-| 61 | [Chave do Amor](https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL) | [Kelwin Ramos](https://open.spotify.com/artist/2IKXmBcW5YsoNGGFVnQ1X4), [Michely Manuely](https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV) | [Chave do Amor](https://open.spotify.com/album/6gT3f9ABhudAeet0qTQmFp) | 3:10 |
+| 58 | [Canção do Amor](https://open.spotify.com/track/45yVIwLnEmGrLSK0xqr5Cs) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Canção do Amor](https://open.spotify.com/album/0yaKi8TPRzEJKKQH1jm7BD) | 3:28 |
+| 59 | [Bem Maior Que o Céu](https://open.spotify.com/track/06XuWs8tYpf4Onbw48FF0u) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Amo Você Vol\. 21](https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj) | 5:03 |
+| 60 | [Chave do Amor](https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL) | [Kelwin Ramos](https://open.spotify.com/artist/2IKXmBcW5YsoNGGFVnQ1X4), [Michely Manuely](https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV) | [Chave do Amor](https://open.spotify.com/album/6gT3f9ABhudAeet0qTQmFp) | 3:10 |
+| 61 | [Um Pedacinho do Céu](https://open.spotify.com/track/1TBMTBW0724e5bWeCpO3YJ) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Um Pedacinho do Céu](https://open.spotify.com/album/4IopoSZsKYrVAV3F4rwjoG) | 3:53 |
 | 62 | [Por Favor](https://open.spotify.com/track/0DEV0GiQpOWptidS9t7WNY) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [D.R\. Desfrutando a Relação](https://open.spotify.com/album/2nvHgivR5Eufk3rDQbpuX3) | 3:47 |
 | 63 | [Deus Você e Eu](https://open.spotify.com/track/2IhDivniBs1oALzgMIoP2G) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [Deus Você e Eu](https://open.spotify.com/album/4inEuKybNiqEcL2loSpBZU) | 3:39 |
 | 64 | [Minha Jóia Rara](https://open.spotify.com/track/1PbHuaCO9IrBt51mwcV93I) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Amo Você Vol\. 18](https://open.spotify.com/album/6ZtjVbQ1Fo4d5xn47KfF11) | 3:58 |
 | 65 | [Nós](https://open.spotify.com/track/1qtrPeMQzHn3XZiCEQBYTC) | [Gabriel Bulian](https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0) | [Nós](https://open.spotify.com/album/2YzYffMkuUaJfpcV0MrAu7) | 2:54 |
 
-Snapshot ID: `MCw0ODMxOTA2NmViMjZjNjM3ZDVjYTU2MGE4ZGQ0YmIxYzA5MDdiZjMx`
+Snapshot ID: `MCxjNzI2MzA4YWEyOWMzMWFhYzQyZDAxZGM1OTM3NmFkYTU2MTFkOTg1`

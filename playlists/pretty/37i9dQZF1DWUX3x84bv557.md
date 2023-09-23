@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse liedjes! Cover: Suzan & Freek
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,419 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,484 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [Wat Als Het Lukt](https://open.spotify.com/track/0cyNDPp11HqsUH713X7WCe) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Bliksem & Donder](https://open.spotify.com/album/4eZx6Pc0j1rRJUmpdV9ThY) | 2:32 |
 | 60 | [Zoveel Mooie Dagen](https://open.spotify.com/track/1M6fiGx0cHpGLG08fibQdr) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Zoveel Mooie Dagen](https://open.spotify.com/album/1ksQKLepRaX5VQ7EnklmDm) | 2:29 |
 
-Snapshot ID: `MCw0YjYxYmYzOWYyZjQwMGQ1YWM1NzNmNTJmN2ZkODk1YTQzYWIyNzYx`
+Snapshot ID: `MCw4ZTg3ZGMyZjVlMzA4MTE0NjFmOGE4Mzg3Njk2ZGJhMGE4ZDJiYTc0`

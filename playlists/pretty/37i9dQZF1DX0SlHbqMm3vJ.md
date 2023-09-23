@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Kemuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,716 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,784 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 79 | [Healing](https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Healing](https://open.spotify.com/album/3M5dZ8GosZndWwOdrRuhlG) | 2:59 |
 | 80 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 |
 
-Snapshot ID: `MCxkODYzODliYWJmMmM0Y2JjZDg2NWI3YjUyZDNmOTFhNzNlMWRjYjVj`
+Snapshot ID: `MCxmODgxNDAwZTc3M2E1MDcyNDc3MWFjODUyOTg3ZTk5YTU0ZWY5NTc3`

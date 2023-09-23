@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. Cover: CHAI
 
-856 songs - 2 day 5 hr 17 min
+858 songs - 2 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Mayday](https://open.spotify.com/track/4v7A69eeKdDTY1AXHIkseV) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Mayday](https://open.spotify.com/album/3im9jAWdZX5ft7rai7tKHo) | 3:54 | 2023-06-27 | 2023-06-29 |
 | [Mayday](https://open.spotify.com/track/5O3lSXaXBNGIatqk0DRAoU) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Mayday](https://open.spotify.com/album/2mUUFQu3TYWUyoV2nRz0Rh) | 3:54 | 2023-06-27 | 2023-07-05 |
 | [mayonnaise](https://open.spotify.com/track/4lErKE9FjE7pbqY85t3nn5) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 3:46 | 2023-03-28 | 2023-06-28 |
+| [mcdonald'snocoffe](https://open.spotify.com/track/1F8AuzoFUXGFWTQIWSHqsS) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [mcdonald'snocoffe](https://open.spotify.com/album/4M3ngfQqV6Ic26QynJddEF) | 3:14 | 2023-09-22 |  |
 | [meringue doll](https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [meringue doll](https://open.spotify.com/album/7qeJaFdCP3hCLm2KFp96Ts) | 4:13 | 2023-08-29 |  |
 | [miasma](https://open.spotify.com/track/6OTk1A5SN4UvNaJT2MUck9) | [BOAR HUNTER](https://open.spotify.com/artist/3fgbIEhchBfDmtoB0lQw2s) | [Germination of Concepts](https://open.spotify.com/album/1hnCEzbxkge62IBR0VnSsD) | 4:28 | 2023-03-14 | 2023-03-29 |
 | [Michi\-tono\-Sogu](https://open.spotify.com/track/3YbwKcZvwPm6DfqQTjek13) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [Michi\-tono\-Sogu](https://open.spotify.com/album/7tTLJFKEI9MjjZ3MX2jCgQ) | 4:30 | 2023-06-21 | 2023-07-05 |
@@ -376,6 +377,7 @@
 | [Polaroid](https://open.spotify.com/track/7e1jexFzFNed1Ovw45S798) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Polaroid](https://open.spotify.com/album/0VxTDHLoZJmKFCKsxUjBYf) | 3:14 | 2023-02-07 | 2023-02-22 |
 | [POPSONG](https://open.spotify.com/track/0eJbIqK9VQJ5uCvA8HMvAs) | [Shin Rizumu](https://open.spotify.com/artist/0KZ7Lk1c6rpp0nwvY9EuD4) | [POPSONG](https://open.spotify.com/album/73WQe5LHQLGOs4mZP1iLsy) | 3:46 | 2023-08-15 | 2023-08-18 |
 | [Postpone](https://open.spotify.com/track/4Y5UKByLZinDQkAKUyg4PF) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Postpone](https://open.spotify.com/album/176bzSvfKBfWVcM5MfrbyO) | 2:35 | 2023-02-02 | 2023-02-22 |
+| [primitive age](https://open.spotify.com/track/5pVsEjvZDeuAQxe67pafm4) | [Akiyama ritsuki](https://open.spotify.com/artist/7Lb20kUMIBtHb0dqfR7vB9) | [SAL.LIGHTER](https://open.spotify.com/album/4oBBpnt1HORElrqqIma5zM) | 4:51 | 2023-09-22 |  |
 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 | 2023-09-12 |  |
 | [Pulse](https://open.spotify.com/track/3n9eP96QDez9hRfEvlP91z) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Magnet](https://open.spotify.com/album/2mZuf80aYdleohrQAcdoqJ) | 3:41 | 2023-03-28 | 2023-05-10 |
 | [Purple gray](https://open.spotify.com/track/6CXRxR8iaXSxIKdHTzRkHP) | [Mao Uchu](https://open.spotify.com/artist/1XZBuRxX5xORatBQJLsakP) | [Purple gray](https://open.spotify.com/album/0VGlPzdL9whcWEqlgxaF0d) | 3:35 | 2023-08-29 | 2023-09-20 |
@@ -674,7 +676,7 @@
 | [ベスパでGO!](https://open.spotify.com/track/2USeGPu1zIczclo8v1xDii) | [HOGO地球](https://open.spotify.com/artist/5Rl8LyQ5RQAQsylGELbR4R) | [ベスパでGO!](https://open.spotify.com/album/0NpSf0RfpLCwzpUTMB65Mb) | 1:51 | 2023-05-30 | 2023-06-07 |
 | [ボーイ・フッド](https://open.spotify.com/track/2d8lehd5MYTs1XaSj1dV5x) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [ボーイ・フッド](https://open.spotify.com/album/5sgr7UJL76fw12JsD3qC61) | 3:13 | 2023-01-24 | 2023-02-08 |
 | [ポラロイド](https://open.spotify.com/track/1meYLsqbLSkjMpBS2DDx6T) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [ポラロイド](https://open.spotify.com/album/6Lg5PtOYz7cPcrzUcQge10) | 3:14 | 2023-02-07 | 2023-02-09 |
-| [マクドナルドのコーヒー](https://open.spotify.com/track/4lDhiYQwDNQgDQh1Ua0uG1) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [マクドナルドのコーヒー](https://open.spotify.com/album/1z4Ne7xYUj6dRjHyysBXNj) | 3:14 | 2023-09-21 |  |
+| [マクドナルドのコーヒー](https://open.spotify.com/track/4lDhiYQwDNQgDQh1Ua0uG1) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [マクドナルドのコーヒー](https://open.spotify.com/album/1z4Ne7xYUj6dRjHyysBXNj) | 3:14 | 2023-09-21 | 2023-09-23 |
 | [マヨイガ \- PHIL REWORK](https://open.spotify.com/track/16j0i4b87epv1BYA7AU3P7) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [マヨイガ \(PHIL REWORK\)](https://open.spotify.com/album/5vxYwjHklE4OKDpd7D0PwR) | 4:07 | 2023-02-23 | 2023-06-14 |
 | [メガフォン](https://open.spotify.com/track/0Q4sqHF7uMbOZjwkbrfrw4) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [4PIES](https://open.spotify.com/album/0Varj37mIYsQjzlphyyWRO) | 2:38 | 2023-03-14 | 2023-05-09 |
 | [メガフォン](https://open.spotify.com/track/3b97D6YMKoXseRjntwH5q0) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [メガフォン](https://open.spotify.com/album/6LBUQPn9rnTdJFmH0vLUa1) | 2:38 | 2023-02-28 | 2023-03-16 |
@@ -807,7 +809,7 @@
 | [独りの夜は \- album ver.](https://open.spotify.com/track/7LhK3a6HGN58KTXCGJUl5h) | [OYAT](https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh) | [Parade](https://open.spotify.com/album/2C6DtEFcfhc7QNJRQebDrr) | 3:43 | 2023-07-18 | 2023-09-22 |
 | [王墓](https://open.spotify.com/track/4jfsKNlHaOB8yOJnmYByyX) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [王墓](https://open.spotify.com/album/38h1IyAAmHKyOgAtDJ1vQv) | 2:50 | 2023-03-28 | 2023-04-05 |
 | [琥珀](https://open.spotify.com/track/1zJvY385AAxY6xRfe8Zxci) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [琥珀](https://open.spotify.com/album/6v0lKNwsubljn75IXQRvhe) | 4:03 | 2023-06-06 | 2023-06-08 |
-| [白銀の少女](https://open.spotify.com/track/3RDsxI9zbRgsM5sfr3zASF) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [白銀の少女](https://open.spotify.com/album/6hsya9OOMQOeQU6JYKdppW) | 3:10 | 2023-09-05 |  |
+| [白銀の少女](https://open.spotify.com/track/3RDsxI9zbRgsM5sfr3zASF) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [白銀の少女](https://open.spotify.com/album/6hsya9OOMQOeQU6JYKdppW) | 3:10 | 2023-09-05 | 2023-09-23 |
 | [目醒めは合わせ鏡のように](https://open.spotify.com/track/4d5CiAGnqKfFVgxLBiefTh) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [目醒めは合わせ鏡のように](https://open.spotify.com/album/06M2ieovjfI0eS2bSNHA2W) | 3:47 | 2023-07-11 | 2023-07-19 |
 | [眠らないでよ feat\. 原田郁子](https://open.spotify.com/track/0zwJIjcKcpkWqIJj9DwBzZ) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [眠らないでよ feat\. 原田郁子](https://open.spotify.com/album/6kSvRLfGtkjgoQDGcseEOr) | 4:17 | 2023-04-04 | 2023-04-06 |
 | [眠り過ぎたお昼](https://open.spotify.com/track/08Br2Hpst0Ig7gNgQ7BnSW) | [エンヤコーラーズ](https://open.spotify.com/artist/2VmYWki0mkdmHAgbacjdZE) | [眠り過ぎたお昼](https://open.spotify.com/album/01PE7XC46VnXGb0TlCZlew) | 3:36 | 2023-08-15 | 2023-08-23 |

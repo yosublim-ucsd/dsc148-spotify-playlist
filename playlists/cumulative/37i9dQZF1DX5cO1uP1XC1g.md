@@ -4,7 +4,7 @@
 
 > The biggest Arabic hits all in one place\. Cover:  <a href="https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo?si=XdZy\-xaoSuyZh6p4EsBj1Q">Nawal</a>
 
-335 songs - 20 hr 12 min
+339 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Salade Coco](https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Salade Coco](https://open.spotify.com/album/2fktU7sGEJ5ocfANqVMe5M) | 2:47 | 2022-02-15 | 2023-01-12 |
 | [Salamat](https://open.spotify.com/track/0A4fwNrMiQpY7rIWrdmjaz) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 3:00 | 2021-12-12 | 2023-02-03 |
 | [Sans Toi](https://open.spotify.com/track/5XCmPcevC1eHbM8zfBYKRq) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Sans Toi](https://open.spotify.com/album/5uUFvk4GOcXlwjlabk1ldZ) | 3:30 | 2021-12-12 | 2022-02-08 |
+| [Sbabi](https://open.spotify.com/track/7ptXsiOZ38WKdOiWjj4Va6) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Sbabi](https://open.spotify.com/album/4tunxQYd61Q41HQjo0qbc3) | 3:14 | 2023-09-22 |  |
 | [Seebk Enta](https://open.spotify.com/track/3PXha2Njo7liz76GW40Qqu) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Seebk Enta](https://open.spotify.com/album/2L9QugHuAfWqw2rlG4CGPO) | 4:00 | 2023-05-31 | 2023-06-15 |
 | [Ser Alsada \( Mountain View\)](https://open.spotify.com/track/1b4eTrznDOiLZX2oWisl2m) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ser Alsada \( Mountain View\)](https://open.spotify.com/album/7ihocihukbewYHZZBzfk8c) | 3:50 | 2021-12-12 | 2022-09-19 |
 | [Set El Kel](https://open.spotify.com/track/5AkcsVLzhVBC22ZiXcPTu6) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Set El Kel](https://open.spotify.com/album/2ctVSYPczKZ6uQGW4Pfd4s) | 3:18 | 2022-08-03 | 2023-07-08 |
@@ -270,8 +271,10 @@
 | [Ya Hmed](https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk), [Madara](https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7) | [Ya Hmed](https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf) | 3:29 | 2022-02-07 | 2022-11-02 |
 | [Ya Khabar](https://open.spotify.com/track/3FQFEFkm0aRQOTez0p5rrU) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ya Khabar](https://open.spotify.com/album/3vUNaafLFHeKUOdDzM73O9) | 2:52 | 2023-05-14 | 2023-06-03 |
 | [Ya Layaly](https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Ya Layaly](https://open.spotify.com/album/3p1T8i6PfyTuZkaXMBQGX7) | 3:10 | 2023-07-31 |  |
+| [Ya Leil W Yal Ein](https://open.spotify.com/track/4oJteByUZ8PKTRSnAJ0pCO) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Ya Leil W Yal Ein](https://open.spotify.com/album/3YabB4gJeBdquKhXjqBu62) | 3:04 | 2023-09-22 |  |
 | [Ya Rab Tkoon Be Khair](https://open.spotify.com/track/7BHkU54RSmqhtd8TNKRKx6) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ya Rab Tkoon Be Khair](https://open.spotify.com/album/6Uvz6FXsedSGbIJwTEGrVV) | 3:05 | 2022-12-26 | 2023-06-02 |
 | [Ya Tabtab Wa Dallaa](https://open.spotify.com/track/4bEqJTQXMOGGnvFbDOMnHi) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Ya Tabtab Wa Dallaa](https://open.spotify.com/album/64sY5v4o1KC9tLUU9IOWMa) | 4:28 | 2023-05-14 | 2023-06-02 |
+| [Yalla](https://open.spotify.com/track/6rhd40DNmApnDOGsd4SPQG) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Yalla](https://open.spotify.com/album/0L9JuitPjP5cGRcyiQ17fx) | 3:02 | 2023-09-22 |  |
 | [Youm Talat \(Remix\)](https://open.spotify.com/track/6uv7lEEKwtg4VZOEUJKD4F) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Youm Talat \(Remix\)](https://open.spotify.com/album/6V8QwgQg0Xszo8zu2Do44K) | 3:38 | 2021-12-12 | 2022-06-24 |
 | [Zahra Hala Helwa \(Maa Myriam Fares W Asser Yassin\)](https://open.spotify.com/track/5ksURzwZba1aZd7LVyU9DL) | [Memaar Al Morshedy](https://open.spotify.com/artist/6YNhk9uSHg8MTtdwNjhh6d) | [Zahra Hala Helwa \(Maa Myriam Fares W Asser Yassin\)](https://open.spotify.com/album/2coqbgNvH5tanBqXSlZrt4) | 1:57 | 2022-07-22 | 2022-09-19 |
 | [Zarzour](https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Zarzour](https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe) | 3:19 | 2023-07-04 |  |
@@ -293,6 +296,7 @@
 | [الوتر الحساس](https://open.spotify.com/track/63Gl4Wqr98iJnWoNGFOQjr) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 4:21 | 2023-07-12 |  |
 | [اليوم الحلو ده](https://open.spotify.com/track/2HbrI0oakRE7qNXoK74zNR) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [اليوم الحلو ده](https://open.spotify.com/album/2GwwqvLab4YiExMa8zFW1v) | 2:52 | 2022-09-22 |  |
 | [انقذيني مني](https://open.spotify.com/track/1zAuToKatU8CEw01ZCcjQ5) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [انقذيني مني](https://open.spotify.com/album/2OfTZgFt2qN1Rlf52Ec45s) | 3:01 | 2022-12-20 | 2023-06-02 |
+| [ايه السعادة دي](https://open.spotify.com/track/5yA23gQnPVD5H5GeO3oSEE) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [ايه السعادة دي](https://open.spotify.com/album/4zuku3m8svJHhlHGylFIpJ) | 2:57 | 2023-09-22 |  |
 | [بأمارة مين](https://open.spotify.com/track/0SbObewB36qKLWcaxMntej) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بأمارة مين](https://open.spotify.com/album/4yDWyAMP63GXX3SUjjV0Xd) | 3:15 | 2022-10-22 | 2023-08-31 |
 | [باشا باشا](https://open.spotify.com/track/5u6I8MExcbewu6VcSnI1Sc) | [ِEmad Basha](https://open.spotify.com/artist/4oYGyyjjeg3AJofnWGjqR6) | [باشا باشا](https://open.spotify.com/album/3s2sywrjEFwOK8xewRebzc) | 4:09 | 2021-12-12 | 2022-11-15 |
 | [بتفتكرني ساعات](https://open.spotify.com/track/225k2VOiES9R9AC0IwVBkb) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:37 | 2023-01-11 | 2023-07-13 |

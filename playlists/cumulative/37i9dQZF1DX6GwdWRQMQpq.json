@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Cardi B & Megan Thee Stallion",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Doja Cat",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -188,6 +188,24 @@
       "duration_ms": 166117,
       "name": "Against The Law (feat. KenTheMan)",
       "url": "https://open.spotify.com/track/0DI6obJSPoev6ryG0NIsYC"
+    },
+    {
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265360,
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
     },
     {
       "album": {
@@ -612,7 +630,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 190902,
       "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kaliii]",
       "url": "https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q"
@@ -670,7 +688,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 207507,
       "name": "Balut",
       "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
@@ -951,6 +969,28 @@
     },
     {
       "album": {
+        "name": "Big Mad (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/04jIgr8btAumWJzTRIhrxl"
+      },
+      "artists": [
+        {
+          "name": "Icandy",
+          "url": "https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110781,
+      "name": "Big Mad (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/6UliIDFULJHvJpSfQ61zu5"
+    },
+    {
+      "album": {
         "name": "You Still Here, Ho ?",
         "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
       },
@@ -1170,6 +1210,24 @@
       "duration_ms": 134760,
       "name": "BO$$ CHICK",
       "url": "https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm"
+    },
+    {
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3wTOyUsrPYyyByd6kMkZRn"
+      },
+      "artists": [
+        {
+          "name": "Maiya The Don",
+          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167490,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/5t8FBhJKbpBCskmOaMRxQW"
     },
     {
       "album": {
@@ -2578,7 +2636,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 149384,
       "name": "FreakyT (feat. Latto) - Remix",
       "url": "https://open.spotify.com/track/451acSEXA7pfbMKXoC6vJX"
@@ -2596,7 +2654,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 137263,
       "name": "Fruit Loop",
       "url": "https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim"
@@ -3007,6 +3065,24 @@
     },
     {
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176840,
+      "name": "Gun",
+      "url": "https://open.spotify.com/track/15sNe8FD178zMsVz6ug0AS"
+    },
+    {
+      "album": {
         "name": "GYHO",
         "url": "https://open.spotify.com/album/5CXb5g972fvRqwBi8wMQSm"
       },
@@ -3364,7 +3440,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 152380,
       "name": "I <3 My N***a",
       "url": "https://open.spotify.com/track/1CYqi8NwMa9BsD65hQuMci"
@@ -5220,6 +5296,24 @@
       "duration_ms": 190560,
       "name": "Overthinking (with H.E.R.)",
       "url": "https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9"
+    },
+    {
+      "album": {
+        "name": "Pacer",
+        "url": "https://open.spotify.com/album/0C4bcDFbb7cQf2W3WH6RVm"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176516,
+      "name": "Pacer",
+      "url": "https://open.spotify.com/track/14MdehDJ3lgRO6SVe60eHk"
     },
     {
       "album": {
@@ -7810,7 +7904,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 152800,
       "name": "Wicked Butterflies",
       "url": "https://open.spotify.com/track/4B2DEH1EMgNRU9LuoZkeKJ"
@@ -7928,6 +8022,28 @@
       "duration_ms": 132493,
       "name": "Yeah B*tch (feat. DaBaby)",
       "url": "https://open.spotify.com/track/3zT7dmfVjHOMXnUgPl0AQe"
+    },
+    {
+      "album": {
+        "name": "You (feat. Bryson Tiller)",
+        "url": "https://open.spotify.com/album/7DMxs55TJunN8qsvbGDBXl"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161400,
+      "name": "You (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau"
     },
     {
       "album": {

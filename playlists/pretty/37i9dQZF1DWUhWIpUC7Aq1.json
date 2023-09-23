@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 116791,
+  "num_followers": 116972,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGYzZjBlOTk4MWFmYjEyMDliODc3MjhmN2RkMDU3ZjVkMjY5ZGQ3",
+  "snapshot_id": "MCwxYTdkOWYzYWZjYjJmMGQxMzUwNWMzMTNlZjJiMGY3YTdhY2QzNmI2",
   "tracks": [
     {
       "added_at": "2023-03-14 21:51:12",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-03-14 21:51:12",
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 330773,
-      "name": "Michigan",
-      "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
-    },
-    {
-      "added_at": "2023-03-14 21:51:12",
-      "album": {
         "name": "Rockferry",
         "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 219920,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj"
+    },
+    {
+      "added_at": "2023-03-14 21:51:12",
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 330773,
+      "name": "Michigan",
+      "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
     },
     {
       "added_at": "2023-03-14 21:51:12",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-03-14 21:51:12",
       "album": {
-        "name": "Alvvays",
-        "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Atop a Cake",
-      "url": "https://open.spotify.com/track/6LC4cyrlOPeg2WXijaYrgj"
-    },
-    {
-      "added_at": "2023-03-14 21:51:12",
-      "album": {
         "name": "Louder Than Bombs",
         "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 112706,
       "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
       "url": "https://open.spotify.com/track/1oA0tDRFjY5xoNDXuMBGGA"
+    },
+    {
+      "added_at": "2023-03-14 21:51:12",
+      "album": {
+        "name": "Alvvays",
+        "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Atop a Cake",
+      "url": "https://open.spotify.com/track/6LC4cyrlOPeg2WXijaYrgj"
     },
     {
       "added_at": "2023-03-14 21:51:12",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-03-14 21:51:12",
       "album": {
-        "name": "The First Days Of Spring",
-        "url": "https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s"
-      },
-      "artists": [
-        {
-          "name": "Noah And The Whale",
-          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/1OtgKfkArIaanXT140hSmQ"
-    },
-    {
-      "added_at": "2023-03-14 21:51:12",
-      "album": {
         "name": "Elliott Smith",
         "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 166320,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/1pTwsLvnN8xPULDGzRjnfd"
+    },
+    {
+      "added_at": "2023-03-14 21:51:12",
+      "album": {
+        "name": "The First Days Of Spring",
+        "url": "https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s"
+      },
+      "artists": [
+        {
+          "name": "Noah And The Whale",
+          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/1OtgKfkArIaanXT140hSmQ"
     },
     {
       "added_at": "2023-03-14 21:51:12",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-03-14 21:51:12",
       "album": {
-        "name": "Alright, Still (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 192333,
-      "name": "LDN",
-      "url": "https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS"
-    },
-    {
-      "added_at": "2023-03-14 21:51:12",
-      "album": {
         "name": "Michigan",
         "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 281746,
       "name": "Romulus",
       "url": "https://open.spotify.com/track/2woPqHnZek73ZIcozlk0Ig"
+    },
+    {
+      "added_at": "2023-03-14 21:51:12",
+      "album": {
+        "name": "Alright, Still (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 192333,
+      "name": "LDN",
+      "url": "https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS"
     },
     {
       "added_at": "2023-03-14 21:51:12",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-03-14 21:51:12",
       "album": {
-        "name": "If You're Feeling Sinister",
-        "url": "https://open.spotify.com/album/3e9VtbXnl6tqrFKrnNyxaI"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "Get Me Away From Here, I'm Dying",
-      "url": "https://open.spotify.com/track/0T3j1KHC2U00Gw4gaLQBh9"
-    },
-    {
-      "added_at": "2023-03-14 21:51:12",
-      "album": {
         "name": "Give Up",
         "url": "https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 261253,
       "name": "Sleeping In",
       "url": "https://open.spotify.com/track/7zQJyoUpnuey6ijp48zvng"
+    },
+    {
+      "added_at": "2023-03-14 21:51:12",
+      "album": {
+        "name": "If You're Feeling Sinister",
+        "url": "https://open.spotify.com/album/3e9VtbXnl6tqrFKrnNyxaI"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "Get Me Away From Here, I'm Dying",
+      "url": "https://open.spotify.com/track/0T3j1KHC2U00Gw4gaLQBh9"
     },
     {
       "added_at": "2023-03-14 21:51:12",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-03-14 21:51:12",
       "album": {
-        "name": "Just Another Diamond Day",
-        "url": "https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2"
-      },
-      "artists": [
-        {
-          "name": "Vashti Bunyan",
-          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
-        }
-      ],
-      "duration_ms": 136306,
-      "name": "Glow Worms",
-      "url": "https://open.spotify.com/track/4jovm2cvQh5HqTlH7xksdL"
-    },
-    {
-      "added_at": "2023-03-14 21:51:12",
-      "album": {
         "name": "Punch-Drunk Love (Music from the Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7sdNTTUH7F47pfAgXkSBUJ"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 286533,
       "name": "Here We Go",
       "url": "https://open.spotify.com/track/2sZPDd14bOTQ31FomTeSsF"
+    },
+    {
+      "added_at": "2023-03-14 21:51:12",
+      "album": {
+        "name": "Just Another Diamond Day",
+        "url": "https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2"
+      },
+      "artists": [
+        {
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+        }
+      ],
+      "duration_ms": 136306,
+      "name": "Glow Worms",
+      "url": "https://open.spotify.com/track/4jovm2cvQh5HqTlH7xksdL"
     },
     {
       "added_at": "2023-03-14 21:51:12",

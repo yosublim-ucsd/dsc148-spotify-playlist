@@ -1,12 +1,12 @@
 {
   "description": "Beats with a flavour of Jazz. Cover: James Francis",
-  "num_followers": 33069,
+  "num_followers": 33116,
   "original_name": "Jazzy Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjEwZGNjYTJhN2E3Y2IzMDQwMjQ3NmI1MzgxYTIyZjVjZDMzNTVi",
+  "snapshot_id": "MCxkN2UxYjkzODI4YmRmY2QyYTg5OWY2NzNmMjEzNzI3ODVkMzhiMzQw",
   "tracks": [
     {
       "added_at": "2023-09-22 00:01:00",
@@ -95,34 +95,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Yesterday's Price",
-        "url": "https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        },
-        {
-          "name": "Joshua Karpeh",
-          "url": "https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF"
-        },
-        {
-          "name": "Immanuel Wilkins",
-          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
-        },
-        {
-          "name": "Ambrose Akinmusire",
-          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
-        }
-      ],
-      "duration_ms": 315561,
-      "name": "Yesterday's Price",
-      "url": "https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "[equalize]",
         "url": "https://open.spotify.com/album/7upvnHeeeUJxRSekMcPhGF"
       },
@@ -147,6 +119,34 @@
       "duration_ms": 142663,
       "name": "[equalize]",
       "url": "https://open.spotify.com/track/3SExiQeWUzRDhzIaoxV83u"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Yesterday's Price",
+        "url": "https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
+        {
+          "name": "Joshua Karpeh",
+          "url": "https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF"
+        },
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        },
+        {
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+        }
+      ],
+      "duration_ms": 315561,
+      "name": "Yesterday's Price",
+      "url": "https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Doomed",
-        "url": "https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 272124,
-      "name": "Doomed",
-      "url": "https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Black Tea EP",
         "url": "https://open.spotify.com/album/6fsSRJ7H3RGJ5nvzQJh28f"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 176546,
       "name": "No Chaser",
       "url": "https://open.spotify.com/track/6VdJXwynCKFcPU76NRJUb3"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 272124,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "OLDRICH",
+        "url": "https://open.spotify.com/album/74LtG7zlykNAZ9O5B8AlBl"
+      },
+      "artists": [
+        {
+          "name": "Tamotsu LeftGroove",
+          "url": "https://open.spotify.com/artist/5M46qXuGk8gGVaGhZ2hVDx"
+        }
+      ],
+      "duration_ms": 141020,
+      "name": "OLDRICH",
+      "url": "https://open.spotify.com/track/7qeKWyg3a01pG6NeppeuUx"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Springtime Secret",
         "url": "https://open.spotify.com/album/32qrcl8UtGMXQy2bnSAUcZ"
       },
@@ -691,22 +707,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "OLDRICH",
-        "url": "https://open.spotify.com/album/74LtG7zlykNAZ9O5B8AlBl"
-      },
-      "artists": [
-        {
-          "name": "Tamotsu LeftGroove",
-          "url": "https://open.spotify.com/artist/5M46qXuGk8gGVaGhZ2hVDx"
-        }
-      ],
-      "duration_ms": 141020,
-      "name": "OLDRICH",
-      "url": "https://open.spotify.com/track/7qeKWyg3a01pG6NeppeuUx"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Yves",
         "url": "https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 319669,
       "name": "Yves",
       "url": "https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "limonene",
-        "url": "https://open.spotify.com/album/6SSMQdids0Iixj0xzSFFrJ"
-      },
-      "artists": [
-        {
-          "name": "Jfab",
-          "url": "https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "limonene",
-      "url": "https://open.spotify.com/track/3Apg6aI4J5OxeiF032ttYY"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -755,6 +739,22 @@
       "duration_ms": 259583,
       "name": "Tapir & Pomme De Pin",
       "url": "https://open.spotify.com/track/2WHhDwQ0eU1xrke858eQMO"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "limonene",
+        "url": "https://open.spotify.com/album/6SSMQdids0Iixj0xzSFFrJ"
+      },
+      "artists": [
+        {
+          "name": "Jfab",
+          "url": "https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "limonene",
+      "url": "https://open.spotify.com/track/3Apg6aI4J5OxeiF032ttYY"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Wonderment",
+        "url": "https://open.spotify.com/album/33BNvmKLpLEMl8FjetvtCs"
+      },
+      "artists": [
+        {
+          "name": "Jonny Tobin",
+          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Wonderment",
+      "url": "https://open.spotify.com/track/26kYnw6WLvGp7Ra74JITZH"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "This Was Once Out of Shape",
         "url": "https://open.spotify.com/album/1wBwauk7beuBQDseEBcjU2"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 227986,
       "name": "This Was Once Out of Shape",
       "url": "https://open.spotify.com/track/4pce4kuGacGxXi8PA9QJcr"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Wonderment",
-        "url": "https://open.spotify.com/album/33BNvmKLpLEMl8FjetvtCs"
-      },
-      "artists": [
-        {
-          "name": "Jonny Tobin",
-          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Wonderment",
-      "url": "https://open.spotify.com/track/26kYnw6WLvGp7Ra74JITZH"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "713",
-        "url": "https://open.spotify.com/album/14TEvd0noEV6MVNlAmjbWf"
-      },
-      "artists": [
-        {
-          "name": "James Francies",
-          "url": "https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX"
-        }
-      ],
-      "duration_ms": 321600,
-      "name": "713",
-      "url": "https://open.spotify.com/track/5EWPXmBa949HMMe3s611CW"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "synco",
         "url": "https://open.spotify.com/album/2TdnRV8hdjEQUjTukWgdT0"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 340000,
       "name": "Langeland Frukt & Tobakk",
       "url": "https://open.spotify.com/track/0s7UF7Hx8q9scbkcCDOLZT"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "713",
+        "url": "https://open.spotify.com/album/14TEvd0noEV6MVNlAmjbWf"
+      },
+      "artists": [
+        {
+          "name": "James Francies",
+          "url": "https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX"
+        }
+      ],
+      "duration_ms": 321600,
+      "name": "713",
+      "url": "https://open.spotify.com/track/5EWPXmBa949HMMe3s611CW"
     },
     {
       "added_at": "2023-09-22 00:01:00",

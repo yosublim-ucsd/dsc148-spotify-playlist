@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,983 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,006 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 60 | [if you got a problem](https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:06 |
 | 61 | [What Am I](https://open.spotify.com/track/35Cy7sWZPmCyPL1wsNyOO6) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Foreigner](https://open.spotify.com/album/7BACBsD9qvKUGXs6Pkyz5r) | 4:09 |
 | 62 | [Falling Apart](https://open.spotify.com/track/3TAGAAWQ9HeosMtv4dz2jf) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj) | 3:15 |
-| 63 | [Watch Me](https://open.spotify.com/track/2xjv06k7zfnHV9zanSLRdI) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying \(Deluxe Edition\)](https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR) | 3:33 |
+| 63 | [Bittersweet](https://open.spotify.com/track/4uawMXx8VZ7WMrjAVOaCMe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:52 |
 | 64 | [Love and Hate in a Different Time \- Original](https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e) | 4:42 |
-| 65 | [Bittersweet](https://open.spotify.com/track/4uawMXx8VZ7WMrjAVOaCMe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:52 |
+| 65 | [Watch Me](https://open.spotify.com/track/2xjv06k7zfnHV9zanSLRdI) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying \(Deluxe Edition\)](https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR) | 3:33 |
 | 66 | [Giving It In](https://open.spotify.com/track/1yoAw5lhSJZ3FutPzCm6EC) | [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [Giving It In](https://open.spotify.com/album/0qqvcHcINrNFwkFfaqpRO1) | 3:20 |
 | 67 | [Inspiration Information](https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Inspiration Information/ Wings Of Love](https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S) | 4:12 |
 | 68 | [Light My Fire \- 1994 Remaster](https://open.spotify.com/track/2RxYGOHMSm6nc9q9xyLtYq) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Something](https://open.spotify.com/album/7moeasHrdO4gtA9gierUQ7) | 3:27 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 80 | [Why Don't You Touch Me](https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:17 |
 | 81 | [Angels & Queens](https://open.spotify.com/track/2jzS9aY0dLR4TI6tlnLMTO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I \(Track by Track\)](https://open.spotify.com/album/3RWX330xVrZqAQ5JpSyI7h) | 3:19 |
 | 82 | [Bad Company](https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Bad Company](https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230) | 3:38 |
-| 83 | [I Need \- Mav's Version](https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lonely Are the Brave \(Mav's Version\)](https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph) | 3:59 |
-| 84 | [BBQ Energy](https://open.spotify.com/track/4DtcpnCRFpCTlTEX8KF0j2) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Adam Flowers](https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Tunnel Vision](https://open.spotify.com/album/5H4AuKv8BhLdZjW8Ra0Ovv) | 3:06 |
+| 83 | [BBQ Energy](https://open.spotify.com/track/4DtcpnCRFpCTlTEX8KF0j2) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Adam Flowers](https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Tunnel Vision](https://open.spotify.com/album/5H4AuKv8BhLdZjW8Ra0Ovv) | 3:06 |
+| 84 | [I Need \- Mav's Version](https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lonely Are the Brave \(Mav's Version\)](https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph) | 3:59 |
 | 85 | [Kitchen Sunset](https://open.spotify.com/track/7vIvKcdZ9FqUZ8rgAbK5ge) | [Kaisha](https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe), [David Nuri](https://open.spotify.com/artist/18PiyiMZ2GmEdIJW0l2rqm) | [Kitchen Sunset](https://open.spotify.com/album/00o8IpCGek8T29qGdxkjfs) | 3:36 |
 | 86 | [Please Love Me Again](https://open.spotify.com/track/4b605Ezmi2n7Oyk4vbdhsh) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Please Love Me Again](https://open.spotify.com/album/6DBdEhwchCMmQFJh5mhFXt) | 3:06 |
 | 87 | [The Love I Need](https://open.spotify.com/track/6kMz52ZCGAPfeoVrZM759i) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA), [Tiece](https://open.spotify.com/artist/0UbTE69ThKzx2DaD3M496P) | [Girlhood](https://open.spotify.com/album/3WSp38o6QVGRbRRvhUrb7M) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 99 | [King Midas](https://open.spotify.com/track/1omlDv3oJVn3ja7RSkylNO) | [Martha Reeves & The Sweet Things](https://open.spotify.com/artist/1trYvrkVZhSKtxCVsWqBmN) | [Willie Dynamite \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6FLxZKLlbpS9OjdwhdRbGO) | 4:51 |
 | 100 | [East End Coast](https://open.spotify.com/track/1RSaRPRiGcBT3yK9qIJ68E) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:46 |
 
-Snapshot ID: `MCw2MmEyMmViZmZiOTdkNTQzZmM2MTYxOWU2NWZiMjFjNzE3YTVkNjUx`
+Snapshot ID: `MCw0MTc3MTkzZGM2NDY1MTJkYWY3M2IyZmZhMzczZDFiYTI0YTcwNTUx`

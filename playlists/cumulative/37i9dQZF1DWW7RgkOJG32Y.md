@@ -4,7 +4,7 @@
 
 > Top trending country tracks from the last few months\. Cover: Tyler Childers
 
-332 songs - 17 hr 41 min
+333 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Girl In Mine](https://open.spotify.com/track/2DPqR0kuZVjrOF5oxIRYPy) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Girl In Mine](https://open.spotify.com/album/6R75pGKkSGEsUArsphBZ9W) | 2:35 | 2023-01-13 | 2023-04-01 |
 | [Girl On Fire](https://open.spotify.com/track/3DUVwg2lfRKphwNtYE7S85) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Girl On Fire](https://open.spotify.com/album/1a9TtIPjYqfXrFMhAq8xBM) | 2:53 | 2022-08-05 | 2023-01-21 |
 | [Girl Who Didn't Care](https://open.spotify.com/track/4XCDqYCoYUOc468PUKHgiQ) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Girl Who Didn't Care](https://open.spotify.com/album/40Y4YFAKYGg0vP0gvG7M90) | 3:12 | 2021-12-17 | 2022-03-05 |
-| [Girls Like You](https://open.spotify.com/track/14oK2do8KogXF21nfI9uOS) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 3:01 | 2023-03-10 |  |
+| [Girls Like You](https://open.spotify.com/track/14oK2do8KogXF21nfI9uOS) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 3:01 | 2023-03-10 | 2023-09-23 |
 | [Going, Going, Gone](https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 2:57 | 2022-10-07 | 2023-04-01 |
 | [Good Beer](https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good Beer](https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q) | 2:54 | 2022-01-28 | 2022-05-14 |
 | [Good Friends](https://open.spotify.com/track/5HVc3YeNKDFomPhXBKE90U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:28 | 2022-05-27 | 2022-10-02 |
@@ -288,6 +288,7 @@
 | [Thicc As Thieves \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0NgdKtJy6pKBvWhcVuQbxd) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Unlocked](https://open.spotify.com/album/4fR3GxUk6IUdNtcCOtKhIq) | 2:59 | 2023-07-14 |  |
 | [Think About Me](https://open.spotify.com/track/0onq6klC19tB7MT54gob65) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Think About Me](https://open.spotify.com/album/0PRgtSEi8WEu8AHNNFNK9d) | 3:37 | 2021-12-17 | 2022-03-18 |
 | [Think About That](https://open.spotify.com/track/0ZKJTquGSbkNpgTlQBWXAD) | [Chase Bryant](https://open.spotify.com/artist/7io3MyhMxDZoBYXp4rlRFA) | [Think About That](https://open.spotify.com/album/61rLv4iz256rZ5ZliRWsDz) | 3:51 | 2021-12-17 | 2022-02-12 |
+| [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 | 2023-09-22 |  |
 | [This Town's Been Too Good To Us](https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [This Town's Been Too Good To Us](https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol) | 3:11 | 2023-06-23 |  |
 | [Thought You Should Know](https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Thought You Should Know](https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i) | 3:35 | 2022-05-13 | 2023-02-25 |
 | [Tomorrow Me](https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Tomorrow Me](https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE) | 3:28 | 2022-05-06 | 2022-10-08 |

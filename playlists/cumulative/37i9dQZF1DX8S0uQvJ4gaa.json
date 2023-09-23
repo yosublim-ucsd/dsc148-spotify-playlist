@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Jackson Dean",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Charles Wesley Godwin",
   "name": "New Boots",
   "tracks": [
     {
@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 152946,
       "name": "All It Was",
       "url": "https://open.spotify.com/track/7bEt4pbdUhCPVF1ajNexeF"
@@ -2026,7 +2026,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 183893,
       "name": "Bad Day To Be A Cold Beer",
       "url": "https://open.spotify.com/track/4uzPHLZaHi2r99YMo6GAeG"
@@ -4662,7 +4662,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 194604,
       "name": "Coal",
       "url": "https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw"
@@ -5837,6 +5837,24 @@
     },
     {
       "album": {
+        "name": "Boys Of Faith",
+        "url": "https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211194,
+      "name": "Deep Satin",
+      "url": "https://open.spotify.com/track/1u2Fe70Qm9VFCIMPWFlfc1"
+    },
+    {
+      "album": {
         "name": "Avenue Beat EP",
         "url": "https://open.spotify.com/album/3NfRWzyKldhIsvOo52IgNm"
       },
@@ -6270,6 +6288,24 @@
       "duration_ms": 174280,
       "name": "Dirt Road When I Die",
       "url": "https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk"
+    },
+    {
+      "album": {
+        "name": "Never Giving Up On That",
+        "url": "https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD"
+      },
+      "artists": [
+        {
+          "name": "Dalton Dover",
+          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190510,
+      "name": "Dirt Roads And Jesus",
+      "url": "https://open.spotify.com/track/0rAsn40XCigrz7XZNxV2pr"
     },
     {
       "album": {
@@ -8499,6 +8535,28 @@
     },
     {
       "album": {
+        "name": "Lucky (Deluxe)",
+        "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        },
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199383,
+      "name": "Fix You Too (feat. Kameron Marlowe)",
+      "url": "https://open.spotify.com/track/4eIGig7wMD4iZfPKGinoGr"
+    },
+    {
+      "album": {
         "name": "Fix'n To Break",
         "url": "https://open.spotify.com/album/4fCLfVVsxyY9TYvGIT9h6H"
       },
@@ -8572,6 +8630,24 @@
       "duration_ms": 211933,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/3apMZR8xEsLHEA2KvIefC7"
+    },
+    {
+      "album": {
+        "name": "Fool's Gold",
+        "url": "https://open.spotify.com/album/5U1Svg6Q5QPxBWBavA3hKB"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Perry",
+          "url": "https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200367,
+      "name": "Fool's Gold",
+      "url": "https://open.spotify.com/track/4Pqc5qu1C7SZVuWz0d1Zut"
     },
     {
       "album": {
@@ -17265,6 +17341,24 @@
     },
     {
       "album": {
+        "name": "Love You Back",
+        "url": "https://open.spotify.com/album/4CxtfxIxJ0YCDaRwz7HbJx"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202027,
+      "name": "Love You Back",
+      "url": "https://open.spotify.com/track/67zZ26O7nHAyL76sEx3tIS"
+    },
+    {
+      "album": {
         "name": "Love You Like America",
         "url": "https://open.spotify.com/album/004XqLWjLBVkcrfnMdnFKQ"
       },
@@ -22654,7 +22748,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 179605,
       "name": "Reasons To Come Home",
       "url": "https://open.spotify.com/track/1wIsUGvG48iwvnK5tR84xe"
@@ -22784,7 +22878,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 264424,
       "name": "Red Roses & Red Flags",
       "url": "https://open.spotify.com/track/3w1FQLKbeoZ5FD3Y4B5RJF"
@@ -23744,7 +23838,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 237493,
       "name": "Save Me (with Lainey Wilson)",
       "url": "https://open.spotify.com/track/4Bee3PcNdfeqO1B80dDgFn"
@@ -25002,7 +25096,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 224837,
       "name": "So Many Summers",
       "url": "https://open.spotify.com/track/6fLOf6vy3ZXYqJPAETavUb"
@@ -25594,7 +25688,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 152807,
       "name": "Something To Dance To",
       "url": "https://open.spotify.com/track/15wjZVpG5krE8khXtQq7Cu"
@@ -25940,6 +26034,24 @@
       "duration_ms": 187493,
       "name": "Southern and Slow",
       "url": "https://open.spotify.com/track/5tAoi3TfoWB4esWc5hlLJ8"
+    },
+    {
+      "album": {
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/1yHva4eRhGMG1bIDdRx01Z"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190093,
+      "name": "Southern Comfort",
+      "url": "https://open.spotify.com/track/2oNXyZLQcsd0vJhhCjPnbb"
     },
     {
       "album": {
@@ -27377,6 +27489,24 @@
     },
     {
       "album": {
+        "name": "Tell Me Tennessee",
+        "url": "https://open.spotify.com/album/0xIsoU5AicBuIrbY5cOMke"
+      },
+      "artists": [
+        {
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "Tell Me Tennessee",
+      "url": "https://open.spotify.com/track/1TiAmIJNwfRmneV5iyTdMG"
+    },
+    {
+      "album": {
         "name": "Tennessee Orange",
         "url": "https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1"
       },
@@ -28184,7 +28314,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 205531,
       "name": "The Tree",
       "url": "https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI"
@@ -31395,6 +31525,24 @@
     },
     {
       "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179294,
+      "name": "Where It Ends",
+      "url": "https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw"
+    },
+    {
+      "album": {
         "name": "Where It Ends",
         "url": "https://open.spotify.com/album/7bLUJsXoEiVopKhg1syj2l"
       },
@@ -32519,6 +32667,24 @@
     },
     {
       "album": {
+        "name": "Work Boots and More from Leather",
+        "url": "https://open.spotify.com/album/5RO9lbgYJlJxBdtdz4unA0"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169013,
+      "name": "Work Boots",
+      "url": "https://open.spotify.com/track/1exnSf5fH7OBKDvxduf0LT"
+    },
+    {
+      "album": {
         "name": "King Calaway",
         "url": "https://open.spotify.com/album/5J2QWaK5lqtv6OrpLoMxUj"
       },
@@ -33006,7 +33172,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 200506,
       "name": "You Don\u2019t Want That Smoke",
       "url": "https://open.spotify.com/track/5uPQjirx9C6MS47V556x46"

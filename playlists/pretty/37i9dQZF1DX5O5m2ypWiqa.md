@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 
 > ¡Y qué retumbe la bandona, pariente! Banda MS en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,755,397 likes - 125 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,755,789 likes - 125 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 96 | [Prohibido](https://open.spotify.com/track/48bf7pvc1nlsSjnHkoz0VY) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Prohibido](https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT) | 2:56 |
 | 97 | [Un Rinconcito en el Cielo](https://open.spotify.com/track/7wLxUIRidKDDIOBmq0TSyl) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Homenaje A Ramon Ayala](https://open.spotify.com/album/3Duc8M0fBz1UT53deyiec4) | 3:35 |
 | 98 | [Hombre Libre](https://open.spotify.com/track/6K9EwMrbfVGN6p7LrQW42e) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr) | 3:17 |
-| 99 | [El Que Te Amó](https://open.spotify.com/track/0I1XttomGvSyEtz2xfXnnP) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [El Que Te Amó](https://open.spotify.com/album/1bewjVPHQlQimZhJ27cW0n) | 3:04 |
-| 100 | [La Noche Perfecta](https://open.spotify.com/track/25p1jEwtuplwNIbZkoW5Kv) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Historia](https://open.spotify.com/album/1wOiaOlSa4ynjXA3NXT4Wf) | 3:07 |
+| 99 | [La Noche Perfecta](https://open.spotify.com/track/25p1jEwtuplwNIbZkoW5Kv) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Historia](https://open.spotify.com/album/1wOiaOlSa4ynjXA3NXT4Wf) | 3:07 |
+| 100 | [El Que Te Amó](https://open.spotify.com/track/0I1XttomGvSyEtz2xfXnnP) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [El Que Te Amó](https://open.spotify.com/album/1bewjVPHQlQimZhJ27cW0n) | 3:04 |
 | 101 | [Cita con un Invento](https://open.spotify.com/track/773lk88kjUKstndUTL1W7F) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Polo Norte](https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy) | 3:23 |
 | 102 | [Frio De Ausencia](https://open.spotify.com/track/18pyEi1Lu4421p3WqRoevn) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [El Ultimo Trago](https://open.spotify.com/album/5it3AmjHepFq7wf1jfCJxb) | 3:09 |
 | 103 | [Me Interesas](https://open.spotify.com/track/5LsTMta9l87n8Z4zpBV2xL) | [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG) | [La Balanza](https://open.spotify.com/album/27zodohsIeaDJaZ7lpSHab) | 2:56 |
@@ -128,10 +128,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 118 | [Se Va Muriendo Mi Alma](https://open.spotify.com/track/089JwgBFzPhW92N7RmUdNq) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Tirando Party](https://open.spotify.com/album/4Abo4Oityt7ycbQwoRmXvC) | 3:56 |
 | 119 | [¿Que Nos Separa?](https://open.spotify.com/track/4jULFslCeq1Wan6nczXoum) | [Germán Montero](https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak) | [Pensando En Ti](https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u) | 2:13 |
 | 120 | [Dos Hojas Sin Rumbo](https://open.spotify.com/track/2EjxmOw1V5MZ40S7rCiHeP) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Tesoros De Coleccion \- \-Victor Cordero A Traves De Sus Mas Bellas Canciones Y Sus Mejores Interpretes](https://open.spotify.com/album/2wx0qAtALUWK0IfGfpCJdJ) | 3:04 |
-| 121 | [La Luna](https://open.spotify.com/track/435MKCIggV4jMouMwEuBC8) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Sólo Contigo](https://open.spotify.com/album/5RlcPIc7Q2hmuVXaGTM6St) | 3:48 |
-| 122 | [Un Pinchi Beso](https://open.spotify.com/track/4hazVM2fmzBmcJ4JUW8R5x) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS) | 2:41 |
+| 121 | [Un Pinchi Beso](https://open.spotify.com/track/4hazVM2fmzBmcJ4JUW8R5x) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS) | 2:41 |
+| 122 | [La Luna](https://open.spotify.com/track/435MKCIggV4jMouMwEuBC8) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Sólo Contigo](https://open.spotify.com/album/5RlcPIc7Q2hmuVXaGTM6St) | 3:48 |
 | 123 | [En la Sierra y la Ciudad \(La China\)](https://open.spotify.com/track/4d87IagHd2tUKqPup408jJ) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr) | 3:24 |
 | 124 | [Se Me Sigue Notando](https://open.spotify.com/track/6CUtPSVBdwRLzSfALQqM4T) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Hombre De Rancho](https://open.spotify.com/album/37vmImrA5Kbl0kPbCN68y1) | 3:34 |
 | 125 | [Derecho De Antigüedad](https://open.spotify.com/track/37MzlcXgRH5rzTJYcSX2RD) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Romances](https://open.spotify.com/album/3yf7ChHaHsfVTnq7b9c0Xt) | 3:06 |
 
-Snapshot ID: `MCwxY2I0ZWUzZmU3Nzc5NjY2YjZjODAxYmQzMDU5MzdjMmZmY2ZjMzQ3`
+Snapshot ID: `MCwzMmU5YWY1MGIzYzI1YTRlYWYzMTc0ZmIyMzZlZGY2NTY2NTI2YWRj`

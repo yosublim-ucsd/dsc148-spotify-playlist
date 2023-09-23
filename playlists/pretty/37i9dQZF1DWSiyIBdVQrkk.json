@@ -1,12 +1,12 @@
 {
   "description": "The best in old & new Reggae. Cover: Bob Marley.",
-  "num_followers": 2125454,
+  "num_followers": 2125758,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzIzZGY0MGM4NDVlZDBjNTNhYzYwOWYwZjRiMGE5YTViY2VlM2M2",
+  "snapshot_id": "MCxkMzhkZTA2YzU0MDIzYThkM2VjNTRkMjJkNzA3MTkzNmNhMTJhYmNh",
   "tracks": [
     {
       "added_at": "2023-06-08 22:06:22",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Parables",
-        "url": "https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985"
-      },
-      "artists": [
-        {
-          "name": "Tarrus Riley",
-          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
-        }
-      ],
-      "duration_ms": 251026,
-      "name": "She's Royal",
-      "url": "https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "Lava Ground",
         "url": "https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 221866,
       "name": "Cant Satisfy Her",
       "url": "https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Parables",
+        "url": "https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985"
+      },
+      "artists": [
+        {
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "She's Royal",
+      "url": "https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
+        "name": "Jah Victory",
+        "url": "https://open.spotify.com/album/01cPxSu0Lr5qocwgwt579N"
+      },
+      "artists": [
+        {
+          "name": "Alpha Blondy",
+          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
+        }
+      ],
+      "duration_ms": 267360,
+      "name": "I Wish You Were Here",
+      "url": "https://open.spotify.com/track/5eCx5098mGhOXc3xY1fbWc"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
         "name": "Delroy Wilson's Big Hits",
         "url": "https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 246453,
       "name": "That Day Will Come",
       "url": "https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
-        "name": "Jah Victory",
-        "url": "https://open.spotify.com/album/01cPxSu0Lr5qocwgwt579N"
-      },
-      "artists": [
-        {
-          "name": "Alpha Blondy",
-          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "I Wish You Were Here",
-      "url": "https://open.spotify.com/track/5eCx5098mGhOXc3xY1fbWc"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
+        "name": "CocodY Rock !!! (Remastered Edition)",
+        "url": "https://open.spotify.com/album/0XCUj5oCpYC2GZZGGh7iVg"
+      },
+      "artists": [
+        {
+          "name": "Alpha Blondy",
+          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
+        },
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Cocody Rock - Remastered Edition",
+      "url": "https://open.spotify.com/track/1NbHlnoQbLMMy07BxJK5EP"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
         "name": "Chronology",
         "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 288600,
       "name": "King Without a Crown - Live at Stubb's, Austin, TX - February 2005",
       "url": "https://open.spotify.com/track/6yalDzJGNoUQ2qSDlAdqU8"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
-        "name": "CocodY Rock !!! (Remastered Edition)",
-        "url": "https://open.spotify.com/album/0XCUj5oCpYC2GZZGGh7iVg"
-      },
-      "artists": [
-        {
-          "name": "Alpha Blondy",
-          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
-        },
-        {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Cocody Rock - Remastered Edition",
-      "url": "https://open.spotify.com/track/1NbHlnoQbLMMy07BxJK5EP"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Engine 54",
-        "url": "https://open.spotify.com/album/5au1BqNBpQFx0TCmIE3KZz"
-      },
-      "artists": [
-        {
-          "name": "The Ethiopians",
-          "url": "https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Train to Skaville",
-      "url": "https://open.spotify.com/track/44L7aDHaRzb9pMWEZjSH8u"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "Bush Doctor",
         "url": "https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 320280,
       "name": "(You Gotta Walk) Don't Look Back - 2002 Remaster",
       "url": "https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Engine 54",
+        "url": "https://open.spotify.com/album/5au1BqNBpQFx0TCmIE3KZz"
+      },
+      "artists": [
+        {
+          "name": "The Ethiopians",
+          "url": "https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Train to Skaville",
+      "url": "https://open.spotify.com/track/44L7aDHaRzb9pMWEZjSH8u"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Love Is My Religion",
-        "url": "https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 228506,
-      "name": "Love Is My Religion",
-      "url": "https://open.spotify.com/track/4BWt85BLRIujlHaIOQDaqR"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "The 8 Year Affair",
         "url": "https://open.spotify.com/album/1pKiBXWp9b8nhnBzEh91nA"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 251204,
       "name": "Kingston Be Wise",
       "url": "https://open.spotify.com/track/0qbouIdcN4lrj49jem7TEz"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "Love Is My Religion",
+      "url": "https://open.spotify.com/track/4BWt85BLRIujlHaIOQDaqR"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf"
-      },
-      "artists": [
-        {
-          "name": "Mystic Marley",
-          "url": "https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "A Love Affair",
         "url": "https://open.spotify.com/album/3NGkvceBnNk5cTDbb56unf"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 228600,
       "name": "Tempted to Touch",
       "url": "https://open.spotify.com/track/24kv7kR0Cz8ZBWFx4Kq50A"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf"
+      },
+      "artists": [
+        {
+          "name": "Mystic Marley",
+          "url": "https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L"
     }
   ],
   "unique_name": "One Love",

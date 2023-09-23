@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: MYLINA; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,594 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,614 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 17 | [Just Wanna Break Free](https://open.spotify.com/track/3q3qfDroWP22o5OJLPuLKS) | [T00n](https://open.spotify.com/artist/78HFiqRqptzoqqjvM2JWfa) | [Just Wanna Break Free](https://open.spotify.com/album/6Nl3GYDOUA5NKK8gJNqRWF) | 4:14 |
 | 18 | [3 Con Cá Mập](https://open.spotify.com/track/0dC0esais79QzRcdX7R64y) | [DmK Is Real](https://open.spotify.com/artist/0IQJ8w7FbPj2EiiGcGbuFQ), [Limitlxss](https://open.spotify.com/artist/7CvaEyUJFgQOdgzfqqU5t7) | [3 Con Cá Mập](https://open.spotify.com/album/7HISCu7JnTHQeduJXUMIzB) | 2:53 |
 | 19 | [Giai điệu buồn](https://open.spotify.com/track/5xDntB3EzxAc7CQrk3rVsy) | [OGGY](https://open.spotify.com/artist/7EZScJjSrhUSWrth8ZsdNt), [Mickey](https://open.spotify.com/artist/7DNXlRnRZj3Rq07ci63eCN) | [2 depression](https://open.spotify.com/album/4keUIEM8Phe3iNMg3K3dAP) | 3:37 |
-| 20 | [ngắm sao mà chẳng có nhau](https://open.spotify.com/track/1Z9IxjUiWlQnBECEKAfgni) | [iMAZE](https://open.spotify.com/artist/17QbIxGorCQnxk26pvqESU), [QT](https://open.spotify.com/artist/5TF1unwsIOyMWyb1tHpHKj), [thảo choách](https://open.spotify.com/artist/1iozK4kH3GN8D5VNoajVjx) | [ngắm sao mà chẳng có nhau](https://open.spotify.com/album/4RgrhMnJRYKVpky9Vfn7Q6) | 3:41 |
+| 20 | [ngắm sao mà chẳng có nhau](https://open.spotify.com/track/1Z9IxjUiWlQnBECEKAfgni) | [iMAZE](https://open.spotify.com/artist/17QbIxGorCQnxk26pvqESU), [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld), [thảo choách](https://open.spotify.com/artist/1iozK4kH3GN8D5VNoajVjx) | [ngắm sao mà chẳng có nhau](https://open.spotify.com/album/4RgrhMnJRYKVpky9Vfn7Q6) | 3:41 |
 | 21 | [ngày mai sẽ thật đẹp khi em thức dậy](https://open.spotify.com/track/0HvRDEIcabzxOyRzpilvKs) | [Finn](https://open.spotify.com/artist/3lg54DBZGbztBHc0t1f48s), [Paties](https://open.spotify.com/artist/610qZrk1PKFAOgV5yNuGRa) | [ngày mai sẽ thật đẹp khi em thức dậy](https://open.spotify.com/album/57x1smjy5RRu4pfZXJkx4R) | 3:09 |
 | 22 | [Khu vườn](https://open.spotify.com/track/1LnOxCZuBpFAwIt50xvuQf) | [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om) | [Khu vườn](https://open.spotify.com/album/6UvnOCsDd1t4dVqfB265IK) | 2:11 |
 | 23 | [Lái Xe Một Mình \(Joy\)](https://open.spotify.com/track/2hjf9rtmB1lajYg7QTnpVy) | [Em Ellata](https://open.spotify.com/artist/2gHZhGddcfiD6ASs7pK1iD) | [Lái Xe Một Mình \(Joy\)](https://open.spotify.com/album/5L3QslaUYOrzI1XRDIHUFT) | 4:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [CỨ THẾ ĐI](https://open.spotify.com/track/445d1lEPCVVIcnh1AQmaoj) | [Hoàng Lụt](https://open.spotify.com/artist/4zzr02j2EEF4RBHGqksBqe) | [CỨ THẾ ĐI](https://open.spotify.com/album/0sPHG6Nun9F7fYovwJ1jzw) | 3:22 |
 | 100 | [em lai di dau day?](https://open.spotify.com/track/1JZUgjMN8onMfdCAQxb0xb) | [Cáu](https://open.spotify.com/artist/79RDZmnftJOANOKbYtEo5e) | [em lai di dau day?](https://open.spotify.com/album/1mXPFMkwnS8WP19cgIO0oy) | 2:51 |
 
-Snapshot ID: `MCw4NWRiZDhkNWE0NjZiMmI1NWE2Y2M3NjFhMjZhNWEzNmIwODhlMzZl`
+Snapshot ID: `MCxmNzc5OTkxNzRhYmFlYmM0OThhMWM2YzM5MGEwNWI5NzVjMzdmZjAy`

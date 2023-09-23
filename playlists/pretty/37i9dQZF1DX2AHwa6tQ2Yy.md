@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,980 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,050 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 28 | [Us Without Me](https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Us Without Me](https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt) | 3:20 |
 | 29 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 |
 | 30 | [Better With You](https://open.spotify.com/track/6eXNp3TwJsu67AEpWkU38O) | [Jackson Owens](https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke) | [Better With You](https://open.spotify.com/album/6hNFfriiHoZFXIVx4UJ82v) | 2:17 |
-| 31 | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV) | 2:57 |
-| 32 | [So Done \(feat\. Khalid\)](https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:54 |
+| 31 | [So Done \(feat\. Khalid\)](https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:54 |
+| 32 | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV) | 2:57 |
 | 33 | [neve give up](https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:41 |
 | 34 | [I'm Leaving](https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:21 |
 | 35 | [Express](https://open.spotify.com/track/4HzmXpT5If3OD9cvEwXZUX) | [Reiki Ruawai](https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3) | [Express](https://open.spotify.com/album/33Iy4OnV5ZEqTKQG2Xbplo) | 2:36 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 57 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 |
 | 58 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 |
 | 59 | [Spider](https://open.spotify.com/track/2mmffn8SKL7XMeccLOXSgY) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Spider](https://open.spotify.com/album/3AKp3KdtVVT0rwkfejvkj7) | 2:54 |
-| 60 | [BETTER \(feat\. Jay Prince & Billy Davis\)](https://open.spotify.com/track/2uwes91y2qqJrutmEZJtlB) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Billy Davis](https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [Songs To Come Home To](https://open.spotify.com/album/3RyNOK2vXaGdkRWoh8QmjN) | 2:45 |
-| 61 | [No Need 2 Be Sorry, Call Me? \(ft\. Maverick Sabre\)](https://open.spotify.com/track/1DpjVHeNTz2UIXkAd4CBF8) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 3:27 |
+| 60 | [No Need 2 Be Sorry, Call Me? \(ft\. Maverick Sabre\)](https://open.spotify.com/track/1DpjVHeNTz2UIXkAd4CBF8) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 3:27 |
+| 61 | [BETTER \(feat\. Jay Prince & Billy Davis\)](https://open.spotify.com/track/2uwes91y2qqJrutmEZJtlB) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Billy Davis](https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [Songs To Come Home To](https://open.spotify.com/album/3RyNOK2vXaGdkRWoh8QmjN) | 2:45 |
 | 62 | [No One But You](https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [No One But You](https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR) | 3:33 |
 | 63 | [Falling in Love Again](https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Tomorrow's Gonna Come](https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0) | 3:50 |
 | 64 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 69 | ['Round Midnight](https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | ['Round Midnight](https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM) | 4:12 |
 | 70 | [Find You](https://open.spotify.com/track/0xj5upFN9assCNNS01X3PR) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 5:03 |
 
-Snapshot ID: `MCw2MGY2MDNiZThjOWNjMGM4NmFjMjM0ZTQzYzhkNGU2ZjBhNDkyNWQy`
+Snapshot ID: `MCwyOGQyYmM4YjNmZmZjYTI5YzIwM2NhZTBmNTNmOWJiMjRmZDIyMTE5`

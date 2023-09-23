@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX?si=vP5Wm1cSRrK50OVEcXd\_oA">  حماقي </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,414 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,967 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [YAZMEELY](https://open.spotify.com/track/3WOiSsqfXPZAtGTr2PFj6S) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Ya Kahera](https://open.spotify.com/album/3dUTTXt9860nBInTMPkFDm) | 3:16 |
 | 50 | [كله بألف وش](https://open.spotify.com/track/2xa1lKFfSDDEBeJURGDXf6) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [كله بألف وش](https://open.spotify.com/album/3LmFEyUvrTZcfGANGcEX2L) | 3:20 |
 
-Snapshot ID: `MCwzZjQxMTI1MWU3MDA1ODIyMmM2MGRhM2ZkMDIwZmY2OGZjMjY4OTlk`
+Snapshot ID: `MCw4YzBlN2UwZWM0OWQ1YTAyNzFlNGJiMjQ5OTg1MGY2NTFmMmJkYmQx`

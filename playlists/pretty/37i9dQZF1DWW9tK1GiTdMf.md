@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ Claudym in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,746 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,747 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 69 | [20ANNI](https://open.spotify.com/track/0ejBROtdr2qNMXTYgnekeT) | [hso](https://open.spotify.com/artist/2Jqn0PKbcKi3q8TSsvyeKc) | [20ANNI](https://open.spotify.com/album/0ANTzWRUSfkA8yswIKAlts) | 2:55 |
 | 70 | [Le Mie Pare](https://open.spotify.com/track/24cpNZZgqTvfW8ukeLYB04) | [Holy](https://open.spotify.com/artist/7rKhniAoTGdu1IFQFxEajZ) | [Le Mie Pare](https://open.spotify.com/album/5bD4LuGx7Ik3jDZtP7KJ1e) | 2:07 |
 
-Snapshot ID: `MCxlZTQ1MDZlZWQwZjdiZjkzNDA1NGEyMTEzMmEzZjA2MDJmNmUxNWNk`
+Snapshot ID: `MCxjOWM1ZGRlMzYzZDVmOTdhM2U0MTViODJmMzM2ZDE4MDNlMjBlYjNm`

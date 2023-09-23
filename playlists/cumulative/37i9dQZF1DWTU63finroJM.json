@@ -2486,7 +2486,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 159613,
       "name": "BURNA FONE",
       "url": "https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60"
@@ -6961,6 +6961,28 @@
     },
     {
       "album": {
+        "name": "homebody",
+        "url": "https://open.spotify.com/album/5rt24b30Az06G6MYCfjwCJ"
+      },
+      "artists": [
+        {
+          "name": "LAYYI",
+          "url": "https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr"
+        },
+        {
+          "name": "YA\u00d8",
+          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "homebody",
+      "url": "https://open.spotify.com/track/2Dc0zNIYfOhWs1D13pjQrJ"
+    },
+    {
+      "album": {
         "name": "hometonone",
         "url": "https://open.spotify.com/album/1uadeW46GYVBfUsqtK45in"
       },
@@ -9850,7 +9872,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 184000,
       "name": "m00d",
       "url": "https://open.spotify.com/track/45DZdd09Sopo3UOoeJgifU"
@@ -12432,7 +12454,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 171063,
       "name": "P STANDS 4 PLAYA",
       "url": "https://open.spotify.com/track/3ozyV7sAHXaMvrbtziNIEj"
@@ -13116,6 +13138,24 @@
       "duration_ms": 159000,
       "name": "plany",
       "url": "https://open.spotify.com/track/0K5Cr8OvLVvhG87CsSjZsM"
+    },
+    {
+      "album": {
+        "name": "WE STILL YOUNG",
+        "url": "https://open.spotify.com/album/2UlMKNVdCbVxTG4LwxpiTz"
+      },
+      "artists": [
+        {
+          "name": "PANIA",
+          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "PLAYLIST (ROCK DA BOAT)",
+      "url": "https://open.spotify.com/track/7D6jnDW82vRRMiCRLcy0pl"
     },
     {
       "album": {

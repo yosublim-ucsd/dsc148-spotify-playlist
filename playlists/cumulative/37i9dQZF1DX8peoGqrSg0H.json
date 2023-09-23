@@ -2143,6 +2143,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e34\u0e14\u0e2a\u0e34",
+        "url": "https://open.spotify.com/album/3cl7sIBeKmZwJ0pTMEikLY"
+      },
+      "artists": [
+        {
+          "name": "Polycat",
+          "url": "https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237446,
+      "name": "\u0e04\u0e34\u0e14\u0e2a\u0e34",
+      "url": "https://open.spotify.com/track/2ETNrSPgFzST9bNmUKQzEM"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e35\u0e22\u0e4c\u0e43\u0e08 (Heart Key)",
         "url": "https://open.spotify.com/album/38mO1WT3GehvATY9KkRjTf"
       },
@@ -2172,7 +2190,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 226956,
       "name": "\u0e04\u0e37\u0e19\u0e19\u0e35\u0e49\u0e2d\u0e2d\u0e01\u0e44\u0e2b\u0e21 (Night Out)",
       "url": "https://open.spotify.com/track/6moRqJrR3ELxopY0k5fB6L"
@@ -2234,6 +2252,24 @@
       "duration_ms": 223636,
       "name": "\u0e04\u0e38\u0e22\u0e41\u0e01\u0e49\u0e40\u0e2b\u0e07\u0e32 (MR. LONELY)",
       "url": "https://open.spotify.com/track/2vQjt6vAghkAHa5WObuF2W"
+    },
+    {
+      "album": {
+        "name": "\u0e07\u0e2d\u0e19\u0e15\u0e25\u0e2d\u0e14 (Tell Me What You Want)",
+        "url": "https://open.spotify.com/album/1vUv6QoW9OEGv70WF6Rfru"
+      },
+      "artists": [
+        {
+          "name": "Ice Paris",
+          "url": "https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "\u0e07\u0e2d\u0e19\u0e15\u0e25\u0e2d\u0e14 (Tell Me What You Want)",
+      "url": "https://open.spotify.com/track/7hz7tpYU2mvsBBnxLIjk8o"
     },
     {
       "album": {
@@ -4010,7 +4046,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 233076,
       "name": "\u0e22\u0e2d\u0e21\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d (Loser)",
       "url": "https://open.spotify.com/track/0ko2QIbamfYiRwG4eQcY4q"

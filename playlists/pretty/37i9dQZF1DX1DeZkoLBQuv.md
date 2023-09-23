@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,948 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,946 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 49 | [Vem Chegando o Natal](https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5) | [Perlla](https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK) | [Noite de Paz \- Canções para Celebrar](https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1) | 3:13 |
 | 50 | [Vinde Celebremos](https://open.spotify.com/track/4aXA1S57kbciLvJq2gYhSU) | [Voices](https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD) | [Natal](https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR) | 3:22 |
 
-Snapshot ID: `MCxmODBiNWUyZjc5ZDczMWU5Y2YzYmQzMzQ4M2UwY2VkZjc4MDIzY2Yy`
+Snapshot ID: `MCwyMjc4YzFiOGVmYjc1MDJjYzAyMzRlN2E5NDk0YmFmMjNlZDI3MDA1`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-1,376 songs - 3 day 2 hr 51 min
+1,377 songs - 3 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,6 +457,7 @@
 | [Flores](https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Flores](https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS) | 3:34 | 2023-02-14 | 2023-02-26 |
 | [FLORES](https://open.spotify.com/track/7oEkDWQeUlsu3UBfltE1WI) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [FLORES](https://open.spotify.com/album/4ZXoB7bH7El9Ad2kZHmRvw) | 2:40 | 2023-02-21 | 2023-08-02 |
 | [Flores Amarillas](https://open.spotify.com/track/4PUmVspCOFioja8MFM653t) | [Floricienta](https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv) | [Floricienta](https://open.spotify.com/album/2X3U1Ra8bYgf0wXMjYJ1rN) | 3:43 | 2022-09-22 | 2023-03-31 |
+| [Flores Amarillas](https://open.spotify.com/track/5wBBoVjoounI5e36oI8oZe) | [Floricienta](https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv) | [Floricienta](https://open.spotify.com/album/5vzRtE9SIJ6MVL0j6uFhW9) | 3:43 | 2023-09-22 |  |
 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2023-04-25 | 2023-05-14 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-02-07 | 2023-03-12 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-11 | 2023-03-18 |
@@ -1007,7 +1008,7 @@
 | [Qué Onda Perdida](https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN) | 3:43 | 2023-03-14 | 2023-04-19 |
 | [Qué Onda Perdida](https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15) | 3:59 | 2023-04-25 | 2023-05-30 |
 | [RAGNAROK](https://open.spotify.com/track/1sWb35nydLCjD71JGURDEv) | [chyxz](https://open.spotify.com/artist/6iWgYyd1erLvfDuafIT9DG), [SLOWYMANE](https://open.spotify.com/artist/2pw1uH6zGd0WlW4DNlFRMu) | [RAGNAROK](https://open.spotify.com/album/45pOAmgOLYGcAU9r4yscc9) | 3:15 | 2022-08-27 | 2022-08-31 |
-| [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-09-06 |  |
+| [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-09-06 | 2023-09-23 |
 | [Ramo Buchón](https://open.spotify.com/track/4Td2A1bW1NP1Utc9WZDfWr) | [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Ramo Buchón](https://open.spotify.com/album/3XszKeKNdXtEMRKBhThpi8) | 3:33 | 2023-08-31 | 2023-09-12 |
 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 | 2023-03-07 | 2023-05-10 |
 | [RATIO](https://open.spotify.com/track/1spITpds0bb12suzLpqk31) | [JuanSGuarnizo](https://open.spotify.com/artist/193FNrNDNDnzFrNxUw6Dr3), [Rodezel](https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x) | [RATIO](https://open.spotify.com/album/6hPIS2sIYeeiUMQOy70Ev1) | 2:39 | 2022-05-03 | 2022-05-08 |

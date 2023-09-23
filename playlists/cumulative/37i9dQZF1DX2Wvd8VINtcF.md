@@ -4,7 +4,7 @@
 
 > the pearls of an oyster.
 
-855 songs - 1 day 23 hr 32 min
+857 songs - 1 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [89 Earthquake](https://open.spotify.com/track/60QgT3PndeEDhdteZfqXGv) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [89 Earthquake](https://open.spotify.com/album/5cbiVwhOtdorDA5YVPyclL) | 3:12 | 2023-03-02 | 2023-04-07 |
 | [90 Proof \(with J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(with J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 | 2022-10-28 | 2022-11-11 |
 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 | 2023-05-04 |  |
-| [97](https://open.spotify.com/track/6geHIF8dr4TmicWdFASykz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 2:57 | 2023-09-21 |  |
+| [97](https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:57 | 2023-09-22 |  |
+| [97](https://open.spotify.com/track/6geHIF8dr4TmicWdFASykz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 2:57 | 2023-09-21 | 2023-09-23 |
 | [</3 Heartbroken \(feat\. Khazali\)](https://open.spotify.com/track/10wMB5N2FqVXVr4WaCXNTq) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 3:14 | 2023-05-25 | 2023-06-30 |
 | [\_2gether\_4ever](https://open.spotify.com/track/63RhlW6kxgnaoClxphMaIO) | [sonic girl](https://open.spotify.com/artist/31vO4IuGYTlzTeEPIVw8TR) | [\_2gether\_4ever](https://open.spotify.com/album/3tqDJqYcxyGuhxvEtvGxgj) | 2:37 | 2023-04-06 | 2023-04-29 |
 | [\_2gether\_4ever](https://open.spotify.com/track/7I3yccUc60IX8N3daEkJyV) | [sonic girl](https://open.spotify.com/artist/31vO4IuGYTlzTeEPIVw8TR) | [STARBORN \(mixtape\)](https://open.spotify.com/album/0yPEAiOzEmWEDeRd1tj78N) | 2:37 | 2023-04-27 | 2023-05-26 |
@@ -143,7 +144,8 @@
 | [Can't Get Over You](https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y5](https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB) | 3:36 | 2022-11-10 | 2022-11-18 |
 | [Can't Stop Me](https://open.spotify.com/track/19WXgURSdoxJUf7pKZPw1X) | [EUT](https://open.spotify.com/artist/41doMenKZkgW8DUwH3WwV5) | [Can't Stop Me](https://open.spotify.com/album/39f2dYxMUkGhJqDsfoRMvQ) | 3:19 | 2022-12-01 | 2022-12-24 |
 | [Can't Tame Her \- DJ Smallz 732 Jersey Club Remix](https://open.spotify.com/track/55MRmcpfl4J09kfuvXWfW1) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Can't Tame Her \(DJ Smallz 732 Jersey Club Remix\)](https://open.spotify.com/album/3uBceis1Eppr25zMURrFZb) | 2:30 | 2023-04-06 | 2023-04-14 |
-| [Can't Wait](https://open.spotify.com/track/6Op8uyzVH11oJGcCK8yyEn) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:55 | 2023-09-21 |  |
+| [Can't Wait](https://open.spotify.com/track/5ZyQqAgrPr0cVm0VfM69Np) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:55 | 2023-09-22 |  |
+| [Can't Wait](https://open.spotify.com/track/6Op8uyzVH11oJGcCK8yyEn) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:55 | 2023-09-21 | 2023-09-23 |
 | [Can't Wait](https://open.spotify.com/track/0iStHtmSWWaqmj3NofK49H) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Can't Wait](https://open.spotify.com/album/1Qpv2742MFYWWFNvNZBAET) | 3:17 | 2023-04-20 | 2023-05-26 |
 | [Candle Flame](https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Candle Flame](https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH) | 2:54 | 2023-03-30 | 2023-06-23 |
 | [Carbon Dioxide](https://open.spotify.com/track/5JTDPZDDetda3wazmZA3D0) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Carbon Dioxide](https://open.spotify.com/album/6anWFtYOzbbEs8It4Lpi4V) | 4:51 | 2022-11-10 | 2022-12-24 |

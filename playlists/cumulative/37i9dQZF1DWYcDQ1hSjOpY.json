@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Armon\u00eda Serena",
+        "url": "https://open.spotify.com/album/1S06SLy0ZHrSrbHFsPsNBD"
+      },
+      "artists": [
+        {
+          "name": "Abril Iluso",
+          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158823,
+      "name": "Armon\u00eda Serena",
+      "url": "https://open.spotify.com/track/3y0MUwXHh9qdDGsNPQ7msQ"
+    },
+    {
+      "album": {
         "name": "\u00c1 Eftir",
         "url": "https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM"
       },
@@ -3912,7 +3930,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 205000,
       "name": "Jupiter 285",
       "url": "https://open.spotify.com/track/5IDYiDJLlEL4Mscj33ao83"
@@ -4128,7 +4146,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 173500,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/5i3gMF4xQnyFWXtmkI1JfD"
@@ -4726,6 +4744,24 @@
       "duration_ms": 147034,
       "name": "Moreno",
       "url": "https://open.spotify.com/track/2vPeFaECZD3zK4rY3cdweX"
+    },
+    {
+      "album": {
+        "name": "Morgennebel",
+        "url": "https://open.spotify.com/album/2IUu3veYokLvk0OF7fjprN"
+      },
+      "artists": [
+        {
+          "name": "Velpo Sonols",
+          "url": "https://open.spotify.com/artist/27eOFbWsw1qOMgSaMqR1MM"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181715,
+      "name": "Morgennebel",
+      "url": "https://open.spotify.com/track/2LSVCsevs25vMNmAdCTVMZ"
     },
     {
       "album": {

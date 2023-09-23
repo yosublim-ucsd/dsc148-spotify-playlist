@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-360 songs - 23 hr 37 min
+361 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Manzana](https://open.spotify.com/track/03nyiU9gpCQSywZIGK2LGM) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Manzana](https://open.spotify.com/album/28Z3NNHpbtL0aqhAWLuIIb) | 3:25 | 2022-07-22 | 2022-07-24 |
 | [Matter of Time](https://open.spotify.com/track/1TW9J0imyVBMihuwHqJ5sf) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time](https://open.spotify.com/album/621O6kH4iJa75aFZQTQPPI) | 4:00 | 2022-06-03 | 2023-04-20 |
 | [Matter of Time](https://open.spotify.com/track/3IuxYZUQ6J9yfqcVtk5h6b) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time](https://open.spotify.com/album/0RgsG1zTZxKqOTsRrHWqDh) | 4:00 | 2023-03-20 | 2023-09-18 |
+| [Matter of Time](https://open.spotify.com/track/5z49EsoURUXq88RSLBmYPG) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [When The Light Breaks](https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h) | 4:00 | 2023-08-25 |  |
 | [Matter of Time \(feat\. Alex Maher\)](https://open.spotify.com/track/4BmPTpXnae3IwwXAcK0byT) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time \(feat\. Alex Maher\)](https://open.spotify.com/album/5f1PM9xUhWpVNmNdN3xj6S) | 4:00 | 2022-05-13 | 2022-12-01 |
 | [Maybes \- Edit](https://open.spotify.com/track/7Fg0NsDZWTnQBVE9OYph1S) | [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6), [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Maybes](https://open.spotify.com/album/5aUZlLCDlVFmIiMIYfILbN) | 3:48 | 2020-12-22 | 2022-04-21 |
 | [Me and Michael \- OMMA Remix](https://open.spotify.com/track/1QfYAtf7D9W4ssgcyTXfb5) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [OMMA](https://open.spotify.com/artist/3RzOXdGDUkVd6brfAVKFDp) | [Me and Michael \(OMMA Remix\)](https://open.spotify.com/album/1Jl15UxIs9r2aPEezCLH3e) | 5:03 | 2020-12-22 | 2022-04-20 |
@@ -232,7 +233,7 @@
 | [Oceans](https://open.spotify.com/track/4eZHR12k7QFYFeDvZlh6rE) | [Third Floor](https://open.spotify.com/artist/2cIORcjDWj0e8H0KKeBwlu) | [Oceans](https://open.spotify.com/album/5iBwvnzbjizww4o7mRHUtg) | 4:18 | 2020-12-22 | 2022-04-15 |
 | [Oh, Miles](https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Oh, Miles](https://open.spotify.com/album/4qf7IxbVrv9eLCGpCA8Asu) | 5:33 | 2022-05-13 | 2022-06-04 |
 | [Okay, Saint Laurent](https://open.spotify.com/track/68uwWsxoI2yb0RhQw69eRF) | [October Tooth](https://open.spotify.com/artist/1vwb2e3nTwu2n2eDVGRFeu) | [Okay, Saint Laurent](https://open.spotify.com/album/0nrujX14UZkDHf6kLRHR2G) | 3:00 | 2020-12-22 | 2022-07-29 |
-| [Old Bone \- Jim\-E Stack Remix](https://open.spotify.com/track/6YKLlLoEYRujlAH8SgkTge) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Old Bone \(Jim\-E Stack Remix\)](https://open.spotify.com/album/0N4gagOhj0I1XT9jLwKV6t) | 3:27 | 2020-12-22 |  |
+| [Old Bone \- Jim\-E Stack Remix](https://open.spotify.com/track/6YKLlLoEYRujlAH8SgkTge) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Old Bone \(Jim\-E Stack Remix\)](https://open.spotify.com/album/0N4gagOhj0I1XT9jLwKV6t) | 3:27 | 2020-12-22 | 2023-09-23 |
 | [On Hold \- Jamie xx Remix](https://open.spotify.com/track/0iALOYqXaVoluUIsSyDAny) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [On Hold \(Jamie xx Remix\)](https://open.spotify.com/album/01W0uSuNffDSC2RT8Cjha3) | 6:11 | 2020-12-22 | 2022-04-20 |
 | [On Hold \- Jamie xx Remix](https://open.spotify.com/track/3qOuySPLpVyBXLuTNMgbRj) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [On Hold \(Jamie xx Remix\)](https://open.spotify.com/album/1KwcjMbLdbmGBvHFRjNWCo) | 6:11 | 2020-12-22 |  |
 | [Onewish](https://open.spotify.com/track/4gQMYhluJXtB10cEXdymYL) | [Michael David](https://open.spotify.com/artist/5C1YLUNAIIJEU0Zrl251QX) | [Onewish](https://open.spotify.com/album/7A7W44SGbNRuJjzSO8FXXy) | 5:57 | 2020-12-22 | 2022-07-29 |

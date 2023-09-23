@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,050 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,511 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 38 | [What Are You Doing The Rest Of Your Life?](https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Some Nice Things I've Missed](https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV) | 4:01 |
 | 39 | [Save Your Love For Me](https://open.spotify.com/track/4ur0Fd4coSwWtP8MWpkjR9) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 2:44 |
 | 40 | [It's Magic](https://open.spotify.com/track/3Dwj9k9GC0Tm8nDvE9U5Pg) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:41 |
-| 41 | [A Kiss To Build A Dream On](https://open.spotify.com/track/6GtJqo0vr7DqWOHQtp77cV) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 4:31 |
-| 42 | [I Only Have Eyes For You](https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:53 |
+| 41 | [I Only Have Eyes For You](https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:53 |
+| 42 | [A Kiss To Build A Dream On](https://open.spotify.com/track/6GtJqo0vr7DqWOHQtp77cV) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 4:31 |
 | 43 | [Let's Fall In Love](https://open.spotify.com/track/2RnJD2mTBxqvHcqmXk1n9c) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Sings Sweet Songs For Swingers](https://open.spotify.com/album/6SESAIqP8sQTVp0ZRVcdOq) | 3:04 |
 | 44 | [All I Do Is Dream Of You \- Remastered](https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 2:46 |
 | 45 | [You Couldn't Be Cuter](https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Sings The Jerome Kern Song Book, Vol.1 & 2](https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd) | 2:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 99 | [Then I'll Be Tired Of You](https://open.spotify.com/track/5OTjnQB7ZtlT6LtSSgfIqN) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Dinah Sings, Previn Plays](https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe) | 3:19 |
 | 100 | [Have You Met Miss Jones](https://open.spotify.com/track/597IFswsQ0TaWnNn2S9wYh) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [You Are Free](https://open.spotify.com/album/6AFnZ1lljnYwntxC8YHSy7) | 2:05 |
 
-Snapshot ID: `MCw3ZWJiY2E4YjUwYTE2YzkwZWFjZjhmZjM0MjJlMWI1YjY5ZDZlMjYw`
+Snapshot ID: `MCwxMzU1MmNiMmE1ZGU0NDZjOTY0NTMzYzA3YTMyNWY4YWFhZDJkYTdl`

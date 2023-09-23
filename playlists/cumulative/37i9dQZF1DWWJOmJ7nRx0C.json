@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Corey Taylor",
+  "description": "The hardest songs, loud. Very loud. Cover: Staind",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -1921,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "BODY//TEMPLE",
+        "url": "https://open.spotify.com/album/7BmY2Ihzn5D4DgEmhzFCCS"
+      },
+      "artists": [
+        {
+          "name": "Holy Wars",
+          "url": "https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205980,
+      "name": "BODY//TEMPLE",
+      "url": "https://open.spotify.com/track/0Vd9Rbw2dBRcrw5OBnGK7X"
+    },
+    {
+      "album": {
         "name": "Boltcutter",
         "url": "https://open.spotify.com/album/6OP2USRvGKWn7YUrwa8zur"
       },
@@ -3527,6 +3545,24 @@
     },
     {
       "album": {
+        "name": "Dark Thoughts",
+        "url": "https://open.spotify.com/album/4hZRZ9Mwu9NAIeB73uI2JT"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248340,
+      "name": "Dark Thoughts",
+      "url": "https://open.spotify.com/track/7aSFYakNWB9xQGDEZtoBDH"
+    },
+    {
+      "album": {
         "name": "Dark Void",
         "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
       },
@@ -4016,7 +4052,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 169094,
       "name": "Deus Ex Machina",
       "url": "https://open.spotify.com/track/4Xwl0kn6N8WhIXxhXhuGKt"
@@ -4641,6 +4677,28 @@
     },
     {
       "album": {
+        "name": "DROP (feat. Randy Blythe)",
+        "url": "https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "Randy Blythe",
+          "url": "https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191208,
+      "name": "DROP (feat. Randy Blythe)",
+      "url": "https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33"
+    },
+    {
+      "album": {
         "name": "Drown",
         "url": "https://open.spotify.com/album/1d0POcigL7sG85X4KpwZzg"
       },
@@ -4692,6 +4750,24 @@
       "duration_ms": 165557,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt"
+    },
+    {
+      "album": {
+        "name": "Dynamite (2023 Version)",
+        "url": "https://open.spotify.com/album/4pY0MgV6z1PBAX4e8YYK2L"
+      },
+      "artists": [
+        {
+          "name": "Any Given Sin",
+          "url": "https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198200,
+      "name": "Dynamite - 2023 Version",
+      "url": "https://open.spotify.com/track/2ldT3qdqwNsnKAji6AarfD"
     },
     {
       "album": {
@@ -5799,6 +5875,24 @@
     },
     {
       "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/0bOx4gvchCizrgxkIVGtkp"
+      },
+      "artists": [
+        {
+          "name": "Rain City Drive",
+          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213504,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/2pHHaS46BXLP1fkKIdEdj4"
+    },
+    {
+      "album": {
         "name": "FU2 (feat. AJ Channer of Fire From The Gods)",
         "url": "https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB"
       },
@@ -5944,7 +6038,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 229978,
       "name": "Generation Psycho",
       "url": "https://open.spotify.com/track/77UBXLVoE90TpVmUKsgjGx"
@@ -6124,7 +6218,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 168658,
       "name": "God\u2019s Gonna Cut You Down",
       "url": "https://open.spotify.com/track/5Qt4tTjY5bjhKa3OGNVP2J"
@@ -7327,6 +7421,24 @@
     },
     {
       "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199196,
+      "name": "I Hope You Choke!",
+      "url": "https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5"
+    },
+    {
+      "album": {
         "name": "BOYS DO CRY",
         "url": "https://open.spotify.com/album/7wezeeUZVM2EAzsdqlNzWj"
       },
@@ -8384,7 +8496,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 210022,
       "name": "Lacerate",
       "url": "https://open.spotify.com/track/2rR7ZDUEZNahj6RcV6U80J"
@@ -8558,7 +8670,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 179920,
       "name": "Lead Pipe",
       "url": "https://open.spotify.com/track/3tKtvdq8ljuxOsXvlhL0sc"
@@ -9274,10 +9386,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 187291,
       "name": "Lowest In Me",
       "url": "https://open.spotify.com/track/1cdCfqSwdXM0BQEDy5Fc7M"
+    },
+    {
+      "album": {
+        "name": "Confessions Of The Fallen",
+        "url": "https://open.spotify.com/album/7DOyUfUOWH3myPk79r8Js9"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187291,
+      "name": "Lowest In Me",
+      "url": "https://open.spotify.com/track/4vCmNZrbKxTaRB4gVrTsR1"
     },
     {
       "album": {
@@ -11218,7 +11348,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 116750,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/6flXyAriVIl6IcMtkgvb7G"
@@ -12532,7 +12662,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 155646,
       "name": "Sad Weather Kids",
       "url": "https://open.spotify.com/track/5NIXjeTRJmdGFixIwCe8p9"
@@ -13630,7 +13760,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 214760,
       "name": "Sorry Not Sorry (with Slash) - Rock Version",
       "url": "https://open.spotify.com/track/3sxeoitzj07ONdF2akJ62y"
@@ -13706,6 +13836,24 @@
       "duration_ms": 246837,
       "name": "Spellbinding",
       "url": "https://open.spotify.com/track/74rpTA3zk1IWwBY944OK3r"
+    },
+    {
+      "album": {
+        "name": "SPIDERS AND LUCID DREAMING",
+        "url": "https://open.spotify.com/album/3pHXSorjQuYRsqv2kAi7Jv"
+      },
+      "artists": [
+        {
+          "name": "REDZED",
+          "url": "https://open.spotify.com/artist/3FCo1sUkVbwKnO2m0Z7Bp9"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "SPIDERS AND LUCID DREAMING",
+      "url": "https://open.spotify.com/track/7L6wWDgQ11Ds9hh4cWIEFD"
     },
     {
       "album": {
@@ -17261,6 +17409,24 @@
     },
     {
       "album": {
+        "name": "WILDLIFE",
+        "url": "https://open.spotify.com/album/6SgId9Y6WtNHsSz6dvbXGT"
+      },
+      "artists": [
+        {
+          "name": "Rev Theory",
+          "url": "https://open.spotify.com/artist/10n5DVRlZbjbZ5ffpwpn6l"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174919,
+      "name": "WILDLIFE",
+      "url": "https://open.spotify.com/track/3RDSLS7jjYebu90AsfXHsk"
+    },
+    {
+      "album": {
         "name": "Will Of The People",
         "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
@@ -17500,6 +17666,24 @@
       "duration_ms": 275622,
       "name": "Wrap Your Head Around",
       "url": "https://open.spotify.com/track/4hxSk3I2h69RF0L3WQdkEZ"
+    },
+    {
+      "album": {
+        "name": "Welcome To Horrorwood: The Silver Scream 2",
+        "url": "https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230573,
+      "name": "Wurst Vacation",
+      "url": "https://open.spotify.com/track/4KQ2u1ZypSQtb6HNKMnpxJ"
     },
     {
       "album": {

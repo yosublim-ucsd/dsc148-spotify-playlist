@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Ashbeck & Rushy",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Headie One & K-Trap",
   "name": "Rap UK",
   "tracks": [
     {
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 144428,
       "name": "9bar",
       "url": "https://open.spotify.com/track/5501MwaMm4SI7yUZDtT4c3"
@@ -7585,6 +7585,28 @@
     },
     {
       "album": {
+        "name": "Daily Duppy (feat. GRM Daily)",
+        "url": "https://open.spotify.com/album/12FL8xj82cP89DW2uaUcmK"
+      },
+      "artists": [
+        {
+          "name": "Nines",
+          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
+        },
+        {
+          "name": "GRM Daily",
+          "url": "https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192439,
+      "name": "Daily Duppy (feat. GRM Daily)",
+      "url": "https://open.spotify.com/track/4z5mxHbpuduI70kTrpSVHE"
+    },
+    {
+      "album": {
         "name": "Daily Duppy (Goat Talk) (feat. GRM Daily)",
         "url": "https://open.spotify.com/album/3eszTZstgEmRGBuJJLnCZ9"
       },
@@ -8378,7 +8400,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 108000,
       "name": "Diss To Dillon",
       "url": "https://open.spotify.com/track/4PThJXayS2BNIDQr3farvq"
@@ -20366,7 +20388,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 275280,
       "name": "On The Radar Freestyle",
       "url": "https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6"
@@ -25402,7 +25424,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 181294,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/4QylNXqn9Z6IpUBi0gt77j"
@@ -26797,6 +26819,24 @@
     },
     {
       "album": {
+        "name": "Stick To The Plan",
+        "url": "https://open.spotify.com/album/2P2x81BNcG0Njj1ivyS6km"
+      },
+      "artists": [
+        {
+          "name": "Offica",
+          "url": "https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Stick To The Plan",
+      "url": "https://open.spotify.com/track/70LSkaIGJp3vClVP1G513o"
+    },
+    {
+      "album": {
         "name": "Sticks On Sticks",
         "url": "https://open.spotify.com/album/60un1tHfjaLnC6gAHhQ9Ez"
       },
@@ -27144,6 +27184,24 @@
       "duration_ms": 160000,
       "name": "Summer Is Blue",
       "url": "https://open.spotify.com/track/6oUfoALNcb6H7exE2D9A4A"
+    },
+    {
+      "album": {
+        "name": "summers over",
+        "url": "https://open.spotify.com/album/2PCWUDyV1fkV4lDdigoSa8"
+      },
+      "artists": [
+        {
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "summers over",
+      "url": "https://open.spotify.com/track/4I4HnXLIdHBcamz2VKLqE1"
     },
     {
       "album": {
@@ -29120,6 +29178,32 @@
       "duration_ms": 153949,
       "name": "Triple Threat",
       "url": "https://open.spotify.com/track/01ZTKFMGyLDjZadCCWiFYa"
+    },
+    {
+      "album": {
+        "name": "TRIPLE THREAT",
+        "url": "https://open.spotify.com/album/4ClTS36W38BNdWMFNvvFam"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197429,
+      "name": "TRIPLE THREAT",
+      "url": "https://open.spotify.com/track/2URQXBVDvENWHvUodr5ScN"
     },
     {
       "album": {

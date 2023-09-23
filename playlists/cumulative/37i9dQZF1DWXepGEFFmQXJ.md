@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Kane Brown
 
-453 songs - 1 day 0 hr 52 min
+454 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Runnin' The Country](https://open.spotify.com/track/5NNa1fMOhdCJUgCqzFwmkG) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m), [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Any Less Anymore](https://open.spotify.com/album/7kzmnHQbgOfSfAl5oYw0w5) | 3:06 | 2023-06-15 | 2023-08-11 |
 | [Saddle Up](https://open.spotify.com/track/5c9WfcLbtsElPTrbuXENTD) | [Sabrina Durante](https://open.spotify.com/artist/5PesT0eGdPuhh1eljhtaX3) | [Saddle Up](https://open.spotify.com/album/2e1QPulh95Dpf14ZN4iOUo) | 3:08 | 2022-06-16 | 2022-08-12 |
 | [SAME SONGS](https://open.spotify.com/track/0nEWAK1WHWThcDJJOxwwWb) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1), [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [SAME SONGS](https://open.spotify.com/album/0ZSrpmlrCc6n8MHRpTlx1r) | 2:47 | 2022-07-14 | 2023-05-19 |
+| [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi) | 3:34 | 2023-09-21 |  |
 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/4Bee3PcNdfeqO1B80dDgFn) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:57 | 2023-06-08 |  |
 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/4Ldp4ixS1y6SinsEn44a23) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/album/31QoRLzmn0qTom75qfxEfE) | 3:57 | 2023-05-11 | 2023-06-11 |
 | [Save Me The Trouble](https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:20 | 2023-07-17 |  |

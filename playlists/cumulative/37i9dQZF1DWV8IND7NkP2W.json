@@ -472,7 +472,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 127595,
       "name": "afternoon shower",
       "url": "https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq"
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 166392,
       "name": "BIG BLUE",
       "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
@@ -2064,10 +2064,28 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 135819,
       "name": "Club Galactica",
       "url": "https://open.spotify.com/track/3ujzqVgfcJYifV5YsQJ6Ef"
+    },
+    {
+      "album": {
+        "name": "Club Galactica",
+        "url": "https://open.spotify.com/album/209yTaZWkdVAaSOP9wEkXx"
+      },
+      "artists": [
+        {
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135819,
+      "name": "Club Galactica",
+      "url": "https://open.spotify.com/track/5acrzaWCYDnt1An78q6y1N"
     },
     {
       "album": {

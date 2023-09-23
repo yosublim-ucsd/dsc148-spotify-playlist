@@ -4,7 +4,7 @@
 
 > cool music ft\. Riovaz
 
-303 songs - 13 hr 23 min
+308 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,11 +147,15 @@
 | [It's my fault you let me go](https://open.spotify.com/track/3C24svVc4UnvoQrRehTeP9) | [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [It's my fault you let me go](https://open.spotify.com/album/3GUQzitcE6iGJhsjkZUU0p) | 2:50 | 2023-08-04 | 2023-09-22 |
 | [J3TL4G](https://open.spotify.com/track/6ViKN734SFqotcu7XmZFny) | [M0P H3AD](https://open.spotify.com/artist/0zA5IIOAwQZ3hlGMyJLbKD), [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [J3TL4G](https://open.spotify.com/album/1N1pLTAoZZllU9T5f1tRX2) | 2:26 | 2023-06-16 | 2023-09-22 |
 | [jealousy](https://open.spotify.com/track/1moK2L5Y2bftYzpGrcOU5X) | [familypet](https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX), [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [jealousy](https://open.spotify.com/album/4RUrlqnlDk7HAQlruVR7SO) | 2:48 | 2022-12-09 | 2023-03-04 |
+| [Johnny johnny johnny](https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Wallsocket](https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv) | 4:05 | 2023-09-22 |  |
+| [June 17th](https://open.spotify.com/track/6DmOUU5qGAK28eXy1E1bHz) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [June 17th](https://open.spotify.com/album/6EFFFv8G2WZOsSYQR9ncPu) | 2:29 | 2023-09-22 |  |
 | [JUNKLOVER](https://open.spotify.com/track/5j4Q63V3VQQ9DtwJu1U0GP) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Sick Sad Obsession](https://open.spotify.com/album/2i5cPdBPvsRMfml8bhKqZb) | 2:11 | 2023-06-23 | 2023-08-05 |
 | [just like before \- sped up](https://open.spotify.com/track/3w8rxEsj85AOAjt4TUUXmW) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [just like before \- sped up / slowed](https://open.spotify.com/album/1bs3OVHVL7WsEB6fS8uoWv) | 3:35 | 2023-01-27 | 2023-04-15 |
 | [Keep It Tucked](https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Keep It Tucked](https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY) | 2:53 | 2022-12-09 | 2023-01-14 |
 | [Keys To My Brain](https://open.spotify.com/track/1FGijIBuOBCtzTzNYYodzS) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [Keys To My Brain](https://open.spotify.com/album/7yYnDnRO98K7g4bcwyd91g) | 1:45 | 2023-06-16 | 2023-09-22 |
+| [kickstand](https://open.spotify.com/track/2T6D4elLJtJs5V1DHhrDi1) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [kickstand](https://open.spotify.com/album/1zxNTb81sl4VthrXuolxNz) | 2:10 | 2023-09-22 |  |
 | [KIDS](https://open.spotify.com/track/7x8sUnnKHZsddQxLZeWwB4) | [auston ghost](https://open.spotify.com/artist/1wCjv2RGjyuHMJw2UAvjLO), [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp) | [KIDS](https://open.spotify.com/album/5merKL9SBjIDRuvFBavQ8z) | 2:42 | 2023-03-01 | 2023-04-15 |
+| [kids \- aldrch redux](https://open.spotify.com/track/0I48YwyKo5FsGBd2wXMRT1) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [industry standard](https://open.spotify.com/album/050G23X8h3mqMxb0TyKbiD) | 5:09 | 2023-09-22 |  |
 | [kill you](https://open.spotify.com/track/2P6F5d9X6V1ArHg5DJoWVG) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [post spring self destruction](https://open.spotify.com/album/3CoriDOCAUysBZPAbghdXo) | 2:30 | 2023-06-23 |  |
 | [know how it felt](https://open.spotify.com/track/4AXFBdy4wYLI4pwP1p9kqJ) | [familypet](https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX) | [coward](https://open.spotify.com/album/1vo8d9FSCr5UfDxHTL3IHc) | 3:20 | 2023-04-14 | 2023-09-22 |
 | [LADY](https://open.spotify.com/track/49LUs902uTt3X0OBz5nWb4) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd), [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e) | [LADY](https://open.spotify.com/album/3088SZvfQYnSQsAGsxUbgi) | 3:44 | 2023-06-16 | 2023-08-17 |
@@ -212,7 +216,7 @@
 | [Punksong](https://open.spotify.com/track/190XbsoF6JNbXk1K3ltQWk) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [memoryland](https://open.spotify.com/album/1afj4IR9BrWY65bk8kCglF) | 1:33 | 2022-12-04 | 2022-12-10 |
 | [Radio Cuts](https://open.spotify.com/track/4z8Np65HXuFFsikXFLPLfR) | [Jude Barclay](https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW) | [Radio Cuts](https://open.spotify.com/album/1AgoVr8MNQkwPR4z5dohPq) | 1:46 | 2022-12-04 | 2023-02-18 |
 | [random song](https://open.spotify.com/track/3mAypVO7bbdCHgJo5PlpKb) | [2504](https://open.spotify.com/artist/3s6Gdmnv9MuQNX2E7i5EMr), [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [random song](https://open.spotify.com/album/2u9P72xEjnCMDgGfqP676g) | 2:39 | 2023-03-17 | 2023-06-17 |
-| [ready set go](https://open.spotify.com/track/5tnlIXsXfQTTEptv129Swp) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [Gossip Team](https://open.spotify.com/album/4M5JeRShbMAjvl2829yyGM) | 2:46 | 2023-03-24 |  |
+| [ready set go](https://open.spotify.com/track/5tnlIXsXfQTTEptv129Swp) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [Gossip Team](https://open.spotify.com/album/4M5JeRShbMAjvl2829yyGM) | 2:46 | 2023-03-24 | 2023-09-23 |
 | [ready set go](https://open.spotify.com/track/621YYEli6NgMmjdJfTrMXX) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [ready set go](https://open.spotify.com/album/2s9HTzvrStFC5yGsg75slb) | 2:46 | 2023-03-24 | 2023-06-15 |
 | [recluse](https://open.spotify.com/track/2Vgp8Ah9NuTTKDfQykl0f8) | [kaido](https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX) | [recluse](https://open.spotify.com/album/4ccT27wMZSMNivrI0L2IJz) | 1:33 | 2023-08-01 |  |
 | [red](https://open.spotify.com/track/5xjCG1XNmz5eWkYMLrGFZl) | [KAI](https://open.spotify.com/artist/2ED7MMsMWd8NUHtTY0ywgi), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [red](https://open.spotify.com/album/0iagP7baVunZbTqg0ike7I) | 6:28 | 2023-04-21 |  |
@@ -246,6 +250,7 @@
 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-12-04 | 2022-12-25 |
 | [spotlight](https://open.spotify.com/track/5rHWZGatLsEldO8XFSwPX8) | [mioskii](https://open.spotify.com/artist/5ATiuD7BObN5uz3nIeepr4) | [spotlight](https://open.spotify.com/album/6py2UNIgqsWcrxMrJ2RYoq) | 2:56 | 2022-12-04 | 2023-06-17 |
 | [spotlight](https://open.spotify.com/track/6tq52AOqtrdflzU4SA4SHc) | [mioskii](https://open.spotify.com/artist/5ATiuD7BObN5uz3nIeepr4) | [spotlight](https://open.spotify.com/album/3fYonFGxkLex2Y1Aif6YLP) | 2:58 | 2022-12-04 | 2023-01-12 |
+| [STARCROSSED](https://open.spotify.com/track/35wWGaFCexpJAglVUgjTcL) | [Overpade](https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q) | [STARCROSSED](https://open.spotify.com/album/4juZSFXIo15KVgXnPeoVJp) | 2:52 | 2023-09-22 |  |
 | [starfruit](https://open.spotify.com/track/3k1pThlE9Yb7JNy32drS6Q) | [toast](https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC) | [starfruit](https://open.spotify.com/album/5AoomEUsHEC37DDjCJvAQu) | 3:21 | 2023-01-13 | 2023-04-15 |
 | [Started With](https://open.spotify.com/track/0HItsiWHdkju9IHa1wUAIv) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [Started With](https://open.spotify.com/album/0mvV5B0MFOk3UKWcSuVOte) | 2:05 | 2023-06-23 |  |
 | [stay close](https://open.spotify.com/track/2jajPzkjTecTxrcSBnb4J4) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [stay close](https://open.spotify.com/album/05CV2db056PerekmifWzfA) | 2:46 | 2023-01-27 | 2023-03-02 |

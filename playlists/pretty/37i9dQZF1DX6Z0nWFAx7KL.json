@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 37966,
+  "num_followers": 38081,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzMxZDgyZTBiM2RiMzliYTVkZTI3NTg4ZDMxZjUyMWU0ODY4N2U0",
+  "snapshot_id": "MCw3YjUzNTRiNWQ5NDJjODA1MGE2YWY1OTE3OTJlNDFjNjQ1MzA3NmVk",
   "tracks": [
     {
       "added_at": "2023-09-07 22:00:00",
@@ -175,22 +175,26 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Body on Fire",
-        "url": "https://open.spotify.com/album/3B90f5X9qYr2MFflbC8tRu"
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
       },
       "artists": [
         {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 159180,
-      "name": "Body on Fire",
-      "url": "https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV"
+      "duration_ms": 151820,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/0BLxPjFEOG8G1q8AKLuz3V"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -215,26 +219,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Feel Again",
-        "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
+        "name": "Body on Fire",
+        "url": "https://open.spotify.com/album/3B90f5X9qYr2MFflbC8tRu"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
         },
         {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
         }
       ],
-      "duration_ms": 151820,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/0BLxPjFEOG8G1q8AKLuz3V"
+      "duration_ms": 159180,
+      "name": "Body on Fire",
+      "url": "https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -535,18 +535,42 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Thousand Lullabies",
-        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
+        "name": "Someday (Latroit Edition)",
+        "url": "https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW"
       },
       "artists": [
         {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+          "name": "Lliam Taylor",
+          "url": "https://open.spotify.com/artist/2n01f3fehDpSvUQB3oYFFe"
+        },
+        {
+          "name": "Latroit",
+          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
+        },
+        {
+          "name": "Brea",
+          "url": "https://open.spotify.com/artist/5nVSKWXkINmkKxSSWfiPwM"
         }
       ],
-      "duration_ms": 129573,
-      "name": "Thousand Lullabies",
-      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
+      "duration_ms": 201656,
+      "name": "Someday (Latroit Edition)",
+      "url": "https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
+      },
+      "artists": [
+        {
+          "name": "Cookie Crumble",
+          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
+        }
+      ],
+      "duration_ms": 175169,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -571,6 +595,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Thousand Lullabies",
+        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        }
+      ],
+      "duration_ms": 129573,
+      "name": "Thousand Lullabies",
+      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Forgot How to Love",
         "url": "https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj"
       },
@@ -587,46 +627,6 @@
       "duration_ms": 149055,
       "name": "Forgot How to Love",
       "url": "https://open.spotify.com/track/2DyOstPCEqOJfBA4tcMC6t"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
-      },
-      "artists": [
-        {
-          "name": "Cookie Crumble",
-          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
-        }
-      ],
-      "duration_ms": 175169,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Someday (Latroit Edition)",
-        "url": "https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW"
-      },
-      "artists": [
-        {
-          "name": "Lliam Taylor",
-          "url": "https://open.spotify.com/artist/2n01f3fehDpSvUQB3oYFFe"
-        },
-        {
-          "name": "Latroit",
-          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
-        },
-        {
-          "name": "Brea",
-          "url": "https://open.spotify.com/artist/5nVSKWXkINmkKxSSWfiPwM"
-        }
-      ],
-      "duration_ms": 201656,
-      "name": "Someday (Latroit Edition)",
-      "url": "https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Juno Love",
-        "url": "https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38"
-      },
-      "artists": [
-        {
-          "name": "Nico Morano",
-          "url": "https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz"
-        },
-        {
-          "name": "Mewhy",
-          "url": "https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31"
-        }
-      ],
-      "duration_ms": 446585,
-      "name": "Juno Love",
-      "url": "https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Rest Of My Life",
         "url": "https://open.spotify.com/album/46dZ3gViTkdI4tJFQYIkul"
       },
@@ -743,22 +723,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
+        "name": "Juno Love",
+        "url": "https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38"
       },
       "artists": [
         {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+          "name": "Nico Morano",
+          "url": "https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz"
         },
         {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+          "name": "Mewhy",
+          "url": "https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31"
         }
       ],
-      "duration_ms": 239021,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
+      "duration_ms": 446585,
+      "name": "Juno Love",
+      "url": "https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -775,6 +755,26 @@
       "duration_ms": 190720,
       "name": "The Sea",
       "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 239021,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Dollar For A Dime",
+        "url": "https://open.spotify.com/album/1mU5hNit7ZSklzvUjEkZko"
+      },
+      "artists": [
+        {
+          "name": "Olly Wall",
+          "url": "https://open.spotify.com/artist/0dECg8f7i71ZYbIpsE0HRV"
+        },
+        {
+          "name": "DT James",
+          "url": "https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Dollar For A Dime",
+      "url": "https://open.spotify.com/track/11O5rC66Yk7sszOrQ7tB4r"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Escaping",
         "url": "https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 106315,
       "name": "Feeling Lost Tonight",
       "url": "https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Dollar For A Dime",
-        "url": "https://open.spotify.com/album/1mU5hNit7ZSklzvUjEkZko"
-      },
-      "artists": [
-        {
-          "name": "Olly Wall",
-          "url": "https://open.spotify.com/artist/0dECg8f7i71ZYbIpsE0HRV"
-        },
-        {
-          "name": "DT James",
-          "url": "https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Dollar For A Dime",
-      "url": "https://open.spotify.com/track/11O5rC66Yk7sszOrQ7tB4r"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Rooftop",
-        "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
       },
@@ -1407,18 +1387,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "I Can See",
-        "url": "https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk"
+        "name": "Rooftop",
+        "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
       },
       "artists": [
         {
-          "name": "Krister & Dalbani",
-          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         }
       ],
-      "duration_ms": 130500,
-      "name": "I Can See",
-      "url": "https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8"
+      "duration_ms": 199440,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1455,6 +1439,22 @@
       "duration_ms": 232917,
       "name": "About You",
       "url": "https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "I Can See",
+        "url": "https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk"
+      },
+      "artists": [
+        {
+          "name": "Krister & Dalbani",
+          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "I Can See",
+      "url": "https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8"
     },
     {
       "added_at": "2023-09-07 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,853 likes - 277 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,902 likes - 277 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -286,4 +286,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 276 | [Indigo Rum](https://open.spotify.com/track/36BbszCnXVtbWGNitSnSTE) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum \- Ambience](https://open.spotify.com/album/2GpVB5kuOjlvXc3gTv2HxM) | 2:34 |
 | 277 | [Rosé For Breakfast](https://open.spotify.com/track/7cO2sDDjsSG6altNBcy8h6) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Rosé For Breakfast](https://open.spotify.com/album/0afijbIAtcutNiEJZRwinE) | 2:44 |
 
-Snapshot ID: `MCw0ODdmMWE2OWM5YzYwYjZhNWNjYjY4ZmFhNDUzNWU4YmM2MDIxNDhm`
+Snapshot ID: `MCw0YzMwNGFkMTIxNTJmOTcyNWI1MzljNmNjMGE2ZDQ2YzcwOTkyMTg5`

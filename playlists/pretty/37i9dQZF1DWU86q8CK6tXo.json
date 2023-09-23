@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjAzZTkyOWE1NWEyYmNjNGQ1ZWM0Yjg1NmU0NTViYTQ4N2JjYzNm",
+  "snapshot_id": "MCxmMDQ4M2ZlMjcwMjgyMmRiMzUyZjM5MzJhMjVjYTk1MDNjZDc3NGFj",
   "tracks": [
     {
       "added_at": "2023-09-06 04:00:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
+        "name": "Now You See Me",
+        "url": "https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 115725,
+      "name": "Ick",
+      "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 127058,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
-        "name": "Rolling Up the Welcome Mat (For Good)",
-        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 139933,
-      "name": "Interlude (Full Length)",
-      "url": "https://open.spotify.com/track/7dSg4FtT2opE2O7O0bYcL2"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Now You See Me",
-        "url": "https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T"
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
       },
       "artists": [
         {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 115725,
-      "name": "Ick",
-      "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
+      "duration_ms": 139933,
+      "name": "Interlude (Full Length)",
+      "url": "https://open.spotify.com/track/7dSg4FtT2opE2O7O0bYcL2"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "If I'm Honest",
-        "url": "https://open.spotify.com/album/60xkllE0RluvMz1pko3C8f"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 162701,
-      "name": "If I'm Honest",
-      "url": "https://open.spotify.com/track/2Z7EZcoB3z8KLB1o0gY1aw"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "HAMMS IN A GLASS",
         "url": "https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM"
       },
@@ -555,22 +539,6 @@
       "duration_ms": 144960,
       "name": "HAMMS IN A GLASS",
       "url": "https://open.spotify.com/track/3249EJWdvR7xuLbXoxvLcJ"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc"
-      },
-      "artists": [
-        {
-          "name": "Jourden",
-          "url": "https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u"
-        }
-      ],
-      "duration_ms": 162162,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -591,6 +559,38 @@
       "duration_ms": 178242,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/1ZGiu67oe3wt3t6Lqoegqm"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc"
+      },
+      "artists": [
+        {
+          "name": "Jourden",
+          "url": "https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u"
+        }
+      ],
+      "duration_ms": 162162,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "If I'm Honest",
+        "url": "https://open.spotify.com/album/60xkllE0RluvMz1pko3C8f"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 162701,
+      "name": "If I'm Honest",
+      "url": "https://open.spotify.com/track/2Z7EZcoB3z8KLB1o0gY1aw"
     },
     {
       "added_at": "2023-09-06 04:00:00",

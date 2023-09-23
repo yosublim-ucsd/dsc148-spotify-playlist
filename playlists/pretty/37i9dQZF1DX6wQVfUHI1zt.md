@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,922 likes - 120 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,000 likes - 120 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 63 | [Como Te Extrano](https://open.spotify.com/track/1xXacwtojBabEce1MTLvkY) | [Pete Astudillo](https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY) | [Tejano Award Nominees](https://open.spotify.com/album/593414IuPj6r0WKUnqAdBy) | 3:50 |
 | 64 | [Amor Querido](https://open.spotify.com/track/3Wx6K6u4Q13a4lbdCLlXjR) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [12 Favoritas](https://open.spotify.com/album/6AAXyPYIMRcRSJjsboOZdk) | 4:00 |
 | 65 | [Hasta Cuando](https://open.spotify.com/track/6qawPmwCkK6BLcKVwtIfuy) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke), [Los Musicales](https://open.spotify.com/artist/71Vi0mhi8ZgBczjBNJlLah) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:26 |
-| 66 | [Rosas Para Una Rosa](https://open.spotify.com/track/4upZxV6D7P9tRoHPssVGTx) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:32 |
-| 67 | [Ay Mujer](https://open.spotify.com/track/55YYsAeziwm3etSsQsOIHj) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [ANTHOLOGY: BACK IN THE DAY](https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE) | 2:49 |
+| 66 | [Ay Mujer](https://open.spotify.com/track/55YYsAeziwm3etSsQsOIHj) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [ANTHOLOGY: BACK IN THE DAY](https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE) | 2:49 |
+| 67 | [Rosas Para Una Rosa](https://open.spotify.com/track/4upZxV6D7P9tRoHPssVGTx) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:32 |
 | 68 | [Amor Prohibido](https://open.spotify.com/track/7ii1YH0rOmpoRfH9HyY8To) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:44 |
 | 69 | [Tú, Solo Tú](https://open.spotify.com/track/2yvg28oa8lHSenq7nJ5Ss2) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:12 |
 | 70 | [Disco Medley \- Live From Astrodome](https://open.spotify.com/track/1WQul0oQcE4hUTW40G1gWu) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 7:43 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 119 | [¿Qué Será?](https://open.spotify.com/track/2Jgu37m4rGRGhmaS0W9JMv) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 3:39 |
 | 120 | [Vuelvo](https://open.spotify.com/track/0oj2y6H2rneQ1QV4lLkTyG) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [Lo Basico](https://open.spotify.com/album/2hruqNk86ciCeHpUv0tggC) | 4:15 |
 
-Snapshot ID: `MCxkODVkZjFkOGEzNGEyMzMwZmY5MmE2YTdmM2EyOTU1YWJmMWViNDM1`
+Snapshot ID: `MCwxMmFmZTM4NmNlNjBkZWEzMmYzZWE2YTBiNTcxZjhlOThlMGYyNWM0`

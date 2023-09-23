@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Bringing in the heat every Thursday\. 🔥 Listen to all the mixtapes <a href="spotify:genre:0JQ5DAqbMKFNhzOQgaEZ0b">here</a>\. Cover: Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,912,460 likes - 25 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,913,031 likes - 25 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 24 | [GOZANDO](https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [GOZANDO](https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH) | 2:51 |
 | 25 | [PROVENZA \- REMIX](https://open.spotify.com/track/7xHNDiHAqzjIKKeR8f5vhH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 3:07 |
 
-Snapshot ID: `MCxiZmRiY2ZkNjhmYmY2YmM3ZTliM2E2MzNmMDJkYzQ0NGU0OWFmNGVj`
+Snapshot ID: `MCxkOGRhNWQ5MDVmM2Y1YTdiMjNlNDBhYTEwNTk5YjllZDc2YWU4NDg2`

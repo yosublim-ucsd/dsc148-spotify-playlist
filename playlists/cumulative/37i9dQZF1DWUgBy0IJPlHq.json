@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Stephen Wilson Jr. ",
+  "description": "A new shade of Country. Cover: Charles Wesley Godwin",
   "name": "Indigo",
   "tracks": [
     {
@@ -494,7 +494,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 168300,
       "name": "All That I Have",
       "url": "https://open.spotify.com/track/40ukFTH8s3ELTyGF25P1R7"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 186635,
       "name": "Dancing in the Sky",
       "url": "https://open.spotify.com/track/1M0POGmdV86bx026Ky2ip8"
@@ -4355,6 +4355,28 @@
     },
     {
       "album": {
+        "name": "In Between (feat. Ken Pomeroy)",
+        "url": "https://open.spotify.com/album/732GuhMPyi5dReK5Ebyvdm"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        },
+        {
+          "name": "Ken Pomeroy",
+          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153793,
+      "name": "In Between (feat. Ken Pomeroy)",
+      "url": "https://open.spotify.com/track/5NpBOItPWmAFR4V5rayGAS"
+    },
+    {
+      "album": {
         "name": "Long Time Coming",
         "url": "https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB"
       },
@@ -4700,7 +4722,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 172386,
       "name": "Just Like Honey - Billy Horton Sessions",
       "url": "https://open.spotify.com/track/60TMSnA1iwOZlDZRgrFMCO"
@@ -5445,6 +5467,24 @@
     },
     {
       "album": {
+        "name": "Family Ties",
+        "url": "https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276880,
+      "name": "Miner Imperfections",
+      "url": "https://open.spotify.com/track/4GCtc95vUfhaa673o1vbv6"
+    },
+    {
+      "album": {
         "name": "Misery And Gin",
         "url": "https://open.spotify.com/album/55LBQ89hsBDsC1RTFQCaZZ"
       },
@@ -5536,6 +5576,24 @@
       "duration_ms": 249920,
       "name": "Mountain Song",
       "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
+    },
+    {
+      "album": {
+        "name": "Western White Pines (Deluxe)",
+        "url": "https://open.spotify.com/album/6FhBeqNsOEnj1RHGeVlgae"
+      },
+      "artists": [
+        {
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161484,
+      "name": "Movin'",
+      "url": "https://open.spotify.com/track/5mwr49vu0RI3RJG8NLiJ1z"
     },
     {
       "album": {
@@ -5944,7 +6002,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 245373,
       "name": "Outlaw in Me",
       "url": "https://open.spotify.com/track/1xKNbEB3wHDttLRmOkXfYa"
@@ -6733,6 +6791,28 @@
     },
     {
       "album": {
+        "name": "Sarah's Place (feat. Noah Kahan)",
+        "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214056,
+      "name": "Sarah's Place (feat. Noah Kahan)",
+      "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
+    },
+    {
+      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
       },
@@ -7040,7 +7120,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 254258,
       "name": "Something in the Orange - Z&E's Version",
       "url": "https://open.spotify.com/track/7lNmcW2wW6ciV9Rhh8YOMe"
@@ -8141,6 +8221,24 @@
     },
     {
       "album": {
+        "name": "Million Eyes",
+        "url": "https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216311,
+      "name": "Till I Return",
+      "url": "https://open.spotify.com/track/5bi8RvkKme1gAWymqVbhSR"
+    },
+    {
+      "album": {
         "name": "The Man from Waco",
         "url": "https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV"
       },
@@ -8588,6 +8686,24 @@
       "duration_ms": 202693,
       "name": "Welcome 2 Club XIII",
       "url": "https://open.spotify.com/track/0CqQEFDDgVBj4VZAH5C43S"
+    },
+    {
+      "album": {
+        "name": "West Of Tulsa",
+        "url": "https://open.spotify.com/album/42B5HibLdk0bbfsG8atoOU"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203130,
+      "name": "West Of Tulsa",
+      "url": "https://open.spotify.com/track/30CTixQQMXTkbBUKrLQpbe"
     },
     {
       "album": {

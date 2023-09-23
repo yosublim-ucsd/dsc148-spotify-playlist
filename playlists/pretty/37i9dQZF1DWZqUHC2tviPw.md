@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 
 > Instrumental beats to boost your weight lifting workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,775 likes - 155 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,845 likes - 155 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 17 | [Hunch](https://open.spotify.com/track/0Ha38zN6QMVjRKTbJYhjZ9) | [Azucares](https://open.spotify.com/artist/4nBe4luXcnZ8QqpoyZq4OC) | [Hunch / Qwuan](https://open.spotify.com/album/3VLPMI6Fx93tcU3FjuhtGJ) | 2:41 |
 | 18 | [Apolitikio](https://open.spotify.com/track/7gnP8uPbqEzAMNcJLTq6FU) | [Sardos97](https://open.spotify.com/artist/119BqJ7qRURlIOb22caU5W) | [Unreleased 2002\-2022 Vol.2](https://open.spotify.com/album/3pRq2E9J7ifJ7Zf7YJ2N0D) | 2:22 |
 | 19 | [Unleashed](https://open.spotify.com/track/6OoCs6YivnKTUwZ2iLjOHi) | [HiveMind](https://open.spotify.com/artist/4J3kswR8gVfSE4sOIwNeLA) | [Unleashed](https://open.spotify.com/album/6wVqII9WsXzgC3GFgnjTu5) | 3:22 |
-| 20 | [Scam](https://open.spotify.com/track/0UCx2yz0P5Am3tDEZMlaLR) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Scam](https://open.spotify.com/album/31MjbJLu4imw8ZWNRjQk5I) | 2:46 |
+| 20 | [Scam](https://open.spotify.com/track/6R9RkocTuXcrdESsnTlwC3) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Scam](https://open.spotify.com/album/62J8F6JtP7ryZfmATk8oGg) | 2:46 |
 | 21 | [Count Your Blessings](https://open.spotify.com/track/1NbWD40pGtLkGpY1NMsyRX) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Outcast Society](https://open.spotify.com/album/50X5rlLKcD0wFWPsNTdpRu) | 2:33 |
 | 22 | [No home no future](https://open.spotify.com/track/62SxyqZXXVlDAycfkS1kj1) | [Captain XY](https://open.spotify.com/artist/0fYeCYtwaOrxHt0Wwkbb1t) | [No home no future](https://open.spotify.com/album/6eXnhjk6FecIfcvcqni0iH) | 2:23 |
 | 23 | [Willfully Blind](https://open.spotify.com/track/4WGL5cz4peREOVOv8FWemf) | [Nowhere Now Here](https://open.spotify.com/artist/28VTxH3Tc2T5tamVQGYnI6) | [Willfully Blind](https://open.spotify.com/album/16tMBxkZLCfnK6ngq0q8FQ) | 2:25 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 54 | [ELECTRICITY](https://open.spotify.com/track/0DlOpwlheQMUoOx0f5euC8) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [XTC](https://open.spotify.com/album/2jugoFHJTnh2ImByqF2mZ3) | 2:30 |
 | 55 | [Conclusions](https://open.spotify.com/track/3i9AGr31OTTym77Mzev1Qz) | [Elvaka](https://open.spotify.com/artist/3hY8LSEpccoTSfR8KWjJBE) | [Conclusions](https://open.spotify.com/album/1BKqVuITpB1tSBlxTZCtWX) | 1:44 |
 | 56 | [High\-Rise](https://open.spotify.com/track/4lKMHHKOJ9Fvvuaqrf8SvA) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [High\-Rise](https://open.spotify.com/album/75FfMyLsBr70S5m9IEtRjp) | 2:31 |
-| 57 | [Straight Heat](https://open.spotify.com/track/2MzBF1zSL1ODy1hv74VJuv) | [Dr\. J](https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Straight Heat](https://open.spotify.com/album/6iZodCOpJ1HHSDq0WHs9A8) | 2:38 |
+| 57 | [Straight Heat](https://open.spotify.com/track/1eCgnpYRYrTVG7labz3X9a) | [Dr\. J](https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Straight Heat](https://open.spotify.com/album/57xSctKB3TPYdIHhZsxYGu) | 2:38 |
 | 58 | [ALONE](https://open.spotify.com/track/0sufKKoOv3vi1oghbBtY0L) | [ZERIUS](https://open.spotify.com/artist/5BbcAuQREj8NxK6EG1dnmc), [MRJay](https://open.spotify.com/artist/24PhFqIM2MOH9oAVnPzfRe) | [ALONE](https://open.spotify.com/album/476Hp48mzF4ZHOKnDFy91u) | 2:58 |
 | 59 | [Face It](https://open.spotify.com/track/4ZXF3d2gryQUhiVfNOTM56) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Love for Drill](https://open.spotify.com/album/5ilOUMe6p4roT9ZViobEC6) | 2:59 |
 | 60 | [I Won](https://open.spotify.com/track/0FwGhS0DqxoIztkWFeKHfq) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [Lunchbox](https://open.spotify.com/album/0gyxp0W1gjg7AREo5rBrgO) | 3:14 |
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 113 | [Classics](https://open.spotify.com/track/46DIcl7UFS8sw7LEJx03zd) | [Type Beats](https://open.spotify.com/artist/63ptKgVn8Gh1Zc8BZMYKze) | [LA instrumentals BKP](https://open.spotify.com/album/4Rjj8lNDBisPqsSTbMgdiT) | 1:33 |
 | 114 | [Them](https://open.spotify.com/track/4ySBPKrqsXLY4Gwz0h2H2C) | [Thip Trong](https://open.spotify.com/artist/6vbequGJ52lQZ2u4ZfEjO2) | [Them / Daraba](https://open.spotify.com/album/4lZTUBQEIm2d2PwKHLU8Kq) | 2:38 |
 | 115 | [Stack It](https://open.spotify.com/track/6Fpl9m5ihNUuNWXNkNif6i) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Giggin](https://open.spotify.com/album/5MCf2Q4N6Jolv1vOmMCpTO) | 2:36 |
-| 116 | [Half Way](https://open.spotify.com/track/7nVLCGdcpIWaAizdRRvmKG) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Half Way](https://open.spotify.com/album/0zb0u64c1aQOSRh7zLxoMT) | 2:56 |
+| 116 | [Half Way](https://open.spotify.com/track/2d9zoxSgfgUQnwwvyRW5Fh) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Half Way](https://open.spotify.com/album/3YxGww927qj7P3nd7lQwr3) | 2:56 |
 | 117 | [Erupción](https://open.spotify.com/track/4yP4xQ4xpLziT9uKMZSTSr) | [Reli Beats](https://open.spotify.com/artist/533xFrFfSzMUl4IvUT7YH5), [Azerbeats](https://open.spotify.com/artist/595CdU8Gay4WhfvkmX7w3T) | [Erupción](https://open.spotify.com/album/6lbFFtcNaBHaQZvSAizyZ8) | 2:33 |
 | 118 | [WhirligiG](https://open.spotify.com/track/04DyIqLxOCBoJz6TLniVOc) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Shell Games](https://open.spotify.com/album/1QJkOlBuUBIcs5mE4ePhOo) | 2:39 |
 | 119 | [Trapped](https://open.spotify.com/track/2REWMmkPCYbvxlKaIncUk6) | [Trill Beats Bangin'](https://open.spotify.com/artist/3lsqjedxoWGa4hFpzECSmi) | [Trapped](https://open.spotify.com/album/5Bn1qc91MUZO5U9dDh4bQb) | 3:53 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 154 | [Theme](https://open.spotify.com/track/6LGzIiVow9pEHzSc7Z2NC5) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Theme](https://open.spotify.com/album/7HWzZzrVY6lIhyoO2V9wL6) | 2:35 |
 | 155 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 |
 
-Snapshot ID: `MCw5NmQ5MzY5YjM1YzQ2YTkwMDEzYjMwNDUwMmJkZTE0NmEyNGM1NTJm`
+Snapshot ID: `MCxhNDEwY2M3ZWMyOGYwYWM0MWY1YWMzOTMxMDMxY2IwYWI2ZjUxNDg0`

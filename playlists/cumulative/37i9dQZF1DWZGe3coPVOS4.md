@@ -4,7 +4,7 @@
 
 > The perfect family party playlist \- jam packed with all your favorite KIDZ BOP hits.
 
-53 songs - 2 hr 35 min
+54 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [CUFF IT](https://open.spotify.com/track/3kqt8hGL5eLHxcwMiPwmlF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 3:00 | 2023-07-14 |  |
 | [Cupid](https://open.spotify.com/track/4I88Qa7TIAUyaSqzyYeMNT) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Cupid](https://open.spotify.com/album/2Axtzhd5r3gMzLBC1rLMwv) | 2:44 | 2023-08-18 |  |
 | [Dance Monkey](https://open.spotify.com/track/1POnhYNNZI7mmIqTsYK9LC) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 3:20 | 2023-06-09 |  |
+| [Dance The Night](https://open.spotify.com/track/0uP9i8YhU9T1ngD21zcca7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Dance The Night](https://open.spotify.com/album/1ABqWB0UfHZ6EHntUk6q8F) | 2:56 | 2023-09-22 |  |
 | [Dynamite](https://open.spotify.com/track/1SjPz95ZuP97C64qP7Whvx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 3:17 | 2023-06-09 |  |
 | [Flowers](https://open.spotify.com/track/6r7oPntmW7s4wOmLJIeWOa) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 3:10 | 2023-07-14 |  |
 | [Flowers](https://open.spotify.com/track/36xgp2oZvWKr9brPCDPwXo) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Flowers](https://open.spotify.com/album/282czDRgkk3LXbyXGLZzwW) | 3:11 | 2023-06-09 | 2023-07-15 |

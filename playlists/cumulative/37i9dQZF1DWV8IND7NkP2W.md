@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-659 songs - 1 day 5 hr 38 min
+660 songs - 1 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Afternoon coffee](https://open.spotify.com/track/3KXDFfFbo3U3DW4pTmiKNp) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Lonely Girl](https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO) | 2:27 | 2022-07-28 | 2023-03-10 |
 | [Afternoon Rain](https://open.spotify.com/track/1iJnHe4sAY9GIaXKWv3gly) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn), [Tyrone Hendrix](https://open.spotify.com/artist/6uBaKLoAcF7BV7gPHFa6Ev), [BrandonLee Cierley](https://open.spotify.com/artist/12YcQzIva0Bw4PVZVYuFjW) | [Afternoon Rain](https://open.spotify.com/album/3Ct0VS2eZA3QiVJXjwrhJR) | 2:53 | 2022-07-28 | 2023-04-27 |
 | [Afternoon Rain](https://open.spotify.com/track/5mpUj2p05omEr65a7DIJLS) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn), [Tyrone Hendrix](https://open.spotify.com/artist/6uBaKLoAcF7BV7gPHFa6Ev), [BrandonLee Cierley](https://open.spotify.com/artist/12YcQzIva0Bw4PVZVYuFjW) | [Afternoon Rain](https://open.spotify.com/album/45ZDGJk840ObsQ4DnKiW3f) | 2:53 | 2022-01-06 | 2022-04-15 |
-| [afternoon shower](https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [afternoon shower](https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1) | 2:07 | 2022-01-27 |  |
+| [afternoon shower](https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [afternoon shower](https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1) | 2:07 | 2022-01-27 | 2023-09-23 |
 | [Agua](https://open.spotify.com/track/1FxClYw5oCPtta2I6jsqP1) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [Agua](https://open.spotify.com/album/0O0cMYT5mf86GEswEyH3D0) | 2:00 | 2021-12-23 |  |
 | [Aimi](https://open.spotify.com/track/2xEXBZnQcVZvLpUjeaIUE6) | [Akimitsu](https://open.spotify.com/artist/3Clf0gHl3UQ2r5rFlTrfku) | [Aimi](https://open.spotify.com/album/1XPjRCV2dXW1YeZeGClE23) | 1:55 | 2022-03-24 | 2022-04-21 |
 | [AIRPLANE](https://open.spotify.com/track/4sbyEn8z6ZInVFHG9dMX2H) | [niafrasco](https://open.spotify.com/artist/4qjD6ngB2GaiIoWc6Xws42) | [AIRPLANE](https://open.spotify.com/album/4xXPSCOmahxADTYOhb3b1l) | 3:42 | 2021-12-23 | 2022-07-28 |
@@ -64,7 +64,7 @@
 | [Beneath The Neon](https://open.spotify.com/track/7ox6hzEN6C4H3QmQdNpr7B) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Beneath The Neon](https://open.spotify.com/album/1yXlNddUUTar1TjIKgrqze) | 2:52 | 2021-12-23 | 2022-06-07 |
 | [Berlin Tsukin](https://open.spotify.com/track/0MHOzZBDrPjBocW11I2Ht6) | [Mr\. Shirai](https://open.spotify.com/artist/6nndu85w7OaaggJul6H0GH) | [Bi\-To Te\-Pu](https://open.spotify.com/album/58sIfXaBn3HkCmbCRJkCJr) | 3:12 | 2021-12-23 | 2022-05-08 |
 | [Better](https://open.spotify.com/track/1Z3Opl0WBbb4nwlC0OrmRS) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [Better](https://open.spotify.com/album/5AjAkPY3G83TEgxx3BsAdN) | 2:51 | 2021-12-23 | 2022-07-27 |
-| [BIG BLUE](https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [BIG BLUE](https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl) | 2:46 | 2021-12-23 | 2023-05-08 |
+| [BIG BLUE](https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [BIG BLUE](https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl) | 2:46 | 2021-12-23 |  |
 | [Big Love](https://open.spotify.com/track/7hAoj5A44i1zsRS3dNrgDP) | [Tokoyo](https://open.spotify.com/artist/1uRrPMRitqSxmERD5N5NWF) | [Big Love](https://open.spotify.com/album/3TZoRNW7wTqD0jVsrqhnon) | 2:00 | 2021-12-23 | 2022-07-29 |
 | [Bike Rides](https://open.spotify.com/track/0l90JTBQ4ssx6tcim4FSQW) | [Kinissue](https://open.spotify.com/artist/4CSOdm2yCuB71TxCfV105e), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Bike Rides](https://open.spotify.com/album/38N1fjUHe6koBsO5yoHF88) | 1:47 | 2022-03-31 | 2022-04-20 |
 | [bitter soil](https://open.spotify.com/track/5xmX8H9bWWlGZrs7UBuYLJ) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [bitter soil](https://open.spotify.com/album/6rzVxkkcRVKGjAZO2KkEUB) | 2:06 | 2022-07-28 | 2022-08-01 |
@@ -114,7 +114,8 @@
 | [City of light](https://open.spotify.com/track/2pZU6TxP0plWGCgokINl0L) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [City of light](https://open.spotify.com/album/3ELd8P2DfszfoqL1H5cUTv) | 3:29 | 2021-12-23 | 2022-07-26 |
 | [City of light](https://open.spotify.com/track/4BJ5BgS91QUV094LD8B7yp) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [City of light](https://open.spotify.com/album/77fLZ8RFyF00tSuGQoectU) | 3:29 | 2022-07-28 |  |
 | [Clockwork Mural](https://open.spotify.com/track/4UcmzdeARm6JxkcIaewtA5) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Clockwork Mural](https://open.spotify.com/album/1BcfqIzdgOtWzzSL7Hrqvc) | 2:25 | 2022-05-26 | 2022-06-19 |
-| [Club Galactica](https://open.spotify.com/track/3ujzqVgfcJYifV5YsQJ6Ef) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Club Galactica](https://open.spotify.com/album/0EaQbp7V4ippcrJabW6w3g) | 2:15 | 2023-09-21 |  |
+| [Club Galactica](https://open.spotify.com/track/3ujzqVgfcJYifV5YsQJ6Ef) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Club Galactica](https://open.spotify.com/album/0EaQbp7V4ippcrJabW6w3g) | 2:15 | 2023-09-21 | 2023-09-23 |
+| [Club Galactica](https://open.spotify.com/track/5acrzaWCYDnt1An78q6y1N) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Club Galactica](https://open.spotify.com/album/209yTaZWkdVAaSOP9wEkXx) | 2:15 | 2023-09-21 |  |
 | [Coffee break with him](https://open.spotify.com/track/475cCO8ac84X7j34ilKNgo) | [CRAM](https://open.spotify.com/artist/2kuzzESZpVYXEbJPF1o82D), [matatabi](https://open.spotify.com/artist/789AFt8ySj9w5pcaSniyMz) | [LOOPER](https://open.spotify.com/album/5Xnk9x6LUOR2qdERcEcuG7) | 1:59 | 2021-12-23 | 2022-07-28 |
 | [Cold Concrete](https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Cold Concrete](https://open.spotify.com/album/6v2LK3CCHzFmZKQea6UYPV) | 3:11 | 2022-03-03 | 2023-08-04 |
 | [Cold Lot](https://open.spotify.com/track/2CzYZfWwm2YF42vlHKCnOU) | [Burgundy Groove](https://open.spotify.com/artist/5KV5ps8Us33zxiMIED2dtt) | [Cold Lot](https://open.spotify.com/album/5zSkglZonnik5z9Bsr97xQ) | 1:40 | 2021-12-23 | 2022-01-01 |

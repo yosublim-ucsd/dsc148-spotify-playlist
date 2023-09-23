@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Wazir Patar
 
-207 songs - 9 hr 58 min
+209 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Taur Jattan Di](https://open.spotify.com/track/71cVODnoVVC86J0r4VGEjT) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Kulbir Jhinjer](https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n) | [Taur Jattan Di](https://open.spotify.com/album/2bc7sswbaQOshk7bppuP4K) | 2:52 | 2023-03-29 | 2023-07-15 |
 | [Tera Canada](https://open.spotify.com/track/7ghypi2mLGlUPzwbcfPTNe) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [Tera Canada](https://open.spotify.com/album/01bK2JE8QRNyNA6Tb79j3Z) | 3:20 | 2023-08-10 |  |
 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 | 2023-03-29 |  |
+| [The Remains](https://open.spotify.com/track/3TCUE8qX8FCLORzzvl3So4) | [Bhalwaan](https://open.spotify.com/artist/0B6Y4zlto5DbCaU6eNLvXi), [Signature By SB](https://open.spotify.com/artist/5uhcvmuj3X2tr8ooCLrUAx) | [The Blueprint](https://open.spotify.com/album/72dsaX2bPjbD1UuwSteXUx) | 2:47 | 2023-09-22 |  |
 | [Tinted Windows](https://open.spotify.com/track/6KLca4Dxyf5ArZoyqgmwhr) | [Jimmy Wraich](https://open.spotify.com/artist/0ov4rQDHNfsZkRxsIZ6kzL), [Crispy Dondada](https://open.spotify.com/artist/03kKbaYoK0KB2xv7Q1FRKv), [Romeoz](https://open.spotify.com/artist/0YaSt6aMB7uVjmA52IwYPX) | [Tinted Windows](https://open.spotify.com/album/0gnxxwuDgP2gvVSXbSgY57) | 3:12 | 2023-08-22 | 2023-09-12 |
 | [Top Flame](https://open.spotify.com/track/3u6jK5KR1ijBCUs4CLzV9c) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Top Flame](https://open.spotify.com/album/2DcComXPapapQcGrNSuPkt) | 2:44 | 2023-09-20 |  |
 | [Toy](https://open.spotify.com/track/14pPJbEMx6JZU8RItbY1Vq) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON) | [Toy](https://open.spotify.com/album/4VrAmKqAphRMoDcYno8V25) | 3:04 | 2023-03-29 |  |
@@ -209,6 +210,7 @@
 | [Westside](https://open.spotify.com/track/2dUX9zE4jvLbSoLME77qz1) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Grit 2 Glory](https://open.spotify.com/album/4FRL6MDkCyQdyHi6umE2af) | 3:08 | 2023-07-27 | 2023-08-04 |
 | [WHIPZ](https://open.spotify.com/track/6iXe41VKKp4qhUHkck3PLn) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW) | [WHIPZ](https://open.spotify.com/album/5wHzhNd4mvCJDLElJ4863a) | 2:15 | 2023-06-23 |  |
 | [White Brown Black](https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [White Brown Black](https://open.spotify.com/album/3rOSq53b9Cv7ygKe5NwKNJ) | 2:55 | 2023-06-19 |  |
+| [Who's Who](https://open.spotify.com/track/5w3Ali1DzhSM2EZXRdemJR) | [Bhalwaan](https://open.spotify.com/artist/0B6Y4zlto5DbCaU6eNLvXi), [Signature By SB](https://open.spotify.com/artist/5uhcvmuj3X2tr8ooCLrUAx) | [The Blueprint](https://open.spotify.com/album/72dsaX2bPjbD1UuwSteXUx) | 2:11 | 2023-09-22 |  |
 | [Whose Like Me?](https://open.spotify.com/track/5lll5binzbUZayl3Mejxah) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Whose Like Me?](https://open.spotify.com/album/09kYxPLZNnPt0NUWDXEl0C) | 2:41 | 2023-07-20 |  |
 | [Winnipeg](https://open.spotify.com/track/0bErpkWdMqlXPJZfTEdbE9) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8) | [Winnipeg](https://open.spotify.com/album/3M42ugNB65SAMYKZRJ0F2F) | 3:23 | 2023-04-26 | 2023-05-06 |
 | [Ykwim](https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Ykwim](https://open.spotify.com/album/14XBYP5RcavbvSREiaQ17V) | 3:14 | 2023-03-29 | 2023-07-15 |

@@ -1,12 +1,12 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 465277,
+  "num_followers": 465410,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWZlODIyYThkNWM2MjIyYjEwNWNiYTZkNGFkM2Q1M2E5MGMyNDQ2",
+  "snapshot_id": "MCwxYjJkZDcyY2JlMzNiNzBjMjk2MDVhOWFiMGMyNjcxZDJhMzZiOTQy",
   "tracks": [
     {
       "added_at": "2023-08-08 22:15:15",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "How Will You Know If You Never Try",
-        "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Talk Too Much",
-      "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 169472,
       "name": "I've Been In Love",
       "url": "https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "How Will You Know If You Never Try",
+        "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
     },
     {
       "added_at": "2023-08-04 12:43:17",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 129240,
       "name": "Backyard Boy",
       "url": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Dance Fever",
-        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 234857,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "Free Nationals",
         "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 233880,
       "name": "Light On",
       "url": "https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "Dance Fever",
+        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 234857,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-07-24 22:20:42",
       "album": {
-        "name": "My Type EP",
-        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 230773,
-      "name": "Cold Cold Man",
-      "url": "https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F"
-    },
-    {
-      "added_at": "2023-07-24 22:20:42",
-      "album": {
         "name": "space girl",
         "url": "https://open.spotify.com/album/2kTyJsKMpVKd3dv87ePucD"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 231440,
       "name": "space girl",
       "url": "https://open.spotify.com/track/7FjIYiD53wxlQmzTT6Wdpf"
+    },
+    {
+      "added_at": "2023-07-24 22:20:42",
+      "album": {
+        "name": "My Type EP",
+        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 230773,
+      "name": "Cold Cold Man",
+      "url": "https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F"
     },
     {
       "added_at": "2023-07-24 22:20:42",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Alvvays",
-        "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Archie, Marry Me",
-      "url": "https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "All We Ever Do Is Talk",
         "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 226133,
       "name": "All We Ever Do Is Talk",
       "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "Alvvays",
+        "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Archie, Marry Me",
+      "url": "https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Seventeen Going Under (Deluxe)",
-        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Getting Started",
-      "url": "https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "Gone Now",
         "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Tip Toe",
-        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
       },
       "artists": [
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 224725,
-      "name": "Tip Toe",
-      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
+      "duration_ms": 189360,
+      "name": "Getting Started",
+      "url": "https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1559,6 +1543,22 @@
       "duration_ms": 252987,
       "name": "Roddy",
       "url": "https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "Tip Toe",
+        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 224725,
+      "name": "Tip Toe",
+      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf"
-      },
-      "artists": [
-        {
-          "name": "Landon Conrath",
-          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
-        }
-      ],
-      "duration_ms": 153697,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "Blood Bunny",
         "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 179573,
       "name": "I Want To Be With You",
       "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf"
+      },
+      "artists": [
+        {
+          "name": "Landon Conrath",
+          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
+        }
+      ],
+      "duration_ms": 153697,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA"
     },
     {
       "added_at": "2023-07-24 22:20:42",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "One That Got Away",
-        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+        "name": "Landmark",
+        "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
       },
       "artists": [
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
         }
       ],
-      "duration_ms": 232266,
-      "name": "One That Got Away",
-      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
+      "duration_ms": 226610,
+      "name": "Buttercup",
+      "url": "https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI"
     }
   ],
   "unique_name": "Summer Indie",

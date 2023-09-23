@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 103420,
+  "num_followers": 103446,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2NkMDhhM2Q1NmJiZTZmZjBhNzQ5NDNmODYxNWVkMzk3NzBlNzFh",
+  "snapshot_id": "MCxjOTg0MTI4MWY3MjU4OWU3YjM3ZmExNGE5M2UxMjI3ZWNiZWVhZmVk",
   "tracks": [
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "D\u00e9jame Dejarte Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 204775,
+      "name": "D\u00e9jame Dejarte Atr\u00e1s",
+      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/0DDUTF4YqIOsUpq9MOqWMo"
       },
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "D\u00e9jame Dejarte Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
+        "name": "Ni\u00f1o Eterno",
+        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
       },
       "artists": [
         {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
         }
       ],
-      "duration_ms": 204775,
-      "name": "D\u00e9jame Dejarte Atr\u00e1s",
-      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
+      "duration_ms": 161617,
+      "name": "Nin\u0303o Eterno",
+      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1063,22 +1079,6 @@
       "duration_ms": 88957,
       "name": "Si No Es As\u00ed",
       "url": "https://open.spotify.com/track/687EDCtBggHXjS1HxfILjB"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Ni\u00f1o Eterno",
-        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Nin\u0303o Eterno",
-      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
     },
     {
       "added_at": "2023-09-08 03:00:00",

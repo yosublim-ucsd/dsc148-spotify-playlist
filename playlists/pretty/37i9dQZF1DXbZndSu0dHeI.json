@@ -1,12 +1,12 @@
 {
   "description": "Sometimes it's nice to be nice, you know.",
-  "num_followers": 184670,
+  "num_followers": 184806,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTcyMjVkODE2ZGMwYThjN2RiMjVhMDM5ZWUwZDhjYmM2NGE0MWY3",
+  "snapshot_id": "MCw3OTI1OTNhMmY3MzZiNzEzZTYwNTZkZDJlZGUxNDFlYjI2ZDczNGQx",
   "tracks": [
     {
       "added_at": "2022-08-05 10:31:40",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Mouthfuls",
-        "url": "https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "When U Love Somebody",
-      "url": "https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC"
-    },
-    {
       "added_at": "2023-07-04 22:20:24",
       "album": {
         "name": "yeti",
@@ -535,18 +519,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Wachito Rico",
-        "url": "https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5"
+        "name": "Mouthfuls",
+        "url": "https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2"
       },
       "artists": [
         {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
         }
       ],
-      "duration_ms": 254885,
-      "name": "honey",
-      "url": "https://open.spotify.com/track/6pXe0HxGT1xufKGhZYqweC"
+      "duration_ms": 271160,
+      "name": "When U Love Somebody",
+      "url": "https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -563,6 +547,22 @@
       "duration_ms": 218659,
       "name": "Secrets from a Girl (Who's Seen it All)",
       "url": "https://open.spotify.com/track/1toRu029yjgrleWg2w3gNU"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Wachito Rico",
+        "url": "https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 254885,
+      "name": "honey",
+      "url": "https://open.spotify.com/track/6pXe0HxGT1xufKGhZYqweC"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -997,6 +997,22 @@
       "url": "https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv"
     },
     {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/4LV7GkCFobpwaguOcbRRKI"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/6kGLWfGeZQ9RZHcGis9KN6"
+    },
+    {
       "added_at": "2023-02-03 00:30:16",
       "album": {
         "name": "Worst Case Kid",
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/4LV7GkCFobpwaguOcbRRKI"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/6kGLWfGeZQ9RZHcGis9KN6"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
       },
@@ -1059,22 +1059,6 @@
       "duration_ms": 166053,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
-    },
-    {
-      "added_at": "2023-02-03 00:30:16",
-      "album": {
-        "name": "The Florist",
-        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 190601,
-      "name": "The Florist",
-      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1091,6 +1075,22 @@
       "duration_ms": 176506,
       "name": "Look Out!",
       "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+    },
+    {
+      "added_at": "2023-02-03 00:30:16",
+      "album": {
+        "name": "The Florist",
+        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 190601,
+      "name": "The Florist",
+      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "About A Boy Soundtrack",
-        "url": "https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx"
-      },
-      "artists": [
-        {
-          "name": "Badly Drawn Boy",
-          "url": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Something To Talk About",
-      "url": "https://open.spotify.com/track/4rwOvI1E7CAlOX0XZ5EMyG"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Somewhere In-Between",
         "url": "https://open.spotify.com/album/2ZM9VkZ1rsJsKgwW1V99Ju"
       },
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "About A Boy Soundtrack",
+        "url": "https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx"
+      },
+      "artists": [
+        {
+          "name": "Badly Drawn Boy",
+          "url": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "Something To Talk About",
+      "url": "https://open.spotify.com/track/4rwOvI1E7CAlOX0XZ5EMyG"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "Blouse",
         "url": "https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo"
       },
@@ -1203,6 +1203,22 @@
       "duration_ms": 195376,
       "name": "Blouse",
       "url": "https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Quiet Is The New Loud",
+        "url": "https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "duration_ms": 277506,
+      "name": "I Don't Know What I Can Save You From",
+      "url": "https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN"
     },
     {
       "added_at": "2023-02-03 00:30:16",
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Quiet Is The New Loud",
-        "url": "https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz"
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
       "artists": [
         {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
         }
       ],
-      "duration_ms": 277506,
-      "name": "I Don't Know What I Can Save You From",
-      "url": "https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN"
+      "duration_ms": 209493,
+      "name": "Everyone's A Winner",
+      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1251,22 +1267,6 @@
       "duration_ms": 314173,
       "name": "The Boy With The Arab Strap",
       "url": "https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
       "added_at": "2022-08-05 10:31:40",

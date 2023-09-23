@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,844 likes - 90 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,024 likes - 90 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 49 | [Knucklehead](https://open.spotify.com/track/4TYEIckMi7PTCh1kiknKSy) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Feels So Good](https://open.spotify.com/album/25M5zhvFVOKw59pxA3f5rN) | 7:59 |
 | 50 | [Space](https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg) | [Bacao Rhythm & Steel Band](https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0) | [Expansions](https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW) | 2:31 |
 | 51 | [Feel The Real](https://open.spotify.com/track/2tTMoXavkBdOsjKGaKdzdm) | [David Bendeth](https://open.spotify.com/artist/1cIMjUTNaDs3pP0TxjdPXe) | [Adrenalin](https://open.spotify.com/album/79JZAbb01l4hyVs0JNJJEe) | 6:50 |
-| 52 | [Keep Your Head Up](https://open.spotify.com/track/0oC8NiFS4UNepxVacFRdLr) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9), [Fay Simpson](https://open.spotify.com/artist/3cM8jn7x5RHKqAPs13t0tt) | [Off The Record](https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo) | 4:41 |
-| 53 | [Wash Your Face In My Sink](https://open.spotify.com/track/33thSPOfzybaOuyZb3ZLpm) | [Dream Warriors](https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU) | [And Now The Legacy Begins](https://open.spotify.com/album/6AelbV20VsSWwnYhalKjdd) | 3:40 |
+| 52 | [Wash Your Face In My Sink](https://open.spotify.com/track/33thSPOfzybaOuyZb3ZLpm) | [Dream Warriors](https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU) | [And Now The Legacy Begins](https://open.spotify.com/album/6AelbV20VsSWwnYhalKjdd) | 3:40 |
+| 53 | [Keep Your Head Up](https://open.spotify.com/track/0oC8NiFS4UNepxVacFRdLr) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9), [Fay Simpson](https://open.spotify.com/artist/3cM8jn7x5RHKqAPs13t0tt) | [Off The Record](https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo) | 4:41 |
 | 54 | [Hard Work](https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI) | [John Handy](https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR) | [Hard Work](https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw) | 6:57 |
 | 55 | [Sun](https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5) | 3:06 |
 | 56 | [Beatmaker](https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN) | [Matt Berry](https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto), [Emma Noble](https://open.spotify.com/artist/0wKTCSORBOl42BQBahvy6g) | [Beatmaker](https://open.spotify.com/album/26r7BEpLvogzNadNhpR73H) | 2:57 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [Look Inside](https://open.spotify.com/track/55vLT3xEExIooTieCfLjUQ) | [4hero](https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L), [Face](https://open.spotify.com/artist/7rAHyyAugNjIUBYTwoHHMg) | [Play With the Changes](https://open.spotify.com/album/5F4ERW3zwBLDTC4dYxaplL) | 4:06 |
 | 90 | [Whatchugot](https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO) | [Groove Collective](https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg) | [Groove Collective](https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N) | 6:34 |
 
-Snapshot ID: `MCw2YmE4Yjg3MDdjYTM1ZGI1Mzg1MGM2NTEzMGVlOTBjNzllYTU4ZWYx`
+Snapshot ID: `MCxkZjgyM2Q1ZjYxMDIzYWE4NDg2NjY2NTA4MGZiZmNlODQ0MWI1NWVi`

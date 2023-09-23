@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,250 likes - 60 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,275 likes - 60 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 32 | [Beira de Piscina \(Remix\)](https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Caro Vapor / Vida e Veneno de Don L](https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK) | 3:49 |
 | 33 | [Rap, Cerva, Erva e Muita Larica](https://open.spotify.com/track/3MT349AygkDxEp3eHpD6VL) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Bonde da Madrugada pt\. 2](https://open.spotify.com/album/2jOQG9qOUtpMvOrScJ5EMW) | 4:11 |
 | 34 | [Castelos & Ruínas](https://open.spotify.com/track/2QsawLES5BqdJ9yYp5wjYs) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH) | 4:09 |
-| 35 | [Estilo Coyote](https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [Estilo Coyote](https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq) | 2:54 |
-| 36 | [Olhares](https://open.spotify.com/track/29gjSnpSaHYKV62A8uwQ1y) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [Olhares](https://open.spotify.com/album/2uEThThOM8x9bDSSvYK8p3) | 3:57 |
+| 35 | [Olhares](https://open.spotify.com/track/29gjSnpSaHYKV62A8uwQ1y) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [Olhares](https://open.spotify.com/album/2uEThThOM8x9bDSSvYK8p3) | 3:57 |
+| 36 | [Estilo Coyote](https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [Estilo Coyote](https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq) | 2:54 |
 | 37 | [Grajauex](https://open.spotify.com/track/6hWZ4XD4CyBashmhla59lO) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Nó na Orelha](https://open.spotify.com/album/35okb1xF4DPilYtWCL9cAI) | 2:36 |
 | 38 | [Respeito É pra Quem Tem](https://open.spotify.com/track/4pZt1KU0y9Ckrw5Bcp60GB) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 5:29 |
 | 39 | [Nós](https://open.spotify.com/track/1yHEBmkI2j3lhlVLU8yuTl) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 59 | [Dior](https://open.spotify.com/track/6iIN2VXurWz90YBHXOIziD) | [Yung Buda](https://open.spotify.com/artist/34JhhuxlkDFSA5ek4AuZOp), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [OG L](https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7) | [Dior](https://open.spotify.com/album/1OtjO72XdEOLXSEKlgEP7y) | 3:06 |
 | 60 | [Bora Dançar](https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Eletrocardiograma](https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg) | 3:44 |
 
-Snapshot ID: `MCxlYmU3OTFkMTkzYWQ0NmQ2MDA3M2IxOTNjNDJmN2ZhNmQ1NWZiMjk2`
+Snapshot ID: `MCw0MWE2ZDk3YjRmMDExZWRkYTE5ZDkyM2I2MDU1NDk4MzJhNTI1NmQ4`

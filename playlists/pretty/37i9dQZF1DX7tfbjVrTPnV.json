@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Lori McKenna",
-  "num_followers": 194220,
+  "num_followers": 194292,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzI3MDRmOWQ5OTM1ZjU4MGVjMDAyOGE1NjNmNDM1ZGI2ODA5NWJl",
+  "snapshot_id": "MCwzZmM1NWRiYmVlYzE0YjRmOGQwZmI4NDVhNTAwYjA2MTAwZGQzZTQx",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "March 16-20, 1992",
-        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
-      },
-      "artists": [
-        {
-          "name": "Uncle Tupelo",
-          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Sandusky",
-      "url": "https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Tribute To Tradition",
         "url": "https://open.spotify.com/album/4Mngcv6ExjREiOqSH8vG1D"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 361093,
       "name": "Same Old Train",
       "url": "https://open.spotify.com/track/5KMWwtJv3Ll2ROZfMerQs0"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "March 16-20, 1992",
+        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
+      },
+      "artists": [
+        {
+          "name": "Uncle Tupelo",
+          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Sandusky",
+      "url": "https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Tarpaper Sky",
-        "url": "https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 163306,
-      "name": "Frankie Please",
-      "url": "https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Woody Guthrie: At 100! (Live At The Kennedy Center)",
         "url": "https://open.spotify.com/album/1mLpBp6D3h869hhvLsb52a"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 221826,
       "name": "This Train is Bound for Glory",
       "url": "https://open.spotify.com/track/7mfn1O2YQifrW5nZhAhCGL"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Tarpaper Sky",
+        "url": "https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 163306,
+      "name": "Frankie Please",
+      "url": "https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Mortal City",
-        "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
-      },
-      "artists": [
-        {
-          "name": "Dar Williams",
-          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "Iowa (Traveling, Pt. 3)",
-      "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/6QH6ltpFEZXObrQHmgpKSN"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 296573,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/4GbPT7LQNb1nQePEcakZvo"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Mortal City",
+        "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
+      },
+      "artists": [
+        {
+          "name": "Dar Williams",
+          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Iowa (Traveling, Pt. 3)",
+      "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/56PXLjwRAZTqpZjM07FeR5"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 227826,
-      "name": "Night Still Comes",
-      "url": "https://open.spotify.com/track/0l5TOyEd5RswsWnqOaOX0X"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
         "url": "https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 347769,
       "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
       "url": "https://open.spotify.com/track/0CzXjHD4dpnjzkMceBT1Kh"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/56PXLjwRAZTqpZjM07FeR5"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 227826,
+      "name": "Night Still Comes",
+      "url": "https://open.spotify.com/track/0l5TOyEd5RswsWnqOaOX0X"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
-        "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Boulder to Birmingham - 2003 Remaster",
-      "url": "https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "I'm A Song",
         "url": "https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1"
       },
@@ -1831,22 +1815,6 @@
       "duration_ms": 129077,
       "name": "Let's Have A Good Thing Together",
       "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Last Man Standing",
-        "url": "https://open.spotify.com/album/59kwBSCOkQiV6L6tUxkNjU"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 169266,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/0AxwGUoC4g9pp2lesuvvg0"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1867,18 +1835,34 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Happy Prisoner: The Bluegrass Sessions",
-        "url": "https://open.spotify.com/album/3WVvNhEvAjTKjYUNubfHtd"
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/59kwBSCOkQiV6L6tUxkNjU"
       },
       "artists": [
         {
-          "name": "Robert Earl Keen",
-          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 214293,
-      "name": "East Virginia Blues",
-      "url": "https://open.spotify.com/track/1fqHUqYBIsG2Ssz4CaHiKZ"
+      "duration_ms": 169266,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/0AxwGUoC4g9pp2lesuvvg0"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
+        "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Boulder to Birmingham - 2003 Remaster",
+      "url": "https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1899,6 +1883,22 @@
       "duration_ms": 186152,
       "name": "Hard to Be an Outlaw (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/59WPFxAkd8RiMhQ25WYIf8"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Happy Prisoner: The Bluegrass Sessions",
+        "url": "https://open.spotify.com/album/3WVvNhEvAjTKjYUNubfHtd"
+      },
+      "artists": [
+        {
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "East Virginia Blues",
+      "url": "https://open.spotify.com/track/1fqHUqYBIsG2Ssz4CaHiKZ"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2007,26 +2007,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        },
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 149422,
-      "name": "I Have Met My Love Today - Recorded at RCA Studio a, Nashville",
-      "url": "https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Picture In a Frame (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
       },
@@ -2043,6 +2023,26 @@
       "duration_ms": 286069,
       "name": "Love & Happiness",
       "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 149422,
+      "name": "I Have Met My Love Today - Recorded at RCA Studio a, Nashville",
+      "url": "https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Love Calling",
-        "url": "https://open.spotify.com/album/60H0TY0XqRGEsXKovVOHAY"
-      },
-      "artists": [
-        {
-          "name": "Darden Smith",
-          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "Angel Flight",
-      "url": "https://open.spotify.com/track/5HXIx1TnpLAJtWS9O10kls"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/3mXZIWJYygHtn9XaZrvpbJ"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 175400,
       "name": "Detour (feat. Emmylou Harris)",
       "url": "https://open.spotify.com/track/0vxmBkeL8EuDpJvIb2dhRJ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Love Calling",
+        "url": "https://open.spotify.com/album/60H0TY0XqRGEsXKovVOHAY"
+      },
+      "artists": [
+        {
+          "name": "Darden Smith",
+          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "Angel Flight",
+      "url": "https://open.spotify.com/track/5HXIx1TnpLAJtWS9O10kls"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
-        "url": "https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU"
-      },
-      "artists": [
-        {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
-        }
-      ],
-      "duration_ms": 203843,
-      "name": "House of the White Rose Boquet",
-      "url": "https://open.spotify.com/track/6fGqZu6bhVb9aPqJ2r3eZ5"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "I Contain Multitudes",
         "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
       },
@@ -2363,6 +2347,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
+        "url": "https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        }
+      ],
+      "duration_ms": 203843,
+      "name": "House of the White Rose Boquet",
+      "url": "https://open.spotify.com/track/6fGqZu6bhVb9aPqJ2r3eZ5"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Release Me",
         "url": "https://open.spotify.com/album/7jioF5CEtXUvIRMfoYzqkG"
       },
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 329746,
-      "name": "Time After Time - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Electro Melodier",
         "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 215570,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 329746,
+      "name": "Time After Time - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/7nMRzda3BneKBWE0bDLu1s"
-      },
-      "artists": [
-        {
-          "name": "Martin Sexton",
-          "url": "https://open.spotify.com/artist/16HLVuiCN8iGYhBca7lsqE"
-        }
-      ],
-      "duration_ms": 221183,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/7KvUES0KA4PClnqof2nHMG"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Way Out West",
         "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 198840,
       "name": "Whole Lotta Highway (With A Million Miles to Go)",
       "url": "https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/7nMRzda3BneKBWE0bDLu1s"
+      },
+      "artists": [
+        {
+          "name": "Martin Sexton",
+          "url": "https://open.spotify.com/artist/16HLVuiCN8iGYhBca7lsqE"
+        }
+      ],
+      "duration_ms": 221183,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7KvUES0KA4PClnqof2nHMG"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2575,18 +2575,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "I'll Meet You Here",
-        "url": "https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA"
+        "name": "Stitch of the World",
+        "url": "https://open.spotify.com/album/3COhbKE23L3W24wLnLQToD"
       },
       "artists": [
         {
-          "name": "Dar Williams",
-          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
         }
       ],
-      "duration_ms": 167340,
-      "name": "You Give it All Away",
-      "url": "https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8"
+      "duration_ms": 227226,
+      "name": "Dusty Old Man",
+      "url": "https://open.spotify.com/track/73TqDe29PdDaqW0ftPLFvA"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2607,6 +2607,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "I'll Meet You Here",
+        "url": "https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA"
+      },
+      "artists": [
+        {
+          "name": "Dar Williams",
+          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
+        }
+      ],
+      "duration_ms": 167340,
+      "name": "You Give it All Away",
+      "url": "https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Into The Purple Valley",
         "url": "https://open.spotify.com/album/0bPPam9K2Pyuxr8T9WH1Vk"
       },
@@ -2619,22 +2635,6 @@
       "duration_ms": 236266,
       "name": "Taxes on the Farmer Feeds Us All",
       "url": "https://open.spotify.com/track/4ZslsM9CYd5SpqlSGODAEq"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Stitch of the World",
-        "url": "https://open.spotify.com/album/3COhbKE23L3W24wLnLQToD"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 227226,
-      "name": "Dusty Old Man",
-      "url": "https://open.spotify.com/track/73TqDe29PdDaqW0ftPLFvA"
     },
     {
       "added_at": "2023-08-11 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,544 likes - 60 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,691 likes - 60 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 22 | [Another Riff For The Good Times](https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Another Riff For The Good Times / Daydreaming](https://open.spotify.com/album/4ACy5ync0g9C1cgphs8YMG) | 3:48 |
 | 23 | [Alkantara](https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai) | [Bottai](https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk) | [Alkantara](https://open.spotify.com/album/208tzedbu4E8jrZp9dfsZo) | 3:36 |
 | 24 | [Lost Gravity](https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Lost Gravity EP](https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W) | 5:05 |
-| 25 | [Floral Decor](https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Floral Decor](https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX) | 4:08 |
+| 25 | [Starz](https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Starz](https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t) | 5:00 |
 | 26 | [Run Away](https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Run Away](https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK) | 4:22 |
-| 27 | [Starz](https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Starz](https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t) | 5:00 |
+| 27 | [Floral Decor](https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Floral Decor](https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX) | 4:08 |
 | 28 | [My Stripes](https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [My Stripes](https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp) | 4:27 |
 | 29 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 |
 | 30 | [No Judgement \- Kölsch Remix Edit](https://open.spotify.com/track/0Dwb20y4Y174GDvLw0Dr51) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [No Judgement \(Kölsch Remix Edit\)](https://open.spotify.com/album/6cUbkloy5dDTZ9muvMLiOo) | 4:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Torii](https://open.spotify.com/track/0PxVllnUIzt36tvbu5thj5) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Torii](https://open.spotify.com/album/2oJIKUuxPO2MeiBQQhd3x4) | 2:50 |
 | 60 | [Balloons](https://open.spotify.com/track/0NQhw2ZcwkfaVN98QYsY7X) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF) | [Froozen / Balloons](https://open.spotify.com/album/2R0BNhSn4wE1xfQ9R8cLYT) | 3:54 |
 
-Snapshot ID: `MCw1MDFiNGY3MzE4NTg3MDNiZDNhNjc2NTE3Mzk3ZWQwYTUxYmJkNmRl`
+Snapshot ID: `MCxlYThiYmYyMzY1YjE4NGI2MzUwMzkzN2JlZDkyYjYwYTRjYTBkYTEy`

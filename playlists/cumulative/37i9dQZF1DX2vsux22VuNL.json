@@ -281,6 +281,44 @@
     },
     {
       "album": {
+        "name": "Algum Lugar Pra Gente Viajar",
+        "url": "https://open.spotify.com/album/6aAjEIdDknOBlN32T2SbuI"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Rodriguinho",
+          "url": "https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Fabinho",
+          "url": "https://open.spotify.com/artist/4CQPmHby32hOV9vjFHHUJS"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Algum Lugar Pra Gente Viajar",
+      "url": "https://open.spotify.com/track/63r2vryWNB2R9q3iTu0VzI"
+    },
+    {
+      "album": {
         "name": "Arcano 19",
         "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
       },
@@ -700,7 +738,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 151466,
       "name": "Bicho Solto",
       "url": "https://open.spotify.com/track/00Vc70Z21UnNbvUfQ6ujZv"
@@ -826,6 +864,24 @@
       "duration_ms": 282690,
       "name": "Cachimbo da Paz 2",
       "url": "https://open.spotify.com/track/2ZeG4NqS9tRoUa6LGjAP2I"
+    },
+    {
+      "album": {
+        "name": "Calma Z\u00e9 (vers\u00e3o do mato)",
+        "url": "https://open.spotify.com/album/0ZDn9Z3IhB77qcNmM7ZI06"
+      },
+      "artists": [
+        {
+          "name": "Hot",
+          "url": "https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253575,
+      "name": "Calma Z\u00e9 (vers\u00e3o do mato)",
+      "url": "https://open.spotify.com/track/25j65WWQsSUhgbXGJSbxAi"
     },
     {
       "album": {
@@ -1825,6 +1881,28 @@
     },
     {
       "album": {
+        "name": "Espero Que N\u00e3o Dure (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2dmxASah4bRnBadFadPbXM"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Lopes",
+          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
+        },
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Espero Que N\u00e3o Dure - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2LipaKn124ClsUoFjCoQIJ"
+    },
+    {
+      "album": {
         "name": "Esqueminha (Hit Label Sessions #3)",
         "url": "https://open.spotify.com/album/1rzqRTPF0kbAObzFe6VngB"
       },
@@ -1914,7 +1992,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 195033,
       "name": "Estrela do Mar",
       "url": "https://open.spotify.com/track/0rULs7B1JjYnnaooUbZwy5"
@@ -3135,6 +3213,32 @@
     },
     {
       "album": {
+        "name": "Marcha",
+        "url": "https://open.spotify.com/album/5DUyARSiVNvxIrS1MW7vGN"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Charles do Bronxs",
+          "url": "https://open.spotify.com/artist/19Mqlg717812ha5zPDul9q"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251266,
+      "name": "Marcha",
+      "url": "https://open.spotify.com/track/1qcHCY4STgSPTAPqphdYFi"
+    },
+    {
+      "album": {
         "name": "Maria",
         "url": "https://open.spotify.com/album/2tmBwAa0NoFE0c8h3LfCCp"
       },
@@ -3182,7 +3286,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 177612,
       "name": "Me Diz Se Vem",
       "url": "https://open.spotify.com/track/34nTmKkxQhgqqxoqJAMz9l"
@@ -3698,7 +3802,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 175082,
       "name": "N\u00e3o Mente pra Ela",
       "url": "https://open.spotify.com/track/0HQV32PeVc2tSDb5tEa5Pe"
@@ -4879,6 +4983,24 @@
     },
     {
       "album": {
+        "name": "Wi-Fi da Floresta",
+        "url": "https://open.spotify.com/album/5rtpOTuGx5QGKT1W5UNmD1"
+      },
+      "artists": [
+        {
+          "name": "Cronixta",
+          "url": "https://open.spotify.com/artist/5BGPgNyveXI7oJlXOVuSWc"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Que Tal?!",
+      "url": "https://open.spotify.com/track/3G9cHAxsDSJIHciDCpcyz2"
+    },
+    {
+      "album": {
         "name": "Queria Te Ver",
         "url": "https://open.spotify.com/album/7cCWhB0Bl8mVYC89BYyWJ8"
       },
@@ -5243,6 +5365,24 @@
     },
     {
       "album": {
+        "name": "Sempre em Frente",
+        "url": "https://open.spotify.com/album/4nGrhdelNUboisIrusK5eS"
+      },
+      "artists": [
+        {
+          "name": "NAVALA",
+          "url": "https://open.spotify.com/artist/5qSepOy54NGAJ5rpIksl3p"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203916,
+      "name": "Sempre em Frente",
+      "url": "https://open.spotify.com/track/6R17qo7qwpkPu7szy5tK7G"
+    },
+    {
+      "album": {
         "name": "SENHORA LUZ",
         "url": "https://open.spotify.com/album/1GsIiBUbWvPe32iTlDsSLR"
       },
@@ -5254,7 +5394,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 156300,
       "name": "Senhora Luz",
       "url": "https://open.spotify.com/track/4AM4zsEdvpxM6SInhjRFZF"
@@ -6294,10 +6434,36 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 154060,
       "name": "Vai e Vem",
       "url": "https://open.spotify.com/track/6dhdxs7ELm5EvlhbV31hJh"
+    },
+    {
+      "album": {
+        "name": "Vai Ser Melhor",
+        "url": "https://open.spotify.com/album/6LnuFNW9xGi6qq97WngcYf"
+      },
+      "artists": [
+        {
+          "name": "Patrick",
+          "url": "https://open.spotify.com/artist/710fgkV14KVymsc3sMILXE"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "GT",
+          "url": "https://open.spotify.com/artist/1XR3lAp7FDsp1bgnREtkOH"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201428,
+      "name": "Vai Ser Melhor",
+      "url": "https://open.spotify.com/track/6xKj3ymHzFKbg734crnhv5"
     },
     {
       "album": {

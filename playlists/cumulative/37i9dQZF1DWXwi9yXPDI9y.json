@@ -1627,6 +1627,28 @@
     },
     {
       "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207413,
+      "name": "Mood Indigo",
+      "url": "https://open.spotify.com/track/6wDBY75wrVJoQZsSCyM234"
+    },
+    {
+      "album": {
         "name": "The Hawk Relaxes",
         "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
       },
@@ -1914,7 +1936,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 331213,
       "name": "Prelude To A Kiss",
       "url": "https://open.spotify.com/track/2qnDE0I8n5rKOLfG9fIdqR"

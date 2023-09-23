@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 161743,
+  "num_followers": 161969,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDU0YmJkYmE4YmQ2YThjYTVkNDU3ZTZiNjg1Mzk5ZWNmOGY5NzNk",
+  "snapshot_id": "MCw0YjFmN2FkNjNjZGM0NDlmYzBlYjM2YWNiYWFkMDExMTg5YzRjOTI0",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Let me love tonight (12 Inc)",
-        "url": "https://open.spotify.com/album/4VJs7sQLWpnHDAXnni4LCU"
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j"
       },
       "artists": [
         {
-          "name": "Electric Mind",
-          "url": "https://open.spotify.com/artist/2CRKZgVOneZ1ytAxCsVFja"
+          "name": "David Jackson",
+          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
         }
       ],
-      "duration_ms": 229999,
-      "name": "Let Me Love Tonight - Radio Version",
-      "url": "https://open.spotify.com/track/6zEAlbxY12vp24gMkiwM1d"
+      "duration_ms": 404766,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER"
     }
   ],
   "unique_name": "Italo Disco",

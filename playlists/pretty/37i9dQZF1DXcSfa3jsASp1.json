@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2010s.",
-  "num_followers": 40557,
+  "num_followers": 40567,
   "original_name": "10s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTI2YzYwOTk1MWM2ZTVhYjNmZmI4ZWQ4ZmYwOTU4YWI4MzIwYjE4",
+  "snapshot_id": "MCw5NDAzYThlNzhkYjRiYmU3NjI2ZmU1NDc2NTcwMDYzOGI4YmYwMDFh",
   "tracks": [
     {
       "added_at": "2020-05-15 11:36:11",
@@ -27,22 +27,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 204346,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 204346,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 187146,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
@@ -171,6 +155,22 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
         "name": "Blurryface",
         "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
       },
@@ -187,18 +187,18 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
       },
       "artists": [
         {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+      "duration_ms": 187146,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -251,22 +251,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Whatever It Takes",
-      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 195200,
       "name": "Renegades",
       "url": "https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Whatever It Takes",
+      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -495,6 +495,22 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Gold on the Ceiling",
+      "url": "https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
         "name": "Unleashed",
         "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 229933,
       "name": "Feel Invincible",
       "url": "https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 285014,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -543,18 +543,18 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 224333,
-      "name": "Gold on the Ceiling",
-      "url": "https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"
+      "duration_ms": 285014,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -663,22 +663,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 240796,
-      "name": "Every Teardrop Is a Waterfall",
-      "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "Sacred Hearts Club",
         "url": "https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 243146,
       "name": "Sit Next to Me",
       "url": "https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 240796,
+      "name": "Every Teardrop Is a Waterfall",
+      "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -891,22 +891,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Death of a Bachelor",
-        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Don't Threaten Me with a Good Time",
-      "url": "https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "Men Amongst Mountains",
         "url": "https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 274093,
       "name": "Wish I Knew You",
       "url": "https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "Death of a Bachelor",
+        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Don't Threaten Me with a Good Time",
+      "url": "https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Seal The Deal & Let's Boogie",
-        "url": "https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 238653,
-      "name": "The Devil's Bleeding Crown",
-      "url": "https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "Savages",
         "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 202213,
       "name": "Angel",
       "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "Seal The Deal & Let's Boogie",
+        "url": "https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 238653,
+      "name": "The Devil's Bleeding Crown",
+      "url": "https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "The Hunting Party",
-        "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 233240,
-      "name": "Until It's Gone",
-      "url": "https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "Wilder Mind (Deluxe)",
         "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 221039,
       "name": "Believe",
       "url": "https://open.spotify.com/track/4xmv6NGg9arNPmANOa4cjq"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "The Hunting Party",
+        "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 233240,
+      "name": "Until It's Gone",
+      "url": "https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Andrew McMahon In The Wilderness",
-        "url": "https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG"
-      },
-      "artists": [
-        {
-          "name": "Andrew McMahon in the Wilderness",
-          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
-        }
-      ],
-      "duration_ms": 223879,
-      "name": "Cecilia And The Satellite",
-      "url": "https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
         "url": "https://open.spotify.com/album/4cf8wfqub8gibjfGhLAieK"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 247388,
       "name": "House of the Rising Sun",
       "url": "https://open.spotify.com/track/0KxKNPHZpOLvJaT8ATekoT"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "Andrew McMahon In The Wilderness",
+        "url": "https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG"
+      },
+      "artists": [
+        {
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        }
+      ],
+      "duration_ms": 223879,
+      "name": "Cecilia And The Satellite",
+      "url": "https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
+        "url": "https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "Rob Halford",
+          "url": "https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy"
+        }
+      ],
+      "duration_ms": 246209,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/0kojHHbvGRsukpU78OBfQY"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 209120,
       "name": "BLOW (with Chris Stapleton & Bruno Mars)",
       "url": "https://open.spotify.com/track/7hvO2qCwJVZxiyoA7c9i5d"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
-        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
-        "url": "https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        },
-        {
-          "name": "Rob Halford",
-          "url": "https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy"
-        }
-      ],
-      "duration_ms": 246209,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/0kojHHbvGRsukpU78OBfQY"
     }
   ],
   "unique_name": "10s Summer Rock",

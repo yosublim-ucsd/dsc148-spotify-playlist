@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-393 songs - 19 hr 55 min
+394 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Juju Beans](https://open.spotify.com/track/3YgsVGDHaz0QITSzaaK8mk) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [The Softest Smile](https://open.spotify.com/album/6QZs23x9KCVuPhU1lvpKD0) | 2:25 | 2023-04-06 |  |
 | [June Summer](https://open.spotify.com/track/5o7Di648YijIAZ54xrqZ1q) | [Rebecca Arzoian](https://open.spotify.com/artist/4384gxrYcOSYP4zH7TE6Sx) | [June Summer](https://open.spotify.com/album/4WoMJSDEAFQQfdTunqawtw) | 3:01 | 2023-05-26 |  |
 | [Just smooth](https://open.spotify.com/track/5B4v6ttUV7VJ7S7kEJqg1D) | [Lil Harry](https://open.spotify.com/artist/5T1ysNHc5KEa6gjPBahyBc) | [Just smooth](https://open.spotify.com/album/6k6M6z7vGg18xb7md3BQoH) | 2:18 | 2022-12-09 |  |
+| [Just Waiting 4 You](https://open.spotify.com/track/0VVMvXcchR5HUWRU0zefNs) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Just Waiting 4 You](https://open.spotify.com/album/7zXB7RZJadDzIWRW7dmRd4) | 3:20 | 2023-09-22 |  |
 | [Kayser](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 2:51 | 2022-09-23 |  |
 | [Kayser](https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Kayser](https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2) | 2:51 | 2022-05-20 | 2022-09-28 |
 | [Keep On](https://open.spotify.com/track/3Y0JuvIIA3mzhmM2G00kE9) | [Amaraldo](https://open.spotify.com/artist/6Q3A8LnHLfN97wg2VXC5bf) | [Keep On](https://open.spotify.com/album/1n5BqxHBlAkN7HhyHWi6oc) | 3:47 | 2022-04-05 | 2022-05-11 |

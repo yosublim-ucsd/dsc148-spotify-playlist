@@ -1,12 +1,12 @@
 {
   "description": "In cerca di energie? Prova con la nostra playlist!",
-  "num_followers": 167654,
+  "num_followers": 167676,
   "original_name": "Una Carica di Espresso!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTlkMzdkZjdlMWRiNDgxODNmYTUwYzMxMTFhYmI5OWE4YmZhMTE2",
+  "snapshot_id": "MCw1ZDZkOTAwZWU1MmRiNDVkZjMzMTBkOWI0OGQ5ODM1MDAyMmZkZmU1",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Hear Me Say",
-        "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 190772,
-      "name": "Hear Me Say",
-      "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
         "url": "https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 213571,
       "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
       "url": "https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Hear Me Say",
+        "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 190772,
+      "name": "Hear Me Say",
+      "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "10 Out Of 10 (feat. Kylie Minogue)",
-        "url": "https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 170602,
-      "name": "10 Out Of 10 (feat. Kylie Minogue)",
-      "url": "https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Perfect Melody",
         "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
       },
@@ -1303,18 +1283,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Somewhere in Between",
-        "url": "https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv"
+        "name": "10 Out Of 10 (feat. Kylie Minogue)",
+        "url": "https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0"
       },
       "artists": [
         {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 147410,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/1YZcmW7QBJg2kVw3tGEH90"
+      "duration_ms": 170602,
+      "name": "10 Out Of 10 (feat. Kylie Minogue)",
+      "url": "https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1331,6 +1315,22 @@
       "duration_ms": 150991,
       "name": "I Will Survive",
       "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Somewhere in Between",
+        "url": "https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 147410,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/1YZcmW7QBJg2kVw3tGEH90"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "You're Free",
-        "url": "https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
-        }
-      ],
-      "duration_ms": 167298,
-      "name": "You're Free",
-      "url": "https://open.spotify.com/track/0KF938333oCvIXDxe72K44"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Crazy Love",
         "url": "https://open.spotify.com/album/0nFUcnT6Kdx9BWoM3RKAxh"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 186184,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/6jQXpMHQNaGGFE03wRDiUM"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "You're Free",
+        "url": "https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "duration_ms": 167298,
+      "name": "You're Free",
+      "url": "https://open.spotify.com/track/0KF938333oCvIXDxe72K44"
     },
     {
       "added_at": "2023-07-07 04:01:00",

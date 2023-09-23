@@ -4,7 +4,7 @@
 
 > ¡Lo más fresco del hip\-hop en español! Chales Ans y Sharif en portada.
 
-268 songs - 15 hr 9 min
+270 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,13 +29,15 @@
 | [Amaterasu](https://open.spotify.com/track/4WdEO33mv5bsv8sFCEFvIr) | [PAVEL](https://open.spotify.com/artist/73MIElBc2EabbqXIWffWyv) | [Clean / Amaterasu](https://open.spotify.com/album/2V3v6Az4c7faxf5APBNKms) | 2:23 | 2023-06-30 | 2023-07-29 |
 | [Ansiedad](https://open.spotify.com/track/69vGl5T8eNegQYemljEFWX) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [Ansiedad](https://open.spotify.com/album/6F8ccFAxXnQ9RPiQo0aPn9) | 3:21 | 2023-06-23 | 2023-09-09 |
 | [antes que sea tarde](https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [antes que sea tarde](https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ) | 2:48 | 2023-07-14 |  |
+| [Antimonio](https://open.spotify.com/track/36SQv1QXq0IqsJKemORQBy) | [La Maldita Infamia](https://open.spotify.com/artist/2wo6Orrn04bT2SA0mqu3LN), [Drama Theme](https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8) | [V.I.T.R.I.O.L\. Vol\. 3: Mercurio](https://open.spotify.com/album/5YdpQxElOr68xB3BMycSBQ) | 3:50 | 2023-09-22 |  |
 | [Aquí Estoy Yo](https://open.spotify.com/track/6sAysiKvW3slpYkPH90uCg) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Samg](https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ) | [Aquí Estoy Yo](https://open.spotify.com/album/4eT36YW7vOtAORnS7Wz0nW) | 4:07 | 2023-06-13 | 2023-06-24 |
 | [Auto Chivateo](https://open.spotify.com/track/55GNgo4gNaQhRWUZ9rVZwR) | [Cuervo Loomi](https://open.spotify.com/artist/5I3JpPqcXZjUiLOmDFKQfE) | [Auto Chivateo](https://open.spotify.com/album/2u9H2T065qoRVFAtC6wNhp) | 3:17 | 2023-06-13 | 2023-07-01 |
 | [Baddie](https://open.spotify.com/track/3f4F947OK390ug1C4igSLp) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Erreflexx](https://open.spotify.com/artist/3Wck1E7AcfrcW3beEPtPaU) | [Baddie](https://open.spotify.com/album/64Jb1qRcbl2wulfNvE6uel) | 2:26 | 2023-06-30 | 2023-09-16 |
 | [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Barrio \(with Lefty Sm\)](https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v) | 2:24 | 2023-07-21 |  |
 | [Barrio Caliente](https://open.spotify.com/track/6lIM7Ika9XVt4MoOllaXLj) | [Chato 473](https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp), [Kazu](https://open.spotify.com/artist/4ZiMK3f5EfARKFyORGd0hp) | [Barrio Caliente](https://open.spotify.com/album/6Qg4k4dPAoaYKu9Sd1ijnd) | 3:08 | 2023-07-21 | 2023-09-02 |
 | [BEEMO](https://open.spotify.com/track/7sBkokjVVW3wfU1SLE33Eh) | [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Sr\. Freddy Malaria](https://open.spotify.com/album/3DuxazPpULOeNqRAkq02AB) | 2:08 | 2023-06-30 |  |
-| [Bendición o Desgracia](https://open.spotify.com/track/2jMh4nHPNtayqz7MsAnoc9) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Bendición o Desgracia](https://open.spotify.com/album/67tBFPuqAgfDiMe2ee0gA3) | 2:43 | 2023-06-30 |  |
+| [Bendición o Desgracia](https://open.spotify.com/track/2jMh4nHPNtayqz7MsAnoc9) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Bendición o Desgracia](https://open.spotify.com/album/67tBFPuqAgfDiMe2ee0gA3) | 2:43 | 2023-06-30 | 2023-09-23 |
+| [Bendición o Desgracia](https://open.spotify.com/track/5H4xazm3fBhE9DVv1zkbJ8) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Bendición o Desgracia](https://open.spotify.com/album/1cS0tv59v0ZkkEQR2ouWyO) | 2:43 | 2023-09-22 |  |
 | [Black Stallion](https://open.spotify.com/track/7h3lo873Lct70jaeGXvoLx) | [Duendy](https://open.spotify.com/artist/6EcbitbSqckbOT8K5Bjhrk), [Blaznez](https://open.spotify.com/artist/03H1BpjEQtXbPEVcb5QH4F) | [Black Stallion](https://open.spotify.com/album/3bUsEqinvVgRxc21YuYlFY) | 2:47 | 2023-06-13 | 2023-07-01 |
 | [Blindaje](https://open.spotify.com/track/6zXEI6HMpDFeqB8diVF1ZD) | [Thomas Parr](https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB), [Kazu](https://open.spotify.com/artist/4ZiMK3f5EfARKFyORGd0hp) | [Blindaje](https://open.spotify.com/album/3SQOexJB3i1HxOF9kN2GOS) | 3:00 | 2023-06-30 | 2023-09-02 |
 | [Bogotá](https://open.spotify.com/track/6DcedC1YjHenkutpm6X2KA) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [Bogotá](https://open.spotify.com/album/3eSvHe6Q008l85ZJ8s6lEH) | 3:21 | 2023-08-04 |  |

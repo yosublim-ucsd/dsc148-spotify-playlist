@@ -1,12 +1,12 @@
 {
   "description": "Always come in 1st place.",
-  "num_followers": 270591,
+  "num_followers": 270819,
   "original_name": "Nitroboost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTNkZWVmMDU3ZjA4NjIxOTMwZTFhMDBlNGJiZDk4NGE2MGY1M2Qz",
+  "snapshot_id": "MCxjOTMyYWQxNGJiYTZjODJmMTA2MTY5MWI1ZjhjMDJkMzgxM2U4MWM0",
   "tracks": [
     {
       "added_at": "2023-09-05 15:03:19",
@@ -787,6 +787,26 @@
     {
       "added_at": "2023-09-05 15:03:19",
       "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/2TZeYGKoylpXTkHQo0BTAd"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "duration_ms": 248375,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/0rA4Qzu2P7gOhnbdxUngNh"
+    },
+    {
+      "added_at": "2023-09-05 15:03:19",
+      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 179238,
       "name": "Wait",
       "url": "https://open.spotify.com/track/7Fdw5PCKFHkHJAhhDIj0qA"
-    },
-    {
-      "added_at": "2023-09-05 15:03:19",
-      "album": {
-        "name": "Half Life",
-        "url": "https://open.spotify.com/album/2TZeYGKoylpXTkHQo0BTAd"
-      },
-      "artists": [
-        {
-          "name": "Grafix",
-          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 248375,
-      "name": "Feel Alive",
-      "url": "https://open.spotify.com/track/0rA4Qzu2P7gOhnbdxUngNh"
     },
     {
       "added_at": "2023-09-05 15:03:19",

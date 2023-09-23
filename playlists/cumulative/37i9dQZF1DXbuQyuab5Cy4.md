@@ -4,7 +4,7 @@
 
 > Scary monsters and filthy drops.
 
-114 songs - 6 hr 48 min
+115 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Spooky](https://open.spotify.com/track/4JybagjaBy9Y3UplgebTiQ) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [Spooky](https://open.spotify.com/album/3bRORuP5edzbMWpO6mVfcw) | 3:49 | 2021-10-28 | 2022-07-29 |
 | [SPOOKY](https://open.spotify.com/track/4uFl2eQxfMAOV3VjobntZ6) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [Monstercat Uncaged Vol\. 3](https://open.spotify.com/album/7zYrClRqHlfvmr2Sz9UjCa) | 3:49 | 2022-10-28 | 2022-11-14 |
 | [SPOOKY](https://open.spotify.com/track/6ZQDRNzZxLKT3U37jLH9YM) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [SPOOKY](https://open.spotify.com/album/1TqPTsC6hbjM5mj0NaotXi) | 3:49 | 2021-10-28 |  |
-| [Spooky, Scary Skeletons \- Undead Tombstone Remix](https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music \(Deluxe Edition\)](https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4) | 2:05 | 2021-10-28 |  |
+| [Spooky, Scary Skeletons \- Undead Tombstone Remix](https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music \(Deluxe Edition\)](https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4) | 2:05 | 2021-10-28 | 2023-09-23 |
 | [Squid Play](https://open.spotify.com/track/5zPFhnPNbdhhOLMTeqZT5C) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM) | [Squid Play](https://open.spotify.com/album/062CSYkbPxbFT6apgGEdxH) | 2:45 | 2021-10-28 |  |
 | [Supernatural \(feat\. Anjulie\)](https://open.spotify.com/track/1axYKkAUrZbB1axBahVM2J) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Supernatural \(feat\. Anjulie\)](https://open.spotify.com/album/2X04eOH1El0sUzp5Ivvp2a) | 4:28 | 2021-10-28 |  |
 | [Sweet Dreams \(VIP\)](https://open.spotify.com/track/4IQQB4PTQfvW1x7iioOeK9) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Wodd](https://open.spotify.com/artist/3TFrAhV5T8qgFOhpaQlUHG) | [Sweet Dreams \(VIP\)](https://open.spotify.com/album/5beTuDZOcwTbSBEBhA6pT1) | 4:06 | 2021-10-28 |  |
@@ -121,6 +121,7 @@
 | [Winter Is Coming \- Rome in Silver Remix](https://open.spotify.com/track/0rfuJq6P2Albwy2dykCD75) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Winter Is Coming \(Rome in Silver Remix\)](https://open.spotify.com/album/2hQI3kzX2UdSF765BX5jvJ) | 3:26 | 2021-10-28 | 2022-08-13 |
 | [Winter Is Coming \- Rome in Silver Remix](https://open.spotify.com/track/5HVt7dT8UY2BOlPZmOjpAO) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Neon Jungle Remixes](https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2) | 3:26 | 2021-10-28 | 2023-05-03 |
 | [Witch](https://open.spotify.com/track/3xLrmOAz2nCTlWLt2cutMu) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Alina Pash](https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i) | [I Killed The Orchestra EP](https://open.spotify.com/album/6aWB16Ri58NuFoUZZQAr9v) | 3:32 | 2021-10-28 |  |
+| [Witches, Witches, Witches \- The Living Tombstone Remix](https://open.spotify.com/track/3nECeZ2vi0Q8NwtBclexdH) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d), [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Witches, Witches, Witches \(The Living Tombstone Remix\)](https://open.spotify.com/album/5KvGorO0DxKf71OkIVpvAY) | 3:09 | 2023-09-22 |  |
 | [You Can't Hide](https://open.spotify.com/track/32filOsmivxaFHKLX6Ixth) | [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg), [Elizabeth Ann](https://open.spotify.com/artist/2OMS3Dpaq62LEX9iirn7F5) | [You Can't Hide](https://open.spotify.com/album/5ugJHon7uBFj5nWIBxm7np) | 4:28 | 2021-10-28 |  |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

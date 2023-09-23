@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 215006,
+  "num_followers": 215209,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWUxYjBlNDFkMGJiMzQ4NTM4YzQzYTk5ZjA2MzFkMjc5ZWJlNWE2",
+  "snapshot_id": "MCw1NjBmOTJmZDY3N2EzMzFhYTcyMmM3NDY3NWNkOGRmMDNlMDUwYTU2",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Do you Believe In Magic",
-        "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 125826,
-      "name": "Do You Believe in Magic?",
-      "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 119880,
       "name": "Hit the Road Jack",
       "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Do you Believe In Magic",
+        "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 125826,
+      "name": "Do You Believe in Magic?",
+      "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
     },
     {
       "added_at": "2023-05-30 09:14:29",
@@ -957,6 +957,22 @@
       "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
     },
     {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "More Hits By The Supremes",
+        "url": "https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 172906,
+      "name": "Stop! In The Name Of Love",
+      "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
+    },
+    {
       "added_at": "2023-05-30 09:14:29",
       "album": {
         "name": "Disraeli Gears",
@@ -987,22 +1003,6 @@
       "duration_ms": 194216,
       "name": "Waterloo Sunset",
       "url": "https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "More Hits By The Supremes",
-        "url": "https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 172906,
-      "name": "Stop! In The Name Of Love",
-      "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1101,22 +1101,6 @@
       "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
-      "album": {
-        "name": "Fresh Cream",
-        "url": "https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 171506,
-      "name": "I Feel Free",
-      "url": "https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS"
-    },
-    {
       "added_at": "2022-06-16 22:02:00",
       "album": {
         "name": "The Best Of Canned Heat",
@@ -1131,6 +1115,22 @@
       "duration_ms": 171373,
       "name": "Going Up The Country",
       "url": "https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy"
+    },
+    {
+      "added_at": "2023-05-30 09:14:29",
+      "album": {
+        "name": "Fresh Cream",
+        "url": "https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "I Feel Free",
+      "url": "https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Sweet Soul Music",
+        "url": "https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC"
+      },
+      "artists": [
+        {
+          "name": "Arthur Conley",
+          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
+        }
+      ],
+      "duration_ms": 141066,
+      "name": "Sweet Soul Music",
+      "url": "https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "The Good Life With the Drifters",
         "url": "https://open.spotify.com/album/1lvcXSmZa8rTR5M03tihq5"
       },
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Sweet Soul Music",
-        "url": "https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC"
+        "name": "Summer Days (And Summer Nights) [Remastered]",
+        "url": "https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0"
       },
       "artists": [
         {
-          "name": "Arthur Conley",
-          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 141066,
-      "name": "Sweet Soul Music",
-      "url": "https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW"
+      "duration_ms": 168240,
+      "name": "Help Me, Rhonda - Single Version/Remastered 2001",
+      "url": "https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1587,22 +1603,6 @@
       "duration_ms": 131360,
       "name": "Needles and Pins - Mono",
       "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Summer Days (And Summer Nights) [Remastered]",
-        "url": "https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 168240,
-      "name": "Help Me, Rhonda - Single Version/Remastered 2001",
-      "url": "https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg"
     },
     {
       "added_at": "2022-06-16 22:02:00",

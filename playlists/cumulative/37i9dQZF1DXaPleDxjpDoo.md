@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-113 songs - 6 hr 17 min
+114 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Leaves Breathing](https://open.spotify.com/track/04b4ZyKr2YbUGruDUWG3wa) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Leaves Breathing](https://open.spotify.com/album/0c9RZQfZNbk4TdqJFQDbT5) | 3:18 | 2022-09-15 |  |
 | [Linden Trees](https://open.spotify.com/track/1akogVH6M2mv6LfHUJjCLz) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Through the Trees](https://open.spotify.com/album/5Ccx70brRfGHXQIfOmEn3Z) | 2:29 | 2022-09-15 |  |
 | [Little Forest](https://open.spotify.com/track/23hjS0VaLqeb4ZU3CcKJPV) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Little Forest](https://open.spotify.com/album/3EsZZo9Cfd9L3bhRk2F9D1) | 2:54 | 2022-09-15 |  |
+| [Little Rabbit](https://open.spotify.com/track/4ANwAzJKUZv8n3DmUkOv6b) | [Mind Shores](https://open.spotify.com/artist/5rMYtkq4BVMFCtgXOsIyxK) | [Little Rabbit](https://open.spotify.com/album/5bU0ZA8rrJumX16meqGpSV) | 3:07 | 2023-09-22 |  |
 | [Lost in the Clouds \(Sound Bath\)](https://open.spotify.com/track/2uyqItZyU24m0CAtqud0Qk) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Lost in the Clouds \(Sound Bath\)](https://open.spotify.com/album/1CnH4T6q1i3MkGn5BoUJnC) | 3:25 | 2022-09-15 |  |
 | [Magical Forest](https://open.spotify.com/track/609XrJO5zvw5K1H2l4NtwW) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Magical Forest](https://open.spotify.com/album/3yMaEUpzkY2oQxfAbzsp1E) | 2:41 | 2022-09-15 |  |
 | [Mane Fluctus](https://open.spotify.com/track/15CHR9OtnnMp4bS2qhN47G) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:40 | 2022-09-15 |  |
@@ -92,7 +93,7 @@
 | [Pristine Serenity](https://open.spotify.com/track/2CttcShYdFruE99bOglV8x) | [Calmatics](https://open.spotify.com/artist/37sS66WbTIbdn4ewquyWhw) | [Pristine Serenity](https://open.spotify.com/album/6AcVoBF3DeDJyDy8OrQXEM) | 2:40 | 2022-09-30 |  |
 | [Radiance](https://open.spotify.com/track/09j78GCloYLj0f1MG1V6h0) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Radiance](https://open.spotify.com/album/4bzmUK9MSQoKeQZk4VzpZQ) | 2:13 | 2022-10-14 |  |
 | [Sacred Groves](https://open.spotify.com/track/04cZKVBULr2VKl7VwquEUF) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Silent Mind](https://open.spotify.com/album/45La9VqG8XymSR0sul7XAp) | 2:01 | 2022-09-15 |  |
-| [Secrets of the Forest](https://open.spotify.com/track/7rVg5IaSVhulVdXpIUbZcR) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Secrets of the Forest](https://open.spotify.com/album/1MMXk8aJ4rCi8tBrKXa433) | 2:55 | 2022-09-15 |  |
+| [Secrets of the Forest](https://open.spotify.com/track/7rVg5IaSVhulVdXpIUbZcR) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Secrets of the Forest](https://open.spotify.com/album/1MMXk8aJ4rCi8tBrKXa433) | 2:55 | 2022-09-15 | 2023-09-23 |
 | [Self Empathy \- Night Version](https://open.spotify.com/track/3M1zoke7AguNqJls0YVIGz) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8), [Raphael Beaudon](https://open.spotify.com/artist/4XbEtxj5AxINGaASuk3KD6) | [Self Empathy](https://open.spotify.com/album/0F9UrVkjArSjtuLEpg4qiw) | 2:38 | 2022-10-14 |  |
 | [Self Empathy 2](https://open.spotify.com/track/1HXPzjfK4hYiIPYJchH1k2) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Self Empathy 2](https://open.spotify.com/album/53IJTj3ETsfT3W9I45aS53) | 3:52 | 2022-09-23 |  |
 | [Sentiment \- Sound Bath](https://open.spotify.com/track/6NCBhoJxrycWkrkjM3TgFP) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Sentiment \- Sound Bath](https://open.spotify.com/album/4iRyKexSdcfqJIff3i1W5j) | 2:42 | 2022-10-21 |  |

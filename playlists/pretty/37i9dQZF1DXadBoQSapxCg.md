@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,001 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,042 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 36 | [Também Quero](https://open.spotify.com/track/3bIVh3GF7hNqPpJYxzCcxU) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm) | [Também Quero](https://open.spotify.com/album/6kW0t87Zimh1JKs91xnc2J) | 3:36 |
 | 37 | [Vício](https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:55 |
 | 38 | [Djavan](https://open.spotify.com/track/5qvHuqSk7uQmHWyGLn58LE) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c), [Marinho 2v](https://open.spotify.com/artist/6TBK4O9o7mNImiDGfrIzvc) | [Djavan](https://open.spotify.com/album/7FrPBgxnDtKXFF0fDo02VU) | 4:29 |
-| 39 | [Jogo Sujo](https://open.spotify.com/track/5VoMWPTG7cAXonm2A3XcAq) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Jogo Sujo](https://open.spotify.com/album/5qy9homkyTypqh7ibHcDqY) | 3:25 |
-| 40 | [Gold Coast](https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Viver \(Mais leve que o ar\)](https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u) | 4:19 |
+| 39 | [Gold Coast](https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Viver \(Mais leve que o ar\)](https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u) | 4:19 |
+| 40 | [Jogo Sujo](https://open.spotify.com/track/5VoMWPTG7cAXonm2A3XcAq) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Jogo Sujo](https://open.spotify.com/album/5qy9homkyTypqh7ibHcDqY) | 3:25 |
 | 41 | [Someway Somehow](https://open.spotify.com/track/480qefaDykyATTF4NGPtFb) | [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Someway Somehow](https://open.spotify.com/album/4GKSES7C3yzMLHiI1ETfSl) | 3:32 |
 | 42 | [Tenho Você](https://open.spotify.com/track/2FJrDD1ZvsUg9klCy4LjCj) | [Davi Sabbag](https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8) | [Tenho Você](https://open.spotify.com/album/29PFiWp9zAiwoiIx4gyApm) | 3:05 |
 | 43 | [nós 2](https://open.spotify.com/track/7vuxXAyqByxkVdM2jqu0Jh) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Mais Que os Olhos Podem Ver](https://open.spotify.com/album/5T9bHYvkePyb0WkBA6Wduz) | 3:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 59 | [Playlist Transante](https://open.spotify.com/track/2qCps28vIziXwOKmici1g7) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [Playlist Transante](https://open.spotify.com/album/5kU7Es6oEU01pfXhkG9YBS) | 3:17 |
 | 60 | [Um Dia Qualquer](https://open.spotify.com/track/5yuENyM88tUfheNVoBoMo3) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Talismã](https://open.spotify.com/album/7mX006mcnDcQgyT1VwbgVd) | 3:09 |
 
-Snapshot ID: `MCwxYTUxMTM5ODUwMTM3MjMwMTI5YTU0ZDdiZjJkY2Y5ODRjYjc3OTgx`
+Snapshot ID: `MCw4YjQ3NDEyMmU2MmNjNDdjMDUxYTFmOGI2ZGE5ZmNmZWVjNGNjYTY3`

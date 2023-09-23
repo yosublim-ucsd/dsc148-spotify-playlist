@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2080016,
+  "num_followers": 2080230,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDI0ODMzYThkMmU2YWE2MDdiOTUxYTMyZDdmNmY4YzQyMTI0OGFi",
+  "snapshot_id": "MCw5ODkzZTdhMjIwZWVjZTIwMmQ1NTllZGE2MjNlNmEzYjczN2RiYTU5",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 237760,
+      "name": "No Sleep",
+      "url": "https://open.spotify.com/track/2pfAvgMoHLfialvMYn337d"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "TRUSTFALL",
         "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
       },
@@ -991,18 +1007,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "By and By",
-        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
+        "name": "A Little Lift",
+        "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
         }
       ],
-      "duration_ms": 237760,
-      "name": "No Sleep",
-      "url": "https://open.spotify.com/track/2pfAvgMoHLfialvMYn337d"
+      "duration_ms": 199742,
+      "name": "Empress",
+      "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1019,22 +1035,6 @@
       "duration_ms": 198653,
       "name": "Until You",
       "url": "https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "A Little Lift",
-        "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 199742,
-      "name": "Empress",
-      "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "in defense of my own happiness (the beginnings)",
-        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 193786,
-      "name": "sunday",
-      "url": "https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Fits Of Laughter",
         "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
       },
@@ -1875,6 +1859,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 193786,
+      "name": "sunday",
+      "url": "https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "WE ARE",
         "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
       },
@@ -1887,22 +1887,6 @@
       "duration_ms": 157133,
       "name": "I NEED YOU",
       "url": "https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Joy'All",
-        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Puppy and a Truck",
-      "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1939,6 +1923,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "Joy'All",
+        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Puppy and a Truck",
+      "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
       },
@@ -1951,6 +1951,22 @@
       "duration_ms": 229773,
       "name": "BRIGHTSIDE",
       "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Virginia (Wind In The Night)",
+        "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Virginia (Wind In The Night)",
+      "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1971,22 +1987,6 @@
       "duration_ms": 151560,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Virginia (Wind In The Night)",
-        "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Virginia (Wind In The Night)",
-      "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
     },
     {
       "added_at": "2023-09-15 04:01:00",

@@ -3721,6 +3721,24 @@
     },
     {
       "album": {
+        "name": "Bugambilia",
+        "url": "https://open.spotify.com/album/2Ex6JjyUiIcQRqFeoTSInw"
+      },
+      "artists": [
+        {
+          "name": "Nasa Histoires",
+          "url": "https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189640,
+      "name": "Bugambilia",
+      "url": "https://open.spotify.com/track/5hXCTV8OCsNak8OVry7yzM"
+    },
+    {
+      "album": {
         "name": "Bury the Light",
         "url": "https://open.spotify.com/album/55RULuYZGg7QUBqYQePPR7"
       },
@@ -4112,7 +4130,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 199813,
       "name": "Canci\u00f3n Del Brindis",
       "url": "https://open.spotify.com/track/4cGBIUVgiXK4YuytQOgoMc"
@@ -5662,7 +5680,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 481000,
       "name": "De la Vida Como Pelicula, Tragedia, Comedia y Ficcion",
       "url": "https://open.spotify.com/track/76YpLOgJcD2YInDHs5u69s"
@@ -6940,7 +6958,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 113400,
       "name": "El Costillar",
       "url": "https://open.spotify.com/track/6iFPOUYTO1HUs3sDGBjM7Y"
@@ -8372,6 +8390,24 @@
       "duration_ms": 223186,
       "name": "Flores Amarillas",
       "url": "https://open.spotify.com/track/4PUmVspCOFioja8MFM653t"
+    },
+    {
+      "album": {
+        "name": "Floricienta",
+        "url": "https://open.spotify.com/album/5vzRtE9SIJ6MVL0j6uFhW9"
+      },
+      "artists": [
+        {
+          "name": "Floricienta",
+          "url": "https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223186,
+      "name": "Flores Amarillas",
+      "url": "https://open.spotify.com/track/5wBBoVjoounI5e36oI8oZe"
     },
     {
       "album": {
@@ -16380,7 +16416,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 137679,
       "name": "No Te Pude Arrancar",
       "url": "https://open.spotify.com/track/2vPwhoKr0SvdyDpwUp6SDR"
@@ -17626,7 +17662,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
@@ -20112,7 +20148,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 256426,
       "name": "Rapa Nui Mi Amor",
       "url": "https://open.spotify.com/track/6EUOJhj0E2uBkrNw062vzF"
@@ -21778,7 +21814,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 148853,
       "name": "Si Tu Me Amaras",
       "url": "https://open.spotify.com/track/0LJkvD240HFtVsq22eSbYb"
@@ -22350,6 +22386,24 @@
       "duration_ms": 227093,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
+    },
+    {
+      "album": {
+        "name": "SPECIALZ",
+        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238986,
+      "name": "SPECIALZ",
+      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
     },
     {
       "album": {
@@ -25436,7 +25490,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 154489,
       "name": "Uru Te Hami",
       "url": "https://open.spotify.com/track/607g9792OBarGHbrH4UHDr"
@@ -26054,6 +26108,24 @@
       "duration_ms": 203948,
       "name": "Watch The World Burn",
       "url": "https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "album": {

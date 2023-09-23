@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/taylorrooks/\">Taylor Rooks</a> ",
-  "num_followers": 121,
+  "num_followers": 126,
   "original_name": "Taylor Rook's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2NjNTAyMTgyNzJhMmQ2ZWU1MzcyNzc3OTM0YTliZDlkNmM3MTkw",
+  "snapshot_id": "MCw2NDQzZDkwODFjMWUwZjE3Y2Y0MmM3ZTUxNDcxMzdlNmY4N2FkZTE4",
   "tracks": [
     {
       "added_at": "2023-08-01 18:49:51",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-08-01 18:49:51",
       "album": {
+        "name": "Culture III (Deluxe)",
+        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 239316,
+      "name": "Time For Me",
+      "url": "https://open.spotify.com/track/6972gesJzavKyykRcriN0A"
+    },
+    {
+      "added_at": "2023-08-01 18:49:51",
+      "album": {
         "name": "CHERRY SORBET (ft. Sevyn Streeter)",
         "url": "https://open.spotify.com/album/3xRFXmzSh28yDeIlHVMruh"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 186413,
       "name": "CHERRY SORBET (ft. Sevyn Streeter)",
       "url": "https://open.spotify.com/track/2uuGKdQMVCQIVrcLrybN7f"
-    },
-    {
-      "added_at": "2023-08-01 18:49:51",
-      "album": {
-        "name": "Culture III (Deluxe)",
-        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 239316,
-      "name": "Time For Me",
-      "url": "https://open.spotify.com/track/6972gesJzavKyykRcriN0A"
     },
     {
       "added_at": "2023-08-01 18:49:51",

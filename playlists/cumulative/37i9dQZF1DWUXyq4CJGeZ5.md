@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-433 songs - 18 hr 53 min
+434 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Boundaries](https://open.spotify.com/track/6fcBDcZTZVx1jJAED8KYv0) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Boundaries](https://open.spotify.com/album/2B6kWesA1AyfYfG6VxZN2b) | 2:50 | 2023-03-10 |  |
 | [Boundless](https://open.spotify.com/track/1nZVRKDnMNRgwO7bkOJvz4) | [Marcello Liverani](https://open.spotify.com/artist/4p6pMpsoAUTY1yk6kiMMSt) | [Boundless](https://open.spotify.com/album/5IqzIiht8aJeEDPy4qKrPJ) | 2:20 | 2023-03-10 |  |
 | [Bridge to Nowhere](https://open.spotify.com/track/1A6rVJJddqf7ct6FnK6cHE) | [Novum Cordis](https://open.spotify.com/artist/3iSbAtzrrSEaZlc16jeS9d) | [Bridge to Nowhere](https://open.spotify.com/album/75eFUsF34geJ4j4CiPD5Jt) | 2:51 | 2023-03-10 |  |
-| [Broken Wings](https://open.spotify.com/track/6DsrTcbNItkd09LUx61ZGd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Broken Wings](https://open.spotify.com/album/7yhv9BZoyPY5xlf1LAzW8V) | 2:00 | 2023-03-10 | 2023-09-22 |
+| [Broken Wings](https://open.spotify.com/track/6DsrTcbNItkd09LUx61ZGd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Broken Wings](https://open.spotify.com/album/7yhv9BZoyPY5xlf1LAzW8V) | 2:00 | 2023-03-10 |  |
 | [Brothers](https://open.spotify.com/track/4wAgG2Y5yUrMc1RdMQJR14) | [Liam Muntz](https://open.spotify.com/artist/3xxV3NmQixCSk6fUPlGSvP) | [Brothers](https://open.spotify.com/album/3Da9jMzHmxCC3ruuyli07H) | 2:28 | 2023-03-10 |  |
 | [Buffet De Joie](https://open.spotify.com/track/5UJtLkVsd0vcJuFdUNcpks) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Buffet De Joie](https://open.spotify.com/album/7IZua1FG2Ajgi3Chytc9Ru) | 2:54 | 2023-03-10 |  |
 | [Calvaire](https://open.spotify.com/track/76IjkqtXsgh2VJMsymMD42) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Calvaire](https://open.spotify.com/album/0GpzLHZ3EayNBuX7dTlKuB) | 2:16 | 2023-03-10 |  |
@@ -77,7 +77,7 @@
 | [Da adesso fino all'eternità](https://open.spotify.com/track/26OTGhDqOhNmVQLeI3W2ub) | [Rosa La Corte](https://open.spotify.com/artist/57woN5sU727z9ImHQPuQL7) | [Da adesso fino all'eternità](https://open.spotify.com/album/6RxGkjRQ7iKkQQ1GByow06) | 2:03 | 2023-03-10 |  |
 | [Dagrøm](https://open.spotify.com/track/2x66aNwtjp3riJ1lurDElm) | [Flemming Hoovgard](https://open.spotify.com/artist/4aW1OBhYHyrbMWqbEfE5gT) | [Dagrøm](https://open.spotify.com/album/42mz8sXPvqxfnQGYbmHtbP) | 2:21 | 2023-03-10 |  |
 | [Dahlias](https://open.spotify.com/track/0r0z0VyDa8X5fu3Kl6ybYi) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Dahlias](https://open.spotify.com/album/22hBdp6pvyZzEI3Fu8x58n) | 2:11 | 2023-03-10 |  |
-| [Day 2](https://open.spotify.com/track/6U1kPBM3jg1p0Cy3KBCIYm) | [Cal Yumi](https://open.spotify.com/artist/2xA4M9ua48TrZA7dwLh1ep) | [Day 2](https://open.spotify.com/album/2Opjbq58KxzIUhK0kXNvnu) | 2:01 | 2023-03-10 |  |
+| [Day 2](https://open.spotify.com/track/6U1kPBM3jg1p0Cy3KBCIYm) | [Cal Yumi](https://open.spotify.com/artist/2xA4M9ua48TrZA7dwLh1ep) | [Day 2](https://open.spotify.com/album/2Opjbq58KxzIUhK0kXNvnu) | 2:01 | 2023-03-10 | 2023-09-23 |
 | [Days Gone By](https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 3:08 | 2023-03-10 |  |
 | [De seu](https://open.spotify.com/track/5Bl7fjZwq3u37T51tspPAp) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [De Seu](https://open.spotify.com/album/0a84zl4kQdodn1VhkTl3jl) | 2:35 | 2023-03-10 |  |
 | [Der Vogel auf dem Felsen](https://open.spotify.com/track/6qeY26kCmlIzpLZVibJU4M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 2:20 | 2023-03-10 |  |
@@ -149,7 +149,7 @@
 | [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 | 2023-03-10 |  |
 | [Holding On To A Dream](https://open.spotify.com/track/3JckG2zBLn2DMyaB7kInQ1) | [Tedosio](https://open.spotify.com/artist/3El5MgGZoJYZvUhnn9O94A) | [Holding On To A Dream](https://open.spotify.com/album/7xWCR5yrTl5TquNUxPEnq4) | 2:23 | 2023-03-10 |  |
 | [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 | 2023-03-10 |  |
-| [Home](https://open.spotify.com/track/05Q8uBYvjswv0o6tleaVai) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Home](https://open.spotify.com/album/42kPAPri8I3wQyc42KZ9ok) | 3:25 | 2023-03-10 |  |
+| [Home](https://open.spotify.com/track/05Q8uBYvjswv0o6tleaVai) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Home](https://open.spotify.com/album/42kPAPri8I3wQyc42KZ9ok) | 3:25 | 2023-03-10 | 2023-09-23 |
 | [Home full of solipsism](https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Home full of solipsism](https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA) | 2:57 | 2023-03-10 |  |
 | [Homecoming](https://open.spotify.com/track/3m2AfO2MVWB1hgrEwFnwpA) | [Matthew Paull](https://open.spotify.com/artist/1SCYbA8Dz2FbWaVt6nVQo3) | [Homecoming](https://open.spotify.com/album/6TWSSCJhQUJcyLPanQJcgC) | 2:57 | 2023-03-10 |  |
 | [Hopeful](https://open.spotify.com/track/2zPRHgX9cIOMaV7dX23miR) | [Josephine Scwartz](https://open.spotify.com/artist/1I0Xs30ubj3VqMZ6nS3YDn) | [Hopeful](https://open.spotify.com/album/3z22jBjUyXuZoBhqxS0CQF) | 3:15 | 2023-03-10 |  |
@@ -305,7 +305,7 @@
 | [Red Roses](https://open.spotify.com/track/5CF6kdYN9s5x3Zps5hHPDZ) | [Anderson Rivers](https://open.spotify.com/artist/7986zAExINQv5pQz94fBc3) | [Red Roses](https://open.spotify.com/album/4ahdVWqHe9HBFjoBfq5w9O) | 1:54 | 2023-03-10 |  |
 | [Red Sky](https://open.spotify.com/track/17ATrlvNNZdpPOeKB3YJHT) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Red Sky](https://open.spotify.com/album/6aTev9H6NeG5l03DgD3rJc) | 2:19 | 2023-03-10 |  |
 | [Reflections](https://open.spotify.com/track/1qXzQi8CxX0Y5JqZ22m1zy) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reflections](https://open.spotify.com/album/11xwClKSNpUm1w1dYE4HnI) | 2:09 | 2023-03-10 |  |
-| [Reflections](https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Reflections](https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX) | 1:50 | 2023-03-10 | 2023-09-22 |
+| [Reflections](https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Reflections](https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX) | 1:50 | 2023-03-10 |  |
 | [Remedy](https://open.spotify.com/track/1VqFyIu8S1o5XkiZSQR2iN) | [Julien Thorsen](https://open.spotify.com/artist/4mm2IRrNFYuVoESj439Apn) | [Remedy](https://open.spotify.com/album/3sjka7Lq2ZUoBJGZSdRJxQ) | 1:58 | 2023-03-10 |  |
 | [Remembering](https://open.spotify.com/track/6kwqwIUxDK84yXyfL7jvGf) | [Minette Martin](https://open.spotify.com/artist/3wQXisRiLi09Cw9UUSd0cA) | [Remembering](https://open.spotify.com/album/5MgQWq121MYWo7NdwgbJ1K) | 2:18 | 2023-03-10 |  |
 | [Respite](https://open.spotify.com/track/2udO9YUSR2cRQNgMyoJEYC) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Sensibilities](https://open.spotify.com/album/6kMSO9oS3Wf2CmiOmbYIDg) | 2:20 | 2023-03-10 |  |
@@ -373,7 +373,7 @@
 | [The Pond](https://open.spotify.com/track/2fJLNEDPFM38gcXeY58WNa) | [Mads Hellmuth](https://open.spotify.com/artist/4Msoax7rmMKTsCwJKtGUda) | [Glass](https://open.spotify.com/album/15EG8tQC79eJTpMLkZaZGz) | 3:14 | 2023-03-10 |  |
 | [The Question](https://open.spotify.com/track/07SaUURZhay2n0SIGVVFtu) | [Cullen Waller](https://open.spotify.com/artist/1q5Nczup0WnMsnnhRxJ4BX) | [The Question](https://open.spotify.com/album/3XNSOM2jeWp4YhJC8pe2hU) | 3:01 | 2023-03-10 |  |
 | [The Reason Why](https://open.spotify.com/track/0C14i4tdhEb5mor8aia7ix) | [Esme Sanford](https://open.spotify.com/artist/3T88MTp2AubsoH7BHmPpDi) | [The Reason Why](https://open.spotify.com/album/47oAYFVTExyqWFPC3aW7ye) | 2:13 | 2023-03-10 |  |
-| [The Right Time](https://open.spotify.com/track/3FA1m1pT3dnbRfZdiWCKQZ) | [Nick Vereshchak](https://open.spotify.com/artist/7u4DRtXXgLlr8Nf6b8vA56) | [Recollections Vol\. 8](https://open.spotify.com/album/6l7TZVCSf4RYOJM1YlslHD) | 1:48 | 2023-03-10 |  |
+| [The Right Time](https://open.spotify.com/track/3FA1m1pT3dnbRfZdiWCKQZ) | [Nick Vereshchak](https://open.spotify.com/artist/7u4DRtXXgLlr8Nf6b8vA56) | [Recollections Vol\. 8](https://open.spotify.com/album/6l7TZVCSf4RYOJM1YlslHD) | 1:48 | 2023-03-10 | 2023-09-23 |
 | [The Shadow Of The Wind](https://open.spotify.com/track/6FTgfZZTT8Z60nMoI5efst) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Helligvaer](https://open.spotify.com/album/29Xn4EC2TtRXPn9RYp58Ao) | 2:34 | 2023-03-10 |  |
 | [The Sky](https://open.spotify.com/track/2VXkzMDKubnPzh16J9b9tm) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [The Sky](https://open.spotify.com/album/54HWr8JfjFpNgBIKllPuXg) | 2:38 | 2023-03-10 |  |
 | [The Sky Is Mine](https://open.spotify.com/track/6dIGw0ChcSE4zXCqPfCbw2) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [The Sky Is Mine](https://open.spotify.com/album/0eEyjp3aw6rE5ruirePD2Q) | 3:00 | 2023-03-10 |  |
@@ -418,6 +418,7 @@
 | [Watching Over You](https://open.spotify.com/track/6kWVRQKxzpOj8r06pps6O3) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [delta/alpha](https://open.spotify.com/album/6W2BFocMWkUumhGSrgE9il) | 2:18 | 2023-03-10 |  |
 | [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2023-03-10 |  |
 | [Watercolor Tears](https://open.spotify.com/track/23J46AHR6peFeGAGTWeKYs) | [Brian Crain](https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb) | [Watercolor Tears](https://open.spotify.com/album/01JltJK8hpA8QBOPb0t5XJ) | 3:15 | 2023-03-10 |  |
+| [We Persist](https://open.spotify.com/track/5cWCVoVOHjhUNm0I3JE06l) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [We Persist](https://open.spotify.com/album/7xalfDfiAV5jIbebi7uwtX) | 2:39 | 2023-03-10 |  |
 | [We Won't Waltz Together](https://open.spotify.com/track/3tFwWjy78LQ2NOWANzWMdS) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [We Won't Waltz Together](https://open.spotify.com/album/5QMCSEHMqFmqOQhSWFQGWD) | 2:06 | 2023-03-10 |  |
 | [Westwood](https://open.spotify.com/track/6sfddrMHU0zljVevQLa4dg) | [Peter Bach](https://open.spotify.com/artist/7uOP00uc0fjE4yEFecj0oL) | [Westwood](https://open.spotify.com/album/5G0SwN1Hn8Xz91PcE8UoGy) | 2:42 | 2023-03-10 |  |
 | [What She Said](https://open.spotify.com/track/01DgyWLmCNuUBJJGuokRiq) | [Aiden Riedel](https://open.spotify.com/artist/77j4VlHhrvqU37GkYjwmp1) | [What She Said](https://open.spotify.com/album/4b6MJlepYeFPi7MYuaRUiT) | 2:04 | 2023-03-10 |  |

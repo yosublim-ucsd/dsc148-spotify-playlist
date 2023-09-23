@@ -1,12 +1,12 @@
 {
   "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: TOMORROW X TOGETHER + Anitta",
-  "num_followers": 362716,
+  "num_followers": 363056,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjlhMTJmMzNkYTY0MDA4YTBjY2JiYmZhYTRlYzg4ZDljYjE5OGFk",
+  "snapshot_id": "MCwwOWE3NTdjNjkxNDQzNWVkNDBhNTdkNjE5OGM4ZDA3ODU4ZDhhZTI2",
   "tracks": [
     {
       "added_at": "2023-09-21 15:00:00",
@@ -127,6 +127,26 @@
       "duration_ms": 185920,
       "name": "Killin' Me Good (English Ver.)",
       "url": "https://open.spotify.com/track/0t5Q16hVryXI4CKx8VpA66"
+    },
+    {
+      "added_at": "2023-09-21 15:00:00",
+      "album": {
+        "name": "Better Things (Tropkillaz Remix)",
+        "url": "https://open.spotify.com/album/05K5RSyTasOI8cQTFHhTLS"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        }
+      ],
+      "duration_ms": 180468,
+      "name": "Better Things - Tropkillaz Remix",
+      "url": "https://open.spotify.com/track/7KxWAxnc5v27PO8YyhySn8"
     },
     {
       "added_at": "2023-09-21 15:00:00",
@@ -369,7 +389,7 @@
         }
       ],
       "duration_ms": 230933,
-      "name": "New tomorrow",
+      "name": "New Tomorrow",
       "url": "https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c"
     },
     {

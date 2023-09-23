@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV?si=M8wBYGVZRL6guaMcxZZQsA\">Maverick City Music<a> ",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"spotify:artist:6JaSyvyg28SHC0Of8YE6M9\">Christine D'Clario<a> ",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -100,6 +100,28 @@
       "duration_ms": 228269,
       "name": "Abide - Radio Version",
       "url": "https://open.spotify.com/track/1kjy5475BVdvJ4ZgG2So9L"
+    },
+    {
+      "album": {
+        "name": "Acts 2",
+        "url": "https://open.spotify.com/album/1dMORalDL5wqJ4xEIN61U1"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375735,
+      "name": "Acts 2",
+      "url": "https://open.spotify.com/track/2SMCSikXj3CYsghcaUVscv"
     },
     {
       "album": {
@@ -1778,7 +1800,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 230206,
       "name": "Current / One Day At A Time - Medley",
       "url": "https://open.spotify.com/track/3Y9yvWKk9n80sPjxVk4maA"
@@ -5308,8 +5330,8 @@
       },
       "artists": [
         {
-          "name": "C3 NYC",
-          "url": "https://open.spotify.com/artist/6tVUFgMhjG96KGcJSr3BdJ"
+          "name": "FOUNT",
+          "url": "https://open.spotify.com/artist/1XB2yEIY0NycZEX3UCbyIR"
         }
       ],
       "date_added": "2023-01-06",
@@ -6328,7 +6350,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 374437,
       "name": "Pursuit (As The Deer) - Live",
       "url": "https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa"
@@ -7096,6 +7118,24 @@
       "duration_ms": 320946,
       "name": "Still God, Still Good - Live",
       "url": "https://open.spotify.com/track/3posR6JonWL4rXCHeO8xDP"
+    },
+    {
+      "album": {
+        "name": "Stories On Stories",
+        "url": "https://open.spotify.com/album/7rqxrTJYrTRSszKiqn6VXK"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240457,
+      "name": "Stories On Stories",
+      "url": "https://open.spotify.com/track/3GLialPfon3PHfwNjZvgi2"
     },
     {
       "album": {
@@ -8038,7 +8078,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 221274,
       "name": "This Is How I Thank The Lord (feat. Cody Carnes, Amanda Cook, Joe L Barnes)",
       "url": "https://open.spotify.com/track/2t8f07knCNSY19avq19l1R"
@@ -9162,6 +9202,24 @@
       "duration_ms": 535856,
       "name": "Your Dwelling Place - Live from Anchour Studio",
       "url": "https://open.spotify.com/track/3ZGqTZZUqOU2c66FIAtrfB"
+    },
+    {
+      "album": {
+        "name": "Your Love Will Never Change (Live At Mosaic, Los Angeles, 2023)",
+        "url": "https://open.spotify.com/album/1ClXRS95oKTIZU2EuuFk7M"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Your Love Will Never Change - Live At Mosaic, Los Angeles, 2023",
+      "url": "https://open.spotify.com/track/6jbqxumh7V2O5AoT0Qd0ny"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVYgpMbMPJMz"

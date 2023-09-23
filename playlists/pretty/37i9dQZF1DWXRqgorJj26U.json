@@ -1,12 +1,12 @@
 {
   "description": "Rock legends & epic songs that continue to inspire generations. Cover: Queen",
-  "num_followers": 11825766,
+  "num_followers": 11828073,
   "original_name": "Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjI5Njk1NDA5ZDQ4Njk0ZTNlNTMxMmMzOTIzMWJkNjQ0ZjgyM2E3",
+  "snapshot_id": "MCw2YjQ5NzA4YjJjNjQwZTM3YWEwODY5ZDljMjAwN2RmNDk4MDRjZWMx",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -3199,22 +3199,6 @@
       "duration_ms": 210173,
       "name": "You Shook Me All Night Long",
       "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Everywhere - 2017 Remaster",
-      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
     }
   ],
   "unique_name": "Rock Classics",

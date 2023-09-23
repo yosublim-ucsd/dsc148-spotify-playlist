@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-177 songs - 9 hr 54 min
+179 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Alag Aasmaan](https://open.spotify.com/track/74kCarkFBzXYXNkkYJIsG0) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Alag Aasmaan](https://open.spotify.com/album/2WSMj9vMUGTwAMq0fo1vXi) | 3:32 | 2023-05-17 | 2023-06-10 |
 | [Alag Aasmaan \(Acoustic\)](https://open.spotify.com/track/1gxmaTGnxEgZuV8485tevN) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Alag Aasmaan \(Acoustic\)](https://open.spotify.com/album/6o0udgyHVEdegUKzU2sh89) | 3:31 | 2023-05-17 | 2023-08-11 |
 | [Alvida \- Unplugged](https://open.spotify.com/track/2MEviVXfyeaCCbro4ewCiJ) | [Dhiren](https://open.spotify.com/artist/1sRgove6hd99H244tmsvxZ) | [Alvida \(Unplugged\)](https://open.spotify.com/album/6HMp56pHJKt4f6q2r2EwD8) | 3:30 | 2023-05-17 | 2023-07-25 |
-| [Aye Ajnabi](https://open.spotify.com/track/2pifOwXzqTdRHnVWXWoozl) | [Azadd](https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA) | [Aye Ajnabi](https://open.spotify.com/album/1n55d51MmvrGDqKba3Fx5W) | 2:56 | 2023-05-31 |  |
+| [Aye Ajnabi](https://open.spotify.com/track/2pifOwXzqTdRHnVWXWoozl) | [Azadd](https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA) | [Aye Ajnabi](https://open.spotify.com/album/1n55d51MmvrGDqKba3Fx5W) | 2:56 | 2023-05-31 | 2023-09-23 |
 | [Baarish Ki Boondein](https://open.spotify.com/track/18FhNEar51YMYXureTvkIn) | [Vibhas Arora](https://open.spotify.com/artist/5XNdEnoXYNrEm253PGukm3) | [Baarish Ki Boondein](https://open.spotify.com/album/178HTP7ToLI97nK9HySr0m) | 3:28 | 2023-07-07 |  |
 | [Baarishein](https://open.spotify.com/track/07Nu7WQpx6eKoS3VLprxOR) | [Shubham Agrawal](https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev) | [Baarishein](https://open.spotify.com/album/0391DL7W1ftvUB6K1TO4an) | 3:33 | 2023-08-04 |  |
 | [Baarishein \(Acoustic\)](https://open.spotify.com/track/3Ro0jYDrZcygFkdomURHqt) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein \(Acoustic\)](https://open.spotify.com/album/2YzCwXR0mLizrGV0sRVF2I) | 3:29 | 2023-07-14 |  |
@@ -124,6 +124,7 @@
 | [Mushkil Mein Jeena](https://open.spotify.com/track/3ApLFFuaXsKBnDhspuQrWj) | [Swarathma](https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX) | [Mushkil Mein Jeena](https://open.spotify.com/album/4devqBSJu5bUYTi3eHUkr8) | 5:42 | 2023-05-17 | 2023-06-13 |
 | [Na Jaane Tu](https://open.spotify.com/track/4toWcCNqdFYcsfaiHGDOAe) | [Krishna Goel](https://open.spotify.com/artist/0TTxWgAwRewRgspfDFch7H) | [Na Jaane Tu](https://open.spotify.com/album/2lqPWPHZUo8wdkUImxmgCM) | 4:06 | 2023-06-26 | 2023-08-05 |
 | [Na Neend Hai Na Khwaab](https://open.spotify.com/track/6btADb95DODidqb9HFkl9l) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Na Neend Hai Na Khwaab](https://open.spotify.com/album/0YYIAeWLRCzJfpDyRFiNJv) | 3:46 | 2023-05-17 | 2023-08-05 |
+| [Nai Lagda](https://open.spotify.com/track/6CfBIO3VC5zVybvTf6zH2V) | [Ajayank](https://open.spotify.com/artist/6FSvAGhOgbsfufcDYeau6o) | [Nai Lagda](https://open.spotify.com/album/6g39saDUux7Pe1wZLdcoR1) | 2:24 | 2023-09-22 |  |
 | [Nami Danam](https://open.spotify.com/track/21zVuAAjqefWyA27NWZTiY) | [Aditya Kambhampati](https://open.spotify.com/artist/00dVKOZFv0XpCJCunfFWEE) | [Nami Danam](https://open.spotify.com/album/1bVfwBHWZ7XEYBO4oottGQ) | 4:51 | 2023-07-19 | 2023-08-03 |
 | [Naya Jahaan \- Stripped](https://open.spotify.com/track/3OUmQlsuMxUxcapjTotHMB) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Naya Jahaan \- Stripped](https://open.spotify.com/album/6V61uR9ixr8BOxYo84Xso3) | 2:15 | 2023-08-30 |  |
 | [Paas Mere](https://open.spotify.com/track/6L8QciURnXIwZVZMeeNJB5) | [Rajraktim Konwar](https://open.spotify.com/artist/6y65f3ZHnYyTcVjnNQwvJZ), [Mayukh](https://open.spotify.com/artist/19I0L8PB44SSGiPhpIjdmr) | [Paas Mere](https://open.spotify.com/album/3zxrvRU4mO4kUBGIXG78xr) | 2:56 | 2023-08-28 |  |
@@ -151,7 +152,7 @@
 | [Sadgi](https://open.spotify.com/track/0w891ljZDidc50QRARZxL6) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Sadgi](https://open.spotify.com/album/0DfVYUSlcjLDa2eAgJd6RR) | 4:09 | 2023-06-22 | 2023-08-10 |
 | [Sheher](https://open.spotify.com/track/16ipZHJpbcELsK0B1SXhSV) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:05 | 2023-06-12 |  |
 | [Tabaahi \(Stripped Down Version\)](https://open.spotify.com/track/4DfwE2GhqMvKeuGu6DfwmX) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) | [Tabaahi \(Stripped Down Version\)](https://open.spotify.com/album/4TXUigDQ7VWhNxmgBz62O7) | 2:18 | 2023-06-23 | 2023-08-05 |
-| [Tera Aasra](https://open.spotify.com/track/2bt46Wc1gdlwLq4WA34Lwf) | [Xeede](https://open.spotify.com/artist/4vctQONvB4a2PdcySenCRu), [F Kaze](https://open.spotify.com/artist/3LzW4ntDuBhWgewwqs7jL7) | [Tera Aasra](https://open.spotify.com/album/0FVTyISjP50lQI9nLKLgG9) | 3:00 | 2023-07-12 |  |
+| [Tera Aasra](https://open.spotify.com/track/2bt46Wc1gdlwLq4WA34Lwf) | [Xeede](https://open.spotify.com/artist/4vctQONvB4a2PdcySenCRu), [F Kaze](https://open.spotify.com/artist/3LzW4ntDuBhWgewwqs7jL7) | [Tera Aasra](https://open.spotify.com/album/0FVTyISjP50lQI9nLKLgG9) | 3:00 | 2023-07-12 | 2023-09-23 |
 | [Tera Saath](https://open.spotify.com/track/1fINFWBFzNNU2k5TVWgFoa) | [Rishabh Shah](https://open.spotify.com/artist/1BVz5IvR4oVIdg5OiieDo8), [Bhaven Dhanak](https://open.spotify.com/artist/3HI3NpSJpafnCHuiKKhJ9D) | [Tera Saath](https://open.spotify.com/album/4GLNPcFEMzcLOoIcyy4nxQ) | 2:54 | 2023-06-20 | 2023-09-22 |
 | [Tere Bin Laage](https://open.spotify.com/track/5GfZTeR24ugCddSRj0BKU9) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Tere Bin Laage](https://open.spotify.com/album/6qDbMxoh61bYMbBwKdrssP) | 3:29 | 2023-05-17 |  |
 | [Tere Hawaale](https://open.spotify.com/track/1ByVM9F8HeekD3aGXatRWd) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Laal Singh Chaddha](https://open.spotify.com/album/5OLQiL6HaWJl734EqPjoY9) | 5:46 | 2023-05-17 |  |
@@ -172,6 +173,7 @@
 | [Tu Shaam aur Chai](https://open.spotify.com/track/4qpvCNIUdfT2ND2HEisUcZ) | [Shadaab Hashmi](https://open.spotify.com/artist/6yNEY8VOMEzsD2bQZJdqEl) | [Tu Shaam aur Chai](https://open.spotify.com/album/6ozGN0Q1iT85gOGAUw3jQU) | 2:31 | 2023-08-08 |  |
 | [Tujhsa Koi](https://open.spotify.com/track/6jaqvNjr73noLIQ9kh29uc) | [Tanzeel Khan](https://open.spotify.com/artist/64Bnlany1OG6esdJyOxyey) | [Tujhsa Koi](https://open.spotify.com/album/6lwcv8iowg548rs9MH0v2p) | 2:51 | 2023-09-21 |  |
 | [Tum Aur Main](https://open.spotify.com/track/29O6kviQMumVmWZDO14QSB) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Tum Aur Main](https://open.spotify.com/album/3uP0bCOGPkGSPKzfN3tJyU) | 2:43 | 2023-07-19 |  |
+| [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 | 2023-09-22 |  |
 | [TUM JO SAATH HO](https://open.spotify.com/track/4LoBM8A2XOuiQ4Ic3IVWeu) | [Archit Tak](https://open.spotify.com/artist/2j4zrtE8NNT2KgHpCoyoYA) | [TUM JO SAATH HO](https://open.spotify.com/album/6lR4XHAh3vVFzkp9otcMBs) | 4:01 | 2023-06-08 | 2023-08-04 |
 | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/track/7JdzydVMtRwxr1BUIipZbv) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/album/5IoxrWkZLHmHIhZLHyiAjj) | 1:15 | 2023-09-21 |  |
 | [Tum Mujhe Jaante Ho \- Ukulele Version](https://open.spotify.com/track/1kZZfGmtZHBd4cZOuov1k0) | [Trishita Recs](https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4), [Luv](https://open.spotify.com/artist/1dEulvhhLRgnDn5DW1WNqe) | [Tum Mujhe Jaante Ho \(Ukulele Version\)](https://open.spotify.com/album/69hZQvIMjMIOEhgYmuWZua) | 3:50 | 2023-05-17 |  |

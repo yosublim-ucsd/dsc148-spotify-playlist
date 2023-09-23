@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX985zOWqF6jF.md) - [plain]
 
 > Y es que cuando nos comemo' hacemo' unas pose que los do' desconocemo'
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,053 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,136 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX985zOWqF6jF.md) - [plain]
 | 70 | [ALGARETE](https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [ALGARETE](https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n) | 3:28 |
 | 71 | [Encima De Mi](https://open.spotify.com/track/0hAxyVU6Nro3equjEQdFq2) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Trap Cake, Vol\. 1](https://open.spotify.com/album/37rUi63O4koMFvrSC1EMam) | 3:44 |
 | 72 | [Luna](https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Luna](https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf) | 2:28 |
-| 73 | [No Es Normal \(con Jay Wheeler\)](https://open.spotify.com/track/7hd7BiCHRG9ItaUolMFLgr) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [No Es Normal \(con Jay Wheeler\)](https://open.spotify.com/album/1O3zYVpdxYT8EEp5lI4RFX) | 2:53 |
-| 74 | [Fuego Forestal](https://open.spotify.com/track/1G5rMuBltKhOavItlryMIO) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Fuego Forestal](https://open.spotify.com/album/3RIn81bgJPiH4XmMlDUm0Q) | 3:18 |
+| 73 | [Fuego Forestal](https://open.spotify.com/track/1G5rMuBltKhOavItlryMIO) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Fuego Forestal](https://open.spotify.com/album/3RIn81bgJPiH4XmMlDUm0Q) | 3:18 |
+| 74 | [No Es Normal \(con Jay Wheeler\)](https://open.spotify.com/track/7hd7BiCHRG9ItaUolMFLgr) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [No Es Normal \(con Jay Wheeler\)](https://open.spotify.com/album/1O3zYVpdxYT8EEp5lI4RFX) | 2:53 |
 | 75 | [Una Noche Loca](https://open.spotify.com/track/6aYJlGgl6BFH2ZOmse7wpG) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [Una Noche Loca](https://open.spotify.com/album/28YLk4yInrLrxXPlsjqMN1) | 3:14 |
 | 76 | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80) | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC) | 3:24 |
 | 77 | [Xexo](https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Xexo](https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T) | 3:00 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX985zOWqF6jF.md) - [plain]
 | 80 | [soso \(with Ozuna\)](https://open.spotify.com/track/4xy8o1WzpHwEEg0IOiU7rJ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 3:22 |
 | 81 | [Tírame](https://open.spotify.com/track/5s02iWgBdqnf75q0xTdvj4) | [Genio](https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Astros](https://open.spotify.com/album/0ABNkRjooiKfK9ZNgWrCK0) | 3:56 |
 | 82 | [Vitamina \(feat\. Arcángel\)](https://open.spotify.com/track/5W9oqM9MkYU0DVBic748ZJ) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Vitamina \(feat\. Arcángel\)](https://open.spotify.com/album/0mPwut7P0DiyicRDcmNbnp) | 4:30 |
-| 83 | [Umaye](https://open.spotify.com/track/0ayp5mTJMPRlDF5uHWB3CY) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU) | [Umaye](https://open.spotify.com/album/3lk98k04z5zicK7vAVkDu7) | 2:31 |
-| 84 | [Ponme al Dia](https://open.spotify.com/track/2pPUUM4NPWT4KV7Jf0Mnmb) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Quien Contra Mi 2](https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy) | 4:14 |
+| 83 | [Ponme al Dia](https://open.spotify.com/track/2pPUUM4NPWT4KV7Jf0Mnmb) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Quien Contra Mi 2](https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy) | 4:14 |
+| 84 | [Umaye](https://open.spotify.com/track/0ayp5mTJMPRlDF5uHWB3CY) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU) | [Umaye](https://open.spotify.com/album/3lk98k04z5zicK7vAVkDu7) | 2:31 |
 | 85 | [Modo Avión](https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Modo Avión](https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn) | 3:01 |
 | 86 | [VAQUERITA](https://open.spotify.com/track/10Z3XfqcjouvPfh9D3baLF) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [VAQUERITA](https://open.spotify.com/album/2anh30EglEFPGLCy741Q2Q) | 2:32 |
 | 87 | [Mamisonga](https://open.spotify.com/track/0B5NFyHi0F9SPyd1A0En9m) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Yo Soy la Fama](https://open.spotify.com/album/1Kh36gr6wF5KfF2oGTKTSX) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX985zOWqF6jF.md) - [plain]
 | 99 | [TEIDE](https://open.spotify.com/track/1Fz16SDK0IZGOKqvgbJNbJ) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [CÓDIGOS](https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe) | 3:02 |
 | 100 | [Kush](https://open.spotify.com/track/4dyhfLyhSLLzqe7qXdvrZL) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [KRACK](https://open.spotify.com/album/48jz9xkHGLp3X7dNq4Fljx) | 3:34 |
 
-Snapshot ID: `MCxjNTcwYzRiNzMyZTQzZWRlMWQ3NDJlZDA0YmU0MmM1NDI0NzQ2YjQx`
+Snapshot ID: `MCwwYjE1YWI3OWYxYWI2MzY5Mzc1NmRlM2JmZWM3YWQ2MmUyMTcwNWVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,078 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,126 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 33 | [Long Night](https://open.spotify.com/track/6bBpZU1qSbgkmjYTTFVr8m) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Better Weather](https://open.spotify.com/album/4CRY2jHrlELIVgKfoFVBq9) | 3:33 |
 | 34 | [Never Bloom Again](https://open.spotify.com/track/72zItS5KsVxNyoedmGo2Q7) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 3:32 |
 | 35 | [You Were The Letdown \(Chasing California\)](https://open.spotify.com/track/2NAbdrFwUnXIxBIcl86SZo) | [Oh, Weatherly](https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ) | [Lips Like Oxygen Reimagined](https://open.spotify.com/album/1v6ISjeumbCrVJ3FEOyOoX) | 3:11 |
-| 36 | [Dammit \(Acoustic\)](https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Dammit \(Acoustic\)](https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC) | 4:01 |
+| 36 | [Knuckles \(Acoustic\)](https://open.spotify.com/track/3HhBtAj2VzPfZMMklUIIed) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [Stay Beautiful](https://open.spotify.com/album/08fP12tMKq9moZ0LgJtpkd) | 3:47 |
 | 37 | [Drink To Drown](https://open.spotify.com/track/4oCGjSBibZ4vQDzxcvupBH) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 3:16 |
 | 38 | [Voldemort \(Acoustic\)](https://open.spotify.com/track/3Ju9wEP0b9wkNkVKxxGiJS) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Voldemort](https://open.spotify.com/album/6LSkT8XStkOZG26hWGHZO7) | 3:18 |
-| 39 | [Knuckles \(Acoustic\)](https://open.spotify.com/track/3HhBtAj2VzPfZMMklUIIed) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [Stay Beautiful](https://open.spotify.com/album/08fP12tMKq9moZ0LgJtpkd) | 3:47 |
+| 39 | [Dammit \(Acoustic\)](https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Dammit \(Acoustic\)](https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC) | 4:01 |
 | 40 | [Novocaine](https://open.spotify.com/track/0WlfydvmDWXRdPSqbcjmLR) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Chasing Lonely](https://open.spotify.com/album/4nTEp8V1ov0Z47RT1XMmQJ) | 3:08 |
 | 41 | [It Don't Exist](https://open.spotify.com/track/2NWzOzEnfD5dc4SEgUkgY7) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Acoustic Volume 2](https://open.spotify.com/album/0XIVAebYjcGqbWVHdVLLKD) | 3:35 |
 | 42 | [Tracks](https://open.spotify.com/track/6Pf1Y9DjaDLp53XyLXpaSg) | [ROAM](https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq) | [Backbone](https://open.spotify.com/album/4ZF0Ii6ktAq4QKx9rCN5ku) | 3:22 |
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 48 | [Fashion Forward \(Acoustic\)](https://open.spotify.com/track/3dat7ilaCtUw5uqHbZs8Vc) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Fashion Forward \(Acoustic\)](https://open.spotify.com/album/6N4FN2emskAPc2OVbErRnj) | 3:42 |
 | 49 | [Crying out Loud](https://open.spotify.com/track/3b5xqoWMD6W0oW814guCqs) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Unplugged](https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV) | 3:43 |
 | 50 | [Cruel Summer](https://open.spotify.com/track/70RDWC722GJncJpg5m8Veq) | [Miss Fortune](https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l) | [Cruel Summer](https://open.spotify.com/album/39LK9oMDY5DT0MRhYR1vED) | 2:54 |
-| 51 | [Dear Rose, I'm Haunted](https://open.spotify.com/track/1RassIaNyHc5jjD3oRyK8t) | [Drawn To The Sky](https://open.spotify.com/artist/50rzrA2ZgQYfaBRo6KwG02) | [Dear Rose, I'm Haunted](https://open.spotify.com/album/3lL6k9OydgJKywcvVohCy7) | 3:57 |
-| 52 | [Worn Down](https://open.spotify.com/track/6HtKofQvSs7htcFVKz5IbA) | [Rarity](https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg) | [Worn Down / Leave It Alone](https://open.spotify.com/album/5b47suEormD9CM5lKhrDQq) | 3:25 |
-| 53 | [Ache](https://open.spotify.com/track/0pscI7F5QXePuu2mLYSAA6) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Letters to Our Former Selves](https://open.spotify.com/album/7KyHbEE4nF7sQVXUcJ81oO) | 1:53 |
+| 51 | [Worn Down](https://open.spotify.com/track/6HtKofQvSs7htcFVKz5IbA) | [Rarity](https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg) | [Worn Down / Leave It Alone](https://open.spotify.com/album/5b47suEormD9CM5lKhrDQq) | 3:25 |
+| 52 | [Ache](https://open.spotify.com/track/0pscI7F5QXePuu2mLYSAA6) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Letters to Our Former Selves](https://open.spotify.com/album/7KyHbEE4nF7sQVXUcJ81oO) | 1:53 |
+| 53 | [Dear Rose, I'm Haunted](https://open.spotify.com/track/1RassIaNyHc5jjD3oRyK8t) | [Drawn To The Sky](https://open.spotify.com/artist/50rzrA2ZgQYfaBRo6KwG02) | [Dear Rose, I'm Haunted](https://open.spotify.com/album/3lL6k9OydgJKywcvVohCy7) | 3:57 |
 | 54 | [Tide](https://open.spotify.com/track/1FiwIDi6Vi3a0jXg2CvEkn) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Blue in the Dark](https://open.spotify.com/album/0az0AGSzb0oS9KFnqm6S42) | 2:39 |
-| 55 | [Seattle](https://open.spotify.com/track/2T2knVSbMmqPpI4bSdChuV) | [Those Without](https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy) | [Seattle](https://open.spotify.com/album/5Shjpd37iIUMaNoyBLcLGT) | 3:26 |
+| 55 | [Empty Throne \- Acoustic](https://open.spotify.com/track/6ENH2r9VtuBrPmAV5R7t1f) | [Alazka](https://open.spotify.com/artist/1cvDsLFdRXfZQ1cdRteec7) | [Empty Throne \(Acoustic\)](https://open.spotify.com/album/5Oad5COo5IwNpeqDsWedmg) | 4:55 |
 | 56 | [Wax Poetic \(Acoustic\)](https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Haunted](https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC) | 3:29 |
-| 57 | [Empty Throne \- Acoustic](https://open.spotify.com/track/6ENH2r9VtuBrPmAV5R7t1f) | [Alazka](https://open.spotify.com/artist/1cvDsLFdRXfZQ1cdRteec7) | [Empty Throne \(Acoustic\)](https://open.spotify.com/album/5Oad5COo5IwNpeqDsWedmg) | 4:55 |
+| 57 | [Seattle](https://open.spotify.com/track/2T2knVSbMmqPpI4bSdChuV) | [Those Without](https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy) | [Seattle](https://open.spotify.com/album/5Shjpd37iIUMaNoyBLcLGT) | 3:26 |
 | 58 | [Fentanyl \- Stripped](https://open.spotify.com/track/5Ut3opgBBOXRnQmN4XmJXZ) | [Miss Fortune](https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l) | [Cruel Summer](https://open.spotify.com/album/39LK9oMDY5DT0MRhYR1vED) | 3:19 |
 | 59 | [Dakota \(Reimagined\)](https://open.spotify.com/track/3Rkpb1WRkkFD7AlFjNZf1i) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [Reimagined](https://open.spotify.com/album/3VCobudBxR70a4fngXZFLe) | 3:19 |
 | 60 | [Still Dreaming \(Acoustic\)](https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Redux: The First 10 Years](https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l) | 4:16 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 70 | [Smokestack](https://open.spotify.com/track/6uRRWR5s0vOofSzL7UPB8d) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [E.P.](https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY) | 2:36 |
 | 71 | [Last To Know \- From Exile](https://open.spotify.com/track/6M8Vmvrr4URtl1WFO5YTN6) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [From Exile](https://open.spotify.com/album/4NA26Wy1s046SpVs6VYij9) | 3:59 |
 | 72 | [I'll Be a Mess Without You](https://open.spotify.com/track/1tEHryc3JtijgvhpXetnSm) | [Chief State](https://open.spotify.com/artist/3BgSkC40Vy5XIcu6MKIYv5) | [I'll Be a Mess Without You](https://open.spotify.com/album/5OzUFzQTXROxNoSgRIBb6Z) | 4:37 |
-| 73 | [Agree to Disagree \- Acoustic](https://open.spotify.com/track/5uxbUvPyzIU64kyuKgrKab) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 |
-| 74 | [“sometimes you meet the right people at the wrong times” \- Revisited](https://open.spotify.com/track/60fAMBBIVvW6mao5zVkzIZ) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [When the Dust Settles](https://open.spotify.com/album/2vsNr3uR7EfWMj2Qqt0i4U) | 3:08 |
+| 73 | [“sometimes you meet the right people at the wrong times” \- Revisited](https://open.spotify.com/track/60fAMBBIVvW6mao5zVkzIZ) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [When the Dust Settles](https://open.spotify.com/album/2vsNr3uR7EfWMj2Qqt0i4U) | 3:08 |
+| 74 | [Agree to Disagree \- Acoustic](https://open.spotify.com/track/5uxbUvPyzIU64kyuKgrKab) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 |
 | 75 | [Pavement \(Acoustic\)](https://open.spotify.com/track/6x6aHBeRb6Yy7gU29ctYMy) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Pavement \(Acoustic\)](https://open.spotify.com/album/6EjQOwjTQoiM9X8MW8azuP) | 4:00 |
 
-Snapshot ID: `MCwxNTg4ODk4ZDAyYTdiZTE5OGJjZTc3MGFkNzZhNmUxMDM0NGI5MjFi`
+Snapshot ID: `MCxmMDhkMGFhZmEzMTdmNTY4ZWMxZTNkYTBkMTBlYzAwZjhhZDE4Zjdl`

@@ -3482,7 +3482,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 140200,
       "name": "EFTERFEST",
       "url": "https://open.spotify.com/track/1Pg5xFsAXx3nYuNtmqDHzy"
@@ -11918,6 +11918,28 @@
       "duration_ms": 170624,
       "name": "Remember the Summer (feat. Karra)",
       "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
+    },
+    {
+      "album": {
+        "name": "Remi",
+        "url": "https://open.spotify.com/album/0Q8eCXfZtRk2bPZ1EfiWua"
+      },
+      "artists": [
+        {
+          "name": "Dom F\u00f6rsta",
+          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
+        },
+        {
+          "name": "Caroline",
+          "url": "https://open.spotify.com/artist/0lAH0mtuoDPBLteml8XHKe"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175503,
+      "name": "Remi",
+      "url": "https://open.spotify.com/track/6sfNasnFOGmGWIgssEsXJo"
     },
     {
       "album": {

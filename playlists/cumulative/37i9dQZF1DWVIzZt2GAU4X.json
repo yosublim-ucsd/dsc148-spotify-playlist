@@ -232,7 +232,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 270400,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
@@ -518,6 +518,24 @@
       "duration_ms": 229773,
       "name": "Better Than Today",
       "url": "https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw"
+    },
+    {
+      "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
       "album": {
@@ -1675,6 +1693,24 @@
     },
     {
       "album": {
+        "name": "Matteo",
+        "url": "https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc"
+      },
+      "artists": [
+        {
+          "name": "Matteo Bocelli",
+          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222306,
+      "name": "I'm Here",
+      "url": "https://open.spotify.com/track/4ttrwU0rvD0f4WRQsHDPrh"
+    },
+    {
+      "album": {
         "name": "i'm lonely",
         "url": "https://open.spotify.com/album/3eF1hA0IQHSCsaf7NeZV7S"
       },
@@ -2750,7 +2786,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 224585,
       "name": "Put A Little Love On Me",
       "url": "https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78"

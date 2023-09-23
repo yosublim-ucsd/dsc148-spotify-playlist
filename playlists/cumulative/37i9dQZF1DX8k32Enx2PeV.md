@@ -4,7 +4,7 @@
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-76 songs - 4 hr 36 min
+78 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Feriado](https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Feriado](https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet) | 2:46 | 2023-08-10 |  |
 | [Fuego Que Te Llama](https://open.spotify.com/track/5W6rZxS6qNfdGsnify1ctY) | [Sidestepper](https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B) | [Supernatural Love](https://open.spotify.com/album/5UqBaTISwlVwyjVZJZP8ec) | 4:44 | 2023-04-28 |  |
 | [Gozá Gozá](https://open.spotify.com/track/1Mi4KFAuHfJKRORYYNEQ9B) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [En el Caribe También Pasa Esto](https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp) | 3:53 | 2023-04-28 |  |
+| [Hora Loca](https://open.spotify.com/track/5vgwmo15qa4jKLFW726iaF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hora Loca](https://open.spotify.com/album/5L7vepCGsq5Ji84DPEDjP8) | 3:11 | 2023-09-22 |  |
 | [Isla](https://open.spotify.com/track/0njT0PeIOjXZ4wcY1tuSSJ) | [Som Caney](https://open.spotify.com/artist/7ymW4RibYTRpCKmk3Q5YyH) | [Isla](https://open.spotify.com/album/5QQ2uGDTtJNfM5OffTfSoG) | 3:51 | 2023-04-28 |  |
 | [Juguito de Mañana](https://open.spotify.com/track/1f6Eb2c12zolucM1UuvZal) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Soul AM](https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Juguito de Mañana](https://open.spotify.com/album/6yaOzsyu8grB2xp9m6lkeW) | 3:42 | 2023-04-28 |  |
 | [Loco Playa](https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Los Playa Vol\. 1](https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq) | 3:37 | 2023-04-28 |  |
@@ -79,6 +80,7 @@
 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 | 2023-08-10 |  |
 | [Tierra de Promesas \(Sierra Nevada\)](https://open.spotify.com/track/3ev9a5BsLouEwswQ9IOXtC) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Tierra de Promesas \(Sierra Nevada\)](https://open.spotify.com/album/6IjstXhUKDh4NAPTXXxUbQ) | 3:31 | 2023-04-28 |  |
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-04-28 |  |
+| [Totona](https://open.spotify.com/track/3PZ6unz84QLZExL3HEHNnW) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [Totona](https://open.spotify.com/album/2Z5CUiR6Irh7MnnOWligNY) | 3:25 | 2023-09-22 |  |
 | [Tumbamurallas](https://open.spotify.com/track/2IkCZUGLS7o2tkocsMNgC9) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Rumbo a Tiera](https://open.spotify.com/album/3ly8UdrXp9i8tlOiRft6We) | 3:32 | 2023-04-28 |  |
 | [Un Día a la Vez](https://open.spotify.com/track/1tlIVwWxXIIoNfqa9aELW9) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Un Día a la Vez](https://open.spotify.com/album/1ou9ssBPUFB9hQzieb1ctA) | 4:06 | 2023-04-28 |  |
 | [Un Poco Menos Idiota](https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Un Poco Menos Idiota](https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI) | 3:45 | 2023-04-28 |  |

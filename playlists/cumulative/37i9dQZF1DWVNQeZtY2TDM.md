@@ -4,7 +4,7 @@
 
 > Spotify 台灣上線十年精采呈獻！最高人氣歌手的最熱門華語歌曲大全輯！歌手精選請聽 <a href="spotify:genre:0JQ5IMCbQBLtYOSc3HviWJ">Spotify 台灣上線 10 年全精選</a> ! Cover: 周杰倫
 
-626 songs - 1 day 10 hr 31 min
+627 songs - 1 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,7 +362,8 @@
 | [寶包](https://open.spotify.com/track/5udEzRfk4awnyws1VMIXw8) | [春艷 X 薩麥爾](https://open.spotify.com/artist/2HeDHBGjstfFF4dheoTF6x) | [寶包](https://open.spotify.com/album/77aWyPGwl2pYSz5JE4sCGp) | 2:38 | 2022-10-17 | 2022-11-08 |
 | [寶貝\(In The Night\)](https://open.spotify.com/track/1G9KctNOyAM8wMkCFhR3EZ) | [Deserts Chang](https://open.spotify.com/artist/7v9Il42LvvTeSfmf1bwfNx) | [My Life Will...](https://open.spotify.com/album/7x0DIwQu2yNMjg05DxPhHu) | 2:41 | 2023-09-21 |  |
 | [對不起我什麼都沒有給妳](https://open.spotify.com/track/4Q75sK9mDK2YhXLvz72pTO) | [HuaRay](https://open.spotify.com/artist/1zijXvu5JIrqSv3Ul1N3OQ) | [對不起我什麼都沒有給妳](https://open.spotify.com/album/4UtRw6alEyha7WKIJidYCF) | 2:57 | 2022-08-29 | 2022-09-13 |
-| [小情歌](https://open.spotify.com/track/4FhJ7YSRxATHnaRg4nGs6t) | [Sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [小宇宙](https://open.spotify.com/album/2yhTPiBJRuRjofOIEDLJGw) | 4:33 | 2023-09-21 |  |
+| [小情歌](https://open.spotify.com/track/4FhJ7YSRxATHnaRg4nGs6t) | [Sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [小宇宙](https://open.spotify.com/album/2yhTPiBJRuRjofOIEDLJGw) | 4:33 | 2023-09-21 | 2023-09-23 |
+| [小情歌\(魚版\)](https://open.spotify.com/track/3O0TfMcoeKC0u035clU5nX) | [魚丁糸](https://open.spotify.com/artist/4TGQEYGf6Pu4tpMNGQ4tOR) | [小宇宙\(魚版\)](https://open.spotify.com/album/1nawoT8YtQTkfSpCpbkecL) | 4:36 | 2023-09-22 |  |
 | [小李飛刀](https://open.spotify.com/track/2oNmZySpH151DdFaCWOPjj) | [YoungLee](https://open.spotify.com/artist/37SCZVt9ssGoiuzN972Vud) | [小李飛刀](https://open.spotify.com/album/15y7rtKjD1eo7jgy6OjvwA) | 3:16 | 2022-11-28 | 2022-12-13 |
 | [小草](https://open.spotify.com/track/4xkMz2GWOkjLgs2VYySlBY) | [杜威](https://open.spotify.com/artist/3tyiZmpX5GnnNgYY5um4BS) | [小草](https://open.spotify.com/album/68A0cMtyyEVhl8gOJY97Lp) | 2:40 | 2023-02-20 | 2023-03-14 |
 | [小蝦米吃大鯊魚](https://open.spotify.com/track/0rGTtJKWxWxJZJSLkMH5y0) | [包夜冰郎](https://open.spotify.com/artist/4wOeAk7vxKiJoj24LBEOsP), [鱔魚意麵](https://open.spotify.com/artist/6ql8ciVcd9AS7fem0Csg67) | [小蝦米吃大鯊魚](https://open.spotify.com/album/49LoZ2j2dC3YpgyWEaC2sS) | 1:57 | 2023-02-27 | 2023-03-14 |

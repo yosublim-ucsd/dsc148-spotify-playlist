@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Again?",
+        "url": "https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172360,
+      "name": "Again?",
+      "url": "https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH"
+    },
+    {
+      "album": {
         "name": "All For Us",
         "url": "https://open.spotify.com/album/4ryR7Dg9iWXYfFBtnFOTw8"
       },
@@ -446,7 +464,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 277043,
       "name": "Attention",
       "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
@@ -3651,6 +3669,24 @@
     },
     {
       "album": {
+        "name": "Marking My Time",
+        "url": "https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268038,
+      "name": "Marking My Time",
+      "url": "https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw"
+    },
+    {
+      "album": {
         "name": "\"Awaken, My Love!\"",
         "url": "https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8"
       },
@@ -3965,6 +4001,24 @@
     },
     {
       "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "album": {
         "name": "Everything So Far",
         "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
       },
@@ -4106,6 +4160,28 @@
       "duration_ms": 186018,
       "name": "No One Dies From Love",
       "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
+    },
+    {
+      "album": {
+        "name": "NO SZNS",
+        "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213026,
+      "name": "NO SZNS",
+      "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
     },
     {
       "album": {
@@ -4888,7 +4964,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 180018,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/0rOLFkjY5DSIViVBNnzOuK"
@@ -5112,7 +5188,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 171655,
       "name": "Single Soon",
       "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
@@ -5466,6 +5542,24 @@
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
+    },
+    {
+      "album": {
+        "name": "Spend My Days",
+        "url": "https://open.spotify.com/album/1i6kNaAWplITA9Q9cUwj7A"
+      },
+      "artists": [
+        {
+          "name": "Spence Lee",
+          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Spend My Days",
+      "url": "https://open.spotify.com/track/03qshjNjaZJ9YmuyX9malT"
     },
     {
       "album": {
@@ -6294,7 +6388,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 320680,
       "name": "Ultralight Beam",
       "url": "https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS"
@@ -6352,7 +6446,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 191185,
       "name": "Used To Be Young",
       "url": "https://open.spotify.com/track/0Nfh4u0J4bajcyp5pzaWCx"

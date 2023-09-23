@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW06b4n9Ho9J.md) - [plain](/playlists/plain/37i9dQZF1DWW06b4n9Ho9J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW06b4n9Ho9J)
 
-### [Best Indie Songs of 2021](https://open.spotify.com/playlist/37i9dQZF1DWW06b4n9Ho9J)
+### [Best of Indie 2021](https://open.spotify.com/playlist/37i9dQZF1DWW06b4n9Ho9J)
 
 > Editors' picks of the best indie tracks this year\. Cover: Japanese Breakfast
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,359 likes - 104 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,368 likes - 104 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW06b4n9Ho9J.md) - [plain]
 | 103 | [eye 2 eye](https://open.spotify.com/track/6wlouslDoDFy2NH8HaPwQf) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [eye 2 eye](https://open.spotify.com/album/26suVOYpQ5SYiqo7CHyE46) | 3:05 |
 | 104 | [Whatever Tomorrow](https://open.spotify.com/track/2oQMAwDhT1YjSGb3YSLpXO) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ) | 4:23 |
 
-Snapshot ID: `MCwzZjYwOGI4ZDMwNGQyMWZmN2NiMGM4OWU4Mzc5OGUwZWJlNTFjMmMx`
+Snapshot ID: `MCwzOGU1NDU3ZmE4NmZmMGFmNzg1YWQ2MDA3ZTdjMGNlNTY1ODBhZDZl`

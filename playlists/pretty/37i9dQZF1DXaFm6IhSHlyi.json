@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjU3MzVmNjU2ODhhZTU5OTg0YTkzNjYzOTUyNGNjYTc2ZTY3OGIx",
+  "snapshot_id": "MCwwYWRhMDYzNjQ5YjNmNmRkMjk5NTc2ZDRiNTY2Y2ZkZTU3YzFjMWQ5",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Make Out",
-        "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 244820,
-      "name": "ILYSB - STRIPPED",
-      "url": "https://open.spotify.com/track/3Dkvp3L4w0uJFYfIPa8E9H"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Colpa Delle Favole",
         "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 232666,
       "name": "Piccola Stella",
       "url": "https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Make Out",
+        "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 244820,
+      "name": "ILYSB - STRIPPED",
+      "url": "https://open.spotify.com/track/3Dkvp3L4w0uJFYfIPa8E9H"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Kahit Maputi Na Ang Buhok Ko",
-        "url": "https://open.spotify.com/album/3J0vrYjkOCucLFNicBoXBY"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 219689,
-      "name": "Kahit Maputi Na Ang Buhok Ko",
-      "url": "https://open.spotify.com/track/60FXqDiSBkzdexOB3Ai3om"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Kidnap for Romance (Original Movie Soundtrack)",
         "url": "https://open.spotify.com/album/70YCM7kgIwLvCGRxkQl9BJ"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 303937,
       "name": "Hindi Tayo Pwede",
       "url": "https://open.spotify.com/track/64G8ywuyGGQl4S7U2a6XJf"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Kahit Maputi Na Ang Buhok Ko",
+        "url": "https://open.spotify.com/album/3J0vrYjkOCucLFNicBoXBY"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 219689,
+      "name": "Kahit Maputi Na Ang Buhok Ko",
+      "url": "https://open.spotify.com/track/60FXqDiSBkzdexOB3Ai3om"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Lucid",
-        "url": "https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 261238,
-      "name": "Still Dreaming",
-      "url": "https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Malay Mo, Tayo",
         "url": "https://open.spotify.com/album/0zBCehKCAFoYUPW0X2g9wj"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 274291,
       "name": "Malay Mo",
       "url": "https://open.spotify.com/track/0B2GJuD8XZoovLyAvcYBsF"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Lucid",
+        "url": "https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 261238,
+      "name": "Still Dreaming",
+      "url": "https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\u6cbf\u5fd7\u594f\u9022",
-        "url": "https://open.spotify.com/album/4R14tXqrX3Vl7qJfouSshx"
-      },
-      "artists": [
-        {
-          "name": "Bank Band",
-          "url": "https://open.spotify.com/artist/5kbHObZlWoViBhC3p4EvZo"
-        }
-      ],
-      "duration_ms": 284360,
-      "name": "\u7cf8",
-      "url": "https://open.spotify.com/track/3HUpfIdFGQ02XlDp1f2F8t"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Accetto Miracoli",
         "url": "https://open.spotify.com/album/2OFCijOtzwFMkFNLRdShHw"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 225386,
       "name": "In Mezzo A Questo Inverno",
       "url": "https://open.spotify.com/track/6bMfEx9nIYsmFjiJl6P9NY"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "\u6cbf\u5fd7\u594f\u9022",
+        "url": "https://open.spotify.com/album/4R14tXqrX3Vl7qJfouSshx"
+      },
+      "artists": [
+        {
+          "name": "Bank Band",
+          "url": "https://open.spotify.com/artist/5kbHObZlWoViBhC3p4EvZo"
+        }
+      ],
+      "duration_ms": 284360,
+      "name": "\u7cf8",
+      "url": "https://open.spotify.com/track/3HUpfIdFGQ02XlDp1f2F8t"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "LOVE IN THE DARK",
-        "url": "https://open.spotify.com/album/1cotXPn0CcR0ZCQWcTtZe0"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "LOVE IN THE DARK",
-      "url": "https://open.spotify.com/track/6WrHKidpEVkYKX3vSQhBgL"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Jet Lag",
         "url": "https://open.spotify.com/album/70CaXkLUnM9Ht9BrSxKHIm"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 150011,
       "name": "Jet Lag",
       "url": "https://open.spotify.com/track/4nDNTISVKzP3YjW4vvW1B1"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "LOVE IN THE DARK",
+        "url": "https://open.spotify.com/album/1cotXPn0CcR0ZCQWcTtZe0"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "LOVE IN THE DARK",
+      "url": "https://open.spotify.com/track/6WrHKidpEVkYKX3vSQhBgL"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2067,6 +2067,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "\uc5b4\uca4c\uba74 \uc774\uc720\uac00 \ud544\uc694\ud55c \ubc24 Night Within You",
+        "url": "https://open.spotify.com/album/42fnXlrZaKXIc9lzWI6B1V"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "duration_ms": 254360,
+      "name": "\uc5b4\uca4c\uba74 \uc774\uc720\uac00 \ud544\uc694\ud55c \ubc24 Night Within You",
+      "url": "https://open.spotify.com/track/5aFiyx6DOsrvOUnsrcFb84"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU"
       },
@@ -2087,22 +2103,6 @@
       "duration_ms": 230000,
       "name": "111",
       "url": "https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "\uc5b4\uca4c\uba74 \uc774\uc720\uac00 \ud544\uc694\ud55c \ubc24 Night Within You",
-        "url": "https://open.spotify.com/album/42fnXlrZaKXIc9lzWI6B1V"
-      },
-      "artists": [
-        {
-          "name": "Krr",
-          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
-        }
-      ],
-      "duration_ms": 254360,
-      "name": "\uc5b4\uca4c\uba74 \uc774\uc720\uac00 \ud544\uc694\ud55c \ubc24 Night Within You",
-      "url": "https://open.spotify.com/track/5aFiyx6DOsrvOUnsrcFb84"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
+      },
+      "artists": [
+        {
+          "name": "Bigman",
+          "url": "https://open.spotify.com/artist/3wdiLqjRgb0Zcxj6ZgODFU"
+        }
+      ],
+      "duration_ms": 218501,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "How Is This Love ?",
         "url": "https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T"
       },
@@ -2203,22 +2219,6 @@
       "duration_ms": 195273,
       "name": "How Is This Love ?",
       "url": "https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
-      },
-      "artists": [
-        {
-          "name": "Bigman",
-          "url": "https://open.spotify.com/artist/3wdiLqjRgb0Zcxj6ZgODFU"
-        }
-      ],
-      "duration_ms": 218501,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2291,26 +2291,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI"
-      },
-      "artists": [
-        {
-          "name": "Djouher",
-          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
-        },
-        {
-          "name": "Belfa",
-          "url": "https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L"
-        }
-      ],
-      "duration_ms": 178906,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Ana Mesh Magroha",
         "url": "https://open.spotify.com/album/3hw0hBILtvaXlRWeygmDbI"
       },
@@ -2339,6 +2319,26 @@
       "duration_ms": 145301,
       "name": "Tum Jaisi Ho",
       "url": "https://open.spotify.com/track/2ArTK3KizSrijvTlRzGtSs"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI"
+      },
+      "artists": [
+        {
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        },
+        {
+          "name": "Belfa",
+          "url": "https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L"
+        }
+      ],
+      "duration_ms": 178906,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2423,6 +2423,26 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/5SlNvCe8v6F7FhW8DpPF10"
+      },
+      "artists": [
+        {
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        },
+        {
+          "name": "Lead Major",
+          "url": "https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO"
+        }
+      ],
+      "duration_ms": 170156,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/3T2e5G5tL6X4gbtxdnVf0l"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Sikasih",
         "url": "https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq"
       },
@@ -2451,26 +2471,6 @@
       "duration_ms": 221714,
       "name": "Cardamom Tea",
       "url": "https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/5SlNvCe8v6F7FhW8DpPF10"
-      },
-      "artists": [
-        {
-          "name": "Djouher",
-          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
-        },
-        {
-          "name": "Lead Major",
-          "url": "https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO"
-        }
-      ],
-      "duration_ms": 170156,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/3T2e5G5tL6X4gbtxdnVf0l"
     },
     {
       "added_at": "2022-10-17 15:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xEyyndYk10.md) - [plain]
 
 > Que la calle te acompañe al conducir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,015 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,168 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xEyyndYk10.md) - [plain]
 | 6 | [Debo Entender](https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Debo Entender](https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8) | 3:58 |
 | 7 | [Éxtasis](https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12) | [Millonario & W\. Corona](https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Así Soy Yo](https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi) | 4:49 |
 | 8 | [Amnesia](https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a) | 3:08 |
-| 9 | [Rucón](https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Eclipse](https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3) | 2:48 |
+| 9 | [Mexicano](https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mexicano](https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt) | 2:54 |
 | 10 | [Booty Bang Bang](https://open.spotify.com/track/0u4oKIXxl0geFS2fuWiVXh) | [ILUMINATIK BUFFON](https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6), [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6) | [Booty Bang Bang](https://open.spotify.com/album/75ggrmbV5iht00LL2DOu87) | 3:08 |
 | 11 | [Leve](https://open.spotify.com/track/00jpfco62YfQj1BBYCCuKH) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Viejo Marihuano](https://open.spotify.com/album/0u6btZI3GPFtYX8T4DDW8O) | 3:45 |
 | 12 | [Te Ire A Buscar](https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Te Ire A Buscar](https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P) | 3:38 |
-| 13 | [Mexicano](https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mexicano](https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt) | 2:54 |
+| 13 | [Rucón](https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Eclipse](https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3) | 2:48 |
 | 14 | [Nicki Nicole: Bzrp Music Sessions, Vol\. 13](https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nicki Nicole: Bzrp Music Sessions, Vol\. 13](https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n) | 2:23 |
 | 15 | [Si Me Sobrara el Tiempo](https://open.spotify.com/track/2ypbIXW3a7fsLdLtLpZWDZ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Si Me Sobrara el Tiempo](https://open.spotify.com/album/7EmOzGGWYSu5sH9CfnItkB) | 2:48 |
 | 16 | [La Durango](https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xEyyndYk10.md) - [plain]
 | 49 | [No Soy Criminal](https://open.spotify.com/track/3VGWGVOAUcoCpiHqqdrxb3) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [No Soy Criminal](https://open.spotify.com/album/6SSxecieX6s6mTmCnm0Cno) | 3:37 |
 | 50 | [Alzypher Vol\. 1](https://open.spotify.com/track/4tepeG09xywMIaQ9zKezfH) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv) | [Alzypher Vol\. 1](https://open.spotify.com/album/4DUkuTeI0yoBSvFaj1YKDH) | 4:48 |
 
-Snapshot ID: `MCxjNmI2M2EwMTBlNzdjZTk3NGYzZmNkOTIzZWVmZjMwOWVmMDcyN2Nh`
+Snapshot ID: `MCxiZDI3MzA2ZTVkYzIwYTQ5YjE0YWU1MzVjZjJlOGQ5Y2ViOTI2Mzg3`

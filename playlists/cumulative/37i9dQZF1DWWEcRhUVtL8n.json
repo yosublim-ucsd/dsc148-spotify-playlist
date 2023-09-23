@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "New and approved indie pop. Cover: boyish",
+  "description": "New and approved indie pop. Cover: Rocco ",
   "name": "Indie Pop",
   "tracks": [
     {
@@ -958,6 +958,24 @@
       "duration_ms": 197032,
       "name": "all my ghosts",
       "url": "https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l"
+    },
+    {
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/2rSrmW6nlP04jFICYAPF1t"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195598,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA"
     },
     {
       "album": {
@@ -6117,6 +6135,24 @@
     },
     {
       "album": {
+        "name": "cross my heart",
+        "url": "https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146228,
+      "name": "cross my heart",
+      "url": "https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU"
+    },
+    {
+      "album": {
         "name": "crowd",
         "url": "https://open.spotify.com/album/5unb3zadaEdorA9NLtoim8"
       },
@@ -8630,7 +8666,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 183114,
       "name": "Eraser",
       "url": "https://open.spotify.com/track/1JNVs1DgzDKcL83wiXjQMv"
@@ -11730,7 +11766,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 191632,
       "name": "heavun",
       "url": "https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH"
@@ -11752,6 +11788,28 @@
       "duration_ms": 212255,
       "name": "Hell",
       "url": "https://open.spotify.com/track/3DC8V0NDZ8h06R9xQhi0AH"
+    },
+    {
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195147,
+      "name": "Hell N Back (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML"
     },
     {
       "album": {
@@ -12056,6 +12114,24 @@
       "duration_ms": 219710,
       "name": "highway 99",
       "url": "https://open.spotify.com/track/1hoPOPGotOlZ8c8u3NEYkr"
+    },
+    {
+      "album": {
+        "name": "Her Favorite Flowers",
+        "url": "https://open.spotify.com/album/5rFnAfQqhy7sFGSq15gN7g"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193242,
+      "name": "hold me, never let go",
+      "url": "https://open.spotify.com/track/6QC5Dtp38M05T536UONe6J"
     },
     {
       "album": {
@@ -15002,7 +15078,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 202382,
       "name": "Juliene",
       "url": "https://open.spotify.com/track/7K3YUKGYPFeAb6TbDvHmM2"
@@ -15308,7 +15384,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 167289,
       "name": "Kick in the Teeth",
       "url": "https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ"
@@ -17600,7 +17676,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 152141,
       "name": "Maybe I\u2019m Lonely",
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
@@ -19082,6 +19158,24 @@
       "duration_ms": 206373,
       "name": "newton's 3rd",
       "url": "https://open.spotify.com/track/04XuUgPllN26q6JHF5PCJZ"
+    },
+    {
+      "album": {
+        "name": "Next Best Exit",
+        "url": "https://open.spotify.com/album/5BaqyXWFe7128CZfNaMISB"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Next Best Exit",
+      "url": "https://open.spotify.com/track/5AK6xch0zSVSZe3HJhxy6Y"
     },
     {
       "album": {
@@ -24326,7 +24420,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 169263,
       "name": "Smiley",
       "url": "https://open.spotify.com/track/7jp7cuoSYqBfNNZ2njs4Yv"
@@ -25146,7 +25240,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 147178,
       "name": "Split Up",
       "url": "https://open.spotify.com/track/1VNxSjEjFNcV1n2KET3QM9"
@@ -26176,7 +26270,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 124133,
       "name": "SUNDAY",
       "url": "https://open.spotify.com/track/4StWXtY1kRDuzpl5FZQTae"
@@ -28344,7 +28438,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 137187,
       "name": "Top Dog",
       "url": "https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm"

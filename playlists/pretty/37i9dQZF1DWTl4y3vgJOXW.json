@@ -1,12 +1,12 @@
 {
   "description": "Fourth quarter, two minutes left .. get locked in. Cover: Shedeur Sanders",
-  "num_followers": 2930615,
+  "num_followers": 2933243,
   "original_name": "Locked In",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWMxMGE5NTJhNDkwZmE1MWUzNTc0ZmViN2M2NmU5N2QwYzEwZmIw",
+  "snapshot_id": "MCxmODZlMzA5YzM0Y2VhNDY3YzI3YzVkZjdhZjUxZTE2ODgxNzg1MTA4",
   "tracks": [
     {
       "added_at": "2023-09-01 18:58:27",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
+      "added_at": "2023-09-22 16:21:59",
+      "album": {
+        "name": "Dead or Alive",
+        "url": "https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 122487,
+      "name": "Dead or Alive",
+      "url": "https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH"
+    },
+    {
       "added_at": "2023-09-01 18:58:27",
       "album": {
         "name": "KHALED KHALED",
@@ -219,6 +235,34 @@
       "duration_ms": 192727,
       "name": "Flooded The Face",
       "url": "https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa"
+    },
+    {
+      "added_at": "2023-09-22 16:21:59",
+      "album": {
+        "name": "Bent",
+        "url": "https://open.spotify.com/album/1lzWtPTZrL3ZE1oagDJgvL"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        }
+      ],
+      "duration_ms": 170267,
+      "name": "Bent",
+      "url": "https://open.spotify.com/track/6ulEymrJ2Azx1uo3YHSE5w"
     },
     {
       "added_at": "2023-09-01 18:58:27",
@@ -1339,22 +1383,6 @@
     {
       "added_at": "2023-09-01 18:58:27",
       "album": {
-        "name": "Pain and Love - EP",
-        "url": "https://open.spotify.com/album/2fwB0BiqwR61u0Q86xvbFM"
-      },
-      "artists": [
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 168306,
-      "name": "Big Drip",
-      "url": "https://open.spotify.com/track/4DkZDzcHicZBXCEdA19oWs"
-    },
-    {
-      "added_at": "2023-09-01 18:58:27",
-      "album": {
         "name": "Meet The Woo (Deluxe Version)",
         "url": "https://open.spotify.com/album/22py1IeIi51c0GBYEHQTsI"
       },
@@ -1427,26 +1455,6 @@
       "duration_ms": 185785,
       "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
       "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
-    },
-    {
-      "added_at": "2023-09-01 18:58:27",
-      "album": {
-        "name": "Mention My Name",
-        "url": "https://open.spotify.com/album/2yepLQw2fOxkEMfU3gbsWB"
-      },
-      "artists": [
-        {
-          "name": "Tafia",
-          "url": "https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4"
-        },
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Paper Route (ft. Young Dolph)",
-      "url": "https://open.spotify.com/track/5A5XZ49RusDpRHlltXB4f5"
     },
     {
       "added_at": "2023-09-01 18:58:27",

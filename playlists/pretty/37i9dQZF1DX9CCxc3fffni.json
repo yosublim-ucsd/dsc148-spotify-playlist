@@ -1,12 +1,12 @@
 {
   "description": "La belleza nunca pasa de moda.",
-  "num_followers": 273418,
+  "num_followers": 273672,
   "original_name": "Las Canciones M\u00e1s Bonitas Del Mundo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjU1YWJjNzNjNTZhZTcxNDFlN2FiZDgyNmFhMzUxOWZjNTM5YTNl",
+  "snapshot_id": "MCw0MDc5ZmI2ZTUxMmUwNzBkYTU5NGVlNjg1NjcyZjc4MWUyMGZmYmQ4",
   "tracks": [
     {
       "added_at": "2023-07-12 20:27:58",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-07-12 20:27:58",
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 276186,
-      "name": "One",
-      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
-    },
-    {
-      "added_at": "2023-07-12 20:27:58",
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 192866,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
+    },
+    {
+      "added_at": "2023-07-12 20:27:58",
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 276186,
+      "name": "One",
+      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
     },
     {
       "added_at": "2023-07-12 20:27:58",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-07-12 20:27:58",
       "album": {
-        "name": "Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 409466,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4"
-    },
-    {
-      "added_at": "2023-07-12 20:27:58",
-      "album": {
         "name": "Ricky Martin MTV Unplugged",
         "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 247866,
       "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
+    },
+    {
+      "added_at": "2023-07-12 20:27:58",
+      "album": {
+        "name": "Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 409466,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4"
     },
     {
       "added_at": "2023-07-12 20:27:58",

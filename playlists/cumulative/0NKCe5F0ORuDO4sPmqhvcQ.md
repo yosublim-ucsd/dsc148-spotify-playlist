@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-507 songs - 1 day 4 hr 26 min
+509 songs - 1 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Human Nature](https://open.spotify.com/track/3gHgHC1iNLtivPNtd9y4pf) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [Human Nature](https://open.spotify.com/album/2WpBMTSYOS1A3c326ysiHS) | 4:10 | 2023-01-30 |  |
 | [HydroPlane](https://open.spotify.com/track/639R1wABWk9uwfHUUpAJcx) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [HydroPlane](https://open.spotify.com/album/50gNjUaJI0gIJ6uiX95aRQ) | 3:28 | 2023-08-16 |  |
 | [Hysteria](https://open.spotify.com/track/4O3acCqL5poIvUl1px4WES) | [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Hysteria](https://open.spotify.com/album/3zOh32D5fBrhgPMUnKwyiE) | 3:49 | 2022-02-07 | 2022-03-10 |
+| [i can see](https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [i can see](https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A) | 3:49 | 2023-09-22 |  |
 | [I Don't Believe You](https://open.spotify.com/track/212EdVzDMfSoUolXGQ4iTT) | [Jerome Blazé](https://open.spotify.com/artist/4Xugx9BOIAE45eFzvzEN6e) | [I Don't Believe You](https://open.spotify.com/album/4Am00AmCdt7qCMifgAmtcJ) | 3:30 | 2022-02-28 | 2022-03-31 |
 | [I Kill Everything](https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [I Kill Everything](https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd) | 3:36 | 2022-10-05 | 2023-06-23 |
 | [i luv ur smile](https://open.spotify.com/track/4rX8Np5NElrnKeCd4KDNbD) | [Harrisun](https://open.spotify.com/artist/7Fs3Yj5hp3rvtj9JSXYiSa), [Teddy Roxpin](https://open.spotify.com/artist/0MZ2kdIMm8GrHOzPm1QK1A) | [i luv ur smile](https://open.spotify.com/album/19ADS40GUeLlNCa7Rbk2gP) | 4:07 | 2023-08-11 |  |
@@ -419,6 +420,7 @@
 | [Still Friends](https://open.spotify.com/track/2xurXrmbeXZKOiND6YA5cs) | [Nightly Gatherings](https://open.spotify.com/artist/0e7vmFNTfVsnRr3Laaw4FI) | [Still Friends](https://open.spotify.com/album/6vZSPshiv7uf91yIq6hDg7) | 3:22 | 2023-01-29 |  |
 | [Stop The World](https://open.spotify.com/track/6EMurB3UaCd5ybKwSh8kbI) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Stop The World](https://open.spotify.com/album/6FmaNoRM90E12hgKTt8eU5) | 2:59 | 2022-03-18 | 2022-03-31 |
 | [Summer Lasts Forever \(feat\. Love Jesse\)](https://open.spotify.com/track/32piXs0Tz0bkuYMfB4Cazk) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Love Jesse](https://open.spotify.com/artist/1PrmIUrwSolIGJfWzJ1qD5) | [A Slushii Summer](https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn) | 2:40 | 2022-09-23 | 2022-10-06 |
+| [Summer Nights \(feat\. emma løv & Loote\)](https://open.spotify.com/track/2DOySVSvMKh95vZpIfcaWM) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3), [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Summer Nights \(feat\. emma løv & Loote\)](https://open.spotify.com/album/4RSVAG5I1nKLaa1nEAKiXG) | 2:24 | 2023-09-22 |  |
 | [Sun & Moon \- Manila Killa Remix](https://open.spotify.com/track/1ulJG8ELvRv1za2KTYoPSP) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [10 Years of Group Therapy](https://open.spotify.com/album/23US2GpiBRMbvmVkPqZkRw) | 4:13 | 2022-01-07 | 2022-06-28 |
 | [sun+tide](https://open.spotify.com/track/0bLKKrrEeAxQPgq8HtXVsR) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [everythingeverydayeverything](https://open.spotify.com/album/5gumyvjIFS1YM8VI5bF5wV) | 3:43 | 2022-07-07 | 2023-01-30 |
 | [sunlight](https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [sunlight](https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU) | 2:51 | 2022-01-07 | 2022-02-01 |

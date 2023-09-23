@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 389790,
+  "num_followers": 389838,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjM1MGNhNzgyNGY2NTQyMGExM2Y5NGFjMTk5ODM1MjgyOTVmNWFh",
+  "snapshot_id": "MCw4NGRlYjcxZjEyNGVmNmM3MGZkZmFjNTQyNGFmNjNjMDU0MTU4Mzgw",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -127,22 +127,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Sinatra 80th: All The Best",
-        "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 131426,
-      "name": "I've Got The World On A String",
-      "url": "https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "The Essential Frank Sinatra with the Tommy Dorsey Orchestra (with Frank Sinatra)",
         "url": "https://open.spotify.com/album/6mcP2ZPyrpMIOrXvSDNQ3g"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 199733,
       "name": "Polka Dots and Moonbeams",
       "url": "https://open.spotify.com/track/0HFWS5C6ThNeuOr10Xz21U"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Sinatra 80th: All The Best",
+        "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 131426,
+      "name": "I've Got The World On A String",
+      "url": "https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -495,6 +495,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "The Great American Songbook",
+        "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "Tony Bennett With Count Baise",
         "url": "https://open.spotify.com/album/4WHnCeRDUhw3uecb62g7C6"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 163122,
       "name": "Are You Having Any Fun",
       "url": "https://open.spotify.com/track/7J15xzJsmb6ikExnnMO7MP"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "The Great American Songbook",
-        "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -735,22 +735,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Inspiration (A Tribute To Nat King Cole)",
-        "url": "https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 162080,
-      "name": "Just One Of Those Things",
-      "url": "https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Boss Brass And Woods",
         "url": "https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 461934,
       "name": "Greenhouse",
       "url": "https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Inspiration (A Tribute To Nat King Cole)",
+        "url": "https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 162080,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z"
     },
     {
       "added_at": "2020-03-06 16:28:56",

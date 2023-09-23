@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Sophie Castillo
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,681 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,902 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Hyperdrive](https://open.spotify.com/track/3dZqnbLuUGo2n9QL2QHW0E) | [Talulah Ruby](https://open.spotify.com/artist/2TNbAqw8Vycd0xtFz7RWzZ) | [Hyperdrive](https://open.spotify.com/album/0UzMpfxDnb62ueatyPMMY5) | 3:58 |
 | 80 | [Girlcow](https://open.spotify.com/track/4rSMMxuQVQ1oFiz6UyaDTO) | [Duvet](https://open.spotify.com/artist/7MTj1g81iA5DITR276prZH) | [Girlcow](https://open.spotify.com/album/4RmTh9VcUqUAcI2Ug4AgYS) | 2:57 |
 
-Snapshot ID: `MCwwZDk2NDkwZDQ5NzRiZTQ4MzAxNjVjNDVmZjgyOGNjZTQ5YTkwYjYz`
+Snapshot ID: `MCxlZGU5OTM4MjI1MWZkMjZhNWJmNjdhZmExMjU1NTcxNWUxMjVmZjAy`

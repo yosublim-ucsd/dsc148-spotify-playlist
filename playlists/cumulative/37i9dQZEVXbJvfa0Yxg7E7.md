@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,268 songs - 2 day 17 hr 51 min
+1,269 songs - 2 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,7 +409,7 @@
 | [Försent](https://open.spotify.com/track/6xrlUHCSbqM2huGrQau5xv) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [Försent](https://open.spotify.com/album/2rC0CBaSDF2NJ23uXu6Fh6) | 3:16 | 2023-02-04 | 2023-02-06 |
 | [Första Klass](https://open.spotify.com/track/74TEgDsFaq0zMttq1dVuYK) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Första Klass](https://open.spotify.com/album/5W4QltYoETJuRVqkcwWOtl) | 2:31 | 2021-10-23 | 2021-10-24 |
 | [G63](https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5) | 2:42 | 2023-03-17 | 2023-06-04 |
-| [Galileo Galilei](https://open.spotify.com/track/3Ox5iyqF3SeTC2bqOA9V9u) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0) | 3:19 | 2023-09-09 |  |
+| [Galileo Galilei](https://open.spotify.com/track/3Ox5iyqF3SeTC2bqOA9V9u) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0) | 3:19 | 2023-09-09 | 2023-09-23 |
 | [Gamle Bilder](https://open.spotify.com/track/2bUievg616qKOKeWAoIiqX) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Gamle Bilder](https://open.spotify.com/album/6ZoKsETRc7QP7v3e0iJWww) | 3:20 | 2021-04-18 | 2021-04-19 |
 | [Gamlehjem](https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Gamlehjem](https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU) | 3:01 | 2021-03-27 | 2021-04-04 |
 | [Gamleveien](https://open.spotify.com/track/5qS9HY1sq4Zuyzm7Mpgjir) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Sputnik](https://open.spotify.com/artist/6Wp8wbTITUALiaIWUbfiob) | [Gamleveien](https://open.spotify.com/album/3ZvbYMfxz7TFXp9Zqv4uZf) | 2:17 | 2023-04-01 | 2023-05-21 |
@@ -1227,6 +1227,7 @@
 | [Vårrull](https://open.spotify.com/track/4tE2ySKkRFJtT36q5ie1fv) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Vårrull](https://open.spotify.com/album/3weP2oF0T3NhFCDJqXGIbx) | 2:17 | 2023-03-30 | 2023-04-15 |
 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/5J6rTmMjF9DVIAF8G3M9n4) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/album/16ou1Elgll2ElsdnU4LNzn) | 3:09 | 2021-12-05 | 2021-12-06 |
 | [Wasting Angels \(with The Kid LAROI\)](https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 4:03 | 2022-06-04 | 2022-06-10 |
+| [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-22 |  |
 | [Watergun](https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Watergun](https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT) | 2:52 | 2023-05-15 | 2023-05-18 |
 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 | 2021-09-05 | 2021-10-10 |
 | [We Cry Together](https://open.spotify.com/track/0RAvy97QRPzO2AfK5Dw6j3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Taylour Paige](https://open.spotify.com/artist/7nkr1fevjIVmgx5biwAWVo) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 5:41 | 2022-05-14 | 2022-05-16 |

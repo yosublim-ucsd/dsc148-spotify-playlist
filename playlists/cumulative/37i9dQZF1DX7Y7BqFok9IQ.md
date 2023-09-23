@@ -2,9 +2,9 @@
 
 ### [Modern Blues Rock](https://open.spotify.com/playlist/37i9dQZF1DX7Y7BqFok9IQ)
 
-> The best of modern blues rock\. Cover: The Cold Stares
+> The best of modern blues rock\. Cover: Rival Sons
 
-249 songs - 15 hr 45 min
+250 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Make It Shake](https://open.spotify.com/track/57uYXpzoI7dOxdrOPWxZGT) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Make It Shake](https://open.spotify.com/album/165D6axZ9zq76cV1ip2qpo) | 3:14 | 2023-05-05 | 2023-05-20 |
 | [Make Your Move](https://open.spotify.com/track/5uXlBb9vZ3ltzVpbVXAH5N) | [Beyond the Badlands](https://open.spotify.com/artist/5Od4vhwUDRjIKGCu7OrFsP) | [Make Your Move](https://open.spotify.com/album/5upDTjsYYm1tAU1CWHruPz) | 3:21 | 2021-04-16 |  |
 | [Meet Me in the Bottom](https://open.spotify.com/track/7iiHpRaetFtBweEMVnG1TH) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Meet Me in the Bottom / Friends](https://open.spotify.com/album/2SWixsPxllhYc2iLEx6Yd5) | 3:08 | 2022-11-04 |  |
+| [Mercy](https://open.spotify.com/track/0OdxmiZD8u6pQOwSfEoxr1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Mercy](https://open.spotify.com/album/7m5exqpKRweMqgxgOk6wY1) | 4:26 | 2023-09-22 |  |
 | [Mercy](https://open.spotify.com/track/2krcU3B5QoN7aUw648THOk) | [The Karma Effect](https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1) | [Mercy](https://open.spotify.com/album/1nfK9eJnGDD1FDXbRWLwT0) | 3:25 | 2022-02-25 | 2023-07-01 |
 | [Mojo Hand](https://open.spotify.com/track/1zG6mxl8KZE8Q4FBymh466) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mojo Hand](https://open.spotify.com/album/1RKJoxtfx1GmCD3Mi1u31g) | 3:04 | 2022-04-29 | 2023-07-08 |
 | [Mornin' Blues](https://open.spotify.com/track/22dz0TTHjShdEitvI5J3xq) | [Chris App](https://open.spotify.com/artist/2frhD5z9g7Cax2GOzT8xHw) | [Mornin' Blues](https://open.spotify.com/album/5TcLub1f3W5l04K1ry9niD) | 4:00 | 2022-08-08 |  |
@@ -204,7 +205,7 @@
 | [Sunshine Lady](https://open.spotify.com/track/2bsJZptUrnp4Rt786WKxc6) | [The Shelter People](https://open.spotify.com/artist/3m1rUUzCaulww0FUM2Gw1i) | [Sunshine Lady / Rock n Roll](https://open.spotify.com/album/0LZ5hsTglEgJovaQgDru6v) | 3:01 | 2022-06-03 |  |
 | [Superhuman](https://open.spotify.com/track/5IT0dXkBnNZ1cefzaSWDWx) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Superhuman](https://open.spotify.com/album/1B25jVWUCH41IhBo6iz5WK) | 4:05 | 2021-12-07 | 2023-08-05 |
 | [Sweet & Low](https://open.spotify.com/track/4RuruayuG27N6NOw6fis9I) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Sweet & Low](https://open.spotify.com/album/3C2esoQ2IvOC6cccE6y5kE) | 3:55 | 2023-08-25 |  |
-| [Sweet Life](https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Sweet Life](https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB) | 3:33 | 2023-08-18 |  |
+| [Sweet Life](https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Sweet Life](https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB) | 3:33 | 2023-08-18 | 2023-09-23 |
 | [Taking Me Back](https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:05 | 2021-10-22 | 2023-03-04 |
 | [Tell Me](https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:17 | 2021-02-26 |  |
 | [Tell Me](https://open.spotify.com/track/6O5Mg4jkIM3EJmphJTCEon) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/7hLiHJqM7TJJrHxN5o4FWB) | 3:17 | 2021-02-26 | 2022-07-28 |

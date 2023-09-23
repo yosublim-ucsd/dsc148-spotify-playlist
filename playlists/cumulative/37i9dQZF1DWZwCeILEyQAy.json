@@ -130,7 +130,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 140625,
       "name": "380 BAKE",
       "url": "https://open.spotify.com/track/7iFkd7WdWJO63WG9JRmKyS"
@@ -875,6 +875,32 @@
     },
     {
       "album": {
+        "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
+        "url": "https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153941,
+      "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
+      "url": "https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e"
+    },
+    {
+      "album": {
         "name": "Big Flex",
         "url": "https://open.spotify.com/album/7FRAF4Vz0uVDows1aNUdV7"
       },
@@ -1188,7 +1214,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 132000,
       "name": "Boom Pt. 2 (feat. Latto)",
       "url": "https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz"
@@ -1300,7 +1326,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 107586,
       "name": "BRB",
       "url": "https://open.spotify.com/track/4sZJgYizP3YR9MkQ7SaRjX"
@@ -1406,7 +1432,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 169000,
       "name": "Call the Valleys (feat. Mally Bo)",
       "url": "https://open.spotify.com/track/38lMmucR23B4JN1nNZ2aqk"
@@ -1894,6 +1920,24 @@
       "duration_ms": 208358,
       "name": "Could Never (Remix) [feat. Moneybagg Yo]",
       "url": "https://open.spotify.com/track/7nlH50E3IXShJtgb4gl3nz"
+    },
+    {
+      "album": {
+        "name": "Coulda Been",
+        "url": "https://open.spotify.com/album/5MFXnC0QhQ8yZPfwqILrBa"
+      },
+      "artists": [
+        {
+          "name": "Jourden",
+          "url": "https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238893,
+      "name": "Coulda Been",
+      "url": "https://open.spotify.com/track/4ol33zicTUvhVeJHEJiM9c"
     },
     {
       "album": {
@@ -2784,7 +2828,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 162821,
       "name": "FLAME",
       "url": "https://open.spotify.com/track/1cLuO6ZohgsYiePL6WAeJO"
@@ -3607,6 +3651,24 @@
     },
     {
       "album": {
+        "name": "The Pressure Pack",
+        "url": "https://open.spotify.com/album/4riQz0IxWVfvQ64I55lvst"
+      },
+      "artists": [
+        {
+          "name": "Lebra Jolie",
+          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119208,
+      "name": "Honeykomb Brazy",
+      "url": "https://open.spotify.com/track/0K5FnzxxPaYJ6GFRMt9FVb"
+    },
+    {
+      "album": {
         "name": "Flow Of Forum",
         "url": "https://open.spotify.com/album/36QL5IbxHb7GKTxR3W5SBH"
       },
@@ -3826,7 +3888,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 163696,
       "name": "I love freaks (Sexyy\u2019s Version)",
       "url": "https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y"
@@ -4250,7 +4312,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 156586,
       "name": "KEEP WISHING (feat. 2Rare)",
       "url": "https://open.spotify.com/track/237JPwIrEEFCC9IWgzHxsm"
@@ -4508,7 +4570,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 148522,
       "name": "Luv U Better",
       "url": "https://open.spotify.com/track/5mptX9ZQT0n8tUY4kPAH6R"
@@ -4602,7 +4664,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 166081,
       "name": "MAD",
       "url": "https://open.spotify.com/track/3RIfPynHjfJgChiUX6nDrg"
@@ -4624,6 +4686,24 @@
       "duration_ms": 173164,
       "name": "Make It Lit",
       "url": "https://open.spotify.com/track/17UlPmEGyHxCC3BMRv9Kel"
+    },
+    {
+      "album": {
+        "name": "Mama Freestyle",
+        "url": "https://open.spotify.com/album/2lj4pwB5FIfhHyZc7jZNXa"
+      },
+      "artists": [
+        {
+          "name": "Asian Doll",
+          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121573,
+      "name": "Mama Freestyle",
+      "url": "https://open.spotify.com/track/3K7hTeW53lBXo98JvXfzMs"
     },
     {
       "album": {

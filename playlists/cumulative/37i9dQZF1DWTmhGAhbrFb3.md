@@ -4,7 +4,7 @@
 
 > Música ambiental para noches tranquilas.
 
-321 songs - 15 hr 56 min
+322 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Across The Purple Expanse](https://open.spotify.com/track/1nh7NOJDfy3oewkGM6u08b) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [Across The Purple Expanse](https://open.spotify.com/album/4Qc09SX2XC8YlP1Hggb3Jd) | 2:14 | 2023-04-06 |  |
 | [Ad Infinitum](https://open.spotify.com/track/1WHrCfYujnEhApstu2ppFo) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 2:31 | 2023-04-06 |  |
 | [Aevitas](https://open.spotify.com/track/5Y3ePUhdXzPDI8nSCIe7bb) | [Echoes Of Time](https://open.spotify.com/artist/4nlTOopsxNUc0ps46oigBM) | [Neoterikoi](https://open.spotify.com/album/4VWwAEVZ3wnjDt9yy12o5h) | 2:20 | 2023-04-06 |  |
+| [Agbaye](https://open.spotify.com/track/1155sK5VOJc7DC23kdiJjU) | [Torpor Snooze](https://open.spotify.com/artist/5KKzkIqyec5NR4h5vxE0Wx) | [Agbaye](https://open.spotify.com/album/2jiYTUEzw4EOiLmr6Qow2k) | 3:08 | 2023-09-22 |  |
 | [All Along](https://open.spotify.com/track/4I4fBBEhpLAHvnLhacIwdg) | [Tegan Riley](https://open.spotify.com/artist/545YowgDW1BqD0OUeoNP9L) | [All Along](https://open.spotify.com/album/7CRo25Q6dFAeZDTJ4Bgfgq) | 2:27 | 2023-04-06 |  |
 | [All is Forgiven](https://open.spotify.com/track/2MS0JjmoW9JAu9NmeRYmPO) | [Helike](https://open.spotify.com/artist/3EqRbbQlEglmQGw3p815YD) | [Sparkle of Your Smile](https://open.spotify.com/album/7qlWqpDN7bwzoZAPIGI2cu) | 2:32 | 2023-04-06 |  |
 | [All Is Good](https://open.spotify.com/track/2236Rw4h6OBwtNTtAUiyJ5) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [The Slow Calm](https://open.spotify.com/album/5eioM1y6hhSre7gqojRM9E) | 2:25 | 2023-04-06 |  |
@@ -249,7 +250,7 @@
 | [September Afternoon](https://open.spotify.com/track/0pHPnhRXlSNG9PS23oTya0) | [CUVD Ensemble](https://open.spotify.com/artist/66z9bbA1q2NwCRzFbnt05B) | [Sundown Rain](https://open.spotify.com/album/7gr1BjRPjQvb1d5LDXAJIk) | 4:05 | 2023-04-06 |  |
 | [She’ll be right](https://open.spotify.com/track/0ttVkIiUhVo6j6cxJ6Rnbr) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [She’ll be right](https://open.spotify.com/album/0lhVRQb6dOfoet7rJtPBYg) | 3:15 | 2023-04-06 |  |
 | [Shimmer](https://open.spotify.com/track/2R0jJNaZzXUklvrjpbRS66) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Shimmer](https://open.spotify.com/album/1lpl0tt6oAcoe6MZUlyGR7) | 3:00 | 2023-04-06 |  |
-| [Silver And Coal](https://open.spotify.com/track/0FElHU73Oq9TU32BhWSie6) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [The Slow Calm](https://open.spotify.com/album/5eioM1y6hhSre7gqojRM9E) | 2:16 | 2023-04-06 |  |
+| [Silver And Coal](https://open.spotify.com/track/0FElHU73Oq9TU32BhWSie6) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [The Slow Calm](https://open.spotify.com/album/5eioM1y6hhSre7gqojRM9E) | 2:16 | 2023-04-06 | 2023-09-23 |
 | [Sleeping Beauty](https://open.spotify.com/track/0e8cWeGGK506BTR56KOopd) | [Lahasara](https://open.spotify.com/artist/2e0jbFLa4g3PR9lpXv9kAB) | [Sleeping Beauty](https://open.spotify.com/album/6dARYqQCoczKIcZanMcfLD) | 3:03 | 2023-04-06 |  |
 | [Sleepy Octaves](https://open.spotify.com/track/4yxzs04RjHm7phdG6qNgUH) | [Remi Asana](https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc) | [Sleepy Octaves](https://open.spotify.com/album/1JeQa2LsszYiBLHlPiwZFU) | 2:13 | 2023-04-06 |  |
 | [Slow Rise](https://open.spotify.com/track/4GRx1yycMU6w3iyVn7S0SQ) | [Swimming In A Liquid Sky](https://open.spotify.com/artist/7bEDblE0QFuQVPiEXVunAy) | [Slow Rise](https://open.spotify.com/album/5JMixXfF7HIiWaxOlY9XbE) | 3:45 | 2023-04-06 |  |

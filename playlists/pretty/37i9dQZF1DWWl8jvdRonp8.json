@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 177018,
+  "num_followers": 177156,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWI1ZjIxMGJiNmRlODY4OGRjODJkMmQ0MTQ3NDUyNWM5YmRjOTkz",
+  "snapshot_id": "MCxjMGRkZTNkOTA2NzMyNWVhM2Q3ODQ5YWVmZmFlOTI4MzhkM2EyYWEy",
   "tracks": [
     {
       "added_at": "2023-02-24 16:30:36",
@@ -503,22 +503,18 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
-        "url": "https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA"
+        "name": "Arde El Cielo",
+        "url": "https://open.spotify.com/album/2yvMWRuWOjzY1OhZfJfC96"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 227973,
-      "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
-      "url": "https://open.spotify.com/track/73lcrkJKuPLoMWF0UnecCb"
+      "duration_ms": 270946,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/0fHhIm7n240IlhbrYGKZXH"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -555,18 +551,22 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Arde El Cielo",
-        "url": "https://open.spotify.com/album/2yvMWRuWOjzY1OhZfJfC96"
+        "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
+        "url": "https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 270946,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/0fHhIm7n240IlhbrYGKZXH"
+      "duration_ms": 227973,
+      "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
+      "url": "https://open.spotify.com/track/73lcrkJKuPLoMWF0UnecCb"
     },
     {
       "added_at": "2023-02-24 16:30:36",

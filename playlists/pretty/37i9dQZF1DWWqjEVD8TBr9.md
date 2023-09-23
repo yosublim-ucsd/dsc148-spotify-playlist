@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,113,469 likes - 163 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,114,093 likes - 163 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 | 63 | [Silent Cry \-Japanese ver.\-](https://open.spotify.com/track/6QmZI52HcGpe1rwPVom7DX) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A) | 3:31 |
 | 64 | [Your Eyes](https://open.spotify.com/track/25nbyqD4oqWU0RaXuAc74t) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Your Eyes](https://open.spotify.com/album/6bzE9nsQ1rXWUCsRQ18toq) | 3:16 |
 | 65 | [MANIAC \-Japanese ver.\-](https://open.spotify.com/track/6X5yUYQz3bKq0EZ0n82rqP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MANIAC \-Japanese ver.\-](https://open.spotify.com/album/4E7HNkLoKfcZlBxpjwBzMa) | 3:04 |
-| 66 | [NO PROBLEM \(Feat\. Felix \(Stray Kids\)\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix \(Stray Kids\)](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 |
+| 66 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix \(Stray Kids\)](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 |
 | 67 | [MANIAC](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:02 |
 | 68 | [VENOM](https://open.spotify.com/track/4b3rGL8LDSkbARUUA20136) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:14 |
 | 69 | [Charmer](https://open.spotify.com/track/4QDpsNBlllaLGj8zbF2EE0) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:08 |
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 | 162 | [Sunshine](https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé : LEVANTER](https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj) | 3:42 |
 | 163 | [STOP](https://open.spotify.com/track/552ixkxUI6snTyEcZUlYRN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé : LEVANTER](https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj) | 3:09 |
 
-Snapshot ID: `MCw1NTEyZDNiYThhZWQzMjQ5NjJiNTFkZmExMjMzN2EyZTYyNDc4YTU5`
+Snapshot ID: `MCxkNjIxZWE3OTQ5M2M3Nzc2ZmJhYjlhNDgwOWNhZjYwMTRkMjc5ZGQx`

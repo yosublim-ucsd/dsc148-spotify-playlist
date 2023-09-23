@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Alana Springsteen
 
-391 songs - 19 hr 41 min
+392 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [How Do You Love](https://open.spotify.com/track/6deDpxfbapjMLgHoaNuAx6) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [How Do You Love](https://open.spotify.com/album/3s8fBzIbBGrRhlR2dOk4bq) | 3:30 | 2021-12-10 | 2023-01-21 |
 | [Hurry](https://open.spotify.com/track/2kMARX1YbBQgZUwkDo7kMj) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [The Rest Of Us](https://open.spotify.com/album/2oRCvl75NjPMUuXAjhFRGG) | 3:10 | 2022-02-25 | 2022-06-11 |
 | [Hurts the Healing](https://open.spotify.com/track/5Ao5ZEjJNQCLuxCBIPRRJM) | [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Hurts the Healing](https://open.spotify.com/album/2uTfFkCuPeJPF5PzTCQcQb) | 2:42 | 2021-12-10 | 2023-01-04 |
+| [I Can Feel It](https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Can Feel It](https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi) | 2:43 | 2023-09-22 |  |
 | [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 | 2022-06-03 |  |
 | [I Like You Better](https://open.spotify.com/track/6O2U3KEpMJusHQ6m3IR2vg) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [I Like You Better](https://open.spotify.com/album/79MV4Y5B13sz8nlhEJh4bG) | 2:51 | 2022-02-25 |  |
 | [I Love My Homies](https://open.spotify.com/track/7tBwo8HOnM68mTeWNAHs6X) | [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [I Love My Homies](https://open.spotify.com/album/61jOjOHe0hjphb3K1KuQXi) | 2:47 | 2022-04-01 | 2023-02-02 |

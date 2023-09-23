@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-403 songs - 21 hr 8 min
+404 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:14 | 2023-01-12 | 2023-03-09 |
 | [Pleasure & Pain](https://open.spotify.com/track/36xSEKbM5mpSiErUfYvzW0) | [K\. Roosevelt](https://open.spotify.com/artist/6NwdT3GPUajFQ9IvBYe0cu) | [Solstice](https://open.spotify.com/album/0qirqalFHKsdczuFN3mcEL) | 2:58 | 2023-05-24 |  |
 | [Plot Twist](https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 | 2023-01-12 |  |
+| [PPL](https://open.spotify.com/track/0ZuqNhqowaaWYp4KBL5v3i) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [PPL](https://open.spotify.com/album/1xpCtREzKaMD49H0qoeaGk) | 3:14 | 2023-09-21 |  |
 | [Pray It Away](https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Pray It Away](https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC) | 2:36 | 2023-01-26 | 2023-09-01 |
 | [Preach](https://open.spotify.com/track/6wAFJrqup7D88zL1bB4QS4) | [Camo Columbo](https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm) | [Preach](https://open.spotify.com/album/4vMuWB97ayjrzYVwDog2wp) | 2:55 | 2021-12-16 | 2023-01-13 |
 | [PRICE OF FAME](https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [PRICE OF FAME](https://open.spotify.com/album/0ZPaMBoUZhJhJnJQgShm8X) | 6:19 | 2023-01-12 | 2023-01-27 |
@@ -396,7 +397,7 @@
 | [Whispers](https://open.spotify.com/track/1axwmTbryAGBoMy9OOnlB0) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Whispers](https://open.spotify.com/album/4KYgpnfISyOhm5iUYvkEQx) | 3:23 | 2021-12-16 | 2023-01-13 |
 | [white rice déjà vu](https://open.spotify.com/track/4knVIbR3KouTZI1R26W3yy) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Victims & Villains](https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia) | 3:50 | 2023-03-23 |  |
 | [Why We Love](https://open.spotify.com/track/6hYPE8tc5yc6Vd9yR3cVH1) | [Raffie](https://open.spotify.com/artist/1Or5JOvZf2PHMx8OmWHXfh) | [Why We Love](https://open.spotify.com/album/3CXMLXwgCKKpF9GV8dqqvf) | 3:09 | 2021-12-16 | 2023-01-13 |
-| [Wickedest](https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest](https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2) | 3:15 | 2023-02-02 |  |
+| [Wickedest](https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest](https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2) | 3:15 | 2023-02-02 | 2023-09-23 |
 | [Wish You Well](https://open.spotify.com/track/6VaBTaTsjak8UAPWCIrvl8) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Wish You Well](https://open.spotify.com/album/21A6NJoF9eN9yuCqIHJu5y) | 2:54 | 2023-01-12 | 2023-03-23 |
 | [wish you were here](https://open.spotify.com/track/0DEVHeqxATyAmwUMFGFTfv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wish you were here](https://open.spotify.com/album/30ssp982Ym9GCQstBVvEve) | 3:22 | 2021-12-16 | 2022-11-03 |
 | [wish you were here](https://open.spotify.com/track/6KtJt7GzE8W5V29xgVGC0K) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wish you were here](https://open.spotify.com/album/4HLnnflwmy0nklqam1JvxJ) | 3:22 | 2022-10-27 | 2023-01-13 |

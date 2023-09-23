@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 ### [House Party](https://open.spotify.com/playlist/37i9dQZF1DXaaLM83puGG5)
 
-> Keeping the party going with <a href="https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ?si=dLeGdE5sRY2XJzR99NpU\_w">Uncle Waffles<a>!
+> Keeping the party going with <a href="spotify:artist:68McnNC9twEtiynOAJRRgZ">Uncle Waffles</a> !
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,934 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,026 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 49 | [Fatela](https://open.spotify.com/track/5mL7RfS7UaeeQCrlbW24gN) | [DJ GABZY](https://open.spotify.com/artist/1ThdeUNBFois1A9hv0gOzY), [Mfr Souls](https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX) | [Fatela](https://open.spotify.com/album/1n7f9su33m0OgcLUcPlHgl) | 5:00 |
 | 50 | [Tanzania](https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Tanzania](https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN) | 6:16 |
 
-Snapshot ID: `MCxjZmI3NDY0YWM5ZWE3OGU3NWZiMzZlNzcxMGNiYzIzMjgzNDIwZmQ2`
+Snapshot ID: `MCxmMDk1MmQ0OWMxYmMyYWFiZWExOWYzMWYwYjMxZGExNTJmMjQ5YzBk`

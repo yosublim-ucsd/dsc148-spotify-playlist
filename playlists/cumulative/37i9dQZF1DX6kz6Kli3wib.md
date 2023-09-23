@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-280 songs - 13 hr 41 min
+281 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [My Guitar Gently Beeps](https://open.spotify.com/track/5cCU1vF7kwZDveCsSeEFSO) | [Leandi](https://open.spotify.com/artist/6s4kY85iUHP3nFjmuMbxUH) | [Paradise Sub](https://open.spotify.com/album/2KdzvnbDgx3hAfHpk2UJAn) | 1:36 | 2021-11-11 | 2022-04-15 |
 | [Nanimoshinai](https://open.spotify.com/track/2Tn9t0J8lcoWoqFt3salVA) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Yukkuri](https://open.spotify.com/album/3UsJZDdh685GcDK7a0bdTp) | 3:13 | 2021-11-11 |  |
 | [nassau flights](https://open.spotify.com/track/52TxNK1fhWi3apyzHE0hge) | [sir bennett](https://open.spotify.com/artist/2BmSS7TcHQpZ4yYUg2ooXL) | [nassau flights](https://open.spotify.com/album/2s6NZqAm9aiji3o3hMLhbX) | 2:29 | 2022-10-28 |  |
+| [New Curtains](https://open.spotify.com/track/2q0AjgcOv5xiOF0zgiue0X) | [Finn Horizon](https://open.spotify.com/artist/4y19AUiBySss0zxq6dqNve) | [New Curtains](https://open.spotify.com/album/4mdyReFr4Zb31zDj6CFbBd) | 2:36 | 2023-09-22 |  |
 | [New Home](https://open.spotify.com/track/3fOHXAfr6vkw7E4rbTs97y) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Home Sweet Home](https://open.spotify.com/album/1U9SC6WxvpISBIgnlpYaKB) | 2:14 | 2022-09-23 |  |
 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2021-11-11 | 2022-10-14 |
 | [Nighttime Flow](https://open.spotify.com/track/2M8UxcYTFMQgTPC16zjiJB) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Nighttime Flow](https://open.spotify.com/album/1BzIrWpww8v3E8fluT75KV) | 2:52 | 2023-03-10 |  |

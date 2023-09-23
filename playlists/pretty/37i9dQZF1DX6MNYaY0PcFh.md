@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,020 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,131 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 47 | [With Me \(feat\. Sâlo\)](https://open.spotify.com/track/7qERcHhtCTltMIGZl4nmYp) | [Bassboy](https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy), [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [With Me](https://open.spotify.com/album/76CVi2dGMcEgtoDcxeQWlH) | 3:48 |
 | 48 | [Hypnotize Me Baby](https://open.spotify.com/track/2Hl0upSnUWcTVak4PVxlX3) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Numéro LDN](https://open.spotify.com/album/4qqRj5g7b3kMCZXF4pY98f) | 2:22 |
 | 49 | [nobody but u](https://open.spotify.com/track/0Mq7DQeSqhxaw8l4H42Wfw) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [nobody but u](https://open.spotify.com/album/6bECVAhAp8eX6fsRjQLNpe) | 3:56 |
-| 50 | [Big & Bad Riddim](https://open.spotify.com/track/1MiQKWnyI47pXvW5wWf9ts) | [Vato Gonzalez](https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Big & Bad Riddim](https://open.spotify.com/album/48MB8hbQNRWWy5C1DHa4WG) | 2:55 |
-| 51 | [Never Gonna Be](https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Never Gonna Be](https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM) | 3:45 |
+| 50 | [Never Gonna Be](https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Never Gonna Be](https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM) | 3:45 |
+| 51 | [Big & Bad Riddim](https://open.spotify.com/track/1MiQKWnyI47pXvW5wWf9ts) | [Vato Gonzalez](https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Big & Bad Riddim](https://open.spotify.com/album/48MB8hbQNRWWy5C1DHa4WG) | 2:55 |
 | 52 | [care 4](https://open.spotify.com/track/2LNzaAAzQMSp6TGpFi3oIB) | [Banditt](https://open.spotify.com/artist/4uoxnYSZK48iKLjfbjRi6A), [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [care 4](https://open.spotify.com/album/14UGM6sZZnYrvtpgEE30kU) | 3:52 |
 | 53 | [Microdosing \(Conducta Remix\) \- Edit](https://open.spotify.com/track/7FYvSHYySIXK9hCwBgnOea) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [Microdosing \(Conducta Remix\)](https://open.spotify.com/album/52r0BbElKJLiF59usacC0A) | 2:57 |
 | 54 | [Like Home](https://open.spotify.com/track/2NhpheC54QQ8Vacjpmz1TH) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Like Home](https://open.spotify.com/album/0WkRktzRMPYCe77vWwsrB3) | 5:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 59 | [I Could \- Open Up Mix](https://open.spotify.com/track/4BDfygrHURRAI5EK3RxDqu) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [One Night, One Time](https://open.spotify.com/album/50dOkOrN2iLEaWBdGR0Osc) | 4:34 |
 | 60 | [Visions](https://open.spotify.com/track/1nQpu5Bzfc2HylKKwX06Lk) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Visions](https://open.spotify.com/album/3rWDCqvvj2cmJjhUlFSIMa) | 2:15 |
 
-Snapshot ID: `MCwzYzZlZTcwNWZiMjkwMjQ5YWJiMmJlM2M4MGZkODk4OWJjMzg0NTJi`
+Snapshot ID: `MCxjZWMwMzJjNWEyMDNlZWFlYzYzY2RhODIzMWZiYTJhNDg2MzlmOGE3`

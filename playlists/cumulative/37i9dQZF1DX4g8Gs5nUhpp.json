@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng ca kh\u00fac n\u00e0y. \u1ea2nh b\u00eca: Wren Evans",
+  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng ca kh\u00fac n\u00e0y. \u1ea2nh b\u00eca: Orange",
   "name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "tracks": [
     {
@@ -367,6 +367,28 @@
     },
     {
       "album": {
+        "name": "V\u0169 Tr\u1ee5 C\u00f2 Bay",
+        "url": "https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng M\u1ef9 Chi",
+          "url": "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
+        },
+        {
+          "name": "DTAP",
+          "url": "https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274620,
+      "name": "B\u00f3ng Ph\u00f9 Hoa",
+      "url": "https://open.spotify.com/track/3fw9v7CztM2mqu1jCtbg9f"
+    },
+    {
+      "album": {
         "name": "B\u00f4ng Hoa \u0110\u1eb9p Nh\u1ea5t",
         "url": "https://open.spotify.com/album/0Vw8JSu2raGD3tKl5qKFwc"
       },
@@ -418,7 +440,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 203826,
       "name": "B\u1eadt T\u00ecnh Y\u00eau L\u00ean",
       "url": "https://open.spotify.com/track/62SFLTN7txImu8pQwBMP6A"
@@ -840,6 +862,28 @@
       "duration_ms": 215908,
       "name": "C\u00f3 Kh\u00f4ng Gi\u1eef M\u1ea5t \u0110\u1eebng T\u00ecm",
       "url": "https://open.spotify.com/track/04bm7NsIhRfTlLGDoKMEw8"
+    },
+    {
+      "album": {
+        "name": "C\u00f3 \u0111au th\u00ec \u0111au m\u1ed9t m\u00ecnh",
+        "url": "https://open.spotify.com/album/0CUpq5X4lU88UaDjg04HjJ"
+      },
+      "artists": [
+        {
+          "name": "Orange",
+          "url": "https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G"
+        },
+        {
+          "name": "Phuc Du",
+          "url": "https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210531,
+      "name": "C\u00f3 \u0111au th\u00ec \u0111au m\u1ed9t m\u00ecnh",
+      "url": "https://open.spotify.com/track/37od1g713ZvI32VA2diR9L"
     },
     {
       "album": {
@@ -1432,6 +1476,28 @@
       "duration_ms": 205846,
       "name": "GIAYPHUT",
       "url": "https://open.spotify.com/track/07b849p3xuq03EdlAo4CKX"
+    },
+    {
+      "album": {
+        "name": "Gi\u1ea5c M\u01a1 C\u1ee7a Em",
+        "url": "https://open.spotify.com/album/6f49KGOfETVpBrh6TerBr3"
+      },
+      "artists": [
+        {
+          "name": "MYLINA",
+          "url": "https://open.spotify.com/artist/4yx3BsXxY9l6BRyStNIB8y"
+        },
+        {
+          "name": "fueled by boba",
+          "url": "https://open.spotify.com/artist/4NKeJPVrlhASY3FXkQsLGn"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Gi\u1ea5c M\u01a1 C\u1ee7a Em",
+      "url": "https://open.spotify.com/track/5C4ajMLziq5yB7I5K6EsLS"
     },
     {
       "album": {
@@ -2086,7 +2152,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 192997,
       "name": "M\u1ed9t Ng\u00e0y Ch\u1eb3ng N\u1eafng",
       "url": "https://open.spotify.com/track/7hkvAaJNRlnetwv8Se2kDA"
@@ -3326,7 +3392,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 180394,
       "name": "t\u00ecnh w\u00e1 akk",
       "url": "https://open.spotify.com/track/4ZVb8ZUjzUJOTP1RNqUC9y"
@@ -3366,7 +3432,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 133561,
       "name": "t\u00ecnh y\u00eau c\u00f3 ngh\u0129a l\u00e0 g\u00ec?",
       "url": "https://open.spotify.com/track/6Lzlbce8Eg1dPg91VSx6kk"

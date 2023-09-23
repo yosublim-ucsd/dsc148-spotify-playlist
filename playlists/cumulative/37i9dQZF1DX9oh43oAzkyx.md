@@ -4,7 +4,7 @@
 
 > Energy tracks to get your beast mode on.
 
-305 songs - 15 hr 5 min
+306 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Dah Dah DahDah](https://open.spotify.com/track/2TSfStvlAMLw89u3tali79) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:31 | 2022-08-19 | 2022-12-10 |
 | [Danger](https://open.spotify.com/track/3HX0LjnPZCphkSoFRH2ITd) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:31 | 2022-10-14 | 2022-11-30 |
 | [Day Day N Craig \(with Tay Keith\)](https://open.spotify.com/track/5hgDSQNG4R8NsC4KqsAVxq) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Day Day N Craig \(with Tay Keith\)](https://open.spotify.com/album/4q2CfQMtCCeTZFSmYW5rLO) | 2:17 | 2021-10-29 | 2022-04-21 |
+| [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 | 2023-09-22 |  |
 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 | 2023-08-03 |  |
 | [Demons](https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Demons](https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py) | 3:15 | 2023-09-01 |  |
 | [Detox](https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Detox](https://open.spotify.com/album/4y77zrDMRkZznufMBScSal) | 2:41 | 2022-09-02 | 2023-06-10 |
@@ -117,7 +118,7 @@
 | [Honey Bun](https://open.spotify.com/track/0oWL7FTlaA1YtsRRuiF4Xs) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Honey Bun](https://open.spotify.com/album/0a0wSOjD0UQ1IqlcXKbeI7) | 2:14 | 2023-03-31 | 2023-08-21 |
 | [Hot \(feat\. Gunna\)](https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:13 | 2021-01-04 | 2022-12-10 |
 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 | 2022-07-01 | 2023-06-10 |
-| [Hype Me Up](https://open.spotify.com/track/5CzbXW5uNehVSgeozqkQzx) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hype Me Up](https://open.spotify.com/album/4rXP4oMmequey8Q600Gs6i) | 4:02 | 2023-09-01 |  |
+| [Hype Me Up](https://open.spotify.com/track/5CzbXW5uNehVSgeozqkQzx) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hype Me Up](https://open.spotify.com/album/4rXP4oMmequey8Q600Gs6i) | 4:02 | 2023-09-01 | 2023-09-23 |
 | [I Be](https://open.spotify.com/track/3p4YmRsO7aOu8PUbwdN3OB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape 2 \(Deluxe\)](https://open.spotify.com/album/4qE9v3nK9IYXHu7LP8KSeB) | 3:13 | 2022-03-25 | 2023-07-08 |
 | [I Do This](https://open.spotify.com/track/7gcF9zyTczyx9aXtHOMsWJ) | [Paper Route EMPIRE](https://open.spotify.com/artist/65smG2lgnRmrDB8g7z1hG0), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [PAPER ROUTE iLLUMINATi](https://open.spotify.com/album/6WDlSPJvEMoZLHj9jJ1dhY) | 2:58 | 2021-07-30 | 2022-07-29 |
 | [I Don't Like](https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Lil Reese](https://open.spotify.com/artist/1bPxKZtCdjB1aj1csBJpdS) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:53 | 2023-06-09 |  |

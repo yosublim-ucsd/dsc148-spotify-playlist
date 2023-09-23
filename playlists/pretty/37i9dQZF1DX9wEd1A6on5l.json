@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 36248,
+  "num_followers": 36342,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTVjOGJkMmYwOGQwNWNkZGNhMjI5YTNlMzQxODg1ZTJjNzA2OTM3",
+  "snapshot_id": "MCw0OTBkNTZjNjNiNWI2OTE5Y2RmZGIwODRmZDY4MTVmMWY1NjgwZmRk",
   "tracks": [
     {
       "added_at": "2023-09-21 23:00:00",
@@ -594,10 +594,6 @@
         {
           "name": "Tion Wayne",
           "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "Kevin Ekofo",
-          "url": "https://open.spotify.com/artist/67KgDYG0tKJHMXsxZme16p"
         }
       ],
       "duration_ms": 197577,
@@ -963,18 +959,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+        "name": "Carry Me Go",
+        "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Kolomental",
-      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
+      "duration_ms": 136464,
+      "name": "Carry Me Go",
+      "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -999,22 +999,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Carry Me Go",
-        "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 136464,
-      "name": "Carry Me Go",
-      "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
+      "duration_ms": 197000,
+      "name": "Kolomental",
+      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1051,6 +1047,26 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "LV N ATTN",
+        "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        }
+      ],
+      "duration_ms": 213991,
+      "name": "Monalisa",
+      "url": "https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "More Love, Less Ego",
         "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
       },
@@ -1075,38 +1091,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "LV N ATTN",
-        "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
+        "name": "Anabella",
+        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         }
       ],
-      "duration_ms": 213991,
-      "name": "Monalisa",
-      "url": "https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "DECLAN RICE",
-        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "DECLAN RICE",
-      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
+      "duration_ms": 124076,
+      "name": "Anabella",
+      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1131,18 +1127,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Anabella",
-        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
+        "name": "DECLAN RICE",
+        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 124076,
-      "name": "Anabella",
-      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
+      "duration_ms": 124000,
+      "name": "DECLAN RICE",
+      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1223,6 +1219,42 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 159100,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Ta Ta Ta (with Jason Derulo)",
+        "url": "https://open.spotify.com/album/6plZIBIIAhS0URu19s65O1"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Ta Ta Ta (with Jason Derulo)",
+      "url": "https://open.spotify.com/track/1LRGZESVn8eF7WVY5DzLNy"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "Who Is Your Guy?",
         "url": "https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34"
       },
@@ -1259,42 +1291,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Ta Ta Ta (with Jason Derulo)",
-        "url": "https://open.spotify.com/album/6plZIBIIAhS0URu19s65O1"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Ta Ta Ta (with Jason Derulo)",
-      "url": "https://open.spotify.com/track/1LRGZESVn8eF7WVY5DzLNy"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Rave & Roses Ultra",
-        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 159100,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/1EUh0evo2sfC0Y8T0cnPAd"
       },
@@ -1307,6 +1303,22 @@
       "duration_ms": 144000,
       "name": "Man of The Year",
       "url": "https://open.spotify.com/track/4UdDJ77xjH9ru5r5F9kfOG"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "The Second Wave Deluxe",
+        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 173617,
+      "name": "WeWe",
+      "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1339,22 +1351,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "The Second Wave Deluxe",
-        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 173617,
-      "name": "WeWe",
-      "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "My Darling + Angelus",
         "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
       },
@@ -1367,26 +1363,6 @@
       "duration_ms": 193500,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Terminator (feat. Young Jonn)",
-        "url": "https://open.spotify.com/album/1BICkuyzPn2IIQXjopKOXE"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 234024,
-      "name": "Terminator (feat. Young Jonn)",
-      "url": "https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1423,22 +1399,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1"
+        "name": "Terminator (feat. Young Jonn)",
+        "url": "https://open.spotify.com/album/1BICkuyzPn2IIQXjopKOXE"
       },
       "artists": [
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         },
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 153684,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ"
+      "duration_ms": 234024,
+      "name": "Terminator (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1455,6 +1431,26 @@
       "duration_ms": 195761,
       "name": "Elon musk",
       "url": "https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153684,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1483,26 +1479,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "UNAVAILABLE (feat. Musa Keys) [Latto Remix]",
-        "url": "https://open.spotify.com/album/5bnvOHmaiVvrc4uz5LJojE"
+        "name": "Girl Next Door",
+        "url": "https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         },
         {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 172035,
-      "name": "UNAVAILABLE (feat. Musa Keys) - Latto Remix",
-      "url": "https://open.spotify.com/track/29Mf5GsUgU3KLh3lAOGIU3"
+      "duration_ms": 180682,
+      "name": "Girl Next Door",
+      "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
     }
   ],
   "unique_name": "Party Dey!",

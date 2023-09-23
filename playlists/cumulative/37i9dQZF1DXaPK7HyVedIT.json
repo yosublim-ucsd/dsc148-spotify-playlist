@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 158884,
       "name": "At the Party - Radio Mix",
       "url": "https://open.spotify.com/track/0UrjoB5Pczv0hvXVu2ocyc"
@@ -248,6 +248,24 @@
       "duration_ms": 171428,
       "name": "B2 The Old School",
       "url": "https://open.spotify.com/track/596H2wc56DHytSsVNC3ZdX"
+    },
+    {
+      "album": {
+        "name": "Back To The Old School",
+        "url": "https://open.spotify.com/album/1V2G2gyVO26ICgez5XZtXp"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193920,
+      "name": "Back To The Old School",
+      "url": "https://open.spotify.com/track/4F7LB2F4E2kAeYKLEoWc61"
     },
     {
       "album": {
@@ -318,7 +336,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 158293,
       "name": "Baila (La Banda)",
       "url": "https://open.spotify.com/track/6AY8ze5ZtHhkygQryAvdHI"
@@ -836,7 +854,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 222926,
       "name": "Drink In Paris",
       "url": "https://open.spotify.com/track/18CpVX2rKdyGGZYtQmLKTh"
@@ -1094,7 +1112,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 167000,
       "name": "Gotta Know",
       "url": "https://open.spotify.com/track/2gwQYJuB0J6EAxyixjEwaS"
@@ -1310,7 +1328,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 133548,
       "name": "I Won't Let You Go",
       "url": "https://open.spotify.com/track/6cCEeEs9JA5OI81XaM9RRv"
@@ -1420,6 +1438,32 @@
       "duration_ms": 256406,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
+    },
+    {
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
     },
     {
       "album": {
@@ -1700,7 +1744,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 142080,
       "name": "Never Go Home",
       "url": "https://open.spotify.com/track/3eN21IMAIuX6IXEnJQzFBR"
@@ -1927,6 +1971,46 @@
     },
     {
       "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/0Cb9Dw2TLZCejFa4SzdeWb"
+      },
+      "artists": [
+        {
+          "name": "Mary Mesk",
+          "url": "https://open.spotify.com/artist/7Fc6qlNa6F4ONSLfJjlfjJ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234161,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/4M4xiqCQdw7nd7AzrNAO2S"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
+      },
+      "artists": [
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197640,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
+    },
+    {
+      "album": {
         "name": "Party Crashers",
         "url": "https://open.spotify.com/album/3LLtXVH3HDyBIOBQ1SKl6l"
       },
@@ -2122,7 +2206,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 158000,
       "name": "Renegades",
       "url": "https://open.spotify.com/track/6t3DMytWrFzBnUwyxIjiFq"
@@ -2308,6 +2392,32 @@
       "duration_ms": 225365,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/0oN2LfOJQfHiG2SkSJSW6o"
+    },
+    {
+      "album": {
+        "name": "Stand In Line",
+        "url": "https://open.spotify.com/album/6oOQUuzEJhcCzE8WYxVM13"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "Future Class",
+          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
+        },
+        {
+          "name": "RYVM",
+          "url": "https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185451,
+      "name": "Stand In Line",
+      "url": "https://open.spotify.com/track/29Hs0AdqnVUoPe3llVZ2fZ"
     },
     {
       "album": {
@@ -2531,6 +2641,32 @@
     },
     {
       "album": {
+        "name": "Thrift Shop",
+        "url": "https://open.spotify.com/album/1xwWtZ1nQP9E8WiXalDx1S"
+      },
+      "artists": [
+        {
+          "name": "HAWK.",
+          "url": "https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft"
+        },
+        {
+          "name": "Johnny Bolzan",
+          "url": "https://open.spotify.com/artist/4fKTfY2zmy8iON72LI1Oqq"
+        },
+        {
+          "name": "J.None",
+          "url": "https://open.spotify.com/artist/3WbIAfBAZZolnww7HPuWqe"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190595,
+      "name": "Thrift Shop",
+      "url": "https://open.spotify.com/track/5XF2q2fFt9zMUKRuv3J9RW"
+    },
+    {
+      "album": {
         "name": "Temple Of Dreams (Remixes Part 1)",
         "url": "https://open.spotify.com/album/7GBwLnpUMuXeQe1phHikWC"
       },
@@ -2572,6 +2708,32 @@
       "duration_ms": 231840,
       "name": "Tijuana - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/6XzYPtLcf1pVmjZ1y2k5T0"
+    },
+    {
+      "album": {
+        "name": "TikTak",
+        "url": "https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137204,
+      "name": "TikTak",
+      "url": "https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc"
     },
     {
       "album": {
@@ -2725,6 +2887,32 @@
     },
     {
       "album": {
+        "name": "When I See It (feat. The Vic)",
+        "url": "https://open.spotify.com/album/0fzfB2d2fwXPjqhoKhbME1"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        },
+        {
+          "name": "The Vic",
+          "url": "https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195937,
+      "name": "When I See It (feat. The Vic)",
+      "url": "https://open.spotify.com/track/0ZNO8GpuqnGWSJAzqo3Dso"
+    },
+    {
+      "album": {
         "name": "Where'd You Go",
         "url": "https://open.spotify.com/album/4IJ3rgtpv55ZmemYFskHc6"
       },
@@ -2810,6 +2998,28 @@
       "duration_ms": 167598,
       "name": "You Talkin'",
       "url": "https://open.spotify.com/track/0V3OXJgLiRK8yezOxVsr49"
+    },
+    {
+      "album": {
+        "name": "Younger Years",
+        "url": "https://open.spotify.com/album/08Q7bMJVKn4iKDTWIHGCvT"
+      },
+      "artists": [
+        {
+          "name": "Kiko Franco",
+          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255121,
+      "name": "Younger Years",
+      "url": "https://open.spotify.com/track/4ZcJkSU0FODw43oSkljOoY"
     },
     {
       "album": {

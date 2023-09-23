@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 178800,
       "name": "Aburrido ;(",
       "url": "https://open.spotify.com/track/4pJ4Ts3yrQypjpMx6xxNEB"
@@ -846,6 +846,28 @@
       "duration_ms": 238421,
       "name": "Corazon en Asteroides",
       "url": "https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn"
+    },
+    {
+      "album": {
+        "name": "Cuando la Luna Caiga",
+        "url": "https://open.spotify.com/album/0Q64aIzoIOqP5Xw5dzbn35"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        },
+        {
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273056,
+      "name": "Cuando la Luna Caiga",
+      "url": "https://open.spotify.com/track/4kbQVab7ftejREWGo8ebUi"
     },
     {
       "album": {
@@ -2238,7 +2260,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 223789,
       "name": "Morbo",
       "url": "https://open.spotify.com/track/3ERdjZpINiyIusmGukbXyP"
@@ -2960,6 +2982,28 @@
       "duration_ms": 293386,
       "name": "Recuerdo Infinito",
       "url": "https://open.spotify.com/track/79a6afRQ6sanoByoTyonnj"
+    },
+    {
+      "album": {
+        "name": "Fuera de Campo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/5MvyTXQx5v4SUQ9A5BdPSz"
+      },
+      "artists": [
+        {
+          "name": "D\u00ebnver",
+          "url": "https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo"
+        },
+        {
+          "name": "Alejandro Paz",
+          "url": "https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296909,
+      "name": "Revista de Gimnasia - Alejandro Paz Remix",
+      "url": "https://open.spotify.com/track/5FR4gA58DZ7rzDb3LQVYyW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Martin Kartenjer
 
-140 songs - 7 hr 56 min
+142 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Shy Boi](https://open.spotify.com/track/5dF6MnJUCc2LuLMQ5w82wA) | [Mk Muziq](https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M), [Baila Curry](https://open.spotify.com/artist/5DyGDTfz4KZ7XcUXHcXrly), [Double J The Rapper](https://open.spotify.com/artist/4oS28QL714oJei3rN7QrIf) | [Shy Boi](https://open.spotify.com/album/2JA7ebasiQYXt9jaw5cNz2) | 2:37 | 2023-08-07 |  |
 | [Sooravali](https://open.spotify.com/track/3vJjFE5dxFhyurohHo6clw) | [M.S.Jones Rupert](https://open.spotify.com/artist/3kzeW36gRksyI7yXgEECID), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl) | [Sooravali](https://open.spotify.com/album/0eIhUF5BVnbZbuP17RxUQ8) | 4:07 | 2023-03-21 | 2023-07-18 |
 | [Story Rewrite](https://open.spotify.com/track/7jQHimJTn5joGqtUXFnTvA) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB) | [Story Rewrite](https://open.spotify.com/album/48IgWLickNf0lBCE5zLOoZ) | 2:59 | 2023-09-14 |  |
+| [Thaaye](https://open.spotify.com/track/2tC6NKLWE0kkDcgWPy7rml) | [Ainthinai](https://open.spotify.com/artist/7enNExUFBZIE9pRCnD5snJ) | [Thaaye](https://open.spotify.com/album/5zeW1rAchG4xtwGECHXsGX) | 4:55 | 2023-09-22 |  |
 | [Thalayaatti Bommai \- From "Think Originals"](https://open.spotify.com/track/13peKDjGU45w5yvKR8QvCC) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0) | [Thalayaatti Bommai \(From "Think Originals"\)](https://open.spotify.com/album/7tO2sPQbhwj5KcHkyGKy99) | 3:27 | 2023-03-21 |  |
 | [Thamarai Poovilum](https://open.spotify.com/track/1Rs4zHwr6JWFyHKj0ucv4K) | [Ram Muthiah](https://open.spotify.com/artist/6FmTbZeAj6lhscs3PLXVUa), [Sai Madhukar](https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Thamarai Poovilum](https://open.spotify.com/album/32mPyTwlznacWc17apgBvl) | 5:30 | 2023-06-16 |  |
 | [Thanimaye](https://open.spotify.com/track/5oPw3pV2RMM5MVvH8bqTI0) | [Adithya L](https://open.spotify.com/artist/1CHukNLdtUsorPxFfbtzIA) | [Thanimaye](https://open.spotify.com/album/3CWFCY5M20VINvnDQUyoHh) | 3:28 | 2023-09-01 |  |
@@ -141,6 +142,7 @@
 | [Vaa Poola](https://open.spotify.com/track/6dv0QIadLzgOYN2KY3ScAt) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Vaa Poola](https://open.spotify.com/album/5zmj9MOy7GegpfEyoivwcv) | 2:35 | 2023-05-08 | 2023-07-25 |
 | [Vaadi Nenjukulla](https://open.spotify.com/track/38n3uNqlKbqSVfMUmRgi08) | [Ajees](https://open.spotify.com/artist/0KmDf97GDps7NgF7TXFrO1), [John Robins](https://open.spotify.com/artist/4vrGxEyhSmRkywIlWp8Xqc) | [Vaadi Nenjukulla](https://open.spotify.com/album/4w8PnoaGOk64ocgSLKl9sW) | 4:10 | 2023-08-11 |  |
 | [Vaanam Ellaye](https://open.spotify.com/track/5jNV9LJs8MeaN8d5sO4Fes) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Vaanam Ellaye](https://open.spotify.com/album/6ehc5mD4YXCrWpJYNpnXFy) | 3:30 | 2023-04-03 | 2023-06-24 |
+| [Vaasam Pesum](https://open.spotify.com/track/3oBLxR0GR0tCuhEvjamXM4) | [Ainthinai](https://open.spotify.com/artist/7enNExUFBZIE9pRCnD5snJ) | [Vaasam Pesum](https://open.spotify.com/album/65uesvauWksGXmaSS78K1L) | 3:50 | 2023-09-22 |  |
 | [Vachi Seiyapora](https://open.spotify.com/track/7zP9oosuNW34MudwwLLDdF) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Vachi Seiyapora](https://open.spotify.com/album/3CpQGDhtO10nxGLJUXOXLo) | 3:56 | 2023-07-26 |  |
 | [Valithathey](https://open.spotify.com/track/3sKdK2a0Arlv0KC0BEorQl) | [Allan Preetham](https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03) | [Valithathey](https://open.spotify.com/album/1mx2goQMmpZ4Xy08BMbo8F) | 2:01 | 2023-07-12 |  |
 | [Vannamayilae](https://open.spotify.com/track/5cgiw1qjyjnrmP8Xmm4LFf) | [A K PRRIYAN](https://open.spotify.com/artist/0awt0os7KJ5wBgHD5RV58o), [Akshaya Shivkumar](https://open.spotify.com/artist/3XQCmyhNSMPYoTRE7VVKWJ) | [Vannamayilae](https://open.spotify.com/album/6hcO0cW28GJfY0rWj0hqMU) | 3:07 | 2023-06-16 |  |

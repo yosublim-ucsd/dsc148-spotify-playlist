@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 4149395,
+  "num_followers": 4149771,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGE4ODQ5ZTZiYjM4MTllOTFlNzZjNjQ1MTlkNWU5ZmZkN2MwMmU3",
+  "snapshot_id": "MCwwNmUwNjgzOGY3MzhlZWQ3MDcxMDA5ZjU4MGVjNjZjODNkMWY3Y2M0",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "No Hay Imposibles",
+        "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 263666,
+      "name": "Me Enamor\u00e9 de Ti",
+      "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Por Amor A Mi Pueblo",
         "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 299626,
       "name": "Ser\u00e1 Mejor Que Te Vayas",
       "url": "https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "No Hay Imposibles",
-        "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 263666,
-      "name": "Me Enamor\u00e9 de Ti",
-      "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Esta Es Mi Vida",
-        "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Llegaste t\u00fa",
-      "url": "https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Fijaci\u00f3n Oral, Vol. 1",
         "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 285040,
       "name": "No (feat. Gustavo Cerati)",
       "url": "https://open.spotify.com/track/0J6dOwflFSy3h1AoKmkqKc"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Esta Es Mi Vida",
+        "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Llegaste t\u00fa",
+      "url": "https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Bemaste",
-        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 144428,
-      "name": "Bemaste",
-      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Alejandro Sanz 3",
         "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 307053,
       "name": "La fuerza del coraz\u00f3n",
       "url": "https://open.spotify.com/track/5c1w6xM8pFvXhMXQVUY42Q"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Bemaste",
+        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 144428,
+      "name": "Bemaste",
+      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 281640,
+      "name": "A Medio Vivir",
+      "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Nido de \u00e1guilas",
         "url": "https://open.spotify.com/album/32WuCQwrBEno4ofZMvr0tC"
       },
@@ -1259,26 +1275,6 @@
       "duration_ms": 230720,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/53xN2jnRERbs7bg9t8hKDd"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Una Estrella En El Cielo",
-        "url": "https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        },
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "Como Han Pasado los A\u00f1os (with Julio Iglesias)",
-      "url": "https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1319,34 +1315,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+        "name": "Una Estrella En El Cielo",
+        "url": "https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 281640,
-      "name": "A Medio Vivir",
-      "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
-        "url": "https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl"
-      },
-      "artists": [
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        },
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
         }
       ],
-      "duration_ms": 226481,
-      "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
-      "url": "https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di"
+      "duration_ms": 210466,
+      "name": "Como Han Pasado los A\u00f1os (with Julio Iglesias)",
+      "url": "https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Begin the Beguine",
-        "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
+        "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
+        "url": "https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl"
       },
       "artists": [
         {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 300600,
-      "name": "Hey - Spanish",
-      "url": "https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A"
+      "duration_ms": 226481,
+      "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
+      "url": "https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1395,6 +1379,22 @@
       "duration_ms": 195946,
       "name": "Cuando Tu Me Besas",
       "url": "https://open.spotify.com/track/626F53aUbrz0lMzYZOJ3RT"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Begin the Beguine",
+        "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 300600,
+      "name": "Hey - Spanish",
+      "url": "https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A"
     },
     {
       "added_at": "2023-09-15 04:01:00",

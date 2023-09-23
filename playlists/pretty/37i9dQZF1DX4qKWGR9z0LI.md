@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Lo último y lo mejor de la salsa\. Cover: Adolescent's Orquestra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,844,267 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,844,354 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 45 | [Ella Se Hizo Deseo](https://open.spotify.com/track/60T9E5dxb4076R7fv3Njjo) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Sensual](https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A) | 5:02 |
 | 46 | [Salsa Con Coco](https://open.spotify.com/track/3Xy4svERcnUuFcOaBI0539) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [El Arrollador](https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju) | 4:54 |
 | 47 | [Tu Vida en la Mía](https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [OPUS](https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh) | 6:14 |
-| 48 | [Cachondea](https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Descarga Espectacular](https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP) | 4:57 |
-| 49 | [Señor Mentira](https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk) | 4:29 |
+| 48 | [Señor Mentira](https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk) | 4:29 |
+| 49 | [Cachondea](https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Descarga Espectacular](https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP) | 4:57 |
 | 50 | [Vivir Lo Nuestro](https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Desde Un Principio / From The Beginning](https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI) | 6:06 |
 | 51 | [La Pantera Mambo](https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [La\-33](https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt) | 6:14 |
 | 52 | [Extrañándote](https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4) | [Michel el Buenón](https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf) | [Arriba Siempre \- De Pura Sangre](https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp) | 5:05 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 59 | [Soy](https://open.spotify.com/track/45tE8X8kZn7OXT0gqF8oUC) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Soy](https://open.spotify.com/album/4w7xwOg3peVXmzVheSpDDL) | 4:23 |
 | 60 | [Tengo Ganas](https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Historia De Un Sonero](https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4) | 4:26 |
 | 61 | [La Mejor de Todas](https://open.spotify.com/track/55BVGdzYkXx51xxMKsScgr) | [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [Por Culpa de Alguien](https://open.spotify.com/album/5bNVN6hXTW5gmDHsvqoZ60) | 5:27 |
-| 62 | [Aparentemente \- En Vivo](https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 7:29 |
-| 63 | [El Gran Varon](https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Legal Alien \- Top Secrets](https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ) | 6:54 |
+| 62 | [El Gran Varon](https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Legal Alien \- Top Secrets](https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ) | 6:54 |
+| 63 | [Aparentemente \- En Vivo](https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 7:29 |
 | 64 | [Con Mi Amiga](https://open.spotify.com/track/0FbZzSZ48zfYrXFhJMJZ6Y) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk) | 3:49 |
 | 65 | [Abre Que Voy](https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw) | [Miguel Enriquez](https://open.spotify.com/artist/3BuDl3fIeTGNTV50Y7NyqL) | [Grandes Exitos](https://open.spotify.com/album/5syjNOn67VhltUhaZMkVoZ) | 4:22 |
 | 66 | [Acuyuye](https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Pacheco Y Su Charanga Vol\. 3: Que Suene La Flauta](https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy) | 2:33 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 69 | [La Luz](https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Luz](https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0) | 3:05 |
 | 70 | [Enamórate Bailando](https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Enamórate Bailando](https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV) | 4:27 |
 | 71 | [Siempre Sere](https://open.spotify.com/track/0ViQHcFsGyynn92NTscTIN) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [MP 10th Anniversary](https://open.spotify.com/album/4PLj1LIHYKLMeVfWW0ukJX) | 5:21 |
-| 72 | [La Vamo a Tumbar](https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6) | 5:35 |
-| 73 | [Viene Y Se Va](https://open.spotify.com/track/4aVRKf9Dp3e6VQEcAx7euZ) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Baila Salsa](https://open.spotify.com/album/7H6mPRCBIMuKn7FirF8Alk) | 4:09 |
+| 72 | [Viene Y Se Va](https://open.spotify.com/track/4aVRKf9Dp3e6VQEcAx7euZ) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Baila Salsa](https://open.spotify.com/album/7H6mPRCBIMuKn7FirF8Alk) | 4:09 |
+| 73 | [La Vamo a Tumbar](https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6) | 5:35 |
 | 74 | [Los Campeones De La Salsa](https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Pa'lante](https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3) | 4:18 |
 | 75 | [Sincero \(Salsa\)](https://open.spotify.com/track/79cqPQQeH5HmnQ4PCQQzYb) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:05 |
 | 76 | [Cosas Bonitas](https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cosas Bonitas](https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 99 | [Cuenta Conmigo](https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Leyendas: Salsa Romántica](https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X) | 5:04 |
 | 100 | [El Dinero](https://open.spotify.com/track/0CEcTqeL5BC0V7gzmwytn3) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [From Miami a La Habana](https://open.spotify.com/album/1tNsdZEoSb3YrilndEMSmn) | 4:23 |
 
-Snapshot ID: `MCxkNTRjMmIwOTExMjNiZWJkYjQ1MDM5Yjc0YTI0YWY0MmQ5NjU5OGZk`
+Snapshot ID: `MCw5NzNlOWY2YTQ2M2ZiYzZhN2MxODRkZjg4NTI0ZGZkNDFmMmY1Mjc4`

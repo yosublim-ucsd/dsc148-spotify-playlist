@@ -4,7 +4,7 @@
 
 > Música groovera, for the true Funk Soldiers!
 
-100 songs - 6 hr 45 min
+101 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Flecha Verde](https://open.spotify.com/track/2qOap48YXxJbXkUBBTtg2p) | [Tapones de Punta](https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [Flecha Verde](https://open.spotify.com/album/3c1p52P7u2HB76AMZSVgE2) | 3:03 | 2023-02-17 |  |
 | [Fool Times](https://open.spotify.com/track/1V5Rk0zJFtw3Fz6DnRxIQf) | [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD) | [Big Bombo Mamma](https://open.spotify.com/album/2mUnAYErozFk0gn4V8noY8) | 3:56 | 2023-02-17 |  |
 | [Fornicazzione](https://open.spotify.com/track/3TsyBes13Sv5NSHT731ERU) | [Croupier Funk](https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p) | [Croupier Funk](https://open.spotify.com/album/2mZ9BW4pubExqAcyCEQtP1) | 5:42 | 2023-02-17 |  |
+| [Freaky](https://open.spotify.com/track/1mKpZeH6wpdhI4jpGYy870) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Resistencia](https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY) | 2:56 | 2023-09-07 |  |
 | [Freaky](https://open.spotify.com/track/5d007GtoRlEUZQghmKt9ps) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Freaky](https://open.spotify.com/album/5Js2VcV6zO50yS2T1UwVdM) | 2:56 | 2023-02-17 | 2023-09-21 |
 | [Funky Magazine](https://open.spotify.com/track/7FTyR0xZtVCXgjYYrGtvlj) | [Militantes del Climax](https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv) | [Funky Magazine](https://open.spotify.com/album/0dpvI4sK6dte5X32dELM95) | 2:44 | 2023-02-17 |  |
 | [Funkybarítico](https://open.spotify.com/track/76XBnA6HsX3L4tGrx8ZBrE) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Funkybarítico Hedónico Fantástico](https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL) | 4:21 | 2023-02-17 |  |
@@ -93,7 +94,7 @@
 | [Silver Mule](https://open.spotify.com/track/3PJmsTebOq650PohvoAOny) | [Reiband](https://open.spotify.com/artist/10JfXtdWDeKZKjP0LJkpiM) | [Disconnected](https://open.spotify.com/album/19SYYIX0zzZvm3zZjuncT3) | 3:50 | 2023-09-07 |  |
 | [Simon Freak](https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr) | [Tony 70](https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv) | [Tony 70](https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx) | 3:53 | 2023-02-17 |  |
 | [Sinestesia](https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a) | [Antes de Nacer](https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo) | [Sinestesia](https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT) | 4:27 | 2023-02-17 |  |
-| [Solo por Hoy](https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Solo por Hoy](https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS) | 3:30 | 2023-09-07 |  |
+| [Solo por Hoy](https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Solo por Hoy](https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS) | 3:30 | 2023-09-07 | 2023-09-23 |
 | [Sr\. A](https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr) | [Tapones de Punta](https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH) | [Sr\. A](https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok) | 3:33 | 2023-02-17 |  |
 | [Sudaka](https://open.spotify.com/track/6WTRtgrOpBim1hmNZh2WmA) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Sudaka](https://open.spotify.com/album/1xjohRHpisw8Yy50sognpe) | 3:22 | 2023-02-17 |  |
 | [Sujeto a Espacio](https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb) | [Jvlian](https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT) | [Crisis](https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU) | 2:41 | 2023-02-17 |  |

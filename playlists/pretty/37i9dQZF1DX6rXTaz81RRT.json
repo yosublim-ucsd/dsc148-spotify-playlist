@@ -1,12 +1,12 @@
 {
   "description": "Formas musicales de decir \"Te quiero\".",
-  "num_followers": 318863,
+  "num_followers": 318911,
   "original_name": "Te quiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjAxNzk4NmI1Y2E0ODQ0NzQ0NzY4MGY1OTU0NGE3MmZiOGQ3YzU3",
+  "snapshot_id": "MCwwODhhYjEyNjM2ZjM3N2FkM2ZjZGNjNjE5NTU3NTc4MzMxMTM4MTAy",
   "tracks": [
     {
       "added_at": "2021-02-12 18:11:45",
@@ -811,6 +811,22 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
         "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
       },
@@ -823,6 +839,26 @@
       "duration_ms": 243066,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
+        "name": "XSCAPE",
+        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 246026,
+      "name": "Love Never Felt So Good",
+      "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -843,22 +879,6 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 298120,
-      "name": "The Way You Make Me Feel - 2012 Remaster",
-      "url": "https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
       },
@@ -875,22 +895,6 @@
       "duration_ms": 219535,
       "name": "Lay Me Down",
       "url": "https://open.spotify.com/track/64GRDrL1efgXclrhVCeuA0"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -999,22 +1003,18 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "XSCAPE",
-        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
       "artists": [
         {
           "name": "Michael Jackson",
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 246026,
-      "name": "Love Never Felt So Good",
-      "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP"
+      "duration_ms": 298120,
+      "name": "The Way You Make Me Feel - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY"
     },
     {
       "added_at": "2021-02-12 18:11:45",

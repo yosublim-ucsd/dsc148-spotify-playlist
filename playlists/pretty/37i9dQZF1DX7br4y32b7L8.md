@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist! \#voorjou \#rihanna \#noano7k \#prada \#koekje \#joost
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,438 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,473 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 13 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
 | 14 | [Hurts Me](https://open.spotify.com/track/0RBw4ODUQPO4cuAOZtBGga) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Hurts Me](https://open.spotify.com/album/5fMG2nwVGN3fBofLm9CB0x) | 2:20 |
 | 15 | [Vraagtekens](https://open.spotify.com/track/1HMV4HV1r7icaylIaadle6) | [Vxlious](https://open.spotify.com/artist/0Bzf7UfWcqZ7ATMQ1Mx6sf) | [Vraagtekens](https://open.spotify.com/album/5LiHaTVav0xAbZRAWUwqGH) | 2:07 |
-| 16 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 |
+| 16 | [Paint The Town Red](https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:50 |
 | 17 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 |
 | 18 | [The Spectre](https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Spectre](https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW) | 3:13 |
 | 19 | [Wie Ben Jij](https://open.spotify.com/track/2txPPrev1n79RlLuFh01lW) | [SBMG](https://open.spotify.com/artist/3HL2hJ9MmM9eazDokIndkr), [Rello](https://open.spotify.com/artist/3H6wISJt78QaXrvNSRr47V) | [Money En Gang En Mixtape](https://open.spotify.com/album/5xmTC3gfSq84ZvFQOvYk2T) | 4:46 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 69 | [Banaan Meloen Kiwi & Citroen](https://open.spotify.com/track/2PPViwxoP2YtX3S2BUxTdj) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Banaan Meloen Kiwi & Citroen](https://open.spotify.com/album/5pNo8aSlYbMJf9Nb3VZ2os) | 2:55 |
 | 70 | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB), [Jermaine Edwards](https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K) | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/album/5y16jXfwpM8ZrZ2nnNRVlP) | 2:42 |
 
-Snapshot ID: `MCxmYmNlN2EwNzJmOTE1NjJhZjMzYWM2ODRkMWI5ZGU5MWIwMWNkNDhj`
+Snapshot ID: `MCxiMWY3N2I3YWRhMTYwNGY2YzNmOTU3ODhkOWJiYzdhMTFmNmY3ZGYy`

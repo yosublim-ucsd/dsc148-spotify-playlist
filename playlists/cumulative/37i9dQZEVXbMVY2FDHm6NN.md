@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-220 songs - 13 hr 4 min
+222 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Crush On](https://open.spotify.com/track/4LSPhOVHew694KG2IAA6Ap) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Diamond In The Rough](https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ) | 3:01 | 2022-10-14 | 2023-02-01 |
 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-05-19 | 2023-05-27 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-05-12 | 2023-06-17 |
-| [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-08-04 |  |
+| [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-08-04 | 2023-09-23 |
 | [DICE](https://open.spotify.com/track/6C734SmqoIYuRWo2qSCnpC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2uB0PgzqqWLdk2R736sMkP) | 2:45 | 2022-09-30 | 2022-10-15 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-18 | 2022-11-26 |
 | [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Starboy \(Deluxe\)](https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1) | 3:52 | 2023-03-17 | 2023-04-09 |
@@ -94,7 +94,8 @@
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-21 |  |
 | [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:25 | 2023-05-05 | 2023-05-20 |
 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-30 | 2023-08-12 |
-| [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 | 2023-09-15 |  |
+| [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-09-22 |  |
+| [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 | 2023-09-15 | 2023-09-23 |
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-28 | 2022-11-19 |
 | [Somebody Else](https://open.spotify.com/track/6gOZzuHIApHtAPTelkOMUc) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [\#OSNRAPII\-JOURNEY](https://open.spotify.com/album/4uXBZ6B6obczO1Jf8eZFcw) | 2:49 | 2023-01-20 |  |
 | [SOS](https://open.spotify.com/track/3x9zIsVAQUNvU3J2tR58Di) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [REALIEZ](https://open.spotify.com/album/70ptf4PxBI5aZdXWPbxTs0) | 3:11 | 2023-07-14 | 2023-07-29 |
@@ -127,7 +128,7 @@
 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 | 2023-04-14 | 2023-04-22 |
 | [すずめ](https://open.spotify.com/track/3HCGX2gmPLu6ttkbYvPGTR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [十明](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [すずめの戸締まり](https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp) | 3:58 | 2023-03-10 | 2023-04-22 |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-04-21 |  |
-| [一念之間](https://open.spotify.com/track/0XEEIG7IVzJUdkCg6taS9d) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [帶你飛](https://open.spotify.com/album/6wlO3VClebIlgMCfBcFbUy) | 4:47 | 2023-02-24 |  |
+| [一念之間](https://open.spotify.com/track/0XEEIG7IVzJUdkCg6taS9d) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [帶你飛](https://open.spotify.com/album/6wlO3VClebIlgMCfBcFbUy) | 4:47 | 2023-02-24 | 2023-09-23 |
 | [一直都在 \- 《我的麻吉4個鬼》電影主題曲](https://open.spotify.com/track/2pjAig6rbTn1Th9p9yjjwd) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [一直都在 \(《我的麻吉4個鬼》電影主題曲\)](https://open.spotify.com/album/4QhjNVOF6Fjbmmr7ujQv7a) | 3:41 | 2023-08-25 | 2023-09-16 |
 | [不小心愛上你 Accidentally in Love ft\. 魏如萱 waa wei](https://open.spotify.com/track/0Gw3VYIA5RbpZVnOYUiLsP) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [不小心愛上你 Accidentally in Love ft\. 魏如萱 waa wei](https://open.spotify.com/album/6IFGIOFQtPKTytLxFnoweD) | 3:59 | 2022-10-21 | 2022-11-05 |
 | [不小心愛上你 ft\. 魏如萱 waa wei](https://open.spotify.com/track/49vNlEFxO7Uv95ZNC9stIP) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [In Mind](https://open.spotify.com/album/2tU8bZsg1ZnPRZO1gfGdpZ) | 3:59 | 2022-11-04 | 2022-11-19 |
@@ -185,7 +186,7 @@
 | [披星戴月的想你](https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 5:49 | 2022-09-30 |  |
 | [摯友](https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 5:18 | 2023-07-21 |  |
 | [摯友](https://open.spotify.com/track/5evE7bweEhX83fd1ZmwPjP) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [摯友](https://open.spotify.com/album/5XhdyuaZcuvgWVR135euye) | 5:13 | 2023-05-26 |  |
-| [擱淺](https://open.spotify.com/track/4Rt9k4SE8dbfKzngxKJPq9) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC) | 3:56 | 2022-11-25 | 2023-07-22 |
+| [擱淺](https://open.spotify.com/track/4Rt9k4SE8dbfKzngxKJPq9) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC) | 3:56 | 2022-11-25 |  |
 | [敦化南路 \(Revisit\)](https://open.spotify.com/track/1fN2vfoCaDR1CkGsTAn6aT) | [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [大嘻哈時代2: BLOCK TO BLOCK 區域對決](https://open.spotify.com/album/6LFaMq5M9auGTQ2ynneItM) | 4:06 | 2023-03-10 | 2023-04-01 |
 | [新時代](https://open.spotify.com/track/28MATCYDctW5EiBa2repxb) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:46 | 2022-09-30 | 2022-10-15 |
 | [是你.](https://open.spotify.com/track/3fiXwwPL7cUvD7BqkHdN0J) | [政学Zed\-X](https://open.spotify.com/artist/7DAjUaK40De066EOFR6fxB) | [是你.](https://open.spotify.com/album/46mCiXY4QlWCV2q34BQlG9) | 1:35 | 2023-06-23 |  |
@@ -197,6 +198,7 @@
 | [最後一堂課 \- 《媽,別鬧了!》影集片尾曲](https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [最後一堂課 \(《媽,別鬧了!》影集片尾曲\)](https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy) | 4:38 | 2022-09-30 |  |
 | [最後一次心碎](https://open.spotify.com/track/0Mn3gzrUf0ubQ64XhsL9mY) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [最後一次心碎](https://open.spotify.com/album/25hqQlN9L9482Arrj3PmgD) | 2:48 | 2022-11-25 | 2022-12-10 |
 | [有些](https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN) | 3:49 | 2022-11-04 |  |
+| [毒药](https://open.spotify.com/track/60PL1vtOCFBXwwZeQlVHN9) | [周星星](https://open.spotify.com/artist/21G0EtHm49HAvOa0Au4PMp) | [毒药](https://open.spotify.com/album/6h13XN1vwTxWQTaxuWogGg) | 3:35 | 2023-09-22 |  |
 | [毒藥](https://open.spotify.com/track/5VymCvfV0FguCa7zrIPSgk) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [狂人](https://open.spotify.com/album/0fJuIuYXDPonlFi7gUe3ol) | 3:25 | 2023-04-28 |  |
 | [沒有關係](https://open.spotify.com/track/79TMN9XqG2uwuhgVUw7siC) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [沒有關係](https://open.spotify.com/album/56TgG6JFlQHeQFMbXDg4Wt) | 2:40 | 2022-12-16 | 2022-12-31 |
 | [满天星辰不及你](https://open.spotify.com/track/09io3vVKFutG8rzdjjQYfM) | [yccc](https://open.spotify.com/artist/688ekAE2qdQA7jJbmqcXGL) | [满天星辰不及你](https://open.spotify.com/album/6AvfkqnDNGX27Lz7C02mIt) | 3:36 | 2022-11-11 | 2022-11-26 |

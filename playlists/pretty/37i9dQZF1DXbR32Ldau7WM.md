@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now! Cover: THE BACK HORN
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,104 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,162 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 68 | [ミュージック](https://open.spotify.com/track/21kn2sWOZANPZHGOpW7pG9) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [sakanaction](https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr) | 5:22 |
 | 69 | [Kizukeyo Baby](https://open.spotify.com/track/3EEaEEltAaQAp0EhIwJEaK) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:13 |
 | 70 | [チーズケーキ・ファクトリー](https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:34 |
-| 71 | [私は猫の目](https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [私は猫の目](https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx) | 3:10 |
-| 72 | [平成ペイン](https://open.spotify.com/track/65mHu2GHtlQ8Fy3akl6hgX) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [FOOLs](https://open.spotify.com/album/7sUJFlz84jJ2vbLFDePctW) | 3:56 |
+| 71 | [平成ペイン](https://open.spotify.com/track/65mHu2GHtlQ8Fy3akl6hgX) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [FOOLs](https://open.spotify.com/album/7sUJFlz84jJ2vbLFDePctW) | 3:56 |
+| 72 | [私は猫の目](https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [私は猫の目](https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx) | 3:10 |
 | 73 | [キラーチューン](https://open.spotify.com/track/7bDgXhmpzHjvWx4qrtFaDS) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [娯楽\(バラエティ\)](https://open.spotify.com/album/3lppsAthiV8VkNYwTPJBRp) | 3:42 |
 | 74 | [突破口](https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:13 |
-| 75 | [江ノ島エスカー \(2023 ver.\)](https://open.spotify.com/track/12WtyFfw4w7BAbbWcTeiE4) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [サーフ ブンガク カマクラ \(完全版\)](https://open.spotify.com/album/3RJRauD27BwXHYI19CqwHu) | 2:40 |
+| 75 | [Future is Yours](https://open.spotify.com/track/2HPLnsjFWrBe3X2DcUEAVb) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [Future is Yours](https://open.spotify.com/album/0ydm0gjxuNauzHArr4Hztt) | 4:26 |
 | 76 | [アマリリス](https://open.spotify.com/track/4eIDKBcRJnlZmrRLNdlbgX) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [アマリリス](https://open.spotify.com/album/5Tdq4ftTKRVA2FYE4kc0QT) | 3:53 |
 | 77 | [アイデンティティ](https://open.spotify.com/track/3Fki7feUIjOBqclsgHsDhL) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [DocumentaLy](https://open.spotify.com/album/27S5Z17E6ZJNNuPoKddhGb) | 4:06 |
-| 78 | [Future is Yours](https://open.spotify.com/track/2HPLnsjFWrBe3X2DcUEAVb) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [Future is Yours](https://open.spotify.com/album/0ydm0gjxuNauzHArr4Hztt) | 4:26 |
+| 78 | [江ノ島エスカー \(2023 ver.\)](https://open.spotify.com/track/12WtyFfw4w7BAbbWcTeiE4) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [サーフ ブンガク カマクラ \(完全版\)](https://open.spotify.com/album/3RJRauD27BwXHYI19CqwHu) | 2:40 |
 | 79 | [ハルジオン](https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ハルジオン](https://open.spotify.com/album/49qXfXRHzvvCaGOnSTFCST) | 3:58 |
 | 80 | [Stray Hearts](https://open.spotify.com/track/3sqx01xjg7G7Fehge1YqUP) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Stray Hearts](https://open.spotify.com/album/4vBh1pUF953y5Sf6Y9A3Su) | 4:33 |
 
-Snapshot ID: `MCw0NTI5ZDVkMTg1M2ZkMmNiZDRmYzA2NjBkZTZjODY2ZWUwZDJmOWIz`
+Snapshot ID: `MCw5YjlhZDFmNThjOTRkMTVkNGNiYWI2OTE3ZGMwNDQ5ODNhMDlkOGRm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: Conton Candy
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,029 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,043 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 23 | [silver halide](https://open.spotify.com/track/6mr15INPDsvJvF88KnJGek) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [innovation](https://open.spotify.com/album/5bdAKMVRR7xgucjsH21VxF) | 4:41 |
 | 24 | [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 |
 | 25 | [Teenager](https://open.spotify.com/track/5HJmjrdCvcNg0VUzWy2DRT) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [Teenager](https://open.spotify.com/album/4hQM81eAKcx3fnvBqNt2DF) | 2:36 |
-| 26 | [HIKARI](https://open.spotify.com/track/2l5GfXSjWnHKok1hTPiwpS) | [KYONO](https://open.spotify.com/artist/4LgM76I3ubiFUtX0nuVgmr), [林萌々子](https://open.spotify.com/artist/5Cz8mBR1lvRbv7nuBTcDHa) | [HIKARI](https://open.spotify.com/album/29tJh9itrfOwP6bQWcAiSU) | 4:05 |
+| 26 | [HIKARI](https://open.spotify.com/track/3rkAi7PFvZHLoTH9IF1nha) | [KYONO](https://open.spotify.com/artist/4LgM76I3ubiFUtX0nuVgmr), [Momoko Hayashi](https://open.spotify.com/artist/5vvuay91t1WlmMwMEFsTsI) | [HIKARI](https://open.spotify.com/album/5vv2AAaGX5y9faA6xXVHJT) | 4:05 |
 | 27 | [ピンクブルー](https://open.spotify.com/track/1VRwCezjpvjnCrab92b1dk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [pink blue](https://open.spotify.com/album/07kXEBPM0KuSkMTr73giQ0) | 3:56 |
 | 28 | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/track/5Us9nHV0bOYJI7uh3wJQFf) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/album/5zEchapHbkbcP85WGzHBwi) | 3:38 |
 | 29 | [虚像のCarousel](https://open.spotify.com/track/2FCkgW3vOc3IvpOCd0LJMT) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [虚像のCarousel](https://open.spotify.com/album/4HnTbIJinqxIvnHeIBaJv6) | 3:48 |
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 57 | [スケベなだけで金がない](https://open.spotify.com/track/2LhQsqnq5uyTtuobpoHCat) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [スケベなだけで金がない](https://open.spotify.com/album/5Ar3B8oObwuJfIuHQQIpDg) | 2:39 |
 | 58 | [School](https://open.spotify.com/track/4aFusxXDOfQyzSKlC2fg5b) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 3:50 |
 | 59 | [no future](https://open.spotify.com/track/49GZ0C0nN3kixGDD4zUS7s) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [no future](https://open.spotify.com/album/2SxIh4v9x8fGvezGfGLWGH) | 3:21 |
-| 60 | [クラシックハイ](https://open.spotify.com/track/16JaSG5xDmwHczSCNdHMO9) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [ジェニークラシック](https://open.spotify.com/album/3aE28znA0tYGoqxLwzaWxl) | 4:13 |
-| 61 | [Patient!! \- BiSH Ver\. from BiSH THE NEXT \-](https://open.spotify.com/track/3ZiDfWNcvsovd3wH4Dv6GU) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj), [BiSH THE NEXT](https://open.spotify.com/artist/78R2qYXRuOwSNo5WwbHw12) | [Patient!! \- BiSH Ver\. from BiSH THE NEXT \-](https://open.spotify.com/album/13oTb3UmeItwgyFIKiGbew) | 2:38 |
+| 60 | [Patient!! \- BiSH Ver\. from BiSH THE NEXT \-](https://open.spotify.com/track/3ZiDfWNcvsovd3wH4Dv6GU) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj), [BiSH THE NEXT](https://open.spotify.com/artist/78R2qYXRuOwSNo5WwbHw12) | [Patient!! \- BiSH Ver\. from BiSH THE NEXT \-](https://open.spotify.com/album/13oTb3UmeItwgyFIKiGbew) | 2:38 |
+| 61 | [クラシックハイ](https://open.spotify.com/track/16JaSG5xDmwHczSCNdHMO9) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [ジェニークラシック](https://open.spotify.com/album/3aE28znA0tYGoqxLwzaWxl) | 4:13 |
 | 62 | [Futaba](https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:37 |
 | 63 | [アロー](https://open.spotify.com/track/0OdoZOlFD1PPPJ7Pifh6Gl) | [Awkmiu](https://open.spotify.com/artist/26mj2zXHj76K9paE9J197C) | [アロー EP](https://open.spotify.com/album/08OQIz1YQegXGFg7Xw53hg) | 3:20 |
-| 64 | [ふたり](https://open.spotify.com/track/6wbXSVc6kR9cAHP0rWTUMT) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [ふたり](https://open.spotify.com/album/1atBgPVgFDAyqyt4wGYz8w) | 4:12 |
-| 65 | [Sing The Moon](https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Sing The Moon](https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO) | 3:26 |
+| 64 | [Sing The Moon](https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Sing The Moon](https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO) | 3:26 |
+| 65 | [ふたり](https://open.spotify.com/track/6wbXSVc6kR9cAHP0rWTUMT) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [ふたり](https://open.spotify.com/album/1atBgPVgFDAyqyt4wGYz8w) | 4:12 |
 | 66 | [8gatsu31nichi](https://open.spotify.com/track/4qxqTTfRstVeT7hC14wORo) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [8gatsu31nichi](https://open.spotify.com/album/6a7cJ86ZJjhRuwtK3Me8Rv) | 3:08 |
 | 67 | [Andromeda](https://open.spotify.com/track/6LQI7H51W81iihxDcNRawm) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Andromeda](https://open.spotify.com/album/1IKxkq05NRvtc990dCPpxl) | 5:40 |
 | 68 | [春](https://open.spotify.com/track/1EKokC3pWxtL2t1Y2AEol6) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [春/POOL](https://open.spotify.com/album/45e8d35oEPGtFu58TwDSTx) | 2:54 |
 | 69 | [ハイキ](https://open.spotify.com/track/571OuDNbmwsysH42KfVp5P) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [ハイキ](https://open.spotify.com/album/4RCWq7krRO3AVFj8fvWhYs) | 3:35 |
 | 70 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 |
 
-Snapshot ID: `MCwxZDExMzI2YWJjOTk0NTM1NDhkMDk5YWY4YTBlYTk5ODIxNzIxMzJm`
+Snapshot ID: `MCw4YjFkM2JjZWNmZjExODA4NGNiMGUyOTkxMWZlOTExMmRmOWNiNDAy`

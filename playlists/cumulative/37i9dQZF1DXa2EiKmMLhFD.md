@@ -2,9 +2,9 @@
 
 ### [Hot Hits Indonesia](https://open.spotify.com/playlist/37i9dQZF1DXa2EiKmMLhFD)
 
-> Hits terpanas dari Idgitaf, Olivia Rodrigo serta artis terfavorit Anda dari dalam negeri dan mancanegara.
+> Hits terpanas dari Batas Senja, Ghea Indrawari serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-111 songs - 6 hr 57 min
+112 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Old Love](https://open.spotify.com/track/3W4U7TEgILGpq0EmquurtH) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Old Love](https://open.spotify.com/album/6mKwqGY2IS3qSs3mgs30A5) | 4:09 | 2023-03-23 | 2023-08-15 |
 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2023-03-23 | 2023-08-04 |
 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 | 2023-03-23 | 2023-09-01 |
-| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-09-15 |  |
+| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-09-15 | 2023-09-23 |
 | [Pilihan Yang Terbaik](https://open.spotify.com/track/7BhRGeqNpBw1QilknM0svo) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Magnolya](https://open.spotify.com/album/3yUBpUAsQeuAu9R86wiukG) | 3:54 | 2023-03-23 | 2023-06-02 |
 | [Rahmatun Lil'Alameen](https://open.spotify.com/track/4Ifu8HPmQGUnJwwaXcG2Mj) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Rahmatun Lil'Alameen](https://open.spotify.com/album/2SqCf5y1QVixgel87vaM2K) | 3:50 | 2023-03-23 | 2023-05-13 |
 | [Rayuan Perempuan Gila](https://open.spotify.com/track/1nYdkPCbHdYi4w7s2L6SHA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Rayuan Perempuan Gila](https://open.spotify.com/album/7cCDE3ZZwmD94SKVKCLXAO) | 5:20 | 2023-06-30 |  |
@@ -95,6 +95,7 @@
 | [Sisa Rasa](https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sisa Rasa](https://open.spotify.com/album/1HWELX1pBJxEArEKKoepuJ) | 4:14 | 2023-03-23 | 2023-08-25 |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2023-03-23 | 2023-03-31 |
 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 | 2023-04-20 |  |
+| [Starboy](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:50 | 2023-09-22 |  |
 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 | 2023-04-28 | 2023-05-13 |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-16 |  |
 | [Surat Hati](https://open.spotify.com/track/7tuwsUy09EoabNtrXrLnX1) | [Devano](https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi) | [Surat Hati](https://open.spotify.com/album/6kTAiISEjLjvBSwJFXrh0V) | 4:54 | 2023-09-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Rimas finas para inspirarte en el jale. ",
-  "num_followers": 97155,
+  "num_followers": 97303,
   "original_name": "Chambeando con Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzBiYTNkZWFlYTVhMmExNjRmNDA5YTIyNGM0ZmVhY2VlN2RiZGU0",
+  "snapshot_id": "MCwxOTMzNmQ1N2QwMDU4NmZiZTBiNDA3OTUwNzMwMmQyMzdkNTE0Y2Jk",
   "tracks": [
     {
       "added_at": "2023-07-14 01:17:58",
@@ -447,18 +447,22 @@
     {
       "added_at": "2023-07-14 01:17:58",
       "album": {
-        "name": "Black Sunday",
-        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
       "artists": [
         {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
         }
       ],
-      "duration_ms": 208266,
-      "name": "Insane in the Brain",
-      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
+      "duration_ms": 224426,
+      "name": "21 Questions",
+      "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
     },
     {
       "added_at": "2023-07-14 01:17:58",
@@ -479,22 +483,18 @@
     {
       "added_at": "2023-07-14 01:17:58",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+        "name": "Black Sunday",
+        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
       },
       "artists": [
         {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
         }
       ],
-      "duration_ms": 224426,
-      "name": "21 Questions",
-      "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
+      "duration_ms": 208266,
+      "name": "Insane in the Brain",
+      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
     },
     {
       "added_at": "2023-07-14 01:17:58",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-07-14 01:17:58",
       "album": {
-        "name": "Straight Outta Compton",
-        "url": "https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW"
-      },
-      "artists": [
-        {
-          "name": "N.W.A.",
-          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
-        }
-      ],
-      "duration_ms": 258687,
-      "name": "Straight Outta Compton",
-      "url": "https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW"
-    },
-    {
-      "added_at": "2023-07-14 01:17:58",
-      "album": {
         "name": "good kid, m.A.A.d city",
         "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 310720,
       "name": "Bitch, Don\u2019t Kill My Vibe",
       "url": "https://open.spotify.com/track/4Pwjz3DfvfQWV0rO2V8jyh"
+    },
+    {
+      "added_at": "2023-07-14 01:17:58",
+      "album": {
+        "name": "Straight Outta Compton",
+        "url": "https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW"
+      },
+      "artists": [
+        {
+          "name": "N.W.A.",
+          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+        }
+      ],
+      "duration_ms": 258687,
+      "name": "Straight Outta Compton",
+      "url": "https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW"
     },
     {
       "added_at": "2023-07-14 01:17:58",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-07-14 01:17:58",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 168560,
-      "name": "Ruc\u00f3n",
-      "url": "https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z"
-    },
-    {
-      "added_at": "2023-07-14 01:17:58",
-      "album": {
         "name": "Mexicano",
         "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 174193,
       "name": "Mexicano",
       "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
+    },
+    {
+      "added_at": "2023-07-14 01:17:58",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 168560,
+      "name": "Ruc\u00f3n",
+      "url": "https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z"
     },
     {
       "added_at": "2023-07-14 01:17:58",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-07-14 01:17:58",
       "album": {
+        "name": "La Sangre Nunca Muere",
+        "url": "https://open.spotify.com/album/2K0WaWHHDVv7o6x6ZpokCZ"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "duration_ms": 287920,
+      "name": "Ella Se Fue",
+      "url": "https://open.spotify.com/track/02LnwwnaanFpM5dZNArPBb"
+    },
+    {
+      "added_at": "2023-07-14 01:17:58",
+      "album": {
         "name": "Mucho para M\u00ed",
         "url": "https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 310262,
       "name": "Mucho para M\u00ed",
       "url": "https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR"
-    },
-    {
-      "added_at": "2023-07-14 01:17:58",
-      "album": {
-        "name": "La Sangre Nunca Muere",
-        "url": "https://open.spotify.com/album/2K0WaWHHDVv7o6x6ZpokCZ"
-      },
-      "artists": [
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        }
-      ],
-      "duration_ms": 287920,
-      "name": "Ella Se Fue",
-      "url": "https://open.spotify.com/track/02LnwwnaanFpM5dZNArPBb"
     },
     {
       "added_at": "2023-07-14 01:17:58",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-07-14 01:17:58",
       "album": {
-        "name": "As\u00ed Soy Yo",
-        "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
-      },
-      "artists": [
-        {
-          "name": "Millonario & W. Corona",
-          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "L\u00edrica y Metralla",
-      "url": "https://open.spotify.com/track/6WjrtAetRWDX6Lbt9Vgvhd"
-    },
-    {
-      "added_at": "2023-07-14 01:17:58",
-      "album": {
         "name": "Canciones Mamalonas",
         "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 193421,
       "name": "Desde Cero (feat. Santa Fe Klan)",
       "url": "https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye"
+    },
+    {
+      "added_at": "2023-07-14 01:17:58",
+      "album": {
+        "name": "As\u00ed Soy Yo",
+        "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
+      },
+      "artists": [
+        {
+          "name": "Millonario & W. Corona",
+          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "L\u00edrica y Metralla",
+      "url": "https://open.spotify.com/track/6WjrtAetRWDX6Lbt9Vgvhd"
     },
     {
       "added_at": "2023-07-14 01:17:58",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-07-14 01:17:58",
       "album": {
-        "name": "Hip Hop 100 Hits - Urban rap & R n B anthems inc. Jay Z, A$ap Rocky, Wu-Tang Clan & Nas",
-        "url": "https://open.spotify.com/album/1tIioq32KjWlt5vvk5rhqX"
-      },
-      "artists": [
-        {
-          "name": "Delinquent Habits",
-          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Tres Delinquentes - Radio Version",
-      "url": "https://open.spotify.com/track/1dstLlsgEFPsaiccsUz2SP"
-    },
-    {
-      "added_at": "2023-07-14 01:17:58",
-      "album": {
         "name": "Suena En Mi Barrio",
         "url": "https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 233142,
       "name": "Suena En Mi Barrio",
       "url": "https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C"
+    },
+    {
+      "added_at": "2023-07-14 01:17:58",
+      "album": {
+        "name": "Hip Hop 100 Hits - Urban rap & R n B anthems inc. Jay Z, A$ap Rocky, Wu-Tang Clan & Nas",
+        "url": "https://open.spotify.com/album/1tIioq32KjWlt5vvk5rhqX"
+      },
+      "artists": [
+        {
+          "name": "Delinquent Habits",
+          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Tres Delinquentes - Radio Version",
+      "url": "https://open.spotify.com/track/1dstLlsgEFPsaiccsUz2SP"
     },
     {
       "added_at": "2023-07-14 01:17:58",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-07-14 01:17:58",
       "album": {
-        "name": "Viviendo Recio",
-        "url": "https://open.spotify.com/album/4Xnfrq4wc7We7YssTaarVB"
-      },
-      "artists": [
-        {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
-        }
-      ],
-      "duration_ms": 306744,
-      "name": "Sangre De Barrio",
-      "url": "https://open.spotify.com/track/3WBmdLBkrl7K1W8CPIFrgX"
-    },
-    {
-      "added_at": "2023-07-14 01:17:58",
-      "album": {
         "name": "Todo Bien",
         "url": "https://open.spotify.com/album/3ZDwja1a3VLSqjMAX8RxlJ"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 208000,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/5p6S0LXowt9jTCJfCP9A5S"
+    },
+    {
+      "added_at": "2023-07-14 01:17:58",
+      "album": {
+        "name": "Viviendo Recio",
+        "url": "https://open.spotify.com/album/4Xnfrq4wc7We7YssTaarVB"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        }
+      ],
+      "duration_ms": 306744,
+      "name": "Sangre De Barrio",
+      "url": "https://open.spotify.com/track/3WBmdLBkrl7K1W8CPIFrgX"
     },
     {
       "added_at": "2023-07-14 01:17:58",

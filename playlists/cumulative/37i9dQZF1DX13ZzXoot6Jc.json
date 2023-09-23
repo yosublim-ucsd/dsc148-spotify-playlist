@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 182666,
       "name": "Back Then, Right Now",
       "url": "https://open.spotify.com/track/3wAKfgic0OANcWf2QBxT8t"
@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Creek Will Rise",
+        "url": "https://open.spotify.com/album/4UXS7my7tmdX117YcfpXnx"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169293,
+      "name": "Creek Will Rise",
+      "url": "https://open.spotify.com/track/5owS9iWWGd6mDlFjUFzBsw"
+    },
+    {
+      "album": {
         "name": "Dawns (feat. Maggie Rogers)",
         "url": "https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m"
       },
@@ -672,6 +690,24 @@
       "duration_ms": 194898,
       "name": "Day Drunk",
       "url": "https://open.spotify.com/track/7nGuT0EfqQ1TXcADEKwB6Q"
+    },
+    {
+      "album": {
+        "name": "Daylight Savings",
+        "url": "https://open.spotify.com/album/7jsv9bvXyQpHw0fXynMtKf"
+      },
+      "artists": [
+        {
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167333,
+      "name": "Daylight Savings",
+      "url": "https://open.spotify.com/track/4MQ3oCdmDXeXizWdYxdPM3"
     },
     {
       "album": {
@@ -1048,7 +1084,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 181400,
       "name": "Ghost Story",
       "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
@@ -1258,6 +1294,24 @@
       "duration_ms": 165586,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt"
+    },
+    {
+      "album": {
+        "name": "Goodbye's Kickin' In",
+        "url": "https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201970,
+      "name": "Goodbye\u2019s Kickin\u2019 In",
+      "url": "https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA"
     },
     {
       "album": {
@@ -1540,7 +1594,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 234848,
       "name": "High Time",
       "url": "https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr"
@@ -2088,6 +2142,24 @@
       "duration_ms": 234340,
       "name": "Like I Love Country Music",
       "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
+    },
+    {
+      "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/4l1JW9aV2fmAxnH9TeeK82"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145106,
+      "name": "Little Songs",
+      "url": "https://open.spotify.com/track/6C6MuaafmC8YwS6rjYdz6u"
     },
     {
       "album": {
@@ -2757,6 +2829,28 @@
     },
     {
       "album": {
+        "name": "Product Of (Feat. Lee Brice)",
+        "url": "https://open.spotify.com/album/5r9qa8kgZvK916DdSg4MSY"
+      },
+      "artists": [
+        {
+          "name": "Lewis Brice",
+          "url": "https://open.spotify.com/artist/7uUOszTczQQwzDodHiz4j0"
+        },
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173346,
+      "name": "Product Of (Feat. Lee Brice)",
+      "url": "https://open.spotify.com/track/3Bb1txAwFxLW1PbKRlBV2x"
+    },
+    {
+      "album": {
         "name": "Red Flags",
         "url": "https://open.spotify.com/album/1xGyeyfEO4oEler6lHxF56"
       },
@@ -2923,6 +3017,24 @@
     },
     {
       "album": {
+        "name": "Stereotype Broken",
+        "url": "https://open.spotify.com/album/0rsIuMdNjcwbnS9kL4DKAf"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177720,
+      "name": "Sad Ass Country Song",
+      "url": "https://open.spotify.com/track/3nn7clyurm04ygyjoRlBy6"
+    },
+    {
+      "album": {
         "name": "The Comeback",
         "url": "https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC"
       },
@@ -2952,7 +3064,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 219960,
       "name": "Same Car",
       "url": "https://open.spotify.com/track/6yCW8qaDobbzDQS4qjTfJO"
@@ -3064,7 +3176,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 204973,
       "name": "She Don't Know",
       "url": "https://open.spotify.com/track/5s95DvyPmrEGQz68fECUS8"
@@ -3129,6 +3241,24 @@
     },
     {
       "album": {
+        "name": "Shoot Tequila",
+        "url": "https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q"
+      },
+      "artists": [
+        {
+          "name": "Tigirlily Gold",
+          "url": "https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193898,
+      "name": "Shoot Tequila",
+      "url": "https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw"
+    },
+    {
+      "album": {
         "name": "Singing In A Beer",
         "url": "https://open.spotify.com/album/2Rf3FtApcWOYcUSSUEc3v5"
       },
@@ -3140,7 +3270,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 172910,
       "name": "Singing In A Beer",
       "url": "https://open.spotify.com/track/7gr4XUVtcogJ9ZmiLwc9Fe"
@@ -4062,7 +4192,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 211933,
       "name": "Worth A Shot (feat. Dierks Bentley)",
       "url": "https://open.spotify.com/track/16Sdmdt7jpibASwEsO0s9j"

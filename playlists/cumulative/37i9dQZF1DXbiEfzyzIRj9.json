@@ -2980,10 +2980,36 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 183000,
       "name": "Groove Guide",
       "url": "https://open.spotify.com/track/6CsvcJkiwpUQVUsNp7UTBX"
+    },
+    {
+      "album": {
+        "name": "Groove Guide",
+        "url": "https://open.spotify.com/album/3fDXxHqTyRPunYqLWwnz6D"
+      },
+      "artists": [
+        {
+          "name": "STVNS",
+          "url": "https://open.spotify.com/artist/1JbA7XjVOQHb2U2mK0RDJi"
+        },
+        {
+          "name": "MelyJones",
+          "url": "https://open.spotify.com/artist/3vsmaQBqqp770E9fi4hQqG"
+        },
+        {
+          "name": "No ExpressioN",
+          "url": "https://open.spotify.com/artist/6RNcIa7VcxBBIgW6boctFo"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Groove Guide",
+      "url": "https://open.spotify.com/track/6oX5YDpjCLooteZlDBuoeX"
     },
     {
       "album": {

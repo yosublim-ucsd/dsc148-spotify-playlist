@@ -1579,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "Shake It Off",
+        "url": "https://open.spotify.com/album/5YnnPM42JMkXHFvYbKmJpL"
+      },
+      "artists": [
+        {
+          "name": "Dev Lin",
+          "url": "https://open.spotify.com/artist/5Qz8NfhvVepyU3JXyLQq88"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168841,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/3An67cnCL6RRb3EkKA1S2L"
+    },
+    {
+      "album": {
         "name": "Shallow",
         "url": "https://open.spotify.com/album/1w5zIIKL9Zwan57jhtlhcF"
       },

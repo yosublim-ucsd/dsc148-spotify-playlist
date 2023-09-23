@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW?si=\-IQQXnf\-QHm2NhCpCMz9qA">Kiddo CSA</a>, <a href="https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT?si=mR\_f\-W0UQLKpSDBpKwKRzA">Lucasraps</a>
 
-602 songs - 1 day 8 hr 48 min
+604 songs - 1 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [APPLYING THE PRESSURE](https://open.spotify.com/track/74LtfvCSKRFe7xBI5WgFCw) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [APPLYING THE PRESSURE](https://open.spotify.com/album/2jjAVNkYlu08YF050fKIG3) | 1:52 | 2022-10-14 | 2022-12-13 |
 | [Armed & Dangerous](https://open.spotify.com/track/43QDhwENRJQIEFkJxemO62) | [J Molley](https://open.spotify.com/artist/4Wgns8lkTyqv4k2SH3Zc6T) | [Almost Dead](https://open.spotify.com/album/0XjaY3caFmKPf2JG1vKK6T) | 3:06 | 2022-03-10 | 2022-03-18 |
 | [As We Lay](https://open.spotify.com/track/0yTKggaVlnD8DPmcg8AfXT) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [As We Lay](https://open.spotify.com/album/0t7EPNFlWch3ADqkSNUQXw) | 3:41 | 2022-02-03 | 2022-02-11 |
+| [ASBONGE](https://open.spotify.com/track/5kjb86Dq1QvPLVHR5PRHto) | [Megshizzy](https://open.spotify.com/artist/2RlvT9UC0U92n19NeiCJRL), [BULA BULL](https://open.spotify.com/artist/6kKLGZl1lKCCxaYoVgi5Jd), [MAO'H](https://open.spotify.com/artist/1gKiHfn6NEmALbkuzQ7O10) | [ASBONGE](https://open.spotify.com/album/43rilzzWFXOZkBCpNV5Dbv) | 3:38 | 2023-09-22 |  |
 | [Askies Ta](https://open.spotify.com/track/482GKebxCgfhCaISuCidRV) | [Tae Africa](https://open.spotify.com/artist/4rT8HuOGuYHDbMH9IsWMAo), [DJ Switch](https://open.spotify.com/artist/6RBUG4w3ErLFxSxOmu7jnb), [Gaffi](https://open.spotify.com/artist/6aPLtY1GA6d7GKOL266BR2) | [4 THE MO$H](https://open.spotify.com/album/17TGlMTOKVFSxo6HGHQRlD) | 3:23 | 2023-09-08 |  |
 | [Attention](https://open.spotify.com/track/62VYxA0gzq6GBRC9M9thGo) | [Amu](https://open.spotify.com/artist/2do4SgFAKnNhwaqwxv7gme), [Mr Selwyn](https://open.spotify.com/artist/77862mgRC59EToLgDfHNVJ), [Proverb](https://open.spotify.com/artist/4IMxU8Ls3ifpIaWIuzedvT) | [The Life, Rap & Drama](https://open.spotify.com/album/1GIKGpyPJxAyyYcESJcJbT) | 5:42 | 2023-01-30 | 2023-02-02 |
 | [Ay'suke](https://open.spotify.com/track/2z8NS6dXuQxjuqTXpN7xO3) | [AYON](https://open.spotify.com/artist/6OgVrIrz4SG7YFSeDfmVeZ), [Lecx Virgo](https://open.spotify.com/artist/2J9p49JELF8BsEMUHkyg46) | [Ay'suke](https://open.spotify.com/album/57TrRNlP4avc8knXlKOSXj) | 3:30 | 2022-08-18 | 2022-09-10 |
@@ -224,6 +225,7 @@
 | [High](https://open.spotify.com/track/4TWaKxVCV9774DMPkxateO) | [Chad Da Don](https://open.spotify.com/artist/1RB5sQBUeyxeWQefDmdW3k) | [INDICA](https://open.spotify.com/album/7BncNIyyruIRxRCtwz5zjY) | 2:15 | 2022-02-24 | 2022-03-18 |
 | [High](https://open.spotify.com/track/3fP36uvgbJ4FkT7JbhzAU1) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [High](https://open.spotify.com/album/15hnm7O3NQyCoYKTVIsxwA) | 3:14 | 2022-03-03 | 2022-04-15 |
 | [High Level](https://open.spotify.com/track/7kdDzuTex0Z84GMcH98l4E) | [James BKS](https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV), [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL) | [Wolves of Africa \(Part 1/2\)](https://open.spotify.com/album/221gN8YGCd9AvgolHsd2eC) | 2:39 | 2022-07-08 | 2023-02-07 |
+| [HIM \(feat\. Lucasraps\)](https://open.spotify.com/track/2uYPV8d0bzJMfJZ55eOXJs) | [Kiddo CSA](https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW), [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT) | [HIM \(feat\. Lucasraps\)](https://open.spotify.com/album/3DPrWMhHuO7gUYRxXxxQJ2) | 2:46 | 2023-09-22 |  |
 | [Hip Hop is Back](https://open.spotify.com/track/0MjSuaqf50EzjWn3zKPFM9) | [MAN\-TUTU](https://open.spotify.com/artist/1kZaXKhs4S4qgKSQcWf1cd), [Naes, The Great](https://open.spotify.com/artist/7fkMWyniN6MSJz3NkFSX1A) | [April](https://open.spotify.com/album/1s9r1JmdL1RA64EdRYZA3i) | 2:11 | 2022-03-31 | 2022-04-15 |
 | [Hold You](https://open.spotify.com/track/4E3qABUw4q63Jz13rAtDKA) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [Hold You](https://open.spotify.com/album/2SfkZMQlMa31anBJjMniEM) | 2:26 | 2023-03-31 | 2023-04-14 |
 | [Home](https://open.spotify.com/track/6SJAhLQL42EaoJgVCekiv9) | [Ferge X Fisherman](https://open.spotify.com/artist/0fNCdYRIRFern2T46bEVDV), [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq) | [Home](https://open.spotify.com/album/7aBigaxjgOPDnFlIID5pFl) | 3:13 | 2022-02-10 | 2022-03-18 |

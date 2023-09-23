@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,990 likes - 80 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,996 likes - 80 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 27 | [Streets \- Dachshund Remix](https://open.spotify.com/track/0GuvoyTI5hWlSm2W32d92q) | [Greta Levska](https://open.spotify.com/artist/3r3NacwYbrrmf9zuuj1n35), [Dachshund](https://open.spotify.com/artist/0UusOWDKVBRFrZoKJdVuWv) | [Flex](https://open.spotify.com/album/3kwGggozvjLAKSR4CMcEBX) | 6:35 |
 | 28 | [Frontier](https://open.spotify.com/track/10MxEAlZuBPiidcQ9cNyvx) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Pressure](https://open.spotify.com/album/6QEnHZniqvybsckdyptQql) | 3:41 |
 | 29 | [Look How Hard I've Tried](https://open.spotify.com/track/6GNXHie8d6aN0rxFMnj2tx) | [Barker](https://open.spotify.com/artist/3LEGPWdr7sarYtf2u0ETWN) | [Debiasing EP](https://open.spotify.com/album/7wKUtfY6wtS65qsA4RRAvq) | 5:16 |
-| 30 | [Sweet Mistake \- Mixed](https://open.spotify.com/track/6gUH6KsSdqwnC4rvLfF7v1) | [RE/BORN](https://open.spotify.com/artist/2xj2NmN8lQZz1Sr57muqvy) | [Anjunadeep 14](https://open.spotify.com/album/7DMVHNNy2AsGEEbZvirQH1) | 4:16 |
+| 30 | [Sweet Mistake \- Mixed](https://open.spotify.com/track/6gUH6KsSdqwnC4rvLfF7v1) | [Mark Novas](https://open.spotify.com/artist/2iRVKO828lhfFL0RGyS7Ya) | [Anjunadeep 14](https://open.spotify.com/album/7DMVHNNy2AsGEEbZvirQH1) | 4:16 |
 | 31 | [Fake ID \- Extended Mix](https://open.spotify.com/track/5agU3PEpVdU4FMYfcLESbu) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Fake ID](https://open.spotify.com/album/6JVsvw6mrOOD6fgJZmRb0A) | 4:28 |
 | 32 | [Snabeln](https://open.spotify.com/track/6Dmdyn9x5EfAnbk7O9rUn2) | [Hugg & Pepp](https://open.spotify.com/artist/4aSHY1Bj04DRRm7k5qE3dX) | [Snabeln](https://open.spotify.com/album/7sSQAt7qsqPYx00Qy8kTIA) | 6:05 |
 | 33 | [Want You In My Soul](https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR) | [Lovebirds](https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui), [Stee Downes](https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ) | [Want You In My Soul](https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML) | 8:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 79 | [Door Of The Cosmos \- Armonica Cosmos Mix](https://open.spotify.com/track/2XXCvqEGl1wL8ywsjFJCes) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX), [Armonica](https://open.spotify.com/artist/6EnmXQhQQvFYrWorH0Duoy) | [Door Of The Cosmos \(Armonica Cosmos Mix\)](https://open.spotify.com/album/2AGd783U2EtrmGa8ZcdiYb) | 7:12 |
 | 80 | [Diving Into Minds \- Club Mix](https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Diving Into Minds](https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z) | 6:27 |
 
-Snapshot ID: `MCxmMzFkZWExNzg0ZDRhZDVmODg5MmViZTBkMGIwYTYxNzg4ZWQ3MWQz`
+Snapshot ID: `MCxiYzJkNTBiOGMwMzM4OTRkM2YxYjBhOWI4YjFmNWM0OTFlNTkxNmU1`

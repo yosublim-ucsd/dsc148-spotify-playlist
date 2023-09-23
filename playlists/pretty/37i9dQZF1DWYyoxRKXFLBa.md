@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > Conoce a puras morras rifadas en La Marketa\. ¡Súbele al volumen, te esperamos el 6 de Agosto en Jardín Juárez! En portada: Now Girls Rule
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,107 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,118 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 33 | [todo lo que pasa](https://open.spotify.com/track/0BkhmwWZOCcQEMO3je2lZQ) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [todo lo que pasa](https://open.spotify.com/album/3efcjft7NVnRr20mD5JveU) | 3:42 |
 | 34 | [Free Your Mind \- Spanish Version](https://open.spotify.com/track/1cBFq8ArDimc2lnz7bI2Va) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Free Your Mind \(Spanish Version\)](https://open.spotify.com/album/0nm8RYsOK1mCjJPn3yGH2i) | 2:57 |
 | 35 | [Voy en Auto](https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Voy en Auto](https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu) | 2:58 |
-| 36 | [Vigilantes del Espejo](https://open.spotify.com/track/1QjFddBhVe7TQXuD0Q9qbh) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Vigilantes del Espejo](https://open.spotify.com/album/45PnYxsAXPl6Ytmd2qJQI6) | 2:08 |
-| 37 | [Rester](https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Rester](https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M) | 4:57 |
+| 36 | [Rester](https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Rester](https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M) | 4:57 |
+| 37 | [Vigilantes del Espejo](https://open.spotify.com/track/1QjFddBhVe7TQXuD0Q9qbh) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Vigilantes del Espejo](https://open.spotify.com/album/45PnYxsAXPl6Ytmd2qJQI6) | 2:08 |
 | 38 | [no me convengo](https://open.spotify.com/track/5v1NAG0fvXdrNAVbdz3wgW) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [no me convengo](https://open.spotify.com/album/2Uw0BxkMZqNIPI428lJNrw) | 3:20 |
 | 39 | [Máscara de Niña](https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Máscara de Niña](https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw) | 3:14 |
 | 40 | [no estamos bien](https://open.spotify.com/track/7iKNgzcupObOYD1sKQtM1n) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 2:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 79 | [Om Ganesh](https://open.spotify.com/track/0DzC2HDlOm8HZiDSZ4J7iU) | [La Era de Acuario](https://open.spotify.com/artist/5uM5pjFZqCgexfwJ0n7qQh) | [La Era De Acuario](https://open.spotify.com/album/2ISRlVYslwgJ1f3SO5Lwnb) | 5:53 |
 | 80 | [Ikite Iru](https://open.spotify.com/track/5mJzC72lhxY3Bh9mlOfd5S) | [Neptuna](https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G) | [Ikite Iru](https://open.spotify.com/album/26U7D0QxDGkKhtw2sBCVRF) | 3:20 |
 
-Snapshot ID: `MCwyMjdiZWM3MTk2NjJiNzEwM2Q3OGY5ZDBhYzU5ZmY2MTMyZDJjOTc5`
+Snapshot ID: `MCw0NjlhMDhhOTIzNzM4MjYwZDE4ZTFjMzBjOTMyNGJmMjVmMTA0MDAw`

@@ -2485,6 +2485,24 @@
     },
     {
       "album": {
+        "name": "Love You Blind (Windowsill Version)",
+        "url": "https://open.spotify.com/album/1mwie1mfuJn1tpv0y8m980"
+      },
+      "artists": [
+        {
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224858,
+      "name": "Love You Blind - Windowsill Version",
+      "url": "https://open.spotify.com/track/1Yo8jKTBjNt5Db0381cA7F"
+    },
+    {
+      "album": {
         "name": "Made For This",
         "url": "https://open.spotify.com/album/5Tu4YwduM7y8R0JjWXeSPa"
       },

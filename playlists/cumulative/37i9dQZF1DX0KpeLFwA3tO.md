@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Grrrl Gang
 
-1,331 songs - 2 day 18 hr 21 min
+1,332 songs - 2 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,8 @@
 | [Control My Sanity](https://open.spotify.com/track/2E0GrSV0QOnFEWgskD156s) | [Like Pacific](https://open.spotify.com/artist/5VKmfBc2pR80IxYoC1gHyH) | [Control My Sanity](https://open.spotify.com/album/0xR3Zv2D6pmxcsZ7mooVy1) | 2:59 | 2021-12-17 | 2022-01-21 |
 | [conversations](https://open.spotify.com/track/6J0ohmUrbssmeOlfFTb7aY) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79) | [conversations](https://open.spotify.com/album/2M4v9DoTHg0Hw4adhhmB6b) | 2:01 | 2023-03-10 | 2023-04-21 |
 | [Cool Blue](https://open.spotify.com/track/5HdP3y9pZjo98y9u0aeACn) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Cool Blue](https://open.spotify.com/album/1kNFDFmN6qNGtuzT2I06xZ) | 3:09 | 2023-01-13 | 2023-03-18 |
-| [Cool Girl](https://open.spotify.com/track/6axDRBjjfQbbEuEYpUVo4M) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/6Uox06DanTELepB1AQvU6M) | 1:45 | 2023-09-22 |  |
+| [Cool Girl](https://open.spotify.com/track/4aXUKyFqYBSI7J6A1PwjTh) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/6aZFHnpTwonsLw8qVI5DdB) | 1:45 | 2023-09-22 |  |
+| [Cool Girl](https://open.spotify.com/track/6axDRBjjfQbbEuEYpUVo4M) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/6Uox06DanTELepB1AQvU6M) | 1:45 | 2023-09-22 | 2023-09-23 |
 | [Cool, Nice.](https://open.spotify.com/track/77amPvUIO231fwujMSAVXb) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Cool, Nice.](https://open.spotify.com/album/3A53U7KZ3BDrE861A7tEQk) | 2:55 | 2022-06-30 | 2022-08-12 |
 | [Couleurs Gâtées](https://open.spotify.com/track/5WS3l2zz9chy6i9CJs4pEJ) | [Dolores Riposte](https://open.spotify.com/artist/4icS5RWrIOlXZRVbJiE04D) | [Couleurs Gâtées](https://open.spotify.com/album/0cMuYvQJZ65V3PODhMHzBD) | 3:11 | 2022-02-04 | 2022-11-18 |
 | [Country Life](https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Country Life](https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT) | 2:27 | 2022-10-20 | 2023-01-27 |

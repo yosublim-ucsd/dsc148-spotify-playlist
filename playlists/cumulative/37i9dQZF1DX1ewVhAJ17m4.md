@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: All Time Low ft Avril Lavigne
 
-331 songs - 16 hr 16 min
+336 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 | 2023-07-06 |  |
 | [Anemia](https://open.spotify.com/track/1TfGgQOfUUc0EpRqAkMykU) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Anemia](https://open.spotify.com/album/3EJPukArWrGXomGYPqZFeu) | 3:56 | 2023-08-10 |  |
 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 | 2022-08-18 | 2023-03-10 |
+| [Autumnal](https://open.spotify.com/track/4JW7fbtsAqxImfLHticNVj) | [Alex Melton](https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA) | [AUTUMNAL](https://open.spotify.com/album/0I1nxkEyVyGhBwE1ZI6SXe) | 3:09 | 2023-09-22 |  |
 | [Back Home](https://open.spotify.com/track/4HtoILxBA3ICgzUeWVr6x8) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Back Home](https://open.spotify.com/album/5FSIgmLvYFNl97ffWdUYfa) | 3:08 | 2021-12-20 | 2022-10-14 |
 | [Backfired](https://open.spotify.com/track/2pkaP5gZboMEf5Jlrh8FXK) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Backfired](https://open.spotify.com/album/5XZgEi755XiwELre12FuYW) | 2:33 | 2022-08-05 | 2023-07-07 |
 | [Bad Influence](https://open.spotify.com/track/3rpGgPToTtMU6q8kDLJ4Q8) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Bad Influence](https://open.spotify.com/album/3sKp3BIvmMDE5LmKTWqDQ8) | 3:02 | 2022-04-04 | 2022-05-21 |
@@ -101,6 +102,7 @@
 | [Everybody But You](https://open.spotify.com/track/0OjhULGHagMRAQNjJQlesU) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Ben Barlow](https://open.spotify.com/artist/79SZgK0iRDlLJpsH7mSvNC) | [Everybody but You](https://open.spotify.com/album/36kZTm9kqSjuu1nb32IAAA) | 3:47 | 2022-02-28 | 2022-07-29 |
 | [Everybody but You](https://open.spotify.com/track/40FJkZzaY8DWGtYoCB63EE) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Ben Barlow](https://open.spotify.com/artist/79SZgK0iRDlLJpsH7mSvNC) | [Kings of the New Age](https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9) | 3:47 | 2022-05-20 | 2023-07-07 |
 | [Everything Else Can Wait](https://open.spotify.com/track/7sgmhETQa3Q2AcbBUmDj1r) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Everything Else Can Wait](https://open.spotify.com/album/32m8WHzsazOVcVLTL6IKiN) | 3:38 | 2023-03-02 | 2023-09-15 |
+| [Everything Sucks](https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Certified Depressant](https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH) | 3:20 | 2023-09-22 |  |
 | [F Around and Find Out](https://open.spotify.com/track/3C8tj7hBuJcYSssNOQjMPw) | [Ten Foot Pole](https://open.spotify.com/artist/27HBzx6Ox43GPbWLECgbFW) | [F Around and Find Out](https://open.spotify.com/album/22om6gslrsQ8Kxqx7KCXym) | 3:33 | 2022-09-09 | 2022-11-11 |
 | [F.A.K.E.](https://open.spotify.com/track/4wwOhNPQXD88Tz0AY5a7Lj) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x) | [F.A.K.E.](https://open.spotify.com/album/7goGf0jKhZplndWQVT7KkH) | 2:17 | 2023-07-06 | 2023-09-15 |
 | [F.L.F.U.](https://open.spotify.com/track/2Vh5khmfrno2b4kZNcyEi5) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [II](https://open.spotify.com/album/0hgsziS63NRPOR0YoCzMkD) | 4:00 | 2023-02-03 | 2023-02-18 |
@@ -219,6 +221,7 @@
 | [Nowhere, Ohio](https://open.spotify.com/track/1jxrEckdckgBi6Ooymx5j1) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Nowhere, Ohio](https://open.spotify.com/album/4FCAlxabfOFH49RbFNrGWE) | 3:04 | 2023-02-10 | 2023-04-22 |
 | [Ocular Pat Down](https://open.spotify.com/track/7ynxxDqTAVQF0Kkq5oPLKb) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Ocular Pat Down](https://open.spotify.com/album/1nBknahoIL7AS5a8GskSVx) | 3:47 | 2021-12-22 | 2022-08-19 |
 | [old tattoos](https://open.spotify.com/track/3EhIdQSKO7AwGK9of76U0Z) | [st jimmy](https://open.spotify.com/artist/5zD5ON7D7uhlChBmRNPacV) | [old tattoos](https://open.spotify.com/album/3o3DDHOfxhoxrGXxXNRCCP) | 2:29 | 2022-01-14 | 2022-07-05 |
+| [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 | 2023-09-22 |  |
 | [Outta My Head](https://open.spotify.com/track/0Z2utuwUnQS9iiOwpStusu) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Outta My Head](https://open.spotify.com/album/36rJDHz5gcbCOEI123Yo9E) | 2:56 | 2021-12-20 | 2022-07-29 |
 | [Outta My Head](https://open.spotify.com/track/28RPEcjNNGKRdbTygQ7WoH) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Kings of the New Age](https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9) | 2:56 | 2022-07-18 | 2023-04-01 |
 | [Panic](https://open.spotify.com/track/0qwoBdMnysN7dDT6tK3fcE) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give \(B\-Sides\)](https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8) | 3:08 | 2021-12-22 | 2022-09-16 |
@@ -231,6 +234,7 @@
 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 | 2021-12-20 | 2022-07-19 |
 | [Poor Boy](https://open.spotify.com/track/07ITRcap7oVcCcfRScfvxX) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Poor Boy](https://open.spotify.com/album/345I2XOebtr1j2UqaGS6FY) | 2:33 | 2023-04-21 | 2023-05-16 |
 | [Portuguese Knives](https://open.spotify.com/track/2xiaqtvivM2PUPpSVqaIw6) | [Lost Love](https://open.spotify.com/artist/5IAbKA1N8YXggDLpdheaVh) | [Portuguese Knives](https://open.spotify.com/album/7sbcjY48QJNHxzOjEOnxRK) | 1:40 | 2021-12-20 | 2022-03-01 |
+| [Pretty Boy](https://open.spotify.com/track/0YsIuTjyAx31Eaun9LP7Ye) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Pretty Boy](https://open.spotify.com/album/4FGat65ksk32oqquDxtFSQ) | 2:55 | 2023-09-22 |  |
 | [Promise](https://open.spotify.com/track/4hyMz2XnHVcms6Tb6hKmOo) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP), [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Promise](https://open.spotify.com/album/2GhbRogqOKDZ2LCUBZ0K05) | 3:13 | 2022-11-10 | 2023-05-19 |
 | [Promise](https://open.spotify.com/track/5cN9kHZXyqYHJNOn6LVrcG) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP), [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Promise](https://open.spotify.com/album/1qlyME4iamdDU2hdzyadTz) | 3:13 | 2022-10-13 | 2022-12-19 |
 | [Psycho](https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Psycho](https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat) | 2:59 | 2022-08-18 | 2023-07-07 |
@@ -298,6 +302,7 @@
 | [Teenage Runaways](https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 2:59 | 2022-11-10 | 2023-06-21 |
 | [Teenage Runaways](https://open.spotify.com/track/2XnXc7VrwyQzy5ddfKe5Qo) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Teenage Runaways](https://open.spotify.com/album/58FSurGGBFmANZssX5QhEw) | 2:59 | 2022-05-20 | 2022-12-04 |
 | [Tell Me I’m Alive](https://open.spotify.com/track/3Bzw0mcFyIcVgQbLfxbDGt) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I’m Alive](https://open.spotify.com/album/4QaPQwoYarzNUuus6wBhCu) | 2:35 | 2023-01-13 | 2023-02-18 |
+| [Thanks For Asking](https://open.spotify.com/track/6zyTFxXRoQQDg6gXVagobF) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Thanks For Asking](https://open.spotify.com/album/2GQJz8Czxzui5aVpQ5dnjC) | 3:24 | 2023-09-22 |  |
 | [The Airport](https://open.spotify.com/track/4wEZvijBJiwUVRpRtOf57I) | [Cameron Sanderson](https://open.spotify.com/artist/182llcVnhxpVBBmfSElMHX) | [The Airport](https://open.spotify.com/album/7xhsmbA4nTan7kD38hwZin) | 3:16 | 2023-02-10 | 2023-06-21 |
 | [THE AMERICAN DREAM](https://open.spotify.com/track/3FSxSPFLwvVUMjTjFo9Von) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [BURNOUT](https://open.spotify.com/album/01vivwdeCRkTwNwgVEFmza) | 3:02 | 2022-08-18 | 2023-02-10 |
 | [The Credits](https://open.spotify.com/track/5S9NNVIDcsnk9rQVaMW0dL) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Head in The Clouds](https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH) | 3:04 | 2023-04-21 |  |

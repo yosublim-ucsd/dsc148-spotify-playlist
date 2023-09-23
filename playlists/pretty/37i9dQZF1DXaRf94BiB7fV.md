@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Rishabh Srivastava, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,615 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,644 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/track/7kmKa5Of9dHnCb3zgrUqyA) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Varsha Gaur](https://open.spotify.com/artist/3QQsnfmVSorAOd1njZgys0) | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/album/6sZJobDiQcGBb0iGYsQe5F) | 3:35 |
 | 100 | [Door Kahin](https://open.spotify.com/track/6Dl5qDXEoErNhUcH0NBDdB) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Door Kahin](https://open.spotify.com/album/3LSrmX5b1H3Y2stUBR8OEs) | 3:24 |
 
-Snapshot ID: `MCw3MjY1YTNkNjdlOWFjNDAxYzRkNmE0MzcwYzMxNmVmODg4MjAxZDNj`
+Snapshot ID: `MCxkMzRhNjIyYTAzMjc3MDJkZDVkMTJlZmMzYTQzNTliMmQxNjE2Y2U0`

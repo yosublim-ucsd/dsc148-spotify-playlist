@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,660 likes - 227 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,776 likes - 227 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -236,4 +236,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 226 | [Lunar](https://open.spotify.com/track/1KeDvy5gExkrE27KL2zH74) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Hendy](https://open.spotify.com/artist/6McvQxkxDcQzLzRdDDhbMd) | [Lunar](https://open.spotify.com/album/2MU8tujgT7r38JV0BXbfxc) | 2:10 |
 | 227 | [Port Evenings](https://open.spotify.com/track/0tPjix5HfFWwKlJJ69QnE3) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Port Evenings](https://open.spotify.com/album/1UuJTx8Tv4udt0IVrVidgz) | 2:29 |
 
-Snapshot ID: `MCxjMjc4MzBlZWM5N2IzYjlkZjVjM2QxMzViYzRlN2Y1NTdlNjA3ZDgz`
+Snapshot ID: `MCxmZDI4MGJkMDA2N2M1MDBiNTQ2MjYwZDk3ZjJkYTE4NDk0ZjJhZjcz`

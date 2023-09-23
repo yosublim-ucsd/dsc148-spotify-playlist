@@ -72,7 +72,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 132024,
       "name": "212 Vip",
       "url": "https://open.spotify.com/track/5jRaYDCcftXSc4a0eXJaz6"
@@ -5244,6 +5244,36 @@
       "duration_ms": 190113,
       "name": "Perfil #84 - Eu Vim de L\u00e1",
       "url": "https://open.spotify.com/track/543Yg40LdcfkZkoxCR0kY9"
+    },
+    {
+      "album": {
+        "name": "PERSONNALITE",
+        "url": "https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj"
+      },
+      "artists": [
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208910,
+      "name": "PERSONNALITE",
+      "url": "https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6"
     },
     {
       "album": {

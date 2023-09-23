@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Your ultimate playlist for the best in Mollywood!<br/>Cover: King of Kotha
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,385 likes - 60 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,566 likes - 60 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 59 | [Mandharapoove \(From "Kumari"\)](https://open.spotify.com/track/0md9xaiSP9NADGM78p6byG) | [Aavani Malhar](https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG), [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Joe Paul](https://open.spotify.com/artist/2d87Ln0p2Bjipl9mzvlA2t) | [Mandharapoove \(From "Kumari"\) \- Single](https://open.spotify.com/album/0P8tywlgqtbcAB0BZFAGN7) | 4:00 |
 | 60 | [Nilamanaltharikalil](https://open.spotify.com/track/2YkAVDBfSlywIjTKZ70frH) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Shreya Raghav](https://open.spotify.com/artist/48uEViNP9e5Y3P4LGCknA7) | [Kismath](https://open.spotify.com/album/2ewjwb0heMH9lL49rMV7Ji) | 3:51 |
 
-Snapshot ID: `MCxjYmVjOGEyMzliMzU2MTU1MWI4YmY4N2JkMzFiYTIyZTA0ZDIyYWFh`
+Snapshot ID: `MCxjZTFmYjUwOWU4NTc2Y2IxZWQ1ZmI1M2RkZGY4MTQyNGY2YjE2ZTk3`

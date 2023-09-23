@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,743 likes - 75 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,969 likes - 75 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 72 | [Mirage](https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO) | [Scotch](https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n) | [Pictures Old Days \(Deluxe Edition\)](https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt) | 3:57 |
 | 73 | [My Magic Number \- Club Domani Remix](https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV) | [Daddy Squad](https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj), [Dita Von Teese](https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz), [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8) | [My Magic Number](https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt) | 5:17 |
 | 74 | [Dirty Talk](https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [Dirty Talk](https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP) | 5:35 |
-| 75 | [Let Me Love Tonight \- Radio Version](https://open.spotify.com/track/6zEAlbxY12vp24gMkiwM1d) | [Electric Mind](https://open.spotify.com/artist/2CRKZgVOneZ1ytAxCsVFja) | [Let me love tonight \(12 Inc\)](https://open.spotify.com/album/4VJs7sQLWpnHDAXnni4LCU) | 3:49 |
+| 75 | [Broken Heart](https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Broken Heart](https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j) | 6:44 |
 
-Snapshot ID: `MCxkMDU0YmJkYmE4YmQ2YThjYTVkNDU3ZTZiNjg1Mzk5ZWNmOGY5NzNk`
+Snapshot ID: `MCw0YjFmN2FkNjNjZGM0NDlmYzBlYjM2YWNiYWFkMDExMTg5YzRjOTI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,457 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,703 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 70 | [Adrenaline Kicks](https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA) | [Jur Terreur](https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u) | [Adrenaline Kicks](https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN) | 2:40 |
 | 71 | [OMG](https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [OMG](https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc) | 2:58 |
 | 72 | [Born To React](https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA) | [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Born To React](https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe) | 2:25 |
-| 73 | [Bang Bang](https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [Bang Bang](https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG) | 4:54 |
-| 74 | [Adrenaline \- Never Surrender Remix](https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5) | [Neophyte Records All Stars](https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE), [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Adrenaline \(Never Surrender Remix\)](https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9) | 2:47 |
+| 73 | [Adrenaline \- Never Surrender Remix](https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5) | [Neophyte Records All Stars](https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE), [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Adrenaline \(Never Surrender Remix\)](https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9) | 2:47 |
+| 74 | [Bang Bang](https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [Bang Bang](https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG) | 4:54 |
 | 75 | [Story of My Life](https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc) | [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [PsykoPhonic](https://open.spotify.com/artist/1KZdUfQP2t8y4XlV7zrr83) | [Story of My Life](https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c) | 4:05 |
 | 76 | [The Resurrection \(Official Toxicator 2022 Anthem\)](https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen) | [Re\-Fuzz](https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs) | [The Resurrection \(Official Toxicator 2022 Anthem\)](https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC) | 4:14 |
 | 77 | [BOW DOWN](https://open.spotify.com/track/2K4gRuinu1DlimC30iJLNb) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [BOW DOWN](https://open.spotify.com/album/10RoPitNvB3vJHJtUs2ZSv) | 2:59 |
-| 78 | [Sky Ablaze](https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Sky Ablaze](https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5) | 2:55 |
-| 79 | [Til The AM](https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU) | [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja), [Animal Side](https://open.spotify.com/artist/1mS2PHJJAJfrFuT0j2a531) | [Til The AM](https://open.spotify.com/album/3Qe4nXSvecCPsyGiod3wF8) | 3:08 |
+| 78 | [Til The AM](https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU) | [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja), [Animal Side](https://open.spotify.com/artist/1mS2PHJJAJfrFuT0j2a531) | [Til The AM](https://open.spotify.com/album/3Qe4nXSvecCPsyGiod3wF8) | 3:08 |
+| 79 | [Sky Ablaze](https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Sky Ablaze](https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5) | 2:55 |
 | 80 | [Het Verbond](https://open.spotify.com/track/1x9rkrQm68ZzhiO680mrS8) | [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Het Verbond](https://open.spotify.com/album/7cAnk9HFypHN1uxsU2d3EM) | 4:16 |
 | 81 | [Demolition Hardcore](https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Demolition Hardcore](https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8) | 3:20 |
 | 82 | [Wake Up Now](https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk) | [Lem\-X](https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n) | [Wake Up Now](https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7) | 3:22 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 94 | [Come for You](https://open.spotify.com/track/6jLL2rtFTGpzStKsw3XBqN) | [Regain](https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK) | [Back to Square One](https://open.spotify.com/album/6kZ3RJatrJ9zZvZwIAYiJb) | 2:48 |
 | 95 | [Wave of Destruction](https://open.spotify.com/track/2mTSCJKqM5TaZXxPdWALaP) | [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s), [Runeforce](https://open.spotify.com/artist/7fzicDRhTE3rhGdO4ssCcH) | [Wave Of Destruction](https://open.spotify.com/album/7J4zZlQKZlAohMDKkGMwJ5) | 4:25 |
 | 96 | [BLACK HOLE](https://open.spotify.com/track/2zHjYnNKADys8LidsZUIjG) | [Griever](https://open.spotify.com/artist/1Xd3bw5OuInJDsNUAJBC5a) | [BLACK HOLE](https://open.spotify.com/album/4s4jnEYCM5gQalByOEXQqo) | 2:53 |
-| 97 | [Antidote](https://open.spotify.com/track/6lmpE4fLJcfCKxJViIRjZK) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Masters Of Hardcore Chapter XLIV](https://open.spotify.com/album/2Y0PWBnphib2osozApxHou) | 3:42 |
+| 97 | [Hide Me](https://open.spotify.com/track/31i8Y19hlXk2MzraK6EX9B) | [Aftermath](https://open.spotify.com/artist/0Lgj8F0H0zOqgiPaA0hCuC) | [Hide Me](https://open.spotify.com/album/3sqlQlmk1NPZaeo62ihESL) | 3:03 |
 | 98 | [Enemy](https://open.spotify.com/track/7wDCo18UPwxRkkMxd9VxBL) | [Vandal!sm](https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4), [TukkerTempo](https://open.spotify.com/artist/1hP1BT3aK40lWagFTrvLLN), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Enemy](https://open.spotify.com/album/4bMvupucD3bY4SIEZ9pBE7) | 3:21 |
-| 99 | [Hide Me](https://open.spotify.com/track/31i8Y19hlXk2MzraK6EX9B) | [Aftermath](https://open.spotify.com/artist/0Lgj8F0H0zOqgiPaA0hCuC) | [Hide Me](https://open.spotify.com/album/3sqlQlmk1NPZaeo62ihESL) | 3:03 |
+| 99 | [Antidote](https://open.spotify.com/track/6lmpE4fLJcfCKxJViIRjZK) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Masters Of Hardcore Chapter XLIV](https://open.spotify.com/album/2Y0PWBnphib2osozApxHou) | 3:42 |
 | 100 | [The Protector](https://open.spotify.com/track/48IF3j773hpoiFt97HyooD) | [Distinction](https://open.spotify.com/artist/03FPXOHxGckbmbTQVqXmm3), [Kelly](https://open.spotify.com/artist/1EfC8FYxeatTpN8RZBiiHT) | [It's Time EP](https://open.spotify.com/album/4mxwkTvcFUddpupBXJz8Lp) | 3:59 |
 
-Snapshot ID: `MCw2MTAxYjhmNWQyYzIzN2I4YTk5OTYxMDE0ZGMwYjNkMWQwYTU4MTk4`
+Snapshot ID: `MCwxYzc5OTM4NjBlN2QyNDlkZmNiZWZmZDI5Njc1YjE4YzY3MmEwYWUx`

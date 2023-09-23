@@ -773,6 +773,24 @@
     },
     {
       "album": {
+        "name": "Amanecer frente a tu casa",
+        "url": "https://open.spotify.com/album/4GDQAefrY2m6Uu7pAvGTrT"
+      },
+      "artists": [
+        {
+          "name": "Victor Heredia",
+          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245478,
+      "name": "Amanecer frente a tu casa",
+      "url": "https://open.spotify.com/track/4EqQFaHihl0NdXgVMp0Aox"
+    },
+    {
+      "album": {
         "name": "Amaneciendo",
         "url": "https://open.spotify.com/album/3UeaOvDIWsGVqUmsTjZ3Gd"
       },
@@ -1777,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "BLACK MOONLIGHT",
+        "url": "https://open.spotify.com/album/7LVCjmDfqcVAWg74kQ0Qwr"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186724,
+      "name": "BLACK MOONLIGHT",
+      "url": "https://open.spotify.com/track/6Puhv2Iw9K8A3rkpxr4Dsz"
+    },
+    {
+      "album": {
         "name": "Black Sheep",
         "url": "https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX"
       },
@@ -1923,6 +1959,24 @@
     },
     {
       "album": {
+        "name": "The Live Series: Songs of New Jersey",
+        "url": "https://open.spotify.com/album/6udFcTroKsujHZ8abvReOd"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278533,
+      "name": "Born to Run - Live at Brendan Byrne Arena, E. Rutherford, NJ - 7/9/1981",
+      "url": "https://open.spotify.com/track/58tSKcqJ0afkdgiHIdgUPc"
+    },
+    {
+      "album": {
         "name": "Rarities 1983-1998",
         "url": "https://open.spotify.com/album/30D06gnDL2ybmtALWlXsHB"
       },
@@ -1938,6 +1992,24 @@
       "duration_ms": 229713,
       "name": "Born Under a Bad Sign",
       "url": "https://open.spotify.com/track/522tcgMzZbXPIgOXh8yLtr"
+    },
+    {
+      "album": {
+        "name": "Speak To Me / Breathe",
+        "url": "https://open.spotify.com/album/0XqLW4hTuJqYXrZwW8OVmk"
+      },
+      "artists": [
+        {
+          "name": "Roger Waters",
+          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202442,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5NX5CdXj24m5fQQci6u8JJ"
     },
     {
       "album": {
@@ -3227,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "Daysleeper (Live At The Palace / 1999)",
+        "url": "https://open.spotify.com/album/5jEkHzfZRpXYBMoNdHM1SO"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310360,
+      "name": "Daysleeper - Live At The Palace / 1999",
+      "url": "https://open.spotify.com/track/2CSa4A0TBdcE6d4lyaAkHO"
+    },
+    {
+      "album": {
         "name": "Road",
         "url": "https://open.spotify.com/album/0aho7oWBIdmE4LM3N9Jsll"
       },
@@ -3296,6 +3386,28 @@
       "duration_ms": 267800,
       "name": "Death Of An Executioner",
       "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp"
+    },
+    {
+      "album": {
+        "name": "Death Smiles",
+        "url": "https://open.spotify.com/album/1n707PSUo802nfoorSP0j5"
+      },
+      "artists": [
+        {
+          "name": "Nik Nocturnal",
+          "url": "https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q"
+        },
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Death Smiles",
+      "url": "https://open.spotify.com/track/3RqoNA5WD78DPHLNHolEve"
     },
     {
       "album": {
@@ -3480,7 +3592,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 365298,
       "name": "Doctor Doctor - Live In Vienna 1998",
       "url": "https://open.spotify.com/track/5T9gFoaNXrlRbfRLUjVjnN"
@@ -3600,6 +3712,28 @@
       "duration_ms": 208645,
       "name": "Dreamlike",
       "url": "https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov"
+    },
+    {
+      "album": {
+        "name": "DROP (feat. Randy Blythe)",
+        "url": "https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "Randy Blythe",
+          "url": "https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191208,
+      "name": "DROP (feat. Randy Blythe)",
+      "url": "https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33"
     },
     {
       "album": {
@@ -4316,6 +4450,32 @@
       "duration_ms": 112000,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/6jOmhvPUOapM0RuTaDUqg9"
+    },
+    {
+      "album": {
+        "name": "Women of Piano. Great Female Pianists of the Golden Age, Vol. 2",
+        "url": "https://open.spotify.com/album/4BupmuWOYjSq0hNiVF1mfb"
+      },
+      "artists": [
+        {
+          "name": "Adolph von Henselt",
+          "url": "https://open.spotify.com/artist/2tvF63YWN56fC5aMVwEA6u"
+        },
+        {
+          "name": "Peter Phillips",
+          "url": "https://open.spotify.com/artist/2aWlsaSemY3u7rGARqX1xp"
+        },
+        {
+          "name": "Annie Cory",
+          "url": "https://open.spotify.com/artist/3u28vVaBm8Z3W1avMjsHRx"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107589,
+      "name": "Etude De Concert, Op. 2, No. 6, Si Oiseau J'etais, \"Were I a Bird\" - Welte-Mignon 1654",
+      "url": "https://open.spotify.com/track/2xmFyAEU7U5Mr6Kjb9fJGa"
     },
     {
       "album": {
@@ -5864,7 +6024,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 122711,
       "name": "Hopak",
       "url": "https://open.spotify.com/track/7t4bXpsDCAFMHZvkXCPM0K"
@@ -6803,6 +6963,24 @@
     },
     {
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/1v4Ph9n95YfwzMXtKbc4mB"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/0nDzTiBd4yfZkywYaNGmr1"
+    },
+    {
+      "album": {
         "name": "Indivisible (Remix)",
         "url": "https://open.spotify.com/album/4GxTkIgpZf26cVg5J9ISZl"
       },
@@ -7014,6 +7192,24 @@
       "duration_ms": 203706,
       "name": "Into the Abyss",
       "url": "https://open.spotify.com/track/51Z20manwIpvx6VU2JEdGw"
+    },
+    {
+      "album": {
+        "name": "Into The Fire (Live At The Royal Albert Hall)",
+        "url": "https://open.spotify.com/album/5GtokXLjajgbqIwjM4jK3z"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259173,
+      "name": "Into The Fire - Live At The Royal Albert Hall",
+      "url": "https://open.spotify.com/track/0ZVcVOKsMn7sxnmRLGYmsr"
     },
     {
       "album": {
@@ -7514,6 +7710,24 @@
       "duration_ms": 392351,
       "name": "Key to the Highway - Live at The Royal Albert Hall",
       "url": "https://open.spotify.com/track/7pVfE8w0cbxLrJQmyyNKSx"
+    },
+    {
+      "album": {
+        "name": "Killing Floor (Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967)",
+        "url": "https://open.spotify.com/album/2WI9lpUoCz2iXHWfrv2O2q"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223616,
+      "name": "Killing Floor - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
+      "url": "https://open.spotify.com/track/7JAjSAKtzRgfiYnnOyAaWH"
     },
     {
       "album": {
@@ -8152,7 +8366,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 319962,
       "name": "Lights Out - Live In Vienna 1998",
       "url": "https://open.spotify.com/track/3olFCE0utXa0SwxakIFM85"
@@ -10209,6 +10423,24 @@
     },
     {
       "album": {
+        "name": "ONE MORE TIME / MORE THAN YOU KNOW",
+        "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208114,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
+    },
+    {
+      "album": {
         "name": "Live In Vienna 1998",
         "url": "https://open.spotify.com/album/0zEmVfGL3K1lMqF3IpwCPs"
       },
@@ -10608,6 +10840,24 @@
       "duration_ms": 197938,
       "name": "Past Midnight Freestyle",
       "url": "https://open.spotify.com/track/5CmwDsgCMFVLQ3x8lvpHj0"
+    },
+    {
+      "album": {
+        "name": "Peace & Abundance",
+        "url": "https://open.spotify.com/album/6e1AxhsPcfPYhAkYeOpb24"
+      },
+      "artists": [
+        {
+          "name": "Nico.X3",
+          "url": "https://open.spotify.com/artist/6DN74L20gxGSBONvIWuMD2"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142812,
+      "name": "Peace & Abundance",
+      "url": "https://open.spotify.com/track/7o4CCMMBngZ6e6EvPrR2HV"
     },
     {
       "album": {
@@ -11236,7 +11486,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 314932,
       "name": "Qu\u00e9 hermosa estas all\u00ed",
       "url": "https://open.spotify.com/track/17MT53RyOPcyQRWW5BNoAW"
@@ -11332,6 +11582,28 @@
       "duration_ms": 205400,
       "name": "Reaching",
       "url": "https://open.spotify.com/track/4T7Vu4pG8Iz4CRTyLRZMk6"
+    },
+    {
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
     },
     {
       "album": {
@@ -15164,6 +15436,24 @@
       "duration_ms": 145986,
       "name": "Tutti Frutti - Live 1966",
       "url": "https://open.spotify.com/track/0rqJ1kJrTOhfujiGl3IM7r"
+    },
+    {
+      "album": {
+        "name": "Twilight of the Gods",
+        "url": "https://open.spotify.com/album/4DW0Odeun8nM4fIPVgr5U7"
+      },
+      "artists": [
+        {
+          "name": "Therion",
+          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383133,
+      "name": "Twilight of the Gods",
+      "url": "https://open.spotify.com/track/3xAEM7GlIs5qz9F5vtoYHd"
     },
     {
       "album": {

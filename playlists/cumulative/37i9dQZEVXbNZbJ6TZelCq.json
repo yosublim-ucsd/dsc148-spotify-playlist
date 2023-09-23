@@ -898,7 +898,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 172192,
       "name": "Aia e",
       "url": "https://open.spotify.com/track/4DtQZIcQCsZx89Ur1ouilo"
@@ -10944,7 +10944,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "IN LIPSA TA",
       "url": "https://open.spotify.com/track/60sy8u1IoawaNCSKG0g7t9"
@@ -12586,6 +12586,32 @@
     {
       "album": {
         "name": "LEGALIZAM",
+        "url": "https://open.spotify.com/album/6sH61ba3fFnHXvZsqBXnPR"
+      },
+      "artists": [
+        {
+          "name": "lucawts",
+          "url": "https://open.spotify.com/artist/6JPKvFBScSGXNr7D3B6fou"
+        },
+        {
+          "name": "andrei",
+          "url": "https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2"
+        },
+        {
+          "name": "DZWS",
+          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138471,
+      "name": "LEGALIZAM",
+      "url": "https://open.spotify.com/track/3oHko8d0fHoSJetrhSnL2J"
+    },
+    {
+      "album": {
+        "name": "LEGALIZAM",
         "url": "https://open.spotify.com/album/4rmFVw22qgDTRkS4NNFrG8"
       },
       "artists": [
@@ -12604,7 +12630,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 139591,
       "name": "LEGALIZAM",
       "url": "https://open.spotify.com/track/3JSGuZw9SVQkZhMWJnhZS9"
@@ -18110,7 +18136,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 188852,
       "name": "PROMIT",
       "url": "https://open.spotify.com/track/2cDIbwYTrBNRG1HVDYb0A4"
@@ -20164,7 +20190,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 131000,
       "name": "Sectoru 6",
       "url": "https://open.spotify.com/track/4U5oLCuFDsx0bLXUU77R0t"

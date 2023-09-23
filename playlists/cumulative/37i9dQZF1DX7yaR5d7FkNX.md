@@ -4,7 +4,7 @@
 
 > Disfrutemos del amor en los tiempos del rock.
 
-192 songs - 11 hr 50 min
+194 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Discomanía](https://open.spotify.com/track/3UXcPbwfPgYQjr7tH72p0Q) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Discomanía](https://open.spotify.com/album/24sgoyMdfp46v2N1gYcN2K) | 3:08 | 2023-07-21 | 2023-09-02 |
 | [Dos Amantes](https://open.spotify.com/track/66lOJXZVLAIBFogLrXM4Z6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Dos Amantes](https://open.spotify.com/album/58yZYSZWbW5RP5xMZTqsgM) | 4:10 | 2022-01-28 |  |
 | [EL FINAL](https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [EL FINAL](https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00) | 3:52 | 2023-05-19 |  |
+| [El grito](https://open.spotify.com/track/1dQuJZVVlSTiFmiKveWNc8) | [Mikel Izal](https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8) | [El grito](https://open.spotify.com/album/4X7CJxDX5KU5taf312VW4U) | 4:40 | 2023-09-22 |  |
 | [El Principal](https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [El Principal](https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v) | 3:30 | 2023-05-05 |  |
 | [El Ruido](https://open.spotify.com/track/6YJLHnSvofGO8vvKC8Bps0) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [El Ruido](https://open.spotify.com/album/0P4JYnPhEPPdSmFq1jxObl) | 2:57 | 2022-07-01 | 2023-07-01 |
 | [El Sonido De Tu Voz](https://open.spotify.com/track/76JCWoDhnbdd4gA36NqxLN) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Lindas Mañanas](https://open.spotify.com/album/23ibdDZsfvGujFlsvB8wnV) | 2:50 | 2022-01-28 | 2022-11-13 |
@@ -90,7 +91,7 @@
 | [Globos](https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Bahía Santiago](https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY) | 4:20 | 2022-01-28 |  |
 | [Guardián](https://open.spotify.com/track/3gruOqIpPBQq2xmmOOPfr0) | [Miró](https://open.spotify.com/artist/2FvqeCJVyEjdfS2KqlYhi6) | [A Través del Reflejo](https://open.spotify.com/album/4t3Q6v7tbLGSlxSJalOL8r) | 4:18 | 2022-04-26 | 2023-07-01 |
 | [Gustándonos](https://open.spotify.com/track/37NFt4wrkwtwzaB9pa33AJ) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Gustándonos](https://open.spotify.com/album/7f5cU63SOqRkGTzEIWaj5D) | 3:08 | 2022-01-28 | 2023-07-01 |
-| [Góndola \- Live Session](https://open.spotify.com/track/1dOYmzJmvUTOAShmw6pT7V) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o), [Ana Rizo](https://open.spotify.com/artist/3jD6zAJRKQkylpOsaAVCiz) | [Góndola](https://open.spotify.com/album/4ETJicMeq2u0te2o6JxBdY) | 5:40 | 2022-05-12 |  |
+| [Góndola \- Live Session](https://open.spotify.com/track/1dOYmzJmvUTOAShmw6pT7V) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o), [Ana Rizo](https://open.spotify.com/artist/3jD6zAJRKQkylpOsaAVCiz) | [Góndola](https://open.spotify.com/album/4ETJicMeq2u0te2o6JxBdY) | 5:40 | 2022-05-12 | 2023-09-23 |
 | [Hablando Lento](https://open.spotify.com/track/0KdTs8DIDALkkxmbqGJQvr) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Cambio Estacional](https://open.spotify.com/album/4l9pCun5O9jMUUqeJ7LiwU) | 3:36 | 2022-01-28 |  |
 | [Hablando Lento](https://open.spotify.com/track/3f2wEMtr710fw69GQHoq0i) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Cambio Estacional](https://open.spotify.com/album/7qo7uFnFwmf6otdyn4irRn) | 3:36 | 2022-01-28 | 2022-07-29 |
 | [Hasta Que Vuelvas](https://open.spotify.com/track/3tKHzGivXODnfEsjiOvU1h) | [Comandante Twin](https://open.spotify.com/artist/6MgIZuaJa0swshfLRDZMdw), [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Hasta Que Vuelvas](https://open.spotify.com/album/1uxN1bWUye6Wm7bIfGAwCM) | 4:04 | 2023-06-23 | 2023-07-21 |
@@ -125,6 +126,7 @@
 | [Me Caes Perfecto](https://open.spotify.com/track/7BfhJ6Aiqe2VNkE6w1E2gr) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg) | [Carisma](https://open.spotify.com/album/3Ul56jxBCh4n02S1AAyxTp) | 4:06 | 2022-04-26 | 2023-07-01 |
 | [Me Gustas](https://open.spotify.com/track/0JfsIu62NVXNQl2s7ATN37) | [Young Tender](https://open.spotify.com/artist/19g2jApswUTCNqXFxx2lAx) | [Rotos](https://open.spotify.com/album/1jRStAl5pbm9EpHLQsNnKz) | 3:22 | 2022-01-28 |  |
 | [Me Hago Mal](https://open.spotify.com/track/3XIaG3uGcewsKPmxauygJZ) | [Juanpalitoschinos](https://open.spotify.com/artist/2QznoP8SaZXOHkgZfvHlZa) | [Me Hago Mal](https://open.spotify.com/album/4E2l41cZXhRKXIi8gMKDe4) | 3:06 | 2023-04-14 |  |
+| [MEDIA NOCHE](https://open.spotify.com/track/5jCWAarxFiYUE0DjCsAnWn) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [HÍPER](https://open.spotify.com/album/3qEvUejyOisLMmhsR7JwxL) | 3:28 | 2023-09-22 |  |
 | [Medio Oriente](https://open.spotify.com/track/2c4bKlj1FMGd9Ftv8yxtX4) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Medio Oriente](https://open.spotify.com/album/2oI2xY2YwCMcp6yYdzGUIb) | 3:09 | 2022-01-28 | 2023-07-01 |
 | [MELANCOLÍA](https://open.spotify.com/track/5spLk611BNLAjZF4YHhn2r) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [MELANCOLÍA](https://open.spotify.com/album/59hsT0IGncAPHWmuhoDetX) | 4:22 | 2023-06-23 | 2023-07-21 |
 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 | 2023-06-02 |  |
@@ -168,7 +170,7 @@
 | [Regresarás](https://open.spotify.com/track/0lD44zmd6jcYsxwZZJkqBY) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [Gianna Sotera](https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc) | [Redes Sociales](https://open.spotify.com/album/1dTlq4zPoV7Lv2Q5ZcTKNE) | 3:05 | 2022-01-28 | 2023-07-01 |
 | [Risa](https://open.spotify.com/track/3L55aSsDkT5ojgy3WXjh7s) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 3:07 | 2022-01-28 | 2023-07-01 |
 | [Rue Vieille Du Temple](https://open.spotify.com/track/4ViWSkl1it95PjoGn1VkHG) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Voluma](https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM) | 3:51 | 2022-04-26 |  |
-| [Sabor Cayena](https://open.spotify.com/track/7AeeynF7fkV4aFFwR9KeiA) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o) | [Sabor Cayena](https://open.spotify.com/album/5LiWn17rIUI0oqxfOyxVaP) | 4:16 | 2022-02-09 |  |
+| [Sabor Cayena](https://open.spotify.com/track/7AeeynF7fkV4aFFwR9KeiA) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o) | [Sabor Cayena](https://open.spotify.com/album/5LiWn17rIUI0oqxfOyxVaP) | 4:16 | 2022-02-09 | 2023-09-23 |
 | [Satélites](https://open.spotify.com/track/4ZkDM3luQLAL8oXmDUHbuh) | [Depressiego](https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD) | [Satélites](https://open.spotify.com/album/7KE8OXh0yBO1VdP7XIsQ5r) | 3:19 | 2023-05-12 |  |
 | [Sentimiento](https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sentimiento](https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY) | 2:52 | 2022-02-24 | 2023-07-01 |
 | [Ser Humano \(Pies Extraños\)](https://open.spotify.com/track/2d2HXApLEJdHVppOfUhkQ7) | [Hay Un Dinosaurio](https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe) | [Lonely Dinosaurio](https://open.spotify.com/album/3HlXOARhQkhD8NfCXnt7Ai) | 2:54 | 2023-04-28 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Senndy",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Ecologyk, Jotap\u00ea, Yunk Vino, Only ",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -892,7 +892,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 116842,
       "name": "AHAM!",
       "url": "https://open.spotify.com/track/0O7IZs1HGDkTaMex1gZLDR"
@@ -2244,7 +2244,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 179824,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
@@ -3167,6 +3167,28 @@
     },
     {
       "album": {
+        "name": "SHH",
+        "url": "https://open.spotify.com/album/6NhKR6U35pR28qAVdXTQi3"
+      },
+      "artists": [
+        {
+          "name": "Rudies Flacko",
+          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
+        },
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107055,
+      "name": "CALA-BOCA, TRABALHO",
+      "url": "https://open.spotify.com/track/3owg1lzgvzaaDnLgs2vs08"
+    },
+    {
+      "album": {
         "name": "Call me",
         "url": "https://open.spotify.com/album/2Pnva8ngeY9CTxuwO4VEoJ"
       },
@@ -3530,7 +3552,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 124878,
       "name": "Casaco De Grife",
       "url": "https://open.spotify.com/track/075akCXHwRdqMJvBhjBVWa"
@@ -4178,7 +4200,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 224000,
       "name": "CLIMA QUENTE",
       "url": "https://open.spotify.com/track/4wsm6HtaiBEgSIloZzLMa0"
@@ -8091,6 +8113,32 @@
     },
     {
       "album": {
+        "name": "Paz Terr\u00edvel",
+        "url": "https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90"
+      },
+      "artists": [
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228207,
+      "name": "Foda-Se Seu Ex",
+      "url": "https://open.spotify.com/track/3gHTnqd9ePkOmOtqOOp4id"
+    },
+    {
+      "album": {
         "name": "Fogo",
         "url": "https://open.spotify.com/album/0qUVOI1c3DQGB2TNksLkXm"
       },
@@ -8917,6 +8965,24 @@
     },
     {
       "album": {
+        "name": "Grana, Dinheiro e Fama",
+        "url": "https://open.spotify.com/album/2DPiSfu6nw0irRYVOZ8brt"
+      },
+      "artists": [
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Grana, Dinheiro e Fama",
+      "url": "https://open.spotify.com/track/4JenZe0lSMXG57yqfc6i5d"
+    },
+    {
+      "album": {
         "name": "Grau & Corte",
         "url": "https://open.spotify.com/album/1rGGyHnu4byllHhKYc59j2"
       },
@@ -9058,7 +9124,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 142500,
       "name": "Hentai",
       "url": "https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8"
@@ -11971,6 +12037,24 @@
     },
     {
       "album": {
+        "name": "Metamorf",
+        "url": "https://open.spotify.com/album/4cuTasGsG88sF9V0jiXHlK"
+      },
+      "artists": [
+        {
+          "name": "Stef",
+          "url": "https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153437,
+      "name": "Me Envolvo",
+      "url": "https://open.spotify.com/track/0JbqPaiEZWUwwOhfOZvyu3"
+    },
+    {
+      "album": {
         "name": "Me Liga",
         "url": "https://open.spotify.com/album/49IVlDZWO9hB9wZIBKBYti"
       },
@@ -14447,6 +14531,44 @@
     },
     {
       "album": {
+        "name": "N\u00f3s Mant\u00e9m",
+        "url": "https://open.spotify.com/album/7meSpoMru9vhykyjcp3Qvr"
+      },
+      "artists": [
+        {
+          "name": "Brunnin",
+          "url": "https://open.spotify.com/artist/7sOl1POwSHsoZ2ezDJIapz"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        },
+        {
+          "name": "MC AL",
+          "url": "https://open.spotify.com/artist/3kPq1DEZ7LffgvQKV7l9T7"
+        },
+        {
+          "name": "PS",
+          "url": "https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68"
+        },
+        {
+          "name": "Apxllo",
+          "url": "https://open.spotify.com/artist/65CBi5BhR9tJlvy1OjW9uR"
+        },
+        {
+          "name": "Vitor Akin",
+          "url": "https://open.spotify.com/artist/6CsiuADjEWXV6FvM7Hhoik"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270038,
+      "name": "N\u00f3s Mant\u00e9m",
+      "url": "https://open.spotify.com/track/7EIlIYU4BRx8tZT7IF2NGy"
+    },
+    {
+      "album": {
         "name": "N\u00f3s Te Deixa no Cep",
         "url": "https://open.spotify.com/album/584cp0lJewh0CwQ39oGccy"
       },
@@ -15020,6 +15142,28 @@
       "duration_ms": 128000,
       "name": "Os Menor T\u00e1 de Pe\u00e7a",
       "url": "https://open.spotify.com/track/564ud1ZkfFbBHAfavw4AS4"
+    },
+    {
+      "album": {
+        "name": "Ouro Rose",
+        "url": "https://open.spotify.com/album/2DtE00Rbwp2UC6IiNAdJIt"
+      },
+      "artists": [
+        {
+          "name": "Font",
+          "url": "https://open.spotify.com/artist/2VxhcBCTUs11LYhPpA62S1"
+        },
+        {
+          "name": "RalphTheKiD",
+          "url": "https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182664,
+      "name": "Ouro Rose",
+      "url": "https://open.spotify.com/track/0pv0nTMDBFR2QNH393zp6A"
     },
     {
       "album": {
@@ -17686,7 +17830,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 155134,
       "name": "REELS",
       "url": "https://open.spotify.com/track/69OCNHowlUONXUXkO3w0Xo"
@@ -19059,6 +19203,32 @@
     },
     {
       "album": {
+        "name": "Sess\u00e3o de Cria 2: Beroba Freestyle",
+        "url": "https://open.spotify.com/album/5aww5rg45n1D4IFxBFdDX0"
+      },
+      "artists": [
+        {
+          "name": "Arthurzim",
+          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "PAKO BEATZ",
+          "url": "https://open.spotify.com/artist/7tJV2B9ErlFQE9oXyYg0qA"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Sess\u00e3o de Cria 2: Beroba Freestyle",
+      "url": "https://open.spotify.com/track/1Y8kuDt5jXMJWnswUbmBHh"
+    },
+    {
+      "album": {
         "name": "Set Caio Passos & Neckklace",
         "url": "https://open.spotify.com/album/1lwzcF5zt84nUfKytKylqv"
       },
@@ -19322,7 +19492,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 244705,
       "name": "SINFONIA",
       "url": "https://open.spotify.com/track/69kSFmYWarT1q3Ohk6v6Tq"
@@ -19710,6 +19880,36 @@
       "duration_ms": 196571,
       "name": "Suga Minha Alma",
       "url": "https://open.spotify.com/track/1LCLGlMc2eL65XU2LDGnyq"
+    },
+    {
+      "album": {
+        "name": "Surtadinha",
+        "url": "https://open.spotify.com/album/4Zr9jKyB3e2kV6fbiuntja"
+      },
+      "artists": [
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Jotap\u00ea",
+          "url": "https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Only",
+          "url": "https://open.spotify.com/artist/30uDJX6kWWopOA7Aq2HlJV"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195110,
+      "name": "Surtadinha",
+      "url": "https://open.spotify.com/track/7wYfR9AeScsSw7Ub0APQKI"
     },
     {
       "album": {
@@ -21318,7 +21518,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 145486,
       "name": "Unike Sessions #1: Calma",
       "url": "https://open.spotify.com/track/6QXhHzQVYMKIduaJICb5FS"

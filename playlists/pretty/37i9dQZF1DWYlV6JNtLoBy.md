@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,789 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,806 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 49 | [Upendo Wa Yesu](https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Hapa Nilipo](https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz) | 4:21 |
 | 50 | [Thamani Ya Wokovu](https://open.spotify.com/track/5npUvkxp8M3tT4DMSjvoeS) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Nipe Macho](https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV) | 5:15 |
 
-Snapshot ID: `MCxjODRiNjMwN2NkZDI5MTJkMjc2Y2VmODdjZjM1MjI1ZDI3ZWQ1NzVh`
+Snapshot ID: `MCw3MWZkNjY3MzNkYzFkN2ViZWRkOTZkYmE3ODhiY2QxMTMxMDQ0YTgy`

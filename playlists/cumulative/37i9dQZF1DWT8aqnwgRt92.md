@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-877 songs - 2 day 7 hr 24 min
+878 songs - 2 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,8 @@
 | [Kokorone](https://open.spotify.com/track/43nVvwOh89GG7LXWhmZFkd) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Kokorone](https://open.spotify.com/album/0tmQTiDf8sdswXxCwwyeP5) | 3:10 | 2023-04-11 | 2023-06-28 |
 | [Konotateni Kakuremasu \- TVSize](https://open.spotify.com/track/1VHTcCoAPqHXanvpVrGVYK) | [純情のアフィリア](https://open.spotify.com/artist/1RFi2Nn5fsdUsVcH6V0xC1) | [TV Animation”I Don’t Want to Get Hurt, so I’ll Max Out My Defense.2”theme song](https://open.spotify.com/album/3ukhrSxULp81bKgwvm4D61) | 1:29 | 2023-01-12 | 2023-01-25 |
 | [Kyokansarenakutemoiijanai](https://open.spotify.com/track/0ILqv4nIfyMSHg7WPJBwlw) | [Rie Takahashi](https://open.spotify.com/artist/0ENel7sUUXjVGUsP0xvwEJ) | [Kyokansarenakutemoiijanai](https://open.spotify.com/album/1O0nkN0Qp1rcdwJHsNds6p) | 3:53 | 2022-10-06 | 2022-12-28 |
-| [Kyuseishu](https://open.spotify.com/track/3nDjI1uPbjBvqZNEA3F57Q) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Kyuseishu](https://open.spotify.com/album/2xiK0zF6CJjJqCqSHwgMsM) | 3:17 | 2023-07-04 |  |
+| [Kyuseishu](https://open.spotify.com/track/3nDjI1uPbjBvqZNEA3F57Q) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Kyuseishu](https://open.spotify.com/album/2xiK0zF6CJjJqCqSHwgMsM) | 3:17 | 2023-07-04 | 2023-09-23 |
+| [Kyuseishu](https://open.spotify.com/track/1wXrIFdqheifq4ETjCpqoi) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Another Moon](https://open.spotify.com/album/4ncDSulCMzzASL7VcjTa28) | 3:19 | 2023-09-19 |  |
 | [La Muse perdue](https://open.spotify.com/track/5sRs39Var3IyQEP3Ls3ZaW) | [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [La Muse perdue](https://open.spotify.com/album/3cRj4H2iySQcwo9sBFz8Bz) | 4:07 | 2023-08-01 |  |
 | [Ladder](https://open.spotify.com/track/6gZzyh7mytbxOTX0qWxbhx) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [Ladder](https://open.spotify.com/album/17MpD6N5nkhHHatcIckvNa) | 3:40 | 2022-11-02 | 2023-01-13 |
 | [Lapse](https://open.spotify.com/track/5TeGDq5gS3KBG88UvdAT5E) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6IOnkt2rwHoyPgd8tiBTSD) | 3:55 | 2023-04-18 | 2023-07-05 |

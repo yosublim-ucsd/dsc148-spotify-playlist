@@ -1691,6 +1691,36 @@
     },
     {
       "album": {
+        "name": "Ferris Wheel",
+        "url": "https://open.spotify.com/album/3SqYsi0HttqFNoIai2LomV"
+      },
+      "artists": [
+        {
+          "name": "George Jackson",
+          "url": "https://open.spotify.com/artist/22k9oyPcLzjnKokhSHoFV7"
+        },
+        {
+          "name": "Eli Broxham",
+          "url": "https://open.spotify.com/artist/1TgFBajZtGKOwhEONz9n8G"
+        },
+        {
+          "name": "Frank Evans",
+          "url": "https://open.spotify.com/artist/1sOuG3dLwdgmh53W0NPaGO"
+        },
+        {
+          "name": "John Mailander",
+          "url": "https://open.spotify.com/artist/4MYqkPU4l4Gpohaub6mGFr"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224986,
+      "name": "Ferris Wheel",
+      "url": "https://open.spotify.com/track/1AjZqb7Tq31ImmqQBvCJot"
+    },
+    {
+      "album": {
         "name": "Firewood",
         "url": "https://open.spotify.com/album/01p20IYbDXu5GZuKZQ5s6H"
       },

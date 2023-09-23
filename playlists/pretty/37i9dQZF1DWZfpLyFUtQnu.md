@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,702 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,805 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 37 | [Le bateau coule](https://open.spotify.com/track/5LjlW19V9AQ4pg0ck0uvcO) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments](https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL) | 3:19 |
 | 38 | [Et dans 150 ans](https://open.spotify.com/track/7vlLFUFZKochwQGnoRnWcM) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 2:33 |
 | 39 | [Lucie](https://open.spotify.com/track/5lgjlZSujTErTw7FUoCxj9) | [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS) | [Superflu](https://open.spotify.com/album/5bkQ6M2RXukXeF9NEHwgUY) | 4:15 |
-| 40 | [La vie ne m'apprend rien](https://open.spotify.com/track/6qdFHfgUPmngzK7oTeflgs) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Un autre monde \(Remastered\)](https://open.spotify.com/album/0guFdTn3J3NhrS0TYYOUX2) | 4:18 |
-| 41 | [Toi mon amour](https://open.spotify.com/track/0joVOoFQB1l3nGceHwgxVI) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [L'Heure D'Eté](https://open.spotify.com/album/4KGuo3fzcCgvfvqvA2o5lh) | 3:34 |
+| 40 | [Toi mon amour](https://open.spotify.com/track/0joVOoFQB1l3nGceHwgxVI) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [L'Heure D'Eté](https://open.spotify.com/album/4KGuo3fzcCgvfvqvA2o5lh) | 3:34 |
+| 41 | [La vie ne m'apprend rien](https://open.spotify.com/track/6qdFHfgUPmngzK7oTeflgs) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Un autre monde \(Remastered\)](https://open.spotify.com/album/0guFdTn3J3NhrS0TYYOUX2) | 4:18 |
 | 42 | [Evidemment \- Remasterisé en 2004](https://open.spotify.com/track/1kYi6X7VMmU3rCiE2aWjV1) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Babacar \(Remasterisé en 2004\)](https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0) | 3:26 |
 | 43 | [Sublime & Silence](https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:56 |
 | 44 | [Sad & Slow \(avec Julien Doré\)](https://open.spotify.com/track/3Pjr1PIVNldDaRtX0EsjFh) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 3:21 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 53 | [Immortels](https://open.spotify.com/track/64XJOksESduPbepHxmW2rT) | [Alain Bashung](https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b) | [En amont](https://open.spotify.com/album/3zr5AVUYkVkezcHSqBfrxH) | 4:24 |
 | 54 | [Femmes..\. Je vous aime](https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Femmes, indiscrétion, blasphème](https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f) | 4:23 |
 | 55 | [Le tourbillon de la vie](https://open.spotify.com/track/5vLnGZWyrMu5S1792Xzh8l) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd), [Jeanne Moreau](https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:59 |
-| 56 | [Sur un prélude de Bach](https://open.spotify.com/track/5zfkEYXMQPXO7usJOPm7cB) | [Maurane](https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if) | [Ami Ou Ennemi](https://open.spotify.com/album/6SLKeOEgpg9XmpsKxxXCBU) | 4:50 |
-| 57 | [T'es Belle](https://open.spotify.com/track/3SnAZtodqwylc35c3tP0wZ) | [Volo](https://open.spotify.com/artist/11T4vCBbGWjL5boJmWeiw9) | [Jours Heureux](https://open.spotify.com/album/7jUVoBb0xFVgnqoBOVuvxX) | 2:29 |
+| 56 | [T'es Belle](https://open.spotify.com/track/3SnAZtodqwylc35c3tP0wZ) | [Volo](https://open.spotify.com/artist/11T4vCBbGWjL5boJmWeiw9) | [Jours Heureux](https://open.spotify.com/album/7jUVoBb0xFVgnqoBOVuvxX) | 2:29 |
+| 57 | [Sur un prélude de Bach](https://open.spotify.com/track/5zfkEYXMQPXO7usJOPm7cB) | [Maurane](https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if) | [Ami Ou Ennemi](https://open.spotify.com/album/6SLKeOEgpg9XmpsKxxXCBU) | 4:50 |
 | 58 | [Manque d'Amour](https://open.spotify.com/track/3AtdizIe78tjWmbyZbgIoV) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Petite Amie \(Edition Délice\)](https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N) | 3:06 |
 | 59 | [Aimer à perdre la raison](https://open.spotify.com/track/2qGeC6tm9qwjQw0dNDMCzP) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Je ne chante pas pour passer le temps](https://open.spotify.com/album/7N1p95delnJ0Rqn7vndbjD) | 2:21 |
 | 60 | [Le coeur grenadine](https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Le coeur grenadine](https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot) | 5:47 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 71 | [Nous deux contre le reste du monde \- Version Acoustique](https://open.spotify.com/track/7hwdkcVXdn0NjMJHWFtVl8) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Les femmes idéales](https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO) | 2:51 |
 | 72 | [Dommage](https://open.spotify.com/track/0TdHMmYqHucjNryME4bfKe) | [Erza Muqoli](https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt) | [Erza Muqoli](https://open.spotify.com/album/4MYZ8sm7algdZmjef4Bp4g) | 4:47 |
 | 73 | [beau\-papa \(acoustique\)](https://open.spotify.com/track/0wRFR5cUtBNArgtw4F1rw1) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [beau\-papa \(acoustique\)](https://open.spotify.com/album/15csZHfKvpIwsR4UDH24Ox) | 3:21 |
-| 74 | [Pas toi \- au New Morning 1994 \(concert acoustique\)](https://open.spotify.com/track/2i3ZEXYOanRZlariHUfSLN) | [Carole Fredericks](https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH), [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2), [Michael Jones](https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW) | [Fredericks, Goldman, Jones : Du New Morning au Zénith \(Live\)](https://open.spotify.com/album/2VXif8oyxvqZ8EMnhBbp2S) | 5:23 |
-| 75 | [Parce Qu'On Vient De Loin \(Version Acoustique\)](https://open.spotify.com/track/66BL8LOHoqwGgPzMOraqtW) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Parce qu'on vient de loin](https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv) | 4:01 |
+| 74 | [Parce Qu'On Vient De Loin \(Version Acoustique\)](https://open.spotify.com/track/66BL8LOHoqwGgPzMOraqtW) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Parce qu'on vient de loin](https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv) | 4:01 |
+| 75 | [Pas toi \- au New Morning 1994 \(concert acoustique\)](https://open.spotify.com/track/2i3ZEXYOanRZlariHUfSLN) | [Carole Fredericks](https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH), [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2), [Michael Jones](https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW) | [Fredericks, Goldman, Jones : Du New Morning au Zénith \(Live\)](https://open.spotify.com/album/2VXif8oyxvqZ8EMnhBbp2S) | 5:23 |
 
-Snapshot ID: `MCxhMWQ3NTUxYTBjZjQyMTlhNDY2NGU2NDEwMjEwOTQ2NTdkZmMwMzAz`
+Snapshot ID: `MCxlMGM4NWE1ZmFmZmVhODIzZmVmNWQ2NmFlY2RmMGU2NzI3YzhlOGRi`

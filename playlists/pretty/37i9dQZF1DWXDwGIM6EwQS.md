@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDwGIM6EwQS.md) - [plain]
 
 > pov: you're crying and dancing at the same time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,892 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,971 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDwGIM6EwQS.md) - [plain]
 | 28 | [¿Qué Nos Pasó?](https://open.spotify.com/track/7k3qWn8D43a5ISa3x8lJux) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [¿Qué Nos Pasó?](https://open.spotify.com/album/4q4kJrDt0OcTP2of4YUuHR) | 4:05 |
 | 29 | [Un Verano Sin Ti](https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:28 |
 | 30 | [Todavía](https://open.spotify.com/track/6TrR94UaLsxnCMbdUXIVwI) | [DJ Pablito](https://open.spotify.com/artist/44cA8XUceHxTRIVRZAdvW5), [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy), [Joycee](https://open.spotify.com/artist/7IjPW8bcW8D5mccCuVxbEC) | [Dj Pablito Presenta\- La Factoría](https://open.spotify.com/album/7LPdPCTfXLwJyW2UzghtVb) | 3:23 |
-| 31 | [Tú Me Dejaste De Querer](https://open.spotify.com/track/5ddFjrPG8NgQQ6xlOQIVd2) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [La Húngara](https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:18 |
-| 32 | [No Te Deseo el Mal](https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:52 |
+| 31 | [No Te Deseo el Mal](https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:52 |
+| 32 | [Tú Me Dejaste De Querer](https://open.spotify.com/track/5ddFjrPG8NgQQ6xlOQIVd2) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [La Húngara](https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:18 |
 | 33 | [SHORTY QUE TE VAYA BN <3](https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [SHORTY QUE TE VAYA BN <3](https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs) | 3:39 |
 | 34 | [11 PM](https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 2:55 |
 | 35 | [Desenfocao'](https://open.spotify.com/track/2CEf2gU5ZJamLXa3NrgAvA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDwGIM6EwQS.md) - [plain]
 | 59 | [No Te Debí Besar](https://open.spotify.com/track/1KdwnsWOvhM53vezy5ROuf) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [No Te Debí Besar](https://open.spotify.com/album/1VIVJSQidZ6nddSJoEEYt7) | 3:02 |
 | 60 | [VENENO](https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:33 |
 
-Snapshot ID: `MCw5ZTRjZTM0OWM4NWZiMzRhZjliNmIyNzNmOWRkZjEzZWEzOTNjZjE3`
+Snapshot ID: `MCw5Y2YyODA2NDNiYTM3N2U0NDFhYzRiZGU0YzNjYjVkNTIzZDNhODI5`

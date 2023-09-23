@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The world's biggest dance hits. Cover: Calvin Harris",
+  "description": "The world's biggest dance hits. Cover: Martin Garrix & Lloyiso",
   "name": "mint",
   "tracks": [
     {
@@ -64,7 +64,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 159316,
       "name": "0800 HEAVEN",
       "url": "https://open.spotify.com/track/4YUgS4PGLSBI6sbKUxaD3D"
@@ -774,7 +774,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 188441,
       "name": "Anything 4 U",
       "url": "https://open.spotify.com/track/0MuAaWayfAeq0C6WDM15Mz"
@@ -2683,6 +2683,28 @@
     },
     {
       "album": {
+        "name": "Dance No More (with Kaleena Zanders)",
+        "url": "https://open.spotify.com/album/3QOx2Pb0YAOD48iVQOAqjA"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202657,
+      "name": "Dance No More (with Kaleena Zanders)",
+      "url": "https://open.spotify.com/track/5IkqbeN8L6DC9kRA7Hp64t"
+    },
+    {
+      "album": {
         "name": "Dance With Me EP",
         "url": "https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC"
       },
@@ -3948,7 +3970,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 163840,
       "name": "Emorio",
       "url": "https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL"
@@ -4446,6 +4468,28 @@
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "album": {
+        "name": "Fight or Flight",
+        "url": "https://open.spotify.com/album/21flOOgl2FgBHpxum2PVVH"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151538,
+      "name": "Fight or Flight",
+      "url": "https://open.spotify.com/track/0biZ6lxXHy4eHweTbOD33W"
     },
     {
       "album": {
@@ -4976,7 +5020,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 193706,
       "name": "Glow",
       "url": "https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk"
@@ -6376,7 +6420,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 169472,
       "name": "I've Been In Love",
       "url": "https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo"
@@ -7776,7 +7820,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 181935,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
@@ -7842,6 +7886,28 @@
       "duration_ms": 211317,
       "name": "Lose Your Love (with Matt Maeson)",
       "url": "https://open.spotify.com/track/1PknqupRJmUOeOj0ghpwLZ"
+    },
+    {
+      "album": {
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165335,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP"
     },
     {
       "album": {
@@ -10057,6 +10123,32 @@
     },
     {
       "album": {
+        "name": "Over Now",
+        "url": "https://open.spotify.com/album/7udk1qiys7QiEPKN9lY8a4"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Opposite the Other",
+          "url": "https://open.spotify.com/artist/3YPzVOVeAXdzhmnffu1WjZ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175635,
+      "name": "Over Now",
+      "url": "https://open.spotify.com/track/606Z051kpzw0rrcBCYCTtR"
+    },
+    {
+      "album": {
         "name": "Overdrive EP",
         "url": "https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k"
       },
@@ -10222,6 +10314,28 @@
       "duration_ms": 202403,
       "name": "Parallel Heartbreak",
       "url": "https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx"
+    },
+    {
+      "album": {
+        "name": "Past Life",
+        "url": "https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196821,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy"
     },
     {
       "album": {
@@ -10872,6 +10986,28 @@
       "duration_ms": 204500,
       "name": "Ready To Fly - Sub Focus & Dimension",
       "url": "https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL"
+    },
+    {
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
     },
     {
       "album": {

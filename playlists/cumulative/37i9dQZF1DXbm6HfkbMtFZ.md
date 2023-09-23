@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-526 songs - 1 day 7 hr 41 min
+527 songs - 1 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Juicy](https://open.spotify.com/track/3VEdzfUk5q70JDmBH0F0Wa) | [Emmett Kai](https://open.spotify.com/artist/3iFMfPvVhkPDaR6uCaBV9q) | [Midnight](https://open.spotify.com/album/04q89UZFZgoHq13VI8Etar) | 3:22 | 2021-12-16 | 2022-07-28 |
 | [Jumping Fences](https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt) | [The Olivia Tremor Control](https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB) | [Dusk at Cubist Castle](https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh) | 1:52 | 2022-10-14 |  |
 | [Just Ain't Gonna Work Out](https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX) | 2:30 | 2022-03-30 | 2022-04-20 |
+| [Just Ain't Gonna Work Out](https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU) | 2:30 | 2023-09-19 |  |
 | [Just Another Honky](https://open.spotify.com/track/0VBNUr0tXN3GaxOjBoB0Es) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:34 | 2022-03-30 | 2023-09-07 |
 | [Just Go](https://open.spotify.com/track/2szxIrlLVWJ7JRxDAGdzzc) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:06 | 2021-12-16 | 2023-06-22 |
 | [Just Like You Used To](https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q) | 3:08 | 2022-12-28 | 2023-04-30 |
@@ -243,7 +244,7 @@
 | [Keeping Me Under](https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu) | 3:38 | 2022-07-26 | 2023-02-14 |
 | [Kelly](https://open.spotify.com/track/3Mj5wXVgnFs0HhBI4iYHCd) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [Sky City](https://open.spotify.com/album/2lYmxilk8cXJlxxXmns1IU) | 3:38 | 2022-03-30 | 2022-04-21 |
 | [Kids Fallin' In Love](https://open.spotify.com/track/4LPiZEE28GPCQPES6Xxy5A) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kids Fallin' In Love](https://open.spotify.com/album/4Q9CZw1r0QCbFH7AdtYE3g) | 3:47 | 2021-12-16 | 2023-05-12 |
-| [King Prawn The 1st](https://open.spotify.com/track/0t81ZOuQDXrw45a9mGKC6t) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [Boys, B\-Sides & Rarities](https://open.spotify.com/album/4chIfnAsr94togS7Xnwg2U) | 2:36 | 2023-02-10 |  |
+| [King Prawn The 1st](https://open.spotify.com/track/0t81ZOuQDXrw45a9mGKC6t) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [Boys, B\-Sides & Rarities](https://open.spotify.com/album/4chIfnAsr94togS7Xnwg2U) | 2:36 | 2023-02-10 | 2023-09-23 |
 | [King Prawn The 1st](https://open.spotify.com/track/0ybcE5T4NKLJSMIZUHSRlD) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [Boys, B\-Sides & Rarities](https://open.spotify.com/album/4g5owqOYwBR805mYofw5cg) | 2:36 | 2022-03-30 | 2022-07-29 |
 | [LA.BELLE.JOURNÉE 1971](https://open.spotify.com/track/0jcmvJs02muGldvkNrkejV) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [A.M.I.E.S.A.M.O.U.R](https://open.spotify.com/album/4qwd82AW4N0n7ijigpNTmX) | 5:05 | 2022-02-18 | 2022-07-29 |
 | [Lady Luck](https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe) | [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [The Atlantic Ocean](https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO) | 4:18 | 2022-07-26 | 2023-06-27 |

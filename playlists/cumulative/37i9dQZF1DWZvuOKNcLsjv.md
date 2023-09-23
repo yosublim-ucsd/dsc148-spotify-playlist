@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Drake
 
-1,962 songs - 4 day 18 hr 34 min
+1,963 songs - 4 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -986,7 +986,8 @@
 | [NIGHT DANCER \- BIG Naughty Remix](https://open.spotify.com/track/2QS8VmtgJ40DBQbOfK4W9U) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [NIGHT DANCER \(BIG Naughty Remix\)](https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu) | 3:30 | 2023-05-21 | 2023-05-30 |
 | [NIGHT DANCER \- TeddyLoid Remix](https://open.spotify.com/track/757muLTITbCgYsYcME8iUO) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [NIGHT DANCER \(TeddyLoid Remix\)](https://open.spotify.com/album/5w3sYieLHgQ81yKYJnO3w3) | 3:49 | 2023-04-02 | 2023-04-17 |
 | [Nightmare](https://open.spotify.com/track/58Zd2a3J4bLMV2iPTHZSSO) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC) | [Nightmare](https://open.spotify.com/album/6BNkiD2XOV1g2BZGHSOKQJ) | 5:37 | 2023-04-09 | 2023-04-24 |
-| [Ninna Nanna \(feat\. Miho Nakayama\)](https://open.spotify.com/track/6xBKx82lrogb8TDCjghTq0) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [中山美穂](https://open.spotify.com/artist/27uDA7mGoHPHFvlBiZ4J9Z) | [Ninna Nanna \(feat\. Miho Nakayama\)](https://open.spotify.com/album/4R0X8HikVaF6xrHlqoOWsL) | 2:45 | 2023-09-10 |  |
+| [Ninna Nanna \(feat\. Miho Nakayama\)](https://open.spotify.com/track/5BS9bVDMWFRmjcz3J7XNo0) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [中山美穂](https://open.spotify.com/artist/27uDA7mGoHPHFvlBiZ4J9Z) | [Neo Standard](https://open.spotify.com/album/6vXMlkcOS97nxv48Kl76MV) | 2:45 | 2023-09-17 |  |
+| [Ninna Nanna \(feat\. Miho Nakayama\)](https://open.spotify.com/track/6xBKx82lrogb8TDCjghTq0) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [中山美穂](https://open.spotify.com/artist/27uDA7mGoHPHFvlBiZ4J9Z) | [Ninna Nanna \(feat\. Miho Nakayama\)](https://open.spotify.com/album/4R0X8HikVaF6xrHlqoOWsL) | 2:45 | 2023-09-10 | 2023-09-23 |
 | [No Angels](https://open.spotify.com/track/0rILJVRD7waDGOFzoyruI2) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [No Angels](https://open.spotify.com/album/5cGHWAoS3cGwU9eYTH3mSm) | 3:52 | 2023-07-02 | 2023-07-17 |
 | [NO BAD DAYS \(feat\. Collett\)](https://open.spotify.com/track/5C8ySsx3AT121g24uYR823) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Collett](https://open.spotify.com/artist/6u079TgFSFrxtv8iqq0Zn9) | [BEN](https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS) | 2:53 | 2023-03-05 | 2023-04-03 |
 | [No End feat\. Daichi Miura](https://open.spotify.com/track/2bm4dVvrFDIcK2QEYTl4Fq) | [s\*\*t kingz](https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [ODO KYUKYU BAKO](https://open.spotify.com/album/5Ces90ZRW37Mc4m5WxIbMH) | 3:30 | 2023-07-23 | 2023-08-07 |
@@ -1444,7 +1445,7 @@
 | [Third Summer of Love](https://open.spotify.com/track/1JqvgMV4lvu6HCMTY2eAkL) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Million Wish Collective](https://open.spotify.com/artist/3L0IgTFlmkllM0Mcnp2JeQ) | [ANOCHI](https://open.spotify.com/album/3QaWpNuVe2FRMDAnG2iPwx) | 5:05 | 2023-02-05 | 2023-02-13 |
 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 | 2023-02-05 | 2023-02-13 |
 | [This Is Not The Ending](https://open.spotify.com/track/7h0F0qv2vExZ5Kv2ZincA8) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [curtain call](https://open.spotify.com/album/7D4cMYPY6OmOt9ZEJg4kiC) | 2:52 | 2023-01-29 | 2023-02-27 |
-| [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 | 2023-09-17 | 2023-09-22 |
+| [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 | 2023-09-17 |  |
 | [Thousand Visions](https://open.spotify.com/track/6Hk9oRnjWJeau0nZP2WIsi) | [Naive Super](https://open.spotify.com/artist/7K0bB9EYroWULvFkVVMWFS) | [Thousand Visions](https://open.spotify.com/album/3R7V41T7GdWWoKN0fhP7Qt) | 3:57 | 2023-02-05 | 2023-02-13 |
 | [Throwback Tears](https://open.spotify.com/track/68Z7JAEz6ZSFJ9bA4KFGRg) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Throwback Tears](https://open.spotify.com/album/5mNkXsJh0QVVEKIq9Rx1en) | 1:57 | 2023-01-29 | 2023-02-06 |
 | [TIME](https://open.spotify.com/track/5QxVQtsN36qJXn1Iow3RFc) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [TIME](https://open.spotify.com/album/7CkTwAm1r9QJGYiyqlydlq) | 3:14 | 2023-07-02 | 2023-07-12 |

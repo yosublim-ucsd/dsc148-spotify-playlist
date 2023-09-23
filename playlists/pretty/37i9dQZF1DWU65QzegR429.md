@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Polimá Westcoast
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,611 likes - 59 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,619 likes - 59 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 22 | [Los Angeles](https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sweet & Sour](https://open.spotify.com/album/006vB71xTBRqzQREjfYREf) | 2:43 |
 | 23 | [Chivirika](https://open.spotify.com/track/6RaabFZyIbKpoC2Xh8XeXZ) | [El Villanord](https://open.spotify.com/artist/3CLzGEm4DCOh5ouaMm6mZs), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Chivirika](https://open.spotify.com/album/4en63LsV1rqze6270c9wBn) | 3:30 |
 | 24 | [Morena](https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Lil Silvio & El Vega](https://open.spotify.com/artist/53F3cdrVpYq5iM4iaa6AQ3), [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Morena](https://open.spotify.com/album/2tyL1zXbNKyMCCYYgwa3UP) | 4:02 |
-| 25 | [Culo Chapa \(feat\. La Perversa, Quimico Ultra Mega & Haraca Kiko\)](https://open.spotify.com/track/045pZE1F4PGpwHygQLbLXb) | [Malu Trevejo](https://open.spotify.com/artist/58GNHTqgNesANvRuoKzCwX), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Culo Chapa \(feat\. La Perversa, Quimico Ultra Mega & Haraca Kiko\)](https://open.spotify.com/album/7yp999HIsMUanMsvLUq6Ni) | 2:30 |
-| 26 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 |
+| 25 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 |
+| 26 | [Culo Chapa \(feat\. La Perversa, Quimico Ultra Mega & Haraca Kiko\)](https://open.spotify.com/track/045pZE1F4PGpwHygQLbLXb) | [Malu Trevejo](https://open.spotify.com/artist/58GNHTqgNesANvRuoKzCwX), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Culo Chapa \(feat\. La Perversa, Quimico Ultra Mega & Haraca Kiko\)](https://open.spotify.com/album/7yp999HIsMUanMsvLUq6Ni) | 2:30 |
 | 27 | [Rosa Melo](https://open.spotify.com/track/7cd4zZ97AjsD9AbU0zZQxI) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [Rosa Melo](https://open.spotify.com/album/11sm82wbfZzdTvxTA5NsoX) | 2:44 |
 | 28 | [Acurrucao](https://open.spotify.com/track/7aOWxZ4KoVg4cKF8x2iiGI) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Sofia LaSanta](https://open.spotify.com/artist/7FKAgyZsXEwIWvCC9uwRl0) | [Acurrucao](https://open.spotify.com/album/0H4BRh7Cl8ErMlks9Wj80s) | 3:06 |
 | 29 | [Taka Taka](https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Taka Taka](https://open.spotify.com/album/32yqnJvhVOIw6BPqDdTD8G) | 2:35 |
@@ -66,6 +66,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 56 | [Mírame](https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Pa' El Alma](https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY) | 3:20 |
 | 57 | [Probando Freestyle](https://open.spotify.com/track/6uy9W7BAXUR09pMnnix338) | [Gailen La Moyeta](https://open.spotify.com/artist/0a7DjyuupA55K2NqWItRir) | [Probando Freestyle](https://open.spotify.com/album/5Jb7CmfSS5MdsGZ5ZQtOFC) | 1:05 |
 | 58 | [94](https://open.spotify.com/track/6vsAfEwT8L9xsiSfXNnHpN) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [94](https://open.spotify.com/album/67g5mVEDHMS25aITr7hjGf) | 2:33 |
-| 59 | [Trucki](https://open.spotify.com/track/1xyMEik4SsayMAEV4rwYYW) | [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Real Sofoke Hiigh](https://open.spotify.com/artist/5sX6UbJx4vxLzHXIMsVXZh) | [Trucki](https://open.spotify.com/album/5jO83YZz3ujLMMM61Fwkzv) | 3:56 |
+| 59 | [Dime La Verdad](https://open.spotify.com/track/2ksfEETsqZ0La3QnJcfxbV) | [Luchy DR](https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql), [Alcover](https://open.spotify.com/artist/2PctE0f82UrDM9CR3SXXGo) | [Lucky 7](https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho) | 3:15 |
 
-Snapshot ID: `MCwxYjBhZWU4YjZjOTE2ZWFmMzRkY2NiMWU5ZjJkNzZkMmM1MzI4ZDU1`
+Snapshot ID: `MCw2OGYwZTM3MjJkMWU2NTlhYjIxOGEzYzJmYzIxMjkzNDkwZjJhN2U4`

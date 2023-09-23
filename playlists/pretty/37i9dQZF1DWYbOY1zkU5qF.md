@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 
 > Versiones acústicas de tus canciones favoritas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,560 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,679 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 25 | [No Bailes Sola \- Versión Acústica](https://open.spotify.com/track/3LfJzT37DkyzELlmmTWYgO) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Bailes Sola \(Versión Acústica\)](https://open.spotify.com/album/6JxnMDh4sNQs4sd6z5w0eo) | 3:09 |
 | 26 | [Despacito \- Acoustic](https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [Despacito \(Acoustic\)](https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB) | 3:38 |
 | 27 | [Le Hace Falta Un Beso](https://open.spotify.com/track/2Cmph9VuINMFQS6Y50dvaZ) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Mis Versiones 2](https://open.spotify.com/album/0RgAzvo0x81j4e3jReu4SE) | 3:01 |
-| 28 | [Si Veo a Tu Mamá](https://open.spotify.com/track/1TzT4fQENDBK4a1GkDvB0P) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Si Veo a Tu Mamá](https://open.spotify.com/album/2s2db0CNIpRhDdHHOGwyJh) | 2:40 |
-| 29 | [La Nave del Olvido](https://open.spotify.com/track/4O4qat7D2fs9iErTOXJcKk) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [La Nave del Olvido](https://open.spotify.com/album/38Ofq9oRq6PgGA33Z8goP0) | 2:55 |
+| 28 | [La Nave del Olvido](https://open.spotify.com/track/4O4qat7D2fs9iErTOXJcKk) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [La Nave del Olvido](https://open.spotify.com/album/38Ofq9oRq6PgGA33Z8goP0) | 2:55 |
+| 29 | [Si Veo a Tu Mamá](https://open.spotify.com/track/1TzT4fQENDBK4a1GkDvB0P) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Si Veo a Tu Mamá](https://open.spotify.com/album/2s2db0CNIpRhDdHHOGwyJh) | 2:40 |
 | 30 | [Bailame](https://open.spotify.com/track/2LCU2czGbhjboUOUjB9NUK) | [Reggaeton Acústico](https://open.spotify.com/artist/2VG4iLloPFUXdzWZ9knh7c) | [Viral Hits, Vol\. 1](https://open.spotify.com/album/31JdJ3MW0AF5NWmLECQwnU) | 3:35 |
 | 31 | [El Microbito](https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [El Microbito](https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR) | 3:14 |
 | 32 | [Mátenme Porque Me Muero](https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Mátenme Porque Me Muero](https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ) | 3:26 |
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 36 | [La Mejor Versión de Mi](https://open.spotify.com/track/2dD81TOEFUYhYG7x46CBwY) | [Carlo Gless](https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm) | [La Mejor Versión de Mi](https://open.spotify.com/album/6W9IzP6FXIdiI0QHr9yv5T) | 2:14 |
 | 37 | [Despacito](https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:51 |
 | 38 | [Ya Me Enteré](https://open.spotify.com/track/1RN4yYQ4V5Ve7kamJ6lSJO) | [Carolina García](https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC) | [Ya Me Enteré](https://open.spotify.com/album/4kG8FeoHeQzKN2HSllmYGg) | 3:09 |
-| 39 | [Lucha De Gigantes](https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Lucha De Gigantes](https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl) | 3:46 |
-| 40 | [Robarte Un Beso](https://open.spotify.com/track/7zVxnTvFPi73poTc6oCC4l) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Robarte Un Beso](https://open.spotify.com/album/0UvK1yW7NvyThMKcTxDc6L) | 2:53 |
-| 41 | [Adoro](https://open.spotify.com/track/1QrO86DNflLQ0Y958UtvT8) | [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye) | [Adoro](https://open.spotify.com/album/7MLPNcVin60lWrssZhKuMV) | 3:16 |
-| 42 | [Rojo](https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Rojo](https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF) | 2:22 |
+| 39 | [Robarte Un Beso](https://open.spotify.com/track/7zVxnTvFPi73poTc6oCC4l) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Robarte Un Beso](https://open.spotify.com/album/0UvK1yW7NvyThMKcTxDc6L) | 2:53 |
+| 40 | [Lucha De Gigantes](https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Lucha De Gigantes](https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl) | 3:46 |
+| 41 | [Rojo](https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Rojo](https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF) | 2:22 |
+| 42 | [Adoro](https://open.spotify.com/track/1QrO86DNflLQ0Y958UtvT8) | [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye) | [Adoro](https://open.spotify.com/album/7MLPNcVin60lWrssZhKuMV) | 3:16 |
 | 43 | [Qué Maldición](https://open.spotify.com/track/3nzQ1oTlpb03DGy5CYk9yT) | [Miky Mendozza](https://open.spotify.com/artist/7iJNYh5D6FchEeryIG87vL), [Diego Amoz](https://open.spotify.com/artist/40eNb3QTIcFoH0ga3LTnlN) | [Qué Maldición](https://open.spotify.com/album/2slx4sczbHiZEFALNFW71z) | 2:05 |
-| 44 | [Vaina Loca](https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM) | [JayBe](https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds) | [Vaina Loca](https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS) | 1:36 |
-| 45 | [Caramelo](https://open.spotify.com/track/19MixFiWncCkjVnqmqROdC) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s) | [Caramelo](https://open.spotify.com/album/0FKjMfSsbhKuvZUlqiobpK) | 3:09 |
+| 44 | [Caramelo](https://open.spotify.com/track/19MixFiWncCkjVnqmqROdC) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s) | [Caramelo](https://open.spotify.com/album/0FKjMfSsbhKuvZUlqiobpK) | 3:09 |
+| 45 | [Vaina Loca](https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM) | [JayBe](https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds) | [Vaina Loca](https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS) | 1:36 |
 | 46 | [Amor Tumbado](https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Amor Tumbado](https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n) | 2:28 |
 | 47 | [Eres](https://open.spotify.com/track/3bvmQ44nZ2716I9Snc2rh1) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Eres](https://open.spotify.com/album/6TLzzUALIChbWMAvR95Ktg) | 3:33 |
 | 48 | [Otra Vez](https://open.spotify.com/track/7hwhLO6kskiavCM8Xi6bpQ) | [Panacea Project](https://open.spotify.com/artist/2JPjEf17xC7Rp1lMpDZv7c) | [Panacea Session, Vol\. 2](https://open.spotify.com/album/0vVu8iHQmGTkfc0YwwtA0n) | 3:36 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 58 | [Andar Conmigo](https://open.spotify.com/track/5usKouO9EPZnbzztaZd9jw) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Andar Conmigo](https://open.spotify.com/album/5ItestUQ48ki9aagEmthYn) | 3:58 |
 | 59 | [Calma](https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR) | [Ledes Diaz](https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV) | [Calma](https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql) | 3:05 |
 | 60 | [Mis ojos lloran por ti](https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Mis ojos lloran por ti](https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp) | 3:50 |
-| 61 | [Solamente una Vez](https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Extrañándote en Cuarentena](https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO) | 2:11 |
-| 62 | [La Bicicleta](https://open.spotify.com/track/5f3XhfWGMXQ4YTdqbmGLsZ) | [Panacea Project](https://open.spotify.com/artist/2JPjEf17xC7Rp1lMpDZv7c) | [Panacea Sessions, Vol\. 1](https://open.spotify.com/album/2kDtNPi673aOjPw9Mn6iEt) | 3:47 |
-| 63 | [Drume Negrita \- En Vivo Desde Fonobox](https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Drume Negrita \(Desde Fonobox\) \[En Vivo\]](https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r) | 2:44 |
-| 64 | [Mamita \- Acústica](https://open.spotify.com/track/0L8h7Eo1LksZrT3vu4eRES) | [Carlo Gless](https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm) | [Mamita \(Acústica\)](https://open.spotify.com/album/77TsvmLS36GDZBQuZM4asl) | 2:22 |
+| 61 | [La Bicicleta](https://open.spotify.com/track/5f3XhfWGMXQ4YTdqbmGLsZ) | [Panacea Project](https://open.spotify.com/artist/2JPjEf17xC7Rp1lMpDZv7c) | [Panacea Sessions, Vol\. 1](https://open.spotify.com/album/2kDtNPi673aOjPw9Mn6iEt) | 3:47 |
+| 62 | [Solamente una Vez](https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Extrañándote en Cuarentena](https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO) | 2:11 |
+| 63 | [Mamita \- Acústica](https://open.spotify.com/track/0L8h7Eo1LksZrT3vu4eRES) | [Carlo Gless](https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm) | [Mamita \(Acústica\)](https://open.spotify.com/album/77TsvmLS36GDZBQuZM4asl) | 2:22 |
+| 64 | [Drume Negrita \- En Vivo Desde Fonobox](https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Drume Negrita \(Desde Fonobox\) \[En Vivo\]](https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r) | 2:44 |
 | 65 | [Fin](https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Fin](https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm) | 3:36 |
 | 66 | [Con la miel en los labios](https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og) | [Carolina García](https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC) | [Con la miel en los labios](https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi) | 3:30 |
 | 67 | [La Noche De Anoche](https://open.spotify.com/track/0x6aRKrxUvPL5ktixcva5j) | [Perdita Cazalla](https://open.spotify.com/artist/2CP0Db8PTDxSjeXx23ETBn) | [La Noche De Anoche](https://open.spotify.com/album/6kvjN0eOp3iixUU8FWMyYh) | 2:53 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 76 | [Azucar Amargo](https://open.spotify.com/track/0246cwlPqmGNwUA6M4LFyU) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Azucar Amargo](https://open.spotify.com/album/3GiopNRMrlO7GRvbPrt7pL) | 4:30 |
 | 77 | [Nube Viajera](https://open.spotify.com/track/3lpNkHGruZDaedfYv9ehLt) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Nube Viajera](https://open.spotify.com/album/4RgJgnhWLDN7bWCWxgcigD) | 3:50 |
 | 78 | [Cien Años](https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Cien Años](https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru) | 3:25 |
-| 79 | [Soñe](https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr) | [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Soñé](https://open.spotify.com/album/3zGPOSwv1krOcKkv8QgpBs) | 2:29 |
+| 79 | [Asi Es La Vida](https://open.spotify.com/track/4A6G2xNppWG9MI0kmBMraX) | [Pablo Rojas](https://open.spotify.com/artist/3eZMc1qqbM4whaMy2X14nx) | [Asi Es La Vida](https://open.spotify.com/album/4EYa4M7e4FYqBqsJFwt3Vi) | 4:44 |
 | 80 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/4gICYVqe0drMCOVgj0OeTA) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/album/0DX0y2NJhzvD9igiBgbzTg) | 4:10 |
 
-Snapshot ID: `MCxkNDM2MWZmY2IxMzJjNGExODJjNzA4YThhOGYzM2ZmMGJmODM2YmY0`
+Snapshot ID: `MCw1ZWVjOWFjM2RhMmI5Yjc0MDk1YTRiNDk4YjFjYmEyMzkzZjVmMDg1`

@@ -4,7 +4,7 @@
 
 > for hiking through nature's playground 🏔️
 
-172 songs - 10 hr 31 min
+173 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Rhododendron](https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:48 | 2023-05-12 |  |
 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 | 2023-05-12 |  |
 | [Salt Lake City](https://open.spotify.com/track/0N8Q3j9oBGUDNckTtQSrJX) | [Motherfolk](https://open.spotify.com/artist/70fUpxdAr6t0LJw3xJmMhm) | [Motherfolk](https://open.spotify.com/album/2ZicDhbjIxmcso5jKa6skb) | 3:51 | 2023-05-12 |  |
+| [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1vhbThkFnqAHbZp0fEjXE4) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Boys Of Faith](https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY) | 3:34 | 2023-09-22 |  |
 | [Saratoga](https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Saratoga](https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr) | 3:50 | 2023-05-12 |  |
 | [Saturday Sun](https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:34 | 2023-05-12 |  |
 | [Sedona](https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh) | 3:59 | 2023-05-12 |  |

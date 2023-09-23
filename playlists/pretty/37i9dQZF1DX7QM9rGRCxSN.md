@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Estrella del Sol en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,624 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,653 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 31 | [Como Rei Ayanami](https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n) | [Dan Dan Dero](https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR) | [Como Rei Ayanami](https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW) | 2:57 |
 | 32 | [The Sound of all Things](https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Balance](https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp) | 6:21 |
 | 33 | [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 |
-| 34 | [S.O.S.](https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [S.O.S.](https://open.spotify.com/album/4RvKYGUHWX2X38wce7NufG) | 2:57 |
-| 35 | [Efervecencia](https://open.spotify.com/track/2YYyNYvGBlobj2UjpWGcNo) | [Adelaida](https://open.spotify.com/artist/5ugKDsPNjtGyV7WxD7nTYS) | [Animita](https://open.spotify.com/album/2gz1tfqRhfFjD4noTtqKUs) | 4:25 |
-| 36 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 |
+| 34 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 |
+| 35 | [S.O.S.](https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [S.O.S.](https://open.spotify.com/album/4RvKYGUHWX2X38wce7NufG) | 2:57 |
+| 36 | [Efervecencia](https://open.spotify.com/track/2YYyNYvGBlobj2UjpWGcNo) | [Adelaida](https://open.spotify.com/artist/5ugKDsPNjtGyV7WxD7nTYS) | [Animita](https://open.spotify.com/album/2gz1tfqRhfFjD4noTtqKUs) | 4:25 |
 | 37 | [Amor de Furgoneta](https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Amor de Furgoneta](https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy) | 3:12 |
 | 38 | [Morning Sun](https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv), [Z.A.M.P.A](https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2) | [Morning Sun](https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh) | 4:27 |
 | 39 | [Estrella Fugaz](https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG) | [Estrella Fugaz](https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 49 | [Poco a Poco](https://open.spotify.com/track/6PkkpizxjK7tcPU2uiZmiX) | [Entre Desiertos](https://open.spotify.com/artist/6EfZlD0Lw7RsNhDMlHH4YL) | [Entre Desiertos EP](https://open.spotify.com/album/3Qx9fOPVUCHp3CT42Jbvlw) | 5:02 |
 | 50 | [reina de primavera](https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [reina de primavera](https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y) | 4:05 |
 
-Snapshot ID: `MCw2NjlhZmVmNjIxYzUyZDI5MmJlOGI5NWRkZmJiOTgzNDg3ZWEzNjE2`
+Snapshot ID: `MCxlZmI2YTY2MGVlZGNkMTljMmQ1ZTA4MzFiNTU1ZGE2NzMxY2ZmNTRj`

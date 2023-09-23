@@ -1,12 +1,12 @@
 {
   "description": "Get ready to these songs that'll make you feel like you're the QUEEEEN! \nCover : Pooja Hegde",
-  "num_followers": 40847,
+  "num_followers": 40880,
   "original_name": "#GRWM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDA2Yzc4YWRlZTkyMTY3MjcwMzVhYWM1MjkwNDNjMDRiMTAwZjhk",
+  "snapshot_id": "MCw5YWE3NzFkNWM1NGEzNzI0YTkzMzcyNjUyNWE4ZjE5NzVlYjk3NGZj",
   "tracks": [
     {
       "added_at": "2022-10-13 05:39:22",
@@ -748,8 +748,12 @@
       },
       "artists": [
         {
-          "name": "Shankar Mahadevan, Gopika poornima",
-          "url": "https://open.spotify.com/artist/2XvK1qhSh7sTup7WKTrnoi"
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Gopika Poornima",
+          "url": "https://open.spotify.com/artist/5Rj7UMjxB4u5OZnS5c1rXF"
         }
       ],
       "duration_ms": 291188,

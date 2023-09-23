@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9JGJTJ2WFXi.md) - [plain]
 
 > Meditate with the frequency of the Root Chakra, used by many to help with anxiety and negativity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,853 likes - 94 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,955 likes - 94 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9JGJTJ2WFXi.md) - [plain]
 | 93 | [Root Chakra \- Mother Earth](https://open.spotify.com/track/3ScW1TYIeg9IDKggN5QIvC) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO), [Deap Sleap](https://open.spotify.com/artist/0tZWU1MM1FlrqgDNeDhkGr), [Chakra Sound Bath](https://open.spotify.com/artist/2tSAYkLY0MwMYcQ7uVG9jM) | [Root Chakra \(Muladhara\)](https://open.spotify.com/album/4PucAXpx1vg4CKzSgQLSWV) | 1:00 |
 | 94 | [396 Hz Dormant](https://open.spotify.com/track/2plZlVBY52NKgrgSBXxVMc) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [396 Hz Soundscapes for Mindfulness](https://open.spotify.com/album/3iA0cOUPyMJDONnUYlTLsQ) | 2:52 |
 
-Snapshot ID: `MCwzZTZkNDg3NzFkZGY1OTk0OWI1OGM1YzcwNjY0OWE1ZjM2MWVmY2Nk`
+Snapshot ID: `MCwxZjU3NDI0MzYxOGExZmY0YjdkNDQ2Zjk3OTdjNjVkYTZkMDk0ZDcw`

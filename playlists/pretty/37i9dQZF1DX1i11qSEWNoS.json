@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 499505,
+  "num_followers": 500111,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGZmNDk2MGNkZTkwNzM0NGVhMzljYmVhODVmMTc4NjczMTJjNjkz",
+  "snapshot_id": "MCxlNDM0OGE1NzY2ZDBjMjI5OWMyMzRiOWI2Y2E0Y2I0YjU0YjhhNmI2",
   "tracks": [
     {
       "added_at": "2023-09-15 11:53:19",
@@ -311,26 +311,6 @@
     {
       "added_at": "2023-09-15 11:53:19",
       "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        }
-      ],
-      "duration_ms": 157444,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
-    },
-    {
-      "added_at": "2023-09-15 11:53:19",
-      "album": {
         "name": "EWIGKEIT (REMIX)",
         "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 137647,
       "name": "EWIGKEIT - REMIX",
       "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
+    },
+    {
+      "added_at": "2023-09-15 11:53:19",
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "duration_ms": 157444,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
     },
     {
       "added_at": "2023-09-15 11:53:19",
@@ -939,18 +939,30 @@
     {
       "added_at": "2023-09-15 11:53:19",
       "album": {
-        "name": "Dunes",
-        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+        "name": "Sleepless",
+        "url": "https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9"
       },
       "artists": [
         {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "PaulWetz",
+          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+        },
+        {
+          "name": "Nu Aspect",
+          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
+        },
+        {
+          "name": "yuma.",
+          "url": "https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0"
         }
       ],
-      "duration_ms": 184752,
-      "name": "Typa Girl",
-      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
+      "duration_ms": 165263,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH"
     },
     {
       "added_at": "2023-09-15 11:53:19",
@@ -979,30 +991,18 @@
     {
       "added_at": "2023-09-15 11:53:19",
       "album": {
-        "name": "Sleepless",
-        "url": "https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9"
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        },
-        {
-          "name": "PaulWetz",
-          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
-        },
-        {
-          "name": "Nu Aspect",
-          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
-        },
-        {
-          "name": "yuma.",
-          "url": "https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0"
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
         }
       ],
-      "duration_ms": 165263,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH"
+      "duration_ms": 184752,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
     },
     {
       "added_at": "2023-09-15 11:53:19",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-09-15 11:53:19",
       "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 147680,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz"
+    },
+    {
+      "added_at": "2023-09-15 11:53:19",
+      "album": {
         "name": "In Liebe, Ion",
         "url": "https://open.spotify.com/album/4mrRHYvj9Ae90O8gPZLPtE"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 142400,
       "name": "Powerade",
       "url": "https://open.spotify.com/track/35DkXhxqTMiQB582tfjowU"
-    },
-    {
-      "added_at": "2023-09-15 11:53:19",
-      "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 147680,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz"
     },
     {
       "added_at": "2023-09-15 11:53:19",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2023-09-15 11:53:19",
       "album": {
-        "name": "Auf die Party",
-        "url": "https://open.spotify.com/album/57Mo2UNrJR14lhdZU5WXbt"
-      },
-      "artists": [
-        {
-          "name": "badm\u00f3mzjay",
-          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
-        },
-        {
-          "name": "Domiziana",
-          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
-        }
-      ],
-      "duration_ms": 164199,
-      "name": "Auf die Party",
-      "url": "https://open.spotify.com/track/5qDzKUTHCUiKhewBa9STsE"
-    },
-    {
-      "added_at": "2023-09-15 11:53:19",
-      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
+    },
+    {
+      "added_at": "2023-09-15 11:53:19",
+      "album": {
+        "name": "Auf die Party",
+        "url": "https://open.spotify.com/album/57Mo2UNrJR14lhdZU5WXbt"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        },
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        }
+      ],
+      "duration_ms": 164199,
+      "name": "Auf die Party",
+      "url": "https://open.spotify.com/track/5qDzKUTHCUiKhewBa9STsE"
     },
     {
       "added_at": "2023-09-15 11:53:19",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-09-15 11:53:19",
       "album": {
-        "name": "Turn All The Lights On",
-        "url": "https://open.spotify.com/album/2So8QRALJzGvefJp86htBu"
-      },
-      "artists": [
-        {
-          "name": "Valexus",
-          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
-        }
-      ],
-      "duration_ms": 137569,
-      "name": "Turn All The Lights On",
-      "url": "https://open.spotify.com/track/3AxoLYBDzx5hTCSJR2W4i9"
-    },
-    {
-      "added_at": "2023-09-15 11:53:19",
-      "album": {
         "name": "Get Shaky",
         "url": "https://open.spotify.com/album/11Xrum0ysuitc8vtBrlmQM"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 237194,
       "name": "Get Shaky",
       "url": "https://open.spotify.com/track/267DliVFe67u89luc9v6UD"
+    },
+    {
+      "added_at": "2023-09-15 11:53:19",
+      "album": {
+        "name": "Turn All The Lights On",
+        "url": "https://open.spotify.com/album/2So8QRALJzGvefJp86htBu"
+      },
+      "artists": [
+        {
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
+        }
+      ],
+      "duration_ms": 137569,
+      "name": "Turn All The Lights On",
+      "url": "https://open.spotify.com/track/3AxoLYBDzx5hTCSJR2W4i9"
     },
     {
       "added_at": "2023-09-15 11:53:19",
@@ -1687,6 +1687,26 @@
     {
       "added_at": "2023-09-15 11:53:19",
       "album": {
+        "name": "Say It Right",
+        "url": "https://open.spotify.com/album/7bcU3xaRbfbL62Gg6xj8ZH"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        },
+        {
+          "name": "Enny-Mae",
+          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
+        }
+      ],
+      "duration_ms": 165209,
+      "name": "Say It Right",
+      "url": "https://open.spotify.com/track/7v9PgkhtIlivxuFXO1Dl1V"
+    },
+    {
+      "added_at": "2023-09-15 11:53:19",
+      "album": {
         "name": "WILDES DING",
         "url": "https://open.spotify.com/album/6nnBMvIedNf19zjzk2KGhF"
       },
@@ -1703,26 +1723,6 @@
       "duration_ms": 136204,
       "name": "WILDES DING",
       "url": "https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk"
-    },
-    {
-      "added_at": "2023-09-15 11:53:19",
-      "album": {
-        "name": "S&M (With Chacel) [HYPERTECHNO Edit]",
-        "url": "https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK"
-      },
-      "artists": [
-        {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
-        },
-        {
-          "name": "Chacel",
-          "url": "https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep"
-        }
-      ],
-      "duration_ms": 178614,
-      "name": "S&M (With Chacel) - HYPERTECHNO Edit",
-      "url": "https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM"
     },
     {
       "added_at": "2023-09-15 11:53:19",

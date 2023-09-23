@@ -4,7 +4,7 @@
 
 > ¡Ska 100% Mexicano, círculos de paz y baile! Out Of Control Army en portada.
 
-181 songs - 10 hr 54 min
+182 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Como Un Sol](https://open.spotify.com/track/0Zd2UPtm7sy0nQd2U6kRoz) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 4:47 | 2022-03-18 | 2023-05-20 |
 | [Condenado a Muerte](https://open.spotify.com/track/3p3NU6zPzsAxYSwDufIjWL) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Venga la Sentencia](https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd) | 3:29 | 2022-03-18 | 2023-05-20 |
 | [Corazón](https://open.spotify.com/track/6LY0WEkj5dMIE1mE7wUAuY) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Corazón](https://open.spotify.com/album/2epcEzP3HRjeb9nVjWVpbw) | 3:45 | 2022-08-13 |  |
+| [Crazy Life](https://open.spotify.com/track/6HetWMoIuWJpTRuhk82x5U) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Crazy Life](https://open.spotify.com/album/3N5BvC9o2V2huzPmIxRoI4) | 3:33 | 2023-09-22 |  |
 | [Criminal](https://open.spotify.com/track/0f9SJZoJiPn2a1p8RMOx8K) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk) | [Criminal](https://open.spotify.com/album/7iYLo31mBnrsdVf9iPMUm6) | 3:11 | 2023-08-31 |  |
 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 | 2022-03-18 | 2023-05-06 |
 | [Cómo Te Extraño](https://open.spotify.com/track/6nQE34XyP1UwtvaNoqBsyR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Cómo Te Extraño](https://open.spotify.com/album/1RSFqw2Te37UhUaXeUSxtm) | 4:39 | 2022-03-18 | 2023-02-04 |
@@ -77,7 +78,7 @@
 | [Impermeable](https://open.spotify.com/track/0SrYQV1yFWPMU4i395FUx8) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl), [Bibi Marín](https://open.spotify.com/artist/2WUDNYnIWyyjzPLcXoTKql) | [Impermeable](https://open.spotify.com/album/2Ep365xchKBZC0RtLSKBjw) | 3:54 | 2023-04-28 |  |
 | [Jamaica Ska](https://open.spotify.com/track/1dHHOMzAF9aFj0tYrX05XB) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Jamaica Ska](https://open.spotify.com/album/2SDfPPAvj9kH5JkDNWz1sH) | 2:15 | 2022-03-18 | 2022-07-29 |
 | [Jamaica Ska](https://open.spotify.com/track/0TC4bsmObl4K0tbI5IFcTD) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Jamaica Ska](https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq) | 2:15 | 2022-03-18 |  |
-| [Jueves](https://open.spotify.com/track/1A2UpNvD4mDtfDxRwy32EY) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE), [Ruzzo Móran](https://open.spotify.com/artist/0RwRXTmjAzNtDsNoVmGHPr) | [Marcando El Ritmo](https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE) | 3:38 | 2022-03-18 |  |
+| [Jueves](https://open.spotify.com/track/1A2UpNvD4mDtfDxRwy32EY) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE), [Ruzzo Móran](https://open.spotify.com/artist/0RwRXTmjAzNtDsNoVmGHPr) | [Marcando El Ritmo](https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE) | 3:38 | 2022-03-18 | 2023-09-23 |
 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 | 2022-03-18 |  |
 | [La Carencia](https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 3:33 | 2022-03-18 |  |
 | [La Carencia](https://open.spotify.com/track/0M1qzP0f8u3N4OlJk0H2ly) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/6che3OFwfIG8KzJQ7IkwXc) | 3:34 | 2022-03-18 | 2022-08-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 
 > ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Carlos & José en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,997 likes - 125 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,614 likes - 125 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 95 | [Ambicion](https://open.spotify.com/track/2ejgN52DP0gNCYXoGeEh6H) | [Los Humildes](https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm) | [Solo Lo Nuestro](https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM) | 3:18 |
 | 96 | [Colgado De Un Árbol](https://open.spotify.com/track/2j5X89pGdAoI2OoXffzeqt) | [Los terribles Del Norte](https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT) | [Colgado De Un Árbol \(Remasterizado\)](https://open.spotify.com/album/4h1FfxVfSqI7HI8ZHaoZJH) | 3:39 |
 | 97 | [Puño De Tierra Aka Un Puño De Tierra](https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Puño De Tierra](https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5) | 3:47 |
-| 98 | [Me Caí De La Nube](https://open.spotify.com/track/1ipFQkkkgRJ9HWu5zGzMuv) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/1X3ZRD2RYJE4HWDP1V9dkJ) | 3:06 |
-| 99 | [Honrada](https://open.spotify.com/track/4IiuCoXvWHo8uoxvCYRJbD) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Los Canelos 17 Exitos](https://open.spotify.com/album/10NmPHQzeBxZf3ev0mNefY) | 2:36 |
+| 98 | [Honrada](https://open.spotify.com/track/4IiuCoXvWHo8uoxvCYRJbD) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Los Canelos 17 Exitos](https://open.spotify.com/album/10NmPHQzeBxZf3ev0mNefY) | 2:36 |
+| 99 | [Me Caí De La Nube](https://open.spotify.com/track/1ipFQkkkgRJ9HWu5zGzMuv) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/1X3ZRD2RYJE4HWDP1V9dkJ) | 3:06 |
 | 100 | [Miel Amarga](https://open.spotify.com/track/5yRE5GSEa7cg1ApudYMXiS) | [Los Tremendos Gavilanes](https://open.spotify.com/artist/61Wbko5X4nwMtHOWOcvWiw) | [20 Súper Éxitos, Volumen 1](https://open.spotify.com/album/6Q4i6Sj2iURRD8jiU7n5Ge) | 2:19 |
 | 101 | [Alta Y Delgadita](https://open.spotify.com/track/2oF3tfZb9B0xS9ilXzc65D) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [30 Primeros Exitos](https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf) | 3:05 |
 | 102 | [Ojitos De Golondrina](https://open.spotify.com/track/0IaCGBaevs1R7EMagCf8d5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño](https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em) | 2:25 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 124 | [Bajo Mil Llaves](https://open.spotify.com/track/5sbfCd8LLNJtP4MeSA1JyX) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 2:26 |
 | 125 | [Esta Noche Tu Vendrás](https://open.spotify.com/track/5DeI2kjUIdG1uvNQP2feJR) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 3:06 |
 
-Snapshot ID: `MCxhYjFjODZmZmNmZWUyNmI3N2NlY2Y5NmE2YTIwYzYyNjdkNTg3ZGI3`
+Snapshot ID: `MCw3MWJiMGE1NDY3NDI3ZDkzMGY5ZmRmOTNlNjhjODE0MmZmZDQwNDZk`

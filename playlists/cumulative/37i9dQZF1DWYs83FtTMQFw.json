@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265360,
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
+    },
+    {
+      "album": {
         "name": "AIN'T GONNA ANSWER",
         "url": "https://open.spotify.com/album/55HRw5hcRFhf3uSljPqZqA"
       },
@@ -1412,7 +1430,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 277043,
       "name": "Attention",
       "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
@@ -2248,7 +2266,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 143042,
       "name": "Big 7",
       "url": "https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc"
@@ -3582,7 +3600,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 222640,
       "name": "Cheat On Me (feat. Dave)",
       "url": "https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL"
@@ -3854,6 +3872,24 @@
       "duration_ms": 236795,
       "name": "Circo Loco",
       "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
+    },
+    {
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153346,
+      "name": "City Boys",
+      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
     },
     {
       "album": {
@@ -4429,6 +4465,24 @@
     },
     {
       "album": {
+        "name": "Dead or Alive",
+        "url": "https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122487,
+      "name": "Dead or Alive",
+      "url": "https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH"
+    },
+    {
+      "album": {
         "name": "Death n' Taxes",
         "url": "https://open.spotify.com/album/5hjj4vU1h3ItQCUMZdkEzE"
       },
@@ -4556,6 +4610,24 @@
       "duration_ms": 161636,
       "name": "Detox",
       "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
+    },
+    {
+      "album": {
+        "name": "B4 BOA",
+        "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177893,
+      "name": "Did Me Wrong",
+      "url": "https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d"
     },
     {
       "album": {
@@ -7568,6 +7640,24 @@
       "duration_ms": 106511,
       "name": "Grown Man",
       "url": "https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS"
+    },
+    {
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176840,
+      "name": "Gun",
+      "url": "https://open.spotify.com/track/15sNe8FD178zMsVz6ug0AS"
     },
     {
       "album": {
@@ -11970,7 +12060,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 138946,
       "name": "Need Me",
       "url": "https://open.spotify.com/track/7a636g0dl8a487foiAcoCM"
@@ -12478,7 +12568,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 198904,
       "name": "Not So Bad (Leans Gone Cold)",
       "url": "https://open.spotify.com/track/4qZLvqy5Wg4sgQ9gKusb1B"
@@ -14082,7 +14172,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
@@ -18137,6 +18227,32 @@
     },
     {
       "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353754,
+      "name": "TELEKINESIS (feat. SZA & Future)",
+      "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
+    },
+    {
+      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -18298,7 +18414,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 259545,
       "name": "Thang For You (feat. NoCap)",
       "url": "https://open.spotify.com/track/39fKVWP7D9qAmkM8qjRQoC"
@@ -19995,6 +20111,24 @@
     },
     {
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "album": {
         "name": "Me vs. Myself",
         "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
       },
@@ -20160,7 +20294,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 143692,
       "name": "WELCOME 2 MY STRIP (Feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya"
@@ -20258,7 +20392,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 189824,
       "name": "What It Is (Solo Version)",
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,978 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,979 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 93 | [No Other Love](https://open.spotify.com/track/6S6gRg1USprs9773Ew66ff) | [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [Fearless](https://open.spotify.com/album/3Da7uQ0supGljmcN9WERGY) | 3:27 |
 | 94 | [Light of Your Grace](https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Light of Your Grace](https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD) | 3:09 |
 | 95 | [HAPPY](https://open.spotify.com/track/1bJk8jsglnHtLvUMrOV6qR) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [HAPPY](https://open.spotify.com/album/0kjySvgUUcHW64OxmHPSWj) | 2:04 |
-| 96 | [Give It All](https://open.spotify.com/track/1jeTXQnC2f5rpY4T01MrYa) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:04 |
-| 97 | [The One](https://open.spotify.com/track/0YohiWDcWliS7bDrnjlXHp) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6), [Licy\-Be](https://open.spotify.com/artist/7m7GQd520oNXZWZzcYDdVA) | [The One](https://open.spotify.com/album/0gj39YFZRHyyle5Z19z5bx) | 2:44 |
+| 96 | [The One](https://open.spotify.com/track/0YohiWDcWliS7bDrnjlXHp) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6), [Licy\-Be](https://open.spotify.com/artist/7m7GQd520oNXZWZzcYDdVA) | [The One](https://open.spotify.com/album/0gj39YFZRHyyle5Z19z5bx) | 2:44 |
+| 97 | [Give It All](https://open.spotify.com/track/1jeTXQnC2f5rpY4T01MrYa) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:04 |
 | 98 | [Paid For It](https://open.spotify.com/track/012SkEI8fzg3pKAKNygn5c) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7), [Brianna Catrice](https://open.spotify.com/artist/2zT458SceFHdoOiokYSleQ) | [The Divine Storm](https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe) | 3:01 |
 | 99 | [Do or Die \(feat\. Kinn\)](https://open.spotify.com/track/3Mqp9pFEaLqMdR3zouGWOJ) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Kinn](https://open.spotify.com/artist/09qJ9dcanr8ZWQpnWdkViV) | [Do or Die \(feat\. Kinn\)](https://open.spotify.com/album/0QDZHhQvQ9JmvPPm2vampA) | 3:54 |
 | 100 | [Whatever It Takes](https://open.spotify.com/track/7dZSnaAGuBSgi69OWCTQcL) | [Manwell](https://open.spotify.com/artist/3HWMxHfbtrP3H39BnsquW8), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Whatever It Takes](https://open.spotify.com/album/6zSIkly50OdBZGydPYA9JR) | 3:29 |
 
-Snapshot ID: `MCw4OWJmNzJhZWU0ZGVhNzc3ZGI1NTBkODQyNjk3ODM0OWYyYmNmYTZm`
+Snapshot ID: `MCw3ZmRjNzZlZGVlMDE1OTdiZjA0MWEwODdjZTMwMDQ2ZjhjM2E2ZGZj`

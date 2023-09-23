@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Ndarboy Genk
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,371 likes - 85 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,566 likes - 85 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 84 | [angin dalu](https://open.spotify.com/track/658ox296pj18QSjzTBGWWy) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [angin dalu](https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs) | 4:19 |
 | 85 | [Top Topan](https://open.spotify.com/track/5pjJmCYsCzg2xRJHDq18kq) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Top Topan](https://open.spotify.com/album/6VB2l8Dz7ozkpgDAw42ehB) | 4:26 |
 
-Snapshot ID: `MCxlOTI0MDFiZmUyOTIxMWJmOWY3Zjg0ZDIyMzBjNDgyMjE2ZDhkNzYx`
+Snapshot ID: `MCwxZGIxY2IyY2Q5ZTZmYjZhZTY3NjVkZDIwZDQyMTRiMTlmYjhjMGZm`

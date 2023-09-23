@@ -4,7 +4,7 @@
 
 > Os hits do rock internacional e nacional estão reunidos nesta playlist\. Foto: Eddie Van Halen.
 
-106 songs - 7 hr 33 min
+107 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2022-11-11 |  |
 | [Bitter Taste](https://open.spotify.com/track/4gS0C89Jlx8Zx4853NYRLY) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Bitter Taste](https://open.spotify.com/album/5FW8hrEzkgu2MXf1Dy6yjF) | 4:26 | 2022-11-11 |  |
 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 | 2022-11-11 |  |
+| [BLACK MOONLIGHT](https://open.spotify.com/track/6Puhv2Iw9K8A3rkpxr4Dsz) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [BLACK MOONLIGHT](https://open.spotify.com/album/7LVCjmDfqcVAWg74kQ0Qwr) | 3:06 | 2023-09-22 |  |
 | [Bohemian Rhapsody \- Remastered 2011](https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Remastered Version\)](https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr) | 5:54 | 2022-11-11 |  |
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2022-11-11 |  |
 | [Caleidoscópio \- Ao Vivo](https://open.spotify.com/track/0EH1ecgo60jEA3mzeF3XqL) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Acústico \(Ao Vivo / Remastered\)](https://open.spotify.com/album/0TcjNekoKeMNRoKZYestuT) | 4:16 | 2022-11-11 |  |
@@ -49,7 +50,7 @@
 | [Fake Plastic Trees](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:50 | 2022-11-11 |  |
 | [Fall to Pieces](https://open.spotify.com/track/2amzrvbxYiq8AxGntIiw5V) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB) | 4:31 | 2022-11-11 |  |
 | [Flores](https://open.spotify.com/track/1bYgdEpjLxA13iXbz2VifL) | [Ira!](https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7) | [Rock In Rio 30 Anos](https://open.spotify.com/album/0qlkIPL40ciiyswW7ezZO5) | 3:44 | 2022-11-11 |  |
-| [Forever's Not Enough \- Edit](https://open.spotify.com/track/6ZUpIedN0WXOx0yhS433GW) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [Power to Play \(Deluxe\)](https://open.spotify.com/album/2UbVeYyraCseKNgBgVNl9K) | 3:36 | 2023-07-28 |  |
+| [Forever's Not Enough \- Edit](https://open.spotify.com/track/6ZUpIedN0WXOx0yhS433GW) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [Power to Play \(Deluxe\)](https://open.spotify.com/album/2UbVeYyraCseKNgBgVNl9K) | 3:36 | 2023-07-28 | 2023-09-23 |
 | [Foxey Lady \- Live In Maui, 1970](https://open.spotify.com/track/7blY9jGplyzTiS2qltyfFe) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live In Maui](https://open.spotify.com/album/0LfCx4srto1jxBVvW4uqJy) | 4:40 | 2022-11-11 |  |
 | [Free Bird](https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 9:07 | 2022-11-11 |  |
 | [Hardwired \- Live In São Paulo, Brazil \- March 25th, 2017](https://open.spotify.com/track/3Pj6JshAvbzZeg1xdidsGA) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Live In Brazil \(1993 – 2017\)](https://open.spotify.com/album/2zhgGiT3sNBK2rbrC7JcRW) | 3:53 | 2022-11-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Cover: Appino
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,730 likes - 66 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,749 likes - 66 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,26 +12,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 2 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 |
 | 3 | [C'era ancora il sole](https://open.spotify.com/track/5pSnuu6iJvp8yluC3ZIpqt) | [Giorgio Canali](https://open.spotify.com/artist/5Q1J5NzWPdZcj26K5DqIDQ), [Rossofuoco](https://open.spotify.com/artist/1KZdpVFl5PG1xZ213r7aFO) | [C'era ancora il sole](https://open.spotify.com/album/4CjrIQTplW9YXFlIdtMyul) | 3:20 |
 | 4 | [Prodotto tipico](https://open.spotify.com/track/1OwwiFx2Y3bYnA1k2RRsHx) | [Liquami](https://open.spotify.com/artist/7wyIRmUWGF1G4b0E2ZuHAa) | [LIQUAMI](https://open.spotify.com/album/7AMCXVZbtpJHXEB9LT7dJa) | 3:03 |
-| 5 | [Insynthesi](https://open.spotify.com/track/5tJkH7zA6RcXzu0Bv0Lea7) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Insynthesi](https://open.spotify.com/album/3BpyoxJ6tlbZyKZJRIMp6r) | 3:35 |
-| 6 | [Verdena](https://open.spotify.com/track/3LTOhf5vn7ORLNvnPm72nU) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU) | [Nessuno vuole essere mio amico](https://open.spotify.com/album/1slYL7JoFfTB9OcBFK65hE) | 3:07 |
-| 7 | [Sei in un paese meraviglioso](https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Sei in un paese meraviglioso](https://open.spotify.com/album/1xKqyu6wKTq616wD3zxLuW) | 3:20 |
-| 8 | [Albanera](https://open.spotify.com/track/5pZsX5r10LBZtQ0H1YbTF8) | [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [Albanera](https://open.spotify.com/album/5Y8ADPQC0xiR1gtxNYqNLX) | 4:01 |
-| 9 | [Come volevi essere](https://open.spotify.com/track/6Cvod0V1TVofdbAUyNLhYb) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Come volevi essere](https://open.spotify.com/album/16bYjHqs1R2worFGdbzSWi) | 3:40 |
-| 10 | [Serenissima Malcontenta](https://open.spotify.com/track/2psFcaO2uKwA4PXoYyJI7Z) | [Bengala Fire](https://open.spotify.com/artist/5B516AbC2BhNio4qvbDdNb) | [Serenissima Malcontenta](https://open.spotify.com/album/3iv1zXS4ks9OsT3uwJPHnW) | 4:22 |
-| 11 | [Mamma e papà](https://open.spotify.com/track/0uCQY7Psi0dql2N0zAEiTl) | [Marco Fracasia](https://open.spotify.com/artist/5cBxKy6si4GgCAJKaoYBrb) | [Mamma e papà](https://open.spotify.com/album/2aPx75NgtEtTVbZvAzaLoZ) | 4:31 |
-| 12 | [Worth it or not?](https://open.spotify.com/track/6WmS99KTxCKzToaL05Fxn4) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [Worth it or not?](https://open.spotify.com/album/17h1MHmA73KWc7zhW6kSBb) | 1:49 |
-| 13 | [Fade Away](https://open.spotify.com/track/4DnzS5FpDsnWtmSx9jh7hb) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Fade Away](https://open.spotify.com/album/0LZBRpTFsMSzUT085o5WuF) | 2:57 |
-| 14 | [Io Non Sono Come Te](https://open.spotify.com/track/6OB6vU6UMCYTeJ3GNGAEga) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Io Non Sono Come Te](https://open.spotify.com/album/4H5jHZrJZmKGA1mKgUgnwb) | 3:06 |
-| 15 | [Calciobalilla](https://open.spotify.com/track/4Pz2xSB2FxfzsvIhWYj2wP) | [Monteluna](https://open.spotify.com/artist/6HWN4ZzmkY3LjJwqS4CFRb) | [Calciobalilla](https://open.spotify.com/album/7KWCYtMXCWOS6VulD55z6K) | 4:19 |
-| 16 | [Spiffero](https://open.spotify.com/track/0ey0FRonzZU005CDAU13Cz) | [Noverte](https://open.spotify.com/artist/3dF6GB27ak4klpdCEHlUro) | [Con uno sguardo solo](https://open.spotify.com/album/1z8qX6mJ6GHrAYmJvP0RZN) | 1:47 |
-| 17 | [Strade Smarrite](https://open.spotify.com/track/3qBZZ2wyZK89zBB0cLEh2o) | [Bull Brigade](https://open.spotify.com/artist/5L5QSj7U8OMEq0T4lvrEU5) | [Strade Smarrite](https://open.spotify.com/album/1Vf70Udh78YnTe6SLUwvDw) | 3:26 |
-| 18 | [Lunedì](https://open.spotify.com/track/0Bf4E2cdRegFDLUEqn43Yb) | [gazza](https://open.spotify.com/artist/0oXxCYKdNM9cxQkezMlIG7) | [Lunedì](https://open.spotify.com/album/3JYGzrFXAyc8LMmnsnDllw) | 2:18 |
-| 19 | [Color Shades](https://open.spotify.com/track/1IQFjP1hfifbffLTD4z61b) | [Piqued Jacks](https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z) | [Color Shades](https://open.spotify.com/album/32aZ5m6NZ2zv9nlReMdrg1) | 3:18 |
-| 20 | [J!OY](https://open.spotify.com/track/20bCARV6sHRRxcWdpi9dMX) | [San Leo](https://open.spotify.com/artist/1g7G97GbkEAtBcEiMFVJdy) | [J!OY](https://open.spotify.com/album/5N6AdhmlYwQ6AZZuGNYJVH) | 3:34 |
-| 21 | [Ronaldo](https://open.spotify.com/track/5zOTYtift5RWyArMm2Nwd8) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Ronaldo](https://open.spotify.com/album/5Qav1GCe2ZOKcobjrQvDDG) | 2:49 |
-| 22 | [orso](https://open.spotify.com/track/73AtLu6D34F9MBD7gDEnb7) | [SANTATERESA](https://open.spotify.com/artist/2PTv9Z4F73QVUNS8IWJGDz) | [orso](https://open.spotify.com/album/7ii0v1oYLS4CmGzNOcQR62) | 3:30 |
-| 23 | [TU MI MANDI FUORI](https://open.spotify.com/track/235dHwSaoNAWY29a0gSBWw) | [Quarzo Blu](https://open.spotify.com/artist/1Z06Rc5TWBWnYL2WKoQheu), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [TU MI MANDI FUORI](https://open.spotify.com/album/0LWdurIbQWkBm9cqTOfzB1) | 2:11 |
-| 24 | [Supercharged](https://open.spotify.com/track/2CY5m4p7tmL3nj6cZuwO87) | [Birthh](https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn) | [Moonlanded](https://open.spotify.com/album/6lqxY2pfGVbyhJMHgSf1vO) | 4:03 |
+| 5 | [Worth it or not?](https://open.spotify.com/track/6WmS99KTxCKzToaL05Fxn4) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [Worth it or not?](https://open.spotify.com/album/17h1MHmA73KWc7zhW6kSBb) | 1:49 |
+| 6 | [Insynthesi](https://open.spotify.com/track/5tJkH7zA6RcXzu0Bv0Lea7) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Insynthesi](https://open.spotify.com/album/3BpyoxJ6tlbZyKZJRIMp6r) | 3:35 |
+| 7 | [Verdena](https://open.spotify.com/track/3LTOhf5vn7ORLNvnPm72nU) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU) | [Nessuno vuole essere mio amico](https://open.spotify.com/album/1slYL7JoFfTB9OcBFK65hE) | 3:07 |
+| 8 | [Sei in un paese meraviglioso](https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Sei in un paese meraviglioso](https://open.spotify.com/album/1xKqyu6wKTq616wD3zxLuW) | 3:20 |
+| 9 | [Io Non Sono Come Te](https://open.spotify.com/track/6OB6vU6UMCYTeJ3GNGAEga) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Io Non Sono Come Te](https://open.spotify.com/album/4H5jHZrJZmKGA1mKgUgnwb) | 3:06 |
+| 10 | [Albanera](https://open.spotify.com/track/5pZsX5r10LBZtQ0H1YbTF8) | [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [Albanera](https://open.spotify.com/album/5Y8ADPQC0xiR1gtxNYqNLX) | 4:01 |
+| 11 | [Come volevi essere](https://open.spotify.com/track/6Cvod0V1TVofdbAUyNLhYb) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Come volevi essere](https://open.spotify.com/album/16bYjHqs1R2worFGdbzSWi) | 3:40 |
+| 12 | [Mamma e papà](https://open.spotify.com/track/0uCQY7Psi0dql2N0zAEiTl) | [Marco Fracasia](https://open.spotify.com/artist/5cBxKy6si4GgCAJKaoYBrb) | [Mamma e papà](https://open.spotify.com/album/2aPx75NgtEtTVbZvAzaLoZ) | 4:31 |
+| 13 | [Serenissima Malcontenta](https://open.spotify.com/track/2psFcaO2uKwA4PXoYyJI7Z) | [Bengala Fire](https://open.spotify.com/artist/5B516AbC2BhNio4qvbDdNb) | [Serenissima Malcontenta](https://open.spotify.com/album/3iv1zXS4ks9OsT3uwJPHnW) | 4:22 |
+| 14 | [Fade Away](https://open.spotify.com/track/4DnzS5FpDsnWtmSx9jh7hb) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Fade Away](https://open.spotify.com/album/0LZBRpTFsMSzUT085o5WuF) | 2:57 |
+| 15 | [Lunedì](https://open.spotify.com/track/0Bf4E2cdRegFDLUEqn43Yb) | [gazza](https://open.spotify.com/artist/0oXxCYKdNM9cxQkezMlIG7) | [Lunedì](https://open.spotify.com/album/3JYGzrFXAyc8LMmnsnDllw) | 2:18 |
+| 16 | [Calciobalilla](https://open.spotify.com/track/4Pz2xSB2FxfzsvIhWYj2wP) | [Monteluna](https://open.spotify.com/artist/6HWN4ZzmkY3LjJwqS4CFRb) | [Calciobalilla](https://open.spotify.com/album/7KWCYtMXCWOS6VulD55z6K) | 4:19 |
+| 17 | [Spiffero](https://open.spotify.com/track/0ey0FRonzZU005CDAU13Cz) | [Noverte](https://open.spotify.com/artist/3dF6GB27ak4klpdCEHlUro) | [Con uno sguardo solo](https://open.spotify.com/album/1z8qX6mJ6GHrAYmJvP0RZN) | 1:47 |
+| 18 | [Supercharged](https://open.spotify.com/track/2CY5m4p7tmL3nj6cZuwO87) | [Birthh](https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn) | [Moonlanded](https://open.spotify.com/album/6lqxY2pfGVbyhJMHgSf1vO) | 4:03 |
+| 19 | [Strade Smarrite](https://open.spotify.com/track/3qBZZ2wyZK89zBB0cLEh2o) | [Bull Brigade](https://open.spotify.com/artist/5L5QSj7U8OMEq0T4lvrEU5) | [Strade Smarrite](https://open.spotify.com/album/1Vf70Udh78YnTe6SLUwvDw) | 3:26 |
+| 20 | [Color Shades](https://open.spotify.com/track/1IQFjP1hfifbffLTD4z61b) | [Piqued Jacks](https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z) | [Color Shades](https://open.spotify.com/album/32aZ5m6NZ2zv9nlReMdrg1) | 3:18 |
+| 21 | [J!OY](https://open.spotify.com/track/20bCARV6sHRRxcWdpi9dMX) | [San Leo](https://open.spotify.com/artist/1g7G97GbkEAtBcEiMFVJdy) | [J!OY](https://open.spotify.com/album/5N6AdhmlYwQ6AZZuGNYJVH) | 3:34 |
+| 22 | [Ronaldo](https://open.spotify.com/track/5zOTYtift5RWyArMm2Nwd8) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Ronaldo](https://open.spotify.com/album/5Qav1GCe2ZOKcobjrQvDDG) | 2:49 |
+| 23 | [orso](https://open.spotify.com/track/73AtLu6D34F9MBD7gDEnb7) | [SANTATERESA](https://open.spotify.com/artist/2PTv9Z4F73QVUNS8IWJGDz) | [orso](https://open.spotify.com/album/7ii0v1oYLS4CmGzNOcQR62) | 3:30 |
+| 24 | [TU MI MANDI FUORI](https://open.spotify.com/track/235dHwSaoNAWY29a0gSBWw) | [Quarzo Blu](https://open.spotify.com/artist/1Z06Rc5TWBWnYL2WKoQheu), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [TU MI MANDI FUORI](https://open.spotify.com/album/0LWdurIbQWkBm9cqTOfzB1) | 2:11 |
 | 25 | [Ero troppo fatto](https://open.spotify.com/track/7crOXJeucOksYsX3tvnI4w) | [Il Cile](https://open.spotify.com/artist/70tOBioFUv8aswsBxNjCjS) | [Ero troppo fatto](https://open.spotify.com/album/68xC51nsRoeKEfwYp6wO4f) | 3:29 |
 | 26 | [Giro Classico](https://open.spotify.com/track/0nXaOtKNdmdsTcIY7Z9UQ1) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Giro Classico](https://open.spotify.com/album/6u0UqTIYgswW7qdhockYF3) | 3:24 |
 | 27 | [Quando Il Sogno Si Avvera](https://open.spotify.com/track/53hS7kYfegowstBCu9P0fl) | [Øjne](https://open.spotify.com/artist/0zZRbZrBprUwWRKnbaIEXq) | [Sogno \#3](https://open.spotify.com/album/2ZGKnFkK7En0LSTCNGsaCn) | 4:05 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 65 | [Sbaglio peggiore](https://open.spotify.com/track/3496cFB078fy8zXdX108Gr) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [Sbaglio peggiore](https://open.spotify.com/album/5svg1vlynhxUiqyJfrCJjG) | 3:14 |
 | 66 | [Giovane Distratta](https://open.spotify.com/track/5HVNmsurfkqtCs6Wkj2TEQ) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Quanti Me Ne Dai](https://open.spotify.com/album/7CixYqA6aKwMXEGcaHq3Lr) | 3:08 |
 
-Snapshot ID: `MCxlMjM1MGY3OGU0YzJkNWViNDY2MzhjNzY1MmRkOTU3MjQ3N2MxZTE3`
+Snapshot ID: `MCw3NGZlZDE3MGQ0ZDJlOGIwMDI2OWZhNmI3MDIzZWQyMjM3OTQ5OGNm`

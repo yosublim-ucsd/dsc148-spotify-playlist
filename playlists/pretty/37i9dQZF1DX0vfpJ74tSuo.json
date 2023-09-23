@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 63407,
+  "num_followers": 63443,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjU5ZmJiMThhMTgwYjQ5ZDhiYWM1MzlkZGNlZmVlOTA2NzIyYWQ1",
+  "snapshot_id": "MCxlMzc1OGUxMjExMDEyOTZjZTcxMDQyNzgxMTNiM2FmYzY5N2RlM2Nm",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:41",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "The Very Best of Jimmy Reed",
-        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
-        }
-      ],
-      "duration_ms": 144426,
-      "name": "Baby What You Want Me To Do",
-      "url": "https://open.spotify.com/track/05oMNN5Rbv6rVqyFFG9uTl"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Kingfish",
         "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 354954,
       "name": "Been Here Before",
       "url": "https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "The Very Best of Jimmy Reed",
+        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "duration_ms": 144426,
+      "name": "Baby What You Want Me To Do",
+      "url": "https://open.spotify.com/track/05oMNN5Rbv6rVqyFFG9uTl"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "I Am The Moon: IV. Farewell",
-        "url": "https://open.spotify.com/album/6hCN857vBAs2oN8aZQih2x"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 227893,
-      "name": "I Can Feel You Smiling",
-      "url": "https://open.spotify.com/track/6xVr5ivengIkx4q4VacaEJ"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Elementary Doctor Watson",
         "url": "https://open.spotify.com/album/21k6Gb6ldqVsUfWY9culSS"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 207387,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/6XqtE6pjFSJV3dC7Qlr0t0"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "I Am The Moon: IV. Farewell",
+        "url": "https://open.spotify.com/album/6hCN857vBAs2oN8aZQih2x"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 227893,
+      "name": "I Can Feel You Smiling",
+      "url": "https://open.spotify.com/track/6xVr5ivengIkx4q4VacaEJ"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "First Recordings",
-        "url": "https://open.spotify.com/album/5OfjjEzy7ofCj2EZDOKZ87"
-      },
-      "artists": [
-        {
-          "name": "Junior Kimbrough",
-          "url": "https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr"
-        }
-      ],
-      "duration_ms": 120920,
-      "name": "Feels so Good #2",
-      "url": "https://open.spotify.com/track/0IlJfv6ACOvNyjd9vvgKzm"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Mississippi Son",
         "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 147840,
       "name": "Rank Strangers",
       "url": "https://open.spotify.com/track/75E8SwuE43G0bj3kHZlIts"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "First Recordings",
+        "url": "https://open.spotify.com/album/5OfjjEzy7ofCj2EZDOKZ87"
+      },
+      "artists": [
+        {
+          "name": "Junior Kimbrough",
+          "url": "https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr"
+        }
+      ],
+      "duration_ms": 120920,
+      "name": "Feels so Good #2",
+      "url": "https://open.spotify.com/track/0IlJfv6ACOvNyjd9vvgKzm"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Scoundrel",
-        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
-      },
-      "artists": [
-        {
-          "name": "Sam Burchfield",
-          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
-        }
-      ],
-      "duration_ms": 277733,
-      "name": "Bonnie",
-      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "All Blues's Up: Songs of Led Zeppelin",
         "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Atlanta Twelve String",
-        "url": "https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7"
+        "name": "Scoundrel",
+        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
       },
       "artists": [
         {
-          "name": "Blind Willie McTell",
-          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
         }
       ],
-      "duration_ms": 240360,
-      "name": "I Got the Cross the River Jordan",
-      "url": "https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB"
+      "duration_ms": 277733,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -767,18 +751,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Ethos: Son of a Sharecropper",
-        "url": "https://open.spotify.com/album/16AgsZkKpq2r4JxrKp412a"
+        "name": "Atlanta Twelve String",
+        "url": "https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7"
       },
       "artists": [
         {
-          "name": "Terry Blade",
-          "url": "https://open.spotify.com/artist/6QXdeafZdeOvusyWmtRO7Y"
+          "name": "Blind Willie McTell",
+          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
         }
       ],
-      "duration_ms": 145057,
-      "name": "Won't Be Around",
-      "url": "https://open.spotify.com/track/0ZhcMUMBi0z0uE5s2bIery"
+      "duration_ms": 240360,
+      "name": "I Got the Cross the River Jordan",
+      "url": "https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -795,6 +779,22 @@
       "duration_ms": 176001,
       "name": "The Dolls Are Sleeping",
       "url": "https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Ethos: Son of a Sharecropper",
+        "url": "https://open.spotify.com/album/16AgsZkKpq2r4JxrKp412a"
+      },
+      "artists": [
+        {
+          "name": "Terry Blade",
+          "url": "https://open.spotify.com/artist/6QXdeafZdeOvusyWmtRO7Y"
+        }
+      ],
+      "duration_ms": 145057,
+      "name": "Won't Be Around",
+      "url": "https://open.spotify.com/track/0ZhcMUMBi0z0uE5s2bIery"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "The Natch'l Blues",
-        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 423560,
-      "name": "Done Changed My Way of Living",
-      "url": "https://open.spotify.com/track/1VpguOrCSVqF6UoxI2DsnO"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Simple Truths",
         "url": "https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 280306,
       "name": "I'm So Lonely",
       "url": "https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "The Natch'l Blues",
+        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 423560,
+      "name": "Done Changed My Way of Living",
+      "url": "https://open.spotify.com/track/1VpguOrCSVqF6UoxI2DsnO"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "That's All Right (Mama) - the Fire Sessions",
+        "url": "https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD"
+      },
+      "artists": [
+        {
+          "name": "Arthur \"Big Boy\" Crudup",
+          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+        }
+      ],
+      "duration_ms": 155493,
+      "name": "Mean Old 'Frisco Blues",
+      "url": "https://open.spotify.com/track/1LqS5Vz8yCTejrVc1Qo7eP"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "Brother Johnny",
         "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
       },
@@ -1319,18 +1335,26 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "That's All Right (Mama) - the Fire Sessions",
-        "url": "https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD"
+        "name": "Jumpin'",
+        "url": "https://open.spotify.com/album/6whK2FCC7tIBihqZeFR8vY"
       },
       "artists": [
         {
-          "name": "Arthur \"Big Boy\" Crudup",
-          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+          "name": "Leon Majcen",
+          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
+        },
+        {
+          "name": "Jonny Morgan",
+          "url": "https://open.spotify.com/artist/3gAs7sin4uZTlpRHNwWHzD"
+        },
+        {
+          "name": "The Biscuit Dispute",
+          "url": "https://open.spotify.com/artist/7ABJ3TprcTxyyCxbVZh2Ck"
         }
       ],
-      "duration_ms": 155493,
-      "name": "Mean Old 'Frisco Blues",
-      "url": "https://open.spotify.com/track/1LqS5Vz8yCTejrVc1Qo7eP"
+      "duration_ms": 162589,
+      "name": "Jumpin'",
+      "url": "https://open.spotify.com/track/0mFMDuXQ5Rb1I9hxT4GZl2"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1351,22 +1375,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Don't Be Late",
-        "url": "https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P"
-      },
-      "artists": [
-        {
-          "name": "Serenity State of Mind",
-          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
-        }
-      ],
-      "duration_ms": 174313,
-      "name": "Foolin'",
-      "url": "https://open.spotify.com/track/2eTN6VZR6vX7CHCTILen1n"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "The Road to Liberty, Pt. 1",
         "url": "https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk"
       },
@@ -1379,6 +1387,22 @@
       "duration_ms": 204600,
       "name": "Passing Through",
       "url": "https://open.spotify.com/track/6IHuZvXDvMgk0D15P08FPj"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Don't Be Late",
+        "url": "https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P"
+      },
+      "artists": [
+        {
+          "name": "Serenity State of Mind",
+          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
+        }
+      ],
+      "duration_ms": 174313,
+      "name": "Foolin'",
+      "url": "https://open.spotify.com/track/2eTN6VZR6vX7CHCTILen1n"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1431,26 +1455,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "GET ON BOARD",
-        "url": "https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Pick a Bale of Cotton",
-      "url": "https://open.spotify.com/track/4gcbDSXk4EU0UWGDPbQfcp"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Porch Sessions, Vol. 2",
         "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
       },
@@ -1471,26 +1475,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Jumpin'",
-        "url": "https://open.spotify.com/album/6whK2FCC7tIBihqZeFR8vY"
+        "name": "GET ON BOARD",
+        "url": "https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z"
       },
       "artists": [
         {
-          "name": "Leon Majcen",
-          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         },
         {
-          "name": "Jonny Morgan",
-          "url": "https://open.spotify.com/artist/3gAs7sin4uZTlpRHNwWHzD"
-        },
-        {
-          "name": "The Biscuit Dispute",
-          "url": "https://open.spotify.com/artist/7ABJ3TprcTxyyCxbVZh2Ck"
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
         }
       ],
-      "duration_ms": 162589,
-      "name": "Jumpin'",
-      "url": "https://open.spotify.com/track/0mFMDuXQ5Rb1I9hxT4GZl2"
+      "duration_ms": 182826,
+      "name": "Pick a Bale of Cotton",
+      "url": "https://open.spotify.com/track/4gcbDSXk4EU0UWGDPbQfcp"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie Johnson",
-          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "God Moves On the Water",
-      "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "I Like It When It Rains",
         "url": "https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 293000,
       "name": "Sittin on Top of the World",
       "url": "https://open.spotify.com/track/7G234VgTRaXpiX9GnsZvdK"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
+      },
+      "artists": [
+        {
+          "name": "Blind Willie Johnson",
+          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "God Moves On the Water",
+      "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Help Me",
-        "url": "https://open.spotify.com/album/2jmS1jYAeh5mpl7DSfZS0B"
-      },
-      "artists": [
-        {
-          "name": "Sudsy Mcgee",
-          "url": "https://open.spotify.com/artist/6oDhTADY9Px7WgDwXskAF1"
-        }
-      ],
-      "duration_ms": 249806,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/6LfPMqwKz9h4Vs3Lf2hMDz"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "If These Walls Could Talk",
         "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 307358,
       "name": "Lissa's Song",
       "url": "https://open.spotify.com/track/4iNxo2nENNlHos9KkwPYg4"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Help Me",
+        "url": "https://open.spotify.com/album/2jmS1jYAeh5mpl7DSfZS0B"
+      },
+      "artists": [
+        {
+          "name": "Sudsy Mcgee",
+          "url": "https://open.spotify.com/artist/6oDhTADY9Px7WgDwXskAF1"
+        }
+      ],
+      "duration_ms": 249806,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/6LfPMqwKz9h4Vs3Lf2hMDz"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "The Difference",
-        "url": "https://open.spotify.com/album/0dljYSROOElwPmv67IgAbH"
+        "name": "Mississippi",
+        "url": "https://open.spotify.com/album/6eZrs4qARcRDdJf1I0ZUwC"
       },
       "artists": [
         {
-          "name": "Buffalo Nichols",
-          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+          "name": "Mitch Grainger",
+          "url": "https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G"
         }
       ],
-      "duration_ms": 208320,
-      "name": "The Difference",
-      "url": "https://open.spotify.com/track/6zzZZJHUu54U93xTJ0FBYj"
+      "duration_ms": 220500,
+      "name": "Mississippi - Acoustic",
+      "url": "https://open.spotify.com/track/6K9sjEFkoH0bSiaAk8WrCY"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1851,6 +1851,22 @@
       "duration_ms": 165172,
       "name": "Colt 45",
       "url": "https://open.spotify.com/track/0uwXnVmR7o8PPHajHCq2Uv"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "The Difference",
+        "url": "https://open.spotify.com/album/0dljYSROOElwPmv67IgAbH"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "The Difference",
+      "url": "https://open.spotify.com/track/6zzZZJHUu54U93xTJ0FBYj"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1887,22 +1903,6 @@
       "duration_ms": 236720,
       "name": "Good, Good Man",
       "url": "https://open.spotify.com/track/7uSkpPhm94n4USbGTq9U31"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Mississippi",
-        "url": "https://open.spotify.com/album/6eZrs4qARcRDdJf1I0ZUwC"
-      },
-      "artists": [
-        {
-          "name": "Mitch Grainger",
-          "url": "https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Mississippi - Acoustic",
-      "url": "https://open.spotify.com/track/6K9sjEFkoH0bSiaAk8WrCY"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "Berkshire House Recordings Pt. I",
+        "url": "https://open.spotify.com/album/5DNRTQeL3O0kPgsCnqzXOi"
+      },
+      "artists": [
+        {
+          "name": "Pat Hodge",
+          "url": "https://open.spotify.com/artist/2jy7wJNqGfrBHQpME3q2mk"
+        }
+      ],
+      "duration_ms": 176738,
+      "name": "Wasting Time With You",
+      "url": "https://open.spotify.com/track/6QMZqQ1BqqeNVknaEWzUhe"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "Jalopy Records 7\" Series: Jerron Paxton",
         "url": "https://open.spotify.com/album/24kpVLAlAEbbxExLG0Z9D5"
       },
@@ -2115,22 +2131,6 @@
       "duration_ms": 169410,
       "name": "Hard Times Are Comin'",
       "url": "https://open.spotify.com/track/5wx9L4JVX7jKBX4w5lFmkE"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Berkshire House Recordings Pt. I",
-        "url": "https://open.spotify.com/album/5DNRTQeL3O0kPgsCnqzXOi"
-      },
-      "artists": [
-        {
-          "name": "Pat Hodge",
-          "url": "https://open.spotify.com/artist/2jy7wJNqGfrBHQpME3q2mk"
-        }
-      ],
-      "duration_ms": 176738,
-      "name": "Wasting Time With You",
-      "url": "https://open.spotify.com/track/6QMZqQ1BqqeNVknaEWzUhe"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Folk Songs for Old Times' Sake",
-        "url": "https://open.spotify.com/album/1aer0tW0fu6Zv2XPpDQWBv"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Edward Williams",
-          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "Railroad Bill",
-      "url": "https://open.spotify.com/track/3mxfxxfDxftkdvZIpLKtHk"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Acoustic Burnside",
         "url": "https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr"
       },
@@ -2203,34 +2187,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Teach Me How to Stay (Live)",
-        "url": "https://open.spotify.com/album/5KnOlJerBisARbyK4AAijY"
+        "name": "Folk Songs for Old Times' Sake",
+        "url": "https://open.spotify.com/album/1aer0tW0fu6Zv2XPpDQWBv"
       },
       "artists": [
         {
-          "name": "Boneshakers",
-          "url": "https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m"
+          "name": "Nicholas Edward Williams",
+          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
         }
       ],
-      "duration_ms": 323040,
-      "name": "Teach Me How to Stay - Live",
-      "url": "https://open.spotify.com/track/2KXTHCc7NbLlR57VVaVxEN"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "The Blues Never End",
-        "url": "https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1"
-      },
-      "artists": [
-        {
-          "name": "Elly Wininger",
-          "url": "https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ"
-        }
-      ],
-      "duration_ms": 181120,
-      "name": "God Moves on the Water",
-      "url": "https://open.spotify.com/track/4lLBd2YSJddTlpx67egIgQ"
+      "duration_ms": 145533,
+      "name": "Railroad Bill",
+      "url": "https://open.spotify.com/track/3mxfxxfDxftkdvZIpLKtHk"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2251,6 +2219,38 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "The Blues Never End",
+        "url": "https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1"
+      },
+      "artists": [
+        {
+          "name": "Elly Wininger",
+          "url": "https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ"
+        }
+      ],
+      "duration_ms": 181120,
+      "name": "God Moves on the Water",
+      "url": "https://open.spotify.com/track/4lLBd2YSJddTlpx67egIgQ"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Teach Me How to Stay (Live)",
+        "url": "https://open.spotify.com/album/5KnOlJerBisARbyK4AAijY"
+      },
+      "artists": [
+        {
+          "name": "Boneshakers",
+          "url": "https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m"
+        }
+      ],
+      "duration_ms": 323040,
+      "name": "Teach Me How to Stay - Live",
+      "url": "https://open.spotify.com/track/2KXTHCc7NbLlR57VVaVxEN"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "Make it Talk",
         "url": "https://open.spotify.com/album/2j4v6Cr23fyOfsH8xG7vk9"
       },
@@ -2263,6 +2263,22 @@
       "duration_ms": 197386,
       "name": "Make it Talk",
       "url": "https://open.spotify.com/track/0ImzLhRRph6jPzjPewwgd0"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Everyday I Have the Blues",
+      "url": "https://open.spotify.com/track/5Qizcr47Esrf54Pu1eF30E"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2283,22 +2299,6 @@
       "duration_ms": 130880,
       "name": "Don\u00b4t Wait Too Long",
       "url": "https://open.spotify.com/track/22X6cjoUiFosUb9wcKvC7h"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Everyday I Have the Blues",
-      "url": "https://open.spotify.com/track/5Qizcr47Esrf54Pu1eF30E"
     },
     {
       "added_at": "2023-09-15 11:42:41",

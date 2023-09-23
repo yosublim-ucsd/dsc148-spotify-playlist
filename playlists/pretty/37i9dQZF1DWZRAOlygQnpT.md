@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,505 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,603 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 30 | [Tu Significas Todo Para Mi](https://open.spotify.com/track/0ZXw2HZ4hFw8AM7mp2xfRF) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Ballads del Rock](https://open.spotify.com/album/1o7i3eHMR0vxTLqGk81uUh) | 4:12 |
 | 31 | [Acapulco Rock](https://open.spotify.com/track/6ERUMOAhYiLUj2eAl2rtah) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Hooligans](https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH) | 1:56 |
 | 32 | [Pensaba En Ti](https://open.spotify.com/track/2DooBdT3SX7YLLgBP8BHni) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Plaga](https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId) | 3:31 |
-| 33 | [Ahora estoy Solo](https://open.spotify.com/track/106QvHrS9LCAnwb8Sz8hqw) | [Los Hitters](https://open.spotify.com/artist/3Cqn20hCMJisWINCRSOkZT) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 2:09 |
-| 34 | [Noches y Dias Perdidos](https://open.spotify.com/track/5v1udQ8k09XuMjUb7OBmXa) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 2:47 |
+| 33 | [Noches y Dias Perdidos](https://open.spotify.com/track/5v1udQ8k09XuMjUb7OBmXa) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 2:47 |
+| 34 | [Ahora estoy Solo](https://open.spotify.com/track/106QvHrS9LCAnwb8Sz8hqw) | [Los Hitters](https://open.spotify.com/artist/3Cqn20hCMJisWINCRSOkZT) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 2:09 |
 | 35 | [Bule Bule](https://open.spotify.com/track/19Ol3nKQvIJJiKBTIOBzwi) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [100 Años de Musica](https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa) | 2:22 |
 | 36 | [Corina, Corina](https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:35 |
-| 37 | [Hermosa Laura](https://open.spotify.com/track/6Epp9ml7BLZBcg0icTFTQu) | [Los Loud Jets](https://open.spotify.com/artist/4PF3TlakT6o7oVUe4JjSma) | [Buen Rock Esta Noche](https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz) | 2:42 |
-| 38 | [Cuando Era un Jovencito](https://open.spotify.com/track/7B1VlOOC2K4UkWNJNXbG6w) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Amores Incomparables, Vol\. 3](https://open.spotify.com/album/0wl64awQOtkdtCQuZDcY4n) | 2:45 |
+| 37 | [Cuando Era un Jovencito](https://open.spotify.com/track/7B1VlOOC2K4UkWNJNXbG6w) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Amores Incomparables, Vol\. 3](https://open.spotify.com/album/0wl64awQOtkdtCQuZDcY4n) | 2:45 |
+| 38 | [Hermosa Laura](https://open.spotify.com/track/6Epp9ml7BLZBcg0icTFTQu) | [Los Loud Jets](https://open.spotify.com/artist/4PF3TlakT6o7oVUe4JjSma) | [Buen Rock Esta Noche](https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz) | 2:42 |
 | 39 | [Las Cerezas \(Le Celiege\)](https://open.spotify.com/track/22QsJTK2JQXZKSUW2sKj9w) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [Lo Mejor De Los Hermanos](https://open.spotify.com/album/5pdI245Kbb9krwAdURocn4) | 3:02 |
 | 40 | [Presumida \- High Class Baby \[Remasterizado\]](https://open.spotify.com/track/6U3Az2TWNkjzeqV5RztJw7) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Serie De Colección 16 Autenticos Exitos](https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A) | 2:08 |
 | 41 | [Un hombre respet](https://open.spotify.com/track/76NCs54B9hQLW3HZwUxppM) | [Los Hitters](https://open.spotify.com/artist/3Cqn20hCMJisWINCRSOkZT) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 2:29 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 68 | [Yuyu Mata Juju Jen](https://open.spotify.com/track/7sOyMfAXmMCn78w2ne1DqF) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [100 Años de Musica](https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa) | 2:04 |
 | 69 | [Siempre Sola](https://open.spotify.com/track/6bWDWlFoeqADIHVC5X3KFE) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Exitos del Rock & Roll](https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J) | 3:06 |
 | 70 | [Haciendote el Amor](https://open.spotify.com/track/1oNFfrgSdZ2Af22M60gix4) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Pólvora](https://open.spotify.com/album/6JIa7qlgXYi5SQ9us8tr3a) | 1:59 |
-| 71 | [Adan y Eva](https://open.spotify.com/track/0YKzNVdniFbIygZieYMeBW) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Grandes Éxitos Vol.2](https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN) | 2:25 |
-| 72 | [Los locos adams](https://open.spotify.com/track/6fPwTYL4B8hTx4VL3DFCnQ) | [Los Belmonts](https://open.spotify.com/artist/4QQX6KlJqcfMUEyWWfWaDs) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 1:56 |
+| 71 | [Los locos adams](https://open.spotify.com/track/6fPwTYL4B8hTx4VL3DFCnQ) | [Los Belmonts](https://open.spotify.com/artist/4QQX6KlJqcfMUEyWWfWaDs) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 1:56 |
+| 72 | [Adan y Eva](https://open.spotify.com/track/0YKzNVdniFbIygZieYMeBW) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Grandes Éxitos Vol.2](https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN) | 2:25 |
 | 73 | [Es Lupe \(Hang on Sloopy\)](https://open.spotify.com/track/5HPbGQ2Rz9EiH0dypMIFWX) | [Los Johnny Jets](https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 3:18 |
 | 74 | [La Llorona Loca](https://open.spotify.com/track/2dIUXClkwYgcYL2m7BInXB) | [Los Gliders](https://open.spotify.com/artist/3hzte6Ma86NBrxRt1c8kGI) | [Éxitos Del Rock](https://open.spotify.com/album/6lwsXeafhu5LPPnvyeVt9D) | 2:18 |
 | 75 | [Lanza a tus Penas al Viento](https://open.spotify.com/track/6pLn8A7mhFxegIwTSyNulg) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [20 Exitos Colleccion de Oro](https://open.spotify.com/album/2SVUr7T90O2sAC9fWNu92A) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 99 | [El Esqueleto](https://open.spotify.com/track/1vSBPw23dARiJyon6Ttoj7) | [Los Jockers](https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK) | [Rock, Puro Rock](https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE) | 2:45 |
 | 100 | [Twist del Perro](https://open.spotify.com/track/2ywie6JDekOY3roCbQWxG0) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 2:19 |
 
-Snapshot ID: `MCwwZDZjN2VhMTMyODM5ZTYyNTE3YTg2ZDAyMzA5NmUwNGUwNTczODE2`
+Snapshot ID: `MCw0YjE4MjIyM2JjNTEwMTlhNDZlOWM1M2RmNDljMzA5YjgxMmU2NjMz`

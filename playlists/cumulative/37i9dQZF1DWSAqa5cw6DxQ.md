@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-157 songs - 7 hr 46 min
+158 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Elsewhere Now](https://open.spotify.com/track/3HWtnVR3Nq63AMLefzpXtm) | [Rigby Jay](https://open.spotify.com/artist/12s8RdGDrmojyfC16intDY) | [Elsewhere Now](https://open.spotify.com/album/1vfso6z9jOLp90nlfsFzjR) | 3:12 | 2023-04-28 |  |
 | [Emersion](https://open.spotify.com/track/2pxDPvNqRMkrnoOiL3CVYK) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [Emersion](https://open.spotify.com/album/2AVFXtKshMtp06uEyDMx7Z) | 2:48 | 2022-09-13 |  |
 | [En Stilla Plats](https://open.spotify.com/track/42aXU4fhzS1bx3rIYowx5c) | [Alva Abrahamson](https://open.spotify.com/artist/1Bnfz5xvq0H2MT2rYSaz5y) | [En Stilla Plats](https://open.spotify.com/album/4wnu2eR9UZ3LWzjx9e0Le9) | 2:59 | 2023-04-06 |  |
+| [Eon](https://open.spotify.com/track/6275BlFfdADtbHAJ2srKet) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Eon](https://open.spotify.com/album/2iSItPlsLKH69eAOUKDugf) | 2:41 | 2023-09-22 |  |
 | [Epigraph](https://open.spotify.com/track/3OcJggIq9Iy4DOP6m3YuZs) | [Cody Wallter](https://open.spotify.com/artist/74gCXv8vhu5ZfQj76y6O7L) | [Epigraph](https://open.spotify.com/album/3SPOXEwsVbH1pT4NPUXnhX) | 2:33 | 2023-05-05 |  |
 | [Essential Transformation](https://open.spotify.com/track/13dIRMP00LvvzqhY9OLOSk) | [Cold Space](https://open.spotify.com/artist/3PxPykyuBn8TuWjnuJ3jIr) | [Essential Transformation](https://open.spotify.com/album/0OlqiG1lP38XGnl5TrITD8) | 4:08 | 2022-07-08 |  |
 | [Everyday Peace](https://open.spotify.com/track/7CGtdNBijQGEvkZeLU4699) | [Moira Kent](https://open.spotify.com/artist/75XVrjr0r3FvwErC3VDPcl) | [Everyday Peace](https://open.spotify.com/album/1UiPNc6vzfDESq9EcXoO0B) | 2:15 | 2022-02-28 | 2023-01-21 |
@@ -109,7 +110,7 @@
 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 | 2022-02-28 |  |
 | [Path To Self](https://open.spotify.com/track/3o76zTFwwLZ7lx5La5L09O) | [Cold Space](https://open.spotify.com/artist/3PxPykyuBn8TuWjnuJ3jIr) | [Path To Self](https://open.spotify.com/album/1T12sRdIKzoIYJUkbRr6Ag) | 4:44 | 2022-09-13 | 2022-12-03 |
 | [Pattern Codes](https://open.spotify.com/track/46gBeZePyObJo4UWxrbRye) | [William Sila](https://open.spotify.com/artist/4bhn3rRPUCCiUXEhgqPnUc) | [Pattern Codes](https://open.spotify.com/album/5Lj8RfNJtk92vlnrG87k0x) | 2:57 | 2022-02-28 |  |
-| [Pendulum Crystal](https://open.spotify.com/track/0GlFrFaJrqGJn8P6tGoqv9) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Pendulum Crystal](https://open.spotify.com/album/7LKUmnVZa95yXRuoX3slla) | 4:25 | 2022-02-28 |  |
+| [Pendulum Crystal](https://open.spotify.com/track/0GlFrFaJrqGJn8P6tGoqv9) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Pendulum Crystal](https://open.spotify.com/album/7LKUmnVZa95yXRuoX3slla) | 4:25 | 2022-02-28 | 2023-09-23 |
 | [Please Help Me With My Pain](https://open.spotify.com/track/0Y3PEZTNJiLJ5wTCPiVGnZ) | [C\. Lindquist](https://open.spotify.com/artist/59yCLT7odiMwxirAZ4YZaw) | [Please Help Me With My Pain](https://open.spotify.com/album/15uLD1bQCzzMsXNtAFlwH4) | 3:53 | 2022-02-28 |  |
 | [Porto Fino](https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Porto Fino](https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM) | 4:07 | 2022-02-28 |  |
 | [Quietude](https://open.spotify.com/track/7yZriELlBqpqDlZ5xdwLB0) | [Places Within](https://open.spotify.com/artist/00rLUyC4CkQCYpvg0kBI87) | [Quietude](https://open.spotify.com/album/0qWiybxUycLapKx1JhTGAV) | 2:23 | 2022-04-21 |  |

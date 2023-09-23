@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> Metalcore at its finest\. Cover: Silent Planet
+> Metalcore at its finest\. Cover: The Plot In You
 
-745 songs - 1 day 22 hr 48 min
+747 songs - 1 day 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Collapse](https://open.spotify.com/track/3LR5jyD6SzxndATDr83izY) | [Vigils](https://open.spotify.com/artist/3EzYyT79hzNl6mxm7v44h0) | [Collapse](https://open.spotify.com/album/2DVcJX849QCM4XMcZ92qaO) | 3:12 | 2022-01-07 | 2022-04-09 |
 | [Composure](https://open.spotify.com/track/2DfhhMCu4HbYY1QmoWNtWM) | [Fight The Fade](https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF) | [Composure](https://open.spotify.com/album/2UUPHayhYk5eGpL8QIOpLm) | 3:38 | 2021-12-17 | 2022-04-02 |
 | [Condemned](https://open.spotify.com/track/6KqXs2ac8eXus6s97mexwD) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Condemned](https://open.spotify.com/album/5caXsrxlNAC9YQBVavvPUK) | 4:06 | 2021-12-17 | 2022-01-22 |
-| [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/7z6oCwgcuR0NnziEKmu6Pi) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/album/0neLeILE6Ymhokv69gsI9L) | 2:55 | 2023-06-02 |  |
+| [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/7z6oCwgcuR0NnziEKmu6Pi) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/album/0neLeILE6Ymhokv69gsI9L) | 2:55 | 2023-06-02 | 2023-09-23 |
 | [Cremation \(feat\. PK of Prompts\)](https://open.spotify.com/track/25oexo9TI5j5Oma1fr9nOH) | [NOCTURNAL BLOODLUST](https://open.spotify.com/artist/3ufWwEY2l678hzrJLBgn4N) | [ARGOS](https://open.spotify.com/album/33RkqJSdO8jd6Kr0Sja3tC) | 6:12 | 2022-07-13 | 2022-07-23 |
 | [Cross My Heart](https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg) | [Eyes Wide Open](https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po) | [Cross My Heart](https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p) | 3:18 | 2022-05-13 | 2023-05-23 |
 | [Crossed](https://open.spotify.com/track/0YyA97knsEX1T0j1dMVfPC) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN), [Joe Duplantier](https://open.spotify.com/artist/3Yk4ixU1hH9kceY1mRTD2C) | [Crossed](https://open.spotify.com/album/1UMgA7ETQAijzHYDsTDi1X) | 3:00 | 2021-12-17 | 2022-03-18 |
@@ -219,6 +219,7 @@
 | [Don't Go](https://open.spotify.com/track/5su7QP5m3Mt5yaAM5rrriE) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Don't Go](https://open.spotify.com/album/2notng3VruouqChEzm2IJl) | 3:21 | 2022-05-06 | 2022-06-11 |
 | [Doomswitch](https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/7J8x3vAHCvP4gKZUEdsLN4) | 4:35 | 2023-01-20 | 2023-05-23 |
 | [Doomswitch](https://open.spotify.com/track/7v9HNMlAe2UBaEhvaCk5wX) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/2WJV5AVoALNLtr2ZqOlf2n) | 4:35 | 2022-11-11 | 2023-01-21 |
+| [Doubt Me](https://open.spotify.com/track/6dxTJRZFB3mU9MvuX7OqJ0) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Doubt Me](https://open.spotify.com/album/4BzqS85ljr08WHx0Qiy5rl) | 3:10 | 2023-09-22 |  |
 | [Down](https://open.spotify.com/track/08BIaNWJMOQLrK5mSje5kY) | [Versus Me](https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9) | [Down](https://open.spotify.com/album/0151780uryrl7Mj83Tc6G8) | 3:21 | 2021-12-17 | 2022-01-08 |
 | [Downpour](https://open.spotify.com/track/2AQyiYOl2fVe7ZYHOKkEbj) | [Our Hollow, Our Home](https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl) | [Downpour](https://open.spotify.com/album/3zcbr2SwtMAry4XicwbKdV) | 3:34 | 2023-07-21 |  |
 | [Drag Me Down \(feat\. Jamie Hails\)](https://open.spotify.com/track/35onQjC0Rb2BISF0xkJCMW) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Jamie Hails](https://open.spotify.com/artist/2cRrZw0UD5vsnwoPVkV8Ip) | [Drag Me Down \(feat\. Jamie Hails\)](https://open.spotify.com/album/1or1Y8UCe75sabzYynWIn0) | 4:03 | 2022-07-13 | 2022-07-15 |
@@ -356,7 +357,7 @@
 | [In Our Heads](https://open.spotify.com/track/4IqJhaaZ1W12dy2fcIqkRB) | [Defocus](https://open.spotify.com/artist/4lqszvqBsOjOq4MItmZlsU) | [In the Eye of Death We Are All the Same](https://open.spotify.com/album/1xpskdc0hJr2pKd0nkMhDW) | 3:31 | 2022-07-13 | 2022-07-18 |
 | [In Return, I Shed My Flesh](https://open.spotify.com/track/1imwJrRg0hgDd0IQRAHxao) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm) | [Quietus](https://open.spotify.com/album/1LYviZS72HcPQaaH52LtNC) | 4:07 | 2022-07-13 | 2022-07-23 |
 | [In the Dark](https://open.spotify.com/track/0oMghvmlhxnb6U7jTCVmF6) | [Versus Me](https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9) | [In the Dark](https://open.spotify.com/album/316D2TsNJ1fE9GbxoC6pBw) | 3:19 | 2022-04-01 | 2022-06-18 |
-| [In The Light Of Innocence](https://open.spotify.com/track/3lOqKMANmDGUTtTBvCPyKf) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [MANIFESTATIONS \(DELUXE EDITION\)](https://open.spotify.com/album/6nBEVXXXly3MKAgqLz8N8W) | 3:00 | 2022-12-16 |  |
+| [In The Light Of Innocence](https://open.spotify.com/track/3lOqKMANmDGUTtTBvCPyKf) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [MANIFESTATIONS \(DELUXE EDITION\)](https://open.spotify.com/album/6nBEVXXXly3MKAgqLz8N8W) | 3:00 | 2022-12-16 | 2023-09-23 |
 | [In the Night](https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [In the Night](https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7) | 4:43 | 2022-07-13 | 2022-07-23 |
 | [In The Silence](https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Reflections](https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3) | 3:32 | 2023-08-18 |  |
 | [In The Void](https://open.spotify.com/track/2OanznSyGiNf4hHoNUETh3) | [My Favourite Nemesis](https://open.spotify.com/artist/3YKCy7kEFDbG1ZGq6qNKjM) | [In The Void](https://open.spotify.com/album/4Y47Q5AwzYWSqHiE9TwEsQ) | 3:09 | 2022-06-17 | 2022-07-29 |
@@ -569,6 +570,7 @@
 | [Scorched Earth](https://open.spotify.com/track/2HeZ83vUcp2nQqvSlsWMC8) | [Gutrectomy](https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD), [Filth](https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY) | [Scorched Earth](https://open.spotify.com/album/7FTmfJvqaXMAQMVafKDsrt) | 3:50 | 2022-07-13 | 2022-07-22 |
 | [Second Circle](https://open.spotify.com/track/7xK4zeYArpNpd7U2AuclH7) | [Deep as Ocean](https://open.spotify.com/artist/344AraN5Ez4IUmGHYPoo6N) | [Second Circle](https://open.spotify.com/album/0zFSXVpqMcE7m4auGN2Bb6) | 3:33 | 2022-01-14 | 2022-04-29 |
 | [Secrets \(feat\. Iggy Pop and Randy Blythe\)](https://open.spotify.com/track/0IWO0eDIpFbKUZ8qWch8Y4) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [Secrets \(feat\. Iggy Pop and Randy Blythe\)](https://open.spotify.com/album/6hgQD9yLIqccvdaMtbOiMk) | 4:47 | 2022-04-29 | 2022-06-11 |
+| [SELF HELL](https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/2zJSn15yO7k1iatSC7j0pW) | 4:39 | 2023-09-22 |  |
 | [Serenity](https://open.spotify.com/track/19d7c6jEpypybNrOAw8Chk) | [Viscaya](https://open.spotify.com/artist/6DY7U02a4pR7XzB55SSQcE) | [Serenity](https://open.spotify.com/album/4LJwcXwtsxWjvCHJBypRvA) | 2:39 | 2021-12-17 | 2022-04-02 |
 | [Seven Souls](https://open.spotify.com/track/5BVgixsn2PgaNzI9tZSjfm) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Seven Souls](https://open.spotify.com/album/0bBueyc98CNTvVvJJBqXL5) | 4:43 | 2022-07-13 | 2022-07-23 |
 | [Severance](https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [The Seed of Self\-Destruction](https://open.spotify.com/album/4fdgHlKuROosMCgMr1VbX0) | 4:03 | 2022-04-29 | 2022-12-03 |

@@ -4,7 +4,7 @@
 
 > seduced in the shadows.
 
-50 songs - 3 hr 14 min
+52 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Crawling Into You](https://open.spotify.com/track/2EVVaTiZFIXwkV74McpZy5) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Promo 2019](https://open.spotify.com/album/6DKO5xmgzhet0tQD8zXMZ5) | 3:23 | 2023-09-20 |  |
 | [Custer](https://open.spotify.com/track/3GiJq4AQK7324mfIQbpiTf) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 4:14 | 2023-09-20 |  |
 | [Drain](https://open.spotify.com/track/3k8ptnrHJn8LzQnvh413c5) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Drain](https://open.spotify.com/album/4td2lzPI1u95ohvolQfTkZ) | 3:22 | 2023-09-20 |  |
+| [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 | 2023-09-22 |  |
 | [Echolalia](https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Remnants of the Vessel](https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD) | 5:06 | 2023-09-20 |  |
 | [Follow You](https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:51 | 2023-09-20 |  |
 | [Gaunt](https://open.spotify.com/track/07WXShmsAvKUVK3QYUubJ9) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Gaunt](https://open.spotify.com/album/3hj2N8CIJ67hejzX5XcMRs) | 3:29 | 2023-09-20 |  |
@@ -46,6 +47,7 @@
 | [Sextape](https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 4:01 | 2023-09-20 |  |
 | [snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 4:05 | 2023-09-20 |  |
 | [Spiders](https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 3:35 | 2023-09-20 |  |
+| [Spiral](https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Spiral](https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie) | 2:48 | 2023-09-22 |  |
 | [Static King](https://open.spotify.com/track/30c7yitaxCPDer72DuJMpw) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Static King](https://open.spotify.com/album/6Ff2MALnanTK465bO5rIsa) | 3:37 | 2023-09-20 |  |
 | [Sun Killer](https://open.spotify.com/track/2glEXDEzubpETiDRXfC4oX) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 3:47 | 2023-09-20 |  |
 | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 4:01 | 2023-09-20 |  |

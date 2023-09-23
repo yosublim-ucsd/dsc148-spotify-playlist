@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: All Time Low ft Avril Lavigne ",
-  "num_followers": 561540,
+  "num_followers": 561636,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDc2MjcwZGVjZWFkZDMyMmMzNzkwYjAyNjM4MGUwMzE4YzFhMTM1",
+  "snapshot_id": "MCxkZTIwOGY1ZGE5YmE1MzI0YmRmNzQ0ZWY5NzBlNDI1MmYzNzQxMTA0",
   "tracks": [
     {
       "added_at": "2023-09-15 00:00:00",
@@ -27,6 +27,22 @@
       "duration_ms": 179166,
       "name": "Fake As Hell (with Avril Lavigne)",
       "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
+    },
+    {
+      "added_at": "2023-09-22 10:00:30",
+      "album": {
+        "name": "ONE MORE TIME / MORE THAN YOU KNOW",
+        "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 208114,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -111,6 +127,22 @@
       "duration_ms": 208052,
       "name": "\"good guy\"",
       "url": "https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK"
+    },
+    {
+      "added_at": "2023-09-22 10:00:30",
+      "album": {
+        "name": "AUTUMNAL",
+        "url": "https://open.spotify.com/album/0I1nxkEyVyGhBwE1ZI6SXe"
+      },
+      "artists": [
+        {
+          "name": "Alex Melton",
+          "url": "https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA"
+        }
+      ],
+      "duration_ms": 189583,
+      "name": "Autumnal",
+      "url": "https://open.spotify.com/track/4JW7fbtsAqxImfLHticNVj"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -425,6 +457,22 @@
       "url": "https://open.spotify.com/track/758nO1KOUiGEjnkGZqDHNX"
     },
     {
+      "added_at": "2023-09-22 10:00:30",
+      "album": {
+        "name": "Certified Depressant",
+        "url": "https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 200981,
+      "name": "Everything Sucks",
+      "url": "https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy"
+    },
+    {
       "added_at": "2023-09-15 00:00:00",
       "album": {
         "name": "People That I Love Leave",
@@ -505,6 +553,22 @@
       "url": "https://open.spotify.com/track/7L2E7qweIBVY1bjrXjeCwx"
     },
     {
+      "added_at": "2023-09-22 10:00:30",
+      "album": {
+        "name": "Thanks For Asking",
+        "url": "https://open.spotify.com/album/2GQJz8Czxzui5aVpQ5dnjC"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        }
+      ],
+      "duration_ms": 204040,
+      "name": "Thanks For Asking",
+      "url": "https://open.spotify.com/track/6zyTFxXRoQQDg6gXVagobF"
+    },
+    {
       "added_at": "2023-09-15 00:00:00",
       "album": {
         "name": "Why Would I Watch",
@@ -551,6 +615,22 @@
       "duration_ms": 177890,
       "name": "must be nice (metaphorically speaking)",
       "url": "https://open.spotify.com/track/0z2RWMYZyjvxT9ZGoUTPEf"
+    },
+    {
+      "added_at": "2023-09-22 10:00:30",
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/4FGat65ksk32oqquDxtFSQ"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 175113,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/0YsIuTjyAx31Eaun9LP7Ye"
     },
     {
       "added_at": "2023-09-15 00:00:00",

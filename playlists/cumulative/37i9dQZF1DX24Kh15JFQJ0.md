@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-228 songs - 13 hr 25 min
+229 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Tower Of Song](https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 4:59 | 2022-07-22 | 2023-02-25 |
 | [Tower Of Song](https://open.spotify.com/track/7vC8tIEacbNfLYrxUsB6Vb) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Tower Of Song](https://open.spotify.com/album/6BupEbALr7Uh9BnqXmkGms) | 4:59 | 2022-04-01 | 2022-07-29 |
 | [Trying to Find Atlantis 2.0](https://open.spotify.com/track/21r2ejC94FazSJw16RVZOS) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe), [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Sometimes](https://open.spotify.com/album/5ZdhIK7dLcQ81HuPVCqEsD) | 3:13 | 2021-10-15 |  |
+| [Two Dozen Roses](https://open.spotify.com/track/5GQgvVT7tJGZNzj13pz36l) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Two Dozen Roses](https://open.spotify.com/album/3Drss6cMVLm1BC2787GlLY) | 3:50 | 2023-09-22 |  |
 | [Two Shots](https://open.spotify.com/track/3oe8IMue6ACADm3oNe4r3e) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Soundtrack To Summer 2021 \(Deluxe Edition\)](https://open.spotify.com/album/1fc9zXrxkl5Jq7ywXtirNY) | 2:50 | 2022-11-04 | 2022-11-13 |
 | [Two Shots](https://open.spotify.com/track/3xmDEGMS0QDkMe4Mhm8Gxy) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Encore](https://open.spotify.com/album/2JaDeYoIt0NUOFuiPaLs51) | 2:50 | 2022-07-22 |  |
 | [Two Shots](https://open.spotify.com/track/54u03V1mRUjgDrHDrJT0TB) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Two Shots](https://open.spotify.com/album/1fcV5pD38KzLRi29xo5k8X) | 2:50 | 2021-10-15 | 2022-07-29 |

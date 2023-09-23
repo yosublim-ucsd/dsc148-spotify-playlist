@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1024367,
+  "num_followers": 1024637,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzUyYTNhY2Y5OWM3MjAwNDQ3Y2I1ZjE0ODgyZTIwNDUwMGRlNWI4",
+  "snapshot_id": "MCw2N2ZjMTIxZDZhNWQyZjk5OGJjMWZmYzQ5YThiYmJjYzliMTc2NzMw",
   "tracks": [
     {
       "added_at": "2023-09-21 09:35:53",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-09-21 09:35:53",
       "album": {
-        "name": "When Harry Met Sally... Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 147066,
-      "name": "I Could Write a Book",
-      "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
-    },
-    {
-      "added_at": "2023-09-21 09:35:53",
-      "album": {
         "name": "Vaughan And Violins",
         "url": "https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 182640,
       "name": "Misty",
       "url": "https://open.spotify.com/track/1f0Wfl3eLCLKv72SdkpviC"
+    },
+    {
+      "added_at": "2023-09-21 09:35:53",
+      "album": {
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 147066,
+      "name": "I Could Write a Book",
+      "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
     },
     {
       "added_at": "2023-09-21 09:35:53",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-09-21 09:35:53",
       "album": {
-        "name": "We Are In Love",
-        "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 160933,
-      "name": "We Are In Love",
-      "url": "https://open.spotify.com/track/0cPa96zXRs2LVuNIqu06oj"
-    },
-    {
-      "added_at": "2023-09-21 09:35:53",
-      "album": {
         "name": "Unforgettable: With Love",
         "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 240413,
       "name": "Save Your Love For Me",
       "url": "https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr"
+    },
+    {
+      "added_at": "2023-09-21 09:35:53",
+      "album": {
+        "name": "We Are In Love",
+        "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 160933,
+      "name": "We Are In Love",
+      "url": "https://open.spotify.com/track/0cPa96zXRs2LVuNIqu06oj"
     },
     {
       "added_at": "2023-09-21 09:35:53",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-09-21 09:35:53",
       "album": {
-        "name": "French Fries & Champagne",
-        "url": "https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv"
+        "name": "Hooray For Love",
+        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
       },
       "artists": [
         {
-          "name": "The Hot Sardines",
-          "url": "https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy"
+          "name": "Curtis Stigers",
+          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
         }
       ],
-      "duration_ms": 141640,
-      "name": "Sweet Pea",
-      "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
+      "duration_ms": 259573,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
     },
     {
       "added_at": "2023-09-21 09:35:53",
@@ -915,22 +915,6 @@
       "duration_ms": 144266,
       "name": "Putting on the Ritz",
       "url": "https://open.spotify.com/track/3XeLKdhrqMhozx8EDmyA0Y"
-    },
-    {
-      "added_at": "2023-09-21 09:35:53",
-      "album": {
-        "name": "Hooray For Love",
-        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
-      },
-      "artists": [
-        {
-          "name": "Curtis Stigers",
-          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
     },
     {
       "added_at": "2023-09-21 09:35:53",
@@ -963,6 +947,22 @@
       "duration_ms": 256959,
       "name": "The Very Thought Of You",
       "url": "https://open.spotify.com/track/0yw2d5ySGl52fz5qm9IZD3"
+    },
+    {
+      "added_at": "2023-09-21 09:35:53",
+      "album": {
+        "name": "French Fries & Champagne",
+        "url": "https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv"
+      },
+      "artists": [
+        {
+          "name": "The Hot Sardines",
+          "url": "https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy"
+        }
+      ],
+      "duration_ms": 141640,
+      "name": "Sweet Pea",
+      "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
     },
     {
       "added_at": "2023-09-21 09:35:53",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-09-21 09:35:53",
       "album": {
-        "name": "On Your Side",
-        "url": "https://open.spotify.com/album/7ameJ6pSgZagUBgwubwTMq"
-      },
-      "artists": [
-        {
-          "name": "Magnet",
-          "url": "https://open.spotify.com/artist/0aPh6hUf7HfSVXtyxQs9AR"
-        }
-      ],
-      "duration_ms": 277773,
-      "name": "Lay Lady Lay",
-      "url": "https://open.spotify.com/track/5YFlYhVwQNPjy5tmUryDRD"
-    },
-    {
-      "added_at": "2023-09-21 09:35:53",
-      "album": {
         "name": "Moonlight Serenade",
         "url": "https://open.spotify.com/album/6fjwirZ5kSFrSBpYter5zO"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 229986,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/1QQDUag0GtYAvifSavCoUy"
+    },
+    {
+      "added_at": "2023-09-21 09:35:53",
+      "album": {
+        "name": "On Your Side",
+        "url": "https://open.spotify.com/album/7ameJ6pSgZagUBgwubwTMq"
+      },
+      "artists": [
+        {
+          "name": "Magnet",
+          "url": "https://open.spotify.com/artist/0aPh6hUf7HfSVXtyxQs9AR"
+        }
+      ],
+      "duration_ms": 277773,
+      "name": "Lay Lady Lay",
+      "url": "https://open.spotify.com/track/5YFlYhVwQNPjy5tmUryDRD"
     },
     {
       "added_at": "2023-09-21 09:35:53",

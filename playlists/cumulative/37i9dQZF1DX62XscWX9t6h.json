@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "Ghibli",
+        "url": "https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As"
+      },
+      "artists": [
+        {
+          "name": "Savana Funk",
+          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235519,
+      "name": "Ghibli",
+      "url": "https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU"
+    },
+    {
+      "album": {
         "name": "On",
         "url": "https://open.spotify.com/album/6AmmrlB9qABCgBdr8SCLZt"
       },
@@ -906,7 +924,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 235418,
       "name": "Mano de Fatima",
       "url": "https://open.spotify.com/track/1823wxCop81BdNRMKcfygg"

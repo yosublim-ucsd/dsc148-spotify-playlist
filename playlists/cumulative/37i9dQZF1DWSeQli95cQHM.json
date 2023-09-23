@@ -303,6 +303,28 @@
     },
     {
       "album": {
+        "name": "DEUSA DO BRASIL",
+        "url": "https://open.spotify.com/album/5YvvoWgsTWV0LOFOizkv1Z"
+      },
+      "artists": [
+        {
+          "name": "Clementaum",
+          "url": "https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH"
+        },
+        {
+          "name": "Umatheusa",
+          "url": "https://open.spotify.com/artist/0AdLEkAV9jGqB9ETwSZbJ5"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176001,
+      "name": "DEUSA DO BRASIL",
+      "url": "https://open.spotify.com/track/1b84zRNSPUMopOZSe2F4hv"
+    },
+    {
+      "album": {
         "name": "Energy Sync",
         "url": "https://open.spotify.com/album/0mQmWLWrWhdmKxoN3GLtW0"
       },
@@ -582,7 +604,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 365082,
       "name": "Madame Kabukicho",
       "url": "https://open.spotify.com/track/0puinhkTDWQyMhDgJjC7eR"
@@ -1061,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "PISA PISA",
+        "url": "https://open.spotify.com/album/1NN5E0H8CQvGhjT8Fvwje6"
+      },
+      "artists": [
+        {
+          "name": "EVEHIVE",
+          "url": "https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234632,
+      "name": "VO SOC\u00c1",
+      "url": "https://open.spotify.com/track/4aO70Qd15wxqQxUhgeTn1P"
+    },
+    {
+      "album": {
         "name": "Bajolo Vol. I",
         "url": "https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx"
       },
@@ -1072,7 +1112,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 384480,
       "name": "Vou Pra Longe (Floatin')",
       "url": "https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,911 likes - 90 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,931 likes - 90 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 35 | [All of Me \- Live from Spotify Milan](https://open.spotify.com/track/6nyZQ82OI0OujbbFpo3e0K) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Sessions](https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE) | 4:51 |
 | 36 | [You Learn \- Live / Unplugged](https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Live / Unplugged](https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv) | 4:21 |
 | 37 | [Eu Tive um Sonho \- Ao Vivo](https://open.spotify.com/track/0sZU3DM0ejEEAO0mTPkd4Z) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Planta e Raiz 2022, Show Completo \(Ao Vivo\)](https://open.spotify.com/album/5sSeu41v2GyGqypbbFCPh5) | 3:41 |
-| 38 | [Wonderwall \- Live from Spotify Sessions, Metropolis Studios, London](https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Spotify Singles](https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC) | 3:18 |
-| 39 | [Barquinho de papel](https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Trilhas](https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5) | 3:48 |
+| 38 | [Barquinho de papel](https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Trilhas](https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5) | 3:48 |
+| 39 | [Wonderwall \- Live from Spotify Sessions, Metropolis Studios, London](https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Spotify Singles](https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC) | 3:18 |
 | 40 | [Coisas Que Eu Sei](https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Releituras](https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM) | 2:58 |
 | 41 | [New Rules \- Acoustic](https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [New Rules \(Acoustic\)](https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o) | 3:33 |
 | 42 | [Let Her Go \- Acoustic](https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights \(Deluxe Version\)](https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF) | 4:26 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 89 | [New Rules \- Piano, Acoustic; Live](https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Live Acoustic EP](https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda) | 3:29 |
 | 90 | [America](https://open.spotify.com/track/7AH9uEJp62zFAs2E8hvqEk) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH) | 4:03 |
 
-Snapshot ID: `MCw3NGY5ZDA0ZTYwNzE3MTM1NTZkYzAwYmI5Mzg0MzY3ZjZiYTU2Zjgw`
+Snapshot ID: `MCwwMGMwMWY1ZTU3YzdmMWE1ODE3YTRlNTY0MTgyMjRkMDhjMGJkY2Ji`

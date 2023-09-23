@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Marshall Ahmed
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,580 likes - 65 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,604 likes - 65 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 64 | [Baat Unkahi](https://open.spotify.com/track/5nLlwrElZuyqp7A4fb1o87) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3), [Samra Khan](https://open.spotify.com/artist/6RTvKMKR11gpANguOSx5vv) | [Baat Unkahi](https://open.spotify.com/album/7pLLqbmb1H4823NX2nE1un) | 5:39 |
 | 65 | [Mann Mein Tu](https://open.spotify.com/track/3hfEObd2ttNLTEBCVIafKa) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Mann Mein Tu](https://open.spotify.com/album/68gFrMFNTNTxLa8Nmm9Lx0) | 2:59 |
 
-Snapshot ID: `MCw2YWQxOWQzMjRkY2NhNTUxN2Q2Y2U2Yzc2Y2FmOGM0NTg1YWE3MDE4`
+Snapshot ID: `MCwzMWU0ZDIwYTgzZGYwZWU1NGY5Nzc0YzQzMjFiMzE0MTkyOTZhZDdh`

@@ -694,7 +694,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 129655,
       "name": "another day",
       "url": "https://open.spotify.com/track/3GiaKFUtnd9N6SMaP5wOK6"
@@ -942,7 +942,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 195230,
       "name": "Asthma",
       "url": "https://open.spotify.com/track/3Dg3AZOd8xL6hQ3CHRB83h"
@@ -1685,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "BLOOD DIAMOND RING",
+        "url": "https://open.spotify.com/album/4hRVeQYXDUEiwhtfwcBObt"
+      },
+      "artists": [
+        {
+          "name": "Huron John",
+          "url": "https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145043,
+      "name": "BLOOD DIAMOND RING",
+      "url": "https://open.spotify.com/track/2I7rgaoo5F5ZAZIg6cIPVu"
+    },
+    {
+      "album": {
         "name": "Blue Sea",
         "url": "https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz"
       },
@@ -2126,6 +2144,28 @@
       "duration_ms": 129697,
       "name": "C U Girl",
       "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
+    },
+    {
+      "album": {
+        "name": "c u never",
+        "url": "https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A"
+      },
+      "artists": [
+        {
+          "name": "tomcbumpz",
+          "url": "https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175806,
+      "name": "c u never",
+      "url": "https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf"
     },
     {
       "album": {
@@ -6417,6 +6457,24 @@
     },
     {
       "album": {
+        "name": "Her Favorite Flowers",
+        "url": "https://open.spotify.com/album/5rFnAfQqhy7sFGSq15gN7g"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193242,
+      "name": "hold me, never let go",
+      "url": "https://open.spotify.com/track/6QC5Dtp38M05T536UONe6J"
+    },
+    {
+      "album": {
         "name": "Skiptracing",
         "url": "https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN"
       },
@@ -8380,7 +8438,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 173856,
       "name": "Letters",
       "url": "https://open.spotify.com/track/6YQcXeLou3k4rpubfxZ1s6"
@@ -10312,7 +10370,7 @@
       ],
       "date_added": "2019-07-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 250909,
       "name": "Off and On",
       "url": "https://open.spotify.com/track/40zaUOTsugX2NEBuJ6905s"
@@ -16446,6 +16504,28 @@
       "duration_ms": 177500,
       "name": "Your Own",
       "url": "https://open.spotify.com/track/3axNvNVXW11vfhQrNdbCOV"
+    },
+    {
+      "album": {
+        "name": "You\u2019d Be Stars (feat. chloe moriondo)",
+        "url": "https://open.spotify.com/album/0BiwIMzRsVUWQFl2taiScY"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        },
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222899,
+      "name": "You\u2019d Be Stars (feat. chloe moriondo)",
+      "url": "https://open.spotify.com/track/6qsIkaOBHaQByY3jiNZSaA"
     },
     {
       "album": {

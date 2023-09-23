@@ -4,7 +4,7 @@
 
 > Música eletrônica para aquele treino de peso.
 
-104 songs - 6 hr 2 min
+105 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,8 +102,9 @@
 | [Taste \- Remix](https://open.spotify.com/track/5jzvi4Vt4QvCgDMF3jO7u9) | [DJ Valle](https://open.spotify.com/artist/5cYXpZE0nMP9yKot4mb32e) | [Taste \(Remix\)](https://open.spotify.com/album/10khoYES3P54jYmKMLP4Rp) | 1:54 | 2021-12-17 | 2022-02-12 |
 | [Tears](https://open.spotify.com/track/70av8bgExOvrGBWflEToQw) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3), [Yahel](https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF) | [Tears](https://open.spotify.com/album/5BQh3H3V2a2ROhVUhbRXBp) | 4:46 | 2022-09-09 |  |
 | [TERROR](https://open.spotify.com/track/2JYuqwjVVDN8urZZOoGXS6) | [INF1N1TE](https://open.spotify.com/artist/3TbFfHyWvQdppfL0TpWufG) | [TERROR](https://open.spotify.com/album/0kVkopK97VuOhHJ8Mh5OXn) | 3:24 | 2021-12-17 |  |
-| [The Love](https://open.spotify.com/track/2zcvYKGbJb4wsUfWKId1Iw) | [Reverence](https://open.spotify.com/artist/5iXp3W5x3XiBU55AGhfEYl) | [The Love](https://open.spotify.com/album/48apPEhE41dmuhU9F2zgW9) | 4:56 | 2022-07-08 |  |
+| [The Love](https://open.spotify.com/track/2zcvYKGbJb4wsUfWKId1Iw) | [Reverence](https://open.spotify.com/artist/5iXp3W5x3XiBU55AGhfEYl) | [The Love](https://open.spotify.com/album/48apPEhE41dmuhU9F2zgW9) | 4:56 | 2022-07-08 | 2023-09-23 |
 | [The Ninja](https://open.spotify.com/track/6CabLlqCd0jhWd9t0YHf27) | [Eddie Bitar](https://open.spotify.com/artist/2lYqW6goFxy80hB83z69nT), [Gonzi](https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe), [Metronome](https://open.spotify.com/artist/1IONqTIhfKqR6QYjS98q9m) | [The Ninja](https://open.spotify.com/album/4css1cwolGmyamZ0PLhhXQ) | 4:45 | 2022-04-22 |  |
+| [Tira A Camisa](https://open.spotify.com/track/74wXmElNAq0vNBS47FiZSz) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Tira A Camisa](https://open.spotify.com/album/2uNjixcI6TJrlOcJfbJyuF) | 3:00 | 2023-09-22 |  |
 | [TYB](https://open.spotify.com/track/4JgivUzqL8t8tdHDFQiQMG) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [Hot Bullet](https://open.spotify.com/artist/4vDtyZl3NELBWbdvHQ28M5) | [Red Universe Vol\. 1](https://open.spotify.com/album/7qiF45veMNvi6PwN6oAbDk) | 2:52 | 2021-12-17 |  |
 | [Wash Bass](https://open.spotify.com/track/2r7hmPkON1r2KSdqgYXeFe) | [Sterium](https://open.spotify.com/artist/6mZFMQ4sBi39W9dXCLH77s) | [Wash Bass](https://open.spotify.com/album/3QyqHmtONP5GONspwJThQq) | 3:23 | 2021-12-17 |  |
 | [We Forgive Them](https://open.spotify.com/track/4xOD6UtpDhIIgqv3sECby2) | [EME](https://open.spotify.com/artist/004h2uqVUpmOuz4oY6aTqw) | [We Forgive Them](https://open.spotify.com/album/7HAnr5IFFcHTj4RLZnNGq4) | 2:44 | 2021-12-17 |  |

@@ -1471,6 +1471,28 @@
     },
     {
       "album": {
+        "name": "Fuego de Noche, Nieve de D\u00eda",
+        "url": "https://open.spotify.com/album/5MPWqO3tZLzTjCXYK74Sos"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282565,
+      "name": "Fuego de Noche, Nieve de D\u00eda",
+      "url": "https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM"
+    },
+    {
+      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
       },

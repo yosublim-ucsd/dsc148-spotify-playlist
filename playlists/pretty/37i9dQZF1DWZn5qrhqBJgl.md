@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 
 > Dope global beat makers\. <a href="spotify:artist:4fOizZJsCaT3RYpqNdeGKk">Thanks Joey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,601 likes - 60 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,663 likes - 60 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 21 | [Targa](https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc) | [Jewlz](https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt) | [Targa](https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3) | 2:52 |
 | 22 | [Hotel](https://open.spotify.com/track/2JWTVS3ndZcwJrabnCAWvD) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Glazed](https://open.spotify.com/album/25z7PJPi2VM4jg3trb5C12) | 2:39 |
 | 23 | [Grace](https://open.spotify.com/track/2YOLzRGMjNSgZ3KZimG2Rg) | [Mad Q](https://open.spotify.com/artist/0yZLorpKt2NmXzVuaix3x4) | [Grace](https://open.spotify.com/album/49khuIg6AMmQiF98bSxiSi) | 2:24 |
-| 24 | [Chasin Daisys](https://open.spotify.com/track/6Ubd7b9qq9gihaR8WElv7m) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Chasin Daisys](https://open.spotify.com/album/7GT5JveFqzf8ugLQOaunBe) | 2:11 |
-| 25 | [Breakaway](https://open.spotify.com/track/2G0oEXtrGhy2xJKB2bLhuo) | [Aldo Levitt](https://open.spotify.com/artist/5wWlIBXDyTwVhqpbHrhmjw) | [Breakaway](https://open.spotify.com/album/0aHNCKqYpx2fKtWo5b08Ut) | 2:49 |
-| 26 | [Lifted](https://open.spotify.com/track/7Gtaq3mJs8K4CY58TjCk9j) | [DJ Lethal Skillz](https://open.spotify.com/artist/7F3kgeoTzXbi5JLPylw4qW) | [Above the Clouds](https://open.spotify.com/album/0An0CtQgoD3lTBajLZ5BKT) | 3:15 |
-| 27 | [Rahat \- Instrumental](https://open.spotify.com/track/0eIZJWahC3DUH6UxH5z9o5) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 2:46 |
+| 24 | [Rahat \- Instrumental](https://open.spotify.com/track/0eIZJWahC3DUH6UxH5z9o5) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 2:46 |
+| 25 | [Lifted](https://open.spotify.com/track/7Gtaq3mJs8K4CY58TjCk9j) | [DJ Lethal Skillz](https://open.spotify.com/artist/7F3kgeoTzXbi5JLPylw4qW) | [Above the Clouds](https://open.spotify.com/album/0An0CtQgoD3lTBajLZ5BKT) | 3:15 |
+| 26 | [Breakaway](https://open.spotify.com/track/2G0oEXtrGhy2xJKB2bLhuo) | [Aldo Levitt](https://open.spotify.com/artist/5wWlIBXDyTwVhqpbHrhmjw) | [Breakaway](https://open.spotify.com/album/0aHNCKqYpx2fKtWo5b08Ut) | 2:49 |
+| 27 | [Chasin Daisys](https://open.spotify.com/track/6Ubd7b9qq9gihaR8WElv7m) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Chasin Daisys](https://open.spotify.com/album/7GT5JveFqzf8ugLQOaunBe) | 2:11 |
 | 28 | [The Ace](https://open.spotify.com/track/3YphbgGJ1GfEGhMmIOthk6) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC), [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q), [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [The Ace](https://open.spotify.com/album/1zg8XpwtPKoLgGurMkz5Op) | 2:24 |
 | 29 | [Adults](https://open.spotify.com/track/7qw54hVGKg32hCy37pOkqA) | [Kray Stax](https://open.spotify.com/artist/18U2xdC8wtA3Jl6mQcrjWS) | [Adults](https://open.spotify.com/album/2VS6Va3gr1cGiMi2E9SPPE) | 3:37 |
 | 30 | [Draai Je Om \- Instrumental](https://open.spotify.com/track/7KVqGZPu3a2IaCUx6wbXLR) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Draai Je Om](https://open.spotify.com/album/75LwEJvg8k29QAbzPGQXaf) | 3:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 59 | [Daydream in Green](https://open.spotify.com/track/3ig0oMG2de0KiuMlHIyfgB) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Daydream in Green](https://open.spotify.com/album/3nkRVQuQNbFm3sid5OPCOR) | 3:40 |
 | 60 | [100=1](https://open.spotify.com/track/77cwNBtWc0sC5R1XAJ703p) | [Hello Psychaleppo](https://open.spotify.com/artist/0yRYo9ej1JqOzFyVvLe00O) | [Arabstazy \- Under Frustration Vol\. 2](https://open.spotify.com/album/57xfOZGUXk91oUUnlMrxPW) | 4:37 |
 
-Snapshot ID: `MCwzNThmNzFjOTM5MWZkNGM1MzYzYzg0NzUzN2I0YmVlZmM5YjU4ZmVk`
+Snapshot ID: `MCw1YzE1OTFiYmI2MGNiYjU5ZDExZTA5NzJhZTJmODUwNTkzNzM1M2Zk`

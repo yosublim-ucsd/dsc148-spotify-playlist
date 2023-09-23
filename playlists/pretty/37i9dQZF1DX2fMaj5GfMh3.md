@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Tate McRae deze week op de cover van Fresh Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,575 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,641 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 43 | [Silence Me \(To Death\)](https://open.spotify.com/track/15f6dnQCldwEyP9cHZnVnJ) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Silence Me \(To Death\)](https://open.spotify.com/album/7FKxWyMczQQVF1bs9tIrd0) | 2:20 |
 | 44 | [Texts Go Green](https://open.spotify.com/track/1GPliC2cz8d5rTVDASQ633) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Texts Go Green](https://open.spotify.com/album/3OrU1Vo2kgpEING1SWD4e3) | 2:25 |
 | 45 | [Elevator Eyes](https://open.spotify.com/track/1AZoLkRwhHY5xSL9lGYrlc) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme \(Extended Cut\)](https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3) | 2:58 |
-| 46 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 |
+| 46 | [Paint The Town Red](https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:50 |
 | 47 | [Happy Again](https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy Again](https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay) | 2:34 |
 | 48 | [Seasons](https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Seasons](https://open.spotify.com/album/4oEzeXL8AFv8FcX7vGhw1U) | 2:46 |
 | 49 | [At Your Worst](https://open.spotify.com/track/6IYIPVF7RZQUEbVVs47xqw) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [At Your Worst](https://open.spotify.com/album/0dhaQArDYjNo5woJGbXaYU) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [lie](https://open.spotify.com/track/2GQqCyDCD0Z7BL2otJkFRh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [lie](https://open.spotify.com/album/6uy43Z8UWtPQS7tnddxU8G) | 3:34 |
 | 100 | [WHAT THE HELL ARE WE DYING FOR ?](https://open.spotify.com/track/1sKtD5KMZgTFHbsxjgqfZh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [WHAT THE HELL ARE WE DYING FOR ?](https://open.spotify.com/album/0Q7TVHu87oAlkDhQP18QiX) | 3:49 |
 
-Snapshot ID: `MCxkMDJiZTY2NzhjMWI0MTllYjczODFmNDlhZjZkNWNiNWZlYzliODky`
+Snapshot ID: `MCwyOTI0ZTVmNGE4MGFjNmNiNjYwN2IwZWFjMjExMDliMWU5MjAwNjMz`

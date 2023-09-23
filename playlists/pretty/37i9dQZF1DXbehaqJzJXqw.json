@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 341650,
+  "num_followers": 342021,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjY1YmY4ZTU1NzI4N2ZjMTRmMGFiZjliMTA2MjBhMGIxOTlkNDM2",
+  "snapshot_id": "MCwzMGZhMTU3OWI3MGQ0ODQ5ZmFlYzViZjg3YjdmZDU1MjQ2NmQxMDk5",
   "tracks": [
     {
       "added_at": "2023-09-20 13:30:24",
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-09-20 13:30:24",
       "album": {
-        "name": "Chambre avec vue",
-        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Jardin d'hiver",
-      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
-    },
-    {
-      "added_at": "2023-09-20 13:30:24",
-      "album": {
         "name": "Salle des pas perdus",
         "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 233960,
       "name": "Samba de mon c\u0153ur qui bat",
       "url": "https://open.spotify.com/track/4zXKbHN9FKRTIirYQdMRqI"
+    },
+    {
+      "added_at": "2023-09-20 13:30:24",
+      "album": {
+        "name": "Chambre avec vue",
+        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Jardin d'hiver",
+      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
     },
     {
       "added_at": "2023-09-20 13:30:24",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-09-20 13:30:24",
       "album": {
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+      },
+      "artists": [
+        {
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "L'ombre et la lumi\u00e8re",
+      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
+    },
+    {
+      "added_at": "2023-09-20 13:30:24",
+      "album": {
         "name": "All the Way (feat. Jordan Officer)",
         "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 229226,
       "name": "J'attendrai",
       "url": "https://open.spotify.com/track/1MllJS2dPDoVBuWVMoLujP"
-    },
-    {
-      "added_at": "2023-09-20 13:30:24",
-      "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
-      },
-      "artists": [
-        {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
-        }
-      ],
-      "duration_ms": 248373,
-      "name": "L'ombre et la lumi\u00e8re",
-      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
     },
     {
       "added_at": "2023-09-20 13:30:24",
@@ -515,18 +515,18 @@
     {
       "added_at": "2023-09-20 13:30:24",
       "album": {
-        "name": "Manquait Plus Qu'Ca",
-        "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
+        "name": "Blossom Dearie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
       },
       "artists": [
         {
-          "name": "Sandrine Kiberlain",
-          "url": "https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l"
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
         }
       ],
-      "duration_ms": 155120,
-      "name": "M'envoyer des fleurs",
-      "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
+      "duration_ms": 143760,
+      "name": "Tout Doucement",
+      "url": "https://open.spotify.com/track/0OGo0CHKYXBzb9A9KdtQLz"
     },
     {
       "added_at": "2023-09-20 13:30:24",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-09-20 13:30:24",
       "album": {
-        "name": "Blossom Dearie (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
+        "name": "Manquait Plus Qu'Ca",
+        "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
       },
       "artists": [
         {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "Sandrine Kiberlain",
+          "url": "https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l"
         }
       ],
-      "duration_ms": 143760,
-      "name": "Tout Doucement",
-      "url": "https://open.spotify.com/track/0OGo0CHKYXBzb9A9KdtQLz"
+      "duration_ms": 155120,
+      "name": "M'envoyer des fleurs",
+      "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
     },
     {
       "added_at": "2023-09-20 13:30:24",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-09-20 13:30:24",
       "album": {
-        "name": "Rendez Vous",
-        "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 217880,
-      "name": "Le Temps Qui Passe",
-      "url": "https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw"
-    },
-    {
-      "added_at": "2023-09-20 13:30:24",
-      "album": {
         "name": "Whisper For You",
         "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 149533,
       "name": "Plus Je T'embrasse",
       "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
+    },
+    {
+      "added_at": "2023-09-20 13:30:24",
+      "album": {
+        "name": "Rendez Vous",
+        "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 217880,
+      "name": "Le Temps Qui Passe",
+      "url": "https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw"
     },
     {
       "added_at": "2023-09-20 13:30:24",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-09-20 13:30:24",
       "album": {
+        "name": "N\u00b04",
+        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "duration_ms": 146306,
+      "name": "Baudelaire",
+      "url": "https://open.spotify.com/track/5j9Z3X3FAsyZGEdEptMepT"
+    },
+    {
+      "added_at": "2023-09-20 13:30:24",
+      "album": {
         "name": "Trenet",
         "url": "https://open.spotify.com/album/3ZZJVoDieCjBDyZl4ePZnQ"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 194186,
       "name": "J\u2019ai ta main",
       "url": "https://open.spotify.com/track/3xWxjeErA8FvMcF0Gq7yUO"
-    },
-    {
-      "added_at": "2023-09-20 13:30:24",
-      "album": {
-        "name": "N\u00b04",
-        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        }
-      ],
-      "duration_ms": 146306,
-      "name": "Baudelaire",
-      "url": "https://open.spotify.com/track/5j9Z3X3FAsyZGEdEptMepT"
     },
     {
       "added_at": "2023-09-20 13:30:24",

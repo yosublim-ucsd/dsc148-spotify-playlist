@@ -4,7 +4,7 @@
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. El Tri en portada.
 
-169 songs - 10 hr 45 min
+170 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Quiten El Trap](https://open.spotify.com/track/47HKTaIC6f3I9wF10E1J2r) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Quiten El Trap](https://open.spotify.com/album/2ZuRVitZRB7NHOr4uwdjck) | 2:37 | 2022-09-23 | 2022-12-30 |
 | [Qué Te Robas?](https://open.spotify.com/track/2REZbo1NmHJVcJJm2sTpLu) | [Riesgo de Contagio](https://open.spotify.com/artist/5xwNWlB2SB0yzaAQOgcysm), [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb), [Julián André](https://open.spotify.com/artist/30kebtq9Pict8LIMNmtvOc), [Sabo Romo](https://open.spotify.com/artist/2xqM9QBD5UgmHWfUbqfs1M), [El Invencible](https://open.spotify.com/artist/6AMdEeibcmY7u7COKwugAT) | [Qué Te Robas?](https://open.spotify.com/album/7ldtONmp2xnN3HB83EIhY3) | 4:00 | 2023-05-12 | 2023-05-23 |
 | [Rastaman\- Dita](https://open.spotify.com/track/5kUf3gMXG6lTJkfQWLZSsP) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Apocalypshit](https://open.spotify.com/album/2Kd0lXsX8jlXwnoRrAnRiQ) | 3:48 | 2022-04-19 |  |
-| [Raíz \(Sinfónico en Vivo\)](https://open.spotify.com/track/4olGOQU6lKPpw3NiuXKtae) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [14 Episodios Sinfónicos / En Vivo / Auditorio Nacional de México / Febrero 2002](https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO) | 4:07 | 2022-08-11 |  |
+| [Raíz \(Sinfónico en Vivo\)](https://open.spotify.com/track/4olGOQU6lKPpw3NiuXKtae) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [14 Episodios Sinfónicos / En Vivo / Auditorio Nacional de México / Febrero 2002](https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO) | 4:07 | 2022-08-11 | 2023-09-23 |
 | [Realidad Aparente](https://open.spotify.com/track/7JJ8lSAxz7NaVTNiTcYwBc) | [Los Romanticos de Zacatecas](https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg) | [Realidad Aparente](https://open.spotify.com/album/7qgEurNldCzTbsDCy8FxDA) | 1:41 | 2023-03-31 | 2023-04-15 |
 | [Revolución turra \- En directo Razzmatazz](https://open.spotify.com/track/000bhyTmlJJJnWzA2xrhAa) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Revolución turra \(En directo Razzmatazz\)](https://open.spotify.com/album/2sUNWdu8cnAq19y2mgO5wO) | 3:16 | 2023-05-19 | 2023-07-01 |
 | [Ricos](https://open.spotify.com/track/1EnZ3INXgu2fnfQhqGWHDt) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Ricos](https://open.spotify.com/album/2tg6afES7ci3iXpktgcmKi) | 2:54 | 2022-08-13 | 2022-08-20 |
@@ -143,6 +143,7 @@
 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 | 2022-01-14 |  |
 | [Santa Lucía \- En directo 2023](https://open.spotify.com/track/2dOaLeSHVbBJranHRO3b2g) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [Santa Lucía \(En directo 2023\)](https://open.spotify.com/album/7IEiiqwZJ0qZuXik2OXPrj) | 4:19 | 2023-04-21 | 2023-08-20 |
 | [Señal](https://open.spotify.com/track/3wbNcSSX8ipuqDEvuSkL6W) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Mienten](https://open.spotify.com/album/235Wl5n7jidt5DZCMobnlR) | 4:37 | 2023-06-16 |  |
+| [Si no es por ti](https://open.spotify.com/track/1oIBBun5CFK7A2QGJcLpQP) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [Si no es por ti / Ladridos en el pecho](https://open.spotify.com/album/0vw3x0KARIc9rgGj8u6p1U) | 3:37 | 2023-09-22 |  |
 | [Siento Que...](https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 3:29 | 2022-04-19 |  |
 | [Sin Rencor](https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:52 | 2022-04-19 |  |
 | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE) | 3:18 | 2023-06-09 |  |

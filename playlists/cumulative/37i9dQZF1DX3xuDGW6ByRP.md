@@ -4,7 +4,7 @@
 
 > as novas de pop rock br / Foto: Lou Garcia
 
-83 songs - 3 hr 55 min
+85 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Exagerado](https://open.spotify.com/track/4KiAjV7djHETTGUDogKz6l) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Exagerados](https://open.spotify.com/album/68sIZYDlwj9xRy06ENDGuF) | 2:43 | 2023-07-21 |  |
 | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z) | 2:59 | 2023-09-15 |  |
 | [Fiz 18](https://open.spotify.com/track/5n1AS1Oea32B0HyXrEGArz) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Fiz 18](https://open.spotify.com/album/3B803upCKgO5My70u4J7sK) | 3:14 | 2023-07-21 |  |
+| [FORA DE SI](https://open.spotify.com/track/55Glu5AJDiVpUOLmxaTFoc) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [FORA DE SI](https://open.spotify.com/album/7xeqEfqU6k9VIbm9v9HD17) | 2:22 | 2023-09-22 |  |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2023-07-21 |  |
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 | 2023-07-21 |  |
 | [Grito](https://open.spotify.com/track/5haGoQ0rTaulltDB7Tw14C) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Grito](https://open.spotify.com/album/00HuLKm9ktQQO7vdoPYbmu) | 2:37 | 2023-07-21 |  |
@@ -89,6 +90,7 @@
 | [vc n gosta de garotas](https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [vc n gosta de garotas](https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob) | 2:12 | 2023-07-21 |  |
 | [VERMELHO FAROL](https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [VERMELHO FAROL](https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns) | 2:30 | 2023-07-21 |  |
 | [Viciado em Mentir](https://open.spotify.com/track/6e2aPJbVJw9L8QDd421zNY) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8) | [Viciado em Mentir](https://open.spotify.com/album/2TJ1ZwEFlLzhDPXmfCligh) | 2:25 | 2023-07-21 |  |
+| [Vilã](https://open.spotify.com/track/6gHv2hEqyAgBvgnBr2DWs8) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Vilã](https://open.spotify.com/album/2W6EWkkAkkmMxQyeePtMTE) | 2:28 | 2023-09-22 |  |
 | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf) | 2:35 | 2023-07-21 |  |
 | [what would you do?](https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [what would you do?](https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs) | 2:46 | 2023-07-21 |  |
 

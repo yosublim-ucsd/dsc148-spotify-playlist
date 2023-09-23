@@ -2524,7 +2524,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 274018,
       "name": "Oye C\u00f3mo Va",
       "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
@@ -3398,6 +3398,24 @@
       "duration_ms": 222439,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/1fDAS8j1MJpmoSfmDOE6cE"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241546,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF"
     },
     {
       "album": {

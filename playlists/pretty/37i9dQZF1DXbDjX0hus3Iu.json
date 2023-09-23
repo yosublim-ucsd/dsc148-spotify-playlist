@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 487746,
+  "num_followers": 487847,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGEyYzIyYWQ5YjJiNTU3MDU4YzE2NzA3ZjFkNDg4N2M5NTE4MjNi",
+  "snapshot_id": "MCwxODQ1NzhkZDI5MzVmZjlmYzNkNDViMzM1YjlhYTdlNTJlZWZkYjkx",
   "tracks": [
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Pattern Disruptive",
-        "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
+        "name": "You Are Here",
+        "url": "https://open.spotify.com/album/3xdpCCvy9cuWspTsouLwb7"
       },
       "artists": [
         {
-          "name": "The Dickey Betts Band",
-          "url": "https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP"
+          "name": "Amberson-Baggett Band",
+          "url": "https://open.spotify.com/artist/28VBsKYqZDUpbzduPgfudH"
         }
       ],
-      "duration_ms": 341933,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv"
+      "duration_ms": 233142,
+      "name": "Rise of the Rebel",
+      "url": "https://open.spotify.com/track/2O1YOP4DFhpJ1kl3wjccSl"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "You Are Here",
-        "url": "https://open.spotify.com/album/3xdpCCvy9cuWspTsouLwb7"
+        "name": "Pattern Disruptive",
+        "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
       },
       "artists": [
         {
-          "name": "Amberson-Baggett Band",
-          "url": "https://open.spotify.com/artist/28VBsKYqZDUpbzduPgfudH"
+          "name": "The Dickey Betts Band",
+          "url": "https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP"
         }
       ],
-      "duration_ms": 233142,
-      "name": "Rise of the Rebel",
-      "url": "https://open.spotify.com/track/2O1YOP4DFhpJ1kl3wjccSl"
+      "duration_ms": 341933,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Dickey Betts Band: Live At The Lone Star Roadhouse",
-        "url": "https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny"
-      },
-      "artists": [
-        {
-          "name": "Dickey Betts",
-          "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
-        }
-      ],
-      "duration_ms": 396226,
-      "name": "Duane's Tune",
-      "url": "https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Pattern Disruptive",
         "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
       },
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "Pullin' Together",
+        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
+      },
+      "artists": [
+        {
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Open Road",
+      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "Just Before The Bullets Fly",
         "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
       },
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Pullin' Together",
-        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
+        "name": "Dickey Betts Band: Live At The Lone Star Roadhouse",
+        "url": "https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny"
       },
       "artists": [
         {
-          "name": "Grinderswitch",
-          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
+          "name": "Dickey Betts",
+          "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
         }
       ],
-      "duration_ms": 249626,
-      "name": "Open Road",
-      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
+      "duration_ms": 396226,
+      "name": "Duane's Tune",
+      "url": "https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU"
     },
     {
       "added_at": "2023-01-18 21:52:55",

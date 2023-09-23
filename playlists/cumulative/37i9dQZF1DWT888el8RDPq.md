@@ -4,7 +4,7 @@
 
 > canzoni felici italiane e internazionali per un settembre preso bene ☀️
 
-313 songs - 15 hr 46 min
+315 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Congrats](https://open.spotify.com/track/3pJMOvec8R8OKzEmB9PRJD) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Congrats](https://open.spotify.com/album/0URAkeg7psYrEr9Qj0KTIL) | 3:37 | 2022-09-09 | 2022-10-02 |
 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 | 2022-09-02 | 2022-09-24 |
 | [Crypto ₿oy](https://open.spotify.com/track/1huSguFFPyo3saFH9u5Sb6) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Crypto ₿oy](https://open.spotify.com/album/6SBASHxpyWAGkqt2kMsBvY) | 2:21 | 2022-06-03 | 2022-07-28 |
+| [DA PAURA](https://open.spotify.com/track/5RtW8gQnmnf2tI6XOaxVlb) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [DA PAURA](https://open.spotify.com/album/2Q4126DBdA4sZV5X5xdoiW) | 2:16 | 2023-09-22 |  |
 | [Dancing in My Room](https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Dancing in My Room](https://open.spotify.com/album/3t1MvGhT6LU3fOIp3KMrta) | 3:00 | 2022-05-06 | 2022-07-13 |
 | [Dancing On A Sunny Day](https://open.spotify.com/track/4QNxalh2dYirUjd7yGPlfu) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dancing On A Sunny Day](https://open.spotify.com/album/2o9Whn3LIpFQeD1f3vNZJJ) | 2:56 | 2022-06-10 | 2022-07-29 |
 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 | 2022-05-06 |  |
@@ -201,6 +202,7 @@
 | [Lonely](https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:55 | 2022-10-05 | 2023-02-18 |
 | [Long Drives](https://open.spotify.com/track/2jDrRaea7deXVEt4JmpvBU) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Long Drives](https://open.spotify.com/album/0Mpe1VWJDZ5FxbZlE1nUaU) | 2:39 | 2022-05-06 | 2022-07-29 |
 | [LOOP](https://open.spotify.com/track/2aZPrpx4DXJUxg201ORkbH) | [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G) | [LOOP](https://open.spotify.com/album/0KySGmKkbdpvZu8HURouK4) | 2:41 | 2022-07-05 | 2022-07-29 |
+| [LOSER](https://open.spotify.com/track/11uWk4MpRXW6Ei95F6RjFQ) | [CARO WOW](https://open.spotify.com/artist/6kyGmHxzIq5UcqAYS6BWUs) | [LOSER](https://open.spotify.com/album/0bwONTyMcavDzaKfXm25uJ) | 2:22 | 2023-09-22 |  |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-05-06 | 2022-09-24 |
 | [Lost The Breakup](https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Lost The Breakup](https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8) | 3:09 | 2023-03-31 | 2023-05-14 |
 | [Lost When I'm Around You](https://open.spotify.com/track/5u5lUvwZiPBHqVSJuXpxjd) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Lost When I’m Around You](https://open.spotify.com/album/3Ga5TCkXDbC5vHPIZWv9Tn) | 2:54 | 2023-08-23 |  |
@@ -228,7 +230,7 @@
 | [Never Gonna Give You Up](https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:33 | 2022-10-21 |  |
 | [Non Abbiamo Età](https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Potere](https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM) | 3:01 | 2022-11-07 | 2023-01-07 |
 | [Notti In Bianco](https://open.spotify.com/track/38UoVEHcZ85EGBo6k79643) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Notti In Bianco](https://open.spotify.com/album/6gnq480U8mvkVRMqKinsX6) | 2:56 | 2022-05-06 | 2022-07-29 |
-| [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 | 2022-05-06 |  |
+| [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 | 2022-05-06 | 2023-09-23 |
 | [Nuova fissa](https://open.spotify.com/track/1PueyaeMdF96akBvyLr7X7) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Storia Breve](https://open.spotify.com/album/2MPwfObbvhMOyPxmFmb7WQ) | 2:45 | 2022-06-10 | 2022-07-29 |
 | [NUOVO RANGE \(con SFERA EBBASTA\)](https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:56 | 2022-11-08 | 2022-11-13 |
 | [Ode To NYC](https://open.spotify.com/track/3Ie1fWrYvi0sueYNwmr79X) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Ode To NYC](https://open.spotify.com/album/45kDhJN2uStPevnVj9ZqjT) | 2:51 | 2022-05-16 | 2022-07-20 |
@@ -263,7 +265,7 @@
 | [Sick of U \(with Oliver Tree\)](https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Sick of U](https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl) | 2:48 | 2022-10-05 | 2022-10-22 |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-06-21 | 2022-08-19 |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2022-08-12 |  |
-| [SnOWfLAkE](https://open.spotify.com/track/2zIbl1gHuqMgXnC6bxURWW) | [ANNABELLE](https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm) | [KIDNAP ME PLS](https://open.spotify.com/album/7gR7TjkbGXEPhQMLnqyuLs) | 2:42 | 2022-10-28 |  |
+| [SnOWfLAkE](https://open.spotify.com/track/2zIbl1gHuqMgXnC6bxURWW) | [ANNABELLE](https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm) | [KIDNAP ME PLS](https://open.spotify.com/album/7gR7TjkbGXEPhQMLnqyuLs) | 2:42 | 2022-10-28 | 2023-09-23 |
 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-03-31 | 2023-05-08 |
 | [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 | 2023-01-31 |  |
 | [SoloSolo](https://open.spotify.com/track/531qu9jNWEe6HQ0MdCgnir) | [Spacehippiez](https://open.spotify.com/artist/1SMNrh8qrsRR3ufDamWNFh) | [SoloSolo](https://open.spotify.com/album/4stvuFXsmromH5azNgFZAy) | 2:13 | 2023-05-02 |  |

@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-613 songs - 1 day 9 hr 20 min
+616 songs - 1 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Everlonging](https://open.spotify.com/track/7ncqZEutTnKNmxJn50URcf) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [Everlonging](https://open.spotify.com/album/1DQviQUrW2Ek5Nas6q3mUw) | 2:07 | 2022-04-07 |  |
 | [everpresent](https://open.spotify.com/track/6NnKLbuNprZyhHUUbu11HS) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [everpresent](https://open.spotify.com/album/1HVgsvqhD0LwqEDRy03Y7Q) | 2:35 | 2022-05-05 |  |
 | [Everything](https://open.spotify.com/track/17Vyuiin8uY1eOR1imRtqS) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/7CyISiIyKSbgIQZr8JaqoS) | 5:37 | 2019-05-26\* | 2019-06-27 |
+| [Extension](https://open.spotify.com/track/7cpZLMamKPbJnV3hMAof98) | [Oblivion](https://open.spotify.com/artist/5bay23a7lnykOEQWt7FVnQ) | [Extension](https://open.spotify.com/album/5dZ9B7wDetwuHLmxHsEeJS) | 2:30 | 2023-09-22 |  |
 | [Fallen](https://open.spotify.com/track/5M88pavKSWfH8YEjNHDNP6) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Rusted Waters](https://open.spotify.com/album/1kG7ooS7ra0bNHkwXCLf3c) | 4:38 | 2019-06-19\* | 2020-08-07 |
 | [Falling Rivers](https://open.spotify.com/track/1Tx1CeHCaOHPvYD25thsRq) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Falling Rivers](https://open.spotify.com/album/6UbSWl0n82pfw3J5TlUI63) | 3:38 | 2021-03-24 |  |
 | [Fanshawe](https://open.spotify.com/track/3kaRUmBVjpS5pcT6JKB1jE) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [El Ten Eleven](https://open.spotify.com/album/1j1FvT4EyX9ZIHKlPnUFRL) | 5:12 | 2019-05-26\* | 2019-06-19 |
@@ -195,6 +196,7 @@
 | [Focus](https://open.spotify.com/track/3DZ7DFolE5U2xEGIzFjeGo) | [Light of Sun](https://open.spotify.com/artist/1G18ferRDAgDuiTaMkoFQf) | [Focus](https://open.spotify.com/album/11a6ahi4zzT4ZRFH06KODz) | 3:10 | 2019-06-27 | 2022-11-18 |
 | [Follow me](https://open.spotify.com/track/7d44sL4znFm5HZ6ltUVqbI) | [Andre Ehmann](https://open.spotify.com/artist/1PsIQFkwqSXuQpqK4lxkf6) | [Follow me](https://open.spotify.com/album/7u7hd3qp84YgMuLtsT0GJU) | 3:24 | 2019-07-31 | 2023-07-14 |
 | [Follow My Voice](https://open.spotify.com/track/5bUMUrnrWr29gSRy7UgUOO) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [Follow My Voice](https://open.spotify.com/album/1bVYg6JB1Z0zc0IsHNNHUb) | 2:59 | 2022-11-11 |  |
+| [Follow Thru](https://open.spotify.com/track/5mHmjiDNIipdpNlDc6z0j7) | [Meu Malu](https://open.spotify.com/artist/6zEIDev1R1S22evodGYe6K) | [Follow Thru](https://open.spotify.com/album/00wBugZO9xm4oB50ULFqBn) | 1:58 | 2023-09-22 |  |
 | [For a Moment](https://open.spotify.com/track/1hPEjphQtd9xBOLL4v1VYn) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Reconstruct](https://open.spotify.com/album/07xYLClB2NU5CC5wxFlU4d) | 2:49 | 2020-10-08 |  |
 | [Forever Distant](https://open.spotify.com/track/6phzRtzX5AMmgRVhB02Xas) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Drift Static](https://open.spotify.com/album/1ZDokMeeup5hmKWk0tgPdu) | 3:00 | 2020-11-18 | 2023-06-24 |
 | [Found](https://open.spotify.com/track/2T2EemW8X3GlKvJe1gxpBC) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Found](https://open.spotify.com/album/2LtKNN5HRbG0Acos9YDAMA) | 2:39 | 2019-09-14 | 2023-08-25 |
@@ -355,6 +357,7 @@
 | [Night After Sidewalk](https://open.spotify.com/track/0JUa8PNsS6fvWz2Keb5KLq) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Everybody Loves You](https://open.spotify.com/album/5CbsLK7qbFYtYsGrUTwy3L) | 3:30 | 2019-05-26\* | 2019-08-13 |
 | [Noche Tranquila](https://open.spotify.com/track/6X0KLA9Xh59pHIL5GcDd15) | [Jaime Jacobs](https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx) | [Noche Tranquila](https://open.spotify.com/album/4voco7fHuTX5hmizXE6xWY) | 2:52 | 2020-08-30 | 2021-09-04 |
 | [North Captiva](https://open.spotify.com/track/32dZxkZtsF5Vt3PrJQuV2i) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [North Captiva](https://open.spotify.com/album/3Sz9V9nnQZD0jMIVYI9f9Q) | 3:14 | 2020-06-19 | 2023-08-12 |
+| [Northern Hemisphere](https://open.spotify.com/track/6kgo930u6r7SUYCbtoGBpY) | [Imala Zir](https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo) | [Echo Chambers](https://open.spotify.com/album/5pj7552VoUroJYBKEtZGQd) | 2:34 | 2023-09-22 |  |
 | [Northern Lights](https://open.spotify.com/track/5rUolow9z3wyCtbohQr6Ot) | [Chasing Noise](https://open.spotify.com/artist/1edlG0Xhw8xJS37c96WS1I) | [Wonderland](https://open.spotify.com/album/7icAjJqNlqrBiGPhii6QW1) | 3:36 | 2019-06-19\* | 2021-09-14 |
 | [Nothing It Can](https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 4:47 | 2019-05-26\* | 2020-08-07 |
 | [Now It's Over\. Now I'm Awake.](https://open.spotify.com/track/1Ho9GnoEXLcl60ZmdOfxzQ) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Dawning](https://open.spotify.com/album/1AXGMY5gO4VvCefch2R8oh) | 2:20 | 2019-05-26\* | 2020-08-07 |
@@ -400,7 +403,7 @@
 | [Portico](https://open.spotify.com/track/0b53tPTqZR1kOv7RoG04kh) | [Gae Terragni](https://open.spotify.com/artist/48aSPr6mkeQaIKPJtMycrj) | [Portico](https://open.spotify.com/album/3q51AiQErp0S04GLdKSOyN) | 3:39 | 2021-03-24 | 2023-09-09 |
 | [Postcards from You](https://open.spotify.com/track/6e34YMQxJitSjh15gK6LL6) | [Life Below Elephants](https://open.spotify.com/artist/1WLOHOO3xRSdsrqxWJdWJF) | [Postcards from You](https://open.spotify.com/album/0DEyldJAXBuFZ3iULxBfy9) | 3:52 | 2019-06-19\* | 2021-09-14 |
 | [Prelude For Time Feelers](https://open.spotify.com/track/74K5lZTuJa2w87IPTzxKaz) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Copia](https://open.spotify.com/album/5nwgPZgkuVtiLal8Lbh8mz) | 5:48 | 2019-05-26\* | 2019-06-19 |
-| [Presence](https://open.spotify.com/track/02QoKc20zzH9A8mf25NfPq) | [Van Stiles](https://open.spotify.com/artist/0CbbCtvnseRW3o6aMKBwTs) | [Presence](https://open.spotify.com/album/3m8X9CIHbvnhv3vRjlG3mm) | 2:05 | 2020-01-03 |  |
+| [Presence](https://open.spotify.com/track/02QoKc20zzH9A8mf25NfPq) | [Van Stiles](https://open.spotify.com/artist/0CbbCtvnseRW3o6aMKBwTs) | [Presence](https://open.spotify.com/album/3m8X9CIHbvnhv3vRjlG3mm) | 2:05 | 2020-01-03 | 2023-09-23 |
 | [Pretending](https://open.spotify.com/track/1OMdL6Ut9yYWgq05eUKGuq) | [Evolution of Stars](https://open.spotify.com/artist/3Xwj9Vdgj0oqWEsUcSAoMz) | [Pretending](https://open.spotify.com/album/1w7DwODIG3rzqTp7J0O829) | 3:06 | 2019-05-26\* | 2020-08-07 |
 | [Prism](https://open.spotify.com/track/5cQ5paC2idkxq0dP6bcCbA) | [Lifou](https://open.spotify.com/artist/30A8LRNZBq4B0GmcpvK0Cc) | [Prism](https://open.spotify.com/album/4DbdKB9u4PTDO1FyoMAeZ4) | 2:21 | 2023-07-14 |  |
 | [Progress](https://open.spotify.com/track/6oJIMUBDopuFljMNBFrq9Z) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:18 | 2019-07-31 |  |

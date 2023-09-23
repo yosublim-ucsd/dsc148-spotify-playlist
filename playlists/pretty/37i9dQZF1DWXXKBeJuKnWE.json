@@ -1,12 +1,12 @@
 {
   "description": "The home for heavy rockers. Cover: While She Sleeps",
-  "num_followers": 32290,
+  "num_followers": 32329,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDZhZmQ4ZjJhMDZlYTMyNzBiOGZlMGUxYjgwNDhkNTQ0YWE4ODcw",
+  "snapshot_id": "MCw3YWZkNWE0YTViNWJlMDVjNTRiM2NjMmM5Mzk1YjMyODgzNzVlMzMy",
   "tracks": [
     {
       "added_at": "2023-09-15 09:38:23",
@@ -257,6 +257,26 @@
       "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
     },
     {
+      "added_at": "2023-09-22 11:36:55",
+      "album": {
+        "name": "DROP (feat. Randy Blythe)",
+        "url": "https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "Randy Blythe",
+          "url": "https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB"
+        }
+      ],
+      "duration_ms": 191208,
+      "name": "DROP (feat. Randy Blythe)",
+      "url": "https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33"
+    },
+    {
       "added_at": "2023-09-15 09:38:23",
       "album": {
         "name": "DEADZONE",
@@ -403,6 +423,22 @@
       "duration_ms": 207759,
       "name": "Finish Line (feat. Adam Gontier)",
       "url": "https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM"
+    },
+    {
+      "added_at": "2023-09-22 11:36:55",
+      "album": {
+        "name": "Pink Push-Up Bra",
+        "url": "https://open.spotify.com/album/5vormAy9yNKoLQ6yHsEldX"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "duration_ms": 132705,
+      "name": "Pink Push-Up Bra",
+      "url": "https://open.spotify.com/track/6QbpIejpFu4dpnyHdGJ0fX"
     },
     {
       "added_at": "2023-09-15 09:38:23",
@@ -1319,42 +1355,6 @@
       "duration_ms": 209053,
       "name": "Sold!",
       "url": "https://open.spotify.com/track/1YFr8vK0dEfSl1DmTxcncY"
-    },
-    {
-      "added_at": "2023-09-15 09:38:23",
-      "album": {
-        "name": "FUBAR",
-        "url": "https://open.spotify.com/album/6eZo6l9EtVb5hM3MtdFnjx"
-      },
-      "artists": [
-        {
-          "name": "Punkband",
-          "url": "https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos"
-        }
-      ],
-      "duration_ms": 172038,
-      "name": "FUBAR",
-      "url": "https://open.spotify.com/track/0TOoqfApKrOaCgvEFUDXHc"
-    },
-    {
-      "added_at": "2023-09-15 09:38:23",
-      "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/1ZzBNSEcqoxFqoedZoYXpG"
-      },
-      "artists": [
-        {
-          "name": "Cinnamon Babe",
-          "url": "https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004"
-        },
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        }
-      ],
-      "duration_ms": 247819,
-      "name": "Loose",
-      "url": "https://open.spotify.com/track/6NSUDjjx22ZobxJqRHynpL"
     }
   ],
   "unique_name": "The Pit",

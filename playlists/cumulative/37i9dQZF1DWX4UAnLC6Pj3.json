@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 210373,
       "name": "A La Inversa",
       "url": "https://open.spotify.com/track/3ZfCRzL47DhOYyFfDThd9j"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 143786,
       "name": "Amor Ranchero",
       "url": "https://open.spotify.com/track/6usuEveqwUGH07BI7AWM7f"
@@ -428,7 +428,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 136320,
       "name": "Aqu\u00ed En Mi Coraz\u00f3n T\u00fa Mandas",
       "url": "https://open.spotify.com/track/1uu9o9tf7eLW7mCQMPwZ0h"
@@ -450,6 +450,24 @@
       "duration_ms": 229333,
       "name": "Aqu\u00ed No Es (En Vivo)",
       "url": "https://open.spotify.com/track/0gZfDl5FgtHVhwDSjhJxB5"
+    },
+    {
+      "album": {
+        "name": "As\u00ed Poco A Poquito",
+        "url": "https://open.spotify.com/album/2SV8LPbkfoi0mTFOZHAZdf"
+      },
+      "artists": [
+        {
+          "name": "Los Pistones De Uriel Valdez",
+          "url": "https://open.spotify.com/artist/7k1FiT4LBe1fIkVSdI8Dmn"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136600,
+      "name": "As\u00ed Poco A Poquito",
+      "url": "https://open.spotify.com/track/45vrzTbDUWLtnZYJq8spMr"
     },
     {
       "album": {
@@ -1666,7 +1684,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 147391,
       "name": "Ella No Quiero Bato",
       "url": "https://open.spotify.com/track/1KU0kkUgIgLn8Azh1dw9mi"
@@ -2315,6 +2333,28 @@
     },
     {
       "album": {
+        "name": "La Humilde Opinion",
+        "url": "https://open.spotify.com/album/4WC78n1jgUAndOXIhd5vbP"
+      },
+      "artists": [
+        {
+          "name": "Tony Montoya",
+          "url": "https://open.spotify.com/artist/3odecFgtCNACfFLUlRR8QB"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163016,
+      "name": "La Humilde Opinion",
+      "url": "https://open.spotify.com/track/6dMgfy2TWgjlt7hoCCrbo1"
+    },
+    {
+      "album": {
         "name": "La Ley De La Vida",
         "url": "https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F"
       },
@@ -2348,7 +2388,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 218282,
       "name": "La Llamada De Mi Ex (En Vivo)",
       "url": "https://open.spotify.com/track/0AsxTIT6xA2qjwXc8nqBqF"
@@ -2694,7 +2734,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 141533,
       "name": "Made In Culiac\u00e1n",
       "url": "https://open.spotify.com/track/2agwS63hLGGke66GxSH3BL"
@@ -2760,6 +2800,24 @@
       "duration_ms": 177631,
       "name": "Me equivoqu\u00e9 en amarte",
       "url": "https://open.spotify.com/track/6qa5GVhxSmDsoJF5o8dnrt"
+    },
+    {
+      "album": {
+        "name": "Me Gustas Mucho T\u00fa",
+        "url": "https://open.spotify.com/album/1bkFIUDfNyfuIck0Ktc46C"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152170,
+      "name": "Me Gustas Mucho T\u00fa",
+      "url": "https://open.spotify.com/track/7uCOC6ejt66iR6UOX0dmlJ"
     },
     {
       "album": {
@@ -2854,6 +2912,24 @@
       "duration_ms": 253105,
       "name": "Me Vale Madre",
       "url": "https://open.spotify.com/track/2bgzjBJcfn0r0HkJ0N2Lzx"
+    },
+    {
+      "album": {
+        "name": "Me Vas A Comparar",
+        "url": "https://open.spotify.com/album/6bb5iifYSqMDuIcDMU3Sxi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207453,
+      "name": "Me Vas A Comparar",
+      "url": "https://open.spotify.com/track/2qp7K5TngemNXJWOw41nxa"
     },
     {
       "album": {
@@ -3048,6 +3124,28 @@
       "duration_ms": 186706,
       "name": "Modo Inc\u00f3gnito",
       "url": "https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g"
+    },
+    {
+      "album": {
+        "name": "CHSM El Higado!",
+        "url": "https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193728,
+      "name": "Muchacha - Con Grupo Firme",
+      "url": "https://open.spotify.com/track/3DOu0f6GA30IurY1cAE4zz"
     },
     {
       "album": {
@@ -3262,7 +3360,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 212853,
       "name": "No Hay Nada Mas Que Decir",
       "url": "https://open.spotify.com/track/77sdqXAFOUBRo2ZpCIYGj4"
@@ -3324,7 +3422,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 165093,
       "name": "No Me Mires As\u00ed",
       "url": "https://open.spotify.com/track/0KAriPAvH7g4xrTrjvI5rd"
@@ -3466,6 +3564,28 @@
       "duration_ms": 230440,
       "name": "Olvidarte, \u00bfC\u00f3mo?",
       "url": "https://open.spotify.com/track/483UWv27S4xr8fWZlQ5bnN"
+    },
+    {
+      "album": {
+        "name": "Otra Botella",
+        "url": "https://open.spotify.com/album/6Nr8ddIjhdjliv3Db8foiD"
+      },
+      "artists": [
+        {
+          "name": "Zexta Alianza",
+          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217402,
+      "name": "Otra Botella",
+      "url": "https://open.spotify.com/track/3X1sFqUe5J6Wqrn99jL6R7"
     },
     {
       "album": {
@@ -3880,6 +4000,24 @@
       "duration_ms": 190533,
       "name": "Prefiero Estar Muerto",
       "url": "https://open.spotify.com/track/1Nco4JRyvxxcehIcgDmQUe"
+    },
+    {
+      "album": {
+        "name": "Profundamente",
+        "url": "https://open.spotify.com/album/6PjcA0YN8Tz9JcVjOeWid0"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191773,
+      "name": "Profundamente",
+      "url": "https://open.spotify.com/track/0aI1wUPVSvg8MKQAPL0baz"
     },
     {
       "album": {
@@ -4311,6 +4449,28 @@
     },
     {
       "album": {
+        "name": "Se Me Hizo Vicio",
+        "url": "https://open.spotify.com/album/0q9YBFD8bUPkQewdsKcTVW"
+      },
+      "artists": [
+        {
+          "name": "Israel Valdez",
+          "url": "https://open.spotify.com/artist/6ku8V32RMBkP9rURvRjHCi"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165898,
+      "name": "Se Me Hizo Vicio",
+      "url": "https://open.spotify.com/track/5xBFETjSNKNMfeMI5G2ceS"
+    },
+    {
+      "album": {
         "name": "Se Vale Enamorarse",
         "url": "https://open.spotify.com/album/23yO6kyqh39DCb7PM4UyIY"
       },
@@ -4526,6 +4686,24 @@
       "duration_ms": 159397,
       "name": "Solo Que Lo Dudes",
       "url": "https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx"
+    },
+    {
+      "album": {
+        "name": "Soltero Para Rato",
+        "url": "https://open.spotify.com/album/12LwolaVdtNRJfUpXU84RZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189506,
+      "name": "Soltero Para Rato",
+      "url": "https://open.spotify.com/track/12or4TvmDjzEg05ZYGt0to"
     },
     {
       "album": {
@@ -5088,7 +5266,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 181500,
       "name": "Usted",
       "url": "https://open.spotify.com/track/6JNr7tJRJTazIeEJyOoaCP"

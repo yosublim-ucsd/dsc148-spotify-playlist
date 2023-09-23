@@ -790,7 +790,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Broken Wings",
       "url": "https://open.spotify.com/track/6DsrTcbNItkd09LUx61ZGd"
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 121683,
       "name": "Day 2",
       "url": "https://open.spotify.com/track/6U1kPBM3jg1p0Cy3KBCIYm"
@@ -2558,7 +2558,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 205500,
       "name": "Home",
       "url": "https://open.spotify.com/track/05Q8uBYvjswv0o6tleaVai"
@@ -5370,7 +5370,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 110868,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2"
@@ -6598,7 +6598,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 108179,
       "name": "The Right Time",
       "url": "https://open.spotify.com/track/3FA1m1pT3dnbRfZdiWCKQZ"
@@ -7394,6 +7394,24 @@
       "duration_ms": 195132,
       "name": "Watercolor Tears",
       "url": "https://open.spotify.com/track/23J46AHR6peFeGAGTWeKYs"
+    },
+    {
+      "album": {
+        "name": "We Persist",
+        "url": "https://open.spotify.com/album/7xalfDfiAV5jIbebi7uwtX"
+      },
+      "artists": [
+        {
+          "name": "Josephe Burke",
+          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159650,
+      "name": "We Persist",
+      "url": "https://open.spotify.com/track/5cWCVoVOHjhUNm0I3JE06l"
     },
     {
       "album": {

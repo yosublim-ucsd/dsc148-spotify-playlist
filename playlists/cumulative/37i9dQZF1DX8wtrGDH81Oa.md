@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-225 songs - 11 hr 34 min
+226 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [crusade](https://open.spotify.com/track/30bpR02KwJ6SpvHUvdvuoW) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [crusade](https://open.spotify.com/album/2aQzUj8sNTgQN1AV3uETXt) | 2:08 | 2022-04-15 |  |
 | [Culpa](https://open.spotify.com/track/0D8nhgg7DIKd4BUdQnifTX) | [Mateo Moreira](https://open.spotify.com/artist/0dpf4Wx6EBL7xYeVp0czXa) | [Culpa](https://open.spotify.com/album/1TNqQcjinzcKieG7fICjur) | 3:04 | 2022-04-15 | 2022-06-10 |
 | [Daiane's Samba](https://open.spotify.com/track/5SQTB8jJNdMHKQslwg1GX2) | [Keknou](https://open.spotify.com/artist/37iv6CM0QO9ZqPJsxT1ZPy) | [Daiane's Samba](https://open.spotify.com/album/5BnKfRcJNRnbWvYTiTy3vU) | 2:43 | 2022-04-15 |  |
+| [Daily Affirmations](https://open.spotify.com/track/0R5ZGlaHhl7bRdGHK3wy0E) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [With My Feet On The Ground](https://open.spotify.com/album/36irUhsNlmOTWa4A752d8q) | 2:43 | 2023-09-22 |  |
 | [Day Drinks](https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Day Drinks](https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn) | 2:17 | 2023-01-06 |  |
 | [days of darkness](https://open.spotify.com/track/6jxQtWleRsvLsomeSX7GEN) | [MC Baptiste](https://open.spotify.com/artist/6JaDPnL6ur7OkTwD6wKyhL) | [days of darkness](https://open.spotify.com/album/5kTOeCjQTdTiOxfPXLIbQh) | 2:51 | 2022-06-17 | 2023-02-18 |
 | [Deep Mind](https://open.spotify.com/track/4ZS6culUlDvYvLGgIsEyy2) | [Bamba Lamer](https://open.spotify.com/artist/0lHDiEKyk5ooAlsfDeNHgo) | [Deep Mind](https://open.spotify.com/album/0qtGM2MhLj7A8v3BUpbOz2) | 2:39 | 2022-07-22 | 2023-06-20 |

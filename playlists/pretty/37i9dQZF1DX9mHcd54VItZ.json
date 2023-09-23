@@ -1,13 +1,29 @@
 {
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"Elle E\">Elle E</a>",
-  "num_followers": 14787,
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC?si=s4bAp29aQ4uHhM86DhYcJA\">Karen Zoid</a>",
+  "num_followers": 14803,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2EwM2U1OTY0YTQxOTM3Nzc0YmE1N2FjNjNiZmY2N2IwMDJiZTQx",
+  "snapshot_id": "MCwwN2MzY2M2YjVkMDBkZDM4NzM2MjIyM2QwMzhiMTdmYjdmNDgyMTUz",
   "tracks": [
+    {
+      "added_at": "2023-09-15 04:14:22",
+      "album": {
+        "name": "Hou Bene Hou",
+        "url": "https://open.spotify.com/album/56hil9lgMhYIeR3kabttwB"
+      },
+      "artists": [
+        {
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+        }
+      ],
+      "duration_ms": 247638,
+      "name": "Hou Bene Hou",
+      "url": "https://open.spotify.com/track/0PwwO8REYMl65SU8esvtxc"
+    },
     {
       "added_at": "2023-09-15 04:14:22",
       "album": {
@@ -57,22 +73,6 @@
       "url": "https://open.spotify.com/track/6RQ8lFoVNN5WcRR9cFlThW"
     },
     {
-      "added_at": "2023-09-15 04:14:22",
-      "album": {
-        "name": "Hou Bene Hou",
-        "url": "https://open.spotify.com/album/56hil9lgMhYIeR3kabttwB"
-      },
-      "artists": [
-        {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
-        }
-      ],
-      "duration_ms": 247638,
-      "name": "Hou Bene Hou",
-      "url": "https://open.spotify.com/track/0PwwO8REYMl65SU8esvtxc"
-    },
-    {
       "added_at": "2023-09-07 21:59:00",
       "album": {
         "name": "Crimson Kings",
@@ -107,6 +107,26 @@
       "duration_ms": 172750,
       "name": "O, My Donner",
       "url": "https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs"
+    },
+    {
+      "added_at": "2023-09-22 04:15:46",
+      "album": {
+        "name": "Tiptoe",
+        "url": "https://open.spotify.com/album/3h3GSXsm9dsxIOxjemmAan"
+      },
+      "artists": [
+        {
+          "name": "Drawing on Scars",
+          "url": "https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu"
+        },
+        {
+          "name": "Jodie Reid",
+          "url": "https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u"
+        }
+      ],
+      "duration_ms": 208090,
+      "name": "Tiptoe",
+      "url": "https://open.spotify.com/track/2sb1iOmBnDrPFpzRagOhgS"
     },
     {
       "added_at": "2023-09-15 04:14:22",

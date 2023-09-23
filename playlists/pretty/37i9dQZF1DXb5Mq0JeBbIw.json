@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 2956,
+  "num_followers": 3031,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzVlYzQyOWU4ODY4YTQ1YWMwNjkzZGZlZmE0ZDZjZTExZmNmNmM2",
+  "snapshot_id": "MCwwY2JjYTRiOWI3YmQ4MDE1ZTRmNjk2MTI2ZGI4NTg0NTdmNjc1ZmMy",
   "tracks": [
     {
       "added_at": "2023-02-10 06:37:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 194129,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Mama (Acoustic)",
         "url": "https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 192545,
       "name": "It Aint Me",
       "url": "https://open.spotify.com/track/2KsdoMZsL2ajnjjYUWm1ZT"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 194129,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "~how i'm feeling~ (the extras)",
-        "url": "https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m"
+        "name": "Hold On (From \"Dear Edward\")",
+        "url": "https://open.spotify.com/album/1bknYvQti8ecOKjWl7qEsm"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 252681,
-      "name": "Modern Loneliness - acoustic",
-      "url": "https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ"
+      "duration_ms": 156826,
+      "name": "Hold On (From \"Dear Edward\")",
+      "url": "https://open.spotify.com/track/1eAXHyBCQijbrNhePcFXGK"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Hold On (From \"Dear Edward\")",
-        "url": "https://open.spotify.com/album/1bknYvQti8ecOKjWl7qEsm"
+        "name": "~how i'm feeling~ (the extras)",
+        "url": "https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 156826,
-      "name": "Hold On (From \"Dear Edward\")",
-      "url": "https://open.spotify.com/track/1eAXHyBCQijbrNhePcFXGK"
+      "duration_ms": 252681,
+      "name": "Modern Loneliness - acoustic",
+      "url": "https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Clean Eyes",
-        "url": "https://open.spotify.com/album/3uxb4SRPfNoZEwVo4GWK9f"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 222810,
-      "name": "Clean Eyes - Acoustic",
-      "url": "https://open.spotify.com/track/0ixVfs0GvBfLNRA2qgjjk5"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Deny Me",
         "url": "https://open.spotify.com/album/4603uGOYACGfWZho5limbs"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Bigger Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc"
+        "name": "Clean Eyes",
+        "url": "https://open.spotify.com/album/3uxb4SRPfNoZEwVo4GWK9f"
       },
       "artists": [
         {
-          "name": "Crying Day Care Choir",
-          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 288731,
-      "name": "Bigger Heart (Acoustic)",
-      "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
+      "duration_ms": 222810,
+      "name": "Clean Eyes - Acoustic",
+      "url": "https://open.spotify.com/track/0ixVfs0GvBfLNRA2qgjjk5"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Bigger Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc"
+      },
+      "artists": [
+        {
+          "name": "Crying Day Care Choir",
+          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
+        }
+      ],
+      "duration_ms": 288731,
+      "name": "Bigger Heart (Acoustic)",
+      "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Bizarre Love Triangle (Acoustic)",
         "url": "https://open.spotify.com/album/3a3gzYfRlPhOdTpw8CO4Rb"
       },
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Leap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7mmPsJx2nVfmeLoNV2l8ZN"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 199375,
+      "name": "One Life - Acoustic",
+      "url": "https://open.spotify.com/track/39oAsq0WaFq1I4SzPN3vbj"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Days That End in Y",
         "url": "https://open.spotify.com/album/6m99yAstyKD4UgK3ASjMg2"
       },
@@ -1253,20 +1269,20 @@
       "url": "https://open.spotify.com/track/5G11lGkWAP4AqFo77t02lC"
     },
     {
-      "added_at": "2023-02-10 06:37:00",
+      "added_at": "2023-03-14 14:57:00",
       "album": {
-        "name": "Leap (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7mmPsJx2nVfmeLoNV2l8ZN"
+        "name": "1979",
+        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
         }
       ],
-      "duration_ms": 199375,
-      "name": "One Life - Acoustic",
-      "url": "https://open.spotify.com/track/39oAsq0WaFq1I4SzPN3vbj"
+      "duration_ms": 290518,
+      "name": "1979",
+      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
     },
     {
       "added_at": "2023-06-23 11:57:00",
@@ -1291,22 +1307,6 @@
       "duration_ms": 145521,
       "name": "Can\u2019t Forget You (feat. James Blunt) - Acoustic",
       "url": "https://open.spotify.com/track/00REq7wkCPg0Cv4uLHUZ25"
-    },
-    {
-      "added_at": "2023-03-14 14:57:00",
-      "album": {
-        "name": "1979",
-        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 290518,
-      "name": "1979",
-      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
     },
     {
       "added_at": "2023-02-24 11:06:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Dear Earth, I\u2019m Lost",
-        "url": "https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Gustafsson",
-          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Heaven Knows, Right?",
-      "url": "https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Hailey (Acoustic)",
         "url": "https://open.spotify.com/album/4xEYNfrEr2Jz9e52KevWRm"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 208723,
       "name": "Hailey - Acoustic",
       "url": "https://open.spotify.com/track/5q529aJou2KbRCzDj5TYtI"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Dear Earth, I\u2019m Lost",
+        "url": "https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Gustafsson",
+          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Heaven Knows, Right?",
+      "url": "https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O"
     },
     {
       "added_at": "2023-02-10 06:37:00",

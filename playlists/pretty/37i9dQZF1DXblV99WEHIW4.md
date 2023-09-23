@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 
 > Heavy music for heavy feelings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,338 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,581 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 69 | [Anniversary of an Uninteresting Event](https://open.spotify.com/track/27gb40S6AIpP5lrhLxlfXj) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 3:57 |
 | 70 | [Welcome Home](https://open.spotify.com/track/07heIznr3ziWFz4nnW9xaj) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Hard Feelings](https://open.spotify.com/album/4ynBCBfxMK2COzPTJ8kma9) | 3:41 |
 | 71 | [Seneca](https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:09 |
-| 72 | [The Stigma \(Boys Don’t Cry\)](https://open.spotify.com/track/2DQ7V0O22CG2xIQ7WPAocr) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [The Great Depression](https://open.spotify.com/album/45WKwINtVCtMqKuHPugbby) | 3:02 |
-| 73 | [Knuckles](https://open.spotify.com/track/0ttKGGwdONPJuVZggxzAl1) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [Blush](https://open.spotify.com/album/3qdM2cxZoTPFWpyZrMZp2j) | 3:44 |
-| 74 | [Dying Is Absolutely Safe](https://open.spotify.com/track/4B161tnzwvFCWiOfx9T8Di) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:59 |
-| 75 | [2008](https://open.spotify.com/track/3DIJCTr5Zl00MeLuG65Jgp) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [BUMMER](https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz) | 3:54 |
+| 72 | [Knuckles](https://open.spotify.com/track/0ttKGGwdONPJuVZggxzAl1) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [Blush](https://open.spotify.com/album/3qdM2cxZoTPFWpyZrMZp2j) | 3:44 |
+| 73 | [The Stigma \(Boys Don’t Cry\)](https://open.spotify.com/track/2DQ7V0O22CG2xIQ7WPAocr) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [The Great Depression](https://open.spotify.com/album/45WKwINtVCtMqKuHPugbby) | 3:02 |
+| 74 | [2008](https://open.spotify.com/track/3DIJCTr5Zl00MeLuG65Jgp) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [BUMMER](https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz) | 3:54 |
+| 75 | [Dying Is Absolutely Safe](https://open.spotify.com/track/4B161tnzwvFCWiOfx9T8Di) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:59 |
 | 76 | [Brother](https://open.spotify.com/track/4hmtCJAsVnaV3g6qkCsJ5b) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Sap](https://open.spotify.com/album/4b0EWRIWecUztiLiaoEN4K) | 4:27 |
 | 77 | [Wilt](https://open.spotify.com/track/6RRz9PNzcc0I9u3zLPXnS8) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Holding Absence](https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM) | 6:38 |
 | 78 | [Nothing Left to Love](https://open.spotify.com/track/4VfMtL53N1ZBXbIl2qrKnX) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Nothing Left to Love](https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2) | 4:37 |
 | 79 | [All I Have Left To Give](https://open.spotify.com/track/1z2gI6qgTWb836QzsUQIyB) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Hell Finds You Everywhere](https://open.spotify.com/album/4MF4pjJyipArWvVHiPSSVl) | 3:33 |
 | 80 | [Anthem](https://open.spotify.com/track/23Z6JttaqkoqxqbAWArFqO) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu), [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Seize the Power](https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j) | 3:48 |
 
-Snapshot ID: `MCxkZGZjMDdhMmZhM2IzMDc0MjUyYTEyZmI1YTE0ZTUwNmUxNzRhMTBm`
+Snapshot ID: `MCw5YmU1YWQ4OWIxY2FlYWMzNjc4MTBmZjBjZTBlYzBkODJhYzY0YWMy`

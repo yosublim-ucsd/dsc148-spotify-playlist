@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-275 songs - 13 hr 28 min
+276 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [A Silence Upon Us](https://open.spotify.com/track/6px05fYH2S8XJOwcokJPwI) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [Anew](https://open.spotify.com/album/6gTK7SLCG5JAxFLKvghEiu) | 2:08 | 2023-03-03 |  |
 | [Across The Lake](https://open.spotify.com/track/6AChlY3k4jnOJKVH2zXSDr) | [Annmarie Celine](https://open.spotify.com/artist/0XdUzYIOLBT1s6YgLxcWi6) | [Across The Lake](https://open.spotify.com/album/6FZ6SHjpiRxPCngtSqX1qL) | 2:48 | 2022-12-02 |  |
 | [Ad Infinitum](https://open.spotify.com/track/1WHrCfYujnEhApstu2ppFo) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 2:31 | 2022-09-30 |  |
-| [Airflow](https://open.spotify.com/track/4Ip1ZWHSxJ7zaXI4Sk94MM) | [Luna Ombro](https://open.spotify.com/artist/772pb8YX7Q28YXDan6bi7M) | [Airflow](https://open.spotify.com/album/4AaMJmGRlY33J3AADaca8i) | 3:12 | 2023-08-04 | 2023-09-22 |
+| [Airflow](https://open.spotify.com/track/4Ip1ZWHSxJ7zaXI4Sk94MM) | [Luna Ombro](https://open.spotify.com/artist/772pb8YX7Q28YXDan6bi7M) | [Airflow](https://open.spotify.com/album/4AaMJmGRlY33J3AADaca8i) | 3:12 | 2023-08-04 |  |
 | [Allt finns kvar](https://open.spotify.com/track/6eTRQbYbCnrnm0ghn4eUNd) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Allt finns kvar](https://open.spotify.com/album/4peQko6d1eFGavCfFHJGT3) | 3:59 | 2021-12-23 | 2023-08-25 |
 | [Altitude](https://open.spotify.com/track/5VpRhHsT7DhWRyzLq40dRw) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Altitude](https://open.spotify.com/album/4Wv2qeeio7rqXy3jPZuHuf) | 3:45 | 2022-12-30 |  |
 | [Anay degimay](https://open.spotify.com/track/3wuEQyST9B3qhPlNymA4Vl) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Anay degimay](https://open.spotify.com/album/23hYRiBfshqH0kACbIGjiH) | 3:17 | 2021-12-23 | 2023-08-25 |
@@ -120,6 +120,7 @@
 | [Innervate](https://open.spotify.com/track/2ZUsvuyl43t1oqiwGaHMt7) | [Jasmine Viola](https://open.spotify.com/artist/46G2FNi6a9iLA5XyKQ00kZ) | [Innervate](https://open.spotify.com/album/10eJeTFDULwxl3aV41l2Ll) | 3:15 | 2021-12-23 |  |
 | [It Ends with Us](https://open.spotify.com/track/6RMjZgsE9IcQZqubTzLtDs) | [Steve Mokwebe](https://open.spotify.com/artist/4oJhB4wMqwZWue2kcpCmCz) | [It Ends with Us](https://open.spotify.com/album/2Teu3OC25GCc7H44rMngCu) | 2:10 | 2021-12-23 | 2023-05-06 |
 | [Kaikoura](https://open.spotify.com/track/6VbbLSIgEMklrpKjdhwtpF) | [Jay Belshaw](https://open.spotify.com/artist/5g3sUkuQbNRfpCCKsmJGl0) | [Kaikoura](https://open.spotify.com/album/6GdrIIHxUkFJWYhOEYsKC5) | 3:15 | 2022-12-02 |  |
+| [Kedvesem](https://open.spotify.com/track/7GWjZSrKVEZvBEH4gBjHRQ) | [Csaba Vitez](https://open.spotify.com/artist/1DSUjK31Vgu7ejMVSxhJfL) | [Kedvesem](https://open.spotify.com/album/3VwiEBDWAtGWf0SoyIqBFr) | 2:16 | 2023-09-22 |  |
 | [L'ambience](https://open.spotify.com/track/6g1AnzB3B4VUFlXJTzXEUE) | [Deep Zones](https://open.spotify.com/artist/7fwJtNfFJPvvPbY2EKgMbX) | [L'ambience](https://open.spotify.com/album/0eyvpkaCP84vYfRUIY65XO) | 2:46 | 2021-12-23 | 2023-02-10 |
 | [Lake Oconee](https://open.spotify.com/track/4LsVIfwWMLq7e1qpE5WCUH) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [What If...](https://open.spotify.com/album/664RRHVUge3S0HEuGAZvK6) | 4:18 | 2021-12-23 |  |
 | [Lapis Lazuli](https://open.spotify.com/track/0K4Rz4toClO0a6zcUwWgMi) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Gemstones, Vol\. 2](https://open.spotify.com/album/6lUMWgJqyiSbJnkPrZGXpA) | 3:17 | 2021-12-23 | 2022-09-03 |
@@ -176,7 +177,7 @@
 | [Padjelanta](https://open.spotify.com/track/5N5jZgY2X3sfj3HUSjg1Ic) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:44 | 2021-12-23 | 2023-07-14 |
 | [Pajala Sunrise](https://open.spotify.com/track/3Rvh3RrMpDaBK0iBU6aS8A) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Pajala Sunrise](https://open.spotify.com/album/0nNz0PrwY1kFTxtiFS411q) | 3:01 | 2021-12-23 | 2022-09-03 |
 | [Paladin](https://open.spotify.com/track/6Hni6BR0tH2pm5P7T1spJw) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Paladin](https://open.spotify.com/album/2wa0vo8CXwffGVK8cKiATu) | 3:14 | 2023-03-10 |  |
-| [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 | 2021-12-23 |  |
+| [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 | 2021-12-23 | 2023-09-23 |
 | [Paralyzed](https://open.spotify.com/track/6qU5ggMJaYOItNCsUIGeyP) | [Phabels](https://open.spotify.com/artist/4EAkTd9K3QcamFKfvb8jfo) | [Paralyzed](https://open.spotify.com/album/6GAFR4ODXrRdbgNrpOpH4w) | 2:21 | 2021-12-23 |  |
 | [Patience](https://open.spotify.com/track/342mXLmWmrjqqIaVtnYjRH) | [Jiao Ch'ien](https://open.spotify.com/artist/6cz6KGJs1Q28j0nknp9sck) | [Patience](https://open.spotify.com/album/4N1vWOBCOVTeQGcWKCavwl) | 3:00 | 2021-12-23 | 2023-08-25 |
 | [Peaceful Instant](https://open.spotify.com/track/2u4RqOtADvonosxhSdS8eZ) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 2:55 | 2021-12-23 |  |

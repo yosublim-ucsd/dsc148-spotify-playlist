@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1970s. \n",
-  "num_followers": 5205438,
+  "num_followers": 5206377,
   "original_name": "All Out 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2E1ZjA2NGMwNjc1NmRjNmFhMDQ3ZTc0N2Y5OGU1NDMyYjUxNjZm",
+  "snapshot_id": "MCxkN2VjMjRlNmM5Y2YwY2JlM2NhNjI2NWUxYWQxOTU0ZjMzZjRjZTk1",
   "tracks": [
     {
       "added_at": "2023-01-22 00:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-01-22 00:00:00",
       "album": {
-        "name": "High Voltage",
-        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "T.N.T.",
-      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
-    },
-    {
-      "added_at": "2023-01-22 00:00:00",
-      "album": {
         "name": "Signed, Sealed And Delivered",
         "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 161160,
       "name": "Signed, Sealed, Delivered (I'm Yours)",
       "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
+    },
+    {
+      "added_at": "2023-01-22 00:00:00",
+      "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "T.N.T.",
+      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
     },
     {
       "added_at": "2023-01-22 00:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-01-22 00:00:00",
       "album": {
-        "name": "Come and Get Your Love",
-        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
-      },
-      "artists": [
-        {
-          "name": "Redbone",
-          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Come and Get Your Love - Single Version",
-      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
-    },
-    {
-      "added_at": "2023-01-22 00:00:00",
-      "album": {
         "name": "The Wall",
         "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 238746,
       "name": "Another Brick in the Wall, Pt. 2",
       "url": "https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV"
+    },
+    {
+      "added_at": "2023-01-22 00:00:00",
+      "album": {
+        "name": "Come and Get Your Love",
+        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
+      },
+      "artists": [
+        {
+          "name": "Redbone",
+          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Come and Get Your Love - Single Version",
+      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
     },
     {
       "added_at": "2023-01-22 00:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-01-22 00:00:00",
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
-    },
-    {
-      "added_at": "2023-01-22 00:00:00",
-      "album": {
         "name": "Madman Across The Water",
         "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 377093,
       "name": "Tiny Dancer",
       "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+    },
+    {
+      "added_at": "2023-01-22 00:00:00",
+      "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
     },
     {
       "added_at": "2023-01-22 00:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-01-22 00:00:00",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 285373,
-      "name": "Stayin' Alive",
-      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
-    },
-    {
-      "added_at": "2023-01-22 00:00:00",
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 288293,
       "name": "Boogie Wonderland",
       "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
+    },
+    {
+      "added_at": "2023-01-22 00:00:00",
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 285373,
+      "name": "Stayin' Alive",
+      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
     },
     {
       "added_at": "2023-01-22 00:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-01-22 00:00:00",
       "album": {
-        "name": "Agents Of Fortune",
-        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 308120,
-      "name": "(Don't Fear) The Reaper",
-      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
-    },
-    {
-      "added_at": "2023-01-22 00:00:00",
-      "album": {
         "name": "Breakfast In America (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 159346,
       "name": "Breakfast In America - 2010 Remastered",
       "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
+    },
+    {
+      "added_at": "2023-01-22 00:00:00",
+      "album": {
+        "name": "Agents Of Fortune",
+        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 308120,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
     },
     {
       "added_at": "2023-01-22 00:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-01-22 00:00:00",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
-    },
-    {
-      "added_at": "2023-01-22 00:00:00",
-      "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 194146,
       "name": "Old Time Rock & Roll",
       "url": "https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"
+    },
+    {
+      "added_at": "2023-01-22 00:00:00",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
     },
     {
       "added_at": "2023-01-22 00:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-01-22 00:00:00",
       "album": {
-        "name": "\"Heroes\" (2017 Remaster)",
-        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 371413,
-      "name": "Heroes - 2017 Remaster",
-      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
-    },
-    {
-      "added_at": "2023-01-22 00:00:00",
-      "album": {
         "name": "Tom Petty & The Heartbreakers",
         "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 214733,
       "name": "American Girl",
       "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
+    },
+    {
+      "added_at": "2023-01-22 00:00:00",
+      "album": {
+        "name": "\"Heroes\" (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 371413,
+      "name": "Heroes - 2017 Remaster",
+      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
     },
     {
       "added_at": "2023-01-22 00:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-01-22 00:00:00",
       "album": {
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 251253,
+      "name": "The Logical Song - Remastered 2010",
+      "url": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
+    },
+    {
+      "added_at": "2023-01-22 00:00:00",
+      "album": {
         "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
         "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 205613,
       "name": "Into the Mystic - 2013 Remaster",
       "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
-    },
-    {
-      "added_at": "2023-01-22 00:00:00",
-      "album": {
-        "name": "Breakfast In America (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 251253,
-      "name": "The Logical Song - Remastered 2010",
-      "url": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
     },
     {
       "added_at": "2023-01-22 00:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-01-22 00:00:00",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
-    },
-    {
-      "added_at": "2023-01-22 00:00:00",
-      "album": {
         "name": "Elvis (Fool)",
         "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 170293,
       "name": "Burning Love",
       "url": "https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO"
+    },
+    {
+      "added_at": "2023-01-22 00:00:00",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
     },
     {
       "added_at": "2023-01-22 00:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-01-22 00:00:00",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "One Love / People Get Ready - Medley",
-      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
-    },
-    {
-      "added_at": "2023-01-22 00:00:00",
-      "album": {
         "name": "Inseparable",
         "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
       },
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2023-01-22 00:00:00",
       "album": {
-        "name": "Waterloo",
-        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 168960,
-      "name": "Waterloo",
-      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
+      "duration_ms": 172933,
+      "name": "One Love / People Get Ready - Medley",
+      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
     },
     {
       "added_at": "2023-01-22 00:00:00",
@@ -1571,6 +1555,22 @@
       "duration_ms": 295400,
       "name": "My Sharona",
       "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
+    },
+    {
+      "added_at": "2023-01-22 00:00:00",
+      "album": {
+        "name": "Waterloo",
+        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
     },
     {
       "added_at": "2023-01-22 00:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-01-22 00:00:00",
       "album": {
-        "name": "Transformer",
-        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 254173,
-      "name": "Walk On the Wild Side",
-      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
-    },
-    {
-      "added_at": "2023-01-22 00:00:00",
-      "album": {
         "name": "One of These Nights (2013 Remaster)",
         "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 291685,
       "name": "One of These Nights - 2013 Remaster",
       "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
+    },
+    {
+      "added_at": "2023-01-22 00:00:00",
+      "album": {
+        "name": "Transformer",
+        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 254173,
+      "name": "Walk On the Wild Side",
+      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
     },
     {
       "added_at": "2023-01-22 00:00:00",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-01-22 00:00:00",
       "album": {
-        "name": "Hotel California (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 286219,
-      "name": "Life in the Fast Lane - 2013 Remaster",
-      "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
-    },
-    {
-      "added_at": "2023-01-22 00:00:00",
-      "album": {
         "name": "52nd Street",
         "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 223866,
       "name": "What a Fool Believes",
       "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
+    },
+    {
+      "added_at": "2023-01-22 00:00:00",
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 286219,
+      "name": "Life in the Fast Lane - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
     },
     {
       "added_at": "2023-01-22 00:00:00",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2023-01-22 00:00:00",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 221426,
-      "name": "Behind Blue Eyes",
-      "url": "https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5"
-    },
-    {
-      "added_at": "2023-01-22 00:00:00",
-      "album": {
         "name": "Blondes Have More Fun",
         "url": "https://open.spotify.com/album/38tXOrjXUUfQWWV2DRwMio"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 331333,
       "name": "Da Ya Think I'm Sexy?",
       "url": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f"
+    },
+    {
+      "added_at": "2023-01-22 00:00:00",
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 221426,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5"
     },
     {
       "added_at": "2023-01-22 00:00:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-01-22 00:00:00",
       "album": {
-        "name": "Ram Jam",
-        "url": "https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD"
-      },
-      "artists": [
-        {
-          "name": "Ram Jam",
-          "url": "https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz"
-        }
-      ],
-      "duration_ms": 238973,
-      "name": "Black Betty",
-      "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN"
-    },
-    {
-      "added_at": "2023-01-22 00:00:00",
-      "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 220560,
       "name": "Best of My Love",
       "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "added_at": "2023-01-22 00:00:00",
+      "album": {
+        "name": "Ram Jam",
+        "url": "https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD"
+      },
+      "artists": [
+        {
+          "name": "Ram Jam",
+          "url": "https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz"
+        }
+      ],
+      "duration_ms": 238973,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN"
     },
     {
       "added_at": "2023-01-22 00:00:00",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2023-01-22 00:00:00",
       "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/1xlTRhgWQSEvu9DPHVn8uJ"
-      },
-      "artists": [
-        {
-          "name": "Rainbow",
-          "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Since You Been Gone",
-      "url": "https://open.spotify.com/track/6xq5DxZWGgdStAxGAil0yw"
-    },
-    {
-      "added_at": "2023-01-22 00:00:00",
-      "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 290573,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
+    },
+    {
+      "added_at": "2023-01-22 00:00:00",
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/1xlTRhgWQSEvu9DPHVn8uJ"
+      },
+      "artists": [
+        {
+          "name": "Rainbow",
+          "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Since You Been Gone",
+      "url": "https://open.spotify.com/track/6xq5DxZWGgdStAxGAil0yw"
     },
     {
       "added_at": "2023-01-22 00:00:00",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-01-22 00:00:00",
       "album": {
-        "name": "Baby I'm-a Want You",
-        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Everything I Own",
-      "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
-    },
-    {
-      "added_at": "2023-01-22 00:00:00",
-      "album": {
         "name": "A New World Record",
         "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 212306,
       "name": "Livin' Thing",
       "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
+    },
+    {
+      "added_at": "2023-01-22 00:00:00",
+      "album": {
+        "name": "Baby I'm-a Want You",
+        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Everything I Own",
+      "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
     },
     {
       "added_at": "2023-01-22 00:00:00",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2023-01-22 00:00:00",
       "album": {
-        "name": "In the Summertime",
-        "url": "https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY"
-      },
-      "artists": [
-        {
-          "name": "Mungo Jerry",
-          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "In the Summertime",
-      "url": "https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd"
-    },
-    {
-      "added_at": "2023-01-22 00:00:00",
-      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 233000,
       "name": "What's Going On",
       "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
+    },
+    {
+      "added_at": "2023-01-22 00:00:00",
+      "album": {
+        "name": "In the Summertime",
+        "url": "https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY"
+      },
+      "artists": [
+        {
+          "name": "Mungo Jerry",
+          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "In the Summertime",
+      "url": "https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd"
     },
     {
       "added_at": "2023-01-22 00:00:00",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2023-01-22 00:00:00",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 308520,
-      "name": "The Boxer",
-      "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
-    },
-    {
-      "added_at": "2023-01-22 00:00:00",
-      "album": {
         "name": "Can't Buy A Thrill",
         "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 190065,
       "name": "Dirty Work",
       "url": "https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH"
+    },
+    {
+      "added_at": "2023-01-22 00:00:00",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 308520,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
     },
     {
       "added_at": "2023-01-22 00:00:00",
@@ -2407,6 +2407,22 @@
     {
       "added_at": "2023-01-22 00:00:00",
       "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 357041,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19"
+    },
+    {
+      "added_at": "2023-01-22 00:00:00",
+      "album": {
         "name": "Imagination (Expanded Edition)",
         "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
       },
@@ -2419,22 +2435,6 @@
       "duration_ms": 279333,
       "name": "Midnight Train to Georgia",
       "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
-    },
-    {
-      "added_at": "2023-01-22 00:00:00",
-      "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a"
-      },
-      "artists": [
-        {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
-        }
-      ],
-      "duration_ms": 214200,
-      "name": "Blame It on the Boogie",
-      "url": "https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS"
     }
   ],
   "unique_name": "All Out 70s",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,585 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,808 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 13 | [Péssimo Negócio \(Ao Vivo\)](https://open.spotify.com/track/5MMrkwK6AgNAsgHVdC7daZ) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Terra do Nunca \(Ao Vivo\)](https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y) | 3:21 |
 | 14 | [Vou Ter Que Superar \- Ao Vivo](https://open.spotify.com/track/6sRLrSetyIwIKhW1eMlUNP) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 3:09 |
 | 15 | [Como É Que A Gente Fica \- Ao Vivo](https://open.spotify.com/track/0zxWyvrKyz031tFfBnkYLr) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Novas Histórias \(Ao Vivo\)](https://open.spotify.com/album/4pUsKJjeqLi99MZbRKD03U) | 2:43 |
-| 16 | [Anti Amor \- Ao Vivo](https://open.spotify.com/track/3zlU0V45H1FcjZeGEVt8ih) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Gustavo Mioto Ao Vivo Em São Paulo](https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy) | 2:45 |
-| 17 | [Até Que Durou \- Ao Vivo](https://open.spotify.com/track/02uGRWxlEIbpdypNUvJoXm) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Até Que Durou \(Ao Vivo\)](https://open.spotify.com/album/3lOjLjCKmjIBPifXxTiFs6) | 5:13 |
+| 16 | [Até Que Durou \- Ao Vivo](https://open.spotify.com/track/02uGRWxlEIbpdypNUvJoXm) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Até Que Durou \(Ao Vivo\)](https://open.spotify.com/album/3lOjLjCKmjIBPifXxTiFs6) | 5:13 |
+| 17 | [Anti Amor \- Ao Vivo](https://open.spotify.com/track/3zlU0V45H1FcjZeGEVt8ih) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Gustavo Mioto Ao Vivo Em São Paulo](https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy) | 2:45 |
 | 18 | [Caso Indefinido \- Ao Vivo](https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k) | [Cristiano Araújo](https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI) | [In The Cities \- Ao Vivo Em Cuiabá](https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX) | 5:13 |
 | 19 | [Graveto \- Ao Vivo](https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Graveto \(Ao Vivo\)](https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V) | 2:50 |
 | 20 | [Refém](https://open.spotify.com/track/4muZ1PUxmss4cVmYnpLrvs) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [O Cara Certo](https://open.spotify.com/album/46AcQjehXf14WEIzG7X780) | 3:43 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 24 | [O Alvo \(feat\. Henrique & Juliano\) \- Ao Vivo](https://open.spotify.com/track/5Vw6ZLNB6Ko7VZM6vmNIbr) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Alvo \(feat\. Henrique & Juliano\) \[Ao Vivo\]](https://open.spotify.com/album/3yprBTFIy7DnJCHnMDifRv) | 2:44 |
 | 25 | [Teu Segredo \- Ao Vivo](https://open.spotify.com/track/15DHt4fP4FARWLvWkIxdAx) | [Vou pro Sereno](https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [A Força do Nosso Som Continua \(Ao Vivo\)](https://open.spotify.com/album/1ADQD0bAhwSQIwvt9aZldY) | 3:02 |
 | 26 | [Tá Vendo Aquela Lua](https://open.spotify.com/track/6DjKWVAqXUvMaAzO4U4CIo) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [25 Anos \(Ao Vivo\)](https://open.spotify.com/album/1rMqTbwki2gVgD7mfgkIpK) | 3:16 |
-| 27 | [Status Que Eu Não Queria \- Ao Vivo](https://open.spotify.com/track/43tDjfz9Inw7Soy0jzxowN) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 2:33 |
-| 28 | [De Quem É a Culpa? \- Ao Vivo](https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Realidade \- Ao Vivo Em Manaus](https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry) | 3:22 |
+| 27 | [De Quem É a Culpa? \- Ao Vivo](https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Realidade \- Ao Vivo Em Manaus](https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry) | 3:22 |
+| 28 | [Status Que Eu Não Queria \- Ao Vivo](https://open.spotify.com/track/43tDjfz9Inw7Soy0jzxowN) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 2:33 |
 | 29 | [Pouco a Pouco \(Ao Vivo\) \(feat\. Sorriso Maroto\)](https://open.spotify.com/track/2lm3Ric7MeBk8hLfsiVokr) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Terra do Nunca \(Ao Vivo\)](https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y) | 3:16 |
 | 30 | [50 Vezes \- Ao Vivo](https://open.spotify.com/track/01wavOnjFBNgdMWBFYIAP4) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Ao Cubo, Ao Vivo, Em Cores](https://open.spotify.com/album/29zZdrNrxlZsolrlspfmDA) | 3:04 |
 | 31 | [Até que enfim \- Ao vivo](https://open.spotify.com/track/1zI3RU0boCVsAXChjCvESu) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Chão de estrelas \(Ao vivo\)](https://open.spotify.com/album/2sRaJ90PEqpDf1XU0T4zun) | 3:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 74 | [Pode Ir Embora \- Ao Vivo](https://open.spotify.com/track/43y4wpk8iKaLAY21CsEmst) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [De Volta aos Bares](https://open.spotify.com/album/7DTmJxoehELMhqA0GSughG) | 3:37 |
 | 75 | [Santo Forte \(Ao Vivo\) \(feat\. Luan Santana\)](https://open.spotify.com/track/1ekX8JX7LF3AyxI0nyOzvB) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Terra do Nunca \(Ao Vivo\)](https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y) | 3:09 |
 
-Snapshot ID: `MCxiZWIzMDdlZjZjM2I2YzM1M2RjYmQ4NGFmZjRhYmJmYjQ4NjFmN2Q4`
+Snapshot ID: `MCxjNGRmNzYzZDJkZjU0YjAxNGQyNmFkOTNhYmEzY2Y0OWE2M2RhMzY1`

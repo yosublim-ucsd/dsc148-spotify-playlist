@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 123271,
       "name": "Dream (Jersey Club)",
       "url": "https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM"
@@ -5428,6 +5428,24 @@
       "duration_ms": 103781,
       "name": "The 90s Lied To Us",
       "url": "https://open.spotify.com/track/04b2YLqewR7aMOwGnwXuUJ"
+    },
+    {
+      "album": {
+        "name": "the Rake (can\u2019t complain)",
+        "url": "https://open.spotify.com/album/15uH3yROMIfOmC3UZKwtVF"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "the Rake (can\u2019t complain)",
+      "url": "https://open.spotify.com/track/4wXMa4oleu4CaD06V7zEyG"
     },
     {
       "album": {

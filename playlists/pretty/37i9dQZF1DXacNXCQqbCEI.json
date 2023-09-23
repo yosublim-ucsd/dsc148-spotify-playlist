@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 356617,
+  "num_followers": 356683,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTE3Y2UzNzg3ZjNlN2IzOTlmYmZhYjIzYmEwZGRkOWY4YTU1OTZh",
+  "snapshot_id": "MCwyODYxNjYzZTk4MzgyMjRhYWJiZWYwNzU2NDZkZDNjN2I4ZjUwNTY3",
   "tracks": [
     {
       "added_at": "2023-02-13 21:09:56",
@@ -803,6 +803,26 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 219600,
+      "name": "Hipn\u00f3tico",
+      "url": "https://open.spotify.com/track/4jo8s0TQGVHnmZ2gjErAQ2"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct"
       },
@@ -951,38 +971,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Respira",
-        "url": "https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ"
-      },
-      "artists": [
-        {
-          "name": "Mateo Kingman",
-          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
-        }
-      ],
-      "duration_ms": 231346,
-      "name": "Sendero del Monte",
-      "url": "https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
-        "name": "Kuru Kuru",
-        "url": "https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP"
-      },
-      "artists": [
-        {
-          "name": "Maajo",
-          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
-        }
-      ],
-      "duration_ms": 311141,
-      "name": "Soma",
-      "url": "https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "De Aqu\u00ed Hasta Aqu\u00ed",
         "url": "https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY"
       },
@@ -1003,6 +991,22 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
+        "name": "Respira",
+        "url": "https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ"
+      },
+      "artists": [
+        {
+          "name": "Mateo Kingman",
+          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
+        }
+      ],
+      "duration_ms": 231346,
+      "name": "Sendero del Monte",
+      "url": "https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
         "name": "T\u00fa Me Llevas",
         "url": "https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0"
       },
@@ -1019,22 +1023,18 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
+        "name": "Kuru Kuru",
+        "url": "https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
         }
       ],
-      "duration_ms": 219600,
-      "name": "Hipn\u00f3tico",
-      "url": "https://open.spotify.com/track/4jo8s0TQGVHnmZ2gjErAQ2"
+      "duration_ms": 311141,
+      "name": "Soma",
+      "url": "https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
+        "name": "Ramas",
+        "url": "https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 289502,
+      "name": "Resiliencia",
+      "url": "https://open.spotify.com/track/1wMRZU1sk3wiwsfb7oCCpd"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
         "name": "Semillero",
         "url": "https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4"
       },
@@ -1083,22 +1103,6 @@
       "duration_ms": 348009,
       "name": "Pua",
       "url": "https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
-        "name": "Enter the San",
-        "url": "https://open.spotify.com/album/0jq4DsqKo31D8iRKXqfXxY"
-      },
-      "artists": [
-        {
-          "name": "SUPERSAN",
-          "url": "https://open.spotify.com/artist/3NMvcKm02K3y6D8BvQNGD7"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "The Corsican",
-      "url": "https://open.spotify.com/track/6Tr3FORhPcNYvbvsyytnL8"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

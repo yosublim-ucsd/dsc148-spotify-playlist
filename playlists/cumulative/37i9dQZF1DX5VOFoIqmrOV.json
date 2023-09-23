@@ -602,7 +602,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 237263,
       "name": "Bullet Song",
       "url": "https://open.spotify.com/track/7Mi0pugIa9VPQm7ykGWIfa"
@@ -852,8 +852,16 @@
       },
       "artists": [
         {
-          "name": "Adnan Sami, Ramya Behara, Veena Ghantasala",
-          "url": "https://open.spotify.com/artist/4Gf2k6NPzkDUQArdfNPi6K"
+          "name": "Adnan Sami",
+          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
+        },
+        {
+          "name": "Ramya Behara",
+          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
+        },
+        {
+          "name": "Veena Ghantasala",
+          "url": "https://open.spotify.com/artist/79q31PNsYAnl0QN4doZFFp"
         }
       ],
       "date_added": "2023-01-11",
@@ -1738,7 +1746,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 168600,
       "name": "Idhe Kadha Nee Katha",
       "url": "https://open.spotify.com/track/344RDDZ8T7QFFqIT377ZOX"
@@ -4250,8 +4258,12 @@
       },
       "artists": [
         {
-          "name": "Sagar, Geetha Madhuri",
-          "url": "https://open.spotify.com/artist/4cjneCieMET25rMaFXwudS"
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+        },
+        {
+          "name": "Geetha Madhuri",
+          "url": "https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai"
         }
       ],
       "date_added": "2023-08-07",
@@ -4470,8 +4482,12 @@
       },
       "artists": [
         {
-          "name": "David Simon, Anitha",
-          "url": "https://open.spotify.com/artist/0blPkReehdO9h5GSdrqecC"
+          "name": "David Simon",
+          "url": "https://open.spotify.com/artist/1C7kjT2jleM2qNGK97amtW"
+        },
+        {
+          "name": "Anitha",
+          "url": "https://open.spotify.com/artist/6tD1jwHStbobn96I2vbMxc"
         }
       ],
       "date_added": "2023-08-07",
@@ -4568,8 +4584,12 @@
       },
       "artists": [
         {
-          "name": "Karthik, Chinmayee",
-          "url": "https://open.spotify.com/artist/460i1WW8YQCJ6MR3dhMJxG"
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
         }
       ],
       "date_added": "2023-08-07",

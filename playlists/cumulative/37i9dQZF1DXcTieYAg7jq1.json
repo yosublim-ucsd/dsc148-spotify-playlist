@@ -424,7 +424,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 231684,
       "name": "Be More",
       "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
@@ -1177,6 +1177,28 @@
     },
     {
       "album": {
+        "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
+        "url": "https://open.spotify.com/album/0Q4tlx5e1q5IJl44nb49rv"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173801,
+      "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/28PCjIXE4NJWDIqpRsD3rl"
+    },
+    {
+      "album": {
         "name": "Dance For Love",
         "url": "https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE"
       },
@@ -1358,6 +1380,24 @@
       "duration_ms": 208167,
       "name": "Does Anybody Know",
       "url": "https://open.spotify.com/track/5VFStg36hHvBLBs1Bk52Sb"
+    },
+    {
+      "album": {
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232277,
+      "name": "Doesn\u2019t Do Me Any Good",
+      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
     },
     {
       "album": {
@@ -3393,6 +3433,28 @@
     },
     {
       "album": {
+        "name": "Twennies (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4fbbquyj2hz6GeDzclhhs1"
+      },
+      "artists": [
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        },
+        {
+          "name": "Big Data",
+          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169484,
+      "name": "Literally Dead",
+      "url": "https://open.spotify.com/track/6hC5zuyySLWtl7NaooXRQv"
+    },
+    {
+      "album": {
         "name": "Little Bird",
         "url": "https://open.spotify.com/album/12aN2RNHcq6NI6nYizfOPJ"
       },
@@ -4270,7 +4332,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 140400,
       "name": "One Thing",
       "url": "https://open.spotify.com/track/7JZLDYLLyoRJ97NoZMEXZl"
@@ -6024,7 +6086,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 179411,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/0G2qT4WpiDJh32zgcdzGMF"

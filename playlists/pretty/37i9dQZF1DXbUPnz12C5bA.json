@@ -1,12 +1,12 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 77612,
+  "num_followers": 77802,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTc5ZDgwMmMzZTExOGYwMDBhNDcyZGU1MzYzNTQ5MTVkMDIxODIy",
+  "snapshot_id": "MCxiOGU1MDgxMWI1ODZjMjQ5N2Q1YTA5NzQ2YjBjZDRlZmQxNGI5MmFj",
   "tracks": [
     {
       "added_at": "2023-02-13 23:17:15",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-02-13 23:17:15",
       "album": {
+        "name": "Alto Voltaje",
+        "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp"
+    },
+    {
+      "added_at": "2023-02-13 23:17:15",
+      "album": {
         "name": "M\u00e1s Unidos Que Nunca",
         "url": "https://open.spotify.com/album/20WkxKAK5cgqE6B3Llet7k"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 280133,
       "name": "A Blanco y Negro",
       "url": "https://open.spotify.com/track/1CrKa4fjUJCjpcXXPeLuYu"
-    },
-    {
-      "added_at": "2023-02-13 23:17:15",
-      "album": {
-        "name": "Alto Voltaje",
-        "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Infiel",
-      "url": "https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp"
     },
     {
       "added_at": "2023-02-13 23:17:15",

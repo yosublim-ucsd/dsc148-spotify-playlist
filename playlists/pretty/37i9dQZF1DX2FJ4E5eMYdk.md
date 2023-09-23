@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,757 likes - 60 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,850 likes - 60 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 59 | [Glass Jar](https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Sneaker Waves](https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2) | 4:05 |
 | 60 | [Trust Me](https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0) | [Barnaby Keen](https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA) | [Trust Me](https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq) | 3:41 |
 
-Snapshot ID: `MCw4OWMyZmQxMTQxZWY1NTJmMjQxYzQxMDc4ODU1ODZhZGYzNGJmZjE2`
+Snapshot ID: `MCw2Mzc2ZDM4NDAxZjJlNjBmMmM5ZTY3Y2UzNGUyNDE0MWE0MjAwODVj`

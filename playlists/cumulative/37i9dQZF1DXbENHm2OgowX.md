@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-122 songs - 11 hr 23 min
+123 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,9 +93,10 @@
 | [She's Lost Control \- 2007 Remaster](https://open.spotify.com/track/0rcLhYRihks3t4lFPtHhQV) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures \(Collector's Edition\)](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy) | 3:57 | 2022-02-11 | 2022-11-10 |
 | [Shoulders](https://open.spotify.com/track/4At9QhnhKaNgP51kbAmk77) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 3:26 | 2022-11-09 |  |
 | [Six Forty Seven](https://open.spotify.com/track/2WuK1opHQzRo18YXCtY2DF) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Six Forty Seven](https://open.spotify.com/album/0FawTVuFbmS9KLWA8TAtau) | 1:59 | 2022-11-09 | 2023-01-10 |
+| [skies](https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH), [Riversilvers](https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa) | [skies](https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw) | 2:09 | 2023-09-22 |  |
 | [Slow Bloom](https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju) | [air hunger](https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0) | [Slow Bloom](https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n) | 4:45 | 2022-02-25 |  |
 | [Slowdown](https://open.spotify.com/track/41QYplWe7lMbiQ0hOi2ZlM) | [Thomas Brett](https://open.spotify.com/artist/24hkUG05qbSP0SqKye9Ahz) | [Slowdown](https://open.spotify.com/album/4T5nJayq61rBgNZRzF8o4Y) | 8:17 | 2022-03-18 | 2022-11-10 |
-| [Snowa](https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2) | [Slo Mance](https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs) | [Snowa](https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61) | 4:20 | 2022-04-01 |  |
+| [Snowa](https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2) | [Slo Mance](https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs) | [Snowa](https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61) | 4:20 | 2022-04-01 | 2023-09-23 |
 | [snowfall \(Slowed + Reverb\)](https://open.spotify.com/track/4VkEkljlOC5cMbRMhREO5E) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall \(Slowed + Reverb\)](https://open.spotify.com/album/3odz9MUzucRfbCCH8hxqCK) | 2:30 | 2022-04-01 |  |
 | [Sometimes](https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 5:19 | 2022-02-11 | 2022-11-10 |
 | [Spaces Inbetween.](https://open.spotify.com/track/54shhL9vif2iwUXg0lNpQX) | [Omori](https://open.spotify.com/artist/4DoTDDfW3gkeyb06XrIHlg) | [Omori \(Original Game Soundtrack\), Pt.1](https://open.spotify.com/album/3SDU0tsnoMO841qeOHlP8B) | 0:58 | 2022-11-09 | 2023-01-10 |

@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: blink\-182
 
-601 songs - 1 day 10 hr 43 min
+603 songs - 1 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [LOVE ROCKETS](https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [LOVE ROCKETS](https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N) | 4:21 | 2023-05-25 | 2023-06-16 |
 | [Lowest In Me](https://open.spotify.com/track/1cdCfqSwdXM0BQEDy5Fc7M) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Lowest In Me](https://open.spotify.com/album/1ns3CtSmx6z1p7pNIUbNxv) | 3:07 | 2023-05-11 | 2023-05-19 |
 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 | 2023-06-08 |  |
-| [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 | 2023-08-24 |  |
+| [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 | 2023-08-24 | 2023-09-23 |
 | [Man Down](https://open.spotify.com/track/0zwTWAaEvnHoGIoRIPG0oD) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Man Down](https://open.spotify.com/album/2hPc8LFCi2HzeW1BdSw8TH) | 3:03 | 2023-09-07 | 2023-09-15 |
 | [Manifest](https://open.spotify.com/track/4PNvV0RKHaKgkVgqZCHkiE) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Manifest](https://open.spotify.com/album/3pmmi3IjlwZfKBoR3bMPbb) | 2:26 | 2023-06-30 | 2023-07-07 |
 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 | 2023-07-06 | 2023-07-14 |
@@ -329,7 +329,8 @@
 | [Meeting The Master](https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Meeting The Master](https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu) | 5:12 | 2023-04-06 | 2023-07-29 |
 | [Mermaid Vampire](https://open.spotify.com/track/4HE6BDc742Jv5cSkLVNXTJ) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Mermaid Vampire](https://open.spotify.com/album/6DY1np2mZ7sr1bwVAfisZG) | 2:02 | 2023-07-13 | 2023-07-21 |
 | [METALI!! \- feat\. Tom Morello](https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [METALI!! \(feat\. Tom Morello\)](https://open.spotify.com/album/6ZZgSUrLXWhOxZs3TrPWXt) | 3:28 | 2023-08-17 | 2023-09-15 |
-| [Middle Of My Mind](https://open.spotify.com/track/4OQLt8NtPUvHUWhh1m6xlw) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Nothing Lasts Forever](https://open.spotify.com/album/7sYMzXP6YorZYrLV0sTqzK) | 3:17 | 2023-09-21 |  |
+| [Middle Of My Mind](https://open.spotify.com/track/4OQLt8NtPUvHUWhh1m6xlw) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Nothing Lasts Forever](https://open.spotify.com/album/7sYMzXP6YorZYrLV0sTqzK) | 3:17 | 2023-09-21 | 2023-09-23 |
+| [Middle of My Mind](https://open.spotify.com/track/6jlGYMnP3iBwebyfdHM4N3) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Nothing Lasts Forever](https://open.spotify.com/album/6WCrKVgt2MEKgiW0mvURF8) | 3:17 | 2023-09-21 |  |
 | [Midwest](https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Midwest](https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc) | 4:08 | 2023-06-08 | 2023-06-16 |
 | [Might Love Myself](https://open.spotify.com/track/16Wp9vdeUWQSESvgYFhksa) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Might Love Myself](https://open.spotify.com/album/0ljuBtTppOSas8ZE46yLwa) | 3:39 | 2023-07-20 | 2023-09-01 |
 | [Million](https://open.spotify.com/track/3OUiCMfFfJ9iJWS4J2Gdh6) | [633](https://open.spotify.com/artist/4Se8CLAm2KKicIi7YNNzrR) | [Million](https://open.spotify.com/album/2yT6WSWNF7KEOYuoUhohRr) | 3:48 | 2023-06-01 |  |
@@ -487,7 +488,7 @@
 | [Star](https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 2:59 | 2023-08-24 |  |
 | [STARS \-English version\-](https://open.spotify.com/track/2XqDmEUf99PrBrEFPeLdZt) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS \-English version\-](https://open.spotify.com/album/0YbtYiFcdrWcDevayvfZkQ) | 3:34 | 2023-09-07 | 2023-09-15 |
 | [State of the Union](https://open.spotify.com/track/1Ngcg8YWXXlhsf6KRQzLuw) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Smile](https://open.spotify.com/album/7bS1WGyOPaE03hEBzwyZHm) | 2:50 | 2023-08-03 | 2023-08-11 |
-| [Stay \[Feat\. Patrick Wilson\]](https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Patrick Wilson](https://open.spotify.com/artist/7JDIzsiYm1WS3zUpiTdW52) | [Stay \[Feat\. Patrick Wilson\]](https://open.spotify.com/album/0VwhjiLBA4WtDGIuAWaG5Z) | 3:54 | 2023-07-06 | 2023-09-22 |
+| [Stay \[Feat\. Patrick Wilson\]](https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Patrick Wilson](https://open.spotify.com/artist/7JDIzsiYm1WS3zUpiTdW52) | [Stay \[Feat\. Patrick Wilson\]](https://open.spotify.com/album/0VwhjiLBA4WtDGIuAWaG5Z) | 3:54 | 2023-07-06 |  |
 | [Still Alive \- From the Original Motion Picture Scream VI](https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Still Alive \(From the Original Motion Picture Scream VI\)](https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q) | 3:05 | 2023-03-16 | 2023-05-19 |
 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 | 2023-07-27 | 2023-08-04 |
 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 | 2023-03-16 | 2023-04-28 |
@@ -591,6 +592,7 @@
 | [Wish I Could Forget \(with blackbear & Bring Me The Horizon\)](https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Wish I Could Forget \(with blackbear & Bring Me The Horizon\)](https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk) | 3:26 | 2023-05-18 | 2023-08-05 |
 | [With Regards](https://open.spotify.com/track/0rWFAPbnfmD0TX9Ahz4WAw) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 4:11 | 2023-08-31 | 2023-09-15 |
 | [Without Me](https://open.spotify.com/track/2g8vTn8mz96VWCSc9RCucZ) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Dark Sun](https://open.spotify.com/album/5LBwRaecL24pCuyX5klZm5) | 3:44 | 2023-03-16 | 2023-05-04 |
+| [Wonder](https://open.spotify.com/track/5jhpphz9p3wuSThnkFCTZv) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [DUAL](https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so) | 3:40 | 2023-09-21 |  |
 | [World On Fire](https://open.spotify.com/track/7CYvA2dKCUZUxfUohwyFU0) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [World On Fire](https://open.spotify.com/album/1C3X6pwfOwQVBCrFRAIuWh) | 3:18 | 2023-09-15 |  |
 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-16 | 2023-06-02 |
 | [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 | 2023-06-09 |  |

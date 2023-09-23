@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-108 songs - 7 hr 25 min
+109 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [El Diablo Y El Ñau Ñau \(feat\. Chico Mann\)](https://open.spotify.com/track/6mYsi0PrM4EdDBV5cfsNyp) | [Ocote Soul Sounds](https://open.spotify.com/artist/4khzV3qBWcUKdc50QOv8Tc), [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Coconut Rock](https://open.spotify.com/album/7gW7B0IdXwmNaMBAZ0XryK) | 3:57 | 2021-10-20 | 2023-09-10 |
 | [Fire By The River](https://open.spotify.com/track/6Nnq45sf7tv9Xjlbga83Lj) | [Harumi](https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO) | [Harumi](https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi) | 3:34 | 2021-10-20 |  |
 | [Flor do Real](https://open.spotify.com/track/2Xnn9KSLIeECnBfACC4LKj) | [Sessa](https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ) | [Grandeza](https://open.spotify.com/album/0xMUBvCjRGQqWps0tKcnBn) | 3:34 | 2021-10-20 |  |
+| [Ghibli](https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU) | [Savana Funk](https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG) | [Ghibli](https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As) | 3:55 | 2022-08-31 |  |
 | [Goca Dünya](https://open.spotify.com/track/5QO3UJc1gF1ummP75n2b3R) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [On](https://open.spotify.com/album/6AmmrlB9qABCgBdr8SCLZt) | 4:00 | 2021-10-20 |  |
 | [Gone Away Again](https://open.spotify.com/track/2LHfvXx92f9HAYV146h6TE) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R) | 2:45 | 2021-10-20 |  |
 | [Hana Mash Hu Al Yaman](https://open.spotify.com/track/31SocnpUpBkeybeT5UsY65) | [A\-WA](https://open.spotify.com/artist/1EK3SHXyGFZsuj4vrOLhAX) | [Bayti Fi Rasi](https://open.spotify.com/album/46reac1ZzkmCPcHpRMgniL) | 4:11 | 2021-10-20 |  |
@@ -55,7 +56,7 @@
 | [Lluvia](https://open.spotify.com/track/2QKIcgKfCpmVkfpMeqq5Rg) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [Lluvia](https://open.spotify.com/album/1paKQg7gOp16XexZyAjNvE) | 2:53 | 2021-10-20 |  |
 | [Makkuroi Mizu](https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z) | 6:03 | 2023-06-05 | 2023-09-04 |
 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 | 2023-03-31 |  |
-| [Mano de Fatima](https://open.spotify.com/track/1823wxCop81BdNRMKcfygg) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [La Tercera Vision](https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X) | 3:55 | 2022-02-15 |  |
+| [Mano de Fatima](https://open.spotify.com/track/1823wxCop81BdNRMKcfygg) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [La Tercera Vision](https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X) | 3:55 | 2022-02-15 | 2023-09-23 |
 | [Marechià](https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Marechià](https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W) | 4:24 | 2021-10-20 |  |
 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 | 2021-10-20 |  |
 | [Me Duele](https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Me Duele](https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV) | 3:16 | 2022-09-16 |  |

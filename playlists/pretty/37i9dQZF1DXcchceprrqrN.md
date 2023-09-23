@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 
 > self\-reinvention never sounded so good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,887 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,031 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 20 | [What's Up?](https://open.spotify.com/track/141alNiSd9vG4Lb22BLHWM) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Sweet Tooth](https://open.spotify.com/album/2vMWoMKeyq9m1xIghMKkaL) | 2:21 |
 | 21 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
 | 22 | [estella//](https://open.spotify.com/track/3emo5sUq2OwBctNgX0NMEV) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 1:58 |
-| 23 | [DVP](https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [The Dream Is Over](https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf) | 2:28 |
-| 24 | [The Same](https://open.spotify.com/track/6feuIpYR8HYHvryrczwxT7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 2:31 |
+| 23 | [The Same](https://open.spotify.com/track/6feuIpYR8HYHvryrczwxT7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 2:31 |
+| 24 | [DVP](https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [The Dream Is Over](https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf) | 2:28 |
 | 25 | [A Mistake](https://open.spotify.com/track/0w7XPnFp1jA7w7C8t89zJi) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 4:56 |
 | 26 | [HAMMS IN A GLASS](https://open.spotify.com/track/3249EJWdvR7xuLbXoxvLcJ) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [HAMMS IN A GLASS](https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM) | 2:24 |
-| 27 | [Fast in My Car](https://open.spotify.com/track/6r9cqn3KG824MXSo7sHPlK) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:42 |
-| 28 | [Cop Car](https://open.spotify.com/track/7DLCgotDOZZyiW4cuL1sgn) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Cop Car](https://open.spotify.com/album/1IGzUKAM596CnZN0zApFmd) | 3:03 |
+| 27 | [Cop Car](https://open.spotify.com/track/7DLCgotDOZZyiW4cuL1sgn) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Cop Car](https://open.spotify.com/album/1IGzUKAM596CnZN0zApFmd) | 3:03 |
+| 28 | [Fast in My Car](https://open.spotify.com/track/6r9cqn3KG824MXSo7sHPlK) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:42 |
 | 29 | [X\-RAY](https://open.spotify.com/track/26ZtCUtuDqeVjyTk0IsJzR) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | ["DESTRUCTION FOR DUMMIES", PT\. 2 JEAN DAWSON AS "NIGHTMARE"](https://open.spotify.com/album/48Rpbx4MGnVgN7Eli5yWvO) | 3:09 |
 | 30 | [Pedestrian at Best](https://open.spotify.com/track/7gsn3NxWLA0s0g9TmQlMri) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:50 |
 | 31 | [God Is a Circle](https://open.spotify.com/track/596pY5JqwSgSqM8cA4A0rg) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Praise A Lord Who Chews But Which Does Not Consume; \(Or Simply, Hot Between Worlds\)](https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC) | 3:32 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 44 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 |
 | 45 | [Weed Pin](https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 4:42 |
 | 46 | [Jackie](https://open.spotify.com/track/0iY3MXlrYO5HYQ1hJUCckf) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Jackie](https://open.spotify.com/album/46NN2xLB1GwUaus8CeUw4d) | 2:56 |
-| 47 | [WHY?](https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:54 |
-| 48 | [SICK OF IT\*](https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:09 |
-| 49 | [Crawl!](https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU) | 4:20 |
+| 47 | [Crawl!](https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU) | 4:20 |
+| 48 | [WHY?](https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:54 |
+| 49 | [SICK OF IT\*](https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:09 |
 | 50 | [Biohazard](https://open.spotify.com/track/1Dn8r3rLECHNSGCbajr9HX) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Two of Me](https://open.spotify.com/album/1dP6KuODHn23imSP4lYN4M) | 2:25 |
 
-Snapshot ID: `MCxhYWU0N2NlNDhhOTNmZGUyMTVkY2U5MTdmMWY0NTc2NWU3ODZkYmUw`
+Snapshot ID: `MCw3OGM0YTdlNWJhZWI4Yzc0NmI0ODRlOTlhNmY5MzdhZGUzZjc0NTRk`

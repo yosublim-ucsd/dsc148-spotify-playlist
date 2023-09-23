@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 482319,
+  "num_followers": 482431,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjZlNWVhZjhhMDY1ODE4ZjI2YzJjZWZhN2E4OGYwOWVhZTExMDc1",
+  "snapshot_id": "MCw3NGZmYTM0NmE1M2ZiZDNiNTk4NDc3NWVlYjgxNDNiODNlZDk0OWI5",
   "tracks": [
     {
       "added_at": "2023-09-22 00:56:58",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Mountains At Midnight",
-        "url": "https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 186196,
-      "name": "Mountains At Midnight",
-      "url": "https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Dirty Honey",
         "url": "https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 205090,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Typhoons",
+      "url": "https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -575,38 +575,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Emotion Sickness",
-        "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 271076,
-      "name": "Emotion Sickness",
-      "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Typhoons",
-      "url": "https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Black Pistol Fire",
         "url": "https://open.spotify.com/album/0EmwFyrOiD5DkGIDzhbOt1"
       },
@@ -619,6 +587,22 @@
       "duration_ms": 161053,
       "name": "Suffocation Blues",
       "url": "https://open.spotify.com/track/2WRk6RxETSwdsg2dhtnXxc"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Emotion Sickness",
+        "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 271076,
+      "name": "Emotion Sickness",
+      "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -651,6 +635,22 @@
       "duration_ms": 135853,
       "name": "Wannabe in L.A",
       "url": "https://open.spotify.com/track/3B7mbMbbcuKdfWssAcyvG8"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Mountains At Midnight",
+        "url": "https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 186196,
+      "name": "Mountains At Midnight",
+      "url": "https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Hear Me Out",
-        "url": "https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK"
-      },
-      "artists": [
-        {
-          "name": "Reignwolf",
-          "url": "https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK"
-        }
-      ],
-      "duration_ms": 209029,
-      "name": "Over & Over",
-      "url": "https://open.spotify.com/track/2wBEMqe81CXIX88kph8GBO"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Erase You",
         "url": "https://open.spotify.com/album/0tUmHGR6wK19sQAMxuYmuP"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 201680,
       "name": "Highway",
       "url": "https://open.spotify.com/track/1MErD2rlHmrMnA8JQZac1N"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK"
+      },
+      "artists": [
+        {
+          "name": "Reignwolf",
+          "url": "https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK"
+        }
+      ],
+      "duration_ms": 209029,
+      "name": "Over & Over",
+      "url": "https://open.spotify.com/track/2wBEMqe81CXIX88kph8GBO"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "New Age Norms 2",
+        "url": "https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 171226,
+      "name": "Who\u2019s Gonna Love Me Now",
+      "url": "https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "In The Wild (Deluxe Edition)",
         "url": "https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i"
       },
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "New Age Norms 2",
-        "url": "https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT"
+        "name": "daphne did it / the depths",
+        "url": "https://open.spotify.com/album/2k2DP0So7mBzytKNoH1A1M"
       },
       "artists": [
         {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
         }
       ],
-      "duration_ms": 171226,
-      "name": "Who\u2019s Gonna Love Me Now",
-      "url": "https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx"
+      "duration_ms": 202687,
+      "name": "daphne did it",
+      "url": "https://open.spotify.com/track/0QZ3iagvfN7158bVgqIkPR"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1075,22 +1091,6 @@
       "duration_ms": 324786,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "daphne did it / the depths",
-        "url": "https://open.spotify.com/album/2k2DP0So7mBzytKNoH1A1M"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 202687,
-      "name": "daphne did it",
-      "url": "https://open.spotify.com/track/0QZ3iagvfN7158bVgqIkPR"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Double Life",
-        "url": "https://open.spotify.com/album/29PpL7dLCaCEaftO0FfJy7"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 143712,
-      "name": "Double Life",
-      "url": "https://open.spotify.com/track/2ElpiEF3br7tvd5TYWYKHg"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Shakin' Off The Rust",
         "url": "https://open.spotify.com/album/1QJSy2Unc4j50ibbiO2DXQ"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 222936,
       "name": "Shakin' Off The Rust",
       "url": "https://open.spotify.com/track/0Aergaee1PD3zbWcjxcUJl"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Double Life",
+        "url": "https://open.spotify.com/album/29PpL7dLCaCEaftO0FfJy7"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 143712,
+      "name": "Double Life",
+      "url": "https://open.spotify.com/track/2ElpiEF3br7tvd5TYWYKHg"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Please Don't Be Dead",
+        "url": "https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 217451,
+      "name": "Plastic Hamburgers",
+      "url": "https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "Mercy Mercy",
         "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
       },
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Please Don't Be Dead",
-        "url": "https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS"
+        "name": "Cross The Line",
+        "url": "https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a"
       },
       "artists": [
         {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
         }
       ],
-      "duration_ms": 217451,
-      "name": "Plastic Hamburgers",
-      "url": "https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg"
+      "duration_ms": 187390,
+      "name": "Cross The Line",
+      "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1255,22 +1271,6 @@
       "duration_ms": 250274,
       "name": "Degradation Rules (feat. Tony Iommi)",
       "url": "https://open.spotify.com/track/6pLzzki6vNk6EZO0cSVpPl"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Cross The Line",
-        "url": "https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 187390,
-      "name": "Cross The Line",
-      "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/1TmLWHno2aTHedSxNofPkg"
-      },
-      "artists": [
-        {
-          "name": "Ayron Jones",
-          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
-        }
-      ],
-      "duration_ms": 246932,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Phosphene Dream",
         "url": "https://open.spotify.com/album/3FEcbSaWwrVFglM8lD9RRZ"
       },
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/1TmLWHno2aTHedSxNofPkg"
+      },
+      "artists": [
+        {
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
+        }
+      ],
+      "duration_ms": 246932,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "S.I.D.E.S.",
         "url": "https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s"
       },
@@ -1399,6 +1399,26 @@
       "duration_ms": 186933,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "The Woods",
+        "url": "https://open.spotify.com/album/1PJnVKmDtXcIT1zK3AE5Vn"
+      },
+      "artists": [
+        {
+          "name": "Reignwolf",
+          "url": "https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK"
+        },
+        {
+          "name": "Brad Wilk",
+          "url": "https://open.spotify.com/artist/1kQiJ0OIEzwr1oVCSZ1Y6o"
+        }
+      ],
+      "duration_ms": 173048,
+      "name": "The Woods",
+      "url": "https://open.spotify.com/track/5dzvsWBcAxt4onHIDYSDHz"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1427,26 +1447,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "The Woods",
-        "url": "https://open.spotify.com/album/1PJnVKmDtXcIT1zK3AE5Vn"
-      },
-      "artists": [
-        {
-          "name": "Reignwolf",
-          "url": "https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK"
-        },
-        {
-          "name": "Brad Wilk",
-          "url": "https://open.spotify.com/artist/1kQiJ0OIEzwr1oVCSZ1Y6o"
-        }
-      ],
-      "duration_ms": 173048,
-      "name": "The Woods",
-      "url": "https://open.spotify.com/track/5dzvsWBcAxt4onHIDYSDHz"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Young Blood",
-        "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Man Of The Moment",
         "url": "https://open.spotify.com/album/5ldOPfh3jfvF1rqkTlMPay"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 192933,
       "name": "Man Of The Moment",
       "url": "https://open.spotify.com/track/3qRiuJRs7u3Aj2AXkzbmD4"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Young Blood",
+        "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Who You Selling For",
-        "url": "https://open.spotify.com/album/6q2xelSrpNPLJ4KkKgDkRA"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 180226,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/24W4uqcDvJCer0Eodsu12Z"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Girl Sports",
         "url": "https://open.spotify.com/album/4GhmoNO1PAmFUoAoPoKUz2"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 194588,
       "name": "Girl Sports",
       "url": "https://open.spotify.com/track/6PmMCUt0JI6vrlVOFI6qM9"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Who You Selling For",
+        "url": "https://open.spotify.com/album/6q2xelSrpNPLJ4KkKgDkRA"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 180226,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/24W4uqcDvJCer0Eodsu12Z"
     },
     {
       "added_at": "2023-09-22 00:56:58",

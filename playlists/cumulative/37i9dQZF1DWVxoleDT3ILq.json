@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Todo el sonido indie de Chile. Foto: Sim\u00f3n Campusano",
+  "description": "Todo el sonido indie de Chile. Foto: D\u00ebnver ",
   "name": "Indie Chile",
   "tracks": [
     {
@@ -732,7 +732,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 178101,
       "name": "Brumas",
       "url": "https://open.spotify.com/track/0BoO71osPoRg9KbkToQMUw"
@@ -2010,6 +2010,28 @@
       "duration_ms": 187665,
       "name": "El Cielo",
       "url": "https://open.spotify.com/track/0b5ixbjiGeIVFVhB7qujge"
+    },
+    {
+      "album": {
+        "name": "El cigarrito",
+        "url": "https://open.spotify.com/album/0hYqGC2CTjS70O1Jzvtiss"
+      },
+      "artists": [
+        {
+          "name": "Angelo Pierattini",
+          "url": "https://open.spotify.com/artist/4IyZZfTjtcbbJfe8gvN1Pf"
+        },
+        {
+          "name": "Pablo Ilabaca",
+          "url": "https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188244,
+      "name": "El cigarrito",
+      "url": "https://open.spotify.com/track/1hgsjd1wklneSNLPgjL9fK"
     },
     {
       "album": {
@@ -3912,7 +3934,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 168152,
       "name": "Magnetismo",
       "url": "https://open.spotify.com/track/6Ng7uPbsuGEXmKWvgV7x9I"
@@ -4667,6 +4689,24 @@
     },
     {
       "album": {
+        "name": "Nochecita en B.A",
+        "url": "https://open.spotify.com/album/2FtQuGFK7V1vyZgj7s2eUc"
+      },
+      "artists": [
+        {
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Nochecita en B.A",
+      "url": "https://open.spotify.com/track/2AHOVEc4QaYvSx6t5vLqvf"
+    },
+    {
+      "album": {
         "name": "Noches Perdidas",
         "url": "https://open.spotify.com/album/2sGMCd4mkocvnD1DwlbWCR"
       },
@@ -5094,6 +5134,32 @@
       "duration_ms": 231734,
       "name": "Pausa",
       "url": "https://open.spotify.com/track/1yXN5w4DABaLSrv8ou9UXy"
+    },
+    {
+      "album": {
+        "name": "Pelusita al ojo",
+        "url": "https://open.spotify.com/album/3qH24SRUhygnrJea5RVWdF"
+      },
+      "artists": [
+        {
+          "name": "Art+Z",
+          "url": "https://open.spotify.com/artist/1LOE9eHw4dtadIuMEpQQyz"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        },
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265351,
+      "name": "Pelusita al ojo",
+      "url": "https://open.spotify.com/track/30H1oGEvLbHaZPOCiG0efP"
     },
     {
       "album": {
@@ -5894,6 +5960,28 @@
       "duration_ms": 180500,
       "name": "Retazos de Diciembre",
       "url": "https://open.spotify.com/track/0z0emm8aLLdj2Ds3OuT9Kl"
+    },
+    {
+      "album": {
+        "name": "Fuera de Campo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/5MvyTXQx5v4SUQ9A5BdPSz"
+      },
+      "artists": [
+        {
+          "name": "D\u00ebnver",
+          "url": "https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo"
+        },
+        {
+          "name": "Alejandro Paz",
+          "url": "https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296909,
+      "name": "Revista de Gimnasia - Alejandro Paz Remix",
+      "url": "https://open.spotify.com/track/5FR4gA58DZ7rzDb3LQVYyW"
     },
     {
       "album": {
@@ -6712,7 +6800,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 251261,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G"
@@ -7768,7 +7856,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 197566,
       "name": "Ya No Te Quiero",
       "url": "https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv"

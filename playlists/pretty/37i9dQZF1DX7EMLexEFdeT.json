@@ -1,12 +1,12 @@
 {
   "description": "Did you hear that?",
-  "num_followers": 105348,
+  "num_followers": 105532,
   "original_name": "Haunted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2EzNjBhNjlhYTdiZDdmZDkyZWU2YWQ4YTQ0YmRmZjY2ZDAwNGQy",
+  "snapshot_id": "MCw5ZGY5NTg3NGE4NGNiZTdhMmM3NjI1MDk1ZTIzM2NlZjg0NGY1Mzc0",
   "tracks": [
     {
       "added_at": "2022-09-23 20:35:54",
@@ -247,6 +247,26 @@
       "duration_ms": 212549,
       "name": "Die 4 You",
       "url": "https://open.spotify.com/track/2OBY3aeK3P2iiB6tkuanRz"
+    },
+    {
+      "added_at": "2022-09-23 20:35:54",
+      "album": {
+        "name": "Thrill Seeker",
+        "url": "https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Freak (feat. REI AMI)",
+      "url": "https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf"
     },
     {
       "added_at": "2022-09-23 20:35:54",

@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Buffalo Nichols
 
-241 songs - 14 hr 6 min
+242 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [AIN'T ONE THING](https://open.spotify.com/track/0z9hvrWumlSIezJeEHCB67) | [LaBronn Conner Jr.](https://open.spotify.com/artist/60s4V0w6AV0nzvqgV0xy9i) | [AIN'T ONE THING](https://open.spotify.com/album/3KeScJVC2iuPQiKKlAm8q8) | 4:38 | 2022-07-29 | 2022-10-22 |
 | [Ain’t Killed Me Yet](https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Ain’t Killed Me Yet](https://open.spotify.com/album/5bSiMgDd7UjgJClHgAF6Qu) | 3:01 | 2022-03-25 | 2023-03-25 |
 | [Alafia Moon](https://open.spotify.com/track/70E86POsODghwNfyN2Rgh4) | [Damon Fowler](https://open.spotify.com/artist/6dsP618YZjWbcMvxhvW1ug) | [Alafia Moon](https://open.spotify.com/album/1WGCbDWr7aLtgzursVE3pK) | 4:34 | 2021-03-12 | 2022-03-26 |
+| [Alice](https://open.spotify.com/track/0ljIh0b1ubYroGj6ngyE9u) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O), [Lena Schaur](https://open.spotify.com/artist/5wcDwiaP6GfRuIlJUzMylh) | [Alice](https://open.spotify.com/album/49Wr6GxDzD0sLh3oedD84E) | 2:34 | 2023-09-22 |  |
 | [Alive](https://open.spotify.com/track/7BuuOoTGzn92qj3pwpAJhF) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Get Behind the Wheel](https://open.spotify.com/album/38uG2SenaORYitq26CJnh9) | 4:24 | 2023-05-05 |  |
 | [All Night \- Edit](https://open.spotify.com/track/0wTcP4O2Uz0fuGYn9A0q7S) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [All Night](https://open.spotify.com/album/79fPJMto74aSvaI82TJP02) | 3:56 | 2022-07-15 | 2023-03-25 |
 | [All of It, Again](https://open.spotify.com/track/0OdzIwQTj4BRGaQ7yfvJ6i) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [All of It, Again](https://open.spotify.com/album/5VQjDyJ416TBS2g8ESxZAI) | 4:03 | 2021-04-23 | 2022-05-07 |
@@ -118,7 +119,7 @@
 | [Lonely](https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Lonely](https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ) | 3:00 | 2022-03-04 |  |
 | [LOST IN THE CITY](https://open.spotify.com/track/7bHz0ZMFED3ZN39InD2YmZ) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN LEGACY](https://open.spotify.com/album/74v3ofUMm9rHBHV8u0a5sr) | 3:13 | 2023-05-26 | 2023-06-24 |
 | [Loud \[Feat\. Tech N9ne\]](https://open.spotify.com/track/50l33yFFCNnGRdB301Hvur) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Faster](https://open.spotify.com/album/5UPzWIvVARqfzRn964aiah) | 4:53 | 2021-09-10 | 2022-06-19 |
-| [Love Me Harder](https://open.spotify.com/track/2247qD9kVEBW5bQsfXnPTm) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Love Me Harder](https://open.spotify.com/album/6RhNHCiWxHVavY7OYWk9UW) | 3:36 | 2023-05-26 |  |
+| [Love Me Harder](https://open.spotify.com/track/2247qD9kVEBW5bQsfXnPTm) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Love Me Harder](https://open.spotify.com/album/6RhNHCiWxHVavY7OYWk9UW) | 3:36 | 2023-05-26 | 2023-09-23 |
 | [Love on the Rocks](https://open.spotify.com/track/6paMAWG7CCn967OkrIILty) | [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Love on the Rocks](https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q) | 3:42 | 2021-10-19 | 2023-06-17 |
 | [Love One Another](https://open.spotify.com/track/56pU90MrM2CTr19neVoZCg) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Marlon Jackson](https://open.spotify.com/artist/5DG9htBpiEo5W6jUmYgbKF), [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ), [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Love One Another](https://open.spotify.com/album/5sIKiUbccZ7A2zp5fNQLGE) | 3:03 | 2021-07-09 | 2022-07-29 |
 | [Love One Another](https://open.spotify.com/track/64eBuqWRATkq4dtgMtzGq0) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi), [Marlon Jackson](https://open.spotify.com/artist/5DG9htBpiEo5W6jUmYgbKF) | [Under Your Spell](https://open.spotify.com/album/18U447Ip4CM4yoQc26DJ1i) | 3:03 | 2021-07-09 | 2022-08-27 |

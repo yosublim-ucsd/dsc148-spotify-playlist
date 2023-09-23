@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,105 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,283 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 18 | [ユラユラダンスホール](https://open.spotify.com/track/4P2OObLmEOiFSPYcFJ3vst) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [ユラユラダンスホール](https://open.spotify.com/album/4x8lTZayekaLjKgpKV9La5) | 4:51 |
 | 19 | [Himawari](https://open.spotify.com/track/4CEg2ZSlsQaO8zOCai89gA) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Himawari](https://open.spotify.com/album/2w8Y2kdC21njltt0Wt6em9) | 4:19 |
 | 20 | [Caffeine](https://open.spotify.com/track/3xsFZOyd6mfrjZT1Sf4nXR) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [Caffeine](https://open.spotify.com/album/74G9k4IlA4yjydeNlxOE7a) | 3:06 |
-| 21 | [Kyuseishu](https://open.spotify.com/track/3nDjI1uPbjBvqZNEA3F57Q) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Kyuseishu](https://open.spotify.com/album/2xiK0zF6CJjJqCqSHwgMsM) | 3:17 |
+| 21 | [Kyuseishu](https://open.spotify.com/track/1wXrIFdqheifq4ETjCpqoi) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Another Moon](https://open.spotify.com/album/4ncDSulCMzzASL7VcjTa28) | 3:19 |
 | 22 | [Surges](https://open.spotify.com/track/66a0Ib85gRjtZmac4HFsvw) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [夏背](https://open.spotify.com/artist/3xRckHz0CRl2Z328bNeVpC), [ルワン](https://open.spotify.com/artist/0UOSYwTdo7kX41HWeuykKm) | [Surges](https://open.spotify.com/album/3Ub59gYPmtgwd0FUDeptaH) | 2:00 |
 | 23 | [bad cry](https://open.spotify.com/track/7bnGO4VPzDGs9tv4HhPenC) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [bad cry](https://open.spotify.com/album/3aoEWy60XDvQpPqKV0B9EZ) | 3:25 |
 | 24 | [パイパー](https://open.spotify.com/track/0gpsaeDzzbHxtc5VhA7wiu) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [パイパー](https://open.spotify.com/album/0gRoHvdsUxLjmAFnUcnB8o) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 |
 | 50 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 |
 
-Snapshot ID: `MCw0ZDFkODhjY2EzNDhjYzM5YmY3ZDYwMDcxYTcyNDY1NmYwMGMxMDVl`
+Snapshot ID: `MCw5YjNlNjA5OWY1MWY1MmI2MjY2YzVjMjdhYzAyOTJmYjlhYjllYTZh`

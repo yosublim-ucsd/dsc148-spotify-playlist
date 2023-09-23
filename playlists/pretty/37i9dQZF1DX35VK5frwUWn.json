@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/rjbarrett/\">RJ Barrett</a>",
-  "num_followers": 1437,
+  "num_followers": 1441,
   "original_name": "RJ Barrett's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjRkNzgyOGNhMTY0ZDc1YjZkNmQyNWFiMzg3ZDhmOWNlOGQ5ZDk2",
+  "snapshot_id": "MCxmNjk2NWE1YzY1NDc5MTFiZmMzMGI2MDk2YjE3Y2I5Yjc3NzBhY2Zl",
   "tracks": [
     {
       "added_at": "2022-11-01 04:00:00",
@@ -883,26 +883,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "LONDON (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 250722,
-      "name": "LONDON (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 149568,
       "name": "No Long Talk",
       "url": "https://open.spotify.com/track/6CfrYuD3YRDYdYvH9jNtXY"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "LONDON (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 250722,
+      "name": "LONDON (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
     },
     {
       "added_at": "2022-11-01 04:00:00",

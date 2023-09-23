@@ -4,7 +4,7 @@
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-333 songs - 20 hr 52 min
+334 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Gold](https://open.spotify.com/track/3iTi975Q6qnoRKrBL1FNsl) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz), [Maggie Peake](https://open.spotify.com/artist/6NCA2AVIHGles0udtwuoqN) | [Gold](https://open.spotify.com/album/2pnxUdbJT2pwi44f54iCbE) | 4:16 | 2019-09-29\* |  |
 | [Golden \(Acoustic\)](https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Golden \(Acoustic\)](https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br) | 5:07 | 2019-09-29\* | 2023-08-02 |
 | [Great Divide](https://open.spotify.com/track/2n0UqC7DiRhelPWPkhviUH) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N) | 4:01 | 2019-09-29\* | 2023-03-01 |
-| [Great Divide](https://open.spotify.com/track/5zuelgle0Aqxyc9EooIPVl) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc) | 4:01 | 2023-04-07 |  |
+| [Great Divide](https://open.spotify.com/track/5zuelgle0Aqxyc9EooIPVl) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc) | 4:01 | 2023-04-07 | 2023-09-23 |
 | [Halfway \(Acoustic\) feat\. Hotel Fiction](https://open.spotify.com/track/66YHDx66wNm8bjuvWHeQOo) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH), [Hotel Fiction](https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R) | [Halfway \(Acoustic\) feat\. Hotel Fiction](https://open.spotify.com/album/3LkMO7M2naqTPwNIEOvuFr) | 4:02 | 2023-08-04 |  |
 | [Halleluya](https://open.spotify.com/track/1eiSkx4vQiHJ2tzMDDjL01) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Halleluya](https://open.spotify.com/album/4ZDbn99PxmBpj3UtcDXWWx) | 3:54 | 2019-09-29\* | 2023-01-02 |
 | [Hate The Way You Love Me](https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Beulah](https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI) | 4:03 | 2022-02-14 |  |
@@ -165,6 +165,7 @@
 | [Love Is Real](https://open.spotify.com/track/29WxNjKosNpws3mqiuQokS) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Love Is Real](https://open.spotify.com/album/5XESkiNh8sT8Hn5lrjZWia) | 2:28 | 2022-02-14 | 2022-02-19 |
 | [Love No Less Worthy](https://open.spotify.com/track/39ex1gng2xOIUrNjLOc7Ti) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Singing Ax](https://open.spotify.com/album/6tbON4U1Aw1od8B3OkuTz8) | 3:13 | 2020-06-12 | 2021-10-16 |
 | [Love You Anyway](https://open.spotify.com/track/31QplXgQf5ZZzk6mbx5KHr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:47 | 2023-04-07 | 2023-05-25 |
+| [Love You Anyway \[Feat\. Sammy Rae & The Friends\]](https://open.spotify.com/track/3wSMril9YOcKdoeAuPLNH3) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH), [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Love You Anyway \[Feat\. Sammy Rae & The Friends\]](https://open.spotify.com/album/4pGdjWWFkaIWX7f6RxrX0t) | 3:58 | 2023-09-22 |  |
 | [Love You True](https://open.spotify.com/track/73EaA3mjNHgsIiFrm2hZzV) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [The Tides](https://open.spotify.com/album/4L0K6IA83m6hrJNVgkmIKU) | 3:53 | 2019-09-29\* | 2023-01-17 |
 | [Lover](https://open.spotify.com/track/1A3ZhVCFvYPKj8SRMPbpsg) | [Jane Ellen Bryant](https://open.spotify.com/artist/0Lzcyqk8mIPURNWygVExKm) | [Hourglass](https://open.spotify.com/album/7lZJMlYFGEqpyqcKi2PDmr) | 4:34 | 2019-09-29\* | 2020-06-10 |
 | [Lover / / Over the Moon](https://open.spotify.com/track/5hGzYOXKT3YxJu2qcDTc44) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:27 | 2023-01-06 |  |

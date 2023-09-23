@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,518 likes - 90 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,521 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fugue in D minor \- Spotify Singles](https://open.spotify.com/track/08ooPV5h25QXuoC6oerVuJ) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Spotify Singles](https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS) | 4:45 |
-| 2 | [Spooky, Scary Skeletons \- Undead Tombstone Remix](https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music \(Deluxe Edition\)](https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4) | 2:05 |
-| 3 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 4:03 |
+| 2 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 4:03 |
+| 3 | [Witches, Witches, Witches \- The Living Tombstone Remix](https://open.spotify.com/track/3nECeZ2vi0Q8NwtBclexdH) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d), [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Witches, Witches, Witches \(The Living Tombstone Remix\)](https://open.spotify.com/album/5KvGorO0DxKf71OkIVpvAY) | 3:09 |
 | 4 | [NALGOTICA!](https://open.spotify.com/track/3mMRpyE2N7oHvypU3RPntr) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [NALGOTICA!](https://open.spotify.com/album/0l4MkKrEbUpxpKUbSd5oCc) | 1:54 |
 | 5 | [Ghosts 'n' Stuff \- Extended Mix](https://open.spotify.com/track/0KR5i46RXvDy8YzOZRvTAI) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [5 Years of mau5](https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2) | 5:28 |
 | 6 | [Heads Will Roll \- A\-Trak Remix](https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Heads Will Roll](https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV) | 6:23 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 89 | [ET](https://open.spotify.com/track/2XcIWtg0axDhkJ0TbpCdbN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [ET](https://open.spotify.com/album/44zUhPD7drtNUrSkGIAmLH) | 3:11 |
 | 90 | [Weeping Ghost](https://open.spotify.com/track/4mqFrT3oGrx9dvSm0cbjJK) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes III: Alive After Death](https://open.spotify.com/album/2GYD5j8wa4kEhlmN5GGiUT) | 3:33 |
 
-Snapshot ID: `MCw4NmU2ZDkwMDVlMzE1OWU3MTYwNzY5ZmRhZmVkODBiZmUwYTY5MzA2`
+Snapshot ID: `MCw1YjA0YTdkMTNlZWY1YzA0Y2FlYzc2ZjZkNTcyZGM3YWNhYjQyZDIy`

@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-267 songs - 14 hr 44 min
+268 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [ili](https://open.spotify.com/track/59QmjU5K8XQTfj9JjFNb4Z) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Left Is Right](https://open.spotify.com/album/7nYaSlVUHMNvSRzc0guLYy) | 4:05 | 2022-02-01 |  |
 | [In Da Trap](https://open.spotify.com/track/2BvcDrHKfMCa7TmZwZ4wqf) | [Bailo](https://open.spotify.com/artist/3oLbNoZxAYO4KsXmx6PjTC) | [In Da Trap](https://open.spotify.com/album/4azEDdUz90VFhaut17Ag8f) | 4:10 | 2021-11-19 | 2022-02-02 |
 | [In Motion \(feat\. Reo Cragun\)](https://open.spotify.com/track/53d5dxYPtRLPmqPe9VpZ67) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [In Motion](https://open.spotify.com/album/71lqyPEsdWsJhqYhylY1vy) | 3:01 | 2021-11-19 |  |
-| [In My Room \(feat\. Ty Dolla $ign & Tyga\)](https://open.spotify.com/track/4lqEFIB9YZl8BwR99L5H3b) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Blood For Mercy](https://open.spotify.com/album/7ACxS7rtYV8HyHgj0FD0cb) | 2:48 | 2022-02-01 |  |
+| [In My Room \(feat\. Ty Dolla $ign & Tyga\)](https://open.spotify.com/track/4lqEFIB9YZl8BwR99L5H3b) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Blood For Mercy](https://open.spotify.com/album/7ACxS7rtYV8HyHgj0FD0cb) | 2:48 | 2022-02-01 | 2023-09-23 |
 | [In Your Head](https://open.spotify.com/track/1NhilkWAvuOHN3c0m88N98) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [The Ineffable Truth](https://open.spotify.com/album/4wcUbqKSiZv4kNoJ3KOmrS) | 3:09 | 2021-11-19 | 2022-02-02 |
 | [Insomniac](https://open.spotify.com/track/74leCkl7rVK7GcycRrc9wq) | [AJ Salvatore](https://open.spotify.com/artist/5gLMXPUMc0uh9TedkRlng9), [Atarii](https://open.spotify.com/artist/1qqf6zmMJwD0v7gKAvbZMJ) | [Insomniac](https://open.spotify.com/album/6hMnN2Q7GA0HXLnB7Lpa0l) | 2:32 | 2021-11-19 | 2022-01-27 |
 | [Interstellar](https://open.spotify.com/track/1sm3F0f494JeVkPp4ilpIt) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Say Less](https://open.spotify.com/album/0zjiaN2MHgT0OVHE1DRRFK) | 2:53 | 2023-05-05 | 2023-05-27 |
@@ -268,6 +268,7 @@
 | [Used To Know Me](https://open.spotify.com/track/54qwl8mJQ45SmIeYKp6jZp) | [iSHi](https://open.spotify.com/artist/6Dy7Ex5zlTLgXbsB92rPji) | [iSHi Instrumentals Vol.1](https://open.spotify.com/album/1ErrsW3p5x3XUzXEdRN3Iv) | 2:20 | 2021-12-03 | 2022-01-31 |
 | [WARDOGZ](https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4) | [6 FEET UNDER](https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl) | 2:34 | 2022-02-01 |  |
 | [Why Is It So Hard](https://open.spotify.com/track/6ovna0z2elvIqqfVw8p4z1) | [Santiago](https://open.spotify.com/artist/1nZ7JTJvYw7eGVECfF43hF) | [Why Is It So Hard](https://open.spotify.com/album/1u42tckI6ReuhdPIVgUxjW) | 3:23 | 2021-11-26 | 2022-01-28 |
+| [Wide Awake](https://open.spotify.com/track/0Oe5QO7zwMWKkGhgr5vIEz) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Torii Wolf](https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz) | [Wide Awake](https://open.spotify.com/album/3eE3Yr8OLOnjAdmTPUkekm) | 3:15 | 2023-09-22 |  |
 | [Windows 10 \- Trap Mix](https://open.spotify.com/track/14ZmWCuRUubceb4pEe8tUE) | [DJ30A](https://open.spotify.com/artist/65vvuazV1f4jvSBedvK47v), [Huda Hudia](https://open.spotify.com/artist/4I1riHiGHL0NLBQAzAyEdp) | [Windows 10 \(Trap Mix\)](https://open.spotify.com/album/10UCecyPtNSyIeBXDtssY1) | 4:06 | 2021-11-19 | 2022-02-01 |
 | [Wobble](https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Wobble](https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb) | 3:08 | 2022-02-01 |  |
 | [Wrong Kind](https://open.spotify.com/track/4RsiHeY3G77kcmDygKtqda) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [BAUWZ](https://open.spotify.com/artist/1SkY6AUOKqfL6sjSt8HVjq), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Wrong Kind](https://open.spotify.com/album/7ypaimtNdehVcHnmYDiHc0) | 4:02 | 2021-11-19 | 2022-02-01 |

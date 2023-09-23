@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest indie love songs of all time. ",
-  "num_followers": 594409,
+  "num_followers": 594542,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzJhMjFiNmY3YTE3YmU5MTI1ZWFjZTU1NDZlZjZjZTZmMmRmMjYz",
+  "snapshot_id": "MCxkMWI4OGJhMjhhMTVjNzk5NThlZGMwNTMxMDcwY2QyMmZlMjJmZDli",
   "tracks": [
     {
       "added_at": "2023-07-21 10:32:21",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
+        "name": "Superclean, Vol. II",
+        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 258713,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH"
+    },
+    {
+      "added_at": "2023-07-21 10:32:21",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -1203,34 +1219,18 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
-        "name": "Superclean, Vol. II",
-        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
+        "name": "Concentrate",
+        "url": "https://open.spotify.com/album/1mgzsmNo3XcdjonlRIwvFk"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "The Happy Fits",
+          "url": "https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ"
         }
       ],
-      "duration_ms": 258713,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH"
-    },
-    {
-      "added_at": "2023-07-21 10:32:21",
-      "album": {
-        "name": "Rollerblades",
-        "url": "https://open.spotify.com/album/6pOBptbCkOMPilLRihX4tw"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 134066,
-      "name": "Rollerblades",
-      "url": "https://open.spotify.com/track/7iSNEgSJYlc42H73xePMLh"
+      "duration_ms": 191360,
+      "name": "So Alright, Cool, Whatever",
+      "url": "https://open.spotify.com/track/47rOmlKHPYyMDM3h6L74Sn"
     }
   ],
   "unique_name": "Indie Love Songs",

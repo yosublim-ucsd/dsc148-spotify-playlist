@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,946 likes - 126 songs - 7 hr 4 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,946 likes - 128 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,5 +134,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 124 | [am i right?](https://open.spotify.com/track/6CS6zb9sXKsDm5n1Bbqc9R) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [am i right?](https://open.spotify.com/album/1zSt0UqmEaaX6Mxkau913w) | 3:02 |
 | 125 | [Yours](https://open.spotify.com/track/4YuZXJDmHNtliF8N5TVMH8) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Yours](https://open.spotify.com/album/6BsBUWdc6Ewfv77AbNL5I4) | 3:17 |
 | 126 | [always](https://open.spotify.com/track/4x18rLsHPvkWkBPCULknfd) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [always](https://open.spotify.com/album/0BINonSEu5AmCiLrhhfAMm) | 2:26 |
+| 127 | [i can see](https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [i can see](https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A) | 3:49 |
+| 128 | [Summer Nights \(feat\. emma løv & Loote\)](https://open.spotify.com/track/2DOySVSvMKh95vZpIfcaWM) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3), [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Summer Nights \(feat\. emma løv & Loote\)](https://open.spotify.com/album/4RSVAG5I1nKLaa1nEAKiXG) | 2:24 |
 
-Snapshot ID: `MTA0NjgsZmEwMDZlNDYwNTM0MzY5YTY0NjkyMjNmYjNkZTYxZmYwODA5N2U3Mw==`
+Snapshot ID: `MTA0NzAsZTcwN2EzYjFlOTRhNGE3M2YwNDIyZGVlODk2MjM3NmJmNjk0MTY1Yw==`

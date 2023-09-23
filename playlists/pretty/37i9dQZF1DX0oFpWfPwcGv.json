@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 50610,
+  "num_followers": 50700,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTIzNjlhYWM0YTYxMTcwZjQwN2VkNzU4MjJjZGUzYTJlMTk3ZThl",
+  "snapshot_id": "MCwxYjA4NGNiNTc0OWM1NTNjNTBlNDE3ODI4YjEwNjM1MGM5NjlhYzc4",
   "tracks": [
     {
       "added_at": "2023-09-18 17:33:17",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
+        "name": "Instant Replay (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa"
+      },
+      "artists": [
+        {
+          "name": "Dan Hartman",
+          "url": "https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr"
+        }
+      ],
+      "duration_ms": 320480,
+      "name": "Instant Replay",
+      "url": "https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
         "name": "Deep Grooves",
         "url": "https://open.spotify.com/album/4YmLFWoRJ18TSlw7ROIPIf"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 313906,
       "name": "Love Is the Message (feat. The Three Degrees) - Love Groove Bonus",
       "url": "https://open.spotify.com/track/3rwrt4Ks6N6EWIfjfIfLAP"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
-        "name": "Instant Replay (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa"
-      },
-      "artists": [
-        {
-          "name": "Dan Hartman",
-          "url": "https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr"
-        }
-      ],
-      "duration_ms": 320480,
-      "name": "Instant Replay",
-      "url": "https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf"
     },
     {
       "added_at": "2023-09-18 17:33:17",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
+        "name": "People... Hold On",
+        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kendricks",
+          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "Date With The Rain",
+      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
         "name": "Dimitri From Paris Presents Le CHIC Remix",
         "url": "https://open.spotify.com/album/0SbNsZY1MvowLeC5YgEMrg"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 389332,
       "name": "Thinking of You - Dimitri from Paris Remix; 2018 Remaster",
       "url": "https://open.spotify.com/track/6J0pQrsvXUc1Xy4DvScrIK"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
-        "name": "People... Hold On",
-        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
-      },
-      "artists": [
-        {
-          "name": "Eddie Kendricks",
-          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "Date With The Rain",
-      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
     },
     {
       "added_at": "2023-09-18 17:33:17",

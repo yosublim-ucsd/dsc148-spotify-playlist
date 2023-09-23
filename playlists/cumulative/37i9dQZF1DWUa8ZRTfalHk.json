@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Who's now and next in pop. Cover: Tate McRae",
+  "description": "Who's now and next in pop. Cover: Tyla",
   "name": "Pop Rising",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 165056,
       "name": "16",
       "url": "https://open.spotify.com/track/3WM3StDOsMAYaCjxymQeOy"
@@ -1109,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265360,
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
+    },
+    {
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -1743,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "AMERICAN HORROR SHOW",
+        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
+      },
+      "artists": [
+        {
+          "name": "SNOW WIFE",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149391,
+      "name": "AMERICAN HORROR SHOW",
+      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
+    },
+    {
+      "album": {
         "name": "american jesus",
         "url": "https://open.spotify.com/album/7D970R6nLDmuw6XlpsceFW"
       },
@@ -1980,7 +2016,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 176454,
       "name": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
       "url": "https://open.spotify.com/track/2yjeXq5ahx6UUg2rHaUe6X"
@@ -3268,7 +3304,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 231684,
       "name": "Be More",
       "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
@@ -4731,6 +4767,28 @@
     },
     {
       "album": {
+        "name": "Boys Of Faith (feat. Bon Iver)",
+        "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170824,
+      "name": "Boys Of Faith (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr"
+    },
+    {
+      "album": {
         "name": "BOYSHIT",
         "url": "https://open.spotify.com/album/5y0HdjRMItB3GQEr8EStYp"
       },
@@ -5404,7 +5462,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 278670,
       "name": "Call Your Mom (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
@@ -7011,6 +7069,24 @@
     },
     {
       "album": {
+        "name": "cross my heart",
+        "url": "https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146228,
+      "name": "cross my heart",
+      "url": "https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -7022,7 +7098,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -7188,7 +7264,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 259167,
       "name": "Daddy\u2019s a Psycho",
       "url": "https://open.spotify.com/track/6jYo2opycXJs1wj2jENEiq"
@@ -7622,7 +7698,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -7698,6 +7774,24 @@
       "duration_ms": 182792,
       "name": "dead inside",
       "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
+    },
+    {
+      "album": {
+        "name": "Dead Man",
+        "url": "https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274870,
+      "name": "Dead Man",
+      "url": "https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH"
     },
     {
       "album": {
@@ -8464,6 +8558,24 @@
       "duration_ms": 203685,
       "name": "Doesn't Matter",
       "url": "https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r"
+    },
+    {
+      "album": {
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232277,
+      "name": "Doesn\u2019t Do Me Any Good",
+      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
     },
     {
       "album": {
@@ -10904,7 +11016,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 223400,
       "name": "Fictional",
       "url": "https://open.spotify.com/track/56xb5xXdUopdjiknbFmC4W"
@@ -12821,6 +12933,24 @@
     },
     {
       "album": {
+        "name": "Got Me Started",
+        "url": "https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198448,
+      "name": "Got Me Started",
+      "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
+    },
+    {
+      "album": {
         "name": "Grand",
         "url": "https://open.spotify.com/album/6u32goyaQHOcbbmdooLRJ4"
       },
@@ -13042,6 +13172,24 @@
       "duration_ms": 121112,
       "name": "Grrrls",
       "url": "https://open.spotify.com/track/7Mto5DGHzHXzF1hpsMRtYK"
+    },
+    {
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176840,
+      "name": "Gun",
+      "url": "https://open.spotify.com/track/15sNe8FD178zMsVz6ug0AS"
     },
     {
       "album": {
@@ -16332,7 +16480,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 191013,
       "name": "In A Perfect World (with Julia Michaels)",
       "url": "https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H"
@@ -21355,6 +21503,32 @@
     },
     {
       "album": {
+        "name": "Mirage (for Assassin's Creed Mirage)",
+        "url": "https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
+        },
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133183,
+      "name": "Mirage - for Assassin's Creed Mirage",
+      "url": "https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW"
+    },
+    {
+      "album": {
         "name": "Miserable Man",
         "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
       },
@@ -22082,7 +22256,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 167035,
       "name": "Mr Right (with Meghan Trainor)",
       "url": "https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp"
@@ -22202,7 +22376,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 147180,
       "name": "My Bad",
       "url": "https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs"
@@ -22308,6 +22482,24 @@
       "duration_ms": 177511,
       "name": "My Love - Edit",
       "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "album": {
@@ -24682,7 +24874,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
@@ -26022,7 +26214,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 161240,
       "name": "Queencard",
       "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
@@ -26892,7 +27084,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 143264,
       "name": "RUNAWAY",
       "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
@@ -32906,6 +33098,24 @@
       "duration_ms": 149865,
       "name": "Treat Me",
       "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
+    },
+    {
+      "album": {
+        "name": "Probl\u00e9matique",
+        "url": "https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115826,
+      "name": "Treat Me Like A Ho",
+      "url": "https://open.spotify.com/track/5b67O08sN2itkQPsNmafPx"
     },
     {
       "album": {

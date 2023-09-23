@@ -1,12 +1,12 @@
 {
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34 & \uacf5\ubd80\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
-  "num_followers": 112050,
+  "num_followers": 112058,
   "original_name": "Workday K-Pop (\ub0b4\uc801\ub304\uc2a4 \uc5c5\ubb34/\uacf5\ubd80)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTZmZjgxYjg2NjRhNThiNzdhNmQ3ODVhYWQyNzZmNDI2ZDViNzgx",
+  "snapshot_id": "MCxhNWU2NDM4N2RiM2VmZGVhOGE1YTkyZmJkMDEyZWM4ODE3Zjg4OThj",
   "tracks": [
     {
       "added_at": "2023-09-15 05:31:39",
@@ -471,18 +471,18 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "GO LIVE",
-        "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
+        "name": "Love Lee",
+        "url": "https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
         }
       ],
-      "duration_ms": 167922,
-      "name": "God\u2019s Menu",
-      "url": "https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy"
+      "duration_ms": 179683,
+      "name": "Love Lee",
+      "url": "https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "ELEVEN",
-        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
+        "name": "GO LIVE",
+        "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 178453,
-      "name": "ELEVEN",
-      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
+      "duration_ms": 167922,
+      "name": "God\u2019s Menu",
+      "url": "https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "Love Lee",
-        "url": "https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF"
+        "name": "ELEVEN",
+        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
       },
       "artists": [
         {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 179683,
-      "name": "Love Lee",
-      "url": "https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ"
+      "duration_ms": 178453,
+      "name": "ELEVEN",
+      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
+        "name": "Paint Me Naked - SM STATION",
+        "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Paint Me Naked",
+      "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 202203,
       "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
       "url": "https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
-        "name": "Paint Me Naked - SM STATION",
-        "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
-      },
-      "artists": [
-        {
-          "name": "TEN",
-          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Paint Me Naked",
-      "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
+        "name": "Descendants Of The Sun Pt.2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5TVsuCwCLLBk9qpElbX7nE"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "duration_ms": 189355,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/1D6lK8qADoErTTLkY4YBfM"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
         "name": "Savage Love (Laxed - Siren Beat) [BTS Remix]",
         "url": "https://open.spotify.com/album/5O6izFQ2veRaZOcQSyOi4o"
       },
@@ -1411,26 +1431,6 @@
       "duration_ms": 184905,
       "name": "Savage Love (Laxed \u2013 Siren Beat) [BTS Remix]",
       "url": "https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
-        "name": "Descendants Of The Sun Pt.2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5TVsuCwCLLBk9qpElbX7nE"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        },
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
-        }
-      ],
-      "duration_ms": 189355,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/1D6lK8qADoErTTLkY4YBfM"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -1515,38 +1515,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "BBIBBI",
-        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "BBIBBI",
-      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
-        "name": "GUESS WHO",
-        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 172373,
-      "name": "In the morning",
-      "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "THE BADDEST",
         "url": "https://open.spotify.com/album/7C8nskYbHG7N0LDrNVvt7x"
       },
@@ -1575,6 +1543,38 @@
       "duration_ms": 162600,
       "name": "THE BADDEST",
       "url": "https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 172373,
+      "name": "In the morning",
+      "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "BBIBBI",
+        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "BBIBBI",
+      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "BORDER : DAY ONE",
-        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 194220,
-      "name": "10 Months",
-      "url": "https://open.spotify.com/track/3LcFQsZw01tRvjCNLgSmTv"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "Descendants Of The Sun Pt.4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 240590,
       "name": "You Are My Everything",
       "url": "https://open.spotify.com/track/4s80CRYk3rRPZE56NvmFi7"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "BORDER : DAY ONE",
+        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 194220,
+      "name": "10 Months",
+      "url": "https://open.spotify.com/track/3LcFQsZw01tRvjCNLgSmTv"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2101,7 +2101,7 @@
         }
       ],
       "duration_ms": 196160,
-      "name": "NO PROBLEM (Feat. Felix (Stray Kids))",
+      "name": "NO PROBLEM (Feat. Felix of Stray Kids)",
       "url": "https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC"
     },
     {
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 193321,
+      "name": "200%",
+      "url": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
         "name": "Neon Future III",
         "url": "https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL"
       },
@@ -2387,22 +2403,6 @@
       "duration_ms": 192536,
       "name": "Waste It On Me",
       "url": "https://open.spotify.com/track/66XDf77gBcfQKi4I2vIbTj"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 193321,
-      "name": "200%",
-      "url": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2439,6 +2439,22 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
+        "name": "Last Melody",
+        "url": "https://open.spotify.com/album/4ZDUTnUO9CDFmwdCUCQ6dG"
+      },
+      "artists": [
+        {
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "FIRST",
+      "url": "https://open.spotify.com/track/021L6LlBBtr34BmFRHd9Ic"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
         "name": "Love War",
         "url": "https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten"
       },
@@ -2455,22 +2471,6 @@
       "duration_ms": 188280,
       "name": "Love War (Feat. BE'O)",
       "url": "https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
-        "name": "Last Melody",
-        "url": "https://open.spotify.com/album/4ZDUTnUO9CDFmwdCUCQ6dG"
-      },
-      "artists": [
-        {
-          "name": "EVERGLOW",
-          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "FIRST",
-      "url": "https://open.spotify.com/track/021L6LlBBtr34BmFRHd9Ic"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2711,22 +2711,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "H1-KEY 1st Mini Album [Rose Blossom]",
-        "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
-      },
-      "artists": [
-        {
-          "name": "H1-KEY",
-          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Rose Blossom",
-      "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "No Make Up",
         "url": "https://open.spotify.com/album/0r0xWI5K9ieP0jpZUrXrDd"
       },
@@ -2739,6 +2723,22 @@
       "duration_ms": 189154,
       "name": "No Make Up",
       "url": "https://open.spotify.com/track/4ppKRxity3jJd2hGoVyD4u"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "H1-KEY 1st Mini Album [Rose Blossom]",
+        "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Rose Blossom",
+      "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2807,22 +2807,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "from our Memento Box",
-        "url": "https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo"
-      },
-      "artists": [
-        {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Stay This Way",
-      "url": "https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "1-1=0 (NOTHING WITHOUT YOU)",
         "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
       },
@@ -2839,18 +2823,18 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg"
+        "name": "from our Memento Box",
+        "url": "https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo"
       },
       "artists": [
         {
-          "name": "CL",
-          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
         }
       ],
-      "duration_ms": 190050,
-      "name": "Tie a Cherry",
-      "url": "https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu"
+      "duration_ms": 195653,
+      "name": "Stay This Way",
+      "url": "https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2867,6 +2851,22 @@
       "duration_ms": 226698,
       "name": "Time for the moon night",
       "url": "https://open.spotify.com/track/2jL9sjFc2LZsQBGbQnrjXR"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg"
+      },
+      "artists": [
+        {
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+        }
+      ],
+      "duration_ms": 190050,
+      "name": "Tie a Cherry",
+      "url": "https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2963,22 +2963,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "9 WAY TICKET",
-        "url": "https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW"
-      },
-      "artists": [
-        {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "WE GO",
-      "url": "https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "LOVE me",
         "url": "https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK"
       },
@@ -3007,6 +2991,22 @@
       "duration_ms": 215997,
       "name": "D\u00e9calcomanie",
       "url": "https://open.spotify.com/track/5WitNasXEIRptoLIQUcXMx"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "9 WAY TICKET",
+        "url": "https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "WE GO",
+      "url": "https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -3311,22 +3311,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "ZERO : FEVER Part.1",
-        "url": "https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 204040,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/2dPETee06bbHulsABk0h7I"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "5.3 (Gradation)",
         "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
       },
@@ -3339,6 +3323,22 @@
       "duration_ms": 201280,
       "name": "Gradation",
       "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "ZERO : FEVER Part.1",
+        "url": "https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 204040,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/2dPETee06bbHulsABk0h7I"
     },
     {
       "added_at": "2023-09-15 05:31:39",

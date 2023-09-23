@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 352393,
+  "num_followers": 352476,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2NhZGY0YTMyYmY1M2I5NjNjZDU0YzYxMTgyOThiMGVjYTlkMzMy",
+  "snapshot_id": "MCw3ZTYzNDE1OTJkNGZhMDgzNDI3N2ZjOWFjMTEyNmM0NGE0ZWFmMzUw",
   "tracks": [
     {
       "added_at": "2023-07-21 10:20:44",
@@ -67,22 +67,6 @@
     {
       "added_at": "2023-07-21 10:20:44",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
-    },
-    {
-      "added_at": "2023-07-21 10:20:44",
-      "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
+    },
+    {
+      "added_at": "2023-07-21 10:20:44",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
       "added_at": "2023-07-21 10:20:44",

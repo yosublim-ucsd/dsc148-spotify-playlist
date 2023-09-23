@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,783 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,865 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 15 | [Me Acuerdo](https://open.spotify.com/track/5P67DwLI2wtCIIXD80o5zk) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [VICO\-C Digital Collection 1987\-2007](https://open.spotify.com/album/7aRR72pN3uae5Lb22Etxwi) | 5:59 |
 | 16 | [Te Ves Buena](https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Estas Buena](https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI) | 3:25 |
 | 17 | [Pase Lo Que Pase](https://open.spotify.com/track/0ey8pKC4acPGI7pLEq4txU) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG), [Jeanette](https://open.spotify.com/artist/2RR3ftPVbWXhmczgCr0kpX) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 3:43 |
-| 18 | [Tengo una Punto 40](https://open.spotify.com/track/5zsatbvXqrPSx6vid6c8Sf) | [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Gringo](https://open.spotify.com/artist/29cNzWXrkNaGVL74hZK0jU) | [Playero 40 New Era](https://open.spotify.com/album/6R1g9oipVOkjxwFsc1R2vB) | 2:37 |
-| 19 | [Ella Se Arrebata](https://open.spotify.com/track/0oQJSzRRp9K5qbrSuzqACz) | [Latin Fresh](https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M) | [Tranquilo](https://open.spotify.com/album/3VWuyqHFsqjlV20zjKvE9W) | 3:32 |
+| 18 | [Ella Se Arrebata](https://open.spotify.com/track/0oQJSzRRp9K5qbrSuzqACz) | [Latin Fresh](https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M) | [Tranquilo](https://open.spotify.com/album/3VWuyqHFsqjlV20zjKvE9W) | 3:32 |
+| 19 | [Tengo una Punto 40](https://open.spotify.com/track/5zsatbvXqrPSx6vid6c8Sf) | [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Gringo](https://open.spotify.com/artist/29cNzWXrkNaGVL74hZK0jU) | [Playero 40 New Era](https://open.spotify.com/album/6R1g9oipVOkjxwFsc1R2vB) | 2:37 |
 | 20 | [Hot This Year](https://open.spotify.com/track/0Pp9uh741YQbUAcAJlb2RJ) | [Dirtsman](https://open.spotify.com/artist/3WkWip0kyAQjb91nEJjUgs) | [Reggae Hits, Vol\. 11](https://open.spotify.com/album/2JimbOB089I6bUYDvPLY6P) | 3:29 |
 | 21 | [Chezidom](https://open.spotify.com/track/0iO8CghAaUo0lVLSHawUc1) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Mi Trayectoria](https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v) | 4:36 |
 | 22 | [Tu Pun Pun](https://open.spotify.com/track/5MIWYWguyDnxBlCQT9V4Kt) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Estas Buena](https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 74 | [Alza la Mano Si Te Gusta Fumar](https://open.spotify.com/track/0m6giBF179ViIADfkXcLkQ) | [The Noise](https://open.spotify.com/artist/0xbdsXms9xTAtNmROodyy8), [Baby J](https://open.spotify.com/artist/0CXKthoKqF82onOw8RB6pA) | [The Beginning](https://open.spotify.com/album/3nqohzl5qqylbTrIu3PIB7) | 3:10 |
 | 75 | [El Trenecito](https://open.spotify.com/track/7IscZjDuApOs2gIFw9XaFp) | [Impacto Mc](https://open.spotify.com/artist/1KHgy3AlIpLFkeEyRwC6Qs) | [Golosa](https://open.spotify.com/album/6T2JoTSWxQhqIzcauJivm3) | 3:14 |
 
-Snapshot ID: `MCxhNTU3NzdiMTlmNzY4MDlmZjA4N2I1MDY4YTgyNDFjMjUxOWZjODU1`
+Snapshot ID: `MCw4ZDViZDk5NTFiMzVkNDRjNWY0MGM4ZThlMDUxZDBmZjg2NjE1Mzdh`

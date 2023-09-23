@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Stay up to date with the freshest Arabic Pop Songs. Cover: Elissa",
+  "description": "Stay up to date with the freshest Arabic Pop Songs. Cover: zeyne",
   "name": "Fresh Arabic Pop",
   "tracks": [
     {
@@ -816,7 +816,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 214956,
       "name": "Befdiki",
       "url": "https://open.spotify.com/track/2xxrKfNmahZzrCgR3gfJcN"
@@ -834,7 +834,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 169700,
       "name": "Bel Ahlam",
       "url": "https://open.spotify.com/track/4tqnXpS0wJcqkZMFx7reaY"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 205333,
       "name": "Follow",
       "url": "https://open.spotify.com/track/09VlHQlBTWASlJMibldUFl"
@@ -1656,7 +1656,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 169104,
       "name": "Halef 3al Hob",
       "url": "https://open.spotify.com/track/07e7dSXY5Fqe2AUG9I4wLl"
@@ -3215,6 +3215,24 @@
     },
     {
       "album": {
+        "name": "Wala Forsa",
+        "url": "https://open.spotify.com/album/3idMo7sM0y5c2gzv1ueAoM"
+      },
+      "artists": [
+        {
+          "name": "zeyne",
+          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189054,
+      "name": "Wala Forsa",
+      "url": "https://open.spotify.com/track/13p9fm2jpraNwAPlEg8o9u"
+    },
+    {
+      "album": {
         "name": "Mouthakerti",
         "url": "https://open.spotify.com/album/4bS80nF6fc85gq8MBsWLGW"
       },
@@ -3396,6 +3414,24 @@
       "duration_ms": 190714,
       "name": "Ya Layaly",
       "url": "https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw"
+    },
+    {
+      "album": {
+        "name": "Ya Leil W Yal Ein",
+        "url": "https://open.spotify.com/album/3YabB4gJeBdquKhXjqBu62"
+      },
+      "artists": [
+        {
+          "name": "AL SHAMI",
+          "url": "https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184285,
+      "name": "Ya Leil W Yal Ein",
+      "url": "https://open.spotify.com/track/4oJteByUZ8PKTRSnAJ0pCO"
     },
     {
       "album": {
@@ -4506,6 +4542,24 @@
       "duration_ms": 220444,
       "name": "\u0647\u0646\u064a\u0627\u0644\u0648",
       "url": "https://open.spotify.com/track/28L8RTHgg9XPvDtL3R0pmX"
+    },
+    {
+      "album": {
+        "name": "\u0647\u064a\u0628\u062f\u0623 \u064a\u062a\u0643\u0644\u0645",
+        "url": "https://open.spotify.com/album/0T84o5dPeM7uRabHJVioSs"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "\u0647\u064a\u0628\u062f\u0623 \u064a\u062a\u0643\u0644\u0645",
+      "url": "https://open.spotify.com/track/1WZj20KRIEm6EyJwbtt2kf"
     },
     {
       "album": {

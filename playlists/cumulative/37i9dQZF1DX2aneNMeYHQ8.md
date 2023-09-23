@@ -4,13 +4,14 @@
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Grace Potter
 
-339 songs - 20 hr 38 min
+341 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11/17](https://open.spotify.com/track/3efydF0TF67eydgM86XEwq) | [The Honest Heart Collective](https://open.spotify.com/artist/2qgcVY8aup4vFHfp4uoZ2X) | [11/17](https://open.spotify.com/album/0VOFvOzlavgsiKF0e9bJhY) | 2:32 | 2021-08-06 | 2022-02-05 |
 | [A Ghost](https://open.spotify.com/track/6Nf3vTytXZsEb9vCf1RDt6) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [A Ghost](https://open.spotify.com/album/2WsikixYJMwnnXKiRf92xH) | 3:45 | 2021-01-29 | 2023-02-11 |
 | [A Wave Across A Bay](https://open.spotify.com/track/1p9yDrQeXYbE3f6bW2YBAI) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [A Wave Across A Bay](https://open.spotify.com/album/7cBsGWCsDuu0KC38K3uBFF) | 3:43 | 2022-01-14 | 2022-09-16 |
+| [Act Natural](https://open.spotify.com/track/3urh371tmIWyKiK5D7emx1) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Echo The Diamond](https://open.spotify.com/album/4Mal9r2lPvrzpsWstauX32) | 4:19 | 2023-09-22 |  |
 | [Ain’t Lookin’](https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Ain’t Lookin’](https://open.spotify.com/album/2zQpWa9zKMqAPLYHwcskJL) | 3:22 | 2021-07-16 | 2023-02-11 |
 | [All My Friends](https://open.spotify.com/track/40Uq8mjn19gIAtHIG6ERZ6) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [All My Friends](https://open.spotify.com/album/4qXJ9YaSl6N7Z9pSCasdBq) | 3:39 | 2021-01-29 | 2022-01-15 |
 | [All We Have](https://open.spotify.com/track/5DDPP6Fx6zg92LigkZzSuH) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [All We Have](https://open.spotify.com/album/5FddzoYjGX8wxomZzjgYnh) | 2:42 | 2021-10-29 | 2022-01-22 |
@@ -299,7 +300,7 @@
 | [The Bandit](https://open.spotify.com/track/55meRTYBw8S5q7KF3DkjL7) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [The Bandit / 100,000 People](https://open.spotify.com/album/37jVrA1CD7d55Ft12iASUr) | 4:10 | 2021-01-29 |  |
 | [The Best Part of Letting Go](https://open.spotify.com/track/6yvTqQtBaZEQGcrnuVjgRF) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [The Best Part of Letting Go](https://open.spotify.com/album/10CEMFXxts5hhJbIimhf0F) | 3:25 | 2022-10-21 | 2022-11-12 |
 | [The Best Part of Letting Go](https://open.spotify.com/track/64nduduwh4o6m0PXplVum0) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [The Best Part of Letting Go](https://open.spotify.com/album/4wMICcEMpmsBz771u42o7h) | 3:28 | 2021-10-29 | 2022-07-26 |
-| [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 | 2021-10-29 |  |
+| [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 | 2021-10-29 | 2023-09-23 |
 | [The Haves](https://open.spotify.com/track/2HSg6TSfOlPu9XT7nO7S8P) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [The Haves](https://open.spotify.com/album/1LDXF0EzuqLl6ZthDJDo8E) | 5:06 | 2021-11-19 | 2022-01-15 |
 | [The Kitchen](https://open.spotify.com/track/14ZAryaOGjWc52i84ApWh0) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [The Kitchen](https://open.spotify.com/album/7hXIoUSA4AMI9zOGsepWXv) | 3:21 | 2022-05-25 | 2022-07-02 |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2023-08-26 |  |
@@ -311,11 +312,12 @@
 | [The War Inside \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0AeKE6Cz7EPw9Eld1tJ6fz) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:49 | 2021-10-15 |  |
 | [The Way](https://open.spotify.com/track/2wlZIwHXloe802coeEhJ3T) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Way](https://open.spotify.com/album/3js2aCcAc96FwVGfTLoL8i) | 3:54 | 2023-04-04 |  |
 | [The Weakness](https://open.spotify.com/track/0mSC7Ff27U8lEdMur3lQe4) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [The Weakness](https://open.spotify.com/album/1jKvsyAQdJG05hNyiMwg8v) | 3:28 | 2023-05-12 | 2023-08-27 |
-| [The Weakness](https://open.spotify.com/track/3HQYZhbq8hhVxof8H5nqVF) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [The Weakness](https://open.spotify.com/album/5hzXqk2ukjTaPxX9R3Taj6) | 3:28 | 2023-02-10 |  |
+| [The Weakness](https://open.spotify.com/track/3HQYZhbq8hhVxof8H5nqVF) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [The Weakness](https://open.spotify.com/album/5hzXqk2ukjTaPxX9R3Taj6) | 3:28 | 2023-02-10 | 2023-09-23 |
 | [The Well](https://open.spotify.com/track/6PPKEOG6TwpExLXDnj1QKH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Well](https://open.spotify.com/album/3rADwGRxW5AF7lya4QMFgA) | 2:57 | 2021-01-29 | 2022-07-02 |
 | [The Woodpile](https://open.spotify.com/track/5Zt5q2j5OEdcR3HtwxivZQ) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Pedestrian Verse](https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x) | 3:27 | 2023-06-09 |  |
 | [These Are The Days](https://open.spotify.com/track/7iqQK2bzlcVePuTbfw7zEd) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:45 | 2023-06-09 |  |
 | [Thinking About You](https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Thinking About You](https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec) | 3:37 | 2023-02-10 |  |
+| [Told Ya](https://open.spotify.com/track/1edvYQ0aAfKBNE2ogtgwa8) | [MONA](https://open.spotify.com/artist/4AKwIU9B31J3L41DuJfFym) | [Told Ya](https://open.spotify.com/album/5ipesO0wdHcSqG6LlMFUvQ) | 3:20 | 2023-09-22 |  |
 | [Tour Death Song](https://open.spotify.com/track/0aQpkTdFY2WYJSbdyGlHHO) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Tour Death Song](https://open.spotify.com/album/46aV2GOdnc1EGfspj2dC5u) | 4:57 | 2022-10-01 | 2023-04-05 |
 | [Truck Songs](https://open.spotify.com/track/44jxWjjs75MIzZJFVDdGrO) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Truck Songs](https://open.spotify.com/album/4P65HHtKkH46q5YuYWq9ck) | 4:00 | 2021-10-01 | 2022-02-12 |
 | [Try Better Next Time](https://open.spotify.com/track/5HzYHDdYKsxhGZEkZLiFl0) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Try Better Next Time](https://open.spotify.com/album/6RLEWVuwEEdYfCj54wnxWV) | 3:07 | 2022-01-21 | 2022-07-29 |

@@ -23299,6 +23299,24 @@
     },
     {
       "album": {
+        "name": "September (sped up + slowed)",
+        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216022,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
+    },
+    {
+      "album": {
         "name": "Now, Then & Forever",
         "url": "https://open.spotify.com/album/2L8rj8VnahryOqg7vKHYzx"
       },
@@ -24184,7 +24202,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 190464,
       "name": "Snooze (Acoustic) (feat. Justin Bieber)",
       "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
@@ -24720,7 +24738,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 169467,
       "name": "Spotless (feat. The Lumineers)",
       "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
@@ -25268,6 +25286,24 @@
       "duration_ms": 309322,
       "name": "Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes)",
       "url": "https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4"
+    },
+    {
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
       "album": {
@@ -25996,7 +26032,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -30120,7 +30156,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 234346,
       "name": "Whiskey Glasses",
       "url": "https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00"

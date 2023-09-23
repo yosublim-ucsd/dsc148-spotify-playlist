@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para los d\u00edas tristes.",
-  "num_followers": 108708,
+  "num_followers": 108734,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzc3ODE2ZjBhNWRmZWRjOGM2NGQ1YzBkYzMxN2Y2ZTFkYjEwNGUw",
+  "snapshot_id": "MCw4YTBkY2VjYmI0YTQ1OTM1Yzc5NDZiZTdjNjUwMTM0ODE2OTU5ODM4",
   "tracks": [
     {
       "added_at": "2023-08-17 21:53:42",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "Dolerme",
-        "url": "https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 143975,
-      "name": "Dolerme",
-      "url": "https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
         "name": "Lo jodiste",
         "url": "https://open.spotify.com/album/2A5vxG20vPoqRvvp2gLvrz"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 271306,
       "name": "Lo jodiste",
       "url": "https://open.spotify.com/track/1Sedbo7kqP6PXnN5iKg183"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
+        "name": "Dolerme",
+        "url": "https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 143975,
+      "name": "Dolerme",
+      "url": "https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "Sensaciones",
-        "url": "https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        }
-      ],
-      "duration_ms": 161599,
-      "name": "Ya No Te Hago Falta",
-      "url": "https://open.spotify.com/track/4RIi1gNmKDzSH04Vvws2DK"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
         "name": "Devu\u00e9lvemelo",
         "url": "https://open.spotify.com/album/1VTDSrRRsre4j3FeApaK8f"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 242546,
       "name": "Devu\u00e9lvemelo",
       "url": "https://open.spotify.com/track/5KwzWrI7rj4O6Dj701hzpM"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
+        "name": "Sensaciones",
+        "url": "https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "duration_ms": 161599,
+      "name": "Ya No Te Hago Falta",
+      "url": "https://open.spotify.com/track/4RIi1gNmKDzSH04Vvws2DK"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "Tal Vez",
-        "url": "https://open.spotify.com/album/3kE68K2LF8KdxJr2B2IoDw"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 159480,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/6nm1A7TSAYLkCTmrdYAWp5"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
         "name": "Mundo De Dos",
         "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "NASA",
-        "url": "https://open.spotify.com/album/1nTFn5FvVj4c1nuMPadWtn"
+        "name": "Tal Vez",
+        "url": "https://open.spotify.com/album/3kE68K2LF8KdxJr2B2IoDw"
       },
       "artists": [
         {
-          "name": "Babi",
-          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 220075,
-      "name": "NASA",
-      "url": "https://open.spotify.com/track/40NZgN1uNdeZzPKjkM1QIW"
+      "duration_ms": 159480,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/6nm1A7TSAYLkCTmrdYAWp5"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -695,22 +679,18 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "Nos Queda Mucho Dolor Por Recorrer",
-        "url": "https://open.spotify.com/album/1SN273lz19UyGsPKrJkcsR"
+        "name": "ESTO NO TIENE NADA QUE VER CON eduardo",
+        "url": "https://open.spotify.com/album/1DcIhob7podzXMZMcvBcOj"
       },
       "artists": [
         {
           "name": "Ed Maverick",
           "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        },
-        {
-          "name": "Daniel Qui\u00e9n",
-          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
         }
       ],
-      "duration_ms": 314573,
-      "name": "Nos Queda Mucho Dolor Por Recorrer",
-      "url": "https://open.spotify.com/track/51wUFdgpNsV8cVzu7i6N0l"
+      "duration_ms": 172693,
+      "name": "El Fuego En El Cielo (MASTER 1)",
+      "url": "https://open.spotify.com/track/3hJgUV0AiZkjalnfq8geGo"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -727,6 +707,22 @@
       "duration_ms": 219020,
       "name": "Just Another Thing We Don't Talk About",
       "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/1nTFn5FvVj4c1nuMPadWtn"
+      },
+      "artists": [
+        {
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
+        }
+      ],
+      "duration_ms": 220075,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/40NZgN1uNdeZzPKjkM1QIW"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -963,6 +959,22 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
+        "name": "Nada de Nada",
+        "url": "https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Nada de Nada",
+      "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
         "name": "La Pared",
         "url": "https://open.spotify.com/album/01IGc70ZlPLU5ot3oG7fUa"
       },
@@ -991,22 +1003,6 @@
       "duration_ms": 70465,
       "name": "no estabas cerca",
       "url": "https://open.spotify.com/track/0CaAkdZcfgo0KRyPoU2vc7"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
-        "name": "Nada de Nada",
-        "url": "https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Nada de Nada",
-      "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -1107,22 +1103,6 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "viernes 13 ii",
-        "url": "https://open.spotify.com/album/11TnM0ui4WFEaMLT8ESLvu"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 197818,
-      "name": "viernes 13 ii",
-      "url": "https://open.spotify.com/track/7fSWWukokukP3HlZQdt2D5"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
         "name": "Music Inspired by the Film Roma",
         "url": "https://open.spotify.com/album/6fn5SvyjVLlUROm7dxny1s"
       },
@@ -1135,6 +1115,22 @@
       "duration_ms": 194506,
       "name": "Con el Viento",
       "url": "https://open.spotify.com/track/6B2enoSQxSITUe4Y84R5EF"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
+        "name": "viernes 13 ii",
+        "url": "https://open.spotify.com/album/11TnM0ui4WFEaMLT8ESLvu"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 197818,
+      "name": "viernes 13 ii",
+      "url": "https://open.spotify.com/track/7fSWWukokukP3HlZQdt2D5"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -1235,22 +1231,6 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "En L\u00ednea",
-        "url": "https://open.spotify.com/album/05qaC3zEdhmI4bH0G4ckw6"
-      },
-      "artists": [
-        {
-          "name": "yes I M",
-          "url": "https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy"
-        }
-      ],
-      "duration_ms": 210579,
-      "name": "Qu\u00e9 M\u00e1s Da",
-      "url": "https://open.spotify.com/track/7ifjN5DxB3r1hKnqjRDO1a"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
         "name": "olas",
         "url": "https://open.spotify.com/album/2ie8MR4KjNLajmM9xYDzgP"
       },
@@ -1267,6 +1247,22 @@
       "duration_ms": 164081,
       "name": "olas",
       "url": "https://open.spotify.com/track/4VVoiNTlsBaigg8fJOoR3w"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
+        "name": "En L\u00ednea",
+        "url": "https://open.spotify.com/album/05qaC3zEdhmI4bH0G4ckw6"
+      },
+      "artists": [
+        {
+          "name": "yes I M",
+          "url": "https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy"
+        }
+      ],
+      "duration_ms": 210579,
+      "name": "Qu\u00e9 M\u00e1s Da",
+      "url": "https://open.spotify.com/track/7ifjN5DxB3r1hKnqjRDO1a"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -1511,6 +1507,22 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
+        "name": "Mundo De Dos",
+        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 197793,
+      "name": "Al Final",
+      "url": "https://open.spotify.com/track/64evbvaNb4twXgBPV42jlG"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
         "name": "Nada Es Igual",
         "url": "https://open.spotify.com/album/4TouSDU0z4DXKuuheeCfZw"
       },
@@ -1543,22 +1555,6 @@
       "duration_ms": 253910,
       "name": "La Canci\u00f3n",
       "url": "https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
-        "name": "Mundo De Dos",
-        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 197793,
-      "name": "Al Final",
-      "url": "https://open.spotify.com/track/64evbvaNb4twXgBPV42jlG"
     },
     {
       "added_at": "2023-08-17 21:53:42",

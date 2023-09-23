@@ -6305,6 +6305,32 @@
     },
     {
       "album": {
+        "name": "Something On My Mind",
+        "url": "https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Something On My Mind",
+      "url": "https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR"
+    },
+    {
+      "album": {
         "name": "Something To Hold On To (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI"
       },

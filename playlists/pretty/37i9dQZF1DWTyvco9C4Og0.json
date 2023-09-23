@@ -1,12 +1,12 @@
 {
   "description": "Las leyendas del mariachi est\u00e1n aqu\u00ed. Alejandro Fern\u00e1ndez en portada.",
-  "num_followers": 907314,
+  "num_followers": 907395,
   "original_name": "Leyendas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTEwNzIzZjA2MmU0ZDYyNzE1NmRjYjVkMWVhZDViZDIyNjdkYTY1",
+  "snapshot_id": "MCwyY2YyZDEwMWNkY2JlYzgwMjJhZmQwNzY4NDZmYjNmMDc5MGMwMzA2",
   "tracks": [
     {
       "added_at": "2023-09-01 06:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "La Coleccion Del Siglo - Federico Villa",
-        "url": "https://open.spotify.com/album/5XyB8cBTMDoLaO2XqVf6BL"
-      },
-      "artists": [
-        {
-          "name": "Federico Villa",
-          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
-        }
-      ],
-      "duration_ms": 210453,
-      "name": "Caminos de Michoac\u00e1n",
-      "url": "https://open.spotify.com/track/2fvisKVcmhGrZdf9FPEhl4"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Soy Lo Prohibido",
         "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "La Coleccion Del Siglo - Federico Villa",
+        "url": "https://open.spotify.com/album/5XyB8cBTMDoLaO2XqVf6BL"
+      },
+      "artists": [
+        {
+          "name": "Federico Villa",
+          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "Caminos de Michoac\u00e1n",
+      "url": "https://open.spotify.com/track/2fvisKVcmhGrZdf9FPEhl4"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "No Pongan Esas Canciones",
         "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
       },
@@ -743,22 +743,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Me Hace Tanto Bien",
-        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
+        "name": "Te Llor\u00e9 Un R\u00edo",
+        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         },
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 231304,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
+      "duration_ms": 209673,
+      "name": "Te Llor\u00e9 Un R\u00edo - Versi\u00f3n Mariache\u00f1o",
+      "url": "https://open.spotify.com/track/04firplM7voiFmGWNTI3Va"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -795,22 +795,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Te Llor\u00e9 Un R\u00edo",
-        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
+        "name": "Me Hace Tanto Bien",
+        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         },
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 209673,
-      "name": "Te Llor\u00e9 Un R\u00edo - Versi\u00f3n Mariache\u00f1o",
-      "url": "https://open.spotify.com/track/04firplM7voiFmGWNTI3Va"
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
-        "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 228187,
-      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
-      "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
+      "duration_ms": 270943,
+      "name": "Hasta Que Llegue el Alba",
+      "url": "https://open.spotify.com/track/7kRUOKGmAG7wNxMy9tFQS7"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "A la Medida",
-        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
+        "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+        "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 270943,
-      "name": "Hasta Que Llegue el Alba",
-      "url": "https://open.spotify.com/track/7kRUOKGmAG7wNxMy9tFQS7"
+      "duration_ms": 228187,
+      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+      "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Mo\u00f1os Negros",
-        "url": "https://open.spotify.com/album/5amUm1QKYdr7cW3T4uoUX9"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 202031,
-      "name": "Mo\u00f1os Negros",
-      "url": "https://open.spotify.com/track/1DAIPsYEXEOaOlJaG8Lv0w"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "En Realidad",
         "url": "https://open.spotify.com/album/4RX4z2boimAXPxgEif3YKM"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 205236,
       "name": "En Realidad",
       "url": "https://open.spotify.com/track/0yig7Mn3nsz17bRgyeameH"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Mo\u00f1os Negros",
+        "url": "https://open.spotify.com/album/5amUm1QKYdr7cW3T4uoUX9"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 202031,
+      "name": "Mo\u00f1os Negros",
+      "url": "https://open.spotify.com/track/1DAIPsYEXEOaOlJaG8Lv0w"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1031,18 +1031,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Qu\u00e9 Ganas De Verte",
-        "url": "https://open.spotify.com/album/1F0OQrdweimPVk3119NKVM"
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 198960,
-      "name": "Qu\u00e9 Ganas De Verte",
-      "url": "https://open.spotify.com/track/1qhEdQNFKBFFVmzGBAnD95"
+      "duration_ms": 210042,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1063,22 +1067,18 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+        "name": "Qu\u00e9 Ganas De Verte",
+        "url": "https://open.spotify.com/album/1F0OQrdweimPVk3119NKVM"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 210042,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s"
+      "duration_ms": 198960,
+      "name": "Qu\u00e9 Ganas De Verte",
+      "url": "https://open.spotify.com/track/1qhEdQNFKBFFVmzGBAnD95"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1151,18 +1151,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Se Ve\u00eda Venir",
-        "url": "https://open.spotify.com/album/5NPYJpOYIFV1cx0suyWsTi"
+        "name": "Tus Desprecios",
+        "url": "https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 212240,
-      "name": "Se Vei\u0301a Venir",
-      "url": "https://open.spotify.com/track/13id1MDO0sh4k3Gf9tNHMi"
+      "duration_ms": 142819,
+      "name": "Tus Desprecios",
+      "url": "https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1183,22 +1187,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Con Mariachi Vol.2",
-        "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 132773,
-      "name": "Ya No Vuelvo a Molestarte",
-      "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Desvelada Con Banda Y Mariachi (En Vivo)",
         "url": "https://open.spotify.com/album/3FJXsvMG4qE7cPZEBORwoF"
       },
@@ -1215,22 +1203,34 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Tus Desprecios",
-        "url": "https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6"
+        "name": "Con Mariachi Vol.2",
+        "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 142819,
-      "name": "Tus Desprecios",
-      "url": "https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se"
+      "duration_ms": 132773,
+      "name": "Ya No Vuelvo a Molestarte",
+      "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Se Ve\u00eda Venir",
+        "url": "https://open.spotify.com/album/5NPYJpOYIFV1cx0suyWsTi"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 212240,
+      "name": "Se Vei\u0301a Venir",
+      "url": "https://open.spotify.com/track/13id1MDO0sh4k3Gf9tNHMi"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Acar\u00edciame El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/27OwCoZRPIe0xL44eTAlx4"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 190240,
-      "name": "Debajo Del Sombrero",
-      "url": "https://open.spotify.com/track/4znumtgYaw6lsfJ7Jo910g"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
         "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 206800,
       "name": "La Muerte del Palomo",
       "url": "https://open.spotify.com/track/29jt9wuHaMVwQhw4M5X4R9"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Acar\u00edciame El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/27OwCoZRPIe0xL44eTAlx4"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 190240,
+      "name": "Debajo Del Sombrero",
+      "url": "https://open.spotify.com/track/4znumtgYaw6lsfJ7Jo910g"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Traigo Ganas",
-        "url": "https://open.spotify.com/album/2bs3mGq8PgSXDawAnGsuGM"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "Traigo Ganas",
-      "url": "https://open.spotify.com/track/2bT6LqpFxjxTnpjaFgNsuV"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Siempre Estoy Pensando En Ti",
         "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 114733,
       "name": "Ases y Tercia de Reyes",
       "url": "https://open.spotify.com/track/6OHJnVV4vXHbJdIRSpzviA"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Traigo Ganas",
+        "url": "https://open.spotify.com/album/2bs3mGq8PgSXDawAnGsuGM"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "Traigo Ganas",
+      "url": "https://open.spotify.com/track/2bT6LqpFxjxTnpjaFgNsuV"
     },
     {
       "added_at": "2023-09-01 06:00:00",

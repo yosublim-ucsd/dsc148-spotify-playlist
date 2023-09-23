@@ -4,7 +4,7 @@
 
 > HIPHOP 50!
 
-1,224 songs - 2 day 5 hr 59 min
+1,225 songs - 2 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [GLIDER FÖRBI](https://open.spotify.com/track/79QHrdDudHItZ0EMtWmesM) | [9liv](https://open.spotify.com/artist/1CoE5ue29WuTIHn0QE5mrO) | [GLIDER FÖRBI](https://open.spotify.com/album/4inwta0WyLnLg5RWICQExT) | 2:22 | 2022-12-01 | 2023-01-12 |
 | [GLITTER](https://open.spotify.com/track/2uQzFHxj2KYSFtKvKgcP9p) | [Biggie Juke](https://open.spotify.com/artist/1iFBAUJba6rHRgFNOJYUDD), [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [GLITTER](https://open.spotify.com/album/7yIc42XcxS526VSZDBWXaD) | 2:03 | 2023-03-16 | 2023-04-21 |
 | [Glizzy \(with Yasin\)](https://open.spotify.com/track/1cY74NmigcxMes9yokHXpj) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Glizzy \(with Yasin\)](https://open.spotify.com/album/5D5ai2k8Y9MKp9ivAiWzEn) | 2:25 | 2023-04-27 | 2023-05-12 |
+| [Go](https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Go](https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA) | 2:34 | 2023-09-21 |  |
 | [Go](https://open.spotify.com/track/4pfbgKqJhmEdS2c4m1P4XI) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [Go](https://open.spotify.com/album/3kKGQwZiuURqq8d4eNkPHV) | 2:14 | 2022-06-30 | 2022-09-16 |
 | [Go Getter \(feat\. Imenella\)](https://open.spotify.com/track/3IZinCbESX16Mb67ylKiho) | [Keya](https://open.spotify.com/artist/6Fzcb6MUQTqnojF8woJsKd), [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h) | [Go Getter \(feat\. Imenella\)](https://open.spotify.com/album/2zGvslZSz4Bapzqou9gWls) | 2:55 | 2021-12-16 | 2021-12-24 |
 | [God Morgon Stockholm](https://open.spotify.com/track/4JsYowYTLukNhh1UzMhYZ9) | [Nomad](https://open.spotify.com/artist/264V8HSZDhiq3MPrTnVmed), [Simon Emanuel](https://open.spotify.com/artist/2mKcKa9yFqXzcxTEGhvKaZ), [More 10](https://open.spotify.com/artist/2tp6KnR4tYjOrpnwwwWGeu) | [God Morgon Stockholm](https://open.spotify.com/album/52cC7FLccByndLXuBSTmZ3) | 3:35 | 2022-05-26 | 2022-06-10 |

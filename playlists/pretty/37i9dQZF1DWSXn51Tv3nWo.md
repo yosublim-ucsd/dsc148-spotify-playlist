@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXn51Tv3nWo.md) - [plain]
 
 > Let your hair down and dance along to music from the Trolls movies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,250 likes - 76 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,475 likes - 76 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXn51Tv3nWo.md) - [plain]
 | 75 | [The Winners](https://open.spotify.com/track/6PlS2xYXVatiJ1sQzG854u) | [Poppy](https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:22 |
 | 76 | [Forgive Me \- Remix](https://open.spotify.com/track/4rm2TLgVLa9zPgTbLcDNW0) | [Branch](https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:22 |
 
-Snapshot ID: `MCwzNzJlZTVlMTgwNjEyMTY4NGIyZjU4YjgzMDg2M2M5MWU3ZDQ3ZWE1`
+Snapshot ID: `MCxlOWZmZWUxMzlhZDlkYjY2YjgyNzM4NmUxYjQ5MjA3M2ViMjMzNTk4`

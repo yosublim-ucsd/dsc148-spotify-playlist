@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-413 songs - 21 hr 36 min
+414 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Nefoedd](https://open.spotify.com/track/7fpv4K07BD9tUC852Mw5Lz) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Nefoedd](https://open.spotify.com/album/78pQK6kW8RktRkQA0nqUkI) | 2:49 | 2022-05-26 |  |
 | [New Awakening](https://open.spotify.com/track/7bDsyH1SX4qJRoHqOq36WO) | [Calma](https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT) | [Astral Plane](https://open.spotify.com/album/5xNBsj69xWMQgxqVSo6uAC) | 4:44 | 2022-05-26 |  |
 | [New Endings](https://open.spotify.com/track/2IAZza3wdiTYT8QtO0hbLv) | [Bon Vie](https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ) | [New Endings](https://open.spotify.com/album/4Ik0uGl3JExFkEeN2ut64W) | 3:08 | 2022-05-26 |  |
+| [New Normal](https://open.spotify.com/track/376cyHQIO1qVsemPxvaJVI) | [Noah Moon](https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8) | [New Normal](https://open.spotify.com/album/1KNmEOXHn2n9S3f6OAUYNZ) | 3:13 | 2023-09-22 |  |
 | [Nocturno](https://open.spotify.com/track/0hO3qOVM7c0Gu532K43dGZ) | [Henrietta Dubois](https://open.spotify.com/artist/7E0GZu65jkSV6uvTKQbBGf) | [Nocturno](https://open.spotify.com/album/6wxKFzgn1pz3VrZ3Hl5NGN) | 2:09 | 2022-05-26 | 2023-02-18 |
 | [Nostalgia](https://open.spotify.com/track/3SPPdz0CTI2RSZ8HROkHy8) | [Will Carano](https://open.spotify.com/artist/6J60g4WW0jL1uCe6cwyAZd) | [Nostalgia](https://open.spotify.com/album/4ctuDxjwJGSMsgJG8EOeQV) | 2:41 | 2022-05-26 |  |
 | [Nuwara Eliya](https://open.spotify.com/track/01DC3zfaTxKsHhH5tkrEci) | [Varsha Macias](https://open.spotify.com/artist/0q4K7lXcRz4xbItRjTtidc) | [Nuwara Eliya](https://open.spotify.com/album/5qaTANUQCLtZKyoXKIOLZZ) | 3:17 | 2022-05-26 |  |
@@ -280,7 +281,7 @@
 | [Peaceful Memories](https://open.spotify.com/track/0FdJCIHRuXwUZPKiyj0jcY) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Peaceful Memories](https://open.spotify.com/album/1uu54ROQLhyQNmTo3sk5IS) | 3:16 | 2022-05-26 | 2023-04-22 |
 | [Perpetual](https://open.spotify.com/track/2KZGLxJoQdI7EdE7xzuuxQ) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [Perpetual](https://open.spotify.com/album/6BoHZEMa5FSN77fUUs587v) | 3:02 | 2022-05-26 | 2023-07-29 |
 | [Phaedra](https://open.spotify.com/track/6GEYh8JguL5MIh5Uz5h0zL) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Phaedra](https://open.spotify.com/album/2N8X9XdiZrkxLRX7snQcpp) | 3:16 | 2022-05-26 |  |
-| [Phoenix](https://open.spotify.com/track/1PKG43MUDvPgXpUODaU6mW) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Risen](https://open.spotify.com/album/2hZg7Z1DPU6XR2ofF1ljtj) | 2:13 | 2022-05-26 |  |
+| [Phoenix](https://open.spotify.com/track/1PKG43MUDvPgXpUODaU6mW) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Risen](https://open.spotify.com/album/2hZg7Z1DPU6XR2ofF1ljtj) | 2:13 | 2022-05-26 | 2023-09-23 |
 | [Pneuma](https://open.spotify.com/track/5Lc1wnS6xGMw2xajdDvKAp) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Pneuma](https://open.spotify.com/album/3kmpm5eHmRqaAMEO3Ixgn6) | 3:47 | 2022-05-26 | 2022-06-25 |
 | [Poetic Anthems](https://open.spotify.com/track/7EsBJypTRh9ptstfZtvShL) | [Morton Stuyvesant](https://open.spotify.com/artist/2WzGyDmxHByHHzuJSXFxb8) | [Poetic Anthems](https://open.spotify.com/album/13sA2BR3OUWwBtPNtK2ChO) | 3:20 | 2022-05-26 |  |
 | [Portraits](https://open.spotify.com/track/1CAikPYiA2mFUkwCoPgLZk) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Portraits](https://open.spotify.com/album/5X3zzhPritfRnLd6as5JWt) | 2:50 | 2023-09-01 |  |

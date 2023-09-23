@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU?si=VTlAs\-66TP6SDKypzYnC3A">Anaïs Cardot</a>\. Updates every Wednesday.
 
-1,748 songs - 3 day 17 hr 54 min
+1,750 songs - 3 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1277,6 +1277,7 @@
 | [Remember](https://open.spotify.com/track/4BcuR5hZRwZZvzlycVdzNo) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [Remember](https://open.spotify.com/album/3vvSxw48styeG1cHCjTAJr) | 2:25 | 2023-07-14 | 2023-09-09 |
 | [Remember Tomorrow](https://open.spotify.com/track/0J2oLEeL4qwAAtg61VDBxe) | [Lee England Jr](https://open.spotify.com/artist/7FabEcDtzenndrHSHMqyQL) | [Remember Tomorrow](https://open.spotify.com/album/1DWUtrgJ1ebSMWPLHrMhkG) | 4:10 | 2023-06-30 | 2023-08-26 |
 | [Reminisce](https://open.spotify.com/track/7FhMsEOWMzU8lxuyq86ZLm) | [Charli Brix](https://open.spotify.com/artist/27Sc6g0Utbc8hvWrzTFVc8), [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U), [Selecta J\-Man](https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP) | [The Art of Change](https://open.spotify.com/album/12Vki3P91ze8Gba8EOGqFQ) | 3:23 | 2023-03-03 | 2023-06-03 |
+| [Renata](https://open.spotify.com/track/6ayG9P7pZh5uzOioDCnsap) | [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [Renata](https://open.spotify.com/album/6QyRqDmyqo7IIA6H0mWr5c) | 2:00 | 2023-09-22 |  |
 | [Rent](https://open.spotify.com/track/4NKQ6wT0A2mtZRLItjEqv6) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Rent](https://open.spotify.com/album/2vq1glJMFEG4V6ZT1mjJjU) | 3:18 | 2022-03-11 | 2022-03-31 |
 | [Replay](https://open.spotify.com/track/1225xjUATJN7lZKxLBHGAk) | [John Concepcion](https://open.spotify.com/artist/5mqw4f8V3r2PBVKCKAkqiY) | [Replay](https://open.spotify.com/album/5eQBOtnmxFfItlGAyxtO3c) | 2:43 | 2023-08-09 |  |
 | [Repossess \(feat\. Semiratruth\)](https://open.spotify.com/track/2Fa6eZM48LWJBULj1eDC7X) | [Contour](https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF), [Semiratruth](https://open.spotify.com/artist/6vjKiruwh9k8dDi1rYvI82) | [Repossess](https://open.spotify.com/album/08S5T6Mit48zDKzNy5EBDw) | 2:53 | 2022-09-07 | 2022-10-15 |
@@ -1380,6 +1381,7 @@
 | [Sinner](https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g) | [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt) | 1:39 | 2022-07-27 | 2023-01-27 |
 | [Sinsation](https://open.spotify.com/track/3sa1I8sK35mMqWPGmFSZZ6) | [Adrian Daniel](https://open.spotify.com/artist/0vnUJWW8wWDGcSdwFYCIB0) | [Midnight](https://open.spotify.com/album/27LVbcP0T4aOVomzd8y8zC) | 3:22 | 2022-01-12 | 2022-02-10 |
 | [Sit Back](https://open.spotify.com/track/7E9N70fhyaUnhgMl9OlRgF) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Sit Back](https://open.spotify.com/album/02MX06GlX0M5zl7XSg1b54) | 3:00 | 2022-03-16 | 2022-03-31 |
+| [Sleep In](https://open.spotify.com/track/3tUs1HNIBaVGeIP0TnMcl9) | [Carvena](https://open.spotify.com/artist/3rjSCrORMjZpQAjcglAnHl) | [Sleep In](https://open.spotify.com/album/2IK7CO3ubdJ7OUMefz2EOW) | 2:47 | 2023-09-22 |  |
 | [Slide](https://open.spotify.com/track/6CdVbmpLVJEWdvNljQk10L) | [Liyah](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu) | [Slide](https://open.spotify.com/album/4pN86UcaGMS257VFGYW9tj) | 2:50 | 2021-12-01 | 2022-01-13 |
 | [Slide](https://open.spotify.com/track/3lEz60aGfZA8npZ1hhallw) | [Rome Flynn](https://open.spotify.com/artist/0NVZSlGEwLGVXItNzyAXmZ) | [Slide](https://open.spotify.com/album/77IDXj94sTItuHvWUFaJQL) | 2:37 | 2022-10-05 | 2022-12-01 |
 | [Slippin](https://open.spotify.com/track/5qgYXoxmd6FdGfpmdjsHoj) | [Danni Baylor](https://open.spotify.com/artist/0c5oNauHHagLlEYpVVqMCK) | [Slippin](https://open.spotify.com/album/1MApiUpsUOOlidcLOAjLbq) | 3:16 | 2023-06-30 | 2023-08-26 |

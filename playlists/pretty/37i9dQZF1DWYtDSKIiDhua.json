@@ -1,12 +1,12 @@
 {
   "description": "The R&B and good vibe tracks for your current mood. Cover: Doja Cat",
-  "num_followers": 108861,
+  "num_followers": 108953,
   "original_name": "mood.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGQzM2E4MGU1NGUzM2ZjZTlmYzZjNzk4NGM1YzNlNmZmNjg5ZTgx",
+  "snapshot_id": "MCxjYTgzNjE1MzkzZjRkZDJjN2IyNmIyZGM5MjFjOWY4MjE4NWIwY2Uz",
   "tracks": [
     {
       "added_at": "2023-09-21 16:17:02",
@@ -23,6 +23,30 @@
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
+    },
+    {
+      "added_at": "2023-09-21 16:17:02",
+      "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        },
+        {
+          "name": "DAWN \ub358",
+          "url": "https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F"
+        },
+        {
+          "name": "BLAS\u00c9",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        }
+      ],
+      "duration_ms": 178813,
+      "name": "Attention (Feat. DAWN, BLAS\u00c9)",
+      "url": "https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z"
     },
     {
       "added_at": "2023-09-21 16:17:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: SOLE, Sung Si Kyung\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,920 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,939 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 45 | [Like You](https://open.spotify.com/track/2HrzH60nFePfGF5RqFK5YW) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic), [Kim So\-hee](https://open.spotify.com/artist/3Tu9nOmJPyDU0iMigimme3) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/3nl0nBHYgB06JpPrcsAYXd) | 3:25 |
 | 46 | [What Is Love](https://open.spotify.com/track/7DvK5WiY7UjwOnDg69XMEn) | [Seo Hyun Jin](https://open.spotify.com/artist/5mVia8ijuiXexx5tUSROzs), [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Another Miss Oh \(Original Television Soundtrack\), Pt 3](https://open.spotify.com/album/0gRxdS2kPjtmxoXgFWjJms) | 3:33 |
 | 47 | [Freesia](https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:49 |
-| 48 | [Anemone](https://open.spotify.com/track/6KJB9aBaZhTLTNH59WCxvg) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:52 |
-| 49 | [My Day Is Full Of You](https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5) | 3:40 |
+| 48 | [My Day Is Full Of You](https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5) | 3:40 |
+| 49 | [Anemone](https://open.spotify.com/track/6KJB9aBaZhTLTNH59WCxvg) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:52 |
 | 50 | [Love\(Prod.Rocoberry\)](https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Lee sung kyung](https://open.spotify.com/artist/7AqcQSFPIpFD44ZNRm22m4) | [Love\(Prod.Rocoberry\)](https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH) | 3:40 |
 
-Snapshot ID: `MCwxN2NjYzI5NDZjNDk0MzUwMzBmZGVmOWViY2NlN2Q0ODQ3MGM5ZWVh`
+Snapshot ID: `MCxmOTg0MzI5MjY2NDliZTNmNTY0NTkyZTlmZWE5M2Q2ZDA0ODczYWM4`

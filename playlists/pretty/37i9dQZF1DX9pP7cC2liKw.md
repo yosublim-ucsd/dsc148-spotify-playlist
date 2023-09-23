@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,563 likes - 70 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,775 likes - 70 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 40 | [La Matanza](https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Matanza](https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6) | 3:21 |
 | 41 | [Grind](https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc) | [Les Sins](https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL) | [Grind / Prelims](https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs) | 5:18 |
 | 42 | [Sonido Amazonico](https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:17 |
-| 43 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
-| 44 | [Sano](https://open.spotify.com/track/65x71PXeGjlMy5ooVPDVEU) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [LUVI TORRES](https://open.spotify.com/artist/0U6e4AWJDteC3blrD46avQ) | [Sano](https://open.spotify.com/album/4XxbqdjpU5IDVYxHpILsRk) | 3:20 |
+| 43 | [Sano](https://open.spotify.com/track/65x71PXeGjlMy5ooVPDVEU) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [LUVI TORRES](https://open.spotify.com/artist/0U6e4AWJDteC3blrD46avQ) | [Sano](https://open.spotify.com/album/4XxbqdjpU5IDVYxHpILsRk) | 3:20 |
+| 44 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
 | 45 | [Amor Entre Mujer](https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Amor Entre Mujer](https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO) | 4:32 |
 | 46 | [Superstylin'](https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb) | [Gentleman's Dub Club](https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr) | [Out of This World](https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ) | 4:49 |
 | 47 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 54 | [Capuchino Pecho Blanco](https://open.spotify.com/track/7xiptPlNZJNAtcbpOErKRp) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/0DDsDqhH1cWmQ59cIWrxw3) | 3:48 |
 | 55 | [Un Canto](https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs) | [MUTA](https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9) | [Un Canto](https://open.spotify.com/album/40Rjb6ttHVFGY3mUCYxZ5B) | 4:44 |
 | 56 | [Na Procura](https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg) | [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Na Procura](https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA) | 6:30 |
-| 57 | [Pueblo](https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV) | [Hugo Santini](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/5s0xBuS6BCFEyJwLrLRJWZ) | 1:43 |
+| 57 | [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 |
 | 58 | [Samba del Arenal](https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Cinemar](https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37) | [Samba del Arenal](https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk) | 4:13 |
-| 59 | [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 |
+| 59 | [Pueblo](https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV) | [Hugo Santini](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/5s0xBuS6BCFEyJwLrLRJWZ) | 1:43 |
 | 60 | [Malunguinho](https://open.spotify.com/track/6s15msjreg2553uO47iWz2) | [Abayomy Afrobeat Orquestra](https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv) | [Daora: Underground Sounds of Urban Brasil\- Hip\-Hop, Beats, Afro & Dub](https://open.spotify.com/album/56rh3ctrUlzggBkhccz2s2) | 7:37 |
 | 61 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 |
 | 62 | [Pacifico Soy](https://open.spotify.com/track/3HU8CSLqd7d6XSHOfWggmK) | [Electropico](https://open.spotify.com/artist/0vBqXIopwkJEQZEssLZEBK), [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ) | [Fiera](https://open.spotify.com/album/1yjWcaPexYHc4DYKFfVfuc) | 2:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 69 | [Encerrada](https://open.spotify.com/track/0iJU9tl5QNx0x9Tkg2Z7zt) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Encerrada](https://open.spotify.com/album/5jCdPRTOcPLQNPZNHugD0s) | 3:03 |
 | 70 | [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 |
 
-Snapshot ID: `MCwxYmExOWE1NWQ1YmVhYmY2ODk2MjBjYjQ0NjM4MzY3ZmNkYzllYWQx`
+Snapshot ID: `MCw3M2I1MWE0ZDMxOWYwNTUwMTE3ODhlZmJjNDk2YmFlYzAwNGIxMzQz`

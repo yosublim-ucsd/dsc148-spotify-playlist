@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,236 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,234 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 16 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 |
 | 17 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:31 |
 | 18 | [Last Christmas](https://open.spotify.com/track/5HWZjYN4MTNOHe9i4UcrIl) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Chansons tristes pour Noël](https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI) | 3:33 |
-| 19 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 |
+| 19 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:26 |
 | 20 | [For Me… formidable \- Bonus Track](https://open.spotify.com/track/4QH4nwn9TpYV7Dua81Am9E) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20), [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx), [Éric Lapointe](https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc), [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc) | [La Voix 2019](https://open.spotify.com/album/0R9SDt52a9zP9PQ1f1uN6z) | 2:32 |
-| 21 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:26 |
+| 21 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 |
 | 22 | [Le premier Noël de Jules](https://open.spotify.com/track/39oytpbeOyFiepAlTLONEP) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 4:15 |
 | 23 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 |
 | 24 | [Silent Night \(Piano Solo\) \- Spotify Singles](https://open.spotify.com/track/4mHAUxQtR2a3c4y2RQyvpp) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/3wgJ0heYMenWNx1Dr6ZH6c) | 2:32 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 27 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 |
 | 28 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 |
 | 29 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 |
-| 30 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 |
-| 31 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 |
+| 30 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 |
+| 31 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 |
 | 32 | [Underneath the Tree](https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:49 |
 | 33 | [Have Yourself A Merry Little Christmas \- Remastered 1999](https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:26 |
 | 34 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 99 | [Christmas Calling \(en duo avec Marie\-Mai\) \(v.f.\)](https://open.spotify.com/track/62Pil5FPefGmHVmw5C21ch) | [Jonas](https://open.spotify.com/artist/1ZDG9pBZ3QHj4DFsBHdwKF), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Christmas Calling \(en duo avec Marie\-Mai\) \(v.f.\)](https://open.spotify.com/album/2Sx3z3DBBrQPwfs48FHTcq) | 4:24 |
 | 100 | [À la fin décembre](https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV) | [Lydia&Sebastien](https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse) | [À la fin décembre](https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3) | 3:09 |
 
-Snapshot ID: `MCxhMTI4OTBiOWUxNGE5MmVmMmY2NjQ5MjJmODRhYzI4ZTJlNDUwNTQw`
+Snapshot ID: `MCw4NDQ3ZTc2NTA0MDg5NjZhMGZkYzcwNTQ2Zjc0YTAxZDNlMjVhMTQ5`

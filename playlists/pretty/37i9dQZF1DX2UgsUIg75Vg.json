@@ -1,13 +1,29 @@
 {
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Majid Jordan & Naomi Sharon",
-  "num_followers": 2361255,
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Cleo Sol",
+  "num_followers": 2361520,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmZiNDE5NDIwODUzNWRjMmNkOWFjNzA0NjczODk4MTQ3MzZmNGIw",
+  "snapshot_id": "MCwwNzhhZTAwY2MzYjI3OTE1YjZkMjMxMjVmYTRiZmYyN2YyMGRjMTc2",
   "tracks": [
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 236236,
+      "name": "Go Baby",
+      "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
+    },
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 219998,
       "name": "Waiting For You (feat. Naomi Sharon)",
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 236236,
-      "name": "Go Baby",
-      "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -113,44 +113,20 @@
       "url": "https://open.spotify.com/track/64TJKMfx0QxpuR7rTXL05c"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
+        "name": "WY@",
+        "url": "https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 190464,
-      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Masego\u2019s Interlude",
-        "url": "https://open.spotify.com/album/74uSNVth7Fl2J18RbFLqaH"
-      },
-      "artists": [
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 126682,
-      "name": "Masego\u2019s Interlude",
-      "url": "https://open.spotify.com/track/6CiOWFRE5AaF3H1yQHWeyq"
+      "duration_ms": 208040,
+      "name": "WY@",
+      "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -175,6 +151,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Masego\u2019s Interlude",
+        "url": "https://open.spotify.com/album/74uSNVth7Fl2J18RbFLqaH"
+      },
+      "artists": [
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 126682,
+      "name": "Masego\u2019s Interlude",
+      "url": "https://open.spotify.com/track/6CiOWFRE5AaF3H1yQHWeyq"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "'98 Vibes (Do You Right)",
         "url": "https://open.spotify.com/album/4HoaA1yYAjNWf7Db0vpp8x"
       },
@@ -191,6 +187,22 @@
       "duration_ms": 238967,
       "name": "'98 Vibes (Do You Right)",
       "url": "https://open.spotify.com/track/2PYZj3AqpS6Vtr4ghoe8eV"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Caught Between 2 Worlds",
+        "url": "https://open.spotify.com/album/0fr2yHigw1YG1oAJ2V8whE"
+      },
+      "artists": [
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "duration_ms": 182037,
+      "name": "Caught Between 2 Worlds",
+      "url": "https://open.spotify.com/track/2Aef1eaUQAOu4tDEHL0E0u"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -269,6 +281,22 @@
       "url": "https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F"
     },
     {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Marking My Time",
+        "url": "https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 268038,
+      "name": "Marking My Time",
+      "url": "https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw"
+    },
+    {
       "added_at": "2023-09-15 04:00:00",
       "album": {
         "name": "Paradise",
@@ -307,18 +335,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Mad At Fire",
-        "url": "https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz"
+        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
       },
       "artists": [
         {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 231532,
-      "name": "Mad At Fire",
-      "url": "https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII"
+      "duration_ms": 190464,
+      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -421,6 +453,22 @@
       "url": "https://open.spotify.com/track/6u7Vm7aTEKQInva4iJ0icx"
     },
     {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Don't Buy Me Roses",
+        "url": "https://open.spotify.com/album/17vJ6f6m5ZKsCJ9mPvphjD"
+      },
+      "artists": [
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "duration_ms": 204618,
+      "name": "Don't Buy Me Roses",
+      "url": "https://open.spotify.com/track/0693AhSpjQUnspV8uObIfp"
+    },
+    {
       "added_at": "2023-09-15 04:00:00",
       "album": {
         "name": "BB/ANG3L",
@@ -480,16 +528,16 @@
           "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
         },
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
           "name": "Ty Dolla $ign",
           "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
       "duration_ms": 291114,
-      "name": "Mind Your Business (Bosses in Love) [feat. Kehlani and Ty Dolla $ign]",
+      "name": "Mind Your Business (Bosses in Love)",
       "url": "https://open.spotify.com/track/2yFSWQW0fYm0MjLktlg5fy"
     },
     {
@@ -607,6 +655,22 @@
       "duration_ms": 201017,
       "name": "Miss Romantic",
       "url": "https://open.spotify.com/track/71pFw48rIGZRAMbtWbA2XJ"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Mad At Fire",
+        "url": "https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 231532,
+      "name": "Mad At Fire",
+      "url": "https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1851,22 +1915,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Fountain Baby",
-        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 278733,
-      "name": "Aquamarie Luvs Ecstasy",
-      "url": "https://open.spotify.com/track/0xIy8FcIz088Ec4dxslUtm"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/2557DwNaej6aDIxxE7oOAo"
       },
@@ -2267,22 +2315,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "radio silence",
-        "url": "https://open.spotify.com/album/3nXkQxkAvtVVoTuERk0bGs"
-      },
-      "artists": [
-        {
-          "name": "Ragz Originale",
-          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
-        }
-      ],
-      "duration_ms": 131932,
-      "name": "radio silence",
-      "url": "https://open.spotify.com/track/2bn8pNyHOK0rzna5FfDhbO"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Charismatic",
         "url": "https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw"
       },
@@ -2471,26 +2503,6 @@
       "duration_ms": 182698,
       "name": "It's You",
       "url": "https://open.spotify.com/track/5mMjaAT0B4Q3p2ToSeTVi7"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
-      },
-      "artists": [
-        {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 205846,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2687,22 +2699,6 @@
       "duration_ms": 171428,
       "name": "Sensually",
       "url": "https://open.spotify.com/track/4Wb8NdNKT7kjeHIs8IMRUK"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 153290,
-      "name": "Envious",
-      "url": "https://open.spotify.com/track/5QrhTxjhRFYqYjQeT0tqEa"
     }
   ],
   "unique_name": "Chilled R&B",

@@ -2,7 +2,7 @@
 
 ### [Pinas Vibes](https://open.spotify.com/playlist/37i9dQZF1DWY90iCJMKual)
 
-> vibe out with artists from the 🇵🇭 Cover: Denise Julia, HAVEN
+> vibe out w some 🇵🇭 R&B Cover: Denise Julia, Haven
 
 152 songs - 8 hr 56 min
 

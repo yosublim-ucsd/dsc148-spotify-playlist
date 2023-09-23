@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Elvis Crespo & Miriam Cruz",
-  "num_followers": 386975,
+  "num_followers": 387010,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDk1ZDMzNDM4MGJlNzIwMjk4ZGM5OWYzZDFlZGJlZDQ2Y2M3YTVm",
+  "snapshot_id": "MCxkOTUxNDllYWQ1NmZmYjg4ZDcyYWE5MTNiNDBiOGZlNjYwMmJkOTQy",
   "tracks": [
     {
       "added_at": "2023-09-08 20:58:23",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Sandy & Papo MC",
-        "url": "https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88"
-      },
-      "artists": [
-        {
-          "name": "Sandy & Papo",
-          "url": "https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B"
-        }
-      ],
-      "duration_ms": 290226,
-      "name": "La Hora De Bailar",
-      "url": "https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 203273,
       "name": "Bendecido",
       "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
+        "name": "Sandy & Papo MC",
+        "url": "https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88"
+      },
+      "artists": [
+        {
+          "name": "Sandy & Papo",
+          "url": "https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B"
+        }
+      ],
+      "duration_ms": 290226,
+      "name": "La Hora De Bailar",
+      "url": "https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
+        "name": "Que No Se Acabe",
+        "url": "https://open.spotify.com/album/4wkI7N7F94lQKrFBowpxGn"
+      },
+      "artists": [
+        {
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+        },
+        {
+          "name": "Urbanda",
+          "url": "https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov"
+        }
+      ],
+      "duration_ms": 198295,
+      "name": "Que No Se Acabe",
+      "url": "https://open.spotify.com/track/7l7RWEAfoiRPswJa4skO5i"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
         "name": "Juntos Con Sus \u00c9xitos",
         "url": "https://open.spotify.com/album/1D1qtrP020moJvytYhcRDd"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 153789,
       "name": "Quiero Quemar La Pista",
       "url": "https://open.spotify.com/track/38PuJLicgcUTFgb7FqmXaJ"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
-        "name": "Que No Se Acabe",
-        "url": "https://open.spotify.com/album/4wkI7N7F94lQKrFBowpxGn"
-      },
-      "artists": [
-        {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
-        },
-        {
-          "name": "Urbanda",
-          "url": "https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov"
-        }
-      ],
-      "duration_ms": 198295,
-      "name": "Que No Se Acabe",
-      "url": "https://open.spotify.com/track/7l7RWEAfoiRPswJa4skO5i"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 278973,
-      "name": "Alo",
-      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
         "name": "Tesoro Mio (Versi\u00f3n Merengue)",
         "url": "https://open.spotify.com/album/3MpS1lJ7kN4groX2YIEhmY"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 192800,
       "name": "Tesoro Mio - Versi\u00f3n Merengue",
       "url": "https://open.spotify.com/track/1ax8x6uKlotSCmv4ovNRdV"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/5NXP7gUS3CyP0tDGSErW5V"
+      },
+      "artists": [
+        {
+          "name": "Yosi Fuentes",
+          "url": "https://open.spotify.com/artist/0ClimgRcrn4sEUHIwFkzz2"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/2lgeSsfCdcClqitHCAcyzO"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 278973,
+      "name": "Alo",
+      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
         "name": "Back In Town",
         "url": "https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 258746,
       "name": "Jilila Kimbolo",
       "url": "https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/5NXP7gUS3CyP0tDGSErW5V"
-      },
-      "artists": [
-        {
-          "name": "Yosi Fuentes",
-          "url": "https://open.spotify.com/artist/0ClimgRcrn4sEUHIwFkzz2"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/2lgeSsfCdcClqitHCAcyzO"
     },
     {
       "added_at": "2023-09-08 20:58:23",

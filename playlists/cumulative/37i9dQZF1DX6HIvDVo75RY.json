@@ -3744,10 +3744,28 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 222362,
       "name": "Thinkin Bout Cheatin",
       "url": "https://open.spotify.com/track/2F1LDKuU8hULlUUXEfirdN"
+    },
+    {
+      "album": {
+        "name": "Thinkin Bout Cheatin",
+        "url": "https://open.spotify.com/album/4DQoCcBOoRZBsY2LsQJ0Wc"
+      },
+      "artists": [
+        {
+          "name": "Mae Estes",
+          "url": "https://open.spotify.com/artist/6352GDDDFjnbhNMDbCRIuX"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222362,
+      "name": "Thinkin Bout Cheatin",
+      "url": "https://open.spotify.com/track/35GoYj5urnSOCabDAKphBF"
     },
     {
       "album": {

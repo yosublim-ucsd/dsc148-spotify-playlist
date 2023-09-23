@@ -8634,6 +8634,24 @@
     {
       "album": {
         "name": "Go",
+        "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154043,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
+    },
+    {
+      "album": {
+        "name": "Go",
         "url": "https://open.spotify.com/album/3kKGQwZiuURqq8d4eNkPHV"
       },
       "artists": [

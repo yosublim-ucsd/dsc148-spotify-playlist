@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-793 songs - 2 day 3 hr 55 min
+794 songs - 2 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,7 +592,7 @@
 | [Simple Things](https://open.spotify.com/track/4oOkC6iNHVNtJJWHD8fqiL) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 3:06 | 2022-11-10 |  |
 | [Since I Fell for You](https://open.spotify.com/track/0HY29tHnnKozsXwdqfWey8) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Jazz Impressions Of Black Orpheus \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH) | 4:23 | 2021-12-03 |  |
 | [Slow Dance](https://open.spotify.com/track/5AbIjlheQPOLLgGanARp5h) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Slow Dance](https://open.spotify.com/album/6UqEbtOPsQfr9dgxNJjSLy) | 3:53 | 2023-09-08 |  |
-| [Slow fox](https://open.spotify.com/track/1wfEcUI12BqJQEPjXm3j03) | [The Stilltones](https://open.spotify.com/artist/4ggqOcGiYxjjAaKhYzXUzR) | [Slow fox](https://open.spotify.com/album/7IUSsZavpXkMkTx19eJaiA) | 3:35 | 2023-09-22 |  |
+| [Slow fox](https://open.spotify.com/track/1wfEcUI12BqJQEPjXm3j03) | [The Stilltones](https://open.spotify.com/artist/4ggqOcGiYxjjAaKhYzXUzR) | [Slow fox](https://open.spotify.com/album/7IUSsZavpXkMkTx19eJaiA) | 3:35 | 2023-09-22 | 2023-09-23 |
 | [Slow Motion Blues \- 2003 Remastered Version](https://open.spotify.com/track/28pXjvjSad59tRDv3EmtNz) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Just You, Just Me](https://open.spotify.com/album/0xHZokGw5MVHBVzumhx4zN) | 2:56 | 2021-12-03 |  |
 | [Smooth Sailing](https://open.spotify.com/track/6yRs3JOb7GP0PYhlG6hVbe) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Smooth Sailing](https://open.spotify.com/album/1k28WBci9JPB2zCTplu2GJ) | 2:05 | 2023-08-10 |  |
 | [Snow in the Night](https://open.spotify.com/track/5pkV89tLr5KvFchu3jsEyS) | [Max Light Quartet](https://open.spotify.com/artist/0BZxORrNUJfV3VoAH6pgYO) | [Livia's Dream](https://open.spotify.com/album/60AwORaHZMMTqmeRRdsxP2) | 3:38 | 2023-06-15 |  |
@@ -624,6 +624,7 @@
 | [Soultrane \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1hSoJlHi3q3jGaFcGrtCtB) | [Tadd Dameron](https://open.spotify.com/artist/4w8eKJO83kKgKRLbMKM2zB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Mating Call \[RVG Remaster\]](https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA) | 5:21 | 2021-12-03 | 2022-11-11 |
 | [Soulville](https://open.spotify.com/track/5nB5mhjWHeUNtoWnTDISOb) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Verve Jazz Masters 43: Ben Webster](https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe) | 8:03 | 2021-12-03 |  |
 | [Sous le Ciel de Paris](https://open.spotify.com/track/1QTqBsWRsTZbC2aylhHf8N) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [Sous le Ciel de Paris](https://open.spotify.com/album/1HTCcw4sWeRUjgnmrAkL8s) | 3:22 | 2023-03-16 |  |
+| [Speak Low](https://open.spotify.com/track/1DvyJsR76IH3HPxEC0DQ67) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Speak Low](https://open.spotify.com/album/4rMsJgxLDc3JHVM4b9Nibp) | 2:44 | 2023-09-22 |  |
 | [Spring Came Early](https://open.spotify.com/track/3vlVtBIC5VDiY98GWAgT67) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Spring Came Early](https://open.spotify.com/album/3m97OF4An5bONucwGKVgm4) | 3:39 | 2022-11-10 |  |
 | [Spring Is Here](https://open.spotify.com/track/6gOncymNzM5SZFqh1QrOdM) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Spring Is Here](https://open.spotify.com/album/3pQ4SofVIJ7a2iqbINDxlV) | 2:46 | 2023-03-30 |  |
 | [Spring Will Be a Little Late This Year](https://open.spotify.com/track/6Rv2CtJxWX6Kg7hppcZkAm) | [Neo Fourths Trio](https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe) | [Spring Will Be a Little Late This Year](https://open.spotify.com/album/6E3oiM7hAqeUcw7zEM5kil) | 3:07 | 2023-04-27 |  |

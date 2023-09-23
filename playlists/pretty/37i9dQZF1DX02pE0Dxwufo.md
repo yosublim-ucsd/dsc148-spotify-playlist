@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02pE0Dxwufo.md) - [plain]
 
 > take a Louisville slugger to both headlights
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,297 likes - 45 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,372 likes - 46 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,19 +39,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02pE0Dxwufo.md) - [plain]
 | 29 | [Get over Yourself](https://open.spotify.com/track/0sr84SDJ9VN4EB7p2mWGur) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:20 |
 | 30 | [Interlude \(Full Length\)](https://open.spotify.com/track/7dSg4FtT2opE2O7O0bYcL2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:19 |
 | 31 | [Kerosene](https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene](https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1) | 3:05 |
-| 32 | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/2CYVETnhM9aytqrazYYwrK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:37 |
-| 33 | [Best Days of Your Life](https://open.spotify.com/track/27BMLvWD1TYdosiReVgbAt) | [Kellie Pickler](https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB) | [Kellie Pickler](https://open.spotify.com/album/1PaWZcwVckRVsEGwhGxEEG) | 3:46 |
-| 34 | [High Horse](https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:33 |
-| 35 | [White Liar](https://open.spotify.com/track/08NPIspzvBNj88lHalgA4V) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 4:47 |
-| 36 | [Stripes](https://open.spotify.com/track/0MJ49ZXdzIb7yw6WjwpSf5) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [12 Stories](https://open.spotify.com/album/2ugozjdiI4CXaTEcrN3hfz) | 3:16 |
-| 37 | [Xo](https://open.spotify.com/track/2sYJeORxYzEQItfa9VmiwZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 2:54 |
-| 38 | [Two Black Cadillacs](https://open.spotify.com/track/5mFYtqhN4T2D9IPSaZnVDw) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:57 |
-| 39 | [no body, no crime \(feat\. HAIM\)](https://open.spotify.com/track/3RaT22zZsxVYxxKR7TAaYF) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:35 |
-| 40 | [Make You Miss Me](https://open.spotify.com/track/0xwPzLmBAYro8BUz7MrtAo) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:45 |
-| 41 | [Better Than Revenge](https://open.spotify.com/track/2ythurkTtSiyfK7GprJoFW) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 3:37 |
-| 42 | [A Special Place](https://open.spotify.com/track/1xk2TQgJNtH3FErgICPgmb) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [A Special Place](https://open.spotify.com/album/1C8SRnPi8Fs6Bhdceyiheb) | 2:54 |
-| 43 | [Zero Trucks](https://open.spotify.com/track/2GdP6I6v6fHCyTx2vSsUEz) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [History of Breaking Up \(Part One\)](https://open.spotify.com/album/3NgHZh0LDNXEQgaZPfQuIc) | 2:42 |
-| 44 | [Ever Since You Left](https://open.spotify.com/track/3miEfV2k8EEbn64jYaEq9m) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Welcome To The Block Party](https://open.spotify.com/album/0dNsg2k0JVBXDjAyASks9p) | 2:44 |
-| 45 | [Best Worst Ex](https://open.spotify.com/track/3fRdUaeiNkAU3tpGhLS4Ma) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Best Worst Ex](https://open.spotify.com/album/21jYnUmAjAhjROZDzMV6lL) | 2:44 |
+| 32 | [Drive You Out Of My Mind](https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Drive You Out Of My Mind](https://open.spotify.com/album/0tybIuD9JXSQ0zY1s9PQmv) | 3:32 |
+| 33 | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/2CYVETnhM9aytqrazYYwrK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:37 |
+| 34 | [Best Days of Your Life](https://open.spotify.com/track/27BMLvWD1TYdosiReVgbAt) | [Kellie Pickler](https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB) | [Kellie Pickler](https://open.spotify.com/album/1PaWZcwVckRVsEGwhGxEEG) | 3:46 |
+| 35 | [High Horse](https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:33 |
+| 36 | [White Liar](https://open.spotify.com/track/08NPIspzvBNj88lHalgA4V) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 4:47 |
+| 37 | [Stripes](https://open.spotify.com/track/0MJ49ZXdzIb7yw6WjwpSf5) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [12 Stories](https://open.spotify.com/album/2ugozjdiI4CXaTEcrN3hfz) | 3:16 |
+| 38 | [Xo](https://open.spotify.com/track/2sYJeORxYzEQItfa9VmiwZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 2:54 |
+| 39 | [Two Black Cadillacs](https://open.spotify.com/track/5mFYtqhN4T2D9IPSaZnVDw) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:57 |
+| 40 | [no body, no crime \(feat\. HAIM\)](https://open.spotify.com/track/3RaT22zZsxVYxxKR7TAaYF) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:35 |
+| 41 | [Make You Miss Me](https://open.spotify.com/track/0xwPzLmBAYro8BUz7MrtAo) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:45 |
+| 42 | [Better Than Revenge](https://open.spotify.com/track/2ythurkTtSiyfK7GprJoFW) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 3:37 |
+| 43 | [A Special Place](https://open.spotify.com/track/1xk2TQgJNtH3FErgICPgmb) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [A Special Place](https://open.spotify.com/album/1C8SRnPi8Fs6Bhdceyiheb) | 2:54 |
+| 44 | [Zero Trucks](https://open.spotify.com/track/2GdP6I6v6fHCyTx2vSsUEz) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [History of Breaking Up \(Part One\)](https://open.spotify.com/album/3NgHZh0LDNXEQgaZPfQuIc) | 2:42 |
+| 45 | [Ever Since You Left](https://open.spotify.com/track/3miEfV2k8EEbn64jYaEq9m) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Welcome To The Block Party](https://open.spotify.com/album/0dNsg2k0JVBXDjAyASks9p) | 2:44 |
+| 46 | [Best Worst Ex](https://open.spotify.com/track/3fRdUaeiNkAU3tpGhLS4Ma) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Best Worst Ex](https://open.spotify.com/album/21jYnUmAjAhjROZDzMV6lL) | 2:44 |
 
-Snapshot ID: `MCxkMWNmZDAxNzUwODMyNmE3YWVmZTkxMGVlOTJlODZjZDQ3Y2I1ZTg2`
+Snapshot ID: `MCxmYmUzNmI4NDg3NGNmNDk5NGM5MjdlNmU2OGEzYmJjMDA1NTQzNDI5`

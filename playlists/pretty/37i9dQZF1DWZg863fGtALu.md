@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZg863fGtALu.md) - [plain]
 
 > Summer memories from yesteryear!
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,525 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,504 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZg863fGtALu.md) - [plain]
 | 63 | [Mysterious Girl \- Radio Edit](https://open.spotify.com/track/6Y3lJ2VwukbHOH9zCDi6zj) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [90\-tal](https://open.spotify.com/album/0yjliARBQfcAQkVqq46sS8) | 3:38 |
 | 64 | [Turn Around \(Hey What's Wrong With You\)](https://open.spotify.com/track/60qbU5QgEnzBqUfXSUh0mc) | [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6) | [Turn Around \(Hey What's Wrong With You\)](https://open.spotify.com/album/5hWljyIu9DZbTeO6yoljXU) | 3:32 |
 | 65 | [Nice For What](https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:30 |
-| 66 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/3QmetavYzJize7uwkNlzEW) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Bad to the Bone](https://open.spotify.com/album/4vbOi44Tw0IHqMNoN7Zrbm) | 3:47 |
+| 66 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/5HLX3X9DKICD2i7m2KNTn6) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Sweat \(A La La La La Long\)](https://open.spotify.com/album/6C2tqCtqlG32rLawvyRXMY) | 3:49 |
 | 67 | [All That She Wants](https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:31 |
 | 68 | [LDN](https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Bonus Track Version\)](https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY) | 3:12 |
 | 69 | [Follow Me](https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Double Wide](https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ) | 3:38 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZg863fGtALu.md) - [plain]
 | 79 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
 | 80 | [Long Hot Summer](https://open.spotify.com/track/27Pg2JZoKkElCjsF5q3MH9) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Chemistry](https://open.spotify.com/album/1ohFae0rMra8i5sHyraOFh) | 3:52 |
 
-Snapshot ID: `MCxkYjY0YjAxN2QxOWUyOTQ0MDBhOTdhZTc5NzUwMGFlMjcxZDg2YTBm`
+Snapshot ID: `MCxjOTY2ZDA1MWZlMDc0OTBkZjM4NjA5ODE1NDYzNDk0ODRkOTk2MjMy`

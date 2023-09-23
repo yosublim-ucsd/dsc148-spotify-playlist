@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,487 likes - 65 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,678 likes - 65 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 47 | [She Said](https://open.spotify.com/track/5J7l2wE9wxqod7xIP0jyAB) | [Longpigs](https://open.spotify.com/artist/1o7zIbVAgDDHKijLVuLASg) | [The Sun Is Often Out](https://open.spotify.com/album/1QQKv2Y9uONbj8Dw6GUMB6) | 4:24 |
 | 48 | [Richard III \- 2021 \- Remaster](https://open.spotify.com/track/2T59dX55GGQ00ulyKnfqBG) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [In It for the Money \(2021 Remaster \- Deluxe Expanded Edition\)](https://open.spotify.com/album/4eskbEqGfhyOV3ILrneK4G) | 3:13 |
 | 49 | [All You Good Good People](https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [The Good Will Out](https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK) | 6:06 |
-| 50 | [A Design for Life \- 2016 Remastered Version](https://open.spotify.com/track/7rIoot9qXXs4H3n1kH2V4F) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Everything Must Go 20 \(Remastered\)](https://open.spotify.com/album/0N5NWxZazrftwlXMOgHQrC) | 4:17 |
-| 51 | [Inbetweener](https://open.spotify.com/track/4GoqaAdOZqS1lyYODRwxlO) | [Sleeper](https://open.spotify.com/artist/0NbfEPYRgMczimdfM3skmH) | [Smart](https://open.spotify.com/album/4b6QlQpazyHULH2nmJTPcT) | 3:19 |
+| 50 | [Inbetweener](https://open.spotify.com/track/4GoqaAdOZqS1lyYODRwxlO) | [Sleeper](https://open.spotify.com/artist/0NbfEPYRgMczimdfM3skmH) | [Smart](https://open.spotify.com/album/4b6QlQpazyHULH2nmJTPcT) | 3:19 |
+| 51 | [A Design for Life \- 2016 Remastered Version](https://open.spotify.com/track/7rIoot9qXXs4H3n1kH2V4F) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Everything Must Go 20 \(Remastered\)](https://open.spotify.com/album/0N5NWxZazrftwlXMOgHQrC) | 4:17 |
 | 52 | [Kinky Afro \- 2007 Remaster](https://open.spotify.com/track/3OSJIs8o7v3reK5DHJrG48) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Pills 'N' Thrills And Bellyaches \(Collector's Edition\)](https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ) | 3:59 |
 | 53 | [Loaded](https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 7:02 |
 | 54 | [What You Do To Me](https://open.spotify.com/track/6DOJgDuUVDaJ98GQxwyLTh) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Bandwagonesque](https://open.spotify.com/album/4M6vPZ4hQdOeH07D0JO2JQ) | 2:00 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 59 | [The Day We Caught The Train](https://open.spotify.com/track/4oPF43XotiOin8UroIsE0t) | [Ocean Colour Scene](https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U) | [Moseley Shoals](https://open.spotify.com/album/2z6VxH2NdkmxYpTygmlI0W) | 3:06 |
 | 60 | [Trash](https://open.spotify.com/track/4QJgpPPICeOLx2u1P3C53D) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [Coming up \- 20th Anniversary Edition \(Audio Version\)](https://open.spotify.com/album/3YBbEumtx9naxbCQWoeu41) | 4:05 |
 | 61 | [Rocks](https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Give Out But Don't Give Up](https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8) | 3:37 |
-| 62 | [Slight Return](https://open.spotify.com/track/6Pmr3g62IviFy4sBVII5Jp) | [The Bluetones](https://open.spotify.com/artist/66nOkPJTFgK25NMmojG04V) | [The Singles](https://open.spotify.com/album/3R9Lp4s38Y9pMfcwG9YP27) | 3:19 |
-| 63 | [One To Another](https://open.spotify.com/track/0svfKznUXTbPhqGi2v9uDc) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Tellin' Stories](https://open.spotify.com/album/2JcSP59a6uz4xrtfF5ysgv) | 4:29 |
+| 62 | [One To Another](https://open.spotify.com/track/0svfKznUXTbPhqGi2v9uDc) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Tellin' Stories](https://open.spotify.com/album/2JcSP59a6uz4xrtfF5ysgv) | 4:29 |
+| 63 | [Slight Return](https://open.spotify.com/track/6Pmr3g62IviFy4sBVII5Jp) | [The Bluetones](https://open.spotify.com/artist/66nOkPJTFgK25NMmojG04V) | [The Singles](https://open.spotify.com/album/3R9Lp4s38Y9pMfcwG9YP27) | 3:19 |
 | 64 | [Wide Open Space](https://open.spotify.com/track/0Q4fqnPKrbOT6HYDhlvbNw) | [Mansun](https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U) | [Attack of the Grey Lantern](https://open.spotify.com/album/7v04VQBNE3VmBxf7vbnpnL) | 4:31 |
 | 65 | [The Riverboat Song](https://open.spotify.com/track/29cKAB63SRhL2GZdMHmQON) | [Ocean Colour Scene](https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U) | [Moseley Shoals](https://open.spotify.com/album/2z6VxH2NdkmxYpTygmlI0W) | 4:52 |
 
-Snapshot ID: `MCw1NTdiYWUwOGExMjU5MjY2ZWYzODY5NjBjYTUxOWZjY2I4YjIxYmNk`
+Snapshot ID: `MCxlOTRiNjgyMzdiZTBmOTYzNWMwNjE0NzUwNjFlMmFkNThjNDgyZjMz`

@@ -612,7 +612,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 375111,
       "name": "A Barely Lit Path",
       "url": "https://open.spotify.com/track/6LGvWHB0braCdC7D5riRCt"
@@ -4004,7 +4004,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 200261,
       "name": "Boy Scout",
       "url": "https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL"
@@ -6726,7 +6726,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 227826,
       "name": "De Selby (Part 2)",
       "url": "https://open.spotify.com/track/3SRtygyWBQnoxuOPtdBPm2"
@@ -12097,6 +12097,28 @@
     },
     {
       "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195147,
+      "name": "Hell N Back (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML"
+    },
+    {
+      "album": {
         "name": "Hell Of A Ride",
         "url": "https://open.spotify.com/album/2lhR2LG4Lx2IBa4o5Kj69l"
       },
@@ -15001,6 +15023,24 @@
     },
     {
       "album": {
+        "name": "World of Hassle",
+        "url": "https://open.spotify.com/album/06Zp2J6vjuVSOKHtFcFtJ0"
+      },
+      "artists": [
+        {
+          "name": "Alan Palomo",
+          "url": "https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194876,
+      "name": "Is There Nightlife After Death?",
+      "url": "https://open.spotify.com/track/1hPRiRIEeYpjIa8VFLpRab"
+    },
+    {
+      "album": {
         "name": "Is This What It Feels Like to Feel Like This?",
         "url": "https://open.spotify.com/album/6sxU6FxUwBONwo2zsbD2v8"
       },
@@ -16567,6 +16607,28 @@
     },
     {
       "album": {
+        "name": "Laugh Track",
+        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264120,
+      "name": "Laugh Track (feat. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/7aprF5ADDukD1JWHXG9h9z"
+    },
+    {
+      "album": {
         "name": "Protect Our Winters",
         "url": "https://open.spotify.com/album/5xJLwTxrpzWtnocHOXbbF4"
       },
@@ -16838,6 +16900,24 @@
       "duration_ms": 254133,
       "name": "Let's Make a Mistake Tonight",
       "url": "https://open.spotify.com/track/0zmt4wKN8304OeCcmtTd9s"
+    },
+    {
+      "album": {
+        "name": "Sorry I Haven't Called",
+        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "Lexicon",
+      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
     },
     {
       "album": {
@@ -18278,7 +18358,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 147596,
       "name": "Me & Me",
       "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
@@ -18723,6 +18803,24 @@
     },
     {
       "album": {
+        "name": "Modern Girl",
+        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223100,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
+    },
+    {
+      "album": {
         "name": "Permanent Damage",
         "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
       },
@@ -19164,6 +19262,28 @@
       "duration_ms": 167492,
       "name": "My Big Day",
       "url": "https://open.spotify.com/track/5GXX6ynEUMy6FTJuyLviIb"
+    },
+    {
+      "album": {
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        },
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173975,
+      "name": "My Body ft Your Lips",
+      "url": "https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR"
     },
     {
       "album": {
@@ -20019,6 +20139,28 @@
     },
     {
       "album": {
+        "name": "NO SZNS",
+        "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213026,
+      "name": "NO SZNS",
+      "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
+    },
+    {
+      "album": {
         "name": "Conditions Of A Punk",
         "url": "https://open.spotify.com/album/4mdZ4AxMYHZk3qE5jBmlzM"
       },
@@ -20528,7 +20670,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 175020,
       "name": "NYE [Feat. Suki Waterhouse]",
       "url": "https://open.spotify.com/track/3qruUcemmywHKW2jQ7EV6J"
@@ -23370,7 +23512,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 211000,
       "name": "Quilt of Steam",
       "url": "https://open.spotify.com/track/0ZVUxuPLkIswDAxiACZPxM"
@@ -25632,7 +25774,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 227685,
       "name": "So Many Plans",
       "url": "https://open.spotify.com/track/14pNmP49UDCDJDobtV2FMc"

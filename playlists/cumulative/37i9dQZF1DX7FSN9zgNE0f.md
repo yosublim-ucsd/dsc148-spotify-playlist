@@ -4,7 +4,7 @@
 
 > Recorré un viaje por el oscuro éxtasis de WOS!
 
-39 songs - 2 hr 0 min
+40 songs - 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Funeral](https://open.spotify.com/track/1ueLYdeuGMAwUiaezLDObD) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Funeral](https://open.spotify.com/album/3hykNzTPJLYxvNxY4gGvHk) | 3:41 | 2022-01-05 |  |
 | [GATO NEGRO](https://open.spotify.com/track/5Mn4FEB5vtRI4tbr3MwNnO) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:15 | 2022-01-05 |  |
 | [INTRODUCCIÓN AL ÉXTASIS](https://open.spotify.com/track/74KCrwYaoHssps1bXnh1mR) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 1:56 | 2022-01-05 |  |
+| [INVESTIDO](https://open.spotify.com/track/0gX9K4YtmMaODBFtPTU4mI) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [INVESTIDO](https://open.spotify.com/album/1YfLcIRbHLHVqz3cTxm7cB) | 3:23 | 2023-09-22 |  |
 | [LLENO DE ZAFIROS](https://open.spotify.com/track/3HJ9wlvw5PcxTDEUSVcSxY) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:40 | 2022-01-05 |  |
 | [LUZ DELITO](https://open.spotify.com/track/13VEtVCYfLTVsq5STs3SlW) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CARAVANA](https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91) | 2:35 | 2022-01-05 |  |
 | [MELÓN VINO](https://open.spotify.com/track/5uHAzGa4d9j35DEbhUwGhi) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CARAVANA](https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91) | 2:56 | 2022-01-05 |  |

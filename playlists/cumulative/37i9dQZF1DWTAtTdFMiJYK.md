@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover : Garvit \- Priyansh
 
-258 songs - 15 hr 10 min
+259 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Foolish Once Again](https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Foolish Once Again](https://open.spotify.com/album/2F8nmRroxmD3yHbnFiN1tV) | 4:03 | 2021-12-06 | 2022-03-22 |
 | [free](https://open.spotify.com/track/6AZFB9yD5kyahBrPhv9i4E) | [GrapeGuitarBox](https://open.spotify.com/artist/0KDH3OhkatkzhqJcf4m8DR) | [free](https://open.spotify.com/album/6x5uvmf4EOslQGWPOREQEf) | 3:06 | 2021-12-06 | 2022-01-11 |
 | [Gaate Jao](https://open.spotify.com/track/0RWbkXSfIYIQo0g8JvrXIh) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Gaate Jao](https://open.spotify.com/album/3EJqU9rYyYgrgoNDQIxIGS) | 3:27 | 2021-12-06 | 2022-01-11 |
-| [Gaayab](https://open.spotify.com/track/6yxyxncMxTxyU05fD5lRMk) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Gaayab](https://open.spotify.com/album/3qGhJwL6Y2tY2t9lJNHiOS) | 4:22 | 2022-09-10 |  |
+| [Gaayab](https://open.spotify.com/track/6yxyxncMxTxyU05fD5lRMk) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Gaayab](https://open.spotify.com/album/3qGhJwL6Y2tY2t9lJNHiOS) | 4:22 | 2022-09-10 | 2023-09-23 |
 | [Gehraiyaan](https://open.spotify.com/track/1h5bMRo0WZ6L6E2a9ndiQ1) | [Aryan Katoch](https://open.spotify.com/artist/4gAmleqQJI116NpfqkMxha) | [Gehraiyaan](https://open.spotify.com/album/0tQJ5GTvAMRX7vZ8umFUzO) | 3:38 | 2022-01-31 | 2022-02-05 |
 | [Ghoome](https://open.spotify.com/track/2S8g6nlwCih4u4GAn14GqE) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Ghoome](https://open.spotify.com/album/4u73oMykwBdkhBuJ9ufJjT) | 2:49 | 2023-07-24 |  |
 | [Go Grow](https://open.spotify.com/track/4XSTKp0ndMNj4RTvfOAlzW) | [Rachel Singh](https://open.spotify.com/artist/4yrsPV1KOPO7GTR1Dlds8V), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Go Grow](https://open.spotify.com/album/2m0HEB5QkPWqeaf4V133JM) | 3:47 | 2022-01-10 | 2023-01-11 |
@@ -247,6 +247,7 @@
 | [Tu Chodiyon Na](https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Tu Chodiyon Na](https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe) | 3:32 | 2022-09-14 |  |
 | [Tu Kahaan Hai?](https://open.spotify.com/track/2UmL7Lg9B1vpDQoopwfYcD) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Tu Kahaan Hai?](https://open.spotify.com/album/7wnywQW8a2YFp2gpsaiC19) | 3:11 | 2023-07-10 |  |
 | [Tu Kaun Hai](https://open.spotify.com/track/0z4WjqjRgQJuXlWbOC5L6A) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Tu Kaun Hai](https://open.spotify.com/album/4UgSmIR3uBY5ehDNeZszsZ) | 5:33 | 2022-09-14 | 2023-02-18 |
+| [Tum Mere Kya Ho](https://open.spotify.com/track/59S0sPZf1q48PvmeeXN0bj) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Tum Mere Kya Ho](https://open.spotify.com/album/65xBCpWtwwZ3PoloPQzTum) | 2:55 | 2023-09-22 |  |
 | [Udd Chala](https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Udd Chala](https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu) | 4:46 | 2023-02-10 |  |
 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 | 2021-12-06 | 2022-01-11 |
 | [Wahin Ka Wahin](https://open.spotify.com/track/3DC2ncI10e2EvocIBzIQT7) | [Lifafa](https://open.spotify.com/artist/6i50rQJbETLRREwFn3plcw) | [Superpower 2020](https://open.spotify.com/album/2ey1GnFSMrqu2QWbyjt4WE) | 5:41 | 2022-01-10 | 2022-07-29 |

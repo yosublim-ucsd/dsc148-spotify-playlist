@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "indie tunes with country experimentation Cover: Slow Pulp",
+  "description": "indie tunes with country experimentation Cover: Slaughter Beach, Dog",
   "name": "Indie Twang",
   "tracks": [
     {
@@ -293,6 +293,28 @@
     },
     {
       "album": {
+        "name": "Boys Of Faith (feat. Bon Iver)",
+        "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170824,
+      "name": "Boys Of Faith (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr"
+    },
+    {
+      "album": {
         "name": "Broadview",
         "url": "https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK"
       },
@@ -344,6 +366,24 @@
       "duration_ms": 218217,
       "name": "Bury The Hatchet - Radio Edit",
       "url": "https://open.spotify.com/track/731pNkRH6bnlhDGZQLRWJs"
+    },
+    {
+      "album": {
+        "name": "Bushwick Cowboy",
+        "url": "https://open.spotify.com/album/3pCrRQfCSaR4gIpcUewNsx"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243980,
+      "name": "Bushwick Cowboy",
+      "url": "https://open.spotify.com/track/3LppKZzfb7NLNmxe3rKRk9"
     },
     {
       "album": {
@@ -448,7 +488,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 217799,
       "name": "Chamomile",
       "url": "https://open.spotify.com/track/6GAPaGVVGgczGdMslknSMc"
@@ -1037,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "World Without Tears",
+        "url": "https://open.spotify.com/album/7uLuuklEzDu7xZ8QazIfzu"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288133,
+      "name": "Fruits Of My Labor",
+      "url": "https://open.spotify.com/track/31nItlXwgCCFpttS50Rbxf"
+    },
+    {
+      "album": {
         "name": "Acetone",
         "url": "https://open.spotify.com/album/7reRvUl6TnOYkfgKO5kDP9"
       },
@@ -1199,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Hard Feelings",
+        "url": "https://open.spotify.com/album/6JG9cpogbueo7J6AWLhl6T"
+      },
+      "artists": [
+        {
+          "name": "Howdy",
+          "url": "https://open.spotify.com/artist/2y1A93fUkRi2xSbKMwhyzs"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264820,
+      "name": "Hard Feelings",
+      "url": "https://open.spotify.com/track/68MbMKn42dsBU9bgzHaRXw"
+    },
+    {
+      "album": {
         "name": "For Jimmy",
         "url": "https://open.spotify.com/album/1odIO8SXRLhIFPphlEGJjY"
       },
@@ -1264,10 +1340,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 224333,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4inoOfvjCBQrJKdVwfJjlT"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224333,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5T00EN4oZmDQx3hqVAC4Fx"
     },
     {
       "album": {
@@ -1466,7 +1560,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 224680,
       "name": "In A Good Way",
       "url": "https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc"
@@ -1586,6 +1680,24 @@
       "duration_ms": 246119,
       "name": "Kind Of Girl",
       "url": "https://open.spotify.com/track/2kNnSv2CB0MO3O5WMspcSC"
+    },
+    {
+      "album": {
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202653,
+      "name": "Kingston",
+      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
     },
     {
       "album": {
@@ -1817,6 +1929,24 @@
     },
     {
       "album": {
+        "name": "Tobacco City, USA",
+        "url": "https://open.spotify.com/album/11J38DSk3mY2KEOx1NEY20"
+      },
+      "artists": [
+        {
+          "name": "Tobacco City",
+          "url": "https://open.spotify.com/artist/00Af3oygT0HC6ld0c2HwFX"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225297,
+      "name": "Never on My Mind",
+      "url": "https://open.spotify.com/track/4z9ViersKJgj1ZwTjjfhtk"
+    },
+    {
+      "album": {
         "name": "Notes from the Archive: Recordings 2011-2016",
         "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
       },
@@ -1966,6 +2096,24 @@
       "duration_ms": 185120,
       "name": "Psychos",
       "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
+    },
+    {
+      "album": {
+        "name": "Rat Saw God",
+        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247520,
+      "name": "Quarry",
+      "url": "https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr"
     },
     {
       "album": {
@@ -2660,6 +2808,24 @@
       "duration_ms": 255317,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/0OdzC5KFzqugM9XjQF599R"
+    },
+    {
+      "album": {
+        "name": "Time Shrinks",
+        "url": "https://open.spotify.com/album/70DhLvAJHcpWMoZVWTH1v0"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216531,
+      "name": "Time Shrinks",
+      "url": "https://open.spotify.com/track/5SDIFVKRHCDEuJGD3TSRwV"
     },
     {
       "album": {

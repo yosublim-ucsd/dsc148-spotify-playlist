@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,520 likes - 225 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,638 likes - 225 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 224 | [brats](https://open.spotify.com/track/4OY35K0SrR9HPqsEnAwt1b) | [Satchel Kebab](https://open.spotify.com/artist/0Z4iAR7V9y9M3HEW8vTMxx) | [brats](https://open.spotify.com/album/6PErrEUufYwTNGijQ69j15) | 2:44 |
 | 225 | [words > numbers](https://open.spotify.com/track/04zAxdQmKHREESSIcHRF3K) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [words > numbers](https://open.spotify.com/album/3JnbEfKjAABORB0DSb6iOc) | 2:56 |
 
-Snapshot ID: `MCxmMjdkZDdhZWU5MzFiYmQ4OGI4MjM0ODM3NjcxOTdhZjg3Y2Q0NTRl`
+Snapshot ID: `MCxhMzQxMGVhZDc0ODRhYWYzNjkyY2EwNjcwMmE4MzBlMTE5YTAyOGRl`

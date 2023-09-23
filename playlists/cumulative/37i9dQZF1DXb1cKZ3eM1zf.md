@@ -4,7 +4,7 @@
 
 > Het beste van Pinkpop en een greep uit de line\-up van 2023
 
-547 songs - 1 day 12 hr 58 min
+548 songs - 1 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Angel Eyes \- Album Edit](https://open.spotify.com/track/3gDtrR0W8CmkyS6mweesSS) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Master Hits](https://open.spotify.com/album/6PC9knxEdAFYCr8yvmrzwF) | 4:40 | 2019-03-11 | 2023-05-31 |
 | [Angelica](https://open.spotify.com/track/6CS1jZPGvrmLr3x9yQQDML) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Between Darkness & Wonder](https://open.spotify.com/album/6upRap3KHfW2oaR1qrlf3p) | 3:44 | 2019-03-11 | 2023-05-31 |
 | [Animal](https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi) | 4:23 | 2019-03-11 | 2023-05-31 |
+| [Animals](https://open.spotify.com/track/0A9mHc7oYUoCECqByV8cQR) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals](https://open.spotify.com/album/4Xs4NI3J2Nf9eSUqvW7GBn) | 5:04 | 2023-06-14 |  |
 | [Animals \- Extended](https://open.spotify.com/track/6JEntXLt4z98CcDtIH9sU7) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals \(Extended\)](https://open.spotify.com/album/55HXtmTsfepv0mY9vIIFhi) | 5:03 | 2019-03-11 | 2023-05-31 |
 | [Annie, I'm Not Your Daddy](https://open.spotify.com/track/5paJLghWSGmEf6sY7LeYel) | [Kid Creole And The Coconuts](https://open.spotify.com/artist/6KPWnJouOHhX0ZhscJsIU1) | [The Best Of Kid Creole & The Coconuts](https://open.spotify.com/album/4sxYCvb4V1M2XX1yrZveFD) | 3:47 | 2019-03-11 | 2023-05-31 |
 | [Apply Some Pressure](https://open.spotify.com/track/1GBBhEVBjf1JOulr4ndhip) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [A Certain Trigger](https://open.spotify.com/album/1aDrIJ6Nn3Po2U40QlNdop) | 3:20 | 2019-03-11 | 2023-05-31 |
@@ -122,7 +123,7 @@
 | [Do The 45](https://open.spotify.com/track/232QSzzmniLFxyYp6rPusb) | [Ryan Shaw](https://open.spotify.com/artist/2DKH5rEF3hui2Ygk20k1bQ) | [This Is Ryan Shaw](https://open.spotify.com/album/79L7xoEUhw9w034mlkQry0) | 2:15 | 2019-03-11 | 2023-05-31 |
 | [Do You Realize??](https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 3:33 | 2019-03-11 | 2023-09-11 |
 | [Don't Get Me Wrong \- 2007 Remaster](https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Get Close \(Expanded & Remastered\)](https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3) | 3:47 | 2019-03-11 | 2023-05-31 |
-| [Don't Leave Me This Way \(with Sarah Jane Morris\)](https://open.spotify.com/track/0ire4j2mcGovF5JA1D2cTp) | [The Communards](https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT), [Sarah Jane Morris](https://open.spotify.com/artist/7g6rQ236kj9vrXWdGyiC8o) | [Communards](https://open.spotify.com/album/0qqP0gMVjjSEj8odGxMbf3) | 4:31 | 2019-03-11 |  |
+| [Don't Leave Me This Way \(with Sarah Jane Morris\)](https://open.spotify.com/track/0ire4j2mcGovF5JA1D2cTp) | [The Communards](https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT), [Sarah Jane Morris](https://open.spotify.com/artist/7g6rQ236kj9vrXWdGyiC8o) | [Communards](https://open.spotify.com/album/0qqP0gMVjjSEj8odGxMbf3) | 4:31 | 2019-03-11 | 2023-09-23 |
 | [Don't Want to Know If You Are Lonely](https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE) | [Hüsker Dü](https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10) | [Candy Apple Grey](https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1) | 3:30 | 2019-03-11 | 2023-05-31 |
 | [Don't You Go up the Sky](https://open.spotify.com/track/0E2LnmZFoR0p9QoIK3HCyF) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Strange Fruits and Undiscovered Plants](https://open.spotify.com/album/2lnsuHjUjauKCkjQgH4T5W) | 4:18 | 2019-03-11 | 2023-05-31 |
 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 | 2019-03-11 |  |

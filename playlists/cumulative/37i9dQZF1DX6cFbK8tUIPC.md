@@ -4,7 +4,7 @@
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-272 songs - 17 hr 12 min
+273 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 | 2022-06-22 |  |
 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 | 2022-09-23 |  |
 | [BIGTIMEGOODTIME](https://open.spotify.com/track/3ouqN4Q9RO9J01lu8v7jrr) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [BIGTIMEGOODTIME](https://open.spotify.com/album/2GbjyKJhOsBOYxHEs1X48X) | 4:16 | 2023-09-21 |  |
+| [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q) | 2:50 | 2023-09-21 |  |
 | [Change](https://open.spotify.com/track/5WZGUtMLcqOMPem9J7PzVs) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Change](https://open.spotify.com/album/0RmOC132NVM3iENECtcmYb) | 6:04 | 2021-12-03 | 2022-08-16 |
 | [Cherry](https://open.spotify.com/track/6hrH6nUOPoB9kW2dT4GXzy) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Cherry](https://open.spotify.com/album/1tC67mJvSOPmzKqglQKrzw) | 3:32 | 2022-06-22 | 2022-08-27 |
 | [Child of Summer](https://open.spotify.com/track/31tYotXu03oqTo8Avxbwdc) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino Deluxe \(Child of Summer Edition\)](https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd) | 3:41 | 2023-08-08 |  |

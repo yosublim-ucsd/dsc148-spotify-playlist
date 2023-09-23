@@ -4,7 +4,7 @@
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-236 songs - 13 hr 43 min
+237 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [MUTUAL FRIEND](https://open.spotify.com/track/6qTkFd7eFndvexoySUmpNq) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [MUTUAL FRIEND](https://open.spotify.com/album/5h4ncClsNTs4SL2B0udXCT) | 3:26 | 2022-08-12 | 2023-03-11 |
 | [My Eyes Only](https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [My Eyes Only](https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19) | 3:14 | 2022-06-17 | 2022-08-13 |
 | [My Only One \(No Hay Nadie Más\)](https://open.spotify.com/track/1gJA27xiMdENwoAVN7kMlo) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [My Only One \(No Hay Nadie Más\)](https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe) | 3:18 | 2022-02-18 |  |
-| [My Way](https://open.spotify.com/track/3OFnCTyDRIbv4WDRFotvMG) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx) | 3:30 | 2022-07-22 |  |
+| [My Way](https://open.spotify.com/track/3OFnCTyDRIbv4WDRFotvMG) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx) | 3:30 | 2022-07-22 | 2023-09-23 |
 | [My Way](https://open.spotify.com/track/67CZNsG3SQ1S8O2BsjTo4R) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [My Way](https://open.spotify.com/album/1l9oYbtssYCsKBChiBseJm) | 3:30 | 2022-02-18 | 2022-07-29 |
 | [Naked](https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Naked](https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT) | 3:54 | 2022-02-18 |  |
 | [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 | 2022-08-12 | 2022-09-24 |
@@ -151,6 +151,7 @@
 | [Paper Crown](https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Paper Crown](https://open.spotify.com/album/7sQDzWYBQavRBvvamkslFe) | 3:12 | 2022-12-02 |  |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-02-07 |  |
 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 | 2022-04-08 |  |
+| [PLENA TERÇA FEIRA](https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx), [Julie Ramos](https://open.spotify.com/artist/72MhucM5doKoAXE5GIApaV) | [PLENA TERÇA FEIRA](https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3) | 3:07 | 2023-09-22 |  |
 | [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2022-12-02 | 2023-05-24 |
 | [Pointless](https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:51 | 2023-05-19 |  |
 | [Ponto de Vista](https://open.spotify.com/track/1UMDEJN3JtYmSQXoO1HUc5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [FIM](https://open.spotify.com/album/2jh6gWgvkanar5rjM3g1ow) | 3:02 | 2023-03-16 | 2023-09-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,383 likes - 88 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,538 likes - 88 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 10 | [Bodhran](https://open.spotify.com/track/6LVEYsHd4qJ1WtJZ9xhr2X) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [Red](https://open.spotify.com/album/6u2FSfckWObCgQvVz38WQe) | 2:12 |
 | 11 | [The Mountain Road / Old Concertina Reel \(2 Reels\) \[Live\]](https://open.spotify.com/track/0Oh03sjYtG61Cju0IeO0dd) | [Frankie Gavin](https://open.spotify.com/artist/5repE3sF3Q4joYE2ZJvqQK), [Arty McGlynn](https://open.spotify.com/artist/6ujxf9hiPIBdwz3fRCueZy), [Aidan Coffey](https://open.spotify.com/artist/5uQDb5rnV4uavRr0cfyXzp) | [Irlande \(Live\)](https://open.spotify.com/album/5nBZLZBNajJ5LkWM5HuDHy) | 3:36 |
 | 12 | [The Rocky Road to Dublin / The American Polka](https://open.spotify.com/track/4akhlPKimkDKwOyJbKnugt) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Gather the Good](https://open.spotify.com/album/52GcASolw4fAfosClZlqOK) | 3:57 |
-| 13 | [Goodbye Girls I'm Going to Boston](https://open.spotify.com/track/2bgqrasCfNCP9B2MY8J4iz) | [Laura Feddersen](https://open.spotify.com/artist/5C0s1exsc0UT1MytdU7kKZ), [Joel Wennerstrom](https://open.spotify.com/artist/0CS4kanxTgf7zAq0dxBBhl), [Owen Marshall](https://open.spotify.com/artist/1fhC0AGIoLHS9qd0GszMDI) | [Wooden Nickels](https://open.spotify.com/album/3gQy6X7TuRab6r0VdzW6ra) | 3:28 |
+| 13 | [Goodbye Girls I'm Going to Boston](https://open.spotify.com/track/4CH9ggXUaWwkvcGoQATrmO) | [Laura Feddersen](https://open.spotify.com/artist/5C0s1exsc0UT1MytdU7kKZ), [Joel Wennerstrom](https://open.spotify.com/artist/0CS4kanxTgf7zAq0dxBBhl), [Owen Marshall](https://open.spotify.com/artist/1fhC0AGIoLHS9qd0GszMDI) | [Wooden Nickels](https://open.spotify.com/album/2wVPCnqgiRIChDqUH9jeIa) | 3:28 |
 | 14 | [The Lobster](https://open.spotify.com/track/2HuM4u9jZHiHi0GuJpTTjc) | [The Gloaming](https://open.spotify.com/artist/4fQbIxjM2vH6YF4OsWlaGT) | [The Gloaming 3](https://open.spotify.com/album/0i0MY1PC7Zp6d2R2w9XpuV) | 6:53 |
 | 15 | [Jigs: The Southwest Wind / An Buachaillin Dreoite](https://open.spotify.com/track/2RwshonNEkw7d1GyTpMMAU) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Write Me a Letter](https://open.spotify.com/album/1fa4LBlNsValNBZCwGmTPf) | 4:29 |
 | 16 | [Runs in the Family / Angry Birds](https://open.spotify.com/track/71YL7LsmiRb8EErKnKWluE) | [Adam Agee](https://open.spotify.com/artist/3LVrnF56s6BbtdKj1GMqEg), [Jon Sousa](https://open.spotify.com/artist/1vCSweNAIl03TMHHTE3Hn9) | [Suantraí](https://open.spotify.com/album/2htRFnWrSnCFlcDhqtWRk8) | 2:22 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 87 | [Reels: Kylebrack Ramblers / Graf Spee](https://open.spotify.com/track/6tWVMFlSwTPVOgeWBQMapG) | [The Shaskeen Ceili Band](https://open.spotify.com/artist/6mgGW54iUPDPt07UwID5Kn) | [Pure Irish Céilí](https://open.spotify.com/album/0lVaM9oQ9SvE6K0P39vsNI) | 3:29 |
 | 88 | [Last Night's Fun / The Chattering Magpie / The Black Haired Lass / The Commodore](https://open.spotify.com/track/3FnKOidmaJJzdP52XBWZ5f) | [Billy McComiskey](https://open.spotify.com/artist/0NPDkWpnQnjowxXozNrWeR) | [The Girls Won't Leave The Boys Alone](https://open.spotify.com/album/45q1rezuYBdULvvO2Oh1Bn) | 4:53 |
 
-Snapshot ID: `MCwyZDI1ZmY2NWZiODM0OWRkMzZkMTRkN2M3Nzk2Njc4NGEzNjRlOTI3`
+Snapshot ID: `MCxiMjgwNmU5NzMyYmVjYTRhMTdjMWE1MjNhZDVjNTU0M2U3MTEwMmJj`

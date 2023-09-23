@@ -1,13 +1,29 @@
 {
   "description": "Blues, but funky. Or funk, but bluesy. Cover: Kenny Wayne Shepherd",
-  "num_followers": 849691,
+  "num_followers": 849759,
   "original_name": "Funky Heavy Bluesy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDc3YWMzZTgzMjgwYTQ3MTE4MjlmZDJlOWFmZTc5MTA1MWFlZWZk",
+  "snapshot_id": "MCxiNzJjYTkzNjkxZDE5OWRiMzEzNTQ5YzBjYmVkYmNmZWQ2MzQyMDYy",
   "tracks": [
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Best Of Times",
+        "url": "https://open.spotify.com/album/6bkOefhIbkWuboKf4nUnrM"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 207533,
+      "name": "Best Of Times",
+      "url": "https://open.spotify.com/track/71Y2IwdmrmbMxB3Rq7fz4E"
+    },
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
@@ -45,6 +61,22 @@
       "url": "https://open.spotify.com/track/0BT3RQsdS84xswE0YHkJo2"
     },
     {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Love Transcends",
+        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
+      },
+      "artists": [
+        {
+          "name": "Jackie Venson",
+          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
+        }
+      ],
+      "duration_ms": 177178,
+      "name": "Always Free",
+      "url": "https://open.spotify.com/track/0vD4NlJVWTYE8rdj1UGsAt"
+    },
+    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Chills and Thrills (feat. Mike Campbell)",
@@ -63,6 +95,22 @@
       "duration_ms": 320404,
       "name": "Chills and Thrills (feat. Mike Campbell)",
       "url": "https://open.spotify.com/track/3O4lx0iWB6jVKAFcJ07C8n"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Put That Back",
+      "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -163,6 +211,22 @@
       "duration_ms": 186333,
       "name": "Here it Comes",
       "url": "https://open.spotify.com/track/6h8p747HBdGCua6nTVpnYg"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "High Voltage Blues",
+        "url": "https://open.spotify.com/album/0ieocMI2zlwYG0JcJUq6Ey"
+      },
+      "artists": [
+        {
+          "name": "Anthony Gomes",
+          "url": "https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg"
+        }
+      ],
+      "duration_ms": 213351,
+      "name": "Blues-a-fied",
+      "url": "https://open.spotify.com/track/0YIRYIx4Z0oJ5PF1DmqEFD"
     },
     {
       "added_at": "2021-12-03 05:02:00",

@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-549 songs - 23 hr 23 min
+550 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [dripp](https://open.spotify.com/track/2lFxo4fAtmVXgVaabVB01x) | [Lil Skate](https://open.spotify.com/artist/3nrcM9gaRDpXvGYBxuhxl6) | [dripp](https://open.spotify.com/album/51XMKMY21TwNOv44FS4ZxR) | 2:14 | 2021-11-10 | 2022-07-29 |
 | [Drizzle](https://open.spotify.com/track/7IZhsHj5WNHZXb036INzSe) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Drizzle](https://open.spotify.com/album/17AdhxmA9tFsWn6G9gkJ4F) | 2:37 | 2021-11-10 | 2022-06-03 |
 | [Drone Me](https://open.spotify.com/track/5tX4UdxQ95Rho2LZOsb8K5) | [Exopar](https://open.spotify.com/artist/3ieE3kmwftNBuDcjoeADjC) | [Drone Me](https://open.spotify.com/album/1Nvxv6RYOMHwIIXrXogSIa) | 2:45 | 2022-11-25 | 2023-07-14 |
-| [drop the ball](https://open.spotify.com/track/6672eTNp29KIwkCHn0Ggyl) | [You're Good](https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR) | [drop the ball](https://open.spotify.com/album/7I7DErezRt4ezOAM1GfWpw) | 3:29 | 2022-06-17 |  |
+| [drop the ball](https://open.spotify.com/track/6672eTNp29KIwkCHn0Ggyl) | [You're Good](https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR) | [drop the ball](https://open.spotify.com/album/7I7DErezRt4ezOAM1GfWpw) | 3:29 | 2022-06-17 | 2023-09-23 |
 | [Eagle](https://open.spotify.com/track/2gHawVp05GgRFsghwuJasb) | [Diz](https://open.spotify.com/artist/02Fpx7VRq10jCSdPM89TUT) | [Eagle](https://open.spotify.com/album/6sehfPAmRF7aCZfnX8nSNM) | 2:51 | 2021-11-10 | 2022-05-11 |
 | [Earlybird](https://open.spotify.com/track/2BdKiwPRV6UbxAwdqS8iDA) | [HATAMITSUNAMI](https://open.spotify.com/artist/6FgjnW0Q1Kx3WEyWfApXmv) | [Glad U Made It](https://open.spotify.com/album/2mXDLDMuVrcnD2OyAvoLL3) | 2:12 | 2022-12-16 |  |
 | [Ease](https://open.spotify.com/track/3FiOZ7Wot8iLuQYTU6iugX) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Fred Erik](https://open.spotify.com/artist/4J46JclpuhD8XOE1JzhB7v) | [Ease](https://open.spotify.com/album/6aiRYGClMJ4zPGaTJElfiP) | 2:00 | 2022-07-15 | 2022-11-20 |
@@ -386,6 +386,7 @@
 | [Real Artist](https://open.spotify.com/track/13uiS7Ku1hhcU6F6DRIwAL) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [The Daily News](https://open.spotify.com/album/5bfuQMLLbJoryVcNEbplt5) | 1:01 | 2022-05-10 | 2022-09-02 |
 | [Real space](https://open.spotify.com/track/5vaFORH4cfFX5z3qerjAVk) | [Etherealz](https://open.spotify.com/artist/0aIHVgvyg6RLaXkbg52RN8) | [Real space](https://open.spotify.com/album/3y8sIzjrmZe2UEQ2QV3RRg) | 1:59 | 2021-11-10 | 2022-06-03 |
 | [Recession](https://open.spotify.com/track/7cayqs4BnxtUMuPfrj3if8) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [Recession](https://open.spotify.com/album/1tBpP6NT0HmFqqOTTQ5cNT) | 2:24 | 2022-10-07 |  |
+| [Recharge](https://open.spotify.com/track/3Y2IyKykThXzRpDgiwWNnq) | [lost.mindd](https://open.spotify.com/artist/6MzDAmtVfhn4nnlAhE4Ewa) | [Recharge](https://open.spotify.com/album/6JiMZbXZnQJ3UmFyRsgWFt) | 2:12 | 2023-09-22 |  |
 | [Red Eye](https://open.spotify.com/track/0eP23MmFQeMqVSlMdyWgp5) | [Calendar Echoes](https://open.spotify.com/artist/4ANlASV891L3OO3snkMbHN) | [Red Eye](https://open.spotify.com/album/20HYMq6O9YGT6Gi17tHsWT) | 2:39 | 2022-07-22 |  |
 | [Reflect](https://open.spotify.com/track/6KoJqqoM9nwU9Gpo0mMPA9) | [Goudo J](https://open.spotify.com/artist/59xol4VJ5T58RiIgiMFKR8) | [Reflect](https://open.spotify.com/album/35Ho0LxFGqmkEfuiLVYHkp) | 3:09 | 2021-11-10 | 2022-05-20 |
 | [reflect](https://open.spotify.com/track/0MLoEubW0HuTuHMYphRBgd) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [reflect](https://open.spotify.com/album/3sla1YDETOdnRRrmyn5jDy) | 2:44 | 2022-07-15 |  |

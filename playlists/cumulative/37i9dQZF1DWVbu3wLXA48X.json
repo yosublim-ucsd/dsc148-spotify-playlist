@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Mitski",
+  "description": "Current indie tunes from Asia and around the world. Cover: The National",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -789,6 +789,24 @@
     },
     {
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208426,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO"
+    },
+    {
+      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/055WIVbb2nzpBl5JNZx9he"
       },
@@ -818,7 +836,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 148844,
       "name": "Alone in Oslo",
       "url": "https://open.spotify.com/track/7pIccU6AUr1HSjDuMBJVu5"
@@ -3855,6 +3873,24 @@
     },
     {
       "album": {
+        "name": "Spunky!",
+        "url": "https://open.spotify.com/album/6aZFHnpTwonsLw8qVI5DdB"
+      },
+      "artists": [
+        {
+          "name": "Grrrl Gang",
+          "url": "https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105600,
+      "name": "Cool Girl",
+      "url": "https://open.spotify.com/track/4aXUKyFqYBSI7J6A1PwjTh"
+    },
+    {
+      "album": {
         "name": "Coping on Unemployment",
         "url": "https://open.spotify.com/album/5lh7UQoL2Sd9HJv6kFEsTw"
       },
@@ -4108,6 +4144,24 @@
       "duration_ms": 169605,
       "name": "Curious",
       "url": "https://open.spotify.com/track/2cIwyQwWNhyDNY3pn6xjKF"
+    },
+    {
+      "album": {
+        "name": "softscars",
+        "url": "https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186987,
+      "name": "cyber meat",
+      "url": "https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM"
     },
     {
       "album": {
@@ -4434,6 +4488,24 @@
       "duration_ms": 160193,
       "name": "Deep Diving",
       "url": "https://open.spotify.com/track/6NslJ8DMabPbslZYKQ8Qer"
+    },
+    {
+      "album": {
+        "name": "Laugh Track",
+        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269440,
+      "name": "Deep End (Paul\u2019s in Pieces)",
+      "url": "https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS"
     },
     {
       "album": {
@@ -6419,6 +6491,24 @@
     },
     {
       "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/7u6Z333YGGWD55O2uqjeTj"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291664,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/1hfDwBiBURnnVXruXzPd0I"
+    },
+    {
+      "album": {
         "name": "Coast 2 Coast",
         "url": "https://open.spotify.com/album/6y5kCZvxD1Oq5M385icFT9"
       },
@@ -6990,6 +7080,24 @@
       "duration_ms": 292379,
       "name": "Futures Bet",
       "url": "https://open.spotify.com/track/3yFjPsstCq0drlRdusBhgn"
+    },
+    {
+      "album": {
+        "name": "GAME",
+        "url": "https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS"
+      },
+      "artists": [
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165757,
+      "name": "GAME",
+      "url": "https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX"
     },
     {
       "album": {
@@ -9757,6 +9865,24 @@
     },
     {
       "album": {
+        "name": "Wallsocket",
+        "url": "https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245122,
+      "name": "Johnny johnny johnny",
+      "url": "https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh"
+    },
+    {
+      "album": {
         "name": "Journey To The Real World (From Barbie The Album)",
         "url": "https://open.spotify.com/album/3PyQnHsgeniXrpuxJ4FmEv"
       },
@@ -10197,6 +10323,28 @@
     },
     {
       "album": {
+        "name": "Le Temple Volant",
+        "url": "https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        },
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125893,
+      "name": "Le Temple Volant",
+      "url": "https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb"
+    },
+    {
+      "album": {
         "name": "Look Now",
         "url": "https://open.spotify.com/album/3xlR9r8agdyf0JJ8kf3R9t"
       },
@@ -10458,6 +10606,24 @@
       "duration_ms": 250818,
       "name": "Life of the Lovers",
       "url": "https://open.spotify.com/track/6MhzQJruXlaJA1b9KO188o"
+    },
+    {
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/6PvL70jTGrQAekjocgG620"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306050,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/0jVRZSyLXC48J2G66b12Ms"
     },
     {
       "album": {
@@ -11505,6 +11671,24 @@
     },
     {
       "album": {
+        "name": "MEGUANXIDEYO",
+        "url": "https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu"
+      },
+      "artists": [
+        {
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "MEGUANXIDEYO",
+      "url": "https://open.spotify.com/track/4RDEVasHPf6KH7yTCjpL47"
+    },
+    {
+      "album": {
         "name": "MEMORY b/w COUNTY LINES",
         "url": "https://open.spotify.com/album/3vdGdBTdwToZ7u3KAYgMyw"
       },
@@ -11827,6 +12011,24 @@
     },
     {
       "album": {
+        "name": "Modern Girl",
+        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223100,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
+    },
+    {
+      "album": {
         "name": "mona lisa",
         "url": "https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2"
       },
@@ -11878,10 +12080,28 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 234681,
       "name": "Moonlit Breakers (feat. Dijon)",
       "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
+    },
+    {
+      "album": {
+        "name": "Bloomingtale",
+        "url": "https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3"
+      },
+      "artists": [
+        {
+          "name": "Vira Talisa",
+          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208136,
+      "name": "More & More",
+      "url": "https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN"
     },
     {
       "album": {
@@ -15130,7 +15350,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 180933,
       "name": "Right Here, For Now",
       "url": "https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc"
@@ -16394,7 +16614,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 268659,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/6rjxyDTlJCGqo1XQ6vrq5R"
@@ -16488,7 +16708,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 222270,
       "name": "Skinky",
       "url": "https://open.spotify.com/track/1hZMv2JTkTW6yN5GPCW07r"
@@ -16943,6 +17163,24 @@
     },
     {
       "album": {
+        "name": "Sojourn",
+        "url": "https://open.spotify.com/album/3F8zTUdqovD6TNHlNsOPMg"
+      },
+      "artists": [
+        {
+          "name": "Dreane",
+          "url": "https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Sojourn",
+      "url": "https://open.spotify.com/track/1tN9qCwdEYsYmu3e4IypgE"
+    },
+    {
+      "album": {
         "name": "World Wide Pop",
         "url": "https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu"
       },
@@ -17064,7 +17302,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 515000,
       "name": "song for a lover - of long ago",
       "url": "https://open.spotify.com/track/5UBBWf20Vgdjp98VBS9sxs"
@@ -17980,6 +18218,24 @@
       "duration_ms": 174438,
       "name": "Sunflower - Slowed Down",
       "url": "https://open.spotify.com/track/47gwnqfpI6Om0OBLCgGptN"
+    },
+    {
+      "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/2i3jnMLFQZewasZEC3gVOB"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211406,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/5SmJPXHVK4G0oKOdn3D5LP"
     },
     {
       "album": {

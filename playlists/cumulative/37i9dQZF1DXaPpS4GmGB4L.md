@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-177 songs - 10 hr 10 min
+179 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Feels Good Doin' Bad](https://open.spotify.com/track/75eOGI76V6Su2U6Vn2Hzfl) | [Dylan Triplett](https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN) | [Feels Good Doin' Bad](https://open.spotify.com/album/3wz0nuy7TC0xGonaSM3yc9) | 3:30 | 2022-07-08 | 2022-11-19 |
 | [Find the Truth \(OurVinyl Sessions\)](https://open.spotify.com/track/6l7401iZemL0HxoIZollVi) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [The Sheepdogs \| OurVinyl Sessions](https://open.spotify.com/album/1ULvFLOv6RuLpR1xudAKf4) | 2:53 | 2023-08-18 |  |
 | [Flying High](https://open.spotify.com/track/79w4w08Q8Rn9uu9bPO3OFr) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Flying High](https://open.spotify.com/album/4JMqOQEwutakJ4kLg1eyt6) | 2:30 | 2023-01-06 |  |
-| [Fools for Love](https://open.spotify.com/track/65oJF7sCSUj1Bzlox3lRdU) | [Errol Linton](https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW) | [No Entry](https://open.spotify.com/album/54Q3cyvgB0PlWf3ML7v3rD) | 4:10 | 2023-09-15 |  |
+| [Fools for Love](https://open.spotify.com/track/65oJF7sCSUj1Bzlox3lRdU) | [Errol Linton](https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW) | [No Entry](https://open.spotify.com/album/54Q3cyvgB0PlWf3ML7v3rD) | 4:10 | 2023-09-15 | 2023-09-23 |
 | [Footprints on My Floor](https://open.spotify.com/track/0SxiUVY0WZpZxghvz2aV1j) | [Hillfolk Noir](https://open.spotify.com/artist/4alcboeaGrEX6CcqhSsyBb) | [Footprints on My Floor](https://open.spotify.com/album/7MBv0PMZFBn1t7YB84pG0X) | 3:41 | 2023-08-18 |  |
 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 | 2022-05-27 |  |
 | [From a Buick 6](https://open.spotify.com/track/1plmVWEUfEsgZz38Xpm7hP) | [The Wave Pictures](https://open.spotify.com/artist/4MOV18YgNAGUBCJi0MIrHw) | [French Cricket](https://open.spotify.com/album/0QxCkPJNB6e3oxjAENImTF) | 3:05 | 2022-11-17 | 2023-09-02 |
@@ -90,6 +90,7 @@
 | [Leavin Trunk](https://open.spotify.com/track/78dp9ik3tgXCVmbOoqo0YS) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG), [Brandon Santini](https://open.spotify.com/artist/2PiiA5Yu3FDwoy5Nlg3M1T) | [I'm Just Getting Started!](https://open.spotify.com/album/3PdVX86oO0mDnceN43LKPr) | 3:56 | 2022-11-17 |  |
 | [Let It Rock \(Live from Blueberry Hill\)](https://open.spotify.com/track/6tc69oV0eeSgoQvGAzP7a1) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Let It Rock \(Live from Blueberry Hill\)](https://open.spotify.com/album/5foGuU81PM8iNTwQBFlA9P) | 3:28 | 2021-12-20 |  |
 | [Let's Make It](https://open.spotify.com/track/3d4iDPWE0ED7wpW5KmS9dx) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 2:27 | 2023-08-18 |  |
+| [Little By Little](https://open.spotify.com/track/34I5QoAzFJT7xj9UAppXgr) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Just Won't Burn](https://open.spotify.com/album/7eJp2Lh2s3QUePA9Vgno6I) | 3:49 | 2023-09-22 |  |
 | [Lovesick Blues](https://open.spotify.com/track/6orPIRUBKPWsi7awg7UPTY) | [Annie Keating](https://open.spotify.com/artist/2xKlrRpBoX4Vgas5prEf1n) | [Lovesick Blues](https://open.spotify.com/album/0Fm9l5ccn4T7xYOiyx6Ul9) | 3:33 | 2022-10-10 |  |
 | [Madison Blues](https://open.spotify.com/track/6ZFqJbqlCmFCEKepLo97FX) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:22 | 2022-07-08 |  |
 | [Madison Blues](https://open.spotify.com/track/07d1bozzpuOLkG5EKTcYrt) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Slide Guitar Blues](https://open.spotify.com/album/6OpTLo3rOf4fS8GheHnuaX) | 2:26 | 2021-12-20 | 2022-07-29 |
@@ -102,6 +103,7 @@
 | [Midnight In Memphis](https://open.spotify.com/track/2OXDdCck0bMDIUCpaIMBJS) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Definitive Collection](https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA) | 4:23 | 2022-07-29 |  |
 | [Mighty Love](https://open.spotify.com/track/0uGMmiAC2eLxS8o7rQj6ga) | [The Mystix](https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ), [Jerry Portnoy](https://open.spotify.com/artist/6VJN1UE84B6UkKQw0t93BU) | [Mighty Love](https://open.spotify.com/album/7IeOJ8Oy6bgQFEn317r0Sy) | 3:47 | 2023-08-18 |  |
 | [Mind Keeps Changing](https://open.spotify.com/track/5LmnECs0CjogD3qLbMNUf9) | [William The Conqueror](https://open.spotify.com/artist/1r3usFuloWo113ldctoDnX) | [Proud Disturber of the Peace](https://open.spotify.com/album/2cIAXqoRWFfKAZxfR5ervI) | 3:41 | 2022-11-17 |  |
+| [Miss Annie Lou \- Live](https://open.spotify.com/track/6ym1xcoQquPca3o7T4nleN) | [Jimmy Burns](https://open.spotify.com/artist/1cNLK0nEKVatAjLDR4rGeq) | [Live In Copenhagen](https://open.spotify.com/album/2DuG2KigsmWijOTyGWJ3Sm) | 5:29 | 2023-09-22 |  |
 | [Mississippi Nights \- Live](https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Mississippi Nights \(Live\)](https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji) | 5:00 | 2022-02-04 |  |
 | [Mortgage on My Soul](https://open.spotify.com/track/1S7jAIIOqHj4qozrWitFgd) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Mortgage on My Soul](https://open.spotify.com/album/7sRLEMULCuwp1xYxHj5SFa) | 7:04 | 2022-10-04 |  |
 | [Move It On Over](https://open.spotify.com/track/7gfIbrRrOt4eAlQblTqB9O) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [The Baddest Of George Thorogood And The Destroyers](https://open.spotify.com/album/0hK7AoMOpRZrGL5bU1WIv2) | 4:18 | 2021-12-20 | 2022-07-29 |
@@ -151,7 +153,7 @@
 | [So Excited](https://open.spotify.com/track/3mrrWFfuesBi5fswdz1Xxf) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 5:34 | 2022-10-10 |  |
 | [So Long Savior](https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 2:39 | 2022-07-01 |  |
 | [Sounds Like The Road](https://open.spotify.com/track/3sMTG1l0htXEgzf7vaQEOY) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [TEN](https://open.spotify.com/album/7BOpTMhSI7AJl81BbePXcO) | 4:10 | 2022-04-08 |  |
-| [Statesboro Blues](https://open.spotify.com/track/0s1KrZNQlczWBv2B6iBFuQ) | [Sunjay](https://open.spotify.com/artist/3p62DWI8KdlfX4lNTMNXeu) | [Statesboro Blues](https://open.spotify.com/album/0k5k73GOmLNnVlEpsMklQU) | 3:59 | 2023-08-18 |  |
+| [Statesboro Blues](https://open.spotify.com/track/0s1KrZNQlczWBv2B6iBFuQ) | [Sunjay](https://open.spotify.com/artist/3p62DWI8KdlfX4lNTMNXeu) | [Statesboro Blues](https://open.spotify.com/album/0k5k73GOmLNnVlEpsMklQU) | 3:59 | 2023-08-18 | 2023-09-23 |
 | [Steppin' Out](https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0) | [James Bracken](https://open.spotify.com/artist/58fUt7QRp6wXTLz4MRTNaN), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 2:27 | 2021-12-20 |  |
 | [Stop Messin' Round](https://open.spotify.com/track/1sHmkDWe8U8SDqMZKfgTLO) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 3:37 | 2022-05-27 |  |
 | [Stormy Monday Blues \- Remastered 2022](https://open.spotify.com/track/0E5L3ZvZD3cGCesbYuAtnY) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 2:51 | 2023-08-18 |  |

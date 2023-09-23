@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,622 likes - 70 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,924 likes - 70 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 44 | [Wash Me Clean](https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Peace to All Who Enter Here](https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk) | 3:42 |
 | 45 | [prove it](https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [prove it](https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03) | 2:42 |
 | 46 | [Clouds](https://open.spotify.com/track/2AmHhr6CvjpvYqdXy02VgU) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [Clouds](https://open.spotify.com/album/2wka6tv9YcVMl9MCHhmFii) | 3:39 |
-| 47 | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB) | 5:55 |
-| 48 | [It's a Wonderful Life](https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [It's a Wonderful Life](https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz) | 4:09 |
+| 47 | [It's a Wonderful Life](https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [It's a Wonderful Life](https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz) | 4:09 |
+| 48 | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB) | 5:55 |
 | 49 | [Meet Me There](https://open.spotify.com/track/7js5yI5wAbDheUWCs1VFJy) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Lydia Laird](https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N) | 3:14 |
 | 50 | [Transparente](https://open.spotify.com/track/53OH88v4fyx4cqRlHE1Ezy) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Todos A La Mesa](https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9) | 5:05 |
 | 51 | [Shiloh](https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Shiloh](https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG) | 4:28 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 64 | [Quiet Talk](https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Quiet Talk](https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW) | 2:48 |
 | 65 | [Same God \- Acoustic](https://open.spotify.com/track/4Q4fzpczkjfZRdpt6P2gDW) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God \(Acoustic\)](https://open.spotify.com/album/2r1aM6zqJOqmFBiCiQQ2Lt) | 3:44 |
 | 66 | [Way Maker \- Acoustic](https://open.spotify.com/track/4mX7EwCwqR6iW2Wl5WzDxG) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Way Maker \(Acoustic\)](https://open.spotify.com/album/5KAHkPE1V2eFznIELyRYNX) | 4:13 |
-| 67 | [Holy Love](https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Holy Love](https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt) | 4:07 |
-| 68 | [Keep On Hoping \- Piano Choir Version](https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Keep On Hoping](https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo) | 3:27 |
+| 67 | [Keep On Hoping \- Piano Choir Version](https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Keep On Hoping](https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo) | 3:27 |
+| 68 | [Holy Love](https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Holy Love](https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt) | 4:07 |
 | 69 | [Kingdom of God](https://open.spotify.com/track/2jneHgyd1uUIfk7eVhqmDK) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Kingdom of God](https://open.spotify.com/album/6AjIsBDVmomaL3GeB3H7uJ) | 4:47 |
 | 70 | [Perfect Peace](https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Perfect Peace](https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv) | 4:20 |
 
-Snapshot ID: `MCxhNmI4ODhiNTQxMzNiN2I2ZDc2MjU2OGNjMjI0NGZjYjNlNjIzODYy`
+Snapshot ID: `MCw1MWIxNGRmZTdmNWVlZTU0OGI3MjAxOTdmYTRkOWUzOGU3OTYzMWVi`

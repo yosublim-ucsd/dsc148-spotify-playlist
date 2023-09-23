@@ -433,6 +433,28 @@
     },
     {
       "album": {
+        "name": "Aventador",
+        "url": "https://open.spotify.com/album/2oJmzxo3F84tztXqVBBGFH"
+      },
+      "artists": [
+        {
+          "name": "Tyan G",
+          "url": "https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C"
+        },
+        {
+          "name": "Galvancillo",
+          "url": "https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205973,
+      "name": "Aventador",
+      "url": "https://open.spotify.com/track/2SRCfCdP87iGCMaujggKMY"
+    },
+    {
+      "album": {
         "name": "Bajo Efecto Del Alcohol",
         "url": "https://open.spotify.com/album/6rtYoViAmt2WvS55wt1nop"
       },
@@ -666,7 +688,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 209898,
       "name": "Camioneta Alterada",
       "url": "https://open.spotify.com/track/0fvHIf04ujurWHXX7NLx5l"
@@ -782,6 +804,32 @@
       "duration_ms": 219826,
       "name": "Clave 7",
       "url": "https://open.spotify.com/track/29m95um0i0NThLbWA765Lg"
+    },
+    {
+      "album": {
+        "name": "CLN",
+        "url": "https://open.spotify.com/album/52Ij8fQl3EpG7mRgGENZQR"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "CLN",
+      "url": "https://open.spotify.com/track/10hlkW8KoA1yCfi5vCdfMj"
     },
     {
       "album": {
@@ -948,7 +996,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 218327,
       "name": "Desde Abajo",
       "url": "https://open.spotify.com/track/73zqylPsXYARg3tesE0Kfm"
@@ -966,7 +1014,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 146380,
       "name": "Desde Morro",
       "url": "https://open.spotify.com/track/4F0wyvl0ot7RrZ8P9IzMME"
@@ -1050,6 +1098,24 @@
       "duration_ms": 113019,
       "name": "Dijeron Que No La Iba Lograr",
       "url": "https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV"
+    },
+    {
+      "album": {
+        "name": "Dinero No Tenia (En Vivo)",
+        "url": "https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208107,
+      "name": "Dinero No Tenia - En Vivo",
+      "url": "https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9"
     },
     {
       "album": {
@@ -1238,7 +1304,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 217250,
       "name": "El Chili Willy",
       "url": "https://open.spotify.com/track/4TBinkhZWTRdjio4DCHtCm"
@@ -1546,7 +1612,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 195750,
       "name": "El Fendi",
       "url": "https://open.spotify.com/track/64ixe7UA8GJomJmkh1vJQY"
@@ -1576,6 +1642,24 @@
       "duration_ms": 175295,
       "name": "El Gavil\u00e1n",
       "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
+    },
+    {
+      "album": {
+        "name": "El Gerente",
+        "url": "https://open.spotify.com/album/4QVubyun1jCOQ1NIwBbrq4"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "El Gerente",
+      "url": "https://open.spotify.com/track/6FcdLIc4fWVBNUJNd9dIXA"
     },
     {
       "album": {
@@ -1758,10 +1842,32 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 180324,
       "name": "El Pelo Chino",
       "url": "https://open.spotify.com/track/5aEB9XqxVvaYZMtjVL9n9q"
+    },
+    {
+      "album": {
+        "name": "El Penguin (En Vivo)",
+        "url": "https://open.spotify.com/album/74GBuHy7bHIRAj6MEASkTY"
+      },
+      "artists": [
+        {
+          "name": "Jorge Morales El Jilguero",
+          "url": "https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "El Penguin - En Vivo",
+      "url": "https://open.spotify.com/track/5I691mKhtdPU1tDLnCRcY9"
     },
     {
       "album": {
@@ -1838,6 +1944,24 @@
       "duration_ms": 136375,
       "name": "El Toro de Jalisco",
       "url": "https://open.spotify.com/track/0k1wBT6Dy6gWHLgHZ7I3dG"
+    },
+    {
+      "album": {
+        "name": "El Toro Encartado - Spotify Singles",
+        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164245,
+      "name": "El Toro Encartado - Spotify Singles",
+      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
     },
     {
       "album": {
@@ -2268,7 +2392,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 164120,
       "name": "Hay Les Encargo",
       "url": "https://open.spotify.com/track/1gzdMA1R9iyYCHnv3Leo8E"
@@ -2461,6 +2585,28 @@
     },
     {
       "album": {
+        "name": "LA 701",
+        "url": "https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164482,
+      "name": "LA 701",
+      "url": "https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO"
+    },
+    {
+      "album": {
         "name": "La Bicicleta",
         "url": "https://open.spotify.com/album/10B51Bzh7TxUcm3t08GpQ1"
       },
@@ -2556,7 +2702,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 182944,
       "name": "La Muerte Me Llama - Con Banda",
       "url": "https://open.spotify.com/track/2BbCrLfI8UnxOdJOntKc7j"
@@ -2578,10 +2724,32 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 227454,
       "name": "La Noche Empieza",
       "url": "https://open.spotify.com/track/28wWPHEn63HCXDMqiCiLyX"
+    },
+    {
+      "album": {
+        "name": "La Pelinegra",
+        "url": "https://open.spotify.com/album/2YwIrnPUIEDYtFgp99HNNO"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155560,
+      "name": "La Pelinegra",
+      "url": "https://open.spotify.com/track/5bWomDwuyuF5pfnBZtYNP0"
     },
     {
       "album": {
@@ -3101,6 +3269,28 @@
     },
     {
       "album": {
+        "name": "Mood Malandro",
+        "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191558,
+      "name": "Mood Malandro",
+      "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
+    },
+    {
+      "album": {
         "name": "Moreno 80 (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/5StKBBdChEqEpYAJlsl5lO"
       },
@@ -3270,7 +3460,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 218831,
       "name": "Pa Los Que Hoy",
       "url": "https://open.spotify.com/track/34zDAp4dTbCIt59a3Q4QBt"
@@ -3464,6 +3654,24 @@
       "duration_ms": 153693,
       "name": "Pueblo Querido",
       "url": "https://open.spotify.com/track/6ufRv4b8t82pr1bIsA3ob5"
+    },
+    {
+      "album": {
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158918,
+      "name": "Punto y Aparte",
+      "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
     },
     {
       "album": {
@@ -4442,7 +4650,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 180000,
       "name": "Vida Rencorosa",
       "url": "https://open.spotify.com/track/5KhsR58yXGWcLkAfCTzLZE"
@@ -4464,6 +4672,32 @@
       "duration_ms": 177225,
       "name": "Vieran Que Agusto",
       "url": "https://open.spotify.com/track/0lx0NFxS6g9UKNJQwr4EDW"
+    },
+    {
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162676,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"
     },
     {
       "album": {

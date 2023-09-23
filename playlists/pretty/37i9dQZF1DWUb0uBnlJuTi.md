@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,991 likes - 200 songs - 15 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,213 likes - 200 songs - 15 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [So Cold](https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT) | 4:12 |
 | 200 | [Afrodesia](https://open.spotify.com/track/2h10K0zxg9tgIoSWbPNRUS) | [Dr\. Lonnie Smith](https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Afrodesia](https://open.spotify.com/album/3vcrRL21IUz8T6ftBQwIN9) | 9:23 |
 
-Snapshot ID: `MCw5NTI1YWM0Y2FhMzU4ZDU4NTc5ZmExNDg4MTM3NDdjZWU3NTEwNGUy`
+Snapshot ID: `MCxlYzA2YWYwNTA5NjAyODM1ZTZkYjc2MTYwODMxN2Y2YzI4NzI1OTVi`

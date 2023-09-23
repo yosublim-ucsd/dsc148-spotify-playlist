@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-422 songs - 1 day 1 hr 9 min
+423 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Hôtel W](https://open.spotify.com/track/1m4j2CTdFInGzB9LhUx3ST) | [Tina\-Ève](https://open.spotify.com/artist/5Qx0enclC0G69AWx3CUIq8) | [Hôtel W](https://open.spotify.com/album/2OHrWg2fgiBqDTbpi97yYD) | 3:08 | 2021-01-03\* | 2021-01-27 |
 | [If Life Were a Movie](https://open.spotify.com/track/1NbVr5Rjhr1cFRGaYTNhGw) | [Hanorah](https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo) | [If Life Were a Movie](https://open.spotify.com/album/6HZMfM4tBRQz93HsRouDti) | 2:15 | 2022-07-08 | 2022-07-25 |
 | [Incandescente](https://open.spotify.com/track/1pnL2LoyZmKtxsWjsfRlHN) | [Lonny](https://open.spotify.com/artist/4tqlnth2QyipMf30eETFcL) | [Incandescente](https://open.spotify.com/album/5QEaxcY9qsIq1E4Rp8fc8F) | 2:17 | 2021-01-03\* | 2021-05-03 |
-| [Insensible](https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc) | 3:27 | 2022-07-08 |  |
+| [Insensible](https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc) | 3:27 | 2022-07-08 | 2023-09-23 |
 | [Insensible](https://open.spotify.com/track/2DrmNQXCBchAPlraQe6szZ) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Insensible](https://open.spotify.com/album/6QNrE7t6uU8QqlVpNaduIH) | 3:27 | 2021-01-03\* | 2022-07-29 |
 | [Invisible](https://open.spotify.com/track/6dstnzUD4KT1IJeHQI6PK7) | [Pilou](https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c) | [La vraie nature \- Chansons par Pilou](https://open.spotify.com/album/5QwW6pRRmXneSFUjDFFkDt) | 3:43 | 2021-01-15 | 2022-07-24 |
 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 | 2023-06-22 |  |
@@ -204,7 +204,7 @@
 | [Lac miroir](https://open.spotify.com/track/6cMjdLFH2xlLi6Yya62FzM) | [Joli\-Bois](https://open.spotify.com/artist/1hYaIQ0aeDjFM7nDP6hxcl) | [Lac miroir](https://open.spotify.com/album/2voRn55rWwSBUOOBv5zb2a) | 3:55 | 2021-01-03\* | 2021-01-23 |
 | [Laisse tomber](https://open.spotify.com/track/708gV8gsUkKJh6YeNubcZR) | [Cédric Vieno](https://open.spotify.com/artist/3BlVrNmJQj2ZfgFYDs3iNv) | [Maltempête](https://open.spotify.com/album/07L0z3wBeykMe72aSurnci) | 3:09 | 2021-01-03\* | 2021-05-07 |
 | [Laissez\-Moi](https://open.spotify.com/track/7KEPFYAiLCen71RTOMUzup) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Rosier](https://open.spotify.com/album/0vQeuOk0tohIHflikV8jWg) | 3:35 | 2021-01-03\* | 2022-07-26 |
-| [Le bois](https://open.spotify.com/track/48rln9BcoGPT5WlLzns2FP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Le bois](https://open.spotify.com/album/485Zc5MM4peA0rQQzLCAiC) | 2:59 | 2022-11-11 | 2022-12-30 |
+| [Le bois](https://open.spotify.com/track/48rln9BcoGPT5WlLzns2FP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Le bois](https://open.spotify.com/album/485Zc5MM4peA0rQQzLCAiC) | 2:59 | 2022-11-11 |  |
 | [Le coeur est sans appel](https://open.spotify.com/track/7ihpGFLkznBBwML4MxOfrl) | [Noé Talbot](https://open.spotify.com/artist/5NlqN0zhm9dM0WgtvKvsKU) | [Remercier les accidents](https://open.spotify.com/album/3V66hVSBgfMtfGWNSqzBVZ) | 3:01 | 2021-05-23 | 2021-08-21 |
 | [Le jardin se meurt](https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le jardin se meurt](https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8) | 5:47 | 2021-03-20 | 2022-09-24 |
 | [Le jour](https://open.spotify.com/track/2FCGlkyYXNxnoPhio8eNfL) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Sitka](https://open.spotify.com/album/6xfRooWnbdEwXfD3dAU3dK) | 3:34 | 2021-01-29 | 2022-02-12 |
@@ -255,6 +255,7 @@
 | [Ma tronche](https://open.spotify.com/track/1rGI6HAegFJntpek5ssm2b) | [Sébastien Lafleur](https://open.spotify.com/artist/11LGwSo80r2I7W6rZbUrCc) | [Ma tronche](https://open.spotify.com/album/4mzr25KT55EDlQBKeGK6BH) | 3:11 | 2021-01-18 | 2021-05-08 |
 | [Madeleine](https://open.spotify.com/track/7DQ2KNEBrVb9W2QosU8GbL) | [Chloé Lacasse](https://open.spotify.com/artist/1HVLJVmE9Pc1XPZ3P5sZbz) | [Madeleine](https://open.spotify.com/album/4Y5VwNTQ6Ww4FK88DpvihT) | 3:56 | 2021-09-17 | 2022-07-27 |
 | [Madonna](https://open.spotify.com/track/514VtijAeGzvPlYsFXHXfp) | [Alexandre Poulin](https://open.spotify.com/artist/5ILOB9Q4xiPUxzo2tYwxQy) | [Nature humaine](https://open.spotify.com/album/4GPbEoHBBF343EOjfojUaM) | 4:06 | 2021-01-03\* | 2021-10-20 |
+| [main l’oiseau](https://open.spotify.com/track/1b00k9gcQ9SxLK0aLXlUpa) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [ET SI, DE/main l'oiseau](https://open.spotify.com/album/4NJy1ueaJ0uqJwNDsycSVa) | 3:26 | 2023-09-22 |  |
 | [Maison ouverte](https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD) | 3:59 | 2022-07-08 |  |
 | [Maison ouverte](https://open.spotify.com/track/70IzGRRdLL511jD0GaK2hr) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/7IKvXTDryqlnDBAV1vWaif) | 3:59 | 2021-01-15 | 2022-07-29 |
 | [Mardi de pluie](https://open.spotify.com/track/60EuBCizMRhgud2wplAFCT) | [Véronique Bilodeau](https://open.spotify.com/artist/37VHbBeOGoDDc1MbHPiDPM) | [Mardi de pluie](https://open.spotify.com/album/1eYjA8gbd6h2CsMnYNPNwc) | 3:53 | 2021-01-03\* | 2021-10-08 |
@@ -298,7 +299,7 @@
 | [Ojalá](https://open.spotify.com/track/7vWo3iSvgtpFtuSZeUAK7a) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Ojalá](https://open.spotify.com/album/2imTMz6pOueudBTtYwfjVv) | 5:15 | 2023-07-14 | 2023-08-28 |
 | [Old Love](https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Old Love](https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg) | 3:25 | 2021-10-03 |  |
 | [On brûlera \- Session live montréalaise](https://open.spotify.com/track/4wSRWH4P7tp6bRXxWRA3Rs) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [À peu près \(Deluxe\)](https://open.spotify.com/album/7BZrBzCAehFjU6mP3JCnmc) | 3:49 | 2021-10-04 | 2022-02-08 |
-| [On brûlera \- Spotify Singles](https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Spotify Singles](https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp) | 3:28 | 2022-08-22 |  |
+| [On brûlera \- Spotify Singles](https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Spotify Singles](https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp) | 3:28 | 2022-08-22 | 2023-09-23 |
 | [On lui doit notre sang](https://open.spotify.com/track/0exEszTvulIT0w8W5sSdoC) | [Manahel](https://open.spotify.com/artist/202NYrsgt4o5JUJIVGpKCI) | [On lui doit notre sang](https://open.spotify.com/album/2tuQ4V6oMvfxuAanXSOliP) | 2:26 | 2021-01-03\* | 2021-01-15 |
 | [Ovni \(C\-132\)](https://open.spotify.com/track/6ATlxhYNWlz0nAUJoeoyry) | [Matt Boudreau](https://open.spotify.com/artist/6r5xvxemxhGGIjDOqmO4wV) | [Ovni \(C\-132\)](https://open.spotify.com/album/40SV2LYDGopKziBbqHPljR) | 3:13 | 2022-01-28 | 2022-07-29 |
 | [Où va ce chagrin](https://open.spotify.com/track/3hylbaK7bxwEvlrH9eUIZG) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Airs païens](https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD) | 3:34 | 2021-03-14 | 2021-11-13 |

@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-141 songs - 7 hr 26 min
+142 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Impulser](https://open.spotify.com/track/6gdtCejkpEErLHR45XmaGj) | [Maja Balder](https://open.spotify.com/artist/2HxNtfNbAA1Pxjx9BHu1GB) | [Impulser](https://open.spotify.com/album/1Xg3GRD8PQLbxO6d5BjIjm) | 3:28 | 2022-05-25 |  |
 | [Infinity](https://open.spotify.com/track/6qUR6VDQU5uuEJSC7Eb43B) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Infinity](https://open.spotify.com/album/4QUjVEksjTc8yFquXuoBxx) | 2:40 | 2022-05-25 |  |
 | [Intergalactic \(Spa\)](https://open.spotify.com/track/2giq3439DHbvlrDWx9pjB1) | [Yuio Zah](https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf) | [Intergalactic](https://open.spotify.com/album/2KnSiN6Iqp0CIdsMHu9L4P) | 3:02 | 2023-04-21 |  |
-| [Iris Sibirica](https://open.spotify.com/track/6iAD5cUkCz3ZtGleOzBlpt) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Temple](https://open.spotify.com/album/5RdoZoL6lrg7raFOTCaPGV) | 3:42 | 2022-05-25 |  |
+| [Iris Sibirica](https://open.spotify.com/track/6iAD5cUkCz3ZtGleOzBlpt) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Temple](https://open.spotify.com/album/5RdoZoL6lrg7raFOTCaPGV) | 3:42 | 2022-05-25 | 2023-09-23 |
 | [Journey](https://open.spotify.com/track/5J9uQJFBl1B9rs2NFSR8ng) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Journey](https://open.spotify.com/album/1cg1vzA5QVFBQ73giNEBLZ) | 2:31 | 2022-05-25 |  |
 | [Kokyu](https://open.spotify.com/track/4eVodNiAOrJr4fmTxQ3PDK) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Kokyu](https://open.spotify.com/album/3YVRQ3pYpeyTqZlkQ9g8hZ) | 4:06 | 2022-10-21 |  |
 | [Leaving](https://open.spotify.com/track/1tssW7uMtvpgjdD4bEO5kW) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [O B E](https://open.spotify.com/album/5kTgZfxe4yXefwI9Q9Tby5) | 3:58 | 2022-05-25 |  |
@@ -145,6 +145,7 @@
 | [Vila](https://open.spotify.com/track/2M78TKNx5DGgXKfCPTHIXK) | [Johanna Frid](https://open.spotify.com/artist/7wik4zcVVjCv1eOp5yOSYW) | [Vila](https://open.spotify.com/album/2OraxQTVImlSvRdxIhgR84) | 3:20 | 2022-05-25 |  |
 | [Walk Together](https://open.spotify.com/track/1V6ltUYwBd2UWfpNIDmsSr) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Walk Together](https://open.spotify.com/album/3T3ZgFryD5O4f4lis8rXjl) | 3:50 | 2022-05-25 |  |
 | [Watercolor](https://open.spotify.com/track/4WTmQdOSpj9rfBqYY2hryC) | [Portrait of Nature](https://open.spotify.com/artist/5OQ80Fm55v0aCjLF7hXOwj) | [Natural Life](https://open.spotify.com/album/2dWhwh8lM31AKfywr2uDcA) | 4:07 | 2022-05-25 |  |
+| [Wayanad](https://open.spotify.com/track/5KzU3RczgJSImkXul9s3hm) | [Özone One](https://open.spotify.com/artist/4OCpAOPZviS8AW5gyBNn26) | [Wayanad](https://open.spotify.com/album/1QeAo6C6W5TPwj7cPqFbQn) | 3:01 | 2023-09-22 |  |
 | [When You Wake](https://open.spotify.com/track/3M3PlHLEh03hmKqHdUkEu0) | [Keith Karman](https://open.spotify.com/artist/4Sd1fs64MmHbLrTdHnefWw) | [Daydream Transition](https://open.spotify.com/album/7ku5mY04A15wBDVNCafeUM) | 3:20 | 2022-05-25 |  |
 | [Wonders](https://open.spotify.com/track/2eHY7xc078L6GYq6aZUJnD) | [Everbalance](https://open.spotify.com/artist/3I1Euc5DO5ArephIVPgzXZ) | [Ultra Lights](https://open.spotify.com/album/24KB1iV6cuAUy6hE8Vl4aC) | 3:17 | 2022-05-25 |  |
 | [Yaamava \(Sleep\)](https://open.spotify.com/track/4uSM1hKP4jNpXubeThboSi) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Yaamava](https://open.spotify.com/album/7r7mcb9kEAiPxcNftW8uNb) | 3:11 | 2022-05-25 |  |

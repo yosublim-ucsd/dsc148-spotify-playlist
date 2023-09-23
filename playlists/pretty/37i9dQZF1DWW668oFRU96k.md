@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Lloyiso
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,744 likes - 77 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,791 likes - 77 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 13 | [Wild](https://open.spotify.com/track/5p9MGxhGJbSeqeZzWPM4Zx) | [Crime Zcene](https://open.spotify.com/artist/63Uotocmp2cieAZLI0Y4wv) | [Wild](https://open.spotify.com/album/0Ha7h6xzWHa8CktSJXNZG2) | 2:33 |
 | 14 | [More Than A Dream](https://open.spotify.com/track/1GxAXLhyOFsmxYtDiG7U3w) | [Matt Leger](https://open.spotify.com/artist/3wxxQcTnuIZrDDtP8admGi), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [More Than A Dream](https://open.spotify.com/album/4V9UERwQdVCk9LTxHswC3F) | 3:30 |
 | 15 | [Your Love](https://open.spotify.com/track/5jNbxkv1A74xQgsFgl46Nl) | [Edmondsski](https://open.spotify.com/artist/20IbhrhIDkUiCP3GfT61FZ), [A17N](https://open.spotify.com/artist/0NBnxtO7THIQ1yZKiO4y3j) | [Your Love](https://open.spotify.com/album/7JSL5BGUc0Lf9I8MogUpwg) | 2:17 |
-| 16 | [Ready To Play](https://open.spotify.com/track/43DpNjZJpnDCX7iVev2kDE) | [MANSA](https://open.spotify.com/artist/6i2ssO4LVLEFlyn2EMLmKF) | [Ready To Play](https://open.spotify.com/album/5wMoyt0lCRmld4arXXD22B) | 3:07 |
+| 16 | [Ready To Play](https://open.spotify.com/track/43DpNjZJpnDCX7iVev2kDE) | [MANSA](https://open.spotify.com/artist/6i2ssO4LVLEFlyn2EMLmKF), [NEEN](https://open.spotify.com/artist/0t6gG1rJF7LJvwNDQlnqRI) | [Ready To Play](https://open.spotify.com/album/5wMoyt0lCRmld4arXXD22B) | 3:07 |
 | 17 | [Rude Boy](https://open.spotify.com/track/1WlpK6hLHUNhuMFwnTISqi) | [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [USAI](https://open.spotify.com/artist/2URl3RyFpTbuZSa8AhZLGt) | [Rude Boy](https://open.spotify.com/album/50g7h0uVDn1StQRebq1pZl) | 2:31 |
 | 18 | [Seven \(feat\. Latto\) \(Alesso Remix\)](https://open.spotify.com/track/748MqeDRJ401KBqwCn5zHB) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Seven \(feat\. Latto\) \(Alesso Remix\)](https://open.spotify.com/album/3nDzRDgvd0SxAxRHEefwDb) | 2:42 |
 | 19 | [Ready To Love](https://open.spotify.com/track/6RTM82pEYPtRegOTMGz1Ss) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Ready To Love](https://open.spotify.com/album/2OgjdtV1Yx8avKj30CvPpy) | 2:25 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 76 | [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 |
 | 77 | [Parasite](https://open.spotify.com/track/4zEXOewY4f3ITJd43MZ76u) | [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY) | [Eva Celia](https://open.spotify.com/album/5ytIY5JSaLVxOwYWaY7xYx) | 3:20 |
 
-Snapshot ID: `MCw4ZDg3NDllNTk0MjQxOWVkMDJiMDI5ZjJiNGMzNzA5NmY3NzIwYjk0`
+Snapshot ID: `MCxlM2ZjZDkzMTAxNTI0YTMyNWFmZjQ2MjcyZjZjODFkYWNhYWNlZDM1`

@@ -2931,6 +2931,24 @@
     },
     {
       "album": {
+        "name": "A Love Supreme",
+        "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210106,
+      "name": "I Want to Be Closer to You",
+      "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
+    },
+    {
+      "album": {
         "name": "I will bear my grief. Thank you.",
         "url": "https://open.spotify.com/album/3d5sQWZYfybvm2AF0ejVL2"
       },
@@ -4758,7 +4776,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 282853,
       "name": "Ode To The Stars",
       "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"

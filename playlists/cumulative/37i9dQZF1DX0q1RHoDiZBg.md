@@ -4,7 +4,7 @@
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-133 songs - 10 hr 14 min
+134 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Baby, I'm In The Mood For You](https://open.spotify.com/track/50ZHlDg707OUDn61nba1gy) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Odetta Sings Dylan](https://open.spotify.com/album/2laIs6Ws4MhFazcJpFgZ34) | 2:48 | 2018-08-02 |  |
 | [Ballad of a Thin Man](https://open.spotify.com/track/0ortdMKRx1w2c9IBnxKxH2) | [Stephen Malkmus](https://open.spotify.com/artist/0WISkx0PwT6lYWdPqKUJY8), [The Million Dollar Bashers](https://open.spotify.com/artist/2wdvUIaVFlQTfdUb7yN7kl) | [I'm Not There \(Music From The Motion Picture \- Original Soundtrack\)](https://open.spotify.com/album/5cFprh5OBIF7G9kXRSBsr3) | 6:49 | 2018-08-02 |  |
 | [Ballad of a Thin Man](https://open.spotify.com/track/24PBFl3YtSkU2QeQ9z0Ys8) | [Stephen Malkmus](https://open.spotify.com/artist/0WISkx0PwT6lYWdPqKUJY8), [The Million Dollar Bashers](https://open.spotify.com/artist/2wdvUIaVFlQTfdUb7yN7kl) | [I'm Not There \(Music From The Motion Picture\)](https://open.spotify.com/album/6ZSp2CcRWdyTm50DbI9MAX) | 6:49 | 2018-08-02 | 2022-07-29 |
+| [Ballad Of A Thin Man \- Live at the Royal Albert Hall](https://open.spotify.com/track/6e4MDGtYT35IlplGMmBvep) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [She Belongs To Me / Ballad Of A Thin Man](https://open.spotify.com/album/1eIYNL1JRQXlIum8rNQFNT) | 6:11 | 2023-09-22 |  |
 | [Blowin' in the Wind \- 2004 Remaster](https://open.spotify.com/track/0XIe81wYNtdvIttRAUEau4) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 2:56 | 2018-08-02 |  |
 | [Boots Of Spanish Leather](https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Boots Of Spanish Leather](https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT) | 4:42 | 2018-08-02 |  |
 | [Buckets Of Rain](https://open.spotify.com/track/25SaaQh3t8GNLdsOZpTbZP) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Live From Austin TX](https://open.spotify.com/album/1woYdJYYs9ZaCT8VyMVcdk) | 2:48 | 2018-08-02 | 2022-07-29 |

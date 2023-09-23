@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,634 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,722 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 18 | [Market Day](https://open.spotify.com/track/4hlI8fEybTdT0ADaGltnuF) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [A Swingin' Safari \(Remastered\)](https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5) | 2:30 |
 | 19 | [Alone Together](https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Music For Lovers Only](https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs) | 3:05 |
 | 20 | [Cycles](https://open.spotify.com/track/2ODXYxVCuRtoM2F2094y6h) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [A Warm Shade of Ivory](https://open.spotify.com/album/1IsqBLmLMj3DmSQFqRzDa8) | 3:05 |
-| 21 | [Violins in the Night](https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ) | [The Melachrino Strings and Orchestra](https://open.spotify.com/artist/4h434Npi0e7fooQBbS3ZuV) | [You and the Night and the Music](https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef) | 2:49 |
-| 22 | [Tennessee Waltz \(with Boston Pops Orchestra\)](https://open.spotify.com/track/5SzsffG2AkYrjgcmUrVfxX) | [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [The Pops Goes Country \(with Boston Pops Orchestra\)](https://open.spotify.com/album/0mmCf5GOA5jCuduhZmh0iq) | 2:43 |
+| 21 | [Tennessee Waltz \(with Boston Pops Orchestra\)](https://open.spotify.com/track/5SzsffG2AkYrjgcmUrVfxX) | [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [The Pops Goes Country \(with Boston Pops Orchestra\)](https://open.spotify.com/album/0mmCf5GOA5jCuduhZmh0iq) | 2:43 |
+| 22 | [Violins in the Night](https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ) | [The Melachrino Strings and Orchestra](https://open.spotify.com/artist/4h434Npi0e7fooQBbS3ZuV) | [You and the Night and the Music](https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef) | 2:49 |
 | 23 | [Fools Rush In \(Where Angels Fear to Tread\)](https://open.spotify.com/track/4WYZuhsa8idA4kPDPsNY6B) | [Manuel & The Music Of The Mountains](https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3) | [The Magic Of Manuel](https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42) | 3:08 |
-| 24 | [Early Evening](https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Concert In Rhythm](https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1) | 2:30 |
-| 25 | [Ebb Tide](https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL) | [Robert Maxwell](https://open.spotify.com/artist/61nzGtKcJqf1IpkvIOjAyB), [Carl Sigman](https://open.spotify.com/artist/5ZbBu38Ltmu0G9xsRUKmZ2), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Beyond The Sea](https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ) | 3:37 |
+| 24 | [Ebb Tide](https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL) | [Robert Maxwell](https://open.spotify.com/artist/61nzGtKcJqf1IpkvIOjAyB), [Carl Sigman](https://open.spotify.com/artist/5ZbBu38Ltmu0G9xsRUKmZ2), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Beyond The Sea](https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ) | 3:37 |
+| 25 | [Early Evening](https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Concert In Rhythm](https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1) | 2:30 |
 | 26 | [Moon over Miami](https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [American Serenade](https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0) | 4:04 |
 | 27 | [Danke Schoen](https://open.spotify.com/track/6CBGOKLkewXVfQQEiV0xZY) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Let's Go Bowling \(Remastered\)](https://open.spotify.com/album/1PMG61oCm4gzNPMYlqPRVq) | 2:42 |
 | 28 | [Once In A While](https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Music, Martinis And Memories](https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA) | 3:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 69 | [Lover Come Back to Me](https://open.spotify.com/track/0DeL2IndLfKP2JSb33ZBgc) | [Mantovani](https://open.spotify.com/artist/4l2d1CRNjXgG4RBoA89Kle) | [All\-American Showcase](https://open.spotify.com/album/4H7ItBRkwoMNc3n7XBp75Q) | 3:17 |
 | 70 | [Melancholy Serenade](https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [And Awaaay We Go! \(Expanded Edition\)](https://open.spotify.com/album/3K0zalfzD0tX4s2t4fT6EP) | 3:16 |
 
-Snapshot ID: `MCxiY2QxMzA5MTFlZTgxNWJmNjc2YjE1MDkwNDkxNGMxOWQ1OTk1NTlh`
+Snapshot ID: `MCxjNTAwZjA4NTAzNjYzZjIyMmQ5NzhkODQzNzEzY2I3ZTkzMDdkM2E1`

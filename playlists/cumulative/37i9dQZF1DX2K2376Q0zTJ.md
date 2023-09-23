@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー: AI
 
-963 songs - 2 day 9 hr 7 min
+964 songs - 2 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,7 +567,8 @@
 | [Straw](https://open.spotify.com/track/6PDfGfud0mJtpBbCmL7aBu) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Shimetta Natsu no Hajimari](https://open.spotify.com/album/6vpsmEKP8UPBJW8uzdY06r) | 4:54 | 2023-06-06 | 2023-07-05 |
 | [Strobolights](https://open.spotify.com/track/1vjLAMjdbFQszoN6Ojagtc) | [Supercar](https://open.spotify.com/artist/4g59G9OEAMkD8pd8oiEqx0) | [Strobolights](https://open.spotify.com/album/1iFdO4bZdHam850kH5N84g) | 3:25 | 2022-01-04 | 2022-02-02 |
 | [strong zero gravity](https://open.spotify.com/track/701I1Uyx6gLciKwRfuhSJR) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [strong zero gravity](https://open.spotify.com/album/7dv9fz7OJTyH5UpwvIkzLy) | 4:13 | 2023-02-01 | 2023-05-03 |
-| [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/track/4KPJNptJJe00Jy3YBMXqe4) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/album/4YDaCT2bUZtIEaXhjAM100) | 3:14 | 2023-09-05 |  |
+| [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/track/4KPJNptJJe00Jy3YBMXqe4) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/album/4YDaCT2bUZtIEaXhjAM100) | 3:14 | 2023-09-05 | 2023-09-23 |
+| [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/track/5AVYMvMEZ0kFbuskjxTrsP) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [Neo Standard](https://open.spotify.com/album/6vXMlkcOS97nxv48Kl76MV) | 3:17 | 2023-09-05 |  |
 | [Stupid, Careless, Dumb](https://open.spotify.com/track/4mUDOrgzVx133cTKWPHIPH) | [AKINA](https://open.spotify.com/artist/2TZ7ekdDqO8AaRC6YTsTcC) | [Stupid, Careless, Dumb](https://open.spotify.com/album/64h1zK4KpDtkORonCdanhC) | 3:53 | 2021-11-30 | 2022-01-05 |
 | [Sugar Junky](https://open.spotify.com/track/6fMnx6sbjk9saMZGlSevrz) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Castle in Madness](https://open.spotify.com/album/614jKHpWcmW6XcpU2OXRLc) | 2:05 | 2022-09-06 | 2022-10-05 |
 | [Sugarless GiRL](https://open.spotify.com/track/3rsVKybQhaA7yum4VfkwHx) | [CAPSULE](https://open.spotify.com/artist/61KJdJU38zrAW4c3PI9C9N) | [Sugarless GiRL](https://open.spotify.com/album/7MavWIVgSqJiIVoMAFOsXQ) | 4:09 | 2022-05-31 | 2022-07-06 |

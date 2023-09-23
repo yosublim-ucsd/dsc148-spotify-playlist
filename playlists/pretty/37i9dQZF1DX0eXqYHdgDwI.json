@@ -1,12 +1,12 @@
 {
   "description": "canzoni su cui piangere \ud83e\udd40",
-  "num_followers": 105888,
+  "num_followers": 105966,
   "original_name": "Canzoni Tristi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTJjODgzZTlkYmEzYTUyZDYyOTlhNTE1NDczODU4YjZlODhjYzkw",
+  "snapshot_id": "MCxlODAxODNhZDhiN2JiMjVjOGE5MDBkNGMyMzdhMzI3YjQyZDQ4ZGU0",
   "tracks": [
     {
       "added_at": "2023-08-18 08:27:31",
@@ -347,22 +347,18 @@
     {
       "added_at": "2023-08-18 08:27:31",
       "album": {
-        "name": "Get You The Moon (feat. Sn\u00f8w)",
-        "url": "https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8"
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
       "artists": [
         {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Sn\u00f8w",
-          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 179080,
-      "name": "Get You The Moon (feat. Sn\u00f8w)",
-      "url": "https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa"
+      "duration_ms": 196493,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/5qrSlOut2rNAWv3ubArkNy"
     },
     {
       "added_at": "2023-08-18 08:27:31",
@@ -383,18 +379,22 @@
     {
       "added_at": "2023-08-18 08:27:31",
       "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+        "name": "Get You The Moon (feat. Sn\u00f8w)",
+        "url": "https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Sn\u00f8w",
+          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
         }
       ],
-      "duration_ms": 196493,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/5qrSlOut2rNAWv3ubArkNy"
+      "duration_ms": 179080,
+      "name": "Get You The Moon (feat. Sn\u00f8w)",
+      "url": "https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa"
     },
     {
       "added_at": "2023-08-18 08:27:31",

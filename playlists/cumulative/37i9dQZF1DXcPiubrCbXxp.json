@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "60\u2019s Baby.",
+        "url": "https://open.spotify.com/album/513yH6wNINqUE0fZ3UY0DM"
+      },
+      "artists": [
+        {
+          "name": "Kidsnot$aints.",
+          "url": "https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143589,
+      "name": "60\u2019s Baby.",
+      "url": "https://open.spotify.com/track/20nGJqajPlRtPX31ddRxR1"
+    },
+    {
+      "album": {
         "name": "Cigarettes After Sex",
         "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
       },
@@ -106,7 +124,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 281247,
       "name": "Baby - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3pLtWj9iW6HT2TWAPcMZhg"
@@ -124,7 +142,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 152613,
       "name": "Baby I'm Yours",
       "url": "https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL"
@@ -412,7 +430,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 57370,
       "name": "From the Subway Train",
       "url": "https://open.spotify.com/track/0qOCy2LqvdkMora7eZsJhQ"
@@ -679,6 +697,28 @@
     },
     {
       "album": {
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239308,
+      "name": "No One Knows (with Laufey)",
+      "url": "https://open.spotify.com/track/2ZQ6YMcGxwyvAfV6dl8hkB"
+    },
+    {
+      "album": {
         "name": "Old Movies",
         "url": "https://open.spotify.com/album/2PkOrJql49WiBYdmnVxsiI"
       },
@@ -730,6 +770,24 @@
       "duration_ms": 235832,
       "name": "Pendant",
       "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
+    },
+    {
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187130,
+      "name": "Picture You",
+      "url": "https://open.spotify.com/track/2Pspo5BWPcTnMHMstLFRHV"
     },
     {
       "album": {
@@ -950,7 +1008,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 168906,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"

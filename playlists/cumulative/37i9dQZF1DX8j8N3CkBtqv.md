@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover\- Utsavi Jha
 
-231 songs - 12 hr 52 min
+232 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Pyaar Hai Tujhse](https://open.spotify.com/track/4AE5zWQU2e8lDo3FiL5Kcg) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo) | [Pyaar Hai Tujhse](https://open.spotify.com/album/5u2pTQiNE91Rao9kMFAsY9) | 2:06 | 2023-08-25 |  |
 | [Qareeb](https://open.spotify.com/track/4x8yhZPbOuqJ2PLg4QmrL0) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [Shayan Rashid](https://open.spotify.com/artist/1ikVRNcb5keuzlwiP8mJbb) | [Qareeb](https://open.spotify.com/album/6mcoV5gev8Ol1wHu6mDO1o) | 2:30 | 2023-08-10 | 2023-09-16 |
 | [Qissa](https://open.spotify.com/track/0It2E7X6pVAGBUllqfsjbp) | [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Qissa](https://open.spotify.com/album/0xMq75IL6dwy0eDgUNRlR6) | 2:05 | 2023-08-10 | 2023-09-16 |
-| [Quiet Storm](https://open.spotify.com/track/4kxWObbqqWeazNTK5ESCxg) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Sidharth](https://open.spotify.com/album/5sLDE06hTPUsBajUxNN8tM) | 5:40 | 2023-08-25 |  |
+| [Quiet Storm](https://open.spotify.com/track/4kxWObbqqWeazNTK5ESCxg) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Sidharth](https://open.spotify.com/album/5sLDE06hTPUsBajUxNN8tM) | 5:40 | 2023-08-25 | 2023-09-23 |
 | [Raah](https://open.spotify.com/track/3FnaNHFWHmWUs5sMyGhhiN) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC) | [Raah](https://open.spotify.com/album/4riwoENCoewQiI4k1fK9xj) | 2:57 | 2023-05-19 | 2023-07-08 |
 | [Raahiya](https://open.spotify.com/track/4kn6joNgish5zSFjNMh2eW) | [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Raahiya](https://open.spotify.com/album/5Q1m9WyfNWGfpSXpPCXTLU) | 3:37 | 2023-05-19 | 2023-07-08 |
 | [RAASTE](https://open.spotify.com/track/3YvXD9kXKwSIXv33kXJQoo) | [Xeede](https://open.spotify.com/artist/4vctQONvB4a2PdcySenCRu) | [RAASTE](https://open.spotify.com/album/4gPKkQaZREZPWBaAdQl9PT) | 3:09 | 2023-08-25 | 2023-09-09 |
@@ -224,6 +224,7 @@
 | [Tujhsa Koi](https://open.spotify.com/track/6jaqvNjr73noLIQ9kh29uc) | [Tanzeel Khan](https://open.spotify.com/artist/64Bnlany1OG6esdJyOxyey) | [Tujhsa Koi](https://open.spotify.com/album/6lwcv8iowg548rs9MH0v2p) | 2:51 | 2023-09-22 |  |
 | [Tum](https://open.spotify.com/track/51O12zLJMmUwHwa8vbtlWO) | [Rohit Nigam](https://open.spotify.com/artist/7qdScuZ6LcdSpnjMLwQd6x) | [Tum](https://open.spotify.com/album/4u5Rq2VRdY4OVgeqFe9cyM) | 3:39 | 2023-06-30 | 2023-07-29 |
 | [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 | 2023-09-22 |  |
+| [Tum Mere Kya Ho](https://open.spotify.com/track/59S0sPZf1q48PvmeeXN0bj) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Tum Mere Kya Ho](https://open.spotify.com/album/65xBCpWtwwZ3PoloPQzTum) | 2:55 | 2023-09-22 |  |
 | [Tuta Ghar](https://open.spotify.com/track/18PhievyCcXWhRpSBIZEpc) | [Kumar Aryan](https://open.spotify.com/artist/5UyrJLIDHKLNu4mQdU5sgR) | [Tuta Ghar](https://open.spotify.com/album/4EjAqyJjOg6C0eH4GAXuUT) | 2:42 | 2023-05-05 | 2023-07-08 |
 | [Ud Chala](https://open.spotify.com/track/73jcoLvB2tUA8R2fOB8skM) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Ud Chala](https://open.spotify.com/album/01cnDRpYwguQFYD17oM37A) | 4:27 | 2023-04-14 | 2023-05-20 |
 | [Umeed](https://open.spotify.com/track/7bB5bp6jqWUNgaOEMCvIMa) | [Chapati](https://open.spotify.com/artist/1RaIosj4dit2OLWs19hTVW), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Umeed](https://open.spotify.com/album/21OQ7LcUgwPWGOjGUmlpwJ) | 3:54 | 2023-04-14 | 2023-06-09 |

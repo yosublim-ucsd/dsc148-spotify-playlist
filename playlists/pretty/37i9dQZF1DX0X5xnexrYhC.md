@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 
 > pop woke up and chose chaos\. cover: EMELINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,697 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,806 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,18 +48,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 38 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 |
 | 39 | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:25 |
 | 40 | [I am not a woman, I'm a god](https://open.spotify.com/track/3XKjZcgNYtvCmBpE1nX7Wn) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/2smUD3MgTAgWjLjRe8wVnC) | 2:56 |
-| 41 | [F U Anthem](https://open.spotify.com/track/5VahNEYKPpQ65vXYipahyJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [What Just Happened?](https://open.spotify.com/album/257QBCiFw8K0YFITOhKv2J) | 2:35 |
-| 42 | [Panic Attacks in Paradise](https://open.spotify.com/track/13gqe2AjtaPexcBoqA10IX) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Panic Attacks in Paradise / Maggots](https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH) | 3:04 |
+| 41 | [Panic Attacks in Paradise](https://open.spotify.com/track/13gqe2AjtaPexcBoqA10IX) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Panic Attacks in Paradise / Maggots](https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH) | 3:04 |
+| 42 | [F U Anthem](https://open.spotify.com/track/5VahNEYKPpQ65vXYipahyJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [What Just Happened?](https://open.spotify.com/album/257QBCiFw8K0YFITOhKv2J) | 2:35 |
 | 43 | [what it means to be a girl](https://open.spotify.com/track/6H6M3RdPVYAURu9oCimO2z) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [what it means to be a girl / this is how i learn to say no](https://open.spotify.com/album/5Ty9rTy9cD0NEJVJsDRTiA) | 2:48 |
 | 44 | [Mental Health](https://open.spotify.com/track/7JTn6dpOUVDSSalQd4RRy7) | [Moonlight Scorpio](https://open.spotify.com/artist/4MmceHDNzXjWNr42IFpuJc) | [Mental Health](https://open.spotify.com/album/3NurIxJFHWZCyYicllTMM5) | 2:06 |
 | 45 | [HUSHH](https://open.spotify.com/track/0K4pg20qcHoN8A1eWbwiOj) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [VOLUME I](https://open.spotify.com/album/7rFNFIghf6GymYHovyyrCO) | 3:00 |
 | 46 | [Trust Issues](https://open.spotify.com/track/0SSu4wiFjCPcRE5Sx3ni0A) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Trust Issues](https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk) | 2:20 |
 | 47 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 |
-| 48 | [Twinkle Twinkle](https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle](https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb) | 2:36 |
-| 49 | [Holding Back](https://open.spotify.com/track/0X6hQ8VqX1bKNn5eyT9sNF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Serpentina](https://open.spotify.com/album/1Y9tVqcZW0ANQk7EFhy4TN) | 3:52 |
-| 50 | [Middle Fingers](https://open.spotify.com/track/0zMjJjBTngvWZqZ9AAUOpF) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [Aston](https://open.spotify.com/album/2Xn3gGhbeH3PwqBjboWr1V) | 3:38 |
-| 51 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 |
-| 52 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 |
+| 48 | [Holding Back](https://open.spotify.com/track/0X6hQ8VqX1bKNn5eyT9sNF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Serpentina](https://open.spotify.com/album/1Y9tVqcZW0ANQk7EFhy4TN) | 3:52 |
+| 49 | [Middle Fingers](https://open.spotify.com/track/0zMjJjBTngvWZqZ9AAUOpF) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [Aston](https://open.spotify.com/album/2Xn3gGhbeH3PwqBjboWr1V) | 3:38 |
+| 50 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 |
+| 51 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 |
+| 52 | [Twinkle Twinkle](https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle](https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb) | 2:36 |
 | 53 | [Sober](https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Sober](https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI) | 2:32 |
 | 54 | [pity party \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rm34PzaavebSDelHPDmYy) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:41 |
 | 55 | [counting crimes](https://open.spotify.com/track/3EsFsEIcsdf4r5Y9UuW0yC) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [counting crimes](https://open.spotify.com/album/1v48gFxTeyWAeZDcB06sQW) | 3:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 79 | [Brad Pitt](https://open.spotify.com/track/603NmSpDReeERhC8heOeVB) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Brad Pitt / Goosebumps](https://open.spotify.com/album/6hqILisIRev9wwnscJlwjR) | 3:01 |
 | 80 | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz) | 3:42 |
 
-Snapshot ID: `MCw2ZWQ1ZWNmNGUzMWE3OGFkY2FjMWQ3OTdkYzcwMzVjOWQ1OGUwZjc0`
+Snapshot ID: `MCwwYmY1ZTIyNzc5YWZlYmIzYjhjZjc0NzA4YmZkYjU2NTUxYjllNWYx`

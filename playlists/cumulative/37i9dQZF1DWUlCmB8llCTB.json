@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con Chencho Corleone.",
+  "description": "Perreando toda la noche con Chesca.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -1459,6 +1459,28 @@
     },
     {
       "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175907,
+      "name": "Blam Blam",
+      "url": "https://open.spotify.com/track/6Yi0H0gVNT3fGPWn3ZVZ3a"
+    },
+    {
+      "album": {
         "name": "Bora Bora",
         "url": "https://open.spotify.com/album/0vaSbVCQgVtVT8ARtkDu5f"
       },
@@ -1532,6 +1554,28 @@
       "duration_ms": 164160,
       "name": "Borracho y Loco",
       "url": "https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA"
+    },
+    {
+      "album": {
+        "name": "Borracho y Loco",
+        "url": "https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171800,
+      "name": "Borracho y Loco",
+      "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
     },
     {
       "album": {
@@ -3518,7 +3562,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 162624,
       "name": "Donde?",
       "url": "https://open.spotify.com/track/5iaGRmDzm4aPhttaOEK8OD"
@@ -3558,7 +3602,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 164494,
       "name": "Down",
       "url": "https://open.spotify.com/track/55SBsj6T7muoDtMcUX5feZ"
@@ -3826,6 +3870,28 @@
       "duration_ms": 212000,
       "name": "Elixir",
       "url": "https://open.spotify.com/track/5FC3QxywFfQq39TI4U9Pru"
+    },
+    {
+      "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168125,
+      "name": "Ella Perrea",
+      "url": "https://open.spotify.com/track/6BGjArXcJnxm5Uyp0O7050"
     },
     {
       "album": {
@@ -8601,6 +8667,32 @@
     },
     {
       "album": {
+        "name": "Otro Show",
+        "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Otro Show",
+      "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
+    },
+    {
+      "album": {
         "name": "Pa Casa",
         "url": "https://open.spotify.com/album/2TcClZORswUT3AReMz3AR4"
       },
@@ -9236,7 +9328,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 136421,
       "name": "Perdon\u00e9monos",
       "url": "https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q"
@@ -9658,7 +9750,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 151718,
       "name": "Pol\u00e9mica",
       "url": "https://open.spotify.com/track/6dtILMYAezM9EChiT0RsCN"
@@ -11672,7 +11764,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 237720,
       "name": "S\u00fabelo & B\u00e1jalo",
       "url": "https://open.spotify.com/track/0eaPs2AlJzS1q6zDvnkoEO"
@@ -12278,6 +12370,28 @@
       "duration_ms": 177984,
       "name": "Traketo",
       "url": "https://open.spotify.com/track/7oF41tECrpN5kAoHzJhrhA"
+    },
+    {
+      "album": {
+        "name": "FINALMENTE RICO",
+        "url": "https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Guelo Star",
+          "url": "https://open.spotify.com/artist/54AbdWd0XTHGLorkVwINN2"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152164,
+      "name": "TRANQUILA",
+      "url": "https://open.spotify.com/track/12aUF72LN9UNtaqxH1ydLZ"
     },
     {
       "album": {

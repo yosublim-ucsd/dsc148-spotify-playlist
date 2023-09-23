@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-201 songs - 9 hr 9 min
+204 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Giggin](https://open.spotify.com/track/0hbHnKGSmY4wKAGqXHNQ6f) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Giggin](https://open.spotify.com/album/5MCf2Q4N6Jolv1vOmMCpTO) | 2:07 | 2022-12-23 |  |
 | [Gold Stacks](https://open.spotify.com/track/38qTxMCGROJeJlo6E274p4) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW), [Rizzo8](https://open.spotify.com/artist/0caGWjTQd9dDtOjAjxkzRK) | [Gold Stacks](https://open.spotify.com/album/4pYrbFvIep8pumAx11IAQN) | 2:54 | 2022-05-20 |  |
 | [Golden Barb Wire](https://open.spotify.com/track/7JZFY4O9OpRJfAHuzw9b5B) | [OWN A JET](https://open.spotify.com/artist/1JwkWoUMCVaZ7f9SmXtAYA) | [Golden Barb Wire](https://open.spotify.com/album/5o6OEpVYpToc03ZjEjC1UX) | 2:15 | 2022-12-09 |  |
-| [Half Way](https://open.spotify.com/track/7nVLCGdcpIWaAizdRRvmKG) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Half Way](https://open.spotify.com/album/0zb0u64c1aQOSRh7zLxoMT) | 2:56 | 2022-04-22 |  |
+| [Half Way](https://open.spotify.com/track/2d9zoxSgfgUQnwwvyRW5Fh) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Half Way](https://open.spotify.com/album/3YxGww927qj7P3nd7lQwr3) | 2:56 | 2023-09-04 |  |
+| [Half Way](https://open.spotify.com/track/7nVLCGdcpIWaAizdRRvmKG) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Half Way](https://open.spotify.com/album/0zb0u64c1aQOSRh7zLxoMT) | 2:56 | 2022-04-22 | 2023-09-23 |
 | [Haute](https://open.spotify.com/track/3lvxTsa881E4gc6GHEOKGL) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Haute](https://open.spotify.com/album/0Y5EmDx0BdNzVkZxyGGy5i) | 2:05 | 2022-07-15 |  |
 | [High\-Rise](https://open.spotify.com/track/4lKMHHKOJ9Fvvuaqrf8SvA) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [High\-Rise](https://open.spotify.com/album/75FfMyLsBr70S5m9IEtRjp) | 2:31 | 2022-12-23 |  |
 | [Homemade Punch](https://open.spotify.com/track/6m9L4Fu2D80SuKUfZXkE13) | [Confetti Grenade](https://open.spotify.com/artist/74c5pQ1acFkasOeOsTSt7M) | [Homemade Punch](https://open.spotify.com/album/2LjxFbBzurlXQH8kQzVr0i) | 2:12 | 2022-12-09 |  |
@@ -149,7 +150,8 @@
 | [Run the Clock](https://open.spotify.com/track/0pxBhlNZA6sOd3ByHBVzFI) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Run The Clock](https://open.spotify.com/album/7cl7Iy6MGnMA7WNa3zt2nK) | 2:05 | 2022-03-29 |  |
 | [running out of time](https://open.spotify.com/track/0e6UrhLAH2lnNe6zdlUTBN) | [NON](https://open.spotify.com/artist/2QFuIA3uFMQAidzZe9x3Bw) | [future](https://open.spotify.com/album/0sH4ZqrqNsEqUWBtc34EaS) | 2:48 | 2021-11-11 |  |
 | [Sahara \- Onderkoffer & Basshoven Remix](https://open.spotify.com/track/0Qmzdnm8vz72x3TOgCZYKn) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H), [Onderkoffer](https://open.spotify.com/artist/6gce3osfgmB2RCMqoKfwFe), [Basshoven](https://open.spotify.com/artist/3yc1IuXu7iTYuQFDTrIEZ1) | [Sahara \(Onderkoffer & Basshoven Remix\)](https://open.spotify.com/album/5Bkdd89SaxesvN0ZlYpelT) | 2:47 | 2022-06-03 |  |
-| [Scam](https://open.spotify.com/track/0UCx2yz0P5Am3tDEZMlaLR) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Scam](https://open.spotify.com/album/31MjbJLu4imw8ZWNRjQk5I) | 2:46 | 2022-05-13 |  |
+| [Scam](https://open.spotify.com/track/0UCx2yz0P5Am3tDEZMlaLR) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Scam](https://open.spotify.com/album/31MjbJLu4imw8ZWNRjQk5I) | 2:46 | 2022-05-13 | 2023-09-23 |
+| [Scam](https://open.spotify.com/track/6R9RkocTuXcrdESsnTlwC3) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Scam](https://open.spotify.com/album/62J8F6JtP7ryZfmATk8oGg) | 2:46 | 2023-09-04 |  |
 | [Shoyu](https://open.spotify.com/track/7ammiC4TKHgMXP8RnccYcA) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Unfold](https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse) | 2:21 | 2022-09-16 |  |
 | [Sierra](https://open.spotify.com/track/1HXF2YmK51j1uEHgEwsxg3) | [Elias Riots](https://open.spotify.com/artist/3qEtWl4Gv3BvU2a6s2bJNy) | [Sierra](https://open.spotify.com/album/7eCGMaV5BrDG98humiCe07) | 4:27 | 2021-11-11 | 2022-05-14 |
 | [Silver Lining](https://open.spotify.com/track/49hqLCrBX4CnAkEM0iclaO) | [Fathomist B't](https://open.spotify.com/artist/7rPDCHQp2TrTEwaZRLvVD8) | [Silver Lining](https://open.spotify.com/album/1rCa089W6ZFhIcpVzw4tCJ) | 2:29 | 2021-11-11 |  |
@@ -166,7 +168,8 @@
 | [Step Back](https://open.spotify.com/track/5KimoSVW5m1tFROfAFlQHr) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Pressure Cooker](https://open.spotify.com/album/6rvGcpNWu5wZi3BkCt5Byq) | 2:30 | 2021-11-11 |  |
 | [Step Up](https://open.spotify.com/track/6lfBScufvQpMszD2FCHHb1) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Step Up](https://open.spotify.com/album/1gwHWOeTU43i1xkVS97HJE) | 2:48 | 2022-04-22 | 2022-07-15 |
 | [Stocked](https://open.spotify.com/track/4DomI8yMoXvIJCBfOPc7Fa) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Rocket Silence](https://open.spotify.com/album/3L7vFgb7Ihr1I7lbxJ6q0r) | 2:52 | 2021-11-11 |  |
-| [Straight Heat](https://open.spotify.com/track/2MzBF1zSL1ODy1hv74VJuv) | [Dr\. J](https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Straight Heat](https://open.spotify.com/album/6iZodCOpJ1HHSDq0WHs9A8) | 2:38 | 2022-04-08 |  |
+| [Straight Heat](https://open.spotify.com/track/1eCgnpYRYrTVG7labz3X9a) | [Dr\. J](https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Straight Heat](https://open.spotify.com/album/57xSctKB3TPYdIHhZsxYGu) | 2:38 | 2023-09-04 |  |
+| [Straight Heat](https://open.spotify.com/track/2MzBF1zSL1ODy1hv74VJuv) | [Dr\. J](https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Straight Heat](https://open.spotify.com/album/6iZodCOpJ1HHSDq0WHs9A8) | 2:38 | 2022-04-08 | 2023-09-23 |
 | [Sumwhere Else](https://open.spotify.com/track/3HUzxgjBZmDLoomxx64YnL) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Elephants](https://open.spotify.com/album/5DfvYDOOwkc6IjpSU1v1i0) | 2:29 | 2022-08-05 |  |
 | [Survivors](https://open.spotify.com/track/3m0Phpn6nOliV0SsxEEeB4) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Reverse Spell](https://open.spotify.com/album/0HQzJaw6UxOjgfRhUSCUdp) | 2:51 | 2022-07-01 |  |
 | [Suspens Trap Beat](https://open.spotify.com/track/4BYzQfbibYvzDegGR1JoEe) | [Origin Studio](https://open.spotify.com/artist/4rRMk8pMRjwTi8tKHvuQ0b) | [Suspens Trap Beat](https://open.spotify.com/album/1oLZiOM9BnvTBDQp8Zvzdk) | 2:56 | 2021-11-11 |  |

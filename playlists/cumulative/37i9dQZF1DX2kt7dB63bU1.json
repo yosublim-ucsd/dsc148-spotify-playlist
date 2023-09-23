@@ -97,6 +97,24 @@
     },
     {
       "album": {
+        "name": "'Tis Autumn",
+        "url": "https://open.spotify.com/album/6roPQ5DGAMUvIU9KEeU2uV"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lewis",
+          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292250,
+      "name": "'Tis Autumn",
+      "url": "https://open.spotify.com/track/2F5SwwelxptwqHIIM8ChQg"
+    },
+    {
+      "album": {
         "name": "12th Avenue",
         "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
       },
@@ -1777,6 +1795,28 @@
     },
     {
       "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216306,
+      "name": "California and Me",
+      "url": "https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe"
+    },
+    {
+      "album": {
         "name": "California and Me",
         "url": "https://open.spotify.com/album/2tt47cpLkXdRqYhOcp2C9x"
       },
@@ -1792,7 +1832,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 216306,
       "name": "California and Me",
       "url": "https://open.spotify.com/track/768tjNAwyH3nIFee5BIdcl"
@@ -3350,7 +3390,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 231574,
       "name": "Endless Summers",
       "url": "https://open.spotify.com/track/6igVwqFR4lIwADTzvX1YAP"
@@ -3568,6 +3608,24 @@
       "duration_ms": 281722,
       "name": "Everything I Wanted",
       "url": "https://open.spotify.com/track/3N3Q6TOYkqKOvpqp7vlly1"
+    },
+    {
+      "album": {
+        "name": "Everything\u2019s Not Lost",
+        "url": "https://open.spotify.com/album/49WaKMcrbMJt3tqkLXnpVO"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248689,
+      "name": "Everything\u2019s Not Lost",
+      "url": "https://open.spotify.com/track/2pqHAFERxzagkJu9qzzWI3"
     },
     {
       "album": {
@@ -4086,6 +4144,24 @@
       "duration_ms": 169546,
       "name": "Girl from New York City",
       "url": "https://open.spotify.com/track/5wlJErAxiEXXRZRtnr24Jk"
+    },
+    {
+      "album": {
+        "name": "Give Me A Reason",
+        "url": "https://open.spotify.com/album/78pQHAt8HWRK8WVAUdmR2h"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253389,
+      "name": "Give Me A Reason",
+      "url": "https://open.spotify.com/track/3dvGUfs6L9q6AwuAGEaswW"
     },
     {
       "album": {
@@ -8838,7 +8914,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 184786,
       "name": "Our Roots Run Deep",
       "url": "https://open.spotify.com/track/3Wsb8BqisZpCO3ijhENBBa"

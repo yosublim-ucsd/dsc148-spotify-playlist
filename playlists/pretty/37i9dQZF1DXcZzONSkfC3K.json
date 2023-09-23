@@ -1,12 +1,12 @@
 {
   "description": "Salsa que representa Puerto Rico. Portada: El Gran Combo De Puerto Rico",
-  "num_followers": 143375,
+  "num_followers": 143422,
   "original_name": "Salsa Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmVhNzJiOTM2YjQzNjMwYjJkNzc4OWJlZGQ1ZTc2Njc4MjA1YWMw",
+  "snapshot_id": "MCwzMDAyMTgzYzM5OTgyMmY4MzRjZTUyMDZiNjEyMjU4OTJmNTM1MjBi",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -839,18 +839,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Frankie Ruiz Gold",
-        "url": "https://open.spotify.com/album/4I0GURNIly2aPl4KIqKDvU"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/15w229yWe9GblGtWjJC753"
       },
       "artists": [
         {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
         }
       ],
-      "duration_ms": 295666,
-      "name": "T\u00fa Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/1OIfhmTXZWuKLibFKe5RFd"
+      "duration_ms": 246720,
+      "name": "La Esencia Del Guaguanc\u00f3",
+      "url": "https://open.spotify.com/track/09ivtKa1GxucyzH3qFMBOL"
     }
   ],
   "unique_name": "Salsa Boricua",

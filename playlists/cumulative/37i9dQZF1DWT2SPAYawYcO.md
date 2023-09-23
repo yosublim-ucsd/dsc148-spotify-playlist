@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Kylie Minogue
 
-1,391 songs - 3 day 3 hr 12 min
+1,394 songs - 3 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [777](https://open.spotify.com/track/4poMkivkZVPt6cWRPfSOUv) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [777](https://open.spotify.com/album/49MakTH6EbCMvPszbwvRAN) | 2:11 | 2023-08-03 | 2023-08-11 |
 | [808](https://open.spotify.com/track/1ZeZjflXJotwHx4uNX8QoK) | [3NDLES5](https://open.spotify.com/artist/1UHjR5NxoDxWX9feUfS6jL), [Crazymike](https://open.spotify.com/artist/0pqnRTJ9eQrOo7cpJzdAcF) | [808](https://open.spotify.com/album/2DbU0PvxwnwNUD25K1jGqc) | 2:53 | 2023-08-17 | 2023-08-25 |
 | [90s Baby](https://open.spotify.com/track/5NR97sgM467Ok0oVOC3rTZ) | [Big Skeez](https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu), [DatBreddaDom](https://open.spotify.com/artist/4uVCyjqLswlqL6zt3VEEK0) | [90s Baby](https://open.spotify.com/album/2wGAU8rMitQQfKxZ3pwc7g) | 3:23 | 2023-08-17 | 2023-08-25 |
-| [97](https://open.spotify.com/track/6geHIF8dr4TmicWdFASykz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 2:57 | 2023-09-21 |  |
+| [97](https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:57 | 2023-09-22 |  |
+| [97](https://open.spotify.com/track/6geHIF8dr4TmicWdFASykz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 2:57 | 2023-09-21 | 2023-09-23 |
 | [<3<3<3](https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [<3<3<3](https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE) | 3:05 | 2023-08-10 | 2023-08-18 |
 | [A Barely Lit Path](https://open.spotify.com/track/6LGvWHB0braCdC7D5riRCt) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [A Barely Lit Path](https://open.spotify.com/album/2PDvJr7NSgcBmIRUH5Ypxv) | 6:15 | 2023-08-31 | 2023-09-08 |
 | [A Lesser Man](https://open.spotify.com/track/4bPsiRqWPFPgLiPQR7jNo4) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [The Idol Episode 3 \(Music from the HBO Original Series\)](https://open.spotify.com/album/5aX2plzPm0m6zk4ZFuqbuI) | 4:58 | 2023-06-23 | 2023-06-30 |
@@ -49,7 +50,8 @@
 | [Adored](https://open.spotify.com/track/4OzcX5qIMJay0GWEP5S6ui) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Adored](https://open.spotify.com/album/5cKM0SNQAhmV2TFwGMynGW) | 2:40 | 2023-07-20 | 2023-07-28 |
 | [Afterglow](https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Afterglow](https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc) | 3:12 | 2023-08-31 | 2023-09-08 |
 | [Afterlife](https://open.spotify.com/track/2NPoN3C0wIoed540ksREBe) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [Afterlife](https://open.spotify.com/album/4oVLT4STTgelavDVGB61Le) | 3:15 | 2023-08-31 | 2023-09-08 |
-| [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 4:25 | 2023-09-21 |  |
+| [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 4:25 | 2023-09-21 | 2023-09-23 |
+| [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2023-09-22 |  |
 | [AI, E KŌ](https://open.spotify.com/track/5U6SC9XsJ4Jr6Ht68i1o3l) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb), [TAWAZ](https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH), [Jackson Owens](https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke) | [AI, E KŌ](https://open.spotify.com/album/04IIWq1rvAhSZGQK11ABDN) | 2:28 | 2023-09-14 | 2023-09-22 |
 | [Airplane Mode](https://open.spotify.com/track/3twl2bN5Zvd1ueiiu2nmVL) | [Jujulipps](https://open.spotify.com/artist/6MwAhWiG2knasNMsFrJDEy) | [Airplane Mode](https://open.spotify.com/album/0kfG4m8OlWJ4eXLSx2sgMh) | 2:27 | 2023-08-17 | 2023-08-25 |
 | [ALFRESCO.](https://open.spotify.com/track/5XuFBCZaSYRj6X5CS9XwWm) | [Otiuh](https://open.spotify.com/artist/1k65Z6RR7niAIng9OtdlMc), [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [ALFRESCO.](https://open.spotify.com/album/18AvBf8ERnCr04W5EBejrP) | 3:23 | 2023-07-20 | 2023-07-28 |
@@ -1057,6 +1059,7 @@
 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 | 2023-09-07 | 2023-09-15 |
 | [Same Drugs](https://open.spotify.com/track/1uGFpq3K8UlpLFaYvVdEfz) | [Bodega Collective](https://open.spotify.com/artist/1kgMO1lOMZtHhRd7oOdHAW), [Drac Hammond](https://open.spotify.com/artist/3jYhVamC6KtzwLwMhRbaqA), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Same Drugs](https://open.spotify.com/album/5amSpJr0AwBpyFBNPZxhnK) | 3:04 | 2023-06-15 | 2023-06-23 |
 | [Sandman](https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sandman](https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc) | 3:32 | 2023-06-23 | 2023-06-30 |
+| [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi) | 3:34 | 2023-09-22 |  |
 | [Save Me The Trouble](https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:20 | 2023-07-13 | 2023-07-21 |
 | [Saxo \(feat\. Tion Wayne\)](https://open.spotify.com/track/2Wzyas9S4ietj2NzXtHR2I) | [WhyTek](https://open.spotify.com/artist/65DPfysLSyewJ1IXgdA4ZM), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Saxo \(feat\. Tion Wayne\)](https://open.spotify.com/album/4RhUu4CjybaYP56fPgJQ6U) | 1:51 | 2023-08-17 | 2023-08-25 |
 | [Say My Name](https://open.spotify.com/track/4kz1U2mdE0QkcDeKXhl84h) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Say My Name](https://open.spotify.com/album/1C31wuYfYHh7t7gIZ42TRH) | 3:53 | 2023-08-24 | 2023-09-01 |

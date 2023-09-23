@@ -1,12 +1,12 @@
 {
   "description": "DANSAR DOM I HIMMELEN??",
-  "num_followers": 148062,
+  "num_followers": 148270,
   "original_name": "30 km/h",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGY5Y2EyMThhM2YwMmYxMzE0NDhkMjM2MzU3Mjk1ZGI4OWViY2U0",
+  "snapshot_id": "MCw1OTc4OTA1OTQzYzIyMTI3Zjc1Y2I4NmM0ZjZiMmNlOTczMjczNTRk",
   "tracks": [
     {
       "added_at": "2023-09-21 22:00:00",
@@ -231,6 +231,26 @@
       "duration_ms": 151578,
       "name": "NU \u00c5KER DEN NER",
       "url": "https://open.spotify.com/track/4SBnZCJtn23bFt3AXHB8nx"
+    },
+    {
+      "added_at": "2023-09-22 08:45:02",
+      "album": {
+        "name": "Remi",
+        "url": "https://open.spotify.com/album/0Q8eCXfZtRk2bPZ1EfiWua"
+      },
+      "artists": [
+        {
+          "name": "Dom F\u00f6rsta",
+          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
+        },
+        {
+          "name": "Caroline",
+          "url": "https://open.spotify.com/artist/0lAH0mtuoDPBLteml8XHKe"
+        }
+      ],
+      "duration_ms": 175503,
+      "name": "Remi",
+      "url": "https://open.spotify.com/track/6sfNasnFOGmGWIgssEsXJo"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1815,22 +1835,6 @@
       "duration_ms": 170138,
       "name": "SOL, VIND OCH SNAPS",
       "url": "https://open.spotify.com/track/6blrBpvFOwOCfYKDqH5bXn"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "EFTERFEST",
-        "url": "https://open.spotify.com/album/0WlyiWQINyWqy7g1qz7DvA"
-      },
-      "artists": [
-        {
-          "name": "Rivstart",
-          "url": "https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj"
-        }
-      ],
-      "duration_ms": 140200,
-      "name": "EFTERFEST",
-      "url": "https://open.spotify.com/track/1Pg5xFsAXx3nYuNtmqDHzy"
     },
     {
       "added_at": "2023-09-21 22:00:00",

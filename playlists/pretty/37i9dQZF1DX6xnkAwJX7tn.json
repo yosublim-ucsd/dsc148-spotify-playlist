@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 582450,
+  "num_followers": 583209,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGFmOTJiZWQ3MDQxYTc4NWFkNGJjZWM1ODMzOTQ4NjViNDk0NGU5",
+  "snapshot_id": "MCwxMjFlYWZlMjdlMDJlZjJlYWNkMjlmNjE2MTc3YjMxMjhlZGJhNmFm",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -807,22 +807,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Foreign Affair",
-        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 329800,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 214653,
       "name": "Another One Bites The Dust - Remastered 2011",
       "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Foreign Affair",
+        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 329800,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -951,22 +951,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Super Trouper",
-        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 252853,
-      "name": "Super Trouper",
-      "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 233270,
       "name": "Run To You",
       "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 252853,
+      "name": "Super Trouper",
+      "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Glass Houses",
-        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "It's Still Rock and Roll to Me",
-      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 232400,
       "name": "It's My Life - 1997 Remaster",
       "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Glass Houses",
+        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "It's Still Rock and Roll to Me",
+      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1159,6 +1159,22 @@
       "duration_ms": 323346,
       "name": "I'm Coming Out",
       "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "The Game (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1337,6 +1353,26 @@
       "url": "https://open.spotify.com/track/5eFiEFtrq5dLgVHSZANUNl"
     },
     {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Raising Hell",
+        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        },
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 310386,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx"
+    },
+    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Hot, Cool & Vicious",
@@ -1401,26 +1437,6 @@
       "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Raising Hell",
-        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        },
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 310386,
-      "name": "Walk This Way",
-      "url": "https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Live Is Life",
@@ -1437,22 +1453,6 @@
       "url": "https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "The Mike Oldfield Collection",
-        "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
-      },
-      "artists": [
-        {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
-        }
-      ],
-      "duration_ms": 218186,
-      "name": "Moonlight Shadow",
-      "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Straight from the Heart (Remastered)",
@@ -1467,6 +1467,22 @@
       "duration_ms": 284506,
       "name": "Forget Me Nots - Remastered",
       "url": "https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "The Mike Oldfield Collection",
+        "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
+      },
+      "artists": [
+        {
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+        }
+      ],
+      "duration_ms": 218186,
+      "name": "Moonlight Shadow",
+      "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1641,22 +1657,6 @@
       "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 307306,
-      "name": "I Can't Go for That (No Can Do)",
-      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Communards",
@@ -1675,6 +1675,22 @@
       "duration_ms": 271066,
       "name": "Don't Leave Me This Way (with Sarah Jane Morris)",
       "url": "https://open.spotify.com/track/0ire4j2mcGovF5JA1D2cTp"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 307306,
+      "name": "I Can't Go for That (No Can Do)",
+      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1911,22 +1927,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Word Up",
-        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
-      },
-      "artists": [
-        {
-          "name": "Cameo",
-          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Word Up",
-      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Street Songs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
       },
@@ -1939,6 +1939,22 @@
       "duration_ms": 248133,
       "name": "Give It To Me Baby",
       "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Word Up",
+        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
+      },
+      "artists": [
+        {
+          "name": "Cameo",
+          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Word Up",
+      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2005,38 +2021,6 @@
       "url": "https://open.spotify.com/track/0PXw9NKvolWTo7U9JkNzmc"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Freedom of Choice",
-        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
-      },
-      "artists": [
-        {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Whip It",
-      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "The Raw & The Cooked",
-        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
-      },
-      "artists": [
-        {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Speak & Spell (2006 Remaster)",
@@ -2067,6 +2051,38 @@
       "duration_ms": 340866,
       "name": "Like a Prayer",
       "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Freedom of Choice",
+        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "The Raw & The Cooked",
+        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
+      },
+      "artists": [
+        {
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2167,22 +2183,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "True (Special Edition)",
-        "url": "https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 290720,
-      "name": "Gold - 2003 Remaster",
-      "url": "https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Another Step",
         "url": "https://open.spotify.com/album/7g47QK9nosKX9B2zdd8yTs"
       },
@@ -2195,6 +2195,22 @@
       "duration_ms": 255220,
       "name": "You Keep Me Hangin On",
       "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "True (Special Edition)",
+        "url": "https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "duration_ms": 290720,
+      "name": "Gold - 2003 Remaster",
+      "url": "https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2405,22 +2421,6 @@
       "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "One Night In Bangkok (Radio Edit / From \u201cChess\u201d / Remastered 2016)",
-        "url": "https://open.spotify.com/album/0t3C9Mp3pJceakRaQmwr9g"
-      },
-      "artists": [
-        {
-          "name": "Murray Head",
-          "url": "https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR"
-        }
-      ],
-      "duration_ms": 193440,
-      "name": "One Night In Bangkok - Radio Edit / From \u201cChess\u201d / Remastered 2016",
-      "url": "https://open.spotify.com/track/1xgqGXZW1udHCjuwjeRDVO"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "The Very Best of Billy Ocean",
@@ -2439,18 +2439,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6"
+        "name": "One Night In Bangkok (Radio Edit / From \u201cChess\u201d / Remastered 2016)",
+        "url": "https://open.spotify.com/album/0t3C9Mp3pJceakRaQmwr9g"
       },
       "artists": [
         {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "name": "Murray Head",
+          "url": "https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Faith - Remastered",
-      "url": "https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB"
+      "duration_ms": 193440,
+      "name": "One Night In Bangkok - Radio Edit / From \u201cChess\u201d / Remastered 2016",
+      "url": "https://open.spotify.com/track/1xgqGXZW1udHCjuwjeRDVO"
     }
   ],
   "unique_name": "80s Party",

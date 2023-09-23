@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover - OG",
-  "num_followers": 43434,
+  "num_followers": 43591,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2RkNjlkZGU1NzA4ZGQ3YTBhNGZhMTZiMzVkYTFlZDk5ZDU1ZmFh",
+  "snapshot_id": "MCxjMmJkM2Q4ZjBjYmQ5NGVmNmIwNmI4YWMwNzg1MDQ1M2MxMzJlNWI2",
   "tracks": [
     {
       "added_at": "2023-09-05 04:53:08",
@@ -557,7 +557,7 @@
         }
       ],
       "duration_ms": 243265,
-      "name": "Appudo Ippudo",
+      "name": "Apudo Ipudo",
       "url": "https://open.spotify.com/track/4KDq9bn0wdEbIFQDi1CGgj"
     },
     {
@@ -900,8 +900,12 @@
       },
       "artists": [
         {
-          "name": "Karthik, Sumangali",
-          "url": "https://open.spotify.com/artist/0E54odxP7aPA1Qzj1R75L3"
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Sumangaly",
+          "url": "https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX"
         }
       ],
       "duration_ms": 357336,

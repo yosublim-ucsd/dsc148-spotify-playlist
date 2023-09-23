@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "tranquilo e calmo, no flow. Foto: Welisson, Fabin",
+  "description": "tranquilo e calmo, no flow. Foto: Arthurzin, WIU",
   "name": "tamo flex",
   "tracks": [
     {
@@ -1307,6 +1307,28 @@
     },
     {
       "album": {
+        "name": "Baralho",
+        "url": "https://open.spotify.com/album/0w3Voa9PyILJmBQTkahRUN"
+      },
+      "artists": [
+        {
+          "name": "Negol",
+          "url": "https://open.spotify.com/artist/6IGgkjgWytlqoHWng0RxqV"
+        },
+        {
+          "name": "\u00e9oTGL",
+          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Baralho",
+      "url": "https://open.spotify.com/track/7ErQJtGIqLKCcQ0XqIIOmO"
+    },
+    {
+      "album": {
         "name": "BARRAS & BARRAS",
         "url": "https://open.spotify.com/album/7hk6SnodcEFVXZefWi8SKK"
       },
@@ -2372,7 +2394,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 237894,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/5MCtVVlFR3dzDcf0qt2h40"
@@ -3320,7 +3342,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 136640,
       "name": "Eita Giovana",
       "url": "https://open.spotify.com/track/6XErUQSaAu0K3ZXt7WABil"
@@ -4272,7 +4294,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 204235,
       "name": "Fiu Fiu",
       "url": "https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq"
@@ -5523,6 +5545,24 @@
     },
     {
       "album": {
+        "name": "Fragmentado",
+        "url": "https://open.spotify.com/album/5HlHiAusgy78Kaywnlmtqu"
+      },
+      "artists": [
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Love, Death + Robots",
+      "url": "https://open.spotify.com/track/4BMLSNPIHdj2fYZrQAuXOU"
+    },
+    {
+      "album": {
         "name": "Percal\u00e7os",
         "url": "https://open.spotify.com/album/54JPLtLadzyPbneflbb6hK"
       },
@@ -6083,6 +6123,24 @@
     },
     {
       "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/7hYFNvh1zfJHUH2ITl329H"
+      },
+      "artists": [
+        {
+          "name": "Vk Mac",
+          "url": "https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/0mrusE9UV5gG7gbiqUoyT4"
+    },
+    {
+      "album": {
         "name": "Meia Lua Laranja",
         "url": "https://open.spotify.com/album/38JMVB3hL7ctH8T5Ohhxc1"
       },
@@ -6436,6 +6494,32 @@
       "duration_ms": 146341,
       "name": "Minha Vida \u00e9 um Show",
       "url": "https://open.spotify.com/track/0uhgooJ05NDaoFmcPnHXoH"
+    },
+    {
+      "album": {
+        "name": "Mira Laser",
+        "url": "https://open.spotify.com/album/6u5e0Q8boDkTGGPPEv8XVx"
+      },
+      "artists": [
+        {
+          "name": "ASTRO G",
+          "url": "https://open.spotify.com/artist/7d9vBMIWHhpKJfWMVIM4zm"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Dj Speed",
+          "url": "https://open.spotify.com/artist/1U2Wtrsm80naKb4xvhzhsf"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Mira Laser",
+      "url": "https://open.spotify.com/track/6T6ffiFG97deyMcgcBYu9k"
     },
     {
       "album": {
@@ -6936,7 +7020,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 158262,
       "name": "Negros",
       "url": "https://open.spotify.com/track/1ba5n53YaFJQWXKnr9bdwO"
@@ -7202,6 +7286,24 @@
       "duration_ms": 152079,
       "name": "N\u00e3o fiz s\u00f3 por mim",
       "url": "https://open.spotify.com/track/0IlaOJtwoeprlNwrke0wYc"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Foi Em V\u00e3o",
+        "url": "https://open.spotify.com/album/4WCPW45LtiHrdinC9AjZwI"
+      },
+      "artists": [
+        {
+          "name": "POLLO",
+          "url": "https://open.spotify.com/artist/6TgVQhHx0BWvzdEQxRnr23"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170434,
+      "name": "N\u00e3o Foi Em V\u00e3o",
+      "url": "https://open.spotify.com/track/0gGhzkV3HePnt92jHCLMda"
     },
     {
       "album": {
@@ -7891,6 +7993,32 @@
     },
     {
       "album": {
+        "name": "Ac\u00fastico Mc Kadu",
+        "url": "https://open.spotify.com/album/5Twg5GxZkWQqeRoNKhUdpH"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "MC Neguinho do Kaxeta",
+          "url": "https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314474,
+      "name": "Pensamentos",
+      "url": "https://open.spotify.com/track/0Jq6jzZTqs0aDVv62fOXq6"
+    },
+    {
+      "album": {
         "name": "Pensando Em N\u00f3s",
         "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
       },
@@ -7936,6 +8064,36 @@
       "duration_ms": 134873,
       "name": "Perfume Mais Caro",
       "url": "https://open.spotify.com/track/4thX4lgktnjxkHTniznxK8"
+    },
+    {
+      "album": {
+        "name": "PERSONNALITE",
+        "url": "https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj"
+      },
+      "artists": [
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208910,
+      "name": "PERSONNALITE",
+      "url": "https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6"
     },
     {
       "album": {
@@ -8752,7 +8910,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 149538,
       "name": "Quem Me Dera",
       "url": "https://open.spotify.com/track/6Q4xInAtdoRP9lXREWl8nd"
@@ -9549,6 +9707,32 @@
     },
     {
       "album": {
+        "name": "Sess\u00e3o de Cria 2: Beroba Freestyle",
+        "url": "https://open.spotify.com/album/5aww5rg45n1D4IFxBFdDX0"
+      },
+      "artists": [
+        {
+          "name": "Arthurzim",
+          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "PAKO BEATZ",
+          "url": "https://open.spotify.com/artist/7tJV2B9ErlFQE9oXyYg0qA"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Sess\u00e3o de Cria 2: Beroba Freestyle",
+      "url": "https://open.spotify.com/track/1Y8kuDt5jXMJWnswUbmBHh"
+    },
+    {
+      "album": {
         "name": "Seus Olhos",
         "url": "https://open.spotify.com/album/3Ub8SSzzNx2c2H3WoWJcsv"
       },
@@ -9660,7 +9844,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 142153,
       "name": "Sob Efeito",
       "url": "https://open.spotify.com/track/3OLrrDfRsEYVq2IjXNlPXB"
@@ -9804,7 +9988,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 158209,
       "name": "Sr. Armani & Sheik S Freestyle - Ao Vivo",
       "url": "https://open.spotify.com/track/5z3zsHV0G9cIYfLPHYWDrB"
@@ -9978,7 +10162,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 155100,
       "name": "Tchutchucas Cl\u00e1ssicas",
       "url": "https://open.spotify.com/track/0Dm4iQYMwUtdu9f5l2cIVI"

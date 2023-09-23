@@ -19489,6 +19489,28 @@
     },
     {
       "album": {
+        "name": "Neo Standard",
+        "url": "https://open.spotify.com/album/6vXMlkcOS97nxv48Kl76MV"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "\u4e2d\u5c71\u7f8e\u7a42",
+          "url": "https://open.spotify.com/artist/27uDA7mGoHPHFvlBiZ4J9Z"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Ninna Nanna (feat. Miho Nakayama)",
+      "url": "https://open.spotify.com/track/5BS9bVDMWFRmjcz3J7XNo0"
+    },
+    {
+      "album": {
         "name": "Ninna Nanna (feat. Miho Nakayama)",
         "url": "https://open.spotify.com/album/4R0X8HikVaF6xrHlqoOWsL"
       },
@@ -19504,7 +19526,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 165000,
       "name": "Ninna Nanna (feat. Miho Nakayama)",
       "url": "https://open.spotify.com/track/6xBKx82lrogb8TDCjghTq0"
@@ -28536,7 +28558,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 219909,
       "name": "this is what autumn feels like",
       "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"

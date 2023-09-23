@@ -4,7 +4,7 @@
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Remembering Charlie Robison.
 
-185 songs - 12 hr 0 min
+186 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Fast Lane](https://open.spotify.com/track/2lqC75TB8cuEP8ZQ6L9zi5) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Fast Lane](https://open.spotify.com/album/3Wbvu7BTO6PjTEEHGUmdxg) | 4:06 | 2022-11-11 |  |
 | [February 28, 2016](https://open.spotify.com/track/6frDW68Xjjg6WRVvo0zZFk) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS) | 3:53 | 2023-04-21 |  |
 | [Feet Don't Touch the Ground](https://open.spotify.com/track/5jlKg466AQEoBSPJ8y8wyY) | [Stoney LaRue](https://open.spotify.com/artist/0T7J61YgErxSH8yuyggHJO) | [Live at Billy Bob's Texas](https://open.spotify.com/album/6csMrzyN5ZpLcwxBWH9XeQ) | 4:08 | 2021-12-23 |  |
+| [Forever](https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 2:57 | 2023-09-15 |  |
 | [Forever](https://open.spotify.com/track/4oCUw978NJjfUIWYtEVaCP) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/2uYVHiJwrv4qxQg9RhmeOn) | 2:57 | 2023-04-21 | 2023-09-18 |
 | [Freight Train](https://open.spotify.com/track/7eoYXgC7gir4LYY1KXGK97) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [The Underdog](https://open.spotify.com/album/3vOJnbTBrWwHPgNBHE9WwU) | 2:55 | 2023-09-01 |  |
 | [Geraldene](https://open.spotify.com/track/2eANCHzv43vCHbLwwYY3og) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [Geraldene](https://open.spotify.com/album/2QURNoIhMz7ccSdVWshiG5) | 3:08 | 2021-12-23 | 2023-04-22 |
@@ -102,7 +103,7 @@
 | [Keep The Wolves Away](https://open.spotify.com/track/1u7J5sEfgOVRt5bkfU2oGV) | [Uncle Lucius](https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW) | [And You Are Me](https://open.spotify.com/album/2nNgwgaNPoxJGT2nchbPrj) | 4:35 | 2021-12-23 |  |
 | [Kiss Me](https://open.spotify.com/track/4l0L2GAwa3Z2MFGQyolVf0) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [All Night Party](https://open.spotify.com/album/6gMltpGfgzDbsbfYUOeXJR) | 3:28 | 2021-12-23 |  |
 | [Kiss Me In The Dark](https://open.spotify.com/track/3bZKIfJVpW8HktEafRnRP2) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Just A Matter Of Time](https://open.spotify.com/album/1ZGlAnJ6h0f0pq4Ua78ntT) | 3:48 | 2021-12-23 | 2023-09-02 |
-| [L.A\. Freeway](https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Old No\. 1](https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ) | 4:56 | 2021-12-23 |  |
+| [L.A\. Freeway](https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Old No\. 1](https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ) | 4:56 | 2021-12-23 | 2023-09-23 |
 | [Life Without You](https://open.spotify.com/track/4GH1IMTWa7o2WCsmEOtO6t) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:46 | 2021-12-23 | 2023-09-02 |
 | [Live Forever](https://open.spotify.com/track/4f2K09ZZra4gK8Cyuf6yW6) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz) | [Tramp On Your Street](https://open.spotify.com/album/4VZK4PLoIdugyfsg3ZHon0) | 2:49 | 2022-11-11 |  |
 | [Long Hot Summer Day](https://open.spotify.com/track/0kOG4bwpKgRlcJw1NA6csR) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 4:12 | 2023-04-21 |  |

@@ -4,7 +4,7 @@
 
 > Rimas cremosas, tan necesarias como tu café\. Sabino en portada.
 
-117 songs - 6 hr 40 min
+118 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Feeling Alright](https://open.spotify.com/track/5Keh0UFTDJhm51dF2SEyqp) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [BeatBoy](https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X) | [Siempre Arriba](https://open.spotify.com/album/4Dj4sBwYLB3AgcPOaemo8m) | 2:30 | 2023-05-26 |  |
 | [Felicidades](https://open.spotify.com/track/1jx9ljlGXGrN1sIuEpBfnF) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Felicidades](https://open.spotify.com/album/47hpIs8QYlW1H1h6CMUJay) | 3:27 | 2023-05-26 |  |
 | [Fractúbela](https://open.spotify.com/track/5BNZcuyCkcBNIhF2DmQlWf) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [Fractúbela](https://open.spotify.com/album/2bcCoVonJSVHk4Q7IYMRyf) | 4:18 | 2023-05-26 |  |
-| [Get High](https://open.spotify.com/track/7ILOofpdpK1uuB7kD1SBYN) | [Stereo Fear](https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM), [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Spaced Out](https://open.spotify.com/album/6v1Er5MlyuxD3f6dAZP96i) | 1:43 | 2023-05-26 |  |
+| [Get High](https://open.spotify.com/track/7ILOofpdpK1uuB7kD1SBYN) | [Stereo Fear](https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM), [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Spaced Out](https://open.spotify.com/album/6v1Er5MlyuxD3f6dAZP96i) | 1:43 | 2023-05-26 | 2023-09-23 |
 | [Giros y Vueltas](https://open.spotify.com/track/6wY1rUITW0yOPsPppDA2ka) | [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m), [D'huizar](https://open.spotify.com/artist/3DCJs16lEewkE0m5Do6feJ) | [Giros y Vueltas](https://open.spotify.com/album/50P2thslyhEf8Ye8iZXs8S) | 2:22 | 2023-05-26 |  |
 | [hablar contigo </3](https://open.spotify.com/track/15Uu7CsZ5aYA3lTaNy3hfl) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [hablar contigo </3](https://open.spotify.com/album/4W23J0psjH7WP4kaJZZqj2) | 2:38 | 2023-05-26 | 2023-09-16 |
 | [Ilegal](https://open.spotify.com/track/7noUi6BJ2QBfBHxzAWXk6n) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [99,9](https://open.spotify.com/album/2t4hCVRC3NpT8UjdDEC9x0) | 2:10 | 2023-05-26 |  |
@@ -108,6 +108,7 @@
 | [Si Se Me Va la Voz](https://open.spotify.com/track/0HUw1ZCFhO3FZ3eMYOBMEt) | [ATM FLAVOR](https://open.spotify.com/artist/1SqAxi0VbVExvWdpR5Pjru), [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo) | [Si Se Me Va la Voz](https://open.spotify.com/album/5nvSbbHGZpbV6zKE5UFxTY) | 3:07 | 2023-05-26 |  |
 | [Siempre Es Lo Mismo](https://open.spotify.com/track/2Sg6GmnyCyoYkvNezFp98e) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Siempre Es Lo Mismo](https://open.spotify.com/album/7mbmPQhpfV0QojDzqf9fTQ) | 4:06 | 2023-05-26 |  |
 | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4), [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY) | 3:16 | 2023-05-26 |  |
+| [Sin pistola](https://open.spotify.com/track/008gGt53LBG5eBo7rfganm) | [V.Rod](https://open.spotify.com/artist/1M178YgtiCeHDjjHFBQgWA), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Sin pistola](https://open.spotify.com/album/1HSPfrQ8Cz51hsc1ttXoHy) | 2:33 | 2023-09-22 |  |
 | [Skittlez](https://open.spotify.com/track/0q5a3vmK1O7OrYS5rbrzi3) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Skittlez](https://open.spotify.com/album/1MZL3qC0MwTnwzxTTAR1GG) | 2:22 | 2023-05-26 |  |
 | [Sobrio y Confundido](https://open.spotify.com/track/6OdSlmTms8a39bdpvXmi3O) | [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [IV.\- Buenos Adultos](https://open.spotify.com/album/1qkCpcYwTdl4OWpdZLc1ZN) | 3:56 | 2023-05-26 |  |
 | [Sol](https://open.spotify.com/track/1Z2rizszFDMFwhAUIVjgnj) | [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK) | [Sol](https://open.spotify.com/album/3THBtFwKBwIdIEw7Nc044G) | 3:43 | 2023-05-26 |  |

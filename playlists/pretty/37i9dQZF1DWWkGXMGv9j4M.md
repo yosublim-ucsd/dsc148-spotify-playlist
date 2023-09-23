@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkGXMGv9j4M.md) - [plain](/playlists/plain/37i9dQZF1DWWkGXMGv9j4M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWkGXMGv9j4M)
 
-### [Best Indie Songs of 2020](https://open.spotify.com/playlist/37i9dQZF1DWWkGXMGv9j4M)
+### [Best of Indie 2020](https://open.spotify.com/playlist/37i9dQZF1DWWkGXMGv9j4M)
 
 > Weird year overall, but great for indie\. Editors' picks of the best tracks of the year\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,897 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,895 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkGXMGv9j4M.md) - [plain]
 | 99 | [Loner](https://open.spotify.com/track/6ELEjTrMflbYVxguHiukjk) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N) | 3:12 |
 | 100 | [For Props](https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Sundry Rock Song Stock](https://open.spotify.com/album/7N3gPiUIMhiDEaB3SQtEIy) | 3:43 |
 
-Snapshot ID: `MCxlMmFmMDJmYmUxOTg3YjU2ZGJhMjNkMzkwMDY4MjRmZTM1ZTQ4ZTY3`
+Snapshot ID: `MCxlOGFiNjZmZDQyZWU2NTZiMjdmYzk1Njk1NjJkYjc5OTAxYjAwNWNi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,861 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,031 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,16 +23,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 13 | [Szikra](https://open.spotify.com/track/3qAvjZ84KUD5cCWkt4iCcb) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [Szikra](https://open.spotify.com/album/346ybLLYAtXpAfpTFH0Pqi) | 6:41 |
 | 14 | [Intimate Fantasy](https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Intimate Fantasy \- EP](https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW) | 8:13 |
 | 15 | [Space Skat N Dat](https://open.spotify.com/track/4HIlZhKWz2WXYcGXiZFXqe) | [Kai Alcé](https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi) | [New Life EP](https://open.spotify.com/album/3XBiYgj9hSwH9Joehq5NCL) | 6:14 |
-| 16 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 |
+| 16 | [Back to My Place](https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Back To My Place](https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg) | 4:05 |
 | 17 | [Sensitive People](https://open.spotify.com/track/4w4Qvb4Eyrq6kG3IS8ebCE) | [Erik Ellmann](https://open.spotify.com/artist/00X51QLtLhAPByQdOXsT9s) | [Sensitive People](https://open.spotify.com/album/1m8CNgwbEokMBLyDn3GL2Z) | 5:08 |
-| 18 | [Back to My Place](https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Back To My Place](https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg) | 4:05 |
+| 18 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 |
 | 19 | [Vibrant Air](https://open.spotify.com/track/6GbiQmd9EAWP53EJ2Acbec) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x), [Rick Flair](https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m) | [Sessions 2](https://open.spotify.com/album/3LOxcrOgoyvvKdBtl1GHYP) | 4:11 |
 | 20 | [Ocean Drift](https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Ocean Drift](https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2) | 2:16 |
 | 21 | [Shallow Waters](https://open.spotify.com/track/1l8oVb7DDpCTubrKchdRgl) | [Ams](https://open.spotify.com/artist/7zJyf7OS6Vw8gyrphYLyt7) | [Shallow Waters](https://open.spotify.com/album/5uCELkdK05EwUsPrAzdJh4) | 6:42 |
 | 22 | [I Needed](https://open.spotify.com/track/4vyOcxU4oEyzEhBMFheHBj) | [Hanna](https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB) | [I Needed / Intercession, On Behalf](https://open.spotify.com/album/5FyTGjsgSg6DCtg5oxui1p) | 6:37 |
 | 23 | [Pastis](https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Pastis](https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV) | 4:04 |
-| 24 | [Radio Los Santos](https://open.spotify.com/track/1x40cY4yovEabUMzRWXGjd) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Radio Los Santos](https://open.spotify.com/album/6N6GvUqI3dgfMcorIYv44N) | 7:12 |
-| 25 | [elope](https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [elope](https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8) | 4:53 |
+| 24 | [elope](https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [elope](https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8) | 4:53 |
+| 25 | [Radio Los Santos](https://open.spotify.com/track/1x40cY4yovEabUMzRWXGjd) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Radio Los Santos](https://open.spotify.com/album/6N6GvUqI3dgfMcorIYv44N) | 7:12 |
 | 26 | [suddenly](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA) | 3:35 |
 | 27 | [Mellina](https://open.spotify.com/track/1PacOKtN0fJ6qMCS52aoA4) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Mellina](https://open.spotify.com/album/4CXjoh2vLBZZxCLkYx6Fcw) | 2:29 |
 | 28 | [Super Good Times](https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Super Good Times](https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj) | 3:41 |
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 34 | [No Borders](https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [No Borders](https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK) | 2:41 |
 | 35 | [Closer To The Essence](https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Closer To The Essence](https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX) | 2:41 |
 | 36 | [Cami \- Edamame Remix](https://open.spotify.com/track/6HXIp0fIEuljJcmSpDhRSU) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F), [Edamame](https://open.spotify.com/artist/5PFVryAyJqvirWkPBkwagn) | [Sloh Remixes](https://open.spotify.com/album/58mLfEOaAR4vaR4rEWtJe1) | 3:45 |
-| 37 | [Indepanties day](https://open.spotify.com/track/0FwPSxriJhjWU4TTfzvNuh) | [Hosiannah](https://open.spotify.com/artist/0NJjvhC9pJiUNTK8OUkVIq) | [Indepanties day](https://open.spotify.com/album/48vkyleNJElgkXrHr79f27) | 3:17 |
-| 38 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 |
+| 37 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 |
+| 38 | [Indepanties day](https://open.spotify.com/track/0FwPSxriJhjWU4TTfzvNuh) | [Hosiannah](https://open.spotify.com/artist/0NJjvhC9pJiUNTK8OUkVIq) | [Indepanties day](https://open.spotify.com/album/48vkyleNJElgkXrHr79f27) | 3:17 |
 | 39 | [Orbits of Dust](https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Orbits of Dust](https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP) | 6:00 |
-| 40 | [10Min JAM\_V2](https://open.spotify.com/track/4oiuHfgAUlp6aHkHIsTijj) | [Berus](https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa) | [10Min JAM\_V2](https://open.spotify.com/album/3CsmKKgoKRsi8dH3JcjP9D) | 1:39 |
-| 41 | [Pup Slushy](https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Pup Slushy](https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP) | 5:29 |
+| 40 | [Pup Slushy](https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Pup Slushy](https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP) | 5:29 |
+| 41 | [10Min JAM\_V2](https://open.spotify.com/track/4oiuHfgAUlp6aHkHIsTijj) | [Berus](https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa) | [10Min JAM\_V2](https://open.spotify.com/album/3CsmKKgoKRsi8dH3JcjP9D) | 1:39 |
 | 42 | [Tokyo Cruise](https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Tokyo Cruise](https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI) | 3:02 |
 | 43 | [The Sinner](https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sinner — Time Traveller](https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt) | 4:42 |
 | 44 | [Carefree](https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Carefree](https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB) | 3:28 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 48 | [Lofi Vs\. House](https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ) | [Dosages, Vol\. 2](https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT) | 2:58 |
 | 49 | [Hyperspace \(feat\. Teza Sumendra\)](https://open.spotify.com/track/3zIyDwLqQMbXc1pq95TIrk) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Hyperspace \(feat\. Teza Sumendra\)](https://open.spotify.com/album/1RA1liM0tl38zX5sjSDurR) | 3:24 |
 | 50 | [Longing For U](https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Longing For U](https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq) | 5:49 |
-| 51 | [Random Places](https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Kindzmarauli](https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co) | 4:16 |
-| 52 | [In Your Arms](https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [In Your Arms](https://open.spotify.com/album/5CJiamUX79bwlnjdzmhQ9c) | 2:30 |
+| 51 | [In Your Arms](https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [In Your Arms](https://open.spotify.com/album/5CJiamUX79bwlnjdzmhQ9c) | 2:30 |
+| 52 | [Random Places](https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Kindzmarauli](https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co) | 4:16 |
 | 53 | [Milkyway](https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Milkyway](https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ) | 3:27 |
 | 54 | [Brasileira \- ddp Remix](https://open.spotify.com/track/5mhTV8AJiXiqYZYV3gfMAo) | [9iusi](https://open.spotify.com/artist/4r3taDm0QDk822Kgkb5HSF), [ddp](https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY) | [Brasileira \(ddp Remix\)](https://open.spotify.com/album/6KLIuHvsFGrI4c2JUCmhUr) | 1:56 |
 | 55 | [Kindness](https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar), [Nephews](https://open.spotify.com/artist/34Ky5XufX81eJrO9vYjbXQ) | [Ltdblbl008](https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9) | 6:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 59 | [True Romance \(Maja Edit\)](https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [True Romance](https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5) | 3:50 |
 | 60 | [Mellow Mornings](https://open.spotify.com/track/4e316PpOtDD3WQE3t6Eqcp) | [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl) | [Mellow Mornings](https://open.spotify.com/album/6t4sfAMZKZ3ik8VqhruGvc) | 2:34 |
 
-Snapshot ID: `MCw1NDYwZTRkZWY1M2IxNWI5MGI3NzFiZTcwN2JkYzhlZWExZGJhYjJk`
+Snapshot ID: `MCw1YzU4Yzc4NzczMWNjY2E3ZGVlMzIxZGRmMGJkZTYwYTMyODk1NDU1`

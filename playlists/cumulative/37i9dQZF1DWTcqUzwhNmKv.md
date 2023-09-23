@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Corey Taylor on top of the biggest Metal playlist.
+> Sleep Token on top of the biggest Metal playlist.
 
-506 songs - 1 day 10 hr 2 min
+509 songs - 1 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Anything at All](https://open.spotify.com/track/5p144lbzJw9kMCMOG61SF3) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Anything at All](https://open.spotify.com/album/62VQpaKM1gEjzZye2K7oQn) | 4:06 | 2021-12-20 | 2022-01-28 |
 | [Arrow of Love](https://open.spotify.com/track/6IkcTpdDbL4OVg7skLdUyF) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [TEKKNO](https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg) | 3:42 | 2022-09-30 | 2022-12-03 |
 | [ARTIFICIAL SUICIDE](https://open.spotify.com/track/65pi8lRBcEEyFCEa74rLug) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [What do you want from me? + ARTIFICIAL SUICIDE + THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3UmYFTJACoS1VzbSDtWL1t) | 3:15 | 2021-12-20 | 2022-01-21 |
-| [Atropos](https://open.spotify.com/track/5LmeXeJ8McsxWZXgPkyhxs) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Atropos](https://open.spotify.com/album/3B1hA33fuFZKtet8TbZg9M) | 8:23 | 2023-03-03 |  |
+| [Atropos](https://open.spotify.com/track/5LmeXeJ8McsxWZXgPkyhxs) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Atropos](https://open.spotify.com/album/3B1hA33fuFZKtet8TbZg9M) | 8:23 | 2023-03-03 | 2023-09-23 |
 | [Backfire](https://open.spotify.com/track/6qA3JeQaSLng3XmIFr7IC0) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Backfire](https://open.spotify.com/album/4DBR3CJvtw972fOYg93ndQ) | 4:22 | 2023-02-03 | 2023-03-04 |
 | [Bad Idea](https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Bad Idea](https://open.spotify.com/album/3bSDSG9KxAS9zZq9UzJi7K) | 3:12 | 2022-03-03 | 2022-06-10 |
 | [Bad Things](https://open.spotify.com/track/3jTWNaSfBQvv3HPTqQjkkM) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:48 | 2022-09-09 | 2023-02-11 |
@@ -153,8 +153,9 @@
 | [Fall Of Man \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/track/2rCtd6DcWfIJIy7AFSlrdt) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Fall Of Man \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/album/30vZNuVyzbDmTBt1ftIFcE) | 3:38 | 2023-03-03 | 2023-07-29 |
 | [False Providence \(feat\. Mick Gordon\)](https://open.spotify.com/track/3G5oOfICsWYVeONbtB7vRJ) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [False Providence \(feat\. Mick Gordon\)](https://open.spotify.com/album/7hMm40HVdj5nViNO7PruJf) | 5:01 | 2022-03-24 | 2022-06-24 |
 | [Father](https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Weapons Of The Modern Age](https://open.spotify.com/album/53VtJpStdfdFG2MSJRgZgC) | 4:38 | 2022-10-14 | 2022-12-17 |
+| [Fedrekult](https://open.spotify.com/track/6USwgMF3VBSKMe14P0TJb4) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Endling](https://open.spotify.com/album/5LlLDIoYFzmH7CLK8jI2YA) | 3:51 | 2023-09-22 |  |
 | [Feel What I Believe](https://open.spotify.com/track/1a1c2RbKhs6ozVLdrlWXJQ) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Feel What I Believe](https://open.spotify.com/album/5iEKR8ZWRqcVXlQ5qgLWHr) | 4:00 | 2022-01-21 | 2022-04-15 |
-| [Fence](https://open.spotify.com/track/6gQmCGUYq9Xql5rlShqUXj) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Fence](https://open.spotify.com/album/7kTY68ysd8P6LOZe3TybbD) | 3:37 | 2023-04-14 |  |
+| [Fence](https://open.spotify.com/track/6gQmCGUYq9Xql5rlShqUXj) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Fence](https://open.spotify.com/album/7kTY68ysd8P6LOZe3TybbD) | 3:37 | 2023-04-14 | 2023-09-23 |
 | [Fight Fire With Gasoline](https://open.spotify.com/track/78frUxVotRtpMrNMcyYtns) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Fight Fire With Gasoline](https://open.spotify.com/album/4IXfMV0iTA3p0cjPQavnAY) | 3:48 | 2022-12-02 | 2023-08-19 |
 | [Filth Upon Filth](https://open.spotify.com/track/718mw16SXeGzuvPTVJLcpN) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Filth Upon Filth](https://open.spotify.com/album/1Ed8tYC0MNI1P9TA88kFlF) | 2:53 | 2022-07-08 | 2022-08-13 |
 | [Find a Way or Make One](https://open.spotify.com/track/4NtpLuz8QFPrCofWmeBYy8) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [The Great Heathen Army](https://open.spotify.com/album/49RfDv9BawZQq8hJq0V5wB) | 4:30 | 2022-08-12 | 2023-05-20 |
@@ -291,6 +292,7 @@
 | [Nous Sommes la Guerre](https://open.spotify.com/track/24B3NFMGpDkG952oyc2ALX) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Nous Sommes La Guerre](https://open.spotify.com/album/53kmVPU7XLxDgIZob1lAmA) | 6:53 | 2022-06-17 | 2022-07-16 |
 | [Numb](https://open.spotify.com/track/4xOZuV9hKj0uaRgegNaE5F) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Numb](https://open.spotify.com/album/0vf69q9LJRJ6MK8OTJPIbZ) | 3:41 | 2021-12-20 | 2022-01-14 |
 | [NØ GØDS, NØ MASTERS](https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:18 | 2022-09-02 | 2023-03-11 |
+| [Obliquity of the Ecliptic](https://open.spotify.com/track/0c1EnTUEQoXVH73NbVDi3D) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Luminescent Bridge](https://open.spotify.com/album/6fw6OaFAR6IsxWk1ZjIYUJ) | 8:53 | 2023-09-22 |  |
 | [Obsolete](https://open.spotify.com/track/0FCY8j3JRrZ2ynRUdMK9pS) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 4:25 | 2022-12-16 | 2023-07-01 |
 | [Off To War!](https://open.spotify.com/track/0SO9N06dHpC0ZfGvQnXqeo) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Off To War!](https://open.spotify.com/album/4E1n594zlqLUBj8OTOhG0H) | 4:47 | 2022-06-17 | 2022-07-30 |
 | [Omen](https://open.spotify.com/track/2zCwpuQuSzm2Mk7h7JYNtS) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Omen](https://open.spotify.com/album/18NPrDrGXVfQDHOXUTUxSA) | 3:53 | 2022-04-08 | 2022-05-27 |
@@ -450,6 +452,7 @@
 | [Time](https://open.spotify.com/track/2KypRk2hIQxO8Z8EkQfhsB) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Time](https://open.spotify.com/album/5vco6HFksVqQJxg2agPJIM) | 4:00 | 2022-07-29 | 2022-10-01 |
 | [Times Like These](https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Times Like These](https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS) | 3:29 | 2022-07-08 | 2022-08-27 |
 | [TIRED OF WINNING](https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [TIRED OF WINNING](https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY) | 3:26 | 2022-04-29 | 2022-06-24 |
+| [Torn From Your Silhouette](https://open.spotify.com/track/1zLdk7jMOHh3QQkC9GrW5L) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Torn From Your Silhouette](https://open.spotify.com/album/5mTEPe5O2xBhkGJpDalRx4) | 2:26 | 2023-09-22 |  |
 | [Tunnel Vision](https://open.spotify.com/track/0RxvS6KLWG0SYqQJnhHIpM) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Tunnel Vision](https://open.spotify.com/album/1GZ2py8wHv4xPTfTFmlfmz) | 3:22 | 2023-02-24 | 2023-04-15 |
 | [TURN IT UP LIKE \(Stand In The Fire\)](https://open.spotify.com/track/0qNaAvpToqL0KyI1Ddg6gx) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [TURN IT UP LIKE \(Stand In The Fire\)](https://open.spotify.com/album/1ZLPa1ssZth3Ti7xRzpyAG) | 4:29 | 2022-04-01 | 2022-04-29 |
 | [Turning 23](https://open.spotify.com/track/7djUbBYcFHXuTf3psVNBnQ) | [Until the Dead Walk](https://open.spotify.com/artist/4Zr17aIvRu0LjH3Zf8QDRb), [Coldharbour](https://open.spotify.com/artist/7eVTOU3R6iKKMVric5JaUo) | [Untitled](https://open.spotify.com/album/4tModRmtwGx1rjRVbfrhCz) | 3:33 | 2021-12-20 | 2022-01-07 |
@@ -478,7 +481,7 @@
 | [Warpaint](https://open.spotify.com/track/0GzWj8bo5qMuBplDjOdLxH) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Warpaint](https://open.spotify.com/album/2MTwOiCBBadJ9gqhw5dyie) | 3:28 | 2023-08-04 | 2023-09-09 |
 | [Waste Of Myself](https://open.spotify.com/track/05EAMJGwvxDcqcGxhT4t9R) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [The Aggression Sessions](https://open.spotify.com/album/3mPX3GO24FWBfxy1NqMkhl) | 3:21 | 2023-04-14 | 2023-08-26 |
 | [Wasted Space](https://open.spotify.com/track/2swqb0ij8Xpksi4A7tqE6i) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Wasted Space](https://open.spotify.com/album/6kldsD8IODEdYNlNAXPCed) | 3:26 | 2023-03-17 |  |
-| [Watch The World Burn](https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Watch The World Burn](https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE) | 3:23 | 2023-02-03 |  |
+| [Watch The World Burn](https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Watch The World Burn](https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE) | 3:23 | 2023-02-03 | 2023-09-23 |
 | [Watcher In The Sky](https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 5:48 | 2022-03-11 | 2022-06-17 |
 | [Watchtower](https://open.spotify.com/track/7pgj6tSDzpL73tzrUaW4TP) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Watchtower](https://open.spotify.com/album/0I0qq25JoA8DyCaztuUgHb) | 2:48 | 2022-02-04 | 2022-04-22 |
 | [We Are No Saints](https://open.spotify.com/track/3BPdKJxzfJX63N7LYLDpI6) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [We Are No Saints](https://open.spotify.com/album/0LsCf8tIWzbZwfsIOJDkAg) | 3:10 | 2021-12-20 | 2022-03-04 |

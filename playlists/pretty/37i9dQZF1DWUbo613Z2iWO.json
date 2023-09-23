@@ -1,13 +1,29 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: \u00c4yanna",
-  "num_followers": 43604,
+  "description": "R&B of the moment by the artists of the future. Cover: TA Thomas",
+  "num_followers": 43639,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWY3MzI0NTIwZTdjMTk1NDhmZTllYzM5ZTE4MDAyOTkxNGYyZGNm",
+  "snapshot_id": "MCwyMmI2NThkMTE3MzQ0ODhjNTUwZjJiMzE3ZjQxZTJhNzI3MDdlNzJk",
   "tracks": [
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Caught Between 2 Worlds",
+        "url": "https://open.spotify.com/album/0fr2yHigw1YG1oAJ2V8whE"
+      },
+      "artists": [
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "duration_ms": 182037,
+      "name": "Caught Between 2 Worlds",
+      "url": "https://open.spotify.com/track/2Aef1eaUQAOu4tDEHL0E0u"
+    },
     {
       "added_at": "2023-09-16 04:00:00",
       "album": {
@@ -39,22 +55,6 @@
       "duration_ms": 195859,
       "name": "Precious",
       "url": "https://open.spotify.com/track/13lKEfnPk9LNGeh1ZaFbAb"
-    },
-    {
-      "added_at": "2023-08-25 16:25:44",
-      "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/1sF44ZsrgWPrJ2imXUCcDB"
-      },
-      "artists": [
-        {
-          "name": "Chxrry22",
-          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
-        }
-      ],
-      "duration_ms": 196399,
-      "name": "More",
-      "url": "https://open.spotify.com/track/43AkwjzRPBKbFrGM7Rn9JF"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -105,84 +105,20 @@
       "url": "https://open.spotify.com/track/3ntdNzBjeinSQsPM7OgzuX"
     },
     {
-      "added_at": "2023-09-01 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "it's not you, it's me... it's love",
-        "url": "https://open.spotify.com/album/18CRiKrKO856anaMXGjXP9"
+        "name": "Marking My Time",
+        "url": "https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau"
       },
       "artists": [
         {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 143773,
-      "name": "nite",
-      "url": "https://open.spotify.com/track/5d2sBOqleqxg8noBOvQEYa"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "I Came Home Late",
-        "url": "https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud"
-      },
-      "artists": [
-        {
-          "name": "Ama Lou",
-          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
-        }
-      ],
-      "duration_ms": 264613,
-      "name": "YKWYA",
-      "url": "https://open.spotify.com/track/6yZSaVJuUaTSk07dJsyA7I"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "tight rope",
-        "url": "https://open.spotify.com/album/0FHSp4Lx30GMa0mfyoBPJ2"
-      },
-      "artists": [
-        {
-          "name": "Samaria",
-          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
-        }
-      ],
-      "duration_ms": 202494,
-      "name": "tight rope",
-      "url": "https://open.spotify.com/track/24DSNmMY9u7j0ON0syi6R9"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/6xs1AUORh5OoRfmTkm8W07"
-      },
-      "artists": [
-        {
-          "name": "Marzz",
-          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
-        }
-      ],
-      "duration_ms": 153547,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/1rcq9oWXJyXW9dYuIBWF3q"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Pros and Cons",
-        "url": "https://open.spotify.com/album/7kUdJRYvPttmaMJ1lKCA9p"
-      },
-      "artists": [
-        {
-          "name": "TA Thomas",
-          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
-        }
-      ],
-      "duration_ms": 164243,
-      "name": "Pros and Cons",
-      "url": "https://open.spotify.com/track/2szn1ATpTPRsCswbQ24XWp"
+      "duration_ms": 268038,
+      "name": "Marking My Time",
+      "url": "https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw"
     },
     {
       "added_at": "2023-08-25 16:25:44",
@@ -219,6 +155,134 @@
       "duration_ms": 195833,
       "name": "Definition of Love",
       "url": "https://open.spotify.com/track/7FVSpM0idOhw4etUpkPf8d"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/4tgsvviaNU3sRV1obVFzTq"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 186285,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/7o7psZFHfmAhMRCkBK5TNc"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "it's not you, it's me... it's love",
+        "url": "https://open.spotify.com/album/18CRiKrKO856anaMXGjXP9"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 143773,
+      "name": "nite",
+      "url": "https://open.spotify.com/track/5d2sBOqleqxg8noBOvQEYa"
+    },
+    {
+      "added_at": "2023-08-25 16:25:44",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/1sF44ZsrgWPrJ2imXUCcDB"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        }
+      ],
+      "duration_ms": 196399,
+      "name": "More",
+      "url": "https://open.spotify.com/track/43AkwjzRPBKbFrGM7Rn9JF"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "I Came Home Late",
+        "url": "https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud"
+      },
+      "artists": [
+        {
+          "name": "Ama Lou",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "duration_ms": 264613,
+      "name": "YKWYA",
+      "url": "https://open.spotify.com/track/6yZSaVJuUaTSk07dJsyA7I"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "tight rope",
+        "url": "https://open.spotify.com/album/0FHSp4Lx30GMa0mfyoBPJ2"
+      },
+      "artists": [
+        {
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+        }
+      ],
+      "duration_ms": 202494,
+      "name": "tight rope",
+      "url": "https://open.spotify.com/track/24DSNmMY9u7j0ON0syi6R9"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Take What You Need",
+        "url": "https://open.spotify.com/album/3nR9KOMEB7VhY8PlyiK11d"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 159264,
+      "name": "good cry",
+      "url": "https://open.spotify.com/track/3tuuvlzu72PRKCb9IxFXst"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/6xs1AUORh5OoRfmTkm8W07"
+      },
+      "artists": [
+        {
+          "name": "Marzz",
+          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
+        }
+      ],
+      "duration_ms": 153547,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/1rcq9oWXJyXW9dYuIBWF3q"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Pros and Cons",
+        "url": "https://open.spotify.com/album/7kUdJRYvPttmaMJ1lKCA9p"
+      },
+      "artists": [
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "duration_ms": 164243,
+      "name": "Pros and Cons",
+      "url": "https://open.spotify.com/track/2szn1ATpTPRsCswbQ24XWp"
     },
     {
       "added_at": "2023-08-25 16:25:44",
@@ -629,22 +693,6 @@
       "url": "https://open.spotify.com/track/5G39HqNTankm28Qo3JFWU8"
     },
     {
-      "added_at": "2023-08-11 05:51:50",
-      "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8"
-    },
-    {
       "added_at": "2023-08-25 16:25:44",
       "album": {
         "name": "When It Comes To You",
@@ -723,22 +771,6 @@
       "duration_ms": 233826,
       "name": "Chances",
       "url": "https://open.spotify.com/track/1rDN43rZK48pWElATbvyp3"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Tell Me Something",
-        "url": "https://open.spotify.com/album/1JsGpmtHXXzpX12TVUQVC9"
-      },
-      "artists": [
-        {
-          "name": "Gareth Donkin",
-          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
-        }
-      ],
-      "duration_ms": 257726,
-      "name": "Tell Me Something",
-      "url": "https://open.spotify.com/track/7cY0pFesD6XUCx0v0Spw4Z"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1153,22 +1185,6 @@
       "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Worlds Away",
-        "url": "https://open.spotify.com/album/3PvGhm40m4E00G6hQiY4Q9"
-      },
-      "artists": [
-        {
-          "name": "Chxrry22",
-          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
-        }
-      ],
-      "duration_ms": 174077,
-      "name": "Worlds Away",
-      "url": "https://open.spotify.com/track/2PUsRFtW68RSwpNr4XjjKa"
-    },
-    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "Forgiving Myself",
@@ -1365,22 +1381,6 @@
       "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "sink or swim",
-        "url": "https://open.spotify.com/album/5dk6DPvWnVfKNBhJQBXcsx"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 192373,
-      "name": "sink or swim",
-      "url": "https://open.spotify.com/track/7cSzfId9hyN4CjdFKKKojm"
-    },
-    {
       "added_at": "2023-03-31 04:08:51",
       "album": {
         "name": "LOVERS WAVE VOL. 1",
@@ -1411,22 +1411,6 @@
       "duration_ms": 187484,
       "name": "Overrated",
       "url": "https://open.spotify.com/track/70Kv6vWsCZeQryTBebFvbX"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "'95 Civic",
-        "url": "https://open.spotify.com/album/3h9geYca2KTbsfQIhXoZL3"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        }
-      ],
-      "duration_ms": 160420,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/0lS0geQygvDip8D1NxwQ6X"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1619,22 +1603,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Wickedest",
-        "url": "https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2"
+        "name": "Wickedest (feat. Haile)",
+        "url": "https://open.spotify.com/album/0gcr59uNr2tD6yoz9dRipQ"
       },
       "artists": [
         {
           "name": "Tamera",
           "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        },
-        {
-          "name": "Haile",
-          "url": "https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM"
         }
       ],
       "duration_ms": 195976,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v"
+      "name": "Wickedest (feat. Haile)",
+      "url": "https://open.spotify.com/track/3W7p3aKtbyLjqiTwxF1jKw"
     },
     {
       "added_at": "2023-01-20 05:00:00",

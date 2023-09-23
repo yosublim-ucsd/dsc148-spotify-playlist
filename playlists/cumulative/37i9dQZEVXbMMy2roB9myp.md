@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Argentina.
 
-634 songs - 1 day 10 hr 19 min
+635 songs - 1 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-04-08 | 2023-06-10 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2022-12-10 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-22 |
-| [ASQUEROSO](https://open.spotify.com/track/1PSlMgsJ0V7pUeumk13fbs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [ASQUEROSO](https://open.spotify.com/album/6QawDZdJyz7hiAkgw65BA3) | 2:39 | 2023-07-15 |  |
+| [ASQUEROSO](https://open.spotify.com/track/1PSlMgsJ0V7pUeumk13fbs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [ASQUEROSO](https://open.spotify.com/album/6QawDZdJyz7hiAkgw65BA3) | 2:39 | 2023-07-15 | 2023-09-23 |
 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2021-10-20 | 2021-10-23 |
 | [ATORRANTE \- con Los Palmeras](https://open.spotify.com/track/3ezO8gfskSWM3rk0GTfhFl) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [ATORRANTE \- con Los Palmeras](https://open.spotify.com/album/7J0ELTewKJkd25s6AbcV1l) | 4:12 | 2023-07-14 |  |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2023-08-02 | 2023-08-04 |
@@ -534,6 +534,7 @@
 | [Te Escapas De Mis Brazos \(Remix\)](https://open.spotify.com/track/6Vp8EcHAHjC9u7Qnsn2kob) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM) | [Te Escapas De Mis Brazos \(Remix\)](https://open.spotify.com/album/7z6DWyWrMQPPCGs5H0IU67) | 3:37 | 2023-03-12 | 2023-06-25 |
 | [Te Escapas De Mis Brazos \- Remix](https://open.spotify.com/track/3ZACqxHGSK9WQsuwhBNART) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM) | [Te Escapas De Mis Brazos \(Remix\)](https://open.spotify.com/album/2qwDoRmOoiueskiEQuAL4a) | 3:37 | 2023-03-06 | 2023-03-13 |
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-05-10 | 2023-02-01 |
+| [Te hubieras ido antes](https://open.spotify.com/track/79v3sImuaCmWvOn1Au1EZU) | [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Te Sigo Enamorando](https://open.spotify.com/album/3jhZE9j5IRdc6JX8lCepYZ) | 5:11 | 2023-09-22 |  |
 | [Te Mentiria](https://open.spotify.com/track/5MOF8J0yJVHdKE3gRgpM6r) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Te Mentiria](https://open.spotify.com/album/5ZhZaBJaiJPoPre9hzZ75K) | 3:06 | 2021-03-27\* | 2021-05-13 |
 | [Te Mentiría](https://open.spotify.com/track/3EcCc1U405tm8yKm1x6Y8W) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Universo Paralelo](https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2) | 3:38 | 2021-12-14 | 2023-03-29 |
 | [Te Mentiría](https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría](https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae) | 3:38 | 2021-10-19 | 2021-12-08 |

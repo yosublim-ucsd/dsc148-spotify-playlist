@@ -4,7 +4,7 @@
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-254 songs - 15 hr 29 min
+255 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [We'll Make It Through](https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 6:01 | 2023-09-07 |  |
 | [What a Time to Be Alive](https://open.spotify.com/track/2wpc0OnkylBzNahTxZ5ERc) | [The Guest and the Host](https://open.spotify.com/artist/5btUhGNTcEvv2W2NcsKndH) | [Songs from Mirror Wall](https://open.spotify.com/album/5BPFrjkerwTdVXZ6PIoOSj) | 3:41 | 2023-09-07 |  |
 | [What Dreams Are Made Of](https://open.spotify.com/track/4kU3W9CBmw5s7f5R5A8Axt) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [MOJO](https://open.spotify.com/album/1xtL6ok6dwZ473pkdzgUy2) | 4:25 | 2022-07-22 |  |
+| [What You Make It](https://open.spotify.com/track/7Cw5D0t79vvOCHjzGVaNSF) | [Kinney](https://open.spotify.com/artist/752jHHjQL6CzZuUVrGFtPv), [KOLARS](https://open.spotify.com/artist/3tiDO34wzfyJdv8elYqKxj) | [What You Make It](https://open.spotify.com/album/6oahNb5yQw1DEiLgbHJLFa) | 5:06 | 2023-09-22 |  |
 | [Wheels Keep Spinning](https://open.spotify.com/track/0FJNcwBAZ6zjGkJ6FjbHgG) | [Danny Brooks](https://open.spotify.com/artist/3iy0FX1d73IIAJx99mwB3h) | [It's A Southern Thing](https://open.spotify.com/album/4GhLVSMBnTsBqZStcVQOgq) | 4:08 | 2022-07-22 |  |
 | [Where It Stays](https://open.spotify.com/track/2Kf7MWF2igvJTuGVhpyto1) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Careless People](https://open.spotify.com/album/6jg5Yt9EmSL9tpauXRPAiV) | 3:38 | 2022-07-22 |  |
 | [Where's My Love](https://open.spotify.com/track/0IRmoVD5Zbndp79ShxphRb) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC) | 3:22 | 2022-07-22 | 2022-11-14 |

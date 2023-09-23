@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-307 songs - 18 hr 24 min
+309 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Better Apart \(feat\. Dresage\)](https://open.spotify.com/track/0k4yUonDEAqoIw3xL2XMVC) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [Better Apart \(feat\. Dresage\)](https://open.spotify.com/album/51XyesKizT4PYjYCrGhbEn) | 3:54 | 2021-12-03 | 2022-05-14 |
 | [Beyond Control](https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Apnea](https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C) | 5:32 | 2021-12-03 | 2022-05-07 |
 | [Beyond the Fire](https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Beyond the Fire](https://open.spotify.com/album/6lqBwXMLtXK7HGAaG4AnZ1) | 3:48 | 2023-02-24 |  |
+| [Bigger Than Us](https://open.spotify.com/track/55EM7fFmFL7nWuSauXmNPq) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9) | [Bigger Than Us](https://open.spotify.com/album/3DQudKHmMF1sHvaW0JTOhT) | 2:52 | 2023-09-22 |  |
 | [Bittersweet Love \(Hey Oh\)](https://open.spotify.com/track/0RVKiAxra7NF8dCugGfYWu) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Fire Hell and Holy Water](https://open.spotify.com/album/0ZTKj2OdsF2gI2npmAADAQ) | 4:25 | 2022-09-09 |  |
 | [Black & Blue](https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Black & Blue](https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU) | 2:28 | 2022-05-27 |  |
 | [Blame Myself](https://open.spotify.com/track/1suqXPrYygZ7BYiSfaVZE4) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Fallen Embers](https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V) | 3:50 | 2021-12-03 |  |
@@ -132,6 +133,7 @@
 | [Heartache](https://open.spotify.com/track/4IDdqBDBCFng8qyQ7ja8YP) | [Sondr](https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc), [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Heartache](https://open.spotify.com/album/7qwkSgCKUHrWatb4fJufv2) | 3:11 | 2021-12-03 | 2023-06-17 |
 | [Heartaches](https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heartaches](https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3) | 3:27 | 2021-12-03 |  |
 | [heartbreak \(feat\. joegarratt\)](https://open.spotify.com/track/7IsAYozq9Cm2v1hU6vutm1) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [joegarratt](https://open.spotify.com/artist/6vkcAnHmppXfe6oAgZLcGf) | [heartbreak \(feat\. joegarratt\)](https://open.spotify.com/album/3kQQ4qFE9I4HP5OQQTRuj4) | 3:01 | 2023-08-04 |  |
+| [Heartbreak Hangover](https://open.spotify.com/track/4nEmjzru7UcuqtXQuCVgBb) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ) | [Heartbreak Hangover](https://open.spotify.com/album/7t7gZelBweppkMgJ1ZabEN) | 2:34 | 2023-09-22 |  |
 | [Heartbroken 2022](https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr) | [T2](https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd), [ARPA](https://open.spotify.com/artist/02oexF6HrOu87MXwCt46Jd) | [Heartbroken 2022](https://open.spotify.com/album/1YnYdZrfgtie2NvTsNUAIQ) | 2:52 | 2022-07-29 | 2022-12-03 |
 | [Hero](https://open.spotify.com/track/0ILpEfiCOyhqt8uFXHuY5E) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Hazel](https://open.spotify.com/artist/4rkgDx09bDtVCllN0MJR1J) | [Hero](https://open.spotify.com/album/3nM3oTAZHYqJDNYMzPBEev) | 3:02 | 2021-12-03 | 2022-07-29 |
 | [Hero](https://open.spotify.com/track/6vp1C0oz3aJDzqnSzr1DD1) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [hazel](https://open.spotify.com/artist/4rkgDx09bDtVCllN0MJR1J) | [Hero](https://open.spotify.com/album/0KUyqoyokHa7aCRSIf9Jne) | 3:02 | 2022-07-15 |  |

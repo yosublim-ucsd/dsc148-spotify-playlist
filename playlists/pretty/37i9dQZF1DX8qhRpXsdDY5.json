@@ -1,12 +1,12 @@
 {
   "description": "Classic Latin tunes to get you in the Christmas spirit. Cover: Jos\u00e9 Feliciano",
-  "num_followers": 195377,
+  "num_followers": 195369,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzYwZWFiM2EyMWNkYjMxNjI4YTQxN2E1MjNkZjdkODVlYmRlZTIz",
+  "snapshot_id": "MCxiYWQzNTk4Y2U3MjY5NzBmYWYwODI1YWQyMGIzN2RjOTA0NjE4NzY5",
   "tracks": [
     {
       "added_at": "2022-12-19 23:50:20",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-12-19 23:50:20",
       "album": {
-        "name": "Memorias de Navidad",
-        "url": "https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 274786,
-      "name": "Ya Se Ven las Bombillitas",
-      "url": "https://open.spotify.com/track/47mV5gXQdmvOZYQzVTNqcJ"
-    },
-    {
-      "added_at": "2022-12-19 23:50:20",
-      "album": {
         "name": "Mi Navidad (Remastered)",
         "url": "https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 195743,
       "name": "Dios nos bendecir\u00e1",
       "url": "https://open.spotify.com/track/6F89Ii7pfMzniZ4ueP5xDp"
+    },
+    {
+      "added_at": "2022-12-19 23:50:20",
+      "album": {
+        "name": "Memorias de Navidad",
+        "url": "https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 274786,
+      "name": "Ya Se Ven las Bombillitas",
+      "url": "https://open.spotify.com/track/47mV5gXQdmvOZYQzVTNqcJ"
     },
     {
       "added_at": "2022-12-19 23:50:20",
@@ -591,6 +591,26 @@
     {
       "added_at": "2022-12-19 23:50:20",
       "album": {
+        "name": "Tarjeta De Navidad, VOL. II",
+        "url": "https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "El Cuerpo Me Pide",
+      "url": "https://open.spotify.com/track/3SMJ6uEe3DbBZ4xsRtXg5R"
+    },
+    {
+      "added_at": "2022-12-19 23:50:20",
+      "album": {
         "name": "Diego Torres Sinf\u00f3nico",
         "url": "https://open.spotify.com/album/49vYU4qT2wQXGJdhY8Bx97"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 152160,
       "name": "Dime Ni\u00f1o \u00bfde Quien Eres?",
       "url": "https://open.spotify.com/track/0Mrgc3kVm21j2idMBEuDhy"
-    },
-    {
-      "added_at": "2022-12-19 23:50:20",
-      "album": {
-        "name": "Tarjeta De Navidad, VOL. II",
-        "url": "https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        },
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 300506,
-      "name": "El Cuerpo Me Pide",
-      "url": "https://open.spotify.com/track/3SMJ6uEe3DbBZ4xsRtXg5R"
     },
     {
       "added_at": "2022-12-19 23:50:20",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-12-19 23:50:20",
       "album": {
-        "name": "My Grown-up Christmas List",
-        "url": "https://open.spotify.com/album/31FO9vaH0PeeIkDJtUfL8d"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Divas",
-          "url": "https://open.spotify.com/artist/27c4TvzdsKPi3kDRPBW96u"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Santa Baby (Spanish)",
-      "url": "https://open.spotify.com/track/403k7tpzOWE2CJRvqJitJk"
-    },
-    {
-      "added_at": "2022-12-19 23:50:20",
-      "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/20bHfo0I3RXOt41LXqHzPE"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 133000,
       "name": "Ya Viene la Vieja",
       "url": "https://open.spotify.com/track/37RZwbb0lxK7oPWs7YZopX"
+    },
+    {
+      "added_at": "2022-12-19 23:50:20",
+      "album": {
+        "name": "My Grown-up Christmas List",
+        "url": "https://open.spotify.com/album/31FO9vaH0PeeIkDJtUfL8d"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Divas",
+          "url": "https://open.spotify.com/artist/27c4TvzdsKPi3kDRPBW96u"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "Santa Baby (Spanish)",
+      "url": "https://open.spotify.com/track/403k7tpzOWE2CJRvqJitJk"
     },
     {
       "added_at": "2022-12-19 23:50:20",

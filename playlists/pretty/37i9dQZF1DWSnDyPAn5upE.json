@@ -1,12 +1,12 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 45145,
+  "num_followers": 45226,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjllOTRhMTNmNWM1NmJlMGYyOGNiNzYzYTQ3NjEzZjNiYzJjYWZm",
+  "snapshot_id": "MCw2MDBkNDc3MGMxNmFkN2RmZThmYzE1ZjQ1MDQ5N2Y5YWY4N2M1OWUw",
   "tracks": [
     {
       "added_at": "2023-09-08 14:04:44",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
+        "name": "a mother's daughter",
+        "url": "https://open.spotify.com/album/4fpCCi45NumQGmKMBSIWsS"
+      },
+      "artists": [
+        {
+          "name": "Mieke",
+          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
+        }
+      ],
+      "duration_ms": 168250,
+      "name": "a mother's daughter",
+      "url": "https://open.spotify.com/track/5J0vNzIHn2ruZ8wPEAfdPN"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
         "name": "See-Through",
         "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 160000,
       "name": "The Tides Do That with Me",
       "url": "https://open.spotify.com/track/54IVj29KBSyfbDd5jCJ4b9"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
-        "name": "a mother's daughter",
-        "url": "https://open.spotify.com/album/4fpCCi45NumQGmKMBSIWsS"
-      },
-      "artists": [
-        {
-          "name": "Mieke",
-          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
-        }
-      ],
-      "duration_ms": 168250,
-      "name": "a mother's daughter",
-      "url": "https://open.spotify.com/track/5J0vNzIHn2ruZ8wPEAfdPN"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -567,26 +567,6 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/4dgEPvuxoOfoyciOzTiQQj"
-      },
-      "artists": [
-        {
-          "name": "Umitaro Abe",
-          "url": "https://open.spotify.com/artist/5JZautVqz7ojSZdWHldk7b"
-        },
-        {
-          "name": "Kaori Takeda",
-          "url": "https://open.spotify.com/artist/7eXYitpmnte1BBdZZsmuHk"
-        }
-      ],
-      "duration_ms": 121680,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/57R08VnhqGxJ9gQibB9ARS"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
         "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 193988,
       "name": "I Could Be Your Dog",
       "url": "https://open.spotify.com/track/2jSBYuzIyy7B2RqZNWEFlZ"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/4dgEPvuxoOfoyciOzTiQQj"
+      },
+      "artists": [
+        {
+          "name": "Umitaro Abe",
+          "url": "https://open.spotify.com/artist/5JZautVqz7ojSZdWHldk7b"
+        },
+        {
+          "name": "Kaori Takeda",
+          "url": "https://open.spotify.com/artist/7eXYitpmnte1BBdZZsmuHk"
+        }
+      ],
+      "duration_ms": 121680,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/57R08VnhqGxJ9gQibB9ARS"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -743,6 +743,38 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
+        "name": "Fantas Variations",
+        "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        },
+        {
+          "name": "Evelyn Saylor",
+          "url": "https://open.spotify.com/artist/41T8k3OwxjwiIG8WfpU3Kr"
+        },
+        {
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+        },
+        {
+          "name": "Annie Garlid",
+          "url": "https://open.spotify.com/artist/39ePqE7lVGgRzWHoQNRz0V"
+        },
+        {
+          "name": "Stine Janvin",
+          "url": "https://open.spotify.com/artist/6klRil30SiILsNixh4xy4Q"
+        }
+      ],
+      "duration_ms": 460892,
+      "name": "Fantas Variation for Voices",
+      "url": "https://open.spotify.com/track/67bJXVcOsU3JPjmSngBkfV"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
         "name": "SOUL VOICES",
         "url": "https://open.spotify.com/album/2N0ZhTIRAlJLMKkXdpmTOU"
       },
@@ -775,38 +807,6 @@
       "duration_ms": 104544,
       "name": "DOG",
       "url": "https://open.spotify.com/track/1WEjS8vV0UpijxqkFU2Wi4"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
-        "name": "Fantas Variations",
-        "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        },
-        {
-          "name": "Evelyn Saylor",
-          "url": "https://open.spotify.com/artist/41T8k3OwxjwiIG8WfpU3Kr"
-        },
-        {
-          "name": "Lyra Pramuk",
-          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
-        },
-        {
-          "name": "Annie Garlid",
-          "url": "https://open.spotify.com/artist/39ePqE7lVGgRzWHoQNRz0V"
-        },
-        {
-          "name": "Stine Janvin",
-          "url": "https://open.spotify.com/artist/6klRil30SiILsNixh4xy4Q"
-        }
-      ],
-      "duration_ms": 460892,
-      "name": "Fantas Variation for Voices",
-      "url": "https://open.spotify.com/track/67bJXVcOsU3JPjmSngBkfV"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "Pray for Us",
-        "url": "https://open.spotify.com/album/5FCfLrWXgzKOvI1zOx9tJo"
-      },
-      "artists": [
-        {
-          "name": "Kisel\u0451k",
-          "url": "https://open.spotify.com/artist/0GALZnNXOQ3u2H5csY5iKz"
-        },
-        {
-          "name": "SymphoCat",
-          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
-        }
-      ],
-      "duration_ms": 292605,
-      "name": "Pray for Us",
-      "url": "https://open.spotify.com/track/5wlPhifST280Kk6g8uw2vo"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
         "name": "Guiding Light",
         "url": "https://open.spotify.com/album/4ms9LW96TetcO30gHy6DvE"
       },
@@ -1103,6 +1083,26 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
+        "name": "Pray for Us",
+        "url": "https://open.spotify.com/album/5FCfLrWXgzKOvI1zOx9tJo"
+      },
+      "artists": [
+        {
+          "name": "Kisel\u0451k",
+          "url": "https://open.spotify.com/artist/0GALZnNXOQ3u2H5csY5iKz"
+        },
+        {
+          "name": "SymphoCat",
+          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
+        }
+      ],
+      "duration_ms": 292605,
+      "name": "Pray for Us",
+      "url": "https://open.spotify.com/track/5wlPhifST280Kk6g8uw2vo"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
         "name": "Piccolo Corpo (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7wRqZYWKlxhqah0N9IE0QK"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 264369,
       "name": "Piccolo Corpo",
       "url": "https://open.spotify.com/track/2WQIpkkMGKD7rgy32wsckK"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
+        "name": "plastichoir",
+        "url": "https://open.spotify.com/album/1KlD8Ua27Osp0ChMjb1Zq2"
+      },
+      "artists": [
+        {
+          "name": "Aphir",
+          "url": "https://open.spotify.com/artist/5FjAJK7JsaOahbaAwIxtE4"
+        }
+      ],
+      "duration_ms": 190860,
+      "name": "melting cups",
+      "url": "https://open.spotify.com/track/4ACEmXrMgFt6PnRdp0mJVj"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1187,38 +1203,6 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "Untitled",
-        "url": "https://open.spotify.com/album/1aVKHYdh9Qqv0lKulUturf"
-      },
-      "artists": [
-        {
-          "name": "YL Hooi",
-          "url": "https://open.spotify.com/artist/0IJ92bpsOtB6gFTWnUXrNY"
-        }
-      ],
-      "duration_ms": 250440,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/2jVA4dv46MQ0NKMwvooEe9"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
-        "name": "plastichoir",
-        "url": "https://open.spotify.com/album/1KlD8Ua27Osp0ChMjb1Zq2"
-      },
-      "artists": [
-        {
-          "name": "Aphir",
-          "url": "https://open.spotify.com/artist/5FjAJK7JsaOahbaAwIxtE4"
-        }
-      ],
-      "duration_ms": 190860,
-      "name": "melting cups",
-      "url": "https://open.spotify.com/track/4ACEmXrMgFt6PnRdp0mJVj"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
         "name": "Lost in Time",
         "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 114080,
       "name": "Chapitre I",
       "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/1aVKHYdh9Qqv0lKulUturf"
+      },
+      "artists": [
+        {
+          "name": "YL Hooi",
+          "url": "https://open.spotify.com/artist/0IJ92bpsOtB6gFTWnUXrNY"
+        }
+      ],
+      "duration_ms": 250440,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/2jVA4dv46MQ0NKMwvooEe9"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "There Up, Behind The Moon",
-        "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        },
-        {
-          "name": "Ana Stamp",
-          "url": "https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH"
-        }
-      ],
-      "duration_ms": 444000,
-      "name": "Bright Girl",
-      "url": "https://open.spotify.com/track/6ULNDapgfYtl8IW4KzhmCd"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
         "name": "Ithaca",
         "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
       },
@@ -1363,6 +1343,26 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
+        "name": "There Up, Behind The Moon",
+        "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        },
+        {
+          "name": "Ana Stamp",
+          "url": "https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH"
+        }
+      ],
+      "duration_ms": 444000,
+      "name": "Bright Girl",
+      "url": "https://open.spotify.com/track/6ULNDapgfYtl8IW4KzhmCd"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
         "name": "Waving",
         "url": "https://open.spotify.com/album/6F5Qae0yAmB2nO8QRPVhOK"
       },
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
+        "name": "Celeste",
+        "url": "https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY"
+      },
+      "artists": [
+        {
+          "name": "CTM",
+          "url": "https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz"
+        },
+        {
+          "name": "August Rosenbaum",
+          "url": "https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Celeste Song",
+      "url": "https://open.spotify.com/track/63o2pUoRLVel5Fr14GQy9c"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
         "name": "You Make It Look so Easy (Reverbed by Malibu)",
         "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 239232,
       "name": "You Make It Look so Easy - Reverbed by Malibu",
       "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
-        "name": "Celeste",
-        "url": "https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY"
-      },
-      "artists": [
-        {
-          "name": "CTM",
-          "url": "https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz"
-        },
-        {
-          "name": "August Rosenbaum",
-          "url": "https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Celeste Song",
-      "url": "https://open.spotify.com/track/63o2pUoRLVel5Fr14GQy9c"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1703,22 +1703,18 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "Bones Knowing",
-        "url": "https://open.spotify.com/album/7unSlshn5qJdKuzhiKRYKG"
+        "name": "Rare Backwards",
+        "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
       },
       "artists": [
         {
-          "name": "marine eyes",
-          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
-        },
-        {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+          "name": "Spivak",
+          "url": "https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx"
         }
       ],
-      "duration_ms": 240500,
-      "name": "Bones Knowing",
-      "url": "https://open.spotify.com/track/1E38dgmmUiM6abO6GYKiJB"
+      "duration_ms": 219196,
+      "name": "18:00",
+      "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1743,6 +1739,26 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
+        "name": "Bones Knowing",
+        "url": "https://open.spotify.com/album/7unSlshn5qJdKuzhiKRYKG"
+      },
+      "artists": [
+        {
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+        },
+        {
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "Bones Knowing",
+      "url": "https://open.spotify.com/track/1E38dgmmUiM6abO6GYKiJB"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
         "name": "Immersed in Black Water (Linn Elisabet You Will Version)",
         "url": "https://open.spotify.com/album/5iXsdv1ARtSKnvNo2sBQdx"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 212444,
       "name": "Immersed in Black Water - Linn Elisabet You Will Version",
       "url": "https://open.spotify.com/track/1hrKwQY6BRkpfSnFmUUmUX"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
-        "name": "Rare Backwards",
-        "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
-      },
-      "artists": [
-        {
-          "name": "Spivak",
-          "url": "https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx"
-        }
-      ],
-      "duration_ms": 219196,
-      "name": "18:00",
-      "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1831,22 +1831,18 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "Languoria",
-        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
+        "name": "chamomile",
+        "url": "https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj"
       },
       "artists": [
         {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
         }
       ],
-      "duration_ms": 295789,
-      "name": "The Journey",
-      "url": "https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg"
+      "duration_ms": 242000,
+      "name": "chamomile",
+      "url": "https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus"
     }
   ],
   "unique_name": "ethereal voices",

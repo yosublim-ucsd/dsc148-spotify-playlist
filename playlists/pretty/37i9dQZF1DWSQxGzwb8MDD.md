@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,743 likes - 97 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,760 likes - 97 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 96 | [London Acid City \- Jon The Dentist Remix](https://open.spotify.com/track/1zmL3Dvul0H0oWpGqAsjhu) | [Lochi](https://open.spotify.com/artist/1qQpYZpMvEWgEE1p79uSPY), [Jon the Dentist](https://open.spotify.com/artist/1ZeqWDCum0uyQ80gnmtKBY) | [London Acid City](https://open.spotify.com/album/4QvrkXdSyR0j3FcgkkuTls) | 7:34 |
 | 97 | [Yes \- Remastered](https://open.spotify.com/track/5zhFBeXP6RjaqF8t5nWJPz) | [Mario De Bellis](https://open.spotify.com/artist/3nXiQWYpv6vWZERJbvYEg4) | [Yes](https://open.spotify.com/album/3JiFYykOsAqWy0UfLasmEg) | 8:25 |
 
-Snapshot ID: `MCw4MGFhZTBlNTM0MjFjYTgyYmJjNDMzYTE5OTZjNTA5ZmRkYjY1OWVm`
+Snapshot ID: `MCxlNThiYmY3ZTZhZjY5MmQ0OGFlMzI5YWJiOTZlYWU1YTMyOGM5ODYy`

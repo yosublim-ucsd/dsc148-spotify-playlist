@@ -1,12 +1,12 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 38149,
+  "num_followers": 38321,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDg1YjBlNzYwOTc5YjNhMDFjYWIwMDFmNzc5YjljZjAyNDAxOWI4",
+  "snapshot_id": "MCxhMzBlMjczMjE0YjE5YjBlMTdkZjJhMTNhZWY3YzMxNjM0ZWJhY2Vm",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -359,18 +359,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
+        "name": "Greenbroke",
+        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 218718,
-      "name": "TRUCK",
-      "url": "https://open.spotify.com/track/0OPcMpjhDyILRccj05f6S6"
+      "duration_ms": 187957,
+      "name": "Don't Come Lookin'",
+      "url": "https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Greenbroke",
-        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
       },
       "artists": [
         {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 187957,
-      "name": "Don't Come Lookin'",
-      "url": "https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt"
+      "duration_ms": 218718,
+      "name": "TRUCK",
+      "url": "https://open.spotify.com/track/0OPcMpjhDyILRccj05f6S6"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "SOLD OUT",
-        "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
+        "name": "They Don't Know",
+        "url": "https://open.spotify.com/album/64IFfMf7W67CLvXaYeRNB6"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 202912,
-      "name": "SOLD OUT",
-      "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
+      "duration_ms": 194506,
+      "name": "Lights Come On",
+      "url": "https://open.spotify.com/track/4llYMkhHa1w7UAdDFRQcEZ"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -523,22 +523,6 @@
       "duration_ms": 185800,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "They Don't Know",
-        "url": "https://open.spotify.com/album/64IFfMf7W67CLvXaYeRNB6"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Lights Come On",
-      "url": "https://open.spotify.com/track/4llYMkhHa1w7UAdDFRQcEZ"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -579,6 +563,22 @@
       "duration_ms": 150861,
       "name": "Ride It Hard",
       "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "SOLD OUT",
+        "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 202912,
+      "name": "SOLD OUT",
+      "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
     },
     {
       "added_at": "2023-06-30 04:01:00",

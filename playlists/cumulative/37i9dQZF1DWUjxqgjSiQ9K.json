@@ -1399,6 +1399,28 @@
     },
     {
       "album": {
+        "name": "buen pastor",
+        "url": "https://open.spotify.com/album/6VARaF76F2B6tl0a8rSZCS"
+      },
+      "artists": [
+        {
+          "name": "PRISMA M\u00e1s Vida",
+          "url": "https://open.spotify.com/artist/2UHFb8SvTwloYRgoPz8umM"
+        },
+        {
+          "name": "Steven Richards",
+          "url": "https://open.spotify.com/artist/7nV5z8aBZuot66MlL143o4"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222430,
+      "name": "buen pastor",
+      "url": "https://open.spotify.com/track/0eJC8OXy9FgzgrT78YvIpR"
+    },
+    {
+      "album": {
         "name": "BUENO (Nunca Vas a Cambiar)",
         "url": "https://open.spotify.com/album/7fml1stxwLAWkTKONJ1SWw"
       },
@@ -1476,7 +1498,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 521932,
       "name": "Campfire Coritos (Live)",
       "url": "https://open.spotify.com/track/6XjxSd3E864EzMnNDd1gvA"
@@ -2579,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "Buz\u00f3n de Voz",
+        "url": "https://open.spotify.com/album/5RyQDplYD8TDxYJPP6oVOl"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210522,
+      "name": "Detras De Mi",
+      "url": "https://open.spotify.com/track/1h4vdbJlwTksTjcY55KpVf"
+    },
+    {
+      "album": {
         "name": "Dia De Milagres",
         "url": "https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ"
       },
@@ -3528,6 +3568,32 @@
       "duration_ms": 230389,
       "name": "En Ti Yo Esperar\u00e9 (What I'm Waiting For) (feat. TWICE)",
       "url": "https://open.spotify.com/track/5dbsfmhaLJ8yi3maimbuWZ"
+    },
+    {
+      "album": {
+        "name": "En Tu Luz",
+        "url": "https://open.spotify.com/album/1bWAUo2uYM6X9jDhjn6x5q"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        },
+        {
+          "name": "Enrique Bremer",
+          "url": "https://open.spotify.com/artist/7qsRGFbPpZ353KE58HrLnP"
+        },
+        {
+          "name": "Anabel Zubillaga",
+          "url": "https://open.spotify.com/artist/4RxaKrP7A7sA8ueEtJQst7"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343792,
+      "name": "En Tu Luz",
+      "url": "https://open.spotify.com/track/07T6LB4Og4VcO2ldZ19rcv"
     },
     {
       "album": {
@@ -5072,7 +5138,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 343244,
       "name": "LE\u00d3N (LION)",
       "url": "https://open.spotify.com/track/4gWEajZcRRCSbxkfkmesA5"
@@ -6186,7 +6252,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 181200,
       "name": "M\u00fasika",
       "url": "https://open.spotify.com/track/6JpPwFL4nP8Q1gyDh6tu49"
@@ -6676,7 +6742,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 265045,
       "name": "no te vas",
       "url": "https://open.spotify.com/track/3VWi1zSgfa9eVD68tWkypw"
@@ -7594,6 +7660,24 @@
       "duration_ms": 207272,
       "name": "Respiro Tu Paz",
       "url": "https://open.spotify.com/track/3aQB2L9u5b8sC7zvFFgHqT"
+    },
+    {
+      "album": {
+        "name": "Restaurame",
+        "url": "https://open.spotify.com/album/1Wf70DQzr7E4UY14DXHrs4"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165005,
+      "name": "Restaurame",
+      "url": "https://open.spotify.com/track/2MaCdXfxbbzbTdseKEPviw"
     },
     {
       "album": {

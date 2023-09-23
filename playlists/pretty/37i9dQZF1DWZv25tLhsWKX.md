@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,522 likes - 71 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,526 likes - 71 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 | 2 | [Respect Yourself](https://open.spotify.com/track/4lzTyLYXb3ED01TSLCJ1Hz) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:31 |
 | 3 | [Hold On](https://open.spotify.com/track/2AmvFn1VALA0VM1toWubEN) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14), [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Hold On](https://open.spotify.com/album/5OF5fVkkIWWOvn2Xdat10i) | 3:29 |
 | 4 | [In the Night](https://open.spotify.com/track/0UYz2MYHwUSSquqdDIJc0j) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [In the Night](https://open.spotify.com/album/79XBpEmfWK9in4maPa8Kuh) | 3:56 |
-| 5 | [No Longer Mine](https://open.spotify.com/track/1yFdsXTdIIRG92zmnUIioH) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Somebody](https://open.spotify.com/album/5xftBgxyioSxBqJ8e2yzaV) | 4:35 |
+| 5 | [No Longer Mine](https://open.spotify.com/track/1QOZhKY3dMlFrqkKcJdpjt) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [No Longer Mine](https://open.spotify.com/album/7qXtzi7Y7eOAf0tFeKxueY) | 4:35 |
 | 6 | [Hands of Time](https://open.spotify.com/track/2spEkxVBo1217qmjWkWPZu) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/55byaTflUCrOReQQukpctP) | 6:09 |
 | 7 | [Georgia Morning Dew](https://open.spotify.com/track/7njTQhjl2SIBLutKCw4r1l) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Heart and Soul](https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb) | 3:17 |
 | 8 | [Stockholm Syndrome](https://open.spotify.com/track/35PvBFZRh58hFbqWBwjBZn) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Singing for My Supper](https://open.spotify.com/album/777Mw0hAnTtnE7YiVtJvBw) | 3:14 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 | 70 | [I Can't Stop Loving You](https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 4:16 |
 | 71 | [Shotgun Willie](https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:37 |
 
-Snapshot ID: `MCxlMjBjNmQ4MzNjMDZhYWY5NDYxZDRlNTQwOTM3NGUxNzZjMGJmMjQ3`
+Snapshot ID: `MCwxNWM2YTk5NDdjODZjZWI3MDMzM2RjYzIwYTMyMDVmZTk3MWZhMTU5`

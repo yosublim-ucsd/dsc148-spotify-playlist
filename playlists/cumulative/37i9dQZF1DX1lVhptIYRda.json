@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Dan + Shay",
+  "description": "Today's top country hits. Cover: Brothers Osborne",
   "name": "Hot Country",
   "tracks": [
     {
@@ -2260,7 +2260,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 179640,
       "name": "Dancin\u2019 In The Country",
       "url": "https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34"
@@ -2766,7 +2766,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 212360,
       "name": "Drive You Out Of My Mind",
       "url": "https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD"
@@ -5200,6 +5200,24 @@
       "duration_ms": 211576,
       "name": "I Called Mama",
       "url": "https://open.spotify.com/track/3YuvAPidBWldqjagOryo40"
+    },
+    {
+      "album": {
+        "name": "I Can Feel It",
+        "url": "https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163600,
+      "name": "I Can Feel It",
+      "url": "https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ"
     },
     {
       "album": {
@@ -9122,6 +9140,28 @@
       "duration_ms": 190451,
       "name": "Same Boat",
       "url": "https://open.spotify.com/track/2VmccNZz4zFmlcXstY8a2D"
+    },
+    {
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237493,
+      "name": "Save Me (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/4Bee3PcNdfeqO1B80dDgFn"
     },
     {
       "album": {

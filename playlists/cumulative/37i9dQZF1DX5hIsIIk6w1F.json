@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Cris Mj.",
+  "description": "Este Flow tiene otro Flow. Foto: Lucky Brown & Jere Klein.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -673,6 +673,32 @@
     },
     {
       "album": {
+        "name": "ARROM\u00c1NTICA",
+        "url": "https://open.spotify.com/album/383fm8KwpvafeIPNxcdQXG"
+      },
+      "artists": [
+        {
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        },
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225319,
+      "name": "ARROM\u00c1NTICA",
+      "url": "https://open.spotify.com/track/6Nh3BBGqYkRtnWLsjrVKxk"
+    },
+    {
+      "album": {
         "name": "Asikalate",
         "url": "https://open.spotify.com/album/0OSR6g8R5twiCgZ3QQmsIf"
       },
@@ -868,7 +894,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 132403,
       "name": "Badboy",
       "url": "https://open.spotify.com/track/07JJtGwS49VCkgUL0jnkpI"
@@ -1832,6 +1858,28 @@
       "duration_ms": 217610,
       "name": "Cora Roto",
       "url": "https://open.spotify.com/track/35fSKiaVknkbEBJxvqKuHU"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Part\u00edo",
+        "url": "https://open.spotify.com/album/4vzPnXYsFoXeVFKGgUFtEg"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Gringuitos Records",
+          "url": "https://open.spotify.com/artist/5AYSnRNynWULTIDjzAbgxV"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199578,
+      "name": "Coraz\u00f3n Part\u00edo",
+      "url": "https://open.spotify.com/track/4rxxABCcAMcJNntLOEPr0E"
     },
     {
       "album": {
@@ -3688,7 +3736,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 246606,
       "name": "Gasto en P",
       "url": "https://open.spotify.com/track/7dQjsvoWrFKwwsk5GpGuA5"
@@ -5440,7 +5488,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 186135,
       "name": "Mami",
       "url": "https://open.spotify.com/track/3CUB0TdGWnljZI1tQ5ptRx"
@@ -6811,6 +6859,28 @@
     },
     {
       "album": {
+        "name": "Nalgas Rojas",
+        "url": "https://open.spotify.com/album/7soQAqoA4Mjk2gfvkMeVMQ"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Magicenelbeat",
+          "url": "https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195356,
+      "name": "Nalgas Rojas",
+      "url": "https://open.spotify.com/track/5tF1nPbKUEKaiPOl9wc84l"
+    },
+    {
+      "album": {
         "name": "Nalgona",
         "url": "https://open.spotify.com/album/41P9vKICWvQcjRGZwc0kaP"
       },
@@ -7076,7 +7146,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 178183,
       "name": "NOCHE DE CHUPETEO",
       "url": "https://open.spotify.com/track/6PuKHbuN92jpqMDvzj9Tsu"
@@ -7522,6 +7592,32 @@
       "duration_ms": 162988,
       "name": "Pa Que Pichea",
       "url": "https://open.spotify.com/track/2Ul7codMpIxUYt9JQee6PZ"
+    },
+    {
+      "album": {
+        "name": "PA' FUMAR",
+        "url": "https://open.spotify.com/album/3U7KWRZiEOX4kT9AeXQuGp"
+      },
+      "artists": [
+        {
+          "name": "IcyCold",
+          "url": "https://open.spotify.com/artist/2hTZ25RcIVEvv3cb3EiWpM"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        },
+        {
+          "name": "Tommy Boysen",
+          "url": "https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243260,
+      "name": "PA' FUMAR",
+      "url": "https://open.spotify.com/track/1UEBUArwjaVPmzPgK2E1J2"
     },
     {
       "album": {
@@ -9621,6 +9717,28 @@
     },
     {
       "album": {
+        "name": "Si Te Atreve\u2019",
+        "url": "https://open.spotify.com/album/6SIhOjCMolRG8RmZEZPjDD"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209655,
+      "name": "Si Te Atreve\u2019",
+      "url": "https://open.spotify.com/track/4Qyw93APTY9U6GpW8rR7zm"
+    },
+    {
+      "album": {
         "name": "Si Tu Supieras",
         "url": "https://open.spotify.com/album/2F04HyhZgd2R4BqrjV9vsD"
       },
@@ -11094,7 +11212,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 139954,
       "name": "Una Vida Loca",
       "url": "https://open.spotify.com/track/3YlABKn85pVpk72SRLNkKY"

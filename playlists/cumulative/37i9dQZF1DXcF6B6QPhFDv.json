@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "Thirty Seconds To Mars along with today's Rock songs you need to hear.",
+  "description": "blink-182 along with today's Rock songs you need to hear.",
   "name": "Rock This",
   "tracks": [
     {
@@ -604,7 +604,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 144986,
       "name": "Big Blind",
       "url": "https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98"
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 194227,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/72zjYe2aysOkIR7l6KQIhR"
@@ -1886,6 +1886,28 @@
       "duration_ms": 185542,
       "name": "Faded Out (feat. Within Temptation)",
       "url": "https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp"
+    },
+    {
+      "album": {
+        "name": "Fake As Hell (with Avril Lavigne)",
+        "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179166,
+      "name": "Fake As Hell (with Avril Lavigne)",
+      "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
     },
     {
       "album": {
@@ -3608,7 +3630,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 175386,
       "name": "Lose You (feat. Soccer Mommy)",
       "url": "https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA"
@@ -4240,7 +4262,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 257946,
       "name": "Never Ending Moment",
       "url": "https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz"
@@ -4454,6 +4476,24 @@
       "duration_ms": 161253,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ"
+    },
+    {
+      "album": {
+        "name": "ONE MORE TIME / MORE THAN YOU KNOW",
+        "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208114,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
     },
     {
       "album": {
@@ -4920,7 +4960,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 227546,
       "name": "Portrait of a Blank Slate",
       "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
@@ -5344,6 +5384,28 @@
       "duration_ms": 200792,
       "name": "SABOTAGE//",
       "url": "https://open.spotify.com/track/4Wkk6Soil0Oq5HZkbx73rd"
+    },
+    {
+      "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        },
+        {
+          "name": "The Grogans",
+          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187487,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G"
     },
     {
       "album": {
@@ -6782,6 +6844,24 @@
       "duration_ms": 274613,
       "name": "Toni",
       "url": "https://open.spotify.com/track/2x6rYC4cvXQcqnG8rT2zbJ"
+    },
+    {
+      "album": {
+        "name": "Too Good At Raising Hell",
+        "url": "https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229212,
+      "name": "Too Good At Raising Hell",
+      "url": "https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC"
     },
     {
       "album": {

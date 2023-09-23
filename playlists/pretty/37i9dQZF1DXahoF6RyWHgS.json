@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 39005,
+  "num_followers": 39019,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjQzYTljMDk1ZDdjNWU1OTYzZDZlOGEzY2U0OTY1Y2Y0MGMzNDQ4",
+  "snapshot_id": "MCxlZDBmZjA2MjE1NDk1YmViMjY3OGU1NjZlNzNjMTFkOWE1M2Y2MmZi",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -285,22 +285,6 @@
       "url": "https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Esencia Solar",
-        "url": "https://open.spotify.com/album/1pOY7m74U5eY0H7QdlTbN4"
-      },
-      "artists": [
-        {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
-        }
-      ],
-      "duration_ms": 129306,
-      "name": "Color Caf\u00e9",
-      "url": "https://open.spotify.com/track/0Yy0tg52vRTXPB0bsU3e5T"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Kiko",
@@ -315,6 +299,22 @@
       "duration_ms": 215560,
       "name": "Kiko and the Lavender Moon",
       "url": "https://open.spotify.com/track/2JxHZfZM0ysnwPDefDl8Mz"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Esencia Solar",
+        "url": "https://open.spotify.com/album/1pOY7m74U5eY0H7QdlTbN4"
+      },
+      "artists": [
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        }
+      ],
+      "duration_ms": 129306,
+      "name": "Color Caf\u00e9",
+      "url": "https://open.spotify.com/track/0Yy0tg52vRTXPB0bsU3e5T"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -411,18 +411,18 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/1UWdECkol3scb1Gp1yc0MK"
+        "name": "The Venezuelan Zinga Son Vol. 1",
+        "url": "https://open.spotify.com/album/7qpTrRk5qObiLMkFCSUATK"
       },
       "artists": [
         {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
         }
       ],
-      "duration_ms": 165493,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/3DZfZ2Us4Wq9X5zXy0itrm"
+      "duration_ms": 279773,
+      "name": "Playa Azul",
+      "url": "https://open.spotify.com/track/6tNsBS0eXVSJwflDnJBOo1"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "The Venezuelan Zinga Son Vol. 1",
-        "url": "https://open.spotify.com/album/7qpTrRk5qObiLMkFCSUATK"
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/1UWdECkol3scb1Gp1yc0MK"
       },
       "artists": [
         {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
         }
       ],
-      "duration_ms": 279773,
-      "name": "Playa Azul",
-      "url": "https://open.spotify.com/track/6tNsBS0eXVSJwflDnJBOo1"
+      "duration_ms": 165493,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/3DZfZ2Us4Wq9X5zXy0itrm"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Veracruz Y Su M\u00fasica - 14 Sones Jarochos",
-        "url": "https://open.spotify.com/album/5CsXZNeVHigNfNKuUUeoMo"
-      },
-      "artists": [
-        {
-          "name": "Grupo Chalchihuecan De Los Hermanos Ochoa",
-          "url": "https://open.spotify.com/artist/5RFvZYPAx7hxnO37mR6e2G"
-        }
-      ],
-      "duration_ms": 166240,
-      "name": "El Tilingo Lingo",
-      "url": "https://open.spotify.com/track/6UWyXar79tNp3vaUlQNsiW"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Endangered Species Remixed",
         "url": "https://open.spotify.com/album/7FDfzktt4wIcYv98QabmFk"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Dirty Dancing: Havana Nights",
-        "url": "https://open.spotify.com/album/3DLGOkKxYXAdIJ8d0YSOfm"
+        "name": "Veracruz Y Su M\u00fasica - 14 Sones Jarochos",
+        "url": "https://open.spotify.com/album/5CsXZNeVHigNfNKuUUeoMo"
       },
       "artists": [
         {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+          "name": "Grupo Chalchihuecan De Los Hermanos Ochoa",
+          "url": "https://open.spotify.com/artist/5RFvZYPAx7hxnO37mR6e2G"
         }
       ],
-      "duration_ms": 203346,
-      "name": "El Estuche",
-      "url": "https://open.spotify.com/track/3eioYw722P5w5b6ad80mdh"
+      "duration_ms": 166240,
+      "name": "El Tilingo Lingo",
+      "url": "https://open.spotify.com/track/6UWyXar79tNp3vaUlQNsiW"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -647,6 +631,22 @@
       "duration_ms": 250360,
       "name": "Floricanto",
       "url": "https://open.spotify.com/track/0E1jfqTSwFlGFskSYqn3ZM"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Dirty Dancing: Havana Nights",
+        "url": "https://open.spotify.com/album/3DLGOkKxYXAdIJ8d0YSOfm"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 203346,
+      "name": "El Estuche",
+      "url": "https://open.spotify.com/track/3eioYw722P5w5b6ad80mdh"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Chicavasco",
-        "url": "https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI"
-      },
-      "artists": [
-        {
-          "name": "Rana Santacruz",
-          "url": "https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1"
-        }
-      ],
-      "duration_ms": 279546,
-      "name": "Cajita De Barro",
-      "url": "https://open.spotify.com/track/0LENTAvUOXMAqCdCuZxwdo"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Mongo Santamaria's Greatest Hits",
         "url": "https://open.spotify.com/album/3lqIpvffQl5O56AZpdB5PU"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 194466,
       "name": "Watermelon Man",
       "url": "https://open.spotify.com/track/5V9djIv8jwAw5pKhpT1HLb"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Chicavasco",
+        "url": "https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI"
+      },
+      "artists": [
+        {
+          "name": "Rana Santacruz",
+          "url": "https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1"
+        }
+      ],
+      "duration_ms": 279546,
+      "name": "Cajita De Barro",
+      "url": "https://open.spotify.com/track/0LENTAvUOXMAqCdCuZxwdo"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
+        "name": "Court the Storm",
+        "url": "https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "Michoacan",
+      "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
         "name": "Live At The First Annual San Francisco Son Jarocho Festival",
         "url": "https://open.spotify.com/album/5OFT3JolZgTwmIRLTEXtDN"
       },
@@ -1135,6 +1151,22 @@
       "duration_ms": 545467,
       "name": "Luna Negra - Live",
       "url": "https://open.spotify.com/track/2tVkvdgt2Gnf4kTp6bbn7Y"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 272073,
+      "name": "Lim\u00f3n",
+      "url": "https://open.spotify.com/track/0CFM8F4yHB33K2XOXurdwe"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1155,22 +1187,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Court the Storm",
-        "url": "https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "Michoacan",
-      "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Por siempre Los Panchos, Vol. 1 - Noche de ronda y otros \u00e9xitos (Remastered)",
         "url": "https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 186107,
       "name": "Jacarandosa - Remastered",
       "url": "https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 272073,
-      "name": "Lim\u00f3n",
-      "url": "https://open.spotify.com/track/0CFM8F4yHB33K2XOXurdwe"
     },
     {
       "added_at": "2020-05-28 20:45:13",

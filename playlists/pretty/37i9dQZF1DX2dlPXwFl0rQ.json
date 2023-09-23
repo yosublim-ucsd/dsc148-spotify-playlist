@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Michele BI en portada.",
-  "num_followers": 95737,
+  "num_followers": 95780,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjM5ZjdkNmNhNTMzNjU3Yjg0OGIyZmMxZmM2MGViOTA2NDQ1NjY5",
+  "snapshot_id": "MCxhNzZhMjUwYWU3YzI2MjMzZGRjZGE3ZjQ0YTc2Y2U0MDA3NzRkZWJl",
   "tracks": [
     {
       "added_at": "2023-07-28 16:33:48",
@@ -497,20 +497,20 @@
       "url": "https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf"
     },
     {
-      "added_at": "2023-08-04 06:00:00",
+      "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Gente Gacha",
-        "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
+        "name": "Prohibido Llorar",
+        "url": "https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1"
       },
       "artists": [
         {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
         }
       ],
-      "duration_ms": 175285,
-      "name": "Gente Gacha",
-      "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
+      "duration_ms": 253733,
+      "name": "Prohibido Llorar",
+      "url": "https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -529,20 +529,20 @@
       "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
     },
     {
-      "added_at": "2023-07-28 16:33:48",
+      "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Prohibido Llorar",
-        "url": "https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1"
+        "name": "Gente Gacha",
+        "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
       },
       "artists": [
         {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 253733,
-      "name": "Prohibido Llorar",
-      "url": "https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY"
+      "duration_ms": 175285,
+      "name": "Gente Gacha",
+      "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Te Mereces Un Amor",
-        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Te Mereces Un Amor",
-      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
         "name": "No Me Deja De Doler",
         "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 157946,
       "name": "No Me Deja De Doler",
       "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
+    },
+    {
+      "added_at": "2023-07-28 16:33:48",
+      "album": {
+        "name": "Te Mereces Un Amor",
+        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Te Mereces Un Amor",
+      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -731,6 +731,26 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
+        "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
+        "url": "https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        },
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "duration_ms": 180773,
+      "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
+      "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
+    },
+    {
+      "added_at": "2023-07-28 16:33:48",
+      "album": {
         "name": "Vivir Sin Ti ( Version Acustica )",
         "url": "https://open.spotify.com/album/4cupD82naLrPTfwr14oMPq"
       },
@@ -765,20 +785,20 @@
       "url": "https://open.spotify.com/track/2PGG4xCY4sQfCH4ioOYPs3"
     },
     {
-      "added_at": "2023-08-04 06:00:00",
+      "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Tengo Ganas",
-        "url": "https://open.spotify.com/album/3j8lPWgsLaxqylpLU0qsAF"
+        "name": "Qu\u00edtame ese Hombre",
+        "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
       },
       "artists": [
         {
-          "name": "Jessica Ballesteros",
-          "url": "https://open.spotify.com/artist/1Rq2kGkkTmWsoPlrB8baSE"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 168711,
-      "name": "Tengo Ganas",
-      "url": "https://open.spotify.com/track/1E5eyzEex0ZjD4x8Z3ZSdD"
+      "duration_ms": 196874,
+      "name": "Qu\u00edtame Ese Hombre",
+      "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -797,40 +817,20 @@
       "url": "https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2"
     },
     {
-      "added_at": "2023-07-28 16:33:48",
+      "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
-        "url": "https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO"
+        "name": "Tengo Ganas",
+        "url": "https://open.spotify.com/album/3j8lPWgsLaxqylpLU0qsAF"
       },
       "artists": [
         {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        },
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+          "name": "Jessica Ballesteros",
+          "url": "https://open.spotify.com/artist/1Rq2kGkkTmWsoPlrB8baSE"
         }
       ],
-      "duration_ms": 180773,
-      "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
-      "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
-        "name": "Qu\u00edtame ese Hombre",
-        "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 196874,
-      "name": "Qu\u00edtame Ese Hombre",
-      "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
+      "duration_ms": 168711,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/1E5eyzEex0ZjD4x8Z3ZSdD"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -847,6 +847,22 @@
       "duration_ms": 201802,
       "name": "Cuando Caiga la Noche",
       "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
+    },
+    {
+      "added_at": "2023-07-28 16:33:48",
+      "album": {
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6VcNthQXZE5e8dMP44NpIw"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 198102,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1uzkk0F8vFqu6RaKZ2dNqA"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -895,6 +911,22 @@
       "duration_ms": 215893,
       "name": "Yo No Creo En Los Hombres",
       "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"
+    },
+    {
+      "added_at": "2023-07-28 16:33:48",
+      "album": {
+        "name": "Este Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/38nAVrZCvLZG6gGas28yd2"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 227605,
+      "name": "Este Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2J1DaejaydbQARqL1sj3sr"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -951,22 +983,6 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6VcNthQXZE5e8dMP44NpIw"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 198102,
-      "name": "Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1uzkk0F8vFqu6RaKZ2dNqA"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
         "name": "MALAMANTE (en carne viva)",
         "url": "https://open.spotify.com/album/12YgmMbN5H0v4ZXhxrSwpQ"
       },
@@ -987,8 +1003,8 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Este Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/38nAVrZCvLZG6gGas28yd2"
+        "name": "Me Cuesta Tanto Olvidarte",
+        "url": "https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ"
       },
       "artists": [
         {
@@ -996,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 227605,
-      "name": "Este Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2J1DaejaydbQARqL1sj3sr"
+      "duration_ms": 173546,
+      "name": "Me Cuesta Tanto Olvidarte",
+      "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -1099,38 +1115,6 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Dej\u00e9moslo As\u00ed",
-        "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
-      },
-      "artists": [
-        {
-          "name": "Sherlyn S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Dej\u00e9moslo As\u00ed",
-      "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
-        "name": "Me Cuesta Tanto Olvidarte",
-        "url": "https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 173546,
-      "name": "Me Cuesta Tanto Olvidarte",
-      "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
         "name": "Ahora Va La M\u00eda",
         "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 206960,
       "name": "Si Quieres Verme Llorar",
       "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
+    },
+    {
+      "added_at": "2023-07-28 16:33:48",
+      "album": {
+        "name": "Dej\u00e9moslo As\u00ed",
+        "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
+      },
+      "artists": [
+        {
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -1191,22 +1191,6 @@
       "duration_ms": 268733,
       "name": "Mi Culpa",
       "url": "https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Si Dej\u00f3 de Quererte",
-        "url": "https://open.spotify.com/album/1BqYngNeUJFTQU4uypeg7g"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 200864,
-      "name": "Si Dej\u00f3 de Quererte",
-      "url": "https://open.spotify.com/track/1faGe10rEvZyYVfzve5ESU"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -1259,6 +1243,22 @@
       "duration_ms": 171153,
       "name": "LMV",
       "url": "https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Si Dej\u00f3 de Quererte",
+        "url": "https://open.spotify.com/album/1BqYngNeUJFTQU4uypeg7g"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 200864,
+      "name": "Si Dej\u00f3 de Quererte",
+      "url": "https://open.spotify.com/track/1faGe10rEvZyYVfzve5ESU"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -1315,18 +1315,22 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "De Ti No Lo Esperaba",
-        "url": "https://open.spotify.com/album/1inwitAIaD1Fe5Yx8f8NmK"
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/1Zc6hqIINyRhDkyvLNV1e8"
       },
       "artists": [
         {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+          "name": "Marilyn Pati\u00f1o",
+          "url": "https://open.spotify.com/artist/0QRuYvK5g5MBK4r27OyRmh"
+        },
+        {
+          "name": "Lady Yuliana",
+          "url": "https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2"
         }
       ],
-      "duration_ms": 193184,
-      "name": "De Ti No Lo Esperaba",
-      "url": "https://open.spotify.com/track/1aEq8Z97NDTiqnC3kBLgqb"
+      "duration_ms": 205840,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/5fB1anQrnZBMnSjilCnAZ8"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -1363,26 +1367,6 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/1Zc6hqIINyRhDkyvLNV1e8"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Pati\u00f1o",
-          "url": "https://open.spotify.com/artist/0QRuYvK5g5MBK4r27OyRmh"
-        },
-        {
-          "name": "Lady Yuliana",
-          "url": "https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2"
-        }
-      ],
-      "duration_ms": 205840,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/5fB1anQrnZBMnSjilCnAZ8"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
         "name": "Volver\u00e9 A Amar",
         "url": "https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o"
       },
@@ -1415,18 +1399,34 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Uno de los Buenos",
-        "url": "https://open.spotify.com/album/2AvHahqBPECo32t4COxfak"
+        "name": "No Se Vayan Con La Finta (En Vivo)",
+        "url": "https://open.spotify.com/album/7GI58DuMbYiPMKBeT7d42a"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
         }
       ],
-      "duration_ms": 176768,
-      "name": "Uno de los Buenos",
-      "url": "https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b"
+      "duration_ms": 193840,
+      "name": "La Primera Piedra (En Vivo)",
+      "url": "https://open.spotify.com/track/5k3Ajm3rvCI3L5IDXjZi8C"
+    },
+    {
+      "added_at": "2023-07-28 16:33:48",
+      "album": {
+        "name": "De Ti No Lo Esperaba",
+        "url": "https://open.spotify.com/album/1inwitAIaD1Fe5Yx8f8NmK"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 193184,
+      "name": "De Ti No Lo Esperaba",
+      "url": "https://open.spotify.com/track/1aEq8Z97NDTiqnC3kBLgqb"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -1463,34 +1463,18 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "No Se Vayan Con La Finta (En Vivo)",
-        "url": "https://open.spotify.com/album/7GI58DuMbYiPMKBeT7d42a"
+        "name": "Uno de los Buenos",
+        "url": "https://open.spotify.com/album/2AvHahqBPECo32t4COxfak"
       },
       "artists": [
         {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 193840,
-      "name": "La Primera Piedra (En Vivo)",
-      "url": "https://open.spotify.com/track/5k3Ajm3rvCI3L5IDXjZi8C"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/2qrc0YH2PfVbdSQpwEWxl9"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/56kcxvEbwLaKpR6btCuE8q"
+      "duration_ms": 176768,
+      "name": "Uno de los Buenos",
+      "url": "https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1571,6 +1555,22 @@
       "duration_ms": 186750,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/3SiScfgPP9I494Fbi5YFmf"
+    },
+    {
+      "added_at": "2023-07-28 16:33:48",
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/2qrc0YH2PfVbdSQpwEWxl9"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/56kcxvEbwLaKpR6btCuE8q"
     },
     {
       "added_at": "2023-07-28 16:33:48",

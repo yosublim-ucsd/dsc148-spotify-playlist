@@ -1,12 +1,12 @@
 {
   "description": "Grandes cl\u00e1sicos del pop en espa\u00f1ol. \u00a1Todo limpio y ordenado!",
-  "num_followers": 128158,
+  "num_followers": 128239,
   "original_name": "Pa Planchar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWFhOGRmNjgyZGQwZGRkOWEwMThlYTcwY2EzNjEwYzk0YTJmYjgw",
+  "snapshot_id": "MCxiMzNkOWFjZjdlM2ZhNDg1MDUwODExNWY3ZmU2MjRkN2Q0ZDc0MWI3",
   "tracks": [
     {
       "added_at": "2023-02-13 21:24:01",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-02-13 21:24:01",
       "album": {
-        "name": "Exclusive Ricchi E Poveri - 15 Exitos",
-        "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
-        }
-      ],
-      "duration_ms": 190564,
-      "name": "Sera Porque Te Amo",
-      "url": "https://open.spotify.com/track/04Xdk7F9HgyHBcAwO7KE3F"
-    },
-    {
-      "added_at": "2023-02-13 21:24:01",
-      "album": {
         "name": "Jon Secada",
         "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 327240,
       "name": "Otro D\u00eda M\u00e1s Sin Verte",
       "url": "https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx"
+    },
+    {
+      "added_at": "2023-02-13 21:24:01",
+      "album": {
+        "name": "Exclusive Ricchi E Poveri - 15 Exitos",
+        "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
+      },
+      "artists": [
+        {
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+        }
+      ],
+      "duration_ms": 190564,
+      "name": "Sera Porque Te Amo",
+      "url": "https://open.spotify.com/track/04Xdk7F9HgyHBcAwO7KE3F"
     },
     {
       "added_at": "2023-02-13 21:24:01",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-02-13 21:24:01",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
+        "name": "La Chica Dorada",
+        "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
         }
       ],
-      "duration_ms": 173560,
-      "name": "Tu Pirata Soy Yo",
-      "url": "https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt"
+      "duration_ms": 225866,
+      "name": "M\u00edo",
+      "url": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
     },
     {
       "added_at": "2023-02-13 21:24:01",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-02-13 21:24:01",
       "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 173560,
+      "name": "Tu Pirata Soy Yo",
+      "url": "https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt"
+    },
+    {
+      "added_at": "2023-02-13 21:24:01",
+      "album": {
         "name": "Lo Esencial De Ana Gabriel",
         "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 257453,
       "name": "Cosas del Amor (with Vikki Carr)",
       "url": "https://open.spotify.com/track/4BBJezanyqAj6rRC1fKIg4"
-    },
-    {
-      "added_at": "2023-02-13 21:24:01",
-      "album": {
-        "name": "La Chica Dorada",
-        "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "M\u00edo",
-      "url": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
     },
     {
       "added_at": "2023-02-13 21:24:01",

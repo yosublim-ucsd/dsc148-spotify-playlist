@@ -53,6 +53,32 @@
     },
     {
       "album": {
+        "name": "King Conga (Live)",
+        "url": "https://open.spotify.com/album/53hR9jlVnmsgfRDZV4QP9W"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        },
+        {
+          "name": "Thurman Green",
+          "url": "https://open.spotify.com/artist/7DGNKNEEkJHoVQfXCpqEry"
+        },
+        {
+          "name": "Gary Bias",
+          "url": "https://open.spotify.com/artist/3TFDeE9cyVkAbFcON4pzt1"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255750,
+      "name": "A Snort of Green - Live",
+      "url": "https://open.spotify.com/track/7FxmuHwLxGJQTyFqTwFSQ0"
+    },
+    {
+      "album": {
         "name": "Live At Birdland",
         "url": "https://open.spotify.com/album/3bFxBCBwFQ8WGRghgoUxaU"
       },
@@ -210,6 +236,44 @@
       "duration_ms": 624333,
       "name": "Autumn Leaves - Live At Philharmonie, Munich / 1986",
       "url": "https://open.spotify.com/track/7tyDWNVuIKEDuZS33Fm9S4"
+    },
+    {
+      "album": {
+        "name": "Beneath The Mask (Live)",
+        "url": "https://open.spotify.com/album/20OaI5j8oaEr7AGQeJIC3u"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea Elektric Band",
+          "url": "https://open.spotify.com/artist/2ReTnNzaUAM6RgKCtlvMPf"
+        },
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        },
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        },
+        {
+          "name": "Dave Weckl",
+          "url": "https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw"
+        },
+        {
+          "name": "Frank Gambale",
+          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375779,
+      "name": "Beneath The Mask - Live",
+      "url": "https://open.spotify.com/track/0PfI6iHSTiGfrOTLaH6mhs"
     },
     {
       "album": {
@@ -1154,7 +1218,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 228000,
       "name": "Keep That Same Old Feeling - Live",
       "url": "https://open.spotify.com/track/7khI0WpyuGM5Pd1PtCCTJo"
@@ -2190,7 +2254,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 1113808,
       "name": "The Man Who Never Sleeps - Live",
       "url": "https://open.spotify.com/track/6jDXjUl0YZFai9zOQ61o8n"

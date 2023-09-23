@@ -1649,6 +1649,24 @@
     },
     {
       "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/0RUZEsQQWmWhsuKKo6sk8J"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199217,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/4KZPt9W4RTAIGiEUbiFJTV"
+    },
+    {
+      "album": {
         "name": "krypt. vol2",
         "url": "https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq"
       },
@@ -3870,7 +3888,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 186123,
       "name": "Sumthin Crazy (with Rochelle Jordan)",
       "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"

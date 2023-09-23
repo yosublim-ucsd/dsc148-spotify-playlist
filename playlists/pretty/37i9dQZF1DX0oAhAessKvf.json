@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 106783,
+  "num_followers": 106865,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTU3NzdiMTlmNzY4MDlmZjA4N2I1MDY4YTgyNDFjMjUxOWZjODU1",
+  "snapshot_id": "MCw4ZDViZDk5NTFiMzVkNDRjNWY0MGM4ZThlMDUxZDBmZjg2NjE1Mzdh",
   "tracks": [
     {
       "added_at": "2021-12-20 17:02:25",
@@ -303,6 +303,22 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/3VWuyqHFsqjlV20zjKvE9W"
+      },
+      "artists": [
+        {
+          "name": "Latin Fresh",
+          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
+        }
+      ],
+      "duration_ms": 212401,
+      "name": "Ella Se Arrebata",
+      "url": "https://open.spotify.com/track/0oQJSzRRp9K5qbrSuzqACz"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
         "name": "Playero 40 New Era",
         "url": "https://open.spotify.com/album/6R1g9oipVOkjxwFsc1R2vB"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 157066,
       "name": "Tengo una Punto 40",
       "url": "https://open.spotify.com/track/5zsatbvXqrPSx6vid6c8Sf"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/3VWuyqHFsqjlV20zjKvE9W"
-      },
-      "artists": [
-        {
-          "name": "Latin Fresh",
-          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
-        }
-      ],
-      "duration_ms": 212401,
-      "name": "Ella Se Arrebata",
-      "url": "https://open.spotify.com/track/0oQJSzRRp9K5qbrSuzqACz"
     },
     {
       "added_at": "2021-12-20 17:02:25",

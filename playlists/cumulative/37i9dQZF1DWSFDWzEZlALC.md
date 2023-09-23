@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Paula Hartmann
 
-373 songs - 18 hr 10 min
+374 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [emma](https://open.spotify.com/track/2RvLlxea9woaqb2ZLgAmv7) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [emma](https://open.spotify.com/album/6PbZLTQ1tsF7ZlIUdZfpNc) | 3:15 | 2023-06-15 |  |
 | [Endlos\_demo](https://open.spotify.com/track/4tQA4uDHh6iPaQLWaxeQqH) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Endlos\_demo](https://open.spotify.com/album/1kMIcfGn8lMbLwrNAmpnEj) | 2:17 | 2023-02-02 | 2023-02-17 |
 | [Er oder Sie oder Du](https://open.spotify.com/track/1ojpWs42lG7y9FlB0xQXPk) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Er oder Sie oder Du](https://open.spotify.com/album/2VG9BbluDZvvYZ3rtfeWqe) | 2:14 | 2023-04-13 |  |
+| [Es hört nicht auf](https://open.spotify.com/track/0Uc0m7ThckGvaT0TFG7snX) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 3:15 | 2023-09-22 |  |
 | [es ist spät](https://open.spotify.com/track/5eg2Kn2Z85VdZYX6mYkdkw) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [es ist spät](https://open.spotify.com/album/4kiJxNQKvKzuClgBAbHcdW) | 2:01 | 2023-09-14 |  |
 | [Ewiger Fahrgast](https://open.spotify.com/track/3RXfhZCEVajHZa9lwyPruL) | [Lord Folter](https://open.spotify.com/artist/39KCAyOBvMmaBfzmCsFjf6), [Lebsanft](https://open.spotify.com/artist/4YIP17o8PviGHVQM3ISOAo) | [Wir Werden Sehen](https://open.spotify.com/album/3qx0YVMoydVJuhLPdyimfH) | 3:06 | 2023-02-02 | 2023-02-24 |
 | [Fahrradstraße](https://open.spotify.com/track/5Vd4NMyFkvegiddZh4njgX) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Fahrradstraße](https://open.spotify.com/album/2QNh6PLdTY5r9c3q2cEo1l) | 2:24 | 2023-06-15 | 2023-07-21 |
@@ -225,7 +226,7 @@
 | [Milliardär](https://open.spotify.com/track/6JKkLoETnqXMe2OL17Waet) | [CASTILLO](https://open.spotify.com/artist/7obdh4UC6xb7FpVyNy7zcS) | [Milliardär](https://open.spotify.com/album/0tMd2aX0hClZVUIwkSlvYV) | 3:03 | 2023-04-13 | 2023-04-28 |
 | [MISFIT](https://open.spotify.com/track/06D5zVYb8elwt1N22WH4RC) | [BECKS](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [Blutmond \- EP](https://open.spotify.com/album/7y3vjtZLi7O1EmZgMhAkng) | 3:12 | 2023-02-02 | 2023-02-24 |
 | [Mit dir](https://open.spotify.com/track/2SBoDgAZCdAflh0CkB3YFU) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Mit dir](https://open.spotify.com/album/11u7e1gAYl8HXOJ3YAkg4n) | 2:35 | 2023-02-02 | 2023-06-16 |
-| [Mit dir kann ich alleine sein](https://open.spotify.com/track/6OYxGokMBWj8wCbDIbhFmB) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 3:38 | 2023-09-21 |  |
+| [Mit dir kann ich alleine sein](https://open.spotify.com/track/6OYxGokMBWj8wCbDIbhFmB) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 3:38 | 2023-09-21 | 2023-09-23 |
 | [Moment](https://open.spotify.com/track/79uciSS2z1jLXt9Pz4K7tQ) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Moment](https://open.spotify.com/album/439pjsVL90aeZHwvY3OhVW) | 2:43 | 2023-08-10 |  |
 | [Moshpit](https://open.spotify.com/track/6QFyquVHheJrzJbuv8tWFY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Moshpit](https://open.spotify.com/album/5WyiLUBm2DaTasNN24WTfY) | 2:01 | 2023-09-14 |  |
 | [Mut](https://open.spotify.com/track/51oVxCfHSOp8oZc0HhBwf8) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Mut](https://open.spotify.com/album/4aYZfCtzXSvMFAVRApKo4R) | 2:43 | 2023-05-25 |  |

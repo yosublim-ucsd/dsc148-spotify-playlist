@@ -4,7 +4,7 @@
 
 > Laufey curates the perfect playlist for a charming '50s\-style romance movie\. Cover: Laufey
 
-101 songs - 5 hr 9 min
+102 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Bewitched](https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp) | 4:06 | 2023-09-13 |  |
 | [Beyond the Sea](https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [That's All](https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn) | 2:52 | 2022-09-30 |  |
 | [Blue Velvet](https://open.spotify.com/track/3WO8ZBnOtad3xMz46Z54pY) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [16 Most Requested Songs](https://open.spotify.com/album/3bi87ndwfdokCp0Km4fxoJ) | 2:48 | 2022-05-03 | 2022-11-13 |
-| [California and Me](https://open.spotify.com/track/768tjNAwyH3nIFee5BIdcl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [California and Me](https://open.spotify.com/album/2tt47cpLkXdRqYhOcp2C9x) | 3:36 | 2023-09-13 |  |
+| [California and Me](https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:36 | 2023-09-20 |  |
+| [California and Me](https://open.spotify.com/track/768tjNAwyH3nIFee5BIdcl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [California and Me](https://open.spotify.com/album/2tt47cpLkXdRqYhOcp2C9x) | 3:36 | 2023-09-13 | 2023-09-23 |
 | [Call Me Irresponsible \- 2001 Remaster](https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [From Hello Dolly To Goodbye Charlie](https://open.spotify.com/album/2eUmHmpjsRfIJvulkcGfug) | 2:04 | 2022-05-03 |  |
 | [Can't Help Falling in Love](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 3:02 | 2022-05-03 |  |
 | [Cheek to Cheek](https://open.spotify.com/track/5qWXXF3On2xUfVu1ND1NLN) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Essential Fred Astaire](https://open.spotify.com/album/6orVWVR9Uc0hTylcLi5JTP) | 3:18 | 2022-05-03 | 2023-09-14 |

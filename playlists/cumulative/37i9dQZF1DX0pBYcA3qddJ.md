@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-552 songs - 1 day 13 hr 23 min
+553 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [LAW OF AWAKENING](https://open.spotify.com/track/2ZpaOyC5BtYzVCkWERZqW0) | [Shizuka Kanata](https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy), [Anzu Suhara](https://open.spotify.com/artist/6u30byKtb0cli6RU2iD1yj), [Junpei Hayashida](https://open.spotify.com/artist/7EFqed0fHG85IGP3XEbGo3), [Kensuke Yamauchi](https://open.spotify.com/artist/06xDUa8BpV0lfRPwWxBr15) | [LAW OF AWAKENING](https://open.spotify.com/album/7JWMMfWgw4fPYXm0cpWwgC) | 4:32 | 2023-04-13 | 2023-06-02 |
 | [Le Cygne \(The Swan\)](https://open.spotify.com/track/1Ke4gVLpNH2FB8DoyfKU1D) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [宮田 大](https://open.spotify.com/artist/6NlblLui5L3Nj9yLEa7Tze) | [Le Cygne \(The Swan\)](https://open.spotify.com/album/0n9PAU1YiFqWuc1u6wqUZu) | 3:10 | 2023-02-28 | 2023-03-10 |
 | [Le sacre du printemps / Pt\. 1: L'Adoration de la terre: I\. Introduction](https://open.spotify.com/track/6rDWYsrUT5AWGzKrd6HBcn) | [Igor Stravinsky](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE), [Orchestre de Paris](https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd), [Klaus Mäkelä](https://open.spotify.com/artist/6iGHnrxEjBwhHsZ65HVUiE) | [Stravinsky: The Rite of Spring & The Firebird](https://open.spotify.com/album/00nSKllX1m5sYIaGiSw3Sf) | 3:33 | 2023-03-23 | 2023-05-26 |
+| [Le Temple Volant](https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B), [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Le Temple Volant](https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5) | 2:05 | 2023-09-21 |  |
 | [LE TOMBEAU DE COUPERIN:V\. Menuet](https://open.spotify.com/track/0vdUSUa8qNz4m9T73rr17v) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [AYA NAGATOMI](https://open.spotify.com/artist/5yP9w1BcV6K0yW51Njt8tv) | [Maurice RAVEL: Gaspard de la Nuit](https://open.spotify.com/album/4wT32sKqzocmqsIs80Xtnu) | 5:26 | 2023-02-28 | 2023-07-12 |
 | [Leaves and Light](https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [The Window](https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu) | 2:20 | 2023-02-28 | 2023-03-16 |
 | [Lemon Cake](https://open.spotify.com/track/3V2ox5LEU3dB1n5z39P6MS) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Lemon Cake](https://open.spotify.com/album/353xKZreMjkmqKAHg4f9aX) | 5:23 | 2023-02-07 | 2023-03-01 |
@@ -422,7 +423,7 @@
 | [Taiban](https://open.spotify.com/track/0Y1h4vHrIQASEX0I9KOH2G) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W) | [Taiban](https://open.spotify.com/album/1R90ou1rdQdFPWYR4CZqFU) | 3:44 | 2023-08-29 | 2023-09-15 |
 | [Take Your Time \- Haruomi Hosono Remix](https://open.spotify.com/track/1DN5nFDJYO0UFKOI9OeiSZ) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [Take Your Time\(Haruomi Hosono Remix\)](https://open.spotify.com/album/15Xt6Ru30ddbjQMxTDWRDY) | 4:31 | 2022-10-25 | 2022-12-02 |
 | [tandem ii](https://open.spotify.com/track/0Nu6gw1W83em50FluWzGRq) | [Fuyuni wakarete](https://open.spotify.com/artist/46ZmKgBKBAlVL5jP8P3Wqi) | [flow](https://open.spotify.com/album/0EiXrwXffN7ACOHt6kRBkf) | 3:00 | 2023-05-29 | 2023-06-14 |
-| [tasogare](https://open.spotify.com/track/3tDQvzH52bu9gXmTtMSboM) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH), [The Flipside](https://open.spotify.com/artist/3mY04DjYiRz57V8FeLyuJ1) | [tasogare](https://open.spotify.com/album/6vkWYfXeLfiSenOG4BouTR) | 2:16 | 2022-10-20 |  |
+| [tasogare](https://open.spotify.com/track/3tDQvzH52bu9gXmTtMSboM) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH), [The Flipside](https://open.spotify.com/artist/3mY04DjYiRz57V8FeLyuJ1) | [tasogare](https://open.spotify.com/album/6vkWYfXeLfiSenOG4BouTR) | 2:16 | 2022-10-20 | 2023-09-23 |
 | [TayuTau](https://open.spotify.com/track/1f4sDC2GlAfI0swFGal7Le) | [Shizuka Kanata](https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy) | [Shadow Dancer](https://open.spotify.com/album/3X94LxNBzncpYZ3SSAr4yc) | 3:23 | 2023-01-24 | 2023-03-01 |
 | [TayuTau](https://open.spotify.com/track/4ezT4IBR99ikMI0gTSdcSP) | [Shizuka Kanata](https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy) | [Shadow Dancer](https://open.spotify.com/album/521YmNGUdx0vpIOP9CtYAI) | 3:23 | 2023-01-24 | 2023-01-26 |
 | [tegami \(for Fou Fou contemporary dance in Paris\)](https://open.spotify.com/track/6jpxv9SJDF2XhANInknCzZ) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [surf trip](https://open.spotify.com/album/2FCzOOYZc512CpXsu8PuSH) | 3:33 | 2023-08-03 |  |

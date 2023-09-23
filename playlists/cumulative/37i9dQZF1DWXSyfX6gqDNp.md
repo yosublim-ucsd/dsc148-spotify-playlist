@@ -4,7 +4,7 @@
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-269 songs - 17 hr 28 min
+273 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Embracable You](https://open.spotify.com/track/2vc6aQG10jrwwi2VGXXcfl) | [Red Stairs Jazz Quartet](https://open.spotify.com/artist/7Aw4wL0AJtfh0yQDQgaBjS) | [Easy Living](https://open.spotify.com/album/063dLcnFERUaDqum86A5eF) | 2:34 | 2021-12-14 |  |
 | [Eternity](https://open.spotify.com/track/3AxL4mOBBcz5vse4V7o7es) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Eternity](https://open.spotify.com/album/0fFkT2IJK4lCPGKX8LGseX) | 3:38 | 2021-12-14 |  |
 | [Evening Dance](https://open.spotify.com/track/2mWTB2ZKouAhTQruOpbyMA) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Evening Dance](https://open.spotify.com/album/02XU7xcCZKUiYUfV9fvaNV) | 3:35 | 2023-01-19 |  |
-| [Evening Silence](https://open.spotify.com/track/3ObWIAbtVhxTPguDsHT9vf) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 4:27 | 2022-08-11 |  |
+| [Evening Silence](https://open.spotify.com/track/3ObWIAbtVhxTPguDsHT9vf) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 4:27 | 2022-08-11 | 2023-09-23 |
 | [Everything Happens To Me](https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Presenting The Gerry Mulligan Sextet](https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y) | 5:23 | 2021-12-14 |  |
 | [Everytime We Say Goodbye](https://open.spotify.com/track/6xeEdMWJiNsQwxmCJ7fsQ6) | [Billy Charlotte](https://open.spotify.com/artist/5kwTfmxxihzQfDf7lavECv) | [How Long Has This Been Going On](https://open.spotify.com/album/1I3EDZzXo6MPpsOy0Bt2n7) | 4:05 | 2021-12-14 |  |
 | [Fading Love](https://open.spotify.com/track/5xEOUPnUkpErHaxHi2D1tr) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Fading Love](https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq) | 4:40 | 2021-12-14 |  |
@@ -90,7 +90,9 @@
 | [Follow Slowly](https://open.spotify.com/track/1eF3VkcOnhmZleDhrIOYfk) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Once Knowing](https://open.spotify.com/album/1J3QLGLdMJZfIFLxsvojWW) | 2:51 | 2023-02-23 |  |
 | [For Heavens Sake](https://open.spotify.com/track/3L94Y3LMCAW65sKrZs1bz7) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [For Heavens Sake](https://open.spotify.com/album/2hfGoUNu7M0B1bTs35GJou) | 4:51 | 2022-06-14 |  |
 | [From Dream to Dream](https://open.spotify.com/track/1VKza9389xxGndNAuoB1W3) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [New Time, New 'Tet](https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP) | 7:33 | 2021-12-14 | 2023-01-13 |
+| [Gloomy Sunday](https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Gloomy Sunday](https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk) | 3:13 | 2023-09-22 |  |
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2022-08-11 | 2023-02-24 |
+| [Grey Mornings](https://open.spotify.com/track/4vR1tQ1rF01iF7Sc4ViLy3) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Grey Mornings](https://open.spotify.com/album/4sGFc6217FNH1aubBYdXQf) | 3:52 | 2023-09-22 |  |
 | [Harness Your Love](https://open.spotify.com/track/3BRHCdQZeVwUj3J6evUKEF) | [Max Light Quartet](https://open.spotify.com/artist/0BZxORrNUJfV3VoAH6pgYO) | [If You Love Me](https://open.spotify.com/album/6Jzn1W3g575lrC847GFzqh) | 2:43 | 2023-04-13 |  |
 | [He Said She Got It Going](https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Said She Got It Going](https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS) | 2:38 | 2022-11-17 |  |
 | [Here´s That Rainy Day](https://open.spotify.com/track/2bd8JjaPL4XrbgGyWPqFms) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Born in July](https://open.spotify.com/album/4IJTErkPQ9dSsEt2FyPuzt) | 3:54 | 2021-12-14 |  |
@@ -101,7 +103,7 @@
 | [I Can't Give You Anything But Love](https://open.spotify.com/track/7sJOTQaJtgkqUviKXRmUQe) | [Harper Pepe](https://open.spotify.com/artist/5cSYeS27bdC8UZo83VY7GI) | [Days Of Wine And Roses](https://open.spotify.com/album/4yMvtwVj7GoKsYMt7FXxoc) | 2:52 | 2021-12-14 | 2022-04-27 |
 | [I Could Write A Book](https://open.spotify.com/track/7nbQBpnj4CfKEycYy1dNLT) | [Jacob Schwarz Trio](https://open.spotify.com/artist/4xN1VyTbKQakR98CT0NNfY) | [Jazz Nights](https://open.spotify.com/album/6RT1EEN4J9A229oyoZ6jHM) | 3:09 | 2021-12-14 | 2022-09-09 |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/0Bp4wVlm9sA88tMtbDG29p) | [Hollbeck](https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS) | [I Fall In Love Too Easily](https://open.spotify.com/album/7CVL1rAW47IhbxmNv2uM29) | 4:00 | 2023-02-02 |  |
-| [I Got It Bad And That Ain't Good](https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 5:06 | 2021-12-14 |  |
+| [I Got It Bad And That Ain't Good](https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 5:06 | 2021-12-14 | 2023-09-23 |
 | [I Loves You, Porgy](https://open.spotify.com/track/1p6wxI8LwDcO67o5kS3X2v) | [Ryan Turtle Trio](https://open.spotify.com/artist/7o9xTJw9Cpy1HRZG5fSkQx) | [I Loves You, Porgy](https://open.spotify.com/album/3XE7aC2JbxhYTgJ6ZEJ9z1) | 2:57 | 2021-12-14 | 2023-01-20 |
 | [I Mean Us](https://open.spotify.com/track/1GZ1VUbgXYwIcdNhw2faso) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [I Mean Us](https://open.spotify.com/album/3x88xyYdEyoYbMD7lUICBi) | 4:24 | 2023-02-23 | 2023-04-28 |
 | [I Promise to Love](https://open.spotify.com/track/19LMucy1MN241ShsoCUKia) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [I Promise to Love](https://open.spotify.com/album/44tqKaAh69xrdFN9s2TCl4) | 2:52 | 2022-08-30 |  |
@@ -172,6 +174,7 @@
 | [Never Let Me Go](https://open.spotify.com/track/0t5LDxM86wbi5W7gwkGtPv) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Trios Live](https://open.spotify.com/album/4E4vQi6Vc8FTynRbeNcTGf) | 6:38 | 2021-12-14 | 2022-10-14 |
 | [Nightshift](https://open.spotify.com/track/7s7b3petWiTzsJE9oeVXKW) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [Nightshift](https://open.spotify.com/album/1I7aRHHNn8lmr5ECqMkQ4u) | 2:54 | 2022-12-23 |  |
 | [Nocturnal Serenade](https://open.spotify.com/track/6i2gZTC6mjNvamfLYvPm8R) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Nocturnal Serenade](https://open.spotify.com/album/1a97FiVDBO8Zvor9AXqNgJ) | 4:12 | 2023-05-04 |  |
+| [Not Nice At All](https://open.spotify.com/track/7pilE4NULuXBPHZNzODH5i) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Not Nice At All](https://open.spotify.com/album/5TRSBkD21PjK91y6gfUWMH) | 2:56 | 2023-09-22 |  |
 | [Not Too Hot](https://open.spotify.com/track/0FoNYyoLC8Jj12GQggux8T) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Not Too Hot](https://open.spotify.com/album/4qOxXHChJ2JsAkT3Id2zQf) | 4:47 | 2022-06-29 |  |
 | [Nothing Like a Spring](https://open.spotify.com/track/3nSTb8hxLHbDdG8oEXYy5u) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Clear Skies](https://open.spotify.com/album/1lkZ3pXnZoqj9grtpAkdNY) | 3:31 | 2023-03-23 |  |
 | [Nothing You Can't Do](https://open.spotify.com/track/6xRFZWwjRW2AIGtM8Bnsfx) | [Max Light Quartet](https://open.spotify.com/artist/0BZxORrNUJfV3VoAH6pgYO) | [Livia's Dream](https://open.spotify.com/album/60AwORaHZMMTqmeRRdsxP2) | 3:40 | 2023-03-16 |  |
@@ -236,6 +239,7 @@
 | [The Way of the Winds](https://open.spotify.com/track/1hbpryH5fnRhWdE2CeyIjq) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Mindful in Solitude](https://open.spotify.com/album/07ByAjCqjdAvcH64xoPZ7d) | 3:53 | 2023-02-23 |  |
 | [There Will Never Be Another You](https://open.spotify.com/track/0w7ufvu7otF8UGX12XZQPb) | [Leonardo Mendonça](https://open.spotify.com/artist/0zt6SqlvpnZ7LNMWj8ee4e) | [There Will Never Be Another You](https://open.spotify.com/album/4o8598qWSxGgvPIlyKD6ns) | 3:40 | 2022-08-11 | 2023-04-28 |
 | [These Foolish Things \(Remind Me of You\)](https://open.spotify.com/track/59VHmPVQP4XPbOeiiIwqG6) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Blues and Ballads](https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP) | 6:00 | 2021-12-14 | 2022-09-30 |
+| [Think about that](https://open.spotify.com/track/36hGg9XIlY2jlLdQSclabi) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Think about that](https://open.spotify.com/album/7qWpFNdlfnhWujIcby7yB9) | 2:46 | 2023-09-22 |  |
 | [Time Remembered](https://open.spotify.com/track/2kuCedGQNreDSHNCmxJLwr) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Time Remembered](https://open.spotify.com/album/5dNksNJCyeqYrEaLzj25Xw) | 3:04 | 2021-12-14 |  |
 | [To Dream Like Youth](https://open.spotify.com/track/6WZ2kt3R8fLhWnIG7qrGbk) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [To Dream Like Youth](https://open.spotify.com/album/6vhlU52iYbCpTiafWC5wRD) | 3:55 | 2023-08-10 |  |
 | [Too Late For Tears](https://open.spotify.com/track/3jd766vnNaZF8Z1zxGI1dj) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Too Late For Tears](https://open.spotify.com/album/4kr1KY3k08L0uCMUkeEr7I) | 4:34 | 2022-12-23 | 2023-04-14 |

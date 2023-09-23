@@ -4,7 +4,7 @@
 
 > Soothing strings for our sleepy little ones.
 
-461 songs - 14 hr 12 min
+463 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [All Through the Night](https://open.spotify.com/track/3XIbyKZYaKgmE4Y3gdo7d3) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [All Through the Night](https://open.spotify.com/album/5pES2l1FBHY7siBasZilbV) | 1:52 | 2023-02-17 |  |
 | [Alphabet song](https://open.spotify.com/track/4mgc8BcnWl9eE2SSjSMoC3) | [Tom Blund](https://open.spotify.com/artist/715D4M785npyWgVKLgtXdX) | [Alphabet song](https://open.spotify.com/album/6SGCFva4mZk0yvwJGWslxu) | 2:20 | 2022-08-11 |  |
 | [Always There](https://open.spotify.com/track/0eQLfnF34T66phC2k436tR) | [Valentina Daniel](https://open.spotify.com/artist/4z9uGXZ5U6pu8PBn0Y2Njl) | [Always There](https://open.spotify.com/album/2YIqJYoaTZo6LnQvubvQNo) | 1:45 | 2022-08-11 | 2023-06-09 |
-| [Amazing Grace](https://open.spotify.com/track/3uiJV5WP1RlyMlJxG6OFwJ) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Amazing Grace](https://open.spotify.com/album/6KcYskZzpUOBxsvWw6BvXb) | 1:57 | 2023-01-20 |  |
+| [Amazing Grace](https://open.spotify.com/track/3uiJV5WP1RlyMlJxG6OFwJ) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Amazing Grace](https://open.spotify.com/album/6KcYskZzpUOBxsvWw6BvXb) | 1:57 | 2023-01-20 | 2023-09-23 |
 | [Aoife's Song](https://open.spotify.com/track/2gXkzhZRvQiijScSFmiXka) | [Kit Byrne](https://open.spotify.com/artist/3XiZ4fhyiB68U1X7Jc69Qk) | [Aoife's Song](https://open.spotify.com/album/6Zl57a6XqKZe0SttOeb6xX) | 1:41 | 2022-08-11 | 2023-04-22 |
 | [Are You Sleeping](https://open.spotify.com/track/331rhc4D6jJ3GfWqEOGBbb) | [Bedtime Guitar](https://open.spotify.com/artist/1DjQ85XINgsJAfgkkjG6su) | [Are You Sleeping?](https://open.spotify.com/album/5rKFqgWhpzCnqYY6qkaNW3) | 2:18 | 2022-08-11 |  |
 | [Are you sleeping](https://open.spotify.com/track/5HY3eJ6IbPR8PyaqCfTOSO) | [Me And My Guitar](https://open.spotify.com/artist/7pHJ2teaNlow2jrelq84HS) | [Night Time](https://open.spotify.com/album/7DMOWlZ7L7rIpPuVbf5JGZ) | 1:14 | 2022-08-11 | 2023-01-20 |
@@ -133,6 +133,7 @@
 | [Find the Rabbit](https://open.spotify.com/track/0GDw6Hmmlu6InQbf6YakPD) | [Baldwin Grey](https://open.spotify.com/artist/4tULy2gwvcYvafnuk3qzdC) | [Find the Rabbit](https://open.spotify.com/album/1vqPMljPPgF9IVhNqopH7Y) | 1:56 | 2022-08-11 |  |
 | [Fireflies](https://open.spotify.com/track/6kU7GBwbKtsio1jgyAWa9z) | [Byrne Freeman](https://open.spotify.com/artist/09NXPHIx4m5wvbplZ11jvF) | [Fireflies](https://open.spotify.com/album/3z2L0RF2qEZ01ph2WMPvTb) | 1:56 | 2022-08-11 | 2022-10-29 |
 | [First Lullaby](https://open.spotify.com/track/2Vlk1mx0LLliRtx8Xs3Pe6) | [All the Raw Melodies](https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH) | [First Lullaby](https://open.spotify.com/album/4LQCV4juVK3a1mLGZHiwvs) | 1:00 | 2022-08-11 |  |
+| [Five Little Ducks](https://open.spotify.com/track/0w1qbxTWTL464db5hu4JWj) | [Rebecca Scott](https://open.spotify.com/artist/1Krmj9Gm4xch0pzQOUvgQ2) | [Five Little Ducks](https://open.spotify.com/album/1uQUnfMkzeLj5zaWxOevW5) | 2:39 | 2023-09-22 |  |
 | [Five Little Monkeys](https://open.spotify.com/track/0QQ4BTJR6sylRCSOgcwhKs) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Five Little Monkeys](https://open.spotify.com/album/3HRkbBG3qmjPJY6XO3nV6S) | 2:05 | 2023-08-31 |  |
 | [Five Little Speckled Frogs](https://open.spotify.com/track/5AgakDwt0BlSuOVRqRpqQE) | [The Harpatons](https://open.spotify.com/artist/0PX2FmQQ5HuoI2uSsIhfKt) | [Five Little Speckled Frogs](https://open.spotify.com/album/1AnZummocQovrN8gRkbOGA) | 1:40 | 2022-11-25 |  |
 | [Fjäriln vingad syns på Haga](https://open.spotify.com/track/5UKxbAGp8ErziOmmEekmjA) | [Hjalmar Lagerqvist](https://open.spotify.com/artist/3Zk8GcjOL3OAI8zS8t1b0S) | [Fjäriln vingad syns på Haga](https://open.spotify.com/album/5ixSkthGOmzkTz0U8VWYYv) | 2:05 | 2022-08-11 | 2023-06-23 |
@@ -250,7 +251,7 @@
 | [Me and Teddy](https://open.spotify.com/track/4pLSsRwuJetD2G3H480CqZ) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Me and Teddy](https://open.spotify.com/album/1OwCOuuu7KRLbsA9h1AHtx) | 2:34 | 2022-09-02 | 2023-09-16 |
 | [Mi ángel](https://open.spotify.com/track/4KT4f95lo3mk6kTY2CuORb) | [Luca Perez](https://open.spotify.com/artist/4zzne57Qiuc93KSvL8Zxqg) | [Mi ángel](https://open.spotify.com/album/2OVGd54msQXkwbsFl635D1) | 1:58 | 2022-08-11 | 2023-02-18 |
 | [Mi Pequeña Bebe](https://open.spotify.com/track/6PJ8TOLeJxDeybMbyUBQFK) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Mi Pequeña Bebe](https://open.spotify.com/album/3Z5U8zt4ED2iUwDJYLOTIo) | 1:49 | 2022-08-11 | 2023-05-19 |
-| [Midnight Stars](https://open.spotify.com/track/3AuEiYI7R0iboNJxdHa9Sr) | [Gary the Canary](https://open.spotify.com/artist/0grdiHwZLQCROzeAPQzNFY) | [Fairy Snail Tale](https://open.spotify.com/album/0UbO9GlYl22DqBaMUkpPaw) | 2:53 | 2023-02-17 |  |
+| [Midnight Stars](https://open.spotify.com/track/3AuEiYI7R0iboNJxdHa9Sr) | [Gary the Canary](https://open.spotify.com/artist/0grdiHwZLQCROzeAPQzNFY) | [Fairy Snail Tale](https://open.spotify.com/album/0UbO9GlYl22DqBaMUkpPaw) | 2:53 | 2023-02-17 | 2023-09-23 |
 | [Min lille stjerne](https://open.spotify.com/track/3GmAmkvwxrDNnwwOKFroe3) | [Trude Egeland](https://open.spotify.com/artist/70nfwQmdbDzaXCx5aQxmry) | [Min lille stjerne](https://open.spotify.com/album/3WiW7d7rrVPFSM7LuxJk5i) | 1:26 | 2022-08-11 | 2023-05-19 |
 | [Miranda the Rabbit](https://open.spotify.com/track/3x6c0C2XRrdDZtniz3TjD9) | [Mrs\. Nocturnal](https://open.spotify.com/artist/2nfzidAexGJFhsh28Qp6dr) | [Miranda the Rabbit](https://open.spotify.com/album/0PTuukWSvIbksDfQBzyia1) | 1:29 | 2023-05-19 |  |
 | [Miss Polly Had a Dolly](https://open.spotify.com/track/3de9dZSLiksNDC1aNpYbsi) | [Maya Carr](https://open.spotify.com/artist/3moYZmkLXJhSnDFiLuqAyw) | [Miss Polly Had a Dolly](https://open.spotify.com/album/3SFQ9xPKovYDlysI9yIdiU) | 1:50 | 2023-01-20 |  |
@@ -403,7 +404,7 @@
 | [This Little Light Of Mine](https://open.spotify.com/track/0GnbdQSxH6gir7fIMXJu4e) | [Euan Levy](https://open.spotify.com/artist/4zYP64IZ8weY745lhRv3By) | [This Little Light Of Mine](https://open.spotify.com/album/6qyhloOjALX97CGMuzNsAq) | 2:08 | 2023-01-20 |  |
 | [This Old Man](https://open.spotify.com/track/0FFtYy25WDwgdTlKOyFFui) | [Funny Fanny](https://open.spotify.com/artist/1kvETyy8pcVERDBrk7Txdh) | [This Old Man](https://open.spotify.com/album/0iL8y62kdnKlUv0l1n5LLb) | 2:00 | 2022-08-11 | 2023-01-20 |
 | [This Old Man](https://open.spotify.com/track/0W3lwmDR8B83b8puxO89HE) | [Karina Grant](https://open.spotify.com/artist/6z6tjX6FtOo6WOkE8CrLn6) | [This Old Man](https://open.spotify.com/album/6Srd3HVugYrR8GuT98wYFK) | 1:41 | 2022-10-28 |  |
-| [This Willow Lullaby](https://open.spotify.com/track/2eJ5JUutoidmzf0MHFOUyT) | [Karolina Szcześniak](https://open.spotify.com/artist/5pcFuJmgWmT0JvJELnkHrS) | [This Willow Lullaby](https://open.spotify.com/album/2EF4A69EIDiPex4Qtq3NUf) | 2:32 | 2022-08-11 |  |
+| [This Willow Lullaby](https://open.spotify.com/track/2eJ5JUutoidmzf0MHFOUyT) | [Karolina Szcześniak](https://open.spotify.com/artist/5pcFuJmgWmT0JvJELnkHrS) | [This Willow Lullaby](https://open.spotify.com/album/2EF4A69EIDiPex4Qtq3NUf) | 2:32 | 2022-08-11 | 2023-09-23 |
 | [Three Blind Mice](https://open.spotify.com/track/0sdVzRd16V2N2TLmyrlNIx) | [Harmony Wilkinson](https://open.spotify.com/artist/7uXMDWXFT3HuDyqwLfNHkD) | [Three Blind Mice](https://open.spotify.com/album/2qtKiiSQLkcpXq4UNYm1jB) | 2:02 | 2023-01-20 |  |
 | [Three Blind Mice](https://open.spotify.com/track/5gIh1gUi9kU5OpqCOOTbc1) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Acoustic Guitar Lullabies](https://open.spotify.com/album/1aUPcEPAxp9UwB1Vvezu7P) | 2:32 | 2023-03-17 |  |
 | [Time To Nap](https://open.spotify.com/track/7IrYHQD7d72xGSyCMt0VQ5) | [Ophelia Dawson](https://open.spotify.com/artist/20EPW1ftqkwVe6P1g7GhWF) | [Time To Nap](https://open.spotify.com/album/0ShUq9Hv1ihHW5YnjyhAJv) | 1:57 | 2022-08-11 | 2023-05-19 |
@@ -425,7 +426,7 @@
 | [Un grand cerf](https://open.spotify.com/track/1QL7CCZvH3wa0K3IUzsadV) | [Aya Poole](https://open.spotify.com/artist/6RtV8jxgvNwEACODd5xsHK) | [Un grand cerf](https://open.spotify.com/album/7sc8g6ukjnvCbUP8jtWgOL) | 1:41 | 2023-05-19 |  |
 | [Underneath My Bed](https://open.spotify.com/track/4xGJ4hiEDE1q90BzKwiWSC) | [Ford Ripley](https://open.spotify.com/artist/6WLptfkrV9byJX74bdV2x9) | [Underneath My Bed](https://open.spotify.com/album/0tTnfZZ9K2d7FVKB9EzpKw) | 1:35 | 2022-10-28 |  |
 | [Unicorns](https://open.spotify.com/track/5eUi6uioV6i7zSwhEhL4pf) | [Choo Choo Baby](https://open.spotify.com/artist/0vDdNNkBuWh1lJhAREEFce) | [Unicorns](https://open.spotify.com/album/6K8LetL1T75t1ETwbPDAU7) | 2:15 | 2023-06-08 |  |
-| [Up Among the Clouds](https://open.spotify.com/track/1Ey7xPK8P00PuX11RQsYTZ) | [Kimmy Doyle](https://open.spotify.com/artist/7Bwg02Tn6RFiJnp83X1FSx) | [Up Among the Clouds](https://open.spotify.com/album/3m1rXsAzAyXiFAnpoLAvj1) | 1:53 | 2022-08-11 |  |
+| [Up Among the Clouds](https://open.spotify.com/track/1Ey7xPK8P00PuX11RQsYTZ) | [Kimmy Doyle](https://open.spotify.com/artist/7Bwg02Tn6RFiJnp83X1FSx) | [Up Among the Clouds](https://open.spotify.com/album/3m1rXsAzAyXiFAnpoLAvj1) | 1:53 | 2022-08-11 | 2023-09-23 |
 | [Ute Blåser Sommarvind \(Summer Winds\)](https://open.spotify.com/track/562NWFYtbkiYHG1DvUmxeu) | [Mrs\. Nocturnal](https://open.spotify.com/artist/2nfzidAexGJFhsh28Qp6dr) | [Ute Blåser Sommarvind](https://open.spotify.com/album/2wOUxDB0Gb3LPMSrYaN68I) | 1:33 | 2022-12-23 | 2023-08-11 |
 | [Utflukt i skogen](https://open.spotify.com/track/0OkRmQwlzwVpWdp9T8epnu) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Utflukt i skogen](https://open.spotify.com/album/1LFvvBVjS76qINYCkf6ekY) | 2:03 | 2023-02-17 | 2023-09-16 |
 | [Vaggande Vind](https://open.spotify.com/track/3ius9yqo6NVnklcvkweRo0) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [Vaggande Vind](https://open.spotify.com/album/4UPJoQwtI5ScyIzRH45LRK) | 2:14 | 2022-12-23 | 2023-08-11 |
@@ -454,6 +455,7 @@
 | [Winnie the Pooh](https://open.spotify.com/track/2G5lwoT8Wno8FqwmTSdOJe) | [Lola Hides](https://open.spotify.com/artist/3gquuIaOSVVh8knCaQXV1w) | [Winnie the Pooh](https://open.spotify.com/album/7I09xkoJdR1blurIQDUXIi) | 1:43 | 2023-06-02 |  |
 | [Wished For, Longed For](https://open.spotify.com/track/2BNXwUiXFLrdiTlyANDjya) | [Yi Nantiro](https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp) | [Wished For, Longed For](https://open.spotify.com/album/2xmYOx5eA0iWLY7OQSMPBS) | 2:41 | 2023-01-20 | 2023-06-16 |
 | [With My Toes In The Lake](https://open.spotify.com/track/6K8gN2HJJbeRSHnawuyAHl) | [Dodie Little](https://open.spotify.com/artist/6sE8hcdC14rNNo1NXuQ8sy) | [With My Toes In The Lake](https://open.spotify.com/album/1ROYUuVzjEENXzPTwD8MBf) | 1:37 | 2022-08-11 |  |
+| [With you](https://open.spotify.com/track/7gWq2hvVljdNaAShh2SbZk) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [With you](https://open.spotify.com/album/4XDs4L6NH4EXCMp9qjRlzu) | 1:27 | 2023-09-22 |  |
 | [With You By My Side](https://open.spotify.com/track/6UFjCV3KcMHjq4J96IVXrL) | [Brook Wilkie](https://open.spotify.com/artist/06YJLPH6EiVH60sOmPBszs) | [With You By My Side](https://open.spotify.com/album/4JTWjznbMaz9ALtqE4LLAw) | 1:48 | 2022-08-11 |  |
 | [Wobble Bobble](https://open.spotify.com/track/1Hd5NaOb0HqlFsMnud8eIX) | [Mary Donahue](https://open.spotify.com/artist/1yiz1cHWrjaZiEsvU4p4Lg) | [Wobble Bobble](https://open.spotify.com/album/06fbqt6G9BCyE8sYnibtLN) | 2:58 | 2022-08-11 |  |
 | [Wonder Of The World](https://open.spotify.com/track/2J32HMgsW6cDLodUiWA27k) | [Egil Nielsen](https://open.spotify.com/artist/0oZuyZXAZ8zvY3ygyApIHf) | [Wonder Of The World](https://open.spotify.com/album/4FNgs6Iv2WRX4MQdc10FEf) | 1:54 | 2022-08-11 |  |

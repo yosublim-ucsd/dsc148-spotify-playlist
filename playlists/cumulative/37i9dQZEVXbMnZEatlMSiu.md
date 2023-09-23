@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-709 songs - 1 day 18 hr 37 min
+711 songs - 1 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [CHAINSAW BLOOD](https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [CHAINSAW BLOOD](https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg) | 3:20 | 2022-10-13 | 2022-10-15 |
 | [CHANGE](https://open.spotify.com/track/4E5PyVOBH25CICgTURwGXM) | [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [Outta Body靈魂出竅](https://open.spotify.com/album/5qiMTeDKaY3cfqZeBG0xUY) | 2:41 | 2021-03-27\* | 2022-03-03 |
 | [Changing](https://open.spotify.com/track/2mYORUFdcHe4xkXOjzLukA) | [李杰明 W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h), [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [Changing](https://open.spotify.com/album/5tYTEcnieIhDAxikUuRCNc) | 3:15 | 2021-06-26 | 2021-07-01 |
+| [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-09-22 |  |
 | [Cheshire](https://open.spotify.com/track/1LJT4ctFlHUSVsfZqMeaz0) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/1E5swTfZ9FF5ECxH1N7EvL) | 3:02 | 2022-12-02 | 2022-12-19 |
 | [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 | 2021-12-27 | 2022-03-16 |
 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 | 2023-09-21 |  |
@@ -171,7 +172,7 @@
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-28 | 2022-06-20 |
 | [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 | 2023-03-19 | 2023-04-01 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-09-05 | 2021-09-12 |
-| [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-12 |  |
+| [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-12 | 2023-09-23 |
 | [I Ain't Worried](https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 2:28 | 2023-02-22 | 2023-03-11 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-06-06 | 2023-02-08 |
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-04-11 |  |
@@ -268,6 +269,7 @@
 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2021-03-27\* | 2023-03-28 |
 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 | 2023-03-04 | 2023-03-20 |
 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 | 2021-11-10 | 2021-12-11 |
+| [Overdrive](https://open.spotify.com/track/3uMO7jmdXxwSijvxNXDgE4) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:27 | 2023-09-22 |  |
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2021-10-31 | 2021-11-19 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-09-04 |  |
 | [Painted a Picture](https://open.spotify.com/track/2puE9eHa26bu1DLniIuvTw) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Painted a Picture](https://open.spotify.com/album/5NSaGxW0AwFgZ1BYDpp6j7) | 2:46 | 2021-05-06 | 2021-05-20 |
@@ -602,7 +604,7 @@
 | [查無此心 \- 《查無此心》電影主題曲](https://open.spotify.com/track/0QMtpUJcjt7IEl7FFSd8AJ) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [查無此心 \(《查無此心》電影主題曲\)](https://open.spotify.com/album/3humwzw4eBD7wuyX9qtLjl) | 4:38 | 2023-08-25 | 2023-08-28 |
 | [正想著你呢](https://open.spotify.com/track/4YxVgJAkGsUnqLvEzjz8Ry) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [房間裡的大象](https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG) | 3:25 | 2021-03-27\* | 2021-06-23 |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2021-12-08 | 2022-03-18 |
-| [毒药](https://open.spotify.com/track/60PL1vtOCFBXwwZeQlVHN9) | [周星星](https://open.spotify.com/artist/21G0EtHm49HAvOa0Au4PMp) | [毒药](https://open.spotify.com/album/6h13XN1vwTxWQTaxuWogGg) | 3:35 | 2023-09-15 |  |
+| [毒药](https://open.spotify.com/track/60PL1vtOCFBXwwZeQlVHN9) | [周星星](https://open.spotify.com/artist/21G0EtHm49HAvOa0Au4PMp) | [毒药](https://open.spotify.com/album/6h13XN1vwTxWQTaxuWogGg) | 3:35 | 2023-09-15 | 2023-09-23 |
 | [毒藥](https://open.spotify.com/track/34YwC7hZlGeIyIZGir8WHE) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [毒藥](https://open.spotify.com/album/49FXdUp7VMFszWjZSHlvWc) | 3:25 | 2022-04-27 | 2022-05-28 |
 | [毒藥](https://open.spotify.com/track/5VymCvfV0FguCa7zrIPSgk) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [狂人](https://open.spotify.com/album/0fJuIuYXDPonlFi7gUe3ol) | 3:25 | 2022-05-18 |  |
 | [沒有人想念沒離開的人](https://open.spotify.com/track/1ybDBYsAIOO7Xbstm8AbqW) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [明天再見](https://open.spotify.com/album/2idz2ndbhkZXYc1deg3CO3) | 3:09 | 2022-09-14 | 2022-09-18 |

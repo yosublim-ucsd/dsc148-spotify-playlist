@@ -1,12 +1,12 @@
 {
   "description": "what's the move?",
-  "num_followers": 39965,
+  "num_followers": 42042,
   "original_name": "Pregame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjg5OTJkNzQ3YjNjYjU2ZDkyOWM0ZjFiNjRiYTQ3YWUzNGJmMmZj",
+  "snapshot_id": "MCw2ZmQ3ZjFkYzhmMGU1MmE2NDJjNDRkZDdlNDk4YjAwYmVjZGJhM2Qw",
   "tracks": [
     {
       "added_at": "2023-08-10 21:02:28",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
-      "added_at": "2023-08-10 21:02:28",
-      "album": {
         "name": "SAVAGE MODE II",
         "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 193591,
       "name": "Glock In My Lap",
       "url": "https://open.spotify.com/track/6pcywuOeGGWeOQzdUyti6k"
+    },
+    {
+      "added_at": "2023-08-10 21:02:28",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "added_at": "2023-08-10 21:02:28",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+        "name": "Yeezus",
+        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 177000,
-      "name": "HUMBLE.",
-      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
+      "duration_ms": 229146,
+      "name": "Bound 2",
+      "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i"
     },
     {
       "added_at": "2023-08-10 21:02:28",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
-        "name": "Yeezus",
-        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 229146,
-      "name": "Bound 2",
-      "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i"
+      "duration_ms": 177000,
+      "name": "HUMBLE.",
+      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
     },
     {
       "added_at": "2023-08-10 21:02:28",
@@ -479,6 +479,26 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
+        "name": "The Papercut Chronicles II",
+        "url": "https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB"
+      },
+      "artists": [
+        {
+          "name": "Gym Class Heroes",
+          "url": "https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        }
+      ],
+      "duration_ms": 210960,
+      "name": "Stereo Hearts (feat. Adam Levine)",
+      "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"
+    },
+    {
+      "added_at": "2023-08-10 21:02:28",
+      "album": {
         "name": "TESTING",
         "url": "https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa"
       },
@@ -499,22 +519,6 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "TiK ToK",
-      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
-    },
-    {
-      "added_at": "2023-08-10 21:02:28",
-      "album": {
         "name": "good kid, m.A.A.d city (Deluxe)",
         "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
       },
@@ -531,22 +535,18 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
-        "name": "The Papercut Chronicles II",
-        "url": "https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB"
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
       "artists": [
         {
-          "name": "Gym Class Heroes",
-          "url": "https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli"
-        },
-        {
-          "name": "Adam Levine",
-          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 210960,
-      "name": "Stereo Hearts (feat. Adam Levine)",
-      "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"
+      "duration_ms": 199693,
+      "name": "TiK ToK",
+      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
     },
     {
       "added_at": "2023-08-10 21:02:28",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
+    },
+    {
+      "added_at": "2023-08-10 21:02:28",
+      "album": {
         "name": "Princess Diana (with Nicki Minaj)",
         "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
-    },
-    {
-      "added_at": "2023-08-10 21:02:28",
-      "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
     },
     {
       "added_at": "2023-08-10 21:02:28",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
-      "added_at": "2023-08-10 21:02:28",
-      "album": {
         "name": "Finally Rich",
         "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 246213,
       "name": "Love Sosa",
       "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
+    },
+    {
+      "added_at": "2023-08-10 21:02:28",
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "added_at": "2023-08-10 21:02:28",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
-        "name": "Life After Death (2014 Remastered Edition)",
-        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Hypnotize - 2014 Remaster",
-      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
-    },
-    {
-      "added_at": "2023-08-10 21:02:28",
-      "album": {
         "name": "Walking On A Dream (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
+    },
+    {
+      "added_at": "2023-08-10 21:02:28",
+      "album": {
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Hypnotize - 2014 Remaster",
+      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
     },
     {
       "added_at": "2023-08-10 21:02:28",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 180434,
-      "name": "Ballin' (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
-    },
-    {
-      "added_at": "2023-08-10 21:02:28",
-      "album": {
         "name": "Championships",
         "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 180522,
       "name": "Going Bad (feat. Drake)",
       "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
+    },
+    {
+      "added_at": "2023-08-10 21:02:28",
+      "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 180434,
+      "name": "Ballin' (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
     },
     {
       "added_at": "2023-08-10 21:02:28",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
-        "name": "Picture Show",
-        "url": "https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr"
-      },
-      "artists": [
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        }
-      ],
-      "duration_ms": 177280,
-      "name": "Everybody Talks",
-      "url": "https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq"
-    },
-    {
-      "added_at": "2023-08-10 21:02:28",
-      "album": {
         "name": "Levon James",
         "url": "https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 196179,
       "name": "Took Her To The O",
       "url": "https://open.spotify.com/track/7fEoXCZTZFosUFvFQg1BmW"
+    },
+    {
+      "added_at": "2023-08-10 21:02:28",
+      "album": {
+        "name": "Picture Show",
+        "url": "https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr"
+      },
+      "artists": [
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 177280,
+      "name": "Everybody Talks",
+      "url": "https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq"
     },
     {
       "added_at": "2023-08-10 21:02:28",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
+        "name": "SremmLife",
+        "url": "https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "This Could Be Us",
+      "url": "https://open.spotify.com/track/4jTiyLlOJVJj3mCr7yfPQD"
+    },
+    {
+      "added_at": "2023-08-10 21:02:28",
+      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 208293,
       "name": "10 Freaky Girls (with 21 Savage)",
       "url": "https://open.spotify.com/track/0AluA5RNsa4Cx6XRhf2hWZ"
-    },
-    {
-      "added_at": "2023-08-10 21:02:28",
-      "album": {
-        "name": "SremmLife",
-        "url": "https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7"
-      },
-      "artists": [
-        {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
-        }
-      ],
-      "duration_ms": 206306,
-      "name": "This Could Be Us",
-      "url": "https://open.spotify.com/track/4jTiyLlOJVJj3mCr7yfPQD"
     },
     {
       "added_at": "2023-08-10 21:02:28",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 192470,
-      "name": "Pure Water (with Migos)",
-      "url": "https://open.spotify.com/track/3j84U36KvLeXNDPv4t5pI8"
-    },
-    {
-      "added_at": "2023-08-10 21:02:28",
-      "album": {
         "name": "Finally Rich",
         "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 280173,
       "name": "Hate Bein' Sober",
       "url": "https://open.spotify.com/track/2oHM9KAdFdFvDCaE4V6RST"
+    },
+    {
+      "added_at": "2023-08-10 21:02:28",
+      "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 192470,
+      "name": "Pure Water (with Migos)",
+      "url": "https://open.spotify.com/track/3j84U36KvLeXNDPv4t5pI8"
     },
     {
       "added_at": "2023-08-10 21:02:28",

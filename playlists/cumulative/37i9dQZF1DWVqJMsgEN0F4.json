@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The Beaches along with the best alternative songs of today.",
+  "description": "Bakar along with the best alternative songs of today.",
   "name": "ALT NOW",
   "tracks": [
     {
@@ -777,6 +777,24 @@
     },
     {
       "album": {
+        "name": "Black Dress",
+        "url": "https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237361,
+      "name": "Black Dress",
+      "url": "https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY"
+    },
+    {
+      "album": {
         "name": "Black Summer",
         "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
       },
@@ -1148,7 +1166,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 194227,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/72zjYe2aysOkIR7l6KQIhR"
@@ -2214,6 +2232,28 @@
       "duration_ms": 185040,
       "name": "F2F",
       "url": "https://open.spotify.com/track/2e2AXpIiJpet5b4qg85Gh6"
+    },
+    {
+      "album": {
+        "name": "Fake As Hell (with Avril Lavigne)",
+        "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179166,
+      "name": "Fake As Hell (with Avril Lavigne)",
+      "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
     },
     {
       "album": {
@@ -3304,7 +3344,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 204676,
       "name": "Just Pretend",
       "url": "https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ"
@@ -3751,6 +3791,24 @@
     },
     {
       "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155721,
+      "name": "Mama's Boy",
+      "url": "https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC"
+    },
+    {
+      "album": {
         "name": "BLINK AND YOU'LL MISS IT//",
         "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
       },
@@ -3766,7 +3824,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 168975,
       "name": "MARRY KILL F*CK//",
       "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
@@ -3929,6 +3987,24 @@
     },
     {
       "album": {
+        "name": "Modern Girl",
+        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223100,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
+    },
+    {
+      "album": {
         "name": "Further Joy",
         "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
       },
@@ -4056,7 +4132,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 143840,
       "name": "Mrs. Hollywood",
       "url": "https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1"
@@ -4278,7 +4354,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 201000,
       "name": "Next Exit",
       "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
@@ -4649,6 +4725,24 @@
     },
     {
       "album": {
+        "name": "ONE MORE TIME / MORE THAN YOU KNOW",
+        "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208114,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
+    },
+    {
+      "album": {
         "name": "One That Got Away",
         "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
       },
@@ -4996,7 +5090,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 177933,
       "name": "Raw Raw",
       "url": "https://open.spotify.com/track/3sBofbRnJphNVu5SdBxzKQ"
@@ -5159,6 +5253,24 @@
     },
     {
       "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180933,
+      "name": "Right Here, for Now",
+      "url": "https://open.spotify.com/track/2LxRUWNqcKcTo7zOrctebE"
+    },
+    {
+      "album": {
         "name": "Right Here, For Now",
         "url": "https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi"
       },
@@ -5170,7 +5282,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 180933,
       "name": "Right Here, For Now",
       "url": "https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc"
@@ -5642,7 +5754,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
@@ -5812,6 +5924,28 @@
       "duration_ms": 257746,
       "name": "Spitting Off the Edge of the World",
       "url": "https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr"
+    },
+    {
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169467,
+      "name": "Spotless (feat. The Lumineers)",
+      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
     },
     {
       "album": {
@@ -6104,7 +6238,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 185831,
       "name": "Sympathy",
       "url": "https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5"
@@ -6511,6 +6645,24 @@
     },
     {
       "album": {
+        "name": "The Place That Makes Me Happy",
+        "url": "https://open.spotify.com/album/6UklsqQkhLmsEqFZZuVKkW"
+      },
+      "artists": [
+        {
+          "name": "The Moss",
+          "url": "https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181354,
+      "name": "The Place That Makes Me Happy",
+      "url": "https://open.spotify.com/track/6fOemgTsBaM10g8Rz3unmT"
+    },
+    {
+      "album": {
         "name": "Echoes, Silence, Patience & Grace",
         "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
@@ -6576,7 +6728,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 210051,
       "name": "The Worst Person Alive",
       "url": "https://open.spotify.com/track/4oIN3NykxQQM9ROzlsEuUv"
@@ -6706,7 +6858,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 222839,
       "name": "Think Fast (feat. Weezer)",
       "url": "https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso"
@@ -6796,7 +6948,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"
@@ -7020,7 +7172,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 181586,
       "name": "Touching Yourself",
       "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"

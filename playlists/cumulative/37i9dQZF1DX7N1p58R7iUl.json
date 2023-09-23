@@ -75,6 +75,24 @@
     },
     {
       "album": {
+        "name": "Salsatech (Pt. 1)",
+        "url": "https://open.spotify.com/album/5hY6I9Ltnzch9XYwhyKvlG"
+      },
+      "artists": [
+        {
+          "name": "Alexander Technique",
+          "url": "https://open.spotify.com/artist/5nCphaO35HX9Hxq7LSfkIw"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "AHa - Edit",
+      "url": "https://open.spotify.com/track/51AgcpeOyqlPOw70lEPWqB"
+    },
+    {
+      "album": {
         "name": "Ameno Amapiano (You Wanna Bamba) [Todd Terry Remix]",
         "url": "https://open.spotify.com/album/1p8WJo98RIGtAVRIFrXFsh"
       },
@@ -442,7 +460,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 209777,
       "name": "Confusion - Edit",
       "url": "https://open.spotify.com/track/037UN0uS8n8p31oisYp8RL"
@@ -702,6 +720,36 @@
       "duration_ms": 235785,
       "name": "Drugs From Amsterdam",
       "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
+    },
+    {
+      "album": {
+        "name": "Everyone Is Love",
+        "url": "https://open.spotify.com/album/0uz2ds7xUontoKwkFxA60e"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Lee Wilson",
+          "url": "https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr"
+        },
+        {
+          "name": "DJ Christian B",
+          "url": "https://open.spotify.com/artist/19CekYHwC0xCcr9YlOdi9K"
+        },
+        {
+          "name": "Rudi'Kastic",
+          "url": "https://open.spotify.com/artist/5pNJyZLzw93SukEbt1tz2q"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186667,
+      "name": "Everyone Is Love - Edit",
+      "url": "https://open.spotify.com/track/29XeV2bLSB8KG8nBSBscEt"
     },
     {
       "album": {
@@ -1027,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "Hurts On You",
+        "url": "https://open.spotify.com/album/2S5B7sMHhlIPTLSsR0WhWz"
+      },
+      "artists": [
+        {
+          "name": "Soul Avengerz",
+          "url": "https://open.spotify.com/artist/4Cx3Xgb8hVRlOlvjLNpUnS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "Hurts On You - Edit",
+      "url": "https://open.spotify.com/track/1XG8oAWSNUVsr5kKcfQfW7"
+    },
+    {
+      "album": {
         "name": "I Am One, I Am Many",
         "url": "https://open.spotify.com/album/5Art4i9DQoLjKy98UXYvC2"
       },
@@ -1120,10 +1186,36 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 168188,
       "name": "I Give You Love - Janika Tenn VIP Edit",
       "url": "https://open.spotify.com/track/03hsvtut70upyyfRCCu36b"
+    },
+    {
+      "album": {
+        "name": "I Give You Love (Todd Terry VIP Mix)",
+        "url": "https://open.spotify.com/album/1e8GKq5SEjbjDxKKgbwDFe"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Janika Tenn",
+          "url": "https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC"
+        },
+        {
+          "name": "Lee Wilson",
+          "url": "https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "I Give You Love - Todd Terry VIP Edit",
+      "url": "https://open.spotify.com/track/29sRE0LMaFSZg8Y7bT1hT6"
     },
     {
       "album": {
@@ -1146,6 +1238,24 @@
       "duration_ms": 142200,
       "name": "I Need Some",
       "url": "https://open.spotify.com/track/7blWEpws63flJYjkyNhGya"
+    },
+    {
+      "album": {
+        "name": "I Need UUU",
+        "url": "https://open.spotify.com/album/3hyhOcw9qkWgq9nEdWVUgy"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "I Need UUU - Edit",
+      "url": "https://open.spotify.com/track/5Re4eNuNyORLbp6vPJIVt8"
     },
     {
       "album": {
@@ -1234,7 +1344,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 193920,
       "name": "I'll Wait - Todd Terry Edit",
       "url": "https://open.spotify.com/track/6LMRj8igCpvgyMewvK8gaq"
@@ -1314,10 +1424,32 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 170569,
       "name": "IRLY (I Really Love You)",
       "url": "https://open.spotify.com/track/0TZmwiefBLRaNYtkRWH8Uh"
+    },
+    {
+      "album": {
+        "name": "It Started In Chicago",
+        "url": "https://open.spotify.com/album/3WbodrJU2P48lpXw4J9CpF"
+      },
+      "artists": [
+        {
+          "name": "Mixed Methods",
+          "url": "https://open.spotify.com/artist/0P8W0L8S8BxbDw24mMFm1e"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206520,
+      "name": "It Started In Chicago",
+      "url": "https://open.spotify.com/track/514qBya9LkMwPIELshKRiL"
     },
     {
       "album": {
@@ -1340,6 +1472,28 @@
       "duration_ms": 200028,
       "name": "It's A Killa",
       "url": "https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD"
+    },
+    {
+      "album": {
+        "name": "It's A Sin (Seamus Haji Edit)",
+        "url": "https://open.spotify.com/album/78hWF5yn8aeNfiUS8Kb0Nc"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Seamus Haji",
+          "url": "https://open.spotify.com/artist/2f6jGbE8VU74rb5AQtOdFz"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174182,
+      "name": "It's A Sin - Seamus Haji Edit",
+      "url": "https://open.spotify.com/track/5wVL3LjKjGg3NWMIGLstgT"
     },
     {
       "album": {
@@ -1450,7 +1604,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 189113,
       "name": "Jackin",
       "url": "https://open.spotify.com/track/5Ch37IZ373AdaU5f4pZ9MR"
@@ -1981,6 +2135,24 @@
     },
     {
       "album": {
+        "name": "My Luvin",
+        "url": "https://open.spotify.com/album/2ZBqadvw1nFzR8VNuXevaJ"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "My Luvin - Edit",
+      "url": "https://open.spotify.com/track/1xXCwcD2fR6Eql4lUDaJoH"
+    },
+    {
+      "album": {
         "name": "My Paradise",
         "url": "https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2"
       },
@@ -2086,6 +2258,28 @@
       "duration_ms": 190080,
       "name": "Out My Way",
       "url": "https://open.spotify.com/track/1W67Y84L9500hrERiRRgBB"
+    },
+    {
+      "album": {
+        "name": "Paradiso (feat. MC Creed)",
+        "url": "https://open.spotify.com/album/0fVEtThjxjmtM9gy1qmaGb"
+      },
+      "artists": [
+        {
+          "name": "Janika Tenn",
+          "url": "https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC"
+        },
+        {
+          "name": "MC Creed",
+          "url": "https://open.spotify.com/artist/6abMSOfq8xfhJXV9WRblCd"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195960,
+      "name": "Paradiso (feat. MC Creed)",
+      "url": "https://open.spotify.com/track/1zHExcwySEK75DZhc5j0iB"
     },
     {
       "album": {
@@ -2364,7 +2558,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 180638,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE"
@@ -2499,6 +2693,24 @@
     },
     {
       "album": {
+        "name": "String Life",
+        "url": "https://open.spotify.com/album/0msr4uwWwWZRavqNFKNWQI"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "String Life - Edit",
+      "url": "https://open.spotify.com/track/3KEuh9pizKCmkxHr4yzY5X"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2"
       },
@@ -2594,6 +2806,32 @@
       "duration_ms": 171670,
       "name": "Take My Hand (feat. Josh Barry)",
       "url": "https://open.spotify.com/track/78zqqw3oLhwiifmbqHoBaN"
+    },
+    {
+      "album": {
+        "name": "MAW Lost Tapes 9",
+        "url": "https://open.spotify.com/album/28tVAfNFZkQ1IaNPMKN2mJ"
+      },
+      "artists": [
+        {
+          "name": "Masters At Work",
+          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
+        },
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411999,
+      "name": "Talkin' Bout Da Spirit - Maw With Patti Stripped Mix",
+      "url": "https://open.spotify.com/track/6bjSOTc6yz1k5nyeXfCmVU"
     },
     {
       "album": {
@@ -2762,7 +3000,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 177036,
       "name": "The One (feat. ARA)",
       "url": "https://open.spotify.com/track/0W44iKwnweZAID1cCMw3B5"
@@ -2818,6 +3056,32 @@
       "duration_ms": 187619,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/6Bl0ROqU636RO6UHMU1NVg"
+    },
+    {
+      "album": {
+        "name": "The Walk To Church",
+        "url": "https://open.spotify.com/album/51D8zWZh1XZ2XREofvYF8Q"
+      },
+      "artists": [
+        {
+          "name": "Jack Back",
+          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+        },
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "The Walk To Church",
+      "url": "https://open.spotify.com/track/2mZRna9DI8dqUEt1JhZs6l"
     },
     {
       "album": {
@@ -2928,7 +3192,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 203108,
       "name": "Vibe Like That (feat. Georgia Meek)",
       "url": "https://open.spotify.com/track/0dH0pegRa3TILf9wzvI7jQ"
@@ -3072,7 +3336,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 217500,
       "name": "Work",
       "url": "https://open.spotify.com/track/2uNvsQrKdB6qcmO9zBMflb"

@@ -1,12 +1,12 @@
 {
   "description": "Inizia la giornata con la tua dose di caff\u00e8 e carica musicale! ",
-  "num_followers": 308699,
+  "num_followers": 308698,
   "original_name": "Caff\u00e8 del Buongiorno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjU4M2E2NDBiOGI5MmRhYjk0ZDdlMjRkOTk2NTMzOThkYzg0OTRh",
+  "snapshot_id": "MCw0ODVmOTc5MDAwYzk1NzY0MzI2MjQyMGYyNDJjZjg4Y2Y5ZGFkZjNl",
   "tracks": [
     {
       "added_at": "2023-09-06 15:16:56",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-09-06 15:16:56",
       "album": {
-        "name": "Zanaka (Deluxe)",
-        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        }
-      ],
-      "duration_ms": 248986,
-      "name": "Makeba",
-      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
-    },
-    {
-      "added_at": "2023-09-06 15:16:56",
-      "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 268235,
       "name": "Double Fantasy (with Future)",
       "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
+    },
+    {
+      "added_at": "2023-09-06 15:16:56",
+      "album": {
+        "name": "Zanaka (Deluxe)",
+        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "duration_ms": 248986,
+      "name": "Makeba",
+      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
     },
     {
       "added_at": "2023-09-06 15:16:56",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-09-06 15:16:56",
       "album": {
-        "name": "Fragole",
-        "url": "https://open.spotify.com/album/4Uyh7I3ywchoaZaZaQE4cZ"
-      },
-      "artists": [
-        {
-          "name": "Achille Lauro",
-          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
-        },
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        }
-      ],
-      "duration_ms": 209621,
-      "name": "Fragole",
-      "url": "https://open.spotify.com/track/4Js31maTathTS2flQOQr2c"
-    },
-    {
-      "added_at": "2023-09-06 15:16:56",
-      "album": {
         "name": "When You're Gone",
         "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
       },
@@ -807,22 +787,6 @@
       "duration_ms": 172266,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
-    },
-    {
-      "added_at": "2023-09-06 15:16:56",
-      "album": {
-        "name": "Queen of Kings",
-        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        }
-      ],
-      "duration_ms": 147979,
-      "name": "Queen of Kings",
-      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
     },
     {
       "added_at": "2023-09-06 15:16:56",
@@ -843,6 +807,42 @@
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+    },
+    {
+      "added_at": "2023-09-06 15:16:56",
+      "album": {
+        "name": "Queen of Kings",
+        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "duration_ms": 147979,
+      "name": "Queen of Kings",
+      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
+    },
+    {
+      "added_at": "2023-09-06 15:16:56",
+      "album": {
+        "name": "Fragole",
+        "url": "https://open.spotify.com/album/4Uyh7I3ywchoaZaZaQE4cZ"
+      },
+      "artists": [
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "duration_ms": 209621,
+      "name": "Fragole",
+      "url": "https://open.spotify.com/track/4Js31maTathTS2flQOQr2c"
     },
     {
       "added_at": "2023-09-06 15:16:56",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-09-06 15:16:56",
       "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+    },
+    {
+      "added_at": "2023-09-06 15:16:56",
+      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
-    },
-    {
-      "added_at": "2023-09-06 15:16:56",
-      "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "added_at": "2023-09-06 15:16:56",
@@ -1099,30 +1099,6 @@
       "duration_ms": 146234,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC"
-    },
-    {
-      "added_at": "2023-09-06 15:16:56",
-      "album": {
-        "name": "Drinkin'",
-        "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 149545,
-      "name": "Drinkin'",
-      "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
     },
     {
       "added_at": "2023-09-06 15:16:56",
@@ -1235,18 +1211,46 @@
     {
       "added_at": "2023-09-06 15:16:56",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Mikolas Josef",
+          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
+        },
+        {
+          "name": "Mark Neve",
+          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
         }
       ],
-      "duration_ms": 185486,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
+      "duration_ms": 141027,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
+    },
+    {
+      "added_at": "2023-09-06 15:16:56",
+      "album": {
+        "name": "Drinkin'",
+        "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 149545,
+      "name": "Drinkin'",
+      "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
     },
     {
       "added_at": "2023-09-06 15:16:56",
@@ -1267,22 +1271,18 @@
     {
       "added_at": "2023-09-06 15:16:56",
       "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
       },
       "artists": [
         {
-          "name": "Mikolas Josef",
-          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
-        },
-        {
-          "name": "Mark Neve",
-          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 141027,
-      "name": "Delilah",
-      "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
+      "duration_ms": 185486,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
     },
     {
       "added_at": "2023-09-06 15:16:56",

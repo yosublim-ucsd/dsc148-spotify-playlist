@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-96 songs - 11 hr 2 min
+97 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Awesome God](https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Bee bar](https://open.spotify.com/artist/0kgsc7QLVxGwl8wd2eS3om), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Awesome God](https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo) | 7:18 | 2023-03-23 |  |
 | [BAUHAUS](https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2) | [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [BAUHAUS](https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07) | 8:02 | 2022-09-14 |  |
 | [Before Everything](https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg) | [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Fictions](https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH) | 6:15 | 2022-09-14 |  |
-| [Captured by Mizolution](https://open.spotify.com/track/0T9yadECNVRHdd09OhRS2u) | [Mizo4Real](https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y) | [One More Time](https://open.spotify.com/album/5oN6cPVKjJkSgbhUOfgaCJ) | 8:47 | 2022-09-14 |  |
+| [Captured by Mizolution](https://open.spotify.com/track/0T9yadECNVRHdd09OhRS2u) | [Mizo4Real](https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y) | [One More Time](https://open.spotify.com/album/5oN6cPVKjJkSgbhUOfgaCJ) | 8:47 | 2022-09-14 | 2023-09-23 |
 | [Confident \- China The Charmeleon The Animal Remix](https://open.spotify.com/track/4ZMAP1fr4QvcIfF0B440MZ) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Confindent](https://open.spotify.com/album/7JrsF96D0q5Zm9tEoqMG0u) | 7:43 | 2022-09-14 | 2023-09-15 |
 | [Dark Snow \- Bones Remix](https://open.spotify.com/track/7ss7beYi753Sxs0fvvtC7T) | [The Rudeman](https://open.spotify.com/artist/4Dqd0M9FVObaErF14Tgj2z), [Keegs Bantom](https://open.spotify.com/artist/1XgMCVnnBJvz7djvk86Ry6), [Bones](https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn) | [Dark Snow](https://open.spotify.com/album/5AfN5Q8rmWE5XZ8fUxJUlV) | 6:07 | 2023-03-17 |  |
 | [Day And Night \(Mmawe\) \- Original Mix](https://open.spotify.com/track/1dxD8L9rjsFBTIoYHjkVqM) | [Chymamusique](https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI) | [3 By 3](https://open.spotify.com/album/4T4acJ3hbsdQG6lvuJIOqV) | 6:32 | 2022-09-14 | 2023-03-18 |
@@ -66,6 +66,7 @@
 | [Never Give Up](https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP) | [Zico SA](https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc) | [I Rise Again](https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg) | 9:16 | 2022-09-14 |  |
 | [Never Thought](https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN) | [Devine Maestro](https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg), [Thap Soul](https://open.spotify.com/artist/1CgzjfRs4cZjM58OJO1jPy), [NexVocals](https://open.spotify.com/artist/5vZfRSP0feCD65uUeThc4X), [Massive R](https://open.spotify.com/artist/1CnxaxpA4ZAt9NKClbv7Tc) | [Never Thought](https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj) | 4:44 | 2022-09-29 |  |
 | [Ngaphakathi](https://open.spotify.com/track/6VDV7qSg8oBsdiBkHnYoug) | [Sam Deep](https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM) | [Welcome To The Party](https://open.spotify.com/album/7CZsavnt6vFWPkk8KntzjO) | 6:22 | 2022-11-17 |  |
+| [Octave](https://open.spotify.com/track/0VnmFajFeWDUE2FO9jPIAy) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [OVGSREPUBLIC](https://open.spotify.com/album/6wHFSpUGY7TYoMH36tJsaU) | 7:33 | 2023-09-08 |  |
 | [Octave](https://open.spotify.com/track/5mtFv7U7lOVrlsdod5mvw5) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [OVGSREPUBLIC](https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE) | 7:33 | 2022-09-14 | 2023-09-15 |
 | [Oh Mdali](https://open.spotify.com/track/21V1dv8iZxpgH65mQpyH2z) | [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH), [Playmaster & Smallistic](https://open.spotify.com/artist/5pFXBKRfcyCw3q39HTvpwR), [Malungelo](https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4) | [Oh Mdali](https://open.spotify.com/album/3xOLtjnF5qOdv9YbvoRkHs) | 6:01 | 2023-03-23 |  |
 | [On It](https://open.spotify.com/track/1usuxe02sujhJiCybBWtMN) | [Slotta](https://open.spotify.com/artist/41FafHCI5NnEUw25GAd4MZ) | [A \(Ray\)](https://open.spotify.com/album/7wZwrvSUnOoUMKtGwYxqNM) | 7:04 | 2022-11-10 | 2023-03-18 |

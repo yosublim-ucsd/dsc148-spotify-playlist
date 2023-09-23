@@ -4,7 +4,7 @@
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Bipo Montana, McKlopedia y Nanpa Básico en portada.
 
-225 songs - 12 hr 51 min
+226 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [El Mundo Es Tuyo](https://open.spotify.com/track/2XMLQxLX3FQZ7veKYIKumh) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/7CWLoC8Yw64f8vMJFV1AVh) | 3:02 | 2021-12-30 | 2022-07-29 |
 | [El Mundo Es Tuyo](https://open.spotify.com/track/3eDZA496pE44xkDSamlCHD) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw) | 3:02 | 2022-06-24 |  |
 | [El Precio del Valor](https://open.spotify.com/track/69Xy0ICKMuL96Kq95wHcmd) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [El Precio del Valor](https://open.spotify.com/album/5XlUfc0NrmKhZZ55VWlkEv) | 3:14 | 2023-05-12 | 2023-07-18 |
-| [Ella No Es Tuya \- Remix](https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ella No Es Tuya \(Remix\)](https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA) | 3:38 | 2021-12-30 |  |
+| [Ella No Es Tuya \- Remix](https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ella No Es Tuya \(Remix\)](https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA) | 3:38 | 2021-12-30 | 2023-09-23 |
 | [En La Nube](https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [En La Nube](https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V) | 3:32 | 2021-12-30 | 2022-01-08 |
 | [Envidia](https://open.spotify.com/track/4NTOD6p2LLDYdeHzaxUYxk) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Envidia](https://open.spotify.com/album/0Vr2EIU3Dw3DAQKZTJ0Wqk) | 3:00 | 2022-11-25 | 2023-07-18 |
 | [ENVIDIA](https://open.spotify.com/track/05vtKZQr8tdZamjmC753dG) | [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [N\-Wise Allah](https://open.spotify.com/artist/4NGPHzbZNLMQkjtrJ2a2Sx), [Gegga](https://open.spotify.com/artist/4jdNWDjWnPON9mk3gHV2Ep) | [ENVIDIA](https://open.spotify.com/album/1rnQTScM9t7Rvz2XS8hADj) | 3:45 | 2023-07-07 |  |
@@ -219,6 +219,7 @@
 | [Todo Va a Estar Bien](https://open.spotify.com/track/3XjRIN9vEt35lm1iStPcgq) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Todo Va a Estar Bien](https://open.spotify.com/album/6iwqcQcjkN9xVlhG840W9a) | 4:27 | 2021-12-30 | 2022-07-30 |
 | [Toma 4](https://open.spotify.com/track/5UUkHi8YrakZKY9gDbtVNz) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Toma 4](https://open.spotify.com/album/7Il1eXMjz7OJExifvW8Vgt) | 3:20 | 2022-05-13 |  |
 | [TRANKY FUNKY](https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [TRANKY FUNKY](https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD) | 2:38 | 2023-08-15 |  |
+| [Tranquilo](https://open.spotify.com/track/35K0LpLwLnV8XVlwMHu1yA) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Teo LB](https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo) | [Tranquilo](https://open.spotify.com/album/6YRiaULjOY1hjYBaEjQy8Y) | 3:47 | 2023-09-22 |  |
 | [Travel](https://open.spotify.com/track/4MRGiF6FaKQt9EVLOvc2Zs) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT), [Eptos Uno](https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK) | [Fénix \(Vol\. 2\)](https://open.spotify.com/album/6tFZvYlKvk5olYOsSwqiEv) | 4:44 | 2023-07-14 |  |
 | [Tú](https://open.spotify.com/track/70GICKO4fojYsRGUx4nb4z) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Elias Wallace](https://open.spotify.com/artist/5SaZEYSyIV17OizlU9DjzI) | [Manjit 1](https://open.spotify.com/album/3jwk8uhUhfJj56MuBZYBlm) | 3:33 | 2021-12-30 | 2022-03-26 |
 | [Una Calada](https://open.spotify.com/track/3dO4nlMMWLo08eiprSMJqN) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Una Calada](https://open.spotify.com/album/0zkF6rU4NaLQ9msTqcBGwn) | 3:14 | 2023-02-24 |  |

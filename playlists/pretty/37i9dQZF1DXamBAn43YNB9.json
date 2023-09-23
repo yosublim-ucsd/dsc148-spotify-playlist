@@ -1,12 +1,12 @@
 {
   "description": "Craving that crisp country air? These low-key Country songs will take you there.",
-  "num_followers": 84907,
+  "num_followers": 84945,
   "original_name": "Chilled Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODYwMDU5OWFmOWU2MjM4YTczNTllMjJlODdjOGUwYmE4ZDA5M2Jj",
+  "snapshot_id": "MCxjYzBhYzAxMDYwMzg5ODkwOWI2Y2UyYjkwMmY0YjU0ZmNkZTA0Yjdh",
   "tracks": [
     {
       "added_at": "2023-09-21 14:00:00",
@@ -523,6 +523,22 @@
       "duration_ms": 276266,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/6TjzdRCPdXruPXte8J9zPD"
+    },
+    {
+      "added_at": "2023-09-21 14:00:00",
+      "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
       "added_at": "2023-09-21 14:00:00",

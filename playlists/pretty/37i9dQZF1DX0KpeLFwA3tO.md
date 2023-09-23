@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Grrrl Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,846 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,898 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 |
-| 2 | [Cool Girl](https://open.spotify.com/track/6axDRBjjfQbbEuEYpUVo4M) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/6Uox06DanTELepB1AQvU6M) | 1:45 |
+| 2 | [Cool Girl](https://open.spotify.com/track/4aXUKyFqYBSI7J6A1PwjTh) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/6aZFHnpTwonsLw8qVI5DdB) | 1:45 |
 | 3 | [Everything Sucks](https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Certified Depressant](https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH) | 3:20 |
 | 4 | [Big Pharma](https://open.spotify.com/track/5hOTXKQ9OqbS8haaVjHyzq) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Big Pharma](https://open.spotify.com/album/6gMqX1TJ4KrWzHpiRa6RYp) | 2:46 |
 | 5 | [Pretty Boy](https://open.spotify.com/track/0YsIuTjyAx31Eaun9LP7Ye) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Pretty Boy](https://open.spotify.com/album/4FGat65ksk32oqquDxtFSQ) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [THE OUTSIDE](https://open.spotify.com/track/6y8p0dDbtPOfAPoTdNv2xi) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [THE OUTSIDE](https://open.spotify.com/album/6SjNzyDPzCXbCyerVUvQQN) | 4:04 |
 | 100 | [MR IRRELEVANT](https://open.spotify.com/track/1ntq86lAohTY35bo8vJGZL) | [Josh Lambert](https://open.spotify.com/artist/3KOYBzBNdAbppX8MCcVxSO) | [MR IRRELEVANT](https://open.spotify.com/album/1HLgzLq7VkzMWCy1wTRBSg) | 2:57 |
 
-Snapshot ID: `MCxiYzA0YWYxYjQyZDExMDkwNmU2MjM3OTk5MTBkZTY1MmUzNTM3ZDU1`
+Snapshot ID: `MCxkYmM3OTc3NDNhNGIwYzkyZmZmZWEwNTlhYzQ3YTU4MWI3YTg4Yzdj`

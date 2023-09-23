@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 277168,
+  "num_followers": 277355,
   "original_name": "Energy Booster: Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWNiNDY0YWQ1NjI4YmQ0NzQ2NGI3MTJhMTFiMTVmYzg4MTg1MTY2",
+  "snapshot_id": "MCwyODljYzEzMWRmMWY0OTYzYjkwMDAwOGNkZDNlODhlMmJmNmQxZTk3",
   "tracks": [
     {
       "added_at": "2023-07-26 19:45:38",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
-      },
-      "artists": [
-        {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
-        }
-      ],
-      "duration_ms": 274320,
-      "name": "Past Lives",
-      "url": "https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 191706,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+      },
+      "artists": [
+        {
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+        }
+      ],
+      "duration_ms": 274320,
+      "name": "Past Lives",
+      "url": "https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
       "artists": [
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 192681,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0"
+      "duration_ms": 196588,
+      "name": "Give Yourself A Try",
+      "url": "https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 196588,
-      "name": "Give Yourself A Try",
-      "url": "https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw"
+      "duration_ms": 192681,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0"
     },
     {
       "added_at": "2023-07-26 19:45:38",

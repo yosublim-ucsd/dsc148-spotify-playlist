@@ -1020,6 +1020,24 @@
     {
       "album": {
         "name": "Harold Saul High",
+        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177866,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv"
+    },
+    {
+      "album": {
+        "name": "Harold Saul High",
         "url": "https://open.spotify.com/album/2uYVHiJwrv4qxQg9RhmeOn"
       },
       "artists": [
@@ -1768,7 +1786,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 296520,
       "name": "L.A. Freeway",
       "url": "https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz"

@@ -4,7 +4,7 @@
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-83 songs - 5 hr 42 min
+84 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Quando Eu Te Encontrar](https://open.spotify.com/track/7w47kJcte6e43BPAgd3nQX) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Quando Eu Te Encontrar](https://open.spotify.com/album/4MtuejkQXYqgYBLrCY69Jy) | 3:40 | 2023-05-05 |  |
 | [Regina Let's Go \- Live](https://open.spotify.com/track/4RDAoIi6TCV4madz9hL0CF) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [CPM 22 \- Acústico](https://open.spotify.com/album/4LzjCuCcssmyxrnUHRwhE4) | 2:56 | 2023-05-05 |  |
 | [Retrograde](https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 5:22 | 2023-05-05 |  |
-| [Shadow Man \- Unplugged & Somewhat Slightly Electric Mix](https://open.spotify.com/track/18wwNNbXchWt4jowT65YyY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Toy \(Toy:Box\)](https://open.spotify.com/album/0NFcvZO9xMAnYhPn3sfhBp) | 4:18 | 2023-05-05 |  |
+| [Shadow Man \- Unplugged & Somewhat Slightly Electric Mix](https://open.spotify.com/track/18wwNNbXchWt4jowT65YyY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Toy \(Toy:Box\)](https://open.spotify.com/album/0NFcvZO9xMAnYhPn3sfhBp) | 4:18 | 2023-05-05 | 2023-09-23 |
 | [Shadow Of The Day \- Acoustic](https://open.spotify.com/track/0OjWAUdnGBzRFSELi5JW9m) | [Jota John](https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm) | [Shadow Of The Day \(Acoustic\)](https://open.spotify.com/album/2aYZc0kNNdUmCZh0IKz9dA) | 3:18 | 2023-09-15 |  |
 | [Society](https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Into The Wild \(Music For The Motion Picture\)](https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX) | 3:56 | 2023-05-05 |  |
 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ) | 3:03 | 2023-05-05 |  |
@@ -83,6 +83,7 @@
 | [Tarde Vazia \(feat\. Samuel Rosa\) \- Versão Acústica](https://open.spotify.com/track/6tFiwRosuePm2v0DQTyGpj) | [Ira!](https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Acústico Ira!](https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw) | 4:18 | 2023-05-05 |  |
 | [The Little Things That Give You Away \- Recorded at Neptune Valley, LA](https://open.spotify.com/track/09SVUiWffBpVGOC19bHcwk) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Spotify Singles](https://open.spotify.com/album/3VJRDS3Xv9kAE8NLA9rHX1) | 5:07 | 2023-05-05 |  |
 | [The Man Who Sold The World](https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:21 | 2023-05-05 | 2023-08-19 |
+| [Você Vai Lembrar de Mim \- Acústica](https://open.spotify.com/track/6Ewm2wXpotQexuHUJqdLuR) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Você Vai Lembrar de Mim \(Edição Especial\)](https://open.spotify.com/album/0WE73xCoDYeWVoU7b7Trlb) | 2:55 | 2023-09-22 |  |
 | [Welcome To The Sky \(Intro\) \- Ao Vivo](https://open.spotify.com/track/2cfUKb4GlITzFHWKO844GX) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Capital Inicial Acústico NYC \(Ao Vivo\) \[Versão Deluxe + Faixa Extra\]](https://open.spotify.com/album/2lahfyiTR3XXoGDIhzb9oN) | 1:05 | 2023-09-01 |  |
 | [What's Going On \- Recorded at Neptune Valley, LA](https://open.spotify.com/track/2oCvlNPQ3EsLOBo1WkWz0K) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Spotify Singles](https://open.spotify.com/album/3VJRDS3Xv9kAE8NLA9rHX1) | 3:51 | 2023-05-05 | 2023-09-16 |
 | [What's My Age Again? \- Acoustic](https://open.spotify.com/track/45kMZGHOouczcHG6nwVzjh) | [Jota John](https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm) | [What's My Age Again? \(Acoustic\)](https://open.spotify.com/album/506hLUSMqm86HaWfCBmRqr) | 2:26 | 2023-09-01 |  |

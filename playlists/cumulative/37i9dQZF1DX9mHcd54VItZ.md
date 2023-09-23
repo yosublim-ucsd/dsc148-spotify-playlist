@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best new sounds of South African Rock\. Cover: <a href="Elle E">Elle E</a>
+> The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC?si=s4bAp29aQ4uHhM86DhYcJA">Karen Zoid</a>
 
-341 songs - 20 hr 17 min
+342 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [There She Goes](https://open.spotify.com/track/383TJILTEIAmfndU48yqaI) | [Orah & The Kites](https://open.spotify.com/artist/3B6qB7amU7lKiNcTNTNacP) | [There She Goes](https://open.spotify.com/album/0kH45YipMAXdwmvqAmo71u) | 4:02 | 2020-11-26 | 2022-11-18 |
 | [Thinking Too Hard](https://open.spotify.com/track/5nqWTG5lZ6iOK3sfzCAvwZ) | [Evert Snyman](https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk), [The Aviary](https://open.spotify.com/artist/1uCvRbLFcNf6GFBriq60j5), [Jacques Moolman](https://open.spotify.com/artist/6xpYpXQ06FPx2QOvymd25l) | [Thinking Too Hard](https://open.spotify.com/album/4owf9ZhxKn94LWb9Yl71hk) | 2:20 | 2022-02-17 | 2022-08-05 |
 | [Time on Your Hands](https://open.spotify.com/track/3ureghWhTV5UkMP2Bk1qFP) | [Southern Wild](https://open.spotify.com/artist/0W3lLIp2r8prEH0oejxBTi) | [Time on Your Hands](https://open.spotify.com/album/77SGuvGaRB65ppI3VgMsgD) | 4:38 | 2020-10-29 | 2022-03-25 |
+| [Tiptoe](https://open.spotify.com/track/2sb1iOmBnDrPFpzRagOhgS) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [Tiptoe](https://open.spotify.com/album/3h3GSXsm9dsxIOxjemmAan) | 3:28 | 2023-09-22 |  |
 | [Toe Roep Ek Jou Naam](https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6) | [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW), [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Toe Roep Ek Jou Naam Velvet Blohm](https://open.spotify.com/album/3rWwRZdKja3xTo7CQYDBvi) | 3:45 | 2022-11-17 | 2023-09-01 |
 | [Too Much \(Feat\. Shane Durrant\)](https://open.spotify.com/track/5ERIKZDFo9IDQl4dg69fzS) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt), [Shane Durrant](https://open.spotify.com/artist/3rJ8mFZryeXC2n5bMkQVkV) | [Fine thanks, and you?](https://open.spotify.com/album/7w9HwmPatYwQd2MgIUqyM8) | 3:12 | 2022-03-31 | 2023-01-27 |
 | [Towards The Sun](https://open.spotify.com/track/57Fo0TBbJvUndg5OXfhiNh) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [Towards The Sun](https://open.spotify.com/album/30XPENrsPptG3L6mBHFM9t) | 4:25 | 2021-08-13 | 2022-04-01 |

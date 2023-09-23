@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 
 > Jóvenes y renovadas expresiones de la bella tradición mexicana\. Natalia Jiménez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,294 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,341 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 37 | [Como Ella](https://open.spotify.com/track/0FCahZioFe81Egnaof6v8n) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [¡Arránquense Muchachos!](https://open.spotify.com/album/3sBQgNTGwKqyuxyzw1VvTE) | 3:51 |
 | 38 | [Una Vida](https://open.spotify.com/track/760FIaj8goTswBMMzezp2n) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Una Vida](https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI) | 2:57 |
 | 39 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 |
-| 40 | [Decide Qué Somos](https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:49 |
-| 41 | [Prohibido Llorar](https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Prohibido Llorar](https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1) | 4:13 |
+| 40 | [Prohibido Llorar](https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Prohibido Llorar](https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1) | 4:13 |
+| 41 | [Decide Qué Somos](https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:49 |
 | 42 | [Me Vale Madre](https://open.spotify.com/track/5jJFvVBgWznxyoJAhQO08H) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Me Vale Madre](https://open.spotify.com/album/0mGwiGJ9bh9kgRuFIjQA92) | 2:20 |
 | 43 | [Si No Es Muy Tarde \- Versión Mariachi](https://open.spotify.com/track/2VmXYSPm82hQ0xotthshnU) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Si No Es Muy Tarde \(Versión Mariachi\)](https://open.spotify.com/album/4NZmU0T1ixQM0xgh3mI0x8) | 4:01 |
 | 44 | [Me Pase de Tragos](https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98) | [Me Pase de Tragos](https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn) | 2:58 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 90 | [Por Ti Me Abrazaré](https://open.spotify.com/track/6bvHqGVqf320Sn3bkQcOyp) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Por Ti Me Abrazaré](https://open.spotify.com/album/5qndP6JceszrhYHRcXwVBp) | 3:14 |
 | 91 | [No Te Fui Suficiente](https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [No Te Fui Suficiente](https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh) | 4:38 |
 | 92 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
-| 93 | [Ese Fui Yo](https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Ese Fui Yo](https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom) | 2:42 |
-| 94 | [Coincidir](https://open.spotify.com/track/5xchG6qNlgDyZOgfmv5EpE) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Coincidencias](https://open.spotify.com/album/0YGUKU6DyVS2F7TnMl2Jav) | 3:01 |
+| 93 | [Coincidir](https://open.spotify.com/track/5xchG6qNlgDyZOgfmv5EpE) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Coincidencias](https://open.spotify.com/album/0YGUKU6DyVS2F7TnMl2Jav) | 3:01 |
+| 94 | [Ese Fui Yo](https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Ese Fui Yo](https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom) | 2:42 |
 | 95 | [¿Qué Le Echan al Tequila?](https://open.spotify.com/track/3e6nJ0bEkMA5j042TkZpua) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [¿Qué Le Echan al Tequila?](https://open.spotify.com/album/4znXFsawbU18ZIxAw2EsS2) | 2:42 |
-| 96 | [Un Buen Amor](https://open.spotify.com/track/16tlajyYHYesuFa3NGhZW8) | [Fernando Rodriguez](https://open.spotify.com/artist/4iiVa7Hbjhosrvgnt5WjVs), [RR Records](https://open.spotify.com/artist/5ZNHChN7b75i9SGA4xUnWr) | [Un Buen Amor](https://open.spotify.com/album/2XM0gRxr8UVyb1pOBcxzdn) | 2:41 |
-| 97 | [No Mereces Que Te Quiera](https://open.spotify.com/track/222Kyi97cIqQA4TxYKyYwh) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [No Mereces Que Te Quiera](https://open.spotify.com/album/5cpewiOogeoLSa6u5qMQQa) | 3:18 |
+| 96 | [No Mereces Que Te Quiera](https://open.spotify.com/track/222Kyi97cIqQA4TxYKyYwh) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [No Mereces Que Te Quiera](https://open.spotify.com/album/5cpewiOogeoLSa6u5qMQQa) | 3:18 |
+| 97 | [Un Buen Amor](https://open.spotify.com/track/16tlajyYHYesuFa3NGhZW8) | [Fernando Rodriguez](https://open.spotify.com/artist/4iiVa7Hbjhosrvgnt5WjVs), [RR Records](https://open.spotify.com/artist/5ZNHChN7b75i9SGA4xUnWr) | [Un Buen Amor](https://open.spotify.com/album/2XM0gRxr8UVyb1pOBcxzdn) | 2:41 |
 | 98 | [Cosiéndome el Corazón](https://open.spotify.com/track/2QInqAwobGfKsrKbJnVf1y) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Ya Llegó la Echeverría...](https://open.spotify.com/album/6ZNXIAbNoxtVkMuHUbXrfJ) | 3:26 |
 | 99 | [Seré](https://open.spotify.com/track/79zvHHEqoXY3DFUUXBwNN2) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Seré](https://open.spotify.com/album/65YVP3CV11KakZLZBagWOL) | 2:43 |
 | 100 | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE) | 2:58 |
 
-Snapshot ID: `MCw2M2I1YTRmYThiMGZmN2RlYjBhZTM0NjdjNTQxYTY1ODRhZmZhN2Iy`
+Snapshot ID: `MCxlNmNhMmI1YWJiZjZkNTExODVkY2QxMWNkZWFlYWIyMzZjOGIxODAw`

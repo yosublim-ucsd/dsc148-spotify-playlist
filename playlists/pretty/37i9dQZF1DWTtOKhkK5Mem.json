@@ -1,12 +1,12 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 740373,
+  "num_followers": 740487,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzEyNzBhZDYyMDFlMWQ0MmRkN2ViOWNjNjNkNjU0MDQwNzgyN2Ri",
+  "snapshot_id": "MCw1YWNkY2IwMGFkMzA0NjFiYzU2ZWU3OGJiNjE4YTRlMDViMzhkZmQ4",
   "tracks": [
     {
       "added_at": "2022-08-26 12:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Hi Infidelity (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 200293,
+      "name": "Keep on Loving You",
+      "url": "https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Armageddon - The Album",
         "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Picture This (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY"
-      },
-      "artists": [
-        {
-          "name": "Wet Wet Wet",
-          "url": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Love Is All Around - From \"Four Weddings And A Funeral\"",
-      "url": "https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Love Always",
         "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 331240,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Picture This (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY"
+      },
+      "artists": [
+        {
+          "name": "Wet Wet Wet",
+          "url": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Love Is All Around - From \"Four Weddings And A Funeral\"",
+      "url": "https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1227,6 +1243,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Love Songs (A Compilation Old and New)",
+        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 210733,
+      "name": "A Groovy Kind of Love",
+      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "I've Been Expecting You",
         "url": "https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs"
       },
@@ -1291,18 +1323,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Love Songs (A Compilation Old and New)",
-        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
+        "name": "Cuts Like A Knife",
+        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 210733,
-      "name": "A Groovy Kind of Love",
-      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
+      "duration_ms": 211933,
+      "name": "Straight From The Heart",
+      "url": "https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1319,22 +1351,6 @@
       "duration_ms": 125440,
       "name": "(What A) Wonderful World",
       "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Cuts Like A Knife",
-        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Straight From The Heart",
-      "url": "https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1683,22 +1699,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 228506,
-      "name": "The Man Who Can't Be Moved - Acoustic",
-      "url": "https://open.spotify.com/track/5zmFKotNwxzx2QHWpxLuTg"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
       },
@@ -1711,6 +1711,22 @@
       "duration_ms": 212933,
       "name": "Woman - Remastered 2010",
       "url": "https://open.spotify.com/track/1BrbXIJ7b161oQ0PfC0K32"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "The Man Who Can't Be Moved - Acoustic",
+      "url": "https://open.spotify.com/track/5zmFKotNwxzx2QHWpxLuTg"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1891,18 +1907,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Gold Experience",
-        "url": "https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks"
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
       },
       "artists": [
         {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 265320,
-      "name": "The Most Beautiful Girl In the World",
-      "url": "https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe"
+      "duration_ms": 251106,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1923,6 +1939,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "The Gold Experience",
+        "url": "https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 265320,
+      "name": "The Most Beautiful Girl In the World",
+      "url": "https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Mane Attraction",
         "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
       },
@@ -1935,38 +1967,6 @@
       "duration_ms": 265160,
       "name": "You're All I Need",
       "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 251106,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Empty Space",
-        "url": "https://open.spotify.com/album/2utLlsPJXe11YMuLwH2rf4"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Empty Space",
-      "url": "https://open.spotify.com/track/1uru26I2JKd2mQZt0MDCUe"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "It's Real",
+        "url": "https://open.spotify.com/album/5gN7Im7VUNQm7sJnmdofMc"
+      },
+      "artists": [
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        }
+      ],
+      "duration_ms": 253506,
+      "name": "I Don't Have the Heart",
+      "url": "https://open.spotify.com/track/5In7xBveNACCRX2uWNoPuW"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Classics (Vol.4)",
         "url": "https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8"
       },
@@ -2019,18 +2035,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "It's Real",
-        "url": "https://open.spotify.com/album/5gN7Im7VUNQm7sJnmdofMc"
+        "name": "Empty Space",
+        "url": "https://open.spotify.com/album/2utLlsPJXe11YMuLwH2rf4"
       },
       "artists": [
         {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 253506,
-      "name": "I Don't Have the Heart",
-      "url": "https://open.spotify.com/track/5In7xBveNACCRX2uWNoPuW"
+      "duration_ms": 214226,
+      "name": "Empty Space",
+      "url": "https://open.spotify.com/track/1uru26I2JKd2mQZt0MDCUe"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2129,22 +2145,6 @@
       "url": "https://open.spotify.com/track/7MYmo0JJJDmu4MZTSAF9y3"
     },
     {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "One Call Away (Acoustic + Remixes)",
-        "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "One Call Away - Acoustic",
-      "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
-    },
-    {
       "added_at": "2022-11-16 10:20:08",
       "album": {
         "name": "Return To Sender",
@@ -2159,6 +2159,22 @@
       "duration_ms": 172786,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/4a7Z10eGGg3th4H5jqFScX"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "One Call Away (Acoustic + Remixes)",
+        "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "One Call Away - Acoustic",
+      "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2399,22 +2415,6 @@
       "duration_ms": 286653,
       "name": "The Blower's Daughter",
       "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "More Than This - The Best Of Bryan Ferry And Roxy Music",
-        "url": "https://open.spotify.com/album/7MCxE9Sx4zHSXL4xXHm4Im"
-      },
-      "artists": [
-        {
-          "name": "Bryan Ferry",
-          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "Slave To Love",
-      "url": "https://open.spotify.com/track/7imzBhHn7KD6ag3letxmSt"
     }
   ],
   "unique_name": "In the Arms of a Woman",

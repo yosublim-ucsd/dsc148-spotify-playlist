@@ -4,7 +4,7 @@
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Dotan
 
-268 songs - 15 hr 34 min
+269 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [De Selby \(Part 2\)](https://open.spotify.com/track/4SFNe716eUbgX1XvGCTBu7) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [De Selby \(Part 2\)](https://open.spotify.com/album/5xq7nQjOBcUnOyRMkBLnaM) | 3:47 | 2023-07-20 | 2023-08-21 |
 | [Dead Man](https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man](https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY) | 4:34 | 2023-09-21 |  |
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-06-22 |  |
-| [Diamonds In My Chest](https://open.spotify.com/track/0c1z7NPGh6SEyFHP9VXzUh) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Diamonds In My Chest](https://open.spotify.com/album/4dl4tuViHtusW0aG1ncIwJ) | 3:39 | 2023-09-21 |  |
+| [Diamonds in My Chest](https://open.spotify.com/track/3YjT6jjSO2evcEGWiV0M2O) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Diamonds in My Chest](https://open.spotify.com/album/3SH3DdcqS1NrHFp5jBjWPn) | 3:39 | 2023-09-21 |  |
+| [Diamonds In My Chest](https://open.spotify.com/track/0c1z7NPGh6SEyFHP9VXzUh) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Diamonds In My Chest](https://open.spotify.com/album/4dl4tuViHtusW0aG1ncIwJ) | 3:39 | 2023-09-21 | 2023-09-23 |
 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:45 | 2023-03-30 | 2023-04-07 |
 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr) | 4:45 | 2023-02-23 | 2023-04-01 |
 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 | 2023-04-06 |  |

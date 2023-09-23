@@ -1,12 +1,12 @@
 {
   "description": "Catchy pop music to keep those legs going.",
-  "num_followers": 394655,
+  "num_followers": 394909,
   "original_name": "Fast Pop Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmQzOGVlZjVhZmQ0NmMxZjllOGJjOWFlYzZiOGQzYjI4YWFjZWZi",
+  "snapshot_id": "MCw3MTJhMjliMGE4ZDA2ZDU5NDQwNTUyNTg1M2M2ZDVlNjk0N2Q2OGE5",
   "tracks": [
     {
       "added_at": "2023-02-10 12:47:53",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-01-03 14:50:49",
       "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
-    },
-    {
-      "added_at": "2023-01-03 14:50:49",
-      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
+    },
+    {
+      "added_at": "2023-01-03 14:50:49",
+      "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
       "added_at": "2023-01-03 14:50:49",

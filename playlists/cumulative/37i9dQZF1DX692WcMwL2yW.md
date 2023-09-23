@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-353 songs - 16 hr 19 min
+354 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Close Call](https://open.spotify.com/track/5a7qqDK0TArhQulbAXlYHV) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Close Call](https://open.spotify.com/album/7Id0c14GxNXDkz38Io070t) | 2:41 | 2021-04-26\* | 2022-05-14 |
 | [clouds](https://open.spotify.com/track/7HW3irYBGOzjXBlLDPuhS2) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [clouds](https://open.spotify.com/album/1hIPzokzzAqTO7uao4S3CH) | 2:34 | 2022-07-08 |  |
 | [Cognac Carousel](https://open.spotify.com/track/1kMW4G825Ch7Ba6kps51Wp) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [A Year Down](https://open.spotify.com/album/2XkYfq0Sq0kOrGUCuMZS0g) | 1:59 | 2021-04-26\* | 2021-06-18 |
-| [Come Over](https://open.spotify.com/track/02SZNC6HRyEuFSWwvDHvGr) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Come Over](https://open.spotify.com/album/64RIVMQaMTlWzDpAymXzFa) | 4:00 | 2022-04-22 |  |
+| [Come Over](https://open.spotify.com/track/02SZNC6HRyEuFSWwvDHvGr) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Come Over](https://open.spotify.com/album/64RIVMQaMTlWzDpAymXzFa) | 4:00 | 2022-04-22 | 2023-09-23 |
+| [Come Over](https://open.spotify.com/track/5iWOwHfOFBUdbi04ti6F0v) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Come Over](https://open.spotify.com/album/2cIwbiXuRztOGlfPMnX1um) | 4:00 | 2023-07-19 |  |
 | [comfort](https://open.spotify.com/track/4E7cWFhbicXsOLpPTVyrvc) | [Goudo J](https://open.spotify.com/artist/59xol4VJ5T58RiIgiMFKR8) | [comfort](https://open.spotify.com/album/3pR0S6P46htwQIpRtbvkaT) | 2:58 | 2022-05-13 |  |
 | [Composure](https://open.spotify.com/track/4C4sN0TViLk3P2htA7tPC2) | [Leytonstoned](https://open.spotify.com/artist/6ZbJZBtFBl9YHooEmEBe0m) | [Composure](https://open.spotify.com/album/3jIkn3PQdzq1sLoz82R7ub) | 1:48 | 2021-04-26\* | 2022-10-14 |
 | [Costly Silence](https://open.spotify.com/track/4Zzrbigy09BEjWsaywDGLq) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Costly Silence](https://open.spotify.com/album/0F11j0q6SRtoshUbPZ3WO7) | 1:30 | 2022-04-08 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 
 > Laufey curates the perfect playlist for a charming '50s\-style romance movie\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,658 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,838 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 | 15 | [Lonesome Town](https://open.spotify.com/track/0SsYlkXxZ5vkWOTsKxMfMz) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Sings Again \(Expanded Edition / Remastered\)](https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg) | 2:14 |
 | 16 | [\(I Love You\) For Sentimental Reasons](https://open.spotify.com/track/5QnCtH7euld6R68UwcWrte) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:04 |
 | 17 | [I Don't Want To Set The World On Fire](https://open.spotify.com/track/777zXDJpBufzttU4AJ2dGO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:01 |
-| 18 | [California and Me](https://open.spotify.com/track/768tjNAwyH3nIFee5BIdcl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [California and Me](https://open.spotify.com/album/2tt47cpLkXdRqYhOcp2C9x) | 3:36 |
+| 18 | [California and Me](https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:36 |
 | 19 | [Everybody Loves Somebody](https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Everybody Loves Somebody](https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q) | 2:44 |
 | 20 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 |
 | 21 | [Lush Life](https://open.spotify.com/track/7ls9IFeCDuAdOcBKosMxyK) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 | 49 | [I'm In The Mood For Love](https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:29 |
 | 50 | [Call Me Irresponsible \- 2001 Remaster](https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [From Hello Dolly To Goodbye Charlie](https://open.spotify.com/album/2eUmHmpjsRfIJvulkcGfug) | 2:04 |
 
-Snapshot ID: `MCxkZTY1OWNmYTEwYjY2MDgzZGU1Yjk0OTc2MGM1ZDE1MzcwNjE3OWU4`
+Snapshot ID: `MCxhMmYwYjc3MTk4ZDQ4NmQ1YzdhODFjMDc3YjEzMDkxOGMzN2E0ZjE4`

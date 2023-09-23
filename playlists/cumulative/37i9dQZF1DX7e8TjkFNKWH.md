@@ -2,7 +2,7 @@
 
 ### [Party Hits 2000s](https://open.spotify.com/playlist/37i9dQZF1DX7e8TjkFNKWH)
 
-> Los mejores éxitos de fiesta de la década de los 2000\. Portada: Shakira.
+> The biggest party hits of the 2000s\. Cover: Shakira.
 
 305 songs - 19 hr 36 min
 
@@ -87,7 +87,7 @@
 | [Fly On The Wings Of Love \- Radio Mix](https://open.spotify.com/track/4ltjA843iasZ8e6Hq8UoWL) | [XTM](https://open.spotify.com/artist/4zD1wnIvCIplhiQPvF1c0z), [Annia](https://open.spotify.com/artist/3uSA1Z86LLIB8XZHAOkGRP) | [Fly On The Wings Of Love \(Remixes\)](https://open.spotify.com/album/54KTKogKL9ma65rskdAiEm) | 2:59 | 2021-09-08 | 2022-07-17 |
 | [Forever](https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Forever](https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW) | 4:38 | 2021-09-08 |  |
 | [From Paris to Berlin](https://open.spotify.com/track/5ClXLJW6OLZuTLCwhmX9h9) | [Infernal](https://open.spotify.com/artist/2nnBn2iyqkuOBj85nhGp1k) | [From Paris to Berlin](https://open.spotify.com/album/6SC5NVbBXCHW78zOSPZgYx) | 3:29 | 2021-09-08 | 2022-07-29 |
-| [Galvanize](https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Push The Button](https://open.spotify.com/album/715rku55lldqdw9WiEuPgi) | 6:33 | 2022-01-10 |  |
+| [Galvanize](https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Push The Button](https://open.spotify.com/album/715rku55lldqdw9WiEuPgi) | 6:33 | 2022-01-10 | 2023-09-23 |
 | [Gasolina](https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:12 | 2022-01-10 |  |
 | [Gasolina](https://open.spotify.com/track/6jEZLz3YpnEBRpVkv35AmP) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/5i2HhIrYyMNQvmsBk9h8Im) | 3:12 | 2021-03-22 | 2022-07-29 |
 | [Get Busy](https://open.spotify.com/track/5qTvkDrSfvwDv6RBjjcfQr) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:31 | 2021-03-22 | 2023-01-21 |
@@ -194,7 +194,7 @@
 | [Murder On The Dancefloor](https://open.spotify.com/track/2Za2mUwmQoSxWPscaY2vxl) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/0Mf0uNttnZvaQOKiECOBSn) | 3:50 | 2021-03-22 | 2022-07-29 |
 | [My Humps](https://open.spotify.com/track/19JdbdEwQI7bCxefMokZO8) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Monkey Business](https://open.spotify.com/album/2szeSQtOcJgRhDXmTS3SIf) | 5:26 | 2022-01-10 |  |
 | [My Humps](https://open.spotify.com/track/20jYtEun4dUdYZ9foaOC48) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Monkey Business](https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0) | 5:26 | 2021-09-08 | 2022-07-29 |
-| [My My My](https://open.spotify.com/track/653rxW1E7V52QWh6a7oIdS) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Nympho](https://open.spotify.com/album/2JIkl78IhsQCuyoEGc7COH) | 3:02 | 2022-01-10 | 2023-09-17 |
+| [My My My](https://open.spotify.com/track/653rxW1E7V52QWh6a7oIdS) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Nympho](https://open.spotify.com/album/2JIkl78IhsQCuyoEGc7COH) | 3:02 | 2022-01-10 |  |
 | [My My My \- Radio Edit](https://open.spotify.com/track/4a2R36HOxSh9qdyLDrkMzK) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [My My My](https://open.spotify.com/album/1xOnf71ecVaE932YoWB6nB) | 3:10 | 2021-09-08 | 2022-07-26 |
 | [Naughty Girl](https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:28 | 2022-01-10 |  |
 | [Naughty Girl](https://open.spotify.com/track/0CPLnPUUHh44vAzDSM5ZlR) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y) | 3:28 | 2021-03-22 | 2022-07-29 |

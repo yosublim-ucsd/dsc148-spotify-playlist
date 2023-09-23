@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: The Chainsmokers, Alok, Mae Stephens
 
-163 songs - 7 hr 43 min
+165 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Girl Like U](https://open.spotify.com/track/05XkogU63hk3AVdrXv6rDY) | [Fixed withGlue](https://open.spotify.com/artist/6HUWmTkXlft3pPWAEiF14I), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Girl Like U](https://open.spotify.com/album/0XUnacNOPhOEbdXAsInTpv) | 1:58 | 2023-09-07 |  |
 | [Go Off](https://open.spotify.com/track/4cZ7N0F7zTiQlyMit4rJgt) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Go Off](https://open.spotify.com/album/034q9ocSCLPLYFDVfbxqAO) | 2:12 | 2023-09-21 |  |
 | [Goldener Reiter](https://open.spotify.com/track/60VDwnHc0Yy3v5Dg6O8W43) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [MAKZ 38](https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF) | [Goldener Reiter](https://open.spotify.com/album/5JWXbqySwDZbQRaVIISozr) | 2:18 | 2023-09-14 |  |
-| [Goodbye](https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Goodbye](https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH) | 2:57 | 2023-09-07 |  |
+| [Goodbye](https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Goodbye](https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH) | 2:57 | 2023-09-07 | 2023-09-23 |
 | [Hands Up](https://open.spotify.com/track/3WCxK21BE4ar25o8hYUsWn) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dave Mak](https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U), [Scheffwell](https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e) | [Hands Up](https://open.spotify.com/album/0H0NrzTM22cyfL4jXEySzf) | 2:11 | 2023-08-31 | 2023-09-22 |
 | [Hardcore Vibes](https://open.spotify.com/track/2cXpoxxY9stdQuvLp6AD9o) | [Rob & Chris](https://open.spotify.com/artist/4TpbEVsX4U0Cs9QhhI2JyG), [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Hardcore Vibes](https://open.spotify.com/album/3dq0UTLqiKAuGweIbgRodr) | 2:26 | 2023-08-31 | 2023-09-15 |
 | [High](https://open.spotify.com/track/6tFu352cJP4jBVrfU4dR4l) | [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv), [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3) | [High](https://open.spotify.com/album/3l89sZcMW0mJJEgRQN68G9) | 2:55 | 2023-08-31 | 2023-09-15 |
@@ -156,6 +156,8 @@
 | [That Feeling](https://open.spotify.com/track/234GyiMYia1kR7lPPDS4Pv) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [TRAVYP](https://open.spotify.com/artist/0XsiNGxLITrNchOt9zTW99) | [That Feeling](https://open.spotify.com/album/3g5gzdOCIrCI3ghCWOyjEd) | 3:34 | 2023-08-31 | 2023-09-15 |
 | [The Awakening](https://open.spotify.com/track/4IxM0oIz7plmTiYCZZwnE3) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl) | [The Awakening](https://open.spotify.com/album/4ov64pSP0bAOAo1rhae7UJ) | 2:30 | 2023-09-14 |  |
 | [The Way I Are](https://open.spotify.com/track/50myMN3Oz7DgUyRSq98IzC) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [The Way I Are](https://open.spotify.com/album/4zD7Y1fv2JeUlT4KTk4ybh) | 2:45 | 2023-08-31 | 2023-09-08 |
+| [This Girl \- KIMMIC Terrace Remix](https://open.spotify.com/track/2HxLSOWK0UBxYEqhe91TrL) | [KIMMIC](https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [This Girl \(KIMMIC Terrace Remix\)](https://open.spotify.com/album/20wZJDfKYRjPSkd6PNGhcP) | 2:15 | 2023-09-22 |  |
+| [To The Lonely](https://open.spotify.com/track/2wmvhQA5gU0SjAZqtSU2nL) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [To The Lonely](https://open.spotify.com/album/391yphNvGTzzWHgNS909qu) | 2:10 | 2023-09-22 |  |
 | [Tonight](https://open.spotify.com/track/1re6C3qEzYZq8WqNTeBify) | [Tob!as](https://open.spotify.com/artist/3jNi6egCA3DtlMBLEqqt6O) | [Tonight](https://open.spotify.com/album/0z0GJKrIX3aJVS7LHaYf97) | 2:40 | 2023-08-31 | 2023-09-15 |
 | [Too Close](https://open.spotify.com/track/54m4uPOVyjzxgh81Dr4rxS) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Too Close](https://open.spotify.com/album/0AV0Iov13auiWBGxyGQuXZ) | 2:29 | 2023-09-07 | 2023-09-22 |
 | [Too Close \- VIP Edit](https://open.spotify.com/track/4Wzl3eOy9qwUvbBcKvQlD2) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH), [Sunlike Brothers](https://open.spotify.com/artist/6ag0HxAKmKQFDXVdt6FUVx), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE) | [Too Close \(VIP Edit\)](https://open.spotify.com/album/4sD6Qdoy6tUxfZzNK3O3Kb) | 3:00 | 2023-09-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Gato e\u2019 Monte.",
-  "num_followers": 116460,
+  "num_followers": 116484,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWFjMTg4MDgwOWFiMjE4OTYyZDAzYTUyYWRjNDFiOWNlOWI4NTQ5",
+  "snapshot_id": "MCwzZTA2YWMwNDAxYTZlY2UzMTE0NGNmOGMwNzkyYmExNGM3YWY5OTUz",
   "tracks": [
     {
       "added_at": "2023-09-15 06:00:00",
@@ -219,18 +219,22 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+        "name": "Cuando Te Muerdes el Labio",
+        "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
       },
       "artists": [
         {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
+      "duration_ms": 173453,
+      "name": "Peligrosamente Dark (feat. Silvana Estrada)",
+      "url": "https://open.spotify.com/track/15pq95Ie1omSW3e1oCCynv"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -251,22 +255,18 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "Tocando tierra",
-        "url": "https://open.spotify.com/album/6ZMzud0Gsx7zhe6CSCWDET"
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
       "artists": [
         {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        },
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
         }
       ],
-      "duration_ms": 253813,
-      "name": "Semillas (con Perota Chingo)",
-      "url": "https://open.spotify.com/track/7jC9oz02D4KHAd85ej8lUe"
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -287,22 +287,22 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "Cuando Te Muerdes el Labio",
-        "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
+        "name": "Tocando tierra",
+        "url": "https://open.spotify.com/album/6ZMzud0Gsx7zhe6CSCWDET"
       },
       "artists": [
         {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         },
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 173453,
-      "name": "Peligrosamente Dark (feat. Silvana Estrada)",
-      "url": "https://open.spotify.com/track/15pq95Ie1omSW3e1oCCynv"
+      "duration_ms": 253813,
+      "name": "Semillas (con Perota Chingo)",
+      "url": "https://open.spotify.com/track/7jC9oz02D4KHAd85ej8lUe"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "Viento Sur",
-        "url": "https://open.spotify.com/album/07YaDmmOtX88kOCryTmXh6"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 273332,
-      "name": "Lejos de la ciudad",
-      "url": "https://open.spotify.com/track/3E6Biow3hFr1axedNqmRoe"
-    },
-    {
-      "added_at": "2023-09-15 06:00:00",
-      "album": {
         "name": "Borneo",
         "url": "https://open.spotify.com/album/5LRDEs05vm8LTRV5U7g1xc"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 172965,
       "name": "Rayito",
       "url": "https://open.spotify.com/track/3Dvams9yiJchXGj1OlOCil"
+    },
+    {
+      "added_at": "2023-09-15 06:00:00",
+      "album": {
+        "name": "Sof\u00e1",
+        "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        }
+      ],
+      "duration_ms": 264053,
+      "name": "Cu\u00eddame",
+      "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "Sof\u00e1",
-        "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
+        "name": "Viento Sur",
+        "url": "https://open.spotify.com/album/07YaDmmOtX88kOCryTmXh6"
       },
       "artists": [
         {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         }
       ],
-      "duration_ms": 264053,
-      "name": "Cu\u00eddame",
-      "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
+      "duration_ms": 273332,
+      "name": "Lejos de la ciudad",
+      "url": "https://open.spotify.com/track/3E6Biow3hFr1axedNqmRoe"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -743,38 +743,6 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "Ninguna posibilidad",
-        "url": "https://open.spotify.com/album/3Nz3E3HwGweW9jZyeq97T9"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
-        }
-      ],
-      "duration_ms": 164817,
-      "name": "Ninguna posibilidad",
-      "url": "https://open.spotify.com/track/2cCbr2IvZ48GI6VTTmI8X4"
-    },
-    {
-      "added_at": "2023-09-15 06:00:00",
-      "album": {
-        "name": "La balada de G. Clark",
-        "url": "https://open.spotify.com/album/55RufPnuWd7lDX59tmPS6X"
-      },
-      "artists": [
-        {
-          "name": "Delgado",
-          "url": "https://open.spotify.com/artist/5JZsNZPanMovytl13dW0dK"
-        }
-      ],
-      "duration_ms": 355062,
-      "name": "La balada de G. Clark",
-      "url": "https://open.spotify.com/track/1Apug92E2TzlucGYwC04yq"
-    },
-    {
-      "added_at": "2023-09-15 06:00:00",
-      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/4N49uJYVWaDxhesWOlTKRJ"
       },
@@ -795,6 +763,38 @@
       "duration_ms": 359510,
       "name": "Luna",
       "url": "https://open.spotify.com/track/7AmmTz0pxDEBIg4Ln6r6l7"
+    },
+    {
+      "added_at": "2023-09-15 06:00:00",
+      "album": {
+        "name": "La balada de G. Clark",
+        "url": "https://open.spotify.com/album/55RufPnuWd7lDX59tmPS6X"
+      },
+      "artists": [
+        {
+          "name": "Delgado",
+          "url": "https://open.spotify.com/artist/5JZsNZPanMovytl13dW0dK"
+        }
+      ],
+      "duration_ms": 355062,
+      "name": "La balada de G. Clark",
+      "url": "https://open.spotify.com/track/1Apug92E2TzlucGYwC04yq"
+    },
+    {
+      "added_at": "2023-09-15 06:00:00",
+      "album": {
+        "name": "Ninguna posibilidad",
+        "url": "https://open.spotify.com/album/3Nz3E3HwGweW9jZyeq97T9"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
+        }
+      ],
+      "duration_ms": 164817,
+      "name": "Ninguna posibilidad",
+      "url": "https://open.spotify.com/track/2cCbr2IvZ48GI6VTTmI8X4"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -899,22 +899,18 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "El Caminante",
-        "url": "https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK"
+        "name": "La Utop\u00eda en que Vivimos",
+        "url": "https://open.spotify.com/album/1QCfbXagWcqyxSbOoszNQT"
       },
       "artists": [
         {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        },
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+          "name": "Rupatrupa",
+          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
         }
       ],
-      "duration_ms": 188769,
-      "name": "La Aguja",
-      "url": "https://open.spotify.com/track/4SPsxVT36LRsAtk8QBlpWt"
+      "duration_ms": 303699,
+      "name": "La Cultura del Miedo",
+      "url": "https://open.spotify.com/track/2nSqBmRIDOlsBeiM2jdsup"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -935,18 +931,22 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "La Utop\u00eda en que Vivimos",
-        "url": "https://open.spotify.com/album/1QCfbXagWcqyxSbOoszNQT"
+        "name": "El Caminante",
+        "url": "https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK"
       },
       "artists": [
         {
-          "name": "Rupatrupa",
-          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
         }
       ],
-      "duration_ms": 303699,
-      "name": "La Cultura del Miedo",
-      "url": "https://open.spotify.com/track/2nSqBmRIDOlsBeiM2jdsup"
+      "duration_ms": 188769,
+      "name": "La Aguja",
+      "url": "https://open.spotify.com/track/4SPsxVT36LRsAtk8QBlpWt"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 204746,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
+    },
+    {
+      "added_at": "2023-09-15 06:00:00",
+      "album": {
         "name": "Ale",
         "url": "https://open.spotify.com/album/6L2j0NdKnephA0aVhZOa6j"
       },
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+        "name": "La Vuelta a Casa",
+        "url": "https://open.spotify.com/album/7sUcR3eGAWPgek9ghZKSpI"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Inazio",
+          "url": "https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl"
         }
       ],
-      "duration_ms": 204746,
-      "name": "Carta",
-      "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
+      "duration_ms": 210272,
+      "name": "Luci\u00e9rnagas",
+      "url": "https://open.spotify.com/track/0B5NDIEAL9q0vpkuAIkA3o"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -1091,22 +1107,6 @@
       "duration_ms": 216661,
       "name": "Todo Lo Que No Est\u00e1",
       "url": "https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z"
-    },
-    {
-      "added_at": "2023-09-15 06:00:00",
-      "album": {
-        "name": "La Vuelta a Casa",
-        "url": "https://open.spotify.com/album/7sUcR3eGAWPgek9ghZKSpI"
-      },
-      "artists": [
-        {
-          "name": "Inazio",
-          "url": "https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl"
-        }
-      ],
-      "duration_ms": 210272,
-      "name": "Luci\u00e9rnagas",
-      "url": "https://open.spotify.com/track/0B5NDIEAL9q0vpkuAIkA3o"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "Algo Ritmos",
-        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 236361,
-      "name": "Solo Le Dije",
-      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
-    },
-    {
-      "added_at": "2023-09-15 06:00:00",
-      "album": {
         "name": "Dentro del Armario (Turisme Per la Mem\u00f2ria)",
         "url": "https://open.spotify.com/album/2cGtXj8RUlnouClzRfzi6t"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 198293,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+    },
+    {
+      "added_at": "2023-09-15 06:00:00",
+      "album": {
+        "name": "Algo Ritmos",
+        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 236361,
+      "name": "Solo Le Dije",
+      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -1335,54 +1335,6 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "LXS INFERNALES (Del Valle Encantado)",
-        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 182256,
-      "name": "TRIGAL",
-      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
-    },
-    {
-      "added_at": "2023-09-15 06:00:00",
-      "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 183152,
-      "name": "Cuando los A\u00f1os Pasen",
-      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
-    },
-    {
-      "added_at": "2023-09-15 06:00:00",
-      "album": {
-        "name": "Kumbayeo (Lado A)",
-        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Orquesta natural",
-      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
-    },
-    {
-      "added_at": "2023-09-15 06:00:00",
-      "album": {
         "name": "Alma en Vilo",
         "url": "https://open.spotify.com/album/1s9LyYHwxNbQ3kNUVD2Wjd"
       },
@@ -1411,22 +1363,34 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "La Sangre del Mundo",
-        "url": "https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H"
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
       },
       "artists": [
         {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        },
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
         }
       ],
-      "duration_ms": 264160,
-      "name": "Coplas (feat. Perot\u00e1 Ching\u00f3)",
-      "url": "https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9"
+      "duration_ms": 183152,
+      "name": "Cuando los A\u00f1os Pasen",
+      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
+    },
+    {
+      "added_at": "2023-09-15 06:00:00",
+      "album": {
+        "name": "LXS INFERNALES (Del Valle Encantado)",
+        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 182256,
+      "name": "TRIGAL",
+      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -1447,22 +1411,38 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "tal vez, no s\u00e9",
-        "url": "https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla"
+        "name": "Kumbayeo (Lado A)",
+        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
       },
       "artists": [
         {
-          "name": "Poli Sallustro",
-          "url": "https://open.spotify.com/artist/3GDDrbnVlyfhi84cAVaZ6w"
-        },
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Orquesta natural",
+      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
+    },
+    {
+      "added_at": "2023-09-15 06:00:00",
+      "album": {
+        "name": "La Sangre del Mundo",
+        "url": "https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H"
+      },
+      "artists": [
         {
           "name": "Muerdo",
           "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        },
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 224599,
-      "name": "tal vez, no s\u00e9",
-      "url": "https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj"
+      "duration_ms": 264160,
+      "name": "Coplas (feat. Perot\u00e1 Ching\u00f3)",
+      "url": "https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -1479,6 +1459,26 @@
       "duration_ms": 185036,
       "name": "Chavela",
       "url": "https://open.spotify.com/track/0rZrzVHDc6k3EYnAnIhUel"
+    },
+    {
+      "added_at": "2023-09-15 06:00:00",
+      "album": {
+        "name": "tal vez, no s\u00e9",
+        "url": "https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla"
+      },
+      "artists": [
+        {
+          "name": "Poli Sallustro",
+          "url": "https://open.spotify.com/artist/3GDDrbnVlyfhi84cAVaZ6w"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 224599,
+      "name": "tal vez, no s\u00e9",
+      "url": "https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
+        "name": "El Perro Feroz",
+        "url": "https://open.spotify.com/album/7IZ6Ez4uj3Vo0WPQrrGXlp"
+      },
+      "artists": [
+        {
+          "name": "Anthony Escand\u00f3n",
+          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
+        }
+      ],
+      "duration_ms": 140928,
+      "name": "Diente de Le\u00f3n",
+      "url": "https://open.spotify.com/track/2gdBOt1AKjkoZyO7C3MUFy"
+    },
+    {
+      "added_at": "2023-09-15 06:00:00",
+      "album": {
         "name": "Cuchara Chueca",
         "url": "https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V"
       },
@@ -1639,18 +1655,22 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "El Perro Feroz",
-        "url": "https://open.spotify.com/album/7IZ6Ez4uj3Vo0WPQrrGXlp"
+        "name": "Cors\u00e9",
+        "url": "https://open.spotify.com/album/7oVk2hpD8pmrrwKOkRgDQk"
       },
       "artists": [
         {
-          "name": "Anthony Escand\u00f3n",
-          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
+          "name": "Clara Peya",
+          "url": "https://open.spotify.com/artist/3VAefaRPtanzJsMLfj9c7S"
+        },
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
         }
       ],
-      "duration_ms": 140928,
-      "name": "Diente de Le\u00f3n",
-      "url": "https://open.spotify.com/track/2gdBOt1AKjkoZyO7C3MUFy"
+      "duration_ms": 306536,
+      "name": "Nana para m\u00ed",
+      "url": "https://open.spotify.com/track/5IY5cuo1nQbcJvzE8h2YvF"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -1707,46 +1727,22 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "Cors\u00e9",
-        "url": "https://open.spotify.com/album/7oVk2hpD8pmrrwKOkRgDQk"
+        "name": "La Despedida (feat. Valeria Castro)",
+        "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
       },
       "artists": [
         {
-          "name": "Clara Peya",
-          "url": "https://open.spotify.com/artist/3VAefaRPtanzJsMLfj9c7S"
+          "name": "Colectivo Panamera",
+          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
         },
         {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 306536,
-      "name": "Nana para m\u00ed",
-      "url": "https://open.spotify.com/track/5IY5cuo1nQbcJvzE8h2YvF"
-    },
-    {
-      "added_at": "2023-09-15 06:00:00",
-      "album": {
-        "name": "Pilares",
-        "url": "https://open.spotify.com/album/2DgMUQX65M1iCN3dSW4R0e"
-      },
-      "artists": [
-        {
-          "name": "Chiki Lora",
-          "url": "https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY"
-        },
-        {
-          "name": "Canteca de macao",
-          "url": "https://open.spotify.com/artist/66xBjuCrzVfhXXvmLxF2UL"
-        },
-        {
-          "name": "Miryam Latrece",
-          "url": "https://open.spotify.com/artist/3QcEeHjRSvL4aQBDaTDKi7"
-        }
-      ],
-      "duration_ms": 195240,
-      "name": "Volar\u00e9",
-      "url": "https://open.spotify.com/track/0i63K6PMAQOw60aJRPV7lm"
+      "duration_ms": 218028,
+      "name": "La Despedida (feat. Valeria Castro)",
+      "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -1771,22 +1767,26 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "La Despedida (feat. Valeria Castro)",
-        "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
+        "name": "Pilares",
+        "url": "https://open.spotify.com/album/2DgMUQX65M1iCN3dSW4R0e"
       },
       "artists": [
         {
-          "name": "Colectivo Panamera",
-          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
+          "name": "Chiki Lora",
+          "url": "https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY"
         },
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Canteca de macao",
+          "url": "https://open.spotify.com/artist/66xBjuCrzVfhXXvmLxF2UL"
+        },
+        {
+          "name": "Miryam Latrece",
+          "url": "https://open.spotify.com/artist/3QcEeHjRSvL4aQBDaTDKi7"
         }
       ],
-      "duration_ms": 218028,
-      "name": "La Despedida (feat. Valeria Castro)",
-      "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
+      "duration_ms": 195240,
+      "name": "Volar\u00e9",
+      "url": "https://open.spotify.com/track/0i63K6PMAQOw60aJRPV7lm"
     },
     {
       "added_at": "2023-09-15 06:00:00",

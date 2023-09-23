@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's pop, featuring Tate McRae, Tyla and Sia.",
+  "description": "Today's pop, featuring LU KALA, Troye Sivan and Tate McRae.",
   "name": "Pop All Day",
   "tracks": [
     {
@@ -506,6 +506,28 @@
       "duration_ms": 227940,
       "name": "Afraid of the Dark",
       "url": "https://open.spotify.com/track/6iuaN8P73TOrTo4MCFpIc8"
+    },
+    {
+      "album": {
+        "name": "After Party (Just Dance)",
+        "url": "https://open.spotify.com/album/6PyIWzOLSHV6WFiHNuyF5y"
+      },
+      "artists": [
+        {
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        },
+        {
+          "name": "Zach Zoya",
+          "url": "https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193007,
+      "name": "After Party (Just Dance)",
+      "url": "https://open.spotify.com/track/2ABDq7ENIDA0cqk1Ju8pPj"
     },
     {
       "album": {
@@ -3266,7 +3288,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 148330,
       "name": "candyflips!",
       "url": "https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn"
@@ -3679,6 +3701,24 @@
     },
     {
       "album": {
+        "name": "Cold Tea",
+        "url": "https://open.spotify.com/album/7ouNonvlK1rcZey6noEvxg"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235905,
+      "name": "Cold Tea",
+      "url": "https://open.spotify.com/track/597KzBs4KvD6HavNl0yiG1"
+    },
+    {
+      "album": {
         "name": "Purple Hearts (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd"
       },
@@ -3824,6 +3864,24 @@
       "duration_ms": 167570,
       "name": "Contemporary Love",
       "url": "https://open.spotify.com/track/5pYHdnHdmCYISSygrXYk45"
+    },
+    {
+      "album": {
+        "name": "Cowgirl Radio",
+        "url": "https://open.spotify.com/album/1cwLCReU5YYj5gViPF84yP"
+      },
+      "artists": [
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Cowgirl Radio",
+      "url": "https://open.spotify.com/track/7hadjYMpcpJ8ZUvenr5wxB"
     },
     {
       "album": {
@@ -4335,6 +4393,24 @@
     },
     {
       "album": {
+        "name": "Dead Man",
+        "url": "https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274870,
+      "name": "Dead Man",
+      "url": "https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH"
+    },
+    {
+      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/29mkhh4TaJm7XbeQdCxrE5"
       },
@@ -4720,6 +4796,24 @@
       "duration_ms": 161123,
       "name": "Do U Really? (with Ruth B.)",
       "url": "https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy"
+    },
+    {
+      "album": {
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232277,
+      "name": "Doesn\u2019t Do Me Any Good",
+      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
     },
     {
       "album": {
@@ -7333,6 +7427,24 @@
     },
     {
       "album": {
+        "name": "Got Me Started",
+        "url": "https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198448,
+      "name": "Got Me Started",
+      "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
+    },
+    {
+      "album": {
         "name": "Grand",
         "url": "https://open.spotify.com/album/6u32goyaQHOcbbmdooLRJ4"
       },
@@ -8515,6 +8627,24 @@
     },
     {
       "album": {
+        "name": "HOSTAGE",
+        "url": "https://open.spotify.com/album/53ZYFWC6rPIwdMuisHdMWK"
+      },
+      "artists": [
+        {
+          "name": "Braden Bales",
+          "url": "https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141876,
+      "name": "HOSTAGE",
+      "url": "https://open.spotify.com/track/1p1EeOGryPK0AQRraHw6fW"
+    },
+    {
+      "album": {
         "name": "Hot In It",
         "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
       },
@@ -8534,6 +8664,24 @@
       "duration_ms": 129817,
       "name": "Hot In It",
       "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
+    },
+    {
+      "album": {
+        "name": "Hotter Now",
+        "url": "https://open.spotify.com/album/7yYUYzfzUGWPkqY1crWBlh"
+      },
+      "artists": [
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181933,
+      "name": "Hotter Now",
+      "url": "https://open.spotify.com/track/4BIyKFJ2pgh3eY7Hc4Ce0k"
     },
     {
       "album": {
@@ -10138,7 +10286,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 208769,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/1wkze3nOLQkWG9uHjHaKjc"
@@ -11410,7 +11558,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 173369,
       "name": "Living In A Haze",
       "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
@@ -12633,6 +12781,32 @@
     },
     {
       "album": {
+        "name": "Mirage (for Assassin's Creed Mirage)",
+        "url": "https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
+        },
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133183,
+      "name": "Mirage - for Assassin's Creed Mirage",
+      "url": "https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW"
+    },
+    {
+      "album": {
         "name": "Miss America",
         "url": "https://open.spotify.com/album/61Es52Ztb8rT01ai0PEo8W"
       },
@@ -13000,7 +13174,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 219642,
       "name": "Mu\u00f1ekita (with El Alfa & JT)",
       "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
@@ -13080,6 +13254,24 @@
       "duration_ms": 174760,
       "name": "My Head & My Heart",
       "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
+    },
+    {
+      "album": {
+        "name": "losers",
+        "url": "https://open.spotify.com/album/40ZWm8ltztxPHf8J3i3Rsb"
+      },
+      "artists": [
+        {
+          "name": "laye",
+          "url": "https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213498,
+      "name": "my last cigarette",
+      "url": "https://open.spotify.com/track/1nE1QUt0uhagnrSFoJE04S"
     },
     {
       "album": {
@@ -14162,7 +14354,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 121695,
       "name": "Once More",
       "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
@@ -14539,6 +14731,24 @@
     },
     {
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC"
+    },
+    {
+      "album": {
         "name": "Paint The Town Red",
         "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
       },
@@ -14550,7 +14760,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
@@ -14876,7 +15086,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 191451,
       "name": "Poison Poison",
       "url": "https://open.spotify.com/track/7e1arKsP7vPjdwssVPHgZk"
@@ -15132,7 +15342,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 146234,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC"
@@ -15810,7 +16020,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 143264,
       "name": "RUNAWAY",
       "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
@@ -15890,7 +16100,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 172151,
       "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
       "url": "https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc"
@@ -16814,6 +17024,24 @@
       "duration_ms": 175875,
       "name": "Sleep Well",
       "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
+    },
+    {
+      "album": {
+        "name": "Sleep Without You",
+        "url": "https://open.spotify.com/album/5vrUI7qCAVi9bjgszhk7OH"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Reid",
+          "url": "https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162478,
+      "name": "Sleep Without You",
+      "url": "https://open.spotify.com/track/2c5u2s4UwS1NXGgx0TVZAL"
     },
     {
       "album": {
@@ -18498,7 +18726,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 189386,
       "name": "the grudge",
       "url": "https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt"
@@ -19331,6 +19559,24 @@
     },
     {
       "album": {
+        "name": "Probl\u00e9matique",
+        "url": "https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115826,
+      "name": "Treat Me Like A Ho",
+      "url": "https://open.spotify.com/track/5b67O08sN2itkQPsNmafPx"
+    },
+    {
+      "album": {
         "name": "Triple A (feat. NLE Choppa)",
         "url": "https://open.spotify.com/album/4pmJH9gH9yZxuPOMU0swI9"
       },
@@ -19636,7 +19882,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 159179,
       "name": "U Want Me",
       "url": "https://open.spotify.com/track/2BSpspvKSbWzcs9OI1hpAE"
@@ -19730,7 +19976,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 197219,
       "name": "Unhappier",
       "url": "https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR"
@@ -20582,7 +20828,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 229565,
       "name": "WHAT THE HELL ARE WE DYING FOR ?",
       "url": "https://open.spotify.com/track/1sKtD5KMZgTFHbsxjgqfZh"
@@ -20618,7 +20864,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"

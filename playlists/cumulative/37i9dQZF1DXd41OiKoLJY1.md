@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Suspiria Pink  Artwork: Isu Kim
 
-1,689 songs - 4 day 4 hr 20 min
+1,692 songs - 4 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -972,6 +972,7 @@
 | [Meant To Be](https://open.spotify.com/track/6mexXWzbZzaCDMULwyRZaK) | [NIKO](https://open.spotify.com/artist/38bJMa81Dtu0Li8C6OXnTd), [Angelica Violette](https://open.spotify.com/artist/54XSAh19sUsCZ7JstAAm1L) | [Meant To Be](https://open.spotify.com/album/5WAKgoa7kDt3BDxDbziXwF) | 3:04 | 2023-08-17 | 2023-09-08 |
 | [medesina!](https://open.spotify.com/track/6cjp4TVeWIzEKcebGK0of1) | [Dreycruz](https://open.spotify.com/artist/6Eyw578LyVy9z7fDNhxWCf), [Jose Forest](https://open.spotify.com/artist/5tgjDwse3ORwyvWXkvTv1b) | [medesina!](https://open.spotify.com/album/6kAvVg2q9UKrEvJn4pu1AD) | 3:06 | 2023-06-15 | 2023-06-30 |
 | [Melancholy](https://open.spotify.com/track/59IfxKelxnAy0jJxjp1DjH) | [Ynnah Arensol](https://open.spotify.com/artist/6IpsNavWthmNGXI2F52R4f) | [Melancholy](https://open.spotify.com/album/33wpPhxmjKTobY6XuLpQLx) | 2:59 | 2023-03-23 | 2023-04-14 |
+| [melatonin](https://open.spotify.com/track/2rwIpKCyEQ5BhRLzlLYNxM) | [Colby Colton](https://open.spotify.com/artist/5806J7bmQG46a2hbQiZczF) | [melatonin](https://open.spotify.com/album/4Wh2GeRrRZJ9QOPzgY31iW) | 2:16 | 2023-09-21 |  |
 | [Meron Ng Iba](https://open.spotify.com/track/4ZbIA5DaqB7bihH1XdpKiL) | [I Zay](https://open.spotify.com/artist/38MFcAqN5M3n8VO7C8Y0H0) | [Meron Ng Iba](https://open.spotify.com/album/3TECcm5JX74zg7EdCs5Qpc) | 4:24 | 2023-03-16 | 2023-03-31 |
 | [MERONG THRILL](https://open.spotify.com/track/20hyAt1Lf6a9iSM6EkiZPz) | [Marco BMG](https://open.spotify.com/artist/46wFQ13fQTY41FSRJS2m1u), [JP Bacallan](https://open.spotify.com/artist/4FHrW1ts0EkPM27nmHtxQG) | [MERONG THRILL](https://open.spotify.com/album/4BUO482UxmsV9gyI69483s) | 5:02 | 2022-03-17 | 2022-04-01 |
 | [Mestiza](https://open.spotify.com/track/40y1kq5Q1FlpKzx4ThbRxh) | [mindofaddy](https://open.spotify.com/artist/6HkQwYaX8YVhnfufJDvXfw), [Drae Tutor](https://open.spotify.com/artist/3ZsOt9KwtGeRzXdatiJQjR) | [Mestiza](https://open.spotify.com/album/5eH5GEIjTgzEjU4FT0mdqW) | 2:40 | 2022-02-10 | 2022-04-01 |
@@ -1565,6 +1566,7 @@
 | [Tunay](https://open.spotify.com/track/4y00Kx22A3v1jmK3p2IPiC) | [1017 Hoodlums](https://open.spotify.com/artist/3CMSncFancsPB6yM3nHU0t) | [Tunay](https://open.spotify.com/album/5Et1FxAJyNoxIFCZaxymBh) | 4:44 | 2023-03-30 | 2023-04-21 |
 | [Tunay Na Pagmamahal](https://open.spotify.com/track/29Uote8LpHoR8foGBISrrh) | [Khai El](https://open.spotify.com/artist/0c6ILfKzO0L3Fz7BmnNurr), [Corrgtd](https://open.spotify.com/artist/1wkoRzaLhMGNfNEp7Lj9pV) | [Tunay Na Pagmamahal](https://open.spotify.com/album/2xbJCd1WBtYsycXp4PTWVy) | 3:28 | 2023-05-04 | 2023-05-26 |
 | [Turn Back Time](https://open.spotify.com/track/3K6SPrVQHs9rr8dcha7h3K) | [Psalm Galope](https://open.spotify.com/artist/0MemJQtR163JH7Jdvgzlq1) | [Turn Back Time](https://open.spotify.com/album/7r7zojVpLo6RU7xvwTe9tQ) | 4:13 | 2022-05-05 | 2022-07-22 |
+| [twenty seven](https://open.spotify.com/track/4cehvQNMmaxaepbBLUTYRP) | [Audrey Milan](https://open.spotify.com/artist/1NRUBh6TEU3FcJ1cvnzZ2F) | [twenty seven](https://open.spotify.com/album/4SFwQOZ1pvEYoLTxZVYjsq) | 3:08 | 2023-09-21 |  |
 | [Twentyfour](https://open.spotify.com/track/61tgud91RYuQnOxAqb7RCg) | [Mantelcity](https://open.spotify.com/artist/4Ez4V8MqwG0egdqaaQiHJq) | [Twentyfour](https://open.spotify.com/album/2JPm69hpVs6g6a8AXmjgr5) | 3:03 | 2023-07-13 | 2023-08-04 |
 | [Tête\-à\-tête](https://open.spotify.com/track/0WPRf37pOXeHLb8IdmbxgS) | [Hans Pagalan](https://open.spotify.com/artist/2uRXcHgMmh3J03rZrIlMOP) | [Tête\-à\-tête](https://open.spotify.com/album/7xpkXa1Zzggra05nCvtzdw) | 3:59 | 2023-05-11 | 2023-06-02 |
 | [U ARE MINE!](https://open.spotify.com/track/5xrZ2LEPlPpc9POXgEdAJ6) | [ANIKA NICOLE](https://open.spotify.com/artist/1aZ7b1KMeuKJND0RtyjvGV) | [U ARE MINE!](https://open.spotify.com/album/6b33lNCA5ExJzyHtN5PGD7) | 3:16 | 2022-04-07 | 2022-04-22 |
@@ -1648,6 +1650,7 @@
 | [whatweusedtobe\*](https://open.spotify.com/track/36yUuwVGEUymvgKHQHpdZL) | [Kid Andromeda](https://open.spotify.com/artist/68rt24QJbFg2BvlgbF5l0k), [JEDRIC](https://open.spotify.com/artist/3bFUjBo0vYno7Urr5EwhNo), [Peter Miranda](https://open.spotify.com/artist/1LdJBVApsCM3MAXqVh6wuF), [Frank Saturday](https://open.spotify.com/artist/7EYbDLfdMh8yyuWpHGdZ6o) | [whatweusedtobe\*](https://open.spotify.com/album/0CMy6bfcIT6EUwZqdY10Wo) | 4:13 | 2023-02-23 | 2023-03-10 |
 | [When I'm With Her](https://open.spotify.com/track/6HWTecIICnKVSrlREoU7iG) | [Mar Emanuel](https://open.spotify.com/artist/2p8zdB6jWI7mO6oEfbRTJN), [KurtTheViolinist](https://open.spotify.com/artist/3wuyMrte0tIXkWSQiMBTQt) | [When I'm With Her](https://open.spotify.com/album/1W5hTzdqTO0p8MvXu438F8) | 2:49 | 2022-06-16 | 2022-09-09 |
 | [When You Call](https://open.spotify.com/track/7nwRjorqY5iLfflv5qrYV4) | [corazon](https://open.spotify.com/artist/0I8hb4wojjiRmXHUqAyRFo) | [When You Call](https://open.spotify.com/album/44i44PJrD89rnJWdY1zupH) | 3:44 | 2022-01-20 | 2022-02-11 |
+| [Whenever](https://open.spotify.com/track/7eGGpCULYU8fpV2uGGaaDO) | [L!FE](https://open.spotify.com/artist/1qasRfipyyyAbCsY7ZTg7C) | [Whenever](https://open.spotify.com/album/4KrZYHA2OTGiQneHwIm7Nu) | 2:58 | 2023-09-21 |  |
 | [WHERE HAVE YOU BEEN?](https://open.spotify.com/track/09H60JYFsQiog4rt6WutU4) | [grd mln](https://open.spotify.com/artist/0Z39OVFeQFS76u5GHCj1OY) | [WHERE HAVE YOU BEEN?](https://open.spotify.com/album/45MGAfI14rVe9fr7xeze3b) | 2:23 | 2022-05-05 | 2022-06-17 |
 | [Where I Should Go](https://open.spotify.com/track/2CmvsbkVsJXT4tx7rJgi9i) | [HYMNOTIZE](https://open.spotify.com/artist/6veDzk8jH7u6P7feMhWNSt), [Nicole Calisin](https://open.spotify.com/artist/7arvIE09UfVWvd1XCQA8gm) | [Where I Should Go](https://open.spotify.com/album/5FwEsrASBPiETfTuifauIu) | 4:45 | 2022-09-08 | 2023-01-13 |
 | [WHERE IS THE L?E](https://open.spotify.com/track/3CR1mWThIKsALVzoSOBo9V) | [Franciskoe](https://open.spotify.com/artist/73s6RRWrA8DakmvmS4o8ae) | [WHERE IS THE L?E](https://open.spotify.com/album/1gn16qBOLYLe0mmtBc3tU8) | 2:49 | 2023-06-15 | 2023-06-30 |

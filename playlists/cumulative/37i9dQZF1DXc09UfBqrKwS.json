@@ -1589,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "A Process",
+        "url": "https://open.spotify.com/album/4craptusdZEmwFbH3jpReC"
+      },
+      "artists": [
+        {
+          "name": "A\u00ebos",
+          "url": "https://open.spotify.com/artist/7JJ61gTcUILWlF1uoRRZEV"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159055,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/0q4QzVVYRP2NGirmy1z9zK"
+    },
+    {
+      "album": {
         "name": "Finally At Ease",
         "url": "https://open.spotify.com/album/0e7VPn87No5P1c1RGLUGYu"
       },
@@ -4030,7 +4048,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 188546,
       "name": "Tout Autour De Nous",
       "url": "https://open.spotify.com/track/0qAFa5xFjEyky6mCW2WTXT"

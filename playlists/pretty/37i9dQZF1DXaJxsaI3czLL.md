@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,536 likes - 80 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,558 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 58 | [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 |
 | 59 | [A Rainy Night in NY](https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [A Rainy Night in NY](https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH) | 2:58 |
 | 60 | [Night Time](https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Days With Uncertainty](https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM) | 3:59 |
-| 61 | [Into The Night \(feat\. ZIN & 黒田卓也\)](https://open.spotify.com/track/3bD6V7HK99QSLLmZFlJP3w) | [Kei Owada](https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Into The Night \(feat\. ZIN & 黒田卓也\)](https://open.spotify.com/album/3r1jhjYj8DPOTlawfBTmVP) | 4:47 |
-| 62 | [NEVER FALL IN LOVE AGAIN](https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 3:53 |
+| 61 | [NEVER FALL IN LOVE AGAIN](https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 3:53 |
+| 62 | [Into The Night \(feat\. ZIN & 黒田卓也\)](https://open.spotify.com/track/3bD6V7HK99QSLLmZFlJP3w) | [Kei Owada](https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Into The Night \(feat\. ZIN & 黒田卓也\)](https://open.spotify.com/album/3r1jhjYj8DPOTlawfBTmVP) | 4:47 |
 | 63 | [やわらかな夜](https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 4:00 |
 | 64 | [サンサーラ](https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3) | [Takehara Pistol](https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA) | [リョウメンシダ/サンサーラ](https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J) | 5:31 |
 | 65 | [Separate Seasons](https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Westbound EP](https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF) | 3:48 |
-| 66 | [Last Peace](https://open.spotify.com/track/3kHKiuxAPCR8WRbx9p5KOv) | [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH), [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [27](https://open.spotify.com/album/6aFN9smus343VgxVUrKfmj) | 3:43 |
-| 67 | [サラ・ジェーン](https://open.spotify.com/track/3nfOmSlBmEgxNAQD1vTqLT) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 4:04 |
+| 66 | [サラ・ジェーン](https://open.spotify.com/track/3nfOmSlBmEgxNAQD1vTqLT) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 4:04 |
+| 67 | [Last Peace](https://open.spotify.com/track/3kHKiuxAPCR8WRbx9p5KOv) | [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH), [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [27](https://open.spotify.com/album/6aFN9smus343VgxVUrKfmj) | 3:43 |
 | 68 | [猫村さんのうた](https://open.spotify.com/track/30G4STumh4gJ0aq2sU3h9t) | [松重豊](https://open.spotify.com/artist/3pHwaIplhKgtrVqaW16o50), [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [猫村さんのうた](https://open.spotify.com/album/69O6a8s4FMk37vtSs4qjU0) | 2:46 |
 | 69 | [さもありなん](https://open.spotify.com/track/5D5K3Giyp427zPZ6cOQmv6) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [さもありなん](https://open.spotify.com/album/6B8yGpKG4hIATtbS3ibsHA) | 5:50 |
 | 70 | [おあいこ](https://open.spotify.com/track/0ekuGQhxcrmTsFJbwNnNX6) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [What are you looking for](https://open.spotify.com/album/1eRBqVnEPDWja7FBpfgFIh) | 6:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 79 | [reiji no machi](https://open.spotify.com/track/5hMGyNKCPjI0VFjS0YoozL) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [イノウエワラビ](https://open.spotify.com/artist/5DhlHgEyxSctLdzRoo5T44) | [Night Flow](https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24) | 4:09 |
 | 80 | [パレード](https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV) | [MIZ](https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq) | [Ninh Binh Brother's Homestay](https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra) | 3:48 |
 
-Snapshot ID: `MCxhZTgwY2MxODk0NTFkODcwMTA0YzI1YTJhYTQ5NGJhODZhZTI5ZTIw`
+Snapshot ID: `MCw1ZWU0ZWNkMWY1M2U0NGVhYTRhZTdjZDE4YzZhMGRhNzM0MjMxYjM2`

@@ -199,6 +199,28 @@
     },
     {
       "album": {
+        "name": "Buenas",
+        "url": "https://open.spotify.com/album/2FRQH7JReYGUWXX86Pr6ag"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192954,
+      "name": "Buenas",
+      "url": "https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ"
+    },
+    {
+      "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },

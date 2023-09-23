@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > Spotify 台灣上線十年精采呈獻！最高人氣歌手的最熱門華語歌曲大全輯！歌手精選請聽 <a href="spotify:genre:0JQ5IMCbQBLtYOSc3HviWJ">Spotify 台灣上線 10 年全精選</a> ! Cover: 周杰倫
 
-[Spotify](https://open.spotify.com/user/spotify) - 268 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,211 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 25 | [Last Dance](https://open.spotify.com/track/49AQAXswd32dFJUWOegVWO) | [Wu Bai](https://open.spotify.com/artist/5H8TJITZE1sPjVR2ACzXNS) | [愛情的盡頭](https://open.spotify.com/album/37APLKUvRzY9200fwrpAR6) | 4:31 |
 | 26 | [飞鸟和蝉](https://open.spotify.com/track/6XBL9naPxZjATbmGAWGJ9V) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [Ren然](https://open.spotify.com/album/2eAqOiX0rfSelLMLDfz3RT) | 4:56 |
 | 27 | [你啊你啊 \- 電視劇「用九柑仔店」插曲](https://open.spotify.com/track/4nyO1azSuhT5JrETvzEahs) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [末路狂花](https://open.spotify.com/album/7c1IN5kHYhL8HbeGoahRKf) | 5:26 |
-| 28 | [小情歌](https://open.spotify.com/track/4FhJ7YSRxATHnaRg4nGs6t) | [Sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [小宇宙](https://open.spotify.com/album/2yhTPiBJRuRjofOIEDLJGw) | 4:33 |
+| 28 | [小情歌\(魚版\)](https://open.spotify.com/track/3O0TfMcoeKC0u035clU5nX) | [魚丁糸](https://open.spotify.com/artist/4TGQEYGf6Pu4tpMNGQ4tOR) | [小宇宙\(魚版\)](https://open.spotify.com/album/1nawoT8YtQTkfSpCpbkecL) | 4:36 |
 | 29 | [演員](https://open.spotify.com/track/6LunoYd3xpZ19sICOXS8Xd) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初學者](https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ) | 4:21 |
 | 30 | [你是不是有點動心 \- Original](https://open.spotify.com/track/0FIRHGE4loKAH5o5ByiqG0) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [1:28 \(Original\)](https://open.spotify.com/album/39MCCipCiuLjzl76bY7NmU) | 4:28 |
 | 31 | [慢慢喜欢你](https://open.spotify.com/track/69zzWcJr7mztjLKMijY80z) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [我们在中场相遇](https://open.spotify.com/album/2K3QJPOQWWnIMIrEnVEkQW) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 99 | [地球上最浪漫的一首歌](https://open.spotify.com/track/5V3eOL0Zyb3OqhwOmFRvyO) | [Alien Huang](https://open.spotify.com/artist/4kVy1sDTGmCWzxmzY6soNZ) | [愛&英雄 LOVE HERO](https://open.spotify.com/album/2GjxUO3a9vqRChJcZSJ25U) | 4:41 |
 | 100 | [海浪](https://open.spotify.com/track/5EpLeWSwqOG0mZW0R4WdKQ) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [Go Slow](https://open.spotify.com/album/3dsjH0D0Co0X7oii3a7FO8) | 5:22 |
 
-Snapshot ID: `MCw4NGY5MGU2MDgzNGVhNzIxZTY3MGY5ZWM3ZjRjMDZjMjMxYzQxZmU0`
+Snapshot ID: `MCw2YTNmNGZjMTZlYjM5NTY3OTUxN2VkYTQxMGEwODc4MDdkYWM5YzAw`

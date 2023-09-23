@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 105757,
+  "num_followers": 105792,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjQ1MmZkM2RhNGJlMTFkNDJmNmY4NjkzMTYyOWQ0NjE2ZTJmODJj",
+  "snapshot_id": "MCwxZjFiNDFiYWI2YmU2NmQ2ZmM3MzA5NjZmZDEyN2FhZjRiOWY3NmIz",
   "tracks": [
     {
       "added_at": "2023-08-31 14:00:00",
@@ -838,11 +838,15 @@
         {
           "name": "Daniel Avery",
           "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
         }
       ],
-      "duration_ms": 317183,
-      "name": "Ultra Truth",
-      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
+      "duration_ms": 287198,
+      "name": "Wall of Sleep",
+      "url": "https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV"
     }
   ],
   "unique_name": "Night Shift",

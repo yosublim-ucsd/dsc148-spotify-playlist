@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,300 songs - 2 day 22 hr 55 min
+1,301 songs - 2 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -966,7 +966,7 @@
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2022-05-21 | 2022-06-05 |
 | [saudade, saudade](https://open.spotify.com/track/4S4Amrpr631M16IIXqRk73) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Festival Da Canção 2022](https://open.spotify.com/album/0HkpaChdLLJmEKtoxuiUEx) | 3:01 | 2022-05-11 | 2022-06-19 |
 | [Saulė](https://open.spotify.com/track/5GpnoYFpGozVUicdYxPgrO) | [Angelou](https://open.spotify.com/artist/1n6KR5r29Zj7X33Ey1pod0) | [Saulė](https://open.spotify.com/album/5fNRLQ9UYbh7umM3dzPL9o) | 3:10 | 2023-03-10 | 2023-03-21 |
-| [Saulė \(Remix\)](https://open.spotify.com/track/3VRnfTLn09r8NOtn4682Ua) | [Angelou](https://open.spotify.com/artist/1n6KR5r29Zj7X33Ey1pod0), [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [Saulė \(Remix\)](https://open.spotify.com/album/3jkZIpyyVZop4rKEHT8uW6) | 3:12 | 2023-07-29 |  |
+| [Saulė \(Remix\)](https://open.spotify.com/track/3VRnfTLn09r8NOtn4682Ua) | [Angelou](https://open.spotify.com/artist/1n6KR5r29Zj7X33Ey1pod0), [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [Saulė \(Remix\)](https://open.spotify.com/album/3jkZIpyyVZop4rKEHT8uW6) | 3:12 | 2023-07-29 | 2023-09-23 |
 | [Savaip](https://open.spotify.com/track/3QssxZWm3suKZ9djf2gSt5) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [Savaip](https://open.spotify.com/album/6s5Wdlelo183imhnb7pi7f) | 2:27 | 2021-04-04 | 2021-04-22 |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-03-27\* | 2022-05-13 |
 | [Save Your Tears \(Remix\) \(with Ariana Grande\) \- Bonus Track](https://open.spotify.com/track/1oFAF1hdPOickyHgbuRjyX) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [After Hours \(Deluxe\)](https://open.spotify.com/album/4ZyeHIgdujClXSjC2cSqSb) | 3:11 | 2023-01-01 | 2023-01-03 |
@@ -980,6 +980,7 @@
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-08 | 2023-05-06 |
 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2023-04-13 |  |
 | [Sentimentai](https://open.spotify.com/track/0JNPmXGU9K9DJpV9eHppZz) | [Monika LIU](https://open.spotify.com/artist/2YLwIrzSnsbpBMKWzwu6JD) | [Sentimentai](https://open.spotify.com/album/7vlt4TnVHs132OL0a0YE5E) | 3:00 | 2022-01-20 | 2022-08-16 |
+| [September](https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September \(sped up + slowed\)](https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI) | 3:36 | 2023-09-22 |  |
 | [Set Me Free](https://open.spotify.com/track/76TRCnbYfo9GU5DPsZ1uI9) | [Eden Alene](https://open.spotify.com/artist/3E7T8t0FwjEVxg9jufWZQG) | [Set Me Free](https://open.spotify.com/album/08DdXBJAEq7TPj0EbkhJK5) | 2:59 | 2021-05-21 | 2021-06-01 |
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-18 | 2023-03-29 |
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-15 |  |

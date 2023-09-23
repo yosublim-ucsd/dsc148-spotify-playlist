@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Roman el Original, Agapornis, El Reja & Piola Vago. ",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Ke Personajes.",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -2479,6 +2479,24 @@
     },
     {
       "album": {
+        "name": "Entre Beso y Beso",
+        "url": "https://open.spotify.com/album/1tTfu4nQ2JUavleM8xoq5a"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153488,
+      "name": "Entre Beso y Beso",
+      "url": "https://open.spotify.com/track/6abr2lKyMZTy21gSPWm7aG"
+    },
+    {
+      "album": {
         "name": "Eres / Me Vas a Extra\u00f1ar / Desesperado",
         "url": "https://open.spotify.com/album/7uYgHCFhqnxrSbN8mFxb3r"
       },
@@ -2928,7 +2946,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 214514,
       "name": "Hoy Te Vi - Remasterizado 2019",
       "url": "https://open.spotify.com/track/2XpNHiC5BMpfaZRJngdz5a"
@@ -3976,6 +3994,28 @@
       "duration_ms": 158309,
       "name": "M.A (Mejores Amigos)",
       "url": "https://open.spotify.com/track/1eIDsKCLwZF6CJK8pOgHX5"
+    },
+    {
+      "album": {
+        "name": "M.A (Mejores Amigos)",
+        "url": "https://open.spotify.com/album/2QaWChONzZgOeHkfB8Bykl"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
+        {
+          "name": "Phontana",
+          "url": "https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158309,
+      "name": "M.A (Mejores Amigos)",
+      "url": "https://open.spotify.com/track/61wAL7pFMMfvYv9SXIiYAB"
     },
     {
       "album": {
@@ -6512,7 +6552,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 182599,
       "name": "Si Tu Supieras",
       "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2?si=\-7mU6WX9QMm0TtUU\-4CDug">Thando Zide</a>
+> Beautiful proudly South African gems\. Cover: Thando Zide
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,479 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,604 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 49 | [Luthando](https://open.spotify.com/track/4AsLvBX0FwCBvaN5GDGz42) | [Vico da sporo](https://open.spotify.com/artist/2EkWKzVuqZfkSOZv6l8yXd), [Sandile](https://open.spotify.com/artist/5mApcr740y6tGusKPPNkb4) | [Bandlase](https://open.spotify.com/album/0pjabAOKogpe019KUyPiSe) | 4:46 |
 | 50 | [Fatela](https://open.spotify.com/track/58u8z6ia8GTm9yZlkmtCtV) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Fatela](https://open.spotify.com/album/0XkXn7Kotl8QMwP5YGdGHY) | 5:51 |
 
-Snapshot ID: `MCwyMzhlOGFmZTE4NjA3YzE2YmJmNmQyMzc2MTM0NGY3ZTM2MzkzNmFk`
+Snapshot ID: `MCw1NzRjNmMzNzcwYzc5MzM4OTBlMGU1NzhlZjdhMzY4MDkyYzEzZjhi`

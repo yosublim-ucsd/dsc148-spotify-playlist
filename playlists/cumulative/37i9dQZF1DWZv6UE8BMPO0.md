@@ -4,7 +4,7 @@
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-105 songs - 5 hr 32 min
+106 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [The First Noel](https://open.spotify.com/track/4pVxflK7JBEAzj4pEY8G8e) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 2:30 | 2021-12-21 |  |
 | [The Holly and the Ivy](https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 1:30 | 2021-12-21 |  |
 | [The Little Drummer Boy](https://open.spotify.com/track/3KuEPCnZC3SHQjwV0R8hSX) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI) | [Jazz Piano Christmas](https://open.spotify.com/album/18ZbJ0B7OONpsM28cloOTk) | 5:04 | 2021-12-21 |  |
+| [The Winter Song](https://open.spotify.com/track/0uo9UAJQ9o4O1U8wxR7Ipj) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Christmas Kiss](https://open.spotify.com/album/1ZGCxC05Xyfe9PW1ZQkEPc) | 2:31 | 2023-09-22 |  |
 | [Tis the season](https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Tis the season](https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC) | 3:34 | 2022-10-13 |  |
 | [Toyland](https://open.spotify.com/track/3frljinYzzUNd5YRIF6xhj) | [Eli Starr Trio](https://open.spotify.com/artist/5oITtTq61bt7N9ZvaJf7G7) | [Happy Christmas](https://open.spotify.com/album/0vaiiGYLM0VxFC0Krfd1zq) | 3:53 | 2022-10-20 |  |
 | [Up on the Housetop](https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 1:13 | 2021-12-21 |  |

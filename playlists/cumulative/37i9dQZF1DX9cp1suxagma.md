@@ -2,9 +2,9 @@
 
 ### [Pop Colombia](https://open.spotify.com/playlist/37i9dQZF1DX9cp1suxagma)
 
-> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Ventino
+> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Manuel Medrano
 
-148 songs - 7 hr 57 min
+150 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 | 2023-02-17 |  |
 | [Al Aire](https://open.spotify.com/track/02dsc9B5N8BFatjGcGhk1u) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Al Aire](https://open.spotify.com/album/0lsCYOOfGhVVlB7CiTAnAs) | 2:49 | 2023-02-17 |  |
 | [Amiga Mía \- Spotify Singles](https://open.spotify.com/track/1ErWnacP0i3my6KJn35b6q) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Amiga Mía \- Spotify Singles](https://open.spotify.com/album/1X8nKXgC68X8DBc3YT3VrB) | 3:26 | 2023-02-17 | 2023-04-29 |
-| [Amor](https://open.spotify.com/track/5g6kWBIdX0xmqWyAV6HA32) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Amor](https://open.spotify.com/album/2XCIULVG2pfa0a8D0qhmUu) | 2:52 | 2023-06-09 |  |
+| [Amor](https://open.spotify.com/track/5g6kWBIdX0xmqWyAV6HA32) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Amor](https://open.spotify.com/album/2XCIULVG2pfa0a8D0qhmUu) | 2:52 | 2023-06-09 | 2023-09-23 |
 | [Amor Bonito](https://open.spotify.com/track/4xIkT5XQo74cR9bZcCo8FC) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Amor Bonito](https://open.spotify.com/album/0DrWimkFANO9MaLLO7rcAR) | 3:08 | 2023-06-30 | 2023-07-26 |
 | [Amor Secreto](https://open.spotify.com/track/7qdmZauyoana6fBNjcyj5O) | [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [Amor Secreto](https://open.spotify.com/album/1Sqa2b8ViiX4nusB4FpNKG) | 3:10 | 2023-02-17 | 2023-05-20 |
 | [Aquí](https://open.spotify.com/track/7tcZXVCBzWYqoL5xlW35yc) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva), [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv) | [29:56](https://open.spotify.com/album/537tRWbun6NLMqSrvLb9Rl) | 3:37 | 2023-03-17 | 2023-04-29 |
@@ -69,6 +69,7 @@
 | [La Vida Sin Ti](https://open.spotify.com/track/1RvL7eHoeUolnQbWm2Hnba) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Ubuntu](https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ) | 3:14 | 2023-02-17 | 2023-08-26 |
 | [Labios Rotos](https://open.spotify.com/track/0f3xJAABT92dcSH4t6oDZ0) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Labios Rotos](https://open.spotify.com/album/1yc6m3t2VbiSC34Zy0Tk4E) | 3:36 | 2023-02-17 |  |
 | [Llamada Perdida](https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Llamada Perdida](https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1) | 2:46 | 2023-02-17 |  |
+| [Lo Que Falta De Mí](https://open.spotify.com/track/3egTDzqctMyQ8VVxNDpycu) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Lo Que Falta De Mí](https://open.spotify.com/album/60wOFQr0bZZjerxuioYEqA) | 3:41 | 2023-09-22 |  |
 | [Lo Que Había Olvidado](https://open.spotify.com/track/4I6XQsgfGKBxyadO7JLjQL) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Lo Que Había Olvidado](https://open.spotify.com/album/4zwvvp5T1ecV8lyFQIIz23) | 2:58 | 2023-02-17 |  |
 | [Lo Que Me Harías En Otra Parte](https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [A Contraluz](https://open.spotify.com/album/0fHMjHobSboBcY2NQ4JfAN) | 2:40 | 2023-04-28 | 2023-06-10 |
 | [Loco](https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Loco](https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb) | 3:24 | 2023-02-17 |  |
@@ -97,7 +98,7 @@
 | [Nudo Ciego](https://open.spotify.com/track/3f8pzgpatzDxuD68POqhoj) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W) | [Nudo Ciego](https://open.spotify.com/album/38rtFXKY5ccZnS4Opplsqk) | 2:45 | 2023-02-17 |  |
 | [Nuestro Secreto](https://open.spotify.com/track/2sBTBHbqkwz0qSDhKsQ4OQ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [VIVES](https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK) | 3:29 | 2023-02-17 |  |
 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 | 2023-08-25 |  |
-| [Obvio](https://open.spotify.com/track/6klxz8SB2cGYqdIC590dtR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Obvio](https://open.spotify.com/album/1WiD50KPCVv4wfeKuQaMXc) | 2:45 | 2023-06-09 |  |
+| [Obvio](https://open.spotify.com/track/6klxz8SB2cGYqdIC590dtR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Obvio](https://open.spotify.com/album/1WiD50KPCVv4wfeKuQaMXc) | 2:45 | 2023-06-09 | 2023-09-23 |
 | [Pa Olvidarte \(feat\. Manuel Turizo\) \- Remix](https://open.spotify.com/track/2ktoFujjJtantyMoVdBJlX) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Pa Olvidarte \(feat\. Manuel Turizo\) \[Remix\]](https://open.spotify.com/album/3ekwMnFlP79fwylU0W98m0) | 4:16 | 2023-02-17 | 2023-08-26 |
 | [París](https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [París](https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj) | 3:02 | 2023-02-17 |  |
 | [Pasa](https://open.spotify.com/track/7GiOdC9H2U4jxp4qcNp5nA) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [VIAJANTE](https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h) | 3:13 | 2023-02-17 |  |
@@ -146,6 +147,7 @@
 | [Una Vez Más \(feat\. Muerdo\)](https://open.spotify.com/track/4LE64C6oFzCooTAlNjuoLI) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Una Vez Más](https://open.spotify.com/album/1k4MyRE1UrSvytq0dcZibo) | 3:53 | 2023-08-25 | 2023-09-16 |
 | [Una Y Otra Vez](https://open.spotify.com/track/0jsFD6MLc7yZ2FqHvArjaW) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Elementales](https://open.spotify.com/album/1dydo5mIdwoV2cvacOzcWo) | 3:49 | 2023-02-17 | 2023-07-01 |
 | [Vas A Encontrarme](https://open.spotify.com/track/3wwbgv83ZFwYlPa2zlRQJ9) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G), [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Vas A Encontrarme](https://open.spotify.com/album/78Pv0kAljrB27H31Vmpdcl) | 2:48 | 2023-02-17 |  |
+| [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 | 2023-09-22 |  |
 | [Vida](https://open.spotify.com/track/3vyUFpEdEAWqfBSRGUKL7z) | [Nina Rodriguez](https://open.spotify.com/artist/2DJELwDLewsLp12JjJUwI6) | [Vida](https://open.spotify.com/album/0LJJXNz6QEpPs0R8gykGjP) | 3:08 | 2023-02-17 | 2023-06-24 |
 | [Vivir Bailando](https://open.spotify.com/track/7gL0eIncXB5ELO8BFMR3Uv) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vivir Bailando](https://open.spotify.com/album/6uSCXro7r0QMTSgMLnSAbP) | 3:34 | 2023-02-17 | 2023-08-26 |
 | [Volver a Verte \(feat\. Cali y El Dandee\)](https://open.spotify.com/track/0LGhVLgkwlP2FIXSwrdRFg) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Agustín](https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW) | 2:49 | 2023-02-17 | 2023-05-20 |

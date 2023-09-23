@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 401549,
+  "num_followers": 401761,
   "original_name": "Trap Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Yjg1MTNiM2YzZmQxMzg5MDY3MjY0ZWVhZDVhODU1MmExMzk4M2Q2",
+  "snapshot_id": "MCw2N2M1Yjg1MGYzYTkyMzBjNDUxYjQ0NzU3ZWRiMmU0ODY3ODgwZWE0",
   "tracks": [
     {
       "added_at": "2022-06-08 18:27:09",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 221083,
-      "name": "Chica Paranormal",
-      "url": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Trap Capos II",
         "url": "https://open.spotify.com/album/0OQZL8ymQ9RDHaBULw9kCG"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 260493,
       "name": "De las 2 (feat. Bad Bunny & Arc\u00e1ngel)",
       "url": "https://open.spotify.com/track/4DS7HoqrKq1dDjeYOKBlu9"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 221083,
+      "name": "Chica Paranormal",
+      "url": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1807,6 +1807,26 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "No Quiere Amor (feat. Farruko)",
+        "url": "https://open.spotify.com/album/1IREmSsAW11sdfG8gDUygU"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "No Quiere Amor (feat. Farruko)",
+      "url": "https://open.spotify.com/track/4NGlDkTO27uxg8del4oTAr"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "La Ocasi\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/0bWNdvYtwewhKo0YUUgzwL"
       },
@@ -1859,26 +1879,6 @@
       "duration_ms": 451343,
       "name": "La Ocasi\u00f3n - Remix",
       "url": "https://open.spotify.com/track/1M9gupJZxS3LdK8R6UZfYH"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "No Quiere Amor (feat. Farruko)",
-        "url": "https://open.spotify.com/album/1IREmSsAW11sdfG8gDUygU"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 268560,
-      "name": "No Quiere Amor (feat. Farruko)",
-      "url": "https://open.spotify.com/track/4NGlDkTO27uxg8del4oTAr"
     },
     {
       "added_at": "2022-06-08 18:27:09",

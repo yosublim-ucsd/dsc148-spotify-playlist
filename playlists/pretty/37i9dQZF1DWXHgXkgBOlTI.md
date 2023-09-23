@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: bohemianvoodoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,866 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,914 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 18 | [Friendship\(feat\. Philippe Saisse\)](https://open.spotify.com/track/4fXgOxMW9uqR9FxfERuPkE) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Philippe Saisse](https://open.spotify.com/artist/76eaAxXOF5UhLXASB8UiQJ) | [PYRAMID 5](https://open.spotify.com/album/0dPFno696JL6TrDQsUKknZ) | 5:00 |
 | 19 | [Galactic Funk](https://open.spotify.com/track/3Y1k10FsXMXFw9H08dZlKl) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [Asian Dreamer](https://open.spotify.com/album/2brs79CBxiApvCNRM880RA) | 5:24 |
 | 20 | [Echoes](https://open.spotify.com/track/6E4NJHE0TEuMsCOIddyJSQ) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Echoes](https://open.spotify.com/album/3g6bR9rpjAQExzVXH6zFDP) | 4:05 |
-| 21 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 |
-| 22 | [Night Cruise](https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [PARADISE](https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD) | 5:49 |
+| 21 | [Night Cruise](https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [PARADISE](https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD) | 5:49 |
+| 22 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 |
 | 23 | [N.E.W.](https://open.spotify.com/track/0uniIrDLtvdypzbMtmLmVV) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 5:45 |
 | 24 | [Solitude](https://open.spotify.com/track/1ghPHoNXf4L5wO4kOvJUoW) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Ordinary Landscape](https://open.spotify.com/album/5dYHGuiBBzx6hWdZWtdlhO) | 4:16 |
 | 25 | [Disordered Trip](https://open.spotify.com/track/1TL5dclhMJ7Be0qnTKZ2oe) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Disordered Trip](https://open.spotify.com/album/0p4X5GGQHPJdgfvJ8NOEL1) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 49 | [Sad Premonition / Lilium](https://open.spotify.com/track/2ZMpOq0n124MRPO8vxAgCi) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [I'll](https://open.spotify.com/album/1dOgFP65sSxMncWqJ8FADo) | 4:05 |
 | 50 | [Breeze and You \(Live Version\)](https://open.spotify.com/track/6yoOrydjbkvRv6XtnjnNC7) | [THE SQUARE](https://open.spotify.com/artist/1qLh5Luiu5DBNU3SeHcDwq) | [THE SQUARE YEAR END Live 20151226](https://open.spotify.com/album/5pEJNi4ADnyf9FnQccBwGU) | 5:10 |
 
-Snapshot ID: `MCxjY2IyODg3NjYwZTE2MGNkNThhYjk3YjQxZjkwMWFhYzRmNGZhNjJk`
+Snapshot ID: `MCwyYWE5YWY1ZDEwMjJjMGYwMWE5MmI1YWQwY2UyZDM1MjBjMWI1NmYy`

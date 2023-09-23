@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: Kyrie（アイナ・ジ・エンド）
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,552 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,626 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 91 | [回春](https://open.spotify.com/track/6iZygJfbfzt7eWeFtDUt3Z) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG) | [回春](https://open.spotify.com/album/5Zr6Oy64wFgC0QbaGe2OPh) | 5:00 |
 | 92 | [私は猫の目](https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [私は猫の目](https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx) | 3:10 |
 | 93 | [ラヴ・クラウド](https://open.spotify.com/track/066FlsZYTfxPIgLlFoAsNI) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Moon](https://open.spotify.com/album/631rw1DEmDYgdHb0QioP3y) | 3:39 |
-| 94 | [Resonantia](https://open.spotify.com/track/6JxGX21hLq96CSMgwCWDmr) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Resonantia](https://open.spotify.com/album/1QscnAgLAhBuG5TlF3dvHH) | 3:49 |
-| 95 | [Pre\-Romance](https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [Pre\-Romance](https://open.spotify.com/album/27K1okvCknZXHbEwTU0qL2) | 3:12 |
+| 94 | [Pre\-Romance](https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [Pre\-Romance](https://open.spotify.com/album/27K1okvCknZXHbEwTU0qL2) | 3:12 |
+| 95 | [Resonantia](https://open.spotify.com/track/6JxGX21hLq96CSMgwCWDmr) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Resonantia](https://open.spotify.com/album/1QscnAgLAhBuG5TlF3dvHH) | 3:49 |
 | 96 | [Without Love](https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Without Love](https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71) | 4:07 |
 | 97 | [WORLD DANCE](https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [WORLD DANCE](https://open.spotify.com/album/6hS2sOF0dexmQBEOFnS3s1) | 3:41 |
 | 98 | [Always You](https://open.spotify.com/track/38kfx7lgJFHFxJMAvMMkRy) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Always You](https://open.spotify.com/album/4dSCQ1zLL6BqSYHgIepPQD) | 4:04 |
 | 99 | [魔法](https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [魔法](https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj) | 4:18 |
 | 100 | [違う曲にしようよ](https://open.spotify.com/track/7abFHUH53rYlZwmsjZCvND) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [伸び仕草懲りて暇乞い](https://open.spotify.com/album/4SnYZt2Wjitj8qgT58e3VJ) | 3:39 |
 
-Snapshot ID: `MCwxYWEyMzQwYzVmYzc3OTRlYjg1NGRkMGRiNTQzZmRmNjA5YzAzMmYx`
+Snapshot ID: `MCxhMWFmZWRkMTRmOTg2ZjM2MWVkNzBhNTQ4YzFkZmEyZGVlYmQxZjM3`

@@ -4,7 +4,7 @@
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-164 songs - 11 hr 34 min
+165 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Make The Man Love Me](https://open.spotify.com/track/6OXdOnoAKftmieuch2Fbis) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Those In Love \(Expanded Edition\)](https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2) | 5:35 | 2022-05-12 |  |
 | [Manhattan](https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:19 | 2023-03-17 | 2023-04-21 |
 | [Mood Indigo](https://open.spotify.com/track/3Rj7kRvHalEVPPNDc9SeY3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 3:27 | 2022-09-15 | 2023-09-22 |
+| [Mood Indigo](https://open.spotify.com/track/6wDBY75wrVJoQZsSCyM234) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX) | 3:27 | 2023-09-22 |  |
 | [Moonglow](https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 5:56 | 2022-05-12 |  |
 | [My Funny Valentine](https://open.spotify.com/track/1IZc3qoaLTUY5pGiygza3h) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [After Glow](https://open.spotify.com/album/6ip7LJNKry1lGgpfklpxFC) | 4:20 | 2022-09-28 | 2023-09-02 |
 | [My Funny Valentine](https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [I Remember Miles](https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd) | 5:34 | 2022-05-12 |  |
@@ -107,7 +108,7 @@
 | [Over the Rainbow](https://open.spotify.com/track/6nVf9GOdFR9HL7tRWp9qhM) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [My Funny Valentine: The Best Of Chet Baker](https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t) | 3:28 | 2022-05-12 | 2022-07-29 |
 | [Over the Rainbow](https://open.spotify.com/track/2b2lG9SCigi2yG6mhemwXd) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [E.Y\. Harbourg](https://open.spotify.com/artist/19erDSohWWEd8UnIK8MsHc), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Les 50 Trésors du Jazz](https://open.spotify.com/album/6lbgEcXd2OptvyIybLU8dt) | 3:30 | 2022-11-09 | 2022-11-13 |
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/5gKkKecfZsrzIkJlKyikyw) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 2:36 | 2022-05-12 | 2023-09-02 |
-| [Prelude To A Kiss](https://open.spotify.com/track/2qnDE0I8n5rKOLfG9fIdqR) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX) | 5:31 | 2023-09-01 |  |
+| [Prelude To A Kiss](https://open.spotify.com/track/2qnDE0I8n5rKOLfG9fIdqR) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX) | 5:31 | 2023-09-01 | 2023-09-23 |
 | [Prelude To A Kiss](https://open.spotify.com/track/5np8aLrbzZDCHPPXyqNOeb) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 5:31 | 2022-09-16 | 2023-09-22 |
 | [Round Midnight](https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [An Image: Lee Konitz With Strings](https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN) | 5:19 | 2022-05-12 | 2022-09-15 |
 | [Satin Doll](https://open.spotify.com/track/5whP1p6A6Cbjqtbkp4ytFP) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [Alexandria The Great](https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9) | 2:44 | 2022-05-12 | 2023-03-18 |

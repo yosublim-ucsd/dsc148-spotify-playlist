@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Dotan
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,892 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,901 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Diamonds In My Chest](https://open.spotify.com/track/0c1z7NPGh6SEyFHP9VXzUh) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Diamonds In My Chest](https://open.spotify.com/album/4dl4tuViHtusW0aG1ncIwJ) | 3:39 |
+| 1 | [Diamonds in My Chest](https://open.spotify.com/track/3YjT6jjSO2evcEGWiV0M2O) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Diamonds in My Chest](https://open.spotify.com/album/3SH3DdcqS1NrHFp5jBjWPn) | 3:39 |
 | 2 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
 | 3 | [Tussendoor](https://open.spotify.com/track/5ejOlSH4f8M5Tqrisvjpsz) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Tussendoor](https://open.spotify.com/album/1uiD722Lty54S0hMv6DAXS) | 3:05 |
 | 4 | [Beyond The Stars](https://open.spotify.com/track/1oMJ4dfdZAfxO9krc2k9Af) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Beyond The Stars](https://open.spotify.com/album/1gRLZwKYbYT6WRsnJGJceq) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 99 | [A Fool](https://open.spotify.com/track/0yup5kApYOD1UANw4hgJrt) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp) | [A Fool](https://open.spotify.com/album/6Avdb3Kzzi5byUmnACETXh) | 3:32 |
 | 100 | [No Way To Live](https://open.spotify.com/track/40sY5Tx27mNTyrOytXuPp7) | [Lumi](https://open.spotify.com/artist/4a27RJTzPnKgoQpVlLONZf) | [No Way To Live](https://open.spotify.com/album/3fHdS5pUbXVsjlcwU7VKUs) | 4:06 |
 
-Snapshot ID: `MCwxZjVkY2IyYmZhZTY0ODI3NDJiMGNjMWUwZTgxYWNhMjJjMmUwYTY2`
+Snapshot ID: `MCwwZTQ5ZjUxYjAxZjU3MDhhYjNhZWU5MWMxZjdjNDY1MGIyNWM4ZWE0`

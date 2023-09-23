@@ -2,9 +2,9 @@
 
 ### [Latin Pop Today](https://open.spotify.com/playlist/37i9dQZF1DX1QnNyJOBQBv)
 
-> The hottest Latin pop tracks right now\. Cover: Sebastian Yatra
+> The hottest Latin pop tracks right now\. Cover: Aitana
 
-365 songs - 18 hr 57 min
+366 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 | 2022-04-08 | 2022-09-10 |
 | [Cuando Estoy Contigo](https://open.spotify.com/track/51gL5n807jjnX6UPTTUqmE) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 2:57 | 2021-12-16 | 2022-07-28 |
 | [Cupido](https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-03-24 |  |
+| [Dararí](https://open.spotify.com/track/260rBjdoUcXRK8AeAqeg5X) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 2:50 | 2023-09-22 |  |
 | [De 100 a 0](https://open.spotify.com/track/2WbC6wQYIAOVpnB8Xai63a) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [De 100 a 0](https://open.spotify.com/album/11QTKoa3O2tD7Vz1AmSgSc) | 3:04 | 2022-02-07 | 2022-09-24 |
 | [De Nada \- Remix](https://open.spotify.com/track/3jqFGtyQtgxRgtFaoEAoac) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Nada \(Remix\)](https://open.spotify.com/album/53eR7ZWqLIdRVZHcQfHgaC) | 2:59 | 2023-03-31 | 2023-07-08 |
 | [Debí Suponerlo](https://open.spotify.com/track/2pIIRKRwWSi1Sb29VYLOOa) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 2:24 | 2023-01-20 | 2023-05-06 |

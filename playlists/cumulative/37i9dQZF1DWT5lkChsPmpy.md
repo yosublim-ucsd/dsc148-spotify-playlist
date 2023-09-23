@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-448 songs - 19 hr 58 min
+449 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Blue Skies](https://open.spotify.com/track/5fwI0Nxl5PFk1EFdpl1Pp5) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Blue Skies](https://open.spotify.com/album/6QlN0zhSD9Ni0urapqE805) | 2:38 | 2022-12-09 |  |
 | [Brainbreeze](https://open.spotify.com/track/5bl0PsxNJRP8zsMyTvvKMJ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Ambrosial](https://open.spotify.com/album/3K4kc2ITYarXk6nCXHJja9) | 3:17 | 2021-11-10 | 2023-01-21 |
 | [Brainwaves](https://open.spotify.com/track/1upsUbZSRONTmWYq8iXTvR) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Brainwaves](https://open.spotify.com/album/337H8IQR3KiJLmdFTaX8T4) | 2:31 | 2023-02-24 |  |
-| [bubble beach](https://open.spotify.com/track/7uwZt4cO0n0d0aI3VaiSGf) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [bubble beach](https://open.spotify.com/album/7ASNeFNx3Eg0kYgUHzNAR1) | 3:13 | 2022-10-07 |  |
+| [bubble beach](https://open.spotify.com/track/7uwZt4cO0n0d0aI3VaiSGf) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [bubble beach](https://open.spotify.com/album/7ASNeFNx3Eg0kYgUHzNAR1) | 3:13 | 2022-10-07 | 2023-09-23 |
 | [Business Class](https://open.spotify.com/track/3BrM1JRNFZaxay6YsaSPv3) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Business Class](https://open.spotify.com/album/39RDYR5qrgDJoYlfX3qIrc) | 2:14 | 2022-10-14 |  |
 | [Bye Felicia!](https://open.spotify.com/track/3DJj5RlFWUokYJ1qjvTZof) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Bye Felicia!](https://open.spotify.com/album/6F9IaDzXYEFQNn3bJFQrKf) | 2:27 | 2021-11-10 |  |
 | [CA\-SHING](https://open.spotify.com/track/5foluJkCnagRboHQrchBPW) | [Kold\-Cutz](https://open.spotify.com/artist/6IiYA4Fg73eZAFg7J0uMwf) | [CA\-SHING](https://open.spotify.com/album/6tzNfjnStTmVs07XAZ1SwE) | 2:30 | 2022-06-17 |  |
@@ -155,6 +155,7 @@
 | [Forwards](https://open.spotify.com/track/4zBWSLd2yF6z3hDi292M8Z) | [Asa Bjorg](https://open.spotify.com/artist/1aFaXuKUvi4TpzZn8cKYRQ) | [Forwards](https://open.spotify.com/album/0mu6prS0OkwKyifgO9zAod) | 3:56 | 2021-11-10 | 2022-05-20 |
 | [Foundation](https://open.spotify.com/track/0n5EQPSY4Gm8ckMKuprHzy) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Foundation](https://open.spotify.com/album/54rJNwktOmmRTnukRyMxTL) | 2:27 | 2021-11-10 | 2023-04-07 |
 | [Free As Dogs](https://open.spotify.com/track/3AtSwMiONFjvK8pFDxNqUT) | [Lovetime Rhapsody](https://open.spotify.com/artist/1khPvt8OPAxBnQTIZ0kHJi) | [Famous](https://open.spotify.com/album/56AG1YCUB35Mbe8rqJV2iH) | 3:12 | 2022-06-10 | 2022-09-02 |
+| [Frozen Memories](https://open.spotify.com/track/2ejgbXue8mMCqaVQSNVhzb) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [Frozen Memories](https://open.spotify.com/album/0LxcbKHPy8NiCDZTcUAFrV) | 2:15 | 2023-09-22 |  |
 | [Fruity](https://open.spotify.com/track/76AxkEBbehPg6NNkeJt9p7) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [Fruity](https://open.spotify.com/album/0rpypMEvrRmuIEJkG3zs7J) | 2:49 | 2023-04-06 |  |
 | [Fruity Flavor](https://open.spotify.com/track/4a5zK2frFoJIH7MsJvC7Lp) | [Gaura](https://open.spotify.com/artist/4Zv99UKFFZKDVl2OsQS7Vp) | [ENGL](https://open.spotify.com/album/1TlcUSr83vfKHkQ2RCsnWI) | 1:52 | 2021-11-10 | 2022-07-08 |
 | [Fun Fact](https://open.spotify.com/track/4bCQBQwCFZ9fGIzbBe8aie) | [Dozed Again](https://open.spotify.com/artist/3vOFXxcfuGSZQKpj6Ueinf) | [Fun Fact](https://open.spotify.com/album/2x7mmLM0rn4USeYDSGaEMX) | 2:01 | 2023-01-13 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: GIMS, Maluma",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Safia Nolin",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Comme dans un penthouse",
+        "url": "https://open.spotify.com/album/12rLRy19o75nJG4cXKn2tR"
+      },
+      "artists": [
+        {
+          "name": "Le Couleur",
+          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209849,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/0ocRpLelepKUSy1X08ddi9"
+    },
+    {
+      "album": {
         "name": "Addictocrate",
         "url": "https://open.spotify.com/album/508sRFnLjCW27sJsleXuOm"
       },
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 112941,
       "name": "Alg\u00e9rien F\u00e2ch\u00e9",
       "url": "https://open.spotify.com/track/131mNF7dZE1z4pGL1cgxOI"
@@ -5008,7 +5026,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 131480,
       "name": "C'est toi",
       "url": "https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT"
@@ -7323,6 +7341,24 @@
     },
     {
       "album": {
+        "name": "L'Amour...",
+        "url": "https://open.spotify.com/album/0CyzYWU1ZY7Z5Eggx2c3ML"
+      },
+      "artists": [
+        {
+          "name": "Disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165826,
+      "name": "CONS\u2019 DE LOVE",
+      "url": "https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW"
+    },
+    {
+      "album": {
         "name": "Contentement",
         "url": "https://open.spotify.com/album/0JxgRw0X8dicjH6keF8f0M"
       },
@@ -8762,6 +8798,24 @@
       "duration_ms": 293200,
       "name": "Depuis",
       "url": "https://open.spotify.com/track/7D14x2U6kLT9BhbmsjWmPW"
+    },
+    {
+      "album": {
+        "name": "Depuis Marseille",
+        "url": "https://open.spotify.com/album/1ADpFrR3P89toHRHmMLsvv"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195493,
+      "name": "Depuis Marseille",
+      "url": "https://open.spotify.com/track/4mAUDy4YPWmpn55wfcf9yw"
     },
     {
       "album": {
@@ -12316,7 +12370,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 131399,
       "name": "Femmes",
       "url": "https://open.spotify.com/track/6k6Orw2NCDFuTiyyRYAcRB"
@@ -13080,6 +13134,28 @@
       "duration_ms": 220933,
       "name": "French Kiss",
       "url": "https://open.spotify.com/track/4DMv4ucHwmZbHikt3n6XV2"
+    },
+    {
+      "album": {
+        "name": "French Riviera",
+        "url": "https://open.spotify.com/album/0zz8rBPR2RmxmlNfvjrgGA"
+      },
+      "artists": [
+        {
+          "name": "Dosseh",
+          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201254,
+      "name": "French Riviera",
+      "url": "https://open.spotify.com/track/1YIxzV3rlDUmIES9tpOytj"
     },
     {
       "album": {
@@ -13954,7 +14030,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 161122,
       "name": "G\u00c9 VOULAIT",
       "url": "https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH"
@@ -19147,6 +19223,24 @@
     },
     {
       "album": {
+        "name": "Traits d'union",
+        "url": "https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g"
+      },
+      "artists": [
+        {
+          "name": "Marilou",
+          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "La protagoniste",
+      "url": "https://open.spotify.com/track/3WClLiQH8U19rNzxTPIAnA"
+    },
+    {
+      "album": {
         "name": "La recette",
         "url": "https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v"
       },
@@ -22817,6 +22911,24 @@
     },
     {
       "album": {
+        "name": "ET SI, DE/main l'oiseau",
+        "url": "https://open.spotify.com/album/4NJy1ueaJ0uqJwNDsycSVa"
+      },
+      "artists": [
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206468,
+      "name": "main l\u2019oiseau",
+      "url": "https://open.spotify.com/track/1b00k9gcQ9SxLK0aLXlUpa"
+    },
+    {
+      "album": {
         "name": "MAINTENANT",
         "url": "https://open.spotify.com/album/7wroesHmGqA6A7UmoKZCxO"
       },
@@ -23680,6 +23792,28 @@
       "duration_ms": 253750,
       "name": "MERCI",
       "url": "https://open.spotify.com/track/5ops3TstirUUtHSOhwxidF"
+    },
+    {
+      "album": {
+        "name": "Mercure",
+        "url": "https://open.spotify.com/album/72rzVypIG6LhrJStwG1KBe"
+      },
+      "artists": [
+        {
+          "name": "Olivier Faubert",
+          "url": "https://open.spotify.com/artist/7MtaiRiCaon9iTg2dfHC45"
+        },
+        {
+          "name": "Tha\u00efs",
+          "url": "https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245526,
+      "name": "Mercure",
+      "url": "https://open.spotify.com/track/6jbD5Xd7blUaYkLqoiuVDB"
     },
     {
       "album": {
@@ -24970,7 +25104,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 183346,
       "name": "M\u00e9diterran\u00e9e",
       "url": "https://open.spotify.com/track/1YydAnEuRJGKbFUYEE8HUz"
@@ -28958,7 +29092,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 167251,
       "name": "Pour nous",
       "url": "https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y"
@@ -30208,7 +30342,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 185893,
       "name": "Quitter la ville",
       "url": "https://open.spotify.com/track/2P27FSOybu4OXzkLkyCH4u"
@@ -30438,7 +30572,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 209154,
       "name": "Rappelle-moi ton nom",
       "url": "https://open.spotify.com/track/3MtXsHcd0EjV30p8wxh0HW"
@@ -32756,7 +32890,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 219865,
       "name": "Shavkat",
       "url": "https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l"
@@ -33166,6 +33300,28 @@
       "duration_ms": 180968,
       "name": "Sign\u00e9",
       "url": "https://open.spotify.com/track/7gYpMsodGiFN0qMmz9FCTj"
+    },
+    {
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215481,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/4yXRghXZcf9GMsxoErXEHb"
     },
     {
       "album": {
@@ -35062,6 +35218,24 @@
       "duration_ms": 172264,
       "name": "The hills",
       "url": "https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u"
+    },
+    {
+      "album": {
+        "name": "TPL",
+        "url": "https://open.spotify.com/album/3xASLbzCdazOv4wGh3oHmZ"
+      },
+      "artists": [
+        {
+          "name": "GreenWoodz",
+          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182757,
+      "name": "The Top",
+      "url": "https://open.spotify.com/track/0CGDrIdIsKucUtnkUFSK7b"
     },
     {
       "album": {
@@ -37149,6 +37323,24 @@
     },
     {
       "album": {
+        "name": "El GRANDE TORPEDO",
+        "url": "https://open.spotify.com/album/0GPARm2KCkGhIhNPQFnKeQ"
+      },
+      "artists": [
+        {
+          "name": "Ka\u00efn",
+          "url": "https://open.spotify.com/artist/1KMHmX2PgvEl1nFzFmEdcZ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221160,
+      "name": "UN SAMEDI SOIR QU\u00c9B\u00c9COIS",
+      "url": "https://open.spotify.com/track/7tuu5DcwXp5ki161lreEYK"
+    },
+    {
+      "album": {
         "name": "Un soleil toujours",
         "url": "https://open.spotify.com/album/6avw1J81JLd37DlFUY2wqh"
       },
@@ -38199,6 +38391,24 @@
     },
     {
       "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/7xXhhp4KbxoRejDx97bdiS"
+      },
+      "artists": [
+        {
+          "name": "Rick Pagano",
+          "url": "https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213072,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/4JlKX9yCxV95GxEWxCwT72"
+    },
+    {
+      "album": {
         "name": "Vrai",
         "url": "https://open.spotify.com/album/0wwrQOD9yyPGtZ9xaM59rR"
       },
@@ -38806,7 +39016,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 157000,
       "name": "Yabibi (feat. Nej)",
       "url": "https://open.spotify.com/track/1AsYPCnhaiMRe80lizpzGk"
@@ -39582,7 +39792,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 154580,
       "name": "\u00c7a va !",
       "url": "https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv"

@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-225 songs - 11 hr 2 min
+226 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Enlightened](https://open.spotify.com/track/2rDUD1OjekGLpJIQTaAGAE) | [Theatantrical](https://open.spotify.com/artist/3NfPyQcxlNd7Avfcgn13Sh) | [Seduction](https://open.spotify.com/album/7KSDplAurK6FocNB7MkCyx) | 3:29 | 2022-02-18 |  |
 | [Eryra](https://open.spotify.com/track/2jAm2Z3yoDLSiFjk3OZpY7) | [Blissful Heaven](https://open.spotify.com/artist/4QEyQYiRdLu1c6wzHyp0ds) | [Kundalini Yoga](https://open.spotify.com/album/4XIwD4dxoxwE8gQBucVTRZ) | 3:52 | 2022-02-18 | 2023-04-07 |
 | [Etheral Ease](https://open.spotify.com/track/5jKGlvcYrkQjoqwvAtMZ70) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Etheral Ease](https://open.spotify.com/album/3rcdVstalXGxGDggOZ9Dne) | 3:15 | 2022-02-18 |  |
-| [Ethereal](https://open.spotify.com/track/0e3Pzob0dTYuUoZTs4iwpr) | [Threedust](https://open.spotify.com/artist/6340hzyqmfpcSbPZLFC1Gf), [Concept15](https://open.spotify.com/artist/4wZuWc5z66z9KM6Idhgpa3) | [Ethereal](https://open.spotify.com/album/4hEYjwAULY6jI7LoNkfRxI) | 2:32 | 2022-02-18 |  |
+| [Ethereal](https://open.spotify.com/track/0e3Pzob0dTYuUoZTs4iwpr) | [Threedust](https://open.spotify.com/artist/6340hzyqmfpcSbPZLFC1Gf), [Concept15](https://open.spotify.com/artist/4wZuWc5z66z9KM6Idhgpa3) | [Ethereal](https://open.spotify.com/album/4hEYjwAULY6jI7LoNkfRxI) | 2:32 | 2022-02-18 | 2023-09-23 |
 | [Evanescenza](https://open.spotify.com/track/28WP5mwpfzMw4oVSBXkWgu) | [André Calmaz](https://open.spotify.com/artist/6wMD854zzb5SpQuyjAQLht) | [Evanescenza](https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK) | 3:55 | 2023-01-27 |  |
 | [Fall](https://open.spotify.com/track/7tTcD8wVyMvKRrzriY78zw) | [Danoa](https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2) | [Fall](https://open.spotify.com/album/0O67PdetBALfQ0K6EyQvuB) | 2:30 | 2022-09-13 |  |
 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 | 2022-02-18 | 2023-02-04 |
@@ -158,6 +158,7 @@
 | [Peaceful Memory](https://open.spotify.com/track/3F8pwlF36S14zSKLfWH6LZ) | [Laurent Wilks](https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes) | [Peaceful Memory](https://open.spotify.com/album/0ynJFurIoUTJidkBgSGy1t) | 2:53 | 2022-02-18 | 2023-09-16 |
 | [Peaceful Mind](https://open.spotify.com/track/1WibRGaemUausx1GX9VPhv) | [Doosi](https://open.spotify.com/artist/6M99p2uc6AP0HCJiqnjszP) | [Trust](https://open.spotify.com/album/6zRMPCiscrkVp1rIeylCLk) | 3:20 | 2022-02-18 | 2023-03-18 |
 | [Pisces](https://open.spotify.com/track/1Ff9bSqXJkerZyKfBtLUNw) | [Agaton Simon](https://open.spotify.com/artist/7h78jsrgSU8wxZnXAdzMlZ) | [Pisces](https://open.spotify.com/album/0uJZ0SfKEnNr45JmoNY3Zt) | 2:07 | 2022-02-18 | 2023-07-15 |
+| [Placidus](https://open.spotify.com/track/0k5fYqZwhHGPxMxmLYg6gu) | [Elvio Martín](https://open.spotify.com/artist/1rOPEkX83RQnXXOO55RJM7) | [Placidus](https://open.spotify.com/album/6PoCmbDRnMT0gR02kQk2ra) | 3:15 | 2023-09-22 |  |
 | [Planet Calm](https://open.spotify.com/track/1DiSzonwA6obAjQSbz1vAx) | [Rebootist](https://open.spotify.com/artist/6kwfEowXeDA4ixlHvGmZpb) | [Talking Souls](https://open.spotify.com/album/5P7CUCHWkRwhFQT2iJ4e2B) | 3:10 | 2023-02-24 |  |
 | [Progress](https://open.spotify.com/track/6oJIMUBDopuFljMNBFrq9Z) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:18 | 2022-02-18 | 2023-08-25 |
 | [Quasar](https://open.spotify.com/track/5NM4frO8ccRVxXKW0kZaAk) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Quasar](https://open.spotify.com/album/3RoE8ap3HZwtp16hHXMEEE) | 4:18 | 2022-02-18 | 2022-10-01 |

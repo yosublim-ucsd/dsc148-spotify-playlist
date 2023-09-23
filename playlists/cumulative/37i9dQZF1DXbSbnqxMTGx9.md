@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-484 songs - 1 day 3 hr 44 min
+485 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,8 @@
 | [Superman](https://open.spotify.com/track/4E6TkulZSnor5RzOkkW32U) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Contagious](https://open.spotify.com/album/46fXrRFxFf1L5LycVoOetx) | 4:22 | 2022-08-18 | 2022-09-23 |
 | [Suzanne Beware of the Devil](https://open.spotify.com/track/6WNT9qmTeBBXl9VpN9UCgE) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:35 | 2021-03-02 |  |
 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Blazzin' Fire](https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n) | 3:47 | 2021-03-02 | 2023-09-18 |
-| [Sweat \(A La La La La Long\)](https://open.spotify.com/track/3QmetavYzJize7uwkNlzEW) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Bad to the Bone](https://open.spotify.com/album/4vbOi44Tw0IHqMNoN7Zrbm) | 3:47 | 2022-09-22 |  |
+| [Sweat \(A La La La La Long\)](https://open.spotify.com/track/3QmetavYzJize7uwkNlzEW) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Bad to the Bone](https://open.spotify.com/album/4vbOi44Tw0IHqMNoN7Zrbm) | 3:47 | 2022-09-22 | 2023-09-23 |
+| [Sweat \(A La La La La Long\)](https://open.spotify.com/track/5HLX3X9DKICD2i7m2KNTn6) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Sweat \(A La La La La Long\)](https://open.spotify.com/album/6C2tqCtqlG32rLawvyRXMY) | 3:49 | 2022-09-22 |  |
 | [Sweet Jamaica](https://open.spotify.com/track/2WoKCEasaj7751MbvYeEcx) | [Tony Rebel](https://open.spotify.com/artist/0eyU8FDZOOlay1MxO2ze4E) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:45 | 2022-09-22 |  |
 | [Sweet Sensation](https://open.spotify.com/track/5uxBt9ZluGjgdVGj8oXkiX) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:52 | 2022-09-22 |  |
 | [Swing Easy](https://open.spotify.com/track/6gyKNejreOJfwfeQQ7fNVw) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ball Of Fire](https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN) | 6:22 | 2021-03-02 |  |

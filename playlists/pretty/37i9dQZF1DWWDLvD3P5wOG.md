@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,632 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,065 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 18 | [I'm Still in Love with You \(feat\. Sasha\)](https://open.spotify.com/track/5lJx5eiSahFfsqkMJVlkDN) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sasha](https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY), [Jeremy Harding](https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0), [Murray Elias](https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL) | [Dutty Rock \(20th Anniversary\)](https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV) | 4:33 |
 | 19 | [Bruk Off Yuh Back](https://open.spotify.com/track/30mNHDOw7qD5SF8tBeuPpu) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Bruk Off Yuh Back](https://open.spotify.com/album/46SMy1MXYZq5qnIpHKAd1U) | 2:53 |
 | 20 | [Nobody Has to Know](https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Rumors](https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX) | 3:42 |
-| 21 | [She's Royal](https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Parables](https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985) | 4:11 |
-| 22 | [Cant Satisfy Her](https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Lava Ground](https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp) | 3:41 |
+| 21 | [Cant Satisfy Her](https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Lava Ground](https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp) | 3:41 |
+| 22 | [She's Royal](https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Parables](https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985) | 4:11 |
 | 23 | [Who Am I](https://open.spotify.com/track/4PaV16f3DUo9QxbQMUzMKH) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Many Moods Of Moses](https://open.spotify.com/album/5BppAD3eDsFuDPolMdcqt2) | 3:16 |
 | 24 | [So Mi Like It](https://open.spotify.com/track/6IFDy0imCdhDpHj98GczEX) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [So Mi Like It](https://open.spotify.com/album/3VsPJKD7uZPIYB4SNGeLRt) | 2:33 |
 | 25 | [Like Glue](https://open.spotify.com/track/56m8Wv3qRBfwLuO08GtfHs) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock \(20th Anniversary\)](https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV) | 3:52 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 46 | [Bedroom Bully](https://open.spotify.com/track/5esGnzJMqZQP3XBWC4PJYY) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [It \(Incomparable Talent\)](https://open.spotify.com/album/1DHJhXAwi3cvPM0LscDsyZ) | 2:45 |
 | 47 | [King Of The Dancehall](https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Back To Basics](https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2) | 3:37 |
 | 48 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 |
-| 49 | [Beautiful](https://open.spotify.com/track/5tLDX5Z50VZAvga5695enB) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 4:47 |
-| 50 | [Go Go Wine](https://open.spotify.com/track/4uQjPCRQJF2QGTKh2vp45a) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Kingston Story \(Deluxe Edition\)](https://open.spotify.com/album/3Ekq3FY8u4AMUDmgoK5FJU) | 3:23 |
+| 49 | [Go Go Wine](https://open.spotify.com/track/4uQjPCRQJF2QGTKh2vp45a) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Kingston Story \(Deluxe Edition\)](https://open.spotify.com/album/3Ekq3FY8u4AMUDmgoK5FJU) | 3:23 |
+| 50 | [Beautiful](https://open.spotify.com/track/5tLDX5Z50VZAvga5695enB) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 4:47 |
 | 51 | [Throat](https://open.spotify.com/track/4LGDRn6E199hReOZGF5Exw) | [Gage](https://open.spotify.com/artist/5ENdfpGHYMwemMEe0uJG8w) | [Throat \- Single](https://open.spotify.com/album/21pDh5Ze2VGN8g94uQj5J5) | 2:52 |
 | 52 | [Ganja Farmer](https://open.spotify.com/track/4IPQwZBtK0B2DabP0rQvV0) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y) | [Unconditional Love](https://open.spotify.com/album/6vCafqC9POiyyLxqC4kdpf) | 3:56 |
 | 53 | [Gyal Bruk Out](https://open.spotify.com/track/6aHhMN1QoYiDttlyOoa9Ck) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Raw as Eva](https://open.spotify.com/album/3WWCe11tMBN6nM26gMIeha) | 2:42 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 58 | [Bicycle](https://open.spotify.com/track/1jUuRNEIHITr1xecjeG5So) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Dancehall Hero Raw: Deluxe](https://open.spotify.com/album/3XROPn9zW3o0RnwkZCCEbs) | 2:17 |
 | 59 | [Kotch](https://open.spotify.com/track/0V64KIinm3gUN04DhxEHwW) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch](https://open.spotify.com/album/0oprdfurN8Dhv9mdLl0iPC) | 3:15 |
 | 60 | [Likes](https://open.spotify.com/track/0L7ByJIFyro93nWs7wwioM) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:18 |
-| 61 | [Things Mi Love](https://open.spotify.com/track/0ANTPHMeOjPIyfGHiKDGU9) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ), [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX) | [Things Mi Love](https://open.spotify.com/album/2Ultkk4UOH342Elt4y1dDT) | 3:27 |
-| 62 | [Needle Eye](https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Needle Eye \- Single](https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv) | 3:05 |
+| 61 | [Needle Eye](https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Needle Eye \- Single](https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv) | 3:05 |
+| 62 | [Things Mi Love](https://open.spotify.com/track/0ANTPHMeOjPIyfGHiKDGU9) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ), [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX) | [Things Mi Love](https://open.spotify.com/album/2Ultkk4UOH342Elt4y1dDT) | 3:27 |
 | 63 | [Bad Man Forward](https://open.spotify.com/track/1KW6PVabkLbthK4y0sPX5a) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Bad Man Forward, Bad Man Pull Up](https://open.spotify.com/album/4pWeMGhrk1bvKE3Od3jePT) | 3:15 |
 | 64 | [Dye Dye \(Raw\)](https://open.spotify.com/track/0fz2jINcCa4iD7j4dmioCa) | [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Dye Dye \- Single](https://open.spotify.com/album/5kOOn0ChRFeAohElEPTqkz) | 3:06 |
 | 65 | [Bounce Along](https://open.spotify.com/track/6hDdz3s6TMHF6ohnCIa1z6) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 4:50 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 68 | [Always](https://open.spotify.com/track/1ge5u2oNzB340gHdMCdTSl) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE) | 3:14 |
 | 69 | [Broad Out \- Raw](https://open.spotify.com/track/3pTQs1htsNk3NYKDpturZU) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Broad Out](https://open.spotify.com/album/3nwS8SobIYJ74TywjJfiax) | 3:06 |
 | 70 | [Ghetto Story](https://open.spotify.com/track/00bnP8RyknzZMkNlEAO2ih) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:11 |
-| 71 | [Click Mi Finger](https://open.spotify.com/track/2gUCdANxjdifegHVvt9BVC) | [Erup](https://open.spotify.com/artist/06u187az5ps4QsoZHMN8DJ) | [First Semester: Dancehall](https://open.spotify.com/album/6dMkzA6Tv5vyMCjbW3ccdx) | 2:38 |
-| 72 | [Nuh Boring Gyal](https://open.spotify.com/track/09EmEP62OJa0anCob6k0pl) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Project Sweat](https://open.spotify.com/album/7b7jhNRjKkoApz1KdmyIiJ) | 2:14 |
+| 71 | [Nuh Boring Gyal](https://open.spotify.com/track/09EmEP62OJa0anCob6k0pl) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Project Sweat](https://open.spotify.com/album/7b7jhNRjKkoApz1KdmyIiJ) | 2:14 |
+| 72 | [Click Mi Finger](https://open.spotify.com/track/2gUCdANxjdifegHVvt9BVC) | [Erup](https://open.spotify.com/artist/06u187az5ps4QsoZHMN8DJ) | [First Semester: Dancehall](https://open.spotify.com/album/6dMkzA6Tv5vyMCjbW3ccdx) | 2:38 |
 | 73 | [Call Mi A Yardie](https://open.spotify.com/track/4ninC0OKV9UjFLurjw2ASR) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Ragga Ragga Ragga 2012](https://open.spotify.com/album/4Sbct6JwWOmeuItClJ3aw6) | 3:05 |
 | 74 | [Hot Fuk / Hot Wuk](https://open.spotify.com/track/1aoq8ZJBdrqdM1FSzciy4G) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 2:47 |
 | 75 | [Bend Ova](https://open.spotify.com/track/6ajqSWogEt8ngg7ErtEaVa) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch EP](https://open.spotify.com/album/0xXIL4sAD2GXXjUk1NFV2y) | 3:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 79 | [One Drop](https://open.spotify.com/track/54GRkvaa7ZUA6OtrPl3VUc) | [QQ](https://open.spotify.com/artist/06SIuEAp0Cqena9c2bZfgq), [Venomus](https://open.spotify.com/artist/15ebKuZun256dB6EBr8HUB) | [Kingston 20](https://open.spotify.com/album/4kD72g4mw4e97K5BAcY494) | 2:54 |
 | 80 | [Life \(Is What You Make of It\)](https://open.spotify.com/track/1GPr2bSZGp3FY8WLUIz6kD) | [Frighty](https://open.spotify.com/artist/3sJ4PdcDMz8f54s58xsNzt), [Colonel Mite](https://open.spotify.com/artist/3uKvf6v8ivXfxa3UrJx738) | [Life \(Is What You Make of It\)](https://open.spotify.com/album/5PnaOrdPmijULnutsP7DQt) | 3:32 |
 
-Snapshot ID: `MCw0Y2ZlYmJkN2I0MTYzMjJjMzcxMTRhNzU4MzRhNzk4MDMxMTE0ODRh`
+Snapshot ID: `MCxhYjZlYjFiNThmZTkzYTg4NTZkZmZkMWVmYmUyNmMzYTZjZjllYThl`

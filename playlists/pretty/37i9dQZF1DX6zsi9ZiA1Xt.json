@@ -1,12 +1,12 @@
 {
   "description": "Con un poco de buena salsa todo queda limpio y reluciente.",
-  "num_followers": 28026,
+  "num_followers": 28051,
   "original_name": "\u00a1A Limpiar con Salsa!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzE0YWZkNjIxOWQ5NTNlM2Y1Y2NmNmMxZGFmOTdmMjE3ZWVmNDMy",
+  "snapshot_id": "MCwzZGRjYzNmYTZlOTc2MGMzYjEyZTQ1YmY0MWU3ZTUwYzIzZjcxZWEx",
   "tracks": [
     {
       "added_at": "2023-02-14 01:28:06",
@@ -287,18 +287,22 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
-        "name": "Este Negro Si es Sabroso",
-        "url": "https://open.spotify.com/album/4lo8dpD9ro4TeK7KnTYWqe"
+        "name": "Plant\u00e9 Bandera",
+        "url": "https://open.spotify.com/album/2VdhOXWqytn4EzEFZvw9Ae"
       },
       "artists": [
         {
-          "name": "Pete \"El Conde\" Rodriguez",
-          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+          "name": "Tommy Olivencia y Su Orquesta",
+          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
+        },
+        {
+          "name": "Chamaco Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/5xrlgKRrNvDt5KSbcBbTwx"
         }
       ],
-      "duration_ms": 312640,
-      "name": "Catalina La O",
-      "url": "https://open.spotify.com/track/3uOODK5GtGFNda7J8ty4VJ"
+      "duration_ms": 302413,
+      "name": "Trucutu",
+      "url": "https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY"
     },
     {
       "added_at": "2023-02-14 01:28:06",
@@ -339,22 +343,18 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
-        "name": "Plant\u00e9 Bandera",
-        "url": "https://open.spotify.com/album/2VdhOXWqytn4EzEFZvw9Ae"
+        "name": "Este Negro Si es Sabroso",
+        "url": "https://open.spotify.com/album/4lo8dpD9ro4TeK7KnTYWqe"
       },
       "artists": [
         {
-          "name": "Tommy Olivencia y Su Orquesta",
-          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
-        },
-        {
-          "name": "Chamaco Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/5xrlgKRrNvDt5KSbcBbTwx"
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
         }
       ],
-      "duration_ms": 302413,
-      "name": "Trucutu",
-      "url": "https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY"
+      "duration_ms": 312640,
+      "name": "Catalina La O",
+      "url": "https://open.spotify.com/track/3uOODK5GtGFNda7J8ty4VJ"
     },
     {
       "added_at": "2023-02-14 01:28:06",
@@ -551,6 +551,30 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
+        "name": "Aqui Estoy Yo, Vol. 1",
+        "url": "https://open.spotify.com/album/00kLg7atNIIaRc63s93Dry"
+      },
+      "artists": [
+        {
+          "name": "Charlie Aponte",
+          "url": "https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7"
+        },
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        },
+        {
+          "name": "Yayo El Indio",
+          "url": "https://open.spotify.com/artist/450R1iQ3HImRJnq1eyNWdG"
+        }
+      ],
+      "duration_ms": 207817,
+      "name": "Brujeria",
+      "url": "https://open.spotify.com/track/6RVNMkVUHijxWQnGOOeOa1"
+    },
+    {
+      "added_at": "2023-02-14 01:28:06",
+      "album": {
         "name": "Velvet Salsa All Stars",
         "url": "https://open.spotify.com/album/0cFRprKvLnPrTJ7eWpG9ON"
       },
@@ -575,30 +599,6 @@
       "duration_ms": 254866,
       "name": "Sandra Mora",
       "url": "https://open.spotify.com/track/1Lyg0T9xKFXIyIj3jHpOm8"
-    },
-    {
-      "added_at": "2023-02-14 01:28:06",
-      "album": {
-        "name": "Aqui Estoy Yo, Vol. 1",
-        "url": "https://open.spotify.com/album/00kLg7atNIIaRc63s93Dry"
-      },
-      "artists": [
-        {
-          "name": "Charlie Aponte",
-          "url": "https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7"
-        },
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        },
-        {
-          "name": "Yayo El Indio",
-          "url": "https://open.spotify.com/artist/450R1iQ3HImRJnq1eyNWdG"
-        }
-      ],
-      "duration_ms": 207817,
-      "name": "Brujeria",
-      "url": "https://open.spotify.com/track/6RVNMkVUHijxWQnGOOeOa1"
     },
     {
       "added_at": "2023-02-14 01:28:06",

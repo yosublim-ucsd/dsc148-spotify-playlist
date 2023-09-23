@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib?si=TNRwnRDwQCScvT6x3LhYzQ\">Ziwe Fumudoh</a>",
-  "num_followers": 1422,
+  "num_followers": 1424,
   "original_name": "Ziwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWU0MTFiMzJmNDg5MmRiYTRjN2FkYWVmYzFkYmY2ZTE5M2Y0MTMy",
+  "snapshot_id": "MCwyOTY3NDhhODA4MTA2NGE0YTI2ZTQ1Mzc0MDJlMWQ0M2RkZmVmYzk4",
   "tracks": [
     {
       "added_at": "2022-12-01 09:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "While We're Young",
-      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 161066,
       "name": "Consideration",
       "url": "https://open.spotify.com/track/6t90Z9XkdsHD8xMxro6KRP"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "While We're Young",
+      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -399,6 +399,26 @@
       "duration_ms": 244792,
       "name": "THIQUE",
       "url": "https://open.spotify.com/track/1LCm0lFnEsxR2oPqyHLGX9"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Petey Pablo",
+          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Goodies (feat. Petey Pablo)",
+      "url": "https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -543,6 +563,22 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
+      },
+      "artists": [
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "duration_ms": 238760,
+      "name": "1 Thing",
+      "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
         "name": "Almost Famous",
         "url": "https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv"
       },
@@ -583,6 +619,22 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 167810,
+      "name": "Can I",
+      "url": "https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
         "name": "Motivation",
         "url": "https://open.spotify.com/album/36BtNkS3gaPXlxSxzWcnLJ"
       },
@@ -619,42 +671,6 @@
       "duration_ms": 224880,
       "name": "Girl Like Me (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 167810,
-      "name": "Can I",
-      "url": "https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
-        "name": "What A Time To Be Alive",
-        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 314631,
-      "name": "Diamonds Dancing",
-      "url": "https://open.spotify.com/track/2AGottAzfC8bHzF7kEJ3Wa"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -723,6 +739,26 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
+        "name": "What A Time To Be Alive",
+        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 314631,
+      "name": "Diamonds Dancing",
+      "url": "https://open.spotify.com/track/2AGottAzfC8bHzF7kEJ3Wa"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
         "name": "The Hits",
         "url": "https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7"
       },
@@ -787,6 +823,26 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
+        "name": "Thank Me Later",
+        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "duration_ms": 419306,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/3d8PDk3B4am5c6TsUCznUW"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
         "name": "Danity Kane",
         "url": "https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV"
       },
@@ -799,6 +855,22 @@
       "duration_ms": 229240,
       "name": "Show Stopper",
       "url": "https://open.spotify.com/track/5FRIqUXfTazrtRmYEGO4G0"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "When It's All Said And Done",
+        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 177445,
+      "name": "Still Your Best",
+      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -823,74 +895,6 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Thank Me Later",
-        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "The-Dream",
-          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
-        }
-      ],
-      "duration_ms": 419306,
-      "name": "Shut It Down",
-      "url": "https://open.spotify.com/track/3d8PDk3B4am5c6TsUCznUW"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
-        "name": "CAPRISONGS",
-        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 201520,
-      "name": "honda (feat. pa salieu)",
-      "url": "https://open.spotify.com/track/6kZsTttxl7h4BLGSRWQnTp"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
-        "name": "moMINTs",
-        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Fat Nwigwe",
-          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "LORD FORGIVE ME",
-      "url": "https://open.spotify.com/track/3KVS5CzCxsfQ4iZcOpD7xk"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
         "name": "Aquarius",
         "url": "https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L"
       },
@@ -903,22 +907,6 @@
       "duration_ms": 221040,
       "name": "All Hands on Deck",
       "url": "https://open.spotify.com/track/1kXmApTm4wonqscYBoLwxj"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
-        "name": "When It's All Said And Done",
-        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 177445,
-      "name": "Still Your Best",
-      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
     }
   ],
   "unique_name": "Ziwe's Taste ",

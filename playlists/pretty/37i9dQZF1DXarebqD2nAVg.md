@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,323 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,397 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 34 | [Sick of This](https://open.spotify.com/track/3XKAwOCIYtttde7vLMD5Jo) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [When You Forgive](https://open.spotify.com/album/5xG0QYLqbR4dTJknfhYtlu) | 3:53 |
 | 35 | [emerald](https://open.spotify.com/track/0kglaBttNwzxtNeDdWafej) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [in.the.forest.we.are.wizards](https://open.spotify.com/album/5dtl7XhfdMYSmTBaBSuaTS) | 2:34 |
 | 36 | [Seymour \(with Dawn Golden\)](https://open.spotify.com/track/3tpr337B8DsgKo7JR2eYAS) | [Drevm](https://open.spotify.com/artist/4pHeEHS66wGubk4WCJ5BZG), [Dawn Golden](https://open.spotify.com/artist/6MzxeKydmXufvX7HYPknFW) | [Seymour \(with Dawn Golden\)](https://open.spotify.com/album/7BccR0AIrdXUozgZTAX6gE) | 1:53 |
-| 37 | [Anything Like Her \(feat\. Tiffi\)](https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ), [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [Snow Rose](https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9) | 3:11 |
-| 38 | [MEMORIES OF YOU](https://open.spotify.com/track/2hnWQzIH4J8y3Y2MCDh5NI) | [Formalite](https://open.spotify.com/artist/2fPfY8Q8qi3VhTWAbk7HNw), [paydak](https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx) | [LIGHTER](https://open.spotify.com/album/0zLmk30hF1RcoDCNXmFMU4) | 1:36 |
+| 37 | [MEMORIES OF YOU](https://open.spotify.com/track/2hnWQzIH4J8y3Y2MCDh5NI) | [Formalite](https://open.spotify.com/artist/2fPfY8Q8qi3VhTWAbk7HNw), [paydak](https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx) | [LIGHTER](https://open.spotify.com/album/0zLmk30hF1RcoDCNXmFMU4) | 1:36 |
+| 38 | [Anything Like Her \(feat\. Tiffi\)](https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ), [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [Snow Rose](https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9) | 3:11 |
 | 39 | [Driftwood](https://open.spotify.com/track/7JVfIv0ymBzxJNGuWpHbWZ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Corals](https://open.spotify.com/album/1o5iflLRe5yh0B8o9gbbF4) | 2:04 |
 | 40 | [Louie's Lullaby](https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Pause](https://open.spotify.com/album/1SGKhtJ0H8iLa4Q9CKsjOP) | 2:51 |
 | 41 | [Memories Fade](https://open.spotify.com/track/40rSlnWWx2p4r9lLOwNn96) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Memories](https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 49 | [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 |
 | 50 | [But of All We Did Together, Was It Worth It?](https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Prelude to the Dawn](https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS) | 2:34 |
 
-Snapshot ID: `MCxkNzZhZjlhNDE1NDE2NTgyZTE0YmZiOGFhYWUwYzRmMTliNzQ1Zjc4`
+Snapshot ID: `MCwwNzVkYWI0N2E2YmFkMjkzZjllZTI0NzJkY2U1MzdmNWVmMjZiNDI3`

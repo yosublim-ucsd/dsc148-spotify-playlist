@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 119292,
+  "num_followers": 119314,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWEyMTRlODgzZGIyMTFhOGZmMDQxOWRiMmI5MDA0YWEzYmZiODVh",
+  "snapshot_id": "MCw4YzA3OGViMTJjY2FiYzEyZmM1MTVmNjQ3MGMzZGQ0YmQ3YWVkNDli",
   "tracks": [
     {
       "added_at": "2023-09-15 09:33:43",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
+        "name": "I Don't Know Why",
+        "url": "https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg"
+      },
+      "artists": [
+        {
+          "name": "Luminous",
+          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "I Don't Know Why",
+      "url": "https://open.spotify.com/track/0WE4sAFEeNxm1y3E6iTwVL"
+    },
+    {
+      "added_at": "2023-09-15 09:33:43",
+      "album": {
         "name": "Travellers",
         "url": "https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 396501,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
-    },
-    {
-      "added_at": "2023-09-15 09:33:43",
-      "album": {
-        "name": "I Don't Know Why",
-        "url": "https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg"
-      },
-      "artists": [
-        {
-          "name": "Luminous",
-          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "I Don't Know Why",
-      "url": "https://open.spotify.com/track/0WE4sAFEeNxm1y3E6iTwVL"
     },
     {
       "added_at": "2023-09-15 09:33:43",
@@ -463,6 +463,26 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
+      },
+      "artists": [
+        {
+          "name": "Swann Decamme",
+          "url": "https://open.spotify.com/artist/41AOvXWcYS1IxaItxtahgA"
+        },
+        {
+          "name": "Oktave",
+          "url": "https://open.spotify.com/artist/1EEM7nMm39HPZWTc3xBqbM"
+        }
+      ],
+      "duration_ms": 415903,
+      "name": "Resilience",
+      "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
+    },
+    {
+      "added_at": "2023-09-15 09:33:43",
+      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/401BY5jGvGKB4xt7zomYRA"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 245202,
       "name": "Gaia - Radio Edit",
       "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
-    },
-    {
-      "added_at": "2023-09-15 09:33:43",
-      "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
-      },
-      "artists": [
-        {
-          "name": "Swann Decamme",
-          "url": "https://open.spotify.com/artist/41AOvXWcYS1IxaItxtahgA"
-        },
-        {
-          "name": "Oktave",
-          "url": "https://open.spotify.com/artist/1EEM7nMm39HPZWTc3xBqbM"
-        }
-      ],
-      "duration_ms": 415903,
-      "name": "Resilience",
-      "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
     },
     {
       "added_at": "2023-09-15 09:33:43",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
-        "name": "Toledo",
-        "url": "https://open.spotify.com/album/4faNjrs2415Xr3euT2LUl4"
-      },
-      "artists": [
-        {
-          "name": "Luca Musto",
-          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
-        }
-      ],
-      "duration_ms": 301909,
-      "name": "What We Witness",
-      "url": "https://open.spotify.com/track/1rFith6EdgNr3tcuIjlY1q"
-    },
-    {
-      "added_at": "2023-09-15 09:33:43",
-      "album": {
         "name": "After Midnyte",
         "url": "https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 191819,
       "name": "Got to Fall Out",
       "url": "https://open.spotify.com/track/5jrITUm4fDGar2kVdYTsAH"
+    },
+    {
+      "added_at": "2023-09-15 09:33:43",
+      "album": {
+        "name": "Toledo",
+        "url": "https://open.spotify.com/album/4faNjrs2415Xr3euT2LUl4"
+      },
+      "artists": [
+        {
+          "name": "Luca Musto",
+          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
+        }
+      ],
+      "duration_ms": 301909,
+      "name": "What We Witness",
+      "url": "https://open.spotify.com/track/1rFith6EdgNr3tcuIjlY1q"
     },
     {
       "added_at": "2023-09-15 09:33:43",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
-      },
-      "artists": [
-        {
-          "name": "Luminous",
-          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
-        },
-        {
-          "name": "R.O",
-          "url": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
-    },
-    {
-      "added_at": "2023-09-15 09:33:43",
-      "album": {
         "name": "Space Logic",
         "url": "https://open.spotify.com/album/6ZIh3hjRNV4ViM9EmZ8CGF"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 211025,
       "name": "I Need You to Hear Me",
       "url": "https://open.spotify.com/track/329rKlFCy5U6H9U7AtSAvP"
+    },
+    {
+      "added_at": "2023-09-15 09:33:43",
+      "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
+      },
+      "artists": [
+        {
+          "name": "Luminous",
+          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
+        },
+        {
+          "name": "R.O",
+          "url": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
     },
     {
       "added_at": "2023-09-15 09:33:43",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
-        "name": "Parrot Fever",
-        "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
-      },
-      "artists": [
-        {
-          "name": "Kazam",
-          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
-        }
-      ],
-      "duration_ms": 268474,
-      "name": "Parrot Fever",
-      "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
-    },
-    {
-      "added_at": "2023-09-15 09:33:43",
-      "album": {
         "name": "<3DAYSOFLOVE",
         "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 305370,
       "name": "<3DAYSOFLOVE",
       "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
+    },
+    {
+      "added_at": "2023-09-15 09:33:43",
+      "album": {
+        "name": "Parrot Fever",
+        "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
+      },
+      "artists": [
+        {
+          "name": "Kazam",
+          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
+        }
+      ],
+      "duration_ms": 268474,
+      "name": "Parrot Fever",
+      "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
     },
     {
       "added_at": "2023-09-15 09:33:43",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
+        "name": "Voyage Direct (2020 Remaster)",
+        "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
+      },
+      "artists": [
+        {
+          "name": "Tom Trago",
+          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
+        }
+      ],
+      "duration_ms": 277899,
+      "name": "Lost in the Streets of NYC - 2020 Remaster",
+      "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
+    },
+    {
+      "added_at": "2023-09-15 09:33:43",
+      "album": {
         "name": "Natural Movement",
         "url": "https://open.spotify.com/album/5YzvYAfuFbXc36n4do35Jn"
       },
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
-        "name": "Voyage Direct (2020 Remaster)",
-        "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
-      },
-      "artists": [
-        {
-          "name": "Tom Trago",
-          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
-        }
-      ],
-      "duration_ms": 277899,
-      "name": "Lost in the Streets of NYC - 2020 Remaster",
-      "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
-    },
-    {
-      "added_at": "2023-09-15 09:33:43",
-      "album": {
         "name": "Fading Memories",
         "url": "https://open.spotify.com/album/1DrA0ZU45wJOm46XoAO2Sd"
       },
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
-        "name": "Mr. Magic",
-        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
-      },
-      "artists": [
-        {
-          "name": "Baka G",
-          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
-        }
-      ],
-      "duration_ms": 345534,
-      "name": "Mr. Magic",
-      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
-    },
-    {
-      "added_at": "2023-09-15 09:33:43",
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/1QAF4JyZ1mqNnuyS0IW9r7"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 284205,
       "name": "009A1",
       "url": "https://open.spotify.com/track/6D4hzvjgUZKVOEvH6kGXGd"
+    },
+    {
+      "added_at": "2023-09-15 09:33:43",
+      "album": {
+        "name": "Mr. Magic",
+        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
+      },
+      "artists": [
+        {
+          "name": "Baka G",
+          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
+        }
+      ],
+      "duration_ms": 345534,
+      "name": "Mr. Magic",
+      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
     },
     {
       "added_at": "2023-09-15 09:33:43",

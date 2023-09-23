@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Taaruk Raina
 
-213 songs - 12 hr 6 min
+214 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [i'll find my way to you tomorrow](https://open.spotify.com/track/4zTg4g1gKpxWTShLFDEill) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq) | [i'll find my way to you tomorrow](https://open.spotify.com/album/4KIpuP4MsEiGLbyiGR9BNS) | 3:45 | 2021-12-06 | 2022-10-20 |
 | [i'll find my way to you tomorrow](https://open.spotify.com/track/6kRAuOoZBRLwZQYjFdGjIa) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq) | [i'll find my way to you tomorrow](https://open.spotify.com/album/2bzG2vEFeUShVRUrJUlO7D) | 3:45 | 2022-09-21 | 2022-10-21 |
 | [I'm On Holiday](https://open.spotify.com/track/7ywG4HmmsUCoM2g88z1D0f) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [I'm On Holiday](https://open.spotify.com/album/618dFbVK7B8HN1dLHuj8Nw) | 3:32 | 2022-01-05 | 2022-02-12 |
-| [Ik Tu Hi \(No\-Mabe\)](https://open.spotify.com/track/7JJ9Q8QKrfauJWlZiol1Uf) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Ik Tu Hi \(No\-Mabe\)](https://open.spotify.com/album/4Nsj6qnnZXRs8YajlO6PGi) | 3:16 | 2022-12-08 |  |
+| [Ik Tu Hi \(No\-Mabe\)](https://open.spotify.com/track/7JJ9Q8QKrfauJWlZiol1Uf) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Ik Tu Hi \(No\-Mabe\)](https://open.spotify.com/album/4Nsj6qnnZXRs8YajlO6PGi) | 3:16 | 2022-12-08 | 2023-09-23 |
 | [Intezaar](https://open.spotify.com/track/6AlW2ZNQlzIKReQ1CS8J9r) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Intezaar](https://open.spotify.com/album/6Z4DXqYqQJc6XLzvPaSynt) | 3:55 | 2022-04-06 | 2023-05-01 |
 | [Jaadoogari](https://open.spotify.com/track/0HDm8hVrpUDAXLmvortmoy) | [Anand Bhaskar Collective](https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c) | [Jaadoogari](https://open.spotify.com/album/7xH1diJuXLqpv10oc2skWV) | 4:20 | 2021-12-06 | 2023-02-03 |
 | [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 | 2023-02-24 | 2023-03-22 |
@@ -129,6 +129,7 @@
 | [Liggi](https://open.spotify.com/track/4vwPirpSJCOiIsgxMV4Xcv) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Liggi](https://open.spotify.com/album/1zITUizbdnwegHf2BM7faa) | 3:01 | 2021-12-06 | 2022-01-06 |
 | [Lt Dwn](https://open.spotify.com/track/4f1spv2bssB5VP9VGgzH1i) | [Moondrip](https://open.spotify.com/artist/4nDtB3eC5cOCiA27wYqDTh) | [Lt Dwn](https://open.spotify.com/album/5ldsw3j4SYLuTmtc4jLWGm) | 4:07 | 2021-12-06 | 2022-01-06 |
 | [Mai Ni Meriye](https://open.spotify.com/track/0zFcYzwaLbJAhg7bvSVavv) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Mai Ni Meriye](https://open.spotify.com/album/0ihCuXL4ZcE0FKqRwyithU) | 2:52 | 2022-01-05 |  |
+| [Mann](https://open.spotify.com/track/3euf8ftyX9tjpqXJgF5NlM) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Mann](https://open.spotify.com/album/5Qq2PhlbpXN3GYNJ6gstup) | 3:11 | 2023-09-22 |  |
 | [Manzil](https://open.spotify.com/track/5fPWflMcJ7zT8BSnHQD9Wh) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Manzil](https://open.spotify.com/album/690gJ0guvYLVbS9nkT5Mnp) | 3:11 | 2021-12-06 | 2022-10-21 |
 | [Matwari](https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5) | [Samahita Narang](https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4) | [Matwari](https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9) | 3:20 | 2021-12-06 | 2022-02-15 |
 | [Mazaak](https://open.spotify.com/track/6BvRzfqi3sMAoQYnRpMVL0) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Mazaak](https://open.spotify.com/album/4Z5Z0qWzKvTgv7XRnodjNU) | 3:32 | 2022-09-16 |  |

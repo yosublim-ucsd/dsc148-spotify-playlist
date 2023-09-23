@@ -2,9 +2,9 @@
 
 ### [Renegades](https://open.spotify.com/playlist/37i9dQZF1DWWHw0yK8z3Pm)
 
-> Fearless sounds at the crossroads of Country and Folk\. Cover: Zach Bryan
+> Fearless sounds at the crossroads of Country and Folk\. Cover: Tyler Childers
 
-368 songs - 22 hr 34 min
+369 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Broadview](https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Broadview](https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK) | 4:05 | 2023-08-25 |  |
 | [Broken Heart of Mine](https://open.spotify.com/track/51gGRkh26NzsARpwOIHQ2X) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Stand in the Joy](https://open.spotify.com/album/2r3IZ2sjXvKm14wZEUZC49) | 3:52 | 2023-04-14 | 2023-06-24 |
 | [Broken Record](https://open.spotify.com/track/7JLELSaYvnK7lm4NHuRVEO) | [Bob Sumner](https://open.spotify.com/artist/6vgVIpaKWcjKvu8nqe5iBg) | [Broken Record](https://open.spotify.com/album/7ykEG2RL9QFSLFWBl7TbnH) | 3:18 | 2022-05-13 | 2023-04-22 |
-| [Burn, Burn, Burn](https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Burn, Burn, Burn](https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR) | 4:28 | 2023-08-04 |  |
+| [Burn, Burn, Burn](https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Burn, Burn, Burn](https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR) | 4:28 | 2023-08-04 | 2023-09-23 |
 | [C'mon Baby, Cry](https://open.spotify.com/track/67swXHVknS142T5tIcNFkl) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:30 | 2023-04-21 |  |
 | [California](https://open.spotify.com/track/3Gug0Nn8OMxSKE3QhWsgB4) | [Bob Sumner](https://open.spotify.com/artist/6vgVIpaKWcjKvu8nqe5iBg) | [California](https://open.spotify.com/album/2hD5r1M47yZkRtBwlgzegB) | 4:08 | 2022-05-13 | 2023-02-04 |
 | [California Sober \(feat\. Willie Nelson\)](https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [California Sober \(feat\. Willie Nelson\)](https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP) | 3:50 | 2023-04-28 |  |
@@ -209,7 +209,7 @@
 | [Lost for a While](https://open.spotify.com/track/5lLq0yhstHqi4Tz68qguqS) | [Little Misty](https://open.spotify.com/artist/695A3b4A5eEZx3aKpGZYay) | [Nowhere Land](https://open.spotify.com/album/34F00rG3BIf0CfY867Tn6W) | 3:46 | 2023-04-14 | 2023-05-08 |
 | [Love Thy Neighbor](https://open.spotify.com/track/3ArBCwHbrBaW8hTWF4CWdG) | [Stefanie Joyce](https://open.spotify.com/artist/2RUc697ynBhe0NGow1eDda) | [Love Thy Neighbor](https://open.spotify.com/album/7aGhjHYKpPW7lciXUx5Hlz) | 3:06 | 2022-05-13 | 2022-06-25 |
 | [Love You Now](https://open.spotify.com/track/6Wh7Doli3WsaYihYXNVGiD) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Love You Now](https://open.spotify.com/album/0Z7KfTzLDJxxGRAQgjcjM6) | 2:49 | 2022-12-16 | 2023-02-25 |
-| [Maggie](https://open.spotify.com/track/6Zwrxz3uCj8Pbx9ohCRD7W) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Maggie](https://open.spotify.com/album/6qx5cnOifPpGkSu6jFLXZA) | 2:58 | 2023-01-20 | 2023-09-18 |
+| [Maggie](https://open.spotify.com/track/6Zwrxz3uCj8Pbx9ohCRD7W) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Maggie](https://open.spotify.com/album/6qx5cnOifPpGkSu6jFLXZA) | 2:58 | 2023-01-20 |  |
 | [Magic Hits](https://open.spotify.com/track/2RheiwXxiC3lbWhoMaTq5z) | [Adrian Sutherland](https://open.spotify.com/artist/6kLy0FIyVxqDVuvivOiuPZ) | [When the Magic Hits](https://open.spotify.com/album/5VcEQHvnipMBirRWhE2DqL) | 4:10 | 2022-05-13 | 2022-09-24 |
 | [Make This Better](https://open.spotify.com/track/5LLA7OrEC2ouVUt6419VeN) | [Lydia Hol](https://open.spotify.com/artist/7hFH2Id7zwVCr9MWYyK0Y9) | [Some Dreamers of the Golden Dream](https://open.spotify.com/album/3ZEkYEtst5mhOV5KeTTjeG) | 3:42 | 2022-05-13 | 2022-08-20 |
 | [Making Believe \(feat\. Rose Cousins\)](https://open.spotify.com/track/0m2QW5c8rATo81FjTYZkcu) | [David Myles](https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf), [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [It's Only a Little Loneliness](https://open.spotify.com/album/4ZRQS7I2IlLKLNyDV6ON7P) | 2:36 | 2022-09-23 | 2023-08-05 |
@@ -219,7 +219,7 @@
 | [Mean Old Sun](https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Mean Old Sun](https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk) | 4:08 | 2023-06-23 |  |
 | [Mercy](https://open.spotify.com/track/5zttKA9LRTyqDNquGGWVON) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Mercy](https://open.spotify.com/album/0of9LKtNAEVPdYX4jnxwJQ) | 3:23 | 2022-10-28 | 2023-08-26 |
 | [Miracle Mile](https://open.spotify.com/track/2uL6H4ShIUYyu7FL0fRvsg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:08 | 2022-05-13 | 2023-01-21 |
-| [Mmm\-Delicious](https://open.spotify.com/track/6KRS94tqlIMmULQdAEdqhl) | [Nora Kelly Band](https://open.spotify.com/artist/4xDHG9X8YzLa2CYMotaig3) | [Rodeo Clown](https://open.spotify.com/album/2bfDkhDate1v4XhetA9SuM) | 3:42 | 2023-08-25 |  |
+| [Mmm\-Delicious](https://open.spotify.com/track/6KRS94tqlIMmULQdAEdqhl) | [Nora Kelly Band](https://open.spotify.com/artist/4xDHG9X8YzLa2CYMotaig3) | [Rodeo Clown](https://open.spotify.com/album/2bfDkhDate1v4XhetA9SuM) | 3:42 | 2023-08-25 | 2023-09-23 |
 | [Montana Waltz](https://open.spotify.com/track/061lNZkKEjGQ8GKp8L3Rwf) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Montana Waltz](https://open.spotify.com/album/3o78Zmq1PKQbkYCwkVtNcq) | 3:49 | 2022-05-13 | 2022-07-29 |
 | [Montana Waltz](https://open.spotify.com/track/1XKzJ3kDUkFsSMI6wroeeT) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [That’s What Keeps the Rent Down, Baby](https://open.spotify.com/album/6ZHgmmd6CGjOsIQ7WUz181) | 3:49 | 2022-11-11 | 2022-11-13 |
 | [Montana Waltz](https://open.spotify.com/track/4HWvUzCTMhdyj1rFGphNEX) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Songs My Friends Wrote](https://open.spotify.com/album/0Mpxw3Ts3LaQdXp16Ya6MM) | 3:49 | 2022-07-22 | 2023-05-04 |
@@ -284,6 +284,7 @@
 | [Sad All The Time \- Bonus Track](https://open.spotify.com/track/05SLKEyD0ZnGLEsCMx4FAf) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Everywhere I Used to Be \(Deluxe\)](https://open.spotify.com/album/7r5UvKF4coPqePysjqIHx9) | 2:40 | 2023-07-07 | 2023-08-20 |
 | [Sam](https://open.spotify.com/track/1kKDVYavcoEH5N6R6ezM6T) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 1:12 | 2023-04-21 |  |
 | [Sandy \(Wrangler in the Badlands\)](https://open.spotify.com/track/2X2KFZio004eItvRC9ECOZ) | [Mentana](https://open.spotify.com/artist/7s1t2dwRy92CkE8IrCwC6u) | [Sandy \(Wrangler in the Badlands\)](https://open.spotify.com/album/6unm7HfVeFeblNky9xXvp7) | 4:34 | 2022-08-05 | 2023-04-22 |
+| [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi) | 3:34 | 2023-09-22 |  |
 | [Say What You Like](https://open.spotify.com/track/25i56zqjCrbeSWqV5z0Gki) | [Doug Paisley](https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9) | [Say What You Like](https://open.spotify.com/album/6ondmI9JnDrxgTA3lIxkgD) | 2:47 | 2022-11-18 | 2023-04-29 |
 | [Say What You Like](https://open.spotify.com/track/2AjJ8A4ZJ7m43i2EjQl9w3) | [Doug Paisley](https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9) | [Say What You Like](https://open.spotify.com/album/3xcDRGzx04UwxucGTAb8Jf) | 2:47 | 2023-04-28 |  |
 | [Seasons](https://open.spotify.com/track/6E04ZDC2zmiBNonSpjVCe8) | [Blackbird Valley](https://open.spotify.com/artist/44Q243Ct8zD0pJAT6v4jGV) | [Seasons](https://open.spotify.com/album/3Wuu6SCOFRfoo0NVf40lef) | 5:01 | 2022-07-22 | 2023-04-22 |

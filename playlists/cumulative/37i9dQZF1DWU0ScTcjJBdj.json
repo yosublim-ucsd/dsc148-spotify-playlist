@@ -3761,6 +3761,24 @@
     },
     {
       "album": {
+        "name": "Ultrapure",
+        "url": "https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177546,
+      "name": "Sink;Swim",
+      "url": "https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg"
+    },
+    {
+      "album": {
         "name": "Sinking Ship / Back & Forth",
         "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
       },

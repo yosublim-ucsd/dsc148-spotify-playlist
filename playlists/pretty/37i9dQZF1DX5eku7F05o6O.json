@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3628,
+  "num_followers": 3630,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2VmZDZhMzA0MDE4OTg1ZTUyZWMyZDQwMmEzNWI1MzgwZDE0MTQ2",
+  "snapshot_id": "MCwwYjkxM2FhM2UyOWQzY2ZjM2NmOGVjMTNlYjA2M2VhNTQwNTRkYWNj",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -355,22 +355,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le fil",
-        "url": "https://open.spotify.com/album/2Ee68ldGNltX6l3KpTgvIZ"
-      },
-      "artists": [
-        {
-          "name": "Camille",
-          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
-        }
-      ],
-      "duration_ms": 166720,
-      "name": "Pour que l'amour me quitte",
-      "url": "https://open.spotify.com/track/5ondyRZec0o7QozmadKxgq"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "There Will Be Stars",
         "url": "https://open.spotify.com/album/42SwJyBUTvsJgKqsaFPK3x"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 318880,
       "name": "Moi, Elsie",
       "url": "https://open.spotify.com/track/2Js9RVHgerELazvml9m8xR"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Le fil",
+        "url": "https://open.spotify.com/album/2Ee68ldGNltX6l3KpTgvIZ"
+      },
+      "artists": [
+        {
+          "name": "Camille",
+          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+        }
+      ],
+      "duration_ms": 166720,
+      "name": "Pour que l'amour me quitte",
+      "url": "https://open.spotify.com/track/5ondyRZec0o7QozmadKxgq"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -827,6 +827,26 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Silhouettes",
+        "url": "https://open.spotify.com/album/17JhlO2Y0kvAIJwML6jkzJ"
+      },
+      "artists": [
+        {
+          "name": "Simon P. Castonguay",
+          "url": "https://open.spotify.com/artist/0HKEAfhGGihNdbRX49bioD"
+        },
+        {
+          "name": "Tambour",
+          "url": "https://open.spotify.com/artist/4AiSaEOdhGLXyM1UGObDdi"
+        }
+      ],
+      "duration_ms": 456688,
+      "name": "Silhouettes",
+      "url": "https://open.spotify.com/track/6X9B7GfAc8Po0DyW3UA9m0"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "27 fois l'aurore",
         "url": "https://open.spotify.com/album/50NmsF9dRHdp2vXaVwTvfT"
       },
@@ -839,22 +859,6 @@
       "duration_ms": 191853,
       "name": "Vers le sud",
       "url": "https://open.spotify.com/track/7k5JH3TPQppL1zZt40kIbz"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Ce que je te donne ne dispara\u00eet pas",
-        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phanie Boulay",
-          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
-        }
-      ],
-      "duration_ms": 212488,
-      "name": "Je pourrai plus jamais",
-      "url": "https://open.spotify.com/track/6lxNePxaJrBt3KkPj0bv6X"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -879,22 +883,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Silhouettes",
-        "url": "https://open.spotify.com/album/17JhlO2Y0kvAIJwML6jkzJ"
+        "name": "Ce que je te donne ne dispara\u00eet pas",
+        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
       },
       "artists": [
         {
-          "name": "Simon P. Castonguay",
-          "url": "https://open.spotify.com/artist/0HKEAfhGGihNdbRX49bioD"
-        },
-        {
-          "name": "Tambour",
-          "url": "https://open.spotify.com/artist/4AiSaEOdhGLXyM1UGObDdi"
+          "name": "St\u00e9phanie Boulay",
+          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
         }
       ],
-      "duration_ms": 456688,
-      "name": "Silhouettes",
-      "url": "https://open.spotify.com/track/6X9B7GfAc8Po0DyW3UA9m0"
+      "duration_ms": 212488,
+      "name": "Je pourrai plus jamais",
+      "url": "https://open.spotify.com/track/6lxNePxaJrBt3KkPj0bv6X"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Lovers in No Mind's Land",
-        "url": "https://open.spotify.com/album/4IjYBvTsTKMeTRYHf1dZzh"
-      },
-      "artists": [
-        {
-          "name": "Slow Fade Sailors",
-          "url": "https://open.spotify.com/artist/14bUWQx1jCureD3Kud1ElD"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "One Final Drink, One Final Smoke",
-      "url": "https://open.spotify.com/track/40qVet6deMAcVqwUQy3jJC"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "La grande nuit vid\u00e9o",
         "url": "https://open.spotify.com/album/70ctMLPWLjNb5L96kyJCGv"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Les Ombres Longues",
-        "url": "https://open.spotify.com/album/1VWw0MtGZlUXZMcANHMzCX"
+        "name": "Lovers in No Mind's Land",
+        "url": "https://open.spotify.com/album/4IjYBvTsTKMeTRYHf1dZzh"
       },
       "artists": [
         {
-          "name": "Antoine Corriveau",
-          "url": "https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak"
+          "name": "Slow Fade Sailors",
+          "url": "https://open.spotify.com/artist/14bUWQx1jCureD3Kud1ElD"
         }
       ],
-      "duration_ms": 188520,
-      "name": "Le nouveau vocabulaire",
-      "url": "https://open.spotify.com/track/5dhWyASbSFyAarXtYfovgH"
+      "duration_ms": 287000,
+      "name": "One Final Drink, One Final Smoke",
+      "url": "https://open.spotify.com/track/40qVet6deMAcVqwUQy3jJC"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1007,6 +991,22 @@
       "duration_ms": 250240,
       "name": "And The Boys - French Version",
       "url": "https://open.spotify.com/track/4EYhacL135vKV7bujL7pRs"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Les Ombres Longues",
+        "url": "https://open.spotify.com/album/1VWw0MtGZlUXZMcANHMzCX"
+      },
+      "artists": [
+        {
+          "name": "Antoine Corriveau",
+          "url": "https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Le nouveau vocabulaire",
+      "url": "https://open.spotify.com/track/5dhWyASbSFyAarXtYfovgH"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Dis-moi",
-        "url": "https://open.spotify.com/album/2lCu0zzJtPiDSjQWMK3uBt"
-      },
-      "artists": [
-        {
-          "name": "Eli Rose",
-          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
-        }
-      ],
-      "duration_ms": 306813,
-      "name": "Dis-moi",
-      "url": "https://open.spotify.com/track/5nyQsFzJv3R7EcuWjwuDCi"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Apprentie guerri\u00e8re",
         "url": "https://open.spotify.com/album/1BiCOs55mWk2IA9PyeONfq"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 168173,
       "name": "Shit",
       "url": "https://open.spotify.com/track/7KtGK4TQN4EeOm7nPxSOKq"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Dis-moi",
+        "url": "https://open.spotify.com/album/2lCu0zzJtPiDSjQWMK3uBt"
+      },
+      "artists": [
+        {
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
+        }
+      ],
+      "duration_ms": 306813,
+      "name": "Dis-moi",
+      "url": "https://open.spotify.com/track/5nyQsFzJv3R7EcuWjwuDCi"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Le courant",
+        "url": "https://open.spotify.com/album/18fIvNQnnJHX3eYrx38lwr"
+      },
+      "artists": [
+        {
+          "name": "Claudelle",
+          "url": "https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "Le courant",
+      "url": "https://open.spotify.com/track/2tWRlqt2xme7IoJaaKjTvW"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Alexe",
         "url": "https://open.spotify.com/album/1tNKK4zgO1SlsWRsFppBpL"
       },
@@ -1491,6 +1507,22 @@
       "duration_ms": 273473,
       "name": "L'hiver",
       "url": "https://open.spotify.com/track/4wK5JsT3ptA1cSX0Fvm5bh"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Voix de No\u00ebl",
+        "url": "https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc"
+      },
+      "artists": [
+        {
+          "name": "May Wells",
+          "url": "https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM"
+        }
+      ],
+      "duration_ms": 211915,
+      "name": "Je ne t'oublie pas - Bonus",
+      "url": "https://open.spotify.com/track/0pBBihR3AHR6AFNkroS1pJ"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1511,22 +1543,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le courant",
-        "url": "https://open.spotify.com/album/18fIvNQnnJHX3eYrx38lwr"
-      },
-      "artists": [
-        {
-          "name": "Claudelle",
-          "url": "https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Le courant",
-      "url": "https://open.spotify.com/track/2tWRlqt2xme7IoJaaKjTvW"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Politesses",
         "url": "https://open.spotify.com/album/3iCs4w50p4r4PY9ZKF9800"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 278653,
       "name": "Pour ce que valent tes larmes",
       "url": "https://open.spotify.com/track/3MWmd6jWckpNjW5PjJxHxA"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Voix de No\u00ebl",
-        "url": "https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc"
-      },
-      "artists": [
-        {
-          "name": "May Wells",
-          "url": "https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM"
-        }
-      ],
-      "duration_ms": 211915,
-      "name": "Je ne t'oublie pas - Bonus",
-      "url": "https://open.spotify.com/track/0pBBihR3AHR6AFNkroS1pJ"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "\u00c0 pr\u00e9sent le pass\u00e9",
-        "url": "https://open.spotify.com/album/0bOhCZxJxzmagub38daJi4"
-      },
-      "artists": [
-        {
-          "name": "Laurence H\u00e9lie",
-          "url": "https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE"
-        }
-      ],
-      "duration_ms": 269773,
-      "name": "Trente ans",
-      "url": "https://open.spotify.com/track/6r3cIFIGFvyPSfUr5Zo3TH"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Kirchner",
         "url": "https://open.spotify.com/album/6XwqIP029mhVPAiNKTdX5p"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 180215,
       "name": "Kirchner",
       "url": "https://open.spotify.com/track/21amYb20XPokNPMsyQHHZq"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "\u00c0 pr\u00e9sent le pass\u00e9",
+        "url": "https://open.spotify.com/album/0bOhCZxJxzmagub38daJi4"
+      },
+      "artists": [
+        {
+          "name": "Laurence H\u00e9lie",
+          "url": "https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE"
+        }
+      ],
+      "duration_ms": 269773,
+      "name": "Trente ans",
+      "url": "https://open.spotify.com/track/6r3cIFIGFvyPSfUr5Zo3TH"
     },
     {
       "added_at": "2021-02-06 03:12:40",

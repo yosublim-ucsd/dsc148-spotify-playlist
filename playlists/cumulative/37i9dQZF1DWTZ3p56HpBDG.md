@@ -2,9 +2,9 @@
 
 ### [No Borders](https://open.spotify.com/playlist/37i9dQZF1DWTZ3p56HpBDG)
 
-> Best of South Asian diaspora\. Cover: Joy Crookes
+> Best of South Asian diaspora\. Cover: Danny Zee, Ali Zafar
 
-175 songs - 9 hr 16 min
+177 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Alright With Me](https://open.spotify.com/track/5HbtMh180suZ6aN63T1X7I) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [Ricky James](https://open.spotify.com/artist/2mddthoxlzJ8mx06iAENrC) | [SAGA\-II](https://open.spotify.com/album/00TxHLGq0npacleeiFcS0y) | 3:16 | 2021-11-10 | 2022-01-21 |
 | [Bad Girls Dream](https://open.spotify.com/track/1121Ycebu41AqMwVtiCufT) | [Zoya](https://open.spotify.com/artist/1pgxAcdxuIlb6Ax2xioK30), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Bad Girls Dream](https://open.spotify.com/album/3ikuwtXoKOh8Izx0bhXuan) | 3:20 | 2021-11-10 | 2022-07-19 |
 | [Bad Habits](https://open.spotify.com/track/4paOi2D1A1pS5bPugSfUg7) | [Madame Gandhi](https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf) | [Bad Habits](https://open.spotify.com/album/4qKIwcoyB91GMyy9431kaf) | 3:47 | 2021-11-10 | 2022-06-21 |
+| [Beautiful](https://open.spotify.com/track/6bkSlqDEou4Juvkz4vivQ6) | [Muza](https://open.spotify.com/artist/79jA5f2Sa3pgRT0ZTtYplo), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [Beautiful](https://open.spotify.com/album/2QSnKAK5bBtLHtOqtmJbwC) | 4:01 | 2023-09-22 |  |
 | [Beauty in All](https://open.spotify.com/track/2PDo3vOikLKooy5pMhlYuW) | [Humeysha](https://open.spotify.com/artist/1VoKwUAdCduhJQqJMIUHtW) | [Beauty in All](https://open.spotify.com/album/42mjYCx6QUmcuo9yTWOsva) | 4:08 | 2021-11-10 | 2022-05-27 |
 | [Beep](https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Beep](https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ) | 2:00 | 2022-10-06 |  |
 | [Beg for You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:48 | 2022-10-06 |  |
@@ -154,6 +155,7 @@
 | [Sun's Up](https://open.spotify.com/track/1ZSqUzSj2MrOad4CIwXKwS) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Sun's Up](https://open.spotify.com/album/5QjtwqRLJ069au7Ufp5j7a) | 3:19 | 2021-11-10 | 2022-05-27 |
 | [Sunscreen \(Reimagined\)](https://open.spotify.com/track/077Gpgk7kdhnj8lJMIq5xw) | [Eve Alai](https://open.spotify.com/artist/6GKrJIdAimAgCZY3aTO0tZ), [Unscripted](https://open.spotify.com/artist/394ZYWLN1rShOjIfkz0Nfq) | [Sunscreen \(Reimagined\)](https://open.spotify.com/album/1LhyWINLfKp4jHiKUoYlTe) | 2:36 | 2021-11-10 | 2022-07-19 |
 | [Survive](https://open.spotify.com/track/4GandosKQX53ZXZ2UFsxiV) | [NOIXES](https://open.spotify.com/artist/4YeITwoqeIks45gELm488B), [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Survive](https://open.spotify.com/album/35iodS5CCRhzSJKAqtEFa4) | 2:37 | 2022-05-26 | 2022-07-19 |
+| [Sushi // Woofer Paar De! \(feat\. Mykko Montana\)](https://open.spotify.com/track/2K82VcYXD0fzFfLhYadvCC) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ), [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP), [Mykko Montana](https://open.spotify.com/artist/0xOtJ5JY4Urje1oVlMd3aS) | [Sushi // Woofer Paar De! \(feat\. Mykko Montana\)](https://open.spotify.com/album/63aWGpSQIQrf4tV7yfQwHD) | 2:07 | 2023-09-22 |  |
 | [SYL](https://open.spotify.com/track/0JBnAsReYppHqCZJbqy5H8) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [SYL](https://open.spotify.com/album/2NVYsJrBDBSZ2G2z63Bbgu) | 4:09 | 2022-07-18 | 2022-10-07 |
 | [Temptation](https://open.spotify.com/track/0ulct3cASnhGvaGhFIuIyZ) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Temptation](https://open.spotify.com/album/4EWVYi8lXPirUUeVdHQCy9) | 4:08 | 2022-10-06 |  |
 | [Tension](https://open.spotify.com/track/2JUyPdhD8Mae0QHI6f2w6Z) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Sama Blake](https://open.spotify.com/artist/19jOqaZTvseWAgi4PaQJrd) | [I Am Zack Knight](https://open.spotify.com/album/5lySBRzqQIXmTZlz7jlJlC) | 2:48 | 2022-10-06 |  |

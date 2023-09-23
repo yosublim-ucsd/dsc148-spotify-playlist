@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10012,
+  "num_followers": 10016,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmJmNzRlZmE0Njk0NzQzYmY0YTQ4Yzk5OTA4YmM1MzQ2Y2IwZjkx",
+  "snapshot_id": "MCw3MTEzYjIwZGI5MmUxMTgwOWRmOWIyYzM1YzM0ZTA0YmI5OGI4NDEw",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Demon Girl",
+        "url": "https://open.spotify.com/album/6hpa86C5a60B5CDjAAXixD"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lee Sparta",
+          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
+        }
+      ],
+      "duration_ms": 202422,
+      "name": "Demon Girl",
+      "url": "https://open.spotify.com/track/6msQvyBUYXUGCTANfYFjer"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Pop's Guitar Riddim",
         "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
       },
@@ -511,18 +527,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Demon Girl",
-        "url": "https://open.spotify.com/album/6hpa86C5a60B5CDjAAXixD"
+        "name": "Progress Riddim",
+        "url": "https://open.spotify.com/album/085tctZjqajfyGHgkO3Y07"
       },
       "artists": [
         {
-          "name": "Tommy Lee Sparta",
-          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
         }
       ],
-      "duration_ms": 202422,
-      "name": "Demon Girl",
-      "url": "https://open.spotify.com/track/6msQvyBUYXUGCTANfYFjer"
+      "duration_ms": 210806,
+      "name": "Up Top Boss",
+      "url": "https://open.spotify.com/track/1BgnrgG2lxAdkgwei4KiF7"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -543,22 +559,6 @@
       "duration_ms": 193893,
       "name": "Stage Gone Bad",
       "url": "https://open.spotify.com/track/0W8TTEoiyHqvp0ENoTjfRy"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Progress Riddim",
-        "url": "https://open.spotify.com/album/085tctZjqajfyGHgkO3Y07"
-      },
-      "artists": [
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
-        }
-      ],
-      "duration_ms": 210806,
-      "name": "Up Top Boss",
-      "url": "https://open.spotify.com/track/1BgnrgG2lxAdkgwei4KiF7"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -839,38 +839,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Mandrakes Riddim",
-        "url": "https://open.spotify.com/album/4DPTFGdYrshK8qfDdmPrY7"
-      },
-      "artists": [
-        {
-          "name": "Mandella Linkz",
-          "url": "https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm"
-        }
-      ],
-      "duration_ms": 230769,
-      "name": "Tombstone",
-      "url": "https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Baila Riddim",
-        "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
-      },
-      "artists": [
-        {
-          "name": "Motto",
-          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
-        }
-      ],
-      "duration_ms": 137195,
-      "name": "Shots (One for Di Road)",
-      "url": "https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Ba Ba Ben (Remix)",
         "url": "https://open.spotify.com/album/5BXDWRiFkMijKVlK7yV3ug"
       },
@@ -895,6 +863,38 @@
       "duration_ms": 205139,
       "name": "Ba Ba Ben - Remix",
       "url": "https://open.spotify.com/track/71XZiTsbFbZoYFwIVBYSQR"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Baila Riddim",
+        "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
+      },
+      "artists": [
+        {
+          "name": "Motto",
+          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
+        }
+      ],
+      "duration_ms": 137195,
+      "name": "Shots (One for Di Road)",
+      "url": "https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Mandrakes Riddim",
+        "url": "https://open.spotify.com/album/4DPTFGdYrshK8qfDdmPrY7"
+      },
+      "artists": [
+        {
+          "name": "Mandella Linkz",
+          "url": "https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm"
+        }
+      ],
+      "duration_ms": 230769,
+      "name": "Tombstone",
+      "url": "https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Smoke Mask Riddim",
-        "url": "https://open.spotify.com/album/3NLzUwBAZqGkgzf0qnlic1"
-      },
-      "artists": [
-        {
-          "name": "Lednek",
-          "url": "https://open.spotify.com/artist/4Ft1CU17NiK3HFEDMGxLCK"
-        }
-      ],
-      "duration_ms": 202023,
-      "name": "Down in de Meat",
-      "url": "https://open.spotify.com/track/32j9nOIzJrWPtgtzqrzVNp"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Stink Behavior",
         "url": "https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8"
       },
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Smoke Mask Riddim",
+        "url": "https://open.spotify.com/album/3NLzUwBAZqGkgzf0qnlic1"
+      },
+      "artists": [
+        {
+          "name": "Lednek",
+          "url": "https://open.spotify.com/artist/4Ft1CU17NiK3HFEDMGxLCK"
+        }
+      ],
+      "duration_ms": 202023,
+      "name": "Down in de Meat",
+      "url": "https://open.spotify.com/track/32j9nOIzJrWPtgtzqrzVNp"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Honda",
         "url": "https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1"
       },
@@ -1195,26 +1195,6 @@
       "duration_ms": 213864,
       "name": "Honda",
       "url": "https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Sick Jab Riddim (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj"
-      },
-      "artists": [
-        {
-          "name": "Kisha",
-          "url": "https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc"
-        },
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ"
-        }
-      ],
-      "duration_ms": 135941,
-      "name": "The People Man (T.P.M.)",
-      "url": "https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1235,6 +1215,26 @@
       "duration_ms": 203600,
       "name": "Rough Wine",
       "url": "https://open.spotify.com/track/2bdltgpX7AB5E6oISNcGKt"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Sick Jab Riddim (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj"
+      },
+      "artists": [
+        {
+          "name": "Kisha",
+          "url": "https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ"
+        }
+      ],
+      "duration_ms": 135941,
+      "name": "The People Man (T.P.M.)",
+      "url": "https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T"
     },
     {
       "added_at": "2022-02-24 18:00:00",

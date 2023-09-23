@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it. Cover: Nightly",
-  "num_followers": 122762,
+  "num_followers": 122854,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDdhOWRmYzUxNTYwMzIwODZlYTdlYjAzNDM2NjdhYmRiODJhMTgw",
+  "snapshot_id": "MCxjOGNiNTZhYjZjODNhM2M4MjA5MGI1YzkwOTY0N2UyYjliOTYxYzAz",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -191,18 +191,30 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
       },
       "artists": [
         {
           "name": "Imagine Dragons",
           "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         }
       ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -323,30 +335,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
       },
       "artists": [
         {
           "name": "Imagine Dragons",
           "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         }
       ],
-      "duration_ms": 173381,
-      "name": "Enemy (with JID) - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Symphony (Inner City Youth Orchestra of Los Angeles Version)",
-        "url": "https://open.spotify.com/album/2fGxoIq6W6i4p9cavzwWP4"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 188688,
-      "name": "Symphony - Inner City Youth Orchestra of Los Angeles Version",
-      "url": "https://open.spotify.com/track/6qJqN1SbjwxAEoDkjfnAwr"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Punching Bag",
         "url": "https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 179482,
       "name": "Punching Bag",
       "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Symphony (Inner City Youth Orchestra of Los Angeles Version)",
+        "url": "https://open.spotify.com/album/2fGxoIq6W6i4p9cavzwWP4"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 188688,
+      "name": "Symphony - Inner City Youth Orchestra of Los Angeles Version",
+      "url": "https://open.spotify.com/track/6qJqN1SbjwxAEoDkjfnAwr"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Be Your Man",
-        "url": "https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        }
-      ],
-      "duration_ms": 212414,
-      "name": "Be Your Man",
-      "url": "https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Still Alive (From the Original Motion Picture Scream VI)",
         "url": "https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 185310,
       "name": "Still Alive - From the Original Motion Picture Scream VI",
       "url": "https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Be Your Man",
+        "url": "https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 212414,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "FUNERAL",
-        "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 181923,
-      "name": "FUNERAL",
-      "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 196000,
       "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "FUNERAL",
+        "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "duration_ms": 181923,
+      "name": "FUNERAL",
+      "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "BANG BANG!",
-        "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
       },
       "artists": [
         {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 136387,
-      "name": "BANG BANG!",
-      "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
+      "duration_ms": 134582,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
+        "name": "BANG BANG!",
+        "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
       },
       "artists": [
         {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
         }
       ],
-      "duration_ms": 134582,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
+      "duration_ms": 136387,
+      "name": "BANG BANG!",
+      "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Tissues",
-        "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 215163,
-      "name": "Tissues",
-      "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "FREAK (Feat. jxdn)",
         "url": "https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5"
       },
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Tissues",
+        "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 215163,
+      "name": "Tissues",
+      "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Love Of Mine (Night Visions Demo)",
         "url": "https://open.spotify.com/album/3BAUn8SPQORLl49pDhR30l"
       },
@@ -1619,6 +1619,22 @@
       "duration_ms": 249995,
       "name": "Love Of Mine - Night Visions Demo",
       "url": "https://open.spotify.com/track/4C20SN2nzLbsZbS6A4idoA"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Friends With Benefits",
+        "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 187322,
+      "name": "Friends With Benefits",
+      "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1655,22 +1671,6 @@
       "duration_ms": 395785,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/43YC4iYmSsYueViJR4dBGA"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Friends With Benefits",
-        "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 187322,
-      "name": "Friends With Benefits",
-      "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
     },
     {
       "added_at": "2023-09-08 04:00:00",

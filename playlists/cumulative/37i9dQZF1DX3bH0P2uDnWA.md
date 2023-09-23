@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-317 songs - 18 hr 15 min
+319 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,12 +71,14 @@
 | [Doo uap, doo uap, doo uap \- Radio edit](https://open.spotify.com/track/68j2rXimsXQYezvQn2Ot4c) | [Gabin](https://open.spotify.com/artist/1SYoQVIV4djFVGt0En7qsQ) | [Hôtel Costes 5](https://open.spotify.com/album/4yuBlJyKxO1AcBFQ9umCIS) | 3:35 | 2020-10-30 |  |
 | [Dracula \- Spooky Swing Mix](https://open.spotify.com/track/6H45oJazSsraQkbenDSqp8) | [Mr\. Jazzek](https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh) | [Roaring Halloween \(Electro Swing 1\)](https://open.spotify.com/album/3YMODnnzf1E98gGRxuB7tn) | 2:43 | 2022-10-12 | 2022-11-08 |
 | [Dracula Swing \- Swahn Remix](https://open.spotify.com/track/37i6PdvL2KGTgKojmNAFWM) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc), [Swahn](https://open.spotify.com/artist/2pkSQjanu8QgmGBLFvqEri) | [Electro Speakeasy Club, Vol\. 1 \(Mixed by Dr Cat\)](https://open.spotify.com/album/3g3iI6wvPoaG0xZQNI4fs2) | 7:19 | 2022-10-12 | 2022-11-08 |
+| [Educated Feet](https://open.spotify.com/track/4sAM69vbKRnbhDs0ESUUK6) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Educated Feet](https://open.spotify.com/album/0qSnEoMKAH6VAmlf93wJER) | 2:59 | 2023-09-22 |  |
 | [Empires](https://open.spotify.com/track/1WdbMVvjfOV8M0tkRVilKh) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY) | [It Flew By](https://open.spotify.com/album/3PwKRBTI8qZfij6rcT7bP2) | 3:10 | 2020-10-30 |  |
 | [Empires](https://open.spotify.com/track/7BilkHwC8zy0Mv67wsGiUM) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY) | [It Flew By](https://open.spotify.com/album/5XFucNk2gXgSbcQbuzgOW5) | 3:10 | 2020-10-30 | 2022-07-29 |
 | [End of the World Party](https://open.spotify.com/track/3fHEXWt9o5xQSTINggTtrm) | [Nestor Kéa](https://open.spotify.com/artist/7oWKh4R1VZ1jXgka3iXgpo) | [Les Oiseaux Scratchent Pour Mourir](https://open.spotify.com/album/7mvRmeLqeW3w8moijO2bQ8) | 2:47 | 2022-11-07 | 2023-03-18 |
 | [Evil](https://open.spotify.com/track/29DlkdM6lBrxTl1NkbTphy) | [The Vaude Villainz](https://open.spotify.com/artist/6oep99RRsuJSNN1Hw5g3sR) | [Voodoo Swing](https://open.spotify.com/album/3KX6WYtBTm0826dMFTplPE) | 3:40 | 2022-10-12 | 2022-11-08 |
 | [Extra Fries](https://open.spotify.com/track/556y7EL1trkqGtevzn8684) | [The Fly Guy Five](https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8) | [Merry\-Go\-Round\-And\-Round](https://open.spotify.com/album/3yXw16nAl3qa0f4egmHdXd) | 2:00 | 2022-09-02 |  |
 | [Fallen World](https://open.spotify.com/track/43JHup1dQxUg6csXXFXXqH) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a), [Kumiho](https://open.spotify.com/artist/4t0HSuBBnJfGBkQe4cAaCm) | [Fallen World](https://open.spotify.com/album/16zC5JX98ONcA99BQYDNgG) | 3:48 | 2020-10-30 |  |
+| [Feel so Happy \- Bbop Future Swing Remix](https://open.spotify.com/track/7adN8Av6zDGZN3CXmzuSYQ) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF), [Bbop](https://open.spotify.com/artist/2lCZNuPKVZbPkvAxpGnsII) | [Feel so Happy \(Bbop Future Swing Remix\)](https://open.spotify.com/album/29QeRv4KV3EJsIEaed2nx2) | 2:41 | 2023-09-22 |  |
 | [Feels a Little Strange](https://open.spotify.com/track/4pxZcUXm76mDNZhhjxcNau) | [Madam Misfit](https://open.spotify.com/artist/42rQYQExEIwKEsPwkREvIM) | [Roaring Halloween \(Electro Swing 1\)](https://open.spotify.com/album/3YMODnnzf1E98gGRxuB7tn) | 2:58 | 2022-10-12 | 2022-11-08 |
 | [Fever](https://open.spotify.com/track/0NypPbYGParnlEFdriJzHq) | [Dutty Moonshine Big Band](https://open.spotify.com/artist/2aRD3jAqJXXE6luSkvLp3W), [Crash Party](https://open.spotify.com/artist/7l8PUcu0rjjEFSDppWolQz) | [Fever](https://open.spotify.com/album/4xoZXHKNhxrlM68yWELAU0) | 3:03 | 2020-10-30 | 2022-05-14 |
 | [Fever \- Radio edit](https://open.spotify.com/track/2wAfJqzEXakJyDJeR8hYnW) | [Varrick Frost](https://open.spotify.com/artist/294JUMftLLs3Ezkc77s9WV), [Lawrence Lea](https://open.spotify.com/artist/7HY2ElxV3XKvuodmsERq8S) | [Fever \(Electro Swing\)](https://open.spotify.com/album/3Fx01GHJyoQt1cC6Yu1qL0) | 3:09 | 2020-10-30 | 2022-07-14 |

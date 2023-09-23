@@ -1836,10 +1836,36 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 253021,
       "name": "Naukar Shah Da",
       "url": "https://open.spotify.com/track/0QPOtQjf1Nl1wVNcPV6e4s"
+    },
+    {
+      "album": {
+        "name": "Kashmir Beats - Season 2",
+        "url": "https://open.spotify.com/album/0R83g1T6jwC4AoK0E7ZKVi"
+      },
+      "artists": [
+        {
+          "name": "Kashmir Beats",
+          "url": "https://open.spotify.com/artist/4J7oYZcQA6hAVCRVTh9GmY"
+        },
+        {
+          "name": "Farhan Saeed",
+          "url": "https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq"
+        },
+        {
+          "name": "Shuja Haider",
+          "url": "https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253021,
+      "name": "Naukar Shah Da",
+      "url": "https://open.spotify.com/track/4GypRqhNPkKNMn7DtE2suY"
     },
     {
       "album": {

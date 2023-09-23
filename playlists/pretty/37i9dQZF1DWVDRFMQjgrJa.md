@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDRFMQjgrJa.md) - [plain]
 
 > Ya llegué de donde andaba..\. se me concedió volver 🙏🏾
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,807 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,990 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDRFMQjgrJa.md) - [plain]
 | 52 | [Te Quiero Mucho](https://open.spotify.com/track/6PyD9wjBeQB2pFZJl14KsM) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2OU5N16ujMgsEehujn2eUe) | 3:23 |
 | 53 | [Los Tres Gallos](https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 2:48 |
 | 54 | [El Muchacho Alegre](https://open.spotify.com/track/46JH1FKDzRABty9nX8sIee) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [Corridos Con Banda Sinaloense](https://open.spotify.com/album/0bPR3bUpsocBTRUq8nLIAd) | 2:55 |
-| 55 | [Hasta la Miel Amarga](https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:36 |
-| 56 | [Treinta Cartas](https://open.spotify.com/track/7pAUPye8Lip2VnKmnzRiHD) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 2:28 |
+| 55 | [Treinta Cartas](https://open.spotify.com/track/7pAUPye8Lip2VnKmnzRiHD) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 2:28 |
+| 56 | [Hasta la Miel Amarga](https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:36 |
 | 57 | [El Caminante](https://open.spotify.com/track/4Mfepu07REoaF3fxJBtpzi) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [Nuestra Historia](https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd) | 4:01 |
 | 58 | [El Ausente](https://open.spotify.com/track/7vRdymNF6rv9oIIZJcgrAL) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Mayor Anhelo](https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp) | 2:42 |
 | 59 | [El Perro De Tu Marido](https://open.spotify.com/track/4xv7mwcq6os6dO5l3TtRqS) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Norteño 2000](https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv) | 2:27 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDRFMQjgrJa.md) - [plain]
 | 82 | [De Un Rancho a Otro](https://open.spotify.com/track/5lwBQu9iHUKVQ78hFFb9ZY) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Con La No\. 1: Del Pueblo...y Para El Pueblo](https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw) | 2:21 |
 | 83 | [La Lámpara](https://open.spotify.com/track/4N9cZZk8n3mUp2o5HnDagr) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Valió La Pena Equivocarme](https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm) | 2:25 |
 | 84 | [La Novia del Pajarillo](https://open.spotify.com/track/3a3zWf3i4MKwY1tRjALqXm) | [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr) | [Los Grandes del Corrido Con Tololoche](https://open.spotify.com/album/4DlFyxOzLTXwmp6tXziy1p) | 3:15 |
-| 85 | [Llegando Al Rancho](https://open.spotify.com/track/4eSuZPXeHth5Xlf4h4svfK) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Llegando Al Rancho](https://open.spotify.com/album/6vJ9ymVhHcvI1NgFuFA0rN) | 2:59 |
-| 86 | [El Amor No Se Vende](https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Por Las Calles Enlodadas](https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD) | 2:28 |
+| 85 | [El Amor No Se Vende](https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Por Las Calles Enlodadas](https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD) | 2:28 |
+| 86 | [Llegando Al Rancho](https://open.spotify.com/track/4eSuZPXeHth5Xlf4h4svfK) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Llegando Al Rancho](https://open.spotify.com/album/6vJ9ymVhHcvI1NgFuFA0rN) | 2:59 |
 | 87 | [La Piedra](https://open.spotify.com/track/1mF7pt9aRsbzn7SsHCO3EG) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 2:36 |
 | 88 | [Está Llorando Mi Corazón \- Versión Banda](https://open.spotify.com/track/3qWufYVvbsvM1IM1bdvWV2) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [La Historia De Los Éxitos \(20 Súper Temas\)](https://open.spotify.com/album/01SHiQD1sR754F0RihRJjI) | 2:56 |
 | 89 | [La Guarecita](https://open.spotify.com/track/1iZkruStn62olwQqsGjBMh) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Acuérdate de Mi](https://open.spotify.com/album/0PcL1sQMunNBJB1hCbj1zY) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDRFMQjgrJa.md) - [plain]
 | 99 | [Manuel Juárez](https://open.spotify.com/track/6CTMCrHbZcm4bhh5r5Avfj) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Corridos Con Banda](https://open.spotify.com/album/6KZbeAoMkCqOXr2ccNTXzP) | 4:38 |
 | 100 | [El Ultimo Cartucho](https://open.spotify.com/track/3YEz7DrxZbXnEfxIJ0tjE1) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Secretos De Mi Memoria](https://open.spotify.com/album/7uiQrtdG9S5vltQrvdK6Ik) | 2:47 |
 
-Snapshot ID: `MCwyODYyYjJiZjY3ZWZkY2MwYjg3ZWU4NmNmZWNiNzA0YmI3MDE2ODll`
+Snapshot ID: `MCw4MmM4MGIyZGI1MzI5MTNiMzRiOTA4Yzg1YzNlMGYzODMwMzY1ZDI2`

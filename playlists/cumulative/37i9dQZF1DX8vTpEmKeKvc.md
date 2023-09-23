@@ -4,7 +4,7 @@
 
 > Dale duro con los éxitos perreadores virales del momento.
 
-134 songs - 7 hr 18 min
+135 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Caramelo \- Remix](https://open.spotify.com/track/2uu2aGqA2UblCg581Q7l1g) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Caramelo \(Remix\)](https://open.spotify.com/album/7wwKVRpLdSYASP6dMDrLXQ) | 3:53 | 2022-01-04 |  |
 | [Chivirika](https://open.spotify.com/track/0cGy3K7zTivPgk3iUC91nz) | [El Villanord](https://open.spotify.com/artist/3CLzGEm4DCOh5ouaMm6mZs), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Chivirika](https://open.spotify.com/album/2i858xsBfzp0M9AFJUhXts) | 3:32 | 2022-01-04 |  |
 | [Chulo pt.2](https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Chulo pt.2](https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j) | 3:39 | 2023-07-28 |  |
+| [Chupón](https://open.spotify.com/track/3lev2QW3nUHNuxrVstVEGj) | [El Gudi](https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Jey F](https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm), [Oviña](https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam) | [Chupón](https://open.spotify.com/album/0TVjnQlL30VMz4Kqu0qoVQ) | 3:21 | 2023-09-23 |  |
 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 | 2023-03-28 |  |
 | [Comerte Toda](https://open.spotify.com/track/6yrHcAjJj6Dz58dRBsOLWT) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [No Está en la Flecha Sino en el Indio](https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA) | 3:19 | 2022-01-04 | 2022-01-13 |
 | [Coño](https://open.spotify.com/track/5DV4ZSCqbFv74ui3ZhimXo) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp), [Jhorrmountain](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) | [Coño](https://open.spotify.com/album/1h3x5tLWXhf438Y5AK60Ml) | 1:51 | 2022-01-04 |  |

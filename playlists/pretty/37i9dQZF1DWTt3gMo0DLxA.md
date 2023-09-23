@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover \- OG
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,434 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,591 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 23 | [Jinthaak Chithaka](https://open.spotify.com/track/5lros38FrhzSXgABKnBsb4) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Jinthaak Chithaka \(From "Dhamaka"\)](https://open.spotify.com/album/3SvbrLQNDgpWGWg1ldb3pJ) | 3:45 |
 | 24 | [Darshana](https://open.spotify.com/track/3eIkuy5Fr7kuQXiro0czUM) | [Chaitan Bharadwaj](https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Vinaro Bhagyamu Vishnu Katha](https://open.spotify.com/album/5IYnCIHoayjRyzW6OiumQb) | 3:38 |
 | 25 | [Premisthunna \(From "Baby"\)](https://open.spotify.com/track/3jptjyKBwLy9KO8P27wvAy) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ) | [Premisthunna \(From "Baby"\)](https://open.spotify.com/album/1S8PLCG9rjziwyPkrmoGO7) | 6:35 |
-| 26 | [Appudo Ippudo](https://open.spotify.com/track/4KDq9bn0wdEbIFQDi1CGgj) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P) | [Bommarillu](https://open.spotify.com/album/2394D0vwxXW80JtLlYSuWj) | 4:03 |
+| 26 | [Apudo Ipudo](https://open.spotify.com/track/4KDq9bn0wdEbIFQDi1CGgj) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P) | [Bommarillu](https://open.spotify.com/album/2394D0vwxXW80JtLlYSuWj) | 4:03 |
 | 27 | [Pillaa Raa](https://open.spotify.com/track/6vhvtHO8e57meVNp8yKzdV) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Rx 100 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0CxIPK16Hx5WWvWJMhXl) | 3:55 |
 | 28 | [Thattukolede](https://open.spotify.com/track/5idQ5WN2CK5FeUhRQ4ZvKY) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sindhuja Srinivasan](https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm) | [Thattukolede](https://open.spotify.com/album/2Ch8BRdcnGnATmjIPcxSQc) | 4:44 |
 | 29 | [Neeti Mullai \(Bit\)](https://open.spotify.com/track/29ffQxBUZLJdN3kiPndB9n) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Sumangaly](https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX) | [Varsham](https://open.spotify.com/album/7h1jWklU81GDvg0N02TiH7) | 1:21 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 41 | [Ayyayyo \(From "Mem Famous"\)](https://open.spotify.com/track/3dtfHypbH2717f8HlvY8DY) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Kalyan Nayak](https://open.spotify.com/artist/7tENuzTbvAI7BhqFbZI7Ul) | [Ayyayyo \(From "Mem Famous"\)](https://open.spotify.com/album/4HUS7r8KwX10VFNc9EIv3H) | 3:42 |
 | 42 | [Chudandi Saaru](https://open.spotify.com/track/6Lr8AoM0PqR9J509VBdNJP) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [Raghuvaran B Tech](https://open.spotify.com/album/0Ur9Psc6xA6iQgUiHRikqw) | 1:59 |
 | 43 | [Ticket Eh Konakunda](https://open.spotify.com/track/3NdQpAhK5s42vu3do3KSBT) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Tillu Square](https://open.spotify.com/album/5oNL1ay25NKeMieYCFwhci) | 3:09 |
-| 44 | [Niluvaddham](https://open.spotify.com/track/1ifMH14KizpUxIdRVyPsSZ) | [Karthik, Sumangali](https://open.spotify.com/artist/0E54odxP7aPA1Qzj1R75L3) | [Nuvvostanante Nenoddantana](https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO) | 5:57 |
+| 44 | [Niluvaddham](https://open.spotify.com/track/1ifMH14KizpUxIdRVyPsSZ) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Sumangaly](https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX) | [Nuvvostanante Nenoddantana](https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO) | 5:57 |
 | 45 | [Boss Party](https://open.spotify.com/track/4sJ9X27MSCue4d0t48MXwe) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Boss Party \(From "Waltair Veerayya"\)](https://open.spotify.com/album/0JB0Brs2tTPzy9Su8TKLGl) | 3:20 |
 | 46 | [Naaloney Pongaynu](https://open.spotify.com/track/2bageubuN1HjNZwTNlyh0v) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [VV Prassanna](https://open.spotify.com/artist/5FHIw6p4HE35RB4PP76uF6), [Harish Raghavendra](https://open.spotify.com/artist/4Kw0NhqitzjxLy1jH5FlTg), [Devan Ekambaram](https://open.spotify.com/artist/1HUZ6vfsSWpfLoxjgDavEB) | [Surya S/o Krishnan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/34EFScbYAJkSTujfbtT8gO) | 6:12 |
 | 47 | [Neeve](https://open.spotify.com/track/4QMZ6gwFTLk9qOhaQsGIxf) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Darling \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13J2XQOZo0I8ZAufTXFvyd) | 4:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 |
 | 50 | [Evare Nuvvu](https://open.spotify.com/track/7m64tTau2Rh6hzVDA1oV6K) | [Harish Raghavendra](https://open.spotify.com/artist/4Kw0NhqitzjxLy1jH5FlTg) | [Rajubhai](https://open.spotify.com/album/7IeNvR1LQ1Z8sWM8KaAB2O) | 4:10 |
 
-Snapshot ID: `MCwzY2RkNjlkZGU1NzA4ZGQ3YTBhNGZhMTZiMzVkYTFlZDk5ZDU1ZmFh`
+Snapshot ID: `MCxjMmJkM2Q4ZjBjYmQ5NGVmNmIwNmI4YWMwNzg1MDQ1M2MxMzJlNWI2`

@@ -3047,6 +3047,24 @@
     },
     {
       "album": {
+        "name": "New Curtains",
+        "url": "https://open.spotify.com/album/4mdyReFr4Zb31zDj6CFbBd"
+      },
+      "artists": [
+        {
+          "name": "Finn Horizon",
+          "url": "https://open.spotify.com/artist/4y19AUiBySss0zxq6dqNve"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "New Curtains",
+      "url": "https://open.spotify.com/track/2q0AjgcOv5xiOF0zgiue0X"
+    },
+    {
+      "album": {
         "name": "Home Sweet Home",
         "url": "https://open.spotify.com/album/1U9SC6WxvpISBIgnlpYaKB"
       },

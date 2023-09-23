@@ -1,12 +1,12 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 132297,
+  "num_followers": 132312,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjNiNDVhMjJkZjk1YmI2MmJiODUwOGJjYzczZWNjOTI4MWQ4OTZj",
+  "snapshot_id": "MCw1ZWU3MjNlNTUyN2RjMGVlZDZhNDMzNmY1NDIxMjU5MDRlMDM0Zjlj",
   "tracks": [
     {
       "added_at": "2023-09-18 01:36:28",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-09-18 01:36:28",
       "album": {
-        "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-        "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-      "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
-    },
-    {
-      "added_at": "2023-09-18 01:36:28",
-      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 173710,
       "name": "34+35",
       "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
+    },
+    {
+      "added_at": "2023-09-18 01:36:28",
+      "album": {
+        "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+        "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+      "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
     },
     {
       "added_at": "2023-09-18 01:36:28",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-09-18 01:36:28",
       "album": {
-        "name": "Permission to Dance",
-        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 187585,
-      "name": "Permission to Dance",
-      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
+      "duration_ms": 205920,
+      "name": "no tears left to cry",
+      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
     },
     {
       "added_at": "2023-09-18 01:36:28",
@@ -439,6 +439,22 @@
       "duration_ms": 225983,
       "name": "24K Magic",
       "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+    },
+    {
+      "added_at": "2023-09-18 01:36:28",
+      "album": {
+        "name": "Permission to Dance",
+        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 187585,
+      "name": "Permission to Dance",
+      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
     },
     {
       "added_at": "2023-09-18 01:36:28",
@@ -507,18 +523,34 @@
     {
       "added_at": "2023-09-18 01:36:28",
       "album": {
-        "name": "Sweetener",
-        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 205920,
-      "name": "no tears left to cry",
-      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
+      "duration_ms": 198053,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
+    },
+    {
+      "added_at": "2023-09-18 01:36:28",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 197469,
+      "name": "Count on Me",
+      "url": "https://open.spotify.com/track/7l1qvxWjxcKpB9PCtBuTbU"
     },
     {
       "added_at": "2023-09-18 01:36:28",
@@ -543,38 +575,6 @@
       "duration_ms": 229604,
       "name": "I'm Not Here To Make Friends",
       "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
-    },
-    {
-      "added_at": "2023-09-18 01:36:28",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 197469,
-      "name": "Count on Me",
-      "url": "https://open.spotify.com/track/7l1qvxWjxcKpB9PCtBuTbU"
-    },
-    {
-      "added_at": "2023-09-18 01:36:28",
-      "album": {
-        "name": "Formula of Love: O+T=<3",
-        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
     },
     {
       "added_at": "2023-09-18 01:36:28",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-09-18 01:36:28",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 161811,
-      "name": "Summer Baby",
-      "url": "https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U"
-    },
-    {
-      "added_at": "2023-09-18 01:36:28",
-      "album": {
         "name": "Bad Decisions (with BTS & Snoop Dogg)",
         "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 172714,
       "name": "Bad Decisions (with BTS & Snoop Dogg)",
       "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
+    },
+    {
+      "added_at": "2023-09-18 01:36:28",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 161811,
+      "name": "Summer Baby",
+      "url": "https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U"
     },
     {
       "added_at": "2023-09-18 01:36:28",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-09-18 01:36:28",
       "album": {
-        "name": "Never Gonna Not Dance Again",
-        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 225789,
-      "name": "Never Gonna Not Dance Again",
-      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
-    },
-    {
-      "added_at": "2023-09-18 01:36:28",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2023-09-18 01:36:28",
       "album": {
-        "name": "Cuz I Love You",
-        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 195144,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
       "added_at": "2023-09-18 01:36:28",
@@ -771,6 +755,22 @@
     {
       "added_at": "2023-09-18 01:36:28",
       "album": {
+        "name": "Cuz I Love You",
+        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 195144,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
+    },
+    {
+      "added_at": "2023-09-18 01:36:28",
+      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
       },
@@ -783,26 +783,6 @@
       "duration_ms": 190348,
       "name": "Let's Fall in Love for the Night",
       "url": "https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V"
-    },
-    {
-      "added_at": "2023-09-18 01:36:28",
-      "album": {
-        "name": "Lottery (feat. LU KALA)",
-        "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "LU KALA",
-          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
-        }
-      ],
-      "duration_ms": 186761,
-      "name": "Lottery (feat. LU KALA)",
-      "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
     },
     {
       "added_at": "2023-09-18 01:36:28",
@@ -823,6 +803,26 @@
       "duration_ms": 167035,
       "name": "Mr Right (with Meghan Trainor)",
       "url": "https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp"
+    },
+    {
+      "added_at": "2023-09-18 01:36:28",
+      "album": {
+        "name": "Lottery (feat. LU KALA)",
+        "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "duration_ms": 186761,
+      "name": "Lottery (feat. LU KALA)",
+      "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
     },
     {
       "added_at": "2023-09-18 01:36:28",

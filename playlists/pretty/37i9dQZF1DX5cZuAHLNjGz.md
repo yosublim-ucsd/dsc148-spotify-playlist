@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with AP Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,090,969 likes - 101 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091,587 likes - 101 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 18 | [Black Heart](https://open.spotify.com/track/6xTLfT3ppNqOre8C8wMmN2) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:35 |
 | 19 | [Mexico](https://open.spotify.com/track/0mNxYkKtXVY9HcFTuTmSPP) | [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm) | [Mexico](https://open.spotify.com/album/3YuBvx1udZbelLA1idJMk5) | 2:36 |
 | 20 | [Noormahal](https://open.spotify.com/track/6LAitVJIwyCy4bJGN9TIhn) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [J\-Statik](https://open.spotify.com/artist/3qBOp2bo17mSbJS5Q3KxE2) | [Takeover](https://open.spotify.com/album/7AsfVZwqnFNaHll4Tnbhof) | 2:40 |
-| 21 | [Aam Jahe Munde](https://open.spotify.com/track/32VAw8DL9ixX5XSW2VLcZ4) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Pardhaan](https://open.spotify.com/artist/06sVoZgq2NIPNoWgggu8Vq) | [Aam Jahe Munde](https://open.spotify.com/album/0VtFj2jJ3PosFrLHbE7TJX) | 3:27 |
+| 21 | [Aam Jahe Munde](https://open.spotify.com/track/32VAw8DL9ixX5XSW2VLcZ4) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [PARDHAAN](https://open.spotify.com/artist/06sVoZgq2NIPNoWgggu8Vq) | [Aam Jahe Munde](https://open.spotify.com/album/0VtFj2jJ3PosFrLHbE7TJX) | 3:27 |
 | 22 | [Showstopper](https://open.spotify.com/track/64mInfKzmJIbuTvcnhRgfW) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Showstopper](https://open.spotify.com/album/1KVirmPrDEhMyG54GfSSWz) | 2:26 |
 | 23 | [Admirin' You \(feat\. Preston Pablo\)](https://open.spotify.com/track/6NJ8Z5GDoHe47R6gGX6sLq) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Admirin' You \(feat\. Preston Pablo\)](https://open.spotify.com/album/2rSFhbKldPsvtXI5IuseAF) | 3:34 |
 | 24 | [Udh Di Phiran](https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ) | [Udh Di Phiran](https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e) | 3:41 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Gustakhiyan](https://open.spotify.com/track/3X3BiiDYiPVIn5gEpO9HiF) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Gustakhiyan](https://open.spotify.com/album/4KCsudLqml0Z2T0OWGzLuC) | 2:32 |
 | 101 | [Born to Shine](https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:33 |
 
-Snapshot ID: `MCxlNTllMmExMmJlOWJhYzdhZDA0MTgyMzU0ZTNhMDRiNmViOTdlNTNm`
+Snapshot ID: `MCxjZTJmNDRlMjdkNjhhMTRhMzI1ZGFmNmMwOWMxMGMzNzhkY2U0MzRi`

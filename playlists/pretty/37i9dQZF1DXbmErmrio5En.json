@@ -1,13 +1,29 @@
 {
   "description": "cool music ft. Riovaz",
-  "num_followers": 27401,
+  "num_followers": 27498,
   "original_name": "feedBack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWVjNmM4Y2MwOGFkNjI4NjJlZjdlYjY5NTdhMjdlYzhlYzliMjdl",
+  "snapshot_id": "MCw2MWMwYWU3YzI0ODA4NmJmYWExY2JlOWEwZTNkZDNiMTlmZTg0NjVm",
   "tracks": [
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "kickstand",
+        "url": "https://open.spotify.com/album/1zxNTb81sl4VthrXuolxNz"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 130207,
+      "name": "kickstand",
+      "url": "https://open.spotify.com/track/2T6D4elLJtJs5V1DHhrDi1"
+    },
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
@@ -59,6 +75,22 @@
       "duration_ms": 175806,
       "name": "c u never",
       "url": "https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "industry standard",
+        "url": "https://open.spotify.com/album/050G23X8h3mqMxb0TyKbiD"
+      },
+      "artists": [
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        }
+      ],
+      "duration_ms": 309895,
+      "name": "kids - aldrch redux",
+      "url": "https://open.spotify.com/track/0I48YwyKo5FsGBd2wXMRT1"
     },
     {
       "added_at": "2023-09-20 13:56:17",
@@ -113,6 +145,38 @@
       "url": "https://open.spotify.com/track/2QwZiXrFmyPjgGh9akgfid"
     },
     {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "STARCROSSED",
+        "url": "https://open.spotify.com/album/4juZSFXIo15KVgXnPeoVJp"
+      },
+      "artists": [
+        {
+          "name": "Overpade",
+          "url": "https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q"
+        }
+      ],
+      "duration_ms": 172297,
+      "name": "STARCROSSED",
+      "url": "https://open.spotify.com/track/35wWGaFCexpJAglVUgjTcL"
+    },
+    {
+      "added_at": "2023-09-18 15:00:57",
+      "album": {
+        "name": "PSYCH MOB",
+        "url": "https://open.spotify.com/album/14riMJ5ianTJ0lv65hFejk"
+      },
+      "artists": [
+        {
+          "name": "hammond preacher",
+          "url": "https://open.spotify.com/artist/2dhU0be0WVmZJeKu0Yx3uo"
+        }
+      ],
+      "duration_ms": 80274,
+      "name": "PSYCH MOB",
+      "url": "https://open.spotify.com/track/1A67DAnXMZC3DIUibeRUnA"
+    },
+    {
       "added_at": "2023-09-15 04:00:00",
       "album": {
         "name": "CRUEL WORLD",
@@ -145,20 +209,20 @@
       "url": "https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY"
     },
     {
-      "added_at": "2023-09-18 15:00:57",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "PSYCH MOB",
-        "url": "https://open.spotify.com/album/14riMJ5ianTJ0lv65hFejk"
+        "name": "Wallsocket",
+        "url": "https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv"
       },
       "artists": [
         {
-          "name": "hammond preacher",
-          "url": "https://open.spotify.com/artist/2dhU0be0WVmZJeKu0Yx3uo"
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
         }
       ],
-      "duration_ms": 80274,
-      "name": "PSYCH MOB",
-      "url": "https://open.spotify.com/track/1A67DAnXMZC3DIUibeRUnA"
+      "duration_ms": 245122,
+      "name": "Johnny johnny johnny",
+      "url": "https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh"
     },
     {
       "added_at": "2023-09-20 20:12:13",
@@ -479,6 +543,22 @@
       "duration_ms": 129759,
       "name": "COMEDOWN",
       "url": "https://open.spotify.com/track/5uYViosjAmKH1Auq3zvZL1"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "June 17th",
+        "url": "https://open.spotify.com/album/6EFFFv8G2WZOsSYQR9ncPu"
+      },
+      "artists": [
+        {
+          "name": "MELVV",
+          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
+        }
+      ],
+      "duration_ms": 149904,
+      "name": "June 17th",
+      "url": "https://open.spotify.com/track/6DmOUU5qGAK28eXy1E1bHz"
     },
     {
       "added_at": "2023-09-21 19:26:24",
@@ -1555,26 +1635,6 @@
       "duration_ms": 183428,
       "name": "Severance",
       "url": "https://open.spotify.com/track/6Axnct32KC9cSFXEthRxX4"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
-        "name": "Gossip Team",
-        "url": "https://open.spotify.com/album/4M5JeRShbMAjvl2829yyGM"
-      },
-      "artists": [
-        {
-          "name": "poptropicaslutz!",
-          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
-        },
-        {
-          "name": "aldrch",
-          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "ready set go",
-      "url": "https://open.spotify.com/track/5tnlIXsXfQTTEptv129Swp"
     },
     {
       "added_at": "2023-08-04 13:26:08",

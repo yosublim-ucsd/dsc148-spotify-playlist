@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID?si=kjKMxUOaQP62P7BnnenWlA"> رامي جمال </a>
 
-646 songs - 1 day 12 hr 41 min
+647 songs - 1 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Ana Be Touly](https://open.spotify.com/track/3vnaFVNsC059Iiu5QDZ6Ms) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE) | [Ana Be Touly](https://open.spotify.com/album/2snYyolbPLnvsU2VNHyA3F) | 3:44 | 2023-03-07 | 2023-05-06 |
 | [Ana El Mostahel](https://open.spotify.com/track/4lYozOwaI7qe9clHySo8UN) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [Ana El Mostahel](https://open.spotify.com/album/7BmITE5PHY7SF8bblQWfQg) | 4:21 | 2022-03-10 | 2022-07-02 |
 | [Ana El Tayeb](https://open.spotify.com/track/7BpSOx73f8kASfLHhxSbBr) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Ana El Tayeb](https://open.spotify.com/album/1jly0ZLFaEbXVLZkxO7gkC) | 3:24 | 2023-08-10 | 2023-08-29 |
-| [Ana Kwaiesa](https://open.spotify.com/track/5RoqJbplHkPfnuhbgox0Wa) | [Amal Maher](https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl) | [Ana Kwaiesa](https://open.spotify.com/album/1Px3yEgGoNjt5gMfbpZcHr) | 4:15 | 2023-09-22 |  |
+| [Ana Kwaiesa](https://open.spotify.com/track/5RoqJbplHkPfnuhbgox0Wa) | [Amal Maher](https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl) | [Ana Kwaiesa](https://open.spotify.com/album/1Px3yEgGoNjt5gMfbpZcHr) | 4:15 | 2023-09-22 | 2023-09-23 |
 | [Ana Meen](https://open.spotify.com/track/6rEHVrBJ7tNTd7Acb2x544) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Ana Meen](https://open.spotify.com/album/3fZwV1lA54bESHZxdKHhbU) | 4:18 | 2022-03-03 | 2022-06-14 |
 | [Ana Qader From Gafar El Omda Series](https://open.spotify.com/track/0xIbsBFRTZoNfg54EAYHoN) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Hesham El Gakh](https://open.spotify.com/artist/0u4oTPQ4k14CO5TUqKduUK) | [Ana Qader From Gafar El Omda Series](https://open.spotify.com/album/6McyOWAOJs2fdzAA3NgZp1) | 3:06 | 2023-03-14 | 2023-05-12 |
 | [Ana Roht Minnak](https://open.spotify.com/track/1rPbqAS7xqPrP66daAl0F6) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ana Roht Minnak](https://open.spotify.com/album/4xiu6m1dJJJkMA8swxn8Ig) | 4:03 | 2021-12-23 | 2021-12-30 |
@@ -73,6 +73,7 @@
 | [Asrar](https://open.spotify.com/track/17kMbUwpSIdXdLUe70XHps) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Asrar](https://open.spotify.com/album/79LLrOm3su0LwbV2JGkMlt) | 3:19 | 2023-03-21 | 2023-05-12 |
 | [Awel Gawla](https://open.spotify.com/track/1l4MnoTcwYZN2yUpd7Wwuy) | [Sedawy](https://open.spotify.com/artist/317hp6Z5h0o05KwsqXk9tR) | [Awel Gawla](https://open.spotify.com/album/6jBiGjq1Ojvao2sh1orMRB) | 3:18 | 2023-03-07 | 2023-05-06 |
 | [Aywa](https://open.spotify.com/track/7zvJlh2aBSiWeQ6sTHSecc) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [My Maya I](https://open.spotify.com/album/3MTvNPfeRGJl2QBevmUuXe) | 3:20 | 2023-05-02 | 2023-06-02 |
+| [Ayzak Ala Enferad](https://open.spotify.com/track/7GvJaBiQmrzLP5FNz61p47) | [Waed](https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg) | [Ayzak Ala Enferad](https://open.spotify.com/album/5gtfKG7lMH9U5hZjCoV3U3) | 3:18 | 2023-09-22 |  |
 | [B3edt](https://open.spotify.com/track/0eMjsK29gmH9QwuPXoVQtG) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [B3edt](https://open.spotify.com/album/4HATYluFrW4xQFt6pLMlbR) | 2:04 | 2022-04-28 | 2022-08-09 |
 | [Ba2eit Ghareeb](https://open.spotify.com/track/4h6PHa9gi5gH35AP4Pll1u) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [Ba2eit Ghareeb](https://open.spotify.com/album/1mlnwGPLhtTHhYGI1mpmkG) | 3:18 | 2022-11-24 | 2023-02-03 |
 | [Ba3d Fatra](https://open.spotify.com/track/6NpgIEuoXTpUz68mVPk1Ty) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Ba3d Fatra](https://open.spotify.com/album/5fyH1zkFx6QNiypRw1hm5a) | 3:15 | 2022-07-20 | 2022-10-14 |
@@ -514,7 +515,7 @@
 | [انا هونت عليك](https://open.spotify.com/track/1fQnrD1pd3WXoxUMpx3PmJ) | [Houda Bondok](https://open.spotify.com/artist/3h9whENZphIzFOkg0brmgK) | [انا هونت عليك](https://open.spotify.com/album/0sC9BUp4DaTQrBGfeZISX8) | 4:08 | 2023-05-11 | 2023-06-30 |
 | [انت الأصل](https://open.spotify.com/track/1qciOUzxpvVm3oNxPr7fWb) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 2:57 | 2023-01-12 | 2023-02-17 |
 | [انت الأصل](https://open.spotify.com/track/35wZyDR2zaKlPRhT0x3sdt) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انت الأصل](https://open.spotify.com/album/7vEmSTmBgz3fUaCVnjyf6H) | 2:57 | 2023-01-06 | 2023-01-14 |
-| [انتي الترند \(لفيت العالم\)](https://open.spotify.com/track/2ao1kZ8oROe0y6HtdDN6OO) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk) | [انتي الترند \(لفيت العالم\)](https://open.spotify.com/album/45ntcfARG4ULK6k5zLuaMC) | 3:01 | 2023-08-01 |  |
+| [انتي الترند \(لفيت العالم\)](https://open.spotify.com/track/2ao1kZ8oROe0y6HtdDN6OO) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk) | [انتي الترند \(لفيت العالم\)](https://open.spotify.com/album/45ntcfARG4ULK6k5zLuaMC) | 3:01 | 2023-08-01 | 2023-09-23 |
 | [ايه السعادة دي](https://open.spotify.com/track/5yA23gQnPVD5H5GeO3oSEE) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [ايه السعادة دي](https://open.spotify.com/album/4zuku3m8svJHhlHGylFIpJ) | 2:57 | 2023-09-01 |  |
 | [ايه غيرك](https://open.spotify.com/track/7d8Q20fRUqE7FaUXOTcARp) | [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI) | [ايه غيرك](https://open.spotify.com/album/7dNP8GXz9DfdQGZEgSfhK4) | 3:53 | 2023-02-23 | 2023-04-21 |
 | [بالليل](https://open.spotify.com/track/3FBx451ZkIbEBKuzrNt0GB) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE) | [بالليل](https://open.spotify.com/album/4WeK7DopstFjNczn8SkgOO) | 2:50 | 2023-08-02 | 2023-08-25 |

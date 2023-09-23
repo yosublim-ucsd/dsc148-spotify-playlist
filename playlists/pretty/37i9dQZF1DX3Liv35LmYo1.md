@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,757 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,792 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 47 | [CIRCLES](https://open.spotify.com/track/4T0RHYd7PAZgCP7opCDI3l) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [CIRCLES](https://open.spotify.com/album/35GLnwRLlCO2YY3x0WsfpD) | 4:34 |
 | 48 | [Higher Elevation](https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Higher Elevation](https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04) | 6:13 |
 | 49 | [Halcyon & On \- Logic1000 Mix](https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Halcyon \(30 Something\) \[Remixes\]](https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W) | 4:52 |
-| 50 | [Ultra Truth](https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 5:17 |
+| 50 | [Wall of Sleep](https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 4:47 |
 
-Snapshot ID: `MCxhYjQ1MmZkM2RhNGJlMTFkNDJmNmY4NjkzMTYyOWQ0NjE2ZTJmODJj`
+Snapshot ID: `MCwxZjFiNDFiYWI2YmU2NmQ2ZmM3MzA5NjZmZDEyN2FhZjRiOWY3NmIz`

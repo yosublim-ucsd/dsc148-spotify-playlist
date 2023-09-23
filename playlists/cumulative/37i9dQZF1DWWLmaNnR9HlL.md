@@ -4,7 +4,7 @@
 
 > La banda sonora para tus cenas en casa.
 
-206 songs - 13 hr 22 min
+207 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Oh My God](https://open.spotify.com/track/44I5NYJ7CGEcaLOuG2zJsU) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [These Two Windows](https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP) | 3:07 | 2021-01-19 | 2023-02-12 |
 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 | 2021-01-19 |  |
 | [One](https://open.spotify.com/track/3PKtemUKxiDBvBo7tpQ8bG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby](https://open.spotify.com/album/3hErePSImi79vYHrSmypGw) | 4:36 | 2021-01-19 | 2022-07-29 |
-| [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 | 2023-05-11 |  |
+| [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 | 2023-05-11 | 2023-09-23 |
 | [Patience](https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 5:54 | 2021-01-19 |  |
 | [Perfectly Imperfect](https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Perfectly Imperfect](https://open.spotify.com/album/6YYdaF74fciAagw5BpJ6Qy) | 3:24 | 2021-01-19 | 2023-05-18 |
 | [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 | 2021-01-19 |  |
@@ -186,6 +186,7 @@
 | [Toyboat](https://open.spotify.com/track/0zwkTalZ8v0qrBMZwWVgEy) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [Lucia Manca](https://open.spotify.com/artist/5DHfordpyNL7yXbVTLeed4) | [Toyboat](https://open.spotify.com/album/3dyVZIYSfZFlyVjplWONdm) | 2:57 | 2021-01-19 | 2022-07-27 |
 | [Trompeta y Trombón](https://open.spotify.com/track/7blCmw8CU98pSmvvSXYsUX) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Latino con Soul \(West Side Original Remastered\)](https://open.spotify.com/album/6fzqmTd7d1DqOZhJSBcNJt) | 6:09 | 2021-01-19 | 2022-07-29 |
 | [Trouble](https://open.spotify.com/track/1fDAS8j1MJpmoSfmDOE6cE) | [Josh Rouse](https://open.spotify.com/artist/38euc5ce2q2MMzaoJcPstz) | [Trouble](https://open.spotify.com/album/2rwIenfhEStTKV1OBSsioP) | 3:42 | 2021-01-19 | 2022-07-21 |
+| [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 | 2023-05-11 |  |
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2021-01-19 |  |
 | [Us](https://open.spotify.com/track/2lmMt4SRDXDma6QkJUox0D) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Us](https://open.spotify.com/album/7pWw6ozRByPfbII3rqDnct) | 3:07 | 2021-01-19 | 2022-11-13 |
 | [Use Me](https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:48 | 2021-01-19 |  |

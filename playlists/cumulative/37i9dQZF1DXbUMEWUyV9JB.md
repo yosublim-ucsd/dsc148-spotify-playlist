@@ -4,7 +4,7 @@
 
 > ¡Muévete al ritmo de las Cumbias! De todas, Norteñas, Sonideras, con Banda y mas! Cover: Grupo Frontera & Bad Bunny
 
-254 songs - 15 hr 39 min
+255 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,9 +14,10 @@
 | [A Mí, ¿Qué Me Quedó?](https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Vuelvo Contigo](https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU) | 2:41 | 2023-05-01 |  |
 | [Acaríñame](https://open.spotify.com/track/2kXeAEpGBN874ZKJPV24fr) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Acaríñame](https://open.spotify.com/album/5cggbtEsbsZPcxdjumrBo6) | 3:21 | 2022-01-14 | 2022-07-29 |
 | [Agachadita](https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [Agachadita](https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY) | 3:15 | 2023-05-01 |  |
-| [Agua De Té](https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 3:56 | 2023-05-01 |  |
+| [Agua De Té](https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 3:56 | 2023-05-01 | 2023-09-23 |
 | [Agua De Vida](https://open.spotify.com/track/6eL8Ej7iJqv7NOPoY7bC8Z) | [Grupo Perla Colombiana](https://open.spotify.com/artist/559JHjpDxj6SYy8kwGoa5V) | [Agua De Vida](https://open.spotify.com/album/7I9KOeQ3uj3CMRcRg5Sf2l) | 3:34 | 2023-05-01 |  |
 | [Alma De Acero](https://open.spotify.com/track/3LgQlKNGiQiQhMiTU0ZKao) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Yaguaru](https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA) | 3:55 | 2023-05-01 |  |
+| [Aléjate de Mi](https://open.spotify.com/track/2elSQMWeHJCiMCmwAUf43W) | [Mexikolombia](https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T) | [Sin Mirar Atrás](https://open.spotify.com/album/2FoP3XV69oKsMxfK5oJkRX) | 3:16 | 2023-05-01 |  |
 | [Aléjate de Mí](https://open.spotify.com/track/319ub9Pw8bNSVjY1kPsPom) | [Mexikolombia](https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T) | [Aléjate de Mí](https://open.spotify.com/album/7wgmDtOHEtek5RpKF8fIfS) | 3:17 | 2022-01-14 | 2022-11-13 |
 | [Amor A Primera Vista](https://open.spotify.com/track/1E7RHPXA9sZ30qfms18J7J) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Amor A Primera Vista](https://open.spotify.com/album/2UMbhed3WWoe88zIkyvWvG) | 3:41 | 2022-01-14 | 2022-07-29 |
 | [Amor Carnal](https://open.spotify.com/track/5BEvroZdzjCqs9QmQGZd6Q) | [Chon Arauza Y Su Furia Colombiana](https://open.spotify.com/artist/1UsGsjA2kejXEPk2M0ObyU) | [Amor Carnal](https://open.spotify.com/album/1aJIcWZyzvp1KBICZojNpI) | 4:13 | 2022-01-14 | 2023-05-02 |

@@ -2,9 +2,9 @@
 
 ### [R&B Rewind](https://open.spotify.com/playlist/37i9dQZF1DWUMv098gRPM7)
 
-> A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: RAAHiiM
+> A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: Charlotte Cardin
 
-95 songs - 5 hr 19 min
+96 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [in ur motion](https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Goûter +](https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n) | 3:28 | 2023-09-15 |  |
 | [Irrational](https://open.spotify.com/track/3x0l10FNuvRcdudE36y6XK) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Solaris](https://open.spotify.com/album/2iahJWQ2C6dwPj2oXG37FP) | 2:49 | 2023-06-20 |  |
 | [Jungle](https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 5:20 | 2023-06-20 |  |
+| [Kilimanjaro \(with BEAM\)](https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:11 | 2023-09-22 |  |
 | [LANSDOWNE](https://open.spotify.com/track/6Dv76051LlfL1LvMpcPLKw) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [LANSDOWNE](https://open.spotify.com/album/2phfndUK6vGdlNO7I3GxrH) | 2:33 | 2023-07-14 | 2023-07-26 |
 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 | 2023-06-20 |  |
 | [LIMB](https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Don't Throw Rocks At The Moon](https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH) | 1:44 | 2023-06-20 |  |
@@ -77,7 +78,7 @@
 | [Recognize \(feat\. Drake\)](https://open.spotify.com/track/1DMYEiuAgz1OKvANXiNFrN) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 5:11 | 2023-06-20 | 2023-07-01 |
 | [Shameless](https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Shameless](https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui) | 2:55 | 2023-06-20 |  |
 | [SOLO](https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [SOLO](https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce) | 3:02 | 2023-09-15 |  |
-| [Some Kinda Love](https://open.spotify.com/track/1kTvzk3atwk9K2YSFMtnzj) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Some Kinda Love](https://open.spotify.com/album/1bR9jE6phZUlbHi9wzqjlt) | 4:52 | 2023-06-20 |  |
+| [Some Kinda Love](https://open.spotify.com/track/1kTvzk3atwk9K2YSFMtnzj) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Some Kinda Love](https://open.spotify.com/album/1bR9jE6phZUlbHi9wzqjlt) | 4:52 | 2023-06-20 | 2023-09-23 |
 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2023-09-15 |  |
 | [Stars Align \(with Drake\)](https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 4:20 | 2023-06-20 |  |
 | [Start Over](https://open.spotify.com/track/7DvlNrYFvmZieL8GdhJuoy) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Don't Throw Rocks At The Moon](https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH) | 2:10 | 2023-06-20 |  |

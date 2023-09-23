@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,853 likes - 50 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,892 likes - 50 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 28 | [No Ufo's \- Vocal](https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [No Ufo's \(Original Version\)](https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg) | 4:18 |
 | 29 | [Low Life](https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Clocks / Low Life / Go](https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1) | 5:34 |
 | 30 | [The Dance](https://open.spotify.com/track/3BcFcJUfnBh3nmwvg6ra3g) | [Derrick May](https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51) | [Innovator \(Mayday\)](https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL) | 7:12 |
-| 31 | [Oombah \- Kevin Saunderson & Justin Cholewski Remix](https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ), [Virus J](https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw) | [Oombah \(Kevin Saunderson & Justin Cholewski Remix\)](https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD) | 3:10 |
-| 32 | [Do It All Night \- Honey Dijon Remix \[Radio Edit\]](https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Do It All Night \(Honey Dijon Remix \[Radio Edit\]\)](https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8) | 4:12 |
+| 31 | [Do It All Night \- Honey Dijon Remix \[Radio Edit\]](https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Do It All Night \(Honey Dijon Remix \[Radio Edit\]\)](https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8) | 4:12 |
+| 32 | [Oombah \- Kevin Saunderson & Justin Cholewski Remix](https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ), [Virus J](https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw) | [Oombah \(Kevin Saunderson & Justin Cholewski Remix\)](https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD) | 3:10 |
 | 33 | [When We Used To Play \- Original Extended Mix](https://open.spotify.com/track/3N5usV7I51Fj9WMiWQbBYJ) | [Blake Baxter](https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h) | [When We Used To Play](https://open.spotify.com/album/6pIUwQ9AJrFCIeEoo1H2nC) | 8:20 |
-| 34 | [Right There](https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Right There / Holy Ghost](https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX) | 2:57 |
-| 35 | [Can You Feel It \- Kevin Saunderson Remix](https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr) | [Chez Damier](https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Can You Feel It \(Kevin Saunderson Remix\)](https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh) | 3:28 |
+| 34 | [Can You Feel It \- Kevin Saunderson Remix](https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr) | [Chez Damier](https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Can You Feel It \(Kevin Saunderson Remix\)](https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh) | 3:28 |
+| 35 | [Right There](https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Right There / Holy Ghost](https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX) | 2:57 |
 | 36 | [Just Want Another Chance \- Original Mix](https://open.spotify.com/track/2fLoViPlr6qskNBS19sO7j) | [Reese](https://open.spotify.com/artist/4ZZnndm8YgzLlG05uSmQOG), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Just Want Another Chance](https://open.spotify.com/album/4XagqaRMPdxYcBibgCgCWH) | 5:12 |
 | 37 | [Into The Dark](https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk) | [The Saunderson Brothers](https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR) | [Into The Dark](https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX) | 3:41 |
 | 38 | [Elements](https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr) | [Psyche/BFC](https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw) | [Psyche/BFC \- DELUXE DIGITAL VERSION](https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U) | 6:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 49 | [I Can't Believe \- Extended Mix](https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [I Can't Believe](https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW) | 6:09 |
 | 50 | [Red Room](https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Red Room](https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4) | 6:40 |
 
-Snapshot ID: `MCxlYTkyOTM4NmNjNjhiMTMzOTIxMjQ4YjZlMGEyYjI4OTk2Y2Y0NDYz`
+Snapshot ID: `MCxhYjViZDZkYzU5MDRjYTRiMGI0YzNhOWNlMDRhOTcxMDk3MjZiZjU3`

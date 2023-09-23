@@ -1,12 +1,12 @@
 {
   "description": "Canciones para sacarle brillo a la pista de baile.",
-  "num_followers": 93919,
+  "num_followers": 93969,
   "original_name": "Sal\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjkxMmRkNzYyMzFlYWUwNDk3NTY0ZWQ4NWU2Y2E1MzBlMjY3YjA1",
+  "snapshot_id": "MCxjYjQ5NDRjODEyZGJlOWI5MzA1MzQ0MzJmZmY3ZmYyZmZkMmQxYTkw",
   "tracks": [
     {
       "added_at": "2023-08-14 15:51:23",
@@ -259,18 +259,22 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
+        "name": "Euphoria (Standard US/Latin version)",
+        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
       },
       "artists": [
         {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 225360,
-      "name": "Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
+      "duration_ms": 200346,
+      "name": "Cuando Me Enamoro",
+      "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -291,6 +295,22 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
+        "name": "Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
         "name": "Show",
         "url": "https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 302253,
       "name": "T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/7DcJXd2xxVcohwehWahFJJ"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "Euphoria (Standard US/Latin version)",
-        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 200346,
-      "name": "Cuando Me Enamoro",
-      "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -595,22 +595,6 @@
       "duration_ms": 250920,
       "name": "Burbujas de Amor",
       "url": "https://open.spotify.com/track/0UoAcG1vxtFjes7rZz8Js0"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "Atrevido",
-        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 293106,
-      "name": "Tu Eres Ajena",
-      "url": "https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1071,22 +1055,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
-        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
-      },
-      "artists": [
-        {
-          "name": "Banda Blanca",
-          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
-        }
-      ],
-      "duration_ms": 293906,
-      "name": "Sopa de Caracol",
-      "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "Un Sue\u00f1o Y Nada M\u00e1s",
         "url": "https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0"
       },
@@ -1099,6 +1067,22 @@
       "duration_ms": 278613,
       "name": "Un Sue\u00f1o Y Nada Mas",
       "url": "https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
+        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "duration_ms": 293906,
+      "name": "Sopa de Caracol",
+      "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1119,22 +1103,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Confesiones",
-        "url": "https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e"
-      },
-      "artists": [
-        {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
-        }
-      ],
-      "duration_ms": 259959,
-      "name": "Te Quiero Igual Que Ayer - Bachata",
-      "url": "https://open.spotify.com/track/1YrZktczkzn59XaWXMCYY2"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "Revoluci\u00f3n De Amor (2020 Remasterizado)",
         "url": "https://open.spotify.com/album/4bP1H8sP05Bvu4LB2RbyC2"
       },
@@ -1147,6 +1115,22 @@
       "duration_ms": 329155,
       "name": "Eres Mi Religi\u00f3n - 2020 Remasterizado",
       "url": "https://open.spotify.com/track/2H3kc8vwKWtgaDWs0Xw98Y"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Confesiones",
+        "url": "https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e"
+      },
+      "artists": [
+        {
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+        }
+      ],
+      "duration_ms": 259959,
+      "name": "Te Quiero Igual Que Ayer - Bachata",
+      "url": "https://open.spotify.com/track/1YrZktczkzn59XaWXMCYY2"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1435,22 +1419,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Amor, Familia Y Respeto",
-        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Te Quiero A T\u00ed",
-      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "Exitos Sonideros, Vol. 2",
         "url": "https://open.spotify.com/album/41dKt9tSQwLw5eDcY1CUFz"
       },
@@ -1487,6 +1455,22 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
+        "name": "Amor, Familia Y Respeto",
+        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Te Quiero A T\u00ed",
+      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
         "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
       },
@@ -1519,22 +1503,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Yo Quiero Chupar / Solo Exitos",
-        "url": "https://open.spotify.com/album/1nnfHi1XzDV3K0ajYDWgs4"
-      },
-      "artists": [
-        {
-          "name": "Super Lamas",
-          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
-        }
-      ],
-      "duration_ms": 215524,
-      "name": "Yo Quiero Chupar",
-      "url": "https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "2 Grandes de la Salsa Vol. 4",
         "url": "https://open.spotify.com/album/0eoWrfcaxarOASMm50HE7s"
       },
@@ -1547,6 +1515,22 @@
       "duration_ms": 251253,
       "name": "Tu Cari\u00f1ito",
       "url": "https://open.spotify.com/track/2kBgJXGbVA6WcA40IFA9KF"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Yo Quiero Chupar / Solo Exitos",
+        "url": "https://open.spotify.com/album/1nnfHi1XzDV3K0ajYDWgs4"
+      },
+      "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        }
+      ],
+      "duration_ms": 215524,
+      "name": "Yo Quiero Chupar",
+      "url": "https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1663,6 +1647,22 @@
       "duration_ms": 300906,
       "name": "Soy Maraquero",
       "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Un Monton De Estrellas",
+        "url": "https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ju-Juy",
+          "url": "https://open.spotify.com/artist/1pTAkO3OrwVOKUh3bfGv5m"
+        }
+      ],
+      "duration_ms": 283678,
+      "name": "La Triste Despedida",
+      "url": "https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif"
     }
   ],
   "unique_name": "Sal\u00f3n Tropical",

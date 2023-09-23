@@ -4,7 +4,7 @@
 
 > melting into Mitski, and the many sounds of modern ethereal.
 
-529 songs - 1 day 9 hr 8 min
+530 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Color of the Pool](https://open.spotify.com/track/487No2iHijl2TqOM6OBC3U) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Color of the Pool](https://open.spotify.com/album/6BnLKRLuEEeTwZwfVk1Eo3) | 2:22 | 2021-10-08 | 2022-07-29 |
 | [COMATOSE](https://open.spotify.com/track/0WPWiuKkA0nA0uSpzB61CJ) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [COMATOSE](https://open.spotify.com/album/7bwRaPmS8a1owPXZcwPD2K) | 3:28 | 2022-03-07 | 2022-04-20 |
 | [Come To Me](https://open.spotify.com/track/2z0IvBi4B2HOV1PEhiiowj) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Made By Desire](https://open.spotify.com/album/0c2Dijuv3MYUkgMKzXyGcz) | 2:50 | 2022-02-10 | 2022-04-18 |
-| [Con La Brisa \- Film Version](https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \(Original Score\)](https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p) | 2:40 | 2022-11-21 |  |
+| [Con La Brisa \- Film Version](https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \(Original Score\)](https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p) | 2:40 | 2022-11-21 | 2023-09-23 |
 | [Concrete Angel](https://open.spotify.com/track/33om1peLEWLBZimmmjpfxH) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:58 | 2021-10-08 | 2022-04-14 |
 | [Concrete Over Water](https://open.spotify.com/track/4EGMLBvaIIHNYuTQ3vyJmd) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [Concrete Over Water](https://open.spotify.com/album/2yvTYZAs8hfm3p8bStCBLR) | 6:09 | 2022-04-22 | 2022-07-29 |
 | [Condition](https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Condition](https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV) | 3:44 | 2022-10-21 | 2023-01-26 |
@@ -127,6 +127,7 @@
 | [Crush](https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush](https://open.spotify.com/album/5kayIDGILIGFsncMAbLPer) | 3:24 | 2021-06-03 | 2022-06-24 |
 | [Crush](https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob) | 3:24 | 2022-10-21 |  |
 | [Crush feat\. Erika de Casier](https://open.spotify.com/track/4F3Xx2vBcZ0jq2JD8Bv9ZQ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Nymph\_o](https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k) | 2:53 | 2023-04-14 | 2023-05-20 |
+| [Crushing](https://open.spotify.com/track/6BPwBHxjmavFAyMrLQgQYd) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Powders](https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U) | 4:31 | 2023-09-22 |  |
 | [Crushxd](https://open.spotify.com/track/3asSrvrWbMpX4v4ilkj5So) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Crushxd](https://open.spotify.com/album/46VsFMbRWN6hXT2J0a8fzo) | 3:06 | 2023-04-14 | 2023-05-16 |
 | [Crying in Public](https://open.spotify.com/track/2yXfkGdRTSPgSFJfOGsLhk) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Moth](https://open.spotify.com/album/4j7QJ7DKZ0cBsNuD7GmJFx) | 4:28 | 2021-10-08 | 2022-07-22 |
 | [Cuntradiction](https://open.spotify.com/track/3nMiFnGwlPb2wfoX1JLvPf) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Go](https://open.spotify.com/album/7wcjI4IzkkxRiSo2el3TSr) | 3:46 | 2022-11-11 | 2022-11-19 |

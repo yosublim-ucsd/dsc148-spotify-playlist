@@ -1,12 +1,12 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 727381,
+  "num_followers": 727471,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzU0ZmM3OTRkZWIzODEwZGNiY2QyMjYyZjNiZWY4NDhhMzYxYjYx",
+  "snapshot_id": "MCwxMjYxOGFlMDdhZjVhY2VhZWQ0NzcwZGVkNGQ2N2JmYzVkNzU2NWJi",
   "tracks": [
     {
       "added_at": "2023-09-15 09:54:17",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-09-15 09:54:17",
       "album": {
-        "name": "Loma Vista",
-        "url": "https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg"
-      },
-      "artists": [
-        {
-          "name": "Family of the Year",
-          "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq"
-        }
-      ],
-      "duration_ms": 190280,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
-    },
-    {
-      "added_at": "2023-09-15 09:54:17",
-      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 230506,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
+    },
+    {
+      "added_at": "2023-09-15 09:54:17",
+      "album": {
+        "name": "Loma Vista",
+        "url": "https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg"
+      },
+      "artists": [
+        {
+          "name": "Family of the Year",
+          "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
     },
     {
       "added_at": "2023-09-15 09:54:17",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-09-15 09:54:17",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "From The Start",
-      "url": "https://open.spotify.com/track/4HqQu5tgwmRupi96Qk3LhM"
-    },
-    {
-      "added_at": "2023-09-15 09:54:17",
-      "album": {
         "name": "The Greatest",
         "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 202560,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
+    },
+    {
+      "added_at": "2023-09-15 09:54:17",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/4HqQu5tgwmRupi96Qk3LhM"
     },
     {
       "added_at": "2023-09-15 09:54:17",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-09-15 09:54:17",
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 280106,
-      "name": "Waltz #2 (XO)",
-      "url": "https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI"
-    },
-    {
-      "added_at": "2023-09-15 09:54:17",
-      "album": {
         "name": "Something Just Like This",
         "url": "https://open.spotify.com/album/10XBLTxCUvDqAUcKAqxxy7"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 189793,
       "name": "Something Just Like This - Acoustic",
       "url": "https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg"
+    },
+    {
+      "added_at": "2023-09-15 09:54:17",
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 280106,
+      "name": "Waltz #2 (XO)",
+      "url": "https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI"
     },
     {
       "added_at": "2023-09-15 09:54:17",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-09-15 09:54:17",
       "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
+    },
+    {
+      "added_at": "2023-09-15 09:54:17",
+      "album": {
         "name": "Amos Lee",
         "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 265840,
       "name": "Sense of Home",
       "url": "https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I"
-    },
-    {
-      "added_at": "2023-09-15 09:54:17",
-      "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
     },
     {
       "added_at": "2023-09-15 09:54:17",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-09-15 09:54:17",
       "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 129333,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
+    },
+    {
+      "added_at": "2023-09-15 09:54:17",
+      "album": {
         "name": "Drunk On A Flight",
         "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 182857,
       "name": "Drunk On A Flight",
       "url": "https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6"
-    },
-    {
-      "added_at": "2023-09-15 09:54:17",
-      "album": {
-        "name": "Welcome To The Cruel World",
-        "url": "https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM"
     },
     {
       "added_at": "2023-09-15 09:54:17",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2023-09-15 09:54:17",
       "album": {
+        "name": "Welcome To The Cruel World",
+        "url": "https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM"
+    },
+    {
+      "added_at": "2023-09-15 09:54:17",
+      "album": {
         "name": "3 Rounds and a Sound",
         "url": "https://open.spotify.com/album/2VPbzka8iaNvwJ4KI588w1"
       },
@@ -1775,18 +1791,18 @@
     {
       "added_at": "2023-09-15 09:54:17",
       "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
       },
       "artists": [
         {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
         }
       ],
-      "duration_ms": 129333,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
+      "duration_ms": 210506,
+      "name": "If You Need To, Keep Time on Me",
+      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
     },
     {
       "added_at": "2023-09-15 09:54:17",
@@ -1803,22 +1819,6 @@
       "duration_ms": 257480,
       "name": "Postcards from Italy",
       "url": "https://open.spotify.com/track/7H0UxIN751StFi2tznmHlg"
-    },
-    {
-      "added_at": "2023-09-15 09:54:17",
-      "album": {
-        "name": "Crack-Up",
-        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "If You Need To, Keep Time on Me",
-      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
     },
     {
       "added_at": "2023-09-15 09:54:17",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2023-09-15 09:54:17",
       "album": {
+        "name": "The Recordings of the Middle East",
+        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
+      },
+      "artists": [
+        {
+          "name": "The Middle East",
+          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
+        }
+      ],
+      "duration_ms": 326920,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
+    },
+    {
+      "added_at": "2023-09-15 09:54:17",
+      "album": {
         "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 199426,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
-    },
-    {
-      "added_at": "2023-09-15 09:54:17",
-      "album": {
-        "name": "The Recordings of the Middle East",
-        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
-      },
-      "artists": [
-        {
-          "name": "The Middle East",
-          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
-        }
-      ],
-      "duration_ms": 326920,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
     },
     {
       "added_at": "2023-09-15 09:54:17",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2023-09-15 09:54:17",
       "album": {
-        "name": "Living Water",
-        "url": "https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd"
-      },
-      "artists": [
-        {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Recording 15",
-      "url": "https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM"
-    },
-    {
-      "added_at": "2023-09-15 09:54:17",
-      "album": {
         "name": "Sinking Ship / Back & Forth",
         "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 247493,
       "name": "Sinking Ship",
       "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
+    },
+    {
+      "added_at": "2023-09-15 09:54:17",
+      "album": {
+        "name": "Living Water",
+        "url": "https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Recording 15",
+      "url": "https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM"
     },
     {
       "added_at": "2023-09-15 09:54:17",
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2023-09-15 09:54:17",
       "album": {
+        "name": "Holding On, Holding Out",
+        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 199653,
+      "name": "Back to Autumn",
+      "url": "https://open.spotify.com/track/3TdZbELsPLWYZAArGSfwyQ"
+    },
+    {
+      "added_at": "2023-09-15 09:54:17",
+      "album": {
         "name": "Riot On An Empty Street",
         "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
       },
@@ -2207,22 +2223,6 @@
       "duration_ms": 193453,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/2MTZjX6nfGpXu0tR1AOVou"
-    },
-    {
-      "added_at": "2023-09-15 09:54:17",
-      "album": {
-        "name": "Notion - EP",
-        "url": "https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Notion",
-      "url": "https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l"
     },
     {
       "added_at": "2023-09-15 09:54:17",
@@ -2243,18 +2243,18 @@
     {
       "added_at": "2023-09-15 09:54:17",
       "album": {
-        "name": "Holding On, Holding Out",
-        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
+        "name": "Notion - EP",
+        "url": "https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5"
       },
       "artists": [
         {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 199653,
-      "name": "Back to Autumn",
-      "url": "https://open.spotify.com/track/3TdZbELsPLWYZAArGSfwyQ"
+      "duration_ms": 341000,
+      "name": "Notion",
+      "url": "https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l"
     },
     {
       "added_at": "2023-09-15 09:54:17",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2023-09-15 09:54:17",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 242999,
-      "name": "together",
-      "url": "https://open.spotify.com/track/0ZJw3XElRNa29UmEqHTboR"
-    },
-    {
-      "added_at": "2023-09-15 09:54:17",
-      "album": {
         "name": "Darling Arithmetic",
         "url": "https://open.spotify.com/album/1hrv3F7Fbi9gMPkkcwCxRG"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 199773,
       "name": "Dawning On Me",
       "url": "https://open.spotify.com/track/1widQ9TODdm2HQT95lgfQg"
+    },
+    {
+      "added_at": "2023-09-15 09:54:17",
+      "album": {
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 242999,
+      "name": "together",
+      "url": "https://open.spotify.com/track/0ZJw3XElRNa29UmEqHTboR"
     },
     {
       "added_at": "2023-09-15 09:54:17",
@@ -2387,6 +2387,22 @@
     {
       "added_at": "2023-09-15 09:54:17",
       "album": {
+        "name": "Tomb",
+        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 205657,
+      "name": "You Needed Love, I Needed You",
+      "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
+    },
+    {
+      "added_at": "2023-09-15 09:54:17",
+      "album": {
         "name": "hemispheres",
         "url": "https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC"
       },
@@ -2415,22 +2431,6 @@
       "duration_ms": 233084,
       "name": "Lights Off",
       "url": "https://open.spotify.com/track/0kmm2zTSQZoNuNd1lZ0Sbl"
-    },
-    {
-      "added_at": "2023-09-15 09:54:17",
-      "album": {
-        "name": "Tomb",
-        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 205657,
-      "name": "You Needed Love, I Needed You",
-      "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
     },
     {
       "added_at": "2023-09-15 09:54:17",

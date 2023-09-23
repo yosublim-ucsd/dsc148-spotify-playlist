@@ -776,7 +776,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 172986,
       "name": "American Express",
       "url": "https://open.spotify.com/track/5kihc423VlrdrDhqw8ENjr"
@@ -4083,6 +4083,28 @@
     },
     {
       "album": {
+        "name": "El Bloke Hills",
+        "url": "https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162713,
+      "name": "Gafas Pal Sol",
+      "url": "https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep"
+    },
+    {
+      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/68P9rLPO8P6EPL3aBGs1ZV"
       },
@@ -4284,7 +4306,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 177240,
       "name": "GO GO GO",
       "url": "https://open.spotify.com/track/0BJCI9tfhMrpELzRiDzdiR"
@@ -4938,6 +4960,28 @@
       "duration_ms": 152960,
       "name": "Kemba Walker",
       "url": "https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz"
+    },
+    {
+      "album": {
+        "name": "KFC",
+        "url": "https://open.spotify.com/album/02Ga2FBECL6YV4Lf9eYsEo"
+      },
+      "artists": [
+        {
+          "name": "Crazy Point",
+          "url": "https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb"
+        },
+        {
+          "name": "Sin Nombre Music",
+          "url": "https://open.spotify.com/artist/6fGjAHBUx7ICrDru2CO1nt"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187562,
+      "name": "KFC",
+      "url": "https://open.spotify.com/track/1rBFZMHInfIGHO6Wtb1KfQ"
     },
     {
       "album": {
@@ -5844,7 +5888,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 189299,
       "name": "Lince",
       "url": "https://open.spotify.com/track/2gUvYXw2wXKOAFGrMR0qBL"
@@ -6968,6 +7012,28 @@
       "duration_ms": 189333,
       "name": "Monastery",
       "url": "https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok"
+    },
+    {
+      "album": {
+        "name": "CIRCUS",
+        "url": "https://open.spotify.com/album/1RKKNHSeD6HuG15HevvGbe"
+      },
+      "artists": [
+        {
+          "name": "Kill the Clowns",
+          "url": "https://open.spotify.com/artist/7KczDuPvlKEo8nQCpa8my8"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166399,
+      "name": "MONOPSYCHO",
+      "url": "https://open.spotify.com/track/1RvNIXRus8PEkc8nhBji1D"
     },
     {
       "album": {
@@ -8277,6 +8343,24 @@
     },
     {
       "album": {
+        "name": "PLN",
+        "url": "https://open.spotify.com/album/5gPi0LEcwWMCg6WJEYpLUg"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165386,
+      "name": "PLN",
+      "url": "https://open.spotify.com/track/5nUQvg3l33BKuyU42ai7eN"
+    },
+    {
+      "album": {
         "name": "Poblado (Remix)",
         "url": "https://open.spotify.com/album/1avDIEjBJ9ayO1Lj7LxNM7"
       },
@@ -8656,7 +8740,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 120000,
       "name": "PULLIN' UP",
       "url": "https://open.spotify.com/track/5efoy1qDiKRrlJs9MfEQVk"
@@ -10564,7 +10648,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 200506,
       "name": "Te Gusta",
       "url": "https://open.spotify.com/track/4l4AiTqEyjCAJui6xVREH7"
@@ -10949,6 +11033,28 @@
     },
     {
       "album": {
+        "name": "TRAPPii",
+        "url": "https://open.spotify.com/album/7iF9xB4XpjpAUK1K3gQk7v"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177514,
+      "name": "TRAPPii",
+      "url": "https://open.spotify.com/track/1NnWem6HonEiI378MLLOH8"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1os de Dal\u00ed",
         "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
       },
@@ -11060,6 +11166,24 @@
       "duration_ms": 225154,
       "name": "Trending Remix (with Myke Towers)",
       "url": "https://open.spotify.com/track/7y8wfdPTJT94sIs6LnGDJC"
+    },
+    {
+      "album": {
+        "name": "TROYA",
+        "url": "https://open.spotify.com/album/6lwxRxjLpoyE1BFnWumftN"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163173,
+      "name": "TROYA",
+      "url": "https://open.spotify.com/track/1CEdDExqYCaf9UB3nwsBZs"
     },
     {
       "album": {
@@ -12152,7 +12276,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 135460,
       "name": "Yetti",
       "url": "https://open.spotify.com/track/4KDjuDfdZhkv986lYT3N3t"

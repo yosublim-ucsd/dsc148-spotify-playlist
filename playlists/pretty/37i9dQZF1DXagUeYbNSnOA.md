@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring cKovi\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,630 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,644 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,18 +35,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 25 | [no somos nada](https://open.spotify.com/track/4QWMTNDHoVabBMu3RhUd3p) | [las estrellas fugaces nacen en saturno](https://open.spotify.com/artist/0Xo7Js5MqqGioJOwRSvE6k) | [no somos nada](https://open.spotify.com/album/1YptOavSSzLGK4LiBqdU27) | 3:59 |
 | 26 | [Tu y Yo](https://open.spotify.com/track/1Q0Rb1oNMjCDzWROmqTtI6) | [Awexa](https://open.spotify.com/artist/1tv5NHtc4XP7MpNeupdfYa), [JibaoRockin](https://open.spotify.com/artist/5G1JTdQzew4vxlN2h41E65) | [Tu y Yo](https://open.spotify.com/album/2nLBylAAkMvoYG5Isy2uMt) | 3:36 |
 | 27 | [La Fórmula Secreta](https://open.spotify.com/track/5t1JVeRtaLtNHcGkfWywho) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [volumen dos](https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz) | 3:13 |
-| 28 | [La Que Me Gusta](https://open.spotify.com/track/6bKvK0rHqyt5hoP1zwk5Sb) | [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4) | [La Que Me Gusta](https://open.spotify.com/album/5y0syMqQFxOokIk906aq9r) | 3:06 |
-| 29 | [Pulso](https://open.spotify.com/track/4ilsiarphXUoGp2MzK68Tm) | [Laila Farinola](https://open.spotify.com/artist/7nWb2WA5wQLANBcbqGodwW), [Nana Arguen](https://open.spotify.com/artist/65g0Mj39OLPShrFO0QYZNt) | [Pulso](https://open.spotify.com/album/1h6yv9q7OlvXW62MDGEJLS) | 4:21 |
+| 28 | [Pulso](https://open.spotify.com/track/4ilsiarphXUoGp2MzK68Tm) | [Laila Farinola](https://open.spotify.com/artist/7nWb2WA5wQLANBcbqGodwW), [Nana Arguen](https://open.spotify.com/artist/65g0Mj39OLPShrFO0QYZNt) | [Pulso](https://open.spotify.com/album/1h6yv9q7OlvXW62MDGEJLS) | 4:21 |
+| 29 | [La Que Me Gusta](https://open.spotify.com/track/6bKvK0rHqyt5hoP1zwk5Sb) | [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4) | [La Que Me Gusta](https://open.spotify.com/album/5y0syMqQFxOokIk906aq9r) | 3:06 |
 | 30 | [Llevo un Vino](https://open.spotify.com/track/7yGKZQrS0WYTyjhKGJnxnE) | [Pels](https://open.spotify.com/artist/2ILYFO9yLlXG5SgjtWxMXZ) | [Un Perro Verde](https://open.spotify.com/album/6zYM7YzVGfLZoQMupKMvys) | 3:41 |
 | 31 | [Si yo sé hablar es por ti](https://open.spotify.com/track/1vaLUe7LQDivqclhpxFik1) | [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Si yo sé hablar es por ti](https://open.spotify.com/album/52NjcLrNKx3DjqlbKUHVnX) | 3:54 |
 | 32 | [Un día](https://open.spotify.com/track/0b7B3oNHLzYiOmnm8z0GrX) | [Caicedo](https://open.spotify.com/artist/5G7M8mAOxDxQ0QpCtlcEFI) | [Un día](https://open.spotify.com/album/20QTVZ5mvjLIwPIaYcRRUO) | 2:48 |
 | 33 | [Moon 2](https://open.spotify.com/track/5wWoGLRfBXsivAWcdHH5Zi) | [novyhuman](https://open.spotify.com/artist/7DbFIlv5MeuqMWE60aazcS), [33nimb](https://open.spotify.com/artist/7JCqoRmI8QUCXjuJCMGbEk) | [Luz de luna](https://open.spotify.com/album/5CfZeu1EMi4339kXi7xiEO) | 1:52 |
 | 34 | [Canciones con vos](https://open.spotify.com/track/7GNdfZhLngbCNW895W8H10) | [Agustina Pampin](https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv) | [Canciones con vos](https://open.spotify.com/album/0GEduLt0Fz70LUrfcfhd89) | 2:21 |
-| 35 | [Maldigo a Cupido](https://open.spotify.com/track/2DRxYM1jIA39kOzOdqLTF0) | [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py) | [Maldigo a Cupido](https://open.spotify.com/album/4ceWJq8vlUTdrJTlMdNJuI) | 2:56 |
-| 36 | [Esquivando Balas](https://open.spotify.com/track/5t2EkXoDiCZA9VuHhlPQ7o) | [Club de Haters](https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC) | [Esquivando Balas](https://open.spotify.com/album/1NhBolRE4fM0wvkOSyfDR3) | 2:23 |
-| 37 | [Un Secreto](https://open.spotify.com/track/6DpFtcYZwHLh0Lz5WLcCIZ) | [Un Pasillo](https://open.spotify.com/artist/2RqgJvWs8T8DBZouPrOREw) | [Un Secreto](https://open.spotify.com/album/4uxwhFNLUv5vpnrohAmxl7) | 2:52 |
-| 38 | [Fuerte](https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Fuerte](https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5) | 3:49 |
-| 39 | [aterrizar](https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF) | [aterrizar](https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h) | 2:58 |
+| 35 | [Un Secreto](https://open.spotify.com/track/6DpFtcYZwHLh0Lz5WLcCIZ) | [Un Pasillo](https://open.spotify.com/artist/2RqgJvWs8T8DBZouPrOREw) | [Un Secreto](https://open.spotify.com/album/4uxwhFNLUv5vpnrohAmxl7) | 2:52 |
+| 36 | [Maldigo a Cupido](https://open.spotify.com/track/2DRxYM1jIA39kOzOdqLTF0) | [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py) | [Maldigo a Cupido](https://open.spotify.com/album/4ceWJq8vlUTdrJTlMdNJuI) | 2:56 |
+| 37 | [Esquivando Balas](https://open.spotify.com/track/5t2EkXoDiCZA9VuHhlPQ7o) | [Club de Haters](https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC) | [Esquivando Balas](https://open.spotify.com/album/1NhBolRE4fM0wvkOSyfDR3) | 2:23 |
+| 38 | [aterrizar](https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF) | [aterrizar](https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h) | 2:58 |
+| 39 | [Fuerte](https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Fuerte](https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5) | 3:49 |
 | 40 | [Su Forma de Mirar](https://open.spotify.com/track/3OfvmpqvdGV9fKIdsMlsJT) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [Su Forma de Mirar](https://open.spotify.com/album/2RLaIhFb4i1sEkcsFPEJJb) | 4:50 |
 | 41 | [Besos Azules](https://open.spotify.com/track/7vCxPdlT8ypcsUb8E72t4l) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t) | [Besos Azules](https://open.spotify.com/album/5a9BBFMkO3QBaTzmSsC0Il) | 3:55 |
 | 42 | [Tormenta Perfecta](https://open.spotify.com/track/5wjGbQFWp2EGBlJWzqu36f) | [Dr\. Tritón](https://open.spotify.com/artist/3oQhj5KP8pCIdvVEmvhZKM) | [Tormenta Perfecta](https://open.spotify.com/album/63wBeGYe3dY2rm2lCM5c72) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Al Ritmo](https://open.spotify.com/track/2kDRn3PMBxZLjiOScs9W1V) | [VAAV Social Club](https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM), [Canal 5](https://open.spotify.com/artist/5d3pCpf0PPWX3MRrDNy2qg) | [Al Ritmo \~](https://open.spotify.com/album/2X2swajnRlegWLnLs3ii5V) | 2:32 |
 | 50 | [AMOR LIBRE](https://open.spotify.com/track/61sfNTEbG2yU7YYTmUaHRs) | [Filgueira](https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH), [Metalengua](https://open.spotify.com/artist/3gIGCGSknVNY5D17w3CCqh) | [REGIO](https://open.spotify.com/album/7yhpVJHiKdmCxt87S1G9Mw) | 3:33 |
 
-Snapshot ID: `MCw5MDBlM2VmYTEyMTJhODZlMmZmMDUxYjA2ODA3NmY0ZTAyZjQyNjU1`
+Snapshot ID: `MCxjNTFmY2MzOWI0NGU1OTM4M2U0OWMzNmViYjc1ZmVkOTljMzE2OWFm`

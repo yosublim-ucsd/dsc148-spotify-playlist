@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: Doja Cat
 
-534 songs - 1 day 4 hr 50 min
+535 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Another One Of Me \(feat\. The Weeknd, French Montana and 21 Savage\)](https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 3:40 | 2023-09-14 |  |
 | [April](https://open.spotify.com/track/24QSZBkPrq8nP5jC8UsA01) | [IZZY DANIYA](https://open.spotify.com/artist/4YTuQxRYY33qBIb7z9XG19) | [April](https://open.spotify.com/album/0wmXjCIz9FynQsAnIfQgLc) | 3:48 | 2023-06-22 | 2023-09-08 |
 | [Ash \(feat\. KURO\)](https://open.spotify.com/track/2aJN7TLwQRTxEtvSfvBLbE) | [Shoi](https://open.spotify.com/artist/4K30q4KklfsA9oHxwkXa4x), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [Ash \(feat\. KURO\)](https://open.spotify.com/album/0Mwvqjpntcqy8uz2UgMjvf) | 2:17 | 2022-11-03 | 2022-11-11 |
+| [Attention \(Feat\. DAWN, BLASÉ\)](https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:58 | 2023-09-21 |  |
 | [Baby Blue](https://open.spotify.com/track/5FZsJeAOphubEbGEzHATlq) | [Soong](https://open.spotify.com/artist/1hKtrBDlkEWMZuu6clRxKc) | [Baby Blue](https://open.spotify.com/album/7rFLaq2TZuwO3piSQXhHtr) | 3:16 | 2023-06-22 | 2023-07-08 |
 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2022-06-30 | 2022-07-08 |
 | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/track/6RT5ir7all6RgZEAupLNlO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/album/5MBSSSfF904m3GaUapgRIs) | 3:17 | 2022-06-08 | 2022-07-15 |

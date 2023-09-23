@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 110145,
+  "num_followers": 110243,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmNjNTc2OTk0ZjhiMmE4N2FhZTE2NTFiOTZlMWJkMTAxYmFlYTdk",
+  "snapshot_id": "MCw4ZDZlODcyNDQzZjhlNDg4MDVkODMxOTFiMmE5ZjcxYzM4Y2MxOTBk",
   "tracks": [
     {
       "added_at": "2023-09-04 16:45:54",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Celebrity Skin",
-        "url": "https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 159651,
-      "name": "Celebrity Skin",
-      "url": "https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 218253,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 159651,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1092,6 +1092,22 @@
       "added_at": "2023-09-04 16:45:54",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 232175,
+      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
+      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
       },
       "artists": [
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
+        "name": "In Your Prime - EP",
+        "url": "https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX"
       },
       "artists": [
         {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+          "name": "Josef Salvat",
+          "url": "https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz"
         }
       ],
-      "duration_ms": 232175,
-      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
-      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
+      "duration_ms": 247200,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1139,22 +1155,6 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "In Your Prime - EP",
-        "url": "https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX"
-      },
-      "artists": [
-        {
-          "name": "Josef Salvat",
-          "url": "https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Emily In Paris Season 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0"
-      },
-      "artists": [
-        {
-          "name": "Ashley Park",
-          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
-        }
-      ],
-      "duration_ms": 124805,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6dgZhiW5isdLIrpOdDqrwr"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 230306,
       "name": "Better Now - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Emily In Paris Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0"
+      },
+      "artists": [
+        {
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+        }
+      ],
+      "duration_ms": 124805,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6dgZhiW5isdLIrpOdDqrwr"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
+        "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
+        "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 194595,
+      "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
+      "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
         "name": "Fireflies",
         "url": "https://open.spotify.com/album/0xc75YODN0gYtngjMtAqkW"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 185714,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/4BAlcJ34coNhGeUNfR2qop"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
-        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
-      },
-      "artists": [
-        {
-          "name": "Suzanna Son",
-          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
-        }
-      ],
-      "duration_ms": 127400,
-      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
-      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1843,18 +1843,18 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
-        "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
+        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
+        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
       },
       "artists": [
         {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+          "name": "Suzanna Son",
+          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
         }
       ],
-      "duration_ms": 194595,
-      "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
-      "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
+      "duration_ms": 127400,
+      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
+      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "LEGEND (Solo Piano Version)",
-        "url": "https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 278226,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/2DWteQehd27R6qkJdHFggd"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Covers by Cannons",
         "url": "https://open.spotify.com/album/72TswqpNqHygmzS47oS4v4"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 176508,
       "name": "Golden - Originally Performed By Harry Styles",
       "url": "https://open.spotify.com/track/6OPbfOqtL7y51EwpDIiqMm"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "LEGEND (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 278226,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/2DWteQehd27R6qkJdHFggd"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
-        "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
-      },
-      "artists": [
-        {
-          "name": "Jillian Jacqueline",
-          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
-        }
-      ],
-      "duration_ms": 243562,
-      "name": "I Feel It Coming (Recorded At Sound Stage Nashville)",
-      "url": "https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Walking On The Moon",
         "url": "https://open.spotify.com/album/2kwI7O2JRV0R0WXLPr9teL"
       },
@@ -2083,18 +2067,18 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Come As You Are",
-        "url": "https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm"
+        "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
+        "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
       },
       "artists": [
         {
-          "name": "SHAED",
-          "url": "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
         }
       ],
-      "duration_ms": 156625,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c"
+      "duration_ms": 243562,
+      "name": "I Feel It Coming (Recorded At Sound Stage Nashville)",
+      "url": "https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2111,6 +2095,22 @@
       "duration_ms": 213706,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/4blEH2R5HZHTsZapNlvApV"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Come As You Are",
+        "url": "https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm"
+      },
+      "artists": [
+        {
+          "name": "SHAED",
+          "url": "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
+        }
+      ],
+      "duration_ms": 156625,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Born in the Eighties",
-        "url": "https://open.spotify.com/album/6OtA1RszyuxoQfgq3aLhDX"
-      },
-      "artists": [
-        {
-          "name": "Milow",
-          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
-        }
-      ],
-      "duration_ms": 213945,
-      "name": "Ayo Technology",
-      "url": "https://open.spotify.com/track/3FZl7oNIPiYVfE59uVmPDU"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "You Get What You Give",
         "url": "https://open.spotify.com/album/2OU1KMDkZAXhWs1FUHcFm6"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 217043,
       "name": "You Get What You Give",
       "url": "https://open.spotify.com/track/5THybCnLJJ6yELeignV078"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Born in the Eighties",
+        "url": "https://open.spotify.com/album/6OtA1RszyuxoQfgq3aLhDX"
+      },
+      "artists": [
+        {
+          "name": "Milow",
+          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
+        }
+      ],
+      "duration_ms": 213945,
+      "name": "Ayo Technology",
+      "url": "https://open.spotify.com/track/3FZl7oNIPiYVfE59uVmPDU"
     },
     {
       "added_at": "2023-09-04 16:45:54",

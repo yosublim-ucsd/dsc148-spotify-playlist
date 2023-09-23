@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Sidea
+> Il meglio dell'R&B italiano\. Cover: Davide Shorty
 
-380 songs - 18 hr 45 min
+381 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [MareBuio](https://open.spotify.com/track/734XqvVA3DDtVQq2GXEXFJ) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [MareBuio](https://open.spotify.com/album/535MtuAm0mq98dzcDPM8vt) | 3:08 | 2023-04-27 | 2023-06-02 |
 | [Margherita](https://open.spotify.com/track/2DXSoLexHmNDlMF0e1pWNV) | [VIMINE](https://open.spotify.com/artist/0K1uWTds9AnxHTy8RJQxEH) | [Margherita](https://open.spotify.com/album/4o8npqjy32DTAcpWqOVrlb) | 2:12 | 2022-10-06 | 2023-02-03 |
 | [Mariposa](https://open.spotify.com/track/7lQ4yvORROiXuznj1ZoTOP) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Mariposa](https://open.spotify.com/album/2OZ46QQ4k72Hsy15w4Lvsl) | 3:36 | 2022-10-27 | 2023-02-03 |
+| [Meraviglioso](https://open.spotify.com/track/1jkRoA2wGzgOlzjAaGpXV6) | [MOLTObELLO](https://open.spotify.com/artist/0y6ssu4rdIqbyP0ipQq40Q) | [Meraviglioso](https://open.spotify.com/album/705PmwstoLNz8Euf23n7wo) | 2:37 | 2023-09-22 |  |
 | [Mercurio](https://open.spotify.com/track/4V5DQ7DcZgmS5dW9bFCSac) | [Jacopo Planet](https://open.spotify.com/artist/4poKX0fRYCGvuffNIj2f5f) | [Mercurio](https://open.spotify.com/album/5GeDTicAnATrr6MpgBRwCI) | 2:35 | 2022-09-29 | 2022-12-02 |
 | [Mi Gira La Testa](https://open.spotify.com/track/114YeEt2XdzX57hb96uG7B) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa) | [Mi Gira La Testa](https://open.spotify.com/album/5IH5AeO5aTumznJO9IL3vX) | 2:52 | 2023-06-08 | 2023-09-15 |
 | [Mi piace](https://open.spotify.com/track/1FVJXPTCvJRsr3H359CuRV) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Intro](https://open.spotify.com/album/0ZEM5B4oMJk6EAhOaekSDk) | 3:11 | 2023-06-22 |  |

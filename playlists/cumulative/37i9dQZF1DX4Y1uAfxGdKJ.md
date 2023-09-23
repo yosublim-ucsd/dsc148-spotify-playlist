@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-148 songs - 8 hr 16 min
+149 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Aberdeen](https://open.spotify.com/track/5Zi4ss26YhBU16imt3WEJ3) | [Vee Jay](https://open.spotify.com/artist/7GC4nMn8SQcBeF5c66SmQl) | [Aberdeen](https://open.spotify.com/album/6i9ncCIApWTzLU5T1auj3y) | 2:32 | 2023-03-31 | 2023-07-18 |
 | [After the Rains](https://open.spotify.com/track/3nVHB5vFE9Zpj4BYXFc3w4) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Ascendant Waveforms](https://open.spotify.com/album/3yGCpmSTGWnkkIqb2e5xcG) | 3:49 | 2022-10-07 |  |
 | [Aguacates Maduros](https://open.spotify.com/track/3bDpJL4DCGc8ynUfhCtTHl) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Aguacates Maduros](https://open.spotify.com/album/5L5ZfUAzvCyBiBM3yWy5DC) | 2:43 | 2022-09-23 |  |
+| [Apollo](https://open.spotify.com/track/5VkZbMDVM7ZDorvYvxH9fT) | [Didi Henric](https://open.spotify.com/artist/6lV1RWdJ0XSM4OxR8QbYyk) | [Apollo](https://open.spotify.com/album/3fcnJzILfEJWHydxYMCrry) | 2:16 | 2023-09-22 |  |
 | [Apollo](https://open.spotify.com/track/5sIlFL8mCj6AIrRDI1d6mT) | [Donkels](https://open.spotify.com/artist/6as2EDg4VeljtLbtgBy54P) | [Apollo](https://open.spotify.com/album/2FhcrxYhzCnGz5T0ZromSk) | 2:26 | 2022-09-23 |  |
 | [banana split](https://open.spotify.com/track/7u1tLb1LntsHDFhJ94AGlz) | [Cosmic Citrine](https://open.spotify.com/artist/3v9QBUh3xv6Nmh8fc7BGox) | [banana split](https://open.spotify.com/album/6SUdl3Z0bLceeTfQZLDU73) | 2:58 | 2022-10-07 | 2023-07-18 |
 | [Beautiful House](https://open.spotify.com/track/16QQGyu1UFkfQREErhvyvf) | [Beautiful Minds](https://open.spotify.com/artist/5mDrLKHpzWOlD73nhHYUty) | [Beautiful House / Aqualogico](https://open.spotify.com/album/6a4pT5HdiimlPYlzDgriOq) | 4:36 | 2022-09-23 |  |
@@ -117,7 +118,7 @@
 | [Quick Sand](https://open.spotify.com/track/6htTBHUpAE9VFfbCrR5rQH) | [Lukall](https://open.spotify.com/artist/4jhnkqer34ex3RRtYA6e5O) | [Quick Sand](https://open.spotify.com/album/6lEvyBtEpcKbzZUr4ONKBX) | 3:53 | 2022-11-25 | 2023-07-18 |
 | [Ramblas](https://open.spotify.com/track/5yvdQZqYzMt191ssW3NvUD) | [Metra kit](https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3) | [Ramblas](https://open.spotify.com/album/1wc0My9WNuYDavAKc7ifgf) | 3:12 | 2023-03-31 |  |
 | [Reactor 7](https://open.spotify.com/track/0KEd7iWaVQLQgDOv4uZhci) | [Martin Spiske](https://open.spotify.com/artist/10ERqJV744ZtavyVoA7bIO) | [Reactor 7](https://open.spotify.com/album/0zzYTZxje2FEO9ta0ZvygS) | 2:56 | 2022-09-23 | 2023-07-18 |
-| [Rebel](https://open.spotify.com/track/2Pbls3fWibSzMOjG43sVBF) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Parachutes](https://open.spotify.com/album/5MoNA5y7SgdWPmr7Tw23Hk) | 3:58 | 2023-02-10 |  |
+| [Rebel](https://open.spotify.com/track/2Pbls3fWibSzMOjG43sVBF) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Parachutes](https://open.spotify.com/album/5MoNA5y7SgdWPmr7Tw23Hk) | 3:58 | 2023-02-10 | 2023-09-23 |
 | [Returning to What Is](https://open.spotify.com/track/7x5AbgjodfYRFdB3UxAOGB) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Returning to What Is](https://open.spotify.com/album/42nTIL1I7hDW81DBMTTl0S) | 5:53 | 2023-07-06 |  |
 | [Roma Routine](https://open.spotify.com/track/6tRdbsDBn6BQ4Pk9fz2JAl) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Roma Routine](https://open.spotify.com/album/7DVuxMwQTHvRi2l6Vra5Ce) | 3:30 | 2022-10-28 |  |
 | [Rooftop Prelude](https://open.spotify.com/track/5ghSf2DY96iGYoB4vQePpE) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Rooftop Prelude](https://open.spotify.com/album/04mVbv0JlznRDcTBneKQQw) | 3:00 | 2022-10-28 |  |

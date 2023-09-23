@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,795 likes - 110 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,967 likes - 110 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 11 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
 | 12 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 | 13 | [Black Dress](https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Black Dress](https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9) | 3:57 |
-| 14 | [Can't Wait](https://open.spotify.com/track/6Op8uyzVH11oJGcCK8yyEn) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:55 |
+| 14 | [Can't Wait](https://open.spotify.com/track/5ZyQqAgrPr0cVm0VfM69Np) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:55 |
 | 15 | [WY@](https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WY@](https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd) | 3:28 |
 | 16 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
 | 17 | [lady \(feat\. chlothegod\)](https://open.spotify.com/track/6qtJs5w3x7z0Z41im1TCT6) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua), [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Take What You Need](https://open.spotify.com/album/3nR9KOMEB7VhY8PlyiK11d) | 2:32 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 30 | [Watching The News](https://open.spotify.com/track/7mRQwapf9utc4GcehUZ1VP) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Sharing is Caring](https://open.spotify.com/album/1Kj5fIqE9jXWNVzjYTPp3j) | 3:38 |
 | 31 | [Masego’s Interlude](https://open.spotify.com/track/6CiOWFRE5AaF3H1yQHWeyq) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego’s Interlude](https://open.spotify.com/album/74uSNVth7Fl2J18RbFLqaH) | 2:06 |
 | 32 | [Don't Buy Me Roses](https://open.spotify.com/track/0693AhSpjQUnspV8uObIfp) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Don't Buy Me Roses](https://open.spotify.com/album/17vJ6f6m5ZKsCJ9mPvphjD) | 3:24 |
-| 33 | [97](https://open.spotify.com/track/6geHIF8dr4TmicWdFASykz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 2:57 |
+| 33 | [97](https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:57 |
 | 34 | [I Just Wanna Feel Your Love Again](https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [I Just Wanna Feel Your Love Again](https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7) | 4:01 |
 | 35 | [Give Me A New Role](https://open.spotify.com/track/4yJnHyxIVWCoLs8owPwiJp) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Give Me A New Role](https://open.spotify.com/album/2L2yn8l4FLstmFXm2o79v3) | 4:14 |
 | 36 | [Summertime](https://open.spotify.com/track/74rGeSKxOyoPlty2caAMFA) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Summertime / Can't Stop](https://open.spotify.com/album/34FVW2V09s0IXrcgjx1AmG) | 4:16 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 109 | [I Want To Be Your Only Pet](https://open.spotify.com/track/1J5JzMOAuxoiGYI3Irn2St) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Want To Be Your Only Pet](https://open.spotify.com/album/5JN324RyeAPDTbRDkn5KRW) | 3:34 |
 | 110 | [Selfish Lies \(Laudanum\)](https://open.spotify.com/track/7JgtzJ7LfrqejT438nZ5tx) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Pink Cloud EP](https://open.spotify.com/album/5OGKTqF0cpjVK70i0hjibj) | 3:16 |
 
-Snapshot ID: `MCw5YzNhMjg5YmJjN2RkYTBhNjZmMWEzNTNhNDNkYTM0MGVlNDA3MzZk`
+Snapshot ID: `MCwyYzA2ZGRjNzNlYjc1Y2IxYWM2MjdjYjhkYjA5NGNkNzcwMmJkNTVm`

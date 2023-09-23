@@ -4,7 +4,7 @@
 
 > Bossa nova vibes for the hopeless romantic daydreamers.
 
-92 songs - 4 hr 38 min
+93 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [do u really? \(with Ruth B.\)](https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [do u really?](https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6) | 2:41 | 2023-02-03 |  |
 | [Drunk On A Flight](https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 3:02 | 2023-03-31 |  |
 | [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-20 | 2023-04-20 |
-| [Embrasse Moi](https://open.spotify.com/track/4TVGPGXdzaVUMSucKxOMQu) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Clementine](https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx) | [Embrasse Moi](https://open.spotify.com/album/4YZ6qaWOYDkgtRnWJlkrhW) | 2:57 | 2023-01-06 |  |
+| [Embrasse Moi](https://open.spotify.com/track/4TVGPGXdzaVUMSucKxOMQu) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Clementine](https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx) | [Embrasse Moi](https://open.spotify.com/album/4YZ6qaWOYDkgtRnWJlkrhW) | 2:57 | 2023-01-06 | 2023-09-23 |
 | [Entre nous](https://open.spotify.com/track/6O3ksAhy0XOhf48pmz23bR) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Entre nous](https://open.spotify.com/album/6NT4HEyfM1QmvoUguE0EHf) | 2:59 | 2023-01-06 | 2023-04-30 |
 | [Entre nous](https://open.spotify.com/track/7bmtlgtRezmSH5vgDGzQig) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Entre nous](https://open.spotify.com/album/5akgQYFjwmGCfmedpgl53C) | 2:59 | 2023-03-31 |  |
 | [espresso](https://open.spotify.com/track/0VNcFGQjN7huUyEPwBtksC) | [wüsh](https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK), [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt), [Lucy Weld](https://open.spotify.com/artist/0YnLefkesxcihbTtIG0iyZ) | [Mountain Tops](https://open.spotify.com/album/5A1axIYldvItf7MvKe5mGl) | 1:32 | 2023-01-06 | 2023-09-16 |
@@ -60,6 +60,7 @@
 | [Lungs](https://open.spotify.com/track/7BxzMUwuPM09XnP1wTm2z8) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV) | [Lungs](https://open.spotify.com/album/0azrQYwwoEliseBAUlBT88) | 2:40 | 2023-01-20 |  |
 | [MESS U MADE](https://open.spotify.com/track/1jZrlerU1ZWEI7oDPtHPGx) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS](https://open.spotify.com/album/0DNz0XsG6B1Vz1CcbuIsov) | 2:48 | 2023-01-06 |  |
 | [Moon River \(From Breakfast at Tiffany's\) \[Remastered\]](https://open.spotify.com/track/1XwAKjAZ1xDZOcuyZoqce4) | [Audrey Hepburn](https://open.spotify.com/artist/16eV2TebyEhqaDRFEZJ9h8) | [Moon River \(Breakfast at Tiffany's\) \[Remastered\]](https://open.spotify.com/album/3RnvFVaJrRTpSTFDabNgGA) | 2:03 | 2023-07-28 |  |
+| [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-22 |  |
 | [Old With You](https://open.spotify.com/track/2XPLk9RyWawxFmVDQsC0ke) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 3:26 | 2023-08-04 |  |
 | [once in a moon](https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [once in a moon](https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963) | 4:05 | 2023-01-06 |  |
 | [outside the party, inside the dream](https://open.spotify.com/track/1LcwYCQ78z4PvLiU2Qt3XV) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [outside the party, inside the dream](https://open.spotify.com/album/6r70ZDnApSWdvzHz3pQUVc) | 3:08 | 2023-01-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "El icuiricui, el matalacachimba y el ruletero.",
-  "num_followers": 243033,
+  "num_followers": 243119,
   "original_name": "Ruleteando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWI2NTc1MTYyZTY2YjVmNTI5ZTMwNGY0ZGIxMmZhOTQ0NmQ2MWQ4",
+  "snapshot_id": "MCwwYjk1YmViZTljYzg4OGYyNjA1YWU1MjkxYmZiZDRhOWFmYzA2ZTYy",
   "tracks": [
     {
       "added_at": "2023-06-02 20:08:38",
@@ -67,6 +67,22 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
+        "name": "La Rueda De La Fortuna",
+        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "El Paciente",
+      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
         "name": "Bebe Dame",
         "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
-        "name": "La Rueda De La Fortuna",
-        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "El Paciente",
-      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -191,18 +191,18 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "El D\u00eda De Los Muertos",
-        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 209266,
-      "name": "El Vals Del Olvido",
-      "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
+      "duration_ms": 221226,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 161906,
       "name": "Pong\u00e1monos De Acuerdo",
       "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "El D\u00eda De Los Muertos",
+        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "El Vals Del Olvido",
+      "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
         "name": "Compraron Una Cantina",
         "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 186280,
       "name": "Se Muri\u00f3 De Amor",
       "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "En Tiempo De Amor",
         "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
       },
@@ -491,50 +475,18 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+        "name": "Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
         }
       ],
-      "duration_ms": 237080,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
-        "name": "Mi Vida Eres T\u00fa",
-        "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
-      },
-      "artists": [
-        {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
-        }
-      ],
-      "duration_ms": 250026,
-      "name": "Mi Vida Eres T\u00fa",
-      "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
+      "duration_ms": 225360,
+      "name": "Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -555,6 +507,54 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "Mi Vida Eres T\u00fa",
+        "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 250026,
+      "name": "Mi Vida Eres T\u00fa",
+      "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
         "name": "Mi Satisfacci\u00f3n",
         "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 157760,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "Fuerte No Soy",
+      "url": "https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -651,38 +667,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
-        "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ensamble",
-          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
-        }
-      ],
-      "duration_ms": 226346,
-      "name": "Tus Jefes No Me Quieren",
-      "url": "https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "Fuerte No Soy",
-      "url": "https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "Intimidades",
         "url": "https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Afortunado",
-        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
+        "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
+        "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Grupo Ensamble",
+          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
         }
       ],
-      "duration_ms": 167514,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
+      "duration_ms": 226346,
+      "name": "Tus Jefes No Me Quieren",
+      "url": "https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -779,6 +763,22 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
+        "name": "Afortunado",
+        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 167514,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
         "name": "Los Yaguaru",
         "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "El Primer Ministro",
-        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 145560,
-      "name": "Ma\u00f1ana Voy A Conquistarla",
-      "url": "https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "Con La Fuerza Del Destino",
         "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 177106,
       "name": "C\u00f3mo Est\u00e1s T\u00fa",
       "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "El Primer Ministro",
+        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 145560,
+      "name": "Ma\u00f1ana Voy A Conquistarla",
+      "url": "https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "Y Para Siempre ...",
         "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Pasi\u00f3n Y Cumbia",
-        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
       },
       "artists": [
         {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
         }
       ],
-      "duration_ms": 213026,
-      "name": "Amor Regresa",
-      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -1035,6 +1019,22 @@
       "duration_ms": 176560,
       "name": "Entrega De Amor",
       "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "Pasi\u00f3n Y Cumbia",
+        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Amor Regresa",
+      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Culpable T\u00fa",
-        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
-      },
-      "artists": [
-        {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
-        }
-      ],
-      "duration_ms": 155513,
-      "name": "Te Deseo Lo Mejor",
-      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "Directo Al Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 280120,
       "name": "Ese Loco Soy Yo",
       "url": "https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "Culpable T\u00fa",
+        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
+      },
+      "artists": [
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "duration_ms": 155513,
+      "name": "Te Deseo Lo Mejor",
+      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Linea De Oro Contigo O Sin Ti",
-        "url": "https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs"
-      },
-      "artists": [
-        {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "\u00c9l Soy Yo",
-      "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "Vanidosa",
         "url": "https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 254440,
       "name": "La Loca",
       "url": "https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "Linea De Oro Contigo O Sin Ti",
+        "url": "https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "duration_ms": 195120,
+      "name": "\u00c9l Soy Yo",
+      "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Los Felinos",
-        "url": "https://open.spotify.com/album/4PskUSrvXsKUQ6V0YSlVdI"
-      },
-      "artists": [
-        {
-          "name": "Los Felinos",
-          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
-        }
-      ],
-      "duration_ms": 226417,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/0sfppAuBPAZ76Xxye6evli"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
         "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 242648,
       "name": "Desde El Fondo De Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "Los Felinos",
+        "url": "https://open.spotify.com/album/4PskUSrvXsKUQ6V0YSlVdI"
+      },
+      "artists": [
+        {
+          "name": "Los Felinos",
+          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
+        }
+      ],
+      "duration_ms": 226417,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/0sfppAuBPAZ76Xxye6evli"
     },
     {
       "added_at": "2023-06-02 20:08:38",

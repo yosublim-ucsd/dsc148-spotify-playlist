@@ -4,7 +4,7 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-373 songs - 23 hr 41 min
+374 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,8 @@
 | [Needed](https://open.spotify.com/track/5MHHcFRlO9LUP153GFHOk6) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Spirit](https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG) | 5:18 | 2021-09-01 |  |
 | [Never The Same](https://open.spotify.com/track/7tXrQ2MHCvwe5W8HQuX77r) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Basiel EP](https://open.spotify.com/album/2fqEvSXLZWsqNhYt1hGupS) | 6:24 | 2021-09-01 |  |
 | [Nightfall](https://open.spotify.com/track/5gOjgC33rAzogOdiX7sqRx) | [Black Lilys](https://open.spotify.com/artist/6dtP2BDEXa3dHhYo8u22pH) | [Boxes](https://open.spotify.com/album/5dHGdnG5fzv2TjdO3bS18S) | 3:53 | 2021-09-01 |  |
-| [No More Time](https://open.spotify.com/track/04tChTd9e3doey94izHAhA) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Many Nights](https://open.spotify.com/album/7sYMpykonUmETY57kACYgL) | 3:15 | 2021-09-01 |  |
+| [No More Time](https://open.spotify.com/track/04tChTd9e3doey94izHAhA) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Many Nights](https://open.spotify.com/album/7sYMpykonUmETY57kACYgL) | 3:15 | 2021-09-01 | 2023-09-23 |
+| [No More Time](https://open.spotify.com/track/3MFakzY4kJM8HlacDWIs3w) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Many Nights](https://open.spotify.com/album/3GHbaRat2oaOjBoO8VURU4) | 3:15 | 2021-09-01 |  |
 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/3GhsBdS9ulPK3KCdwHRPhG) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/6w9osZGOS8B7XWW51SBwFT) | 4:46 | 2022-11-24 | 2023-09-02 |
 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk) | 4:46 | 2022-11-24 |  |
 | [Now You're a Home \(feat\. Ruuth\)](https://open.spotify.com/track/5mKekqQb3G8OK23LVzqJHB) | [Christian Reindl](https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB) | [Finding Home](https://open.spotify.com/album/0XG9zBVuCGGnvCK5bD4222) | 3:42 | 2021-09-01 |  |

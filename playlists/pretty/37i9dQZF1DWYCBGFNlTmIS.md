@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 
 > 生命中有各種離別時刻，在告別前，你會點播那一首歌給那位聽？
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,217 likes - 85 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,218 likes - 85 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 | 84 | [獨家村](https://open.spotify.com/track/0FlQr1kPj50rAee1kJjk5p) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [KONTINUE](https://open.spotify.com/album/5p2E0WphdOZE45CUoRbHg7) | 4:20 |
 | 85 | [鐵塔凌雲](https://open.spotify.com/track/3tMwHTdHyJBBiw5GGUITci) | [Sam Hui](https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7) | [寶麗金88極品音色系列 \- 許冠傑](https://open.spotify.com/album/0tWdkdfyXeS8uaej0tFvgO) | 3:04 |
 
-Snapshot ID: `MCwwYWQ5ZGNhNzk2MGY5OTAwMWZiNTZhYjhjZmM1YmU0OGE4ZTRjNTY5`
+Snapshot ID: `MCwyYTMxZjNmZTE2M2M2NDRjOTkzOWU2NDJkMjQ4YzZiMzAyZGE5ZjYw`

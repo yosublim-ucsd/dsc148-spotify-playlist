@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Gaab",
-  "num_followers": 163521,
+  "num_followers": 163543,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWJjMjAyODdmMGZmYzhmZTJhNDUzOWExNjRkN2NiZWU4YWEwZDU2",
+  "snapshot_id": "MCxmN2Y2ZDFhYmIxYzM4YjZmNmY3ZWJjNzhjM2UxY2EwYjY1Y2Y2OWRj",
   "tracks": [
     {
       "added_at": "2023-09-15 03:01:00",
@@ -671,22 +671,26 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "LAMPEJOS",
-        "url": "https://open.spotify.com/album/4V334gyHrpj7r27utKzxGb"
+        "name": "Rec\u00edproco",
+        "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
       },
       "artists": [
         {
-          "name": "Guhhl",
-          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
+          "name": "Victor JR",
+          "url": "https://open.spotify.com/artist/3p0GexHIGvyoEQUpb2Nnlo"
         },
         {
-          "name": "PS",
-          "url": "https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68"
+          "name": "Ingrid Milanez",
+          "url": "https://open.spotify.com/artist/3ucZWCjRRupT8LDfqaoRZJ"
+        },
+        {
+          "name": "DJ Alle Mark",
+          "url": "https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ"
         }
       ],
-      "duration_ms": 150848,
-      "name": "LAMPEJOS",
-      "url": "https://open.spotify.com/track/5ZNdTL3f4T3gbMuXCmTfT7"
+      "duration_ms": 180000,
+      "name": "Rec\u00edproco",
+      "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -715,26 +719,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Rec\u00edproco",
-        "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
+        "name": "LAMPEJOS",
+        "url": "https://open.spotify.com/album/4V334gyHrpj7r27utKzxGb"
       },
       "artists": [
         {
-          "name": "Victor JR",
-          "url": "https://open.spotify.com/artist/3p0GexHIGvyoEQUpb2Nnlo"
+          "name": "Guhhl",
+          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
         },
         {
-          "name": "Ingrid Milanez",
-          "url": "https://open.spotify.com/artist/3ucZWCjRRupT8LDfqaoRZJ"
-        },
-        {
-          "name": "DJ Alle Mark",
-          "url": "https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ"
+          "name": "PS",
+          "url": "https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Rec\u00edproco",
-      "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
+      "duration_ms": 150848,
+      "name": "LAMPEJOS",
+      "url": "https://open.spotify.com/track/5ZNdTL3f4T3gbMuXCmTfT7"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+      },
+      "artists": [
+        {
+          "name": "MOTICO MONEY",
+          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
+        }
+      ],
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "\u00c9ramos",
         "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 205480,
       "name": "Real (Citando Djonga)",
       "url": "https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Lingerie Branca",
-        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
-      },
-      "artists": [
-        {
-          "name": "MOTICO MONEY",
-          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
-        }
-      ],
-      "duration_ms": 239029,
-      "name": "Lingerie Branca",
-      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Reprise",
-        "url": "https://open.spotify.com/album/5lsHZyPD45u1OGo2Vmyjzt"
-      },
-      "artists": [
-        {
-          "name": "Yuri Fernandes",
-          "url": "https://open.spotify.com/artist/1xo1lhaGzGzirvCE5ljMmP"
-        }
-      ],
-      "duration_ms": 215094,
-      "name": "Reprise",
-      "url": "https://open.spotify.com/track/6NuvEZnlowoiq4Ht40qT1u"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Novela",
         "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 144578,
       "name": "Novela",
       "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Reprise",
+        "url": "https://open.spotify.com/album/5lsHZyPD45u1OGo2Vmyjzt"
+      },
+      "artists": [
+        {
+          "name": "Yuri Fernandes",
+          "url": "https://open.spotify.com/artist/1xo1lhaGzGzirvCE5ljMmP"
+        }
+      ],
+      "duration_ms": 215094,
+      "name": "Reprise",
+      "url": "https://open.spotify.com/track/6NuvEZnlowoiq4Ht40qT1u"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Estou Aqui",
-        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
-      },
-      "artists": [
-        {
-          "name": "INAHUGO",
-          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Del\u00edrio",
-      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Imaturos",
         "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 212000,
       "name": "Imaturos",
       "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Estou Aqui",
+        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
+      },
+      "artists": [
+        {
+          "name": "INAHUGO",
+          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Mariah Nala no Studio F (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4nWfjD2QTrxHt8HOesIj67"
+      },
+      "artists": [
+        {
+          "name": "Mariah Nala",
+          "url": "https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC"
+        }
+      ],
+      "duration_ms": 148869,
+      "name": "Sem Voc\u00ea (Ac\u00fastico no Studio F)",
+      "url": "https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Liga\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/3X4pfBeCpDeMG9vbsAm95e"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 200210,
       "name": "Liga\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/4YU8fEqLYvGSnLv2lFVkjF"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Mariah Nala no Studio F (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4nWfjD2QTrxHt8HOesIj67"
-      },
-      "artists": [
-        {
-          "name": "Mariah Nala",
-          "url": "https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC"
-        }
-      ],
-      "duration_ms": 148869,
-      "name": "Sem Voc\u00ea (Ac\u00fastico no Studio F)",
-      "url": "https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt"
     },
     {
       "added_at": "2023-09-15 03:01:00",

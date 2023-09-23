@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 
 > The cool sound of West coast Jazz\. Cover: Gerry Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,499 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,532 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 11 | [Cast Your Fate to the Wind](https://open.spotify.com/track/3nI7dNecArHQRc0vTUvELz) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Jazz Impressions Of Black Orpheus \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH) | 3:10 |
 | 12 | [Inside Impromptu](https://open.spotify.com/track/4r4DOQ4OaGA3TsSqGqA2HE) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jeru](https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP) | 5:32 |
 | 13 | [Chetty's Lullaby](https://open.spotify.com/track/3CfVHLrRxTLDqGZA25w5Eh) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet is Back](https://open.spotify.com/album/7BsY0CO8mqyXnLf4KiB5AM) | 3:55 |
-| 14 | [I've Grown Accustomed To Her Face](https://open.spotify.com/track/2p14371u2TyoND8KyyyN0T) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz With Cal Tjader](https://open.spotify.com/album/2JoYII1dEoiwkRSNexKo3J) | 3:56 |
+| 14 | [With A Little Bit Of Luck \- Instrumental](https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 6:02 |
 | 15 | [Red Pepper Blues](https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 3:40 |
-| 16 | [With A Little Bit Of Luck \- Instrumental](https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 6:02 |
+| 16 | [I've Grown Accustomed To Her Face](https://open.spotify.com/track/2p14371u2TyoND8KyyyN0T) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz With Cal Tjader](https://open.spotify.com/album/2JoYII1dEoiwkRSNexKo3J) | 3:56 |
 | 17 | [Everybody's Jumpin'](https://open.spotify.com/track/0r3ZObqOhirTkBCr8f4L9q) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 4:22 |
 | 18 | [Star Song](https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV) | [The Latin Side Of Vince Guaraldi](https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4) | 3:36 |
 | 19 | [My Funny Valentine \- Live At The Shrine Auditorium, Los Angeles / 1957](https://open.spotify.com/track/3XMlpZZy7YhvfnHoiIKlYa) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [Stan Getz And J.J\. Johnson At The Opera House \(Live / 1957\)](https://open.spotify.com/album/6u0UBTSzmzL9CbfpwcNwKm) | 8:28 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 27 | [The Eagle Flies](https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [Coolin'](https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2) | 7:43 |
 | 28 | [Isn't It Romantic](https://open.spotify.com/track/7gQmV1v83oPr2BwBaw89Qr) | [Jimmy Raney](https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Jimmy Raney Featuring Bob Brookmeyer](https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp) | 4:06 |
 | 29 | [Stand Still](https://open.spotify.com/track/07jLNxcwKlAJ8c11gLJuTK) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet / Blues In Time](https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv) | 3:30 |
-| 30 | [Sometime Ago](https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Bob Brookmeyer & Friends](https://open.spotify.com/album/12JCMQ79q662srkjDGoe02) | 4:04 |
-| 31 | [Moon Over Cuba](https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO) | [Shorty Rogers](https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN) | [Afro\-Cuban Influence](https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5) | 4:17 |
+| 30 | [Moon Over Cuba](https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO) | [Shorty Rogers](https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN) | [Afro\-Cuban Influence](https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5) | 4:17 |
+| 31 | [Sometime Ago](https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Bob Brookmeyer & Friends](https://open.spotify.com/album/12JCMQ79q662srkjDGoe02) | 4:04 |
 | 32 | [Patti Cake](https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Nothing But The Blues](https://open.spotify.com/album/3looSg4zNUFzKAyyos640A) | 6:01 |
 | 33 | [The Wind](https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2) | [Chico Hamilton Quintet](https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6) | [Chico Hamilton Quintet In Hi\-Fi](https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg) | 3:39 |
 | 34 | [Custard Puff](https://open.spotify.com/track/1qzchpVVLBAtZrz2EJMOge) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [The Poll Winners Ride Again!](https://open.spotify.com/album/7gZqZCkWIPlSAbttTYHgaT) | 4:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 49 | [Pigalle](https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM) | [Buddy Collette](https://open.spotify.com/artist/1ZsOY6yOMW2n8M7mzKuTpR) | [Jazz Loves Paris](https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq) | 2:26 |
 | 50 | [Resonant Emotions](https://open.spotify.com/track/33JJFna9sqjq9XchUHYuaA) | [Chet Baker and Art Pepper](https://open.spotify.com/artist/57Qh2bYGjxFTo0N8qwtKaU) | [Playboys](https://open.spotify.com/album/3o9kITv0ss0JcD1rA3DzIo) | 5:44 |
 
-Snapshot ID: `MCxkMzZiZDk5ZWFhMmY2NzA3NTVjODE3NTlhMGEyY2Y4NWE0YzVmMWEx`
+Snapshot ID: `MCw3MDEwYzAxNzM4YTViMDM4Nzc0OTc3NjY5ZjhmMzZkMDljZjc1NmU1`

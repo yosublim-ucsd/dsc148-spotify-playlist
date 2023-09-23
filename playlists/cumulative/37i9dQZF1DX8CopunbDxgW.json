@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: NEIL FRANCES",
+  "description": "The best indie dance tracks of the moment. Cover: CRi",
   "name": "metropolis",
   "tracks": [
     {
@@ -864,7 +864,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 258659,
       "name": "Amanhecer",
       "url": "https://open.spotify.com/track/3MQ96GNZ6Y68u2Tg21LJ3n"
@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 262427,
       "name": "Best of Me",
       "url": "https://open.spotify.com/track/4Sy2gpNfLf7xbmhbTubbRl"
@@ -2365,6 +2365,28 @@
     },
     {
       "album": {
+        "name": "c u never",
+        "url": "https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A"
+      },
+      "artists": [
+        {
+          "name": "tomcbumpz",
+          "url": "https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175806,
+      "name": "c u never",
+      "url": "https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf"
+    },
+    {
+      "album": {
         "name": "California, Pt. I",
         "url": "https://open.spotify.com/album/4P5aUcVlhnTvEdp81HYQUc"
       },
@@ -3160,7 +3182,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 253233,
       "name": "Come Too Far",
       "url": "https://open.spotify.com/track/3otrrqE6sLMxpbr7QRh5ak"
@@ -3306,6 +3328,24 @@
       "duration_ms": 213750,
       "name": "Cracker Island (feat. Thundercat)",
       "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
+    },
+    {
+      "album": {
+        "name": "cross my heart",
+        "url": "https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146228,
+      "name": "cross my heart",
+      "url": "https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU"
     },
     {
       "album": {
@@ -3577,6 +3617,28 @@
     },
     {
       "album": {
+        "name": "DEVOTION (Mansionair Remix)",
+        "url": "https://open.spotify.com/album/6iccD3bKf7WzugmfcHtu3O"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259354,
+      "name": "DEVOTION - Mansionair Remix",
+      "url": "https://open.spotify.com/track/6d8DvkfIHiilazeqFiAMBB"
+    },
+    {
+      "album": {
         "name": "Dhollandia / Circles",
         "url": "https://open.spotify.com/album/5NadYxqel92ecOc1gd3PDr"
       },
@@ -3722,7 +3784,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 207413,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/0Vgvm8cSsoMYFoSMtrngmv"
@@ -3836,6 +3898,24 @@
       "duration_ms": 282610,
       "name": "Don't Cry - TSHA Remix",
       "url": "https://open.spotify.com/track/1hwjiYyitrVk04U0U96AZS"
+    },
+    {
+      "album": {
+        "name": "((( 4 )))",
+        "url": "https://open.spotify.com/album/1vuo6cSdhF9bO9sqzkSgQN"
+      },
+      "artists": [
+        {
+          "name": "((( O )))",
+          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "DON'T DIE",
+      "url": "https://open.spotify.com/track/4vUkX0xevB4sALfq2u9eeE"
     },
     {
       "album": {
@@ -4046,6 +4126,24 @@
       "duration_ms": 366940,
       "name": "Dreaming of a Disco",
       "url": "https://open.spotify.com/track/3WtXl3O0oT9eM4Izr3lcHx"
+    },
+    {
+      "album": {
+        "name": "Dreams (Rework)",
+        "url": "https://open.spotify.com/album/3uDXrh6GnimJbaRxNCq00K"
+      },
+      "artists": [
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "Dreams (Rework)",
+      "url": "https://open.spotify.com/track/73FOzppaF9mNLgmT4HSPWB"
     },
     {
       "album": {
@@ -4418,6 +4516,28 @@
       "duration_ms": 241573,
       "name": "Elevator",
       "url": "https://open.spotify.com/track/0Is2tnxZ7c7tnsrXCdBZZO"
+    },
+    {
+      "album": {
+        "name": "End Credits",
+        "url": "https://open.spotify.com/album/74DMWfGIXby2BD5fmVhOJ0"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Real Lies",
+          "url": "https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213297,
+      "name": "End Credits",
+      "url": "https://open.spotify.com/track/68CGQIywWzqe7snQrEOb9j"
     },
     {
       "album": {
@@ -5930,6 +6050,24 @@
       "duration_ms": 228825,
       "name": "Gabo's Last Resort",
       "url": "https://open.spotify.com/track/2kKwmioPqFwnNUFridIrIt"
+    },
+    {
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269249,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
     },
     {
       "album": {
@@ -8636,7 +8774,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 224500,
       "name": "Jupiter I.",
       "url": "https://open.spotify.com/track/494TCdCW0A02emykMUeiJZ"
@@ -9156,6 +9294,24 @@
       "duration_ms": 126043,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/4oZnV1W54b1TIn96i0KIwV"
+    },
+    {
+      "album": {
+        "name": "let me go*",
+        "url": "https://open.spotify.com/album/1G2wWDw7j1NQHDScKlvkAK"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "let me go*",
+      "url": "https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0"
     },
     {
       "album": {
@@ -9828,7 +9984,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 239500,
       "name": "Love",
       "url": "https://open.spotify.com/track/4hriybgE67pyiH6yz7J8R5"
@@ -10442,6 +10598,24 @@
       "duration_ms": 183973,
       "name": "Make Me One (feat. Xavier Smith)",
       "url": "https://open.spotify.com/track/5jvEt3iANFPO8U3Q4Ef1al"
+    },
+    {
+      "album": {
+        "name": "Makeshift Tourniquet",
+        "url": "https://open.spotify.com/album/73T8ZTaxv3LBS4wQo9NW3n"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317835,
+      "name": "Makeshift Tourniquet",
+      "url": "https://open.spotify.com/track/4YrUH3TZazK6DC2w5qXryI"
     },
     {
       "album": {
@@ -12018,7 +12192,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 186352,
       "name": "one of one (feat. PawPaw Rod)",
       "url": "https://open.spotify.com/track/79jxfE4mZToAneAv2C7Dng"
@@ -12759,6 +12933,24 @@
     },
     {
       "album": {
+        "name": "Possession",
+        "url": "https://open.spotify.com/album/5XA4CIRihR0n5APtNKfrEq"
+      },
+      "artists": [
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "Possession",
+      "url": "https://open.spotify.com/track/3wsUWb5A39UrBuDV85f0Ml"
+    },
+    {
+      "album": {
         "name": "Postman b/w Magazine",
         "url": "https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z"
       },
@@ -13490,7 +13682,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 451034,
       "name": "RISE - Darius Remix",
       "url": "https://open.spotify.com/track/0zyDQF49c8BZObY8Figpew"
@@ -15464,7 +15656,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 198750,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/7pAEVIFvGRMACtxmVN7F7a"
@@ -17452,7 +17644,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 235861,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/6cYoKxvw88rUQ4FEKWcaDI"

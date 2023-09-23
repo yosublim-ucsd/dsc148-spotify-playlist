@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-403 songs - 22 hr 41 min
+404 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [All Yours](https://open.spotify.com/track/3YUeUS5imOjS9wqj0xhGYV) | [Jane Holiday](https://open.spotify.com/artist/05GeUxBiQ1aq6VYnODnPbD) | [All Yours](https://open.spotify.com/album/20ejRbhmfw3JUbXuCDeV4v) | 3:10 | 2020-11-13 | 2022-03-26 |
 | [Ally \- Headnodic Remix](https://open.spotify.com/track/4vNh0o3gb1QbmLKtiQvYFn) | [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo), [Raashan Ahmad](https://open.spotify.com/artist/7iljQVDzReF6FBa4cNMIAp), [Breathless](https://open.spotify.com/artist/20LeSCKi2mT9uFAdUwvyhK), [Headnodic](https://open.spotify.com/artist/7LB0RfmtjwsMFr5OW3H0r3) | [Ally \(Headnodic Remix\)](https://open.spotify.com/album/11xqMaOFDQzJEeWiC7KOdk) | 3:29 | 2021-09-21 | 2022-07-20 |
 | [AM Gold \- Tobtok Remix](https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [AM Gold \(Tobtok Remix\)](https://open.spotify.com/album/1Y7HKitOClNC69qVhPtWWD) | 3:09 | 2022-04-22 |  |
+| [Another Lover](https://open.spotify.com/track/2wQzwyoJt8wnlN7E1dt2m5) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Another Lover](https://open.spotify.com/album/1g3YQBgxNuARNCxFB5U9pK) | 3:00 | 2023-09-22 |  |
 | [Apocalypse](https://open.spotify.com/track/0fot2fNSEn8R8HOwIPUMIR) | [Sonia Stein](https://open.spotify.com/artist/5ct2WFb5gFMXAntFsAwA0y) | [Apocalypse](https://open.spotify.com/album/4QMZonIRFFJmhi2Ya0r3E5) | 3:25 | 2022-03-18 | 2022-04-17 |
 | [Artichoke](https://open.spotify.com/track/4KLdyKhs8sFlDdQPMAzWif) | [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Eitan Bernstein](https://open.spotify.com/artist/57c1G1JfgEHIWPSu8wED14) | [Artichoke](https://open.spotify.com/album/1DdT8ZkXpypodT0jxvIzSg) | 3:34 | 2022-03-18 | 2022-07-29 |
 | [Ashamed](https://open.spotify.com/track/1bZmbsNqOkfvGGAikytuW2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 3:24 | 2021-09-21 | 2022-10-13 |
@@ -322,7 +323,7 @@
 | [Spin Me Round](https://open.spotify.com/track/0iEo9wkzqOfVfVkezh8obQ) | [Augie Bello](https://open.spotify.com/artist/2z3k87BRV59rw56PwnOQsg), [Casey Abrams](https://open.spotify.com/artist/1UxNUybRFdtksz3l5HtCEG) | [Spin Me Round](https://open.spotify.com/album/4VegcvNuAqwaoVLpugOT2e) | 3:00 | 2022-02-25 | 2022-07-18 |
 | [Stay Up \- Pastel Remix](https://open.spotify.com/track/2jVQoTDSzfytDWnxl6e51X) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Intérimixed](https://open.spotify.com/album/6ArXooRUOXEIUrbWNPlHKD) | 3:33 | 2021-09-21 | 2022-07-20 |
 | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1) | 3:49 | 2022-07-15 |  |
-| [Stop This Feeling](https://open.spotify.com/track/2JRQQZzxZ9X0Mlq92q0jSy) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Stop This Feeling](https://open.spotify.com/album/7xss4hIieMAnRHZgz8k6bF) | 2:58 | 2022-11-11 |  |
+| [Stop This Feeling](https://open.spotify.com/track/2JRQQZzxZ9X0Mlq92q0jSy) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Stop This Feeling](https://open.spotify.com/album/7xss4hIieMAnRHZgz8k6bF) | 2:58 | 2022-11-11 | 2023-09-23 |
 | [Stuck In The Middle](https://open.spotify.com/track/51vIyYq0fS8oZbIX0jGwuX) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [ELSAS](https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo) | [Collage 2](https://open.spotify.com/album/2FTiYTP7AkfFehikQoGatR) | 3:12 | 2022-04-29 | 2022-07-29 |
 | [Stuck In The Middle](https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [ELSAS](https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo) | [Collage 2](https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4) | 3:12 | 2022-05-06 | 2023-09-02 |
 | [Stuck!](https://open.spotify.com/track/2bCxs0Arx9MPoqtswwMTAB) | [Erez Zobary](https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz) | [Stuck!](https://open.spotify.com/album/26zrjITVdBdjA0B6NMordJ) | 2:57 | 2023-03-31 |  |

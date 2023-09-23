@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,704 likes - 69 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,821 likes - 69 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 27 | [Todos Um](https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Todos Um](https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF) | 3:31 |
 | 28 | [O Que Se Faz Aqui pra Ser Feliz \- Acústico](https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea) | [Nathan Asafe](https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA) | [O Que Se Faz Aqui pra Ser Feliz \(Acústico\)](https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v) | 5:02 |
 | 29 | [Vai Ficar Tudo Bem](https://open.spotify.com/track/2CYlC1aTQZW5YuXz5xIXAJ) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Vai Ficar Tudo Bem](https://open.spotify.com/album/6Jn1wSFx0bo4GYCc66mslN) | 2:17 |
-| 30 | [Infinito Amor](https://open.spotify.com/track/3x8ZWtrehlt4W1us1hhFzq) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL) | [Infinito Amor](https://open.spotify.com/album/3kDwHwOF0WcZ7bUS6Rcrdv) | 4:03 |
-| 31 | [Deus sabe, Deus ouve, Deus vê](https://open.spotify.com/track/2Me9phCz0A7Oartexu3GiU) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [sentido](https://open.spotify.com/album/4t1ekkA6FdPbdL7z7BzNRH) | 4:49 |
+| 30 | [Deus sabe, Deus ouve, Deus vê](https://open.spotify.com/track/2Me9phCz0A7Oartexu3GiU) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [sentido](https://open.spotify.com/album/4t1ekkA6FdPbdL7z7BzNRH) | 4:49 |
+| 31 | [Infinito Amor](https://open.spotify.com/track/3x8ZWtrehlt4W1us1hhFzq) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL) | [Infinito Amor](https://open.spotify.com/album/3kDwHwOF0WcZ7bUS6Rcrdv) | 4:03 |
 | 32 | [Claro e Certo](https://open.spotify.com/track/2C4bL85AHMERutNrejvo0B) | [Rafa Blauth](https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU), [Estevão Queiroga](https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK) | [Claro e Certo](https://open.spotify.com/album/47ggi22ENuvh5a7AXHbDbI) | 4:01 |
 | 33 | [Eu, Poema: Releitura](https://open.spotify.com/track/16Bum18plc6ET7bEvEOq3Z) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS) | [Releituras](https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT) | 4:39 |
 | 34 | [Incrivelmente](https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS) | [Projeto Norte](https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe) | [Experimente a Jornada](https://open.spotify.com/album/2VS7dM6KkUCwyClbJA0zU0) | 4:27 |
@@ -68,14 +68,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 58 | [Pra Viver \- Acústico](https://open.spotify.com/track/42OJeiOtGughIhTJO9yHHa) | [Praviver Worship](https://open.spotify.com/artist/5mhPlTKr7pRsSnjK1nocL4) | [Pra Viver Project](https://open.spotify.com/album/2riFr9I8oh3ZDUwQHO7GdS) | 3:15 |
 | 59 | [Louvor IV](https://open.spotify.com/track/6MMr4Yqk7Oa8NsoksmxACf) | [O Bairro Novo](https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD), [Joyce Carnassale](https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z) | [Louvor IV](https://open.spotify.com/album/4B961hpeGLK1YHTqP0PJp9) | 4:52 |
 | 60 | [Captured \- Live Session](https://open.spotify.com/track/3JK2OGtwRzxmKUf2fKPcVk) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl), [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [Soul Hymns \(Live Sessions\)](https://open.spotify.com/album/0Ey2hZpmOENZZFXtyXk9f1) | 5:21 |
-| 61 | [Então Vem](https://open.spotify.com/track/0tBJj2vwsjpGgEWgKd35nD) | [Caio Veríssimo](https://open.spotify.com/artist/3M1QiN5TINHyqdV1vpjTOb) | [Então Vem](https://open.spotify.com/album/2G8WdVOQFvvVwyLWeH7z2d) | 5:41 |
-| 62 | [O Tempo Não Para](https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC) | [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9), [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [O Tempo Não Para](https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi) | 3:22 |
+| 61 | [O Tempo Não Para](https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC) | [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9), [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [O Tempo Não Para](https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi) | 3:22 |
+| 62 | [Então Vem](https://open.spotify.com/track/0tBJj2vwsjpGgEWgKd35nD) | [Caio Veríssimo](https://open.spotify.com/artist/3M1QiN5TINHyqdV1vpjTOb) | [Então Vem](https://open.spotify.com/album/2G8WdVOQFvvVwyLWeH7z2d) | 5:41 |
 | 63 | [Eu Te Amo, Senhor](https://open.spotify.com/track/5U7C8i2lCvsPdgWJQwG7ZY) | [Léo Moreno](https://open.spotify.com/artist/7aL8gEvgW9buUDMXHdkqAP) | [Eu Te Amo, Senhor](https://open.spotify.com/album/4gxN4G9Yj5gPB1hhgHUrKU) | 5:26 |
 | 64 | [Coragem](https://open.spotify.com/track/1RUoOYWFB0ofFixpupBK4K) | [Netto](https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP) | [Coragem](https://open.spotify.com/album/3kGyXvpJx1IrYx9HwjlO3G) | 4:25 |
 | 65 | [Meu Grande Amor \- Versão Cordas](https://open.spotify.com/track/5Qtirs1grBbL6IlqlBa97i) | [Giselle Knevitz](https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM), [Brasa Church Music](https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A) | [Meu Grande Amor \(Versão Cordas\)](https://open.spotify.com/album/2B1yYnuXCiZQ5GCDUHEdIe) | 7:22 |
-| 66 | [Upper Room \- Acoustic/Live](https://open.spotify.com/track/2JzhTp2M56LLuatw7jQGV5) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Awake \(Deluxe\)](https://open.spotify.com/album/1OrZpETlp9ZUT1qbLvYMu0) | 3:54 |
-| 67 | [Coração de Aprendiz](https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw) | [Coração de Aprendiz](https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz) | 5:03 |
+| 66 | [Coração de Aprendiz](https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw) | [Coração de Aprendiz](https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz) | 5:03 |
+| 67 | [Upper Room \- Acoustic/Live](https://open.spotify.com/track/2JzhTp2M56LLuatw7jQGV5) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Awake \(Deluxe\)](https://open.spotify.com/album/1OrZpETlp9ZUT1qbLvYMu0) | 3:54 |
 | 68 | [Visita](https://open.spotify.com/track/657aCgepX1HRKoCNbFHWh6) | [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [Visita](https://open.spotify.com/album/78wHMwGlGTHNL70AxQYZGr) | 4:47 |
 | 69 | [Corpo I](https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl) | [O Bairro Novo](https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD) | [O Banquete](https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l) | 4:40 |
 
-Snapshot ID: `MCxhNDQwYmM4ZGNiZDNjYjg1ZmMzMTFkYjU1MDdmODFjZjAzMmFmYWE1`
+Snapshot ID: `MCxiNjczZGUwZmJiYTg4N2Q5NWZhYTE1OTE3MWY2M2I0MGY5MTRhMjA1`

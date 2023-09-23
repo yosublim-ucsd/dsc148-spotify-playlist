@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 283676,
+  "num_followers": 283775,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTgyMDhjNTQwMjExYzY5ZTA2MWUwYjY2NzZjMTg2YjQ1YmIzZGYz",
+  "snapshot_id": "MCw0NDNjZGVjZjcwMDExMjE1ZTA5ZDMzYjNhYmY3MjAyMWFjYTdmODY0",
   "tracks": [
     {
       "added_at": "2023-09-14 13:22:21",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-09-14 13:22:21",
       "album": {
+        "name": "Baby Riddim",
+        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 190677,
+      "name": "Baby Riddim",
+      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
+    },
+    {
+      "added_at": "2023-09-14 13:22:21",
+      "album": {
         "name": "Won't Be Late (feat. Drake)",
         "url": "https://open.spotify.com/album/4v0FSMsulZqfi28KIdwDfb"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 218709,
       "name": "Won't Be Late (feat. Drake)",
       "url": "https://open.spotify.com/track/2sqsNXfN0HtgDEgaHXiUTa"
-    },
-    {
-      "added_at": "2023-09-14 13:22:21",
-      "album": {
-        "name": "Baby Riddim",
-        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
-      },
-      "artists": [
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 190677,
-      "name": "Baby Riddim",
-      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
     },
     {
       "added_at": "2023-09-14 13:22:21",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-09-14 13:22:21",
       "album": {
-        "name": "No Dey Form",
-        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
-      },
-      "artists": [
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 140540,
-      "name": "No Dey Form",
-      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
-    },
-    {
-      "added_at": "2023-09-14 13:22:21",
-      "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 160799,
       "name": "One Woman",
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
+    },
+    {
+      "added_at": "2023-09-14 13:22:21",
+      "album": {
+        "name": "No Dey Form",
+        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 140540,
+      "name": "No Dey Form",
+      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
     },
     {
       "added_at": "2023-09-14 13:22:21",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-09-14 13:22:21",
       "album": {
-        "name": "Ijo (Laba Laba)",
-        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Ijo (Laba Laba)",
-      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
-    },
-    {
-      "added_at": "2023-09-14 13:22:21",
-      "album": {
         "name": "SoundMan Vol. 1",
         "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
       },
@@ -1747,6 +1731,22 @@
     {
       "added_at": "2023-09-14 13:22:21",
       "album": {
+        "name": "Ijo (Laba Laba)",
+        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Ijo (Laba Laba)",
+      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
+      "added_at": "2023-09-14 13:22:21",
+      "album": {
         "name": "Touch It (Remix)",
         "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
       },
@@ -1763,30 +1763,6 @@
       "duration_ms": 181973,
       "name": "Touch It - Remix",
       "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
-    },
-    {
-      "added_at": "2023-09-14 13:22:21",
-      "album": {
-        "name": "Anti Social (feat. Jeremih & Young Jonn)",
-        "url": "https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5"
-      },
-      "artists": [
-        {
-          "name": "Nektunez",
-          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 156503,
-      "name": "Anti Social",
-      "url": "https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG"
     },
     {
       "added_at": "2023-09-14 13:22:21",
@@ -1835,6 +1811,30 @@
       "duration_ms": 189000,
       "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
       "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
+    },
+    {
+      "added_at": "2023-09-14 13:22:21",
+      "album": {
+        "name": "Anti Social (feat. Jeremih & Young Jonn)",
+        "url": "https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5"
+      },
+      "artists": [
+        {
+          "name": "Nektunez",
+          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 156503,
+      "name": "Anti Social",
+      "url": "https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG"
     },
     {
       "added_at": "2023-09-14 13:22:21",
@@ -2379,6 +2379,22 @@
     {
       "added_at": "2023-09-14 13:22:21",
       "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "duration_ms": 156927,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU"
+    },
+    {
+      "added_at": "2023-09-14 13:22:21",
+      "album": {
         "name": "Truth Be Told",
         "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
       },
@@ -2395,22 +2411,6 @@
       "duration_ms": 237480,
       "name": "Nice (feat. Blxst)",
       "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
-    },
-    {
-      "added_at": "2023-09-14 13:22:21",
-      "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G"
-      },
-      "artists": [
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        }
-      ],
-      "duration_ms": 156927,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU"
     },
     {
       "added_at": "2023-09-14 13:22:21",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2023-09-14 13:22:21",
       "album": {
-        "name": "Damages",
-        "url": "https://open.spotify.com/album/1Ulbxmd0Y2esHXkqdgAHsK"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Damages",
-      "url": "https://open.spotify.com/track/4mliiXiEYDVrmZ8pj1PW0m"
-    },
-    {
-      "added_at": "2023-09-14 13:22:21",
-      "album": {
         "name": "A Night In Cocody",
         "url": "https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2"
       },
@@ -2499,50 +2483,18 @@
     {
       "added_at": "2023-09-14 13:22:21",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/2yO3CWfAipNz7L0jF9UFO3"
+        "name": "Damages",
+        "url": "https://open.spotify.com/album/1Ulbxmd0Y2esHXkqdgAHsK"
       },
       "artists": [
         {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        },
-        {
-          "name": "Lafropop",
-          "url": "https://open.spotify.com/artist/0xUxEo49seH9MBR7rZpqsB"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 169898,
-      "name": "911",
-      "url": "https://open.spotify.com/track/1wTrvERblqm1JV82GEKQ3D"
-    },
-    {
-      "added_at": "2023-09-14 13:22:21",
-      "album": {
-        "name": "Caribe 2.0",
-        "url": "https://open.spotify.com/album/1tPnFAJ2ihuiKlh05HUh9o"
-      },
-      "artists": [
-        {
-          "name": "KILATE TESLA",
-          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
-        },
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Jeon",
-          "url": "https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt"
-        }
-      ],
-      "duration_ms": 155400,
-      "name": "Caribe 2.0",
-      "url": "https://open.spotify.com/track/4L8bFIYzXyK7U8EJk5POlO"
+      "duration_ms": 169411,
+      "name": "Damages",
+      "url": "https://open.spotify.com/track/4mliiXiEYDVrmZ8pj1PW0m"
     },
     {
       "added_at": "2023-09-14 13:22:21",
@@ -2571,6 +2523,30 @@
     {
       "added_at": "2023-09-14 13:22:21",
       "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/2yO3CWfAipNz7L0jF9UFO3"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Lafropop",
+          "url": "https://open.spotify.com/artist/0xUxEo49seH9MBR7rZpqsB"
+        }
+      ],
+      "duration_ms": 169898,
+      "name": "911",
+      "url": "https://open.spotify.com/track/1wTrvERblqm1JV82GEKQ3D"
+    },
+    {
+      "added_at": "2023-09-14 13:22:21",
+      "album": {
         "name": "Foreigner",
         "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
       },
@@ -2583,6 +2559,30 @@
       "duration_ms": 234384,
       "name": "Foreigner",
       "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
+    },
+    {
+      "added_at": "2023-09-14 13:22:21",
+      "album": {
+        "name": "Caribe 2.0",
+        "url": "https://open.spotify.com/album/1tPnFAJ2ihuiKlh05HUh9o"
+      },
+      "artists": [
+        {
+          "name": "KILATE TESLA",
+          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Jeon",
+          "url": "https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt"
+        }
+      ],
+      "duration_ms": 155400,
+      "name": "Caribe 2.0",
+      "url": "https://open.spotify.com/track/4L8bFIYzXyK7U8EJk5POlO"
     },
     {
       "added_at": "2023-09-14 13:22:21",

@@ -1565,6 +1565,24 @@
     },
     {
       "album": {
+        "name": "Just Waiting 4 You",
+        "url": "https://open.spotify.com/album/7zXB7RZJadDzIWRW7dmRd4"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200775,
+      "name": "Just Waiting 4 You",
+      "url": "https://open.spotify.com/track/0VVMvXcchR5HUWRU0zefNs"
+    },
+    {
+      "album": {
         "name": "Ramo / Kaah",
         "url": "https://open.spotify.com/album/3x4v1MsJDziEVciqG9n2Dp"
       },
@@ -3376,7 +3394,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 340645,
       "name": "Water",
       "url": "https://open.spotify.com/track/6CD5nbE9zvNOdJbnwfQyVM"

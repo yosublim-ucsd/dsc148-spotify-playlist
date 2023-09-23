@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 49743,
+  "num_followers": 49764,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDY4NGE2MzkxNTc5ODJkOGM5MzRhYTc2MGU0Njg2NTgwYTg2MDk5",
+  "snapshot_id": "MCw5YjRhZjRkNzNjY2RiOGI0M2VlZjUwZDRmNDYwYzkxZmRmMTFkYWU5",
   "tracks": [
     {
       "added_at": "2023-06-20 14:37:46",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Estas Buena",
-        "url": "https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI"
-      },
-      "artists": [
-        {
-          "name": "El General",
-          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Tu Pun Pun",
-      "url": "https://open.spotify.com/track/5MIWYWguyDnxBlCQT9V4Kt"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Sweet & Sour",
         "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 163360,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Estas Buena",
+        "url": "https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI"
+      },
+      "artists": [
+        {
+          "name": "El General",
+          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Tu Pun Pun",
+      "url": "https://open.spotify.com/track/5MIWYWguyDnxBlCQT9V4Kt"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -515,26 +515,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW"
+        "name": "Qu\u00e9 L\u00e1stima",
+        "url": "https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv"
       },
       "artists": [
         {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
         },
         {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        },
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 225470,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd"
+      "duration_ms": 224869,
+      "name": "Qu\u00e9 L\u00e1stima",
+      "url": "https://open.spotify.com/track/0ojvxgSTugVPVlNWka3hOb"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -555,22 +551,26 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Qu\u00e9 L\u00e1stima",
-        "url": "https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv"
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW"
       },
       "artists": [
         {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
         },
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
         }
       ],
-      "duration_ms": 224869,
-      "name": "Qu\u00e9 L\u00e1stima",
-      "url": "https://open.spotify.com/track/0ojvxgSTugVPVlNWka3hOb"
+      "duration_ms": 225470,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd"
     },
     {
       "added_at": "2023-06-20 14:37:46",

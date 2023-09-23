@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 
 > my intrusive thoughts 🤝 this playlist\. para esas horas nostálgicas & melancólicas de la noche.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,589 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,814 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 | 8 | [TOTAL90NOSTALGIA](https://open.spotify.com/track/5ffLdAti2Kb4XFZ2mPNrxp) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [SUPERNOVA](https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117) | 3:28 |
 | 9 | [Con La Brisa](https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:47 |
 | 10 | [Over the Moon](https://open.spotify.com/track/02wNtFxlr9dLmZXKT5TIF5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 3:02 |
-| 11 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Sin Miedo \(del Amor y Otros Demonios\) ∞ \[Deluxe Version\]](https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu) | 3:50 |
-| 12 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
+| 11 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
+| 12 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Sin Miedo \(del Amor y Otros Demonios\) ∞ \[Deluxe Version\]](https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu) | 3:50 |
 | 13 | [Como Antes](https://open.spotify.com/track/1ZR473PTTSHGcnyRyidBoA) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Como Antes](https://open.spotify.com/album/7FSHQn3g0X4Io2Q2U4PcKZ) | 2:22 |
 | 14 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 |
 | 15 | [86.400](https://open.spotify.com/track/3AncVybdw2UmiT8ulIGScN) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Sensaciones](https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9) | 1:08 |
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 | 17 | [TSQ](https://open.spotify.com/track/1Zh65uEClQl16bwYW4HD2I) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 2:58 |
 | 18 | [Báilame](https://open.spotify.com/track/5pOBhos8Z2v3FGjUPMgUgI) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 4:11 |
 | 19 | [Te Olvidaste](https://open.spotify.com/track/6Nr40AS5eNsfFjpMrisCY3) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:07 |
-| 20 | [Lo que elegiste.](https://open.spotify.com/track/3wsiNOSGIKbU5JKxcqUPvg) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Lo que elegiste](https://open.spotify.com/album/7zV1JgdA6e8nt8wJKSeXtJ) | 1:04 |
-| 21 | [Malibú](https://open.spotify.com/track/4GR2VDGNBpGyE4wZy0VTSj) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Malibú](https://open.spotify.com/album/62bGLItJa7M2TGq4WMhvlz) | 3:40 |
-| 22 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/1Qu24vc8msUVLcMZWa4k1x) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 4:07 |
+| 20 | [Malibú](https://open.spotify.com/track/4GR2VDGNBpGyE4wZy0VTSj) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Malibú](https://open.spotify.com/album/62bGLItJa7M2TGq4WMhvlz) | 3:40 |
+| 21 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/1Qu24vc8msUVLcMZWa4k1x) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 4:07 |
+| 22 | [Lo que elegiste.](https://open.spotify.com/track/3wsiNOSGIKbU5JKxcqUPvg) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Lo que elegiste](https://open.spotify.com/album/7zV1JgdA6e8nt8wJKSeXtJ) | 1:04 |
 | 23 | [Babysita </3](https://open.spotify.com/track/0TzPApPjiPWXv98qSCrgbp) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 4:41 |
 | 24 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 |
 | 25 | [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 | 46 | [Eternamente](https://open.spotify.com/track/3fC9kIUdPidr4gaedvNwDp) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 3:30 |
 | 47 | [Un Momento](https://open.spotify.com/track/4k1wOvis4BrvbkOT6jmaJ9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Un Momento](https://open.spotify.com/album/6rObLR3OfwtAkft3WuEuTI) | 3:09 |
 | 48 | [lo que pasó](https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [lo que pasó](https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa) | 2:30 |
-| 49 | [No Me Dejes Así](https://open.spotify.com/track/6W05VQuFPVdU07SFmAQML3) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [No Me Dejes Así](https://open.spotify.com/album/5IDQ5SebTTV9zL32FEsjxB) | 3:04 |
-| 50 | [Bad Habits](https://open.spotify.com/track/64uKfB3sXD1PSRZ9R9djTM) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [Bad Habits](https://open.spotify.com/album/5jbQD8hGieC5nMF3fbgBZT) | 3:19 |
+| 49 | [Bad Habits](https://open.spotify.com/track/64uKfB3sXD1PSRZ9R9djTM) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [Bad Habits](https://open.spotify.com/album/5jbQD8hGieC5nMF3fbgBZT) | 3:19 |
+| 50 | [No Me Dejes Así](https://open.spotify.com/track/6W05VQuFPVdU07SFmAQML3) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [No Me Dejes Así](https://open.spotify.com/album/5IDQ5SebTTV9zL32FEsjxB) | 3:04 |
 | 51 | [Sin Excusa](https://open.spotify.com/track/0oP80plNZMBvjwAtpt1GfF) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [PO2054AZ \(Vol.I\)](https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT) | 2:16 |
 | 52 | [tonada de la luz • madrugada](https://open.spotify.com/track/5TCDHkTwR072lFEO64syoC) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [de la luz](https://open.spotify.com/album/378yGSuUhqGyPCsI3eWzFK) | 1:05 |
 | 53 | [Amores de droga](https://open.spotify.com/track/33jkxCQQNrwQrXuHhVdhjh) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 | 59 | [Dreams \(Interlude\)](https://open.spotify.com/track/1UpPUZTXGA0V9bISlUaW1K) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:41 |
 | 60 | [Amanita](https://open.spotify.com/track/44eetRXpHJvr6gziGWtx8J) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [La Cantera](https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW) | 2:31 |
 
-Snapshot ID: `MCxmMTlhZmMxNDc0NmVjYzNkNGVkYjlmNTNjODdhNzVhZjMyYjBhMDRl`
+Snapshot ID: `MCxlMDE4NzE5NDI5NDNlY2Q4MjRiZjc2OGM4MDFmMGU5NzQ0NjY1OTNh`

@@ -1,12 +1,12 @@
 {
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: Mac Powell",
-  "num_followers": 595819,
+  "num_followers": 595926,
   "original_name": "Christian Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTNjYTcwNTYwNGIwZWNmZDRjOGNmY2ZlM2Y2OWRkMTM1OGVjN2Y5",
+  "snapshot_id": "MCxlNGI2NTIwZjEwMDc4ZjkxODhjNGNiMjdkNzEyMTViY2QwMjI3MWQw",
   "tracks": [
     {
       "added_at": "2023-02-18 03:22:25",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Let the Ground Rest",
-        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 254115,
-      "name": "Springtime",
-      "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "The Story's Not Over",
         "url": "https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3"
       },
@@ -723,6 +707,38 @@
       "duration_ms": 187266,
       "name": "Dead Man Walking",
       "url": "https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Saved",
+        "url": "https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+        }
+      ],
+      "duration_ms": 174285,
+      "name": "Saved",
+      "url": "https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Let the Ground Rest",
+        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 254115,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -743,22 +759,6 @@
       "duration_ms": 423193,
       "name": "The Blessing",
       "url": "https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
-        "name": "Saved",
-        "url": "https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi"
-      },
-      "artists": [
-        {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
-        }
-      ],
-      "duration_ms": 174285,
-      "name": "Saved",
-      "url": "https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Keep Me In The Moment (Radio Version)",
-        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 207432,
-      "name": "Keep Me In The Moment - Radio Version",
-      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Canyon",
         "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 267773,
       "name": "Hymn Of Heaven",
       "url": "https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Keep Me In The Moment (Radio Version)",
+        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 207432,
+      "name": "Keep Me In The Moment - Radio Version",
+      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Running Home",
-        "url": "https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "Good Memories",
-      "url": "https://open.spotify.com/track/6OieTz3MN0a5jXsnkI6biW"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Holy Roar",
         "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 271920,
       "name": "Is He Worthy?",
       "url": "https://open.spotify.com/track/4E43YlwUlpYDJIxcMjt0S7"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Running Home",
+        "url": "https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Good Memories",
+      "url": "https://open.spotify.com/track/6OieTz3MN0a5jXsnkI6biW"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Be One (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
+        "name": "Don't Lose Hope",
+        "url": "https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0"
       },
       "artists": [
         {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
         }
       ],
-      "duration_ms": 216400,
-      "name": "King Of The World",
-      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
+      "duration_ms": 194800,
+      "name": "For My Good",
+      "url": "https://open.spotify.com/track/2zRmDaYLsDw208NFV7CpFj"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Don't Lose Hope",
-        "url": "https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0"
+        "name": "Be One (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
       },
       "artists": [
         {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
         }
       ],
-      "duration_ms": 194800,
-      "name": "For My Good",
-      "url": "https://open.spotify.com/track/2zRmDaYLsDw208NFV7CpFj"
+      "duration_ms": 216400,
+      "name": "King Of The World",
+      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
     },
     {
       "added_at": "2023-02-18 03:22:25",

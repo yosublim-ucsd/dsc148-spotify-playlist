@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,131 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,142 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 24 | [Un Eterno Loop Sin Fin](https://open.spotify.com/track/0pb1YMJkOqDE2ztxzsYHTd) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Un Eterno Loop Sin Fin](https://open.spotify.com/album/0rO0NHGworrKc2o1X5q3ne) | 3:49 |
 | 25 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
 | 26 | [Ahora Me Cuesta](https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L) | [La Pestilencia](https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3) | [Productos Desaparecidos](https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG) | 3:45 |
-| 27 | [Nómada](https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6) | 4:47 |
+| 27 | [Algún Contexto](https://open.spotify.com/track/3VthvpD7tsAm5lybsXWXX1) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Armenia](https://open.spotify.com/album/4tT3ltCmgXpxtVuYTWN1bm) | 2:54 |
 | 28 | [Hacia la Noche](https://open.spotify.com/track/2vd58HO8mKz1yBkh2mJjlo) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh) | 3:55 |
-| 29 | [Algún Contexto](https://open.spotify.com/track/3VthvpD7tsAm5lybsXWXX1) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Armenia](https://open.spotify.com/album/4tT3ltCmgXpxtVuYTWN1bm) | 2:54 |
+| 29 | [Nómada](https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6) | 4:47 |
 | 30 | [Una Canción](https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 3:07 |
 | 31 | [Somos Coyotes](https://open.spotify.com/track/0RGuPZmtJxMblQwZIvcNsQ) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Doce Vientos](https://open.spotify.com/album/7iJkzoo9QSgy0nW13uIohq) | 3:42 |
 | 32 | [Salvaje Vagabundo](https://open.spotify.com/track/0gOvLUA0IHMUiDFPPINFnr) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Marteko Euriak](https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT) | 3:07 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 42 | [Búhoz](https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 4:09 |
 | 43 | [Nada que hablar \(feat\. Aterciopelados\)](https://open.spotify.com/track/7tHQZ9Wbb8dI4ldZBaKfaw) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL), [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Nada que hablar \(feat\. Aterciopelados\)](https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm) | 3:25 |
 | 44 | [Quédate Cerca](https://open.spotify.com/track/5dioafqgaV1ywCUXpMMAOR) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [No Hay Mal Que Dure una Vida](https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd) | 3:35 |
-| 45 | [El Tema de Amor Que Esperabas](https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j) | [Las Yumbeñas](https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh) | [Yumbotopía](https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1) | 2:53 |
-| 46 | [Cangrejo](https://open.spotify.com/track/08IybVfdaHDLiJiAxO7R4e) | [Arbol De Ojos](https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9) | [Cangrejo](https://open.spotify.com/album/3MvaFYJpFswQIHN8qCYThP) | 2:42 |
+| 45 | [Cangrejo](https://open.spotify.com/track/08IybVfdaHDLiJiAxO7R4e) | [Arbol De Ojos](https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9) | [Cangrejo](https://open.spotify.com/album/3MvaFYJpFswQIHN8qCYThP) | 2:42 |
+| 46 | [El Tema de Amor Que Esperabas](https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j) | [Las Yumbeñas](https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh) | [Yumbotopía](https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1) | 2:53 |
 | 47 | [Izquierdo](https://open.spotify.com/track/4aaMXe35v7KRZN0OjIq7Tq) | [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5) | [Pnmt Corrosion](https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96) | 3:35 |
 | 48 | [Gemas](https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE) | 3:38 |
 | 49 | [Salir Ileso](https://open.spotify.com/track/4x5YCTYmHCJV32RO5TAbr0) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Barco de Papel](https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1) | 3:23 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 59 | [Sangre de Prófugo](https://open.spotify.com/track/7qSncGfwAdAyTQBVYZeFGS) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Sangre de Prófugo](https://open.spotify.com/album/61o65DJK9QHOg8LWIJ279k) | 3:31 |
 | 60 | [Analogía de una Laguna](https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Analogía de una Laguna](https://open.spotify.com/album/723DfEBve0LRScRimGdq9c) | 3:30 |
 
-Snapshot ID: `MCw4OGY0N2M1YzhjMzE5N2Q4YjdkYWNlNWY0ODJlZmVjZmIyNjBlYmM0`
+Snapshot ID: `MCxmOGQ5N2I1MDcxZDRkOGFmNDAxNWM3NzFjNzRkOTY2Y2JhODg3Zjgx`

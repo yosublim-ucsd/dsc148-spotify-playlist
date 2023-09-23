@@ -1,12 +1,12 @@
 {
   "description": "Indie pop when ur crushing",
-  "num_followers": 506331,
+  "num_followers": 506487,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTBhM2ZjZGMyMDllMjMzMTczMTIyNmYzNzNlMzM0N2NkNGVmMTIw",
+  "snapshot_id": "MCxkNGEzMTY1MzFmNGEwNjljOWI4MmNlMTAxMTZhOWI3YjYxMjY5MDYy",
   "tracks": [
     {
       "added_at": "2023-06-30 14:46:14",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-06-30 14:46:14",
       "album": {
-        "name": "Sunset Season",
-        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Crush Culture",
-      "url": "https://open.spotify.com/track/2sHwSBNDZN2yjCtgwStYt1"
-    },
-    {
-      "added_at": "2023-06-30 14:46:14",
-      "album": {
         "name": "diary 001",
         "url": "https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2023-06-30 14:46:14",
       "album": {
-        "name": "Pleaser",
-        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
+        "name": "Sunset Season",
+        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
       },
       "artists": [
         {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 187895,
-      "name": "Pleaser",
-      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
+      "duration_ms": 204120,
+      "name": "Crush Culture",
+      "url": "https://open.spotify.com/track/2sHwSBNDZN2yjCtgwStYt1"
     },
     {
       "added_at": "2023-06-30 14:46:14",
@@ -647,6 +631,22 @@
       "duration_ms": 107076,
       "name": "CAN'T GET OVER YOU (feat. Clams Casino)",
       "url": "https://open.spotify.com/track/39oeKRgsLeynDIbWuXyA47"
+    },
+    {
+      "added_at": "2023-06-30 14:46:14",
+      "album": {
+        "name": "Pleaser",
+        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187895,
+      "name": "Pleaser",
+      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
     },
     {
       "added_at": "2023-06-30 14:46:14",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-06-30 14:46:14",
       "album": {
-        "name": "Do You Love Me, or Are You Just Lonely?",
-        "url": "https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3"
-      },
-      "artists": [
-        {
-          "name": "Jess Benko",
-          "url": "https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P"
-        }
-      ],
-      "duration_ms": 316556,
-      "name": "A Soulmate Who Wasn\u2019t Meant to Be",
-      "url": "https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo"
-    },
-    {
-      "added_at": "2023-06-30 14:46:14",
-      "album": {
         "name": "ARIZONA BABY",
         "url": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 176732,
       "name": "Peach",
       "url": "https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN"
+    },
+    {
+      "added_at": "2023-06-30 14:46:14",
+      "album": {
+        "name": "Do You Love Me, or Are You Just Lonely?",
+        "url": "https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3"
+      },
+      "artists": [
+        {
+          "name": "Jess Benko",
+          "url": "https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P"
+        }
+      ],
+      "duration_ms": 316556,
+      "name": "A Soulmate Who Wasn\u2019t Meant to Be",
+      "url": "https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo"
     },
     {
       "added_at": "2023-06-30 14:46:14",

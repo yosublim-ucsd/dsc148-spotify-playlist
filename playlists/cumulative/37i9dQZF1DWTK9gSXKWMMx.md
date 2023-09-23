@@ -4,7 +4,7 @@
 
 > Sit back and relax to the smooth sound of blues piano.
 
-81 songs - 4 hr 35 min
+84 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Bad Habits Blues](https://open.spotify.com/track/5hiCKMtoJ3zKU6VGDVP2By) | [Christian Rannenberg](https://open.spotify.com/artist/0FXwEMAkZkvmLPeIl57OtB) | [Blues](https://open.spotify.com/album/7neO63jZj32xSLnSSa25Z5) | 5:27 | 2021-12-03 |  |
 | [Bebe Blues \(Gray Wolf, Pianobebe\)](https://open.spotify.com/track/4TSXaLjKgwnRSDBzCEXcsY) | [Lupus et Musica](https://open.spotify.com/artist/6ECZEPupzJvln5hYliPb9G) | [Bebe Blues \(Gray Wolf, Pianobebe\)](https://open.spotify.com/album/5s6BXkAo2sebBYSqx5x5hb) | 3:29 | 2021-12-03 | 2023-06-13 |
 | [Blue for You](https://open.spotify.com/track/1NcDxgxy6022JjFH6g0QuV) | [Chris Nole](https://open.spotify.com/artist/4VgHlBqO0dcrhFpuoPtHFB) | [Piano Blues](https://open.spotify.com/album/5PEUpIzxhMR4G7mTD0z62H) | 3:56 | 2021-12-03 | 2023-06-13 |
-| [Blue Otani](https://open.spotify.com/track/70Wnix3Z0olEn0trakNdg6) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The Piano](https://open.spotify.com/album/0Rb9Ox0ttvSU9WEDIwx3Sw) | 3:24 | 2023-06-12 |  |
+| [Blue Otani](https://open.spotify.com/track/70Wnix3Z0olEn0trakNdg6) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The Piano](https://open.spotify.com/album/0Rb9Ox0ttvSU9WEDIwx3Sw) | 3:24 | 2023-06-12 | 2023-09-23 |
 | [Blue\-eyed Devil](https://open.spotify.com/track/5btHPJreBQQrMnRieocsSP) | [James Goodwin](https://open.spotify.com/artist/5sY7M6lEJILtXM7Jm2A0lG) | [Blue\-eyed Devil: Solo Blues Piano](https://open.spotify.com/album/6I0OPUCGyx4Y79a93CY5E9) | 4:41 | 2021-12-03 | 2023-06-13 |
 | [Blues Blooded](https://open.spotify.com/track/0AZaGA8cjTHvF3UYvYi2RK) | [Teres](https://open.spotify.com/artist/1h9MPFKFUMiWJewgZEeScp) | [Blues Piano & Chill](https://open.spotify.com/album/6t5oDLfuvPGNSiHsFNJifI) | 2:14 | 2021-12-03 |  |
 | [Blues Cafe Farewell](https://open.spotify.com/track/6VYyVwNHlnb15nXL1UPmPF) | [Christian Rannenberg](https://open.spotify.com/artist/0FXwEMAkZkvmLPeIl57OtB) | [Blues](https://open.spotify.com/album/7neO63jZj32xSLnSSa25Z5) | 4:32 | 2021-12-03 |  |
@@ -39,9 +39,11 @@
 | [Chris' Blues](https://open.spotify.com/track/10jhOfCNVBAsuuiTmhipzq) | [Christian Rannenberg](https://open.spotify.com/artist/0FXwEMAkZkvmLPeIl57OtB) | [Blues](https://open.spotify.com/album/7neO63jZj32xSLnSSa25Z5) | 4:35 | 2021-12-03 |  |
 | [Couldn't Be Truer Blues](https://open.spotify.com/track/6g313t2FVnouN4Mz4FpwN5) | [Relaxing Piano Crew](https://open.spotify.com/artist/09zTbBto6vE4LzVjQluIz2), [Kazuhiro Chujo](https://open.spotify.com/artist/3h7iR2Yq6tYRfZou6MjtyV) | [Bar Blues Piano BGM](https://open.spotify.com/album/3HdSdlPlAW0qSqHB229Mpg) | 2:35 | 2021-12-03 |  |
 | [Deep Feeling Blues](https://open.spotify.com/track/4s1vnhkD5yIUFoTI6KNx8z) | [James Goodwin](https://open.spotify.com/artist/5sY7M6lEJILtXM7Jm2A0lG) | [Blue\-eyed Devil: Solo Blues Piano](https://open.spotify.com/album/6I0OPUCGyx4Y79a93CY5E9) | 4:13 | 2021-12-03 | 2023-06-13 |
+| [Delta Dust And Troubles](https://open.spotify.com/track/1NfTYq8nQ9yKpNiVMW3XHL) | [Neil Bryson](https://open.spotify.com/artist/46GZtjx0GpgUei5fQ0Kkv5) | [Delta Dust And Troubles](https://open.spotify.com/album/0zP8JofZIWn0SDub06N8OZ) | 2:27 | 2023-09-22 |  |
 | [Django Delgado](https://open.spotify.com/track/1TV37Ufwxkv9gjOVlDcLuu) | [Blues Piano All Stars](https://open.spotify.com/artist/3v45sKwSn2bjvr9ETf4HrQ) | [Blues Piano \- Blues Songs and Music](https://open.spotify.com/album/7D3OoVu6zvaS5TLe8cRRj5) | 2:21 | 2021-12-03 |  |
 | [Easy Does It](https://open.spotify.com/track/70z4kWjDKAvQ6s4OYT0Bgv) | [Joe Krown](https://open.spotify.com/artist/6u0LV9Hm6zvvflRqUqav6Q) | [Just the Piano...Just the Blues](https://open.spotify.com/album/4LoZ1QlGwt1Cd644g4bJ5N) | 4:08 | 2021-12-03 | 2023-06-13 |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/4pwfhJMOpGRd3hABNPd1n2) | [Joshua Ware](https://open.spotify.com/artist/6FMxrKi6qjCJnoY4rMNIHT) | [Midnight Solo Sessions](https://open.spotify.com/album/5G2e2LCTC6MFixt6amtciV) | 2:20 | 2022-01-21 |  |
+| [Hard Luck Shuffle](https://open.spotify.com/track/6YX1HXLbCAbAwLRHyPNyTG) | [Omar Parker](https://open.spotify.com/artist/4PTjlUerKZHANK5vASqQvV) | [Hard Luck Shuffle](https://open.spotify.com/album/5A2kCy9saaJoe0BaSAcodC) | 3:21 | 2023-09-22 |  |
 | [Harper Street Blues](https://open.spotify.com/track/6gvGs82KUQSdH7Rp7AWTGj) | [Neil Dunker](https://open.spotify.com/artist/0tJbegEI1Xa3pUnlGhwph8) | [Harper Street Blues](https://open.spotify.com/album/65XVY3REOEASfhR6WhvAiW) | 1:47 | 2023-04-28 |  |
 | [I Got It Bad](https://open.spotify.com/track/2O2ZgsGlwexJ4mlMQYphlZ) | [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ) | [Green's Blues](https://open.spotify.com/album/2nBRs9PNx08q96K4LI5T6V) | 5:55 | 2023-06-12 |  |
 | [I'll Tell You Like It Is](https://open.spotify.com/track/5Y4RLpAh2AjP2bMXoE4Drh) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [I'll Tell You Like It Is](https://open.spotify.com/album/5kDSHCVtmVSIVSTqJTksBu) | 4:11 | 2023-08-04 |  |
@@ -52,6 +54,7 @@
 | [Jazz Blues \(Piano Improve Music\)](https://open.spotify.com/track/34AhbSoWB7ISyJ6pPMJ4Aq) | [Restaurant Background Music Academy](https://open.spotify.com/artist/38Tg9bv2DGGtids0Vgr8A4) | [Jazz Piano Music – Solo Piano Music Edition, Restaurant Background Music, Instrumental Relaxing Music, Easy Listening Café Bar, Romantic Dinner Party](https://open.spotify.com/album/2KYRZbJxcXLOHjvCjmbn16) | 3:24 | 2021-12-03 | 2023-06-13 |
 | [Lazy Junction Blues](https://open.spotify.com/track/4Ef8GaDTd6q03V7ZMyXLQZ) | [Chris Banta](https://open.spotify.com/artist/2TOHI8x53t6K4EK0Jod7ve) | [Boogie Woogie & Blues Piano](https://open.spotify.com/album/3AWdv42Hu1netbXSt6gx82) | 1:15 | 2021-12-03 | 2023-06-13 |
 | [Little Brother \- Instrumental](https://open.spotify.com/track/5M5Koy1MEDGQ081SivilWW) | [Mr\. B](https://open.spotify.com/artist/0P5frht0A8pd2wsVtc2kMK), [J.C\. Heard](https://open.spotify.com/artist/7kCD8Z9gH6ifP16a5H7H4N) | [Shining The Pearls](https://open.spotify.com/album/3CmrFsbuOW5c8CG1olr1Kc) | 4:23 | 2021-12-03 | 2023-06-13 |
+| [Lonesome Train Whistle](https://open.spotify.com/track/5WRJelKcM5q2wq1GsXMMtB) | [Amelia Rivers](https://open.spotify.com/artist/1oiF1gSUlliZMOfgJE0vif) | [Lonesome Train Whistle](https://open.spotify.com/album/7pEygKdYB5c8RbO3ILlcDV) | 2:54 | 2023-09-22 |  |
 | [Low Brow Blues](https://open.spotify.com/track/1aFzzG00a8cLNEWBHAzUWh) | [Chris Nole](https://open.spotify.com/artist/4VgHlBqO0dcrhFpuoPtHFB) | [Piano Blues](https://open.spotify.com/album/5PEUpIzxhMR4G7mTD0z62H) | 3:23 | 2021-12-03 | 2023-06-13 |
 | [Major Omar](https://open.spotify.com/track/6yAnhS7j590JoBPTBUltdy) | [Kevin G\. Pace](https://open.spotify.com/artist/2xiNCnt5ncRZ90Gmvluky7) | [Piano Major Blues \(Playing Major Blues Scales & Songs on the Piano for Moderate Level Pianists\)](https://open.spotify.com/album/6UhMk0Z2lwzbXpEnKmlPlh) | 1:02 | 2021-12-03 | 2023-08-17 |
 | [Me and My Company](https://open.spotify.com/track/2AzEZNSkt9NDfDgNrO6AtH) | [Eximo Blue](https://open.spotify.com/artist/4lA30wTihw90nvQdV78pjm) | [Sunday Blues Piano](https://open.spotify.com/album/5PaoMcY6LaWaYToobjUrzp) | 1:39 | 2021-12-03 |  |

@@ -979,6 +979,28 @@
     },
     {
       "album": {
+        "name": "Just Won't Burn",
+        "url": "https://open.spotify.com/album/3tUrmnZBBUN9ZCtdJh16xn"
+      },
+      "artists": [
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        },
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449120,
+      "name": "Just Won\u2019t Burn - Live at the Beacon Theatre / 2022",
+      "url": "https://open.spotify.com/track/3wl59CVUAS8IL3FfPwfGSB"
+    },
+    {
+      "album": {
         "name": "Blues Caravan Live 2018",
         "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
       },

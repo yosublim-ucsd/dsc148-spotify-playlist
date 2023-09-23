@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1950s.",
-  "num_followers": 192959,
+  "num_followers": 193117,
   "original_name": "50s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTgxYmFmZTU3OTA2MWE0MTJhZjM4YTZlNzkwMDg4ZTAwOGU3OWJm",
+  "snapshot_id": "MCxlOGZiNWFkZjgxYmFlZjRhNzFhNmFkYjhiNzE5ZDVlZDA3NTE3MGFj",
   "tracks": [
     {
       "added_at": "2022-01-10 11:46:31",
@@ -63,22 +63,6 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "The Platters Golden Hits",
-        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 156560,
-      "name": "Only You (And You Alone)",
-      "url": "https://open.spotify.com/track/0S8ibKBl3tjRmYbZhGHNhG"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
         "name": "Songs For Swingin' Lovers! (Remastered)",
         "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 223760,
       "name": "I've Got You Under My Skin - Remastered 1998",
       "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "The Platters Golden Hits",
+        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 156560,
+      "name": "Only You (And You Alone)",
+      "url": "https://open.spotify.com/track/0S8ibKBl3tjRmYbZhGHNhG"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -183,18 +183,18 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Come Fly With Me (Remastered)",
-        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
+        "name": "Remember When?",
+        "url": "https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
         }
       ],
-      "duration_ms": 199093,
-      "name": "Come Fly With Me - Remastered 1998",
-      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
+      "duration_ms": 160933,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -215,18 +215,18 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Remember When?",
-        "url": "https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ"
+        "name": "Come Fly With Me (Remastered)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
       },
       "artists": [
         {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 160933,
-      "name": "Smoke Gets In Your Eyes",
-      "url": "https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q"
+      "duration_ms": 199093,
+      "name": "Come Fly With Me - Remastered 1998",
+      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Rock with Sedaka (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 159693,
-      "name": "Calendar Girl",
-      "url": "https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
         "name": "The Platters",
         "url": "https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 167800,
       "name": "My Prayer",
       "url": "https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Rock with Sedaka (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 159693,
+      "name": "Calendar Girl",
+      "url": "https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
+        "name": "Earth Angel",
+        "url": "https://open.spotify.com/album/42uu50W2ko5aQriXh7naAd"
       },
       "artists": [
         {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+          "name": "The Penguins",
+          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
         }
       ],
-      "duration_ms": 140773,
-      "name": "A Teenager's Romance",
-      "url": "https://open.spotify.com/track/1Qn5jElT7XqjvVeJ8pYM2w"
+      "duration_ms": 171066,
+      "name": "Earth Angel",
+      "url": "https://open.spotify.com/track/7GnMzVWOHLBPcfco4L1GtE"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -523,34 +523,34 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Earth Angel",
-        "url": "https://open.spotify.com/album/42uu50W2ko5aQriXh7naAd"
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
       },
       "artists": [
         {
-          "name": "The Penguins",
-          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
         }
       ],
-      "duration_ms": 171066,
-      "name": "Earth Angel",
-      "url": "https://open.spotify.com/track/7GnMzVWOHLBPcfco4L1GtE"
+      "duration_ms": 140773,
+      "name": "A Teenager's Romance",
+      "url": "https://open.spotify.com/track/1Qn5jElT7XqjvVeJ8pYM2w"
     },
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Buddy Holly",
-        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
+        "name": "He's So Fine",
+        "url": "https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w"
       },
       "artists": [
         {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
         }
       ],
-      "duration_ms": 117213,
-      "name": "Words Of Love",
-      "url": "https://open.spotify.com/track/3U9Kkv90QElks0pzIgfAxw"
+      "duration_ms": 154173,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -571,18 +571,18 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "He's So Fine",
-        "url": "https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w"
+        "name": "Buddy Holly",
+        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
       "artists": [
         {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
         }
       ],
-      "duration_ms": 154173,
-      "name": "To Be Loved",
-      "url": "https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe"
+      "duration_ms": 117213,
+      "name": "Words Of Love",
+      "url": "https://open.spotify.com/track/3U9Kkv90QElks0pzIgfAxw"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -687,22 +687,18 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan"
+        "name": "The Fabulous Favorites",
+        "url": "https://open.spotify.com/album/4wiQVM9GmQ6scMImtHxqmv"
       },
       "artists": [
         {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        },
-        {
-          "name": "The Crickets",
-          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
+          "name": "Kay Starr",
+          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
         }
       ],
-      "duration_ms": 128453,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/3ZiinX20GNikz3F849xTIO"
+      "duration_ms": 172773,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/3cuOpppX5ZNOQ843dPeFB4"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -723,18 +719,22 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "The Fabulous Favorites",
-        "url": "https://open.spotify.com/album/4wiQVM9GmQ6scMImtHxqmv"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan"
       },
       "artists": [
         {
-          "name": "Kay Starr",
-          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        },
+        {
+          "name": "The Crickets",
+          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
         }
       ],
-      "duration_ms": 172773,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/3cuOpppX5ZNOQ843dPeFB4"
+      "duration_ms": 128453,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/3ZiinX20GNikz3F849xTIO"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "That'll Be The Day",
-        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        }
-      ],
-      "duration_ms": 145066,
-      "name": "You Are My One Desire",
-      "url": "https://open.spotify.com/track/4Ypc4CISFdkHHbOrrKQtrn"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
         "name": "Presenting Marion Ryan",
         "url": "https://open.spotify.com/album/07J0yWEzGdx2ElM6p4iP9D"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 135047,
       "name": "The Story of My Life - Remastered",
       "url": "https://open.spotify.com/track/63EGslqVxh4qwvqGMl3vMA"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "That'll Be The Day",
+        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "duration_ms": 145066,
+      "name": "You Are My One Desire",
+      "url": "https://open.spotify.com/track/4Ypc4CISFdkHHbOrrKQtrn"
     },
     {
       "added_at": "2022-01-10 11:46:31",

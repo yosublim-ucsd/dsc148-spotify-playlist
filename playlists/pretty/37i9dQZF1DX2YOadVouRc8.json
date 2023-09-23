@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 16920,
+  "num_followers": 16962,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjBjZjAyNTNhMGE2OTc4YjFjYmQxOTkzYzg0M2ZiNDg0ZmQ5YzNm",
+  "snapshot_id": "MCwyMWZjNGM4ZTQ2ZGNiMzc5YzE2Mzk3ODI2NmZhMWViODMzNTBkMmFi",
   "tracks": [
     {
       "added_at": "2023-09-21 23:00:00",
@@ -399,22 +399,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Unruly",
-        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
+        "name": "Afro Pop, Vol. 1",
+        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
       },
       "artists": [
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 227448,
-      "name": "Mukulu",
-      "url": "https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM"
+      "duration_ms": 186299,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -435,18 +431,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Afro Pop, Vol. 1",
-        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
+        "name": "Unruly",
+        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 186299,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO"
+      "duration_ms": 227448,
+      "name": "Mukulu",
+      "url": "https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Trumpet",
-        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 188656,
-      "name": "Trumpet",
-      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Tequila Ever After",
         "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 163685,
       "name": "Wrong Person (with ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/0upnuatnbGnFV7HJgCm9Xj"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Trumpet",
+        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 188656,
+      "name": "Trumpet",
+      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/0sHyVWNc3nfxAYOTOwOlPx"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "Life & Money (Remix)",
         "url": "https://open.spotify.com/album/6UvYqIIOIE9pw7H7SqeS50"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 184800,
       "name": "Life & Money - Remix",
       "url": "https://open.spotify.com/track/0zsh54Zhz2os1mEzgqnUpF"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/0sHyVWNc3nfxAYOTOwOlPx"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        }
-      ],
-      "duration_ms": 238917,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/1BiQOEEHtZyvkY8gpjbxml"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 149457,
       "name": "Water",
       "url": "https://open.spotify.com/track/5mH230vvkLSBJJZIftBttH"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "duration_ms": 238917,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 205846,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "Lifesize Teddy",
         "url": "https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 180714,
       "name": "Repercussions",
       "url": "https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
-      },
-      "artists": [
-        {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 205846,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "7 in the Morning",
-        "url": "https://open.spotify.com/album/33HDZIBuxNPHLvSB8Rs9L7"
-      },
-      "artists": [
-        {
-          "name": "Laime",
-          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 214913,
-      "name": "7 in the Morning",
-      "url": "https://open.spotify.com/track/1ECMAbJySsfImTUuDRj9J7"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Line Of Fire",
         "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "7 in the Morning",
+        "url": "https://open.spotify.com/album/33HDZIBuxNPHLvSB8Rs9L7"
+      },
+      "artists": [
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 214913,
+      "name": "7 in the Morning",
+      "url": "https://open.spotify.com/track/1ECMAbJySsfImTUuDRj9J7"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Eleyele",
-        "url": "https://open.spotify.com/album/6fPuy2F9Aega1ajo93h3lT"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 128183,
-      "name": "Eleyele",
-      "url": "https://open.spotify.com/track/4AEQG338TenEGr5f7OEaMq"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Patient Zero",
         "url": "https://open.spotify.com/album/7f1jBF06DtXBmFcPz1wIDo"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 152500,
       "name": "House Party",
       "url": "https://open.spotify.com/track/1Fi9F34fYmhJOwBqM1lUk8"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Eleyele",
+        "url": "https://open.spotify.com/album/6fPuy2F9Aega1ajo93h3lT"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 128183,
+      "name": "Eleyele",
+      "url": "https://open.spotify.com/track/4AEQG338TenEGr5f7OEaMq"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "Jara",
+        "url": "https://open.spotify.com/album/6vda4JDcL24Ango61D6jGU"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 160644,
+      "name": "Jara",
+      "url": "https://open.spotify.com/track/4Kp8RzMUbGSEkjrElCRgww"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "Mango Juice & Bad Decisions",
         "url": "https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 161828,
       "name": "'00 Nostalgia",
       "url": "https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Jara",
-        "url": "https://open.spotify.com/album/6vda4JDcL24Ango61D6jGU"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 160644,
-      "name": "Jara",
-      "url": "https://open.spotify.com/track/4Kp8RzMUbGSEkjrElCRgww"
     },
     {
       "added_at": "2023-09-21 23:00:00",

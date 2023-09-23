@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Chill & Bumpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,812 likes - 141 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,201 likes - 141 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 140 | [maracuya massage \- Sam Ruffillo Remix](https://open.spotify.com/track/4AgAhaqv9RA6q7JnnyCMdv) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [maracuya massage \(Sam Ruffillo Remix\)](https://open.spotify.com/album/2Onz56a71k0NIcqMR93wqu) | 4:11 |
 | 141 | [phases \(feat\. Kojey Radical\) \- P\-rallel Remix](https://open.spotify.com/track/0BUU2Sw6QrDyIVg4U6G3Gl) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [phases \(feat\. Kojey Radical\) \[P\-rallel Remix\]](https://open.spotify.com/album/5UMUOPkLKNKKfHIT9D9D4x) | 3:08 |
 
-Snapshot ID: `MCxhYjMwYWM5MWZjZGEzM2ZhODk0ZjI2ZmVkNzhlMjM3MmMyMGNkZmI0`
+Snapshot ID: `MCw3Yzc3MjVkYjQzM2I1ODQwNWMwNzkyYmMwNTBlYjkxMzRjNTEwNjgw`

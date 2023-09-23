@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/5BzEDGuOG1SzGtBoVjyzJH"
+      },
+      "artists": [
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207493,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/4otjkIbpUBOxmRsZzOYZG1"
+    },
+    {
+      "album": {
         "name": "Angels in Dystopia Nocturnes & Preludes",
         "url": "https://open.spotify.com/album/7IjI6SvFhVJI2ExQLStbAt"
       },
@@ -939,6 +957,36 @@
     },
     {
       "album": {
+        "name": "Cin\u00e9ma",
+        "url": "https://open.spotify.com/album/5kKfH4ksnLxzQAujQAhNrT"
+      },
+      "artists": [
+        {
+          "name": "Nicola Piovani",
+          "url": "https://open.spotify.com/artist/11XlNd1KqePugYImzM1ZKJ"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Ben Palmer",
+          "url": "https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183666,
+      "name": "Buongiorno Principessa (From \"La vita \u00e8 bella\")",
+      "url": "https://open.spotify.com/track/6vvYxqVnNhyWajPOh55SqB"
+    },
+    {
+      "album": {
         "name": "Relaxing Classics",
         "url": "https://open.spotify.com/album/15ySNjCbDjE89Xq7gl9l7f"
       },
@@ -1109,6 +1157,36 @@
     },
     {
       "album": {
+        "name": "Cin\u00e9ma",
+        "url": "https://open.spotify.com/album/5kKfH4ksnLxzQAujQAhNrT"
+      },
+      "artists": [
+        {
+          "name": "Anne Dudley",
+          "url": "https://open.spotify.com/artist/41dLItQx3PSyP6n1AMd87b"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Ben Palmer",
+          "url": "https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150791,
+      "name": "Chasing Rainbows",
+      "url": "https://open.spotify.com/track/0OQ2IDjcTCnOrVzrl55hIv"
+    },
+    {
+      "album": {
         "name": "Together At Last",
         "url": "https://open.spotify.com/album/0XWsqCngjp9vAcDzr8dp9T"
       },
@@ -1150,6 +1228,24 @@
       "duration_ms": 100280,
       "name": "Chopin's Waltz",
       "url": "https://open.spotify.com/track/734tSYIkxbYc5OnydWqsYR"
+    },
+    {
+      "album": {
+        "name": "Christmas Tree",
+        "url": "https://open.spotify.com/album/7HuP8ABNZArtzczLqF19da"
+      },
+      "artists": [
+        {
+          "name": "Chloe Flower",
+          "url": "https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193533,
+      "name": "Christmas Tree",
+      "url": "https://open.spotify.com/track/1An4fOnocqfjwNawHOqSuX"
     },
     {
       "album": {
@@ -1209,6 +1305,28 @@
     },
     {
       "album": {
+        "name": "Cin\u00e9ma",
+        "url": "https://open.spotify.com/album/5kKfH4ksnLxzQAujQAhNrT"
+      },
+      "artists": [
+        {
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132870,
+      "name": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi (From \"Le fabuleux destin d'Am\u00e9lie Poulain\")",
+      "url": "https://open.spotify.com/track/7pFvppjhC8k8h4C8dMezKB"
+    },
+    {
+      "album": {
         "name": "Relaxing Classical",
         "url": "https://open.spotify.com/album/17tI0LEAubONuqyNfoDD12"
       },
@@ -1224,6 +1342,36 @@
       "duration_ms": 126626,
       "name": "Comptine d'un autre \u00e9t\u00e9: L'apr\u00e8s-midi",
       "url": "https://open.spotify.com/track/0STixpyZwelPFdd8o2Hqir"
+    },
+    {
+      "album": {
+        "name": "Concerto in B Minor, RV 580: I. Allegro (Arr. for Guitar by Michael Lewin)",
+        "url": "https://open.spotify.com/album/1iUVzcjL8lLLb6XoZmZBHk"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Milo\u0161 Karadagli\u0107",
+          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
+        },
+        {
+          "name": "Jonathan Cohen",
+          "url": "https://open.spotify.com/artist/0z6t3buywDCXXWpXnkmH7R"
+        },
+        {
+          "name": "Arcangelo",
+          "url": "https://open.spotify.com/artist/7CZfCnmFRBPanhnBO1ZdMq"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233213,
+      "name": "Concerto in B Minor, RV 580: I. Allegro (Arr. for Guitar by Michael Lewin)",
+      "url": "https://open.spotify.com/track/5ZcGdjgXIzBRLGAUGnlkwN"
     },
     {
       "album": {
@@ -1246,6 +1394,36 @@
       "duration_ms": 226026,
       "name": "Concerto in D Minor, BWV 974: II. Adagio",
       "url": "https://open.spotify.com/track/1lz9uiS4fQ2odcW5uNhiO3"
+    },
+    {
+      "album": {
+        "name": "Concerto in D Minor: II. Adagio",
+        "url": "https://open.spotify.com/album/1pltLL7r1kjV06GxqeobnV"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Marcello",
+          "url": "https://open.spotify.com/artist/36VGTEPZnpAU5FfivpFaJO"
+        },
+        {
+          "name": "Milo\u0161 Karadagli\u0107",
+          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
+        },
+        {
+          "name": "Jonathan Cohen",
+          "url": "https://open.spotify.com/artist/0z6t3buywDCXXWpXnkmH7R"
+        },
+        {
+          "name": "Arcangelo",
+          "url": "https://open.spotify.com/artist/7CZfCnmFRBPanhnBO1ZdMq"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222333,
+      "name": "Concerto in D Minor: II. Adagio",
+      "url": "https://open.spotify.com/track/5kynOCu6wmrjLm5pEp6DNQ"
     },
     {
       "album": {
@@ -1285,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "Dancing Lights",
+        "url": "https://open.spotify.com/album/380TWv1sOwMrWeaohwZ6iz"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117613,
+      "name": "Dancing Lights",
+      "url": "https://open.spotify.com/track/08MwyLIBvGrNXgIPYWifk4"
+    },
+    {
+      "album": {
         "name": "N\u00e9o-Romance",
         "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
       },
@@ -1300,6 +1496,76 @@
       "duration_ms": 232967,
       "name": "Dans les bois",
       "url": "https://open.spotify.com/track/3esfnvt9qlb6tb2xW4mTqI"
+    },
+    {
+      "album": {
+        "name": "Demeter",
+        "url": "https://open.spotify.com/album/5c4hVfWtGZwOGhBjLXZH6T"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158360,
+      "name": "Demeter",
+      "url": "https://open.spotify.com/track/1M0S5s0VCBxJaWcC3Y6S3k"
+    },
+    {
+      "album": {
+        "name": "Cin\u00e9ma",
+        "url": "https://open.spotify.com/album/5kKfH4ksnLxzQAujQAhNrT"
+      },
+      "artists": [
+        {
+          "name": "Go Shiina",
+          "url": "https://open.spotify.com/artist/5Yk09n2L8j0DIevsAfinE0"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Ben Palmer",
+          "url": "https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204791,
+      "name": "Demon Slayer: Kamado Tanjiro no Uta",
+      "url": "https://open.spotify.com/track/2lvmGBoVPibfhRdwCmjNw0"
+    },
+    {
+      "album": {
+        "name": "Der Doppelg\u00e4nger, S . 560, No. 12 (Arr. for piano by Franz Liszt)",
+        "url": "https://open.spotify.com/album/3kXLVi2RhNocUKKb7LZv9x"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331173,
+      "name": "Der Doppelg\u00e4nger, S . 560, No. 12 (Arr. for piano by Franz Liszt)",
+      "url": "https://open.spotify.com/track/6Qh9aWlQIA4XmlDeTrz4WW"
     },
     {
       "album": {
@@ -1459,6 +1725,28 @@
     },
     {
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/2iKeXCLFndoxnXqpBEVbmd"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        },
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349705,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/3FUw3zUo4bmETWb15jk3oY"
+    },
+    {
+      "album": {
         "name": "MozartReworked",
         "url": "https://open.spotify.com/album/0iscfEvEjrQFkNTV7Hitgb"
       },
@@ -1588,6 +1876,28 @@
       "duration_ms": 240880,
       "name": "Flower Through Concrete",
       "url": "https://open.spotify.com/track/5wHT1UYWQBHYAeIwRbBDJG"
+    },
+    {
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/2iKeXCLFndoxnXqpBEVbmd"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158575,
+      "name": "Flying (From \"Peter Pan\" Soundtrack)",
+      "url": "https://open.spotify.com/track/5VCENRWL4E2eobxV95flh1"
     },
     {
       "album": {
@@ -1730,6 +2040,28 @@
       "duration_ms": 154242,
       "name": "Good Night You Kings (from \"The Cider House Rules\", Arr. for Piano)",
       "url": "https://open.spotify.com/track/3sMNaEmLicgPEGEha4VZqE"
+    },
+    {
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/2iKeXCLFndoxnXqpBEVbmd"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198759,
+      "name": "Grain Moon",
+      "url": "https://open.spotify.com/track/1qRK1V8UVuAke4GhYtvJ9A"
     },
     {
       "album": {
@@ -2026,6 +2358,36 @@
       "duration_ms": 264533,
       "name": "I. Theme",
       "url": "https://open.spotify.com/track/7B6rnHGkgyR751iXXOiMDM"
+    },
+    {
+      "album": {
+        "name": "Cin\u00e9ma",
+        "url": "https://open.spotify.com/album/5kKfH4ksnLxzQAujQAhNrT"
+      },
+      "artists": [
+        {
+          "name": "Michael Nyman",
+          "url": "https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Ben Palmer",
+          "url": "https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253208,
+      "name": "If (From \"The Diary of Anne Frank\")",
+      "url": "https://open.spotify.com/track/57qC7QQJpCmnKBA4YW2ol0"
     },
     {
       "album": {
@@ -2476,7 +2838,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 128242,
       "name": "Jesu, Joy of Man's Desiring - Arr. by Alexis Ffrench",
       "url": "https://open.spotify.com/track/2Kn5PauE1nEJxUQlD6N3JF"
@@ -2502,6 +2864,28 @@
       "duration_ms": 364506,
       "name": "Jeux d'eau, M. 30",
       "url": "https://open.spotify.com/track/6UobDoELlmj6yvSBM4jcxI"
+    },
+    {
+      "album": {
+        "name": "Klavierst\u00fcck in B Minor",
+        "url": "https://open.spotify.com/album/1yQc1akmh9IClKj54ACVio"
+      },
+      "artists": [
+        {
+          "name": "Alban Berg",
+          "url": "https://open.spotify.com/artist/60ju8DuNEmkdLw3ymddLje"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60400,
+      "name": "Klavierst\u00fcck in B Minor",
+      "url": "https://open.spotify.com/track/3c00whyjlNKWEMWso17OSM"
     },
     {
       "album": {
@@ -2708,6 +3092,32 @@
       "duration_ms": 253973,
       "name": "Le onde",
       "url": "https://open.spotify.com/track/5PKwmcEMFRsac2oWMhZ3gw"
+    },
+    {
+      "album": {
+        "name": "Cin\u00e9ma",
+        "url": "https://open.spotify.com/album/5kKfH4ksnLxzQAujQAhNrT"
+      },
+      "artists": [
+        {
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "Marcin",
+          "url": "https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188250,
+      "name": "Libertango",
+      "url": "https://open.spotify.com/track/1xfGVwejnecUhfqr0OCbR4"
     },
     {
       "album": {
@@ -3018,6 +3428,24 @@
       "duration_ms": 198850,
       "name": "Mia (Solo Piano Version)",
       "url": "https://open.spotify.com/track/3le4R1j4GtmE1Bg5n49zDr"
+    },
+    {
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/1jKQP76G48Kjdhk2ka3jAz"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183400,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/7vZOGV8RLj3ylOmaWw5NSu"
     },
     {
       "album": {
@@ -3652,6 +4080,28 @@
       "duration_ms": 156057,
       "name": "Papillon",
       "url": "https://open.spotify.com/track/4Mfcday6SzmFWnNzV8gd75"
+    },
+    {
+      "album": {
+        "name": "Passacaglia",
+        "url": "https://open.spotify.com/album/217nI14LJzlwCrbwBi7iKr"
+      },
+      "artists": [
+        {
+          "name": "Silvius Leopold Weiss",
+          "url": "https://open.spotify.com/artist/4bRcNJTLwLZmJM598wTQ3A"
+        },
+        {
+          "name": "Milo\u0161 Karadagli\u0107",
+          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216853,
+      "name": "Passacaglia",
+      "url": "https://open.spotify.com/track/4jczO6dyeT2MNM6McX9kjU"
     },
     {
       "album": {
@@ -4534,7 +4984,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 123850,
       "name": "Sheep May Safely Graze - Arr. by Alexis Ffrench",
       "url": "https://open.spotify.com/track/3VGYbvYV2kuabVIS3vdM0N"
@@ -5069,6 +5519,28 @@
     },
     {
       "album": {
+        "name": "The Arts and the Hours (Arr. for Guitar by Michael Lewin)",
+        "url": "https://open.spotify.com/album/2xXlRWZd1WOrdiQtEbaFr1"
+      },
+      "artists": [
+        {
+          "name": "Jean-Philippe Rameau",
+          "url": "https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce"
+        },
+        {
+          "name": "Milo\u0161 Karadagli\u0107",
+          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315920,
+      "name": "The Arts and the Hours (Arr. for Guitar by Michael Lewin)",
+      "url": "https://open.spotify.com/track/0sngwonrYrg1CDa0DHH3Yp"
+    },
+    {
+      "album": {
         "name": "N\u00e9o-Romance",
         "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
       },
@@ -5175,6 +5647,24 @@
     },
     {
       "album": {
+        "name": "The Diary",
+        "url": "https://open.spotify.com/album/5qfb3STphWnCYiiUbebdf7"
+      },
+      "artists": [
+        {
+          "name": "Federico Albanese",
+          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200391,
+      "name": "The Diary",
+      "url": "https://open.spotify.com/track/3kaMnDGKj4KIIf0R4c6II8"
+    },
+    {
+      "album": {
         "name": "The Duchess: Piano Suite",
         "url": "https://open.spotify.com/album/6Lqh1dQCacYPK33Iioobj9"
       },
@@ -5256,6 +5746,54 @@
       "duration_ms": 139291,
       "name": "The Gadfly, Op. 97: III. Youth (Romance)",
       "url": "https://open.spotify.com/track/4XfMV8Op08DmsEnXHsa704"
+    },
+    {
+      "album": {
+        "name": "The Golden Hour",
+        "url": "https://open.spotify.com/album/5iNOTqseQSzF5bE6zyzMfZ"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130640,
+      "name": "The Golden Hour",
+      "url": "https://open.spotify.com/track/5emiJ9wlOZo99YExqsf25z"
+    },
+    {
+      "album": {
+        "name": "Cin\u00e9ma",
+        "url": "https://open.spotify.com/album/5kKfH4ksnLxzQAujQAhNrT"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Ben Palmer",
+          "url": "https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193208,
+      "name": "The Hanging Tree (From \"The Hunger Games: Mockingjay Pt. 1\")",
+      "url": "https://open.spotify.com/track/57FjADc1MWJnc28U0oRbR6"
     },
     {
       "album": {
@@ -5369,6 +5907,24 @@
     },
     {
       "album": {
+        "name": "Days of Passage",
+        "url": "https://open.spotify.com/album/7w4swS0kOMLRAxOfPav0x8"
+      },
+      "artists": [
+        {
+          "name": "Federico Albanese",
+          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182762,
+      "name": "The Late Hour",
+      "url": "https://open.spotify.com/track/3P0g85yhy1w8F8qPd1PPOH"
+    },
+    {
+      "album": {
         "name": "The Fabelmans (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC"
       },
@@ -5405,6 +5961,36 @@
     },
     {
       "album": {
+        "name": "Cin\u00e9ma",
+        "url": "https://open.spotify.com/album/5kKfH4ksnLxzQAujQAhNrT"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Ben Palmer",
+          "url": "https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274374,
+      "name": "The Little Prince Orchestral Suite",
+      "url": "https://open.spotify.com/track/78CKIsgtNAuyrMw42kKyAo"
+    },
+    {
+      "album": {
         "name": "Favourite Guitar Works",
         "url": "https://open.spotify.com/album/0pnRi0UoqvjSaxpzLuwgz9"
       },
@@ -5424,6 +6010,24 @@
       "duration_ms": 174400,
       "name": "The Miller's Dance",
       "url": "https://open.spotify.com/track/0RB4qQl977yq2SMrtJdG8s"
+    },
+    {
+      "album": {
+        "name": "The Passenger",
+        "url": "https://open.spotify.com/album/5tsR5brMsYrHSjUkYUCtuO"
+      },
+      "artists": [
+        {
+          "name": "Federico Albanese",
+          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/3T53QCB282wA6GY8hMRs4x"
     },
     {
       "album": {
@@ -5482,6 +6086,66 @@
       "duration_ms": 91669,
       "name": "The Sun Gives Life to Everything But Us",
       "url": "https://open.spotify.com/track/7pcGjrRGYXXYxdriwHDEjr"
+    },
+    {
+      "album": {
+        "name": "The Village: Morning",
+        "url": "https://open.spotify.com/album/2DWJtnvhMCL49fvWBfyt27"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Hilary Hahn",
+          "url": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278360,
+      "name": "The Village: Morning",
+      "url": "https://open.spotify.com/track/0nyDhaZfQN7uw071Fpq8pg"
+    },
+    {
+      "album": {
+        "name": "Cin\u00e9ma",
+        "url": "https://open.spotify.com/album/5kKfH4ksnLxzQAujQAhNrT"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Ben Palmer",
+          "url": "https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168041,
+      "name": "The Witcher: Toss A Coin To Your Witcher",
+      "url": "https://open.spotify.com/track/2vxJ9dgpmwZUNjp6VFY1LZ"
     },
     {
       "album": {
@@ -5829,6 +6493,36 @@
     },
     {
       "album": {
+        "name": "Cin\u00e9ma",
+        "url": "https://open.spotify.com/album/5kKfH4ksnLxzQAujQAhNrT"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Ben Palmer",
+          "url": "https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247874,
+      "name": "Valse sentimentale, Op. 51, No. 6",
+      "url": "https://open.spotify.com/track/0zSDVlSukk8LCQByaOLZP7"
+    },
+    {
+      "album": {
         "name": "Relaxing Classical",
         "url": "https://open.spotify.com/album/17tI0LEAubONuqyNfoDD12"
       },
@@ -5904,6 +6598,36 @@
       "duration_ms": 200470,
       "name": "Vocalise, Op. 34, No. 14 (Arr. for Piano Trio by Julian Riem)",
       "url": "https://open.spotify.com/track/0xTGg3AllbZMf0vb4C2tKa"
+    },
+    {
+      "album": {
+        "name": "Cin\u00e9ma",
+        "url": "https://open.spotify.com/album/5kKfH4ksnLxzQAujQAhNrT"
+      },
+      "artists": [
+        {
+          "name": "Bruno Coulais",
+          "url": "https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Ben Palmer",
+          "url": "https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131624,
+      "name": "Vois sur ton chemin (From \"Les Choristes\")",
+      "url": "https://open.spotify.com/track/3iI37in7ncoPFD3Lrh1q76"
     },
     {
       "album": {
@@ -6147,6 +6871,36 @@
     },
     {
       "album": {
+        "name": "Cin\u00e9ma",
+        "url": "https://open.spotify.com/album/5kKfH4ksnLxzQAujQAhNrT"
+      },
+      "artists": [
+        {
+          "name": "Shigeru Umebayashi",
+          "url": "https://open.spotify.com/artist/2YF8oM4cDvaP7tCpe4KQvi"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Ben Palmer",
+          "url": "https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145916,
+      "name": "Yumeji's Theme (From \"In the Mood for Love\")",
+      "url": "https://open.spotify.com/track/5mUjIfAcijUuBdoUwgNh5k"
+    },
+    {
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/2y9DN1TNj4qMf1H5epuupR"
       },
@@ -6170,6 +6924,36 @@
       "duration_ms": 119426,
       "name": "Zdes' khorosho ('How Fair This Spot'), Op. 21, No. 7",
       "url": "https://open.spotify.com/track/0wZMPhztIsuwSjCo6OalWe"
+    },
+    {
+      "album": {
+        "name": "Cin\u00e9ma",
+        "url": "https://open.spotify.com/album/5kKfH4ksnLxzQAujQAhNrT"
+      },
+      "artists": [
+        {
+          "name": "Khaled Mouzanar",
+          "url": "https://open.spotify.com/artist/5WZpS24ae5QahbzIostZXt"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Ben Palmer",
+          "url": "https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242541,
+      "name": "Zeyn (From \"Capharna\u00fcm\")",
+      "url": "https://open.spotify.com/track/7fJzPqaAqujgcgsWAHLli2"
     },
     {
       "album": {

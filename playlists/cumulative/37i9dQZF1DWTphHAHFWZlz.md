@@ -2,9 +2,9 @@
 
 ### [POGO](https://open.spotify.com/playlist/37i9dQZF1DWTphHAHFWZlz)
 
-> Nuevo sonido, misma actitud.<br/>📷 FEMI
+> Nuevo sonido, misma actitud.<br/>📷 Evlay
 
-266 songs - 15 hr 31 min
+267 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 | 2023-05-19 |  |
 | [Imaginando](https://open.spotify.com/track/0tp6RLnxyNOSrTQak9YBd6) | [Caras Extrañas](https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP), [Mauricio Junior Lescano](https://open.spotify.com/artist/0InckL49BuCjxQZuSPg9DV) | [Imaginando](https://open.spotify.com/album/7D4FYZzMAcwN5N61xCj0cJ) | 4:23 | 2022-06-29 | 2023-05-20 |
 | [Incandescente](https://open.spotify.com/track/4BLvKLjhvH6UU5aTyBe3bt) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Incandescente](https://open.spotify.com/album/63TDtsFF8Rh3K3uNbsOLmd) | 5:35 | 2022-06-29 | 2022-10-15 |
+| [INVESTIDO](https://open.spotify.com/track/0gX9K4YtmMaODBFtPTU4mI) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [INVESTIDO](https://open.spotify.com/album/1YfLcIRbHLHVqz3cTxm7cB) | 3:23 | 2023-09-22 |  |
 | [KIDZ \- Spotify Singles](https://open.spotify.com/track/2Fc0wy51lDMnxcEcli7UNK) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [KIDZ \- Spotify Singles](https://open.spotify.com/album/7BrgeOGDEUsE0QDk9m75Zv) | 3:24 | 2022-08-26 | 2023-05-20 |
 | [LA ARAÑA](https://open.spotify.com/track/1HU9uePnzE4RdomNtxICSC) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3itKjyJB7SPbkyhhlB9YJX) | 3:28 | 2022-07-19 | 2022-07-29 |
 | [LA ARAÑA](https://open.spotify.com/track/1LRCYh4SN2EtRZD3zMcbWe) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Isla de Oro](https://open.spotify.com/album/2WsKLQLu05HwbbGSIFOQsH) | 3:28 | 2022-08-19 | 2022-09-10 |

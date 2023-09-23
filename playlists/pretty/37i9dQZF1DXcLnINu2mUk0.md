@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Domingues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,307 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,360 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 59 | [FAZ ME FICAR](https://open.spotify.com/track/6H42vwpapfQH1XpihD9OD4) | [Zarco](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [FAZ ME FICAR](https://open.spotify.com/album/2o2rUwESaEF5HxmL8d584q) | 3:56 |
 | 60 | [Interfeer](https://open.spotify.com/track/0Sc0LtMt22xo48C8YiojYk) | [Chá Black](https://open.spotify.com/artist/3tiL6mQyAaxxHVa8lMudaI), [Rikas](https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Interfeer](https://open.spotify.com/album/20HDAlAV4WyhRQ8JmgwwvB) | 3:42 |
 | 61 | [Rosé](https://open.spotify.com/track/72bRHyV4lbyH52SoDdnESG) | [Walter 4reignr](https://open.spotify.com/artist/0QzzLKzJwwEuw3TFt0A0Lt) | [Rosé](https://open.spotify.com/album/6Zx2HE5kAE5xiA5hPLbyOH) | 2:57 |
-| 62 | [Confuso](https://open.spotify.com/track/61hLjlVfhtDFt8k2qZpsfD) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Confuso](https://open.spotify.com/album/6pVY3jn7fL6yGfHk24e8uv) | 2:35 |
-| 63 | [FLEX](https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [FLEX](https://open.spotify.com/album/23AMMGNATg5gvSMjD1NqkN) | 2:44 |
+| 62 | [FLEX](https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [FLEX](https://open.spotify.com/album/23AMMGNATg5gvSMjD1NqkN) | 2:44 |
+| 63 | [Confuso](https://open.spotify.com/track/61hLjlVfhtDFt8k2qZpsfD) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Confuso](https://open.spotify.com/album/6pVY3jn7fL6yGfHk24e8uv) | 2:35 |
 | 64 | [TUDO OU NADA](https://open.spotify.com/track/3FzM5fHg2Wu87fuLxBstDY) | [Dinis Mota](https://open.spotify.com/artist/4ZtaPrKdemEzqprB4bIzdx) | [TRIAGEM](https://open.spotify.com/album/3i1DXVUJpTTBnxbRD8fB0K) | 3:06 |
 | 65 | [Muda](https://open.spotify.com/track/5lTx1aJfs6rqYVqQbSzbve) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Muda](https://open.spotify.com/album/350MDczLAQuFoU07xEjRCB) | 2:57 |
 | 66 | [Oh My God](https://open.spotify.com/track/1qVCh9B4mQuQ5gPPZCJwNh) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF) | [Oh My God](https://open.spotify.com/album/73jc5vFY5fpRamIdJNQ97G) | 2:45 |
-| 67 | [Aura Diferente](https://open.spotify.com/track/087JPu4QHA65h7zUmk0pxf) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Aura Diferente](https://open.spotify.com/album/3CKAXJZxxJz5YInwBjgmXd) | 4:11 |
-| 68 | [Amor](https://open.spotify.com/track/3Ip0TaOOaXTrCmZCdJkgpf) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Amor](https://open.spotify.com/album/1aJgyzKAmMg1UL0bmzX7XG) | 3:01 |
+| 67 | [Amor](https://open.spotify.com/track/3Ip0TaOOaXTrCmZCdJkgpf) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Amor](https://open.spotify.com/album/1aJgyzKAmMg1UL0bmzX7XG) | 3:01 |
+| 68 | [Aura Diferente](https://open.spotify.com/track/087JPu4QHA65h7zUmk0pxf) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Aura Diferente](https://open.spotify.com/album/3CKAXJZxxJz5YInwBjgmXd) | 4:11 |
 | 69 | [À Tona](https://open.spotify.com/track/2pejdDJoyqDBWM706pwC9M) | [Dote](https://open.spotify.com/artist/4uAoxHS1E4Hd8KCH8m9aaP) | [À Tona](https://open.spotify.com/album/6AQ5jQ3Tqm0ygMnBnmWUbe) | 2:14 |
 | 70 | [Tudo Eu](https://open.spotify.com/track/4Dq6ZMKGGE0ySNelZl63f8) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn) | [Tudo Eu](https://open.spotify.com/album/5IWSsHVCFLFQJukkiUye4U) | 2:20 |
 
-Snapshot ID: `MCw4YWFhNjA5MDFlMjQ2NmU0MjBjYjk3YWY3NmE4Yjk4ZTBlNmFkNDA2`
+Snapshot ID: `MCxkYTEyYTlhY2M4NzIwMDljNmFlOGI1NmU5YWM4NmZkYWFlZjQ3ODVh`

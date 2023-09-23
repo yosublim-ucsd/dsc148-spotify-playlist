@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 
 > Dancing to electro\-pop like a robot from 1984\. Cover: Depeche Mode.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,371 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,648 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 59 | [To Cut a Long Story Short \- 2010 Remaster](https://open.spotify.com/track/1NlJv9YBuvgbb9pO51vqOY) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Journeys to Glory \(Special Edition\)](https://open.spotify.com/album/6SeOw1xyjKM6CbEstaGzqd) | 3:19 |
 | 60 | [Chains of Love](https://open.spotify.com/track/1I0qu4PsBjAHfJHy9wy5AA) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [The Innocents](https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd) | 3:35 |
 | 61 | [Mirror Man](https://open.spotify.com/track/52s6Ea6aSZMvPUIH0dSpk4) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Fascination!](https://open.spotify.com/album/0esnpjv1cOeVWSYTSY3jRc) | 3:50 |
-| 62 | [I'm In Love With A German Film Star](https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81) | [The Passions](https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3) | [Thirty Thousand Feet Over China](https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH) | 4:01 |
-| 63 | [Everything Counts \- 2007 Remaster](https://open.spotify.com/track/68d2JDhqLtCuOsfX0W71Ct) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Construction Time Again \(2007 Remaster\)](https://open.spotify.com/album/6oFsq13ql71yK5Gaar7eIy) | 4:20 |
+| 62 | [Everything Counts \- 2007 Remaster](https://open.spotify.com/track/68d2JDhqLtCuOsfX0W71Ct) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Construction Time Again \(2007 Remaster\)](https://open.spotify.com/album/6oFsq13ql71yK5Gaar7eIy) | 4:20 |
+| 63 | [I'm In Love With A German Film Star](https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81) | [The Passions](https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3) | [Thirty Thousand Feet Over China](https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH) | 4:01 |
 | 64 | [Imagination](https://open.spotify.com/track/0DJFfzpoWz0wiaBzqcSeuh) | [Belouis Some](https://open.spotify.com/artist/0EX1yiXXmblRFdw2pb10NF) | [Some People](https://open.spotify.com/album/2DOXuDtgzRFomH47RGG1TG) | 3:34 |
 | 65 | [Suburbia \- 2018 Remaster](https://open.spotify.com/track/3SZhwgn2fYVmpBuzi4NIyM) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984 \- 1986 \(2018 Remaster\)](https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6) | 5:07 |
 | 66 | [Temptation](https://open.spotify.com/track/6iylqkbmhmMuALYYrvoh2y) | [Heaven 17](https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9) | [The Luxury Gap \(Deluxe Version\)](https://open.spotify.com/album/7uiDwjlTNmG6chyrlVITf6) | 3:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 74 | [Fascination \- Extended Remix](https://open.spotify.com/track/2uynnXFdf3wBIjOEHCB9up) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Fascination!](https://open.spotify.com/album/0esnpjv1cOeVWSYTSY3jRc) | 4:56 |
 | 75 | [Being Boiled](https://open.spotify.com/track/6fbeOOv9u5JQwZx4pyW4mY) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Travelogue](https://open.spotify.com/album/3nRP83YnVmP4TTyEzieq2H) | 4:21 |
 
-Snapshot ID: `MCw5NTE1ZTEyN2VmNjM4NDM2ZmM5NjVhNWM1NGFmNmQzMjVmN2FkZDFl`
+Snapshot ID: `MCxlMzdkMTgwYjQwNmZjMDY1NzdlMWQyMGM1YWMzYTJhYTZlODhlOGNh`

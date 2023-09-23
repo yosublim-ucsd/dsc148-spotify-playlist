@@ -4,7 +4,7 @@
 
 > Tate McRae deze week op de cover van Fresh Pop.
 
-344 songs - 17 hr 10 min
+345 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,8 @@
 | [Other Side of the Moon](https://open.spotify.com/track/0inCk0sUhCu1PBscUmSvez) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl EP \- Part 1](https://open.spotify.com/album/47DfwYDx3pDXoN7lgxWwjj) | 2:51 | 2023-04-13 | 2023-07-14 |
 | [Outside](https://open.spotify.com/track/70VDwHuba0z6HMHG6UifIG) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Outside](https://open.spotify.com/album/3r1dWitPtJXSO5BQbWDoPr) | 2:47 | 2023-05-11 | 2023-08-18 |
 | [Outta Love](https://open.spotify.com/track/5dlnBde2bY8vxNDE4sUQbA) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Outta Love](https://open.spotify.com/album/2laThtkIUEl6V3IzGBfwRs) | 2:19 | 2023-07-04 |  |
-| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-17 |  |
+| [Paint The Town Red](https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:50 | 2023-09-22 |  |
+| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-17 | 2023-09-23 |
 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 | 2023-06-22 | 2023-09-21 |
 | [Parallel Universe](https://open.spotify.com/track/4ax79FbkxYsNHDCz7Hy6TL) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Parallel Universe](https://open.spotify.com/album/0q5vqqkXRRnL5w3CCYlxiJ) | 3:34 | 2023-08-03 |  |
 | [Parents](https://open.spotify.com/track/4SS47eWF7RWiq5zyasU8zV) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Parents](https://open.spotify.com/album/4bf1bKu2bY066vvjVH6acz) | 2:44 | 2023-03-02 | 2023-05-26 |

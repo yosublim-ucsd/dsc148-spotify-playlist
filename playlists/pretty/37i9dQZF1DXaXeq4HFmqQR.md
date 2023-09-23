@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Paula Rivas.<br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,666 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,678 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 6 | [Humedad](https://open.spotify.com/track/71JlWe6b281dzhGZVZS0Tc) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8) | [Grandes Versiones](https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6) | 4:13 |
 | 7 | [Nos lo hemos dicho todo](https://open.spotify.com/track/1uswwRNBKAxRBoY4rtxXD1) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nos lo hemos dicho todo](https://open.spotify.com/album/6250SloDS9Pi1PFnDVNEZ3) | 4:13 |
 | 8 | [Como Yo Ninguna](https://open.spotify.com/track/0Eql8IdecTYHRMOBI8Srh3) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Mariposa](https://open.spotify.com/album/5O6FpOsXDn8QRejuC3t3Gg) | 3:31 |
-| 9 | [DEJA TU SHOW](https://open.spotify.com/track/0i8fA0gCDnHbAeBpdcTpV0) | [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [DEJA TU SHOW](https://open.spotify.com/album/3DCIaAZtRrAlytdhtnRIZB) | 3:29 |
-| 10 | [e\-mail](https://open.spotify.com/track/4XZvEK7CpqmBEBvZoEiwTl) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Red Fingers](https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo) | [e\-mail](https://open.spotify.com/album/7MRRiwXI5ao5uNDEinBIzn) | 2:31 |
+| 9 | [e\-mail](https://open.spotify.com/track/4XZvEK7CpqmBEBvZoEiwTl) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Red Fingers](https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo) | [e\-mail](https://open.spotify.com/album/7MRRiwXI5ao5uNDEinBIzn) | 2:31 |
+| 10 | [DEJA TU SHOW](https://open.spotify.com/track/0i8fA0gCDnHbAeBpdcTpV0) | [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [DEJA TU SHOW](https://open.spotify.com/album/3DCIaAZtRrAlytdhtnRIZB) | 3:29 |
 | 11 | [Búscate Otra :\(](https://open.spotify.com/track/7vHjX6rRKFXoMz91dl6M2X) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Búscate Otra :\(](https://open.spotify.com/album/0tsIWQmMJ2O8A3zZYA8b3h) | 3:30 |
 | 12 | [Jugando Con Fuego](https://open.spotify.com/track/7pBMCVwilHS7DWLgCArH4n) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Adentro](https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr) | 3:18 |
 | 13 | [Faroles](https://open.spotify.com/track/4eh4Et24YVZ97mCumJe0IK) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Faroles](https://open.spotify.com/album/6E2eSxShTgMRZi3WKjJev0) | 2:58 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 33 | [Sábado](https://open.spotify.com/track/1RoMrVzc0aeFaJC1MVTSQF) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Maleza](https://open.spotify.com/album/1V2YNxuymQ7b4N6EAst0Qd) | 3:51 |
 | 34 | [Alguien Como Tù](https://open.spotify.com/track/2Ga9NI0yCrFkZAit2BBg66) | [Daniela Aleuy](https://open.spotify.com/artist/5kSn1413nGC2FFmlW8dUOZ) | [Asi Soy Yo](https://open.spotify.com/album/7GtOunYjJqGqTQRcCipDVU) | 5:33 |
 | 35 | [Noche](https://open.spotify.com/track/1UHI3IYKZB16ghHdFPppjy) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Grandes Exitos](https://open.spotify.com/album/6CfjsKzo1t08s1GbM0s5DV) | 2:29 |
-| 36 | [Ahora Sí](https://open.spotify.com/track/2GQt9310yUhgJzg98GKfat) | [Guadalupe del Carmen](https://open.spotify.com/artist/6FlGd9IZgA2GTefQPV6SLN) | [Corazón Mexicano](https://open.spotify.com/album/1BJKsRxKfMHqdtPwHnjBv5) | 2:11 |
-| 37 | [Distancia](https://open.spotify.com/track/0VNTwsIXEyyTEzt4FcoXl4) | [Camila Silva](https://open.spotify.com/artist/729RhSgVpFUGyfQpiRHadP) | [Camila Silva](https://open.spotify.com/album/73V37JUsjK8ejSN84QzS5Y) | 3:55 |
+| 36 | [Distancia](https://open.spotify.com/track/0VNTwsIXEyyTEzt4FcoXl4) | [Camila Silva](https://open.spotify.com/artist/729RhSgVpFUGyfQpiRHadP) | [Camila Silva](https://open.spotify.com/album/73V37JUsjK8ejSN84QzS5Y) | 3:55 |
+| 37 | [Ahora Sí](https://open.spotify.com/track/2GQt9310yUhgJzg98GKfat) | [Guadalupe del Carmen](https://open.spotify.com/artist/6FlGd9IZgA2GTefQPV6SLN) | [Corazón Mexicano](https://open.spotify.com/album/1BJKsRxKfMHqdtPwHnjBv5) | 2:11 |
 | 38 | [Tanta](https://open.spotify.com/track/24saXmVXTPBW1iaUeIr35y) | [La Guacha](https://open.spotify.com/artist/1XjMUgVvJTqba3Cvsbw1zi) | [Vírgen](https://open.spotify.com/album/5VBN3h6UvzTJvV1SpuCC5G) | 3:28 |
 | 39 | [De los Besos Que Te Di](https://open.spotify.com/track/1qIUpOaSxn7IMbq8s6I7H5) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU) | [Me Vale Madre](https://open.spotify.com/album/7ImqonYsJXJvaxDEA1sUCP) | 2:43 |
 | 40 | [No Me Enamores](https://open.spotify.com/track/4Fz1v6DZnUMnyBIrZlo88M) | [Andrea Labarca](https://open.spotify.com/artist/5sHK6Fs9yxvTkYJhHnykTK) | [Estigmas](https://open.spotify.com/album/2rtqkWVRddL8PmgbbLRRh3) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Metiendo tela y sacando tela](https://open.spotify.com/track/4LqzoBWvTQrXDUXHofb10Y) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU) | [Metiendo tela y sacando tela](https://open.spotify.com/album/6zIElqIk70kLho7zQ1ZZ3T) | 2:51 |
 | 50 | [Julita la Buenita](https://open.spotify.com/track/1xsCZ7PZWbx8Ps8YpDZ5K3) | [Soledad Guerrero](https://open.spotify.com/artist/2mC6OvTH4wDXUVYofwCrki) | [Julita la Buenita](https://open.spotify.com/album/3TRgCkLlbpeZZq9jrNA88Q) | 3:44 |
 
-Snapshot ID: `MCwxYTE2M2U1MGMwMDc4MjFmYmQ4YWM0YjhjMjkzMzk1MDYxZjc2YzU5`
+Snapshot ID: `MCwzY2U1ZDI5N2FlM2Y1ZmM1NTYyZGIyNWRmMDRhOTU3Njg3NWE4NzM2`

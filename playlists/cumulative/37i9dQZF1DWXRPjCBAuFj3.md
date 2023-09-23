@@ -4,7 +4,7 @@
 
 > Il rap più forte del mondo in una sola playlist\. Cover: Doja Cat
 
-419 songs - 21 hr 56 min
+421 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 | 2023-09-22 |  |
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-04-28 |  |
 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 | 2023-07-26 |  |
-| [Demons](https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Demons](https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py) | 3:15 | 2023-09-06 |  |
+| [Demons](https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Demons](https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py) | 3:15 | 2023-09-06 | 2023-09-23 |
 | [Denial](https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Denial](https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc) | 3:00 | 2022-07-01 | 2022-07-26 |
 | [Detox](https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Detox](https://open.spotify.com/album/4y77zrDMRkZznufMBScSal) | 2:41 | 2022-09-06 | 2023-02-16 |
 | [Deux frères](https://open.spotify.com/track/7xy0ELfUz8xEon8B4K55Vb) | [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Deux frères](https://open.spotify.com/album/0VbjQH6iXN5VdE0OX35cpD) | 4:07 | 2022-06-29 | 2022-07-29 |
@@ -286,7 +286,8 @@
 | [Orange](https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Orange](https://open.spotify.com/album/356cpEJ1ccLK6aAx99hWJK) | 3:20 | 2023-04-06 |  |
 | [Pablo](https://open.spotify.com/track/7HyP8FDHHTe5dQvpBYeQDz) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Pablo](https://open.spotify.com/album/1SkU9AI6JwGiyYEYBFoRqr) | 1:48 | 2022-07-15 | 2022-07-29 |
 | [Pain Talk \(feat\. Lil Tjay\)](https://open.spotify.com/track/7soBkLenwWM7kB92cuyl04) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Pain Talk \(feat\. Lil Tjay\)](https://open.spotify.com/album/5Adus949FUrddWzqZ5SFxZ) | 2:36 | 2023-05-30 | 2023-08-19 |
-| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-09 |  |
+| [Paint The Town Red](https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:50 | 2023-09-22 |  |
+| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-09 | 2023-09-23 |
 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-02-21 | 2023-05-26 |
 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 | 2022-07-13 | 2022-12-01 |
 | [PARTy T1M3](https://open.spotify.com/track/5h6eWFlGK7NVcliVsmsV4L) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [PARTy T1M3](https://open.spotify.com/album/6VotQVuZoj18qim1zAcvQA) | 2:35 | 2023-08-25 |  |
@@ -348,6 +349,7 @@
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-06 |  |
 | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/track/4rithk0wQbWsppbWiaFFgE) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/album/7KeQeXVDcQQjrbqOh34VGA) | 2:49 | 2023-02-09 | 2023-03-31 |
 | [SHAKE SUMN](https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [CALL DA FIREMAN](https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL) | 2:04 | 2023-05-11 | 2023-05-26 |
+| [Shayo](https://open.spotify.com/track/48yyEzWXIbAhU3H2iC9iDa) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Shayo](https://open.spotify.com/album/606tG62I0ClaZAuuHdM5rz) | 3:17 | 2023-09-22 |  |
 | [Shittin' Me](https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Shittin' Me](https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6) | 2:24 | 2022-12-02 | 2023-02-17 |
 | [Shmunk \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/2fpTRcMLt4aKlqULOwuXUP) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:49 | 2023-03-03 | 2023-03-18 |
 | [Sigue](https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [K y B](https://open.spotify.com/artist/1enXMVomlMi88CZFYL1m2f) | [Capítulo 1](https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb) | 3:31 | 2022-05-10 |  |

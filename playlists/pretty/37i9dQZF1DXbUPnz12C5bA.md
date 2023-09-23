@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,612 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,802 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 45 | [La Plata](https://open.spotify.com/track/61xyQGDYH9yMn4H9MpTh3g) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [26 De Mayo](https://open.spotify.com/album/4JTXVbFhPiPlWDZp3Jp11B) | 4:38 |
 | 46 | [Te Perdone](https://open.spotify.com/track/37Mws624mZBifGxHhg6bcq) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [La Invitación](https://open.spotify.com/album/2Bpa0pFXw4Xa8jHYsm5Q8W) | 4:43 |
 | 47 | [Tierra Mala](https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Tierra Mala](https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU) | 4:49 |
-| 48 | [A Blanco y Negro](https://open.spotify.com/track/1CrKa4fjUJCjpcXXPeLuYu) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [Más Unidos Que Nunca](https://open.spotify.com/album/20WkxKAK5cgqE6B3Llet7k) | 4:40 |
-| 49 | [Infiel](https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA) | [Alto Voltaje](https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX) | 4:06 |
+| 48 | [Infiel](https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA) | [Alto Voltaje](https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX) | 4:06 |
+| 49 | [A Blanco y Negro](https://open.spotify.com/track/1CrKa4fjUJCjpcXXPeLuYu) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [Más Unidos Que Nunca](https://open.spotify.com/album/20WkxKAK5cgqE6B3Llet7k) | 4:40 |
 | 50 | [Mi Celosa Hermosa](https://open.spotify.com/track/2qBYoUdefV0JufBpNCGor1) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Manuel Julián](https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC) | [Diferente](https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp) | 4:09 |
 
-Snapshot ID: `MCw0YTc5ZDgwMmMzZTExOGYwMDBhNDcyZGU1MzYzNTQ5MTVkMDIxODIy`
+Snapshot ID: `MCxiOGU1MDgxMWI1ODZjMjQ5N2Q1YTA5NzQ2YjBjZDRlZmQxNGI5MmFj`

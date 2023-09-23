@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 413826,
       "name": "Afternoon In Paris",
       "url": "https://open.spotify.com/track/2C3HvdJUwK6ItoWb0F5GgP"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 515039,
       "name": "Alice In Wonderland - Live At The Village Vanguard, 1961 / Take 2",
       "url": "https://open.spotify.com/track/7aHMuaIUsIS6p3wKuoPxnN"
@@ -408,7 +408,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 275226,
       "name": "Bluesette",
       "url": "https://open.spotify.com/track/2yAWaE7k8dVU7f9cztK95E"
@@ -462,7 +462,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 386773,
       "name": "But Beautiful - Remastered 2002/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/64nV4JZ5LAleONUC3yV7mj"
@@ -540,7 +540,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 259000,
       "name": "Can't We Be Friends",
       "url": "https://open.spotify.com/track/48ouTE8wi3LU4ZTQjJjstB"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 291826,
       "name": "Dearly Beloved",
       "url": "https://open.spotify.com/track/3ZBsbQOqGJWUpApbCXiQkU"
@@ -616,7 +616,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 267053,
       "name": "Do Nothing Till You Hear From Me",
       "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
@@ -750,7 +750,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 276131,
       "name": "Falling in Love with Love",
       "url": "https://open.spotify.com/track/47wToAWMFORf7uL8V62a82"
@@ -976,7 +976,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 195133,
       "name": "I Could Write a Book - Remastered 1999",
       "url": "https://open.spotify.com/track/2DipFLAFM3N2rJClqb2fhf"
@@ -1073,7 +1073,7 @@
     },
     {
       "album": {
-        "name": "Verve Jazz Masters 50",
+        "name": "Verve Jazz Masters 50: Sonny Stitt",
         "url": "https://open.spotify.com/album/4dpEvh4rulUsOVn6WMWItA"
       },
       "artists": [
@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 189893,
       "name": "I Got Rhythm",
       "url": "https://open.spotify.com/track/29e5iLMydpu1LynhZrS1QI"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 553066,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/3xEAZQNPiwucPdGagdoD5j"
@@ -1308,7 +1308,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 299666,
       "name": "I've Got You Under My Skin",
       "url": "https://open.spotify.com/track/6q3AKOoPKFFblRDD7nfz6b"
@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 266360,
       "name": "In A Mellow Tone",
       "url": "https://open.spotify.com/track/7ne7SWFZnES4KE2vwBc367"
@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 333493,
       "name": "It's You or No One",
       "url": "https://open.spotify.com/track/5XVsNByeqX0YN2VBpw0dVW"
@@ -1944,7 +1944,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 501906,
       "name": "Old Devil Moon",
       "url": "https://open.spotify.com/track/551EJFvoCz8P80pFeyx9e0"
@@ -1980,7 +1980,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 427826,
       "name": "On Green Dolphin Street",
       "url": "https://open.spotify.com/track/6L5j2kAUmq3GEt66Kfiivl"
@@ -2034,7 +2034,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 339160,
       "name": "Our Love Is Here To Stay - Rudy Van Gelder Edition / 2003 Remaster",
       "url": "https://open.spotify.com/track/3WBOCI8zM5SKfTXq41wM4e"
@@ -2180,7 +2180,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 185293,
       "name": "Someone to Watch Over Me",
       "url": "https://open.spotify.com/track/7m00AecmzNV4J4XPMFT7tw"
@@ -2360,7 +2360,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 345240,
       "name": "That Old Feeling",
       "url": "https://open.spotify.com/track/3IMc9STtRwcCwT7Nfk9rDa"
@@ -2414,7 +2414,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 367853,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/11rnZ0cESo1i0HcavdMcO8"
@@ -2620,7 +2620,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 369760,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/3ANRxrqOgTtA8dIC9YJLYG"
@@ -2638,7 +2638,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 320693,
       "name": "Willow Weep for Me",
       "url": "https://open.spotify.com/track/7yUvnJ5joloXvvMOlS4mgB"
@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 168040,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/3jFwQs0w4E0EQHbYnUbQi7"
@@ -2692,7 +2692,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 249226,
       "name": "You Are Too Beautiful",
       "url": "https://open.spotify.com/track/0ncaOYFsDJ7X0HaVOESL2v"
@@ -2774,7 +2774,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 237333,
       "name": "You Took Advantage Of Me",
       "url": "https://open.spotify.com/track/1QpoiqlsaMLOfxfcnjIpuy"

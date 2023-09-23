@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Elvis Crespo & Miriam Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,975 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,010 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 25 | [La Morena](https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Ilegales](https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg) | 4:24 |
 | 26 | [Era Mentira](https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Sin Medir Distancia](https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq) | 4:39 |
 | 27 | [Merengue Electronico \(Rompe Consola\)](https://open.spotify.com/track/1Q2WPcHRVK16zh9TR6isEq) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [El Dueño Del Flow \(Bonus Track Version\)](https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep) | 3:51 |
-| 28 | [La Hora De Bailar](https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn) | [Sandy & Papo](https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B) | [Sandy & Papo MC](https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88) | 4:50 |
-| 29 | [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 |
+| 28 | [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 |
+| 29 | [La Hora De Bailar](https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn) | [Sandy & Papo](https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B) | [Sandy & Papo MC](https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88) | 4:50 |
 | 30 | [Nuestra Cancion](https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 3:28 |
 | 31 | [Tú](https://open.spotify.com/track/1fdvF8aq4sagcs8eabTjDR) | [Juan Luis Guerra y 440](https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP) | [Mientras Más Lo Pienso….Tú](https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq) | 3:53 |
 | 32 | [A Pedir Su Mano](https://open.spotify.com/track/5q9VC2VFj8Pak4E2jQnp7I) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:55 |
@@ -80,19 +80,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 70 | [Que Cara Más Bonita](https://open.spotify.com/track/2qiSUrwneShMuE5UQYUx0U) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Merengue De Amor Vol.1](https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS) | 4:10 |
 | 71 | [Volveré](https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:25 |
 | 72 | [Sin Rumbo](https://open.spotify.com/track/7BJz4hamLaRwAcI1KtLHeI) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Imparable](https://open.spotify.com/album/700tpyzeI5UxIIW8j2ds7K) | 3:31 |
-| 73 | [Ya Viene el Lunes](https://open.spotify.com/track/1v1P2PoDr2JQEx2ruuS8yG) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Juntos Con Sus Éxitos](https://open.spotify.com/album/1D1qtrP020moJvytYhcRDd) | 4:50 |
-| 74 | [Quiero Quemar La Pista](https://open.spotify.com/track/38PuJLicgcUTFgb7FqmXaJ) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [LIMI\-T Para Siempre](https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM) | 2:33 |
-| 75 | [Que No Se Acabe](https://open.spotify.com/track/7l7RWEAfoiRPswJa4skO5i) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Que No Se Acabe](https://open.spotify.com/album/4wkI7N7F94lQKrFBowpxGn) | 3:18 |
+| 73 | [Que No Se Acabe](https://open.spotify.com/track/7l7RWEAfoiRPswJa4skO5i) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Que No Se Acabe](https://open.spotify.com/album/4wkI7N7F94lQKrFBowpxGn) | 3:18 |
+| 74 | [Ya Viene el Lunes](https://open.spotify.com/track/1v1P2PoDr2JQEx2ruuS8yG) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Juntos Con Sus Éxitos](https://open.spotify.com/album/1D1qtrP020moJvytYhcRDd) | 4:50 |
+| 75 | [Quiero Quemar La Pista](https://open.spotify.com/track/38PuJLicgcUTFgb7FqmXaJ) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [LIMI\-T Para Siempre](https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM) | 2:33 |
 | 76 | [El Moreno Esta](https://open.spotify.com/track/3uMcf1QPK2jOBStnZAdMch) | [Jossie Esteban & La Patrulla 15](https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb) | [O.K\. All Right](https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv) | 4:32 |
 | 77 | [El Hombre Divertido](https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Coleccion Diamante](https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf) | 4:15 |
 | 78 | [Tu Eres Ajena](https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Exitos De](https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr) | 4:55 |
 | 79 | [Cutibili Pacha](https://open.spotify.com/track/0CcL3XBAzarwDseGAm1IFl) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Mas Rika Que Nunca](https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO) | 4:40 |
-| 80 | [Alo](https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Aura](https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap) | 4:38 |
-| 81 | [Tesoro Mio \- Versión Merengue](https://open.spotify.com/track/1ax8x6uKlotSCmv4ovNRdV) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tesoro Mio \(Versión Merengue\)](https://open.spotify.com/album/3MpS1lJ7kN4groX2YIEhmY) | 3:12 |
+| 80 | [Tesoro Mio \- Versión Merengue](https://open.spotify.com/track/1ax8x6uKlotSCmv4ovNRdV) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tesoro Mio \(Versión Merengue\)](https://open.spotify.com/album/3MpS1lJ7kN4groX2YIEhmY) | 3:12 |
+| 81 | [Fiesta](https://open.spotify.com/track/2lgeSsfCdcClqitHCAcyzO) | [Yosi Fuentes](https://open.spotify.com/artist/0ClimgRcrn4sEUHIwFkzz2) | [Fiesta](https://open.spotify.com/album/5NXP7gUS3CyP0tDGSErW5V) | 2:44 |
 | 82 | [Frutos Del Carnaval](https://open.spotify.com/track/4uNsxCWSUEswepl4RP0689) | [Cuco Valoy](https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE) | [Trancazos Bailables, Vol\. 4](https://open.spotify.com/album/63U1jnXIx3yfezOGnUCW61) | 6:18 |
 | 83 | [El Meneito](https://open.spotify.com/track/6EmzuUK6J0ahWToWpYzCqL) | [Jossie Esteban & La Patrulla 15](https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb) | [15to Aniversario](https://open.spotify.com/album/77OMtbmR2f7T36bnQBODj7) | 5:10 |
-| 84 | [Jilila Kimbolo](https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Back In Town](https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep) | 4:18 |
-| 85 | [Fiesta](https://open.spotify.com/track/2lgeSsfCdcClqitHCAcyzO) | [Yosi Fuentes](https://open.spotify.com/artist/0ClimgRcrn4sEUHIwFkzz2) | [Fiesta](https://open.spotify.com/album/5NXP7gUS3CyP0tDGSErW5V) | 2:44 |
+| 84 | [Alo](https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Aura](https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap) | 4:38 |
+| 85 | [Jilila Kimbolo](https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Back In Town](https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep) | 4:18 |
 | 86 | [Another Night](https://open.spotify.com/track/6ZOZW00i9w8wwfwZtpreZI) | [Gabriel Pagan](https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP), [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [Morisoñando, Vol\. 1](https://open.spotify.com/album/3VnsfmLE5l8HDbniGw707B) | 3:50 |
 | 87 | [Enamorame](https://open.spotify.com/track/7m6ENMMI8c64W7VBXFVeax) | [Papi Sanchez](https://open.spotify.com/artist/4B6paaW6VeD5oEWp19KEVq) | [Merengue De hoy](https://open.spotify.com/album/1xA8RomnALVkcxjAjtATXo) | 4:24 |
 | 88 | [Gozando](https://open.spotify.com/track/0o6MsPQs0f2xjkMnahNvby) | [Sin Fronteras](https://open.spotify.com/artist/4dAnxrHLMYZbfHKyyTr5nV), [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Gozando](https://open.spotify.com/album/5qlTbCPV7gUDC9uWZygodC) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 99 | [Una Fotografía](https://open.spotify.com/track/0Ur4zvtBeZ6T9dhHCoGuSW) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [Jn Music Group 40 Años de Merengue Deluxe Edition, Vol\. 2](https://open.spotify.com/album/0JXXIo9JN7EyiHXE4dTqUg) | 4:04 |
 | 100 | [Tú Eres Ajena](https://open.spotify.com/track/3y6oIGHyKQg6MZWNlJnRow) | [Omar Enrique](https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7), [Eddy Herrera](https://open.spotify.com/artist/2dHwYqYxsj7IEgGu6dxraM) | [El Disco Del Año Vol\. 53](https://open.spotify.com/album/0mKBMKcJDra8yVTcDaAQgK) | 4:33 |
 
-Snapshot ID: `MCxlZDk1ZDMzNDM4MGJlNzIwMjk4ZGM5OWYzZDFlZGJlZDQ2Y2M3YTVm`
+Snapshot ID: `MCxkOTUxNDllYWQ1NmZmYjg4ZDcyYWE5MTNiNDBiOGZlNjYwMmJkOTQy`

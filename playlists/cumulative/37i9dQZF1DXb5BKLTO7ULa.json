@@ -1666,10 +1666,28 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
+    },
+    {
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265360,
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
     },
     {
       "album": {
@@ -12987,6 +13005,24 @@
     },
     {
       "album": {
+        "name": "Laugh Track",
+        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269440,
+      "name": "Deep End (Paul\u2019s in Pieces)",
+      "url": "https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS"
+    },
+    {
+      "album": {
         "name": "Deep Inside Of Me",
         "url": "https://open.spotify.com/album/0mxRqyRNmZk6KgOfLrF9jA"
       },
@@ -13655,6 +13691,24 @@
     },
     {
       "album": {
+        "name": "Diamonds in My Chest",
+        "url": "https://open.spotify.com/album/3SH3DdcqS1NrHFp5jBjWPn"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219803,
+      "name": "Diamonds in My Chest",
+      "url": "https://open.spotify.com/track/3YjT6jjSO2evcEGWiV0M2O"
+    },
+    {
+      "album": {
         "name": "Diamonds In My Chest",
         "url": "https://open.spotify.com/album/4dl4tuViHtusW0aG1ncIwJ"
       },
@@ -13666,7 +13720,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 219804,
       "name": "Diamonds In My Chest",
       "url": "https://open.spotify.com/track/0c1z7NPGh6SEyFHP9VXzUh"
@@ -21088,7 +21142,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 198448,
       "name": "Got Me Started",
       "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
@@ -44830,6 +44884,28 @@
       "duration_ms": 160893,
       "name": "Santorini",
       "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
+    },
+    {
+      "album": {
+        "name": "Sarah's Place (feat. Noah Kahan)",
+        "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214056,
+      "name": "Sarah's Place (feat. Noah Kahan)",
+      "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,693 likes - 100 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,751 likes - 100 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 18 | [92982.3](https://open.spotify.com/track/14jjKMNUMd8lKIdaqwn4XG) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/6a22PsvseOZcFqySU0jQvk) | 7:03 |
 | 19 | [Oto](https://open.spotify.com/track/0VhkCytrhq2EjntoAkbjvZ) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Cendre](https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe) | 3:49 |
 | 20 | [Sherbet Head](https://open.spotify.com/track/4A14Tvo2k0Ty2RWHdwj1ZD) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 2:41 |
-| 21 | [Sheets Two](https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Choral](https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16) | 2:38 |
-| 22 | [V](https://open.spotify.com/track/1TInFFEp6bNWX4E2wLHh39) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [Tape Chants](https://open.spotify.com/album/11KyPBhF9RpbILPg8NNuEC) | 1:16 |
+| 21 | [V](https://open.spotify.com/track/1TInFFEp6bNWX4E2wLHh39) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [Tape Chants](https://open.spotify.com/album/11KyPBhF9RpbILPg8NNuEC) | 1:16 |
+| 22 | [Sheets Two](https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Choral](https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16) | 2:38 |
 | 23 | [Will She Come Back](https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW) | 5:00 |
 | 24 | [I'm Dragging a Dead Deer Up a Hill](https://open.spotify.com/track/2lFoxhUEGpKoSHetkKHIAw) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:21 |
 | 25 | [Requiem for Dying Mothers, Pt\. 2](https://open.spotify.com/track/7m2iqOIBuCT0XvMkv4wYNv) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [The Tired Sounds of Stars of the Lid](https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl) | 7:37 |
@@ -88,16 +88,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 78 | [Btwn You + Me](https://open.spotify.com/track/2c29Sowwtuf7U3Thnh24nK) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Songs for the Broken Hearted](https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC) | 6:18 |
 | 79 | [Further Away](https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY) | [Glider](https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI) | 5:57 |
 | 80 | [The Direction Was Foggy or Cloudy](https://open.spotify.com/track/2eiSM7B57fcANyRGUhTDpw) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [BJ Nilsen](https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB), [Stilluppsteypa](https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj) | [Second Childhood](https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc) | 6:11 |
-| 81 | [Verdantique](https://open.spotify.com/track/3IlsZWpHOUfVtOdLilNysq) | [Nudge](https://open.spotify.com/artist/76OH9UQEealbQ15TJABkLO) | [As Good As Gone](https://open.spotify.com/album/3XzOUf4jt5OmtZZR0INzLQ) | 0:45 |
-| 82 | [Variation IV](https://open.spotify.com/track/6mnkCIZgqXidyl56nDGP5p) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations: A Movement In Chrome Primitive](https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd) | 9:18 |
-| 83 | [The Mist](https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 3:51 |
-| 84 | [Arvesølv](https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Varde](https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A) | 2:38 |
+| 81 | [Variation IV](https://open.spotify.com/track/6mnkCIZgqXidyl56nDGP5p) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations: A Movement In Chrome Primitive](https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd) | 9:18 |
+| 82 | [Verdantique](https://open.spotify.com/track/3IlsZWpHOUfVtOdLilNysq) | [Nudge](https://open.spotify.com/artist/76OH9UQEealbQ15TJABkLO) | [As Good As Gone](https://open.spotify.com/album/3XzOUf4jt5OmtZZR0INzLQ) | 0:45 |
+| 83 | [Arvesølv](https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Varde](https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A) | 2:38 |
+| 84 | [The Mist](https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 3:51 |
 | 85 | [Coral Gables](https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [Through the Cardial Window](https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU) | 5:50 |
 | 86 | [Wholesome](https://open.spotify.com/track/30n6bv7fnQYIK3CvaFibT7) | [Philip Jeck](https://open.spotify.com/artist/17Woab4l0eJybbj5ymknYK) | [7](https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3) | 8:26 |
 | 87 | [chessa](https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Chessa](https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl) | 6:58 |
 | 88 | [It's About the Size of a House](https://open.spotify.com/track/66egNdOOQLueKrCTMeXc8Q) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [BJ Nilsen](https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB), [Stilluppsteypa](https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj) | [Second Childhood](https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc) | 6:34 |
-| 89 | [Into Stressa](https://open.spotify.com/track/4Ppfmstq72I7BBMG1uncin) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Imperial](https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH) | 3:56 |
-| 90 | [Woe Is the Transgression I](https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE) | 8:44 |
+| 89 | [Woe Is the Transgression I](https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE) | 8:44 |
+| 90 | [Into Stressa](https://open.spotify.com/track/4Ppfmstq72I7BBMG1uncin) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Imperial](https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH) | 3:56 |
 | 91 | [Von Schnäbeln](https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Dolores](https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79) | 3:56 |
 | 92 | [Add Infinity](https://open.spotify.com/track/5lu1wPCFtswHQVnEYrv1iz) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Choral](https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16) | 9:10 |
 | 93 | [Raamat](https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [MP3 Collection](https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg) | 7:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 99 | [Welk](https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Dolores](https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79) | 6:18 |
 | 100 | [Ripple and Fade](https://open.spotify.com/track/0c4OarW674W4PEG2so9MDu) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Inlandish](https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy) | 3:17 |
 
-Snapshot ID: `MCxmNDc3ZWJjYzFmYjhiY2Y4MGZlYTMyYjNhMTY5OGUxM2RhOWI3NjQ5`
+Snapshot ID: `MCxiZTljOWYxNjA4YTAzMzNmYTM5ZDY0NTkxZDMxODExZTEyMWJiODc5`

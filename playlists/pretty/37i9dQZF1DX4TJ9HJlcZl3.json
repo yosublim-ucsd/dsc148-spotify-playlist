@@ -1,12 +1,12 @@
 {
   "description": "Still yachting. Cover: Young Gun Silver Fox",
-  "num_followers": 10649,
+  "num_followers": 10663,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTgwOGY0Njc3YWZiMmVjZDVlMzg1OTMwNDJkMDMyODMzYWIzNGZh",
+  "snapshot_id": "MCwxZjhiODAzYjU5ZjcyNWU2ZTljODk4ZjQ3N2EyYWFlNzk1OTFkYjk4",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -45,6 +45,26 @@
       "url": "https://open.spotify.com/track/19wX7jFn6EsJmvbOhQpnaj"
     },
     {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Shiny and New",
+        "url": "https://open.spotify.com/album/00rDINWPKuv6v4uPEmReYG"
+      },
+      "artists": [
+        {
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 210353,
+      "name": "Shiny and New",
+      "url": "https://open.spotify.com/track/71VnmWirWkHf6XAloWH5TO"
+    },
+    {
       "added_at": "2023-09-01 04:00:00",
       "album": {
         "name": "Simple Love Songs - Extended Version",
@@ -59,6 +79,22 @@
       "duration_ms": 171839,
       "name": "Simple Love Songs - Extended Version",
       "url": "https://open.spotify.com/track/202Ebn3Kj18Ukkr9LQXwol"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Sunbursting EP",
+        "url": "https://open.spotify.com/album/5klM7eDsW550jwU1DXTxpV"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 180426,
+      "name": "A Matter Of Fact",
+      "url": "https://open.spotify.com/track/5OrTeeOw67AK6iBmpAuHaw"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -243,22 +279,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Back To Me",
-        "url": "https://open.spotify.com/album/0d2wOE8aJIRJp6RJO5PJGd"
-      },
-      "artists": [
-        {
-          "name": "Super db",
-          "url": "https://open.spotify.com/artist/6Fsj5gGio0BcLbbgrKh5IY"
-        }
-      ],
-      "duration_ms": 271399,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/3Pko6euCnCPuwGy4TVK7o3"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Who You Are",
         "url": "https://open.spotify.com/album/7i8waz2ojMre9Ix47n1nGJ"
       },
@@ -307,22 +327,6 @@
       "duration_ms": 188594,
       "name": "Kenny Blues",
       "url": "https://open.spotify.com/track/1XniHNy9PvQSBj9xUtUMw0"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Still Got It Goin' On (Radio Edit)",
-        "url": "https://open.spotify.com/album/70IIzf8VDiLTvmKIVFQjzz"
-      },
-      "artists": [
-        {
-          "name": "Young Gun Silver Fox",
-          "url": "https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG"
-        }
-      ],
-      "duration_ms": 243119,
-      "name": "Still Got It Goin' On - Radio Edit",
-      "url": "https://open.spotify.com/track/0s29NsEfTyZQ5FFeQbVWWs"
     },
     {
       "added_at": "2023-09-01 04:00:00",

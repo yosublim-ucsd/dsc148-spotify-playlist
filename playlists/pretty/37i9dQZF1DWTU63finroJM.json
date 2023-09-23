@@ -1,13 +1,29 @@
 {
   "description": "From across the globe. New artists on the horizon. ",
-  "num_followers": 54723,
+  "num_followers": 54734,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzdjNTQxZTUwYmU0MTA0YjNhYzg1MDAxYzUxN2IwYzg0NDRlMjE5",
+  "snapshot_id": "MCxlNzRkZmNjNzQ5Y2YxMTUxYzgwY2IzZWIyYjQ2YzU1NDE0NjA5YzAz",
   "tracks": [
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Tic",
+        "url": "https://open.spotify.com/album/5sPX9DRTRsU03utz3IK8vB"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "duration_ms": 130815,
+      "name": "Tic",
+      "url": "https://open.spotify.com/track/1rO9az1C7u2RXUK0E9YfUi"
+    },
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
@@ -29,22 +45,6 @@
       "url": "https://open.spotify.com/track/2Fz6msvT62cIQOgAJXOqNf"
     },
     {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
-        "name": "Missiles",
-        "url": "https://open.spotify.com/album/7Dt51R1XaFzJiOYexjDLkN"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jane",
-          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "Missiles",
-      "url": "https://open.spotify.com/track/3SuOjeljBRqvDEQecwm53o"
-    },
-    {
       "added_at": "2023-04-17 14:05:23",
       "album": {
         "name": "GAR\u00c7ON",
@@ -61,20 +61,36 @@
       "url": "https://open.spotify.com/track/7wZnwgGkwpJ8EYJ6VEJD2A"
     },
     {
-      "added_at": "2023-08-18 06:00:00",
+      "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Tic",
-        "url": "https://open.spotify.com/album/5sPX9DRTRsU03utz3IK8vB"
+        "name": "WE STILL YOUNG",
+        "url": "https://open.spotify.com/album/2UlMKNVdCbVxTG4LwxpiTz"
       },
       "artists": [
         {
-          "name": "Maureen",
-          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+          "name": "PANIA",
+          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
         }
       ],
-      "duration_ms": 130815,
-      "name": "Tic",
-      "url": "https://open.spotify.com/track/1rO9az1C7u2RXUK0E9YfUi"
+      "duration_ms": 167142,
+      "name": "PLAYLIST (ROCK DA BOAT)",
+      "url": "https://open.spotify.com/track/7D6jnDW82vRRMiCRLcy0pl"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Missiles",
+        "url": "https://open.spotify.com/album/7Dt51R1XaFzJiOYexjDLkN"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "Missiles",
+      "url": "https://open.spotify.com/track/3SuOjeljBRqvDEQecwm53o"
     },
     {
       "added_at": "2023-09-15 09:08:00",
@@ -95,6 +111,26 @@
       "duration_ms": 244000,
       "name": "we grew up together",
       "url": "https://open.spotify.com/track/343YezHfY7G8ZliqUHYQKS"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "homebody",
+        "url": "https://open.spotify.com/album/5rt24b30Az06G6MYCfjwCJ"
+      },
+      "artists": [
+        {
+          "name": "LAYYI",
+          "url": "https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr"
+        },
+        {
+          "name": "YA\u00d8",
+          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "homebody",
+      "url": "https://open.spotify.com/track/2Dc0zNIYfOhWs1D13pjQrJ"
     },
     {
       "added_at": "2023-07-07 07:23:00",
@@ -753,22 +789,6 @@
       "url": "https://open.spotify.com/track/4GYmqDC7trdgCL6It6oWDd"
     },
     {
-      "added_at": "2023-06-29 06:25:56",
-      "album": {
-        "name": "BURNA FONE",
-        "url": "https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg"
-      },
-      "artists": [
-        {
-          "name": "PANIA",
-          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
-        }
-      ],
-      "duration_ms": 159613,
-      "name": "BURNA FONE",
-      "url": "https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60"
-    },
-    {
       "added_at": "2023-08-18 06:00:00",
       "album": {
         "name": "Psycho",
@@ -851,22 +871,6 @@
       "duration_ms": 172823,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ"
-    },
-    {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
-        "name": "m00d",
-        "url": "https://open.spotify.com/album/5zFqEhDGip3zPPvLshFeDk"
-      },
-      "artists": [
-        {
-          "name": "LAYYI",
-          "url": "https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "m00d",
-      "url": "https://open.spotify.com/track/45DZdd09Sopo3UOoeJgifU"
     },
     {
       "added_at": "2023-07-07 07:23:00",
@@ -1187,22 +1191,6 @@
       "duration_ms": 158677,
       "name": "An Art Gallery Could Never Be As Unique As You",
       "url": "https://open.spotify.com/track/22Nd3GuO7sHopPjdKccRcq"
-    },
-    {
-      "added_at": "2023-05-22 07:20:56",
-      "album": {
-        "name": "P PACK",
-        "url": "https://open.spotify.com/album/21gk0Gn8JCF9bsu9dThv5e"
-      },
-      "artists": [
-        {
-          "name": "PANIA",
-          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "P STANDS 4 PLAYA",
-      "url": "https://open.spotify.com/track/3ozyV7sAHXaMvrbtziNIEj"
     },
     {
       "added_at": "2023-08-18 06:00:00",

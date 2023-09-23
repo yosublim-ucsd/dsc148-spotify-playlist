@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,345 likes - 51 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,369 likes - 51 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 50 | [Las Viejas De Ahora](https://open.spotify.com/track/10Qtbtv3Qf2eB5BmmuVEP9) | [Toribio De La Cruz](https://open.spotify.com/artist/0bCUZmoy78zl0pSuHiiDPe) | [El Contentoso!](https://open.spotify.com/album/3SJ3WJYdRWLt5vrumrxRBC) | 3:57 |
 | 51 | [El Trafico](https://open.spotify.com/track/4ecoSAaeXWE2C1KfSX5hFU) | [Chiqui Rodriguez](https://open.spotify.com/artist/0uf9GZiXpX0zAv9RGSNVgl) | [Merengues Tipicos los Numero 1](https://open.spotify.com/album/7ddzfJF2k9P2rbg2oiaP3c) | 5:43 |
 
-Snapshot ID: `MCwwYWRiNTY1NDIwZmUxM2RkNTg3NmMyZjEwM2IyMjk1Yjk2OTY4ZDll`
+Snapshot ID: `MCwzMzljYTE5ODFiOTdmZDc5MDY3ZDUwMmE3MDU3YjQ4MGY0ZjFmYzc2`

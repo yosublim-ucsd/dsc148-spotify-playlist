@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest local and global tracks in Pakistan\. Cover \- Adnan Dhool
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,749 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,851 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 74 | [Nahin Milta](https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:45 |
 | 75 | [Agency](https://open.spotify.com/track/5ZCHWdMgsdoo78m9prkhOR) | [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Agency](https://open.spotify.com/album/6EqgIQxjWv71HrjuBLmMBU) | 4:31 |
 
-Snapshot ID: `MCw2YTJiOThiNTg5YzM0MWMwN2FkY2MzZDNlZDA3NjczY2E0ZGVkMGEz`
+Snapshot ID: `MCwxZjQxMWE0ZTE2MjUzMDc0ZDVmYTAzZWYxNGE0MjE0ZDM1MTYzNzE0`

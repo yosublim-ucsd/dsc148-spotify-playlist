@@ -1,12 +1,12 @@
 {
   "description": "Todo hits veraniegos para la mejor fiesta.",
-  "num_followers": 79547,
+  "num_followers": 79608,
   "original_name": "Verano Mix 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmJkMzhiOTE0MjMyYzM0MWZmN2UzMzgwMjBlNzg0ZDM0NTQxZWY0",
+  "snapshot_id": "MCxiZjRlNWVhNDQ5NTVmYjI5YzY1Y2MwNmYwZDIyYjU0NGU3N2NhZDEx",
   "tracks": [
     {
       "added_at": "2023-07-10 17:59:12",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
         "name": "Barrio Fino (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 210933,
       "name": "Lo Que Pas\u00f3, Pas\u00f3",
       "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "PAPI JUANCHO",
-        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 199112,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
         "name": "Con Calma",
         "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+        "name": "PAPI JUANCHO",
+        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 175918,
-      "name": "A Tu Merced",
-      "url": "https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0"
+      "duration_ms": 199112,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -695,6 +679,22 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 175918,
+      "name": "A Tu Merced",
+      "url": "https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -887,38 +887,6 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "Sola (Remix)",
-        "url": "https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 307910,
-      "name": "Sola (Remix)",
-      "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
         "name": "Si Se da Remix",
         "url": "https://open.spotify.com/album/75Y4sJ1vwZfEivbsKPzAx6"
       },
@@ -947,6 +915,38 @@
       "duration_ms": 332240,
       "name": "Si Se Da - Remix",
       "url": "https://open.spotify.com/track/6K5BsR04ijf3FHNzjbaagD"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
+        "name": "Sola (Remix)",
+        "url": "https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 307910,
+      "name": "Sola (Remix)",
+      "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1363,26 +1363,18 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "Con Altura",
-        "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
+        "name": "F.A.M.E.",
+        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "El Guincho",
-          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 161626,
-      "name": "Con Altura",
-      "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
+      "duration_ms": 230000,
+      "name": "Felices los 4",
+      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1403,18 +1395,26 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "F.A.M.E.",
-        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
+        "name": "Con Altura",
+        "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "El Guincho",
+          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Felices los 4",
-      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
+      "duration_ms": 161626,
+      "name": "Con Altura",
+      "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1987,6 +1987,26 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 197284,
+      "name": "BEB\u00c9",
+      "url": "https://open.spotify.com/track/3Zf4GutWZ7Hv3wsVQsSQPs"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
         "name": "Quiero Decirte",
         "url": "https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar"
       },
@@ -2027,26 +2047,6 @@
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 197284,
-      "name": "BEB\u00c9",
-      "url": "https://open.spotify.com/track/3Zf4GutWZ7Hv3wsVQsSQPs"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "Ai Se Eu Te Pego (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4AYFuW0Ke3eEnGFq66znnL"
-      },
-      "artists": [
-        {
-          "name": "Michel Tel\u00f3",
-          "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
-        }
-      ],
-      "duration_ms": 166439,
-      "name": "Ai Se Eu Te Pego - Ao Vivo",
-      "url": "https://open.spotify.com/track/2yd5ZA1q3w6jdE03eVrGHU"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
         "name": "Verano Azul",
         "url": "https://open.spotify.com/album/687yvcM8ZmPohOsrrXh8Zu"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 190560,
       "name": "Verano Azul",
       "url": "https://open.spotify.com/track/0dgwWXkfcWyB2a2qTgEc0F"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
+        "name": "Ai Se Eu Te Pego (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4AYFuW0Ke3eEnGFq66znnL"
+      },
+      "artists": [
+        {
+          "name": "Michel Tel\u00f3",
+          "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
+        }
+      ],
+      "duration_ms": 166439,
+      "name": "Ai Se Eu Te Pego - Ao Vivo",
+      "url": "https://open.spotify.com/track/2yd5ZA1q3w6jdE03eVrGHU"
     },
     {
       "added_at": "2023-07-10 17:59:12",

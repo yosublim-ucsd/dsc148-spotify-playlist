@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Souldia",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: GreenWoodz",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -2509,6 +2509,24 @@
     },
     {
       "album": {
+        "name": "Death Note",
+        "url": "https://open.spotify.com/album/2AVGEBmOIgBFwdtFLzARi4"
+      },
+      "artists": [
+        {
+          "name": "Zinera",
+          "url": "https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167444,
+      "name": "Death Note",
+      "url": "https://open.spotify.com/track/5lK58jbXWVRXQ9EYvAWPse"
+    },
+    {
+      "album": {
         "name": "MMS 2.0",
         "url": "https://open.spotify.com/album/1frw85H7pUOeM2irhAhXaA"
       },
@@ -2604,7 +2622,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 170408,
       "name": "DIFF\u00c9RENT",
       "url": "https://open.spotify.com/track/5jM8TSQUnipH28RRU8IOi3"
@@ -3022,7 +3040,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 175238,
       "name": "EDM (Entre deux mondes)",
       "url": "https://open.spotify.com/track/6jwPJaGBBM9CeSDqeLF0Iq"
@@ -3866,7 +3884,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 168507,
       "name": "GONE!",
       "url": "https://open.spotify.com/track/5U0a4MxQwguUfubabxFhQR"
@@ -5190,7 +5208,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 143069,
       "name": "Les belles filles - Spotify Singles",
       "url": "https://open.spotify.com/track/6ArGOTiUwMzXgAh0tWjZKu"
@@ -5914,6 +5932,32 @@
       "duration_ms": 98560,
       "name": "Montr\u00e9al",
       "url": "https://open.spotify.com/track/3LhkJnY2DFmOSVlit8tuKW"
+    },
+    {
+      "album": {
+        "name": "More Life, Less Names (Remix)",
+        "url": "https://open.spotify.com/album/2EZRbNDKy21Go36QWarpnc"
+      },
+      "artists": [
+        {
+          "name": "NAYA ALI",
+          "url": "https://open.spotify.com/artist/6xsuPHpz2MgwF8OhEc9ScC"
+        },
+        {
+          "name": "Marie-Mai",
+          "url": "https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa"
+        },
+        {
+          "name": "Izzy-S",
+          "url": "https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191149,
+      "name": "More Life, Less Names - Remix",
+      "url": "https://open.spotify.com/track/65MoTkG0mpjP4ZTMlnCxQH"
     },
     {
       "album": {
@@ -8415,6 +8459,24 @@
     },
     {
       "album": {
+        "name": "TPL",
+        "url": "https://open.spotify.com/album/3xASLbzCdazOv4wGh3oHmZ"
+      },
+      "artists": [
+        {
+          "name": "GreenWoodz",
+          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182757,
+      "name": "The Top",
+      "url": "https://open.spotify.com/track/0CGDrIdIsKucUtnkUFSK7b"
+    },
+    {
+      "album": {
         "name": "Th\u00e8me",
         "url": "https://open.spotify.com/album/5xcBdCm3sYvoBRBf6Q6WPQ"
       },
@@ -8764,6 +8826,24 @@
       "duration_ms": 186000,
       "name": "Trois",
       "url": "https://open.spotify.com/track/7FifBy3Tu7kxliPg331kLA"
+    },
+    {
+      "album": {
+        "name": "Mon boy",
+        "url": "https://open.spotify.com/album/3GrwegDfPCjoMqUIRhzuOc"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9da",
+          "url": "https://open.spotify.com/artist/10fGKWTRU4oFbQG0sWPVHi"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181428,
+      "name": "Trop jeune",
+      "url": "https://open.spotify.com/track/08ZC8YF01wYfrRSo441VrW"
     },
     {
       "album": {

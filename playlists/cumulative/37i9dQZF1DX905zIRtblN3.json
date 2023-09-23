@@ -504,7 +504,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 255373,
       "name": "Aqu\u00ed Te Espero",
       "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
@@ -2156,7 +2156,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 206960,
       "name": "El Patrocinador",
       "url": "https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS"
@@ -2634,7 +2634,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 172360,
       "name": "Eres",
       "url": "https://open.spotify.com/track/3FUVgc4ULS0t7X7sUBZ1UO"
@@ -4442,7 +4442,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 183724,
       "name": "Mi Reca\u00edda en Los Excesos",
       "url": "https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN"
@@ -5232,7 +5232,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 188361,
       "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
       "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
@@ -5981,6 +5981,28 @@
     },
     {
       "album": {
+        "name": "Seg\u00fan Qui\u00e9n",
+        "url": "https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142334,
+      "name": "Seg\u00fan Qui\u00e9n",
+      "url": "https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4"
+    },
+    {
+      "album": {
         "name": "Selfies",
         "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
       },
@@ -6210,6 +6232,32 @@
       "duration_ms": 172546,
       "name": "Sin Explicaciones",
       "url": "https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA"
+    },
+    {
+      "album": {
+        "name": "Skin de Bandida",
+        "url": "https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176134,
+      "name": "Skin de Bandida",
+      "url": "https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf"
     },
     {
       "album": {
@@ -6586,7 +6634,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 156379,
       "name": "Te Perdonar\u00eda",
       "url": "https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ"

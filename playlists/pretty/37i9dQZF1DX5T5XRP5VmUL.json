@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to the holiday season!",
-  "num_followers": 133075,
+  "num_followers": 133066,
   "original_name": "Christmas in Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjBkMzcxNjgyYTc2N2FiNjIyNDdjN2ZiMjRlYjE5M2Y3NTA2MGMx",
+  "snapshot_id": "MCxiOTIwM2FmNjM3OTI4MmZmMDFlMjk5MGVjMjBiMjZjYmMxYWMxYzU3",
   "tracks": [
     {
       "added_at": "2022-12-16 16:34:09",
@@ -792,6 +792,22 @@
       "added_at": "2022-12-16 16:34:09",
       "album": {
         "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "Count Your Blessings Instead Of Sheep",
+      "url": "https://open.spotify.com/track/0pgP4ROMLqFVDby6dedXwz"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6TrBZsEdcM4SiIAiEEZJbJ"
       },
       "artists": [
@@ -823,22 +839,6 @@
       "duration_ms": 191401,
       "name": "Happy Xmas",
       "url": "https://open.spotify.com/track/1mp6u70l0qHqRWQN6bJLoX"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "Count Your Blessings Instead Of Sheep",
-      "url": "https://open.spotify.com/track/0pgP4ROMLqFVDby6dedXwz"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Last Xmas",
-        "url": "https://open.spotify.com/album/7gvrogvTiup7SSSRCG5caa"
+        "name": "two christmases",
+        "url": "https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM"
       },
       "artists": [
         {
-          "name": "Allie X",
-          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+          "name": "nobody likes you pat",
+          "url": "https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Last Xmas",
-      "url": "https://open.spotify.com/track/6dyjwojf6jZV8aQorBTmGD"
+      "duration_ms": 142658,
+      "name": "two christmases",
+      "url": "https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "Last Xmas",
+        "url": "https://open.spotify.com/album/7gvrogvTiup7SSSRCG5caa"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Last Xmas",
+      "url": "https://open.spotify.com/track/6dyjwojf6jZV8aQorBTmGD"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "Songs of December (Anniversary Edition)",
         "url": "https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 289786,
       "name": "It's The Most Wonderful Time Of The Year",
       "url": "https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "two christmases",
-        "url": "https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM"
-      },
-      "artists": [
-        {
-          "name": "nobody likes you pat",
-          "url": "https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I"
-        }
-      ],
-      "duration_ms": 142658,
-      "name": "two christmases",
-      "url": "https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Joy to the World",
-        "url": "https://open.spotify.com/album/61i2xsCv4xblemUmhtRnGh"
-      },
-      "artists": [
-        {
-          "name": "Hunter Brothers",
-          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
-        }
-      ],
-      "duration_ms": 169666,
-      "name": "What I See",
-      "url": "https://open.spotify.com/track/3vdKhieD57HDrBx0wyMyYh"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Coming Home (For Christmas)",
         "url": "https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 207792,
       "name": "Coming Home (For Christmas)",
       "url": "https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Joy to the World",
+        "url": "https://open.spotify.com/album/61i2xsCv4xblemUmhtRnGh"
+      },
+      "artists": [
+        {
+          "name": "Hunter Brothers",
+          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
+        }
+      ],
+      "duration_ms": 169666,
+      "name": "What I See",
+      "url": "https://open.spotify.com/track/3vdKhieD57HDrBx0wyMyYh"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Hangover For Christmas",
-        "url": "https://open.spotify.com/album/5BvP4OjFYbqwRGdInh5aZC"
+        "name": "Dreaming Time Again - EP",
+        "url": "https://open.spotify.com/album/6vtOgyM8mqBML5vTVxTrrN"
       },
       "artists": [
         {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+          "name": "Corey Hart",
+          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
         }
       ],
-      "duration_ms": 180929,
-      "name": "Hangover For Christmas",
-      "url": "https://open.spotify.com/track/5PibhDx6l13d6e2kiKOcfW"
+      "duration_ms": 200746,
+      "name": "Another December",
+      "url": "https://open.spotify.com/track/0vGvie247As4QVcq7z3o64"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Dreaming Time Again - EP",
-        "url": "https://open.spotify.com/album/6vtOgyM8mqBML5vTVxTrrN"
+        "name": "Hangover For Christmas",
+        "url": "https://open.spotify.com/album/5BvP4OjFYbqwRGdInh5aZC"
       },
       "artists": [
         {
-          "name": "Corey Hart",
-          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
         }
       ],
-      "duration_ms": 200746,
-      "name": "Another December",
-      "url": "https://open.spotify.com/track/0vGvie247As4QVcq7z3o64"
+      "duration_ms": 180929,
+      "name": "Hangover For Christmas",
+      "url": "https://open.spotify.com/track/5PibhDx6l13d6e2kiKOcfW"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Takin' Care Of Christmas",
-        "url": "https://open.spotify.com/album/55HArZ8d6oaHrv2NTZWyYG"
-      },
-      "artists": [
-        {
-          "name": "Randy Bachman",
-          "url": "https://open.spotify.com/artist/1Q4aI4HsIQmidZrgCOAcBg"
-        },
-        {
-          "name": "Beverley Mahood",
-          "url": "https://open.spotify.com/artist/2Ur7EJdq2Lv5rOAQDNbCl7"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Takin' Care Of Christmas",
-      "url": "https://open.spotify.com/track/1KCFZtY7YZA610dHQTSG8z"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "It's Me & You (This Christmas)",
         "url": "https://open.spotify.com/album/6RzwwQCGUvDObqgEW2pnBp"
       },
@@ -1379,18 +1359,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Steal Your Heart",
-        "url": "https://open.spotify.com/album/1xeyU7RnO7CgH3Sh8tdmcu"
+        "name": "Takin' Care Of Christmas",
+        "url": "https://open.spotify.com/album/55HArZ8d6oaHrv2NTZWyYG"
       },
       "artists": [
         {
-          "name": "Command Sisters",
-          "url": "https://open.spotify.com/artist/7a9gjtMIZFHN1NB1Dndyed"
+          "name": "Randy Bachman",
+          "url": "https://open.spotify.com/artist/1Q4aI4HsIQmidZrgCOAcBg"
+        },
+        {
+          "name": "Beverley Mahood",
+          "url": "https://open.spotify.com/artist/2Ur7EJdq2Lv5rOAQDNbCl7"
         }
       ],
-      "duration_ms": 207619,
-      "name": "Steal Your Heart",
-      "url": "https://open.spotify.com/track/7kousDSHeHfE6TTbioVW26"
+      "duration_ms": 213626,
+      "name": "Takin' Care Of Christmas",
+      "url": "https://open.spotify.com/track/1KCFZtY7YZA610dHQTSG8z"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "Steal Your Heart",
+        "url": "https://open.spotify.com/album/1xeyU7RnO7CgH3Sh8tdmcu"
+      },
+      "artists": [
+        {
+          "name": "Command Sisters",
+          "url": "https://open.spotify.com/artist/7a9gjtMIZFHN1NB1Dndyed"
+        }
+      ],
+      "duration_ms": 207619,
+      "name": "Steal Your Heart",
+      "url": "https://open.spotify.com/track/7kousDSHeHfE6TTbioVW26"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "What Are You Doing New Year's Eve",
         "url": "https://open.spotify.com/album/0A3jVFaGT9SHplxTBzTQg4"
       },
@@ -1431,34 +1431,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Home for Christmas",
-        "url": "https://open.spotify.com/album/6bw6B7PtOrrBRumjxAd0Ug"
+        "name": "Slide On Christmas",
+        "url": "https://open.spotify.com/album/3A2ZgopwrWy9AKNKZcdkeZ"
       },
       "artists": [
         {
-          "name": "May Wells",
-          "url": "https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM"
+          "name": "John Concepcion",
+          "url": "https://open.spotify.com/artist/5mqw4f8V3r2PBVKCKAkqiY"
         }
       ],
-      "duration_ms": 204926,
-      "name": "Home for Christmas",
-      "url": "https://open.spotify.com/track/0cdUyb2LUwHjJCVv9O52ae"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "Someday at Christmas",
-        "url": "https://open.spotify.com/album/4GCGTddfqvUhDk2UcXzOW0"
-      },
-      "artists": [
-        {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
-        }
-      ],
-      "duration_ms": 186890,
-      "name": "Someday at Christmas",
-      "url": "https://open.spotify.com/track/5iXpw1SFBcjh7lNwuyKi7X"
+      "duration_ms": 236690,
+      "name": "Slide On Christmas",
+      "url": "https://open.spotify.com/track/6q5mRQkkn9iG7H3Kl5YdcJ"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1479,18 +1463,38 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Slide On Christmas",
-        "url": "https://open.spotify.com/album/3A2ZgopwrWy9AKNKZcdkeZ"
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/6r1K4pY3QjCpQsiznP1nWO"
       },
       "artists": [
         {
-          "name": "John Concepcion",
-          "url": "https://open.spotify.com/artist/5mqw4f8V3r2PBVKCKAkqiY"
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
         }
       ],
-      "duration_ms": 236690,
-      "name": "Slide On Christmas",
-      "url": "https://open.spotify.com/track/6q5mRQkkn9iG7H3Kl5YdcJ"
+      "duration_ms": 229623,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/1KOcD6gU6G3aI8bj3mDmgl"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Someday at Christmas",
+        "url": "https://open.spotify.com/album/4GCGTddfqvUhDk2UcXzOW0"
+      },
+      "artists": [
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "duration_ms": 186890,
+      "name": "Someday at Christmas",
+      "url": "https://open.spotify.com/track/5iXpw1SFBcjh7lNwuyKi7X"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1539,6 +1543,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "Home for Christmas",
+        "url": "https://open.spotify.com/album/6bw6B7PtOrrBRumjxAd0Ug"
+      },
+      "artists": [
+        {
+          "name": "May Wells",
+          "url": "https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM"
+        }
+      ],
+      "duration_ms": 204926,
+      "name": "Home for Christmas",
+      "url": "https://open.spotify.com/track/0cdUyb2LUwHjJCVv9O52ae"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "Spirit Of Christmas",
         "url": "https://open.spotify.com/album/08hEESdzvovYiCi1jNnjkG"
       },
@@ -1555,26 +1575,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Blue Christmas",
-        "url": "https://open.spotify.com/album/6r1K4pY3QjCpQsiznP1nWO"
-      },
-      "artists": [
-        {
-          "name": "David Foster",
-          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
-        },
-        {
-          "name": "Katharine McPhee",
-          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
-        }
-      ],
-      "duration_ms": 229623,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/1KOcD6gU6G3aI8bj3mDmgl"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "GIFT 2 U",
         "url": "https://open.spotify.com/album/3YIT2aYTemcRWwopmEpTYM"
       },
@@ -1587,26 +1587,6 @@
       "duration_ms": 191030,
       "name": "GIFT 2 U",
       "url": "https://open.spotify.com/track/3v2L8zZI9xF31s10hZWS5x"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "Silver Bells",
-        "url": "https://open.spotify.com/album/5BgeQ2ztcrexpTaEZGpqYf"
-      },
-      "artists": [
-        {
-          "name": "Raffi",
-          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
-        },
-        {
-          "name": "Lindsay Munroe",
-          "url": "https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM"
-        }
-      ],
-      "duration_ms": 226950,
-      "name": "Silver Bells",
-      "url": "https://open.spotify.com/track/03ljZ6wgRlc7jTsKiO9Sni"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1643,6 +1623,26 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "Silver Bells",
+        "url": "https://open.spotify.com/album/5BgeQ2ztcrexpTaEZGpqYf"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        },
+        {
+          "name": "Lindsay Munroe",
+          "url": "https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM"
+        }
+      ],
+      "duration_ms": 226950,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/03ljZ6wgRlc7jTsKiO9Sni"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "O Holy Night",
         "url": "https://open.spotify.com/album/6gqhPighIztVIp72MbJfYv"
       },
@@ -1655,22 +1655,6 @@
       "duration_ms": 254562,
       "name": "Love Is Christmas",
       "url": "https://open.spotify.com/track/53PKK3VnmRgBqK0r3cgRb7"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/59s1aDGGfp5Sv9TjbsRKuz"
-      },
-      "artists": [
-        {
-          "name": "Bruce Cockburn",
-          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
-        }
-      ],
-      "duration_ms": 257533,
-      "name": "I Saw Three Ships",
-      "url": "https://open.spotify.com/track/4JhEnX4fBX5kyr1EECfv6h"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1691,18 +1675,34 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/6eFMdTriLrFtrE1xLXsVJs"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/59s1aDGGfp5Sv9TjbsRKuz"
       },
       "artists": [
         {
-          "name": "Ryland James",
-          "url": "https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0"
+          "name": "Bruce Cockburn",
+          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
         }
       ],
-      "duration_ms": 197229,
-      "name": "River",
-      "url": "https://open.spotify.com/track/6QjfeWvTkJTgMJcifKXoa5"
+      "duration_ms": 257533,
+      "name": "I Saw Three Ships",
+      "url": "https://open.spotify.com/track/4JhEnX4fBX5kyr1EECfv6h"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "One More Day of Christmas / Do You Hear What I Hear",
+        "url": "https://open.spotify.com/album/4Bf8UkSQXx6tk5baokwU6s"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "duration_ms": 162749,
+      "name": "One More Day of Christmas",
+      "url": "https://open.spotify.com/track/0dJ4qvAQzIH5HIdB5PVj8D"
     }
   ],
   "unique_name": "Christmas in Canada",

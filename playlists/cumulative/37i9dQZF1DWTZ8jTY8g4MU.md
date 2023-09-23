@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: ابوحنظلة
 
-190 songs - 12 hr 25 min
+191 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [ياعرب حنيت](https://open.spotify.com/track/1szjUAlwmyS5cCrz7yaoCf) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [ياعرب حنيت](https://open.spotify.com/album/4IcitKb3SkUlfaqGKEvO70) | 3:04 | 2022-08-31 | 2023-05-04 |
 | [ياغايب](https://open.spotify.com/track/3fvwgih7gXgqPNTMfaHwC7) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [ياغايب](https://open.spotify.com/album/5qfEapVknQAWHf3EWq2D89) | 3:15 | 2022-06-13 | 2022-11-02 |
 | [ياغايب](https://open.spotify.com/track/0H66amn66zZeVCCXjUTdMS) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [ياغايب](https://open.spotify.com/album/48GgeOcOFdhU2bVLLfqyzn) | 3:15 | 2022-08-31 |  |
+| [ياغرامي](https://open.spotify.com/track/1kzy6Jdu0R0WuKSFLd7ya5) | [مشعل الشراري](https://open.spotify.com/artist/4tXqy5JSDDVeDT0D57uwZ6) | [ياغرامي](https://open.spotify.com/album/6cVl90b7l9MCR4YIBQTtD8) | 3:31 | 2023-09-22 |  |
 | [ياليت](https://open.spotify.com/track/2eeOmVQbBDcPG1y0Kgd7jq) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [ياليت](https://open.spotify.com/album/174SjqWUYTTr5svIrXmNB1) | 4:07 | 2022-03-30 | 2022-06-14 |
 | [ياليل ياجامع على الود قلبين](https://open.spotify.com/track/1Rl0s8Gml6nvsZ8xesHqzu) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm), [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [ياليل ياجامع على الود قلبين](https://open.spotify.com/album/40D2y8kNdSFLkR9JNbHrGU) | 6:03 | 2023-06-15 | 2023-09-02 |
 | [يامبتسم](https://open.spotify.com/track/3H4tPFqBvuSYLhrB57KPuf) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [يامبتسم](https://open.spotify.com/album/3Y7UMujGkIv7IyyYd0ki9y) | 3:25 | 2023-05-10 | 2023-09-07 |

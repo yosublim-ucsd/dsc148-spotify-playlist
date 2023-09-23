@@ -1,12 +1,12 @@
 {
   "description": "Hits zum Tanzen und Mitsingen - von damals bis heute.",
-  "num_followers": 1025120,
+  "num_followers": 1025257,
   "original_name": "Party Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWQxMWUzZjU2NDhlOGZkODlmMGMzZDY1Yzk0ZGY1NzExMDEyYjlm",
+  "snapshot_id": "MCwzYTc0OTUzOTI2YTc4YzJiZjY0NzJiMjc1Mzc0NDgwYTNmODJiYTVj",
   "tracks": [
     {
       "added_at": "2023-09-08 11:15:28",
@@ -359,6 +359,26 @@
     {
       "added_at": "2023-09-08 11:15:28",
       "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "Promiscuous",
+      "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
+    },
+    {
+      "added_at": "2023-09-08 11:15:28",
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2023-09-08 11:15:28",
-      "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Promiscuous",
-      "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
     },
     {
       "added_at": "2023-09-08 11:15:28",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-09-08 11:15:28",
       "album": {
+        "name": "Franz Ferdinand",
+        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
+    },
+    {
+      "added_at": "2023-09-08 11:15:28",
+      "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
       },
@@ -959,22 +975,6 @@
     {
       "added_at": "2023-09-08 11:15:28",
       "album": {
-        "name": "Franz Ferdinand",
-        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Take Me Out",
-      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
-    },
-    {
-      "added_at": "2023-09-08 11:15:28",
-      "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-09-08 11:15:28",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
+      "duration_ms": 295515,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
       "added_at": "2023-09-08 11:15:28",
@@ -1027,34 +1027,18 @@
     {
       "added_at": "2023-09-08 11:15:28",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 295515,
-      "name": "With Or Without You",
-      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
-    },
-    {
-      "added_at": "2023-09-08 11:15:28",
-      "album": {
-        "name": "Come Into My Life (The Album)",
-        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
-      },
-      "artists": [
-        {
-          "name": "Gala",
-          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
-        }
-      ],
-      "duration_ms": 213394,
-      "name": "Freed From Desire",
-      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
       "added_at": "2023-09-08 11:15:28",
@@ -1079,6 +1063,22 @@
       "duration_ms": 191365,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9"
+    },
+    {
+      "added_at": "2023-09-08 11:15:28",
+      "album": {
+        "name": "Come Into My Life (The Album)",
+        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
+      },
+      "artists": [
+        {
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+        }
+      ],
+      "duration_ms": 213394,
+      "name": "Freed From Desire",
+      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
     },
     {
       "added_at": "2023-09-08 11:15:28",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-09-08 11:15:28",
       "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
+    },
+    {
+      "added_at": "2023-09-08 11:15:28",
+      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
-    },
-    {
-      "added_at": "2023-09-08 11:15:28",
-      "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
       "added_at": "2023-09-08 11:15:28",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-09-08 11:15:28",
       "album": {
+        "name": "A Little Bit of Mambo",
+        "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
+      },
+      "artists": [
+        {
+          "name": "Lou Bega",
+          "url": "https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "Mambo No. 5 (a Little Bit of...)",
+      "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
+    },
+    {
+      "added_at": "2023-09-08 11:15:28",
+      "album": {
         "name": "Weekends",
         "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 127003,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
-    },
-    {
-      "added_at": "2023-09-08 11:15:28",
-      "album": {
-        "name": "A Little Bit of Mambo",
-        "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
-      },
-      "artists": [
-        {
-          "name": "Lou Bega",
-          "url": "https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Mambo No. 5 (a Little Bit of...)",
-      "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
     },
     {
       "added_at": "2023-09-08 11:15:28",
@@ -1831,6 +1831,26 @@
     {
       "added_at": "2023-09-08 11:15:28",
       "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Colby O'Donis",
+          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Just Dance",
+      "url": "https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE"
+    },
+    {
+      "added_at": "2023-09-08 11:15:28",
+      "album": {
         "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
         "url": "https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3"
       },
@@ -1855,26 +1875,6 @@
       "duration_ms": 212500,
       "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM"
-    },
-    {
-      "added_at": "2023-09-08 11:15:28",
-      "album": {
-        "name": "The Fame",
-        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Colby O'Donis",
-          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "Just Dance",
-      "url": "https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE"
     },
     {
       "added_at": "2023-09-08 11:15:28",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2023-09-08 11:15:28",
       "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
-    },
-    {
-      "added_at": "2023-09-08 11:15:28",
-      "album": {
         "name": "So Excited! (Expanded Edition)",
         "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 230640,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
+    },
+    {
+      "added_at": "2023-09-08 11:15:28",
+      "album": {
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "added_at": "2023-09-08 11:15:28",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2023-09-08 11:15:28",
       "album": {
-        "name": "Hooray For Boobies",
-        "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
-      },
-      "artists": [
-        {
-          "name": "Bloodhound Gang",
-          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
-        }
-      ],
-      "duration_ms": 260506,
-      "name": "The Bad Touch",
-      "url": "https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG"
-    },
-    {
-      "added_at": "2023-09-08 11:15:28",
-      "album": {
         "name": "Rise Up (feat. Vamero)",
         "url": "https://open.spotify.com/album/4DsxykS9CPTnJPeoWXkRV8"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 182000,
       "name": "Rise Up (feat. Vamero)",
       "url": "https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx"
+    },
+    {
+      "added_at": "2023-09-08 11:15:28",
+      "album": {
+        "name": "Hooray For Boobies",
+        "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
+      },
+      "artists": [
+        {
+          "name": "Bloodhound Gang",
+          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
+        }
+      ],
+      "duration_ms": 260506,
+      "name": "The Bad Touch",
+      "url": "https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG"
     },
     {
       "added_at": "2023-09-08 11:15:28",
@@ -2555,6 +2555,22 @@
     {
       "added_at": "2023-09-08 11:15:28",
       "album": {
+        "name": "Songs From Dawson's Creek, Vol. II",
+        "url": "https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj"
+      },
+      "artists": [
+        {
+          "name": "Wheatus",
+          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
+        }
+      ],
+      "duration_ms": 241840,
+      "name": "Teenage Dirtbag",
+      "url": "https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw"
+    },
+    {
+      "added_at": "2023-09-08 11:15:28",
+      "album": {
         "name": "Turn Me On (feat. Vula)",
         "url": "https://open.spotify.com/album/7mtnp7B5yFt3D3PAznGzc8"
       },
@@ -2575,22 +2591,6 @@
       "duration_ms": 208473,
       "name": "Turn Me On (feat. Vula)",
       "url": "https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9"
-    },
-    {
-      "added_at": "2023-09-08 11:15:28",
-      "album": {
-        "name": "Songs From Dawson's Creek, Vol. II",
-        "url": "https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj"
-      },
-      "artists": [
-        {
-          "name": "Wheatus",
-          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
-        }
-      ],
-      "duration_ms": 241840,
-      "name": "Teenage Dirtbag",
-      "url": "https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw"
     },
     {
       "added_at": "2023-09-08 11:15:28",

@@ -4,7 +4,7 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-134 songs - 7 hr 44 min
+135 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Rude](https://open.spotify.com/track/0VL4jLupGZHGv7RYTX6RSM) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Pleasant Uke](https://open.spotify.com/album/1HH6lGqg8eZH3im3JYRrZm) | 2:29 | 2022-05-20 | 2023-04-28 |
 | [Save Your Tears](https://open.spotify.com/track/5PilZ505kJWTzIMkbvWMGX) | [Thiago Ferna](https://open.spotify.com/artist/6DhYjMCO2gZhXIsLtY8Rqu) | [Save Your Tears](https://open.spotify.com/album/5ruPKHpJM3H75v4XiGKg9K) | 3:39 | 2023-01-27 |  |
 | [Señorita](https://open.spotify.com/track/6UtasvGN57nLSQURZzSMYh) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [Señorita](https://open.spotify.com/album/2gZNANSVZxiDwPxI1AdAfK) | 2:41 | 2022-12-01 |  |
+| [Shake It Off](https://open.spotify.com/track/3An67cnCL6RRb3EkKA1S2L) | [Dev Lin](https://open.spotify.com/artist/5Qz8NfhvVepyU3JXyLQq88) | [Shake It Off](https://open.spotify.com/album/5YnnPM42JMkXHFvYbKmJpL) | 2:48 | 2023-09-22 |  |
 | [Shallow](https://open.spotify.com/track/5IOPcHdIf7qq9OYcu6Hilx) | [Sarah Trapp](https://open.spotify.com/artist/0xaDA7p9ytShd7Sk49FPIs) | [Shallow](https://open.spotify.com/album/1w5zIIKL9Zwan57jhtlhcF) | 3:29 | 2023-08-10 |  |
 | [Shiny Happy People](https://open.spotify.com/track/19Q6RYkrArONtSksr7p2Xv) | [Liam O'Driscoll](https://open.spotify.com/artist/7djFTVrQrEuOZeP1yKGe1v) | [Shiny Happy People](https://open.spotify.com/album/2quXYmobmbwJqFq3PxWSBB) | 2:29 | 2023-08-10 |  |
 | [Shivers](https://open.spotify.com/track/0aWhxq7Ivc637X7xmjofaA) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Shivers](https://open.spotify.com/album/3FP08BXh4opzeqPPYPN7Tf) | 3:44 | 2022-12-01 | 2023-09-15 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: Earl Sweatshirt",
+  "description": "Genre-less. Quality first always. Cover: Jean Dawson & SZA",
   "name": "POLLEN",
   "tracks": [
     {
@@ -998,7 +998,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 190373,
       "name": "4EVA (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 181639,
       "name": "50/50",
       "url": "https://open.spotify.com/track/3ANR48a5B76FjAWpmsHwrF"
@@ -2034,6 +2034,24 @@
       "duration_ms": 232712,
       "name": "All My Girls Like To Fight",
       "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
+    },
+    {
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208426,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO"
     },
     {
       "album": {
@@ -8811,6 +8829,24 @@
     },
     {
       "album": {
+        "name": "Powders",
+        "url": "https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271733,
+      "name": "Crushing",
+      "url": "https://open.spotify.com/track/6BPwBHxjmavFAyMrLQgQYd"
+    },
+    {
+      "album": {
         "name": "Yasuke",
         "url": "https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj"
       },
@@ -9468,6 +9504,24 @@
       "duration_ms": 186967,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw"
+    },
+    {
+      "album": {
+        "name": "daylight falls",
+        "url": "https://open.spotify.com/album/4JzQ9ctOcrFaAY1Kfbq4hM"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165731,
+      "name": "daylight falls",
+      "url": "https://open.spotify.com/track/3JTXbLod8F36ErFytqlxID"
     },
     {
       "album": {
@@ -11721,6 +11775,28 @@
     },
     {
       "album": {
+        "name": "End Credits",
+        "url": "https://open.spotify.com/album/74DMWfGIXby2BD5fmVhOJ0"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Real Lies",
+          "url": "https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213297,
+      "name": "End Credits",
+      "url": "https://open.spotify.com/track/68CGQIywWzqe7snQrEOb9j"
+    },
+    {
+      "album": {
         "name": "End Of Daze (with EARTHGANG & JID feat. Jurdan Bryant, Mereba & Hollywood JB)",
         "url": "https://open.spotify.com/album/73lISvju60S9UcD80SZOQz"
       },
@@ -13666,6 +13742,28 @@
       "duration_ms": 361877,
       "name": "FKA MESS",
       "url": "https://open.spotify.com/track/71itF9z7kqBaUIgoi80WqG"
+    },
+    {
+      "album": {
+        "name": "RIP Human Art",
+        "url": "https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274558,
+      "name": "Flavors of Karma",
+      "url": "https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7"
     },
     {
       "album": {
@@ -16918,7 +17016,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 230554,
       "name": "HEAVEN TO ME",
       "url": "https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs"
@@ -17266,7 +17364,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 196598,
       "name": "Higher Than Ever Before",
       "url": "https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh"
@@ -21537,6 +21635,28 @@
     },
     {
       "album": {
+        "name": "Take What You Need",
+        "url": "https://open.spotify.com/album/3nR9KOMEB7VhY8PlyiK11d"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        },
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152961,
+      "name": "lady (feat. chlothegod)",
+      "url": "https://open.spotify.com/track/6qtJs5w3x7z0Z41im1TCT6"
+    },
+    {
+      "album": {
         "name": "Lala Ngoxolo (feat. Emtee)",
         "url": "https://open.spotify.com/album/0rIoegGG1yNzKUaYnBCvxn"
       },
@@ -21823,6 +21943,28 @@
     },
     {
       "album": {
+        "name": "Le Temple Volant",
+        "url": "https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        },
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125893,
+      "name": "Le Temple Volant",
+      "url": "https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb"
+    },
+    {
+      "album": {
         "name": "The Return",
         "url": "https://open.spotify.com/album/1HxsSJHTqeUxDoKN26h8pB"
       },
@@ -21994,6 +22136,24 @@
       "duration_ms": 216524,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
+    },
+    {
+      "album": {
+        "name": "let me go*",
+        "url": "https://open.spotify.com/album/1G2wWDw7j1NQHDScKlvkAK"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "let me go*",
+      "url": "https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0"
     },
     {
       "album": {
@@ -23074,7 +23234,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 193395,
       "name": "LOST IN THE CITY",
       "url": "https://open.spotify.com/track/7bHz0ZMFED3ZN39InD2YmZ"
@@ -23801,6 +23961,24 @@
     },
     {
       "album": {
+        "name": "Makeshift Tourniquet",
+        "url": "https://open.spotify.com/album/73T8ZTaxv3LBS4wQo9NW3n"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317835,
+      "name": "Makeshift Tourniquet",
+      "url": "https://open.spotify.com/track/4YrUH3TZazK6DC2w5qXryI"
+    },
+    {
+      "album": {
         "name": "Making The Band (Danity Kane)",
         "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
       },
@@ -24059,6 +24237,24 @@
     },
     {
       "album": {
+        "name": "Marking My Time",
+        "url": "https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268038,
+      "name": "Marking My Time",
+      "url": "https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw"
+    },
+    {
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/3sT7yWCfQybO1JzV9xt41R"
       },
@@ -24244,6 +24440,32 @@
       "duration_ms": 200597,
       "name": "Maybe in the Summer",
       "url": "https://open.spotify.com/track/1cKZOJMYyQMXKOwrNqHd09"
+    },
+    {
+      "album": {
+        "name": "Mayors A Cop",
+        "url": "https://open.spotify.com/album/2X8Hm457HnyRX3CxNfJhe5"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Wiki",
+          "url": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232613,
+      "name": "Mayors A Cop",
+      "url": "https://open.spotify.com/track/20rhLRRW6I177TzqQBV93U"
     },
     {
       "album": {
@@ -26613,6 +26835,28 @@
     },
     {
       "album": {
+        "name": "NO SZNS",
+        "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213026,
+      "name": "NO SZNS",
+      "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
+    },
+    {
+      "album": {
         "name": "Nobody But You",
         "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
       },
@@ -28076,7 +28320,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 115384,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/5WPkg7qq1zNdtWhyNXRtGc"
@@ -30382,7 +30626,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 224187,
       "name": "R e s e n t m e n t",
       "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
@@ -33436,7 +33680,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 167078,
       "name": "sideline, red wine lover",
       "url": "https://open.spotify.com/track/4tCwtpj5QR1FLpCevAuGx3"
@@ -34434,7 +34678,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 218212,
       "name": "Soapbox Soliloquy",
       "url": "https://open.spotify.com/track/6dJUlR8q2fSvHx3ERI4pwg"
@@ -37678,7 +37922,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 232573,
       "name": "The Fields",
       "url": "https://open.spotify.com/track/4zUcDwZpszCAGznQ3hADBs"
@@ -37740,7 +37984,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 222456,
       "name": "THE GLADE",
       "url": "https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG"
@@ -38226,7 +38470,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 167906,
       "name": "The Suburbs",
       "url": "https://open.spotify.com/track/2M33H5HtCUuXKxVX7jxMQ6"

@@ -1,13 +1,33 @@
 {
   "description": "The best in blues right now. Cover: Shemekia Copeland",
-  "num_followers": 51520,
+  "num_followers": 51553,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWQ5MzQ2MTM0ZjRkZjhlNDJhNjVlYzNlM2NkMzVhZjUyNDlmZDY0",
+  "snapshot_id": "MCwyMDhhOTQ5Y2QyODNhNDUxMzk4OGYyMDg1ZGQ5N2RmMTkwYjRjMTFh",
   "tracks": [
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Out Of Sight",
+        "url": "https://open.spotify.com/album/5o9sRpyDsuhc3fiS7y99gK"
+      },
+      "artists": [
+        {
+          "name": "Jade Macrae",
+          "url": "https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd"
+        },
+        {
+          "name": "Kirk Fletcher",
+          "url": "https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq"
+        }
+      ],
+      "duration_ms": 228904,
+      "name": "Out Of Sight",
+      "url": "https://open.spotify.com/track/3s6cuxFNe2so5aX2NTAM6Q"
+    },
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
@@ -39,6 +59,26 @@
       "duration_ms": 317719,
       "name": "Sweet 'Lil Lies",
       "url": "https://open.spotify.com/track/6ibzlLNs7baLXzz4RjMLd9"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "I'll Be Moving On",
+        "url": "https://open.spotify.com/album/6b6VYA1u7gpcGq5jPaFezV"
+      },
+      "artists": [
+        {
+          "name": "Robin Trower",
+          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+        },
+        {
+          "name": "Sari Schorr",
+          "url": "https://open.spotify.com/artist/65EcwCjlQu3XbQEbSqYBGl"
+        }
+      ],
+      "duration_ms": 231885,
+      "name": "I'll Be Moving On",
+      "url": "https://open.spotify.com/track/3q53EOS9boS1UYg7et96KC"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -375,22 +415,6 @@
       "duration_ms": 218200,
       "name": "Your Funeral And My Trial (feat. Jontavious Willis)",
       "url": "https://open.spotify.com/track/1lXBtfCrfh2vl87o45yPDN"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Louise",
-        "url": "https://open.spotify.com/album/7a159bQme0ps4IGS1bfBPg"
-      },
-      "artists": [
-        {
-          "name": "Danny Bryant",
-          "url": "https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn"
-        }
-      ],
-      "duration_ms": 219051,
-      "name": "Louise",
-      "url": "https://open.spotify.com/track/4LsjSfG35HjxANSGntQElK"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1583,26 +1607,6 @@
       "duration_ms": 208700,
       "name": "Love At First Sight",
       "url": "https://open.spotify.com/track/0I6iVnbnSri9baOqnjIeHQ"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Set Sail",
-        "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
-      },
-      "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        },
-        {
-          "name": "Lamar Williams Jr.",
-          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
-        }
-      ],
-      "duration_ms": 298293,
-      "name": "Outside (featuring Lamar Williams Jr.)",
-      "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
     },
     {
       "added_at": "2022-02-25 05:02:00",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-780 songs - 1 day 20 hr 56 min
+781 songs - 1 day 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,7 +591,7 @@
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-20 | 2023-05-23 |
 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 | 2021-11-14 | 2021-11-14 |
 | [SCIENTIST](https://open.spotify.com/track/2J0TRU2EDG29qlmxdGa4xa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:14 | 2021-11-14 | 2021-12-03 |
-| [seasons](https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E) | 4:16 | 2023-08-07 |  |
+| [seasons](https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E) | 4:16 | 2023-08-07 | 2023-09-23 |
 | [Secret Love Song \(feat\. Jason Derulo\)](https://open.spotify.com/track/6KHL1En9v6iNWjcs44mcmU) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 4:09 | 2022-01-14 | 2022-02-02 |
 | [Selamat Berhari Raya](https://open.spotify.com/track/74SXA9SsaHeOXyg3NxRymf) | [Rahimah Rahim](https://open.spotify.com/artist/7H2gOfWDAVINu72BGZctLn) | [Selamat Berhari Raya](https://open.spotify.com/album/5nOdd36ZglIVDttRZ4QrLM) | 3:31 | 2021-05-03 | 2023-04-26 |
 | [Selamat Hari Raya](https://open.spotify.com/track/4R3BqGWGboh1b6RaRVXxWE) | [Datuk Ahmad Jais](https://open.spotify.com/artist/5DR3x1kevrEtZGk2FSSsB7) | [Selamat Hari Raya](https://open.spotify.com/album/58JWDcaVWB40L0DqtVEVJL) | 2:32 | 2021-05-12 | 2023-04-25 |
@@ -654,6 +654,7 @@
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-05 | 2022-05-21 |
 | [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/12hD59WtTU92K1VcCXqLlw) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 2:55 | 2022-12-03 | 2022-12-05 |
 | [Still With You](https://open.spotify.com/track/0eFMbKCRw8KByXyWBw8WO7) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Still With You](https://open.spotify.com/album/0i3baFZqWSrjjgTWrhKunB) | 3:59 | 2023-07-04 | 2023-07-24 |
+| [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-22 |  |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-25 |
 | [Strawberries & Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Strawberries & Cigarettes](https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy) | 3:21 | 2022-01-17 | 2022-08-20 |
 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 | 2021-03-27\* | 2021-04-10 |

@@ -1,12 +1,12 @@
 {
   "description": "Rel\u00e1jate y toma un profundo respiro de serenidad auditiva.",
-  "num_followers": 108068,
+  "num_followers": 108103,
   "original_name": "Antiestr\u00e9s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGFjMzFiODNmNmMxNjM1NWIwZjgyOGU0ZDkzNjlkMGUyNGJjZGJh",
+  "snapshot_id": "MCxlYTVmOTc1YmYzNWFmNDk3YTBhYjc4OGU0ZTM1ZjA4ODBhY2M3NTFl",
   "tracks": [
     {
       "added_at": "2023-09-15 14:24:32",
@@ -119,6 +119,22 @@
       "duration_ms": 181208,
       "name": "Dysania",
       "url": "https://open.spotify.com/track/0DDAJ13i1P8PAG2uSmJxQA"
+    },
+    {
+      "added_at": "2023-09-15 14:24:32",
+      "album": {
+        "name": "Airflow",
+        "url": "https://open.spotify.com/album/4AaMJmGRlY33J3AADaca8i"
+      },
+      "artists": [
+        {
+          "name": "Luna Ombro",
+          "url": "https://open.spotify.com/artist/772pb8YX7Q28YXDan6bi7M"
+        }
+      ],
+      "duration_ms": 192089,
+      "name": "Airflow",
+      "url": "https://open.spotify.com/track/4Ip1ZWHSxJ7zaXI4Sk94MM"
     },
     {
       "added_at": "2023-09-15 14:24:32",

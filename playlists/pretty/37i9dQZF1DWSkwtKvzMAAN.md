@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 
 > Funky blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,113 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,123 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 9 | [Dance Floor](https://open.spotify.com/track/6d4XP98nTswxMycT6fdZNN) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [Zapp II](https://open.spotify.com/album/7ew8Rwv8ICZUhLPteXPcbk) | 10:42 |
 | 10 | [Freak\-a\-Zoid](https://open.spotify.com/track/42UpH9fz5utv8tkvOgh5Qb) | [Midnight Star](https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd) | [No Parking on the Dance Floor](https://open.spotify.com/album/67v1yz3SGvFEnQeTO8H6jP) | 8:05 |
 | 11 | [Egypt Egypt](https://open.spotify.com/track/6noajkkuZkla4d8E6sYUiY) | [The Egyptian Lover](https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP) | [On the Nile](https://open.spotify.com/album/1jS5YBMTwMnFRoteVHOi3i) | 5:19 |
-| 12 | [Clear](https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC) | 4:54 |
+| 12 | [Clear \- Jose “Animal” Diaz Remix](https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC) | 4:54 |
 | 13 | [Keep On](https://open.spotify.com/track/7iv0yhmDydsKLKjO63qmzy) | [D\-Train](https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe) | [The Best of D Train](https://open.spotify.com/album/6zsaOeP7AAK5HG8qe1t6Fx) | 6:39 |
 | 14 | [The Voice of Q \- 12" Mix](https://open.spotify.com/track/4DoxBUKSlnZwe30Y23mGbH) | [Q](https://open.spotify.com/artist/1na8Q5qKP8amvDCoLkvhLD) | [The Voice of Q](https://open.spotify.com/album/6tKNLeKZ8UJyO7A5QG2wjF) | 5:16 |
 | 15 | [Buffalo Gals](https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW) | [Malcolm McLaren](https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ) | [Duck Rock](https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 49 | [Let The Music Play](https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64) | [Shannon](https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB) | [The Best Is Yet To Come](https://open.spotify.com/album/4cj641XM0e3LcGSTWr2oEV) | 3:36 |
 | 50 | [Wildstyle](https://open.spotify.com/track/0N5nQNz1qpi9b9OypLB1rj) | [Time Zone](https://open.spotify.com/artist/1LueZf9jSHrdmMJjZTLowI) | [Change The Beat \- The Celluloid Records Story 1979 \- 1987](https://open.spotify.com/album/25Kag9cU21zj5HtxLfDVyF) | 8:18 |
 
-Snapshot ID: `MCw3YzVlODExNzI5NzljNzBhMjk4NDJiNDljNDcxZTc2NmFkMzExYjZi`
+Snapshot ID: `MCw2ZTg2YWFiNzc1MzFiYTQxNmIwMTE3OTVlZjg5Y2I3MmQwMDVhMTky`

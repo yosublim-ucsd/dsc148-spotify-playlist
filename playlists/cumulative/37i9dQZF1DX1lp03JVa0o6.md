@@ -4,7 +4,7 @@
 
 > Today's biggest Dance hits! Cover: SACHI
 
-351 songs - 18 hr 12 min
+352 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/album/1NEZwyvzSz4EDD68xTRjAu) | 4:08 | 2022-12-08 | 2023-01-27 |
 | [Smash My Heart](https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Smash My Heart](https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O) | 2:50 | 2023-07-13 | 2023-09-22 |
 | [Solid Rock \(feat\. William Barton\)](https://open.spotify.com/track/1j1gXN6uHuzNkdqLQ9fPl6) | [Goanna](https://open.spotify.com/artist/4kmYEa0DFPDv2Opcpjv5el), [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6), [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1), [William Barton](https://open.spotify.com/artist/25p0odX5tWrZUfcgQNLXT2) | [Solid Rock \(feat\. William Barton\)](https://open.spotify.com/album/7kb4YUxaTwhZb97foUd1SU) | 3:52 | 2023-02-09 | 2023-07-07 |
+| [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 | 2023-09-22 |  |
 | [Something To Hold On To \(feat\. Clementine Douglas\)](https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Something To Hold On To \(feat\. Clementine Douglas\)](https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI) | 2:55 | 2023-07-27 |  |
 | [Sour Berry](https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Mosquito Love](https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V) | 3:15 | 2023-08-17 |  |
 | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/track/0GJAh8pOb6YoUcnyrPETnY) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/album/31Idf7YAsQlyJQH6aews9S) | 3:22 | 2022-12-08 | 2023-02-10 |

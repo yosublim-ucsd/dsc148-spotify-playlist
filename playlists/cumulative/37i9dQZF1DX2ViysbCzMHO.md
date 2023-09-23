@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-251 songs - 13 hr 42 min
+252 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Broken Up \- Acoustic](https://open.spotify.com/track/0XKrC5ZTJUDjWfn98GNB0s) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Broken Up \(Acoustic\)](https://open.spotify.com/album/3SzlvoZYAH0dPrZeG4GH7S) | 3:09 | 2021-12-17 | 2022-08-21 |
 | [Buy Dirt \- Acoustic](https://open.spotify.com/track/6MG2uwCDlqChYAAlzCBd50) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt \(Acoustic\)](https://open.spotify.com/album/1JQ9Z0M1rA2MCmEdhruP2n) | 3:04 | 2021-12-17 | 2022-01-22 |
 | [Buy Dirt \- Alternate Version](https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd) | 2:50 | 2022-01-21 |  |
+| [Can't Have Mine \(Find You A Girl\) \[Acoustic\]](https://open.spotify.com/track/6bEnpoQyw1REmp42Ql8iXr) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Can't Have Mine \(Find You A Girl\) \[Acoustic\]](https://open.spotify.com/album/6Z5hiPEf5U9Z3Q9t2atIPn) | 3:04 | 2023-09-22 |  |
 | [Can't Nobody \- Acoustic](https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Can't Nobody \(Acoustic\)](https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk) | 3:24 | 2022-08-20 | 2022-08-23 |
 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 | 2021-12-17 |  |
 | [Come Back To Bed \(Acoustic\)](https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [Come Back To Bed \(Acoustic\)](https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H) | 3:25 | 2021-12-17 |  |
@@ -254,7 +255,7 @@
 | [Yearbook](https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:32 | 2023-08-11 |  |
 | [You \- Acoustic](https://open.spotify.com/track/5vMYHzU676heeOTgLhssKJ) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [You \(Acoustic\)](https://open.spotify.com/album/3irBIIu1tZxxRjIrb4G3n6) | 3:23 | 2022-08-12 |  |
 | [You and Jesus \- Acoustic](https://open.spotify.com/track/2dphPYc5468yOxlGZnf2VC) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg), [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [You and Jesus \(Acoustic\)](https://open.spotify.com/album/7LpFZjTCMspClEBy3J5vWO) | 2:46 | 2022-05-27 | 2022-07-15 |
-| [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 | 2021-12-17 |  |
+| [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 | 2021-12-17 | 2023-09-23 |
 | [You Don’t Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 | 2023-05-12 |  |
 | [You Shouldn't Have \- Acoustic](https://open.spotify.com/track/5yeccia0PoUhrNwbL6s4uO) | [Cale Dodds](https://open.spotify.com/artist/4PRfc0tn0HR0GhzWHHckLt) | [You Shouldn't Have \(Acoustic\)](https://open.spotify.com/album/53R4FtEIlu4fGpVI9GtI0r) | 2:46 | 2021-12-17 | 2022-07-10 |
 | [You, Me, And Whiskey \- Acoustic](https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk), [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [You, Me, And Whiskey \(Acoustic\)](https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5) | 3:07 | 2023-07-28 |  |

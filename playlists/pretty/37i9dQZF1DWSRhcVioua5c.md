@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Una selección de baladas para suspirar de amor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,441 likes - 90 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,483 likes - 90 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 37 | [Fabula De Amor](https://open.spotify.com/track/7KAX0hjF1ieKr0k5rSPDNH) | [Sergio Galleguillo Y Los Amigos](https://open.spotify.com/artist/4RWsSjLE6TMBwdYzHj2NiO) | [Grito Chayero](https://open.spotify.com/album/0Q5etdp3c84hBS4RgfPv4O) | 4:02 |
 | 38 | [Eterno Amor](https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Eterno Amor](https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X) | 3:56 |
 | 39 | [Hablan de Ti](https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6) | [Copla alta](https://open.spotify.com/artist/60g9S4kJm1m9kbrt89H5CQ), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Hablan de Ti](https://open.spotify.com/album/7gpv5WXgXoZlRpVso7o8yz) | 4:02 |
-| 40 | [Si Te Vas](https://open.spotify.com/track/5OHJKDaqEWl4t5aCilj3aQ) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [Codigo de Barro](https://open.spotify.com/album/0K93fTicVZxSDToZ0wwQDL) | 5:13 |
-| 41 | [Te Pido En Agosto](https://open.spotify.com/track/39EGOt9hySCsyT0Bamt8v2) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [PACHAKUTI](https://open.spotify.com/album/5vSZkx2vIdCNH0IVndOHpi) | 3:36 |
+| 40 | [Te Pido En Agosto](https://open.spotify.com/track/39EGOt9hySCsyT0Bamt8v2) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [PACHAKUTI](https://open.spotify.com/album/5vSZkx2vIdCNH0IVndOHpi) | 3:36 |
+| 41 | [Si Te Vas](https://open.spotify.com/track/5OHJKDaqEWl4t5aCilj3aQ) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [Codigo de Barro](https://open.spotify.com/album/0K93fTicVZxSDToZ0wwQDL) | 5:13 |
 | 42 | [Nuestro Juramento](https://open.spotify.com/track/5u7V5Mgr9RGuNcJKVYLRlx) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [La Historia](https://open.spotify.com/album/55sN3ewoEyGxBfaJ5klMeb) | 3:17 |
 | 43 | [Sol Nocturno](https://open.spotify.com/track/4t38rSXR39gjVi5E7NwoLR) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Sol Nocturno, Pt\. 1](https://open.spotify.com/album/7i5RT2diSWPj2jX4G8iyoR) | 3:53 |
 | 44 | [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 87 | [Bien o Mal](https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Bien o Mal](https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg) | 3:30 |
 | 88 | [Te Olvidé](https://open.spotify.com/track/5rIOM7T84bwcBz4Rctn9bB) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Te Olvidé](https://open.spotify.com/album/2v4r41b9qAum58wHgrBDDU) | 3:00 |
 | 89 | [No Te Vayas](https://open.spotify.com/track/3LYprBFXZbHZZVmRQbephK) | [Los 4 De Cordoba](https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2) | [No Te Vayas](https://open.spotify.com/album/56yg8RU5UCcM0FjcQFL3dT) | 3:44 |
-| 90 | [Ansiado Encuentro](https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT) | [ALEJANDRO FARIAS](https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh), [La Eulogia Folk](https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr) | [Ansiado Encuentro](https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR) | 4:35 |
+| 90 | [Quiero Saber Si Me Extrañas](https://open.spotify.com/track/4lcip47RQ3nlji6e1RzFvy) | [Bruno Sosa Trotti](https://open.spotify.com/artist/69IsxpKZpuUKs4DSJYtWXZ) | [Canciones Con Sentido](https://open.spotify.com/album/3Zq1F0eml16ZdQGEuSko8w) | 3:04 |
 
-Snapshot ID: `MCw5OTM4MTQ0OTU2NTc2YTczYmJmYjEwOGU1Mjc2ZTYyMWUyMzE2Yzhm`
+Snapshot ID: `MCw1NTA3ZTJhNTM5NGFkZTU2ODkxYjlkODE4NGEyMDEzMzRkN2ZkMzkw`

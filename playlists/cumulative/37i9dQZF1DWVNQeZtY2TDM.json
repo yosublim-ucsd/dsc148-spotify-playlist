@@ -7236,10 +7236,28 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 273573,
       "name": "\u5c0f\u60c5\u6b4c",
       "url": "https://open.spotify.com/track/4FhJ7YSRxATHnaRg4nGs6t"
+    },
+    {
+      "album": {
+        "name": "\u5c0f\u5b87\u5b99(\u9b5a\u7248)",
+        "url": "https://open.spotify.com/album/1nawoT8YtQTkfSpCpbkecL"
+      },
+      "artists": [
+        {
+          "name": "\u9b5a\u4e01\u7cf8",
+          "url": "https://open.spotify.com/artist/4TGQEYGf6Pu4tpMNGQ4tOR"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276626,
+      "name": "\u5c0f\u60c5\u6b4c(\u9b5a\u7248)",
+      "url": "https://open.spotify.com/track/3O0TfMcoeKC0u035clU5nX"
     },
     {
       "album": {

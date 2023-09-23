@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Stacey Kent
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,575 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,676 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 35 | [Far Too Much \- Edit](https://open.spotify.com/track/7IwYXEY1pLVnoWlmvdmMU1) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Far Too Much \(Edit\)](https://open.spotify.com/album/3lX0OPG0tJAgcNjsUCmKm2) | 3:15 |
 | 36 | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/1mkzHA0suincRybCyk5fis) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [Black Classical Music](https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET) | 5:40 |
 | 37 | [Madrid](https://open.spotify.com/track/7sn2vY1Uh0jLQNiFuMETSo) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Madrid](https://open.spotify.com/album/7nPajU253ClFSt0PVMbBs1) | 2:12 |
-| 38 | [California and Me](https://open.spotify.com/track/768tjNAwyH3nIFee5BIdcl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [California and Me](https://open.spotify.com/album/2tt47cpLkXdRqYhOcp2C9x) | 3:36 |
+| 38 | [California and Me](https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:36 |
 | 39 | [Clear Water \(feat\. Deantoni Parks, Jeff Parker, Sanford Biggers\)](https://open.spotify.com/track/3aeFAZzP1MrbbJTLzG9VI9) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Deantoni Parks](https://open.spotify.com/artist/1RLjVRaoIxtiVZiV6NNIBX), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt), [Sanford Biggers](https://open.spotify.com/artist/3gZXyYaWIgjAYpx8XdokiR) | [The Omnichord Real Book](https://open.spotify.com/album/6m9xpYmSjwsV83YJ1TmJXA) | 4:35 |
 | 40 | [It's Not Unusual](https://open.spotify.com/track/3l30P6I5HoyfcMNbWOgi9E) | [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Third Times the Charm](https://open.spotify.com/album/6JpdUA6AjMUOU3ZX3RB8XZ) | 4:29 |
 | 41 | [Because of You \- 2023](https://open.spotify.com/track/3ivoMu5Y5iDA4qjTElozbd) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Because of You \(2023\)](https://open.spotify.com/album/2UGDVSH0KTEPidJeCs8z6P) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Bonaventura](https://open.spotify.com/track/6GMqhc3dcBUExHWViNubtM) | [Birocratic](https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Bonaventura](https://open.spotify.com/album/15HRPbNuHuuTmMkWHM9nKD) | 2:25 |
 | 50 | [Closer](https://open.spotify.com/track/0wEMhtUHRK1xlwGYpEfCHj) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Closer](https://open.spotify.com/album/2aVYyjgHni7OpuNf53KUH0) | 4:55 |
 
-Snapshot ID: `MCw2ODQ4Mjg0ZGFmYWYwNjUwZGNiNTQ2NWY5ZDg2ZGRmNzUzMDkwMGY2`
+Snapshot ID: `MCw1NGI0Yzk5NDA2NTBmZDY1ZTk1ZTZlYjRjNWUzZGM5ZjdjY2EyZWQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,814 likes - 40 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,326 likes - 40 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 33 | [Why Not](https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Why Not](https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR) | 2:45 |
 | 34 | [Fluxxwave](https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:30 |
 | 35 | [Ambition For Cash](https://open.spotify.com/track/4mIHgQ3ofK2RK34UdbqMbe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape 2](https://open.spotify.com/album/7snqOEQEtKqxJw3NTGml6i) | 2:23 |
-| 36 | [REI DO BRASIL](https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG) | [Seek](https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6) | [REI DO BRASIL](https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7) | 1:37 |
-| 37 | [GATTI](https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 3:01 |
-| 38 | [Bate Forte e Dança](https://open.spotify.com/track/3WgeWkA124RA02ACzWai6Y) | [0to8](https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g), [DJ Ritmo55](https://open.spotify.com/artist/1IiGoWBzlPAtb1tuN1ux1E) | [Bate Forte e Dança](https://open.spotify.com/album/0iRwZmvXcBxvKWJtF6XWLD) | 1:50 |
-| 39 | [The Search](https://open.spotify.com/track/3oLe5ZILASG8vU5dxIMfLY) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 4:08 |
+| 36 | [GATTI](https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 3:01 |
+| 37 | [REI DO BRASIL](https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG) | [Seek](https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6) | [REI DO BRASIL](https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7) | 1:37 |
+| 38 | [The Search](https://open.spotify.com/track/3oLe5ZILASG8vU5dxIMfLY) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 4:08 |
+| 39 | [Bate Forte e Dança](https://open.spotify.com/track/3WgeWkA124RA02ACzWai6Y) | [0to8](https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g), [DJ Ritmo55](https://open.spotify.com/artist/1IiGoWBzlPAtb1tuN1ux1E) | [Bate Forte e Dança](https://open.spotify.com/album/0iRwZmvXcBxvKWJtF6XWLD) | 1:50 |
 | 40 | [Disaster](https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC) | 1:24 |
 
-Snapshot ID: `MCxhMDQ3NDk3OTRiN2QzOWU5M2RlY2QyOTVjYmJjYjY5YjMzMWZhOGI3`
+Snapshot ID: `MCwxODEwMDg4OTcwNWNmNjdiMmYzYTAzNzIxNDI5NTIyNWFiYzg3M2Qz`

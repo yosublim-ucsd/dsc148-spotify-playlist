@@ -4,7 +4,7 @@
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-139 songs - 8 hr 11 min
+140 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,12 +82,13 @@
 | [If I Should Lose You](https://open.spotify.com/track/6YRVj7ZJyFrr6tso0QV15e) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 3:55 | 2022-04-13 |  |
 | [In a Sentimental Mood](https://open.spotify.com/track/2j4h3GQnuPDiK04VsXdbvy) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [In Person](https://open.spotify.com/album/2XTtAQpq3vHstM3B1ycHkT) | 2:47 | 2022-04-13 | 2022-07-29 |
 | [In A Sentimental Mood](https://open.spotify.com/track/3MNxcdz3SFeMfX4KunRsjZ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 2:48 | 2022-06-29 | 2023-09-22 |
+| [In A Sentimental Mood](https://open.spotify.com/track/726OIMOZ6uDlvGsdUbbazS) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX) | 2:48 | 2023-08-31 |  |
 | [In Love In Vain](https://open.spotify.com/track/7cI4QJoyEMkjAfKrCptpMA) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Crazy And Mixed Up](https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO) | 3:05 | 2022-04-13 |  |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/4wGYHJ2Mcvb2QvHinDVGEC) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [I Just Dropped By To Say Hello](https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F) | 2:44 | 2022-04-13 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/2SSK6RiaaoQDCdXbfI5gcc) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [The Voice That Is!](https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw) | 3:39 | 2022-04-13 |  |
 | [It's Easy to Remember](https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Smooth Songs](https://open.spotify.com/album/0bTi6NaKZTPdu3G2a4fePf) | 3:36 | 2022-04-13 |  |
 | [Just Friends](https://open.spotify.com/track/2I5ldN3uVqEx5h87xxDmVo) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Jazz Masters](https://open.spotify.com/album/3KMfI5xTOhcuwOSN8OvZhD) | 3:18 | 2022-05-03 | 2022-07-29 |
-| [Just Friends](https://open.spotify.com/track/6Ju6ic1OHvHbvf8VphSYhC) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Drinking Again](https://open.spotify.com/album/1Yc1wrf2bgbRKcrrb7hZzA) | 3:18 | 2022-06-29 |  |
+| [Just Friends](https://open.spotify.com/track/6Ju6ic1OHvHbvf8VphSYhC) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Drinking Again](https://open.spotify.com/album/1Yc1wrf2bgbRKcrrb7hZzA) | 3:18 | 2022-06-29 | 2023-09-23 |
 | [Just Friends](https://open.spotify.com/track/6RqomqKVORIwNJCKNxvc3F) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [After Hours](https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef) | 3:01 | 2022-04-13 | 2022-04-29 |
 | [Just One More Chance \- 1931 Single Version](https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing\-His Legendary Years 1931\-1957](https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw) | 3:30 | 2022-04-13 |  |
 | [Losing You](https://open.spotify.com/track/20QthMrVYk5Ji64YFRdZJC) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Interlude](https://open.spotify.com/album/2z72SdeVR3kLHOp9I2zS4S) | 3:24 | 2022-06-29 |  |

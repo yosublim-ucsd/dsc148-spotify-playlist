@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 
 > Al corazón! Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,954 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,156 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 33 | [Yo Tomo](https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm) | 3:24 |
 | 34 | [Es Tan Grande Este Amor](https://open.spotify.com/track/0Nl0IAfEDsrk2jPxxR4ZEx) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Es Tan Grande Este Amor](https://open.spotify.com/album/2zJ3aQpwT8EmleuSKUEsdD) | 3:14 |
 | 35 | [Se Me Ha Perdido un Corazón](https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z) | 3:26 |
-| 36 | [Nunca me faltes](https://open.spotify.com/track/5XzVdBQbbexpDXQbwzxADj) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK) | 4:13 |
-| 37 | [Si Esta Casa Hablara](https://open.spotify.com/track/2F3j0BgLcRjuAd7gAvrlQp) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Si Esta Casa Hablara](https://open.spotify.com/album/7JTFZ8I4RPHodlhmX2faiP) | 3:20 |
+| 36 | [Si Esta Casa Hablara](https://open.spotify.com/track/2F3j0BgLcRjuAd7gAvrlQp) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Si Esta Casa Hablara](https://open.spotify.com/album/7JTFZ8I4RPHodlhmX2faiP) | 3:20 |
+| 37 | [Nunca me faltes](https://open.spotify.com/track/5XzVdBQbbexpDXQbwzxADj) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK) | 4:13 |
 | 38 | [Muero por Tí](https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Muero por Ti](https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj) | 3:56 |
 | 39 | [El Doctorado](https://open.spotify.com/track/3K17sPli1ZwYitB1rBQH0l) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Messirve Mix 7](https://open.spotify.com/album/4eHuMe6gkLf1XkXN3Hu3nS) | 2:13 |
 | 40 | [Después de Ti](https://open.spotify.com/track/2nhrH1UoaHJWLFMrt1NB5w) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje al Cielo](https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL) | 3:21 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 89 | [Otra Como Tu](https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Otra Como Tu](https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX) | 3:40 |
 | 90 | [Será Porque Te Amo](https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Comboloco](https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0) | 3:26 |
 | 91 | [Lo Mejor del Amor](https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Lo Mejor del Amor](https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t) | 2:47 |
-| 92 | [Mi Único Amor](https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:01 |
-| 93 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |
-| 94 | [Qué Agonía](https://open.spotify.com/track/5opUwRIhCuOG0AA8H3gFQL) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Qué Agonía](https://open.spotify.com/album/74lyeT4vwsCCOiScrFz5xy) | 3:37 |
+| 92 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X), [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Te Hubieras Ido Antes](https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq) | 5:23 |
+| 93 | [Qué Agonía](https://open.spotify.com/track/5opUwRIhCuOG0AA8H3gFQL) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Qué Agonía](https://open.spotify.com/album/74lyeT4vwsCCOiScrFz5xy) | 3:37 |
+| 94 | [Mi Único Amor](https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:01 |
 | 95 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
-| 96 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X), [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Te Hubieras Ido Antes](https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq) | 5:23 |
+| 96 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |
 | 97 | [Amor Clandestino](https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Le Doy Gracias a la Vida \(Y a Todos\)](https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup) | 3:11 |
 | 98 | [SOMOS NOSOTROS](https://open.spotify.com/track/2u3Hwa2fckCMGb5vo8DBbJ) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [SOMOS NOSOTROS](https://open.spotify.com/album/7mxxb19XlmY9nhFhumFmSD) | 2:02 |
 | 99 | [Eterno Amor](https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [El Chino](https://open.spotify.com/artist/2v2KCvSVCWyNTAILymcOAW) | [Eterno Amor](https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx) | 4:16 |
-| 100 | [Hoy Te Vas](https://open.spotify.com/track/20iwP3Qzh9AnLJRguIKWqN) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Hoy Te Vas](https://open.spotify.com/album/03cCnCHcgtarhC0BnZIGZ7) | 3:08 |
+| 100 | [Lloraras mas de diez veces](https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Grupo Play \- Ahora juega en primera](https://open.spotify.com/album/3Cb31lj9pek33puxonY1qM) | 3:29 |
 
-Snapshot ID: `MCxmNjU3NTk2M2Q4MjcyNThhMWFjYmE4ZDZlZjVmMTQ0NmEwYWJjMDg5`
+Snapshot ID: `MCxhZTNjZDg2NzZiNjcxMjY0ODk3YWFmZTY3ODMxODEzNjRiMGU0YzBj`

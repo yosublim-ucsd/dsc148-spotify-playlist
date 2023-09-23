@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,420 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,446 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 55 | [Ganas](https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Ganas](https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0) | 4:14 |
 | 56 | [Everyone's In Love With You \- Spotify Singles](https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Everyone's In Love With You \(Spotify Singles\)](https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz) | 2:30 |
 | 57 | [A Dónde Vamos?](https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [A Dónde Vamos?](https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T) | 3:22 |
-| 58 | [Por Amor al Arte](https://open.spotify.com/track/11J0d0cb0J4Xk4PcRyuJ3k) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Reset](https://open.spotify.com/album/0DDUTF4YqIOsUpq9MOqWMo) | 2:02 |
-| 59 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 |
-| 60 | [Si No Es Así](https://open.spotify.com/track/687EDCtBggHXjS1HxfILjB) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1), [Hernán Segret](https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU) | [Un Vaso de Agua](https://open.spotify.com/album/6mUautkWmj3z5Q1FJ68tUN) | 1:28 |
-| 61 | [Niño Eterno](https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Niño Eterno](https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU) | 2:41 |
+| 58 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 |
+| 59 | [Por Amor al Arte](https://open.spotify.com/track/11J0d0cb0J4Xk4PcRyuJ3k) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Reset](https://open.spotify.com/album/0DDUTF4YqIOsUpq9MOqWMo) | 2:02 |
+| 60 | [Niño Eterno](https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Niño Eterno](https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU) | 2:41 |
+| 61 | [Si No Es Así](https://open.spotify.com/track/687EDCtBggHXjS1HxfILjB) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1), [Hernán Segret](https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU) | [Un Vaso de Agua](https://open.spotify.com/album/6mUautkWmj3z5Q1FJ68tUN) | 1:28 |
 | 62 | [Puente](https://open.spotify.com/track/6XzNlsxA4RMUWgYC0GP5aq) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0), [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Verano en Invierno](https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5) | 3:07 |
 | 63 | [Desde Dentro](https://open.spotify.com/track/38MvBCfKEfqBmx4bfXxA7Z) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [En el Caribe También Pasa Esto](https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp) | 4:26 |
 | 64 | [Romeo y Violeta](https://open.spotify.com/track/4nVoM4pJT8CUTAJbenU2bx) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Romeo y Violeta](https://open.spotify.com/album/68s41NxvS7FDQzVdNfqryX) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 99 | [Buen viaje](https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ni tan Bien](https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB) | 3:07 |
 | 100 | [Debajo de la Superficie](https://open.spotify.com/track/5m8E676DefoMURyq1aTtiG) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [SUPERSTICIONES](https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu) | 4:37 |
 
-Snapshot ID: `MCxiM2NkMDhhM2Q1NmJiZTZmZjBhNzQ5NDNmODYxNWVkMzk3NzBlNzFh`
+Snapshot ID: `MCxjOTg0MTI4MWY3MjU4OWU3YjM3ZmExNGE5M2UxMjI3ZWNiZWVhZmVk`

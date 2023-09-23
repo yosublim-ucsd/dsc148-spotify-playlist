@@ -1821,6 +1821,28 @@
     },
     {
       "album": {
+        "name": "CALYPSO",
+        "url": "https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152015,
+      "name": "CALYPSO",
+      "url": "https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk"
+    },
+    {
+      "album": {
         "name": "cantthinkofaname",
         "url": "https://open.spotify.com/album/4F7uTTKK65dLfximrw5FhN"
       },
@@ -2862,7 +2884,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 253200,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/2kY3zw2cGQOG3IL6gMW20R"
@@ -6203,6 +6225,28 @@
     },
     {
       "album": {
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165335,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP"
+    },
+    {
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/6CMZK3G1qaa72PG24mQy7v"
       },
@@ -6806,6 +6850,28 @@
       "duration_ms": 197142,
       "name": "monotony (feat. Party Nails)",
       "url": "https://open.spotify.com/track/5OPRwpt3Bl41raaWphfW3q"
+    },
+    {
+      "album": {
+        "name": "More Baby",
+        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264996,
+      "name": "More Baby - VIP Mix",
+      "url": "https://open.spotify.com/track/4ddRKTrv4fXl47Jzigwyit"
     },
     {
       "album": {
@@ -9110,7 +9176,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 176494,
       "name": "Salty",
       "url": "https://open.spotify.com/track/5lYubOsQ8GlApPS0m5jQLU"
@@ -9912,7 +9978,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 256000,
       "name": "Southern Comfort (Trap Remix)",
       "url": "https://open.spotify.com/track/512wwvX0c5JkyhiF5siFL5"

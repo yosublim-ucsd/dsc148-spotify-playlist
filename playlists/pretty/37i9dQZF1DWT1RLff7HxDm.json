@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 162508,
+  "num_followers": 162548,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjNlOWY2YjRmMWIxYTY4YTM3NGMzZWJlOTk3MmIxMjU5NzUwYmIy",
+  "snapshot_id": "MCxkZWYxNDlmYmNjMWMzMjUxYjliNjBjZTEzNDVmNDNmNTdhMjdkOTI0",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -55,6 +55,26 @@
       "duration_ms": 227359,
       "name": "New Used Car",
       "url": "https://open.spotify.com/track/7fVCVM1DIUHpnRiDm2fKvP"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Just Won't Burn",
+        "url": "https://open.spotify.com/album/3tUrmnZBBUN9ZCtdJh16xn"
+      },
+      "artists": [
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        },
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 449120,
+      "name": "Just Won\u2019t Burn - Live at the Beacon Theatre / 2022",
+      "url": "https://open.spotify.com/track/3wl59CVUAS8IL3FfPwfGSB"
     },
     {
       "added_at": "2023-07-18 13:02:38",

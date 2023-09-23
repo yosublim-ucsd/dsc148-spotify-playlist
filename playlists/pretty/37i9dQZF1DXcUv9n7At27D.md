@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の秋に聴きたい日本のクラシックを集めました。
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,223 likes - 47 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,264 likes - 47 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 46 | [トロイメライ](https://open.spotify.com/track/5YH6qLexMGY9pUNLrq3WBq) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Suguru Matsutani](https://open.spotify.com/artist/0cGtHLKfga7uvnXld79LK7) | [WORKS](https://open.spotify.com/album/0Ou5yZUCihKLoiy6zfwk2I) | 3:15 |
 | 47 | [献呈（シューマンの歌曲による） S.566](https://open.spotify.com/track/2BcoxFxJYKgNJ04OvcjIHa) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Miyuji Kaneko](https://open.spotify.com/artist/1P9zpzupo4lDtMYqC96WLE) | [リスト･リサイタル](https://open.spotify.com/album/5wW0Umm77TQjMihv2RUU8b) | 3:56 |
 
-Snapshot ID: `MCxlNzI0YmM0MjdlYjRhMWU1MTkyMmIyYzBmYWVmYzcyY2JjOGEyNzQ3`
+Snapshot ID: `MCwyOThmYjI0ZGM4YmI5YWM5YzdlM2I5M2NmZDA0MjYwM2E2YjhhOWYy`

@@ -1,12 +1,12 @@
 {
   "description": "Eclectic love songs with delicate lyrics that say it best.",
-  "num_followers": 233635,
+  "num_followers": 233746,
   "original_name": "Love Letter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Mzk4OGIzOWUxMTQzZDE0ZDI2MjU4NzUzZWE1YjlhZDFhNzhlNDNj",
+  "snapshot_id": "MCxjYzMzNzcyNjYyZTYxM2FhMDRjNDNkOGJiNzE1NmRjYzQyZmVmNjRj",
   "tracks": [
     {
       "added_at": "2023-09-18 21:46:05",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-09-18 21:46:05",
       "album": {
-        "name": "The Covers Record",
-        "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 139466,
-      "name": "Sea of Love",
-      "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
-    },
-    {
-      "added_at": "2023-09-18 21:46:05",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -983,8 +967,24 @@
     {
       "added_at": "2023-09-18 21:46:05",
       "album": {
-        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
+        "name": "The Covers Record",
+        "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 139466,
+      "name": "Sea of Love",
+      "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
+    },
+    {
+      "added_at": "2023-09-18 21:46:05",
+      "album": {
+        "name": "Will Anybody Ever Love Me?",
+        "url": "https://open.spotify.com/album/0k9E8vq5iYJUNO40E2G6U1"
       },
       "artists": [
         {
@@ -992,9 +992,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 248964,
-      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
+      "duration_ms": 249259,
+      "name": "Will Anybody Ever Love Me?",
+      "url": "https://open.spotify.com/track/4g37wGcNWcVCdY0UoRNPzu"
     },
     {
       "added_at": "2023-09-18 21:46:05",
@@ -1167,8 +1167,8 @@
     {
       "added_at": "2023-09-18 21:46:05",
       "album": {
-        "name": "Will Anybody Ever Love Me?",
-        "url": "https://open.spotify.com/album/0k9E8vq5iYJUNO40E2G6U1"
+        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
       },
       "artists": [
         {
@@ -1176,9 +1176,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 249259,
-      "name": "Will Anybody Ever Love Me?",
-      "url": "https://open.spotify.com/track/4g37wGcNWcVCdY0UoRNPzu"
+      "duration_ms": 248964,
+      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
     },
     {
       "added_at": "2023-09-18 21:46:05",

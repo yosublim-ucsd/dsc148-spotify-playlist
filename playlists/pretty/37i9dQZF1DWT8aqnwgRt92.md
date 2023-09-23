@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,339,858 likes - 85 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,340,645 likes - 85 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 49 | [Crack\-Crack\-Crackle](https://open.spotify.com/track/4cFkNoWvPbLJSe7bay50sI) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [Crack\-Crack\-Crackle](https://open.spotify.com/album/3zJ35atNR9JjftDeGXhwF8) | 3:12 |
 | 50 | [軌跡](https://open.spotify.com/track/2LNotRHCiZowAajdcToX0W) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [軌跡](https://open.spotify.com/album/3DffhFQupk8k115ROCm7IV) | 3:21 |
 | 51 | [LIES GOES ON \- TVsize](https://open.spotify.com/track/5UB5NtHsXFA4DK7gqOsIra) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [LIES GOES ON \(TVsize\)](https://open.spotify.com/album/3hwjiYR55oCUeQZRmw0OG7) | 1:29 |
-| 52 | [Kyuseishu](https://open.spotify.com/track/3nDjI1uPbjBvqZNEA3F57Q) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Kyuseishu](https://open.spotify.com/album/2xiK0zF6CJjJqCqSHwgMsM) | 3:17 |
+| 52 | [Kyuseishu](https://open.spotify.com/track/1wXrIFdqheifq4ETjCpqoi) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Another Moon](https://open.spotify.com/album/4ncDSulCMzzASL7VcjTa28) | 3:19 |
 | 53 | [幸せ](https://open.spotify.com/track/3IYDobDC8polFRhtc4ROzA) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幸せ](https://open.spotify.com/album/7EDKJ08ds5T3C7aJZZs6OV) | 4:20 |
 | 54 | [ハピネス オブ ザ デッド](https://open.spotify.com/track/05IbSlTnKUcZ1vFyG3aUzQ) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ハピネス オブ ザ デッド](https://open.spotify.com/album/2qUA9ZKcJgOmGkWRbnqCsV) | 2:54 |
 | 55 | [鉄の檻](https://open.spotify.com/track/72Ssvonm3MdboS2EVssX5R) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [鉄の檻](https://open.spotify.com/album/5XuQ3aHlkeBIkmyS3mBIEC) | 4:25 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Chase Me](https://open.spotify.com/track/1nniq3yLXytUSibE2RUE6X) | [ノラ](https://open.spotify.com/artist/0D1NT8IXN0I2wrbVOb1NNj), [今夜、あの街から](https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y) | [Chase Me](https://open.spotify.com/album/6XO0I9CHE8BpiFEOmFYkmI) | 2:59 |
 | 85 | [Kakuriyo](https://open.spotify.com/track/5AcpugY3aqM57SLVuTC3If) | [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [Kakuriyo](https://open.spotify.com/album/6G2dCzjkvQTfdS1AtpXCSx) | 3:53 |
 
-Snapshot ID: `MCxhZDY1YmNhMzE0MWRlZGMxMGE4MWIxMzM3NDg1YjA0ODdiNjljYmJl`
+Snapshot ID: `MCwzNmU5ZmE4ZDQ4NWQ4ZTI5MDgwMzBkZmY1NDQxNWY5ODA4YWE0OGZi`

@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Clear Out",
+        "url": "https://open.spotify.com/album/2UAUzLv0n1w1QQ8U6iR2JU"
+      },
+      "artists": [
+        {
+          "name": "Annie Berenson",
+          "url": "https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205443,
+      "name": "Clear Out",
+      "url": "https://open.spotify.com/track/0YEVAn2vGbx9jI7xY6Fguf"
+    },
+    {
+      "album": {
         "name": "Clear Sight",
         "url": "https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S"
       },
@@ -1822,6 +1840,24 @@
       "duration_ms": 191842,
       "name": "Giving thrills",
       "url": "https://open.spotify.com/track/2mKGI5TnGVSWbloCZlma6B"
+    },
+    {
+      "album": {
+        "name": "Graceful Rhapsody",
+        "url": "https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm"
+      },
+      "artists": [
+        {
+          "name": "Velvet Groove",
+          "url": "https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162708,
+      "name": "Graceful Rhapsody",
+      "url": "https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r"
     },
     {
       "album": {
@@ -3767,6 +3803,24 @@
     },
     {
       "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/4vKULVroJWpWyQ6KnlxZSd"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Parker",
+          "url": "https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204006,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/0DH1r35QPYQGWSVWiPb8nC"
+    },
+    {
+      "album": {
         "name": "Once Again",
         "url": "https://open.spotify.com/album/16pxAAGup6qor08lI2z7KV"
       },
@@ -5112,6 +5166,24 @@
       "duration_ms": 222046,
       "name": "There Goes My Heart",
       "url": "https://open.spotify.com/track/1LGN3DO6YD61pwb64gQtZx"
+    },
+    {
+      "album": {
+        "name": "There Will Be Better Days",
+        "url": "https://open.spotify.com/album/5ELhztVWr2IO1958kMWLli"
+      },
+      "artists": [
+        {
+          "name": "Midnight Trio",
+          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299349,
+      "name": "There Will Be Better Days",
+      "url": "https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba"
     },
     {
       "album": {

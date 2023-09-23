@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-232 songs - 11 hr 45 min
+233 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Peaks](https://open.spotify.com/track/08ZVl6IBiPemNOsVfkoIyv) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Peaks](https://open.spotify.com/album/2xv2cURnTpq0NdL39xJsCw) | 2:48 | 2022-11-11 |  |
 | [Perfect Rose](https://open.spotify.com/track/0Yuw1szR25KD6tmO1KSs9x) | [Jade Palace](https://open.spotify.com/artist/52FzcYdR52cgukrg4A3Tyv) | [Perfect Rose](https://open.spotify.com/album/2E8dJJLDCiKqWMVXuWetCq) | 3:06 | 2022-07-15 | 2023-02-10 |
 | [Perfecta paz](https://open.spotify.com/track/61ZSs7yxiY93XMJ33h4mWK) | [Che Milk](https://open.spotify.com/artist/27eOiRby6feQRgULqf0V8Q) | [Perfecta paz](https://open.spotify.com/album/0ASgTzf5KZiF6A8MawqScN) | 2:59 | 2022-07-15 |  |
+| [Placidus](https://open.spotify.com/track/0k5fYqZwhHGPxMxmLYg6gu) | [Elvio Martín](https://open.spotify.com/artist/1rOPEkX83RQnXXOO55RJM7) | [Placidus](https://open.spotify.com/album/6PoCmbDRnMT0gR02kQk2ra) | 3:15 | 2023-09-22 |  |
 | [Pneuma](https://open.spotify.com/track/5Lc1wnS6xGMw2xajdDvKAp) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Pneuma](https://open.spotify.com/album/3kmpm5eHmRqaAMEO3Ixgn6) | 3:47 | 2022-07-15 |  |
 | [Prashansaneey](https://open.spotify.com/track/3Setdymx44HIU2wb7sW5s6) | [Ashia Kashyap](https://open.spotify.com/artist/0ZsjZX7yAwB3UhNT9cWonV) | [Prashansaneey](https://open.spotify.com/album/6dMnLGBlZrlHj2CrGuZPMn) | 3:41 | 2022-07-15 |  |
 | [presence](https://open.spotify.com/track/16n67SZWxTUrA6ROUId39X) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [presence](https://open.spotify.com/album/711PJkTmbbJTTFYvk9h3nq) | 3:22 | 2022-07-15 |  |
@@ -198,7 +199,7 @@
 | [Skaisti](https://open.spotify.com/track/1kw3SgJBFg90sWyWFTkeQ8) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Skaisti](https://open.spotify.com/album/5umWUw2yOKK6gRVq6I99gV) | 2:49 | 2022-08-05 |  |
 | [Sleeping Giants](https://open.spotify.com/track/0J0KRxk1ccNI6SA3L0514v) | [Damien Monieu](https://open.spotify.com/artist/0e6TRegnf204V3t3TFftdA) | [Sleeping Giants](https://open.spotify.com/album/7FWW4gjaJs1FLnSNoUXYfv) | 2:27 | 2022-07-15 | 2023-06-17 |
 | [Sol](https://open.spotify.com/track/7AbWodkJgM2N9Ak9BWynyx) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Sol](https://open.spotify.com/album/5dRowdaNxlPyESIG6ZSSig) | 3:30 | 2022-07-15 |  |
-| [Sol River](https://open.spotify.com/track/3tWTB2s3i76kUkfLeAMV34) | [Lunasette](https://open.spotify.com/artist/4llg8iirvoMBMFQHXUkusG) | [Sol River](https://open.spotify.com/album/6HPFUudF3hCQmzjq5l6ktU) | 3:53 | 2022-07-15 |  |
+| [Sol River](https://open.spotify.com/track/3tWTB2s3i76kUkfLeAMV34) | [Lunasette](https://open.spotify.com/artist/4llg8iirvoMBMFQHXUkusG) | [Sol River](https://open.spotify.com/album/6HPFUudF3hCQmzjq5l6ktU) | 3:53 | 2022-07-15 | 2023-09-23 |
 | [Solitude](https://open.spotify.com/track/5TwlZ0NAJcQfaLuxKMCA6u) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Reflections](https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr) | 3:17 | 2022-07-15 |  |
 | [Solmization \- 528Hz](https://open.spotify.com/track/0PBeh1YEfaYyZEk0CvqZdl) | [Jonathan Dorjee](https://open.spotify.com/artist/1yxN1A5zsJCnmAvXM41959) | [Solmization \- 528Hz](https://open.spotify.com/album/3HCsnYDEk62epUuxXjOlHs) | 2:44 | 2022-09-30 |  |
 | [Somnolente](https://open.spotify.com/track/3jnupMmEH5htGamP01T0PB) | [Lenovie](https://open.spotify.com/artist/5qGVbZoaFJ7i9M63PhgFWT) | [Somnolente](https://open.spotify.com/album/0gsvnIxyfAJl24pFzFrBtj) | 2:49 | 2022-09-30 |  |

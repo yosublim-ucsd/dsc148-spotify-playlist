@@ -4,7 +4,7 @@
 
 > It's Hits – största och bästa hitsen just nu!
 
-557 songs - 1 day 3 hr 58 min
+559 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-04-14 | 2022-07-22 |
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2021-12-16 | 2022-02-18 |
 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-08-10 | 2023-08-25 |
-| [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 4:25 | 2023-09-21 |  |
+| [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 4:25 | 2023-09-21 | 2023-09-23 |
+| [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2023-09-22 |  |
 | [Air](https://open.spotify.com/track/7DBQIEXuFIXMWNAWyGsTTm) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Air](https://open.spotify.com/album/1RJ3zvMBc4NB9VSXEF1EUy) | 2:52 | 2023-04-27 | 2023-05-18 |
 | [Aktiverad](https://open.spotify.com/track/1fFPsFvak7nFZa354u7H1r) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Aktiverad](https://open.spotify.com/album/62hMMhEg7v6zLLyaYzU9Ng) | 2:34 | 2022-09-29 | 2022-10-02 |
 | [Aktiverad \(Klick Klack\)](https://open.spotify.com/track/7aRCAByC8ktZVKhVhDS4la) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Aktiverad \(Klick Klack\)](https://open.spotify.com/album/08X6EYHEmvmFt7Xpgtquo4) | 2:34 | 2022-09-29 | 2022-11-11 |
@@ -354,7 +355,8 @@
 | [OSKYLDIG](https://open.spotify.com/track/0hskCfpMard3HRGvZbP0m7) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [X](https://open.spotify.com/album/5DrPOcQTUL12mbozwLBrcz) | 3:09 | 2022-04-28 | 2022-05-09 |
 | [Other Side of the Moon](https://open.spotify.com/track/0inCk0sUhCu1PBscUmSvez) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl EP \- Part 1](https://open.spotify.com/album/47DfwYDx3pDXoN7lgxWwjj) | 2:51 | 2023-04-13 | 2023-06-02 |
 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 | 2023-07-13 | 2023-09-09 |
-| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-16 |  |
+| [Paint The Town Red](https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:50 | 2023-09-22 |  |
+| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-16 | 2023-09-23 |
 | [PANG! BOOM!](https://open.spotify.com/track/5FTmPaZPNPL3RlxHBN0QID) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [PANG! BOOM!](https://open.spotify.com/album/6DorMD9NgkADVFd4yHGos8) | 2:31 | 2022-10-13 | 2022-11-06 |
 | [Paradis](https://open.spotify.com/track/4MsSHqcST3hs4bZiSYHAZt) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Paradis](https://open.spotify.com/album/6ZbYcqBcScLskrMC6T8McA) | 3:26 | 2022-05-13 | 2022-05-27 |
 | [Pengar Bänga](https://open.spotify.com/track/0wZjEtjXpkoO3PGjCsvF3Y) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:07 | 2022-05-03 | 2022-05-14 |

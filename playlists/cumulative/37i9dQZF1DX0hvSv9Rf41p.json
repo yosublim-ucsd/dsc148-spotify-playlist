@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Ray Volpe.",
+  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Excision & Subtronics.",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 303857,
       "name": "6am Bounce",
       "url": "https://open.spotify.com/track/3o4JurF32L4msnHzp9hcpI"
@@ -1783,6 +1783,28 @@
     },
     {
       "album": {
+        "name": "CALYPSO",
+        "url": "https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152015,
+      "name": "CALYPSO",
+      "url": "https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk"
+    },
+    {
+      "album": {
         "name": "Hype Or Die: Homecoming",
         "url": "https://open.spotify.com/album/38GWR5fMkJcz0ctr6lywb5"
       },
@@ -2706,7 +2728,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 234857,
       "name": "Demons",
       "url": "https://open.spotify.com/track/50Wj9KVv0DLqA6eMjvXdoW"
@@ -4270,7 +4292,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 155167,
       "name": "Fkdmeupinside",
       "url": "https://open.spotify.com/track/0XL5yhXznIFECAThpiGYJe"
@@ -5558,7 +5580,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 208153,
       "name": "HydroPlane",
       "url": "https://open.spotify.com/track/639R1wABWk9uwfHUUpAJcx"
@@ -7111,6 +7133,28 @@
     },
     {
       "album": {
+        "name": "Mind Pluck",
+        "url": "https://open.spotify.com/album/2aS0GPy3F7noLvi1kgWEMz"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "HOL!",
+          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270857,
+      "name": "Mind Pluck",
+      "url": "https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe"
+    },
+    {
+      "album": {
         "name": "Mindstate",
         "url": "https://open.spotify.com/album/6smeL7L0X15jV5PmU0oDyR"
       },
@@ -7624,7 +7668,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 240344,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/5b72jsfUuE7lhX1MKENWxM"
@@ -9610,7 +9654,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 238736,
       "name": "Run Away!",
       "url": "https://open.spotify.com/track/6jkNTZVkFwaoufxsZbPmX2"
@@ -9804,6 +9848,28 @@
       "duration_ms": 127900,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
+    },
+    {
+      "album": {
+        "name": "WRATH OF THE WICKED",
+        "url": "https://open.spotify.com/album/0QfcUPY2N5G1uJk0714XCb"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Medyk",
+          "url": "https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "SAVE U NOW",
+      "url": "https://open.spotify.com/track/4K0pPcYPRIBDavThi6FD0r"
     },
     {
       "album": {
@@ -10891,6 +10957,24 @@
     },
     {
       "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/1nlVk6AHkm9WdF0BZ9iGuB"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156924,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw"
+    },
+    {
+      "album": {
         "name": "Stinger",
         "url": "https://open.spotify.com/album/0nXwYZwtzmke8C5VlMQDY3"
       },
@@ -10990,7 +11074,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 233452,
       "name": "Summer Of Saigon",
       "url": "https://open.spotify.com/track/5BWpRTmIud6QuaKxZI4Ilr"
@@ -12952,7 +13036,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 158351,
       "name": "You Got It",
       "url": "https://open.spotify.com/track/3bXWu4wjShtls0NJT59YrE"
@@ -12974,7 +13058,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 194685,
       "name": "You Know I Got It",
       "url": "https://open.spotify.com/track/6oReNO31UN1gzts4zxBbJw"

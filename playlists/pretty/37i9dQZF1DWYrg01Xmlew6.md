@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Luchè e CoCo in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,000 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,125 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 6 | [Forever Alone](https://open.spotify.com/track/4Ck5wIeWVH0EbtCsQoZ9sl) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [Forever Alone](https://open.spotify.com/album/2HS0wNjOG8w72WjiMlqFqw) | 3:12 |
 | 7 | [Lose Control](https://open.spotify.com/track/40l3gNOxcK4MWgHfQuOyAF) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz) | [Lose Control](https://open.spotify.com/album/0ub5NaCeNKWDcRWUmb8yvQ) | 3:02 |
 | 8 | [CADILLAC \(feat\. MV Killa, Geolier, Tony Effe\)](https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [WE THE SQUAD Vol\. 1](https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK) | 2:53 |
-| 9 | [Shawty \(feat\. ANNA\)](https://open.spotify.com/track/2FSyRgYesfoqC0xGVmHgeH) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Shawty \(feat\. ANNA\)](https://open.spotify.com/album/0Lk62qOfyMoDWD4iIpNZjy) | 3:04 |
-| 10 | [Ma Xkè A Me?](https://open.spotify.com/track/4jeP1FfZpmRa1TIxibtOx2) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Ma Xkè A Me?](https://open.spotify.com/album/1MS0UQ61W1A77NTw77o1Ea) | 2:36 |
-| 11 | [La Notte di San Lorenzo](https://open.spotify.com/track/3R3S0yqtESkFwJDpscvKfd) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 3:08 |
-| 12 | [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 |
-| 13 | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn) | 2:57 |
-| 14 | [MAKAI](https://open.spotify.com/track/7cIQHtaKW3l7OEEtFWm1pc) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:38 |
-| 15 | [PSG](https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [PSG](https://open.spotify.com/album/2VTHXl42e8utykEVef79Uk) | 2:34 |
+| 9 | [PSG](https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [PSG](https://open.spotify.com/album/2VTHXl42e8utykEVef79Uk) | 2:34 |
+| 10 | [Shawty \(feat\. ANNA\)](https://open.spotify.com/track/2FSyRgYesfoqC0xGVmHgeH) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Shawty \(feat\. ANNA\)](https://open.spotify.com/album/0Lk62qOfyMoDWD4iIpNZjy) | 3:04 |
+| 11 | [Ma Xkè A Me?](https://open.spotify.com/track/4jeP1FfZpmRa1TIxibtOx2) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Ma Xkè A Me?](https://open.spotify.com/album/1MS0UQ61W1A77NTw77o1Ea) | 2:36 |
+| 12 | [La Notte di San Lorenzo](https://open.spotify.com/track/3R3S0yqtESkFwJDpscvKfd) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 3:08 |
+| 13 | [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 |
+| 14 | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn) | 2:57 |
+| 15 | [MAKAI](https://open.spotify.com/track/7cIQHtaKW3l7OEEtFWm1pc) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:38 |
 | 16 | [Sincer \(feat\. Lele Blade & Icy Subzero\)](https://open.spotify.com/track/5NA6KErStFT0zPk1VJiSWI) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sincer \(feat\. Lele Blade & Icy Subzero\)](https://open.spotify.com/album/7BBkLJQiEzHkFDbHy48rjd) | 3:41 |
 | 17 | [TU T'E SCURDAT' 'E ME](https://open.spotify.com/track/1901MP4sFYR617bT4hNcyW) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO](https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr) | 4:01 |
 | 18 | [Napoletano RMX \(feat\. SLF\)](https://open.spotify.com/track/3FDmJlbAtx6u7m0REfhTxQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS) | [Napoletano RMX \(feat\. SLF\)](https://open.spotify.com/album/2vwJ8mtsNwTYCZHxIKHTDl) | 2:56 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 54 | [X SEMPRE](https://open.spotify.com/track/28aSFfpukDwTd1h4VE4dfk) | [Pablo](https://open.spotify.com/artist/2v6DnAG79LafwKNHmyEhsJ), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ), [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7) | [X SEMPRE](https://open.spotify.com/album/0oK2BcR7azV1YOB2aaQptX) | 4:09 |
 | 55 | [NUNN’È COSA](https://open.spotify.com/track/3cUb1152ZSVWm421ksV7VH) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [NUNN’È COSA](https://open.spotify.com/album/6GJZfbAYH8ZwpYv8FocESH) | 2:28 |
 
-Snapshot ID: `MCxjN2IzODk2ZDdmNTY0NjcxYmNhODA4NTg1NzhiN2JjM2IxNTY0MjI5`
+Snapshot ID: `MCw0ZWZjYzhhNzViMjRmMzgzMmZhNjM2YzE0Yzg1ZWU2OWVmZDViN2E1`

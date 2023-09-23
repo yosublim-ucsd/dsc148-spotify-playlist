@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 ### [Connexion Rap](https://open.spotify.com/playlist/37i9dQZF1DWXVOrABrZKBq)
 
-> Le rap francophone est en forme\. Photo: Dave, Tiakola 🌐
+> Le rap francophone est en forme\. Photo: Favé, Gazo
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,963 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,118 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Voldemort](https://open.spotify.com/track/7CpI3rs2A4etl7VXghjfWe) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [ADC](https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM) | 3:48 |
-| 2 | [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 |
+| 1 | [Flashback](https://open.spotify.com/track/02RGARryimtGfuawXbKj8P) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Flashback](https://open.spotify.com/album/3WZCmBlviCfRO1d5MDBvvt) | 2:56 |
+| 2 | [Voldemort](https://open.spotify.com/track/7CpI3rs2A4etl7VXghjfWe) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [ADC](https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM) | 3:48 |
 | 3 | [MIKE TANGO LIMA](https://open.spotify.com/track/38bvFbzotkGZLkBNi5LYD0) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 2:24 |
-| 4 | [Bonjour](https://open.spotify.com/track/4MAloTk4m4tP1y5gpYYUDw) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bonjour](https://open.spotify.com/album/3sBZDZM9mAEVN9mV3s8yj7) | 2:16 |
-| 5 | [Saiyan](https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Saiyan](https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK) | 3:09 |
-| 6 | [Flashback](https://open.spotify.com/track/02RGARryimtGfuawXbKj8P) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Flashback](https://open.spotify.com/album/3WZCmBlviCfRO1d5MDBvvt) | 2:56 |
+| 4 | [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 |
+| 5 | [Bonjour](https://open.spotify.com/track/4MAloTk4m4tP1y5gpYYUDw) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bonjour](https://open.spotify.com/album/3sBZDZM9mAEVN9mV3s8yj7) | 2:16 |
+| 6 | [Saiyan](https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Saiyan](https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK) | 3:09 |
 | 7 | [ᚷ\. INSPIRÉ DE FAITS RÉELS \#6](https://open.spotify.com/track/0QqP2jJFb8RhGjugYSbFxf) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [ᚷ\. INSPIRÉ DE FAITS RÉELS \#6](https://open.spotify.com/album/4HqxQlBSI8N5u9OnPCRXNZ) | 2:49 |
 | 8 | [1942](https://open.spotify.com/track/2p5gQtpYZLmhZPyYYgTWuW) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [1942](https://open.spotify.com/album/2oQpRsIZLxm9UrC2AQpmAm) | 3:39 |
 | 9 | [Shavkat](https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Shavkat](https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 49 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 |
 | 50 | [Double vision](https://open.spotify.com/track/5b8ejMaA6qpep9IdAS2EKe) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Double vision](https://open.spotify.com/album/2gSKjDu2BgrXnrcKryoz1o) | 2:48 |
 
-Snapshot ID: `MCw2Mjg1NWE4ODRjODg1ZGFlYTIwYWZkZjA1ZmU4MGUzYTU0OWI2YWIz`
+Snapshot ID: `MCxjNTY2YTA3MDhjYmVmYjY1ZjA1NDEzNzE4MjcwNjgyYTAyODY2OWEw`

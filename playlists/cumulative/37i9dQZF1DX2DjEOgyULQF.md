@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-140 songs - 6 hr 55 min
+142 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Like Water](https://open.spotify.com/track/5cbaZZoB2iYsP7FQHmKRzq) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Golden Light](https://open.spotify.com/album/1q0IUbhxzScGGUO5iwC7mi) | 3:26 | 2023-04-28 | 2023-07-14 |
 | [Meadow’s Fountain](https://open.spotify.com/track/4MqoLh3a6mT77Qea8mj0bW) | [Uffe Jörgensen](https://open.spotify.com/artist/56b0WToubUkYRbbBq6ZV9G) | [OHM](https://open.spotify.com/album/0CJf54j8fZnvDTYyDuhveb) | 3:00 | 2023-04-28 |  |
 | [Meas](https://open.spotify.com/track/6KoQyTkDaxANLiB1K7a8Jw) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Meas](https://open.spotify.com/album/7F5cog28FZOo0gz0fIuNhz) | 3:24 | 2023-04-28 |  |
+| [Meditation birds](https://open.spotify.com/track/3JceqUgXQPaX6RYakFUy4X) | [Tom Vode](https://open.spotify.com/artist/6MIexSldcIatPBYa5pWHsw) | [Meditation birds](https://open.spotify.com/album/3xTpSrfiyRnMBVjQZ7EvtU) | 2:33 | 2023-09-22 |  |
 | [Meditative Notes](https://open.spotify.com/track/20M4Bb3bH6kvht89yfn5iI) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Meditative Notes](https://open.spotify.com/album/4AMboqDV93QgvWtLrOja29) | 2:43 | 2023-04-28 |  |
 | [Melville \(Meditation\)](https://open.spotify.com/track/0dvYoaVUiMJAbBtAIbr590) | [Lake Melville](https://open.spotify.com/artist/2qZD20bVk0hgogpaDPbxmG) | [Lake Melville](https://open.spotify.com/album/0YmbS2yy0hXBM2GHpXo28c) | 2:39 | 2023-04-28 |  |
 | [Metamorphosis](https://open.spotify.com/track/67le4yadjiFCZ3bQXZITEN) | [Harmonic Pathways](https://open.spotify.com/artist/50w3lD1tVFon2IBD8jRBOO), [Nature on Record](https://open.spotify.com/artist/4XC4r2EEPyi9Ox0ZinPaIV) | [Emergence](https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf) | 3:24 | 2023-04-28 |  |
@@ -118,6 +119,7 @@
 | [Simplicity](https://open.spotify.com/track/5ABh3sfeg6DsCcm4uWRGNf) | [Wazuna](https://open.spotify.com/artist/0qu4t2NVwyPfQaxoVrmU3n) | [Simplicity](https://open.spotify.com/album/4IS0Gx9Z1Yi2grpkSeyW5p) | 3:12 | 2023-04-28 |  |
 | [Solemn Echo](https://open.spotify.com/track/5NtSWnA98CIXpE6HloLurX) | [Stormfields](https://open.spotify.com/artist/1PlgaV9zKrbKabenfaMf0C) | [Solemn Echo](https://open.spotify.com/album/4b8EHzObZBqI6KXyU3DE2g) | 2:12 | 2023-04-28 |  |
 | [Somos Tierra](https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Somos Tierra](https://open.spotify.com/album/6xGYEZBKtcLC7KIKJOrXSM) | 2:54 | 2023-04-28 | 2023-05-27 |
+| [Song Of Nature](https://open.spotify.com/track/4LvTLzxeWPn6XUpCmE93iH) | [Ziwambe](https://open.spotify.com/artist/4C4pHnRWJY0ROkqEynVy7z) | [Song Of Nature](https://open.spotify.com/album/0nMiF2yBds8CV1LqnTHMsV) | 2:26 | 2023-09-22 |  |
 | [Soothing Ripples](https://open.spotify.com/track/7GBZtRWRBnA0zhnuNrvoct) | [Applied Rest](https://open.spotify.com/artist/2riZE0wAuN7vPwKnEo8eGX) | [Soothing Ripples](https://open.spotify.com/album/4c2ImLyXKB23EToI6NP8UE) | 2:49 | 2023-04-28 |  |
 | [Sub Nubibus](https://open.spotify.com/track/7IoL1mOhd9J4yRQx5Rvq2n) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Sub Nubibus](https://open.spotify.com/album/5ruwT199WJvJDnlTRxfIk3) | 2:27 | 2023-04-28 |  |
 | [Thankful](https://open.spotify.com/track/2UXjwMD5scjJzBh3nmQAX8) | [Regentum](https://open.spotify.com/artist/6gfKfJS89ZAy4mSAlwTXvc) | [Thankful](https://open.spotify.com/album/73ZOqAI2ARO0Chn2Vg3wrw) | 3:14 | 2023-04-28 |  |

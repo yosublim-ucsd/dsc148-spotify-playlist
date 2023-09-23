@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH?si=V0TN3xLjS4mdOg0hJUOHCQ">Juan Boucher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,320 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,356 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Stoutgat](https://open.spotify.com/track/4QyvkP2gRHGYOaOntzVJpL) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Stoutgat](https://open.spotify.com/album/5JQbHRJ42Vhl5U3GCcpYdw) | 3:10 |
 | 50 | [Die Bokmasjien](https://open.spotify.com/track/3IgEWo5IVygGPj1gIXGnEK) | [Leon Schuster](https://open.spotify.com/artist/39RqxQROFqqcfA4TJmKgbs) | [Die Bokmasjien](https://open.spotify.com/album/7mAkMSrrW44f9SbtVv5oZm) | 3:46 |
 
-Snapshot ID: `MCxhMGQxNWIwMTFiMTcwN2I5NTBjYjE0YTU5ZjZlNzBlOTE0Mjg0YTcz`
+Snapshot ID: `MCwxM2Q4ZjQ5ZGE5MjcxZGFiZWE5ZWI5NTc1Njk0ZjJiZDRjZTk1Zjlm`

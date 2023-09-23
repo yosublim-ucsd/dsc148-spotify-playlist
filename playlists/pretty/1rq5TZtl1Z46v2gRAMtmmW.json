@@ -1,13 +1,49 @@
 {
   "description": "",
-  "num_followers": 28427,
+  "num_followers": 28433,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzQ3OSw1OGExZTUzNjljMmQyMTgxNmM2ODgxZWY2YTMyMGQ3ZmMzYzc3ZjY4",
+  "snapshot_id": "MzQ4NSwyNDY0ZTdhODA4ZWRhYmFjMDE1MWUyMzcwYzI3NjlmMzJhZmM4YTNh",
   "tracks": [
+    {
+      "added_at": "2023-09-22 17:16:54",
+      "album": {
+        "name": "softscars",
+        "url": "https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 186987,
+      "name": "cyber meat",
+      "url": "https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM"
+    },
+    {
+      "added_at": "2023-09-22 17:18:56",
+      "album": {
+        "name": "Slipping Into Color",
+        "url": "https://open.spotify.com/album/6kuxykEjfFWmGv8IwXlmrO"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        },
+        {
+          "name": "April + VISTA",
+          "url": "https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj"
+        }
+      ],
+      "duration_ms": 225764,
+      "name": "Slumber",
+      "url": "https://open.spotify.com/track/0oF0OIjGA5DGl7WkyHjSXz"
+    },
     {
       "added_at": "2023-09-15 16:22:33",
       "album": {
@@ -113,22 +149,6 @@
       "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
     },
     {
-      "added_at": "2023-09-05 19:43:29",
-      "album": {
-        "name": "inferno",
-        "url": "https://open.spotify.com/album/5nEnJBGqhO81HTESoWTnq7"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 194928,
-      "name": "inferno",
-      "url": "https://open.spotify.com/track/4Jp2GBtVhmlielpBQeta18"
-    },
-    {
       "added_at": "2023-08-22 17:31:08",
       "album": {
         "name": "How It Feels",
@@ -183,30 +203,6 @@
       "duration_ms": 280328,
       "name": "DJ Friendly",
       "url": "https://open.spotify.com/track/1fEYSPGGk7pLFvrBLNgQv7"
-    },
-    {
-      "added_at": "2023-08-09 19:18:28",
-      "album": {
-        "name": "What Not To Do (Moodymann Remix)",
-        "url": "https://open.spotify.com/album/0q5IDnHeEk0RqkaQvZ8gOY"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        },
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "What Not To Do - Moodymann Remix",
-      "url": "https://open.spotify.com/track/4M6ywvPu0K14mUPJ6qnTjK"
     },
     {
       "added_at": "2023-08-17 19:48:41",

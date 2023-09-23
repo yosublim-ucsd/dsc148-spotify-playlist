@@ -4,11 +4,12 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-80 songs - 5 hr 5 min
+81 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 DAYS AWAKE](https://open.spotify.com/track/42PM6bBmZrcQWcW7UwXSgK) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [3 DAYS AWAKE](https://open.spotify.com/album/1B4WNa7kYXPUB3f8WWO2at) | 2:23 | 2023-08-11 |  |
+| [365](https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [365](https://open.spotify.com/album/2Wt63cwVvjqezpEdQcmlkI) | 3:12 | 2023-09-22 |  |
 | [ACID](https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [ACID](https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6) | 3:01 | 2023-08-11 |  |
 | [Acid \(All Night Long\)](https://open.spotify.com/track/1s7j77CrfpOhXf5V3P9gp7) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [Acid \(All Night Long\)](https://open.spotify.com/album/1iZJz3tgPcn04UT643eH0x) | 2:33 | 2023-08-22 |  |
 | [Acid Robot \- Original Mix](https://open.spotify.com/track/4FOx2og4wtYIvdq1clkNmK) | [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Acid Robot \(Original Mix\)](https://open.spotify.com/album/07rD4ZVsv1vBKfQFX2ClT2) | 5:13 | 2023-09-19 |  |
@@ -76,7 +77,7 @@
 | [Techno Sound](https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Techno Sound](https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5) | 3:09 | 2023-08-25 |  |
 | [The Age Of Love \(Charlotte de Witte & Enrico Sangiuliano Remix\)](https://open.spotify.com/track/6R84ZlQF7gGkPB6o3GLZXB) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [The Age Of Love \(Charlotte de Witte & Enrico Sangiuliano Remix\) \[Charlotte de Witte & Enrico Sangiuliano Remix \- Edit\]](https://open.spotify.com/album/7CXTNkULXDTd2oHt4S9dp7) | 8:09 | 2023-08-11 |  |
 | [The Blaze](https://open.spotify.com/track/0jHezfBKttmYivLmNvUzzt) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [The Theory EP](https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr) | 4:30 | 2023-08-11 | 2023-09-06 |
-| [The Parade \(Techno Remix\)](https://open.spotify.com/track/3j9RucX8VImndwic630g9w) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D) | [The Parade \(Techno Remix\)](https://open.spotify.com/album/7phtUgPQObPbFNrWOMyyiK) | 1:55 | 2023-09-01 |  |
+| [The Parade \(Techno Remix\)](https://open.spotify.com/track/3j9RucX8VImndwic630g9w) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D) | [The Parade \(Techno Remix\)](https://open.spotify.com/album/7phtUgPQObPbFNrWOMyyiK) | 1:55 | 2023-09-01 | 2023-09-23 |
 | [The Procedure \- Original Mix](https://open.spotify.com/track/4ECckb5B0UtR6f9RbKL5SS) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [The Procedure EP](https://open.spotify.com/album/1nKD4vwGp5TJPRsKjFCKiQ) | 3:13 | 2023-08-25 |  |
 | [The Stutter](https://open.spotify.com/track/6TIZPCn9PQ9kmfK4SbhIKS) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [The Stutter](https://open.spotify.com/album/77Q9sOBlstkdIyA2gmNbv4) | 3:27 | 2023-08-11 | 2023-09-17 |
 | [The Unexpected](https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [The Unexpected](https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z) | 4:00 | 2023-09-15 |  |

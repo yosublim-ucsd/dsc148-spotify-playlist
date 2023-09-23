@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-388 songs - 20 hr 27 min
+389 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Break Up Twice](https://open.spotify.com/track/7Bzgs1crJViC1NEliHSp8O) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:56 | 2022-07-14 | 2023-03-18 |
 | [Butter](https://open.spotify.com/track/0xsXd6WI6JX2PsW6rbYjcW) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Merry\-Lynn](https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7), [SUTRA](https://open.spotify.com/artist/1IwePsGHiNhUNBrUuUcguM) | [For Good Reasons](https://open.spotify.com/album/7zDDdXCpkiw7NjP8yh5TNt) | 3:08 | 2022-07-07 | 2023-03-12 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-08-26 | 2022-11-26 |
+| [Caught Up \(with L.A.X\)](https://open.spotify.com/track/1ABjNDCB0idRxu2kpcgWsc) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Caught Up \(with L.A.X\)](https://open.spotify.com/album/0oqFBdsXbcEJoBvbYPOSgv) | 3:26 | 2023-09-21 |  |
 | [CHAMPAGNE GIRL](https://open.spotify.com/track/478cS3LW0O2VL1vW0kYMKd) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [CHAMPAGNE GIRL](https://open.spotify.com/album/5C7Txmzu3t6zVrpoEhLA4S) | 2:20 | 2022-10-07 | 2023-03-13 |
 | [Champagne Shit](https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:23 | 2023-06-09 | 2023-09-15 |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-27 | 2023-09-15 |
@@ -166,7 +167,7 @@
 | [Iyawo](https://open.spotify.com/track/3NWezymOetNeOSvNbseYP5) | [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT) | [Iyawo](https://open.spotify.com/album/4WDJcN86No1uvndKdAAEaa) | 3:12 | 2022-10-13 | 2022-10-29 |
 | [Jah](https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Jah](https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd) | 2:27 | 2023-06-16 |  |
 | [Jam One Kele](https://open.spotify.com/track/76QO1kpcj4a2loIWPT3oCn) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Millymay\_pod](https://open.spotify.com/artist/5tL2K1ihStDSZ0TyEIzENy), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK), [Fxrtune](https://open.spotify.com/artist/5FWZoWPhJAzysoaslzFaZF) | [Jam One Kele](https://open.spotify.com/album/1cWUxbpDvU1n9WHga7X1m2) | 2:29 | 2023-05-19 | 2023-07-29 |
-| [Jane](https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Jane](https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0) | 3:22 | 2022-08-26 |  |
+| [Jane](https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Jane](https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0) | 3:22 | 2022-08-26 | 2023-09-23 |
 | [Jara](https://open.spotify.com/track/4Kp8RzMUbGSEkjrElCRgww) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jara](https://open.spotify.com/album/6vda4JDcL24Ango61D6jGU) | 2:40 | 2023-09-14 |  |
 | [Jolie](https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jolie](https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ) | 3:29 | 2023-01-27 | 2023-02-11 |
 | [Jonzing Boy](https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jonzing Boy](https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP) | 3:05 | 2023-05-11 |  |

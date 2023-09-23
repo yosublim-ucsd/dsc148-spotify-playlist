@@ -1,12 +1,12 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 680192,
+  "num_followers": 680314,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzkzMGZmM2FkODE0ZTQ5OWI2ZThlYzcyODU3ZDRlMDEzMWY3ZmZm",
+  "snapshot_id": "MCw3NDNhNzdmMDU2MzA3YjE3ZTI1OGU1MGU4ODM0NDY3NGIzMzFhZmM5",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -95,18 +95,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+        "name": "Too Rye Ay",
+        "url": "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Dexys Midnight Runners",
+          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
         }
       ],
-      "duration_ms": 240413,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/3K07bGe8iljQ3mOKArHLDo"
+      "duration_ms": 287306,
+      "name": "Come On Eileen",
+      "url": "https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -151,18 +151,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Too Rye Ay",
-        "url": "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6"
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
       "artists": [
         {
-          "name": "Dexys Midnight Runners",
-          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 287306,
-      "name": "Come On Eileen",
-      "url": "https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"
+      "duration_ms": 240413,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/3K07bGe8iljQ3mOKArHLDo"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "Wilder Days",
-      "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Citrona",
         "url": "https://open.spotify.com/album/7iTm9yZznLHb1GBOVm5IB1"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 261734,
       "name": "August",
       "url": "https://open.spotify.com/track/0elCmyfISzkP5tAYTVuYjS"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "Wilder Days",
+      "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 288120,
-      "name": "Wildflowers & Wine",
-      "url": "https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Lost At Last Vol. 1",
         "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 173280,
       "name": "House Of My Soul (You Light The Rooms)",
       "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 288120,
+      "name": "Wildflowers & Wine",
+      "url": "https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Lukas Nelson & Promise Of The Real",
-        "url": "https://open.spotify.com/album/7FRf2pzChLAhYLWL55hmlH"
-      },
-      "artists": [
-        {
-          "name": "Lukas Nelson and Promise of the Real",
-          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
-        }
-      ],
-      "duration_ms": 376333,
-      "name": "Find Yourself",
-      "url": "https://open.spotify.com/track/058T5UiAWu70uTAYDN67kY"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 244960,
       "name": "Horse to Water",
       "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Lukas Nelson & Promise Of The Real",
+        "url": "https://open.spotify.com/album/7FRf2pzChLAhYLWL55hmlH"
+      },
+      "artists": [
+        {
+          "name": "Lukas Nelson and Promise of the Real",
+          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
+        }
+      ],
+      "duration_ms": 376333,
+      "name": "Find Yourself",
+      "url": "https://open.spotify.com/track/058T5UiAWu70uTAYDN67kY"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Joy'All",
-        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Puppy and a Truck",
-      "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "I Can't Let Go",
         "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 212142,
       "name": "Devil I Know",
       "url": "https://open.spotify.com/track/6R0v4lA69KxsAUYDskYwgs"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Joy'All",
+        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Puppy and a Truck",
+      "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
     },
     {
       "added_at": "2023-07-28 04:00:00",

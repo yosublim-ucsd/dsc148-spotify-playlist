@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,223 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,321 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,27 +61,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 51 | [Only One Man \(with Melody's Echo Chamber\)](https://open.spotify.com/track/2bBrRe20ZB7pJMQaNJ4nwk) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Only One Man \(with Melody's Echo Chamber\)](https://open.spotify.com/album/33zR8Z3dApeJSWwxRZAjj8) | 3:10 |
 | 52 | [Jeune](https://open.spotify.com/track/51tJQf4oxTMvONqstKnqmR) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [The Middle of Nowhere](https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l) | 4:18 |
 | 53 | [House Of Mirrors](https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [House Of Mirrors](https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC) | 3:11 |
-| 54 | [Blister](https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP) | [Blister](https://open.spotify.com/album/2M6B6ARH3uJLF8rZ0lQrWD) | 3:49 |
-| 55 | [What Are You so Afraid Of](https://open.spotify.com/track/5NwyQFaZbL6w8SaFcPFDn8) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [What Are You so Afraid Of](https://open.spotify.com/album/3MZSEI7ImutXhDjC7kS7T4) | 2:27 |
+| 54 | [What Are You so Afraid Of](https://open.spotify.com/track/5NwyQFaZbL6w8SaFcPFDn8) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [What Are You so Afraid Of](https://open.spotify.com/album/3MZSEI7ImutXhDjC7kS7T4) | 2:27 |
+| 55 | [Blister](https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP) | [Blister](https://open.spotify.com/album/2M6B6ARH3uJLF8rZ0lQrWD) | 3:49 |
 | 56 | [Come Down and Waste With Me](https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Ways To Get Out \(Deluxe\)](https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY) | 4:07 |
 | 57 | [Daisy](https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Flora](https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku) | 2:15 |
 | 58 | [Valentine](https://open.spotify.com/track/28xKoto01psP4QaoISW5HY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Valentine](https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg) | 3:22 |
 | 59 | [27 Club](https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [27 Club](https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW) | 3:34 |
 | 60 | [Near](https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE), [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 5:40 |
 | 61 | [Lights On](https://open.spotify.com/track/5pT185xOuSJkpUCsEQFi3n) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 3:56 |
-| 62 | [No More Kissing In The Rain](https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [Lisbet Fritze](https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod) | [Memoria](https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2) | 4:19 |
-| 63 | [Gloomy Girl](https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gloomy Girl](https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR) | 3:06 |
+| 62 | [Gloomy Girl](https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gloomy Girl](https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR) | 3:06 |
+| 63 | [No More Kissing In The Rain](https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [Lisbet Fritze](https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod) | [Memoria](https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2) | 4:19 |
 | 64 | [What We Left Behind](https://open.spotify.com/track/3euVD6KnWFISxJlNlgy4oH) | [Hydromag](https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa) | [What We Left Behind](https://open.spotify.com/album/3zuttVQTwpza3mlgzG7miv) | 3:55 |
 | 65 | [Opportunity](https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7) | [Kevin Krauter](https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI) | [Full Hand](https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK) | 3:33 |
 | 66 | [number own](https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [number own](https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c) | 2:39 |
-| 67 | [For You](https://open.spotify.com/track/2vmMoVSY98yTOpMZSDxMUf) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Twin Heavy](https://open.spotify.com/album/6LFY3DlCGt04t3LY9NjNIC) | 3:47 |
-| 68 | [Deceiver](https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 6:29 |
+| 67 | [Deceiver](https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 6:29 |
+| 68 | [For You](https://open.spotify.com/track/2vmMoVSY98yTOpMZSDxMUf) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Twin Heavy](https://open.spotify.com/album/6LFY3DlCGt04t3LY9NjNIC) | 3:47 |
 | 69 | [rest up](https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [rest up](https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue) | 3:24 |
 | 70 | [Make Me Wanna](https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Make Me Wanna](https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs) | 3:22 |
 | 71 | [summer bruises](https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [summer bruises](https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI) | 2:54 |
 | 72 | [Detox](https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Detox](https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI) | 4:33 |
-| 73 | [Two Step](https://open.spotify.com/track/1lcL7ccfhuLC1MhmD5ikYG) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Mahjong Room](https://open.spotify.com/album/1NDsNOHUuoVEHUdPIYf46e) | 2:54 |
-| 74 | [French Movie](https://open.spotify.com/track/0C2CSeNBBss4JSFG0xHy7z) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [French Movie](https://open.spotify.com/album/3hw3rAKNU6a22R3qxxMQip) | 3:19 |
+| 73 | [French Movie](https://open.spotify.com/track/0C2CSeNBBss4JSFG0xHy7z) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [French Movie](https://open.spotify.com/album/3hw3rAKNU6a22R3qxxMQip) | 3:19 |
+| 74 | [Two Step](https://open.spotify.com/track/1lcL7ccfhuLC1MhmD5ikYG) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Mahjong Room](https://open.spotify.com/album/1NDsNOHUuoVEHUdPIYf46e) | 2:54 |
 | 75 | [Picnic In The Rain](https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Flora](https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku) | 3:15 |
 | 76 | [What Does It Mean To Me?](https://open.spotify.com/track/0fQMFvcUD9j1SBFRoTHxnL) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Smothered](https://open.spotify.com/album/21zwExLy0H0BDbrIb0J2DC) | 2:46 |
 | 77 | [James](https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [James](https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1) | 4:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 79 | [Under the Sea](https://open.spotify.com/track/5YijNwa0Sl9cZjpJWiVqmE) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Pearl](https://open.spotify.com/album/6CLxliGUrHfAxCVrX9hfYE) | 3:59 |
 | 80 | [Drown](https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:10 |
 
-Snapshot ID: `MCwzOWNlOTg0NDczYTcwMzRkYThhNzQ5MWQzMTNjYjg4NzQzMjQ4MjE4`
+Snapshot ID: `MCxhYThiYzJhY2YxNzVmYzUyZTJiODk4MmU3MzY5NWExODEzZGE4NDk5`

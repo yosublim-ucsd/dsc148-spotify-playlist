@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Top country hits you know and love! Cover: Brothers Osborne",
+  "description": "Top country hits you know and love! Cover: Kane Brown",
   "name": "Big Country",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 224333,
       "name": "Brown Eyes Baby",
       "url": "https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 225053,
       "name": "Dig",
       "url": "https://open.spotify.com/track/5PajfJ1BQwHHHird3li8S4"
@@ -942,6 +942,24 @@
       "duration_ms": 182893,
       "name": "Drinkaby",
       "url": "https://open.spotify.com/track/3lg4wfPFpFLapRp2SiQQGd"
+    },
+    {
+      "album": {
+        "name": "Drive You Out Of My Mind",
+        "url": "https://open.spotify.com/album/0tybIuD9JXSQ0zY1s9PQmv"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212360,
+      "name": "Drive You Out Of My Mind",
+      "url": "https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD"
     },
     {
       "album": {
@@ -1133,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Fearless (The Echo)",
+        "url": "https://open.spotify.com/album/5P0hRYIH6ZpS92LjqyRXuh"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216295,
+      "name": "Fearless - The Echo",
+      "url": "https://open.spotify.com/track/1xVjqCBkpIUMe3EmW0PxTM"
+    },
+    {
+      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
@@ -1242,7 +1278,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 176617,
       "name": "For What It\u2019s Worth (feat. Alana Springsteen)",
       "url": "https://open.spotify.com/track/5b4n4Lp2ZAPDGO9nQM5IHR"
@@ -1925,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "I Can Feel It",
+        "url": "https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163600,
+      "name": "I Can Feel It",
+      "url": "https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ"
+    },
+    {
+      "album": {
         "name": "Humble Quest",
         "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
@@ -2470,7 +2524,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 194426,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/6DE1vkPkMn2I77360IBb8t"
@@ -2578,7 +2632,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 177920,
       "name": "Mountain With A View",
       "url": "https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq"
@@ -2596,7 +2650,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 193053,
       "name": "My Bar",
       "url": "https://open.spotify.com/track/3rvEUrjnl3eXXmKiKLkzRN"
@@ -2976,7 +3030,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 165508,
       "name": "One Day Tonight",
       "url": "https://open.spotify.com/track/45MQs7EiPglAvyYg9fkjzA"
@@ -3196,7 +3250,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 168447,
       "name": "Pickup",
       "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
@@ -3492,7 +3546,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 156906,
       "name": "Somethin' Bout You",
       "url": "https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm"

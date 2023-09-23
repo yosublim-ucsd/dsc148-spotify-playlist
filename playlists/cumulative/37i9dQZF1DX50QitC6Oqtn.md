@@ -2,9 +2,9 @@
 
 ### [Love Pop](https://open.spotify.com/playlist/37i9dQZF1DX50QitC6Oqtn)
 
-> Because we all deserve great pop love songs in one playlist.
+> Porque todo el mundo se merece una playlist con las mejores canciones pop románticas.
 
-425 songs - 1 day 0 hr 38 min
+426 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,7 +355,7 @@
 | [The Same](https://open.spotify.com/track/57YKyo8SW8lujChukFU3qY) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Same / Real Love](https://open.spotify.com/album/0zWFPw6BqkytZZ2roxs9vh) | 3:53 | 2021-02-25 | 2022-01-29 |
 | [The Story Never Ends](https://open.spotify.com/track/3u5bTqHMM1P34ZkbwzdckV) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:49 | 2019-08-10 | 2022-07-29 |
 | [The Way I Love You](https://open.spotify.com/track/3XV5r1cMB2AlD2ir0v6mfm) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [The Way I Love You](https://open.spotify.com/album/3K4LPKywpYV44mQtqt5mNH) | 2:42 | 2020-12-09 | 2022-11-13 |
-| [There You Are](https://open.spotify.com/track/5y4XJ9UFS5eOdoYPF5pSAE) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Icarus Falls](https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh) | 3:19 | 2021-11-08 |  |
+| [There You Are](https://open.spotify.com/track/5y4XJ9UFS5eOdoYPF5pSAE) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Icarus Falls](https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh) | 3:19 | 2021-11-08 | 2023-09-23 |
 | [There You Are](https://open.spotify.com/track/7MmnLaftYzin7boRbplKdA) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Icarus Falls](https://open.spotify.com/album/2aE3VcIiNPqqo4VzOXiDoR) | 3:19 | 2019-08-01 | 2022-07-29 |
 | [There's No Way \(feat\. Julia Michaels\)](https://open.spotify.com/track/0WTN7om3lHG3yYMigwzBxl) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [There's No Way](https://open.spotify.com/album/4jL68AMzZ3OwCoWWrKtGCx) | 2:54 | 2021-11-08 | 2022-11-02 |
 | [There's No Way \(feat\. Julia Michaels\)](https://open.spotify.com/track/2hnxrRNzF74mdDzpQZQukQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [There's No Way \(feat\. Julia Michaels\)](https://open.spotify.com/album/3xJzdYiYlc7CMtRXBpd9Qg) | 2:54 | 2019-08-10 | 2022-07-29 |
@@ -429,6 +429,7 @@
 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 | 2021-11-08 |  |
 | [You're Beautiful](https://open.spotify.com/track/5pbajJXEPdcoXQPXoAVR1t) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1wklsLLbGIZg1RDpoJovrb) | 3:29 | 2019-07-30 | 2021-05-28 |
 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 | 2021-11-08 | 2023-08-28 |
+| [You're Still The One](https://open.spotify.com/track/3x2ksaXI6EZUWidE2BiLXy) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:32 | 2022-12-08 |  |
 | [You're Still The One](https://open.spotify.com/track/3I4nZ14GRL7eXwFDjCEEVr) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/3sbhN8QlcMeCZAX80IKoW8) | 3:32 | 2019-07-30 | 2021-10-13 |
 | [Your Song](https://open.spotify.com/track/46AKrc7rPuEXL9QYr9eqFR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 4:16 | 2019-07-30 | 2021-07-31 |
 | [Yummy](https://open.spotify.com/track/41L3O37CECZt3N7ziG2z7l) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Yummy](https://open.spotify.com/album/1SN6N3fNkZk5oXQ9X46QZ3) | 3:30 | 2020-01-03 | 2020-02-14 |

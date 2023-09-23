@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Only the hottest Hip Hop from Gunna (pictured), Young Thug, Drake, Dave, K.O and more...",
+  "description": "Only the hottest Hip Hop from Doja Cat (pictured), Nasty C, Drake, FLVME, and more...",
   "name": "Hip Hop Circle",
   "tracks": [
+    {
+      "album": {
+        "name": "Solomon",
+        "url": "https://open.spotify.com/album/3Yx3a2caBpL5Id5c6hkaru"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195492,
+      "name": "018",
+      "url": "https://open.spotify.com/track/5UW0G8L04TboUR2yzPNr5K"
+    },
     {
       "album": {
         "name": "150 Bars",
@@ -216,7 +238,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
@@ -314,7 +336,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 180240,
       "name": "Aston Martin Truck",
       "url": "https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR"
@@ -545,6 +567,54 @@
     },
     {
       "album": {
+        "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
+        "url": "https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153941,
+      "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
+      "url": "https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e"
+    },
+    {
+      "album": {
+        "name": "Big Mad (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/04jIgr8btAumWJzTRIhrxl"
+      },
+      "artists": [
+        {
+          "name": "Icandy",
+          "url": "https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110781,
+      "name": "Big Mad (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/6UliIDFULJHvJpSfQ61zu5"
+    },
+    {
+      "album": {
         "name": "DEADLINES: FREE P2",
         "url": "https://open.spotify.com/album/5DvFNfnvFyPLDZp5gQm8ir"
       },
@@ -644,7 +714,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 178421,
       "name": "Born To Win",
       "url": "https://open.spotify.com/track/05xkxPqRIiCuhXP3wSn8Zn"
@@ -1039,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "Dead or Alive",
+        "url": "https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122487,
+      "name": "Dead or Alive",
+      "url": "https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH"
+    },
+    {
+      "album": {
         "name": "DECLAN RICE",
         "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
       },
@@ -1086,7 +1174,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 301445,
       "name": "Devil's Work 2",
       "url": "https://open.spotify.com/track/17NiQhpGEQZUlTBqRKeKve"
@@ -1112,6 +1200,24 @@
       "duration_ms": 213206,
       "name": "Do It Again (feat. 2Rare)",
       "url": "https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp"
+    },
+    {
+      "album": {
+        "name": "DO RiGHT iNTRO",
+        "url": "https://open.spotify.com/album/587mPNauyjBubSMMDJCfxF"
+      },
+      "artists": [
+        {
+          "name": "FLVME",
+          "url": "https://open.spotify.com/artist/6WYEyvdqJYDfptrY1ePU7r"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "DO RiGHT iNTRO",
+      "url": "https://open.spotify.com/track/7reUZ4hqXXuX1GTQBkIGDE"
     },
     {
       "album": {
@@ -1309,6 +1415,24 @@
     },
     {
       "album": {
+        "name": "FAN",
+        "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156306,
+      "name": "FAN",
+      "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
+    },
+    {
+      "album": {
         "name": "Favorite Song (with Khalid) [Remix]",
         "url": "https://open.spotify.com/album/6aq5eEl7b51s5OUYV8ve6b"
       },
@@ -1426,6 +1550,24 @@
       "duration_ms": 169306,
       "name": "From Nothing",
       "url": "https://open.spotify.com/track/5RtOqP26S4KrWexNolBaQc"
+    },
+    {
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152866,
+      "name": "Fuck The Girls (FTG)",
+      "url": "https://open.spotify.com/track/6DOphQTeNmy1gk3um8sPYC"
     },
     {
       "album": {
@@ -1840,7 +1982,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 177777,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/0Mtk1CAT9lAISJjvBY8CbT"
@@ -1866,6 +2008,24 @@
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+    },
+    {
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211582,
+      "name": "I KNOW ?",
+      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
     },
     {
       "album": {
@@ -1924,6 +2084,28 @@
       "duration_ms": 192000,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
+    },
+    {
+      "album": {
+        "name": "JEALOUSY (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174466,
+      "name": "JEALOUSY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
     },
     {
       "album": {
@@ -2098,7 +2280,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 259591,
       "name": "Lemons (Lemonade)",
       "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
@@ -2777,6 +2959,24 @@
     },
     {
       "album": {
+        "name": "I Love It Here",
+        "url": "https://open.spotify.com/album/3BzDtldlIXJJGh9Qc7tbLK"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181108,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/4GVQOvxTqXPLJ1rHvP0SwZ"
+    },
+    {
+      "album": {
         "name": "No Time Wasted (feat. Future)",
         "url": "https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm"
       },
@@ -2902,10 +3102,32 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 261543,
       "name": "On BS",
       "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
+    },
+    {
+      "album": {
+        "name": "On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275280,
+      "name": "On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6"
     },
     {
       "album": {
@@ -3176,7 +3398,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
@@ -3224,7 +3446,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 282066,
       "name": "PROUD OF ME. (feat. Fridayy)",
       "url": "https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3"
@@ -3384,7 +3606,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 239359,
       "name": "Rich Flex",
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
@@ -3492,7 +3714,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 209148,
       "name": "SAUCE (feat. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK)",
       "url": "https://open.spotify.com/track/3jEWgcZ0K3mg9T2Iwp7jVR"
@@ -3602,10 +3824,32 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 142560,
       "name": "SILVER TOOTH. (with A$AP Ferg)",
       "url": "https://open.spotify.com/track/7fhcDui4AKQydfFoXILsso"
+    },
+    {
+      "album": {
+        "name": "Slime You Out",
+        "url": "https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310490,
+      "name": "Slime You Out (feat. SZA)",
+      "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
     },
     {
       "album": {
@@ -3730,7 +3974,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 193207,
       "name": "Soul",
       "url": "https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK"
@@ -4071,6 +4315,32 @@
     },
     {
       "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353754,
+      "name": "TELEKINESIS (feat. SZA & Future)",
+      "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
+    },
+    {
+      "album": {
         "name": "031 To The World 2.0",
         "url": "https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH"
       },
@@ -4373,6 +4643,28 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203345,
+      "name": "Turks & Caicos (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H"
+    },
+    {
+      "album": {
         "name": "Twin (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/7IdlBOwOeXlriuPRozrkKz"
       },
@@ -4664,7 +4956,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 239266,
       "name": "Wet Dreamz",
       "url": "https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd"

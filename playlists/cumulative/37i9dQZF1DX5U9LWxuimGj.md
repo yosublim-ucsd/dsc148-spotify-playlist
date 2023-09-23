@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Angie K
 
-132 songs - 7 hr 15 min
+133 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Pienso en Ti](https://open.spotify.com/track/6187nmNResODDMkb2WNgES) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Caminando](https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl) | 3:03 | 2021-12-10 |  |
 | [Poder Vivir](https://open.spotify.com/track/0iHidkaP0x9Dd8IwFmNkG4) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [En Español](https://open.spotify.com/album/30DQiI9l9HMsebReRC9BC8) | 3:17 | 2021-12-10 |  |
 | [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-04-21 |  |
+| [Quiébrame El Corazón](https://open.spotify.com/track/0WDI0OGjZVOk9g9JD2qPWm) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Raíces \(Así Se Hace\)](https://open.spotify.com/album/4NMuYhBd6kXCUEJVEeKEHt) | 3:53 | 2023-09-22 |  |
 | [Reverse](https://open.spotify.com/track/2T6vymk0i2Pd5pli788DSQ) | [Andrea Vasquez](https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh) | [Reverse](https://open.spotify.com/album/67gR6ME2xaUHnG5dC7t3qk) | 3:41 | 2022-07-08 |  |
 | [Ring of Fire](https://open.spotify.com/track/0s62CMcYQzqro7kFKCVIAd) | [The Mexican Standoff](https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts) | [Country from another Country](https://open.spotify.com/album/2MyLrd6esHFxMjP1FdtC7W) | 3:42 | 2021-12-10 |  |
 | [Se Me Olvidó](https://open.spotify.com/track/7paFC3FEu1WtPVP4Do6VZN) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY!](https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg) | 2:39 | 2021-12-10 |  |

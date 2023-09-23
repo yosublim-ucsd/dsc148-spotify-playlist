@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > 😈 turn anywhere into a sexy club 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,523 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,660 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 24 | [Drag Me Out](https://open.spotify.com/track/2SDG2dYcoW5ksPGsiFGt7V) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Drag Me Out](https://open.spotify.com/album/2ulgg6hyu3NPgjpURpNYfs) | 2:19 |
 | 25 | [Yoga](https://open.spotify.com/track/0tsYFj9sMgKtCbCaBMbRyv) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Yoga](https://open.spotify.com/album/3jGiYAECmbxAsnF7Z7o8Nw) | 2:59 |
 | 26 | [Watch Me](https://open.spotify.com/track/2biaN4CEUrKHqJgPZLXgEc) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj) | 2:56 |
-| 27 | [Guud Gurls](https://open.spotify.com/track/6yTAycvx2hDqGYerNaphfI) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Kzn](https://open.spotify.com/artist/0RycZwNOoEzo6mh88IKFQW) | [Hott Boyz](https://open.spotify.com/album/1Um9iDs4Iicg0mwa67yqDV) | 3:10 |
-| 28 | [Sweat \- SOPHIE Remix](https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Joyful Death](https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg) | 4:18 |
+| 27 | [Sweat \- SOPHIE Remix](https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Joyful Death](https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg) | 4:18 |
+| 28 | [Guud Gurls](https://open.spotify.com/track/6yTAycvx2hDqGYerNaphfI) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Kzn](https://open.spotify.com/artist/0RycZwNOoEzo6mh88IKFQW) | [Hott Boyz](https://open.spotify.com/album/1Um9iDs4Iicg0mwa67yqDV) | 3:10 |
 | 29 | [Sour Candy \(with BLACKPINK\) \- Shygirl & Mura Masa Remix](https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 3:45 |
 | 30 | [h4msterb0y](https://open.spotify.com/track/6KGPqS4xegcAszjtMF40ra) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [h4msterb0y](https://open.spotify.com/album/3uy3LkqdF1axtXTw3QEexR) | 2:48 |
 | 31 | [HMU for a Good Time](https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [333 \(Deluxe\)](https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW) | 4:07 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 33 | [Horsey](https://open.spotify.com/track/6QK2oI4RCtxzCWzyffwlPP) | [Alex Chapman](https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Horsey](https://open.spotify.com/album/7dlCLHgCNz5vyliNZf8XNv) | 2:17 |
 | 34 | [Boy U Nasty](https://open.spotify.com/track/4aVEsdnZrP2borAsVin48m) | [Jensen Interceptor](https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e), [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [Dance Trax, Vol\. 36](https://open.spotify.com/album/3PanJjGGUoTU6PH9y3S1PT) | 5:32 |
 | 35 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 |
-| 36 | [Bunny Is A Rider \- Doss Remix](https://open.spotify.com/track/2F869Vx93KD4Mtfnn1nOqH) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Bunny Is A Rider \(Remix\)](https://open.spotify.com/album/2cWjOKPkOxBKrkWeDyuHua) | 3:57 |
-| 37 | [I'm Perfect](https://open.spotify.com/track/3YK1uAScUpCaFNCn004pm6) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [I'm Perfect](https://open.spotify.com/album/4l3Twapn6OepVAOHDPtmT3) | 2:46 |
+| 36 | [I'm Perfect](https://open.spotify.com/track/3YK1uAScUpCaFNCn004pm6) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [I'm Perfect](https://open.spotify.com/album/4l3Twapn6OepVAOHDPtmT3) | 2:46 |
+| 37 | [Bunny Is A Rider \- Doss Remix](https://open.spotify.com/track/2F869Vx93KD4Mtfnn1nOqH) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Bunny Is A Rider \(Remix\)](https://open.spotify.com/album/2cWjOKPkOxBKrkWeDyuHua) | 3:57 |
 | 38 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 |
 | 39 | [Cunty \- Wave Edit](https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Box of Chocolates](https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5) | 4:17 |
 | 40 | [Feels Like](https://open.spotify.com/track/4MzOMQEv4DY79F1uKPWRMJ) | [MikeQ](https://open.spotify.com/artist/0H2tgKu7aoe1YVflaRWH6o), [Kevin Jz Prodigy](https://open.spotify.com/artist/6f7VuR9EQ1JqkWXqGwvVH5) | [Let It All Out EP](https://open.spotify.com/album/2n4OhDkh0yjrFimKqX9cFN) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 49 | [FMU](https://open.spotify.com/track/5iAWOgjcEbgUgBz2MziBXh) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SEXORCISM](https://open.spotify.com/album/0CvWFH9MMcWphYqwBNOUYv) | 2:58 |
 | 50 | [Grab Dat Ass All Night](https://open.spotify.com/track/6SKDs0q95ZpmiVot0UYPVC) | [Kiddy.Wav](https://open.spotify.com/artist/4a0aeeAMBaJthFkE2A5QBW), [YTP](https://open.spotify.com/artist/1Y7DmQJicuaVo1OeQOWn6S) | [Level up My Skills](https://open.spotify.com/album/3hO7708tej9BhxYRzcsj4x) | 4:29 |
 
-Snapshot ID: `MCwwYTdiNmU1ODRlY2RmM2Q4NTE2MjZjNWQ1ZTViMThmYzU1NThiNDIw`
+Snapshot ID: `MCw0M2MwZjk1YjM4ZTAzYTYxNDI1NDUxNDViOWZjNzc1OTE5N2FiN2Nl`

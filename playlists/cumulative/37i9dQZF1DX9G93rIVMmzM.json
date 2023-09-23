@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274475,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM"
+    },
+    {
+      "album": {
         "name": "Remnants of the Vessel",
         "url": "https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD"
       },
@@ -694,6 +712,24 @@
       "duration_ms": 215440,
       "name": "Spiders",
       "url": "https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h"
+    },
+    {
+      "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168221,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37"
     },
     {
       "album": {

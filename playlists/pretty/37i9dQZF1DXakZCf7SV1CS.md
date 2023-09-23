@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,360 likes - 75 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,536 likes - 75 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 36 | [Doritos & Fritos](https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:16 |
 | 37 | [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 |
 | 38 | [cloak n dagger](https://open.spotify.com/track/5PK7AzBXo9hiOWxxqkSC1S) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [cloak n dagger](https://open.spotify.com/album/2IyyUm6A2nD0UpwhQwMY00) | 2:09 |
-| 39 | [Spoiled little brat](https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 3:19 |
-| 40 | [ok im cool](https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [bleh](https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi) | 2:47 |
+| 39 | [ok im cool](https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [bleh](https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi) | 2:47 |
+| 40 | [Spoiled little brat](https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 3:19 |
 | 41 | [ringtone](https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:23 |
 | 42 | [1:15](https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [1:15](https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU) | 2:10 |
 | 43 | [BFF](https://open.spotify.com/track/0G7ociNk1wIbXcU6uXtWPi) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Slayyyter](https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 74 | [Sorry Bro \(I Love You\)](https://open.spotify.com/track/5mcQEEsF7qB67sxzoVJvhC) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [My Agenda](https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF) | 1:27 |
 | 75 | [Decay](https://open.spotify.com/track/0gcIejeOFsOjbxzU5m2BV1) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [Secrets](https://open.spotify.com/album/7B6Xgysqk6NCRcMe6RjCUT) | 2:02 |
 
-Snapshot ID: `MCxlOWU0N2Q4NzU2NjAzYWRmZjc0OTQ0YzRlOTZiYjQ4MzU1NmFiOTA2`
+Snapshot ID: `MCw2YmRmZmM0MmI0YzRhN2RjNjYwNzdhNjA0YjM4NjU4NTY2Y2M1ZjBj`

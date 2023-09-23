@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Briston Maroney
 
-400 songs - 1 day 0 hr 54 min
+401 songs - 1 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [chamomile](https://open.spotify.com/track/2KWrSa9jhJXBU1kKkgpH2R) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [chamomile](https://open.spotify.com/album/4RJ9Jc5Kzxro65JWQzzaDp) | 3:53 | 2022-01-21 | 2022-07-29 |
 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 | 2022-04-29 |  |
 | [Change](https://open.spotify.com/track/3Nk3CL1Z73VMydXFCfnTcI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Change](https://open.spotify.com/album/1IQ1ZGGttsawfbItibsBHj) | 4:55 | 2022-01-21 | 2022-07-29 |
-| [Changes \(feat\. Laura Elliott\)](https://open.spotify.com/track/6jnpmyEFhz9Y4ASLZ48rGJ) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [More Better](https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA) | 4:00 | 2023-06-02 |  |
+| [Changes \(feat\. Laura Elliott\)](https://open.spotify.com/track/6jnpmyEFhz9Y4ASLZ48rGJ) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [More Better](https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA) | 4:00 | 2023-06-02 | 2023-09-23 |
 | [Cheese](https://open.spotify.com/track/1MD78xqTQoIXvZCn0CFyvF) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F) | 2:19 | 2023-05-26 | 2023-09-10 |
 | [Cheese](https://open.spotify.com/track/70Ui5PlefBqCOW3uvqNRAa) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/0cJXjTHI3rmuDoeSNb0YeU) | 2:19 | 2023-04-07 | 2023-04-29 |
 | [Cigarette](https://open.spotify.com/track/0mgi4eJrjd0uv0PGIx4MJo) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Cigarette](https://open.spotify.com/album/0Xv7O6PBVUdkdma1Qe5nbK) | 3:16 | 2023-04-14 | 2023-07-29 |
@@ -304,6 +304,7 @@
 | [Shove](https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Shove](https://open.spotify.com/album/1Zn4cAAjfE9ymJ6PYA34Jb) | 2:39 | 2023-09-15 |  |
 | [Simple Life](https://open.spotify.com/track/5JdkPxWojjdgoJyKXmKH7U) | [Maybe Babs](https://open.spotify.com/artist/3S1vxfO28NzR0pVVLqJkZf) | [Simple Life](https://open.spotify.com/album/00zDlsowht5s6cIeQJn4xL) | 4:12 | 2022-04-13 | 2022-07-26 |
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2022-04-29 |  |
+| [Sink;Swim](https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Ultrapure](https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9) | 2:57 | 2023-09-22 |  |
 | [Smashed Up My Fender](https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Smashed Up My Fender](https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP) | 2:54 | 2023-02-24 | 2023-06-01 |
 | [Snow Globes](https://open.spotify.com/track/0hpDqky5jV8MQqdvMWFv7K) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 9:13 | 2022-12-16 |  |
 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 | 2022-01-21 | 2023-01-10 |

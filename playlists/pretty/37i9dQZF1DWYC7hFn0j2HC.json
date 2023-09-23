@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de los charros cantores! Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 183007,
+  "num_followers": 183189,
   "original_name": "Charros de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2ExMzNjOGRiMTZjODIyYjcyMGU0NzhkZGVmMGYzMWE3ZjZhNGRj",
+  "snapshot_id": "MCxhZDkxMDBkZGEwMmJiMzBlZmRlYTBlOTYxNmM3NWNkYmY3YWFiNGQ5",
   "tracks": [
     {
       "added_at": "2022-01-25 23:38:31",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Canciones De Sus Peliculas",
-        "url": "https://open.spotify.com/album/4b0LLrVt3PWfWBV1Oz4fjL"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Entrega Total",
-      "url": "https://open.spotify.com/track/1Hh7gEOhoCBG1ob7Aw6biK"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "Corridos",
         "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 177388,
       "name": "Gabino Barrera",
       "url": "https://open.spotify.com/track/2QSvl8WTIffnGgCvvlpixE"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "Canciones De Sus Peliculas",
+        "url": "https://open.spotify.com/album/4b0LLrVt3PWfWBV1Oz4fjL"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/1Hh7gEOhoCBG1ob7Aw6biK"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -447,18 +447,18 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Javier Solis Con Acoo De Mariachi",
-        "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
+        "name": "Rancheras de Relajo",
+        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 159666,
-      "name": "Y...",
-      "url": "https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh"
+      "duration_ms": 224525,
+      "name": "La Chancla",
+      "url": "https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -495,18 +495,18 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Rancheras de Relajo",
-        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
+        "name": "Javier Solis Con Acoo De Mariachi",
+        "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 224525,
-      "name": "La Chancla",
-      "url": "https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi"
+      "duration_ms": 159666,
+      "name": "Y...",
+      "url": "https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Antonio Aguilar con Mariachi",
-        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 189776,
-      "name": "Y \u00c1ndale",
-      "url": "https://open.spotify.com/track/4wCF8sJr4J3rkLO2fjlswA"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "El Hijo Del Pueblo",
         "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 203600,
       "name": "La Ley del Monte",
       "url": "https://open.spotify.com/track/5DUU1yPitGPugNXB1YjNnu"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 189776,
+      "name": "Y \u00c1ndale",
+      "url": "https://open.spotify.com/track/4wCF8sJr4J3rkLO2fjlswA"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Amigo Organillero",
-        "url": "https://open.spotify.com/album/2Rv1ejNPg23IdQQhlZxdOQ"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "Esclavo y Amo",
-      "url": "https://open.spotify.com/track/3iwRXRVCaxXJYP9E2mEesX"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "El Incre\u00edble Jorge Negrete",
         "url": "https://open.spotify.com/album/0XSdSZeqRzwaTj7vLpbcbe"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 179813,
       "name": "El Jinete",
       "url": "https://open.spotify.com/track/3KzfO3JzdyQccxGEJTCvBq"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "Amigo Organillero",
+        "url": "https://open.spotify.com/album/2Rv1ejNPg23IdQQhlZxdOQ"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "Esclavo y Amo",
+      "url": "https://open.spotify.com/track/3iwRXRVCaxXJYP9E2mEesX"
     },
     {
       "added_at": "2022-01-25 23:38:31",

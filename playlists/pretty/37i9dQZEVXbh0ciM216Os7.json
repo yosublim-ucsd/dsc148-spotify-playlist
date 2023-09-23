@@ -6,10 +6,198 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNDU4NDAsMDAwMDAwMDBlYWM3OGI2MjEzZjc2ZDBlNmVhYmJmYTZjODAwNjVkNA==",
+  "snapshot_id": "MjgyNTU5MjAsMDAwMDAwMDBlZDhkM2M0M2RiNmVkNGQ4Y2I2MTk2YWRmNDMzOWJlOQ==",
   "tracks": [
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Here Comes Sunshine (Demo)",
+        "url": "https://open.spotify.com/album/3qbrhr54cpon3Wx7pKQZit"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 455403,
+      "name": "Here Comes Sunshine - Demo",
+      "url": "https://open.spotify.com/track/7Ac7QBdM2glC046hYdlcgR"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Killing Floor (Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967)",
+        "url": "https://open.spotify.com/album/2WI9lpUoCz2iXHWfrv2O2q"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 223616,
+      "name": "Killing Floor - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
+      "url": "https://open.spotify.com/track/7JAjSAKtzRgfiYnnOyAaWH"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Leo Metal, Vol. 44",
+        "url": "https://open.spotify.com/album/6bg7yvrUjIxcyWYI8svytn"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 201235,
+      "name": "Burning Down the House (Metal Version)",
+      "url": "https://open.spotify.com/track/6fSdwqFqUEb6Db0vMf78mC"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Bushwick Cowboy",
+        "url": "https://open.spotify.com/album/3pCrRQfCSaR4gIpcUewNsx"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 243980,
+      "name": "Bushwick Cowboy",
+      "url": "https://open.spotify.com/track/3LppKZzfb7NLNmxe3rKRk9"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Victory (feat. Inspectah Deck)",
+        "url": "https://open.spotify.com/album/6lJjltkTkX4fPxczJ67At7"
+      },
+      "artists": [
+        {
+          "name": "Elcamino",
+          "url": "https://open.spotify.com/artist/54jJabxN5Xa0aMGK4mYdVg"
+        },
+        {
+          "name": "Black Soprano Family",
+          "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 201556,
+      "name": "Victory (feat. Inspectah Deck)",
+      "url": "https://open.spotify.com/track/5wkaGvO8nNomCL7UCzknw6"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
+        "url": "https://open.spotify.com/album/1gBwiVRUudP3d2z5ti1oUB"
+      },
+      "artists": [
+        {
+          "name": "Nappyhigh",
+          "url": "https://open.spotify.com/artist/4MnQuPFIfAFg50h0RmnH0q"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 155003,
+      "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
+      "url": "https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/6CcokXL3Z0k0ja95TqQmPY"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        },
+        {
+          "name": "Tatum Langley",
+          "url": "https://open.spotify.com/artist/251dBMUv3Kxt0Wnu9Px1PL"
+        }
+      ],
+      "duration_ms": 320903,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/3SiUuh5xDvFTSo8xm2EOYa"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Around",
+        "url": "https://open.spotify.com/album/1xVB2ZFkpDB1L1FlXkrDsy"
+      },
+      "artists": [
+        {
+          "name": "Imeuhy",
+          "url": "https://open.spotify.com/artist/3822sVnWqznDFeIAQ2KqHn"
+        },
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 164517,
+      "name": "Around",
+      "url": "https://open.spotify.com/track/3cr4YdZtHmRKODwus59Wos"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Koala (Galantis & Misha K VIP Mix)",
+        "url": "https://open.spotify.com/album/64j5WK3Imc4Tzr1pkCxNpK"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Misha K",
+          "url": "https://open.spotify.com/artist/3py4xCfrW0MbgZEQXHp65q"
+        }
+      ],
+      "duration_ms": 141314,
+      "name": "Koala - Galantis & Misha K VIP Mix",
+      "url": "https://open.spotify.com/track/4oppIqY7Cx7VA7EoCNfG3L"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/1v4Ph9n95YfwzMXtKbc4mB"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/0nDzTiBd4yfZkywYaNGmr1"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Fingerblast",
         "url": "https://open.spotify.com/album/1rt0e7RP4a3PMHcQuzkUjq"
@@ -25,7 +213,7 @@
       "url": "https://open.spotify.com/track/2EJQGBhREOhahAghqchmKt"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "KAYTRAMIN\u00c9 (Instrumentals)",
         "url": "https://open.spotify.com/album/6qYJO4dmiWCqILHweWVmUf"
@@ -49,7 +237,7 @@
       "url": "https://open.spotify.com/track/01S67rhdOvdqdvQHBuLJpO"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Too Far Gone? (Live at MetLife Stadium, East Rutherford, NJ \u2013 August 6, 2023)",
         "url": "https://open.spotify.com/album/4fd8mqhFEDpn8sJitGqS8k"
@@ -65,7 +253,7 @@
       "url": "https://open.spotify.com/track/4P5M6lFGdjz58JJK6hYW8w"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "The Caliphate (feat. Vince Staples)",
         "url": "https://open.spotify.com/album/3MIxWOJ1dM0H5mO4p6OXGD"
@@ -89,7 +277,7 @@
       "url": "https://open.spotify.com/track/5zdaRJpmbs5lUHCOKn3K6e"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Free (feat. Tom Misch)",
         "url": "https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg"
@@ -109,7 +297,7 @@
       "url": "https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Doomsday Party",
         "url": "https://open.spotify.com/album/4vjJPfQI2sQ0lmGMmsqwrj"
@@ -125,7 +313,7 @@
       "url": "https://open.spotify.com/track/6dxtBnbVxQJ1UydpaayskF"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "MICHAEL (Deluxe)",
         "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
@@ -141,7 +329,7 @@
       "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "should sleep",
         "url": "https://open.spotify.com/album/2vIiA0ULu72YnqRDKlrxkI"
@@ -161,7 +349,7 @@
       "url": "https://open.spotify.com/track/0oixdxR51PVtYYnkd09G0Q"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5ckMdSLnCP1HEGe8clgU9B"
@@ -181,7 +369,7 @@
       "url": "https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/67nEDeSnu6MLIm5Vr8UWwf"
@@ -201,7 +389,7 @@
       "url": "https://open.spotify.com/track/4xO6bnooEZzdvKGNuciK0i"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Warrior Tour (Live Studio)",
         "url": "https://open.spotify.com/album/1HYQOTEd2Wujrl4MLnzL9j"
@@ -217,7 +405,7 @@
       "url": "https://open.spotify.com/track/4Rs6c0T5tMZQUFTavRfhME"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "End",
         "url": "https://open.spotify.com/album/6iyqFDzMfdgCcrWq7PeCTb"
@@ -233,83 +421,7 @@
       "url": "https://open.spotify.com/track/1WRte5ifgrT1KktdrUrtSo"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Bigger Houses",
-        "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 210440,
-      "name": "Neon Cowgirl",
-      "url": "https://open.spotify.com/track/4ktoN9vInbzJXXaSSlngng"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Another One Of Me",
-        "url": "https://open.spotify.com/album/2xnqikpcvH2vBYc89VnwwL"
-      },
-      "artists": [
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 220408,
-      "name": "Another One Of Me",
-      "url": "https://open.spotify.com/track/3vAdBZvbr3bFBiSLT4iVap"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "25 Tequilas",
-        "url": "https://open.spotify.com/album/5kKJHuwsaY0y5dB5XbhTNV"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 193760,
-      "name": "25 Tequilas",
-      "url": "https://open.spotify.com/track/6QPO10pkQL0rS3XvU650m8"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "USA",
-        "url": "https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG"
-      },
-      "artists": [
-        {
-          "name": "Bad Nerves",
-          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
-        }
-      ],
-      "duration_ms": 98000,
-      "name": "USA",
-      "url": "https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Dookie (30th Anniversary Outtakes)",
         "url": "https://open.spotify.com/album/5kxAELUDKq5GEVyTsImXZu"
@@ -325,7 +437,7 @@
       "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Rumours Live",
         "url": "https://open.spotify.com/album/24kD7cQnCojzadtNNlplxj"
@@ -341,43 +453,7 @@
       "url": "https://open.spotify.com/track/4VGBaj8omMGArPnZ56a695"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "One Week",
-        "url": "https://open.spotify.com/album/5kCMg3tpv9Qu25zUFem5VI"
-      },
-      "artists": [
-        {
-          "name": "Scott Bradlee's Postmodern Jukebox",
-          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
-        },
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 160400,
-      "name": "One Week",
-      "url": "https://open.spotify.com/track/3ILAN6s1hxqjRrhB6J5ron"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Dirty Diana (Metal Version)",
-        "url": "https://open.spotify.com/album/0rCS3cSTu4NJFPnzMfUk61"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 260495,
-      "name": "Dirty Diana (Metal Version)",
-      "url": "https://open.spotify.com/track/5JB0Ejgsq7Unv4JAzFPyHW"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Good Brother",
         "url": "https://open.spotify.com/album/58pAjB9W3xHw1aX0L9Jw3X"
@@ -397,7 +473,23 @@
       "url": "https://open.spotify.com/track/2OjpcpsNXvrqDJ6ltfzkeW"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Reveal",
+        "url": "https://open.spotify.com/album/4qHth7RtxTPuE406MGm7gJ"
+      },
+      "artists": [
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        }
+      ],
+      "duration_ms": 482744,
+      "name": "Denardirn",
+      "url": "https://open.spotify.com/track/4popyNacmTRK5gjVDb5mml"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "She Listen To Trap",
         "url": "https://open.spotify.com/album/02Fde3nEdXojU5KqJn5Di3"
@@ -421,27 +513,7 @@
       "url": "https://open.spotify.com/track/7IJNuqJ3lGE7qzxOQ9AMMS"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Le d\u00e9part",
-        "url": "https://open.spotify.com/album/5ZrSxyK6FlNWDVYC0FLBIf"
-      },
-      "artists": [
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        },
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        }
-      ],
-      "duration_ms": 175020,
-      "name": "Le d\u00e9part",
-      "url": "https://open.spotify.com/track/1PwDhG68D4jCxwjrvGvGc7"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Nature at Play: J.S. Bach's Cello Suite No. 1 (Live from the Great Smoky Mountains)",
         "url": "https://open.spotify.com/album/3NGKzPTT6anTfj7qb9QtYq"
@@ -461,23 +533,27 @@
       "url": "https://open.spotify.com/track/3t0yleDo23gh9vEjAfDbgX"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Reveal",
-        "url": "https://open.spotify.com/album/7g09Qn1ZsVdk4V8KusjWUn"
+        "name": "Le d\u00e9part",
+        "url": "https://open.spotify.com/album/5ZrSxyK6FlNWDVYC0FLBIf"
       },
       "artists": [
         {
-          "name": "Micah Thomas",
-          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
         }
       ],
-      "duration_ms": 226203,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/4TpluNCju4d7QVaRQouPCg"
+      "duration_ms": 175020,
+      "name": "Le d\u00e9part",
+      "url": "https://open.spotify.com/track/1PwDhG68D4jCxwjrvGvGc7"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Origin Story",
         "url": "https://open.spotify.com/album/2swkmIyTPKt9sihMZXPmMv"
@@ -497,31 +573,7 @@
       "url": "https://open.spotify.com/track/4ybWYbMBbqqTthbhYx6Z40"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Shaolin's Revenge",
-        "url": "https://open.spotify.com/album/0pQHdDDKjOHgRIL9j7sOfZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Godzila",
-          "url": "https://open.spotify.com/artist/2hTjSZbeXlWdWqYQbeG2Kb"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 125518,
-      "name": "Shaolin's Revenge",
-      "url": "https://open.spotify.com/track/6LN4koIhyYzlVTCYTPhK7h"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Notorious",
         "url": "https://open.spotify.com/album/6I5IlEokrrRc7JE06R6R3n"
@@ -541,27 +593,7 @@
       "url": "https://open.spotify.com/track/2j5J8ywEvdkXIPL8bjzaOz"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Yours Truly (Tenth Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2VSBGJ8bUuNgmOYXHIQagM"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 213694,
-      "name": "The Way - Live from London (feat. Mac Miller)",
-      "url": "https://open.spotify.com/track/4VUp83ibStl36qC7UOxGkF"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Live In Tokyo",
         "url": "https://open.spotify.com/album/4lituQ1x0A5NXh7dmEHS3S"

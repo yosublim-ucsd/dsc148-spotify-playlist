@@ -1903,6 +1903,24 @@
     },
     {
       "album": {
+        "name": "Von Wind und Anonymit\u00e4t",
+        "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195121,
+      "name": "Es h\u00f6rt nicht auf",
+      "url": "https://open.spotify.com/track/0Uc0m7ThckGvaT0TFG7snX"
+    },
+    {
+      "album": {
         "name": "es ist sp\u00e4t",
         "url": "https://open.spotify.com/album/4kiJxNQKvKzuClgBAbHcdW"
       },
@@ -4126,7 +4144,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 218743,
       "name": "Mit dir kann ich alleine sein",
       "url": "https://open.spotify.com/track/6OYxGokMBWj8wCbDIbhFmB"

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side A",
-  "num_followers": 52913,
+  "num_followers": 52980,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTcxY2UwYTVkYWQ1ZDcwZWY5ZDJkODJhZDE3YjI2ZWQ0NzBjZGZk",
+  "snapshot_id": "MCwxMWVjNzRlNjk5YmQ3MGFhZjUwMDQ2ODY2M2E0NTg5OGE3MTEyNmZh",
   "tracks": [
     {
       "added_at": "2023-09-12 08:17:16",
@@ -31,6 +31,30 @@
       "duration_ms": 104851,
       "name": "Kadalanu (From \"Sapta Sagaradaache Ello - Side A\")",
       "url": "https://open.spotify.com/track/1SRXTf3yNjZh1x0DTQv6MH"
+    },
+    {
+      "added_at": "2023-09-22 09:38:53",
+      "album": {
+        "name": "OGM (From \"Ghost\")",
+        "url": "https://open.spotify.com/album/1DejFzQ3uRdlJtWvqiIRD6"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "MC Chetan",
+          "url": "https://open.spotify.com/artist/6xVCfFjIqeehPyqll3aVNb"
+        },
+        {
+          "name": "Jithin Raj",
+          "url": "https://open.spotify.com/artist/2GkBjSH85M2uKGVtFL5eua"
+        }
+      ],
+      "duration_ms": 165323,
+      "name": "OGM (From \"Ghost\")",
+      "url": "https://open.spotify.com/track/25T3o2LN7IV1mIXCt1FPbQ"
     },
     {
       "added_at": "2023-09-11 13:29:48",
@@ -97,20 +121,56 @@
       "url": "https://open.spotify.com/track/6hiAkSbSDFKBMDCHz1lbTH"
     },
     {
-      "added_at": "2023-07-27 13:11:20",
+      "added_at": "2023-09-22 09:38:53",
       "album": {
-        "name": "Hostel Hudugaru Bekagiddare (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4m5iJUD34mmXputNXIBwNl"
+        "name": "Aaradhipe (From \"Toby\")",
+        "url": "https://open.spotify.com/album/3dRZ2ZFqD9VnzO5S52ueME"
       },
       "artists": [
         {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+          "name": "Midhun Mukundan",
+          "url": "https://open.spotify.com/artist/6oyTfygD0Skzy7RZOdUAZp"
+        },
+        {
+          "name": "Raj B Shetty",
+          "url": "https://open.spotify.com/artist/3iL3sjwDBgvwFfCpCguV6L"
+        },
+        {
+          "name": "Prithvi Antha",
+          "url": "https://open.spotify.com/artist/1VZqZOwtCKmOw0XUAMbjUN"
+        },
+        {
+          "name": "Siddhartha Belmannu",
+          "url": "https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc"
         }
       ],
-      "duration_ms": 247125,
-      "name": "Hostel Hudugaru Protest Song",
-      "url": "https://open.spotify.com/track/0EmwGgP7UAyWjtalVLdciE"
+      "duration_ms": 230000,
+      "name": "Aaradhipe (From \"Toby\")",
+      "url": "https://open.spotify.com/track/77wUMQppODRuIMXZrnoD27"
+    },
+    {
+      "added_at": "2023-09-22 09:38:53",
+      "album": {
+        "name": "O Maaye (From \"Dvandva\")",
+        "url": "https://open.spotify.com/album/5Kli99ED9NGZYrZhXB4fNS"
+      },
+      "artists": [
+        {
+          "name": "Chandan Shetty",
+          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
+        },
+        {
+          "name": "Akash Parva",
+          "url": "https://open.spotify.com/artist/2LyrhBPTEuifocZjRarMW6"
+        },
+        {
+          "name": "Prathap s",
+          "url": "https://open.spotify.com/artist/2Hbu16ngEZhHp5c7IIU4Pm"
+        }
+      ],
+      "duration_ms": 257920,
+      "name": "O Maaye (From \"Dvandva\")",
+      "url": "https://open.spotify.com/track/6Lp1E4RRJKlqfhR5MZYXYm"
     },
     {
       "added_at": "2023-09-20 12:59:03",
@@ -191,6 +251,22 @@
       "duration_ms": 188339,
       "name": "Oga Oga (from \"Bad Manners\")",
       "url": "https://open.spotify.com/track/2AAD29MUJTPMbG6b0yrQNc"
+    },
+    {
+      "added_at": "2023-09-22 09:38:53",
+      "album": {
+        "name": "Jana Jana Hodi Shiva (From \"Mangalavaaram\")",
+        "url": "https://open.spotify.com/album/6Cs82xDpzP0cvVl6lWpEmO"
+      },
+      "artists": [
+        {
+          "name": "V.M. Mahalingam",
+          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+        }
+      ],
+      "duration_ms": 235312,
+      "name": "Jana Jana Hodi Shiva (From \"Mangalavaaram\")",
+      "url": "https://open.spotify.com/track/4DoZrVNR0Ko2Pp99MpfG76"
     },
     {
       "added_at": "2023-09-12 10:06:17",
@@ -367,38 +443,6 @@
       "duration_ms": 209500,
       "name": "Title Track (From \"Tatsama Tadbhava\")",
       "url": "https://open.spotify.com/track/3HiGWglcQi1VTloJcgDCPz"
-    },
-    {
-      "added_at": "2023-08-01 11:02:43",
-      "album": {
-        "name": "Pickle Song (From \"Aachar & Co.\")",
-        "url": "https://open.spotify.com/album/4yTFOUFVGw4kB5MP5beWOz"
-      },
-      "artists": [
-        {
-          "name": "Bindhumalini",
-          "url": "https://open.spotify.com/artist/0PSChrfgkjas0HCm3Fnmpr"
-        },
-        {
-          "name": "Trilok Trivikrama",
-          "url": "https://open.spotify.com/artist/6MTe5fJI1DmWQXzfh9KHhw"
-        },
-        {
-          "name": "EmmJee",
-          "url": "https://open.spotify.com/artist/2fI6CmR06cNDnymgwcIbwg"
-        },
-        {
-          "name": "Deepika Kumar",
-          "url": "https://open.spotify.com/artist/3gCh38gNO1aAZTRrgPyJdn"
-        },
-        {
-          "name": "Preethi Bharadwaj",
-          "url": "https://open.spotify.com/artist/3Hyu5mRwsRs9nGjorawnC0"
-        }
-      ],
-      "duration_ms": 183057,
-      "name": "Pickle Song (From \"Aachar & Co.\")",
-      "url": "https://open.spotify.com/track/7nOV1s0tvcnFwSnwjXMA9a"
     },
     {
       "added_at": "2023-09-14 12:04:33",
@@ -705,34 +749,6 @@
       "url": "https://open.spotify.com/track/6zSZvXv7W17mtIA4yZdvDD"
     },
     {
-      "added_at": "2023-08-30 12:19:27",
-      "album": {
-        "name": "Dummare Dumma (From \"Skanda\")",
-        "url": "https://open.spotify.com/album/7sqXuX31X5Mnxdb94Roubn"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Sri Krishna",
-          "url": "https://open.spotify.com/artist/3qbOzkPr9fManpaVIp3QBF"
-        },
-        {
-          "name": "Pavani Vasa",
-          "url": "https://open.spotify.com/artist/3jbXHJ7WVdx5zELu4sNlx0"
-        },
-        {
-          "name": "Varadaraj Chikballapura",
-          "url": "https://open.spotify.com/artist/5mIoP70HRX5S0iYGCUlmQW"
-        }
-      ],
-      "duration_ms": 251608,
-      "name": "Dummare Dumma (From \"Skanda\")",
-      "url": "https://open.spotify.com/track/1e5we3vLoPblqo4DMGncyy"
-    },
-    {
       "added_at": "2023-08-29 05:10:47",
       "album": {
         "name": "En Madbeku (From \"Suthradaari\")",
@@ -891,34 +907,6 @@
       "duration_ms": 250670,
       "name": "Ayyo Daivave",
       "url": "https://open.spotify.com/track/70piqkMPBgUEWri7x9ZoAB"
-    },
-    {
-      "added_at": "2023-08-23 13:30:29",
-      "album": {
-        "name": "Preethiya Besuge (From \"DAD - Devaraj Aliyas David\")",
-        "url": "https://open.spotify.com/album/6cf4vw6ctEnsBhjkaNq4Q7"
-      },
-      "artists": [
-        {
-          "name": "Akash Seth",
-          "url": "https://open.spotify.com/artist/3O9hO2hlqVD33howbdXAxG"
-        },
-        {
-          "name": "Arjun krshna",
-          "url": "https://open.spotify.com/artist/1R6hEhpS9gtV7RJidh40mG"
-        },
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        },
-        {
-          "name": "Madhuri Seshadri",
-          "url": "https://open.spotify.com/artist/4so2LO2B3OqrAlpG9ulXqx"
-        }
-      ],
-      "duration_ms": 274105,
-      "name": "Preethiya Besuge (From \"DAD - Devaraj Aliyas David\")",
-      "url": "https://open.spotify.com/track/5x4Bvtqk7Xoo9Zd2Bsq58e"
     },
     {
       "added_at": "2023-08-16 09:38:02",

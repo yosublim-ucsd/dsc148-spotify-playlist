@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "A Place For The Mind",
+        "url": "https://open.spotify.com/album/1qouaYQiciWrOvgEOQKvRq"
+      },
+      "artists": [
+        {
+          "name": "n.i.g.h.t",
+          "url": "https://open.spotify.com/artist/2GyMdvV1PHqJFIet45Hobk"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187727,
+      "name": "A Place For The Mind",
+      "url": "https://open.spotify.com/track/7geKBGxxwkJI9AKgEFXvXJ"
+    },
+    {
+      "album": {
         "name": "Our Precious Lives",
         "url": "https://open.spotify.com/album/7HzNR4uXmBuoJXtea8E01z"
       },
@@ -10522,6 +10540,24 @@
       "duration_ms": 128026,
       "name": "Silver And Coal",
       "url": "https://open.spotify.com/track/20eiZMFDk5Sm7zCQ2XrDXg"
+    },
+    {
+      "album": {
+        "name": "Simien",
+        "url": "https://open.spotify.com/album/0vS0WdECffLMWHgYQEacuP"
+      },
+      "artists": [
+        {
+          "name": "Petros Idris",
+          "url": "https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210624,
+      "name": "Simien",
+      "url": "https://open.spotify.com/track/3tf0epgGh6Zbh2skKajYjw"
     },
     {
       "album": {

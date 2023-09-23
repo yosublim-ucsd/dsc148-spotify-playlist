@@ -2991,6 +2991,24 @@
     },
     {
       "album": {
+        "name": "Extension",
+        "url": "https://open.spotify.com/album/5dZ9B7wDetwuHLmxHsEeJS"
+      },
+      "artists": [
+        {
+          "name": "Oblivion",
+          "url": "https://open.spotify.com/artist/5bay23a7lnykOEQWt7FVnQ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150133,
+      "name": "Extension",
+      "url": "https://open.spotify.com/track/7cpZLMamKPbJnV3hMAof98"
+    },
+    {
+      "album": {
         "name": "Rusted Waters",
         "url": "https://open.spotify.com/album/1kG7ooS7ra0bNHkwXCLf3c"
       },
@@ -3384,6 +3402,24 @@
       "duration_ms": 179635,
       "name": "Follow My Voice",
       "url": "https://open.spotify.com/track/5bUMUrnrWr29gSRy7UgUOO"
+    },
+    {
+      "album": {
+        "name": "Follow Thru",
+        "url": "https://open.spotify.com/album/00wBugZO9xm4oB50ULFqBn"
+      },
+      "artists": [
+        {
+          "name": "Meu Malu",
+          "url": "https://open.spotify.com/artist/6zEIDev1R1S22evodGYe6K"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118723,
+      "name": "Follow Thru",
+      "url": "https://open.spotify.com/track/5mHmjiDNIipdpNlDc6z0j7"
     },
     {
       "album": {
@@ -6275,6 +6311,24 @@
     },
     {
       "album": {
+        "name": "Echo Chambers",
+        "url": "https://open.spotify.com/album/5pj7552VoUroJYBKEtZGQd"
+      },
+      "artists": [
+        {
+          "name": "Imala Zir",
+          "url": "https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154566,
+      "name": "Northern Hemisphere",
+      "url": "https://open.spotify.com/track/6kgo930u6r7SUYCbtoGBpY"
+    },
+    {
+      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/7icAjJqNlqrBiGPhii6QW1"
       },
@@ -7100,7 +7154,7 @@
       ],
       "date_added": "2020-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 125500,
       "name": "Presence",
       "url": "https://open.spotify.com/track/02QoKc20zzH9A8mf25NfPq"

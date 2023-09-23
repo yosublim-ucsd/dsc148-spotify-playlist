@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 174590,
+  "num_followers": 174660,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjVmMjA4ZmNlNWI5ZWZiYmU4ZGIwNTY3OWZmNGVmNjc0ZTExMGU0",
+  "snapshot_id": "MCw5ZjdlNjQ5NmU1ZWE1M2UwOGJmZjY1YWE1MGQ2ZDY4ZGYwZGM3NGZj",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        },
+        {
+          "name": "Oveja Cosmica",
+          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
+        }
+      ],
+      "duration_ms": 160979,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Sin Escalas",
         "url": "https://open.spotify.com/album/4vhqPvtXtDQuiH2In9s0bQ"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 211050,
       "name": "Sin Escalas",
       "url": "https://open.spotify.com/track/6M6Wlo6TvOOTdv2NmCw0zB"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        },
-        {
-          "name": "Oveja Cosmica",
-          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
-        }
-      ],
-      "duration_ms": 160979,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Todo Por Ti",
+        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
+      },
+      "artists": [
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        }
+      ],
+      "duration_ms": 148988,
+      "name": "Todo Por Ti",
+      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Futuro Contigo",
         "url": "https://open.spotify.com/album/4F1jlzvEXok5uEPkjorsCe"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 213033,
       "name": "Futuro Contigo",
       "url": "https://open.spotify.com/track/6AfHQ4B8pUmIVCBrGAyJTO"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Todo Por Ti",
-        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
-      },
-      "artists": [
-        {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
-        }
-      ],
-      "duration_ms": 148988,
-      "name": "Todo Por Ti",
-      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Mi Cielo",
+        "url": "https://open.spotify.com/album/42aQGgd4gZBjcr41Tacpqs"
+      },
+      "artists": [
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "Mi Cielo",
+      "url": "https://open.spotify.com/track/5HMbjD7f08PqxfxErIwmrx"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Llegaste T\u00fa",
         "url": "https://open.spotify.com/album/6GBHEIWKGd5YNz3z3wkDKi"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 241640,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/5luYTHjsdvio9nY3zwgUWp"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Mi Cielo",
-        "url": "https://open.spotify.com/album/42aQGgd4gZBjcr41Tacpqs"
-      },
-      "artists": [
-        {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "Mi Cielo",
-      "url": "https://open.spotify.com/track/5HMbjD7f08PqxfxErIwmrx"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Mateo 10:16",
-        "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
-      },
-      "artists": [
-        {
-          "name": "Yowcend la Igriega",
-          "url": "https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "Flavor",
-      "url": "https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Firme Y Enfocado",
         "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 231627,
       "name": "Firme Y Enfocado",
       "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Mateo 10:16",
+        "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
+      },
+      "artists": [
+        {
+          "name": "Yowcend la Igriega",
+          "url": "https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "Flavor",
+      "url": "https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF"
     },
     {
       "added_at": "2022-08-27 05:04:45",

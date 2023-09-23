@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 
 > Driving electronic grooves for improved motivation and performance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,590 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,656 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,28 +19,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 | 9 | [Figures](https://open.spotify.com/track/3gW3k4nrod4POzhmV742rt) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Figures](https://open.spotify.com/album/0NAtQR6It2XhpFsD8DNgJg) | 2:48 |
 | 10 | [If I Tried](https://open.spotify.com/track/7uhpIuXpKa6cMWe5uRD6aV) | [Zumaia](https://open.spotify.com/artist/30w51iPwkBwWcs6ZzrrxsH) | [If I Tried](https://open.spotify.com/album/0vp88bPsCQ66QG8eyqST33) | 2:33 |
 | 11 | [too](https://open.spotify.com/track/7egRCR2SWh6a75o2eeWl6c) | [Part2](https://open.spotify.com/artist/07NTW8rhDS0FTuXB9eBuex) | [too](https://open.spotify.com/album/4rKCO49fIF93PsGXULoAND) | 2:56 |
-| 12 | [Vexed](https://open.spotify.com/track/1lBhMsLkgsaVQTsaoE8GEd) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Vexed](https://open.spotify.com/album/090RrN1MNhYqO6DWsFOwxT) | 2:33 |
-| 13 | [cloudless](https://open.spotify.com/track/5XCUn3nfOkGJYOyGshdFhC) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [cloudless](https://open.spotify.com/album/6HyFrG0HkKZILVZJCwXt8U) | 3:03 |
-| 14 | [talking to the stars](https://open.spotify.com/track/7nPMoLmBEkX5RZJFu69yBJ) | [Petrossi](https://open.spotify.com/artist/292Qxue6mDhhn2lAb1UTPY) | [talking to the stars](https://open.spotify.com/album/0QYLpRpeFBLc9ZluwNesya) | 3:10 |
-| 15 | [To Do List](https://open.spotify.com/track/2yboFvgwf9aj8kNpYzWFJb) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Autograph](https://open.spotify.com/album/1RiVyB6YIkv3cwCtnzVwE9) | 3:17 |
-| 16 | [Queztal](https://open.spotify.com/track/3dyrjNrz8HcVBx2VsUaYVh) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Kaloula](https://open.spotify.com/album/7zFO0WXUlKoBjyQJXGguRS) | 4:08 |
-| 17 | [FUBAR](https://open.spotify.com/track/57YQVOGyS0QWE8QOo9S0gF) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Thursday All Nighter](https://open.spotify.com/album/692XUSqcbSLY9WBtLo9fGx) | 3:32 |
-| 18 | [Wons](https://open.spotify.com/track/6xcXGCA6Qs9LwxY4r6B0g4) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Reyk](https://open.spotify.com/album/1BkKPSXIsJvSBhqS9FI7qY) | 3:15 |
-| 19 | [Clearly](https://open.spotify.com/track/4jQFk9HpGI7J4h8DqAUKsW) | [Vince Violet](https://open.spotify.com/artist/4rEFfTuw86reS4wKHIp9Np) | [Clearly](https://open.spotify.com/album/3QX8yDjkNZ2S0By7xwTL7r) | 2:28 |
-| 20 | [Caribbean Dream](https://open.spotify.com/track/7qowRueNKMOI1ARK2ltG8K) | [Jeremy Joel](https://open.spotify.com/artist/0pnGMRqJU5tWr7Hu9u5GZq) | [Way To Go](https://open.spotify.com/album/6vIOgYcqy779K08HZbUyOq) | 2:09 |
-| 21 | [Liberty](https://open.spotify.com/track/1cJQgFcJzvGTtDeckN3E4B) | [One Astra](https://open.spotify.com/artist/3dMytoLrOfFv2VBrrdQzg6) | [Liberty](https://open.spotify.com/album/6mgtlDn3NEr06rd4GYb6tR) | 2:17 |
-| 22 | [Oaks Are Real](https://open.spotify.com/track/7KoQlaxIbg3FhBABlBTKEt) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Oaks Are Real](https://open.spotify.com/album/4qIxKQMmCNGyXZWH7Bel54) | 2:52 |
-| 23 | [Rush](https://open.spotify.com/track/3CC9G02pqtJ88KCabogFba) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Catch](https://open.spotify.com/album/4rS56AkPxsyz6CH2qwRRQa) | 2:56 |
-| 24 | [Ramblas](https://open.spotify.com/track/5yvdQZqYzMt191ssW3NvUD) | [Metra kit](https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3) | [Ramblas](https://open.spotify.com/album/1wc0My9WNuYDavAKc7ifgf) | 3:12 |
-| 25 | [Past Eleven](https://open.spotify.com/track/1VK0VKSSYrx8Mg3trmV8zL) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Past Eleven](https://open.spotify.com/album/0kQhu6DLrWNJRY4qUa9moP) | 2:06 |
-| 26 | [Francisco](https://open.spotify.com/track/0H3e2aKIJo154hMg1fcTE2) | [Ocean Grape](https://open.spotify.com/artist/6jVI2QqhcksiDyvkBPAgtR) | [Francisco](https://open.spotify.com/album/609Yhbf9SQvk7pFEQWqU4H) | 2:27 |
-| 27 | [Glacier](https://open.spotify.com/track/2W8nY0OmBoOaPtGxtJ3chw) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Glacier](https://open.spotify.com/album/73k8K7hyjXrHqmfEXpOyZf) | 2:12 |
-| 28 | [Casa Commercial](https://open.spotify.com/track/4wwrQNY2AjrCt2mGc7HcQA) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Casa Commercial](https://open.spotify.com/album/2TtYOujCGZcesSm6FEe24g) | 2:48 |
-| 29 | [Better Now](https://open.spotify.com/track/7vWrnIvoGCVxpBMGJO9Nbi) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [Better Now](https://open.spotify.com/album/4x50U3vN98fEii4vIbLNVA) | 3:21 |
-| 30 | [Branches](https://open.spotify.com/track/1sI1OCmoBg5Ty1xN1PRAHs) | [Lazy Driver](https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg) | [Branches](https://open.spotify.com/album/4yU8TPNB2El1nZW23uU1LH) | 2:13 |
-| 31 | [Keep Them Alive](https://open.spotify.com/track/3VKRg5UXSovJoNabq2vrnq) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [Keep Them Alive](https://open.spotify.com/album/2szJ6N7MDi2ekOSNO6BWs2) | 3:15 |
-| 32 | [Brill](https://open.spotify.com/track/33OX22n8bgi4V7bzjsD7Ws) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Brill](https://open.spotify.com/album/5USoIoP9r7gFjm2cgle1tZ) | 5:53 |
-| 33 | [Rebel](https://open.spotify.com/track/2Pbls3fWibSzMOjG43sVBF) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Parachutes](https://open.spotify.com/album/5MoNA5y7SgdWPmr7Tw23Hk) | 3:58 |
+| 12 | [Apollo](https://open.spotify.com/track/5VkZbMDVM7ZDorvYvxH9fT) | [Didi Henric](https://open.spotify.com/artist/6lV1RWdJ0XSM4OxR8QbYyk) | [Apollo](https://open.spotify.com/album/3fcnJzILfEJWHydxYMCrry) | 2:16 |
+| 13 | [Vexed](https://open.spotify.com/track/1lBhMsLkgsaVQTsaoE8GEd) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Vexed](https://open.spotify.com/album/090RrN1MNhYqO6DWsFOwxT) | 2:33 |
+| 14 | [cloudless](https://open.spotify.com/track/5XCUn3nfOkGJYOyGshdFhC) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [cloudless](https://open.spotify.com/album/6HyFrG0HkKZILVZJCwXt8U) | 3:03 |
+| 15 | [talking to the stars](https://open.spotify.com/track/7nPMoLmBEkX5RZJFu69yBJ) | [Petrossi](https://open.spotify.com/artist/292Qxue6mDhhn2lAb1UTPY) | [talking to the stars](https://open.spotify.com/album/0QYLpRpeFBLc9ZluwNesya) | 3:10 |
+| 16 | [To Do List](https://open.spotify.com/track/2yboFvgwf9aj8kNpYzWFJb) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Autograph](https://open.spotify.com/album/1RiVyB6YIkv3cwCtnzVwE9) | 3:17 |
+| 17 | [Queztal](https://open.spotify.com/track/3dyrjNrz8HcVBx2VsUaYVh) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Kaloula](https://open.spotify.com/album/7zFO0WXUlKoBjyQJXGguRS) | 4:08 |
+| 18 | [FUBAR](https://open.spotify.com/track/57YQVOGyS0QWE8QOo9S0gF) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Thursday All Nighter](https://open.spotify.com/album/692XUSqcbSLY9WBtLo9fGx) | 3:32 |
+| 19 | [Wons](https://open.spotify.com/track/6xcXGCA6Qs9LwxY4r6B0g4) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Reyk](https://open.spotify.com/album/1BkKPSXIsJvSBhqS9FI7qY) | 3:15 |
+| 20 | [Clearly](https://open.spotify.com/track/4jQFk9HpGI7J4h8DqAUKsW) | [Vince Violet](https://open.spotify.com/artist/4rEFfTuw86reS4wKHIp9Np) | [Clearly](https://open.spotify.com/album/3QX8yDjkNZ2S0By7xwTL7r) | 2:28 |
+| 21 | [Caribbean Dream](https://open.spotify.com/track/7qowRueNKMOI1ARK2ltG8K) | [Jeremy Joel](https://open.spotify.com/artist/0pnGMRqJU5tWr7Hu9u5GZq) | [Way To Go](https://open.spotify.com/album/6vIOgYcqy779K08HZbUyOq) | 2:09 |
+| 22 | [Liberty](https://open.spotify.com/track/1cJQgFcJzvGTtDeckN3E4B) | [One Astra](https://open.spotify.com/artist/3dMytoLrOfFv2VBrrdQzg6) | [Liberty](https://open.spotify.com/album/6mgtlDn3NEr06rd4GYb6tR) | 2:17 |
+| 23 | [Oaks Are Real](https://open.spotify.com/track/7KoQlaxIbg3FhBABlBTKEt) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Oaks Are Real](https://open.spotify.com/album/4qIxKQMmCNGyXZWH7Bel54) | 2:52 |
+| 24 | [Rush](https://open.spotify.com/track/3CC9G02pqtJ88KCabogFba) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Catch](https://open.spotify.com/album/4rS56AkPxsyz6CH2qwRRQa) | 2:56 |
+| 25 | [Ramblas](https://open.spotify.com/track/5yvdQZqYzMt191ssW3NvUD) | [Metra kit](https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3) | [Ramblas](https://open.spotify.com/album/1wc0My9WNuYDavAKc7ifgf) | 3:12 |
+| 26 | [Past Eleven](https://open.spotify.com/track/1VK0VKSSYrx8Mg3trmV8zL) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Past Eleven](https://open.spotify.com/album/0kQhu6DLrWNJRY4qUa9moP) | 2:06 |
+| 27 | [Francisco](https://open.spotify.com/track/0H3e2aKIJo154hMg1fcTE2) | [Ocean Grape](https://open.spotify.com/artist/6jVI2QqhcksiDyvkBPAgtR) | [Francisco](https://open.spotify.com/album/609Yhbf9SQvk7pFEQWqU4H) | 2:27 |
+| 28 | [Glacier](https://open.spotify.com/track/2W8nY0OmBoOaPtGxtJ3chw) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Glacier](https://open.spotify.com/album/73k8K7hyjXrHqmfEXpOyZf) | 2:12 |
+| 29 | [Casa Commercial](https://open.spotify.com/track/4wwrQNY2AjrCt2mGc7HcQA) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Casa Commercial](https://open.spotify.com/album/2TtYOujCGZcesSm6FEe24g) | 2:48 |
+| 30 | [Better Now](https://open.spotify.com/track/7vWrnIvoGCVxpBMGJO9Nbi) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [Better Now](https://open.spotify.com/album/4x50U3vN98fEii4vIbLNVA) | 3:21 |
+| 31 | [Branches](https://open.spotify.com/track/1sI1OCmoBg5Ty1xN1PRAHs) | [Lazy Driver](https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg) | [Branches](https://open.spotify.com/album/4yU8TPNB2El1nZW23uU1LH) | 2:13 |
+| 32 | [Keep Them Alive](https://open.spotify.com/track/3VKRg5UXSovJoNabq2vrnq) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [Keep Them Alive](https://open.spotify.com/album/2szJ6N7MDi2ekOSNO6BWs2) | 3:15 |
+| 33 | [Brill](https://open.spotify.com/track/33OX22n8bgi4V7bzjsD7Ws) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Brill](https://open.spotify.com/album/5USoIoP9r7gFjm2cgle1tZ) | 5:53 |
 | 34 | [Mistwalker](https://open.spotify.com/track/29HBY8bz6ut3ePI9VyEtx5) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Mistwalker](https://open.spotify.com/album/6r0JeC4CfopkU0otpIKqTg) | 4:50 |
 | 35 | [Makes No Difference](https://open.spotify.com/track/1tER9ctlfFASFYpqGLb2Ux) | [Phoenix Rouge](https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM) | [Makes No Difference](https://open.spotify.com/album/5O8TtrUD1c9OjG8I5H7y3N) | 2:40 |
 | 36 | [Roma Routine](https://open.spotify.com/track/6tRdbsDBn6BQ4Pk9fz2JAl) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Roma Routine](https://open.spotify.com/album/7DVuxMwQTHvRi2l6Vra5Ce) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 | 99 | [Tempted](https://open.spotify.com/track/6hiA6WO0DRm9D480BIGqOT) | [Summon U](https://open.spotify.com/artist/0TyHSpKbAEP2QoXB7jVxCE) | [Technically Sane](https://open.spotify.com/album/3zVigb4My48jZIPLWVDiRW) | 2:55 |
 | 100 | [canggu \- Edit](https://open.spotify.com/track/0jy4TqKxOwZoraKJkle0dC) | [wet n salty](https://open.spotify.com/artist/2Ai8jQFx9LfNmToEgFjDbn) | [canggu \(Edit\)](https://open.spotify.com/album/6X8rpYiAaelLkwZK9Vx32k) | 2:23 |
 
-Snapshot ID: `MCw0YTM2ZWQ1ZjAyYmVlNDg4ZWU1NDZiMTk4Zjg1OWVjOTM3NmRlNDgx`
+Snapshot ID: `MCxlYjY4ZGJiYTdmMGIzOTYyYTU1MThlNmMzMzkxYWRmNzBlZTMzZTQ3`

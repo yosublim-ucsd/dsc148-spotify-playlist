@@ -4,7 +4,7 @@
 
 > Raise a voice and testify with African gospel music\.  Cover: <a href="https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa?si=kegl4orFR6eE\_hRkksjFpw">Mr M & Revelation</a>
 
-100 songs - 9 hr 11 min
+101 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Imela \(feat\. Enitan Adaba\)](https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Enitan Adaba](https://open.spotify.com/artist/1FbZCsyKioGGgzQDj6RIkI) | [The Son of God \(& Imela\)](https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn) | 5:54 | 2023-04-07 |  |
 | [In Your Arms](https://open.spotify.com/track/7D4Dco7KtJWomSWYNbECA7) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [In Your Arms](https://open.spotify.com/album/7mBjRZdYC0gN0du3ZKHHvK) | 7:11 | 2023-08-04 | 2023-08-12 |
 | [Interlude\-Zulu Worship Medley Live](https://open.spotify.com/track/6yyVNqvqkTYQ2hohM16mK7) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/4OMmuOm1luGVHwSV817qlG) | 8:22 | 2023-04-07 | 2023-04-10 |
+| [It's You or You Lord](https://open.spotify.com/track/3XALpzX0sKnbrmw9bGs3iX) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [It's You or You Lord](https://open.spotify.com/album/7u83a59HG90ItL6BS9dmtl) | 6:21 | 2023-09-22 |  |
 | [Jesus \(I'm Yours\)](https://open.spotify.com/track/5IpM5VBsjHyHaaGN4vxsqQ) | [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Jesus \(I'm Yours\)](https://open.spotify.com/album/1MkXYkXFkGcOsGMZtyDSiY) | 2:15 | 2023-04-20 | 2023-06-23 |
 | [Jesus at the Centre](https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 6:09 | 2023-04-07 |  |
 | [Jesus Oh](https://open.spotify.com/track/0e9OdbqgTZ8ZJnFLdhPndl) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Jesus Oh](https://open.spotify.com/album/5pGGZjMWt9rlK5zsPsFKLY) | 4:15 | 2023-06-16 | 2023-09-17 |
@@ -66,7 +67,7 @@
 | [My Soul Says Yes \(Live\)](https://open.spotify.com/track/28XavXJhsBx7nderaFJnDM) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Soundz of Afrika](https://open.spotify.com/album/0AVVqqMkcNbWzJN5DxaMaz) | 9:04 | 2023-04-11 | 2023-04-12 |
 | [My Trust Is in You](https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY) | [David G](https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri) | [Yahweh](https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy) | 3:35 | 2023-04-07 |  |
 | [Na You Be God \(Remix\) \[feat\. Ibk & Xtreme\]](https://open.spotify.com/track/0xmGgQUiXR4OhXi9RWDoRl) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [IBK](https://open.spotify.com/artist/2ux4hl4BNE4i7mfHek88W3), [Xtreme](https://open.spotify.com/artist/0JyPOK4PQYaOEqdSwN16NT) | [Na You Be God \(Remix\) \[feat\. Ibk & Xtreme\]](https://open.spotify.com/album/2wDwXXHbSCdG6qwFtbCX5W) | 5:26 | 2023-04-07 | 2023-04-15 |
-| [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2023-04-07 |  |
+| [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2023-04-07 | 2023-09-23 |
 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 | 2023-04-07 |  |
 | [Never Let Me Go \- African Worship Medley/Live](https://open.spotify.com/track/5mT9muoaYVBcvpM3UiJZBY) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:22 | 2023-04-07 | 2023-06-09 |
 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 | 2023-07-28 |  |

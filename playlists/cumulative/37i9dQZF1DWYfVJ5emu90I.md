@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-97 songs - 4 hr 39 min
+98 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Kawasaki Drift](https://open.spotify.com/track/2zWJKBSNKyy0kEc78V9CAW) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2) | [BAD HOP HOUSE](https://open.spotify.com/album/4yWFSxfJsvkgkR0o6JeD1a) | 4:37 | 2022-11-19 |  |
 | [Kick Up](https://open.spotify.com/track/3GEZrXDyJGtcIo4kLLiF67) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Kick Up](https://open.spotify.com/album/6KkikXwQyUw7jtJqrfo35a) | 3:07 | 2022-11-19 |  |
 | [LEGACY](https://open.spotify.com/track/7ejrd0wNFUKuIC9Jr7KvSA) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [DJ Hazime](https://open.spotify.com/artist/5OTMloJew4RhmaLHAFyItP) | [LEGACY](https://open.spotify.com/album/1EM4qEhEHmBIKWFhLFWY6a) | 4:26 | 2022-11-19 | 2022-12-07 |
-| [Light side](https://open.spotify.com/track/3sPsSstVES0s7P0Fnu0UHS) | [illrain](https://open.spotify.com/artist/5hKqsv6CY9THdbxdhwTdIS), [9for](https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [ill world](https://open.spotify.com/album/5gWy5fhgCQNcHhi9RScEaU) | 1:46 | 2022-11-19 |  |
+| [Light side](https://open.spotify.com/track/3sPsSstVES0s7P0Fnu0UHS) | [illrain](https://open.spotify.com/artist/5hKqsv6CY9THdbxdhwTdIS), [9for](https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [ill world](https://open.spotify.com/album/5gWy5fhgCQNcHhi9RScEaU) | 1:46 | 2022-11-19 | 2023-09-23 |
+| [Light side](https://open.spotify.com/track/6oZ8YOBJvKP5eOaSBkKz5J) | [illrain](https://open.spotify.com/artist/5hKqsv6CY9THdbxdhwTdIS), [9for](https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [ill world](https://open.spotify.com/album/04fvtIhBoegiVLWvm5UadN) | 1:46 | 2023-08-21 |  |
 | [Living Legend](https://open.spotify.com/track/1oU70AufCbc9yKHeVCuvSL) | [KOHH](https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK) | [Living Legend](https://open.spotify.com/album/246GofoTf0DkxzTwfQDkDF) | 2:18 | 2023-03-02 |  |
 | [Living Legend](https://open.spotify.com/track/5yOHBns65serQ82tQNPEoh) | [KOHH](https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK) | [DIRT](https://open.spotify.com/album/4J0Mb6nTc1JyJOvR5eVv5S) | 2:18 | 2022-11-19 | 2023-03-25 |
 | [MAKE IT BOUNCE](https://open.spotify.com/track/3dUucLsbm0JLXMZHkKGE2Z) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [MAKE IT BOUNCE](https://open.spotify.com/album/1N0WDMlRlTF1CtGcDmQJYa) | 3:33 | 2023-05-23 |  |

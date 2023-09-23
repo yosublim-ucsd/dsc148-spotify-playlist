@@ -4,7 +4,7 @@
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-50 songs - 2 hr 49 min
+51 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Carinho](https://open.spotify.com/track/18dRY86aWEyp7E2WzlhMLT) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Carinho](https://open.spotify.com/album/35LwHQVDtxMoYGM6tYEYLC) | 2:58 | 2023-09-15 |  |
 | [Coisas Simples](https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Coisas Simples](https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s) | 2:37 | 2023-09-15 |  |
 | [Cola Comigo](https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Cola Comigo](https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw) | 3:28 | 2023-09-15 |  |
+| [Conexão](https://open.spotify.com/track/2EWaBErOpttybo792PEzIB) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Conexão](https://open.spotify.com/album/3ZtPh7k9yk0F7f6KuiizWH) | 3:45 | 2023-09-22 |  |
 | [Correnteza \- A COLORS SHOW](https://open.spotify.com/track/3cDlYpaelgDahCMQlyJBgj) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY) | [Correnteza \- A COLORS SHOW](https://open.spotify.com/album/3JwynjyDmYuvrZOFXhiUfU) | 3:22 | 2023-09-15 |  |
 | [Dava Praia](https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm) | [Guinu](https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl), [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [Dava Praia](https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT) | 2:43 | 2023-09-15 |  |
 | [Dias Bons \(Alright\)](https://open.spotify.com/track/4TKJmXGlHLg1gBAoeYDMth) | [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn), [Ill Camille](https://open.spotify.com/artist/4XPgViBvmCOxptCYxTvJo4) | [Universo Suspenso](https://open.spotify.com/album/7A6eBJTbdBIkLzD21yYskR) | 4:11 | 2023-09-15 |  |
@@ -50,7 +51,7 @@
 | [Renascer](https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Renascer](https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45) | 4:54 | 2023-09-15 |  |
 | [Se Foi](https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Hip Hop Machine \#18](https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS) | 5:57 | 2023-09-15 |  |
 | [SHAWTY](https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k) | 2:53 | 2023-09-15 |  |
-| [Sinal de Fumaça](https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Sinal de Fumaça](https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi) | 2:30 | 2023-09-15 |  |
+| [Sinal de Fumaça](https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Sinal de Fumaça](https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi) | 2:30 | 2023-09-15 | 2023-09-23 |
 | [Sinto a Sua Falta](https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n) | [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Sinto a Sua Falta](https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL) | 3:21 | 2023-09-15 |  |
 | [só eu sei](https://open.spotify.com/track/1B11lI2bkyrqE7ZfReu7if) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [só eu sei](https://open.spotify.com/album/64lnpVXtLJjZVA1sScIbGo) | 1:55 | 2023-09-15 |  |
 | [Tempo Pra Pensar](https://open.spotify.com/track/0KfUCubX9qFf58eHJOy5o7) | [Jun Alcan](https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V) | [Rosas & Violetas faço um buquê\. Eu quero queimar um \*\*\*\*\*\*\* com você.](https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg) | 3:00 | 2023-09-15 |  |

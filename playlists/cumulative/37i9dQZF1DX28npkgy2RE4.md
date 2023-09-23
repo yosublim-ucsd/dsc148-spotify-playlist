@@ -2,9 +2,9 @@
 
 ### [Modern Eclectic](https://open.spotify.com/playlist/37i9dQZF1DX28npkgy2RE4)
 
-> New styles, deep sounds\. Cover: Jenny Lewis
+> New styles, deep sounds\. Cover: Brent Cobb
 
-423 songs - 1 day 2 hr 1 min
+424 songs - 1 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Keeps Me Light](https://open.spotify.com/track/5l43igI28lTXnPK0KQsHQc) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Keeps Me Light](https://open.spotify.com/album/48WCft0nRsNOfquczKAH04) | 3:46 | 2021-11-12 | 2022-07-28 |
 | [Kimmy Rolla](https://open.spotify.com/track/2mgjQLBp5tqZVYxjFbeFQ4) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Kimmy Rolla](https://open.spotify.com/album/2WxtdQ4UAURabQC18pRxoI) | 5:17 | 2021-11-12 | 2022-01-15 |
 | [Labyrinth \- Acoustic](https://open.spotify.com/track/3RndHxmIeOlcqihe5bV3gq) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [Labyrinth \(Acoustic\)](https://open.spotify.com/album/0WrzbcELAPL6BA3vsBC1Bo) | 3:15 | 2021-11-12 | 2022-04-16 |
-| [Lady Grey](https://open.spotify.com/track/6c2jAbpd22wJYbLp5Pa1iA) | [The Clientele](https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0) | [I Am Not There Anymore](https://open.spotify.com/album/0o5pPvWlsSeZBVAR08y3mR) | 3:17 | 2023-07-28 |  |
+| [Lady Grey](https://open.spotify.com/track/6c2jAbpd22wJYbLp5Pa1iA) | [The Clientele](https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0) | [I Am Not There Anymore](https://open.spotify.com/album/0o5pPvWlsSeZBVAR08y3mR) | 3:17 | 2023-07-28 | 2023-09-23 |
 | [Latch](https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Latch](https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi) | 3:29 | 2021-11-12 |  |
 | [Late Bloomer](https://open.spotify.com/track/0dTgjND9WVIfk9M2jHbzjr) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Late Bloomer](https://open.spotify.com/album/3s1OBLlL9gLOVl5Dtc5RHs) | 2:54 | 2021-11-12 | 2022-07-19 |
 | [Latter Days](https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:38 | 2022-07-11 |  |
@@ -221,6 +221,7 @@
 | [Like I Used To](https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra) | 4:23 | 2022-07-11 |  |
 | [Like I Used To](https://open.spotify.com/track/2TJDEIb71icDq3v0LXEGib) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/3lTAIzdI3ggBc6AtZTqXRS) | 4:23 | 2021-11-12 | 2022-07-29 |
 | [Lincoln](https://open.spotify.com/track/10niLkuM9JO4brnhsdwNVU) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Lincoln](https://open.spotify.com/album/6HXCu9ZyHuKHcCEvxaL61e) | 3:09 | 2021-11-12 | 2022-06-12 |
+| [Livin' the Dream](https://open.spotify.com/track/5BnzjFbWDTIR0I7Vri1TfQ) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Southern Star](https://open.spotify.com/album/39kR5OZOs5agVwu3lLd2lX) | 2:41 | 2023-09-22 |  |
 | [Living Proof](https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 4:53 | 2022-09-16 |  |
 | [Living Proof](https://open.spotify.com/track/6bIXN4xCot0hiEfzl2xFZR) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Living Proof](https://open.spotify.com/album/5KxYGbvy6UPe6at4W8hE45) | 4:53 | 2021-11-12 | 2022-10-07 |
 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 | 2021-11-12 |  |

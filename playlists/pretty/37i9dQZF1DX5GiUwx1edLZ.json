@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 277238,
+  "num_followers": 277250,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTRjZDEzZGMyMWRiMTg3YTkzNWUzZWI1NzI3NWFmNzdkNGMyYWE0",
+  "snapshot_id": "MCwyODI5NmI2MDRkYmQwZTk4ZDJmN2NiODcyYzgzZWYwNzVjMjMzYzkz",
   "tracks": [
     {
       "added_at": "2023-03-20 20:19:53",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "You for Me (Acoustic)",
-        "url": "https://open.spotify.com/album/3TpZw4gbS2sRuFKNg8DyOt"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 185381,
-      "name": "You for Me - Acoustic",
-      "url": "https://open.spotify.com/track/2STdeJ27mvJ8wBrnvc2ZwS"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/7G53des9iRPuUydeFXXNGy"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 293946,
       "name": "Looking For Your Name",
       "url": "https://open.spotify.com/track/1pfOZQDapYAnR5qbHZhsXm"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "You for Me (Acoustic)",
+        "url": "https://open.spotify.com/album/3TpZw4gbS2sRuFKNg8DyOt"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 185381,
+      "name": "You for Me - Acoustic",
+      "url": "https://open.spotify.com/track/2STdeJ27mvJ8wBrnvc2ZwS"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Believe In The Kingdom",
-        "url": "https://open.spotify.com/album/4sE1bvg8n6rQ7kKk63zwIB"
-      },
-      "artists": [
-        {
-          "name": "King Topher",
-          "url": "https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2"
-        },
-        {
-          "name": "Meaco",
-          "url": "https://open.spotify.com/artist/5UwpTlMi49AhrEbQK71xNh"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Praise You (feat. Meaco) - Chill Mix",
-      "url": "https://open.spotify.com/track/36ILWiQk8S98bGF3waUpna"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Brand New Machine",
         "url": "https://open.spotify.com/album/5gWfcBhMIrPxudHnnMXSdX"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 238640,
       "name": "What Is Right",
       "url": "https://open.spotify.com/track/0kmnAeHOhccNv6cCRj1wks"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Believe In The Kingdom",
+        "url": "https://open.spotify.com/album/4sE1bvg8n6rQ7kKk63zwIB"
+      },
+      "artists": [
+        {
+          "name": "King Topher",
+          "url": "https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2"
+        },
+        {
+          "name": "Meaco",
+          "url": "https://open.spotify.com/artist/5UwpTlMi49AhrEbQK71xNh"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Praise You (feat. Meaco) - Chill Mix",
+      "url": "https://open.spotify.com/track/36ILWiQk8S98bGF3waUpna"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Ferrari (Acoustic)",
-        "url": "https://open.spotify.com/album/706d3fxyjF2C03PxtyueQK"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 141890,
-      "name": "Ferrari - Acoustic",
-      "url": "https://open.spotify.com/track/5eaYAQU1cr3M8hLdF71Fg7"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Kids in Love (Remixes)",
         "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 239453,
       "name": "Never Let You Go (feat. John Newman) - Acoustic Version",
       "url": "https://open.spotify.com/track/0hsEwB7RvpWOJYZnAF4j4E"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Ferrari (Acoustic)",
+        "url": "https://open.spotify.com/album/706d3fxyjF2C03PxtyueQK"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 141890,
+      "name": "Ferrari - Acoustic",
+      "url": "https://open.spotify.com/track/5eaYAQU1cr3M8hLdF71Fg7"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Happier (Stripped)",
+        "url": "https://open.spotify.com/album/45mLpZJlL5jNHxK2hk0BS8"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 250506,
+      "name": "Happier - Stripped",
+      "url": "https://open.spotify.com/track/0Gz1nOeTeNoMnKzb9vflds"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "How You Love Me (Acoustic Version)",
         "url": "https://open.spotify.com/album/2HwW0kegqZTxmZw6COLgiN"
       },
@@ -1315,6 +1335,26 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Better Half Of Me",
+        "url": "https://open.spotify.com/album/79kh6SAXvgQk0GCtpTRSGG"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Jonathan Mendelsohn",
+          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+        }
+      ],
+      "duration_ms": 212846,
+      "name": "Better Half Of Me - Acoustic Mix",
+      "url": "https://open.spotify.com/track/1m5ZEyOd6b6RU6wJbdh6u1"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "This Is What It Feels Like (John Ewbank Classical Remix)",
         "url": "https://open.spotify.com/album/5CLXV7ugS8VViNfpUdFJrr"
       },
@@ -1335,46 +1375,6 @@
       "duration_ms": 192724,
       "name": "This Is What It Feels Like - John Ewbank Classical Remix",
       "url": "https://open.spotify.com/track/77Rx3xMZWX1NxEUnFwQavQ"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Happier (Stripped)",
-        "url": "https://open.spotify.com/album/45mLpZJlL5jNHxK2hk0BS8"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 250506,
-      "name": "Happier - Stripped",
-      "url": "https://open.spotify.com/track/0Gz1nOeTeNoMnKzb9vflds"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Better Half Of Me",
-        "url": "https://open.spotify.com/album/79kh6SAXvgQk0GCtpTRSGG"
-      },
-      "artists": [
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Jonathan Mendelsohn",
-          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
-        }
-      ],
-      "duration_ms": 212846,
-      "name": "Better Half Of Me - Acoustic Mix",
-      "url": "https://open.spotify.com/track/1m5ZEyOd6b6RU6wJbdh6u1"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "You Were Loved (with OneRepublic) [Acoustic]",
-        "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 211967,
-      "name": "You Were Loved (with OneRepublic) - Acoustic",
-      "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Recognise (Remixes)",
         "url": "https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 175990,
       "name": "Better Days (NEIKED x Mae Muller) - Acoustic",
       "url": "https://open.spotify.com/track/4cO0l1PwQKdgWRimyb0jaf"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "You Were Loved (with OneRepublic) [Acoustic]",
+        "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 211967,
+      "name": "You Were Loved (with OneRepublic) - Acoustic",
+      "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Moon Faces (Acoustic Journey)",
-        "url": "https://open.spotify.com/album/2PKQRTPkOdcgdyBFnu2fK0"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        },
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Lost - Acoustic",
-      "url": "https://open.spotify.com/track/0FMV06iWpotUirc42n1Oj4"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Kids in Love (Remixes)",
         "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 245066,
       "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
       "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Moon Faces (Acoustic Journey)",
+        "url": "https://open.spotify.com/album/2PKQRTPkOdcgdyBFnu2fK0"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Lost - Acoustic",
+      "url": "https://open.spotify.com/track/0FMV06iWpotUirc42n1Oj4"
     },
     {
       "added_at": "2023-03-20 20:19:53",

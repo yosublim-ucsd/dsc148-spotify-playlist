@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: HAAi
 
-392 songs - 1 day 4 hr 56 min
+393 songs - 1 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 | 2023-03-30 | 2023-08-25 |
 | [Got Everything](https://open.spotify.com/track/1qFnKaeDKCdCNqmybmlgHs) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e) | [Got Everything](https://open.spotify.com/album/2frve4kqfLD6NnNE03xPUn) | 4:20 | 2023-04-27 | 2023-08-18 |
 | [Grief](https://open.spotify.com/track/09XxBJrprneCpmO6CQLKrT) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Maxwell Owin](https://open.spotify.com/artist/1BY3jPCSTYtgNJoqSnxt3f), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Grief](https://open.spotify.com/album/7oVN7H11MsBBUybYfC0z7H) | 4:17 | 2023-05-04 | 2023-08-25 |
-| [Groove Guide](https://open.spotify.com/track/6CsvcJkiwpUQVUsNp7UTBX) | [STVNS](https://open.spotify.com/artist/1JbA7XjVOQHb2U2mK0RDJi), [MelyJones](https://open.spotify.com/artist/3vsmaQBqqp770E9fi4hQqG), [No ExpressioN](https://open.spotify.com/artist/6RNcIa7VcxBBIgW6boctFo) | [Groove Guide](https://open.spotify.com/album/0nSrCjNH9tQrJE8zBchqn6) | 3:03 | 2023-09-21 |  |
+| [Groove Guide](https://open.spotify.com/track/6CsvcJkiwpUQVUsNp7UTBX) | [STVNS](https://open.spotify.com/artist/1JbA7XjVOQHb2U2mK0RDJi), [MelyJones](https://open.spotify.com/artist/3vsmaQBqqp770E9fi4hQqG), [No ExpressioN](https://open.spotify.com/artist/6RNcIa7VcxBBIgW6boctFo) | [Groove Guide](https://open.spotify.com/album/0nSrCjNH9tQrJE8zBchqn6) | 3:03 | 2023-09-21 | 2023-09-23 |
+| [Groove Guide](https://open.spotify.com/track/6oX5YDpjCLooteZlDBuoeX) | [STVNS](https://open.spotify.com/artist/1JbA7XjVOQHb2U2mK0RDJi), [MelyJones](https://open.spotify.com/artist/3vsmaQBqqp770E9fi4hQqG), [No ExpressioN](https://open.spotify.com/artist/6RNcIa7VcxBBIgW6boctFo) | [Groove Guide](https://open.spotify.com/album/3fDXxHqTyRPunYqLWwnz6D) | 3:03 | 2023-09-21 |  |
 | [Groovin'](https://open.spotify.com/track/6K0gMnFO7HgrKGJKmGL1Wm) | [KTTK](https://open.spotify.com/artist/6twl7VzHH1aK1FFkOgaIyJ), [VEATZ](https://open.spotify.com/artist/6Dwa6UQghnEAJegF1v6wrl) | [Groovin'](https://open.spotify.com/album/4YdSc00ZUmKc0GibiyMxhm) | 3:44 | 2023-03-16 | 2023-05-12 |
 | [Hands \- Edit](https://open.spotify.com/track/4vA3jtFk9acFhLHdcuGrGK) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Hands \(DJ\-Kicks\)](https://open.spotify.com/album/7cdtA63N0AxdTjubtX6h38) | 4:01 | 2023-03-23 | 2023-06-17 |
 | [Heaven](https://open.spotify.com/track/3PKd9beBPjwU9RP7e1Bvke) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Heaven](https://open.spotify.com/album/3mjRL9Jz75UKCzwIvXH2DB) | 3:21 | 2023-06-15 |  |

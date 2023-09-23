@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. EMJAY e Ingratax en Portada
 
-220 songs - 11 hr 14 min
+221 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Pareparqué](https://open.spotify.com/track/3NqgVmQ8DmG4TDUNQ8yK8u) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Pareparqué](https://open.spotify.com/album/6IspoSEx7IJBzP0nKYyiZr) | 3:13 | 2022-10-16 | 2023-07-01 |
 | [Pareparqué](https://open.spotify.com/track/5SkCbS0Xx6xRFZoGcfRHIn) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Pareparqué](https://open.spotify.com/album/6KhNdwFgUNhVj3rUg1uvUH) | 3:13 | 2021-12-13 | 2023-01-12 |
 | [Perfidia](https://open.spotify.com/track/599NXRZRBlMZcAEqCk1cBt) | [Elane](https://open.spotify.com/artist/2eFUnvJtf63hm3BVkh191I) | [Perfidia](https://open.spotify.com/album/2lGuZr0GuC81OktPfqh564) | 2:07 | 2021-12-13 | 2023-03-11 |
+| [Perrísima](https://open.spotify.com/track/70ETYEAv9pokvBCV37Qb1J) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Perrísima](https://open.spotify.com/album/5ueNwkSDxe0fKunEzMq9IM) | 2:49 | 2023-09-22 |  |
 | [PILLS](https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf) | 3:07 | 2023-05-19 |  |
 | [Por La Noche](https://open.spotify.com/track/29sEnpw1KVfOIyMI8sSTse) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Malamarismo](https://open.spotify.com/album/1Ev82MNV0FUz9X4kN2ZTCa) | 3:43 | 2021-12-13 |  |
 | [Pueblo Chico](https://open.spotify.com/track/1trHf08KWk0D6JaY53ogIy) | [Santos Woge](https://open.spotify.com/artist/5lnra4ar7XaI27La68JLBC) | [Pueblo Chico](https://open.spotify.com/album/3u0Lrsim4vXAW8kkW4nX90) | 3:02 | 2021-12-13 | 2023-07-01 |
@@ -227,6 +228,6 @@
 | [Yo Aprendi](https://open.spotify.com/track/0GgamUsKuvYz3gv8k4uTuI) | [Danay Suárez](https://open.spotify.com/artist/2bMCqLC25iBaqp2gDYEgDT) | [Polvo De La Humedad](https://open.spotify.com/album/7pxFxYIDIvoDg6eYZbtbTS) | 3:12 | 2021-12-13 |  |
 | [ZAZA](https://open.spotify.com/track/66RGE8Et3bZadgVbSbJ0vX) | [Red 6xteen](https://open.spotify.com/artist/0CBib0Hd5BqqwNdwUzNPyk) | [ZAZA](https://open.spotify.com/album/39lEOuKAujltMiZ2QcguWj) | 2:33 | 2021-12-13 | 2023-07-01 |
 | [¿Qué Pasó?](https://open.spotify.com/track/0fT5Z1yon9HQbvO8Rc9bce) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [¿Qué Pasó?](https://open.spotify.com/album/30dn71E64gblVEnseumlgK) | 2:20 | 2021-12-13 | 2022-07-29 |
-| [Últimamente](https://open.spotify.com/track/0TkvjgWhJWu3jvcmTaAKWE) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Últimamente](https://open.spotify.com/album/1jDdp6VLMKPTU8trOHFYGo) | 3:44 | 2023-03-03 |  |
+| [Últimamente](https://open.spotify.com/track/0TkvjgWhJWu3jvcmTaAKWE) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Últimamente](https://open.spotify.com/album/1jDdp6VLMKPTU8trOHFYGo) | 3:44 | 2023-03-03 | 2023-09-23 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

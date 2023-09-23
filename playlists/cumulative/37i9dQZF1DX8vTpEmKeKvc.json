@@ -403,6 +403,40 @@
     },
     {
       "album": {
+        "name": "Chup\u00f3n",
+        "url": "https://open.spotify.com/album/0TVjnQlL30VMz4Kqu0qoVQ"
+      },
+      "artists": [
+        {
+          "name": "El Gudi",
+          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        },
+        {
+          "name": "Ovi\u00f1a",
+          "url": "https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201084,
+      "name": "Chup\u00f3n",
+      "url": "https://open.spotify.com/track/3lev2QW3nUHNuxrVstVEGj"
+    },
+    {
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },

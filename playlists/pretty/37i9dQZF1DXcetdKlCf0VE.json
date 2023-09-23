@@ -1,12 +1,12 @@
 {
   "description": "Jean Sibelius: Finnish hero, notorious lobster enthusiast, and composer of truly monumental music. Discover his famous works in this essential playlist.",
-  "num_followers": 21358,
+  "num_followers": 21366,
   "original_name": "This Is Sibelius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmZkOTlhZGEzNGFiNDJkNzJhNDllZDc5NThlMGJkYzQ4MGUzN2Yz",
+  "snapshot_id": "MCwzODcxNjIyNDE4MDJiMDZkYTlkMTJkZjIyZTg5NDZmYzEyZTI2OGEz",
   "tracks": [
     {
       "added_at": "2023-04-21 08:47:53",
@@ -171,6 +171,26 @@
     {
       "added_at": "2023-04-21 08:47:53",
       "album": {
+        "name": "Sibelius",
+        "url": "https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 101506,
+      "name": "Sonatina No. 1, Op. 67: III. Allegro moderato",
+      "url": "https://open.spotify.com/track/4fVx1fBzvAwwa9TJA9EaJS"
+    },
+    {
+      "added_at": "2023-04-21 08:47:53",
+      "album": {
         "name": "Schoenberg: Violin Concerto / Sibelius: Violin Concerto op.47",
         "url": "https://open.spotify.com/album/0YHrFLfeGjkhEhYSCimYdB"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 352986,
       "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 1. Andante - Allegro molto moderato",
       "url": "https://open.spotify.com/track/3WQHClV98OrOR4Sm5XgieC"
-    },
-    {
-      "added_at": "2023-04-21 08:47:53",
-      "album": {
-        "name": "Sibelius",
-        "url": "https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 101506,
-      "name": "Sonatina No. 1, Op. 67: III. Allegro moderato",
-      "url": "https://open.spotify.com/track/4fVx1fBzvAwwa9TJA9EaJS"
     },
     {
       "added_at": "2023-04-21 08:47:53",
@@ -815,6 +815,26 @@
     {
       "added_at": "2023-04-21 08:47:53",
       "album": {
+        "name": "Colin Davis conducts Sibelius",
+        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        }
+      ],
+      "duration_ms": 134093,
+      "name": "Rakastava, Op. 14: The Path of his Beloved",
+      "url": "https://open.spotify.com/track/4XjmOjgHta5EJ8gltegaav"
+    },
+    {
+      "added_at": "2023-04-21 08:47:53",
+      "album": {
         "name": "Sibelius: Symphonies Nos. 6 & 7 - Finlandia",
         "url": "https://open.spotify.com/album/0BeAnV9lVflM51xlXdBiPM"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 226293,
       "name": "Symphony No. 6 in D Minor, Op. 104: III. Poco vivace -",
       "url": "https://open.spotify.com/track/0s6MEdQkXgzfprNoZEwTTI"
-    },
-    {
-      "added_at": "2023-04-21 08:47:53",
-      "album": {
-        "name": "Colin Davis conducts Sibelius",
-        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
-        }
-      ],
-      "duration_ms": 134093,
-      "name": "Rakastava, Op. 14: The Path of his Beloved",
-      "url": "https://open.spotify.com/track/4XjmOjgHta5EJ8gltegaav"
     },
     {
       "added_at": "2023-04-21 08:47:53",
@@ -935,30 +935,6 @@
     {
       "added_at": "2023-04-21 08:47:53",
       "album": {
-        "name": "Sibelius: Lemmink\u00e4inen Suite - Pell\u00e9as & M\u00e9lisande",
-        "url": "https://open.spotify.com/album/1USC0LhGxODq3ozgZtfHrx"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Paavo J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
-        },
-        {
-          "name": "Royal Stockholm Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5dyKtXKwZmYhlyh9c6UcB0"
-        }
-      ],
-      "duration_ms": 879960,
-      "name": "Sibelius: Night Ride and Sunrise, Op. 55",
-      "url": "https://open.spotify.com/track/4Dfc82tm87LrXao1kTryrc"
-    },
-    {
-      "added_at": "2023-04-21 08:47:53",
-      "album": {
         "name": "Sibelius Symphonies No 4 & 6",
         "url": "https://open.spotify.com/album/1PTjXCHlzdVev7qZrsW1xK"
       },
@@ -1007,8 +983,8 @@
     {
       "added_at": "2023-04-21 08:47:53",
       "album": {
-        "name": "Sibelius: Belshazzar's Feast & Other Orchestral Pieces",
-        "url": "https://open.spotify.com/album/3YH2vnSkfWqTemRJqu6tkV"
+        "name": "Sibelius: Lemmink\u00e4inen Suite - Pell\u00e9as & M\u00e9lisande",
+        "url": "https://open.spotify.com/album/1USC0LhGxODq3ozgZtfHrx"
       },
       "artists": [
         {
@@ -1016,17 +992,17 @@
           "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
         },
         {
-          "name": "Turku Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB"
+          "name": "Paavo J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
         },
         {
-          "name": "Leif Segerstam",
-          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
+          "name": "Royal Stockholm Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5dyKtXKwZmYhlyh9c6UcB0"
         }
       ],
-      "duration_ms": 83760,
-      "name": "Belshazzar's Feast, JS 48: Act IV: Dodens dans (Dance of Death)",
-      "url": "https://open.spotify.com/track/1T2mIPO50bvefAutTue7rL"
+      "duration_ms": 879960,
+      "name": "Sibelius: Night Ride and Sunrise, Op. 55",
+      "url": "https://open.spotify.com/track/4Dfc82tm87LrXao1kTryrc"
     },
     {
       "added_at": "2023-04-21 08:47:53",
@@ -1071,6 +1047,30 @@
       "duration_ms": 209893,
       "name": "Ten Pieces, Op. 24: Nocturno Op. 24: No. 8",
       "url": "https://open.spotify.com/track/1eGxfn4HNrxee4x1uY0yfv"
+    },
+    {
+      "added_at": "2023-04-21 08:47:53",
+      "album": {
+        "name": "Sibelius: Belshazzar's Feast & Other Orchestral Pieces",
+        "url": "https://open.spotify.com/album/3YH2vnSkfWqTemRJqu6tkV"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Turku Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB"
+        },
+        {
+          "name": "Leif Segerstam",
+          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
+        }
+      ],
+      "duration_ms": 83760,
+      "name": "Belshazzar's Feast, JS 48: Act IV: Dodens dans (Dance of Death)",
+      "url": "https://open.spotify.com/track/1T2mIPO50bvefAutTue7rL"
     },
     {
       "added_at": "2023-04-21 08:47:53",
@@ -1159,30 +1159,6 @@
     {
       "added_at": "2023-04-21 08:47:53",
       "album": {
-        "name": "Sibelius: Lemmink\u00e4inen Suite - Pell\u00e9as & M\u00e9lisande",
-        "url": "https://open.spotify.com/album/1USC0LhGxODq3ozgZtfHrx"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Paavo J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
-        },
-        {
-          "name": "Estonian National Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/3wnm0pkc0sPfV7UI2xlZlW"
-        }
-      ],
-      "duration_ms": 194333,
-      "name": "Sibelius: The Maiden in the Tower: Overture",
-      "url": "https://open.spotify.com/track/2MeMoGXNYS7cEHKogyfGFN"
-    },
-    {
-      "added_at": "2023-04-21 08:47:53",
-      "album": {
         "name": "Sibelius: Finlandia / Karelia Suite / Lemminkainen Suite",
         "url": "https://open.spotify.com/album/6UH2uels3J03G71AZhj0nw"
       },
@@ -1211,6 +1187,30 @@
       "duration_ms": 1007866,
       "name": "Lemminkainen Suite, Op. 22: I. Lemminkainen and the Maidens of the Island",
       "url": "https://open.spotify.com/track/0BPyStqu7ksErQ6pCZx9OT"
+    },
+    {
+      "added_at": "2023-04-21 08:47:53",
+      "album": {
+        "name": "Sibelius: Lemmink\u00e4inen Suite - Pell\u00e9as & M\u00e9lisande",
+        "url": "https://open.spotify.com/album/1USC0LhGxODq3ozgZtfHrx"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Paavo J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
+        },
+        {
+          "name": "Estonian National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3wnm0pkc0sPfV7UI2xlZlW"
+        }
+      ],
+      "duration_ms": 194333,
+      "name": "Sibelius: The Maiden in the Tower: Overture",
+      "url": "https://open.spotify.com/track/2MeMoGXNYS7cEHKogyfGFN"
     },
     {
       "added_at": "2023-04-21 08:47:53",
@@ -1307,30 +1307,6 @@
     {
       "added_at": "2023-04-21 08:47:53",
       "album": {
-        "name": "Sibelius: Songs, Vol. 2",
-        "url": "https://open.spotify.com/album/0XbpMsWFJH3shi39bLaEEC"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Hannu Jurmu",
-          "url": "https://open.spotify.com/artist/0zOmBly6oSntzYIPESc18g"
-        },
-        {
-          "name": "Jouni Somero",
-          "url": "https://open.spotify.com/artist/5JlGrd9qnFcht9MNyY5q7a"
-        }
-      ],
-      "duration_ms": 133173,
-      "name": "Kullervo, Op. 7: Kullervon valitus (Kullervo's Lament) (arr. for tenor solo and piano)",
-      "url": "https://open.spotify.com/track/78vWIKRaiDU8yX75hZO1uM"
-    },
-    {
-      "added_at": "2023-04-21 08:47:53",
-      "album": {
         "name": "Grieg & Sibelius : Orchestral Songs",
         "url": "https://open.spotify.com/album/21FnafVuFwae4ciZcmf01t"
       },
@@ -1355,6 +1331,30 @@
       "duration_ms": 200973,
       "name": "Sibelius: Belshazzar's Feast, Incidental Music: II. (b) The Jewish Girl's Song",
       "url": "https://open.spotify.com/track/64SNGyVQej0x9Dq3DUvL4Z"
+    },
+    {
+      "added_at": "2023-04-21 08:47:53",
+      "album": {
+        "name": "Sibelius: Songs, Vol. 2",
+        "url": "https://open.spotify.com/album/0XbpMsWFJH3shi39bLaEEC"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Hannu Jurmu",
+          "url": "https://open.spotify.com/artist/0zOmBly6oSntzYIPESc18g"
+        },
+        {
+          "name": "Jouni Somero",
+          "url": "https://open.spotify.com/artist/5JlGrd9qnFcht9MNyY5q7a"
+        }
+      ],
+      "duration_ms": 133173,
+      "name": "Kullervo, Op. 7: Kullervon valitus (Kullervo's Lament) (arr. for tenor solo and piano)",
+      "url": "https://open.spotify.com/track/78vWIKRaiDU8yX75hZO1uM"
     },
     {
       "added_at": "2023-04-21 08:47:53",

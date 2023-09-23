@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,209 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,227 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 22 | [When I Fall in Love \(feat\. Chris Botti\)](https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Skylark \(Std\. Version\)](https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP) | 4:43 |
 | 23 | [Cara valente](https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita](https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw) | 4:42 |
 | 24 | [As Time Goes By](https://open.spotify.com/track/4N6xY1v1oOuXb6GdEJqQTP) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [As Time Goes By](https://open.spotify.com/album/2Jr81lF1N4Lq9rGzroCQQR) | 2:34 |
-| 25 | [Este Seu Olhar](https://open.spotify.com/track/7ws9U1clOAmsZmc0LAQxFt) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara Dez Anos Depois](https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd) | 2:32 |
-| 26 | [Amado](https://open.spotify.com/track/1UehyRYWHQxfj52XJbswIv) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Sim](https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC) | 4:09 |
+| 25 | [Amado](https://open.spotify.com/track/1UehyRYWHQxfj52XJbswIv) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Sim](https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC) | 4:09 |
+| 26 | [Este Seu Olhar](https://open.spotify.com/track/7ws9U1clOAmsZmc0LAQxFt) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara Dez Anos Depois](https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd) | 2:32 |
 | 27 | ['S Wonderful](https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:28 |
 | 28 | [The Masquerade Is Over](https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 4:18 |
 | 29 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 36 | [Moonlight Serenade](https://open.spotify.com/track/1kRbi9kqF11JCDCPlQVSnc) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Flirting With Twilight](https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum) | 4:22 |
 | 37 | [The Touch Of Your Lips](https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 2:42 |
 | 38 | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt) | 3:03 |
-| 39 | [Love Is Here To Stay](https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Hooray For Love](https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c) | 4:19 |
-| 40 | [Why Try to Change Me Now](https://open.spotify.com/track/7fKA60i4JhkavVw7fQFOHS) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Best Is Yet to Come \- The Songs of Cy Coleman](https://open.spotify.com/album/2d6MOVjMtiiFoZNHK9Xk0p) | 5:16 |
+| 39 | [Why Try to Change Me Now](https://open.spotify.com/track/7fKA60i4JhkavVw7fQFOHS) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Best Is Yet to Come \- The Songs of Cy Coleman](https://open.spotify.com/album/2d6MOVjMtiiFoZNHK9Xk0p) | 5:16 |
+| 40 | [Love Is Here To Stay](https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Hooray For Love](https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c) | 4:19 |
 | 41 | [A Sunday Kind Of Love](https://open.spotify.com/track/5MtTR1jjNpaYbutc0ZY6hp) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx) | 4:52 |
 | 42 | [I'm Glad There Is You](https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 5:01 |
 | 43 | [Es Tan Fácil Romper un Corazón](https://open.spotify.com/track/6iN1q570Ogft8xuCJXIsjl) | [Valeria](https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt) | [Bossa Lounge en Español](https://open.spotify.com/album/138KhEzlJAoHKpSedlDC8A) | 3:29 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 58 | [If I See You Tomorrow](https://open.spotify.com/track/2B5mptUTfxrq1JTEUd4kTH) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Vira Talisa](https://open.spotify.com/album/1QlGWCclW1wtmodp1pD9OO) | 2:38 |
 | 59 | [September](https://open.spotify.com/track/2ECLI6x33wCKkU49hwfVux) | [Marcela Mangabeira](https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg) | [Colors of Rio](https://open.spotify.com/album/367pDgfdeqOW5hYRwdsRsN) | 4:06 |
 | 60 | [Memories of You](https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Memories of You: A Tribute to Benny Goodman](https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9) | 4:50 |
-| 61 | [Moonlight Dancer](https://open.spotify.com/track/7qnGOq6WC4rxe7tdYqTbUC) | [Isabelle Antena](https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ) | [Easy Does It](https://open.spotify.com/album/0htWsoC4ORq9URJmrBEiCI) | 2:53 |
-| 62 | [Summertime](https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 5:12 |
+| 61 | [Summertime](https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 5:12 |
+| 62 | [Moonlight Dancer](https://open.spotify.com/track/7qnGOq6WC4rxe7tdYqTbUC) | [Isabelle Antena](https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ) | [Easy Does It](https://open.spotify.com/album/0htWsoC4ORq9URJmrBEiCI) | 2:53 |
 | 63 | [Rat In My Kitchen](https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn) | [48th St\. Collective](https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn) | [Jazz and Essentials](https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY) | 3:17 |
 | 64 | [12th Avenue](https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [12th Avenue](https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd) | 4:37 |
 | 65 | [Let’s Make The Most Of A Beautiful Thing](https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW) | [Erin Boheme](https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw) | [What Love Is](https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp) | 4:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 74 | [For the Love of Freedom](https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 2:32 |
 | 75 | [In the Air Tonight](https://open.spotify.com/track/66BpoZSfGes57WNcqbcMfZ) | [James Farrelli](https://open.spotify.com/artist/4KrX2lMNXFQrzpkZnDDJTg) | [In the Air](https://open.spotify.com/album/2iptrf1F1MypmQ9FJEE20k) | 4:45 |
 
-Snapshot ID: `MCxiODA0MDllYWRkYzc0YjI4OWEzYTgxMmNjZjgxMDVmMTI5MmM1MjFm`
+Snapshot ID: `MCwzMDFiZWJhMGI3MjczMDg3YWRiNzNlMDUyNTY4Yzg1ZTljNDA3MWM0`

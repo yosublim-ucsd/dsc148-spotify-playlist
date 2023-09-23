@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics.",
-  "num_followers": 15310,
+  "num_followers": 15419,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTY0Y2FiZjUyNGYwOTk1Y2U2OWJlYWQ5MzIwZDQ1M2E0MWUwNzg3",
+  "snapshot_id": "MCwxMjAyMzk3YmE0YzAzMjcxMjc2M2NlYjBlYjY3YzNhMzNjNzdkNTBm",
   "tracks": [
     {
       "added_at": "2023-09-01 09:42:16",
@@ -43,6 +43,22 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
+        "name": "JuJu",
+        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 399466,
+      "name": "Yes Or No - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
+      "url": "https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
         "name": "Study In Brown",
         "url": "https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 344293,
       "name": "Cherokee",
       "url": "https://open.spotify.com/track/0BNrLm5na6f7witHj8769E"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
-        "name": "JuJu",
-        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 399466,
-      "name": "Yes Or No - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
-      "url": "https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -183,26 +183,6 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Clifford Brown And Max Roach",
-        "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
-      },
-      "artists": [
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Max Roach Quintet",
-          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Daahoud",
-      "url": "https://open.spotify.com/track/2sfcdBm7F0ccANkXBfMK5K"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
         "name": "Sonny's Crib",
         "url": "https://open.spotify.com/album/469Y1IVCrttWSp2qQYzioA"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 383560,
       "name": "Seven Steps to Heaven",
       "url": "https://open.spotify.com/track/681qNWaeSksUBFBqXxAknQ"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
+        "name": "Clifford Brown And Max Roach",
+        "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach Quintet",
+          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Daahoud",
+      "url": "https://open.spotify.com/track/2sfcdBm7F0ccANkXBfMK5K"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Sonny Stitt Sits In With The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/1wOXBNVlNBZKqr9SPZ8VDu"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 239533,
-      "name": "Au Privave",
-      "url": "https://open.spotify.com/track/576Fa7kMpr3VmVT0ssn9TM"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
         "name": "Blue Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 427266,
       "name": "Lazy Bird - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0V3K5h6d8Epqg4k60O1IBB"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
+        "name": "Sonny Stitt Sits In With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/1wOXBNVlNBZKqr9SPZ8VDu"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 239533,
+      "name": "Au Privave",
+      "url": "https://open.spotify.com/track/576Fa7kMpr3VmVT0ssn9TM"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Stitt Plays Bird (Remastered Version)",
-        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Now's the Time - Remastered Version",
-      "url": "https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
         "name": "An Electrifying Evening With The Dizzy Gillespie Quintet",
         "url": "https://open.spotify.com/album/2dO705Y22N0bczDyF9h5U0"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 428373,
       "name": "Salt Peanuts",
       "url": "https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
+        "name": "Stitt Plays Bird (Remastered Version)",
+        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Now's the Time - Remastered Version",
+      "url": "https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Empyrean Isles (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 441386,
-      "name": "One Finger Snap - Remastered",
-      "url": "https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
         "name": "Incredible Jazz Guitar",
         "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 266666,
       "name": "Airegin",
       "url": "https://open.spotify.com/track/32mnjN5E4cGbaEogtZdHMh"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
+        "name": "Empyrean Isles (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "One Finger Snap - Remastered",
+      "url": "https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Smokin' At The Half Note (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "Impressions - Live At The Half Note /1965",
-      "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
         "name": "Ultimate Stan Getz",
         "url": "https://open.spotify.com/album/1TTbszowRjHjuvKsv2JVjm"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 401560,
       "name": "Arietis - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
+        "name": "Smokin' At The Half Note (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "Impressions - Live At The Half Note /1965",
+      "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Just Coolin'",
-        "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
-      },
-      "artists": [
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        }
-      ],
-      "duration_ms": 341473,
-      "name": "Vendetta",
-      "url": "https://open.spotify.com/track/1AE4szTVs0VUFXzaFY34Py"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
         "name": "Ken Burns Jazz: The Definitive Dizzy Gillespie",
         "url": "https://open.spotify.com/album/5d5lbciRoWO4WdlSbJQVer"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 853266,
       "name": "The Eternal Triangle",
       "url": "https://open.spotify.com/track/68cLT7rcwLt6dW3qBxJUlD"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
+        "name": "Just Coolin'",
+        "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "duration_ms": 341473,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/1AE4szTVs0VUFXzaFY34Py"
     },
     {
       "added_at": "2023-09-01 09:42:16",

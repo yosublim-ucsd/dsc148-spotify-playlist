@@ -4,7 +4,7 @@
 
 > The home for heavy rockers\. Cover: While She Sleeps
 
-225 songs - 13 hr 52 min
+227 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Do It So Good](https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Do It So Good](https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm) | 3:22 | 2023-07-25 | 2023-08-25 |
 | [Do Or Die](https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [Do Or Die](https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9) | 2:50 | 2023-02-10 |  |
 | [DON'T HOLD ME DOWN](https://open.spotify.com/track/2NvjbR2qhfILBblL36Fchm) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [DON'T HOLD ME DOWN](https://open.spotify.com/album/4TYkhMh8yHxNxCOK3j68z8) | 3:14 | 2023-09-07 |  |
+| [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE) | 3:11 | 2023-09-22 |  |
 | [Drowning](https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Drowning](https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx) | 2:45 | 2023-02-03 | 2023-07-26 |
 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 | 2023-05-11 |  |
 | [Enemy](https://open.spotify.com/track/6uw93PQ8gHcceraxPfCFUp) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Enemy](https://open.spotify.com/album/5kiallXslLnp6hxZRFhDkp) | 2:24 | 2023-07-25 |  |
@@ -80,7 +81,7 @@
 | [Finish Line \(feat\. Adam Gontier\)](https://open.spotify.com/track/5ipALw7s8VxqaxoskWH6hJ) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Finish Line \(feat\. Adam Gontier\)](https://open.spotify.com/album/5CDZtrKb7xdTOwFlqrmzP0) | 3:27 | 2023-02-03 | 2023-04-22 |
 | [foreverend](https://open.spotify.com/track/5gJ8xmfZ3yzMh9pjY0hszN) | [newshapes](https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ), [Rebekah Kirk](https://open.spotify.com/artist/4sXZl444aSiekh4f2TPCbU), [Sixth Wonder](https://open.spotify.com/artist/44UPyJOf07339zZv2Imz2m) | [foreverend](https://open.spotify.com/album/2dkKkirYZB5GXBr52Z08j5) | 3:10 | 2023-07-25 |  |
 | [Frenzy](https://open.spotify.com/track/5JngFjxkVIvlGSsHgUME7B) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:00 | 2023-01-20 | 2023-02-06 |
-| [FUBAR](https://open.spotify.com/track/0TOoqfApKrOaCgvEFUDXHc) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [FUBAR](https://open.spotify.com/album/6eZo6l9EtVb5hM3MtdFnjx) | 2:52 | 2023-02-18 |  |
+| [FUBAR](https://open.spotify.com/track/0TOoqfApKrOaCgvEFUDXHc) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [FUBAR](https://open.spotify.com/album/6eZo6l9EtVb5hM3MtdFnjx) | 2:52 | 2023-02-18 | 2023-09-23 |
 | [Fuck You](https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Fuck You](https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e) | 2:57 | 2022-11-10 | 2023-02-10 |
 | [Funeral Derangements](https://open.spotify.com/track/1m2kn7VbKCD7jKaDq975SQ) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Welcome To Horrorwood: The Silver Scream 2](https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx) | 3:44 | 2022-11-10 | 2023-07-26 |
 | [Game Over](https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 3:46 | 2023-06-01 |  |
@@ -119,7 +120,7 @@
 | [Let Go](https://open.spotify.com/track/5QzEl5meby6CHMwERcZEHV) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Where Do We Go From Here?](https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M) | 4:13 | 2023-08-24 |  |
 | [Let’s Get The Party Started \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/5BdiprSBqgkULtloEFbhfF) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Let’s Get The Party Started \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/41xx4p0Q1MhE2Bnfkeo6b0) | 3:32 | 2022-11-10 | 2023-04-05 |
 | [Like A Villain](https://open.spotify.com/track/0xoyUiHhxVH4gwb0CRgNmg) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:30 | 2022-11-10 | 2023-07-26 |
-| [Loose](https://open.spotify.com/track/6NSUDjjx22ZobxJqRHynpL) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004), [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [Loose](https://open.spotify.com/album/1ZzBNSEcqoxFqoedZoYXpG) | 4:07 | 2023-08-24 |  |
+| [Loose](https://open.spotify.com/track/6NSUDjjx22ZobxJqRHynpL) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004), [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [Loose](https://open.spotify.com/album/1ZzBNSEcqoxFqoedZoYXpG) | 4:07 | 2023-08-24 | 2023-09-23 |
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-05-11 | 2023-08-05 |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-02-10 | 2023-07-26 |
 | [Lost In The Grandeur](https://open.spotify.com/track/4frc8rYiPP7oHmxEMh3LHR) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:50 | 2022-11-10 | 2023-01-20 |
@@ -147,6 +148,7 @@
 | [Outsider](https://open.spotify.com/track/2QQqlUWiLDROQJ6MGpL3o5) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Outsider](https://open.spotify.com/album/1BVsgwH1tbz8ga50B3Sqda) | 4:05 | 2023-06-01 | 2023-06-09 |
 | [Outsider](https://open.spotify.com/track/6QzpOnLnIs96PFZ831d6zU) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Outsider](https://open.spotify.com/album/2WukwhVY6nvzF3OSAwdmYb) | 4:05 | 2023-06-01 | 2023-06-08 |
 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 | 2022-11-10 | 2023-07-26 |
+| [Pink Push\-Up Bra](https://open.spotify.com/track/6QbpIejpFu4dpnyHdGJ0fX) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Push\-Up Bra](https://open.spotify.com/album/5vormAy9yNKoLQ6yHsEldX) | 2:12 | 2023-09-22 |  |
 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 | 2022-11-10 | 2023-07-26 |
 | [Planet Zero](https://open.spotify.com/track/7g2LuO2QFplZfsLKRFiVHl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 3:42 | 2022-11-10 | 2023-07-26 |
 | [Poison Pill](https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Poison Pill](https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca) | 3:17 | 2023-03-23 |  |

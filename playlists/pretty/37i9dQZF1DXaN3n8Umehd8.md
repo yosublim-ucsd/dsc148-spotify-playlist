@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 
 > this is my meal: gurrll dinnerrrrr ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,141 likes - 45 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,155 likes - 45 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 25 | [Lady Marmalade \- From "Moulin Rouge" Soundtrack](https://open.spotify.com/track/7GQqj9jRtDkMp8zByehXQI) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Moulin Rouge](https://open.spotify.com/album/1Kg7AyuyIMTfD6geg9VghI) | 4:24 |
 | 26 | [Fruta y Té](https://open.spotify.com/track/140oPNZsqzYQ0bUcG1y3U9) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [GP](https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t) | 2:54 |
 | 27 | [Milkshake \- Radio Mix](https://open.spotify.com/track/2s0ouHqJebHfiQ6C1GUFJd) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:02 |
-| 28 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/1ZrpvgLUBHozH2PLbc4SrO) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 3:18 |
-| 29 | [La Papa Sin Catsup](https://open.spotify.com/track/3OOWm0MiN6yL4eJsJNXyYk) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mas Turbada Que Nunca](https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh) | 3:33 |
+| 28 | [La Papa Sin Catsup](https://open.spotify.com/track/3OOWm0MiN6yL4eJsJNXyYk) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mas Turbada Que Nunca](https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh) | 3:33 |
+| 29 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/1ZrpvgLUBHozH2PLbc4SrO) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 3:18 |
 | 30 | [T.A.C.O.](https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 |
 | 31 | [Sugar](https://open.spotify.com/track/78Yxsdi1JiwLDsU7TWHezw) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V \(Deluxe\)](https://open.spotify.com/album/0lHJwrDEFxrJhpB1gQoeMp) | 3:55 |
 | 32 | [Media Naranja](https://open.spotify.com/track/5qOOJibHjeGx0rhzL20JSc) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Originales \- 20 Exitos](https://open.spotify.com/album/3XJ5zeV7FVsvZQl0SNPBhy) | 3:41 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 44 | [Tamales](https://open.spotify.com/track/6TA7KXEKx9uOmrBxbicwSE) | [Un León Marinero](https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7) | [Tamales](https://open.spotify.com/album/0j7NAGR6aFSjQEji2es7Rm) | 3:07 |
 | 45 | [No Coke \- 2004 Original](https://open.spotify.com/track/0MmQL6ISNfwIErYvnVmcaQ) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [WOF](https://open.spotify.com/album/0Rs1l7shLhP8WokRmI7HXQ) | 2:51 |
 
-Snapshot ID: `MCw0MjdkZDBlZGRiMzI4ZTlmMjRhOTg2M2Y0MDg4YzAyZTkzNGNlMjhj`
+Snapshot ID: `MCwxNGM1NzQyMzc1YTEwOTM0ZWIwMjc0YjkyNzk1YjI0MDgwNmY5YzEz`

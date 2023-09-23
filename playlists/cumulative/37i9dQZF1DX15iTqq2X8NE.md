@@ -4,7 +4,7 @@
 
 > A journey in the modern & old Sudanese sounds.
 
-148 songs - 9 hr 19 min
+149 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Ascension](https://open.spotify.com/track/14r1JJrfqFar4ZP3WelS33) | [Sufyvn](https://open.spotify.com/artist/5uO9QrR5mvPdJ7uPIESbr6) | [Ascension EP](https://open.spotify.com/album/581kDZ2X4nbK53dn3WzYon) | 3:15 | 2021-12-09 | 2022-07-28 |
 | [Asly](https://open.spotify.com/track/6yd4XAjTaBDb3mXWT0AI4j) | [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd), [Eaz Da Bully](https://open.spotify.com/artist/2lGPSSDGEuGfpakifE8kbp) | [Asly](https://open.spotify.com/album/7wLNRBJA0Y1AkV48IKv3Hx) | 3:24 | 2021-12-09 |  |
 | [Azara Alhai](https://open.spotify.com/track/2bUEt4DCNb6idQ84isIpo3) | [Rasha](https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls) | [Sudaniyat](https://open.spotify.com/album/4qKyrkwm1F2CvDUx6OGAw5) | 6:27 | 2021-12-09 |  |
+| [Bader Khol3a](https://open.spotify.com/track/2O4fl7UvPHbledhgyHjTio) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Bader Khol3a](https://open.spotify.com/album/5XhXrx2BTXQqIndy969kez) | 2:12 | 2023-09-22 |  |
 | [Bako](https://open.spotify.com/track/5nO62GzQVuXyos3rrh4v7f) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [Bako](https://open.spotify.com/album/57iBcfM3UGV6AaNYjDbmcc) | 3:03 | 2022-06-30 | 2022-10-04 |
 | [Blue \- COLORS Sudan](https://open.spotify.com/track/1OdkisCZUpGjqRIEOCVF5X) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Blue \- COLORS Sudan](https://open.spotify.com/album/654DDiRWyseI6jGG3Wq7k1) | 2:46 | 2022-07-28 |  |
 | [Blue \- COLORS Sudan](https://open.spotify.com/track/4pAXmdDXQCBjX8aA8ZuyYm) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Blue \- COLORS Sudan](https://open.spotify.com/album/5DVW38hjEoUkEckabps3S7) | 2:46 | 2021-12-09 | 2022-07-28 |
@@ -106,7 +107,7 @@
 | [Nyctophilia](https://open.spotify.com/track/1XBbWRDkbUNl9We8ZebYmp) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [HYDR](https://open.spotify.com/album/2vOm3Yvo9VjTU73WJRfLyA) | 4:02 | 2023-07-14 | 2023-09-01 |
 | [On Sight](https://open.spotify.com/track/0S5zLiOfQJPCr7RVj6HFRq) | [Bbnbooda](https://open.spotify.com/artist/7qSpIerjnYf4qu9ShXRPlV) | [On Sight](https://open.spotify.com/album/4LxPwuFcp3IOfBnYWKj368) | 3:17 | 2022-06-30 | 2022-07-30 |
 | [Pablo](https://open.spotify.com/track/4YX2GxGnSl5om1hp7JxwH4) | [Bbnbooda](https://open.spotify.com/artist/7qSpIerjnYf4qu9ShXRPlV) | [Pablo](https://open.spotify.com/album/7yvCJaFB6MLnXbbZvbVk4R) | 2:13 | 2021-12-09 | 2023-02-03 |
-| [Picasso \(Outro\)](https://open.spotify.com/track/09foknzEQOePhFgW1wvxeb) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk) | [Picasso \(Outro\)](https://open.spotify.com/album/5FHpioMLjDuoJMvCg8GWQw) | 4:00 | 2022-06-30 |  |
+| [Picasso \(Outro\)](https://open.spotify.com/track/09foknzEQOePhFgW1wvxeb) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk) | [Picasso \(Outro\)](https://open.spotify.com/album/5FHpioMLjDuoJMvCg8GWQw) | 4:00 | 2022-06-30 | 2023-09-23 |
 | [pretty kitten](https://open.spotify.com/track/2VvirlkCrKMtmMJyJJSOx8) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [pretty kitten](https://open.spotify.com/album/2QUUYnHejVdzcIp3pQPAEm) | 2:22 | 2021-12-09 |  |
 | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/track/0qFCusOSOxNdjSWuDILGt2) | [Abu Obaida Hassan](https://open.spotify.com/artist/3opqEDktF05rXFAnoFAzFj) | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/album/3MWCstcGYsm2Bqc1muNEOh) | 8:15 | 2021-12-09 | 2023-03-05 |
 | [Red \(feat\. MaMan\)](https://open.spotify.com/track/2PJHJevFPEFWn0CwMv4yZF) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Hollanda](https://open.spotify.com/album/3kgNHqvzzItDSbhn6tEAVl) | 3:14 | 2022-03-18 |  |

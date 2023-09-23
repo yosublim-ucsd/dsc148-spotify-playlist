@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,397 likes - 66 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,549 likes - 66 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 |
 | 2 | [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 |
 | 3 | [Shiner In The Dark](https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:27 |
-| 4 | [DROP](https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [DROP](https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE) | 3:11 |
+| 4 | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE) | 3:11 |
 | 5 | [Confessions Of The Fallen](https://open.spotify.com/track/3wLuYl3hBaAceRUzi6XN4t) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen](https://open.spotify.com/album/7DOyUfUOWH3myPk79r8Js9) | 3:50 |
 | 6 | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z) | 2:59 |
 | 7 | [World On Fire](https://open.spotify.com/track/7CYvA2dKCUZUxfUohwyFU0) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [World On Fire](https://open.spotify.com/album/1C3X6pwfOwQVBCrFRAIuWh) | 3:18 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 65 | [Her](https://open.spotify.com/track/3GGC9T0BpAQVuFxhdKd58W) | [Too Tired](https://open.spotify.com/artist/72Io2PZQgqVbYdkzPByKCT) | [Her](https://open.spotify.com/album/2X7ThRYFzSoTvhYyImTEiP) | 4:48 |
 | 66 | [Bygones \(feat\. Rob Halford\)](https://open.spotify.com/track/7GJLTr8zeooanCE8RmZsie) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Bygones \(feat\. Rob Halford\)](https://open.spotify.com/album/4ZasC1470HVVPBN3GM2Z2f) | 3:59 |
 
-Snapshot ID: `MCwwYjdmODQ2MTM3YjA5YmI3N2E3Y2RjNDIwOWM1MjNmMzNhMzRjOWZk`
+Snapshot ID: `MCxjYmMzN2UyNjU2N2RlNGU1ZmNmNjQ5NDQxNzY5MzBjNmE0ODNkYjBj`

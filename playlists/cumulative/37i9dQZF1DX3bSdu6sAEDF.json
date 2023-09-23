@@ -470,7 +470,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -2291,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "Hands Up To The Sky",
+        "url": "https://open.spotify.com/album/6zIEU67gUCnGZ9yYQW9tL6"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203730,
+      "name": "Hands Up To The Sky",
+      "url": "https://open.spotify.com/track/0WExP6ei2lDqW6WDPlfYOq"
+    },
+    {
+      "album": {
         "name": "Happening Again",
         "url": "https://open.spotify.com/album/1a5EdAP8QdSVwIhYYiF2G4"
       },
@@ -2508,7 +2526,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 189267,
       "name": "High Water",
       "url": "https://open.spotify.com/track/0ZrHaA9ei55Km65yBodElf"
@@ -3673,6 +3691,24 @@
     },
     {
       "album": {
+        "name": "Modern Girl",
+        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223100,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
+    },
+    {
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
       },
@@ -3750,6 +3786,24 @@
       "duration_ms": 217426,
       "name": "New Light",
       "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
+    },
+    {
+      "album": {
+        "name": "NEW LOVE",
+        "url": "https://open.spotify.com/album/2lFihMx6pGcLNn6glKRvwM"
+      },
+      "artists": [
+        {
+          "name": "BOYS LIKE GIRLS",
+          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "NEW LOVE",
+      "url": "https://open.spotify.com/track/4jxLWRKAzXyV8xmUJg7fpF"
     },
     {
       "album": {
@@ -5564,7 +5618,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 171293,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2WP51KZ9ijZ6Kh68X5n3oc"

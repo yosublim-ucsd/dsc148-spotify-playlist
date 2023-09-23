@@ -78,6 +78,24 @@
     {
       "album": {
         "name": "Apollo",
+        "url": "https://open.spotify.com/album/3fcnJzILfEJWHydxYMCrry"
+      },
+      "artists": [
+        {
+          "name": "Didi Henric",
+          "url": "https://open.spotify.com/artist/6lV1RWdJ0XSM4OxR8QbYyk"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136340,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/5VkZbMDVM7ZDorvYvxH9fT"
+    },
+    {
+      "album": {
+        "name": "Apollo",
         "url": "https://open.spotify.com/album/2FhcrxYhzCnGz5T0ZromSk"
       },
       "artists": [
@@ -1994,7 +2012,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 238500,
       "name": "Rebel",
       "url": "https://open.spotify.com/track/2Pbls3fWibSzMOjG43sVBF"

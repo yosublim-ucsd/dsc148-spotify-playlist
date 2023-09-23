@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,035 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,081 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 17 | [Guallando](https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [El Hombre Mas Famoso De La Tierra](https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98) | 3:25 |
 | 18 | [Pa' Mayte](https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido](https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y) | 3:08 |
 | 19 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
-| 20 | [Tapão Na Raba](https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Som No Talo](https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2) | 2:55 |
-| 21 | [Pegame Tu Vicio](https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Pegame Tu Vicio](https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87) | 5:03 |
+| 20 | [Pegame Tu Vicio](https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Pegame Tu Vicio](https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87) | 5:03 |
+| 21 | [Tapão Na Raba](https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Som No Talo](https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2) | 2:55 |
 | 22 | [Arranhão \- Ao Vivo](https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Arranhão \(Ao Vivo\)](https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z) | 2:33 |
 | 23 | [Sin Sentimientos](https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:53 |
 | 24 | [Disco Arranhado \- Funk Remix](https://open.spotify.com/track/3SI736Mng30L5ZTpGEhKEr) | [Malu](https://open.spotify.com/artist/3fll16LLw6kdDxWzSpJPEQ), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE) | [Disco Arranhado \(Funk Remix\)](https://open.spotify.com/album/75ag5dnwFHBqQ3XB9l5fZg) | 2:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 99 | [Cachete, Pechito y Ombligo](https://open.spotify.com/track/4sZEqIf2LO003CBxxbBV51) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo), [Rochy](https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf), [David](https://open.spotify.com/artist/5XfK5zmN6FEyhMgpRIPrtw) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 3:24 |
 | 100 | [La Chica Gomela \(Niña Fresa\)](https://open.spotify.com/track/69qirPIejgKVEeflQfGah5) | [Vallenatos Nativos](https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok) | [Latin Vallenatos](https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D) | 2:19 |
 
-Snapshot ID: `MCxhMTBmNjU3Y2UyMDQxMjI3MWFiNjJiNmQ1NGI2NzM4MDM4YmJjNzY2`
+Snapshot ID: `MCxhZWI4MDZmOWY0NjJjYzQzNTQ4OThmODU4YTM4NTU0MjkzZTQ5MGVi`

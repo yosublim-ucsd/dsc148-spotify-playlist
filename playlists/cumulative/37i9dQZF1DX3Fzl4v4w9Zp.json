@@ -496,7 +496,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 209126,
       "name": "All My Love Is Coming Back To Me",
       "url": "https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 259607,
       "name": "An Alien In Minneapolis - Edit",
       "url": "https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK"
@@ -1266,6 +1266,24 @@
       "duration_ms": 179573,
       "name": "Burlesque Desert Window",
       "url": "https://open.spotify.com/track/2VRlBQCorJfk9QNWVyCMpy"
+    },
+    {
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/1kO9MPo6In7ZCfcFYTy9p6"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200957,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2Ba6D8yeOe14QoHwMaQkAK"
     },
     {
       "album": {
@@ -4070,7 +4088,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 188520,
       "name": "If Heaven Is A Hotel",
       "url": "https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE"
@@ -4680,7 +4698,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 206773,
       "name": "Know Your Demons",
       "url": "https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe"
@@ -4916,6 +4934,24 @@
       "duration_ms": 145106,
       "name": "Little Songs",
       "url": "https://open.spotify.com/track/1SvFlRSYQRAkhigT0yoo8k"
+    },
+    {
+      "album": {
+        "name": "Southern Star",
+        "url": "https://open.spotify.com/album/39kR5OZOs5agVwu3lLd2lX"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161187,
+      "name": "Livin' the Dream",
+      "url": "https://open.spotify.com/track/5BnzjFbWDTIR0I7Vri1TfQ"
     },
     {
       "album": {
@@ -5457,6 +5493,24 @@
     },
     {
       "album": {
+        "name": "Western White Pines (Deluxe)",
+        "url": "https://open.spotify.com/album/6FhBeqNsOEnj1RHGeVlgae"
+      },
+      "artists": [
+        {
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161484,
+      "name": "Movin'",
+      "url": "https://open.spotify.com/track/5mwr49vu0RI3RJG8NLiJ1z"
+    },
+    {
+      "album": {
         "name": "Music City USA",
         "url": "https://open.spotify.com/album/1S3byHYDcWlhc7TVkbG2zY"
       },
@@ -5516,6 +5570,24 @@
       "duration_ms": 170893,
       "name": "My Father's Daughter",
       "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Waving, Smiling",
+        "url": "https://open.spotify.com/album/3ntym5POcjk2mOfZ2XNLte"
+      },
+      "artists": [
+        {
+          "name": "Slaughter Beach, Dog",
+          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233162,
+      "name": "My Sister in Jesus Christ",
+      "url": "https://open.spotify.com/track/5SQgTu7aPw85eoknZtRRyT"
     },
     {
       "album": {
@@ -5934,7 +6006,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 226710,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
@@ -7514,6 +7586,24 @@
       "duration_ms": 186269,
       "name": "Southern Star",
       "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
+    },
+    {
+      "album": {
+        "name": "Old Time Feeling",
+        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272786,
+      "name": "Space And Time",
+      "url": "https://open.spotify.com/track/4sYhsIGQV2DRzYuTIBSoFN"
     },
     {
       "album": {

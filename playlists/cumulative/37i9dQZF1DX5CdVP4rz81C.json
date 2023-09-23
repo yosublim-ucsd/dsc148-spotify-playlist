@@ -1513,6 +1513,24 @@
     },
     {
       "album": {
+        "name": "A Grey Area",
+        "url": "https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191200,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm"
+    },
+    {
+      "album": {
         "name": "Anywhere Away From Here (Rag\u2019n\u2019Bone Man & P!nk)",
         "url": "https://open.spotify.com/album/1I8e5aPdqwrP3UJUMyaOMD"
       },
@@ -4317,6 +4335,24 @@
     },
     {
       "album": {
+        "name": "coast to coast",
+        "url": "https://open.spotify.com/album/6TTeLZsyfHG29loZYYlMAd"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149385,
+      "name": "coast to coast",
+      "url": "https://open.spotify.com/track/3MDFRerrTl5CyeVsb71XId"
+    },
+    {
+      "album": {
         "name": "coastline",
         "url": "https://open.spotify.com/album/6AFPlvXucMhq5urJ1BTTuy"
       },
@@ -4368,6 +4404,24 @@
       "duration_ms": 124080,
       "name": "Coffee Shop",
       "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
+    },
+    {
+      "album": {
+        "name": "Cold Tea",
+        "url": "https://open.spotify.com/album/7ouNonvlK1rcZey6noEvxg"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235905,
+      "name": "Cold Tea",
+      "url": "https://open.spotify.com/track/597KzBs4KvD6HavNl0yiG1"
     },
     {
       "album": {
@@ -4598,7 +4652,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 216964,
       "name": "Come June",
       "url": "https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a"
@@ -5599,6 +5653,24 @@
     },
     {
       "album": {
+        "name": "Dead Man",
+        "url": "https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274870,
+      "name": "Dead Man",
+      "url": "https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH"
+    },
+    {
+      "album": {
         "name": "Dear August",
         "url": "https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj"
       },
@@ -6094,6 +6166,24 @@
       "duration_ms": 204413,
       "name": "do all my friends hate me?",
       "url": "https://open.spotify.com/track/2VgE8fT65dU0FgyA4z5nqN"
+    },
+    {
+      "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/1HlQ021A7tO5NpDIzsj2rH"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165494,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/3vUlbfv0d6VTNf1ZEr0kit"
     },
     {
       "album": {
@@ -7127,6 +7217,24 @@
     },
     {
       "album": {
+        "name": "Eve",
+        "url": "https://open.spotify.com/album/1WcyjfjfTXfv1LaqLtJGqZ"
+      },
+      "artists": [
+        {
+          "name": "Precious Pepala",
+          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201167,
+      "name": "Eve",
+      "url": "https://open.spotify.com/track/4VWJqXO2lnHTPrDze7zeQe"
+    },
+    {
+      "album": {
         "name": "Even When I Don't",
         "url": "https://open.spotify.com/album/6cQifdE6nX2H50SCJJi5N0"
       },
@@ -7520,7 +7628,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 155537,
       "name": "eyes closed",
       "url": "https://open.spotify.com/track/0MSVq1xZ4FI3gFD4sZGX1O"
@@ -10209,6 +10317,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak Souvenirs",
+        "url": "https://open.spotify.com/album/2KQ3PWiOJWWlei0U5j9E0b"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193099,
+      "name": "Heartbreak Souvenirs",
+      "url": "https://open.spotify.com/track/1v7exhEYimYPHHV58YyYY6"
+    },
+    {
+      "album": {
         "name": "Heartbroken (feat. Jessie Murph & Polo G)",
         "url": "https://open.spotify.com/album/4cfA6cGpQSXr8jMMxfnNaS"
       },
@@ -12214,7 +12340,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 193230,
       "name": "i'm sorry",
       "url": "https://open.spotify.com/track/0PjId4Gfc96mYOl675FsfU"
@@ -12828,7 +12954,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 140000,
       "name": "Inconvenient",
       "url": "https://open.spotify.com/track/1Dof8LPU0ARJbiwmY0RNGA"
@@ -12940,6 +13066,24 @@
       "duration_ms": 202735,
       "name": "internet crush",
       "url": "https://open.spotify.com/track/4GISsjjHTA2UyM9DY4DNgY"
+    },
+    {
+      "album": {
+        "name": "Into Your Room",
+        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209787,
+      "name": "Into Your Room",
+      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
     },
     {
       "album": {
@@ -17182,6 +17326,28 @@
       "duration_ms": 146546,
       "name": "NO HOTEL",
       "url": "https://open.spotify.com/track/0ZAPRZcbR0htDzrhfiOina"
+    },
+    {
+      "album": {
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239308,
+      "name": "No One Knows (with Laufey)",
+      "url": "https://open.spotify.com/track/2ZQ6YMcGxwyvAfV6dl8hkB"
     },
     {
       "album": {
@@ -22406,7 +22572,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 173954,
       "name": "Stupid Cupid",
       "url": "https://open.spotify.com/track/08uYRkYyBrEBAolgY5irVW"
@@ -23678,7 +23844,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 187800,
       "name": "the way things go",
       "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
@@ -25418,7 +25584,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 184963,
       "name": "We Go Down Together (with Khalid)",
       "url": "https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r"

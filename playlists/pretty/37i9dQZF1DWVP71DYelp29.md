@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 
 > The hits you know like you’ve never heard before\. Cover: Madison Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,392 likes - 118 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,406 likes - 118 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,21 +96,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 86 | [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/32s8Fw4H89EkJ5DPKEWnWY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:41 |
 | 87 | [So Good \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0qPpxUVTaEGbGsMCugG4JQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Spotify Singles](https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC) | 2:41 |
 | 88 | [Hey Ya! \- Live Session from Spotify Studios NYC](https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Spotify Singles](https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh) | 3:04 |
-| 89 | [Versace On the Floor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:27 |
-| 90 | [There She Goes \- Spotify Singles](https://open.spotify.com/track/0bq8ODkNZMTm2B5WGpYjo4) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Spotify Singles](https://open.spotify.com/album/2GRYkXH7qkg1X0hOkrZdXZ) | 2:57 |
+| 89 | [There She Goes \- Spotify Singles](https://open.spotify.com/track/0bq8ODkNZMTm2B5WGpYjo4) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Spotify Singles](https://open.spotify.com/album/2GRYkXH7qkg1X0hOkrZdXZ) | 2:57 |
+| 90 | [Versace On the Floor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:27 |
 | 91 | [Sky Walker \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4oqJfELaUGTTAhpYP2HQGM) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Spotify Singles](https://open.spotify.com/album/3fUHDbd0oujqAerhHZjdsj) | 3:04 |
 | 92 | [Redbone \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4gWnIoKUqnaWuzvGumd2rp) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx) | [Spotify Singles](https://open.spotify.com/album/2r2XwYuiTPWL72f2ufD1ic) | 3:22 |
 | 93 | [Don't Let Me Down \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/18gXKx8hfOcm35mFJfXj0r) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Spotify Singles](https://open.spotify.com/album/1j86WtctFE7fCDSJFux5Zt) | 2:54 |
-| 94 | [You Oughta Know](https://open.spotify.com/track/336gUVrBgd22Y1iyjH5wRD) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Spotify Singles](https://open.spotify.com/album/7sVf305wgcAC6MkzZchs6E) | 4:41 |
-| 95 | [Shout Out to My Ex \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0XXnAhYqQuhrj4AOkft3Q5) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Spotify Singles](https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj) | 2:43 |
+| 94 | [Shout Out to My Ex \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0XXnAhYqQuhrj4AOkft3Q5) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Spotify Singles](https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj) | 2:43 |
+| 95 | [You Oughta Know](https://open.spotify.com/track/336gUVrBgd22Y1iyjH5wRD) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Spotify Singles](https://open.spotify.com/album/7sVf305wgcAC6MkzZchs6E) | 4:41 |
 | 96 | [Adore You \- Recorded at Parr Street Studios](https://open.spotify.com/track/5XXZ66ZImYeF7qMk1vbe2L) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Spotify Singles](https://open.spotify.com/album/1vpkXxcn8dnyKLWhpJvtKN) | 3:55 |
 | 97 | [No One \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2slPSwOa6A605bhQkrcSdi) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Spotify Singles](https://open.spotify.com/album/6bcZYFHfdRSeiHxYlKGUOa) | 4:00 |
 | 98 | [Starboy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 3:31 |
 | 99 | [God is a woman \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5gRGXpg9mSxxaj3rK76VR3) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Spotify Singles](https://open.spotify.com/album/1k0gFBFXElnx6DJhcLKmYb) | 3:22 |
 | 100 | [One Kiss \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/3T8dc6UY2XubK8BTrYizA4) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Spotify Singles](https://open.spotify.com/album/3dCEhJoGxyinkbmxtwk6dP) | 3:02 |
 | 101 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 |
-| 102 | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t) | 4:00 |
-| 103 | [cool girl \- Recorded at Spotify Studios, NYC / 2016](https://open.spotify.com/track/6Cpcf5MKT7O04wlSJ7EixQ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Spotify Singles](https://open.spotify.com/album/6FOhbAW6X74onlLJOTNIjD) | 3:24 |
+| 102 | [cool girl \- Recorded at Spotify Studios, NYC / 2016](https://open.spotify.com/track/6Cpcf5MKT7O04wlSJ7EixQ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Spotify Singles](https://open.spotify.com/album/6FOhbAW6X74onlLJOTNIjD) | 3:24 |
+| 103 | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t) | 4:00 |
 | 104 | [You Need To Calm Down \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:15 |
 | 105 | [Crazy \- Spotify Singles](https://open.spotify.com/track/11HrFfyr0btlPPBdGjqV7e) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Spotify Singles](https://open.spotify.com/album/76vwVXwTpLFl6FOFJGjPsg) | 4:52 |
 | 106 | [Drama \- Live from Spotify](https://open.spotify.com/track/0TRN3A7jUi9F72HvZBqg3G) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Spotify Singles](https://open.spotify.com/album/4ofNmOMGoL3sp1e2Ey8vBe) | 3:29 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 117 | [T\-Shirt \(Spotify Mix\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7yTGNfswQgcfZ0Y1LLI5aA) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Spotify Singles](https://open.spotify.com/album/5A7U3iko4a07wkEZNxmqIe) | 2:43 |
 | 118 | [22 \- Recorded At Metropolis Studios, London](https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles \(Recorded At Metropolis Studios, London\)](https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv) | 3:38 |
 
-Snapshot ID: `MCw2NDZkN2NjZTFkYTJmNTk1NTMwYTliZDA3NTFmMWVmNTkwNDc3NjI3`
+Snapshot ID: `MCwyOGNiZTFjODg3ZWQzOTM3NGM4OTMxYWEyODUzZDgwZjcwNTM2M2Iy`

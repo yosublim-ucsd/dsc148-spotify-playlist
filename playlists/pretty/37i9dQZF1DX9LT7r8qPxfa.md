@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Samia
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,315 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,360 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 31 | [Thirteen](https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Thirteen](https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg) | 3:04 |
 | 32 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 |
 | 33 | [Buzz](https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming Of Age pt\. 1](https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy) | 4:21 |
-| 34 | [It's Infinite](https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 2:54 |
-| 35 | [Everything I had](https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:06 |
+| 34 | [Everything I had](https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:06 |
+| 35 | [It's Infinite](https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 2:54 |
 | 36 | [Kill Her Freak Out](https://open.spotify.com/track/52k45PRM4dPM8r4JLsmfVo) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Kill Her Freak Out](https://open.spotify.com/album/3em3bEmd56ykqk9Hc8TYt1) | 4:20 |
 | 37 | [Something American](https://open.spotify.com/track/0SjWmoYajBMXHeh3DWZf9s) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 3:02 |
 | 38 | [Eat The Acid](https://open.spotify.com/track/7IaZ2WDYVYi0OImUNQm6Vl) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Fine Line / Eat The Acid](https://open.spotify.com/album/3RBAnTbN7fcba7VRpQi14P) | 4:02 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 58 | [I'm Afraid I Love You](https://open.spotify.com/track/0EgDkAi1hzNK3D3DjWs4bL) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Here Goes Nothing!](https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt) | 2:38 |
 | 59 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
 | 60 | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu) | 4:03 |
-| 61 | [Silk](https://open.spotify.com/track/6KHJTplNOsm1hVGzCCPZ7m) | [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Silk](https://open.spotify.com/album/4nTHHjECNVC9gLWKNUK9wB) | 3:12 |
-| 62 | [Swimming](https://open.spotify.com/track/0HVxfx5x8dZSTaK7EnIByn) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:12 |
+| 61 | [Swimming](https://open.spotify.com/track/0HVxfx5x8dZSTaK7EnIByn) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:12 |
+| 62 | [Silk](https://open.spotify.com/track/6KHJTplNOsm1hVGzCCPZ7m) | [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Silk](https://open.spotify.com/album/4nTHHjECNVC9gLWKNUK9wB) | 3:12 |
 | 63 | [Capable](https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 4:17 |
 | 64 | [Vessel](https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Vessel](https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd) | 3:28 |
 | 65 | [Garden of Eden](https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Flora Fauna](https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx) | 3:19 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 88 | [Cold Caller](https://open.spotify.com/track/4h4zgkL5Wv0dYfNQH6B4ca) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Eastwick / Cold Caller](https://open.spotify.com/album/6ku2HjmqVN78qv6J4ZZ5XD) | 3:57 |
 | 89 | [Pictures of Flowers](https://open.spotify.com/track/33u3HQgpjtsdP6nDR5SKtf) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9), [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Pictures of Flowers](https://open.spotify.com/album/0e68piRWBeQPkDomRltnvf) | 4:20 |
 | 90 | [Thumbs](https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Thumbs](https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc) | 4:25 |
-| 91 | [Giant](https://open.spotify.com/track/1sEhjL5tpYtjNPlnc8jATm) | [Matrimony](https://open.spotify.com/artist/4V5UtbLYaFishr7psURF3Q) | [Montibello Memories](https://open.spotify.com/album/3Ov5WbIH9jN8mZ4z9wwTk3) | 3:51 |
-| 92 | [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 |
+| 91 | [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 |
+| 92 | [Giant](https://open.spotify.com/track/1sEhjL5tpYtjNPlnc8jATm) | [Matrimony](https://open.spotify.com/artist/4V5UtbLYaFishr7psURF3Q) | [Montibello Memories](https://open.spotify.com/album/3Ov5WbIH9jN8mZ4z9wwTk3) | 3:51 |
 | 93 | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3) | 4:16 |
 | 94 | [Turn To Dust](https://open.spotify.com/track/6M1lGjZRnXL4vZvY0p3kTv) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h) | 3:07 |
 | 95 | [Love of Her Life](https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Love of Her Life](https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ) | 4:01 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 97 | [If It Ain't Me Babe](https://open.spotify.com/track/39j6F8ulgcWZn1M4R4hRSu) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 5:08 |
 | 98 | [Earthquake](https://open.spotify.com/track/2U0U5tUzmzAd0tjzvXwHqN) | [Anna Ash](https://open.spotify.com/artist/1QyjHJQb3WeWFxXaNLpLOw) | [L\. A\. Flame](https://open.spotify.com/album/2uerpXtKAOWdGBQva8AroJ) | 3:10 |
 | 99 | [Kitchen Table](https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Kitchen Table](https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0) | 3:28 |
-| 100 | [The Impossible Task of Feeling Complete](https://open.spotify.com/track/3NXuIEguTxfOUqzzU1OM9x) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [New Conditions](https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh) | 3:07 |
+| 100 | [Desire](https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Desire](https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld) | 2:59 |
 
-Snapshot ID: `MCwyMjM0NzNhZDU0YmQxNDNhNDE1YTM1MDE0MGM1NTRjMjBkZmMyOTc2`
+Snapshot ID: `MCxmYWJlZDZjZDVkMTdiMjc4ZTJiYzZlOTk0MDhiNzYwYTEwNjI3YzVj`

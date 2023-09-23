@@ -4,7 +4,7 @@
 
 > A dose of high\-energy rock & alt songs for your workout.
 
-249 songs - 13 hr 50 min
+250 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bored To Death](https://open.spotify.com/track/34hoCwSsssai61QCqzGYtX) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Bored To Death](https://open.spotify.com/album/7fLWWLAmqWQh2xk3mFX4I5) | 3:55 | 2020-08-20 | 2022-07-27 |
 | [Bored To Death](https://open.spotify.com/track/44TuSOP6xIAEeJmZsN3nXO) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:55 | 2022-06-28 |  |
 | [Born For Greatness](https://open.spotify.com/track/2VDdoBA24QICNHn5JkJwyE) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Born For Greatness](https://open.spotify.com/album/3GmdjyqCdD62n5JW8ZEfgZ) | 3:47 | 2020-08-20 | 2022-07-24 |
+| [Born For Greatness](https://open.spotify.com/track/5NFXaR31k0gmII07w6OJIt) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf) | 3:47 | 2023-08-11 |  |
 | [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 | 2022-10-05 | 2023-06-09 |
 | [Burning](https://open.spotify.com/track/07IAGsfYqS8sZSECzK1hZK) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Burning](https://open.spotify.com/album/71Dk5SUWHmMrRnfPwYRnGB) | 4:05 | 2022-10-05 | 2022-10-22 |
 | [Burning](https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:05 | 2022-10-05 | 2023-02-25 |
@@ -131,7 +132,7 @@
 | [Leader of the Pack](https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Leader of the Pack](https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS) | 3:03 | 2023-05-31 | 2023-08-12 |
 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 | 2022-06-28 |  |
 | [Lies](https://open.spotify.com/track/23T4s8TZHQQvrBz6TOlJQI) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Lies](https://open.spotify.com/album/2EIv15518bIEB1LKkeDijG) | 2:50 | 2022-06-17 | 2022-08-30 |
-| [Life's Coming in Slow \- from GRAN TURISMO 7](https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Life's Coming in Slow \(from GRAN TURISMO 7\)](https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1) | 2:49 | 2022-04-08 |  |
+| [Life's Coming in Slow \- from GRAN TURISMO 7](https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Life's Coming in Slow \(from GRAN TURISMO 7\)](https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1) | 2:49 | 2022-04-08 | 2023-09-23 |
 | [Like A Drug](https://open.spotify.com/track/5VDiBRQ6k1RW7H6HGcyme8) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Like A Drug](https://open.spotify.com/album/4KFtddTAu8FBQ5bwymJxZv) | 3:32 | 2022-06-17 | 2022-07-29 |
 | [Like A Villain](https://open.spotify.com/track/0xoyUiHhxVH4gwb0CRgNmg) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:30 | 2022-10-05 |  |
 | [Like A Villain](https://open.spotify.com/track/40P5d3p4icYCiN4SMUOE2E) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ) | 3:30 | 2022-04-01 | 2022-11-05 |

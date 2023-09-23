@@ -1,13 +1,29 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 240601,
+  "num_followers": 240588,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjE4NzdjZDhlYWZjZmE5N2IwMzkyYzA4ZDI1YzRhNTZhNDJkZTk2",
+  "snapshot_id": "MCwwZjZlYmM1MGVlYjlhMzk5ZDgzNTU1MzA3ODZhYjZiZmQxN2Y0M2Fh",
   "tracks": [
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Another Lover",
+        "url": "https://open.spotify.com/album/1g3YQBgxNuARNCxFB5U9pK"
+      },
+      "artists": [
+        {
+          "name": "Cobi",
+          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
+        }
+      ],
+      "duration_ms": 180635,
+      "name": "Another Lover",
+      "url": "https://open.spotify.com/track/2wQzwyoJt8wnlN7E1dt2m5"
+    },
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
@@ -1811,22 +1827,6 @@
       "duration_ms": 246680,
       "name": "Get it Got it",
       "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Stop This Feeling",
-        "url": "https://open.spotify.com/album/7xss4hIieMAnRHZgz8k6bF"
-      },
-      "artists": [
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Stop This Feeling",
-      "url": "https://open.spotify.com/track/2JRQQZzxZ9X0Mlq92q0jSy"
     }
   ],
   "unique_name": "Ready for the Day",

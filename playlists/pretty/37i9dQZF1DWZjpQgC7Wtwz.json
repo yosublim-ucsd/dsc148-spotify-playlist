@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hay tamales! \u00a1Tamales calientitos! Verdes, rojos, de dulce, de mole, \u00a1y hasta oaxaque\u00f1os!",
-  "num_followers": 77811,
+  "num_followers": 77888,
   "original_name": "La Tamalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTJlYTQ4ODU4OWYyNTlhMjE4OWMxOGM4YjczZjQyYWZkNjMwNjBh",
+  "snapshot_id": "MCw4ODZjNWQ0MDNmMzQ2ZTAzNzRiZjZlNWQ4MDcyZTE3N2MxZjQ3Yjhi",
   "tracks": [
     {
       "added_at": "2023-06-13 00:37:33",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-06-13 00:37:33",
       "album": {
-        "name": "Corazon de Acero",
-        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 225953,
-      "name": "Corazon de Acero",
-      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
-    },
-    {
-      "added_at": "2023-06-13 00:37:33",
-      "album": {
         "name": "Canci\u00f3n Animal (Remastered)",
         "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 212746,
       "name": "De M\u00fasica Ligera - Remasterizado 2007",
       "url": "https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5"
+    },
+    {
+      "added_at": "2023-06-13 00:37:33",
+      "album": {
+        "name": "Corazon de Acero",
+        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 225953,
+      "name": "Corazon de Acero",
+      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
     },
     {
       "added_at": "2023-06-13 00:37:33",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-06-13 00:37:33",
       "album": {
-        "name": "Por Las Damas",
-        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 183946,
-      "name": "Belleza De Cantina",
-      "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
-    },
-    {
-      "added_at": "2023-06-13 00:37:33",
-      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
+    },
+    {
+      "added_at": "2023-06-13 00:37:33",
+      "album": {
+        "name": "Por Las Damas",
+        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 183946,
+      "name": "Belleza De Cantina",
+      "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
     },
     {
       "added_at": "2023-06-13 00:37:33",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-06-13 00:37:33",
       "album": {
-        "name": "Cartel De Santa",
-        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 223093,
-      "name": "Todas Mueren por M\u00ed",
-      "url": "https://open.spotify.com/track/57DZJLuPk9a5ULzdER3ZFy"
-    },
-    {
-      "added_at": "2023-06-13 00:37:33",
-      "album": {
         "name": "Manos de Tijera",
         "url": "https://open.spotify.com/album/6ZgE3A6SXIPCEvhVpLOwv9"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 230225,
       "name": "Manos de Tijera",
       "url": "https://open.spotify.com/track/5bbDOmtSTUeAmzYDUv8eVF"
+    },
+    {
+      "added_at": "2023-06-13 00:37:33",
+      "album": {
+        "name": "Cartel De Santa",
+        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 223093,
+      "name": "Todas Mueren por M\u00ed",
+      "url": "https://open.spotify.com/track/57DZJLuPk9a5ULzdER3ZFy"
     },
     {
       "added_at": "2023-06-13 00:37:33",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-06-13 00:37:33",
       "album": {
-        "name": "Pasi\u00f3n Y Cumbia",
-        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Amor Regresa",
-      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
-    },
-    {
-      "added_at": "2023-06-13 00:37:33",
-      "album": {
         "name": "Entrega De Amor",
         "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 176560,
       "name": "Entrega De Amor",
       "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+    },
+    {
+      "added_at": "2023-06-13 00:37:33",
+      "album": {
+        "name": "Pasi\u00f3n Y Cumbia",
+        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Amor Regresa",
+      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
     },
     {
       "added_at": "2023-06-13 00:37:33",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-06-13 00:37:33",
       "album": {
+        "name": "Los Caminos De La Vida",
+        "url": "https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv"
+      },
+      "artists": [
+        {
+          "name": "La Tropa Vallenata",
+          "url": "https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk"
+        }
+      ],
+      "duration_ms": 291133,
+      "name": "Los Caminos De La Vida",
+      "url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5"
+    },
+    {
+      "added_at": "2023-06-13 00:37:33",
+      "album": {
         "name": "A M\u00ed Me Gustas T\u00fa",
         "url": "https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 186400,
       "name": "A M\u00ed Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z"
-    },
-    {
-      "added_at": "2023-06-13 00:37:33",
-      "album": {
-        "name": "Los Caminos De La Vida",
-        "url": "https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv"
-      },
-      "artists": [
-        {
-          "name": "La Tropa Vallenata",
-          "url": "https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk"
-        }
-      ],
-      "duration_ms": 291133,
-      "name": "Los Caminos De La Vida",
-      "url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5"
     },
     {
       "added_at": "2023-06-13 00:37:33",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-06-13 00:37:33",
       "album": {
-        "name": "Mas Grande Que Nunca",
-        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 281186,
-      "name": "Dese\u00e1ndote",
-      "url": "https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb"
-    },
-    {
-      "added_at": "2023-06-13 00:37:33",
-      "album": {
         "name": "No Es Lo Que Parece",
         "url": "https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 191460,
       "name": "Kil\u00f3metros",
       "url": "https://open.spotify.com/track/4Jr2cHZaIe1rmdVlc5efIy"
+    },
+    {
+      "added_at": "2023-06-13 00:37:33",
+      "album": {
+        "name": "Mas Grande Que Nunca",
+        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 281186,
+      "name": "Dese\u00e1ndote",
+      "url": "https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb"
     },
     {
       "added_at": "2023-06-13 00:37:33",

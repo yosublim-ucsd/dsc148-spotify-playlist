@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,934 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,043 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 47 | [Elegante Amanhecer](https://open.spotify.com/track/3AKLxjuiIn7kbRNOJg5pCW) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Portas](https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A) | 3:40 |
 | 48 | [Eu Sambo Mesmo](https://open.spotify.com/track/5fIW9kqsEfbHjPEj8ualrF) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Braseiro](https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x) | 3:19 |
 | 49 | [Chega de Saudade](https://open.spotify.com/track/7CS9xHifm0tfyGCmrRAEQ7) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Beth](https://open.spotify.com/album/57u3pqnTEmTJvl9iJ5x2kO) | 3:28 |
-| 50 | [Saudosa Maloca](https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ) | [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Para Sempre](https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF) | 2:20 |
-| 51 | [Histórias Pra Ninar Gente Grande](https://open.spotify.com/track/5thOB6WCgzFvmLzxz4sd5G) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Mangueira \- a Menina Dos Meus Olhos](https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC) | 2:37 |
-| 52 | [Tiro Ao Álvaro](https://open.spotify.com/track/2sLvYnCS3S8klPvZGXGic2) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Elis Regina](https://open.spotify.com/album/4huMvebKxtKXAm51LCfOoC) | 2:42 |
+| 50 | [Histórias Pra Ninar Gente Grande](https://open.spotify.com/track/5thOB6WCgzFvmLzxz4sd5G) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Mangueira \- a Menina Dos Meus Olhos](https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC) | 2:37 |
+| 51 | [Tiro Ao Álvaro](https://open.spotify.com/track/2sLvYnCS3S8klPvZGXGic2) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Elis Regina](https://open.spotify.com/album/4huMvebKxtKXAm51LCfOoC) | 2:42 |
+| 52 | [Saudosa Maloca](https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ) | [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Para Sempre](https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF) | 2:20 |
 | 53 | [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 |
 | 54 | [Samba de Amanda e Té](https://open.spotify.com/track/6xWOiauYbwhl7VgznlCAoc) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:16 |
 | 55 | [Trilha do Amor \- Ao Vivo](https://open.spotify.com/track/62CE5q62TRlQn6IlkRY5e1) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Sambasá \(Ao Vivo\)](https://open.spotify.com/album/5oOP2shCd8ScEWH2mHDecV) | 3:35 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 69 | [Se Me Chamar, Ô Sorte!](https://open.spotify.com/track/0CbaCHAddjPeDbA7x5Y2xp) | [Wilson Das Neves](https://open.spotify.com/artist/0dDz30ZxGRurnghF0Q6Oxn), [Cláudio Jorge](https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c) | [Se Me Chamar, Ô Sorte](https://open.spotify.com/album/6On7sJLC8PM1TM4FLdHNZt) | 3:38 |
 | 70 | [Também Pede Bis](https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY) | [Pedro Miranda](https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l) | [Também Pede Bis](https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D) | 2:51 |
 | 71 | [Dança Da Solidão](https://open.spotify.com/track/6FK317bMkj5Zd1Yl3GRYPw) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bis \- Paulinho Da Viola](https://open.spotify.com/album/6acEK03JM3ebF4QNJKS7wo) | 2:29 |
-| 72 | [Folhas Secas](https://open.spotify.com/track/2m7hny9dJ4hnwMPpabhyD8) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Para Sempre](https://open.spotify.com/album/3aSgmsxNCqjIgwMClyEeJm) | 2:13 |
-| 73 | [Figa De Guiné](https://open.spotify.com/track/1oekqvXHit1f8Rirv9uSH7) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Sol de Verão 2021](https://open.spotify.com/album/19nZbz3qRHOvixEPSMR3WH) | 2:19 |
-| 74 | [Aquarela](https://open.spotify.com/track/77fp9cdwRrMc4HtuNb9G5L) | [KARINE](https://open.spotify.com/artist/1ZPNC5O5lhPN5B7oeUKcB8) | [Aquarela](https://open.spotify.com/album/52aV0MfMGxHNDrs3A4CVhy) | 3:23 |
+| 72 | [Figa De Guiné](https://open.spotify.com/track/1oekqvXHit1f8Rirv9uSH7) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Sol de Verão 2021](https://open.spotify.com/album/19nZbz3qRHOvixEPSMR3WH) | 2:19 |
+| 73 | [Aquarela](https://open.spotify.com/track/77fp9cdwRrMc4HtuNb9G5L) | [KARINE](https://open.spotify.com/artist/1ZPNC5O5lhPN5B7oeUKcB8) | [Aquarela](https://open.spotify.com/album/52aV0MfMGxHNDrs3A4CVhy) | 3:23 |
+| 74 | [Folhas Secas](https://open.spotify.com/track/2m7hny9dJ4hnwMPpabhyD8) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Para Sempre](https://open.spotify.com/album/3aSgmsxNCqjIgwMClyEeJm) | 2:13 |
 | 75 | [Balanço Zona Sul](https://open.spotify.com/track/3IcF9Ix8invTlg7kdsDfcv) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Baterista: Wilson Das Neves](https://open.spotify.com/album/7LC9GOB8XtVE5p2IVMi2oZ) | 2:14 |
 | 76 | [Enquanto Você Não Chega](https://open.spotify.com/track/2C2Y5LuGMxklegoSOc54fC) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Voo Longe](https://open.spotify.com/album/3JPhFJD014NCB2JreVEcuv) | 3:07 |
 | 77 | [Santo Toque](https://open.spotify.com/track/1owJVm7Cbq3Fv68LPMON0v) | [Sambaiana](https://open.spotify.com/artist/5gGjpgad4tcVWMv4mlOw7a), [Marília Sodré](https://open.spotify.com/artist/4vFvo1osQ1NCjyKnFD6hVh), [Ju Moraes](https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ), [Rayra Mayara](https://open.spotify.com/artist/2JxBztEP6d5277y39owSBb), [Lalá Evangelista](https://open.spotify.com/artist/5wTHY9NhwtH1Q84hJcwJHr), [Grace Profeta](https://open.spotify.com/artist/6UvvBk4jun0UH6IiMAZCko), [Marcinha BB](https://open.spotify.com/artist/4KGopYW2G8P41kyEXlYLU7) | [Santo Toque](https://open.spotify.com/album/3BeLqGYy2LVtNpE9KuhHuy) | 3:22 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 79 | [Onde Você Não Tá?](https://open.spotify.com/track/4yJDBC3erIPsVsXHJ1Zovk) | [Revna](https://open.spotify.com/artist/5euRHFqQ2U4fCCctRKkpf0), [Ponds](https://open.spotify.com/artist/6q3e7UEHUXK8mepTyndg7h) | [Onde Você Não Tá?](https://open.spotify.com/album/2BFqi3hWedEha3eIYKGSpm) | 3:35 |
 | 80 | [Último Carnaval](https://open.spotify.com/track/0wlhBQnOuZEOs9qj2zddVX) | [Bruno Capinan](https://open.spotify.com/artist/1BBIHguUeo7dz6dpHA6ThV) | [Leão Alado Sem Juba](https://open.spotify.com/album/2t1mVKPkD4ek2iGqGKjnXC) | 2:37 |
 | 81 | [Exagero](https://open.spotify.com/track/1o7E1yPZHMpibuXLOkicWv) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Beba\-Me Ao Vivo](https://open.spotify.com/album/5NNbh9qHmD1NVTbNa4p1eM) | 3:50 |
-| 82 | [Sambinha Bom](https://open.spotify.com/track/11Wo7FDIdA5nzBW2K3dmOS) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Highly Sensitive](https://open.spotify.com/album/4NdWJGDMbs59rJujsTtps5) | 2:55 |
-| 83 | [Não Deixe O Samba Morrer](https://open.spotify.com/track/2SEY58AadzmWPiksxr2K1N) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Samba Social Clube](https://open.spotify.com/album/7snROpKNdroDGvYYA9UqW8) | 4:28 |
+| 82 | [Não Deixe O Samba Morrer](https://open.spotify.com/track/2SEY58AadzmWPiksxr2K1N) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Samba Social Clube](https://open.spotify.com/album/7snROpKNdroDGvYYA9UqW8) | 4:28 |
+| 83 | [Sambinha Bom](https://open.spotify.com/track/11Wo7FDIdA5nzBW2K3dmOS) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Highly Sensitive](https://open.spotify.com/album/4NdWJGDMbs59rJujsTtps5) | 2:55 |
 | 84 | [Na Linha do Mar](https://open.spotify.com/track/5aVHKHEeZ7XT6Upt6nl19H) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Cantoras do Brasil](https://open.spotify.com/album/4Zg1k7ciP5ew90hzPCkhuI) | 3:12 |
 | 85 | [Samba Jazz, de Raiz](https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB) | [Cláudio Jorge](https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c) | [Samba Jazz, de Raiz Cláudio Jorge 70](https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4) | 4:09 |
 | 86 | [Até Depois do Fim](https://open.spotify.com/track/2r8pQbeeV4JBluUo1mlvoo) | [Cleverson Luiz](https://open.spotify.com/artist/1qsMWW4u7KkD22SErIjogd) | [Até Depois do Fim](https://open.spotify.com/album/6NNBd6rbQFlqBbIReMBUHr) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 99 | [Vive](https://open.spotify.com/track/7L8CsrDISh97u1oArY2HAs) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Oasis](https://open.spotify.com/album/4vWO9mZWPOLip3fnRqDtCl) | 5:06 |
 | 100 | [Disseram Que Eu Voltei Americanizada \- Live 1992](https://open.spotify.com/track/7wxDeUTfCqoZf0ZaKFhcdN) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Circulado Vivo](https://open.spotify.com/album/0OLjXOG6wYYWfvFj049bGm) | 1:39 |
 
-Snapshot ID: `MCw5N2U4NDJmMzYwZjE3NDQzMGQ4ODllYzQ2YTYxNzc5MDE0ZWY5ZTAw`
+Snapshot ID: `MCwyNTllMjc4ZDZjYjM5OWI1NzkwMjg1N2RlNmE2MjZhNjJjMWU0ZDZh`

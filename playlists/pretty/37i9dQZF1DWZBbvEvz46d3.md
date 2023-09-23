@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,595 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,635 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,13 +67,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 57 | [Każdego Dnia](https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg) | [Kontrast](https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry) | 3:05 |
 | 58 | [Jedwab](https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn) | [Róze Europy](https://open.spotify.com/artist/41sRkYTgCw2nfpLrdvii3l) | [Poganie! Kochaj i Obrażaj](https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L) | 6:09 |
 | 59 | [Byle jak](https://open.spotify.com/track/6cdL3GhIlJZaAXo4Khijwg) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Monkey Business](https://open.spotify.com/album/5Ig1N32hUUC4dZFltNQtjb) | 3:00 |
-| 60 | [A Wszystko To...\(Bo Ciebie Kocham\)](https://open.spotify.com/track/0CBj18X3J7MabwDqKeMxuo) | [Ich Troje](https://open.spotify.com/artist/0bRV6QPqD18yNy76IeBr10) | [3](https://open.spotify.com/album/4kgB9pui0fAMwB44axR3C1) | 3:59 |
-| 61 | [Absolutnie, absolutnie](https://open.spotify.com/track/1iB862flnPp3q65orvSfkK) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Miłość](https://open.spotify.com/album/7szu0bHUk5PZOfSXlgu0ZQ) | 3:59 |
-| 62 | [W Glowie](https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0) | [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Dla Naiwnych Marzycieli](https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR) | 3:25 |
+| 60 | [W Glowie](https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0) | [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Dla Naiwnych Marzycieli](https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR) | 3:25 |
+| 61 | [A Wszystko To...\(Bo Ciebie Kocham\)](https://open.spotify.com/track/0CBj18X3J7MabwDqKeMxuo) | [Ich Troje](https://open.spotify.com/artist/0bRV6QPqD18yNy76IeBr10) | [3](https://open.spotify.com/album/4kgB9pui0fAMwB44axR3C1) | 3:59 |
+| 62 | [Absolutnie, absolutnie](https://open.spotify.com/track/1iB862flnPp3q65orvSfkK) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Miłość](https://open.spotify.com/album/7szu0bHUk5PZOfSXlgu0ZQ) | 3:59 |
 | 63 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 |
 | 64 | [Jesteś lekiem na całe zło \- 1994](https://open.spotify.com/track/6hqftK2O6t2sI5AmwLhnLs) | [Krystyna Prońko](https://open.spotify.com/artist/4SCH2LpYYD5iKpc1xtDJ4Y) | [Osobista kolekcja 2](https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh) | 4:40 |
-| 65 | [Dmuchawce, Latawce, Wiatr](https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3) | [Urszula](https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX) | [Wielki Odlot 2 \- Najlepsze 80\-te](https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI) | 5:26 |
-| 66 | [Nie mam dla Ciebie miłości \- Kayax XX Rework](https://open.spotify.com/track/5hOFfDyhM9kSFyMBCmgAk5) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [Omamy](https://open.spotify.com/album/4izFXcjIxPzX86R1hRAUbD) | 3:50 |
+| 65 | [Nie mam dla Ciebie miłości \- Kayax XX Rework](https://open.spotify.com/track/5hOFfDyhM9kSFyMBCmgAk5) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [Omamy](https://open.spotify.com/album/4izFXcjIxPzX86R1hRAUbD) | 3:50 |
+| 66 | [Dmuchawce, Latawce, Wiatr](https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3) | [Urszula](https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX) | [Wielki Odlot 2 \- Najlepsze 80\-te](https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI) | 5:26 |
 | 67 | [Prawda o nas](https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Prawda o nas](https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc) | 3:15 |
 | 68 | [Nie kłam że mnie kochasz](https://open.spotify.com/track/0Xj3MeniDBK33I1YZcqlqP) | [Ewelina Flinta](https://open.spotify.com/artist/3gd9XZQnyJXTVfLZh1BF6v), [Łukasz Zagrobelny](https://open.spotify.com/artist/1AnN7D0tGyWS5d3l38oqR0) | [Nie kłam że mnie kochasz](https://open.spotify.com/album/4E8A1oe3EKWx8AFeFJ0Fz0) | 3:06 |
 | 69 | [Fake Love](https://open.spotify.com/track/01T5SgoNDIm6JMRoL4w2d5) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE) | [Fake Love](https://open.spotify.com/album/50neih37CvuPZQjvSSQAu0) | 2:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 74 | [Jutro możemy być szczęśliwi](https://open.spotify.com/track/7zIYJMuU8iF4m5Tp0yKJ3l) | [Kwiat Jabłoni](https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB), [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Kwiat Jabłoni i goście: Wolne serca](https://open.spotify.com/album/0kA5rE2tsWsTOp6cX1gAW0) | 4:19 |
 | 75 | [Zostań](https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Bumerang](https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt) | 4:06 |
 
-Snapshot ID: `MCwwNjBjYzMxYzA0NmYzN2IzMDQ4YjIyMjlhMDU1NTBmNzZjOTNhNDI3`
+Snapshot ID: `MCxkZTBkMjg2MDY4YzE1ODRiMGYwZDFmOGU5OGEzOGU3MzkwYzRkYWU4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 
 > The sounds of LGBTQ+ punk\. Cover: The Oozes
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,217 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,404 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 30 | [She's so Lovely](https://open.spotify.com/track/4GP9tCJKmYD8maZqiFNdzp) | [The Butchies](https://open.spotify.com/artist/0P0f0x8UquMimAjIKGPaB9) | [Make Yr Life](https://open.spotify.com/album/1cToLlfIfMju4zS9TXS0RZ) | 3:22 |
 | 31 | [SuperNatural Possession](https://open.spotify.com/track/2argENW2MZGxj0TwGtH2RZ) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/4Q8RNU12a8ZZl49RNS2NPh) | 2:04 |
 | 32 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 |
-| 33 | [G.L.O.S.S\. \(We're from the Future\)](https://open.spotify.com/track/5w8lL6jy9wToBej9Lk9v2f) | [G.L.O.S.S.](https://open.spotify.com/artist/2s4gtd98phMFZf7dMagxjU) | [Demo 2015](https://open.spotify.com/album/2v3FQ4S6xMKm9YL0JapDKl) | 1:31 |
-| 34 | [Bird in Space](https://open.spotify.com/track/4PYyyaASFb3gZ9Jh4zisiz) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [All at Once](https://open.spotify.com/album/1AamkKRYew16QStHIhgY1A) | 4:51 |
+| 33 | [Bird in Space](https://open.spotify.com/track/4PYyyaASFb3gZ9Jh4zisiz) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [All at Once](https://open.spotify.com/album/1AamkKRYew16QStHIhgY1A) | 4:51 |
+| 34 | [G.L.O.S.S\. \(We're from the Future\)](https://open.spotify.com/track/5w8lL6jy9wToBej9Lk9v2f) | [G.L.O.S.S.](https://open.spotify.com/artist/2s4gtd98phMFZf7dMagxjU) | [Demo 2015](https://open.spotify.com/album/2v3FQ4S6xMKm9YL0JapDKl) | 1:31 |
 | 35 | [Full Metal Black](https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0) | [The Royal They](https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2) | [The Royal They](https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH) | 3:03 |
 | 36 | [Fuck the Cistem](https://open.spotify.com/track/6Qt0KafTAgxOBEi3XFo2eg) | [The Muslims](https://open.spotify.com/artist/0k4t6CgTa017VoLxokJn8t) | [Mayo Supreme](https://open.spotify.com/album/2T42kZHMEGCe6XkRmCWe8y) | 2:52 |
 | 37 | [Staplegun](https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql) | [Baby Guts](https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR) | [gasoline](https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh) | 1:54 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 43 | [So\-Called Str8 Grrrl](https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L) | [Gina Young](https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn) | [Intractable](https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J) | 2:04 |
 | 44 | [In Birth](https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [In Birth](https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV) | 2:56 |
 | 45 | [Rev Your Motor](https://open.spotify.com/track/6VNNakpjSH8LNBX7fSGhUv) | [Dog Park Dissidents](https://open.spotify.com/artist/3n7gyeQTlIwleoJFpOIMFp) | [High Risk Homosexual Behavior](https://open.spotify.com/album/6uTcZlIYH8rpuk5wlvPR3C) | 2:19 |
-| 46 | [Lovers Lane](https://open.spotify.com/track/7sJePyELvhBcR6m8obIvWf) | [Hunx & His Punx](https://open.spotify.com/artist/5xTWck1vHVlTTI0jTQzUuF) | [Too Young To Be In Love](https://open.spotify.com/album/0PBnBbcUe9KaCmt4x6izYP) | 3:35 |
-| 47 | [Let's Make Out](https://open.spotify.com/track/3mTP21FXfGTeZsvyfhiVvO) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF) | 2:55 |
+| 46 | [Let's Make Out](https://open.spotify.com/track/3mTP21FXfGTeZsvyfhiVvO) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF) | 2:55 |
+| 47 | [Lovers Lane](https://open.spotify.com/track/7sJePyELvhBcR6m8obIvWf) | [Hunx & His Punx](https://open.spotify.com/artist/5xTWck1vHVlTTI0jTQzUuF) | [Too Young To Be In Love](https://open.spotify.com/album/0PBnBbcUe9KaCmt4x6izYP) | 3:35 |
 | 48 | [Quitter](https://open.spotify.com/track/2ekn27DjITVI4vSudrxpdX) | [Weakened Friends](https://open.spotify.com/artist/3GA7XHdtdiTpR4gDWgADwK) | [Quitter](https://open.spotify.com/album/59PEcpy0wVxQJLcrdFTVwn) | 3:02 |
 | 49 | [Chickens](https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U) | [Forrest Flowers](https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8) | [Chickens](https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI) | 4:20 |
 | 50 | [Fagetarian and Dyke](https://open.spotify.com/track/5tO8kFjt6vhHVAFzRxDaYK) | [Team Dresch](https://open.spotify.com/artist/1i0UobirqiiWT0AbrkZKrs) | [Personal Best](https://open.spotify.com/album/6FkTtMBKTWf4qV5aeL8Sp5) | 2:45 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 57 | [Y'know](https://open.spotify.com/track/2fEgApMmxqKwCYXqg3Y2YE) | [Hoity\-Toity](https://open.spotify.com/artist/59C4CCO7zRyoXORgHPjDjp) | [Not Your Kind](https://open.spotify.com/album/2bINeWV1YXsi5QrPl28cnh) | 4:34 |
 | 58 | [Blood](https://open.spotify.com/track/5BWpwPVzb4LuvPpZ1SB0SS) | [Butch Baby](https://open.spotify.com/artist/3jzfCiOKgr1xHyUYLqw3lr) | [Stoned Butch Blues](https://open.spotify.com/album/4qSJWCaegd4OR1UzwOocpn) | 2:47 |
 | 59 | [Wrong Bathroom](https://open.spotify.com/track/2rxPRLVeFZOuBhaNnwHKDS) | [Tribe 8](https://open.spotify.com/artist/36XvuDzOGosIiNn9WC6snn) | [Snarkism](https://open.spotify.com/album/68ctZ7mlwKGobH2N7Z8DEP) | 2:55 |
-| 60 | [CCCHOKEMEEE](https://open.spotify.com/track/4c9xAn5v8trWontgFe9Q2A) | [Danny Denial](https://open.spotify.com/artist/6jzsOmxoZhStlS4jaJy95U) | [Fuck Danny Denial](https://open.spotify.com/album/0iJ5e19OUZmJH8ywlj5NLR) | 3:25 |
-| 61 | [They/Them](https://open.spotify.com/track/7BuZgwIl9cx2hk2fsVlVYu) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [They/Them](https://open.spotify.com/album/1OaojIxnExbR4O45XHJUIW) | 2:17 |
+| 60 | [They/Them](https://open.spotify.com/track/7BuZgwIl9cx2hk2fsVlVYu) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [They/Them](https://open.spotify.com/album/1OaojIxnExbR4O45XHJUIW) | 2:17 |
+| 61 | [CCCHOKEMEEE](https://open.spotify.com/track/4c9xAn5v8trWontgFe9Q2A) | [Danny Denial](https://open.spotify.com/artist/6jzsOmxoZhStlS4jaJy95U) | [Fuck Danny Denial](https://open.spotify.com/album/0iJ5e19OUZmJH8ywlj5NLR) | 3:25 |
 | 62 | [Play the Field](https://open.spotify.com/track/5bLvqbeBT72cnJ53BQ3XHk) | [Partner](https://open.spotify.com/artist/15rbZYMoW9AYb3zcuFUNOU) | [In Search of Lost Time](https://open.spotify.com/album/43q6kUOk6TRY9m343H9cLf) | 2:56 |
 | 63 | [This Is What We Look Like](https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q) | [Personal Best](https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64) | [Arnos Vale](https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5) | 3:43 |
 | 64 | [Sick Sad World](https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ) | [Nervus](https://open.spotify.com/artist/4vApur54D4XetXX1xnIAKv) | [Everything Dies](https://open.spotify.com/album/3AyoeLix6xbioDX8eLf1JS) | 3:11 |
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 66 | [Girlracer](https://open.spotify.com/track/4GHmY6MxPzapdarlVs7yku) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [Home Recordings 2020 \- 2021](https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE) | 3:08 |
 | 67 | [Trophy Wifey](https://open.spotify.com/track/2sElL4pdDB9HReW1dCp6hH) | [Partyline](https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA) | [Zombie Terrorist](https://open.spotify.com/album/1b8585sIYVvPbWpdW7Vms3) | 2:07 |
 | 68 | [Big Shouty](https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz) | [Problem Patterns](https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP) | [Big Shouty](https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH) | 1:26 |
-| 69 | [Good Time Charlie](https://open.spotify.com/track/3m8UItuMK5t0VXmTOztjDQ) | [Priests](https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx) | [The Seduction of Kansas](https://open.spotify.com/album/7LFNJk5W0KLjtdgo9W4WmQ) | 2:47 |
-| 70 | [What You Do for Love](https://open.spotify.com/track/0im1MaGNLes5Qo04udeQsD) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [What You Do for Love](https://open.spotify.com/album/1Kze0IOJ5pCx2wsywkevwr) | 3:20 |
-| 71 | [Divine Violence](https://open.spotify.com/track/20XjbnBPSXQCRPzNHUwcNl) | [itoldyouiwouldeatyou](https://open.spotify.com/artist/7625dNOd552CCLYVObfTxe) | [Divine Violence](https://open.spotify.com/album/5F3NCovJyL6jjJevjEp5Q4) | 3:22 |
-| 72 | [Save the Planet, You Dumb Shit](https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o) | [Joe & The Shitboys](https://open.spotify.com/artist/1LQe0AlqV1e2GD3Ry1UFTg) | [The Reson For Hardcore Vibes Again](https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI) | 0:55 |
+| 69 | [What You Do for Love](https://open.spotify.com/track/0im1MaGNLes5Qo04udeQsD) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [What You Do for Love](https://open.spotify.com/album/1Kze0IOJ5pCx2wsywkevwr) | 3:20 |
+| 70 | [Good Time Charlie](https://open.spotify.com/track/3m8UItuMK5t0VXmTOztjDQ) | [Priests](https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx) | [The Seduction of Kansas](https://open.spotify.com/album/7LFNJk5W0KLjtdgo9W4WmQ) | 2:47 |
+| 71 | [Save the Planet, You Dumb Shit](https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o) | [Joe & The Shitboys](https://open.spotify.com/artist/1LQe0AlqV1e2GD3Ry1UFTg) | [The Reson For Hardcore Vibes Again](https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI) | 0:55 |
+| 72 | [Divine Violence](https://open.spotify.com/track/20XjbnBPSXQCRPzNHUwcNl) | [itoldyouiwouldeatyou](https://open.spotify.com/artist/7625dNOd552CCLYVObfTxe) | [Divine Violence](https://open.spotify.com/album/5F3NCovJyL6jjJevjEp5Q4) | 3:22 |
 | 73 | [Eden on Acid](https://open.spotify.com/track/5h8VuvFvYuQ0dzJhxPcqjZ) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [Home Recordings 2020 \- 2021](https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE) | 1:26 |
 | 74 | [Thick Skin](https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA) | [Limp Wrist](https://open.spotify.com/artist/38SIMA9z2a7ATlRVenIcHc) | [Facades](https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn) | 1:36 |
 | 75 | [It's Ok to Be Sick](https://open.spotify.com/track/2M2TubCJPMDJXj8OEJiV1L) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl) | [Friends\. Lovers\. Favorites](https://open.spotify.com/album/6GEy3owNRRCycgZVqNdwVv) | 1:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 79 | [Queer For You](https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa) | [The Degenerettes](https://open.spotify.com/artist/5aLqmIsEKz8r0bIaSRsf7z) | [Bad Girls Go to Hell](https://open.spotify.com/album/1USnl3zRNiSnGZF7toUpcp) | 2:08 |
 | 80 | [Woodchuck](https://open.spotify.com/track/6GUeUdO8AOZ52UcRFPn1eH) | [Crywank](https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ) | [Egg on Face\. Foot in Mouth\. Wriggling Wriggling Wriggling.](https://open.spotify.com/album/26WIpPiL8DGHgdZ0xQR4sC) | 2:33 |
 
-Snapshot ID: `MCwyNThhMTkzOWY4NGE0ZDU4NzA0ZDY3NzM4MmNiODJhMDYwOGE3NzI5`
+Snapshot ID: `MCwyMDQyZDE3MGY1ZjA0YzgzNmI4ZTU3Y2E4NTEwYjJhODExZDBkYmMz`

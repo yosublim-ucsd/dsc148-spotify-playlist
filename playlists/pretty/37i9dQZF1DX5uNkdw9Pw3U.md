@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,800 likes - 94 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,026 likes - 94 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 39 | [Come Home \(feat\. André 3000\)](https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 4:26 |
 | 40 | [Time](https://open.spotify.com/track/05v5mPkLAOoa7M5tnXXOwq) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Time](https://open.spotify.com/album/5SEQL40XcXX1FUHtiqa8PG) | 3:30 |
 | 41 | [Wasn't Looking](https://open.spotify.com/track/4VP3WbWh2BZ8xNEp6tLr6P) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [A Real Romantic](https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC) | 3:56 |
-| 42 | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG) | 3:15 |
-| 43 | [None Of Your Concern](https://open.spotify.com/track/1nal3Tf1OCV53KigMZXsZ7) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [None Of Your Concern](https://open.spotify.com/album/2pq9ByHGHMflMY3qy20BMW) | 4:22 |
+| 42 | [None Of Your Concern](https://open.spotify.com/track/1nal3Tf1OCV53KigMZXsZ7) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [None Of Your Concern](https://open.spotify.com/album/2pq9ByHGHMflMY3qy20BMW) | 4:22 |
+| 43 | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG) | 3:15 |
 | 44 | [Up Late](https://open.spotify.com/track/4ZSQS1o7qYAXJa5I37lk5x) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 4:26 |
 | 45 | [What If](https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [What If](https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q) | 3:35 |
 | 46 | [Experience](https://open.spotify.com/track/0hRRNHeSZv2x6pHCcXPAct) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Experience](https://open.spotify.com/album/4HUpIaMKPS0zPxMDl8P5fv) | 2:56 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 77 | [Sympati For Djevelen](https://open.spotify.com/track/4k6UZA0n0cQHcsz5Q1UP1W) | [L.U:N.A](https://open.spotify.com/artist/69m0BPeWJi5xH4BDvcyewk) | [Sympati For Djevelen](https://open.spotify.com/album/0Hdb0MziTQXfHUDTAzWf1r) | 3:03 |
 | 78 | [Hopeful](https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [How Is Your Soul?](https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X) | 2:46 |
 | 79 | [Hair Down \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/4QiyTGoMBRz4AHbsPYgiRc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Chasing Summer](https://open.spotify.com/album/7yd9HHhG8MvhJ1ksT3InDF) | 3:36 |
-| 80 | [who knew \- from Grown\-ish](https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [who knew \(from Grown\-ish\)](https://open.spotify.com/album/1iGnMcJ5NNC1NZprmZt9y0) | 3:22 |
-| 81 | [You Got The Body](https://open.spotify.com/track/7einjlDEIa7ZjBcgbVLjdY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [You Got The Body](https://open.spotify.com/album/6g7ICjmak0YBacDjAuN7ZG) | 2:56 |
+| 80 | [You Got The Body](https://open.spotify.com/track/7einjlDEIa7ZjBcgbVLjdY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [You Got The Body](https://open.spotify.com/album/6g7ICjmak0YBacDjAuN7ZG) | 2:56 |
+| 81 | [who knew \- from Grown\-ish](https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [who knew \(from Grown\-ish\)](https://open.spotify.com/album/1iGnMcJ5NNC1NZprmZt9y0) | 3:22 |
 | 82 | [Roll Some Mo \(feat\. Ty Dolla $ign & Wale\) \- Remix](https://open.spotify.com/track/6G0XqXVBx2PHaOrSuHaWP0) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Roll Some Mo \(feat\. Ty Dolla $ign & Wale\) \[Remix\]](https://open.spotify.com/album/0iRhoLbrny7qdvxdclPcaO) | 3:31 |
 | 83 | [Tuesday](https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Tuesday](https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo) | 2:52 |
 | 84 | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I) | 2:44 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 93 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 |
 | 94 | [Booty](https://open.spotify.com/track/0LGrFyVEM5qc9W5BOTEJ5z) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [Canto](https://open.spotify.com/artist/0IfFGR3deyYYoBzXsz3dWN) | [Booty](https://open.spotify.com/album/1wZUA48qppx695AaNY97a4) | 2:20 |
 
-Snapshot ID: `MCw0ODVlMTM3MTc4NzExMWYyOWY5YTRkYmUzNmVmNTg2ODU4MDBkMTNj`
+Snapshot ID: `MCw0MzZjMDEwZWY5ZTRjZDdlNWYxMzI0NzBjM2I1ZWRmOTA0MzdjODgy`

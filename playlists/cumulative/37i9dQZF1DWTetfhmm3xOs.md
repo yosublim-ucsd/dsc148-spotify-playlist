@@ -4,7 +4,7 @@
 
 > Meditate to the sound of soothing voices and flutes.
 
-120 songs - 6 hr 10 min
+121 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Drift](https://open.spotify.com/track/5zf9eb8R4j4X1rWMhfvcw2) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Drift](https://open.spotify.com/album/0s7vYK2tK124ZbBi5gxdma) | 3:00 | 2023-04-28 |  |
 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2022-05-25 |  |
 | [Dunes](https://open.spotify.com/track/3EMhmAY3KnNRlzrzJurxmH) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Dunes](https://open.spotify.com/album/1czCKnLfwCHydAAyqHwfOh) | 2:45 | 2022-05-25 |  |
+| [Elemental](https://open.spotify.com/track/7fnT7Dz3jebIcGREFz7i8q) | [Aasha](https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC) | [Elemental](https://open.spotify.com/album/122wW1uiBb44vDG3qMq2g3) | 2:00 | 2023-09-22 |  |
 | [Enchanted Garden](https://open.spotify.com/track/2oJZmQZkwFJ6bVtav4qrvW) | [Mar Duron](https://open.spotify.com/artist/5Z2wSeKFonNld5ZNij5qQV) | [Enchanted Garden](https://open.spotify.com/album/6bWEBVo1oTamGFdggtMpDY) | 2:08 | 2023-05-22 |  |
 | [Evening Flute](https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Evening Flute](https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt) | 7:21 | 2022-09-06 |  |
 | [Existence](https://open.spotify.com/track/0XvtR02UN3jOUIN8NMED4z) | [Yoo Woon](https://open.spotify.com/artist/0edoMxbwiiVrAXcJmTk4ml) | [Existence](https://open.spotify.com/album/3KubEtZHJo0xxl1WJzESVN) | 2:39 | 2022-12-09 |  |
@@ -86,7 +87,7 @@
 | [Magic Carpet Ride](https://open.spotify.com/track/46uQASxnpwEpeCS0MAZuwL) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Dunes](https://open.spotify.com/album/1czCKnLfwCHydAAyqHwfOh) | 2:36 | 2022-05-25 |  |
 | [Masikota](https://open.spotify.com/track/5uYBs6Jdb7WD1hy2sKqZnO) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Masikota](https://open.spotify.com/album/0SIzQRtFJuJC9WYqg8v4g9) | 3:44 | 2022-05-25 |  |
 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 | 2022-05-25 | 2023-04-29 |
-| [Morning Skies](https://open.spotify.com/track/5uIa8gAkpe17Bce9Q47A71) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Morning Skies](https://open.spotify.com/album/2p0PtIvMflxAUMlwymdTdy) | 6:10 | 2022-09-06 |  |
+| [Morning Skies](https://open.spotify.com/track/5uIa8gAkpe17Bce9Q47A71) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Morning Skies](https://open.spotify.com/album/2p0PtIvMflxAUMlwymdTdy) | 6:10 | 2022-09-06 | 2023-09-23 |
 | [My Seven Feelings](https://open.spotify.com/track/5OOiY3O34bUYV2mHGcMGQW) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [My Seven Feelings](https://open.spotify.com/album/6Kl4ICdlFw7lb1N25DJdB2) | 3:10 | 2022-05-25 |  |
 | [Mystique Garden](https://open.spotify.com/track/1kqdfOEMGEtjMoPnD69JKn) | [Baya Lakshmi](https://open.spotify.com/artist/50tighC78c8RUNqduI3rv5) | [Mystique Garden](https://open.spotify.com/album/22vqrzMQgNuilRS25m08hL) | 3:08 | 2022-07-08 |  |
 | [Mílon](https://open.spotify.com/track/2Dv1DUFmC8ElSUSTy7s9Ma) | [Orion](https://open.spotify.com/artist/6GWCB8ekz6k8xgOzb8i31f) | [Sirelis](https://open.spotify.com/album/27cJfiiUttUeLho3Lfzi7E) | 4:24 | 2022-05-25 |  |

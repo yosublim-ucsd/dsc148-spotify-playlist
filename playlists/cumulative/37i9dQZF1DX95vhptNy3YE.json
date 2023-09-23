@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Duquesa e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
+  "description": "Sued Nunes e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
   "name": "AMPLIFIKA",
   "tracks": [
     {
@@ -66,7 +66,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 162767,
       "name": "1 Minuto",
       "url": "https://open.spotify.com/track/4mLq1oE66kT6kb2OEQWvlz"
@@ -2126,6 +2126,46 @@
       "duration_ms": 232195,
       "name": "Close Friends",
       "url": "https://open.spotify.com/track/4v6TGGmgoJC3P2gqToqJLr"
+    },
+    {
+      "album": {
+        "name": "Coisas Bonitas",
+        "url": "https://open.spotify.com/album/10WsY0SUcMlISMJkq2PrwQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Tha",
+          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
+        },
+        {
+          "name": "Mahal Pita",
+          "url": "https://open.spotify.com/artist/13KepZHhR84vbrcLPVtmEF"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186446,
+      "name": "Coisas Bonitas",
+      "url": "https://open.spotify.com/track/2LN1i7THjN3BTCnpT0kk2z"
+    },
+    {
+      "album": {
+        "name": "Coisas Simples",
+        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157772,
+      "name": "Coisas Simples",
+      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
     },
     {
       "album": {
@@ -4339,6 +4379,28 @@
     },
     {
       "album": {
+        "name": "AMOR \u00c9 ARTE (DELUXE)",
+        "url": "https://open.spotify.com/album/3b0seNILUwFDSugWj6CpCB"
+      },
+      "artists": [
+        {
+          "name": "MARTTE",
+          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
+        },
+        {
+          "name": "tal do dias",
+          "url": "https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188738,
+      "name": "IMAGINA",
+      "url": "https://open.spotify.com/track/5ZtyZDWL1HGtLhFQpGC0PD"
+    },
+    {
+      "album": {
         "name": "INEF\u00c1VEL",
         "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
@@ -4712,7 +4774,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 144000,
       "name": "J\u00f3ias",
       "url": "https://open.spotify.com/track/2LFnuYFKk2O6UNBZ8RlSy9"
@@ -4738,7 +4800,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 177230,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
@@ -4808,7 +4870,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 132767,
       "name": "Kenner",
       "url": "https://open.spotify.com/track/0dEGVX5UFsNnaIKmSX8qDj"
@@ -7027,6 +7089,28 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Vou Dan\u00e7ar Sozinho",
+        "url": "https://open.spotify.com/album/0zL7xX3yuzJde6dkkhgoXV"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Carlos do Complexo",
+          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124727,
+      "name": "N\u00e3o Vou Dan\u00e7ar Sozinho",
+      "url": "https://open.spotify.com/track/4XMnWCE1u1qYFcnmNf1xFS"
+    },
+    {
+      "album": {
         "name": "N\u00c9 SEGREDO",
         "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
       },
@@ -7316,6 +7400,28 @@
       "duration_ms": 246875,
       "name": "Oi, Sumido",
       "url": "https://open.spotify.com/track/4LDBpSuwAw8jLP6s6GI45I"
+    },
+    {
+      "album": {
+        "name": "ARRISCA",
+        "url": "https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        },
+        {
+          "name": "Olodum",
+          "url": "https://open.spotify.com/artist/4iURZgI2lqMhBCNjJGshl9"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195738,
+      "name": "Onde For",
+      "url": "https://open.spotify.com/track/0RAR8ajjfM5aNupqvfskSz"
     },
     {
       "album": {
@@ -8334,7 +8440,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 144686,
       "name": "Que Se V\u00e1",
       "url": "https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB"
@@ -8456,7 +8562,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Ra\u00fal",
       "url": "https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp"
@@ -8620,6 +8726,48 @@
       "duration_ms": 158148,
       "name": "Respeita - Ao Vivo",
       "url": "https://open.spotify.com/track/1byuWMcip5l2NzFLcdtuhL"
+    },
+    {
+      "album": {
+        "name": "Respeita as Mina (feat. Cinthia Ribeiro, Gabi D'Paula, Talitta, Juliana Diniz)",
+        "url": "https://open.spotify.com/album/0cLaHpQ5drXQA5uZXQXNij"
+      },
+      "artists": [
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        },
+        {
+          "name": "Andressa Hayalla",
+          "url": "https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml"
+        },
+        {
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
+        },
+        {
+          "name": "Cinthia Ribeiro",
+          "url": "https://open.spotify.com/artist/3rVZKmpSf4WcJGc1Jzaa7b"
+        },
+        {
+          "name": "Gabi D'Paula",
+          "url": "https://open.spotify.com/artist/10Y44BMrAbtMBBeRIrhCCj"
+        },
+        {
+          "name": "Juliana Diniz",
+          "url": "https://open.spotify.com/artist/51ksBr5oEDy7fgPfFXfWGv"
+        },
+        {
+          "name": "Talitta",
+          "url": "https://open.spotify.com/artist/0YGHrmg2N5TNMiLmK1hrX7"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238849,
+      "name": "Respeita as Mina (feat. Cinthia Ribeiro, Gabi D'Paula, Talitta, Juliana Diniz)",
+      "url": "https://open.spotify.com/track/3voRJc2su3jGlxAifjwWmF"
     },
     {
       "album": {
@@ -8796,6 +8944,24 @@
       "duration_ms": 196165,
       "name": "Rotina",
       "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
+    },
+    {
+      "album": {
+        "name": "Roupa Branca",
+        "url": "https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC"
+      },
+      "artists": [
+        {
+          "name": "Sued Nunes",
+          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147770,
+      "name": "Roupa Branca",
+      "url": "https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC"
     },
     {
       "album": {
@@ -9474,7 +9640,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 161076,
       "name": "Sou + As Negras",
       "url": "https://open.spotify.com/track/4RqoUzXPTDgQSgSiPxmjHJ"
@@ -9940,7 +10106,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 327017,
       "name": "T\u00f4 Com Saudade / Al\u00f4 / Fugidinha - Ao Vivo",
       "url": "https://open.spotify.com/track/6OHGjBE0LvIGTlRP7KMpdh"
@@ -10690,7 +10856,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 196056,
       "name": "Yeezy Slide \"FREESTYLE 01\"",
       "url": "https://open.spotify.com/track/6bBnV1J4thy0w6v8b5qXP4"

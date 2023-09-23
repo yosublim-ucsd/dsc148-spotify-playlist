@@ -1,15 +1,55 @@
 {
-  "description": "The new school of M\u00fasica Mexicana. Cover: Adrian L Santos & Oscar Maydon",
-  "num_followers": 101291,
+  "description": "The new school of M\u00fasica Mexicana. Cover: Los Primos del Este",
+  "num_followers": 101347,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjczMGE5ZTI1NTgwNGEwZDQyYWZkMGFhZDZkMWYxNmJlZDhkNjVj",
+  "snapshot_id": "MCwzZDk3NWI2YWI4NWJlMWMxNmU5ZTkzODJkOGU3MGIwZTRjZjljOTVk",
   "tracks": [
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
+      "album": {
+        "name": "No Es Mentira (Version Norte\u00f1a)",
+        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 200061,
+      "name": "No Es Mentira (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
+    },
+    {
+      "added_at": "2023-09-22 06:54:19",
+      "album": {
+        "name": "Skin de Bandida",
+        "url": "https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 176134,
+      "name": "Skin de Bandida",
+      "url": "https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf"
+    },
+    {
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Pal Amor Soy Malo (Remix)",
         "url": "https://open.spotify.com/album/5zwIedXvNKxtqWuZJNWKmF"
@@ -29,7 +69,7 @@
       "url": "https://open.spotify.com/track/5u9W6O6RiCRbJIOhE4Nmzy"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Nuestras Vidas",
         "url": "https://open.spotify.com/album/50sHLZrA8kqPy9Xw5bbj8C"
@@ -49,23 +89,7 @@
       "url": "https://open.spotify.com/track/2Hi7EbQELE4aJHLbP05v1P"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
-      "album": {
-        "name": "No Es Mentira (Version Norte\u00f1a)",
-        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 200061,
-      "name": "No Es Mentira (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
-    },
-    {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Tres Rayas",
         "url": "https://open.spotify.com/album/6BVZbBwRnPASA4JmOtZQHV"
@@ -81,7 +105,7 @@
       "url": "https://open.spotify.com/track/7HvBcWRqhjRco6if0FfRb7"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "La V\u00edctima",
         "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
@@ -97,7 +121,7 @@
       "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "El Gerente",
         "url": "https://open.spotify.com/album/4QVubyun1jCOQ1NIwBbrq4"
@@ -113,7 +137,7 @@
       "url": "https://open.spotify.com/track/6FcdLIc4fWVBNUJNd9dIXA"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Obsessed Pt. 2",
         "url": "https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0"
@@ -129,7 +153,27 @@
       "url": "https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
+      "album": {
+        "name": "C\u00e1psulas",
+        "url": "https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg"
+      },
+      "artists": [
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "duration_ms": 190466,
+      "name": "T\u00fa Te Mereces",
+      "url": "https://open.spotify.com/track/0jSCU4pckTESxGEzNu2Zz0"
+    },
+    {
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "GPI",
         "url": "https://open.spotify.com/album/0zpMM4CQ8CDMxga0oHXrus"
@@ -149,7 +193,27 @@
       "url": "https://open.spotify.com/track/2kDAwCfoTqKQePz2ZZEGdm"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
+      "album": {
+        "name": "Poco A Poco",
+        "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 156040,
+      "name": "Poco A Poco",
+      "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
+    },
+    {
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Ella",
         "url": "https://open.spotify.com/album/3BOqHu4mY7TRSSWlK3h3xT"
@@ -165,7 +229,7 @@
       "url": "https://open.spotify.com/track/7389W50g78Pt1Aoc1a71wx"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Que Onda",
         "url": "https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd"
@@ -189,7 +253,7 @@
       "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "A Mi Modo",
         "url": "https://open.spotify.com/album/61PVjWCpIPWCCEep36r5wd"
@@ -205,7 +269,7 @@
       "url": "https://open.spotify.com/track/4crRxXlL3JViRXFHLBurQp"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "S\u00c1LVAME",
         "url": "https://open.spotify.com/album/23P9z5m6FNvfz5eXarJxvA"
@@ -221,7 +285,23 @@
       "url": "https://open.spotify.com/track/66zpZXzpcnyeg4s6Ahhf99"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
+      "album": {
+        "name": "Malo Es No Hacer Billete",
+        "url": "https://open.spotify.com/album/1cyMKWjSIl6fL1hQg67QIJ"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 169805,
+      "name": "Malo Es No Hacer Billete",
+      "url": "https://open.spotify.com/track/1qokziiqQTfZyXdroK13rP"
+    },
+    {
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Que Sigan Llegando Las Pacas",
         "url": "https://open.spotify.com/album/0R2nIBuNtolLYK0UGUdlU7"
@@ -237,7 +317,43 @@
       "url": "https://open.spotify.com/track/75jkAn2RtEOwaPy3MFxJB4"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
+      "album": {
+        "name": "Cul\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/2hF7FIU53g2uyCGBvjnsqB"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "Cul\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/3l9U4Jym6Ci2kngA1fxUxK"
+    },
+    {
+      "added_at": "2023-09-22 06:54:19",
+      "album": {
+        "name": "Me Duele",
+        "url": "https://open.spotify.com/album/1Vq8Ynt4RN2B6S1dmpfKnV"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 201142,
+      "name": "Me Duele",
+      "url": "https://open.spotify.com/track/5lUaSlCN3Zne9VKRbk7Xfp"
+    },
+    {
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Ramo Buch\u00f3n",
         "url": "https://open.spotify.com/album/3XszKeKNdXtEMRKBhThpi8"
@@ -257,7 +373,7 @@
       "url": "https://open.spotify.com/track/4Td2A1bW1NP1Utc9WZDfWr"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Coraz\u00f3n Confundido",
         "url": "https://open.spotify.com/album/5TCnntTixw3ZRlIfghFYzE"
@@ -273,7 +389,47 @@
       "url": "https://open.spotify.com/track/0HXwimM3Gvx1JqVO7MjDVJ"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
+      "album": {
+        "name": "El Chamaquito",
+        "url": "https://open.spotify.com/album/4GJxnawlts3HizXeVb7Fye"
+      },
+      "artists": [
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        },
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        }
+      ],
+      "duration_ms": 228706,
+      "name": "El Chamaquito",
+      "url": "https://open.spotify.com/track/43m5eJ9Ln6AqcuDJvEtN33"
+    },
+    {
+      "added_at": "2023-09-22 06:54:19",
+      "album": {
+        "name": "Cuando Alguien Me Amaba",
+        "url": "https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 144514,
+      "name": "Cuando Alguien Me Amaba",
+      "url": "https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j"
+    },
+    {
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Bulgari",
         "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
@@ -289,7 +445,7 @@
       "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Piensa En Mi",
         "url": "https://open.spotify.com/album/3QvltqphdmNGv93YoM310C"
@@ -305,7 +461,7 @@
       "url": "https://open.spotify.com/track/2JSmFHR2FpruHXgF5udA1l"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "No Hay Nadie Mas",
         "url": "https://open.spotify.com/album/68stO76KyOkmVTvhYjwDHu"
@@ -325,7 +481,7 @@
       "url": "https://open.spotify.com/track/5trbQ35GE77zBtGZbwGeCp"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "BIPOLAR",
         "url": "https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ"
@@ -349,7 +505,7 @@
       "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "VETE",
         "url": "https://open.spotify.com/album/3GIN6jcQHRLIno3O1r14SU"
@@ -365,10 +521,26 @@
       "url": "https://open.spotify.com/track/1nZZVprSn3MjlypZ8QYcPF"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
-        "name": "Nada Quedo",
-        "url": "https://open.spotify.com/album/7myGnI4Eb8zMXrTiSdxt3I"
+        "name": "Barbie",
+        "url": "https://open.spotify.com/album/4ijDM18ukzS55Vv5FJAJ72"
+      },
+      "artists": [
+        {
+          "name": "Cachas De Oro",
+          "url": "https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU"
+        }
+      ],
+      "duration_ms": 176213,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/6mnBsP4IgjhtZlOtmCf8su"
+    },
+    {
+      "added_at": "2023-09-22 06:54:19",
+      "album": {
+        "name": "Falto",
+        "url": "https://open.spotify.com/album/5Zg6mTfVdWz6UQcdEwRaHk"
       },
       "artists": [
         {
@@ -376,12 +548,12 @@
           "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
         }
       ],
-      "duration_ms": 129899,
-      "name": "Nada Quedo",
-      "url": "https://open.spotify.com/track/6Ufn8RmCfp4Qlr6kINeyCB"
+      "duration_ms": 156352,
+      "name": "Falt\u00f3",
+      "url": "https://open.spotify.com/track/3YMbT29QAQNiuC6VWP1uic"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "El Pixie",
         "url": "https://open.spotify.com/album/7esUg3tVtbDK7WciQNh6m5"
@@ -397,7 +569,7 @@
       "url": "https://open.spotify.com/track/3DtZTUN8G1IBqDLKmDZfzs"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Cambiaste",
         "url": "https://open.spotify.com/album/45AmYYOpFm7IkeR8hIPskd"
@@ -421,7 +593,7 @@
       "url": "https://open.spotify.com/track/73w4NDiIu7pvpjxntDkRir"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Loco Sin Ti",
         "url": "https://open.spotify.com/album/7DxzYjWfYNElCMF7pDdWnW"
@@ -437,7 +609,39 @@
       "url": "https://open.spotify.com/track/4zRg9RKqphhp8tabUDLzFs"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
+      "album": {
+        "name": "Los lujos del 37",
+        "url": "https://open.spotify.com/album/0qQZ7ity1lDkqpcXjV9Hba"
+      },
+      "artists": [
+        {
+          "name": "Jorge Morales El Jilguero",
+          "url": "https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv"
+        }
+      ],
+      "duration_ms": 183414,
+      "name": "Los lujos del 37",
+      "url": "https://open.spotify.com/track/46fRxxYHHKCjYDAX49OMT6"
+    },
+    {
+      "added_at": "2023-09-22 06:54:19",
+      "album": {
+        "name": "Jalando Recio",
+        "url": "https://open.spotify.com/album/25xSndWVljWsu5FFneoBs4"
+      },
+      "artists": [
+        {
+          "name": "Los DLG",
+          "url": "https://open.spotify.com/artist/7ttZ8lW0TwAL9b7n5snX4p"
+        }
+      ],
+      "duration_ms": 153653,
+      "name": "Jalando Recio",
+      "url": "https://open.spotify.com/track/41jwdr4IFz62JSzwqUaJAb"
+    },
+    {
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Unos Nike (En Vivo)",
         "url": "https://open.spotify.com/album/077JexdfhdYR7yQWjWNA93"
@@ -453,7 +657,7 @@
       "url": "https://open.spotify.com/track/3ny0OAUJ4WBADIs1EwvjoJ"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Rojo",
         "url": "https://open.spotify.com/album/3TQE7Z8ScW2bFmB1DdVp7X"
@@ -469,7 +673,7 @@
       "url": "https://open.spotify.com/track/1A4brAeYlatGpoRxAs06UE"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Polvito",
         "url": "https://open.spotify.com/album/0LROhRL0IfDHtFMxwUKNuY"
@@ -489,7 +693,7 @@
       "url": "https://open.spotify.com/track/6Ue52TJAdl5BHt389OOjlm"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Mood Malandro",
         "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
@@ -509,7 +713,7 @@
       "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Loko",
         "url": "https://open.spotify.com/album/1lJe9qUaeV46BTaczQ1TGU"
@@ -525,7 +729,7 @@
       "url": "https://open.spotify.com/track/5qzepeW1CAsX5JhgNudQuP"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Flow Montana",
         "url": "https://open.spotify.com/album/59Y2Iexv2Yt7DQdYa6WFSa"
@@ -545,7 +749,7 @@
       "url": "https://open.spotify.com/track/4e1W2BBsaX1iB3quDtIV7H"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Que Sucedi\u00f3",
         "url": "https://open.spotify.com/album/4YGj4oLb9swMSinQWIJT0f"
@@ -561,7 +765,7 @@
       "url": "https://open.spotify.com/track/47yYUeEFeIqIB3j9iilC21"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Qui\u00e9n Quiere Otro Bote?",
         "url": "https://open.spotify.com/album/4qxOY9Fwf1jprPIhAJmc5V"
@@ -577,7 +781,7 @@
       "url": "https://open.spotify.com/track/6sTzLNPWCIPY7qzfnP6pE4"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "C\u00f3mo Llega El Dinero",
         "url": "https://open.spotify.com/album/0akG6V0cMjg0nWXqvsvMTj"
@@ -593,7 +797,7 @@
       "url": "https://open.spotify.com/track/3PuMQpQfFDqEoT2xtOqCqs"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Sigues Siendo T\u00fa",
         "url": "https://open.spotify.com/album/14m3LBc5VPxkbdUiK8TewF"
@@ -613,7 +817,7 @@
       "url": "https://open.spotify.com/track/4gITyhCjJzAnoMk06bXodN"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "CCC (Remix)",
         "url": "https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo"
@@ -637,7 +841,7 @@
       "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "En Las Tacomas",
         "url": "https://open.spotify.com/album/5JWaDs3bJxoKri6SDN4FPD"
@@ -653,7 +857,7 @@
       "url": "https://open.spotify.com/track/5VzIwHFNGfXpolmzb10y31"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Que Bonito Es Tomar",
         "url": "https://open.spotify.com/album/4auVeclloio4ybbEMCSeIP"
@@ -669,7 +873,7 @@
       "url": "https://open.spotify.com/track/4fSdmET7QJecg1nDS2RRop"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Aqu\u00ed Te Espero",
         "url": "https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE"
@@ -685,7 +889,7 @@
       "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Mi Estilo",
         "url": "https://open.spotify.com/album/09hkkkk36xgJfcg8fssPlq"
@@ -705,7 +909,7 @@
       "url": "https://open.spotify.com/track/5Mh7ttqT7eDrAMSDdYLT2m"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Tu No Eres Mi EX",
         "url": "https://open.spotify.com/album/23QxdEnKzBvNpXqeyG93iB"
@@ -721,7 +925,7 @@
       "url": "https://open.spotify.com/track/1kSE21wjTP5XO2rWa5kPpn"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "23/7",
         "url": "https://open.spotify.com/album/6zLMpgvyHDFZERNgThuPZ6"
@@ -737,7 +941,7 @@
       "url": "https://open.spotify.com/track/7ukGsTDrFIXty5We5fZ8Mg"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "DE CERO A 100",
         "url": "https://open.spotify.com/album/2p4n7TW3yT2lRhopl3Khfs"
@@ -757,7 +961,7 @@
       "url": "https://open.spotify.com/track/4rU0ORlwN9RMnchqOG83Z2"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "El Compa Chango",
         "url": "https://open.spotify.com/album/5gQQ6JK8OSfH9NH3piNpZh"
@@ -773,7 +977,7 @@
       "url": "https://open.spotify.com/track/5dU1daP94AF3QpKjcWcKOR"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/6FFfWQBrB6DDptgkhB4nnY"
@@ -789,7 +993,7 @@
       "url": "https://open.spotify.com/track/7ETzNbzgZzdpa1nHrUXbby"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Ya Nada Nos Falta",
         "url": "https://open.spotify.com/album/4icOv7vGuKbiQP6W185Zuo"
@@ -805,7 +1009,7 @@
       "url": "https://open.spotify.com/track/32JGdatUOvpvh4E5k6KVYP"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Enfermedad",
         "url": "https://open.spotify.com/album/7e9H9zKsOE4uoQROayD7Vf"
@@ -821,7 +1025,7 @@
       "url": "https://open.spotify.com/track/751od1Q6Nm9CDevec2wVGf"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "PERRO SIN CADENA",
         "url": "https://open.spotify.com/album/3vEwkwxpSxxQQJY6F5E68G"
@@ -837,7 +1041,7 @@
       "url": "https://open.spotify.com/track/1EX9j5ZkYvxTuWgi3cTp04"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/3XxN4yyH0mHlsYQlCdBZAK"
@@ -853,7 +1057,7 @@
       "url": "https://open.spotify.com/track/1uF7kKsAOLM72eJaoWpBo7"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Paso En Culiacan (En Vivo)",
         "url": "https://open.spotify.com/album/6dWQ03bpI9ODThTAlqKWbP"
@@ -873,7 +1077,7 @@
       "url": "https://open.spotify.com/track/0PXsTgZLZkpEJepjyZAGTS"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Doble S",
         "url": "https://open.spotify.com/album/3j3ZoM5tiyOow4KaYlruuA"
@@ -889,7 +1093,7 @@
       "url": "https://open.spotify.com/track/7Jr9OrP8EHVuXSIY3qDesG"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Todas Son Iguales",
         "url": "https://open.spotify.com/album/4cnB7ZFMYPWYXtMyDkahpj"
@@ -909,7 +1113,7 @@
       "url": "https://open.spotify.com/track/2qfUvyyu0CrKcJTSXh6ifx"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "TRES COLORES",
         "url": "https://open.spotify.com/album/1e2UuOMIdk8ePkavqsH8CQ"
@@ -925,7 +1129,7 @@
       "url": "https://open.spotify.com/track/5pvRCBozRBjJDjpbQuxCG0"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "El Muchacho De La Barba",
         "url": "https://open.spotify.com/album/08QN0AyrFyIHmRk3b7catH"
@@ -941,7 +1145,7 @@
       "url": "https://open.spotify.com/track/6XuHfpW6QlqAhXgcVbjduM"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "x el 215",
         "url": "https://open.spotify.com/album/0JYxLMZ6fgDayKM04oTGlB"
@@ -957,7 +1161,7 @@
       "url": "https://open.spotify.com/track/3KpxZy5MCs8lJlgIAqdtRc"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Sin Mucha Foto",
         "url": "https://open.spotify.com/album/0BvNOVBivYozEKKZw4N1S4"
@@ -977,7 +1181,7 @@
       "url": "https://open.spotify.com/track/7MKcGClHFoVIRTzG7RELC0"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "No Pueden Verme Bien",
         "url": "https://open.spotify.com/album/51nI6NRypBXF2pEytfNjXf"
@@ -993,7 +1197,7 @@
       "url": "https://open.spotify.com/track/0hncW4E4L1nltzjYKPBf2W"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Vamos a Pasear",
         "url": "https://open.spotify.com/album/3DWm0u2VrzTKqLxYOIDVHB"
@@ -1013,7 +1217,7 @@
       "url": "https://open.spotify.com/track/2qbN8ePhOVDog3Mx7N5IMx"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "c\u00f3mo dormiste?",
         "url": "https://open.spotify.com/album/02HbzA9lAQTVWuLvaYuSj8"
@@ -1029,7 +1233,7 @@
       "url": "https://open.spotify.com/track/4gcVqUyT7lj281442LiBYV"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "D\u00edas De Rose",
         "url": "https://open.spotify.com/album/2j9U19Dtq3yFmRGU2Xbnct"
@@ -1045,7 +1249,7 @@
       "url": "https://open.spotify.com/track/3rof58ZLsWXv8qfu9HZy9i"
     },
     {
-      "added_at": "2023-09-15 05:05:54",
+      "added_at": "2023-09-22 06:54:19",
       "album": {
         "name": "Mi Vicio",
         "url": "https://open.spotify.com/album/6fZ7mQT6IXHFj4ZWc7h8JS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 
 > Vibras rastafari para poner en sintonía el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,312 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,374 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 36 | [Armonia de Amor](https://open.spotify.com/track/0FGiRaJJoao1C1pNrqpxQA) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [RAS Portraits](https://open.spotify.com/album/5vqr9fcTKswnFS7WJKPax9) | 3:55 |
 | 37 | [Señorita](https://open.spotify.com/track/7gbNeM27pOcRrXOjl49ZyN) | [Temple Sour](https://open.spotify.com/artist/1s5qi7koTDNSvEC71Y3Jg3) | [Pasajeros](https://open.spotify.com/album/7wPX6dyFYxKhSpszngQfhJ) | 4:20 |
 | 38 | [Eres Tú](https://open.spotify.com/track/54PNVT1xT6FDtKUnR7zSsj) | [Raices y Cultura](https://open.spotify.com/artist/1atI7YjIWe7u50rp2CbkCd) | [Mística Raíz](https://open.spotify.com/album/4JStVeGijMSujCyhPs2vAb) | 3:35 |
-| 39 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 |
-| 40 | [Déjalo Fluir](https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:25 |
+| 39 | [Déjalo Fluir](https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:25 |
+| 40 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 |
 | 41 | [Puedo esperarte](https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Buenas Noticias](https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n) | 4:11 |
 | 42 | [Galán de Combi](https://open.spotify.com/track/1tPs3eSeVINVi3CoQf3biD) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Atento](https://open.spotify.com/album/3VgzoPLs5aIr6Xk4K1IYOD) | 3:54 |
 | 43 | [Mi Princesa](https://open.spotify.com/track/4JN86HHZDQJNd8amda2rR6) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Pincoya Calipso \- Pasado, Presente y Futuro](https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6) | 4:23 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 59 | [El Árbol](https://open.spotify.com/track/1q2GWueMnvjzYGksW2SBPJ) | [Olaya Sound System](https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3) | [El Árbol](https://open.spotify.com/album/5K0vKNaWvRSNKf0EbgUhSu) | 3:31 |
 | 60 | [Sensación](https://open.spotify.com/track/6LbMjdYpQvJxDTgAVqNM0T) | [Contravos](https://open.spotify.com/artist/0q6mxrr4ww5O7gewXHIFMC), [BlackDali](https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B) | [Actor Espectador](https://open.spotify.com/album/1ZHhYDXil7KaimaJkRa3CF) | 3:49 |
 
-Snapshot ID: `MCwyYjc0YWI4OTg1NWJkMDQ1OTgzYjMwYmI4ZDE1NmRmMjQ1ZmJiOGUy`
+Snapshot ID: `MCw3YTQyZjE1MTc0MGJiMTM0Yzc2ZjZmYzIyOThhNDlhNWE3Y2M5YTVk`

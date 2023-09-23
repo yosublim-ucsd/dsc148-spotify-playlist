@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,249 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,333 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 45 | [Amor, Amor](https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Mis Recuerdos](https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h) | 3:50 |
 | 46 | [Sola](https://open.spotify.com/track/2EMkMUHKcocs6BJatgmyfI) | [Diana Navarro](https://open.spotify.com/artist/2UPK6yJypnotLzHuUBiVa2) | [No te olvides de mi \(edicion original\)](https://open.spotify.com/album/1CNbzyIo5xgLVZz2nZLA1V) | 5:05 |
 | 47 | [Maria Se Bebe las Calles](https://open.spotify.com/track/1IF2G18XKNrToVG1yiCmsj) | [Pasión Vega](https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey) | [Banderas De Nadie](https://open.spotify.com/album/5fhK35LQpXRXyRJoxpC1Kr) | 4:05 |
-| 48 | [Ponte la Mano en el Pecho](https://open.spotify.com/track/5R9D7LIue9bA2acd75Tfuv) | [María Jiménez](https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS) | [Decálogo \(Sus 10 Mayores Éxitos\)](https://open.spotify.com/album/1hCgERvuup6uAg45GpwrL7) | 3:31 |
-| 49 | [Tú Me Camelas \(Tangos\)](https://open.spotify.com/track/70YaxHyHdmLACqR1TinoUi) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Caprichos de Mujer](https://open.spotify.com/album/5xgvEgd0SL1z7wI3jNKLV3) | 4:13 |
+| 48 | [Tú Me Camelas \(Tangos\)](https://open.spotify.com/track/70YaxHyHdmLACqR1TinoUi) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Caprichos de Mujer](https://open.spotify.com/album/5xgvEgd0SL1z7wI3jNKLV3) | 4:13 |
+| 49 | [Ponte la Mano en el Pecho](https://open.spotify.com/track/5R9D7LIue9bA2acd75Tfuv) | [María Jiménez](https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS) | [Decálogo \(Sus 10 Mayores Éxitos\)](https://open.spotify.com/album/1hCgERvuup6uAg45GpwrL7) | 3:31 |
 | 50 | [Y se amaron dos caballos](https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [De siempre \- Antología de las sevillanas Vol\. 1](https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R) | 3:35 |
 | 51 | [Sevillanas de los Bloques](https://open.spotify.com/track/5I2t3LU5UTMdxc9sODCT1d) | [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Isidro Sanlucar](https://open.spotify.com/artist/3CmNkHj1gWBUw3ZKfRmm42), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [Cristalitos Machacaos](https://open.spotify.com/album/1Ftarn4wOspiKUBODeu5Rj) | 3:15 |
 | 52 | [Sin Tí No Puedo Vivir](https://open.spotify.com/track/2xDZ2IKvMUC1nYvc6oXKlZ) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB), [Estrella Morente](https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D) | [Viva Carlos Cano \(Remasterizado\)](https://open.spotify.com/album/4cGadXY3rcIvwxUGvsILly) | 3:53 |
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 59 | [Te Quiero Te Quiero](https://open.spotify.com/track/55ekUAzFSBgKDj2gWziFsd) | [Carmen Sevilla](https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO) | [Carmen de España](https://open.spotify.com/album/4gRMzAVEmQp1aSIkxplmpn) | 3:04 |
 | 60 | [Alma Mía](https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY) | [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Chano Dominguez](https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI) | [A Bola De Nieve](https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o) | 4:22 |
 | 61 | [Quizas, Quizas, Quizas](https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [The Ultimate Collection](https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX) | 2:43 |
-| 62 | [Tic\-Tac](https://open.spotify.com/track/0VzwC86lO5bxf89lvaoAjk) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [Todo Vuelve](https://open.spotify.com/album/3Yrbz3zB4uZYxafoXDfueO) | 3:29 |
+| 62 | [Cántame](https://open.spotify.com/track/40yczJ7VRenkAPVctWQfqp) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [Cántame Sevillanas](https://open.spotify.com/album/7hJrIlgMWFgZoacK5G3v5j) | 4:02 |
 | 63 | [Tatuaje](https://open.spotify.com/track/4bSTSglkBr2mtv9bgKR8Th) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Tatuaje](https://open.spotify.com/album/6z0xxhlPljQvIMgCrfkwTn) | 4:31 |
 | 64 | [HEY](https://open.spotify.com/track/1XxRrTL5TWbR5kuY5RB0Ck) | [Tamara Jerez](https://open.spotify.com/artist/2FPHGOUBcRzwPfXwqt3Ie7) | [HEY](https://open.spotify.com/album/7EP44d7bse5iPx1xv3LWK9) | 4:43 |
 | 65 | [Baladilla De Los Tres Ríos](https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar) | [Pasión Vega](https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey) | [Baladilla De Los Tres Ríos](https://open.spotify.com/album/1i9rCl0H6r9v33Bo2LV5lh) | 3:12 |
 | 66 | [Lagrimas Negras \(with Diego "El Cigala"\)](https://open.spotify.com/track/6jBq3phksLooRylCPSxzGb) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [La Colección Definitiva](https://open.spotify.com/album/62TrSoP03z7TiX3ZXGANGg) | 3:46 |
 | 67 | [La Violetera \- Remastered](https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [La Violetera \(Remastered\)](https://open.spotify.com/album/47V6DnBwIyOfoGKJRmfEMJ) | 3:42 |
 | 68 | [Cariño Trianero](https://open.spotify.com/track/2N5EguFWYgUCc5uiazKLAE) | [Carmen Sevilla](https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO) | [Carmen Sevilla : Sus Grandes Exitos](https://open.spotify.com/album/6LFXCD0B5MkbSLmVfph57R) | 2:04 |
-| 69 | [Cántame](https://open.spotify.com/track/40yczJ7VRenkAPVctWQfqp) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [Cántame Sevillanas](https://open.spotify.com/album/7hJrIlgMWFgZoacK5G3v5j) | 4:02 |
+| 69 | [Tic\-Tac](https://open.spotify.com/track/0VzwC86lO5bxf89lvaoAjk) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [Todo Vuelve](https://open.spotify.com/album/3Yrbz3zB4uZYxafoXDfueO) | 3:29 |
 | 70 | [Los Nardos](https://open.spotify.com/track/0Gx6gmh6jjeRmVlgLUXYA1) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [Pecado de Amor \(Original Motion Picture\)](https://open.spotify.com/album/77Yz6Y1zfcuPBCPekPz8Pq) | 3:31 |
 | 71 | [El relicario \- Remastered](https://open.spotify.com/track/2DM5vKnZNSepFa7Nn3jAMF) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [El relicario \(Remastered\)](https://open.spotify.com/album/59DG8gbZHmbrQSdDk4AKwh) | 3:48 |
 | 72 | [Punto De Partida \(with Monica Naranjo\)](https://open.spotify.com/track/75cWbqIqhfEfX8uOHlgWZV) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 7:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 74 | [Se Nos Rompio el Amor \(with Malú\)](https://open.spotify.com/track/2Wp7kX7Kj38MgIBe3p0MBE) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 4:39 |
 | 75 | [Dejandonos La Piel \(with Lolita\)](https://open.spotify.com/track/7FjpkYUDZhR66hR1Us8PrW) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 4:42 |
 
-Snapshot ID: `MCwxNDY3NTllMzJkYzczOTFlOGM3N2Y5ZDI0ODMyOWRiZjgyZDM1NmE3`
+Snapshot ID: `MCxkMDlmZmZjMmUxMmY3MWY1NTYzMjcxY2IwMWJhOGNkMTYzMjRjMzFh`

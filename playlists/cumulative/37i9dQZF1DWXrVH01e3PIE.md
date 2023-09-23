@@ -2,9 +2,9 @@
 
 ### [Trapperz Argentina](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
 
-> Tu dúo favorito en la casa del Trap Argentino.
+> LIT killah & Tiago PZK en la casa del Trap Argentino.
 
-234 songs - 11 hr 16 min
+235 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Llegué Tarde](https://open.spotify.com/track/0MU33IBbZtqRcJA3f4fG5M) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Llegué Tarde](https://open.spotify.com/album/1XORrZyL3U6VkoVgg1mwaW) | 2:57 | 2022-01-21 | 2022-08-06 |
 | [LOWKEY](https://open.spotify.com/track/4Z3E67qsTA4v43XyMRovbq) | [J Gonz](https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL), [n.a.n.o](https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm) | [LOWKEY](https://open.spotify.com/album/6gzNyQuwFpgRAATfu1qt5E) | 3:01 | 2023-06-09 | 2023-09-02 |
 | [Lucho SSJ: Bzrp Music Sessions, Vol\. 26](https://open.spotify.com/track/3tMNgcUfPEXTtG5vaaGi85) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Lucho SSJ: Bzrp Music Sessions, Vol\. 26](https://open.spotify.com/album/0thIkyfD115LyonQgwBhyT) | 2:22 | 2022-01-21 | 2022-02-12 |
+| [LuXxX](https://open.spotify.com/track/1tgWvt78QUQrghdsbiteyZ) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [LuXxX](https://open.spotify.com/album/3GmPKpcpxysC0XQ9AJFeky) | 3:21 | 2023-09-22 |  |
 | [m e t a m o r f o s i s \- remix](https://open.spotify.com/track/1zrshsq9z1PRWXndAzGcQX) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [0\-600](https://open.spotify.com/artist/07Hm9w6ksRaggaDBpN8RRd) | [m e t a m o r f o s i s \(remix\)](https://open.spotify.com/album/1xGDdQSYgAAuBgp6TYZLZU) | 2:57 | 2022-11-18 | 2023-06-03 |
 | [Maldad](https://open.spotify.com/track/5zNBzzGYHiPX6KTfoQX7e2) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Maldad](https://open.spotify.com/album/3W4doy1Nh9TLVojSVVhzyf) | 2:20 | 2022-01-21 | 2022-11-12 |
 | [Mami Lo Siento](https://open.spotify.com/track/3QI0dCmyNujFycD1le2zk4) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Mami Lo Siento](https://open.spotify.com/album/69OFUHi0ccQbkD6ArPJ4jX) | 2:53 | 2022-01-21 | 2023-02-18 |
@@ -179,7 +180,7 @@
 | [SEA LA HORA QUE SEA](https://open.spotify.com/track/0Xu2p23OYBluVeY5w3SEH2) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [TRAP DE VERDAD](https://open.spotify.com/album/340fOwgu4ResZDdUJKqV2K) | 2:36 | 2022-01-21 | 2022-08-06 |
 | [SER EL TRAP](https://open.spotify.com/track/2mmYwg4OgThj9vHgwc1rgL) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 2:59 | 2022-11-11 |  |
 | [Seven Kayne: Bzrp Music Sessions, Vol\. 33](https://open.spotify.com/track/5PmK5pRspJq5ki30zgyv7G) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Seven Kayne: Bzrp Music Sessions, Vol\. 33](https://open.spotify.com/album/5VZx3dyGCnrp2JUQMbmi27) | 2:22 | 2022-01-21 | 2023-06-24 |
-| [Sex Files](https://open.spotify.com/track/6fLtS4716nKlzsjadty3nf) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk) | [Sex Files](https://open.spotify.com/album/4vLjQ64XAiA5EQWbBo2IUy) | 2:53 | 2023-09-15 |  |
+| [Sex Files](https://open.spotify.com/track/6fLtS4716nKlzsjadty3nf) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk) | [Sex Files](https://open.spotify.com/album/4vLjQ64XAiA5EQWbBo2IUy) | 2:53 | 2023-09-15 | 2023-09-23 |
 | [Sexy \(feat\. Marlku\)](https://open.spotify.com/track/07op5jYgtFXEdA5NGqBgEr) | [Eich](https://open.spotify.com/artist/0sNvI8p4fuICGGH0pOCxUT), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Marlku](https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5) | [Sexy \(feat\. Marlku\)](https://open.spotify.com/album/0kVRyKb6YCBggbll6m5QSu) | 4:14 | 2023-07-21 |  |
 | [Sexy \(feat\. Marlku\)](https://open.spotify.com/track/67598hFUFPWCIEy8biXn9D) | [Eich](https://open.spotify.com/artist/0sNvI8p4fuICGGH0pOCxUT), [Marlku](https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Sexy \(feat\. Marlku\)](https://open.spotify.com/album/2lHn3ehlogEok7DEUe1yfC) | 4:14 | 2022-01-21 | 2023-07-22 |
 | [She Don't Give a Fo](https://open.spotify.com/track/03a359wbiUsjN9h6yzXvmS) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [She Don't Give a Fo](https://open.spotify.com/album/42ZO19JImkKWh6y7rfvrfM) | 3:29 | 2022-05-31 |  |

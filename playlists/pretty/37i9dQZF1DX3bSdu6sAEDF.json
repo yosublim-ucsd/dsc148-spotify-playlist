@@ -1,13 +1,45 @@
 {
   "description": "Let this smooth mix carry you home in style.",
-  "num_followers": 503347,
+  "num_followers": 503466,
   "original_name": "Evening Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWY1NDlkNjUxODg3ZGNiOTc5YTY3MmM4ZWUzNTEwMDIyN2M0ZWY0",
+  "snapshot_id": "MCwyZjI5OWQ0NGNmM2JjYTVmMjczODM0Y2JlM2UwZDY1MGRlZTRiYzUx",
   "tracks": [
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "NEW LOVE",
+        "url": "https://open.spotify.com/album/2lFihMx6pGcLNn6glKRvwM"
+      },
+      "artists": [
+        {
+          "name": "BOYS LIKE GIRLS",
+          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "NEW LOVE",
+      "url": "https://open.spotify.com/track/4jxLWRKAzXyV8xmUJg7fpF"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Modern Girl",
+        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 223100,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
+    },
     {
       "added_at": "2023-09-04 21:51:37",
       "album": {
@@ -55,6 +87,22 @@
       "duration_ms": 186918,
       "name": "Paradise Calling",
       "url": "https://open.spotify.com/track/6FDPJaI8UySXCTSWKMsXZj"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Hands Up To The Sky",
+        "url": "https://open.spotify.com/album/6zIEU67gUCnGZ9yYQW9tL6"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "duration_ms": 203730,
+      "name": "Hands Up To The Sky",
+      "url": "https://open.spotify.com/track/0WExP6ei2lDqW6WDPlfYOq"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1035,22 +1083,6 @@
     {
       "added_at": "2023-09-04 21:51:37",
       "album": {
-        "name": "High Water / Art of Survival",
-        "url": "https://open.spotify.com/album/35Wec8JgWduyeZnMsvPpym"
-      },
-      "artists": [
-        {
-          "name": "Bishop Briggs",
-          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
-        }
-      ],
-      "duration_ms": 189267,
-      "name": "High Water",
-      "url": "https://open.spotify.com/track/0ZrHaA9ei55Km65yBodElf"
-    },
-    {
-      "added_at": "2023-09-04 21:51:37",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
       },
@@ -1095,22 +1127,6 @@
       "duration_ms": 183933,
       "name": "landline",
       "url": "https://open.spotify.com/track/3OqP3uIygaUiuVzhVyk0X5"
-    },
-    {
-      "added_at": "2023-09-04 21:51:37",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
       "added_at": "2023-09-04 21:51:37",
@@ -1223,22 +1239,6 @@
       "duration_ms": 159608,
       "name": "See You In My Dreams",
       "url": "https://open.spotify.com/track/41QTVIWEHUxKMZFsq7H7jI"
-    },
-    {
-      "added_at": "2023-09-04 21:51:37",
-      "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/71ksMhG7YqwphT30LMElRK"
-      },
-      "artists": [
-        {
-          "name": "ZEE MACHINE",
-          "url": "https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg"
-        }
-      ],
-      "duration_ms": 171293,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/2WP51KZ9ijZ6Kh68X5n3oc"
     }
   ],
   "unique_name": "Evening Commute",

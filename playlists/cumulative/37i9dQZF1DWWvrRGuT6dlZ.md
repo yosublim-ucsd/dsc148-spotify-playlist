@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: Aaron Bunac, Owen Li\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: ICEBOX\. Artwork: Isu Kim.
 
-522 songs - 1 day 4 hr 39 min
+529 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [bittersweet](https://open.spotify.com/track/3rIFI3Qr5F6ZMAeX1R8bzh) | [Joel See](https://open.spotify.com/artist/44DkJ4VKIXuLWfpyL9Tbps) | [bittersweet](https://open.spotify.com/album/5FO2kVPKiicZfH0ypjWrBx) | 2:38 | 2022-10-27 | 2023-05-12 |
 | [BLAZE](https://open.spotify.com/track/0ckAdNFaRgNYboKjJ7iBv3) | [jupiterkid](https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U) | [camp](https://open.spotify.com/album/1B34JEmiyHN9xCeyM3GTVX) | 3:09 | 2022-03-17 | 2023-03-10 |
 | [Bloom Again \(다시 봄이 올거야\)](https://open.spotify.com/track/4tnRKtVtNrc0cb7YDxkk7n) | [mersie](https://open.spotify.com/artist/6NiLEHNy66fQkD5PNoQqoH) | [Bloom Again \(다시 봄이 올거야\)](https://open.spotify.com/album/2hOEr1X3NFImMZ8YSVkvCt) | 3:23 | 2023-05-04 |  |
+| [bodyclock](https://open.spotify.com/track/6mFBLgiA35yYHvcC2DyE05) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [bodyclock](https://open.spotify.com/album/1EmrZlFUMa1cbq1Mp2X50o) | 3:13 | 2023-09-22 |  |
 | [Bonfire](https://open.spotify.com/track/4F2Hm9Iu84ribXJf0ZUDpl) | [Charmaine Koh](https://open.spotify.com/artist/4AXM9QrBp5qGABjIQVPBQI) | [Bonfire](https://open.spotify.com/album/3WK4vTqkm7A5LNeajoqFRh) | 3:05 | 2022-04-14 | 2022-07-08 |
 | [Born to Lose](https://open.spotify.com/track/5Ztgeay2dTHRcqxSRRsPJ1) | [BOYCAUGHT](https://open.spotify.com/artist/5RGPbinFDJxKSpBoktzT6K) | [Born to Lose](https://open.spotify.com/album/6XLhTlx7lrGgH5s5xAuojs) | 3:51 | 2023-03-09 |  |
 | [Bossa Trippin'](https://open.spotify.com/track/79pGOUU4NvIMt47CCaj7V0) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [Bossa Trippin'](https://open.spotify.com/album/0z84ie5iKLg19JLHaOlcao) | 3:16 | 2023-03-30 | 2023-08-18 |
@@ -140,6 +141,7 @@
 | [Escape](https://open.spotify.com/track/3n4JtlDjEzyLP25ji7rex3) | [YANA](https://open.spotify.com/artist/0BE1XQiKdWBBR01zAemf19) | [Escape](https://open.spotify.com/album/5bznDPL79W1kK6IOeYWjAr) | 3:41 | 2022-10-27 | 2023-06-23 |
 | [Everything's Fine](https://open.spotify.com/track/140xkDUO4FPrg2oz7McBrN) | [Morning Assembly](https://open.spotify.com/artist/0Ps8UDwPbkvgUQzTTWNvdH) | [Latecomers](https://open.spotify.com/album/7JQKoTRsoPXd2UJfkwgB9E) | 3:49 | 2022-08-25 | 2022-09-23 |
 | [faces](https://open.spotify.com/track/1XbVWmihyaFRZgA8NRW5vd) | [Reub](https://open.spotify.com/artist/2VIpsUyYMf7opaz3dG4OiF) | [faces](https://open.spotify.com/album/0cG0hyAI6P6dXWxrf38FOB) | 3:12 | 2022-01-13 | 2022-03-25 |
+| [Fading](https://open.spotify.com/track/3DigdfiNzmD0zMoWRAfxnk) | [Nicole Lai](https://open.spotify.com/artist/0qme0QUpU1XxC8Fa5sIVeb), [Gaston Pong](https://open.spotify.com/artist/60VWor37GAY948KKZibKiI) | [Fading](https://open.spotify.com/album/2z5ZA0XNYcljlCRuPyBgP6) | 3:19 | 2023-09-22 |  |
 | [Fall \(Again\)](https://open.spotify.com/track/1Rgrp2kFOCpPIExRVzQN4e) | [Feir](https://open.spotify.com/artist/51MSXiv3fxha6qsKxZV4YY) | [Fall \(Again\)](https://open.spotify.com/album/1eexsL3MWZJxeSabrjgRdU) | 4:26 | 2022-08-25 | 2023-02-10 |
 | [Fall Down](https://open.spotify.com/track/5soKd4hFEkpR2pqkGiWYIE) | [Cykko](https://open.spotify.com/artist/6gQ5lg2r9qzumBycPid5Va) | [Fall Down](https://open.spotify.com/album/2GxzyYNaGytdG7bIwSkGXY) | 2:49 | 2022-02-24 | 2022-06-17 |
 | [Fall Into Place](https://open.spotify.com/track/03gJvMi8jLv06wR1TVLvY8) | [Islands](https://open.spotify.com/artist/6gjDBh7u6FRvNq5FZY37zk) | [Changes](https://open.spotify.com/album/41qVzSnRGSe8LNF0E2jKOq) | 4:46 | 2023-01-12 | 2023-02-10 |
@@ -249,6 +251,7 @@
 | [LDR \- Long\-Distance Relationship](https://open.spotify.com/track/67heGxkX8txhtkyfPXkj5M) | [Amanda Ong](https://open.spotify.com/artist/0XaKTTVvegITqWH3AW1DeD) | [LDR \(Long\-Distance Relationship\)](https://open.spotify.com/album/4arYXBTaHBY7YVGJtAPEey) | 2:23 | 2022-04-21 | 2023-06-16 |
 | [least of u](https://open.spotify.com/track/3OE0fTXpnWRZKJWkBcpfPT) | [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf) | [least of u](https://open.spotify.com/album/6oeujVIsUA2CLjJoI3Lwd8) | 2:29 | 2022-04-14 | 2022-07-08 |
 | [Lemon Soda](https://open.spotify.com/track/2hxhrRKAeDVzrwhrQM8sq6) | [Icebox](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [Lemon Soda](https://open.spotify.com/album/1vQcRd8VnMbGj6E7BDFiY2) | 3:20 | 2022-10-27 | 2023-03-18 |
+| [Lessons](https://open.spotify.com/track/3mV5e0s5D7EXlA0dnc5w4q) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [Lessons](https://open.spotify.com/album/1z27FzbTQkuJedFVzXoIyV) | 4:28 | 2023-09-22 |  |
 | [Let Your Head Down](https://open.spotify.com/track/0axDavMhGrmGUyiA2LeLQt) | [Aaron Bunac](https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI) | [Let Your Head Down](https://open.spotify.com/album/3shuAUmYWBLRGtvuwAHZet) | 3:23 | 2022-09-22 | 2023-03-18 |
 | [Let's Never Talk About It](https://open.spotify.com/track/6oxjlxrcfeUpoEM6jyOBPs) | [Chloe Ho](https://open.spotify.com/artist/7byfBlKrHxvaPLNi4BGkq3) | [Let's Never Talk About It](https://open.spotify.com/album/0j8Bibkb5sg2ISCJ1ZCXzq) | 2:03 | 2021-12-01 | 2022-01-14 |
 | [Lie Again](https://open.spotify.com/track/5ZlievcFzGJmblwONgfXFp) | [Shahrizal](https://open.spotify.com/artist/1QG9pJRvxU3zU3DBWlxhXe) | [Lie Again](https://open.spotify.com/album/4EGQoDOmr2zzM3KiRSTY1d) | 2:34 | 2023-03-16 |  |
@@ -346,6 +349,7 @@
 | [patterns](https://open.spotify.com/track/3tDY2gPHumQcyQc98Rnno5) | [d0my](https://open.spotify.com/artist/1qgcFvdiH5hS2Nkf4mZ5Gx) | [patterns](https://open.spotify.com/album/0tNRfOMisa2o4GRlRXQ92H) | 4:08 | 2023-06-22 |  |
 | [Pay Me a Visit](https://open.spotify.com/track/3RkI5G0jECSB1NIa0KXISA) | [Ishbel Warifa](https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD) | [Pay Me a Visit](https://open.spotify.com/album/5rOziaBMxJjON2h5uu9r2I) | 5:00 | 2023-08-17 |  |
 | [pearl milk tea](https://open.spotify.com/track/0m1jFt1L6y69DKOtqRFw1G) | [Amelia Rae](https://open.spotify.com/artist/2sX71sKSY55XluACX5F4E6) | [pearl milk tea](https://open.spotify.com/album/0AWuIz8YvuqyaQ9wCRt8UI) | 3:02 | 2022-09-22 | 2023-03-18 |
+| [Pedestrian](https://open.spotify.com/track/7iPmsX8RhvQJT8arQh2Q8f) | [Hijack Hayley](https://open.spotify.com/artist/0yXoiuY9ZVzJRNu15X6eCU) | [Pedestrian](https://open.spotify.com/album/6ZqnZzq94gZHS6cXugjc52) | 4:20 | 2023-09-22 |  |
 | [Physical](https://open.spotify.com/track/2jZiBBDtv6PxKgpnoKujkM) | [Herbal Candy](https://open.spotify.com/artist/4iS9f9ZV9yAHQ9wUcPtFPi), [F.Rider](https://open.spotify.com/artist/0IAkxUc3IVgyrDLwB3BLkq) | [Physical](https://open.spotify.com/album/3GUvyZmAqeb9deklhEdYr5) | 2:46 | 2023-01-12 | 2023-03-10 |
 | [Picture Perfect Frame](https://open.spotify.com/track/4WmqgA6QIb2onisiT3lf8H) | [Priscilla Tan](https://open.spotify.com/artist/6NQvsrsNDtJZvnEkB5fJ4e) | [Picture Perfect Frame](https://open.spotify.com/album/3U8rqvPjX9zy5zJSIa009Z) | 3:15 | 2022-07-28 | 2022-09-23 |
 | [pink cherry blossom](https://open.spotify.com/track/5ZlDaQqscrfIE9Aog1MFfL) | [FARIS](https://open.spotify.com/artist/4VnQPCXcDCyg6wp2hOhRFT) | [pink cherry blossom](https://open.spotify.com/album/3OUao0xdyFvS77KPzM19U1) | 4:15 | 2022-01-20 |  |
@@ -419,6 +423,7 @@
 | [Stoplight](https://open.spotify.com/track/47N6MR3XrYN5AwW01bEHu4) | [xena giam](https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF) | [Stoplight](https://open.spotify.com/album/1b1RmBzvKgnQWIkPv0gBC8) | 3:21 | 2023-06-22 |  |
 | [Summer Nights](https://open.spotify.com/track/0IyPDcr032YeoG8bYjA8wb) | [Nao Zumar](https://open.spotify.com/artist/2SLtYTUjIbXeXlY7MxisjV) | [Summer Nights](https://open.spotify.com/album/01s8Po89Fx17mVphX0NRUs) | 2:36 | 2023-06-01 |  |
 | [Summer Nights](https://open.spotify.com/track/7ACCDls4FhDgW26K1Q5YzK) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Summer Nights](https://open.spotify.com/album/79YhHsdp7Bi1InbvCGoQNE) | 1:37 | 2023-06-30 |  |
+| [Summer Vibes](https://open.spotify.com/track/7aKX262g7OMTuPm9XwoYNS) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Summer Vibes](https://open.spotify.com/album/7Cm5Ys8oAUwV7COhNTF7aV) | 2:19 | 2023-09-22 |  |
 | [summersad](https://open.spotify.com/track/3b9vvKIbi2gCzm6MKW5QQl) | [motifs](https://open.spotify.com/artist/6Ai0kQ1MZABOQLVZNGozBB) | [remember a stranger](https://open.spotify.com/album/64qGaGX2B8mWIGHAPj8Rn6) | 5:48 | 2022-11-10 | 2023-05-12 |
 | [Sunscreen](https://open.spotify.com/track/0j7W0n2R5CfrLsUazKcIvW) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Sunscreen](https://open.spotify.com/album/7G7qhm9LVPD0qo3V5ed1OR) | 2:49 | 2021-12-01 | 2023-01-13 |
 | [SUNSET CHASER \(with PFTD\) \- Radio Edit](https://open.spotify.com/track/73iFppQnSxTicoooPXXbmW) | [Hell Boi](https://open.spotify.com/artist/0MaNIO1pTWTWVEZVbEpVxk), [BROKEN ENGLISH](https://open.spotify.com/artist/12QrRrP9PaSeZKM0SZozRm), [ziqry](https://open.spotify.com/artist/0RIhhREfyHbEO50mJZdpxf) | [SUNSET CHASER \(with PFTD\) \[Radio Edit\]](https://open.spotify.com/album/5HV9cIJHJoGLEJSCsWXtrV) | 2:30 | 2022-09-15 | 2023-05-12 |
@@ -426,9 +431,11 @@
 | [SUPERNOVA](https://open.spotify.com/track/5hHErHtClseScL9NC4VYyU) | [Kavi](https://open.spotify.com/artist/7GmuVIS9CdJkdAmbwu1yV1) | [KRUSHED!](https://open.spotify.com/album/02mzm5lsX5ou3Yhq20gVKz) | 3:23 | 2022-07-14 | 2022-09-23 |
 | [sweet girl](https://open.spotify.com/track/6R0YOHfWscZ5RDmkgHLInC) | [Tyas Iglesias](https://open.spotify.com/artist/7BWkc2qgMWZWVbP2vUTob1) | [sweet girl](https://open.spotify.com/album/1KIN0eKn4uiVvNNNGltm4n) | 3:10 | 2022-06-02 | 2022-09-23 |
 | [Sweet Surrender](https://open.spotify.com/track/17jfU7NBBCGXI8fOlGfyMU) | [Mardiana](https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH) | [Sweet Surrender](https://open.spotify.com/album/0lpi91hEvLUf6DHC0ghs5E) | 3:05 | 2023-05-26 |  |
+| [SWEETEST I'VE KNOWN](https://open.spotify.com/track/47Mx8vBN7bcdcpwKZlzy5r) | [ki mi](https://open.spotify.com/artist/4d39hDGApIZV3x5obwnVpZ), [ziqry](https://open.spotify.com/artist/0RIhhREfyHbEO50mJZdpxf) | [SWEETEST I'VE KNOWN](https://open.spotify.com/album/3HekZsoue4oS01nc8P2tRw) | 2:32 | 2023-09-22 |  |
 | [switch up](https://open.spotify.com/track/69GsMTGlNmMCnTvsasvYcI) | [Syamil](https://open.spotify.com/artist/2gYfOpC3v81qRZJdrsXuAD), [Jar Francisco](https://open.spotify.com/artist/1coXALpmds7ZNwq3J1yWlk) | [switch up](https://open.spotify.com/album/72ISFMLP43B4fiCry0OWQP) | 2:53 | 2022-06-30 | 2022-09-23 |
+| [take it slow](https://open.spotify.com/track/6goGk94HlzjsZAbcvl5Qcy) | [Bosam Seafood](https://open.spotify.com/artist/4bvoqB4LSAv3S49HOjViaB) | [take it slow](https://open.spotify.com/album/40FwrHBEKbyyITPm1rogTU) | 3:49 | 2023-09-22 |  |
 | [Take Kontrol](https://open.spotify.com/track/5tWYervZ1VRSW69LcmbszS) | [Micki Jayy](https://open.spotify.com/artist/5zopZiBoumSnc3vhbe66IZ) | [Take Kontrol](https://open.spotify.com/album/1ovKyeTwijFpy2C7XO0r17) | 2:46 | 2022-09-22 | 2023-03-18 |
-| [Take Me As I Am](https://open.spotify.com/track/6zgeNyPGFOqc2TV8WvXKFR) | [Joy Alexis](https://open.spotify.com/artist/3RJBI40xC4OmwA0ZG026Bb) | [Take Me As I Am](https://open.spotify.com/album/2PdjZqAvASALCWRgqETCGr) | 3:49 | 2023-07-27 |  |
+| [Take Me As I Am](https://open.spotify.com/track/6zgeNyPGFOqc2TV8WvXKFR) | [Joy Alexis](https://open.spotify.com/artist/3RJBI40xC4OmwA0ZG026Bb), [CERATONE](https://open.spotify.com/artist/2qkHfIu5Ks7kpTL9BXkZkp) | [Take Me As I Am](https://open.spotify.com/album/2PdjZqAvASALCWRgqETCGr) | 3:49 | 2023-07-27 |  |
 | [Take Me Away](https://open.spotify.com/track/3SfBG1R9yj5B6V9NZiUzQD) | [Rayvn Young](https://open.spotify.com/artist/1nCiPylMGNtJuHO6XUyHV2) | [Take Me Away](https://open.spotify.com/album/3OSro8swuSQVfADsvUaOb9) | 2:47 | 2022-10-27 | 2023-06-16 |
 | [Tarifa](https://open.spotify.com/track/7CeeE95qlhwAWbu7XTh5xN) | [dylan chan](https://open.spotify.com/artist/3mKBWcBH58qiZXLs4ojPdK) | [Funerals by a Nightstand](https://open.spotify.com/album/2vBBsK12wQ4G6W1tHzWZ1K) | 2:25 | 2022-04-21 | 2022-09-23 |
 | [Taxi Fare](https://open.spotify.com/track/62UTUM3McxWoeB3Zo3Abg7) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [mya](https://open.spotify.com/artist/7yLUaQwfD82tNZm2ACAUtb) | [Taxi Fare](https://open.spotify.com/album/4Q9B5EDsCIFhPd3NqltGkO) | 3:36 | 2023-05-26 |  |

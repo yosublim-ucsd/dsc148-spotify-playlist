@@ -122,7 +122,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 123986,
       "name": "2055",
       "url": "https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo"
@@ -2063,6 +2063,24 @@
     },
     {
       "album": {
+        "name": "Children of the Sky (a Starfield song)",
+        "url": "https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207611,
+      "name": "Children of the Sky (a Starfield song)",
+      "url": "https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC"
+    },
+    {
+      "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
@@ -2886,7 +2904,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 84138,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW"
@@ -3134,6 +3152,24 @@
       "duration_ms": 257406,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/4RWMUN7m78hYp4nvXVCxzJ"
+    },
+    {
+      "album": {
+        "name": "Drip or Drown",
+        "url": "https://open.spotify.com/album/3flHKlyXgH4vu277N43sMJ"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126168,
+      "name": "Drip or Drown",
+      "url": "https://open.spotify.com/track/6ZthdsKjWtiCxnxbhs74vF"
     },
     {
       "album": {
@@ -8020,7 +8056,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 246133,
       "name": "MELTDOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
@@ -11552,7 +11588,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 200929,
       "name": "Set Me Free Pt.2",
       "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
@@ -12338,7 +12374,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 141505,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/2WYs5LxOZfEyURXu7V0O1a"
@@ -13366,7 +13402,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 164781,
       "name": "Thousand Miles",
       "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
@@ -14241,6 +14277,28 @@
     },
     {
       "album": {
+        "name": "Top Shotta",
+        "url": "https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173288,
+      "name": "Walk Em Down (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/1Z0cZI0UzNbP9L8MzzGxqf"
+    },
+    {
+      "album": {
         "name": "Walking On A Dream (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
@@ -14568,7 +14626,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"

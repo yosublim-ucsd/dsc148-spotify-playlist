@@ -1347,6 +1347,24 @@
     },
     {
       "album": {
+        "name": "Crashing Chase (Drillphony)",
+        "url": "https://open.spotify.com/album/4cGqnjLgNFjhI2vyMDa4pO"
+      },
+      "artists": [
+        {
+          "name": "Dr. Holic",
+          "url": "https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Crashing Chase (Drillphony)",
+      "url": "https://open.spotify.com/track/5yaoEzPu52YqtGGWm7uRlN"
+    },
+    {
+      "album": {
         "name": "Credit",
         "url": "https://open.spotify.com/album/7w5R7bNW0A8UkCT3zAvPSz"
       },
@@ -2629,7 +2647,7 @@
       "artists": [
         {
           "name": "Lau Heung King",
-          "url": "https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd"
+          "url": "https://open.spotify.com/artist/4hoaMY482rsnuWzyVaa6Ql"
         }
       ],
       "date_added": "2023-09-21",
@@ -8772,6 +8790,28 @@
       "duration_ms": 172500,
       "name": "\u4e0d\u60f3\u518d\u60f3",
       "url": "https://open.spotify.com/track/00H2zvjFakugiw2Snw4JCF"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u7f88",
+        "url": "https://open.spotify.com/album/7A5B51z3ZBY8PGcXWV63cH"
+      },
+      "artists": [
+        {
+          "name": "CK \u9ec3\u65af\u742a",
+          "url": "https://open.spotify.com/artist/71nFssyAK21hrZo32OWnkX"
+        },
+        {
+          "name": "dorothy \u5289\u541b\u51ac",
+          "url": "https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188444,
+      "name": "\u4e0d\u7f88",
+      "url": "https://open.spotify.com/track/2ZIL1PtThR5tydXRb9cyJ3"
     },
     {
       "album": {

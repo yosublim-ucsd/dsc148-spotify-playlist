@@ -1,13 +1,29 @@
 {
   "description": "Ease into the day",
-  "num_followers": 645782,
+  "num_followers": 645775,
   "original_name": "Mellow Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2VkMjI1ZWM3YzZmYzI3YTk3ZDAwOWJmZTNmYzg4NDZmN2JiZmM1",
+  "snapshot_id": "MCw3OTYwM2ZjNTc3NzI4ODdiOTVjNzFkZjU2ZjIwNTQwYjMwNjNmMWY4",
   "tracks": [
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "A Grey Area",
+        "url": "https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm"
+    },
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
@@ -551,26 +567,6 @@
       "duration_ms": 356000,
       "name": "One More Try",
       "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Moderaci\u00f3n (Con Camilo)",
-        "url": "https://open.spotify.com/album/6MOmPtc8mFnVFjN8zDh6rD"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "Moderaci\u00f3n (Con Camilo)",
-      "url": "https://open.spotify.com/track/66eBZFnheqpOM16CCyA1HV"
     },
     {
       "added_at": "2023-09-01 04:00:00",

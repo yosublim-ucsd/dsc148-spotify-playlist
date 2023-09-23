@@ -213,6 +213,24 @@
     },
     {
       "album": {
+        "name": "Arkansas Kid",
+        "url": "https://open.spotify.com/album/66Ak63dkqwIotTR8Fwt0vq"
+      },
+      "artists": [
+        {
+          "name": "JD Clayton",
+          "url": "https://open.spotify.com/artist/70ro2NOrdi2XlFSLumYMTs"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204781,
+      "name": "Arkansas Kid",
+      "url": "https://open.spotify.com/track/5shjJt6uBUryQUPLoZmXoF"
+    },
+    {
+      "album": {
         "name": "You Broke Me",
         "url": "https://open.spotify.com/album/6FUkiLmFmp38aCV9DP6vAh"
       },

@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest funk & soul records ever made.",
-  "num_followers": 1610465,
+  "num_followers": 1611519,
   "original_name": "Funk & Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2FiZmY0ZjRhODc3MTliYWE1YTY5MjUwOTk0NzU0MGI5ZTM2M2M3",
+  "snapshot_id": "MCwzODZiMDg0ZDk1MDRmNzAwOTA4YWM0ZWMzY2JhNzk0YWY0NTQyMWRj",
   "tracks": [
     {
       "added_at": "2022-09-23 17:06:51",
@@ -47,22 +47,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "The Dock of the Bay (Mono)",
-        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 163755,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "September (sped up + slowed)",
         "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 216022,
       "name": "September",
       "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "The Dock of the Bay (Mono)",
+        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 163755,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 288293,
       "name": "Boogie Wonderland",
       "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "If You Want Me to Stay",
-      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "Dock of the Bay Sessions",
         "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 141000,
       "name": "Hard to Handle",
       "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "If You Want Me to Stay",
+      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Cheryl Lynn (Expanded Edition)",
-        "url": "https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P"
-      },
-      "artists": [
-        {
-          "name": "Cheryl Lynn",
-          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
-        }
-      ],
-      "duration_ms": 307946,
-      "name": "Got to Be Real",
-      "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 226213,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Cheryl Lynn (Expanded Edition)",
+        "url": "https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P"
+      },
+      "artists": [
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+        }
+      ],
+      "duration_ms": 307946,
+      "name": "Got to Be Real",
+      "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 121080,
+      "name": "Grandma's Hands",
+      "url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
         "name": "Stompin' At The Savoy",
         "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 285253,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
-        "name": "Just As I Am",
-        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 121080,
-      "name": "Grandma's Hands",
-      "url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Back To Front",
-        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "All Night Long - Single Version",
-      "url": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "The 35th Anniversary Collection",
         "url": "https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 161226,
       "name": "I Second That Emotion",
       "url": "https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Back To Front",
+        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "All Night Long - Single Version",
+      "url": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "The Meters",
-        "url": "https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y"
-      },
-      "artists": [
-        {
-          "name": "The Meters",
-          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
-        }
-      ],
-      "duration_ms": 186853,
-      "name": "Cissy Strut",
-      "url": "https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "I Can't Stand the Rain",
         "url": "https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 150400,
       "name": "I Can't Stand the Rain",
       "url": "https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "The Meters",
+        "url": "https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y"
+      },
+      "artists": [
+        {
+          "name": "The Meters",
+          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
+        }
+      ],
+      "duration_ms": 186853,
+      "name": "Cissy Strut",
+      "url": "https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb"
     },
     {
       "added_at": "2022-09-23 17:06:51",

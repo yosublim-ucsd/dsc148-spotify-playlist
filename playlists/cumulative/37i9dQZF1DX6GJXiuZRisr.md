@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-413 songs - 1 day 5 hr 52 min
+414 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Dark Matter](https://open.spotify.com/track/4qsfGLGlXsCgzlGgr3NMuT) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Dark Matter](https://open.spotify.com/album/3gy0GBkh2YXrOmD6jdgnNF) | 5:23 | 2022-02-18 | 2022-07-23 |
 | [Deep Space](https://open.spotify.com/track/3XisBBYpK8TmL8ogBPCA8c) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Deep Space](https://open.spotify.com/album/4LBZQ53rwA424Ej7YFQc9F) | 3:01 | 2023-05-05 | 2023-09-08 |
 | [Delta](https://open.spotify.com/track/0WbXxAn99TZzB2kdLkh5hu) | [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV) | [Wake Your Mind Sessions 004 Exclusives](https://open.spotify.com/album/5ecWuN5lJXqZeqVU0UUVaW) | 4:05 | 2021-05-07 | 2022-04-16 |
-| [Disco Voyager](https://open.spotify.com/track/2L4THbkubfdMU7x1xGnvZM) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Disco Voyager](https://open.spotify.com/album/6KMUEMw2nWTayCFWhjeNT7) | 3:10 | 2023-02-17 |  |
+| [Disco Voyager](https://open.spotify.com/track/2L4THbkubfdMU7x1xGnvZM) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Disco Voyager](https://open.spotify.com/album/6KMUEMw2nWTayCFWhjeNT7) | 3:10 | 2023-02-17 | 2023-09-23 |
 | [Disconnected](https://open.spotify.com/track/4mB7gWAkOB7LLWBM7XoL6Y) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Sealine](https://open.spotify.com/artist/1ymJtuSjInzP2KWww4GKTA) | [Disconnected](https://open.spotify.com/album/40kTQIRTrLffXGmtER1nWd) | 4:58 | 2022-04-08 | 2022-07-06 |
 | [Disconnected](https://open.spotify.com/track/5whfEtyAne9wl48fQrG6M3) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Sealine](https://open.spotify.com/artist/1ymJtuSjInzP2KWww4GKTA) | [Unreality](https://open.spotify.com/album/2NGLSFRIh6W1YN8lCwpxGq) | 4:58 | 2022-07-01 | 2022-07-25 |
 | [Discopolis 2.0 \- MEDUZA Remix](https://open.spotify.com/track/1zu8sQCLjW5jtzf7JVpGop) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5), [Kris Menace](https://open.spotify.com/artist/5P5i4EeZfrKrcRGHRTqJr0), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Discopolis 2.0 \(MEDUZA Remix\)](https://open.spotify.com/album/69RPZXcg3PGWRsWWiP4Mds) | 3:02 | 2021-05-07 |  |
@@ -275,6 +275,7 @@
 | [Rave](https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Rave](https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG) | 4:48 | 2023-07-28 |  |
 | [Ray](https://open.spotify.com/track/3425OMM9bb64VMNXXldLvU) | [Avoure](https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E) | [This Time / Ray](https://open.spotify.com/album/44uAC9UVMSekbXyBJV8nMO) | 6:54 | 2022-07-01 | 2023-02-18 |
 | [Ray](https://open.spotify.com/track/3rDUDqgWlSYBrI86la2C8f) | [Avoure](https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E) | [This Time / Ray](https://open.spotify.com/album/0Vr1hA0OG4hvKjd9ssWCgL) | 6:54 | 2021-05-07 | 2022-07-26 |
+| [Ray Of Solar \- Mau P Remix](https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Ray Of Solar \(Mau P Remix\)](https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh) | 4:11 | 2023-09-22 |  |
 | [Reaction \(feat\. Jodie Knight\)](https://open.spotify.com/track/4FHxkl2hihkgRUQNRUSHAI) | [Nightlapse](https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Reaction \(feat\. Jodie Knight\)](https://open.spotify.com/album/4NaqYNwxEZOITr1SWBU1wt) | 2:57 | 2021-05-07 | 2022-06-27 |
 | [Ready For More](https://open.spotify.com/track/0OQF6YgMW5gOe8k4wfvLRJ) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Two Are](https://open.spotify.com/artist/3B5IcLPD64jPRgHsSnvHUD), [Alar](https://open.spotify.com/artist/2uEy5EYHvxxd2SyVq4Pn1a) | [Ready For More](https://open.spotify.com/album/1aD03TBrJrER1RFJQsO1Pm) | 4:07 | 2021-12-10 |  |
 | [Reclaim Me \(feat\. Nimmo\) \- Maya Jane Coles Remix \[Edit\]](https://open.spotify.com/track/7DLxRocVGAXVaq63ZuuIby) | [Wax Wings](https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3), [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Reclaim Me \(feat\. Nimmo\) \[Maya Jane Coles Remix\]](https://open.spotify.com/album/2a6PATwWoogkNkzaWI05vU) | 3:23 | 2021-05-07 | 2022-05-21 |

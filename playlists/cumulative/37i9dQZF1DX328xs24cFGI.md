@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-177 songs - 11 hr 57 min
+178 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Kiminomachimade](https://open.spotify.com/track/2A9dAj285m7uUgdGPSRIAM) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Kiminomachimade](https://open.spotify.com/album/6tJejWaz1EZb6fuq10DGJ7) | 3:18 | 2023-07-25 |  |
 | [KIMINOMAMA](https://open.spotify.com/track/4O8Dy9kthy651s3M774S1h) | [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR), [INMAN](https://open.spotify.com/artist/7H3Q0yXmSNmxMHSUpGZKqg) | [KIMINOMAMA](https://open.spotify.com/album/1zfEiFINYq6yP3aUROBvQz) | 2:57 | 2023-02-21 | 2023-07-03 |
 | [KIMINOMAMA](https://open.spotify.com/track/69lJz2fXXptw0YU5hF3L47) | [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR), [INMAN](https://open.spotify.com/artist/7H3Q0yXmSNmxMHSUpGZKqg) | [MILLION](https://open.spotify.com/album/3bwTq9fUTp70YVcEeaHLZm) | 2:57 | 2023-07-02 | 2023-09-19 |
+| [kimiwaunmeinohito](https://open.spotify.com/track/0FXPwxpbU9jZRndH7buJGW) | [Manato Funatsu](https://open.spotify.com/artist/4L7zIJ9LjO6oSTRjzBlrva) | [kimiwaunmeinohito](https://open.spotify.com/album/4spgC6mFvPofhyFBhHWUVU) | 3:36 | 2023-09-22 |  |
 | [Koi ha Ramune no Youni](https://open.spotify.com/track/4fWRzTlFkMaEbxXvIBKwz7) | [平理央](https://open.spotify.com/artist/5XV5kNtCkFTwVcL5rdCUln) | [Koi ha Ramune no Youni](https://open.spotify.com/album/0XspZ9bvHBSCdcH12HfD1Y) | 3:27 | 2023-08-15 | 2023-08-25 |
 | [Koi no Iro](https://open.spotify.com/track/46O3D2H8HPLiSUHNokwsRa) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Koi no Iro](https://open.spotify.com/album/0oaOQZS5vKKA9P0jr8LmAV) | 4:42 | 2023-07-25 | 2023-08-05 |
 | [KOINODHISUMAXTUCHIN](https://open.spotify.com/track/7CvYzuttwz9Yn7Z5nBUzjl) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [KOINODHISUMAXTUCHIN](https://open.spotify.com/album/5B016jj6OpHB6GSSSXIAaU) | 2:48 | 2023-05-30 | 2023-06-14 |
@@ -90,7 +91,7 @@
 | [Vanilla](https://open.spotify.com/track/1SEGeAHw0quw32HHm4qJsj) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [Hoshiwokoete](https://open.spotify.com/album/1njyK2fybU7atqcwGkOo20) | 4:10 | 2023-03-16 |  |
 | [Vanilla](https://open.spotify.com/track/7luM6QZ54WNPm3bZ6fzBkE) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [Vanilla](https://open.spotify.com/album/1KkJckWXXaugwsvMHXQqGL) | 4:11 | 2023-02-09 | 2023-03-18 |
 | [W / X / Y](https://open.spotify.com/track/3cBghvTcQNDNkW98Y4eGaP) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/1aYWdnbKO3asqDUruOl2cY) | 4:38 | 2023-02-09 | 2023-03-29 |
-| [Walking with you](https://open.spotify.com/track/7tGDXCPLpAScEwmqab9YZd) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [SKYWALK](https://open.spotify.com/album/34T4K8s8PzTNOZ1vuBILYr) | 3:43 | 2023-04-27 |  |
+| [Walking with you](https://open.spotify.com/track/7tGDXCPLpAScEwmqab9YZd) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [SKYWALK](https://open.spotify.com/album/34T4K8s8PzTNOZ1vuBILYr) | 3:43 | 2023-04-27 | 2023-09-23 |
 | [Wherever you are](https://open.spotify.com/track/0YAMQSmHk6BSUGTYpaoqTJ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Niche Syndrome](https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK) | 4:55 | 2023-07-11 | 2023-08-16 |
 | [Yearning after You](https://open.spotify.com/track/3RDOCf6cQBNSRO1t9CglUl) | [KAZUKI UJIIE](https://open.spotify.com/artist/7I1iLceQ59KQx4u60FjZp7) | [Yearning after You](https://open.spotify.com/album/5HtqOvGdKZM58yq354z22M) | 4:11 | 2023-06-01 | 2023-06-14 |
 | [Yui](https://open.spotify.com/track/3f8WNy5rgXq7J74qjExRkb) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Take Me](https://open.spotify.com/album/2d4BgT8o5xopdZK7x8eygL) | 4:24 | 2023-02-09 | 2023-08-05 |

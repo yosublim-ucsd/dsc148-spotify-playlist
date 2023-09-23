@@ -3618,7 +3618,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 281500,
       "name": "Can't fight it",
       "url": "https://open.spotify.com/track/2qXREy7gASBMGnE6JQctmh"
@@ -4692,7 +4692,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 120000,
       "name": "D.N.D.",
       "url": "https://open.spotify.com/track/2VwCWeNBekU08ls7YbxJRL"
@@ -4996,7 +4996,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -6096,7 +6096,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 199120,
       "name": "D\u00fdr\u00f0 \u00ed dau\u00f0a\u00fe\u00f6gn",
       "url": "https://open.spotify.com/track/2TZPzARd9RFm1MXAeRkHvY"
@@ -8336,7 +8336,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
@@ -9064,6 +9064,24 @@
       "duration_ms": 292613,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
+    },
+    {
+      "album": {
+        "name": "Girl in My Screen",
+        "url": "https://open.spotify.com/album/3DSHP7CwVYpcW3U5USlGCV"
+      },
+      "artists": [
+        {
+          "name": "Sage Sam",
+          "url": "https://open.spotify.com/artist/1DfajICHw7TuLzZIpdxsi8"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "Girl in My Screen",
+      "url": "https://open.spotify.com/track/3eh6Goszml6uXGzpFegg9L"
     },
     {
       "album": {
@@ -14312,7 +14330,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 186623,
       "name": "Letters From The Past",
       "url": "https://open.spotify.com/track/1h5ac7iBaSOFknqPf0W4li"
@@ -21606,6 +21624,24 @@
       "duration_ms": 180000,
       "name": "Sentimentai",
       "url": "https://open.spotify.com/track/0JNPmXGU9K9DJpV9eHppZz"
+    },
+    {
+      "album": {
+        "name": "September (sped up + slowed)",
+        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216022,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
     },
     {
       "album": {

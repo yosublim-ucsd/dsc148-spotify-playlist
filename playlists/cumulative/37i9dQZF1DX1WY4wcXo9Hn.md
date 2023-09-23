@@ -4,7 +4,7 @@
 
 > i can picture it after all these days
 
-147 songs - 8 hr 47 min
+149 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Buzz](https://open.spotify.com/track/7G65AuuADEbLNE3NJQmips) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Take Me Home \- Slow Pop](https://open.spotify.com/album/3MZQkRmkFSN6JIQEIrz2Wm) | 4:21 | 2022-10-10 | 2022-11-14 |
 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 | 2022-09-16 |  |
 | [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 | 2022-09-16 |  |
-| [Carnival](https://open.spotify.com/track/5TbDM1PBTyODDCTGEoDCxL) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Life \(Remastered\)](https://open.spotify.com/album/7uatFjjGOQoccdiFh8uOHx) | 3:36 | 2023-09-02 |  |
+| [Carnival](https://open.spotify.com/track/5TbDM1PBTyODDCTGEoDCxL) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Life \(Remastered\)](https://open.spotify.com/album/7uatFjjGOQoccdiFh8uOHx) | 3:36 | 2023-09-02 | 2023-09-23 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2022-10-10 |  |
 | [ceilings](https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:02 | 2022-10-01 | 2022-10-14 |
 | [Cinnamon Girl](https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 | 2022-09-16 | 2023-09-01 |
@@ -66,7 +66,7 @@
 | [From the Dining Table](https://open.spotify.com/track/1IF5UcqRO42D12vYwceOY6) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:31 | 2022-09-16 | 2023-09-01 |
 | [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 | 2022-10-10 |  |
 | [Good Looking](https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E) | 3:34 | 2022-09-16 | 2022-11-03 |
-| [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 | 2023-08-31 |  |
+| [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 | 2023-08-31 | 2023-09-23 |
 | [Happiness is a butterfly](https://open.spotify.com/track/3lG6OtGDsYAOALxEmubQQm) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:32 | 2022-10-01 | 2023-09-01 |
 | [hate to be lame](https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 2:36 | 2022-10-10 | 2023-09-01 |
 | [hate to be lame](https://open.spotify.com/track/2x6s55uyxXV59O4t95sVl6) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/6lLeTIHyucDxa2dYocc8Fv) | 2:36 | 2022-10-10 | 2022-11-13 |
@@ -100,6 +100,7 @@
 | [mirrorball](https://open.spotify.com/track/0ZNU020wNYvgW84iljPkPP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:28 | 2022-09-16 | 2023-08-03 |
 | [Moonlight](https://open.spotify.com/track/7zjUKh8xk8bG156RsAGjyJ) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Circles](https://open.spotify.com/album/7tbUp2NTr7CxIgIF04Kf5U) | 2:47 | 2022-09-16 | 2023-09-01 |
 | [Moral of the Story](https://open.spotify.com/track/69HzZ3ti9DLwb0GdWCGYSo) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Ashlyn](https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq) | 3:21 | 2022-09-16 |  |
+| [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/7l2tmgUhV7Y2aJHjiszifg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/album/2MbdQUj7tAaaBBhUwJE3KG) | 4:37 | 2023-09-22 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-18 |  |
 | [Northern Attitude](https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:27 | 2022-11-21 |  |
 | [Nothing New \(feat\. Phoebe Bridgers\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:18 | 2022-09-16 | 2023-08-03 |
@@ -111,6 +112,7 @@
 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 | 2022-09-16 |  |
 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 | 2022-10-10 |  |
 | [Samson](https://open.spotify.com/track/2bbhyUWJ5VjdfI3P4PRLu2) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope \(Special Edition\)](https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a) | 3:09 | 2023-08-31 |  |
+| [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1vhbThkFnqAHbZp0fEjXE4) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Boys Of Faith](https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY) | 3:34 | 2023-09-22 |  |
 | [Scorpio Season](https://open.spotify.com/track/4L02unXGhakMU3dyqZE3b7) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Scorpio Season](https://open.spotify.com/album/0anO2F4PaCbLy3yRpaT1xi) | 3:05 | 2022-09-16 | 2023-09-17 |
 | [Scorpio Season](https://open.spotify.com/track/4S2MKdXtzxl17UTUPGxjAj) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Phoenix \(Deluxe\)](https://open.spotify.com/album/3RHWRodXUkFBjtdlstP0rw) | 3:05 | 2023-09-15 |  |
 | [Season Of The Witch](https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Season Of The Witch \(From The Motion Picture "Scary Stories To Tell In The Dark"\)](https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq) | 4:07 | 2022-09-16 |  |

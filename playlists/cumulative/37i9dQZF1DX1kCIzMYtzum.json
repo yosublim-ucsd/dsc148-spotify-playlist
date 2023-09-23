@@ -1375,6 +1375,28 @@
     },
     {
       "album": {
+        "name": "buttons!",
+        "url": "https://open.spotify.com/album/1BNaZf2C1HMVCC2pCRdYsr"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239047,
+      "name": "buttons!",
+      "url": "https://open.spotify.com/track/3PXb8ZLJiz59pSO5ZrJDx0"
+    },
+    {
+      "album": {
         "name": "By Your Side (feat. Tom Grennan)",
         "url": "https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB"
       },
@@ -2326,7 +2348,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 153809,
       "name": "Drop That Low (When I Dip)",
       "url": "https://open.spotify.com/track/1PuzhB7VJ2ubpmAEvQj7C6"
@@ -3246,7 +3268,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 158571,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c"
@@ -3316,6 +3338,32 @@
       "duration_ms": 147401,
       "name": "Friends",
       "url": "https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe"
+    },
+    {
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/5YWOlO1sHAk84Oh4W9NhzX"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/42jqtDBoV2YGTRbFI02p6H"
     },
     {
       "album": {
@@ -4254,7 +4302,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 175928,
       "name": "I Knew It Was You",
       "url": "https://open.spotify.com/track/7kQusuDe5nkQqqa6xMKFGF"
@@ -4398,7 +4446,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 178124,
       "name": "I'm Good (Blue) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/7gLKUPLGMzPhw90Ara5ZEc"
@@ -4560,7 +4608,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 173571,
       "name": "Into the Night",
       "url": "https://open.spotify.com/track/2EPHUV16WoWXHVxxoJzvi2"
@@ -7097,6 +7145,32 @@
     },
     {
       "album": {
+        "name": "Over Now",
+        "url": "https://open.spotify.com/album/7udk1qiys7QiEPKN9lY8a4"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Opposite the Other",
+          "url": "https://open.spotify.com/artist/3YPzVOVeAXdzhmnffu1WjZ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175635,
+      "name": "Over Now",
+      "url": "https://open.spotify.com/track/606Z051kpzw0rrcBCYCTtR"
+    },
+    {
+      "album": {
         "name": "Pantheon",
         "url": "https://open.spotify.com/album/7IMI9BHpXTntSUNOew74MK"
       },
@@ -7738,6 +7812,28 @@
       "duration_ms": 173027,
       "name": "Readymade Sweat",
       "url": "https://open.spotify.com/track/47RHGBGyfNHQkyT9m5lXpi"
+    },
+    {
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
     },
     {
       "album": {
@@ -9371,6 +9467,28 @@
     },
     {
       "album": {
+        "name": "Days Before Grace",
+        "url": "https://open.spotify.com/album/6Hkf54OpfrK7PGlab7OB1J"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301664,
+      "name": "Take My Soul",
+      "url": "https://open.spotify.com/track/2Qe6S4Xy5rS2Vidoaxp6b0"
+    },
+    {
+      "album": {
         "name": "Take Your Time",
         "url": "https://open.spotify.com/album/6HBagEXptqThTlMQnxSchh"
       },
@@ -9774,6 +9892,24 @@
       "duration_ms": 207550,
       "name": "The Show - with JJ Lin",
       "url": "https://open.spotify.com/track/3MpC4En7qGkwcuzp8qnsrr"
+    },
+    {
+      "album": {
+        "name": "The Spectre",
+        "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193787,
+      "name": "The Spectre",
+      "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
     },
     {
       "album": {
@@ -11118,7 +11254,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 170859,
       "name": "You Can\u2019t Change Me (feat. Raye)",
       "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"

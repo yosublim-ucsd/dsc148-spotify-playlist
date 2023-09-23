@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: Conton Candy
 
-1,138 songs - 2 day 23 hr 49 min
+1,139 songs - 2 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,8 @@
 | [Hey! Stay by my side!](https://open.spotify.com/track/5IDfSmahBmnRrbbEZiOjNF) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Hey! Stay by my side!](https://open.spotify.com/album/64DJ8QPZHszlBdA0R9SeZz) | 2:27 | 2022-08-11 | 2022-09-15 |
 | [hide and seek](https://open.spotify.com/track/6F4lTc2TJxGIy60AC5Y4Tf) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [hide and seek](https://open.spotify.com/album/6SRhWB0D2HOLNeKUurGb1d) | 2:04 | 2022-06-27 | 2022-07-21 |
 | [Highlight no Nakade Bokura Zutto](https://open.spotify.com/track/1sOyY88KV1kIIkuj0CWrZk) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Highlight no Nakade Bokura Zutto](https://open.spotify.com/album/4Mn0L5WRGTvLhsQinoApud) | 3:21 | 2023-08-22 |  |
-| [HIKARI](https://open.spotify.com/track/2l5GfXSjWnHKok1hTPiwpS) | [KYONO](https://open.spotify.com/artist/4LgM76I3ubiFUtX0nuVgmr), [林萌々子](https://open.spotify.com/artist/5Cz8mBR1lvRbv7nuBTcDHa) | [HIKARI](https://open.spotify.com/album/29tJh9itrfOwP6bQWcAiSU) | 4:05 | 2023-09-21 |  |
+| [HIKARI](https://open.spotify.com/track/3rkAi7PFvZHLoTH9IF1nha) | [KYONO](https://open.spotify.com/artist/4LgM76I3ubiFUtX0nuVgmr), [Momoko Hayashi](https://open.spotify.com/artist/5vvuay91t1WlmMwMEFsTsI) | [HIKARI](https://open.spotify.com/album/5vv2AAaGX5y9faA6xXVHJT) | 4:05 | 2023-09-21 |  |
+| [HIKARI](https://open.spotify.com/track/2l5GfXSjWnHKok1hTPiwpS) | [KYONO](https://open.spotify.com/artist/4LgM76I3ubiFUtX0nuVgmr), [林萌々子](https://open.spotify.com/artist/5Cz8mBR1lvRbv7nuBTcDHa) | [HIKARI](https://open.spotify.com/album/29tJh9itrfOwP6bQWcAiSU) | 4:05 | 2023-09-21 | 2023-09-23 |
 | [Hirune no Kuni](https://open.spotify.com/track/4dymwcfZ7u6irN77AqHsLG) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Hirune no Kuni](https://open.spotify.com/album/72oJRih7QCDNBPWVuUlIB5) | 3:06 | 2023-05-31 | 2023-09-01 |
 | [HOME](https://open.spotify.com/track/0XpmARPe6ogeB3QlKcot6R) | [室田夏海](https://open.spotify.com/artist/6ztutPVgQQELxy0clZEGKF) | [HOME](https://open.spotify.com/album/1hqlSmgJUwG5tc60o33zwF) | 3:20 | 2022-06-02 | 2022-06-08 |
 | [Home away from home](https://open.spotify.com/track/078aRKG1uIz2W2Vf6Brncl) | [Lilubay](https://open.spotify.com/artist/0twG60foouqqMNlDpNniPj) | [Home away from home](https://open.spotify.com/album/1QPo9D2cCyLWtBEdAjzdmg) | 4:07 | 2023-02-28 | 2023-03-02 |

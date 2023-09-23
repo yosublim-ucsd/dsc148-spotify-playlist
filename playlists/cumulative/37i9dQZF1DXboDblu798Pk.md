@@ -4,7 +4,7 @@
 
 > Pop hits in the making! Cover: G Flip
 
-197 songs - 10 hr 16 min
+198 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [I Can See You \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:33 | 2023-07-07 |  |
 | [I Chose Good](https://open.spotify.com/track/6BhOOqBMnWpcEENBhey0Ag) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [I Chose Good](https://open.spotify.com/album/2cHvZG9abdOj4fqv67jyWS) | 2:43 | 2023-08-17 |  |
 | [I DON'T WANNA BE LIKE YOU](https://open.spotify.com/track/26FuBmI70i0mXaKTST6Bz4) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [4TH WALL](https://open.spotify.com/album/17FxTkMIOb6nzuewcCmTJc) | 2:43 | 2023-06-15 | 2023-08-04 |
-| [i wish you cheated](https://open.spotify.com/track/6ErCfbbI9BG4bK2djjKUvP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [i wish you cheated](https://open.spotify.com/album/1tf89mHJkN2HVQ4xmdUUqy) | 3:10 | 2023-08-17 |  |
+| [i wish you cheated](https://open.spotify.com/track/6ErCfbbI9BG4bK2djjKUvP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [i wish you cheated](https://open.spotify.com/album/1tf89mHJkN2HVQ4xmdUUqy) | 3:10 | 2023-08-17 | 2023-09-23 |
 | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq) | 3:11 | 2023-06-29 | 2023-09-15 |
 | [In Your Eyes](https://open.spotify.com/track/1VrtusgKbcGt62ZPl3j5jN) | [Liam Ferrari](https://open.spotify.com/artist/3dkie6yywJJVPCTO4b5AP9) | [In Your Eyes](https://open.spotify.com/album/69cs39WX4yD8njijDuUJoZ) | 2:24 | 2023-07-20 |  |
 | [Into Your Room](https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Into Your Room](https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws) | 3:29 | 2023-09-21 |  |
@@ -141,7 +141,8 @@
 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 | 2023-07-13 |  |
 | [overthinking about you](https://open.spotify.com/track/3uxPJckvg3g5B686iNgqXU) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [overthinking about you](https://open.spotify.com/album/6HoiPGlbAGOrJRJ5ZRVnzn) | 3:16 | 2023-07-07 | 2023-08-18 |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-06-15 | 2023-08-18 |
-| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-03 |  |
+| [Paint The Town Red](https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:50 | 2023-09-22 |  |
+| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-03 | 2023-09-23 |
 | [Peanut Butter & Tears](https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Peanut Butter & Tears](https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I) | 3:45 | 2023-08-03 |  |
 | [Perfect For You](https://open.spotify.com/track/4BYKEjoZaJrw3qwCPhGpbP) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Perfect For You](https://open.spotify.com/album/1FCUqRoNBgaoLJFqbA13ir) | 2:58 | 2023-06-15 | 2023-06-23 |
 | [Practically Strangers](https://open.spotify.com/track/3qkRncHx7iqp05daYmVPCL) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Practically Strangers](https://open.spotify.com/album/2Hh1RsqsHsz80iosebrvob) | 2:10 | 2023-06-15 | 2023-07-21 |

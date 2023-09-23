@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Beyond genre, beyond language, beyond borders. Cover: Eyedress.",
+  "description": "Beyond genre, beyond language, beyond borders. Cover: Rocco.",
   "name": "borderless",
   "tracks": [
     {
@@ -306,7 +306,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 231480,
       "name": "a stranger with my face",
       "url": "https://open.spotify.com/track/4G3NZdYXWTjsKtfFWNkgUo"
@@ -1324,6 +1324,28 @@
       "duration_ms": 264891,
       "name": "blood pareil",
       "url": "https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU"
+    },
+    {
+      "album": {
+        "name": "BLOW",
+        "url": "https://open.spotify.com/album/1jCajyPWXNO04KBS6jDgGC"
+      },
+      "artists": [
+        {
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+        },
+        {
+          "name": "Safeplanet",
+          "url": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213536,
+      "name": "BLOW",
+      "url": "https://open.spotify.com/track/3OSEQtAIxVzQ8iLzxgOXoi"
     },
     {
       "album": {
@@ -3233,6 +3255,24 @@
     },
     {
       "album": {
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232277,
+      "name": "Doesn\u2019t Do Me Any Good",
+      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
+    },
+    {
+      "album": {
         "name": "Doing Really Well Thanks",
         "url": "https://open.spotify.com/album/3m0pmKEVZHRUo2AIMKau6q"
       },
@@ -4264,7 +4304,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 185552,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
@@ -4926,7 +4966,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 128728,
       "name": "Globus",
       "url": "https://open.spotify.com/track/0lu0toBoNPpwM63d4H0OD3"
@@ -5416,6 +5456,24 @@
       "duration_ms": 156000,
       "name": "Hit and Miss",
       "url": "https://open.spotify.com/track/3V95NfurFzbKGNj2m8OWCq"
+    },
+    {
+      "album": {
+        "name": "Her Favorite Flowers",
+        "url": "https://open.spotify.com/album/5rFnAfQqhy7sFGSq15gN7g"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193242,
+      "name": "hold me, never let go",
+      "url": "https://open.spotify.com/track/6QC5Dtp38M05T536UONe6J"
     },
     {
       "album": {
@@ -6428,7 +6486,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 251808,
       "name": "La Boda",
       "url": "https://open.spotify.com/track/4CxBy3zCERopNB0sqaY4p4"
@@ -7451,6 +7509,28 @@
     },
     {
       "album": {
+        "name": "Lucent Tides",
+        "url": "https://open.spotify.com/album/0NKWKMXxwK9S9LkyEiAPdU"
+      },
+      "artists": [
+        {
+          "name": "Fourtwosixx",
+          "url": "https://open.spotify.com/artist/22ayfWee5bg0mVkWFMEhgE"
+        },
+        {
+          "name": "Stella Kana",
+          "url": "https://open.spotify.com/artist/5FEcv3g5zmaSJgnEVjMh1G"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268912,
+      "name": "Lucent Tides",
+      "url": "https://open.spotify.com/track/3LRwgm5Ws5deslamMvfFJX"
+    },
+    {
+      "album": {
         "name": "MAD",
         "url": "https://open.spotify.com/album/3sLSczzqvkRNRtcK9AH7Ei"
       },
@@ -7766,7 +7846,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 150697,
       "name": "Me Today",
       "url": "https://open.spotify.com/track/0NFUUAKVL0d6SpqJVwwGNx"
@@ -7970,6 +8050,24 @@
       "duration_ms": 122304,
       "name": "miercoles festivo",
       "url": "https://open.spotify.com/track/7bgJmZxsPDmTQFgaHRbzHf"
+    },
+    {
+      "album": {
+        "name": "Migraine",
+        "url": "https://open.spotify.com/album/2ciW2sBC9n41YdliEdBxbl"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206560,
+      "name": "Migraine",
+      "url": "https://open.spotify.com/track/6T7DCQh0h7yPvoKtCMDKVb"
     },
     {
       "album": {
@@ -8780,10 +8878,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 152307,
       "name": "Notice Me",
       "url": "https://open.spotify.com/track/0QvmhbIf4rbeRx4DzAbIce"
+    },
+    {
+      "album": {
+        "name": "Fish Bowl",
+        "url": "https://open.spotify.com/album/0PQMRtZNljTn1i68vJtWO5"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "Notice Me",
+      "url": "https://open.spotify.com/track/0mMXx0MMFAmLI2zHYH2IyN"
     },
     {
       "album": {
@@ -9596,7 +9712,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 188769,
       "name": "Pelle di Luna",
       "url": "https://open.spotify.com/track/4vfOq0LA2sKNkZR24xnSWP"
@@ -9640,6 +9756,24 @@
       "duration_ms": 219642,
       "name": "Pensar en Ti",
       "url": "https://open.spotify.com/track/4phOa75nrH2sCq475pwBq2"
+    },
+    {
+      "album": {
+        "name": "Perfect Dream",
+        "url": "https://open.spotify.com/album/0kl0IrlzNBx9YT7cZflDv1"
+      },
+      "artists": [
+        {
+          "name": "CHUM*",
+          "url": "https://open.spotify.com/artist/6vi6UZUWnO7DzEYC7ZhibN"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267625,
+      "name": "Perfect Dream",
+      "url": "https://open.spotify.com/track/6XeNeGPxqh4zd2SMyCy5EO"
     },
     {
       "album": {
@@ -10136,7 +10270,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 168240,
       "name": "Pyjamas (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN"
@@ -10924,7 +11058,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 196850,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/0uc8dunUbcQxjqgPPTsIG8"
@@ -11612,6 +11746,24 @@
       "duration_ms": 189567,
       "name": "Soon You're Gonna Know",
       "url": "https://open.spotify.com/track/4XQOlnTMQ2PYFFmD7Uvgda"
+    },
+    {
+      "album": {
+        "name": "Sorma",
+        "url": "https://open.spotify.com/album/4O003iwIM20pmtKKJQ55Pr"
+      },
+      "artists": [
+        {
+          "name": "Selin \u00c7\u0131ng\u0131r",
+          "url": "https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234887,
+      "name": "Sorma",
+      "url": "https://open.spotify.com/track/1t5QrgICG308reHk4Ohm7N"
     },
     {
       "album": {
@@ -12436,7 +12588,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 222803,
       "name": "Teen Mom",
       "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
@@ -13002,7 +13154,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 214790,
       "name": "todo pasa",
       "url": "https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4"
@@ -13074,7 +13226,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 137187,
       "name": "Top Dog",
       "url": "https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm"
@@ -13776,6 +13928,28 @@
       "duration_ms": 225187,
       "name": "Waving",
       "url": "https://open.spotify.com/track/13azqt7NX9Rxj2iBjIoG5k"
+    },
+    {
+      "album": {
+        "name": "We Should've Talked About Saturday",
+        "url": "https://open.spotify.com/album/1MxPoF95ecdKumtef1QGGJ"
+      },
+      "artists": [
+        {
+          "name": "Ndung'u Mbithi",
+          "url": "https://open.spotify.com/artist/1Xae29olA5X6qpDX6MOvHO"
+        },
+        {
+          "name": "Ashley Kitonga",
+          "url": "https://open.spotify.com/artist/0gpPjpebiHO5IkBBro2CyI"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "We Should've Talked About Saturday",
+      "url": "https://open.spotify.com/track/1SI38tpcZbWCtxeqqEB8AM"
     },
     {
       "album": {

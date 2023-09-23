@@ -4,7 +4,7 @@
 
 > Sad and gloomy Jazz for a rainy day.
 
-296 songs - 18 hr 48 min
+301 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,8 +87,10 @@
 | [Follow Me Till the End of Time](https://open.spotify.com/track/52nDbEu1rxpAIjy3h00Wfo) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Follow Me Till the End of Time](https://open.spotify.com/album/7HrCFkxJPSwS5Ku61EiiDc) | 2:58 | 2022-10-13 |  |
 | [Follow Slowly](https://open.spotify.com/track/1eF3VkcOnhmZleDhrIOYfk) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Once Knowing](https://open.spotify.com/album/1J3QLGLdMJZfIFLxsvojWW) | 2:51 | 2023-02-23 |  |
 | [For Heavens Sake](https://open.spotify.com/track/3L94Y3LMCAW65sKrZs1bz7) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [For Heavens Sake](https://open.spotify.com/album/2hfGoUNu7M0B1bTs35GJou) | 4:51 | 2022-06-14 | 2023-05-12 |
+| [Gloomy Sunday](https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Gloomy Sunday](https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk) | 3:13 | 2023-09-22 |  |
 | [Gone With The Wind](https://open.spotify.com/track/328DcmekpxrhOL4SYI6t9V) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Blues\-A\-Plenty](https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps) | 3:18 | 2021-12-14 | 2022-10-07 |
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2022-08-10 | 2023-06-23 |
+| [Grey Mornings](https://open.spotify.com/track/4vR1tQ1rF01iF7Sc4ViLy3) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Grey Mornings](https://open.spotify.com/album/4sGFc6217FNH1aubBYdXQf) | 3:52 | 2023-09-22 |  |
 | [He Said She Got It Going](https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Said She Got It Going](https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS) | 2:38 | 2022-11-17 |  |
 | [Hector's Plan](https://open.spotify.com/track/5eWLDX4KoC24EYgrZl8Rta) | [Norwood Macdonald Group](https://open.spotify.com/artist/6HhfFG1K5tRpfzuCzGKQfL) | [Hector's Plan](https://open.spotify.com/album/1E1vK9IaJTTMEYSgAKq7SF) | 2:24 | 2022-06-22 |  |
 | [Her](https://open.spotify.com/track/7n3xKq0wJh04yNxnmD6VEt) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Her](https://open.spotify.com/album/2k2Sp6taVfGQqVX9otguHc) | 3:58 | 2022-09-06 |  |
@@ -128,6 +130,7 @@
 | [Inertia](https://open.spotify.com/track/6Yvey5k1efTUHNp0nbyszi) | [Devon Crouch](https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ) | [Inertia](https://open.spotify.com/album/4d07ATDHib2JftzZKeQiM4) | 2:43 | 2021-12-14 | 2022-04-12 |
 | [Infant Eyes](https://open.spotify.com/track/0Cgg4UFV8Du0Kg0wLHUa1k) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Infant Eyes](https://open.spotify.com/album/6O9lAPhLztpO0LNKzFbOXO) | 3:52 | 2022-01-19 | 2022-05-04 |
 | [Irridescent Mountains](https://open.spotify.com/track/6W2hNKNp5Brv1igihBn5zw) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Irridescent Mountains](https://open.spotify.com/album/2Qkk2GO6d72FNEdGZloHwq) | 3:19 | 2023-04-13 |  |
+| [It Rained All Night](https://open.spotify.com/track/4I1VoLbdbu3YKrjoXeQONf) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Summer Love](https://open.spotify.com/album/51LEUb1ZFtzAhyS4nFkKbC) | 3:17 | 2023-09-22 |  |
 | [I´m Getting Sentimental Over You](https://open.spotify.com/track/5xdMklU34fYpHch5Dr93wl) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [A Ghost Of A Chance](https://open.spotify.com/album/1qOEWsWmbdB8U2EmcPLwFG) | 2:42 | 2021-12-14 | 2023-09-02 |
 | [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 | 2021-12-14 | 2022-12-09 |
 | [Kept running](https://open.spotify.com/track/6Ov3Bass8w3RrtUBX7T7xe) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Kept running](https://open.spotify.com/album/0SUlahoWIHJC4g0obxjHtt) | 2:44 | 2023-03-23 |  |
@@ -187,6 +190,7 @@
 | [No Time To Lose](https://open.spotify.com/track/33PBF5x1QjBp3EjlMHVkqd) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [No Time To Lose](https://open.spotify.com/album/7JrQv5id6mbOlu2iWFc4Ob) | 4:31 | 2021-12-14 |  |
 | [Nocturnal Serenade](https://open.spotify.com/track/6i2gZTC6mjNvamfLYvPm8R) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Nocturnal Serenade](https://open.spotify.com/album/1a97FiVDBO8Zvor9AXqNgJ) | 4:12 | 2023-05-04 |  |
 | [Northwood Hills](https://open.spotify.com/track/1V67XyPGFveCOfgSCkyJkV) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Northwood Hills](https://open.spotify.com/album/0i4sqxw8WdDJiBkXvZXkkD) | 3:14 | 2022-09-29 |  |
+| [Not Nice At All](https://open.spotify.com/track/7pilE4NULuXBPHZNzODH5i) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Not Nice At All](https://open.spotify.com/album/5TRSBkD21PjK91y6gfUWMH) | 2:56 | 2023-09-22 |  |
 | [Not Too Hot](https://open.spotify.com/track/0FoNYyoLC8Jj12GQggux8T) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Not Too Hot](https://open.spotify.com/album/4qOxXHChJ2JsAkT3Id2zQf) | 4:47 | 2022-06-28 |  |
 | [Nothing Lasts Forever](https://open.spotify.com/track/0WHPnkjzE2wkLa06lL5cIX) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:42 | 2022-05-31 | 2022-11-18 |
 | [Nothing Like a Spring](https://open.spotify.com/track/3nSTb8hxLHbDdG8oEXYy5u) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Clear Skies](https://open.spotify.com/album/1lkZ3pXnZoqj9grtpAkdNY) | 3:31 | 2023-03-23 |  |
@@ -263,6 +267,7 @@
 | [The Way of the Winds](https://open.spotify.com/track/1hbpryH5fnRhWdE2CeyIjq) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Mindful in Solitude](https://open.spotify.com/album/07ByAjCqjdAvcH64xoPZ7d) | 3:53 | 2023-02-23 |  |
 | [There Will Never Be Another You](https://open.spotify.com/track/0w7ufvu7otF8UGX12XZQPb) | [Leonardo Mendonça](https://open.spotify.com/artist/0zt6SqlvpnZ7LNMWj8ee4e) | [There Will Never Be Another You](https://open.spotify.com/album/4o8598qWSxGgvPIlyKD6ns) | 3:40 | 2022-08-10 | 2023-01-13 |
 | [These Empty Streets](https://open.spotify.com/track/65aPk9Q8mmd79kdNF7u4Z4) | [Ronald & the Fairies](https://open.spotify.com/artist/7EyQn2KSLStE6tXcdpDOXm) | [These Empty Streets](https://open.spotify.com/album/2sLHjSapdwQIquH70L6G5Y) | 3:04 | 2021-12-14 | 2022-06-23 |
+| [Think about that](https://open.spotify.com/track/36hGg9XIlY2jlLdQSclabi) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Think about that](https://open.spotify.com/album/7qWpFNdlfnhWujIcby7yB9) | 2:46 | 2023-09-22 |  |
 | [Till We Meet Again](https://open.spotify.com/track/1OujsmIAntjhB7vno18rsH) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [My favourite Things](https://open.spotify.com/album/2iL0UKkntzpYl2XtCqk60F) | 4:37 | 2022-08-10 | 2023-05-05 |
 | [Time Remembered](https://open.spotify.com/track/2kuCedGQNreDSHNCmxJLwr) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Time Remembered](https://open.spotify.com/album/5dNksNJCyeqYrEaLzj25Xw) | 3:04 | 2021-12-14 |  |
 | [To Dream Like Youth](https://open.spotify.com/track/6WZ2kt3R8fLhWnIG7qrGbk) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [To Dream Like Youth](https://open.spotify.com/album/6vhlU52iYbCpTiafWC5wRD) | 3:55 | 2023-08-10 |  |

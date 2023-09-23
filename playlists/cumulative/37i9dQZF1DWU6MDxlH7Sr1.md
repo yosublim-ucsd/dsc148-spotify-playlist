@@ -4,7 +4,7 @@
 
 > Soft Jazz in the background of your cocktail party.
 
-283 songs - 18 hr 22 min
+285 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Freddie Freeloader](https://open.spotify.com/track/0k8yaziKe1VHprtyeYsR7H) | [Sixth Street Quartet](https://open.spotify.com/artist/3VNm5jxAuivvWsOLWcIiVt) | [Morning Heartache EP](https://open.spotify.com/album/1nFeazrI7NLYn7QNQakrM8) | 2:31 | 2022-04-26 | 2022-05-11 |
 | [Fridays](https://open.spotify.com/track/3Y23H0dJCyZ8Whxh59eJEB) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Fridays](https://open.spotify.com/album/5pvCfDy1k6koVQYUYSvEIb) | 3:05 | 2022-04-26 |  |
 | [Giving thrills](https://open.spotify.com/track/2mKGI5TnGVSWbloCZlma6B) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Giving thrills](https://open.spotify.com/album/4I4N89jyjhMfacIc2tU4uH) | 3:11 | 2023-06-08 |  |
+| [Graceful Rhapsody](https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Graceful Rhapsody](https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm) | 2:42 | 2023-09-22 |  |
 | [Have You Met Miss Jones](https://open.spotify.com/track/3hS9SHf90Uyt2ejCTuO4Jo) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Have You Met Miss Jones](https://open.spotify.com/album/3dBfU9Aecon59ibocb2nkE) | 3:08 | 2022-05-17 |  |
 | [Hello, Young Lovers](https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [Hello, Young Lovers](https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU) | 3:54 | 2023-06-01 |  |
 | [Hills Are Green](https://open.spotify.com/track/4qo2GCWvoq0FOwB09BYNn0) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Hills Are Green](https://open.spotify.com/album/7JxpIeshWJtSBR4SqN0D4B) | 4:09 | 2022-12-01 |  |
@@ -125,6 +126,7 @@
 | [It's Not Forever](https://open.spotify.com/track/6qi3FFTVaIAZSQnQIoswUQ) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [It's Not Forever](https://open.spotify.com/album/1Va59mXaQclhCVDJ6Sor0L) | 3:26 | 2022-09-20 | 2023-01-06 |
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-08-30 |  |
 | [It´s Easy To Remember](https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:32 | 2022-04-26 |  |
+| [It´s Wonderful](https://open.spotify.com/track/4fIrqRgwWZeHWx1xYzMk0z) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [It´s Wonderful](https://open.spotify.com/album/4NCJxvMwHsCIykqMx97Bew) | 3:12 | 2023-09-22 |  |
 | [I´m Glad There Is You](https://open.spotify.com/track/5aSfAExWXaU5P4wuPkBINx) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 4:29 | 2022-04-26 |  |
 | [I’m on break](https://open.spotify.com/track/0jfJ3aLp2fGnPRMbd4Se26) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [I’m on break](https://open.spotify.com/album/4dbCv4JQcIKYHDQDkaCcjm) | 2:39 | 2023-08-17 |  |
 | [Just A Piece of My Heart](https://open.spotify.com/track/2XYa5MJShUKZ8wjnrVa2z6) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:53 | 2022-10-06 |  |
@@ -215,7 +217,7 @@
 | [Sea Smoke](https://open.spotify.com/track/0eZ6EQ8ekEGV8URaCmS7ah) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [For Celia](https://open.spotify.com/album/3rx1K0Or8xmmwwFBK4bhMT) | 4:42 | 2022-04-26 | 2022-09-30 |
 | [See my point?](https://open.spotify.com/track/54Uz34WkQEC6peSFGj6inG) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [See my point?](https://open.spotify.com/album/6P5DXnehRkPNxSDgQetOvo) | 2:33 | 2023-06-08 |  |
 | [September Song](https://open.spotify.com/track/5mn5mx35dGRAQ6hF3I3kDD) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [September Song](https://open.spotify.com/album/0zsOMLv9GS8yPelwkfcvE9) | 3:29 | 2022-10-27 | 2023-03-02 |
-| [She's Funny That Way](https://open.spotify.com/track/4fn0kfdUbc5LlAjTwG4RX4) | [Tonic and their Time](https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT) | [She's Funny That Way](https://open.spotify.com/album/0BSvGhV8CykM0MenOFaZtA) | 3:46 | 2023-04-13 |  |
+| [She's Funny That Way](https://open.spotify.com/track/4fn0kfdUbc5LlAjTwG4RX4) | [Tonic and their Time](https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT) | [She's Funny That Way](https://open.spotify.com/album/0BSvGhV8CykM0MenOFaZtA) | 3:46 | 2023-04-13 | 2023-09-23 |
 | [Shiny Stockings](https://open.spotify.com/track/069buST4Z84x0O5TOtW48H) | [Rachel Silver](https://open.spotify.com/artist/6IwOxOuT7cPH3iF4jfjf2a) | [Oh, What a Beautiful Mornin'](https://open.spotify.com/album/02VmGGZVwEVQIv1gUJsYZx) | 4:17 | 2022-04-26 | 2023-01-13 |
 | [Sincera](https://open.spotify.com/track/4B7lJ0073KDXFgWXivllAd) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Sincera](https://open.spotify.com/album/6Pc4LLAqn9YRpwabtzoTzj) | 2:38 | 2022-12-08 |  |
 | [Skating](https://open.spotify.com/track/21kViWinMdNo8mcWLuqTk3) | [We Three Trio](https://open.spotify.com/artist/1T5DJ6QCdj86XsYXSCF5kj) | [Skating](https://open.spotify.com/album/2TQ3EtEnMcVqwItpCMsYOY) | 3:17 | 2022-04-26 |  |

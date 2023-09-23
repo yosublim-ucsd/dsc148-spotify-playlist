@@ -849,6 +849,28 @@
     },
     {
       "album": {
+        "name": "BUBALU",
+        "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228253,
+      "name": "BUBALU",
+      "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+    },
+    {
+      "album": {
         "name": "Buenos D\u00edas",
         "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
       },
@@ -1684,7 +1706,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 171552,
       "name": "EL VIBE",
       "url": "https://open.spotify.com/track/2FB0B97YQMCYhIuCKbaSkb"
@@ -1768,6 +1790,28 @@
       "duration_ms": 187978,
       "name": "En La Luna",
       "url": "https://open.spotify.com/track/7LoBGVOINvvyKBmsSkS5CA"
+    },
+    {
+      "album": {
+        "name": "En Mi Piel",
+        "url": "https://open.spotify.com/album/2G87V7lMtUFAUXb9DqWaF3"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Fainal & Shako",
+          "url": "https://open.spotify.com/artist/2aWyENWGXJIHKOY6BZ7DTD"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209655,
+      "name": "En Mi Piel",
+      "url": "https://open.spotify.com/track/7xkMZiXypSSqi7EIIYLDHF"
     },
     {
       "album": {
@@ -2362,6 +2406,32 @@
       "duration_ms": 150441,
       "name": "La Cura",
       "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
+    },
+    {
+      "album": {
+        "name": "LA DEL CAMP",
+        "url": "https://open.spotify.com/album/4r6XjCrs84uAc0hOXFxONk"
+      },
+      "artists": [
+        {
+          "name": "OMGisNEFF",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+        },
+        {
+          "name": "SokeThugPro",
+          "url": "https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0"
+        },
+        {
+          "name": "Neverknwn",
+          "url": "https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161206,
+      "name": "LA DEL CAMP",
+      "url": "https://open.spotify.com/track/3bs0jnlXhc0PDmyjgeOUcS"
     },
     {
       "album": {
@@ -3381,6 +3451,24 @@
     },
     {
       "album": {
+        "name": "Me Muevo Con Dios",
+        "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180374,
+      "name": "Movezz en silencio",
+      "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
+    },
+    {
+      "album": {
         "name": "Mxfix G5",
         "url": "https://open.spotify.com/album/6i7nZXIeKaSBLXl5b3UirN"
       },
@@ -3392,7 +3480,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 154520,
       "name": "Mxfix G5",
       "url": "https://open.spotify.com/track/6RvdPXkp63MIt9oNFJBRIz"
@@ -3942,7 +4030,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 203293,
       "name": "POKE FREESTYLE",
       "url": "https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA"
@@ -5462,7 +5550,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 177272,
       "name": "\u00bfQu\u00e9 Tiene?",
       "url": "https://open.spotify.com/track/1n39WXv58zOCFVLnGlVJNg"

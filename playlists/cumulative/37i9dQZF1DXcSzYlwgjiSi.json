@@ -3465,6 +3465,24 @@
     },
     {
       "album": {
+        "name": "Something To Dance To",
+        "url": "https://open.spotify.com/album/3CN2Jr3yuLh1soyJPNErQC"
+      },
+      "artists": [
+        {
+          "name": "Willie Jones",
+          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152807,
+      "name": "Something To Dance To",
+      "url": "https://open.spotify.com/track/15wjZVpG5krE8khXtQq7Cu"
+    },
+    {
+      "album": {
         "name": "Black",
         "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
       },

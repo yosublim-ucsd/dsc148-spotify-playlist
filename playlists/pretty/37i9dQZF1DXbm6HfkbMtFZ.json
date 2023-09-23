@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 685830,
+  "num_followers": 686038,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjE4MjJhOGJiYTZmZTc2ZjE3ZjI3ZjExYWVkNTZhNjE4YmIzMjZm",
+  "snapshot_id": "MCwzMDIwOWE5NzkxNTIzMDM4NGM1NTJhYTQ3ZWNmOTVmYTIzZDljYWVm",
   "tracks": [
     {
       "added_at": "2023-09-19 17:56:54",
@@ -503,8 +503,8 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "Love Is The Way",
-        "url": "https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0"
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 179836,
-      "name": "Love Is The Way",
-      "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
+      "duration_ms": 195086,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -623,8 +623,8 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "Running Away",
-        "url": "https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE"
+        "name": "Love Is The Way",
+        "url": "https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 195086,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq"
+      "duration_ms": 179836,
+      "name": "Love Is The Way",
+      "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
+        "name": "Wings At The Speed Of Sound (Archive Collection)",
+        "url": "https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 311880,
+      "name": "Let 'Em In - 2014 Remaster",
+      "url": "https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY"
+    },
+    {
+      "added_at": "2023-09-19 17:56:54",
+      "album": {
         "name": "Water Your Garden",
         "url": "https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 169333,
       "name": "Water Your Garden",
       "url": "https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX"
-    },
-    {
-      "added_at": "2023-09-19 17:56:54",
-      "album": {
-        "name": "Wings At The Speed Of Sound (Archive Collection)",
-        "url": "https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 311880,
-      "name": "Let 'Em In - 2014 Remaster",
-      "url": "https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "The Information",
-        "url": "https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Think I'm In Love",
-      "url": "https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ"
-    },
-    {
-      "added_at": "2023-09-19 17:56:54",
-      "album": {
         "name": "Schmilco",
         "url": "https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 175946,
       "name": "If I Ever Was a Child",
       "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
+    },
+    {
+      "added_at": "2023-09-19 17:56:54",
+      "album": {
+        "name": "The Information",
+        "url": "https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Think I'm In Love",
+      "url": "https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "On + Off",
-      "url": "https://open.spotify.com/track/2kvwSbG26eHKUJdvH7DiR2"
-    },
-    {
-      "added_at": "2023-09-19 17:56:54",
-      "album": {
         "name": "The Dip",
         "url": "https://open.spotify.com/album/34GiVp9W9v6GjsWLkBp0HS"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 242773,
       "name": "O.P. Jebediah",
       "url": "https://open.spotify.com/track/2osA04Ftqanbf9P3uJjTJb"
+    },
+    {
+      "added_at": "2023-09-19 17:56:54",
+      "album": {
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "On + Off",
+      "url": "https://open.spotify.com/track/2kvwSbG26eHKUJdvH7DiR2"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/4AZ9Eylw7Z7EsapL8inBsZ"
-      },
-      "artists": [
-        {
-          "name": "Neal Francis",
-          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
-        }
-      ],
-      "duration_ms": 390200,
-      "name": "Changes, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ"
-    },
-    {
-      "added_at": "2023-09-19 17:56:54",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 231266,
       "name": "Black Rain",
       "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
+    },
+    {
+      "added_at": "2023-09-19 17:56:54",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4AZ9Eylw7Z7EsapL8inBsZ"
+      },
+      "artists": [
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        }
+      ],
+      "duration_ms": 390200,
+      "name": "Changes, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
+        "name": "Electric Warrior [Expanded & Remastered]",
+        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "Mambo Sun - 2003 Remaster",
+      "url": "https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB"
+    },
+    {
+      "added_at": "2023-09-19 17:56:54",
+      "album": {
         "name": "wait outside",
         "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
@@ -1519,18 +1535,18 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "Electric Warrior [Expanded & Remastered]",
-        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
       },
       "artists": [
         {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
         }
       ],
-      "duration_ms": 220960,
-      "name": "Mambo Sun - 2003 Remaster",
-      "url": "https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB"
+      "duration_ms": 163648,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -1547,22 +1563,6 @@
       "duration_ms": 248526,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
-    },
-    {
-      "added_at": "2023-09-19 17:56:54",
-      "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "This Is My Story",
-        "url": "https://open.spotify.com/album/7m0WOyvRISJQjiHHheGuVs"
-      },
-      "artists": [
-        {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
-        }
-      ],
-      "duration_ms": 132750,
-      "name": "This Is My Story",
-      "url": "https://open.spotify.com/track/1SauvELylW5CaydMeG33ib"
-    },
-    {
-      "added_at": "2023-09-19 17:56:54",
-      "album": {
         "name": "Pulse (Expanded Edition)",
         "url": "https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 326613,
       "name": "Lazy Nina",
       "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
+    },
+    {
+      "added_at": "2023-09-19 17:56:54",
+      "album": {
+        "name": "This Is My Story",
+        "url": "https://open.spotify.com/album/7m0WOyvRISJQjiHHheGuVs"
+      },
+      "artists": [
+        {
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+        }
+      ],
+      "duration_ms": 132750,
+      "name": "This Is My Story",
+      "url": "https://open.spotify.com/track/1SauvELylW5CaydMeG33ib"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "The Emitt Rhodes Recordings (1969-1973)",
-        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
-      },
-      "artists": [
-        {
-          "name": "Emitt Rhodes",
-          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
-        }
-      ],
-      "duration_ms": 146680,
-      "name": "Somebody Made For Me",
-      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
-    },
-    {
-      "added_at": "2023-09-19 17:56:54",
-      "album": {
         "name": "Try and Love",
         "url": "https://open.spotify.com/album/27xu9zZKCUm7mCoZlMkQpC"
       },
@@ -1755,6 +1739,22 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
+        "name": "The Emitt Rhodes Recordings (1969-1973)",
+        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
+      },
+      "artists": [
+        {
+          "name": "Emitt Rhodes",
+          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
+        }
+      ],
+      "duration_ms": 146680,
+      "name": "Somebody Made For Me",
+      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
+    },
+    {
+      "added_at": "2023-09-19 17:56:54",
+      "album": {
         "name": "Bismillah",
         "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
       },
@@ -1767,22 +1767,6 @@
       "duration_ms": 227293,
       "name": "Soulless Friends",
       "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"
-    },
-    {
-      "added_at": "2023-09-19 17:56:54",
-      "album": {
-        "name": "Float Back To You",
-        "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
-      },
-      "artists": [
-        {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
-        }
-      ],
-      "duration_ms": 231868,
-      "name": "Hypnosis",
-      "url": "https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -1863,6 +1847,22 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
+        "name": "Float Back To You",
+        "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
+      },
+      "artists": [
+        {
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+        }
+      ],
+      "duration_ms": 231868,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A"
+    },
+    {
+      "added_at": "2023-09-19 17:56:54",
+      "album": {
         "name": "Waiting on a Song",
         "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
       },
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "Music and Dreams",
-        "url": "https://open.spotify.com/album/7D9LwyfF1jH5nfSgZDYxRO"
-      },
-      "artists": [
-        {
-          "name": "Robert Lester Folsom",
-          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
-        }
-      ],
-      "duration_ms": 168173,
-      "name": "My Stove's on Fire",
-      "url": "https://open.spotify.com/track/1rQeb39RWb5BaRqsxTTccU"
-    },
-    {
-      "added_at": "2023-09-19 17:56:54",
-      "album": {
         "name": "honey thighs",
         "url": "https://open.spotify.com/album/09i8SzOLmbEg1ej69rL6aC"
       },
@@ -1927,18 +1911,34 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "Boys, B-Sides & Rarities",
-        "url": "https://open.spotify.com/album/4chIfnAsr94togS7Xnwg2U"
+        "name": "Music and Dreams",
+        "url": "https://open.spotify.com/album/7D9LwyfF1jH5nfSgZDYxRO"
       },
       "artists": [
         {
-          "name": "Spang Sisters",
-          "url": "https://open.spotify.com/artist/55LV0taR11yxOICTZORibT"
+          "name": "Robert Lester Folsom",
+          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
         }
       ],
-      "duration_ms": 156788,
-      "name": "King Prawn The 1st",
-      "url": "https://open.spotify.com/track/0t81ZOuQDXrw45a9mGKC6t"
+      "duration_ms": 168173,
+      "name": "My Stove's on Fire",
+      "url": "https://open.spotify.com/track/1rQeb39RWb5BaRqsxTTccU"
+    },
+    {
+      "added_at": "2023-09-19 17:56:54",
+      "album": {
+        "name": "A Strange Arrangement",
+        "url": "https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 150933,
+      "name": "Just Ain't Gonna Work Out",
+      "url": "https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X"
     }
   ],
   "unique_name": "Feel Good Dinner",

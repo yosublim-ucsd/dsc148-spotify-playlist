@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:Huh\(허성현\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover:BewhY\(비와이\)\)
 
-995 songs - 2 day 6 hr 40 min
+996 songs - 2 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [hold out \(Feat\. NSW yoon, Louie\)](https://open.spotify.com/track/5SzeLmbnkUHtbQkOGeZlaX) | [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [Louie](https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB) | [Polodared](https://open.spotify.com/album/2duUL3vrOY4kLKWbTB0yNR) | 3:18 | 2022-03-29 | 2022-07-05 |
 | [Holiday \(Feat\. lIlBOI, GIRIBOY\) \(Prod\. GroovyRoom\)](https://open.spotify.com/track/44mJS0YRReMdwrY0jFu9Cd) | [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 4:07 | 2022-12-19 | 2023-06-14 |
 | [Hollow Season \(Feat\. INE, C JAMM, YUNHWAY\)](https://open.spotify.com/track/19ED83SfC8QW8MJhy9Gxsh) | [Nochang](https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO), [INE](https://open.spotify.com/artist/2esZEOvnP8fACfmFZerWHy), [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR), [YUNHWAY](https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy) | [Hollow Season](https://open.spotify.com/album/3I01GZau9zdhKZrY2bcnIG) | 7:07 | 2022-04-07 | 2022-05-24 |
+| [Holy Toast](https://open.spotify.com/track/3DBPSo3h99XWiVrIJ8GNXD) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Holy Toast](https://open.spotify.com/album/7sa0Q70GxJXv8iIRmu37cw) | 3:02 | 2023-09-22 |  |
 | [home \(feat\. Hesper\)](https://open.spotify.com/track/464h8vrQbuDmTSijuP0CvO) | [GongGongGoo009](https://open.spotify.com/artist/1xI51JmMVnw1XVCPeA4eiY), [Hesper](https://open.spotify.com/artist/7rOHC7zGWrPNUYrAQXviPs) | [space](https://open.spotify.com/album/2sZrEiT7qIJ07gEbldGjnB) | 4:25 | 2022-01-04 | 2022-05-12 |
 | [Hommage \(Feat\. Swings\)](https://open.spotify.com/track/31lSZSQjdmQND10EFjw4pW) | [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [On the Wheel](https://open.spotify.com/album/1NuyhsJGJlxjqgaqVhuZPa) | 3:37 | 2022-08-27 | 2022-12-20 |
 | [HONDA !](https://open.spotify.com/track/0yurxXDL2EC9dFyZJXy39y) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [BEIGE](https://open.spotify.com/album/2evikoMhheFgk9gQB7Vd1S) | 3:01 | 2023-05-30 |  |

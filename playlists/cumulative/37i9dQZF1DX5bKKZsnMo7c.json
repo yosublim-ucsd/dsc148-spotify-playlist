@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "All eyes on you. Cover: Cody Fry",
+  "description": "All eyes on you. Cover: DPR IAN",
   "name": "Limelight",
   "tracks": [
     {
@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 171173,
       "name": "High In Brighton",
       "url": "https://open.spotify.com/track/60t6F04UjEMkIi3h4pTw5k"
@@ -2316,6 +2316,24 @@
       "duration_ms": 197248,
       "name": "I Don't Want to Die Tonight",
       "url": "https://open.spotify.com/track/72Vm3AzrhKYJr4ZOwV2Uvh"
+    },
+    {
+      "album": {
+        "name": "serious person (part 2)",
+        "url": "https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157365,
+      "name": "I FORGOT",
+      "url": "https://open.spotify.com/track/7qIXBakmmkg9c4W1BuXZHj"
     },
     {
       "album": {
@@ -2514,7 +2532,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 164444,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/0nVeZ5dj57NhFomDVVxQsZ"
@@ -2608,6 +2626,28 @@
       "duration_ms": 185890,
       "name": "it's ok!",
       "url": "https://open.spotify.com/track/65QnKbugRDVJK6MBdwkKBo"
+    },
+    {
+      "album": {
+        "name": "Jenna",
+        "url": "https://open.spotify.com/album/20FpfGh5Cftua64aroaT1k"
+      },
+      "artists": [
+        {
+          "name": "Brye",
+          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
+        },
+        {
+          "name": "Addison Grace",
+          "url": "https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191696,
+      "name": "Jenna",
+      "url": "https://open.spotify.com/track/4OuS6CcTr3kofsSYpDyrTB"
     },
     {
       "album": {
@@ -2746,6 +2786,24 @@
       "duration_ms": 163544,
       "name": "Laputa",
       "url": "https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7"
+    },
+    {
+      "album": {
+        "name": "Le Monde (From Talk to Me)",
+        "url": "https://open.spotify.com/album/0RBFL7NYfHslFXlYrVwtir"
+      },
+      "artists": [
+        {
+          "name": "Richard Carter",
+          "url": "https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134853,
+      "name": "Le Monde - From Talk to Me",
+      "url": "https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H"
     },
     {
       "album": {
@@ -3147,6 +3205,24 @@
     },
     {
       "album": {
+        "name": "MESS",
+        "url": "https://open.spotify.com/album/3onqYrRIrhwsE9reWrFtlH"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "MESS",
+      "url": "https://open.spotify.com/track/21yX9e6vaRE8dfsptqFqKf"
+    },
+    {
+      "album": {
         "name": "Be More Chill (Original Cast Recording)",
         "url": "https://open.spotify.com/album/0758cp4h8LSZeLRzrKx2XM"
       },
@@ -3288,6 +3364,24 @@
       "duration_ms": 167680,
       "name": "My Alcoholic Friends",
       "url": "https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "album": {
@@ -3729,6 +3823,24 @@
     },
     {
       "album": {
+        "name": "play pretenses",
+        "url": "https://open.spotify.com/album/55rXo1YEHY71sI2DaNF5r7"
+      },
+      "artists": [
+        {
+          "name": "LeGrand",
+          "url": "https://open.spotify.com/artist/4gOUlzoljp2awye30QKLJL"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159514,
+      "name": "play pretenses",
+      "url": "https://open.spotify.com/track/3Ocg0Q8hekO5O8xIbNJS3Y"
+    },
+    {
+      "album": {
         "name": "prom",
         "url": "https://open.spotify.com/album/3hsaSidYs7NWEn0c2ncIDA"
       },
@@ -4144,7 +4256,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 191774,
       "name": "Should've Been Me",
       "url": "https://open.spotify.com/track/5FQ9NDyx3KZXhovWWq4Gxo"
@@ -4162,7 +4274,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 176707,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
@@ -4274,10 +4386,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 215464,
       "name": "Snow Angel",
       "url": "https://open.spotify.com/track/6skUuqrKMQIjjo75hWGAvQ"
+    },
+    {
+      "album": {
+        "name": "So I Danced",
+        "url": "https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173293,
+      "name": "So I Danced",
+      "url": "https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH"
     },
     {
       "album": {
@@ -4440,7 +4570,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 292200,
       "name": "The Beautiful Letdown (Jonas Brothers Version)",
       "url": "https://open.spotify.com/track/7aoLeX7JuTZJaSOFVj8OJm"
@@ -4686,7 +4816,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 234866,
       "name": "Things You Said (feat. Abby Cates)",
       "url": "https://open.spotify.com/track/2wOCwmoaVuN5cgjf80Fja4"

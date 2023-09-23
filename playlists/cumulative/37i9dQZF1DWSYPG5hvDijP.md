@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-151 songs - 8 hr 11 min
+152 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [KULFA\-KAR\-MA](https://open.spotify.com/track/4RnHapKw9jDMaND7srX9Se) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [KULFA\-KAR\-MA](https://open.spotify.com/album/0f53UzOwYgA5YC7KkoEJ7D) | 4:00 | 2023-04-28 |  |
 | [Laado](https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Laado](https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB) | 2:28 | 2023-09-01 |  |
 | [Lady Gaga](https://open.spotify.com/track/2zKVb9TTkIwBQy6c6AkWq9) | [Rob C](https://open.spotify.com/artist/4hEz4Vg09BEJcypoN4WnAi), [Harry Spark](https://open.spotify.com/artist/4rjoncFFlCXRsbwdpfOd1q) | [Lady Gaga](https://open.spotify.com/album/5dCAd6jFbGF3KtBKpBHvSO) | 3:00 | 2023-04-16 | 2023-04-25 |
+| [Legacy](https://open.spotify.com/track/6zMr3R1ZqD4u3s4r3YB7Cl) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Legacy](https://open.spotify.com/album/1cfP2hvla4AyCynac61ehL) | 3:14 | 2023-09-22 |  |
 | [Let It Go](https://open.spotify.com/track/6C0sGwIpz331wTNFXfu4pe) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Let It Go](https://open.spotify.com/album/3gPJ57t1vPx8Gg2CvK3UFJ) | 2:22 | 2023-04-28 |  |
 | [LIFESTYLE](https://open.spotify.com/track/4jHJq2kE3nqF6djDzeZGFg) | [Ab 17](https://open.spotify.com/artist/6WZbxCOTFeEqJHpcZYgDiG), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [LIFESTYLE](https://open.spotify.com/album/3OVLSxqoWeSoNvW9KVBR25) | 2:41 | 2023-03-29 | 2023-07-21 |
 | [LKLG](https://open.spotify.com/track/4M5WhMWntRfnKaHF38DsTb) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [QUAKE World](https://open.spotify.com/artist/40U1tcKh3xQ2kLo2QNoYIQ), [Levl9ne](https://open.spotify.com/artist/2VRLihnvWF8a28nJBXfmdB) | [LKLG](https://open.spotify.com/album/6pSyw1UabD2d7XUcffFuzN) | 3:21 | 2023-03-29 | 2023-07-21 |

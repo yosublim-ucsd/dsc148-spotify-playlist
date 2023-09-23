@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-326 songs - 18 hr 43 min
+327 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [lake hylia](https://open.spotify.com/track/1DE2OTIUPBhBCmwrfSgnu4) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [lake hylia](https://open.spotify.com/album/1iGEDqPy6ZLwqO2mSIUqg3) | 1:51 | 2021-10-16 | 2022-09-20 |
 | [lake hylia](https://open.spotify.com/track/4vvZKGxwq09jL4F30aF1Om) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [lake hylia](https://open.spotify.com/album/2pajMS0QgB2rk8TwXu1Tfo) | 1:51 | 2021-10-16 | 2022-11-13 |
 | [Le danseur dans la boîte](https://open.spotify.com/track/0vGbsSDK7St7mNqbs19nUC) | [Isaac Symonds](https://open.spotify.com/artist/7mvHnjqntcNNecYAHHbdM2), [Yaehsun](https://open.spotify.com/artist/2EzEflueqj8hSyiCNSTxbB), [Camille Paquette\-Roy](https://open.spotify.com/artist/1pVlFqIC1hmzaUf9UPIpFZ) | [Natura Sophia](https://open.spotify.com/album/1m9tfsXeu1A6GOh7lzVphq) | 4:58 | 2021-10-16 | 2022-07-29 |
-| [Life Tools](https://open.spotify.com/track/1UnID8JHQyfGHZhX8mTkOz) | [Joel Manson](https://open.spotify.com/artist/3LnOPPGBiRtRJAOdjQqQMx) | [Life Tools](https://open.spotify.com/album/38hMfjKQMQTUYpbtku1KRK) | 1:44 | 2021-10-16 |  |
+| [Life Tools](https://open.spotify.com/track/1UnID8JHQyfGHZhX8mTkOz) | [Joel Manson](https://open.spotify.com/artist/3LnOPPGBiRtRJAOdjQqQMx) | [Life Tools](https://open.spotify.com/album/38hMfjKQMQTUYpbtku1KRK) | 1:44 | 2021-10-16 | 2023-09-23 |
 | [Light](https://open.spotify.com/track/3is4aHMSpsFnrDx0btsuEW) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [No Thoughts I](https://open.spotify.com/album/7zCzUUixLiKDCNcoHfVkd0) | 1:50 | 2021-10-16 | 2022-11-19 |
 | [Light](https://open.spotify.com/track/4oFJKYQ32w0jIMXwYBWg4i) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [No Thoughts I](https://open.spotify.com/album/2cIwdGl2fnwNFqnpQlKdem) | 1:50 | 2021-10-16 |  |
 | [Lilac](https://open.spotify.com/track/0Ymu1QBwxsXpwsLdxWBRtA) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Lilac](https://open.spotify.com/album/4lqw1wICfF7tNfVjj3TPgX) | 2:40 | 2021-10-16 | 2022-07-29 |
@@ -261,6 +261,7 @@
 | [Soft Meadow](https://open.spotify.com/track/4Xe5aArRgoUutgD8MP00Qs) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 5:28 | 2021-10-16 |  |
 | [Solar Winds](https://open.spotify.com/track/13iYeXC6LAzTierH7y8kJZ) | [Ninna Hall](https://open.spotify.com/artist/5x5NAEHfpaMyyMuDBLhyJv) | [Wind EP](https://open.spotify.com/album/5ekSFZojGT4a28c5yMmDfa) | 3:02 | 2021-10-16 |  |
 | [Solo, Op\. 1: No\. 1](https://open.spotify.com/track/2HCtyKgeht2LC7jXhywJ1s) | [Böjo](https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e) | [Solo, Op\. 1: No\. 1](https://open.spotify.com/album/1Zk5AG5bbR2S3nP4YLCo2u) | 2:40 | 2021-10-16 | 2022-07-29 |
+| [Solo, Op\. 1: No\. 1](https://open.spotify.com/track/2QNMea9rsz01sxiNPErdwd) | [Böjo](https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e) | [Solo, Op\. 1: No\. 1](https://open.spotify.com/album/61XTYqp8mi8ULHA6huHRAN) | 2:40 | 2021-10-16 |  |
 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 | 2021-10-16 |  |
 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2SxhgBSJw4BULcHrCmFWw7) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Sometimes He's In My Dreams](https://open.spotify.com/album/4pZGZPG7oUqZm2vjHZsnhl) | 3:46 | 2021-10-16 | 2022-07-29 |
 | [Soulitude](https://open.spotify.com/track/29SEL6NwWVOC1m8Gl4wiFm) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Soulitude](https://open.spotify.com/album/6x7Faj3evo1L651zJyxydS) | 2:02 | 2021-10-16 | 2022-06-16 |

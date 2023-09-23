@@ -773,6 +773,24 @@
     },
     {
       "album": {
+        "name": "Aurola",
+        "url": "https://open.spotify.com/album/68JQM6V7BAGvStRUVhNGmy"
+      },
+      "artists": [
+        {
+          "name": "Miriamy",
+          "url": "https://open.spotify.com/artist/4GRc7Ci5nEs8ZEr2dm6cUz"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140251,
+      "name": "Aurola",
+      "url": "https://open.spotify.com/track/2al0ddWon8jMM4mYf9mucp"
+    },
+    {
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/2Vxy7rxT21xtORjHwiSSz3"
       },
@@ -7167,6 +7185,24 @@
     },
     {
       "album": {
+        "name": "Midnight Snack",
+        "url": "https://open.spotify.com/album/5fC41QDe37WTx5PpcR1b2K"
+      },
+      "artists": [
+        {
+          "name": "Matt Bleu",
+          "url": "https://open.spotify.com/artist/6sL4jX2tlj46oaPlC7Nn22"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126545,
+      "name": "Midnight Snack",
+      "url": "https://open.spotify.com/track/3BgBwSOMicBIfxRZpOewrz"
+    },
+    {
+      "album": {
         "name": "Metropolis",
         "url": "https://open.spotify.com/album/1DV8uae8K8K94y3W2RUHMW"
       },
@@ -8242,6 +8278,24 @@
       "duration_ms": 210025,
       "name": "One Day Back",
       "url": "https://open.spotify.com/track/3DrTuirQtYns2DOev8VVag"
+    },
+    {
+      "album": {
+        "name": "One Day Left",
+        "url": "https://open.spotify.com/album/1jB6WV9aFf2YzHBzi7k93O"
+      },
+      "artists": [
+        {
+          "name": "Tales of Terra",
+          "url": "https://open.spotify.com/artist/44PWNrMWTLwg7crjJN127B"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133385,
+      "name": "One Day Left",
+      "url": "https://open.spotify.com/track/1I1HlSJlLcKbKXMkiucFnr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Happy Pop\-Rock Tunes to start your day.
 
-232 songs - 13 hr 56 min
+233 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Liar](https://open.spotify.com/track/1IOKsAAYmx50IgZYbpfYk5) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Liar](https://open.spotify.com/album/3deKKEgUnpDY0lZegJGN89) | 3:43 | 2022-09-27 | 2022-11-03 |
 | [Like No One Does](https://open.spotify.com/track/0mHvg2txp2llyXiCJZgbCl) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [TWENTYTWENTY](https://open.spotify.com/album/13j0Kg7NR6uwvE1TEXlNQi) | 2:38 | 2022-06-07 | 2022-07-29 |
 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 | 2022-11-03 |  |
-| [Little Do You Know](https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:05 | 2022-06-07 |  |
+| [Little Do You Know](https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:05 | 2022-06-07 | 2023-09-23 |
 | [Little Wonders \- Radio Version](https://open.spotify.com/track/1Zx5Y46u3v32jRRIWtzQKN) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Cradlesong](https://open.spotify.com/album/026sOya6nqtvO4zSLpFQCj) | 3:45 | 2022-07-05 | 2022-07-22 |
 | [Losing Me](https://open.spotify.com/track/3BjJMiJqjWSNkokmrCcTDJ) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/4PBnAeUH2eta7CqLeCVzYK) | 3:01 | 2022-06-07 | 2022-07-23 |
 | [Love Like This](https://open.spotify.com/track/2lxBZVbkiCXC1soks2RXwV) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Magic](https://open.spotify.com/album/3Mb8bYV4FKmdnmrlSYqp3j) | 3:34 | 2022-06-07 | 2022-07-29 |
@@ -199,6 +199,7 @@
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2022-06-09 |  |
 | [Superman \(It's Not Easy\)](https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [America Town](https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY) | 3:41 | 2022-07-05 | 2022-07-28 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-07-26 | 2023-02-01 |
+| [Tadhana](https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9) | 3:42 | 2023-09-19 |  |
 | [Tadhana](https://open.spotify.com/track/6NFKf8vBApSvtzkapYmnVR) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/4SjshYHT8OeSHB6zun2Hxx) | 3:42 | 2022-06-09 | 2022-07-29 |
 | [Tattooed On My Mind](https://open.spotify.com/track/2nkynQIDF6ygiFI4x5KSaS) | [D'Sound](https://open.spotify.com/artist/2EyVzQKEoNoGCAWJYfoJRg) | [Beauty Is A Blessing \- New Edition](https://open.spotify.com/album/3YQJBhuaDgQnFnD9wdLztB) | 3:45 | 2022-07-05 | 2022-07-27 |
 | [The Best You Had](https://open.spotify.com/track/1CohLMdkpi0odYnMxqLYqd) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come Up, The Seasons Will Change](https://open.spotify.com/album/7gVAtWGtP3D6Y5huRmEEvy) | 2:56 | 2022-06-09 | 2022-06-29 |

@@ -4,7 +4,7 @@
 
 > songs that feel like new and old friends, all stitched together.
 
-479 songs - 1 day 2 hr 50 min
+480 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,7 @@
 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 | 2021-12-22 | 2022-02-03 |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-08-25 | 2023-08-05 |
 | [Shampoo Bottles](https://open.spotify.com/track/2INUkDPCO1eQlOFmIN5VAC) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends](https://open.spotify.com/album/3Vk0be2qEuqARxrC6U5ZV3) | 3:44 | 2021-12-22 |  |
-| [Shatter](https://open.spotify.com/track/4MP5tSTc6LxY8xhrUOv9Ya) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 3:40 | 2023-08-14 |  |
+| [Shatter](https://open.spotify.com/track/4MP5tSTc6LxY8xhrUOv9Ya) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 3:40 | 2023-08-14 | 2023-09-23 |
 | [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2023-08-14 |  |
 | [Shy Away](https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:55 | 2022-07-04 | 2023-08-05 |
 | [Shy Away](https://open.spotify.com/track/2z0IupRlVRlDN5r2IVqHyN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Shy Away](https://open.spotify.com/album/4JFHfIYCtka66G0izGrJhz) | 2:55 | 2021-12-22 | 2022-07-21 |
@@ -404,6 +404,7 @@
 | [Still Got Time](https://open.spotify.com/track/3H7y8eYjCj9gVVg7HFdDOj) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Do Love a Good Sandwich](https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8) | 3:01 | 2021-12-22 | 2022-07-29 |
 | [Such Great Heights \- Remastered](https://open.spotify.com/track/27LyQFdQbui4TnRs05cZ8C) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/4ssF0ppdJnMTtL2hg1CLKX) | 4:26 | 2021-12-22 | 2022-07-29 |
 | [Such Great Heights \- Remastered](https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 4:26 | 2022-07-04 | 2023-08-05 |
+| [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 | 2023-08-14 |  |
 | [Summer Nights](https://open.spotify.com/track/4IjkVrsOEoPYV7FIStLCt7) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [Summer Nights](https://open.spotify.com/album/4og2scnRvgywQ1B8KpDlpm) | 3:35 | 2021-12-22 | 2023-08-15 |
 | [superpretty](https://open.spotify.com/track/7FKLmkzQbOTXlOSkdkVIrJ) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [gelato](https://open.spotify.com/album/4jA8mE55fT8Ae4wt51WB0y) | 2:47 | 2022-03-31 | 2022-07-24 |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2023-01-18 | 2023-08-05 |

@@ -4,7 +4,7 @@
 
 > Well known songs in a soft Bossa landscape.
 
-187 songs - 10 hr 53 min
+188 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Boyfriend \- Bossa Nova](https://open.spotify.com/track/3LzIAzvutNe6RMl3q6ad5F) | [Bossalistix](https://open.spotify.com/artist/6JLsmh5MxY9n0nIhgfiJ6d) | [Boyfriend \(Bossa Nova\)](https://open.spotify.com/album/6kBAw2nCXHTeZxv6Pu1fgP) | 3:01 | 2022-03-10 |  |
 | [Burn Rubber on Me \(Why You Wanna Hurt Me\)](https://open.spotify.com/track/0TyDl7iD1aj2D78xv4UZ1K) | [Luca Giacco](https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC) | [Burn Rubber on Me \(Why You Wanna Hurt Me\)](https://open.spotify.com/album/4Sw1zXyim0qRy7R19FaO1Y) | 2:48 | 2022-03-10 |  |
 | [Cake By The Ocean](https://open.spotify.com/track/5Rr1dkY556PBAKf1c83clx) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Cake By The Ocean](https://open.spotify.com/album/0nbjySxfBgmAR0o8wUNnoI) | 3:43 | 2022-03-10 | 2023-05-17 |
+| [Call Me Maybe](https://open.spotify.com/track/5HwjQ63UtHURR9Dn0JuLtw) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [Call Me Maybe](https://open.spotify.com/album/3NZtAzx3ncvX0WVNQdqFaJ) | 3:24 | 2023-09-22 |  |
 | [Call Me Maybe \(Bossa Nova Version\) \[Originally Performed By Carly Rae Jepsen\]](https://open.spotify.com/track/52gkD0XbLxHRaIvXGOVkPu) | [The Bossa Nova All Stars](https://open.spotify.com/artist/3OkvByvnCYtoTf0cs62Box) | [Relaxing Bossa Nova Cover Hits](https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO) | 3:48 | 2022-03-10 | 2023-05-17 |
 | [Capital Letters \- Bossa Nova](https://open.spotify.com/track/1eNJTz948RfGSC2gIPqhbo) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [Capital Letters \(Bossa Nova\)](https://open.spotify.com/album/6QiMiX7Rtxj0HmPXih3ski) | 3:45 | 2022-03-10 |  |
 | [Careless Whisper](https://open.spotify.com/track/4uTeVyCIvptw95iGjb6Jfz) | [Costa Azul Quartet](https://open.spotify.com/artist/6rJnoDgugy2T0eTH7ZUZUK), [Stephenie Coker](https://open.spotify.com/artist/6amQ4aTH5ThxBgwbD3jrzi) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px) | 5:53 | 2022-03-10 | 2022-07-02 |

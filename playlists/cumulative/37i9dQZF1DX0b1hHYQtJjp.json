@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Recent hits and new songs from your fave artists. Cover: Sia",
+  "description": "Recent hits and new songs from your fave artists. Cover: OneRepublic",
   "name": "Just Good Music",
   "tracks": [
     {
@@ -2627,6 +2627,42 @@
     },
     {
       "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+    },
+    {
+      "album": {
+        "name": "BLACK MOONLIGHT",
+        "url": "https://open.spotify.com/album/7LVCjmDfqcVAWg74kQ0Qwr"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186724,
+      "name": "BLACK MOONLIGHT",
+      "url": "https://open.spotify.com/track/6Puhv2Iw9K8A3rkpxr4Dsz"
+    },
+    {
+      "album": {
         "name": "blame's on me",
         "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
       },
@@ -4952,10 +4988,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "album": {
+        "name": "Dead Man",
+        "url": "https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274870,
+      "name": "Dead Man",
+      "url": "https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH"
     },
     {
       "album": {
@@ -5169,6 +5223,24 @@
     },
     {
       "album": {
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232277,
+      "name": "Doesn\u2019t Do Me Any Good",
+      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
+    },
+    {
+      "album": {
         "name": "Dominoes",
         "url": "https://open.spotify.com/album/5wb71bMteZAtL4faUGUvP8"
       },
@@ -5252,7 +5324,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 190633,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/7173t6WyjOaVya4lPFY00a"
@@ -8001,6 +8073,24 @@
     },
     {
       "album": {
+        "name": "Hands Up To The Sky",
+        "url": "https://open.spotify.com/album/6zIEU67gUCnGZ9yYQW9tL6"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203730,
+      "name": "Hands Up To The Sky",
+      "url": "https://open.spotify.com/track/0WExP6ei2lDqW6WDPlfYOq"
+    },
+    {
+      "album": {
         "name": "Happier",
         "url": "https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh"
       },
@@ -8847,6 +8937,24 @@
     },
     {
       "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/3StjwfadugiV10gNhLDu29"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237866,
+      "name": "Hold On To Now",
+      "url": "https://open.spotify.com/track/4sB1OmmCi2Iwe9MaVlUubR"
+    },
+    {
+      "album": {
         "name": "Hold Us Together (From the Disney+ Original Motion Picture \"Safety\")",
         "url": "https://open.spotify.com/album/0gRuyPMadbwQ0huqVsU91b"
       },
@@ -8970,7 +9078,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 240706,
       "name": "Home Is Where The Hurt Is",
       "url": "https://open.spotify.com/track/7ujyUurqKZiltLgXroP3Z3"
@@ -9791,6 +9899,28 @@
     },
     {
       "album": {
+        "name": "I Lay (feat. Xenia Manasseh)",
+        "url": "https://open.spotify.com/album/5ANLOAQ4aeLFY3XOsdJ48i"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        },
+        {
+          "name": "Kaien Cruz",
+          "url": "https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148601,
+      "name": "I Lay (feat. Xenia Manasseh)",
+      "url": "https://open.spotify.com/track/3OfnodXWoUyR7bgKckTe5p"
+    },
+    {
+      "album": {
         "name": "I Like That",
         "url": "https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI"
       },
@@ -10124,7 +10254,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 285902,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/3bQvXxexTD0T8OYhrJPJzh"
@@ -10204,6 +10334,24 @@
       "duration_ms": 136345,
       "name": "I'm Fine",
       "url": "https://open.spotify.com/track/27gRd0sbdd8cJdI6yx6dt8"
+    },
+    {
+      "album": {
+        "name": "Matteo",
+        "url": "https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc"
+      },
+      "artists": [
+        {
+          "name": "Matteo Bocelli",
+          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222306,
+      "name": "I'm Here",
+      "url": "https://open.spotify.com/track/4ttrwU0rvD0f4WRQsHDPrh"
     },
     {
       "album": {
@@ -11798,6 +11946,24 @@
       "duration_ms": 214430,
       "name": "Learn To Let Go",
       "url": "https://open.spotify.com/track/6Lqqc9jcrXUSxiDA5jle1j"
+    },
+    {
+      "album": {
+        "name": "Learning To Fly",
+        "url": "https://open.spotify.com/album/3blsbvbusz2BUmqVCqwb06"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176941,
+      "name": "Learning To Fly",
+      "url": "https://open.spotify.com/track/7K17Bf15jq4EGfqhYc8Zjv"
     },
     {
       "album": {
@@ -14037,6 +14203,32 @@
     },
     {
       "album": {
+        "name": "Mirage (for Assassin's Creed Mirage)",
+        "url": "https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
+        },
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133183,
+      "name": "Mirage - for Assassin's Creed Mirage",
+      "url": "https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW"
+    },
+    {
+      "album": {
         "name": "Miss Missing You",
         "url": "https://open.spotify.com/album/1QQBLFMTYNUF3iWIm8elk5"
       },
@@ -14110,6 +14302,24 @@
       "duration_ms": 199626,
       "name": "Moderaci\u00f3n (Con Camilo)",
       "url": "https://open.spotify.com/track/66eBZFnheqpOM16CCyA1HV"
+    },
+    {
+      "album": {
+        "name": "Modern Girl",
+        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223100,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
     },
     {
       "album": {
@@ -17236,7 +17446,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 213469,
       "name": "roses",
       "url": "https://open.spotify.com/track/1nVgMmYlziTMLpYE7LtlKd"
@@ -17536,6 +17746,28 @@
       "duration_ms": 212991,
       "name": "Sandman",
       "url": "https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA"
+    },
+    {
+      "album": {
+        "name": "Sarah's Place (feat. Noah Kahan)",
+        "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214056,
+      "name": "Sarah's Place (feat. Noah Kahan)",
+      "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
     },
     {
       "album": {
@@ -18750,7 +18982,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
@@ -21912,7 +22144,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 321333,
       "name": "Uneasy (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/6dotY5Ubbm5cLKBm6KQkZI"
@@ -23149,6 +23381,24 @@
     },
     {
       "album": {
+        "name": "Why Kiki",
+        "url": "https://open.spotify.com/album/4S2epFuYbgCj1acLX8IRIg"
+      },
+      "artists": [
+        {
+          "name": "Iam Tongi",
+          "url": "https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159720,
+      "name": "Why Kiki",
+      "url": "https://open.spotify.com/track/0u4phPUE31xmBJ8SxCydGw"
+    },
+    {
+      "album": {
         "name": "Bigger Love",
         "url": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
       },
@@ -23380,7 +23630,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 210880,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
@@ -23808,6 +24058,28 @@
       "duration_ms": 169265,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
+    },
+    {
+      "album": {
+        "name": "chemistry (Deluxe)",
+        "url": "https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "River Rose",
+          "url": "https://open.spotify.com/artist/3XuRfMxcjE1DgQJ21eALvD"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204720,
+      "name": "you don\u2019t make me cry (feat. River Rose)",
+      "url": "https://open.spotify.com/track/6rbr35phTqlk7F3gVym16B"
     },
     {
       "album": {

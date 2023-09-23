@@ -1885,6 +1885,32 @@
     },
     {
       "album": {
+        "name": "Sukhee",
+        "url": "https://open.spotify.com/album/55PCdVTvqL3XCkZgdMGJ5V"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Chakshu Kotwal",
+          "url": "https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam"
+        },
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213121,
+      "name": "Nasha (Badshah Version)",
+      "url": "https://open.spotify.com/track/5qf24Lwp6smv5Oouzl1gOT"
+    },
+    {
+      "album": {
         "name": "Nikamma (From \"Nikamma\")",
         "url": "https://open.spotify.com/album/2ryYKIFNRnysjT2YeeB50c"
       },
@@ -1912,7 +1938,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 168442,
       "name": "Nikamma (From \"Nikamma\")",
       "url": "https://open.spotify.com/track/3qgklso41KNlGppAwsJoLq"

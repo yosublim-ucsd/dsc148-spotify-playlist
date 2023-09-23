@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-761 songs - 1 day 15 hr 57 min
+763 songs - 1 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A New Beginning](https://open.spotify.com/track/76kqnBNN1urGgshpBXLUP2) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [A New Beginning](https://open.spotify.com/album/5y9kjUP3jySCH2619RXgg9) | 3:18 | 2021-08-26 |  |
 | [A New Constellation](https://open.spotify.com/track/2aYOZYnW4GCwBhYI1PiZPM) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [A New Constellation](https://open.spotify.com/album/20auUkhq5BLo3ab520baTi) | 3:47 | 2020-01-03 | 2021-09-14 |
 | [A Parallel Breath](https://open.spotify.com/track/04qmZr2dcjMFBRlGiZlIkq) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Ocean Meditation](https://open.spotify.com/album/13R0aAMcVYSnMpLqmZwsHh) | 3:33 | 2019-05-26\* | 2020-01-03 |
+| [A Place For The Mind](https://open.spotify.com/track/7geKBGxxwkJI9AKgEFXvXJ) | [n.i.g.h.t](https://open.spotify.com/artist/2GyMdvV1PHqJFIet45Hobk) | [A Place For The Mind](https://open.spotify.com/album/1qouaYQiciWrOvgEOQKvRq) | 3:07 | 2023-09-22 |  |
 | [A Rising Sun](https://open.spotify.com/track/2OEcNwsOd8cwG7jpN2kGzj) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Our Precious Lives](https://open.spotify.com/album/7HzNR4uXmBuoJXtea8E01z) | 3:28 | 2019-05-26\* | 2020-05-18 |
 | [A Second To Forget](https://open.spotify.com/track/67adcqdZ6gqpLzPa8yLypG) | [Emily Rubye](https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp) | [A Second to Forget](https://open.spotify.com/album/2876PFeHSUpVjjbxVQhlkd) | 2:10 | 2019-05-26\* | 2020-01-03 |
 | [A Silver Lining](https://open.spotify.com/track/1f5neDqYLk7K0ocvlbbbWF) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/2oL51NXTh3XyG4ZQBYo5qd) | 2:15 | 2019-05-26\* | 2020-05-18 |
@@ -592,6 +593,7 @@
 | [Silhouettes](https://open.spotify.com/track/4wGackeK3YeTnh1Mo0dB2e) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Silhouettes](https://open.spotify.com/album/4yBIQPvRRvmmzTY0yy3hux) | 2:18 | 2022-01-19 |  |
 | [Silk And Honey](https://open.spotify.com/track/1SPPEq7HfS9W1wwGOptNdD) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Silk And Honey](https://open.spotify.com/album/09wtqj1m6Wc3VDkUurll52) | 3:20 | 2019-05-26\* | 2020-01-09 |
 | [Silver And Coal](https://open.spotify.com/track/20eiZMFDk5Sm7zCQ2XrDXg) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [The Slow Calm](https://open.spotify.com/album/6BbtnPyEH0COVx1F0bsIpk) | 2:08 | 2019-05-26\* | 2020-05-09 |
+| [Simien](https://open.spotify.com/track/3tf0epgGh6Zbh2skKajYjw) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Simien](https://open.spotify.com/album/0vS0WdECffLMWHgYQEacuP) | 3:30 | 2023-09-22 |  |
 | [Simple Habit](https://open.spotify.com/track/1ZSLT8wdcAHffC4PN6PUGI) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Simple Habit](https://open.spotify.com/album/6DcCzJdg8MRc9s6jFKtXl5) | 3:56 | 2019-06-29 | 2020-01-03 |
 | [Sin Silencio](https://open.spotify.com/track/4IvAwraLS1VZDZ6ijPj42y) | [Xavier Nunes](https://open.spotify.com/artist/7s7a47X3ykARsSAJgv0lCz) | [Sin Silencio](https://open.spotify.com/album/4DLwqh2xUHHbNqArqGVZfF) | 3:19 | 2020-08-08 | 2021-09-14 |
 | [Sirius](https://open.spotify.com/track/0NuBLfSrK0KYcE0djmBZkb) | [Light x Wave](https://open.spotify.com/artist/6hn2xoidaXMd3WhSxEXJ3z) | [Sirius](https://open.spotify.com/album/2tRtSVt07hjbOnWoQbuSHC) | 2:45 | 2020-01-03 | 2021-10-13 |

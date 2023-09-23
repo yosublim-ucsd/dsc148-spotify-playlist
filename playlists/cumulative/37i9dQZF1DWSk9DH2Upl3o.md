@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-155 songs - 14 hr 44 min
+156 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,8 +143,9 @@
 | [The World Is A Ghetto](https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 8:33 | 2022-06-23 |  |
 | [Three Weeks](https://open.spotify.com/track/0WwN4zHEMtGrijkO0pKYGC) | [Perpetual Groove](https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO) | [Sweet Oblivious Antidote \(20th Anniversary Edition\)](https://open.spotify.com/album/3OhE9B8UK6UOxlZGizEdmh) | 9:27 | 2023-01-27 |  |
 | [Three Weeks](https://open.spotify.com/track/7wEAZ6TrgpRhPdhCI1xNCj) | [Perpetual Groove](https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO) | [Sweet Oblivious Antidote \(20th Anniversary Edition\)](https://open.spotify.com/album/1IUhgiuzNK67WSrNqt1QCt) | 9:27 | 2023-01-20 | 2023-04-30 |
-| [Tightrope](https://open.spotify.com/track/5IbvaLaCWy2Oixk3AqEETp) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Tightrope](https://open.spotify.com/album/64IH5rpfXEoBmtsi6PiHEA) | 8:14 | 2023-07-28 |  |
+| [Tightrope](https://open.spotify.com/track/5IbvaLaCWy2Oixk3AqEETp) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Tightrope](https://open.spotify.com/album/64IH5rpfXEoBmtsi6PiHEA) | 8:14 | 2023-07-28 | 2023-09-23 |
 | [Time Dilates](https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Time Dilates](https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29) | 5:21 | 2022-08-26 | 2023-06-24 |
+| [Trapeze](https://open.spotify.com/track/2fQqA2jMxsxx7CfrOP5bgY) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Separation95](https://open.spotify.com/album/2NCWozoBxPRln2eCx2v7Pp) | 4:45 | 2023-09-22 |  |
 | [Trouble Overnight](https://open.spotify.com/track/6QOm9noD8jybvD4dKGrHM4) | [Zach Nugent](https://open.spotify.com/artist/3h9hfCvOqWdPszABGZmPUn) | [Trouble Overnight](https://open.spotify.com/album/38F1jSais8Vxq0qpKiQQle) | 6:48 | 2022-09-16 |  |
 | [Tumbleweed](https://open.spotify.com/track/1DWPCV6sKNGnzn4ypzDIcm) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso) | [Tumbleweed](https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4) | 6:40 | 2022-06-23 | 2023-04-22 |
 | [Unchained](https://open.spotify.com/track/6fK9qzWh0uM4JZRdKhiaLN) | [Hedonistas](https://open.spotify.com/artist/75pLAZ0NsopVsrFUHN1Mn1) | [Unchained](https://open.spotify.com/album/7eYgDcaqyfI4ZGn0cZseoo) | 3:55 | 2023-06-02 |  |

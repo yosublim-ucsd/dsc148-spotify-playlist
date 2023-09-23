@@ -1,13 +1,29 @@
 {
-  "description": "Underground indie rock gems. Cover: Blondshell. ",
-  "num_followers": 289557,
+  "description": "Underground indie rock gems. Cover: zzzahara",
+  "num_followers": 289598,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTI3YzcxZGZlODBjZWFiNjg1YzM2NmVlZjZiMTRlODhjOWZlOGIw",
+  "snapshot_id": "MCxjYWE3ZWEzMjg2ZDgwODZkZDUzZGRlMDk4Mjg0Yjc2ODI1MDhjZWIw",
   "tracks": [
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Tender",
+        "url": "https://open.spotify.com/album/6AfMCuvhy0cHegHgxHzpyN"
+      },
+      "artists": [
+        {
+          "name": "zzzahara",
+          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
+        }
+      ],
+      "duration_ms": 198783,
+      "name": "Peppermint",
+      "url": "https://open.spotify.com/track/61tq7exFoWDrsBsmPWehFg"
+    },
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/10vpOZNrtL8SF9CY1nJchQ"
     },
     {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "my little tony",
+        "url": "https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 179562,
+      "name": "my little tony",
+      "url": "https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo"
+    },
+    {
       "added_at": "2023-09-08 04:00:00",
       "album": {
         "name": "Jesse",
@@ -39,6 +71,22 @@
       "duration_ms": 175108,
       "name": "Jesse",
       "url": "https://open.spotify.com/track/4BlydDDroXNIgkbhrtuw3d"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "towncryer",
+        "url": "https://open.spotify.com/album/78NnVni8Nz8nkXfnlKajjr"
+      },
+      "artists": [
+        {
+          "name": "untitled (halo)",
+          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+        }
+      ],
+      "duration_ms": 396000,
+      "name": "oblique butterfly",
+      "url": "https://open.spotify.com/track/5dd9ebFTVkmdf0QH5DA6i9"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -87,6 +135,22 @@
       "duration_ms": 216234,
       "name": "Weird",
       "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Intheskatepark",
+        "url": "https://open.spotify.com/album/5ysjL1aGDCf3ODiF3le9Wh"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        }
+      ],
+      "duration_ms": 145266,
+      "name": "Intheskatepark",
+      "url": "https://open.spotify.com/track/4zkAoqG7TwRxbCQpL0AZa0"
     },
     {
       "added_at": "2023-08-24 23:15:14",
@@ -231,6 +295,22 @@
       "duration_ms": 196964,
       "name": "666+",
       "url": "https://open.spotify.com/track/4OLQ00YD6WUVKAaXjtlZtL"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "soup",
+        "url": "https://open.spotify.com/album/5v1u1hfWKKRn9NdG41Gomr"
+      },
+      "artists": [
+        {
+          "name": "bugsy",
+          "url": "https://open.spotify.com/artist/550HK4Z4yrcThhCm0An7NZ"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "soup",
+      "url": "https://open.spotify.com/track/4zSMM2luIRyEyYVhWpNlFk"
     },
     {
       "added_at": "2023-08-24 23:15:14",
@@ -523,22 +603,6 @@
       "duration_ms": 195600,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/6sfjX5Q0qNKzQYDupMixI1"
-    },
-    {
-      "added_at": "2023-08-24 23:15:14",
-      "album": {
-        "name": "She's On Fire",
-        "url": "https://open.spotify.com/album/3CQ4NKe4v9ro6LFpeklmaY"
-      },
-      "artists": [
-        {
-          "name": "Strange Ranger",
-          "url": "https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "She's on Fire",
-      "url": "https://open.spotify.com/track/2BQc8Z6W3m6YWRolCzqY9z"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -931,22 +995,6 @@
     {
       "added_at": "2023-08-24 23:15:14",
       "album": {
-        "name": "Independence Day",
-        "url": "https://open.spotify.com/album/7rX6PD6nLirujJOppgwWMU"
-      },
-      "artists": [
-        {
-          "name": "Palehound",
-          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
-        }
-      ],
-      "duration_ms": 219049,
-      "name": "Independence Day",
-      "url": "https://open.spotify.com/track/140upcUj9NvEdv19PK4dHc"
-    },
-    {
-      "added_at": "2023-08-24 23:15:14",
-      "album": {
         "name": "everything\u2019s been going so well",
         "url": "https://open.spotify.com/album/2iJGQnd3lbvG0wvgzOUfu1"
       },
@@ -1227,22 +1275,6 @@
     {
       "added_at": "2023-08-24 23:15:14",
       "album": {
-        "name": "The Land, The Water, The Sky",
-        "url": "https://open.spotify.com/album/3TBUsH85t2wRWS6DfMHcga"
-      },
-      "artists": [
-        {
-          "name": "Black Belt Eagle Scout",
-          "url": "https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD"
-        }
-      ],
-      "duration_ms": 286383,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/2ElOjg63UnovNDm8vauTRo"
-    },
-    {
-      "added_at": "2023-08-24 23:15:14",
-      "album": {
         "name": "Lip Service",
         "url": "https://open.spotify.com/album/1zbfbCs5iZhBMo2wP3L8vv"
       },
@@ -1367,22 +1399,6 @@
       "duration_ms": 222800,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/6kmeI9upOHk6TRSi2StNlr"
-    },
-    {
-      "added_at": "2023-08-24 23:15:14",
-      "album": {
-        "name": "Daedelus and Us",
-        "url": "https://open.spotify.com/album/5WNeMUJ7FcmygBAg78LDnD"
-      },
-      "artists": [
-        {
-          "name": "Nuzzle",
-          "url": "https://open.spotify.com/artist/2yT5IedrQEo4AXTF9UMtAq"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "Daedelus and Us",
-      "url": "https://open.spotify.com/track/35MC54zocUwcqf9iGqxrn8"
     },
     {
       "added_at": "2023-08-24 23:15:14",
@@ -1551,22 +1567,6 @@
       "duration_ms": 158998,
       "name": "pawnshop",
       "url": "https://open.spotify.com/track/5YTBLQ5C8cG38Ch41jiJNl"
-    },
-    {
-      "added_at": "2023-08-24 23:15:14",
-      "album": {
-        "name": "Unabomber",
-        "url": "https://open.spotify.com/album/1tDHQJMnMydw64lGnDqbCx"
-      },
-      "artists": [
-        {
-          "name": "The Crying Nudes",
-          "url": "https://open.spotify.com/artist/3tM7dj8ztmzKcugbIVMxy0"
-        }
-      ],
-      "duration_ms": 98899,
-      "name": "Unabomber",
-      "url": "https://open.spotify.com/track/6BfYxa4Z8WfNVEKwCUisKQ"
     },
     {
       "added_at": "2023-08-24 23:15:14",

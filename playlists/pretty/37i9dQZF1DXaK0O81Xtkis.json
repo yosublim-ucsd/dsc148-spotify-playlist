@@ -1,12 +1,12 @@
 {
   "description": "make it pop! cover: LANY",
-  "num_followers": 209374,
+  "num_followers": 209403,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2EzZjMwOTQ3OTc1NGM5NzhkNzMyM2M4Y2M4ZTM3NzBhNjZlZGVm",
+  "snapshot_id": "MCxlMzgwMTRjZTFjYWU5MzY1NWI3YjBjNmJiYjhmZWM3MDk5NjEzMDA1",
   "tracks": [
     {
       "added_at": "2023-09-15 16:03:50",
@@ -25,20 +25,52 @@
       "url": "https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0"
     },
     {
-      "added_at": "2023-09-15 16:03:50",
+      "added_at": "2023-09-22 04:00:46",
       "album": {
-        "name": "Blame My Ex",
-        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
+        "name": "sleepover",
+        "url": "https://open.spotify.com/album/6mJomZ2MN6gyUxbO2efeGT"
       },
       "artists": [
         {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+          "name": "dreamfone",
+          "url": "https://open.spotify.com/artist/00BCWGiYaxkXLJOp3zakyc"
         }
       ],
-      "duration_ms": 183873,
-      "name": "Kismet",
-      "url": "https://open.spotify.com/track/7pMSBupRMxTmMvoDbESqDy"
+      "duration_ms": 158000,
+      "name": "sleepover",
+      "url": "https://open.spotify.com/track/4WEi5dUbKYjiOuc3LCQY2n"
+    },
+    {
+      "added_at": "2023-09-15 16:03:50",
+      "album": {
+        "name": "If I'm Honest",
+        "url": "https://open.spotify.com/album/60xkllE0RluvMz1pko3C8f"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 162701,
+      "name": "If I'm Honest",
+      "url": "https://open.spotify.com/track/2Z7EZcoB3z8KLB1o0gY1aw"
+    },
+    {
+      "added_at": "2023-09-22 04:00:46",
+      "album": {
+        "name": "Migraine",
+        "url": "https://open.spotify.com/album/2ciW2sBC9n41YdliEdBxbl"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 206560,
+      "name": "Migraine",
+      "url": "https://open.spotify.com/track/6T7DCQh0h7yPvoKtCMDKVb"
     },
     {
       "added_at": "2023-09-15 16:03:50",
@@ -59,18 +91,34 @@
     {
       "added_at": "2023-09-15 16:03:50",
       "album": {
-        "name": "If I'm Honest",
-        "url": "https://open.spotify.com/album/60xkllE0RluvMz1pko3C8f"
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
       },
       "artists": [
         {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
         }
       ],
-      "duration_ms": 162701,
-      "name": "If I'm Honest",
-      "url": "https://open.spotify.com/track/2Z7EZcoB3z8KLB1o0gY1aw"
+      "duration_ms": 183873,
+      "name": "Kismet",
+      "url": "https://open.spotify.com/track/7pMSBupRMxTmMvoDbESqDy"
+    },
+    {
+      "added_at": "2023-09-22 04:00:46",
+      "album": {
+        "name": "jupiter",
+        "url": "https://open.spotify.com/album/7EL4J9B8CbOiKNxuv9wHjn"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "duration_ms": 150430,
+      "name": "jupiter",
+      "url": "https://open.spotify.com/track/1In2l2VqjtZIW9loAA341S"
     },
     {
       "added_at": "2023-09-15 16:03:50",
@@ -91,6 +139,38 @@
       "duration_ms": 168359,
       "name": "Essence (feat. Super Computer)",
       "url": "https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n"
+    },
+    {
+      "added_at": "2023-09-22 04:00:46",
+      "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "There It Goes",
+      "url": "https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc"
+    },
+    {
+      "added_at": "2023-09-22 04:00:46",
+      "album": {
+        "name": "HOSTAGE",
+        "url": "https://open.spotify.com/album/53ZYFWC6rPIwdMuisHdMWK"
+      },
+      "artists": [
+        {
+          "name": "Braden Bales",
+          "url": "https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv"
+        }
+      ],
+      "duration_ms": 141876,
+      "name": "HOSTAGE",
+      "url": "https://open.spotify.com/track/1p1EeOGryPK0AQRraHw6fW"
     },
     {
       "added_at": "2023-09-15 16:03:50",
@@ -125,6 +205,22 @@
       "url": "https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0"
     },
     {
+      "added_at": "2023-09-22 04:00:46",
+      "album": {
+        "name": "DRUMMER",
+        "url": "https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 229464,
+      "name": "Australia",
+      "url": "https://open.spotify.com/track/0qiHOHIkb4UEoxpKq6WhVZ"
+    },
+    {
       "added_at": "2023-09-15 16:03:50",
       "album": {
         "name": "GUTS",
@@ -157,6 +253,22 @@
       "url": "https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"
     },
     {
+      "added_at": "2023-09-22 04:00:46",
+      "album": {
+        "name": "no rain, no flowers",
+        "url": "https://open.spotify.com/album/6ze4gb3v4vNgMtpyLQFaMi"
+      },
+      "artists": [
+        {
+          "name": "Dylan Matthew",
+          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+        }
+      ],
+      "duration_ms": 159702,
+      "name": "Thank God!",
+      "url": "https://open.spotify.com/track/0AzV6bXHxPJQdyabx62qF9"
+    },
+    {
       "added_at": "2023-09-15 16:03:50",
       "album": {
         "name": "Loud Music",
@@ -187,6 +299,22 @@
       "duration_ms": 158602,
       "name": "Fall into You",
       "url": "https://open.spotify.com/track/1AeSZVz9UrF4m5kQ7KPmUu"
+    },
+    {
+      "added_at": "2023-09-22 04:00:46",
+      "album": {
+        "name": "Lover or an Enemy",
+        "url": "https://open.spotify.com/album/51HxAKNk0UR0JITtYpq12L"
+      },
+      "artists": [
+        {
+          "name": "FRENSHIP",
+          "url": "https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH"
+        }
+      ],
+      "duration_ms": 199017,
+      "name": "Lover or an Enemy",
+      "url": "https://open.spotify.com/track/5bJvk3oiSK1QvDT7tFijgR"
     },
     {
       "added_at": "2023-09-15 16:03:50",

@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-491 songs - 1 day 1 hr 24 min
+492 songs - 1 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Covering the Sun](https://open.spotify.com/track/1IUe9CBv83sg56rTorIVLp) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Ivory Clouds](https://open.spotify.com/album/4nYrgdNmIyEbayYyjdmppr) | 3:13 | 2020-12-03 | 2022-03-25 |
 | [Cross A Line](https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Cross A Line](https://open.spotify.com/album/32PoI04cGJfCgmH003knVN) | 2:18 | 2022-03-15 |  |
 | [Cuidada](https://open.spotify.com/track/0DjPkjHwrelEO2WEfoaxOM) | [Lucinda Pasillas](https://open.spotify.com/artist/1VIx3IfD02xy9yWri9U0Ac) | [Cuidada](https://open.spotify.com/album/2q0u4ZvLivxNchLRUJ6Su9) | 2:52 | 2022-09-13 |  |
+| [Cwsg](https://open.spotify.com/track/7kabmQdunJ6Jk5PAeTSwtL) | [Ymlacio](https://open.spotify.com/artist/3Tye8bBNb5g7QNBcpoFQRo) | [Cwsg](https://open.spotify.com/album/5Xxs41FovLilC30h61mOcS) | 2:48 | 2023-09-22 |  |
 | [Cyclic dreams](https://open.spotify.com/track/7tLKgqGT3YHx4xv6FrBk4A) | [Static Garden](https://open.spotify.com/artist/3uuH2jEYv8ZArIf83io4hN) | [Cyclic dreams](https://open.spotify.com/album/1LClOBWsmb9ZsSKnQI82vc) | 3:50 | 2020-09-30\* | 2021-07-14 |
 | [Dancing Particles](https://open.spotify.com/track/1XdPZYPszsxsxtnz1D2KGa) | [Gordo Napalma](https://open.spotify.com/artist/29rhAtl6ikj08cVQFkwcJ9) | [Emerge](https://open.spotify.com/album/2tMloKTRnzbODBU5sPQyG6) | 2:56 | 2023-03-30 |  |
 | [Dans le noir](https://open.spotify.com/track/6oL6yOWVL8zJfwg2mlkMag) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Dans le noir](https://open.spotify.com/album/3xz6IHjv56jfGLIVTsgS1p) | 2:58 | 2022-01-11 |  |
@@ -476,7 +477,7 @@
 | [Wacht op mij](https://open.spotify.com/track/5tc7QNc9sOFQoE2ty3H4TJ) | [Cyrano Brussee](https://open.spotify.com/artist/7tlxZyGtbGvlr4TPWLhJx6) | [Wacht op mij](https://open.spotify.com/album/5qZJ0tpBbAX17NEizgZbX6) | 4:58 | 2020-09-30\* | 2021-10-21 |
 | [Waiting](https://open.spotify.com/track/5C82nGiLNRRgAjfMH1pNC3) | [Juno Reed](https://open.spotify.com/artist/5Ouz17H301vQh6K1snZRln) | [Waiting](https://open.spotify.com/album/3l1NYuGrUb9wpnXFDZM8IG) | 3:01 | 2020-09-30\* | 2023-08-12 |
 | [Waiting for a while](https://open.spotify.com/track/2khTcCwX4XvH7Gr6MUWiDH) | [Velpo Sonols](https://open.spotify.com/artist/27eOFbWsw1qOMgSaMqR1MM) | [Waiting for a while](https://open.spotify.com/album/1kE9OGe88XxgNgXsNEU1Jd) | 3:38 | 2021-12-21 | 2022-03-16 |
-| [Wanderstar](https://open.spotify.com/track/5cbkiCRy1LVLiAl1q64n2S) | [Amel Scott](https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd) | [Aphelion](https://open.spotify.com/album/02klELVwcPeTcA90xuW9G3) | 2:40 | 2021-09-14 |  |
+| [Wanderstar](https://open.spotify.com/track/5cbkiCRy1LVLiAl1q64n2S) | [Amel Scott](https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd) | [Aphelion](https://open.spotify.com/album/02klELVwcPeTcA90xuW9G3) | 2:40 | 2021-09-14 | 2023-09-23 |
 | [Waves](https://open.spotify.com/track/2Qmg0oyUxivJVhVxbXEZcO) | [Opus Monik](https://open.spotify.com/artist/2dh3BSBT3YA8IaxyWYlVzO) | [Waves](https://open.spotify.com/album/7hUuzOKvyttWPjiviHFZln) | 3:20 | 2020-09-30\* | 2021-07-14 |
 | [Waves](https://open.spotify.com/track/4iIxW6p4FAFjBV8L14hQfC) | [Unilow](https://open.spotify.com/artist/3zSgZfjvgK6sEyiEVa2vQa) | [Porcelain](https://open.spotify.com/album/4JM38aezOxi9ZN7dKawJcx) | 3:21 | 2022-11-11 |  |
 | [Whalus](https://open.spotify.com/track/0SpMQOXBNSSrFD0n7xIxL4) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Whalus](https://open.spotify.com/album/0hlEqr684mPySDKXqmON9w) | 1:51 | 2022-03-04 | 2022-08-13 |

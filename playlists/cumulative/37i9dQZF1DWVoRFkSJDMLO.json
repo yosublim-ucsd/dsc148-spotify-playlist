@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "Inspired by African drums. Cover: Shay Lia \ud83c\udde9\ud83c\uddef ",
+  "description": "Inspired by African drums. Cover: King Cruff \ud83c\uddef\ud83c\uddf2 ",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -1835,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "To Cry & Bounce",
+        "url": "https://open.spotify.com/album/0vkTTFRsbl8pREhPeCGGyB"
+      },
+      "artists": [
+        {
+          "name": "Bouff",
+          "url": "https://open.spotify.com/artist/5Kl861FVAII9f5FP0RSo8s"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "Bouff Daddy",
+      "url": "https://open.spotify.com/track/3KZeA0zfdbh4wyAT5SjIPp"
+    },
+    {
+      "album": {
         "name": "Bounce & Roll It",
         "url": "https://open.spotify.com/album/6Cqj0fg7xjuc8gXeA6Swf5"
       },
@@ -3444,7 +3462,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 276106,
       "name": "Enjoy That - Remix",
       "url": "https://open.spotify.com/track/1daeMUyT9Tt7KTTjA50wQ5"
@@ -5758,7 +5776,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 259519,
       "name": "Kokokokoko",
       "url": "https://open.spotify.com/track/1wEARf9O4Y99NAY89Zk6Tw"
@@ -6699,6 +6717,24 @@
     },
     {
       "album": {
+        "name": "Mad Dawgs",
+        "url": "https://open.spotify.com/album/6vFcul1OLKllwf1UTfgwKs"
+      },
+      "artists": [
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134774,
+      "name": "Mad Dawgs",
+      "url": "https://open.spotify.com/track/3kEgs2Z7fv0IUxBtTjnAyl"
+    },
+    {
+      "album": {
         "name": "Patience Mixtape",
         "url": "https://open.spotify.com/album/1MFwtMgGOu4I1TcUlOSfvo"
       },
@@ -7280,6 +7316,28 @@
       "duration_ms": 160770,
       "name": "My G",
       "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
+    },
+    {
+      "album": {
+        "name": "My Love (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/6uIz2uaQPu5UjOUm5d8dIm"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176187,
+      "name": "My Love (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR"
     },
     {
       "album": {
@@ -8546,7 +8604,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 326048,
       "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
       "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
@@ -9365,6 +9423,24 @@
     },
     {
       "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144026,
+      "name": "Rhythm & Blues",
+      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
+    },
+    {
+      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/2E55XAXxNxdTDjVK1j0SM2"
       },
@@ -10072,6 +10148,32 @@
       "duration_ms": 153551,
       "name": "Shea Butter Baby",
       "url": "https://open.spotify.com/track/2QzHJns0EJD4nCQ1AevgwL"
+    },
+    {
+      "album": {
+        "name": "SHEDOENEED",
+        "url": "https://open.spotify.com/album/6M4M6Yg5SG1rHG81pztt2j"
+      },
+      "artists": [
+        {
+          "name": "King Cruff",
+          "url": "https://open.spotify.com/artist/4OpO9CxjDD3HQ2g4NnTato"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Jag.Huligin",
+          "url": "https://open.spotify.com/artist/4ttOpKQxGoUG9pGAUhcsCu"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203743,
+      "name": "SHEDOENEED",
+      "url": "https://open.spotify.com/track/0sXrc8Pzp7Uq6WBm8yddrr"
     },
     {
       "album": {
@@ -12208,7 +12310,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 173266,
       "name": "Vibes Weekend",
       "url": "https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y"

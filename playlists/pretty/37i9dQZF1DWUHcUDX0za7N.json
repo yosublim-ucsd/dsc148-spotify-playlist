@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM?si=iyU8ZgF1TN6hxaTEXBD7CQ\"> Cheque </a> ",
-  "num_followers": 26063,
+  "num_followers": 26122,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODJiNTUzMjI3ZGMwMWI4MmU4N2U0NTBmYTE4ZmQ4OWE0YjdjYmFk",
+  "snapshot_id": "MCwzZTQ3MTVjOWFiZTVhYzM5NzNkZGQ0OTMzNTMyOTU0MTU0ZDIzMDIw",
   "tracks": [
     {
       "added_at": "2023-09-21 23:00:00",
@@ -323,26 +323,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "Lazarus (feat. Boj)",
-      "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 153174,
       "name": "Account Balance",
       "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "Lazarus (feat. Boj)",
+      "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -679,26 +679,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Guy Man",
-        "url": "https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Guy Man",
-      "url": "https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Chequemate",
         "url": "https://open.spotify.com/album/2EPnjTlC52Hr4LPIHNjcjt"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 163184,
       "name": "Hustler",
       "url": "https://open.spotify.com/track/7JPweWVt1wDEu7EFwvupCo"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Guy Man",
+        "url": "https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Guy Man",
+      "url": "https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1323,8 +1323,8 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Osapa London",
-        "url": "https://open.spotify.com/album/0GOFqam9eSaFZ3gVdQ7PP3"
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
       },
       "artists": [
         {
@@ -1332,13 +1332,13 @@
           "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         },
         {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 186358,
-      "name": "Stand Attention",
-      "url": "https://open.spotify.com/track/2ff1ZzgSQdHDkD3dCKBiEm"
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
       "added_at": "2023-09-21 23:00:00",

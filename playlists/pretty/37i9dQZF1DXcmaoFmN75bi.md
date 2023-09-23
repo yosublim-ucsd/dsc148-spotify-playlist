@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmaoFmN75bi.md) - [plain]
 
 > Os hits do rock internacional e nacional estão reunidos nesta playlist\. Foto: Eddie Van Halen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,133,573 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,133,880 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jump \- 2015 Remaster](https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:01 |
-| 2 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 |
-| 3 | [It's My Life](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 3:44 |
-| 4 | [Your Love](https://open.spotify.com/track/5dRQUolXAVX3BbCiIxmSsf) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Super Hits](https://open.spotify.com/album/5FfkiNcXAvagExRCLd8nn4) | 3:41 |
-| 5 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 |
-| 6 | [Climber \- Demo](https://open.spotify.com/track/5weIZ06HP5ESdFf4bOnpow) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Climber \(Demo\)](https://open.spotify.com/album/2SY1gA9CauKUlABy2UjWGm) | 3:13 |
-| 7 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
-| 8 | [China Girl \- Alternative Mix](https://open.spotify.com/track/1K4Sp1OLeqpSJ2J1yheq3Z) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Bowie Years: Edits + Out\-Takes](https://open.spotify.com/album/15yJJuL2foCDTV9FDYSher) | 5:13 |
-| 9 | [Let's Jam](https://open.spotify.com/track/7y0xNkes5vdQXLCzmcTlGm) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Vai/Gash](https://open.spotify.com/album/4Hv4iR1M5Bh1KlZ3J6fJOe) | 4:19 |
-| 10 | [Forever's Not Enough \- Edit](https://open.spotify.com/track/6ZUpIedN0WXOx0yhS433GW) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [Power to Play \(Deluxe\)](https://open.spotify.com/album/2UbVeYyraCseKNgBgVNl9K) | 3:36 |
-| 11 | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:05 |
+| 2 | [Your Love](https://open.spotify.com/track/5dRQUolXAVX3BbCiIxmSsf) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Super Hits](https://open.spotify.com/album/5FfkiNcXAvagExRCLd8nn4) | 3:41 |
+| 3 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 |
+| 4 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
+| 5 | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:05 |
+| 6 | [BLACK MOONLIGHT](https://open.spotify.com/track/6Puhv2Iw9K8A3rkpxr4Dsz) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [BLACK MOONLIGHT](https://open.spotify.com/album/7LVCjmDfqcVAWg74kQ0Qwr) | 3:06 |
+| 7 | [It's My Life](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 3:44 |
+| 8 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 |
+| 9 | [Climber \- Demo](https://open.spotify.com/track/5weIZ06HP5ESdFf4bOnpow) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Climber \(Demo\)](https://open.spotify.com/album/2SY1gA9CauKUlABy2UjWGm) | 3:13 |
+| 10 | [China Girl \- Alternative Mix](https://open.spotify.com/track/1K4Sp1OLeqpSJ2J1yheq3Z) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Bowie Years: Edits + Out\-Takes](https://open.spotify.com/album/15yJJuL2foCDTV9FDYSher) | 5:13 |
+| 11 | [Let's Jam](https://open.spotify.com/track/7y0xNkes5vdQXLCzmcTlGm) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Vai/Gash](https://open.spotify.com/album/4Hv4iR1M5Bh1KlZ3J6fJOe) | 4:19 |
 | 12 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 |
 | 13 | [November Rain \- 2022 Version](https://open.spotify.com/track/3q9npStSssk7sZWotiNQLK) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I \(Deluxe Edition\)](https://open.spotify.com/album/33HYdYXXadqsdZ1NsYmS6o) | 8:55 |
 | 14 | [Toxicity](https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmaoFmN75bi.md) - [plain]
 | 99 | [1979 \- Remastered 2012](https://open.spotify.com/track/3Y8Ff1nH44jFywAtpgmleZ) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Remastered\)](https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl) | 4:26 |
 | 100 | [Helena](https://open.spotify.com/track/3ZaS7Bcz9tpFIjfst63tSw) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [May Death Never Stop You](https://open.spotify.com/album/1SIpLwZu1R69coxKMH06kw) | 3:25 |
 
-Snapshot ID: `MCxiZjYzMTEzNWIxOWJhZmNjMDg0NmY3YTBmODllNDU3ZWM3OGY5Nzc2`
+Snapshot ID: `MCwwZjQzNTYzMzZiYjA2MDg3MzE4MWM1NDIwZjljOWI1NWQzOWEzODRm`

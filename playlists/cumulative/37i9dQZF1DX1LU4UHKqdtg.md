@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: TOMORROW X TOGETHER + Anitta
 
-744 songs - 1 day 16 hr 44 min
+745 songs - 1 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Best Friend Ever](https://open.spotify.com/track/1Z5Dmg7Dvu0X4oSdqLZ3Lu) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Best Friend Ever](https://open.spotify.com/album/4cT6f8tGzBtybpBNYPEQoX) | 3:21 | 2023-02-08 | 2023-04-18 |
 | [Better Spring](https://open.spotify.com/track/7095L2bmNhv139ccLIikAH) | [NIK](https://open.spotify.com/artist/69SEqE4oh5qoU6hHbebPvg) | [Better Spring](https://open.spotify.com/album/0Hh9Zowcy88neSc4sv0S5b) | 3:25 | 2022-05-17 | 2022-07-12 |
 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 |  |
+| [Better Things \- Tropkillaz Remix](https://open.spotify.com/track/7KxWAxnc5v27PO8YyhySn8) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Better Things \(Tropkillaz Remix\)](https://open.spotify.com/album/05K5RSyTasOI8cQTFHhTLS) | 3:00 | 2023-09-21 |  |
 | [BETTING](https://open.spotify.com/track/2D4FPjRVAWPGZUnO3Qzz8d) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx), [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [BETTING](https://open.spotify.com/album/5tVF9innz1XK3xj72Phi7e) | 3:18 | 2023-01-17 | 2023-05-17 |
 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 | 2022-11-17 | 2023-08-04 |
 | [Big Revolution](https://open.spotify.com/track/3eHmrcYGwnMEnAaq5irY3j) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T), [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7) | [Big Revolution](https://open.spotify.com/album/0gy9aiWcEdT6nP6di9ue68) | 3:37 | 2022-11-08 | 2022-11-21 |
@@ -436,7 +437,7 @@
 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 | 2022-07-28 | 2022-10-19 |
 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-08-23 |  |
 | [New Emotions](https://open.spotify.com/track/5fu1d5IE7fSnFPZ0hydoq0) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [13egin](https://open.spotify.com/album/7niD2tsuMKHMXBx5TEyF2W) | 2:44 | 2023-07-31 | 2023-08-19 |
-| [New tomorrow](https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c) | [FANTASY BOYS](https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU) | [NEW TOMORROW](https://open.spotify.com/album/3H3lbA7Dn1BVIflkUqfYUU) | 3:50 | 2023-09-21 |  |
+| [New Tomorrow](https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c) | [FANTASY BOYS](https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU) | [NEW TOMORROW](https://open.spotify.com/album/3H3lbA7Dn1BVIflkUqfYUU) | 3:50 | 2023-09-21 |  |
 | [Nights Into Days \(Prod\. by Naul\)](https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Naul <Ballad Pop City>](https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ) | 4:20 | 2023-02-02 | 2023-03-22 |
 | [Nirvana \(feat\. pH\-1 & WDBZ\)](https://open.spotify.com/track/36DcCSKGShF6p3h2JMcPDg) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [WDBZ](https://open.spotify.com/artist/01q9uYIoLmTfAFQaKiNnbh) | [The Story : RETOLD](https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9) | 3:39 | 2022-11-24 | 2023-01-25 |
 | [Nolza](https://open.spotify.com/track/0wLGK1RAecE26M9gbavG9v) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE POYZ NOLZA](https://open.spotify.com/album/6BKzodImJNGQce8WlHILwD) | 2:37 | 2023-04-27 | 2023-06-16 |

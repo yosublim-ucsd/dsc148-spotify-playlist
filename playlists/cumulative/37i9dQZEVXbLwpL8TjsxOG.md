@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-684 songs - 1 day 16 hr 52 min
+685 songs - 1 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 2:34 | 2022-10-09 | 2023-09-16 |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 | 2021-12-25 | 2022-12-28 |
 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 | 2021-12-25 | 2022-12-28 |
+| [let me know](https://open.spotify.com/track/4MMPUUQG3ygmS0aHvDBVGL) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [let me know](https://open.spotify.com/album/4w3RXqpRkmFVijVJbN3NDw) | 3:28 | 2023-09-22 |  |
 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 | 2021-10-17 | 2021-10-23 |
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 | 2021-03-27\* | 2021-07-26 |
 | [Life Goes On](https://open.spotify.com/track/249gnXrbfmV8NG6jTEMSwD) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:27 | 2021-05-23 | 2021-05-30 |
@@ -556,7 +557,7 @@
 | [春夏秋冬 A Balloon's Journey](https://open.spotify.com/track/4VWE88XtRQXmOH0JPzwN5T) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [REVISIT](https://open.spotify.com/album/05tspedDVm17HyfEJJ1E0R) | 4:12 | 2021-04-03 | 2023-04-04 |
 | [春秋](https://open.spotify.com/track/2WVbMoHdWCspdiEa7OnG1D) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [No\. Eleven](https://open.spotify.com/album/4SFTHZzZXGAXE7E1cd9bjt) | 4:19 | 2021-03-27\* | 2022-07-03 |
 | [是但求其愛](https://open.spotify.com/track/4IkQXb1IdIziAJmO3FODo7) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [是但求其愛](https://open.spotify.com/album/2R9j6chH2WczYgHTbG0FQx) | 4:29 | 2021-03-27\* | 2021-05-16 |
-| [時候不早](https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [時候不早](https://open.spotify.com/album/7fBnsOe1M8Ineu5Y1FQ5C4) | 3:40 | 2021-12-16 |  |
+| [時候不早](https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [時候不早](https://open.spotify.com/album/7fBnsOe1M8Ineu5Y1FQ5C4) | 3:40 | 2021-12-16 | 2023-09-23 |
 | [時光倒流一句話](https://open.spotify.com/track/63QmxPL3QlchvXcHLsI6UM) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [時光倒流一句話](https://open.spotify.com/album/4IynRAJW9IVPnitLGtydpt) | 4:13 | 2021-03-27\* | 2021-12-05 |
 | [時光倒流一句話](https://open.spotify.com/track/1V7V9ekndGc7vqE3hVUKmA) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 4:14 | 2021-12-05 | 2022-09-05 |
 | [時間的初衷 \(電影《一秒拳王》主題曲\)](https://open.spotify.com/track/1ubjsQj2DEqPMqC5CCwMEw) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE), [ToNick](https://open.spotify.com/artist/3oONGjPFxkb1rqTtFx8fl2) | [時間的初衷 \(電影《一秒拳王》主題曲\)](https://open.spotify.com/album/0ModZiFlJ4homzkNeuRATU) | 5:27 | 2021-03-27\* | 2021-09-10 |

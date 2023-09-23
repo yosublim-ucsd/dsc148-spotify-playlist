@@ -4,7 +4,7 @@
 
 > a hardcore home for slowcore fans.
 
-130 songs - 11 hr 50 min
+131 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Drinking At The Dam](https://open.spotify.com/track/5Vc3rczlDlpMJ46ZL5OP5Q) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [A River Ain't Too Much To Love](https://open.spotify.com/album/0kippcqNW8l6izCeC3W45D) | 4:07 | 2021-06-25 |  |
 | [Drinking At The Dam](https://open.spotify.com/track/7H2mfh89I55v2Rd81389fY) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [A River Ain't Too Much To Love](https://open.spotify.com/album/2ntUs6XUdXoZvG5Be0d09n) | 4:07 | 2021-06-25 | 2022-07-29 |
 | [Duk Koo Kim](https://open.spotify.com/track/5LlfYiHiK7xYMuP6NYaR5w) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Ghosts of the Great Highway](https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ) | 14:32 | 2021-06-25 |  |
+| [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 | 2023-09-22 |  |
 | [Emp\. Man's Blues](https://open.spotify.com/track/08AaYagr9AUBTcjwyYxNfV) | [The For Carnation](https://open.spotify.com/artist/7LMO4vkA2xYpGYbzsggPbk) | [The For Carnation](https://open.spotify.com/album/76jj5JVBFyQZqKvtVTJiFC) | 8:12 | 2021-06-25 | 2022-07-29 |
 | [Emp\. Man's Blues](https://open.spotify.com/track/4k8IQYPRkaJHVJ0qe7qHI6) | [The For Carnation](https://open.spotify.com/artist/7LMO4vkA2xYpGYbzsggPbk) | [The For Carnation](https://open.spotify.com/album/1tNPikqGc63Qu4CVsRya6t) | 8:12 | 2021-06-25 |  |
 | [Empty Words](https://open.spotify.com/track/330w7iBKrHxlJwx3WMdHVr) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Beat](https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC) | 3:45 | 2021-06-25 |  |

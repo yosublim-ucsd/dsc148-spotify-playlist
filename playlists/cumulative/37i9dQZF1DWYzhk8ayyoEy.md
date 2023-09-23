@@ -4,7 +4,7 @@
 
 > Warm, inspirational pop, that's good at heart\. Cover: Lauren Daigle
 
-101 songs - 5 hr 40 min
+102 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2023-01-04 | 2023-09-16 |
 | [I Tried](https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [I Tried](https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH) | 2:16 | 2023-02-03 |  |
 | [I'll Follow](https://open.spotify.com/track/05oHYdKxu7cnqrZgw6CiLK) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [I'll Follow](https://open.spotify.com/album/2eVMMMyptV72ZWM75hER4w) | 2:52 | 2023-05-05 |  |
+| [I'm Here](https://open.spotify.com/track/4ttrwU0rvD0f4WRQsHDPrh) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Matteo](https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc) | 3:42 | 2023-09-22 |  |
 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 | 2023-08-04 |  |
 | [Invincible](https://open.spotify.com/track/2Coxhwa6oQfrM03g6U57vw) | [Royston Noell](https://open.spotify.com/artist/3ihMQzxAZJ6vjqNPdDn25O) | [Invincible](https://open.spotify.com/album/4sUGi3g3MQF8k412qqtcbD) | 3:26 | 2023-04-07 |  |
 | [I’M BLESSED](https://open.spotify.com/track/7fL5eO3jKctiQvxq5140rG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:34 | 2023-01-04 | 2023-02-25 |
@@ -71,7 +72,7 @@
 | [North](https://open.spotify.com/track/0pjBEOWMJTwzzjBrTAlbDd) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Silver Crane](https://open.spotify.com/album/1ufCvsEshySWoAvaWRVMbl) | 3:34 | 2023-01-04 | 2023-08-17 |
 | [nothing but the love](https://open.spotify.com/track/6nUwq6jL9AiwzsRDxI0AkN) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:04 | 2023-01-04 | 2023-05-01 |
 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 | 2023-01-04 |  |
-| [One Nation Under Love](https://open.spotify.com/track/2AoHZl4LY1AppFWiVGtYEO) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [One Nation Under Love](https://open.spotify.com/album/2nI4kkbra5DUDknZJAkVvS) | 3:59 | 2023-08-25 |  |
+| [One Nation Under Love](https://open.spotify.com/track/2AoHZl4LY1AppFWiVGtYEO) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [One Nation Under Love](https://open.spotify.com/album/2nI4kkbra5DUDknZJAkVvS) | 3:59 | 2023-08-25 | 2023-09-23 |
 | [Our Moment](https://open.spotify.com/track/01cmDm4asTTxN4M82JovaU) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Our Moment](https://open.spotify.com/album/5uUBaBc5fc0dsaH7XpMLtZ) | 4:12 | 2023-01-28 | 2023-04-15 |
 | [Pray](https://open.spotify.com/track/59ljpSFcgtfWJKS3vqG27R) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:41 | 2023-01-04 | 2023-03-19 |
 | [Pray](https://open.spotify.com/track/7DsX5K72fewVGb47qj7Tbg) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:41 | 2023-03-10 | 2023-04-25 |

@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53788,
+  "num_followers": 53785,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWY4YTFjMmU3OTA5ZmY2ZWVjYzJiZGEwNjM1NzJhYmIyZDgzODg2",
+  "snapshot_id": "MCwwNzBhNDgxZTFiZDJiMzNjYWQwOTk5N2Q5MmI4ZjA2NjNkN2Q2Zjg0",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Way Maker (Live)",
+        "url": "https://open.spotify.com/album/5EbRkyqOEX6pXqypa5Eh65"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 500453,
+      "name": "Waymaker - Bonus Track, Live",
+      "url": "https://open.spotify.com/track/4WBGWowkttFkVlxULnCWKP"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Choirmaster",
         "url": "https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR"
       },
@@ -907,6 +923,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Classics Vol. 1",
+        "url": "https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        }
+      ],
+      "duration_ms": 303160,
+      "name": "Jesus Is the Answer",
+      "url": "https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Evidence",
         "url": "https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo"
       },
@@ -927,22 +959,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Classics Vol. 1",
-        "url": "https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE"
-      },
-      "artists": [
-        {
-          "name": "Andrae Crouch",
-          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
-        }
-      ],
-      "duration_ms": 303160,
-      "name": "Jesus Is the Answer",
-      "url": "https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "One Church",
         "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 399400,
       "name": "They Didn't Know",
       "url": "https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Way Maker (Live)",
-        "url": "https://open.spotify.com/album/5EbRkyqOEX6pXqypa5Eh65"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 500453,
-      "name": "Waymaker - Bonus Track, Live",
-      "url": "https://open.spotify.com/track/4WBGWowkttFkVlxULnCWKP"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Revival Is In The Air (RIITA)",
+        "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        },
+        {
+          "name": "Jo Deep",
+          "url": "https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Shirley Caesar and Friends",
         "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 302120,
       "name": "I Know It Was the Blood",
       "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Revival Is In The Air (RIITA)",
-        "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
-      },
-      "artists": [
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        },
-        {
-          "name": "Jo Deep",
-          "url": "https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "The Ultimate Playlist",
-        "url": "https://open.spotify.com/album/7e7Kn1acCuaq8owAQHt8dI"
-      },
-      "artists": [
-        {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
-        }
-      ],
-      "duration_ms": 250160,
-      "name": "I Need You Now",
-      "url": "https://open.spotify.com/track/128ypdDlPrG9lpwGQzMiBQ"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Then Sings My Soul",
         "url": "https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 337440,
       "name": "He Didn't Have To Do It",
       "url": "https://open.spotify.com/track/78qrs0P8o0u1MketFZ6YsV"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "The Ultimate Playlist",
+        "url": "https://open.spotify.com/album/7e7Kn1acCuaq8owAQHt8dI"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "duration_ms": 250160,
+      "name": "I Need You Now",
+      "url": "https://open.spotify.com/track/128ypdDlPrG9lpwGQzMiBQ"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Live in Concert",
-        "url": "https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B"
-      },
-      "artists": [
-        {
-          "name": "Kim Burrell",
-          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
-        }
-      ],
-      "duration_ms": 573933,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Trip Down Memory Lane",
         "url": "https://open.spotify.com/album/11OQ0AT4RDHJq8DqVQST9h"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 443466,
       "name": "The Blood",
       "url": "https://open.spotify.com/track/46Iicv5lT8Z752kFlrQVWF"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Live in Concert",
+        "url": "https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B"
+      },
+      "artists": [
+        {
+          "name": "Kim Burrell",
+          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
+        }
+      ],
+      "duration_ms": 573933,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Live: The Praise, the Worship",
-        "url": "https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 329186,
-      "name": "Oh Holy Lamb",
-      "url": "https://open.spotify.com/track/2N6ccWkNTrKuIa3JqRzxhb"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Verity Records: The First Decade, A Celebration Of Christmas",
         "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 290026,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 329186,
+      "name": "Oh Holy Lamb",
+      "url": "https://open.spotify.com/track/2N6ccWkNTrKuIa3JqRzxhb"
     },
     {
       "added_at": "2023-04-09 08:49:39",

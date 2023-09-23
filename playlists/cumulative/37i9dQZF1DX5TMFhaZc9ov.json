@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "serious person (part 2)",
+        "url": "https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198631,
+      "name": "alien",
+      "url": "https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I"
+    },
+    {
+      "album": {
         "name": "Universal Mother",
         "url": "https://open.spotify.com/album/5cbLLHZkBzxsxLefNLLUfE"
       },

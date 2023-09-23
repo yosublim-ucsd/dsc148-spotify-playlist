@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie. Cover: YADAM",
+  "description": "Fresh Latin Indie. Cover: Camilo S\u00e9ptimo",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -2551,6 +2551,32 @@
     },
     {
       "album": {
+        "name": "Young In California",
+        "url": "https://open.spotify.com/album/1reYO7vImj6L4ZshyK9qZP"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        },
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225717,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/4X3uJBuvNpucNE70y5CPl5"
+    },
+    {
+      "album": {
         "name": "Garden of Lucid",
         "url": "https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp"
       },
@@ -3972,7 +3998,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 121153,
       "name": "lonely lullaby",
       "url": "https://open.spotify.com/track/68y0q1ZAjmCWE7442EdZpT"
@@ -4230,6 +4256,24 @@
       "duration_ms": 239400,
       "name": "Mamita Santa",
       "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
+    },
+    {
+      "album": {
+        "name": "Jard\u00edn de las Almas",
+        "url": "https://open.spotify.com/album/6qNDuK7TXMUK0aTKsyevYT"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224727,
+      "name": "Mandala",
+      "url": "https://open.spotify.com/track/3Lebs7ERP0ILzr80u9UReL"
     },
     {
       "album": {
@@ -4851,6 +4895,24 @@
     },
     {
       "album": {
+        "name": "Me Muevo Con Dios",
+        "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180374,
+      "name": "Movezz en silencio",
+      "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
+    },
+    {
+      "album": {
         "name": "Astronom\u00eda Interior",
         "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
       },
@@ -5180,6 +5242,28 @@
       "duration_ms": 168026,
       "name": "no hace falta saber",
       "url": "https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y"
+    },
+    {
+      "album": {
+        "name": "No Hu\u00ed",
+        "url": "https://open.spotify.com/album/4x8mc2CIbdYmCBdq4hzMTm"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "El Individuo",
+          "url": "https://open.spotify.com/artist/6g5g4O5mwD2z9AZJLNgz8O"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213829,
+      "name": "No Hu\u00ed",
+      "url": "https://open.spotify.com/track/313jYZDkgH8CSnnhu849cD"
     },
     {
       "album": {
@@ -6778,7 +6862,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 145945,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/71NBNju9KEg6G8qTi1Y0kA"
@@ -6814,7 +6898,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 243356,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf"
@@ -7188,7 +7272,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 126720,
       "name": "Stuck in California",
       "url": "https://open.spotify.com/track/2p4rM1zKE2lK5tFVBd7Bik"
@@ -7851,6 +7935,24 @@
     },
     {
       "album": {
+        "name": "Todo o nada",
+        "url": "https://open.spotify.com/album/7LzhNFqwqixFNNjr00VJVx"
+      },
+      "artists": [
+        {
+          "name": "Mateo Falgas",
+          "url": "https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182785,
+      "name": "Todo o nada",
+      "url": "https://open.spotify.com/track/7JcGt3lxb68CDpLzjoP3gl"
+    },
+    {
+      "album": {
         "name": "todo pasa",
         "url": "https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE"
       },
@@ -8252,7 +8354,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 185690,
       "name": "Un Parque",
       "url": "https://open.spotify.com/track/6w4uvxQ9nhHIpRSjMHWczj"

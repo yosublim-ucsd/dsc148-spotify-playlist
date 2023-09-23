@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Dead Obies",
-  "num_followers": 8172,
+  "num_followers": 8177,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWFiNTU1NDViNDg3Y2JmNWQ0YmYwNDhjYjQ5YmIzNGUzNGE0MWZk",
+  "snapshot_id": "MCwzNmQzZDM5OTQzMzc0Njk1NDA3NDY2NjI1MmMyNDFhMGNlZmJlMTU4",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Dead Summer",
-        "url": "https://open.spotify.com/album/3sOQNYpBqJ4ycOhcDTxUy5"
-      },
-      "artists": [
-        {
-          "name": "Aswell",
-          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
-        }
-      ],
-      "duration_ms": 165569,
-      "name": "Dead Summer",
-      "url": "https://open.spotify.com/track/6HYFlCcMKPENq5hJOwGXGE"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Fouette Saint-Patrick",
         "url": "https://open.spotify.com/album/1OKQUHt3LCz5JnqgTEggce"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 163459,
       "name": "Chill?",
       "url": "https://open.spotify.com/track/3zQI8CC3IokFvAqgXgY5KB"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Dead Summer",
+        "url": "https://open.spotify.com/album/3sOQNYpBqJ4ycOhcDTxUy5"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "duration_ms": 165569,
+      "name": "Dead Summer",
+      "url": "https://open.spotify.com/track/6HYFlCcMKPENq5hJOwGXGE"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -895,26 +895,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "B\u00e2timent",
-        "url": "https://open.spotify.com/album/7ymXUtwoouExMHp6KlyMzp"
+        "name": "Mafia",
+        "url": "https://open.spotify.com/album/5mgVvKupgPLmq1hxNcOVCm"
       },
       "artists": [
         {
-          "name": "Yung Duce",
-          "url": "https://open.spotify.com/artist/3xR8mAOFhKZZ8V89C4RWrl"
-        },
-        {
-          "name": "Dix",
-          "url": "https://open.spotify.com/artist/5DnW1DjeRoeHEiD1d2Q0oN"
-        },
-        {
-          "name": "Mouss",
-          "url": "https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY"
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
         }
       ],
-      "duration_ms": 167418,
-      "name": "B\u00e2timent",
-      "url": "https://open.spotify.com/track/25GCROc6FbTgRcif4sAJDB"
+      "duration_ms": 170454,
+      "name": "Fugueuse",
+      "url": "https://open.spotify.com/track/5qOEGhBq7CUAOzW7EMnuEQ"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -955,6 +947,30 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "B\u00e2timent",
+        "url": "https://open.spotify.com/album/7ymXUtwoouExMHp6KlyMzp"
+      },
+      "artists": [
+        {
+          "name": "Yung Duce",
+          "url": "https://open.spotify.com/artist/3xR8mAOFhKZZ8V89C4RWrl"
+        },
+        {
+          "name": "Dix",
+          "url": "https://open.spotify.com/artist/5DnW1DjeRoeHEiD1d2Q0oN"
+        },
+        {
+          "name": "Mouss",
+          "url": "https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY"
+        }
+      ],
+      "duration_ms": 167418,
+      "name": "B\u00e2timent",
+      "url": "https://open.spotify.com/track/25GCROc6FbTgRcif4sAJDB"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Les Fr\u00e8res Cueilleurs",
         "url": "https://open.spotify.com/album/5tSbeMQIFeJts8pPjkhLD6"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 228092,
       "name": "\u00c7a que c'tait",
       "url": "https://open.spotify.com/track/72ZihdKBFqjHmITh7e6U2R"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Mafia",
-        "url": "https://open.spotify.com/album/5mgVvKupgPLmq1hxNcOVCm"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 170454,
-      "name": "Fugueuse",
-      "url": "https://open.spotify.com/track/5qOEGhBq7CUAOzW7EMnuEQ"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Silence de mort",
-        "url": "https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU"
-      },
-      "artists": [
-        {
-          "name": "Random",
-          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
-        }
-      ],
-      "duration_ms": 189344,
-      "name": "Entre toi et moi",
-      "url": "https://open.spotify.com/track/5NfnhUxP5iSIPajibgMB67"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "5 dans la whip",
         "url": "https://open.spotify.com/album/2ARSenbmfKFWJE6XDQeq0C"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 206216,
       "name": "5 dans la whip",
       "url": "https://open.spotify.com/track/10mXjx88SfukbzEotbM1Jd"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Silence de mort",
+        "url": "https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU"
+      },
+      "artists": [
+        {
+          "name": "Random",
+          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
+        }
+      ],
+      "duration_ms": 189344,
+      "name": "Entre toi et moi",
+      "url": "https://open.spotify.com/track/5NfnhUxP5iSIPajibgMB67"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Le set up",
+        "url": "https://open.spotify.com/album/58yIunmtr4PsI04yTaZYPc"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        }
+      ],
+      "duration_ms": 158660,
+      "name": "Univers parall\u00e8le",
+      "url": "https://open.spotify.com/track/6B2W2VCHsXfHGAdvfJK4CA"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Faits d'hiver",
         "url": "https://open.spotify.com/album/1EQPa4FED7g3dPTZUzXTaK"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 236657,
       "name": "Faya",
       "url": "https://open.spotify.com/track/3ix3AVDfnEO88gxpCKtFAF"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Le set up",
-        "url": "https://open.spotify.com/album/58yIunmtr4PsI04yTaZYPc"
-      },
-      "artists": [
-        {
-          "name": "Raccoon",
-          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
-        }
-      ],
-      "duration_ms": 158660,
-      "name": "Univers parall\u00e8le",
-      "url": "https://open.spotify.com/track/6B2W2VCHsXfHGAdvfJK4CA"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "IMPR\u00c9VU",
-        "url": "https://open.spotify.com/album/0ZT9myo7oZW88ZB81glyvE"
-      },
-      "artists": [
-        {
-          "name": "MikeZup",
-          "url": "https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk"
-        },
-        {
-          "name": "Enima",
-          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
-        }
-      ],
-      "duration_ms": 261890,
-      "name": "Sang Sur les Mains",
-      "url": "https://open.spotify.com/track/0T3Fsro25pwNhZ4iVDnIiC"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "OUI (tout tout tout toutttte)",
         "url": "https://open.spotify.com/album/1BuX0kIaenhckd7qbX5htS"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 254445,
       "name": "D\u00e9sir\u00e9e",
       "url": "https://open.spotify.com/track/4Q34wMSncMUGQ8VI7tB7E5"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "IMPR\u00c9VU",
+        "url": "https://open.spotify.com/album/0ZT9myo7oZW88ZB81glyvE"
+      },
+      "artists": [
+        {
+          "name": "MikeZup",
+          "url": "https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk"
+        },
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        }
+      ],
+      "duration_ms": 261890,
+      "name": "Sang Sur les Mains",
+      "url": "https://open.spotify.com/track/0T3Fsro25pwNhZ4iVDnIiC"
     },
     {
       "added_at": "2022-03-11 05:02:00",

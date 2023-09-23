@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-241 songs - 15 hr 27 min
+243 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Can't Let Go](https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Can't Let Go](https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr) | 3:05 | 2023-07-14 |  |
 | [Centuries](https://open.spotify.com/track/42zrLbtRnhMwVN6T43fRRp) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [Pickin' on the Hits of 2015](https://open.spotify.com/album/3gi2gORW66TUEFYq2X0LK3) | 3:57 | 2021-08-20 | 2023-05-14 |
 | [Clocks](https://open.spotify.com/track/3oVRuQY34aspcdgEWbL0lD) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [The Fantastic Pickin' on Series Bluegrass Sampler, Vol\. 2](https://open.spotify.com/album/2ZfxUmkKvMQ6qHdBmA2sOx) | 7:35 | 2021-08-20 |  |
+| [Coat Of Many Colors](https://open.spotify.com/track/1d2bVY1wm0ho9tyHSbVlos) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Coat Of Many Colors](https://open.spotify.com/album/7kaEjySfxfkCxuCTBo9m5u) | 3:13 | 2023-09-22 |  |
 | [Come On In My Kitchen](https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 4:59 | 2021-12-10 |  |
 | [Come to Jesus](https://open.spotify.com/track/3DNui82TrXtZMoXKuzdyuw) | [Danny Burns](https://open.spotify.com/artist/7vjM9siqHKUjRrgopSgNLU), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Come to Jesus](https://open.spotify.com/album/7DplEfND4glcIW4679OkXU) | 3:41 | 2023-06-30 |  |
 | [Cotton Eyed Joe \(feat\. Carl Miner & Jamie Dick\)](https://open.spotify.com/track/7mrdHjkfEFTXCniqDTOYHM) | [Chessboxer](https://open.spotify.com/artist/7M6RbP2krwdFSjgzXnHp3b), [Carl Miner](https://open.spotify.com/artist/6EG8uorDPhIW5CA471W5Di), [Jamie Dick](https://open.spotify.com/artist/7xzCJRaY7nlG6rG0vAVK9s) | [Cotton Eyed Joe \(feat\. Carl Miner & Jamie Dick\)](https://open.spotify.com/album/0trHLApfMaHMLxqw5771wT) | 2:04 | 2021-08-20 | 2022-12-03 |
@@ -95,6 +96,7 @@
 | [Gin and Juice](https://open.spotify.com/track/7v7ytRZIWuZuNxXSGwxIhK) | [The Gourds](https://open.spotify.com/artist/2gk28RNJaPStV8BnugHYpF) | [Shinebox](https://open.spotify.com/album/6tqUpnBCm5rYkmVdHfJjzP) | 6:23 | 2021-08-20 | 2022-07-29 |
 | [good 4 u \- Spotify Sessions](https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 3:36 | 2023-02-03 |  |
 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/3V0vJXkBDGEZsG2mMzm32S) | [Fireside Collective](https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/1XtucozRRB6IZq6m8vj8nm) | 4:29 | 2023-03-10 |  |
+| [Graceland \(Live Session\)](https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4) | [Ramsey Thornton](https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL) | [Graceland \(Live Session\)](https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A) | 3:06 | 2023-09-22 |  |
 | [Guess I'm Doing Fine](https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Guess I'm Doing Fine](https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21) | 4:40 | 2023-02-24 |  |
 | [Hand In My Pocket](https://open.spotify.com/track/6YKfKfe5Ey6yIPhZ0LS92O) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Hand In My Pocket](https://open.spotify.com/album/4EfSZbrQXDwQD8Ud7DCRXx) | 2:41 | 2023-03-10 | 2023-04-30 |
 | [Hand In My Pocket](https://open.spotify.com/track/7ikgdbyIecwr7OOkfW8tF5) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Pizza Tickets](https://open.spotify.com/album/0RK0VdRrsFe3ZozfDfBl09) | 2:41 | 2023-04-28 |  |

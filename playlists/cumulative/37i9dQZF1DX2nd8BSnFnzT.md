@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Fresno
 
-378 songs - 21 hr 12 min
+379 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Sem Parar](https://open.spotify.com/track/3TuBiOhnrNRfDOHuA4Lgss) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [Sem Parar](https://open.spotify.com/album/0tQCvne4fue2q9lIecac4B) | 3:35 | 2023-03-10 | 2023-07-15 |
 | [Sem Pensar \- Ao Vivo](https://open.spotify.com/track/4B8ZYIPUh7YKNrYpzb8TLo) | [Izzi Louise](https://open.spotify.com/artist/7IKyfB7CQfU6tgv6c4iwnV) | [Sem Pensar \(Ao Vivo\)](https://open.spotify.com/album/6MOUKlQW1Qslv0uTPIn9fX) | 3:32 | 2022-01-14 | 2022-02-05 |
 | [sem rumo](https://open.spotify.com/track/5dK4KjIqd60Y0W3rivvSgP) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [sem rumo](https://open.spotify.com/album/4Y9ZIUWf8hnvsMi5GAyUVf) | 4:27 | 2022-01-14 | 2022-02-05 |
+| [Sempre em Frente](https://open.spotify.com/track/6R17qo7qwpkPu7szy5tK7G) | [NAVALA](https://open.spotify.com/artist/5qSepOy54NGAJ5rpIksl3p) | [Sempre em Frente](https://open.spotify.com/album/4nGrhdelNUboisIrusK5eS) | 3:23 | 2023-09-22 |  |
 | [Senador](https://open.spotify.com/track/6uALZSrh136doyHHljYo4M) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [Senador](https://open.spotify.com/album/5LmC8vcX4HMjnbQ5n9tCTD) | 2:43 | 2023-08-04 |  |
 | [Sexo Animal](https://open.spotify.com/track/3Ori3rp369Md0VHHtIOx2k) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [Sexo Animal](https://open.spotify.com/album/3eBQfsPXJ0B84A2eNcV6KO) | 2:32 | 2022-06-24 | 2022-07-16 |
 | [Simplifica](https://open.spotify.com/track/0XZYEobMACkaODDYZnuU3k) | [The Mönic](https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q) | [Cuidado Você](https://open.spotify.com/album/1pjWYLqFoKnkenPkvpM6pK) | 3:04 | 2023-09-01 |  |
@@ -375,7 +376,7 @@
 | [vc é msm tão melhor que eu?](https://open.spotify.com/track/2K24ijOSojf6F2q0HXgy6b) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [vc é msm tão melhor que eu?](https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk) | 3:29 | 2022-01-21 | 2022-05-14 |
 | [Velejar](https://open.spotify.com/track/1kCLQCj7BBTWkUFMoo05kL) | [A Outra Margem](https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y) | [Velejar](https://open.spotify.com/album/7FqaxQGN5HmrZCk9auyK6e) | 3:59 | 2022-09-23 | 2023-06-07 |
 | [Velejar](https://open.spotify.com/track/7avsrffq8765coCB5WaLtk) | [A Outra Margem](https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y) | [Polaroid Sonora](https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb) | 3:59 | 2023-06-02 | 2023-07-15 |
-| [Vem Pro Meu Mundo](https://open.spotify.com/track/1qP3RPtEVRLtx6uYQjEaJF) | [Cogumelo Plutão](https://open.spotify.com/artist/4qjNCru4YbPvA6FOUDi1ee) | [Vem Pro Meu Mundo](https://open.spotify.com/album/7bDusbk1hDNvrr7DfbdpuZ) | 2:59 | 2023-08-11 |  |
+| [Vem Pro Meu Mundo](https://open.spotify.com/track/1qP3RPtEVRLtx6uYQjEaJF) | [Cogumelo Plutão](https://open.spotify.com/artist/4qjNCru4YbPvA6FOUDi1ee) | [Vem Pro Meu Mundo](https://open.spotify.com/album/7bDusbk1hDNvrr7DfbdpuZ) | 2:59 | 2023-08-11 | 2023-09-23 |
 | [Veneno](https://open.spotify.com/track/5JcRGsmaV5nBVp3TiyqdlO) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Balla e os Cristais](https://open.spotify.com/artist/3FGzyFpLecpQSUzx46x6h0) | [Veneno](https://open.spotify.com/album/5X6ItCVdeZvBugR9j0P8GM) | 3:54 | 2022-01-14 | 2023-04-09 |
 | [VERMELHO FAROL](https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [VERMELHO FAROL](https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns) | 2:30 | 2023-04-14 | 2023-07-22 |
 | [Vitória](https://open.spotify.com/track/2uRlVcj6AjZKAMP2Gc1xpj) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [30 + 1, Pt.3](https://open.spotify.com/album/13x5PRkYrO2vLrTntH0Jkh) | 3:20 | 2022-08-12 | 2023-03-11 |

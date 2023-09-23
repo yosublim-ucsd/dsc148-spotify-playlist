@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-768 songs - 1 day 5 hr 54 min
+770 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Friday](https://open.spotify.com/track/0VMPNNbZcV6aP0O9ZCLNhe) | [Little Lazy Lights](https://open.spotify.com/artist/2YEOM2LGal4G2Z2GkbbAlA) | [Friday](https://open.spotify.com/album/5yDhrdMgbYA3EdMkKBYads) | 3:36 | 2022-04-15 |  |
 | [Fried Beans](https://open.spotify.com/track/2rG2JAPKFQxDZXcf6pUO5S) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Fried Beans](https://open.spotify.com/album/6whOtrxJvVArWYlyii3TnO) | 2:04 | 2022-04-15 |  |
 | [Frolic](https://open.spotify.com/track/2KNFOqcjVlBX4Gq4ieiysa) | [fallover](https://open.spotify.com/artist/7IcaEh6tPfZwI4FHtbPMD6) | [Frolic](https://open.spotify.com/album/16veguDPc6MecMoXfcYOUt) | 1:57 | 2022-04-15 |  |
-| [fromain](https://open.spotify.com/track/5LhVAZrBWUrqIcCLX90uPa) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [fromain](https://open.spotify.com/album/7C3avsrbBhR7CiACWLX1SK) | 2:02 | 2023-09-22 |  |
+| [fromain](https://open.spotify.com/track/5LhVAZrBWUrqIcCLX90uPa) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [fromain](https://open.spotify.com/album/7C3avsrbBhR7CiACWLX1SK) | 2:02 | 2023-09-22 | 2023-09-23 |
 | [Future Feline](https://open.spotify.com/track/5wkEOqy092lfdf247rko8x) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Still Sloppy](https://open.spotify.com/album/0hAwuOO6cx2uTvd5Egx7UA) | 1:30 | 2022-06-10 | 2023-07-20 |
 | [Gary](https://open.spotify.com/track/1q1UZUT8oCqhuoaUtOQyk7) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Gary](https://open.spotify.com/album/1wyBKnUiA3N4Rqe8WPvvFd) | 2:02 | 2022-04-15 |  |
 | [Gelato 33](https://open.spotify.com/track/3Gzs37SLuzINUby4IAD0Hs) | [Hazeeman](https://open.spotify.com/artist/5mLnKXD8YyMwMI7dCBpFkP) | [Amnesia](https://open.spotify.com/album/0gkzkNt2Uj4xz8tNLhDIru) | 1:52 | 2022-04-15 | 2022-09-03 |
@@ -284,6 +284,7 @@
 | [in the blink of an eye](https://open.spotify.com/track/5MBfOXuYBd43bQseqvL2yo) | [Summer Clarke](https://open.spotify.com/artist/5VJreBDjx8zamtY3YyZyMr) | [in the blink of an eye](https://open.spotify.com/album/1ckuvr9YJHuv0IleVxJLkd) | 2:27 | 2022-05-20 | 2022-09-30 |
 | [In the Quarry](https://open.spotify.com/track/1ppAYsMbptKwowB1Za8g7A) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Gossamer](https://open.spotify.com/album/5AndD9M9ccTWQXPJpipz2z) | 2:21 | 2022-04-15 |  |
 | [Incandescent Sky \- Demo](https://open.spotify.com/track/7cYwTwfI2cQdZvnSjsB6ah) | [Xoxo Fernandez](https://open.spotify.com/artist/6G4uvbhINpucP5RBxsiPDN) | [False Euphoria](https://open.spotify.com/album/7Dm64niDkqB3n00XPhmEXd) | 2:05 | 2022-09-16 |  |
+| [Indigo](https://open.spotify.com/track/2Q0Sgox8fZRoqE61pD9m2y) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Indigo](https://open.spotify.com/album/5uUb9ixhJKIFVpJktTFair) | 2:14 | 2023-09-22 |  |
 | [Inner Peace](https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [Inner Peace](https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf) | 3:52 | 2023-09-22 |  |
 | [Inspector Fidget](https://open.spotify.com/track/6qXTQx6WNF4bL8OUqltK5T) | [Monster Guy](https://open.spotify.com/artist/6Aizv6tVH9fFMbEbS4baLY) | [Dangerous Eyes](https://open.spotify.com/album/6fNRme6o5ByiWKfVFIERFz) | 2:07 | 2022-04-15 | 2022-05-20 |
 | [Is It Summer Yet?](https://open.spotify.com/track/5Ay3j13L32nercEHUNTQCd) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Is It Summer Yet?](https://open.spotify.com/album/6YeBEcDch5a4xAVgCi4VHR) | 1:31 | 2022-04-15 | 2022-09-03 |
@@ -538,7 +539,7 @@
 | [rideon](https://open.spotify.com/track/30nQLDjbXKJL52DZUqjEKD) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [rideon](https://open.spotify.com/album/18MND2KM0MzMk9DRTiRqnM) | 2:29 | 2022-04-15 | 2022-07-29 |
 | [Roadburn](https://open.spotify.com/track/0ml0Y7IL5qTJfpUryOtRNi) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Roadburn](https://open.spotify.com/album/2xPOhvwY818VV26vDAbomV) | 1:44 | 2023-04-03 |  |
 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 | 2023-09-08 |  |
-| [Rododendron](https://open.spotify.com/track/7bPT9pBJaTdl5L4J5SfAI5) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Tripping At The Amusement Park Vol\. 2](https://open.spotify.com/album/7aUrSHxhKcltENe45QHYkG) | 2:09 | 2023-09-22 |  |
+| [Rododendron](https://open.spotify.com/track/7bPT9pBJaTdl5L4J5SfAI5) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Tripping At The Amusement Park Vol\. 2](https://open.spotify.com/album/7aUrSHxhKcltENe45QHYkG) | 2:09 | 2023-09-22 | 2023-09-23 |
 | [Rooftop](https://open.spotify.com/track/4YLtJCjDkmw5dAbVuxpy7v) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb) | [Rooftop](https://open.spotify.com/album/5OOYTWekc4Zw1uQWvz9v0l) | 2:26 | 2022-04-15 | 2023-09-22 |
 | [Roronoa](https://open.spotify.com/track/1rMkIrW3SoR42ZLX3d26m0) | [Koby 808](https://open.spotify.com/artist/43y8HzuEyK246soWSYULOJ) | [Roronoa](https://open.spotify.com/album/4ELgzCYaKWZ0ShzrH1mnKK) | 2:14 | 2022-12-09 |  |
 | [Rose Cruise](https://open.spotify.com/track/48QMprf8rodxvXB6HbgxoJ) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [Rose Cruise](https://open.spotify.com/album/0ryWLsNdVLeRdfMYBQsJVp) | 3:00 | 2022-04-15 | 2022-07-22 |
@@ -767,6 +768,7 @@
 | [yaaas](https://open.spotify.com/track/7FAktFGtxzYbcE6ceIyYzn) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [yaaas](https://open.spotify.com/album/0ftJW9wygyS41Fa3h7RNE0) | 2:35 | 2022-04-15 | 2022-06-10 |
 | [yeppurs](https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL) | [pukks](https://open.spotify.com/artist/13FOxVWcunkuGPcJrulWhy) | [jalapeno](https://open.spotify.com/album/671hq6yLBZGDj3c8rikD1L) | 1:56 | 2022-04-15 |  |
 | [yesterday floor](https://open.spotify.com/track/1xAA5ZuoxcefBg3EmxIQJc) | [.horie](https://open.spotify.com/artist/2ZpXF4E6CiYIhMs2CXKuZQ), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [yesterday floor](https://open.spotify.com/album/2ayCQifLBuQuVtd8fiPQ0J) | 1:26 | 2022-11-11 |  |
+| [Yesterday's Tomorrow](https://open.spotify.com/track/7D2wp7jItC0PNJMp3fvDZm) | [Lab Progression](https://open.spotify.com/artist/1KWvzy2ks6bKSBD3rMj5yk), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Jammin Berries](https://open.spotify.com/artist/46TWlcFSSZbWiB9k9n0P8o) | [Yesterday's Tomorrow](https://open.spotify.com/album/3pU2zQiCSXTLKpUY1sU3oa) | 2:20 | 2023-09-22 |  |
 | [Yesterday's Tomorrow](https://open.spotify.com/track/3SkGlju255xnaTQld9d0DO) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Yesterday's Tomorrow](https://open.spotify.com/album/5yfF9N6Cgy7olJBLPKRkhM) | 2:13 | 2022-12-16 | 2023-02-16 |
 | [Yesterday's Tomorrow](https://open.spotify.com/track/3TBKlAMde3C7TNQEU7shez) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Correspondance](https://open.spotify.com/album/2kHc5vqdqza5IlCMGXlGAQ) | 2:13 | 2023-01-20 |  |
 | [yo!](https://open.spotify.com/track/76Bwn0o3omms1v8BmIryYL) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [yo!](https://open.spotify.com/album/3Ud214zFe6QW4agzbC0UnK) | 2:00 | 2023-09-22 |  |

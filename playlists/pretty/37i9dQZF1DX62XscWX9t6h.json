@@ -1,12 +1,12 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 156408,
+  "num_followers": 156536,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGI2NGI2ZDgyMGQ0NmRjOTM0Yzc3NDkyYjA0ZjBmOTE5NzkzYmQ4",
+  "snapshot_id": "MCwzYjc1YmQ2MzBmYTE5NjllNWQ2YWYwMzU4Y2M0MDM2ZjI3YzdkZDhm",
   "tracks": [
     {
       "added_at": "2021-10-20 20:05:06",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 273058,
-      "name": "Parev' Ajere",
-      "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Yeti Season (Deluxe Version)",
         "url": "https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 192404,
       "name": "Murkit Gem",
       "url": "https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 273058,
+      "name": "Parev' Ajere",
+      "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
     },
     {
       "added_at": "2022-04-17 20:09:31",
@@ -717,6 +717,22 @@
       "url": "https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT"
     },
     {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Afrique Victime",
+        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 298969,
+      "name": "Chismiten",
+      "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
+    },
+    {
       "added_at": "2023-05-25 23:48:57",
       "album": {
         "name": "Amatssou",
@@ -753,20 +769,20 @@
       "url": "https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
+      "added_at": "2022-08-31 03:53:27",
       "album": {
-        "name": "Afrique Victime",
-        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
+        "name": "Under No Nation (Radio Edit)",
+        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
       },
       "artists": [
         {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
         }
       ],
-      "duration_ms": 298969,
-      "name": "Chismiten",
-      "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
+      "duration_ms": 184256,
+      "name": "Under No Nation - Radio Edit",
+      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -785,22 +801,6 @@
       "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
     },
     {
-      "added_at": "2022-08-31 03:53:27",
-      "album": {
-        "name": "Under No Nation (Radio Edit)",
-        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 184256,
-      "name": "Under No Nation - Radio Edit",
-      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
-    },
-    {
       "added_at": "2022-02-18 02:21:25",
       "album": {
         "name": "Elegancia Tropical",
@@ -817,20 +817,20 @@
       "url": "https://open.spotify.com/track/39NuHXNW3SBW7ME4A1N0y8"
     },
     {
-      "added_at": "2023-07-19 02:43:48",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Uummati Attanarsimat (Heart of Glass)",
-        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
+        "name": "Harumi",
+        "url": "https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi"
       },
       "artists": [
         {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+          "name": "Harumi",
+          "url": "https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO"
         }
       ],
-      "duration_ms": 238288,
-      "name": "Uummati Attanarsimat (Heart of Glass)",
-      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
+      "duration_ms": 214226,
+      "name": "Fire By The River",
+      "url": "https://open.spotify.com/track/6Nnq45sf7tv9Xjlbga83Lj"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -849,20 +849,20 @@
       "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
+      "added_at": "2023-07-19 02:43:48",
       "album": {
-        "name": "Harumi",
-        "url": "https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi"
+        "name": "Uummati Attanarsimat (Heart of Glass)",
+        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
       },
       "artists": [
         {
-          "name": "Harumi",
-          "url": "https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO"
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
         }
       ],
-      "duration_ms": 214226,
-      "name": "Fire By The River",
-      "url": "https://open.spotify.com/track/6Nnq45sf7tv9Xjlbga83Lj"
+      "duration_ms": 238288,
+      "name": "Uummati Attanarsimat (Heart of Glass)",
+      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
     },
     {
       "added_at": "2022-02-03 23:38:31",
@@ -883,22 +883,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Zerzura (Original Soundtrack Recording)",
-        "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
-      },
-      "artists": [
-        {
-          "name": "Ahmoudou Madassane",
-          "url": "https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm"
-        }
-      ],
-      "duration_ms": 263524,
-      "name": "Zerzura Theme II",
-      "url": "https://open.spotify.com/track/4I7WbrlfomZlIv4mveJ76x"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 290448,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/3pTtkt58Xi4VfAgZJVH3cU"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Zerzura (Original Soundtrack Recording)",
+        "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
+      },
+      "artists": [
+        {
+          "name": "Ahmoudou Madassane",
+          "url": "https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm"
+        }
+      ],
+      "duration_ms": 263524,
+      "name": "Zerzura Theme II",
+      "url": "https://open.spotify.com/track/4I7WbrlfomZlIv4mveJ76x"
     },
     {
       "added_at": "2022-04-17 18:29:09",
@@ -993,6 +993,22 @@
       "url": "https://open.spotify.com/track/7lxN82DVKPmdfPzEXR9ODa"
     },
     {
+      "added_at": "2022-07-28 06:00:43",
+      "album": {
+        "name": "Weird Fishes/ Arpeggi",
+        "url": "https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+        }
+      ],
+      "duration_ms": 325773,
+      "name": "Weird Fishes/ Arpeggi",
+      "url": "https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83"
+    },
+    {
       "added_at": "2023-07-17 18:55:09",
       "album": {
         "name": "Spotify Singles",
@@ -1013,20 +1029,24 @@
       "url": "https://open.spotify.com/track/48UIC5kKvE8ftxKyXvlvg7"
     },
     {
-      "added_at": "2022-07-28 06:00:43",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Weird Fishes/ Arpeggi",
-        "url": "https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1"
+        "name": "Ash",
+        "url": "https://open.spotify.com/album/06z5kktv4TUsmlQk2vj0Wn"
       },
       "artists": [
         {
-          "name": "Rodrigo y Gabriela",
-          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+        },
+        {
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
         }
       ],
-      "duration_ms": 325773,
-      "name": "Weird Fishes/ Arpeggi",
-      "url": "https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83"
+      "duration_ms": 187400,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/4Qolq4voNJaxnQNYzFsMLu"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1061,26 +1081,6 @@
       "url": "https://open.spotify.com/track/2Xnn9KSLIeECnBfACC4LKj"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Ash",
-        "url": "https://open.spotify.com/album/06z5kktv4TUsmlQk2vj0Wn"
-      },
-      "artists": [
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
-        },
-        {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/4Qolq4voNJaxnQNYzFsMLu"
-    },
-    {
       "added_at": "2022-04-06 01:47:33",
       "album": {
         "name": "\u015einanay / French Disko (Lagniappe Session)",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/6xjIrx0kE96n5OQvj9oZmO"
     },
     {
-      "added_at": "2023-07-17 18:55:09",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ"
-      },
-      "artists": [
-        {
-          "name": "Kalush Orchestra",
-          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
-        }
-      ],
-      "duration_ms": 132305,
-      "name": "Chase - Spotify Singles",
-      "url": "https://open.spotify.com/track/3Q4TZNei1kkNAZl6ab9hgs"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Kabul Fire Vol. 2",
@@ -1143,6 +1127,22 @@
       "duration_ms": 205720,
       "name": "Yak Sher",
       "url": "https://open.spotify.com/track/33sVaipoLkwfmS0FBPzgrc"
+    },
+    {
+      "added_at": "2023-07-17 18:55:09",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ"
+      },
+      "artists": [
+        {
+          "name": "Kalush Orchestra",
+          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
+        }
+      ],
+      "duration_ms": 132305,
+      "name": "Chase - Spotify Singles",
+      "url": "https://open.spotify.com/track/3Q4TZNei1kkNAZl6ab9hgs"
     },
     {
       "added_at": "2023-02-23 03:11:35",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "\u0434\u043b\u044f FOR",
-        "url": "https://open.spotify.com/album/0FvvY5F27MaKdwvTx1EybZ"
-      },
-      "artists": [
-        {
-          "name": "Kate NV",
-          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
-        }
-      ],
-      "duration_ms": 96923,
-      "name": "\u0434\u0432a TWO",
-      "url": "https://open.spotify.com/track/0ycbHO4SfIOGKkviEO1GK1"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Zerzura (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 187345,
       "name": "Akaline Akaline",
       "url": "https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "\u0434\u043b\u044f FOR",
+        "url": "https://open.spotify.com/album/0FvvY5F27MaKdwvTx1EybZ"
+      },
+      "artists": [
+        {
+          "name": "Kate NV",
+          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
+        }
+      ],
+      "duration_ms": 96923,
+      "name": "\u0434\u0432a TWO",
+      "url": "https://open.spotify.com/track/0ycbHO4SfIOGKkviEO1GK1"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1309,20 +1309,20 @@
       "url": "https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL"
     },
     {
-      "added_at": "2023-07-19 02:43:48",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Taimangalimaaq (Time After Time)",
-        "url": "https://open.spotify.com/album/291DEaUtgEk7gie1PUbF52"
+        "name": "The Trip",
+        "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
       },
       "artists": [
         {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+          "name": "Derya Y\u0131ld\u0131r\u0131m & Grup \u015eim\u015fek",
+          "url": "https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT"
         }
       ],
-      "duration_ms": 253090,
-      "name": "Taimangalimaaq (Time After Time)",
-      "url": "https://open.spotify.com/track/6x5PzFq5wazDsvWd9TQCrW"
+      "duration_ms": 257972,
+      "name": "The Trip",
+      "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1341,22 +1341,6 @@
       "url": "https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "The Trip",
-        "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
-      },
-      "artists": [
-        {
-          "name": "Derya Y\u0131ld\u0131r\u0131m & Grup \u015eim\u015fek",
-          "url": "https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT"
-        }
-      ],
-      "duration_ms": 257972,
-      "name": "The Trip",
-      "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
-    },
-    {
       "added_at": "2023-04-13 23:05:11",
       "album": {
         "name": "Sue\u00f1o EP",
@@ -1371,6 +1355,22 @@
       "duration_ms": 231013,
       "name": "Octopus",
       "url": "https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o"
+    },
+    {
+      "added_at": "2023-07-19 02:43:48",
+      "album": {
+        "name": "Taimangalimaaq (Time After Time)",
+        "url": "https://open.spotify.com/album/291DEaUtgEk7gie1PUbF52"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 253090,
+      "name": "Taimangalimaaq (Time After Time)",
+      "url": "https://open.spotify.com/track/6x5PzFq5wazDsvWd9TQCrW"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1501,22 +1501,6 @@
       "url": "https://open.spotify.com/track/250EZZGyjYplBum6Simk1B"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Optimisme",
-        "url": "https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF"
-      },
-      "artists": [
-        {
-          "name": "Songhoy Blues",
-          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
-    },
-    {
       "added_at": "2023-07-19 02:50:55",
       "album": {
         "name": "The Ballad of the Runaway Girl",
@@ -1531,6 +1515,22 @@
       "duration_ms": 205636,
       "name": "Arnaq",
       "url": "https://open.spotify.com/track/7eMFZDDVezqN2tOEBOU29v"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Optimisme",
+        "url": "https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1601,24 +1601,20 @@
       "url": "https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA"
     },
     {
-      "added_at": "2022-11-25 01:28:32",
+      "added_at": "2022-01-12 17:26:22",
       "album": {
-        "name": "Charango Dub",
-        "url": "https://open.spotify.com/album/1L7MABgdSg4VF8VjYoySmU"
+        "name": "Pista (Fresh Start)",
+        "url": "https://open.spotify.com/album/06Gwyoe9n82YHriBKmAcjs"
       },
       "artists": [
         {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Israel Arteaga",
-          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
         }
       ],
-      "duration_ms": 284168,
-      "name": "Charango Dub",
-      "url": "https://open.spotify.com/track/4Z4WBdtkbCiLhcc28e23Jx"
+      "duration_ms": 202133,
+      "name": "Pista (Fresh Start)",
+      "url": "https://open.spotify.com/track/5CW8Sionqq9jxe1uZxN5h7"
     },
     {
       "added_at": "2023-03-29 18:06:57",
@@ -1637,20 +1633,24 @@
       "url": "https://open.spotify.com/track/5Yw2orljyPxOQe9s1JfPqU"
     },
     {
-      "added_at": "2022-01-12 17:26:22",
+      "added_at": "2022-11-25 01:28:32",
       "album": {
-        "name": "Pista (Fresh Start)",
-        "url": "https://open.spotify.com/album/06Gwyoe9n82YHriBKmAcjs"
+        "name": "Charango Dub",
+        "url": "https://open.spotify.com/album/1L7MABgdSg4VF8VjYoySmU"
       },
       "artists": [
         {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Israel Arteaga",
+          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
         }
       ],
-      "duration_ms": 202133,
-      "name": "Pista (Fresh Start)",
-      "url": "https://open.spotify.com/track/5CW8Sionqq9jxe1uZxN5h7"
+      "duration_ms": 284168,
+      "name": "Charango Dub",
+      "url": "https://open.spotify.com/track/4Z4WBdtkbCiLhcc28e23Jx"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1729,24 +1729,20 @@
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
     },
     {
-      "added_at": "2022-02-15 02:08:08",
+      "added_at": "2022-08-31 05:20:13",
       "album": {
-        "name": "La Tercera Vision",
-        "url": "https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X"
+        "name": "Ghibli",
+        "url": "https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As"
       },
       "artists": [
         {
-          "name": "Lagartijeando",
-          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
-        },
-        {
-          "name": "Khalil Mounji",
-          "url": "https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK"
+          "name": "Savana Funk",
+          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
         }
       ],
-      "duration_ms": 235418,
-      "name": "Mano de Fatima",
-      "url": "https://open.spotify.com/track/1823wxCop81BdNRMKcfygg"
+      "duration_ms": 235519,
+      "name": "Ghibli",
+      "url": "https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU"
     }
   ],
   "unique_name": "Folk Fabrique",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzhk8ayyoEy.md) - [plain]
 
 > Warm, inspirational pop, that's good at heart\. Cover: Lauren Daigle
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,453 likes - 72 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,533 likes - 72 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,16 +15,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzhk8ayyoEy.md) - [plain]
 | 5 | [Stronger \(Grey's Anatomy Version\)](https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stronger](https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk) | 2:59 |
 | 6 | [Something I Could Never Be \(feat\. Wrabel\)](https://open.spotify.com/track/76xRTCRN9TqfvkEfRtz9Kk) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Something I Could Never Be \(feat\. Wrabel\)](https://open.spotify.com/album/1I50JGbfZdDfgBMJSx53mM) | 3:43 |
 | 7 | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA) | 2:54 |
-| 8 | [The Vow](https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:55 |
-| 9 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
-| 10 | [Thank God I Do](https://open.spotify.com/track/4gK7xnjIonY6mGJWiWcJT8) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 4:18 |
-| 11 | [Hideaway](https://open.spotify.com/track/5pbvXAfrjtRwfwcKGPAZma) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Hideaway](https://open.spotify.com/album/0UNq2Rh80UIYuaXHwgMMQM) | 4:13 |
-| 12 | [Yes We Can](https://open.spotify.com/track/4mY4eTuEvnWNNNlS3QXLkg) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Yes We Can](https://open.spotify.com/album/6EmU5AYldF504VZZMIGfra) | 3:26 |
-| 13 | [Love Me Like I Am \(with Jordin Sparks\)](https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Love Me Like I Am \(with Jordin Sparks\)](https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF) | 3:07 |
-| 14 | [What If](https://open.spotify.com/track/1ENH0YTu0OiRykq00M9Z0c) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [What If](https://open.spotify.com/album/56orzU3RLKSUDK5WFiqKhh) | 4:04 |
-| 15 | [No Longer Bound](https://open.spotify.com/track/08HjPPTP1GWkiIpVZKw2E3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [California Cowboy](https://open.spotify.com/album/2a9qafMKqGnx33ScYB8nbp) | 3:00 |
-| 16 | [So Will I](https://open.spotify.com/track/2MH8nFkQQgVqwr6w6jEPIr) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [So Will I](https://open.spotify.com/album/1jz72j3JNoHfQfaN8QGKH3) | 2:53 |
-| 17 | [One Nation Under Love](https://open.spotify.com/track/2AoHZl4LY1AppFWiVGtYEO) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [One Nation Under Love](https://open.spotify.com/album/2nI4kkbra5DUDknZJAkVvS) | 3:59 |
+| 8 | [I'm Here](https://open.spotify.com/track/4ttrwU0rvD0f4WRQsHDPrh) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Matteo](https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc) | 3:42 |
+| 9 | [The Vow](https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:55 |
+| 10 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
+| 11 | [Thank God I Do](https://open.spotify.com/track/4gK7xnjIonY6mGJWiWcJT8) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 4:18 |
+| 12 | [Hideaway](https://open.spotify.com/track/5pbvXAfrjtRwfwcKGPAZma) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Hideaway](https://open.spotify.com/album/0UNq2Rh80UIYuaXHwgMMQM) | 4:13 |
+| 13 | [Yes We Can](https://open.spotify.com/track/4mY4eTuEvnWNNNlS3QXLkg) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Yes We Can](https://open.spotify.com/album/6EmU5AYldF504VZZMIGfra) | 3:26 |
+| 14 | [Love Me Like I Am \(with Jordin Sparks\)](https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Love Me Like I Am \(with Jordin Sparks\)](https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF) | 3:07 |
+| 15 | [What If](https://open.spotify.com/track/1ENH0YTu0OiRykq00M9Z0c) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [What If](https://open.spotify.com/album/56orzU3RLKSUDK5WFiqKhh) | 4:04 |
+| 16 | [No Longer Bound](https://open.spotify.com/track/08HjPPTP1GWkiIpVZKw2E3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [California Cowboy](https://open.spotify.com/album/2a9qafMKqGnx33ScYB8nbp) | 3:00 |
+| 17 | [So Will I](https://open.spotify.com/track/2MH8nFkQQgVqwr6w6jEPIr) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [So Will I](https://open.spotify.com/album/1jz72j3JNoHfQfaN8QGKH3) | 2:53 |
 | 18 | [I'll Follow](https://open.spotify.com/track/05oHYdKxu7cnqrZgw6CiLK) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [I'll Follow](https://open.spotify.com/album/2eVMMMyptV72ZWM75hER4w) | 2:52 |
 | 19 | [Wonder](https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB) | 2:52 |
 | 20 | [When I Get There](https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [When I Get There](https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G) | 3:20 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzhk8ayyoEy.md) - [plain]
 | 71 | [Good In Me](https://open.spotify.com/track/0p4K6vPDV2bnwCK1hihpt7) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Good In Me](https://open.spotify.com/album/7yQrM7GtpRyxvJyXcE351Z) | 3:01 |
 | 72 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 |
 
-Snapshot ID: `MCw4NTBjM2IzYWQzNTY0OGY4OWM0ZDVjMDEzOTljN2JjY2UwN2RkYjZj`
+Snapshot ID: `MCxiN2MzZDI0NGNjM2Y1ODgxZjNlYWFmMWMxMzIyYWQ5YWMwMGRmYmUx`

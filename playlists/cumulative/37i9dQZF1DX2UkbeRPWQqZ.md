@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-251 songs - 8 hr 31 min
+253 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Feathers](https://open.spotify.com/track/1e1Mm7eqfM9gUphsLADBDj) | [Liv Ronge](https://open.spotify.com/artist/5roRCK9f3yFABEfNEAon5G) | [Feathers](https://open.spotify.com/album/6VQ4YVvFlaavpopygw9eqz) | 1:17 | 2021-11-11 |  |
 | [First Lullaby](https://open.spotify.com/track/0UK0Cqq8cFlFh7XGts16uH) | [All the Raw Melodies](https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH) | [First Lullaby](https://open.spotify.com/album/3tNETHLjsy42nzVzjvPUvk) | 1:00 | 2021-11-11 | 2022-07-29 |
 | [First Lullaby](https://open.spotify.com/track/2Vlk1mx0LLliRtx8Xs3Pe6) | [All the Raw Melodies](https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH) | [First Lullaby](https://open.spotify.com/album/4LQCV4juVK3a1mLGZHiwvs) | 1:00 | 2022-07-26 | 2023-06-16 |
+| [Five Little Ducks](https://open.spotify.com/track/0w1qbxTWTL464db5hu4JWj) | [Rebecca Scott](https://open.spotify.com/artist/1Krmj9Gm4xch0pzQOUvgQ2) | [Five Little Ducks](https://open.spotify.com/album/1uQUnfMkzeLj5zaWxOevW5) | 2:39 | 2023-09-22 |  |
 | [Flowers For Mom](https://open.spotify.com/track/3FBAIOe82lMFTybK8eKjrA) | [Lauraine Rowe](https://open.spotify.com/artist/0hzimoZUHifb1Yn9TR0D6u) | [Flowers For Mom](https://open.spotify.com/album/4WP9Gl5uQTdlq1qZRLoW65) | 1:51 | 2021-11-11 |  |
 | [Flying Teddy](https://open.spotify.com/track/4sJiH01QHq3H26Z1N3esFc) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Dreaming with the Stars](https://open.spotify.com/album/2SfA10rr2QVAAxa5j1SVEW) | 2:37 | 2023-04-25 |  |
 | [Frere Jacques](https://open.spotify.com/track/53JIdR9vG2kx7W76HU3X1Q) | [Pixi Small](https://open.spotify.com/artist/1NOsmA0yG2w3mW5xpdcGRY) | [Frere Jacques](https://open.spotify.com/album/7iVKdikiYhga4F2ykfyKdJ) | 1:22 | 2022-09-22 |  |
@@ -251,6 +252,7 @@
 | [When I Close My Eyes](https://open.spotify.com/track/4ck5iWqo3zaJkN3nWvvcOb) | [Lucy Sothersby](https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH) | [When I Close My Eyes](https://open.spotify.com/album/7IPtbyxxt9gpkPd8FXp0uW) | 2:29 | 2022-10-14 |  |
 | [When The Saints Go Marching In](https://open.spotify.com/track/4uTMTLSHl3kQAlU6CT2uAb) | [Lisa Jefferies](https://open.spotify.com/artist/4SWQEQ9XimBUaukFmdZNzi) | [Pretty Guitar Lullabies](https://open.spotify.com/album/6nACNDxZVOIiGGAsN0LFN5) | 1:56 | 2021-11-11 | 2023-02-18 |
 | [Whisper](https://open.spotify.com/track/2NXiJEKOISN8R9Frlyb0UV) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Whisper](https://open.spotify.com/album/7mlmp16gqTU2KgrIqbtlwC) | 1:27 | 2022-05-16 | 2023-09-02 |
+| [With you](https://open.spotify.com/track/7gWq2hvVljdNaAShh2SbZk) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [With you](https://open.spotify.com/album/4XDs4L6NH4EXCMp9qjRlzu) | 1:27 | 2023-09-22 |  |
 | [Wobble Bobble](https://open.spotify.com/track/1Hd5NaOb0HqlFsMnud8eIX) | [Mary Donahue](https://open.spotify.com/artist/1yiz1cHWrjaZiEsvU4p4Lg) | [Wobble Bobble](https://open.spotify.com/album/06fbqt6G9BCyE8sYnibtLN) | 2:58 | 2022-07-29 |  |
 | [Yankee Doodle](https://open.spotify.com/track/4mRfFgVV4ipWTYk8Fn4qFD) | [Landon Peterson](https://open.spotify.com/artist/0hGr3mOUfp4HDA3Vjp6EyA) | [Yankee Doodle](https://open.spotify.com/album/5eIHWL3lZNBTMQxZhDOk0L) | 2:00 | 2021-11-11 | 2023-09-02 |
 | [Yankee Doodle](https://open.spotify.com/track/1QBxF3sfgwlcpJo4v7wBxt) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [Yankee Doodle](https://open.spotify.com/album/1tjUWMwT2EndqFOeFjpOh0) | 2:19 | 2023-03-17 |  |

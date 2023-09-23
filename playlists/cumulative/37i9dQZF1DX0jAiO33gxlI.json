@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 209109,
       "name": "Big D!!!!!",
       "url": "https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph"
@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 142037,
       "name": "Cachorrinho Branco e Preto (feat. Coruja Bc1)",
       "url": "https://open.spotify.com/track/7Fq25d1uMgqMaIevy7jZ8J"
@@ -2416,7 +2416,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 148375,
       "name": "C\u00f3digo",
       "url": "https://open.spotify.com/track/4WQc5M0lGsSIB6icR9NkGX"
@@ -4531,6 +4531,24 @@
     },
     {
       "album": {
+        "name": "Las Delicias de La Abuela de Lucas",
+        "url": "https://open.spotify.com/album/1fW9AwbqWNwcRLTSlkYw2E"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121263,
+      "name": "imerso",
+      "url": "https://open.spotify.com/track/0RZxBlYBGZ9WGlhU7UJSWN"
+    },
+    {
+      "album": {
         "name": "Imprevisto",
         "url": "https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY"
       },
@@ -6118,7 +6136,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 208725,
       "name": "Meu Fechamento",
       "url": "https://open.spotify.com/track/1Qh2N24WF6Vm0hJsWixrGr"
@@ -7795,6 +7813,28 @@
     },
     {
       "album": {
+        "name": "Paz Terr\u00edvel",
+        "url": "https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90"
+      },
+      "artists": [
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182623,
+      "name": "Paz Terr\u00edvel",
+      "url": "https://open.spotify.com/track/5Sw8YNbSxuSeH93UEmbja8"
+    },
+    {
+      "album": {
         "name": "Peda\u00e7o do C\u00e9u",
         "url": "https://open.spotify.com/album/3dPqGV0oeig8vHcCVWPfW3"
       },
@@ -8617,6 +8657,32 @@
     },
     {
       "album": {
+        "name": "Qual De N\u00f3s?",
+        "url": "https://open.spotify.com/album/70c8dzCFGLEpX9SZJA0ttP"
+      },
+      "artists": [
+        {
+          "name": "Sid",
+          "url": "https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q"
+        },
+        {
+          "name": "Chiocki",
+          "url": "https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z"
+        },
+        {
+          "name": "Krawk",
+          "url": "https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276454,
+      "name": "Qual De N\u00f3s?",
+      "url": "https://open.spotify.com/track/3wqvPzIYWlsuBocbt8fxg9"
+    },
+    {
+      "album": {
         "name": "Que Nem Crian\u00e7a",
         "url": "https://open.spotify.com/album/4wrYuwiRAIrhkpf5z8Nbtt"
       },
@@ -8932,6 +8998,28 @@
       "duration_ms": 160000,
       "name": "Ra\u00fal",
       "url": "https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp"
+    },
+    {
+      "album": {
+        "name": "Real Cria",
+        "url": "https://open.spotify.com/album/0hSVjz2XOTImzBzQBeH29J"
+      },
+      "artists": [
+        {
+          "name": "Baga",
+          "url": "https://open.spotify.com/artist/6BbFS8BB3MT9nwTQKNDF9Q"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207013,
+      "name": "Real Cria",
+      "url": "https://open.spotify.com/track/2s4tBhCImWGxToo5h4Flkb"
     },
     {
       "album": {
@@ -9650,7 +9738,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 175448,
       "name": "Sempre Vigiando",
       "url": "https://open.spotify.com/track/3fpp2ctX7J8w2irjjtbDWg"
@@ -9680,6 +9768,28 @@
       "duration_ms": 112721,
       "name": "Ser de Verdade",
       "url": "https://open.spotify.com/track/5krwI8ucTf9hvx8k1T1jhV"
+    },
+    {
+      "album": {
+        "name": "Sess\u00e3o de Terapia",
+        "url": "https://open.spotify.com/album/4vZjxbOJvM9e5pVaVzs7L0"
+      },
+      "artists": [
+        {
+          "name": "Zeus",
+          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132187,
+      "name": "Sess\u00e3o de Terapia",
+      "url": "https://open.spotify.com/track/2OKN8SLbUqYlqI6tZ0yqzn"
     },
     {
       "album": {

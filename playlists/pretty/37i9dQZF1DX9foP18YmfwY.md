@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Colo de Deus
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,724 likes - 70 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,863 likes - 70 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,17 +47,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 37 | [Se Eu Tocar](https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Espírito da Verdade](https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P) | 4:47 |
 | 38 | [Inflama\-Me](https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Inflama\-Me](https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR) | 6:41 |
 | 39 | [Só por Ti, Jesus](https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 4](https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f) | 3:55 |
-| 40 | [Nada Te Perturbe](https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Nada Te Perturbe](https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25) | 3:45 |
-| 41 | [Com Tua Mão](https://open.spotify.com/track/7wXke7G8pXKpPPKNluM3DA) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Entretons](https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa) | [Vocacional Shalom 2023](https://open.spotify.com/album/7HwdocC4w9sMdtdRffLCaJ) | 3:58 |
+| 40 | [Cheiro de Rosas](https://open.spotify.com/track/3lGX7tLWbcvDay0Ya0PFF7) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Cheiro de Rosas](https://open.spotify.com/album/49TJc13HQdIadmP3e7hbnY) | 4:39 |
+| 41 | [Nada Te Perturbe](https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Nada Te Perturbe](https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25) | 3:45 |
 | 42 | [Exaltado \- Ao Vivo](https://open.spotify.com/track/3jARfDXmV195P6y1NWHa82) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Exaltado](https://open.spotify.com/album/6rBDRwqE7alteM5SMANcOO) | 4:40 |
-| 43 | [Cheiro de Rosas](https://open.spotify.com/track/3lGX7tLWbcvDay0Ya0PFF7) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Cheiro de Rosas](https://open.spotify.com/album/49TJc13HQdIadmP3e7hbnY) | 4:39 |
+| 43 | [Com Tua Mão](https://open.spotify.com/track/7wXke7G8pXKpPPKNluM3DA) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Entretons](https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa) | [Vocacional Shalom 2023](https://open.spotify.com/album/7HwdocC4w9sMdtdRffLCaJ) | 3:58 |
 | 44 | [Oceano de Misericórdia](https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK) | [Ressonhar](https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4) | 4:50 |
 | 45 | [Deus Vê](https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx) | [Evandro José](https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46) | [Deus Vê](https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q) | 4:09 |
 | 46 | [Coração de Mãe](https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 5](https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd) | 2:57 |
 | 47 | [Egito \- Ao Vivo Em São Paulo](https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [O Fogo Não Se Apagou \(Ao Vivo Em São Paulo\)](https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi) | 7:29 |
-| 48 | [Quero Ouvir Tua Voz](https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO) | [Cleiton Saraiva](https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO), [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO) | [Quero Ouvir Tua Voz](https://open.spotify.com/album/4iFYsnXf0DfLQas8YlV42v) | 4:24 |
+| 48 | [Esposa das Esposas](https://open.spotify.com/track/5vY7h6KxujUtNoMmE1u8tc) | [Bruna Marques](https://open.spotify.com/artist/7ya4P3mfkZQPp3rPn0xCZP), [Gabriel Kzam](https://open.spotify.com/artist/3yxZ1kM9oBVGQroZoP694k) | [Esposa das Esposas](https://open.spotify.com/album/4KWfXvmejlAUucIn681RoP) | 3:59 |
 | 49 | [Nada Temerei](https://open.spotify.com/track/0Az43n8eLEaGhnayh3MBK2) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK) | [Nada Temerei](https://open.spotify.com/album/66tSxggLjDFU9NX7AYoGHQ) | 4:46 |
-| 50 | [Esposa das Esposas](https://open.spotify.com/track/5vY7h6KxujUtNoMmE1u8tc) | [Bruna Marques](https://open.spotify.com/artist/7ya4P3mfkZQPp3rPn0xCZP), [Gabriel Kzam](https://open.spotify.com/artist/3yxZ1kM9oBVGQroZoP694k) | [Esposa das Esposas](https://open.spotify.com/album/4KWfXvmejlAUucIn681RoP) | 3:59 |
+| 50 | [Quero Ouvir Tua Voz](https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO) | [Cleiton Saraiva](https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO), [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO) | [Quero Ouvir Tua Voz](https://open.spotify.com/album/4iFYsnXf0DfLQas8YlV42v) | 4:24 |
 | 51 | [Alma de Cristo](https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Alma de Cristo](https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA) | 3:52 |
 | 52 | [Já Deu Certo](https://open.spotify.com/track/1pZJJiJC4CR9fMOhXP3Xm3) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Canthares](https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr) | [Já Deu Certo](https://open.spotify.com/album/3XI0e2tIRvuxbMbHWvC7Ns) | 4:36 |
 | 53 | [Acalma Minha Tempestade](https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb) | [Banda Quinta Estação \- Música Católica](https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l) | [Acalma Minha Tempestade](https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU) | 5:22 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Paciência](https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Paciência](https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL) | 4:28 |
 | 70 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 |
 
-Snapshot ID: `MCw0YTVjY2Q3NjI1YzVlMzlmYjc0OGE4YjZkOWQ4MGI4ZWNhOTQ5ZjBi`
+Snapshot ID: `MCwwMmM5OWQ2MWM2YmZmMmI4MDAxOGQyNWJhOGI5MDc4OTAwMDM0NzAz`

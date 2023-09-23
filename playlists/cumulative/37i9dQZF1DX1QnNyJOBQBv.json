@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The hottest Latin pop tracks right now. Cover: Sebastian Yatra",
+  "description": "The hottest Latin pop tracks right now. Cover: Aitana",
   "name": "Latin Pop Today",
   "tracks": [
     {
@@ -1950,6 +1950,24 @@
       "duration_ms": 174369,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en"
+    },
+    {
+      "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170346,
+      "name": "Darar\u00ed",
+      "url": "https://open.spotify.com/track/260rBjdoUcXRK8AeAqeg5X"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: NATHY PELUSO & Tiago PZK",
-  "num_followers": 1920425,
+  "num_followers": 1920586,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjQyZTBjMGUxNWNhMzAxZDJlZTIxMzY3ZjdjMzYwYjZmMmIwMzFh",
+  "snapshot_id": "MCwzMWI2MDFhMWQ1NWUyMTcyYTRmMjdlZmRjMmU4MTllMGE1NzhmZDY4",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -447,18 +447,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "La Noche Perfecta",
-        "url": "https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa"
+        "name": "SEX AND LOVE (Deluxe)",
+        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
       "artists": [
         {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 165855,
-      "name": "La Noche Perfecta",
-      "url": "https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa"
+      "duration_ms": 213146,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/6yjsa6c8nSGQqXF12vFSpp"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -495,22 +499,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "SEX AND LOVE (Deluxe)",
-        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
         }
       ],
-      "duration_ms": 213146,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/6yjsa6c8nSGQqXF12vFSpp"
+      "duration_ms": 165855,
+      "name": "La Noche Perfecta",
+      "url": "https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "Amor Sincero",
-      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 204324,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Sangre De Mis Venas",
-        "url": "https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo"
+        "name": "Y Los Claveles Mios",
+        "url": "https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68"
       },
       "artists": [
         {
-          "name": "Vena",
-          "url": "https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd"
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
         }
       ],
-      "duration_ms": 249034,
-      "name": "Sangre De Mis Venas",
-      "url": "https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL"
+      "duration_ms": 236933,
+      "name": "El Verde de Tus Ojos",
+      "url": "https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Y Los Claveles Mios",
-        "url": "https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68"
+        "name": "Sangre De Mis Venas",
+        "url": "https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo"
       },
       "artists": [
         {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+          "name": "Vena",
+          "url": "https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd"
         }
       ],
-      "duration_ms": 236933,
-      "name": "El Verde de Tus Ojos",
-      "url": "https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY"
+      "duration_ms": 249034,
+      "name": "Sangre De Mis Venas",
+      "url": "https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Religi\u00f3n",
-        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
-      },
-      "artists": [
-        {
-          "name": "Jhoni The Voice",
-          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
-        }
-      ],
-      "duration_ms": 220903,
-      "name": "Religi\u00f3n",
-      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Celoso",
         "url": "https://open.spotify.com/album/0l60Oj3eiI7gBWUoAn8YLq"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 203751,
       "name": "Celoso",
       "url": "https://open.spotify.com/track/73DAgDEI5kFmascekWsZIe"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Religi\u00f3n",
+        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
+      },
+      "artists": [
+        {
+          "name": "Jhoni The Voice",
+          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
+        }
+      ],
+      "duration_ms": 220903,
+      "name": "Religi\u00f3n",
+      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
-        "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 257186,
-      "name": "Los Infieles",
-      "url": "https://open.spotify.com/track/6IBrFNHdmwP244yzpRLetH"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/48phjOl7TDFecAVbHfbQZ3"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 183600,
       "name": "La Carta",
       "url": "https://open.spotify.com/track/2mYKWIsHhODugwBho8Mi7y"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
+        "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 257186,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/6IBrFNHdmwP244yzpRLetH"
     },
     {
       "added_at": "2023-09-15 04:01:00",

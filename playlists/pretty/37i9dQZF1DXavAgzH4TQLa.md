@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 
 > Dale play, y que la cumbia no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,848 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,981 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,23 +49,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 39 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 |
 | 40 | [Quiereme](https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Nominado](https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7) | 3:39 |
 | 41 | [Corazon Mentiroso](https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Sin Vergüenza](https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT) | 2:59 |
-| 42 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
-| 43 | [Tan Sólo Amantes](https://open.spotify.com/track/2pMwrVusXakXwm0yE6O4zP) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Creciendo](https://open.spotify.com/album/6JrMR7QudBMGYJ0zIrSFB6) | 3:56 |
+| 42 | [Tan Sólo Amantes](https://open.spotify.com/track/2pMwrVusXakXwm0yE6O4zP) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Creciendo](https://open.spotify.com/album/6JrMR7QudBMGYJ0zIrSFB6) | 3:56 |
+| 43 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
 | 44 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 |
 | 45 | [Porque te fuiste](https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El Polaco \- Agradeciendo a Dios](https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf) | 3:23 |
 | 46 | [No voy a llorar](https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Altos Cumbieros \- Cumbia Villera](https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF) | 3:08 |
 | 47 | [No Me Vuelvo A Enamorar](https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Con La Cumbia En La Sangre](https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp) | 2:51 |
 | 48 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/6ltYnjVswCQtRdxmRjCG35) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew) | 4:27 |
-| 49 | [Soy Soltero](https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [No Lo Compren](https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR) | 3:37 |
-| 50 | [Una Ráfaga De Amor](https://open.spotify.com/track/4vFJMrCClTb09P4fjF5oHQ) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Un Fenómeno Natural](https://open.spotify.com/album/1kGqRwzx7Z0519BTQigZxy) | 3:02 |
+| 49 | [Una Ráfaga De Amor](https://open.spotify.com/track/4vFJMrCClTb09P4fjF5oHQ) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Un Fenómeno Natural](https://open.spotify.com/album/1kGqRwzx7Z0519BTQigZxy) | 3:02 |
+| 50 | [Soy Soltero](https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [No Lo Compren](https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR) | 3:37 |
 | 51 | [Vas a Querer Regresar](https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [Vas a Querer Regresar](https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9) | 3:19 |
 | 52 | [De Regreso Al Penal](https://open.spotify.com/track/2PpnjTOCtpBjAmEDu10Vr8) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy) | 4:03 |
 | 53 | [Ella](https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Solo Para Entendidos](https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga) | 3:02 |
 | 54 | [Una Wacha Piola](https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:35 |
 | 55 | [En este mundo](https://open.spotify.com/track/7gamXMgGmNsr83XdKMPbc9) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El polaco \- Vuelve te lo pido](https://open.spotify.com/album/37q8WdUhkdZPPrkmw6o5xS) | 2:13 |
 | 56 | [Duraznito](https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros:Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 5:08 |
-| 57 | [Yo Que Te Amé](https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [20 Grandes Éxitos](https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6) | 3:29 |
-| 58 | [Te extraño](https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:44 |
+| 57 | [Te extraño](https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:44 |
+| 58 | [Yo Que Te Amé](https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [20 Grandes Éxitos](https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6) | 3:29 |
 | 59 | [Violeta](https://open.spotify.com/track/2THmcJIDCd4jtjAu16u9PO) | [Alcides](https://open.spotify.com/artist/2ao7Jx5TiinWuCtz6Lig4g) | [Violeta](https://open.spotify.com/album/1NL2YOtIloS3ByIqlNBurg) | 3:10 |
 | 60 | [Un Beso y una Flor](https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [La 2da del Boxeador](https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X) | 4:08 |
 | 61 | [Sentado en la Esquina](https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Los Maleantes](https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q) | 2:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 79 | [Pideme la Luna](https://open.spotify.com/track/0rNGHPTBNL4D0koH7bYiVI) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [El Amor Hecho Cancion](https://open.spotify.com/album/0awCpysck1teL7SNptoctb) | 3:13 |
 | 80 | [Le Hace Falta un Beso](https://open.spotify.com/track/0I8QHW2T9Eqj4QWRIiKwRK) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Le Hace Falta un Beso](https://open.spotify.com/album/6qLZAeyYDTZ4MdFGBipbgP) | 3:19 |
 
-Snapshot ID: `MCxlZTAzYmRjZTMzNmQzNzNlOTAyNzBkYTY3NzU5ZTFiNzY1ZGNiZjhj`
+Snapshot ID: `MCwwN2E3OTBlOTFkZmI4ZmVjOTA4NzU2ZDVkOWY4ZjhkNDgyOTUyMmFk`

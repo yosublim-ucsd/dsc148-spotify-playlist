@@ -4,7 +4,7 @@
 
 > La música que te acompaña en el amor\. Foto: Luciano Pereyra & Luis Fonsi
 
-193 songs - 10 hr 36 min
+194 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Expectativas](https://open.spotify.com/track/6Uda7OXP87LTXj6slEiPRv) | [Elisa](https://open.spotify.com/artist/0gnQN7JojqeQnPJllZWNoX) | [Expectativas](https://open.spotify.com/album/28fdrhpIWCcRPqfa42EZJv) | 4:04 | 2023-07-14 | 2023-08-19 |
 | [Fantasias \- Unplugged](https://open.spotify.com/track/6qqd7DGn2VXzxsR4k3Ycun) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Fantasias \(Unplugged\)](https://open.spotify.com/album/2NQINd10CuEMzd7wBMZc7G) | 3:20 | 2022-01-14 |  |
 | [Forever My Love](https://open.spotify.com/track/6TYuTMfBTU4hpXrhLsjIiV) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 3:10 | 2022-04-05 | 2023-04-15 |
+| [Fuego de Noche, Nieve de Día](https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Fuego de Noche, Nieve de Día](https://open.spotify.com/album/5MPWqO3tZLzTjCXYK74Sos) | 4:42 | 2023-09-22 |  |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-03-11 | 2023-02-18 |
 | [Fuiste Mía](https://open.spotify.com/track/1Nf60AnYxFl1xvZo12FZOV) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Fuiste Mía](https://open.spotify.com/album/3GRdrDwDPTg8jNjejST5ZW) | 3:44 | 2022-01-14 |  |
 | [Gracias Por Llegar](https://open.spotify.com/track/6qPSG0TR6gB1VgqGyYSWVl) | [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [Gracias Por Llegar](https://open.spotify.com/album/24PzqVCUv6ZdlTQLIUqIPV) | 3:59 | 2022-10-24 | 2023-09-09 |

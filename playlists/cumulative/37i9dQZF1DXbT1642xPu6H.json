@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 136951,
       "name": "De Nada",
       "url": "https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC"
@@ -3795,6 +3795,28 @@
     },
     {
       "album": {
+        "name": "My Love (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/6uIz2uaQPu5UjOUm5d8dIm"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176187,
+      "name": "My Love (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR"
+    },
+    {
+      "album": {
         "name": "M\u00cdA",
         "url": "https://open.spotify.com/album/7w4L4dKgKRlErEaYooPvoz"
       },
@@ -4445,6 +4467,28 @@
     },
     {
       "album": {
+        "name": "Planes",
+        "url": "https://open.spotify.com/album/4RwD6nFhLc0TqP0w7P0RdM"
+      },
+      "artists": [
+        {
+          "name": "Alex Hoyer",
+          "url": "https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr"
+        },
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201428,
+      "name": "Planes",
+      "url": "https://open.spotify.com/track/6r2Ad8YSXzCcUDx4UX0YTI"
+    },
+    {
+      "album": {
         "name": "PLAYA DEL INGL\u00c9S",
         "url": "https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9"
       },
@@ -4706,7 +4750,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 188731,
       "name": "Run",
       "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"

@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 159245,
       "name": "ASQUEROSO",
       "url": "https://open.spotify.com/track/1PSlMgsJ0V7pUeumk13fbs"
@@ -11362,6 +11362,24 @@
       "duration_ms": 172235,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
+    },
+    {
+      "album": {
+        "name": "Te Sigo Enamorando",
+        "url": "https://open.spotify.com/album/3jhZE9j5IRdc6JX8lCepYZ"
+      },
+      "artists": [
+        {
+          "name": "Huguito Flores el Super",
+          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311080,
+      "name": "Te hubieras ido antes",
+      "url": "https://open.spotify.com/track/79v3sImuaCmWvOn1Au1EZU"
     },
     {
       "album": {

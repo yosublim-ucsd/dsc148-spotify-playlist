@@ -1,12 +1,12 @@
 {
-  "description": "Discover indie covers. Cover: Lovejoy",
-  "num_followers": 285649,
+  "description": "Songs you love with an indie spin on it. Cover: Soccer Mommy ",
+  "num_followers": 285672,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjJiZWRiZjc5OTAwMGM5NWMzMjZlNmQ2YTg2NmVhOTEzZWYzYjRi",
+  "snapshot_id": "MCxkNjYwOTcwM2I5YmFhZWQ2NDJjOWY1M2YwNmViYTZmZDViZmVmOWMx",
   "tracks": [
     {
       "added_at": "2023-05-05 17:19:46",
@@ -43,6 +43,22 @@
       "duration_ms": 269333,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "I'm Only Me When I'm With You",
+        "url": "https://open.spotify.com/album/4XxKXwDS8eG7aOw3cF816M"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 247400,
+      "name": "I'm Only Me When I'm With You",
+      "url": "https://open.spotify.com/track/3p5rnKolaN8ap6Ykm0A8AK"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -111,6 +127,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0WCQS4X35RP4kLo6qRiOD3"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "duration_ms": 269952,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/4X1qDzQdpuxN6UOkaq6UXi"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "The Moon Song",
         "url": "https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm"
       },
@@ -127,22 +159,6 @@
       "duration_ms": 141040,
       "name": "The Moon Song",
       "url": "https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0WCQS4X35RP4kLo6qRiOD3"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        }
-      ],
-      "duration_ms": 269952,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/4X1qDzQdpuxN6UOkaq6UXi"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -195,22 +211,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 317106,
-      "name": "A Little Bit of Everything - Spotify Singles",
-      "url": "https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Sweater Weather",
         "url": "https://open.spotify.com/album/0p9EbDmUVOaXwkzLyJEdsl"
       },
@@ -223,6 +223,22 @@
       "duration_ms": 155905,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0CYAqKC8CkyAu1bsXQ5lS4"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 317106,
+      "name": "A Little Bit of Everything - Spotify Singles",
+      "url": "https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -517,6 +533,22 @@
       "url": "https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j"
     },
     {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "High And Dry",
+      "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
+    },
+    {
       "added_at": "2023-07-20 17:51:58",
       "album": {
         "name": "Coastline (Vancouver Sleep Clinic Remix)",
@@ -535,22 +567,6 @@
       "duration_ms": 186990,
       "name": "Coastline - Vancouver Sleep Clinic Remix",
       "url": "https://open.spotify.com/track/0zUTBKmEYRpJnNwbILo3mW"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "High And Dry",
-      "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -789,6 +805,22 @@
       "url": "https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi"
     },
     {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Thank You For Being Here",
+        "url": "https://open.spotify.com/album/2eRWUCcignvwnWOMQTtarq"
+      },
+      "artists": [
+        {
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+        }
+      ],
+      "duration_ms": 125739,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/1UgYbaqmqRbnJ395pHLwMO"
+    },
+    {
       "added_at": "2023-08-18 19:30:00",
       "album": {
         "name": "Attack of the Ghost Riders",
@@ -807,22 +839,6 @@
       "duration_ms": 164351,
       "name": "Attack of the Ghost Riders",
       "url": "https://open.spotify.com/track/51MPm38qe6Mgp816W18ayV"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Thank You For Being Here",
-        "url": "https://open.spotify.com/album/2eRWUCcignvwnWOMQTtarq"
-      },
-      "artists": [
-        {
-          "name": "Paravi",
-          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
-        }
-      ],
-      "duration_ms": 125739,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/1UgYbaqmqRbnJ395pHLwMO"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -909,22 +925,6 @@
       "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "keep your head up",
-        "url": "https://open.spotify.com/album/5UMCnMfWmOo9Yc2Eu0L6xf"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 206672,
-      "name": "keep your head up",
-      "url": "https://open.spotify.com/track/1fC0O9vW5aDc3Oo5OqBCmL"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Alaska",
@@ -939,6 +939,22 @@
       "duration_ms": 180093,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "keep your head up",
+        "url": "https://open.spotify.com/album/5UMCnMfWmOo9Yc2Eu0L6xf"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 206672,
+      "name": "keep your head up",
+      "url": "https://open.spotify.com/track/1fC0O9vW5aDc3Oo5OqBCmL"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -995,6 +1011,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "duration_ms": 237876,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "You've Got a Woman",
         "url": "https://open.spotify.com/album/3DbIkUH1sh5HTPD8n65A3S"
       },
@@ -1011,22 +1043,6 @@
       "duration_ms": 205220,
       "name": "You've Got a Woman",
       "url": "https://open.spotify.com/track/55tF86yLmOiGwoFgollNC6"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
-      },
-      "artists": [
-        {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
-        }
-      ],
-      "duration_ms": 237876,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Come Give Me Love",
-        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 239643,
-      "name": "Come Give Me Love",
-      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
       },
@@ -1091,6 +1091,22 @@
       "duration_ms": 191875,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Come Give Me Love",
+        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 239643,
+      "name": "Come Give Me Love",
+      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Home Again / It's Too Late",
-        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY"
       },
@@ -1187,6 +1187,22 @@
       "duration_ms": 187697,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Home Again / It's Too Late",
+        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1375,6 +1391,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 242181,
+      "name": "Back To Black",
+      "url": "https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Pumped Up Kicks (Gus Dapperton Version)",
         "url": "https://open.spotify.com/album/3N6JDO9GBMR7sZHpgxY1OS"
       },
@@ -1391,22 +1423,6 @@
       "duration_ms": 232200,
       "name": "Pumped Up Kicks - Gus Dapperton Version",
       "url": "https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 242181,
-      "name": "Back To Black",
-      "url": "https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "I Kissed a Boy",
         "url": "https://open.spotify.com/album/06akyumCnIAtjUQWROLlSv"
       },
@@ -1547,18 +1547,34 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Stolen Time Deluxe",
-        "url": "https://open.spotify.com/album/27Pl4ZURgCynlnGAgTQEds"
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
       },
       "artists": [
         {
-          "name": "Abigail Lapell",
-          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
         }
       ],
-      "duration_ms": 190333,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/6GeJeIWS9dNh5jJqyEutj9"
+      "duration_ms": 224706,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Let's Dance to Joy Division",
+        "url": "https://open.spotify.com/album/72w9n6hWEOWE5QrMqrmJv8"
+      },
+      "artists": [
+        {
+          "name": "Lemony Rug",
+          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Let's Dance to Joy Division",
+      "url": "https://open.spotify.com/track/3FChIBncGO2pCxv9QIFIcI"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1575,6 +1591,22 @@
       "duration_ms": 176853,
       "name": "Float On",
       "url": "https://open.spotify.com/track/2ymifjFHCi1myYA58sHI4v"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Stolen Time Deluxe",
+        "url": "https://open.spotify.com/album/27Pl4ZURgCynlnGAgTQEds"
+      },
+      "artists": [
+        {
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/6GeJeIWS9dNh5jJqyEutj9"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1659,22 +1691,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "You're Still The One",
-        "url": "https://open.spotify.com/album/5ZKBjx5wcE0c99n1zXUna4"
-      },
-      "artists": [
-        {
-          "name": "Okay Kaya",
-          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
-        }
-      ],
-      "duration_ms": 164779,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/3P87k30Y8InwhW8Vx9YOZR"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Teardrop",
         "url": "https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y"
       },
@@ -1691,34 +1707,18 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "I Would Die 4 U",
-        "url": "https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA"
+        "name": "You're Still The One",
+        "url": "https://open.spotify.com/album/5ZKBjx5wcE0c99n1zXUna4"
       },
       "artists": [
         {
-          "name": "Art School Girlfriend",
-          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+          "name": "Okay Kaya",
+          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
         }
       ],
-      "duration_ms": 199062,
-      "name": "I Would Die 4 U",
-      "url": "https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW"
-      },
-      "artists": [
-        {
-          "name": "Azure Ryder",
-          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
-        }
-      ],
-      "duration_ms": 234624,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF"
+      "duration_ms": 164779,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/3P87k30Y8InwhW8Vx9YOZR"
     }
   ],
   "unique_name": "Indie Covers",

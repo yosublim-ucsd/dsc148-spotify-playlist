@@ -1,12 +1,12 @@
 {
   "description": "Soul meets blues. Cover: Joe Louis Walker",
-  "num_followers": 19309,
+  "num_followers": 19379,
   "original_name": "Soul Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzQ2ODU0NzI4MWExY2E3ZDlhZGVhZmYzNThkNWY3Nzg1YzVjMTMy",
+  "snapshot_id": "MCxlMTQ2Zjg1NDYyZjk0Nzg5OGE2ZWZmNGMxYTQyMzliZDQ2ZTQyOWIw",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -39,6 +39,26 @@
       "duration_ms": 329386,
       "name": "None Of Us Are Free",
       "url": "https://open.spotify.com/track/1MBgaJoraHR7RHgAV58QU4"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Out Of Sight",
+        "url": "https://open.spotify.com/album/5o9sRpyDsuhc3fiS7y99gK"
+      },
+      "artists": [
+        {
+          "name": "Jade Macrae",
+          "url": "https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd"
+        },
+        {
+          "name": "Kirk Fletcher",
+          "url": "https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq"
+        }
+      ],
+      "duration_ms": 228904,
+      "name": "Out Of Sight",
+      "url": "https://open.spotify.com/track/3s6cuxFNe2so5aX2NTAM6Q"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -1275,22 +1295,6 @@
       "duration_ms": 255693,
       "name": "Going to the Shack",
       "url": "https://open.spotify.com/track/1hpX0MfjBsfsva8S0AxemB"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "I've Got My Own Hell To Raise",
-        "url": "https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC"
-      },
-      "artists": [
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 206466,
-      "name": "On The Surface",
-      "url": "https://open.spotify.com/track/0qQTdGIA3YPcC1L3kaJpm4"
     },
     {
       "added_at": "2020-12-01 05:01:00",

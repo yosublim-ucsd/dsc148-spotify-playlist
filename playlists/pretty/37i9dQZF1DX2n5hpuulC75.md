@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,389 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,416 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 59 | [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/track/1G7KYThXAkjO11OhoKr6z1) | [Aybner](https://open.spotify.com/artist/4AStKJRM6DqXSdst3ENHJA) | [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/album/1Da9UhVgPmpSYlJsSHV9KG) | 2:56 |
 | 60 | [They Came Along](https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX) | [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [They Came Along](https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5) | 5:57 |
 
-Snapshot ID: `MCxjM2FiMTc4MmIyZTc2NjQ4MTRjNzg1ZmNiMzE2MzFhN2NlNWE1ZWY2`
+Snapshot ID: `MCwzZDQ1YjVlZmMwNDAwNzlmOTYxNDU3YWE0M2YwNmVkZmIyZTZkZDM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,232 likes - 50 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,388 likes - 50 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 29 | [Ruach Hakodesh](https://open.spotify.com/track/31ZLMtDzOg7pyMYhlVAesz) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Ruach Hakodesh](https://open.spotify.com/album/7lAGemOFalu3XI1Cy8DDMm) | 9:12 |
 | 30 | [Kosi](https://open.spotify.com/track/1dEluidOg9H7NhHkJlcMiM) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/6E4YUnHFOOfL57krwBfgYl) | [Kosi](https://open.spotify.com/album/6dq8hFqLFD216W2jcwvVC4) | 16:05 |
 | 31 | [Onise Iyanu \(feat\. Micah Stampley\)](https://open.spotify.com/track/0S7l0Nz5MztXjkNTppknRp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Micah Stampley](https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK) | [This God Is Too Good](https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg) | 6:06 |
-| 32 | [There's an Overflow](https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [There's an Overflow](https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm) | 8:10 |
+| 32 | [Eyes of The Spirit Chant \(Prayer Chant\)](https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Journey To The Deep \(Prayer Chants\)](https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag) | 2:11 |
 | 33 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 |
-| 34 | [Eyes of The Spirit Chant \(Prayer Chant\)](https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Journey To The Deep \(Prayer Chants\)](https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag) | 2:11 |
+| 34 | [There's an Overflow](https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [There's an Overflow](https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm) | 8:10 |
 | 35 | [Yeshua](https://open.spotify.com/track/1CCmVTHzUjJT70rcyFDCpM) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Yeshua](https://open.spotify.com/album/2AVLsx6wOL64vO5bd01g78) | 8:53 |
 | 36 | [Mma Mma](https://open.spotify.com/track/7mqy6OedwJcCY3LFvRziFW) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Unlimited Verse 2](https://open.spotify.com/album/20YMmzwkCTcSgbk4hB3Jj4) | 4:41 |
 | 37 | [No Other God](https://open.spotify.com/track/5erufNGesKhTwtxeJa8wZD) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Love Song](https://open.spotify.com/artist/6yKVfS7jLHoqmI8AWvVivy) | [God of Love](https://open.spotify.com/album/2T2gLRnY1ylgkEWaEVuL1H) | 5:41 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 43 | [All the Glory](https://open.spotify.com/track/21TNIJLjRY22md0LWvtGtc) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Nations Will Rise and Sing](https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV) | 5:17 |
 | 44 | [Ogya](https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:09 |
 | 45 | [Baba](https://open.spotify.com/track/0H5lLW8qybOadIxSO730jY) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Lost in His Glory](https://open.spotify.com/album/5OcrjI1YzaqXYwLe3Eo9T5) | 5:55 |
-| 46 | [I Stand Amazed \(Live\)](https://open.spotify.com/track/0544EK1JJF4rBb2DREyn26) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus: Sinach Live in Concert](https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ) | 7:24 |
-| 47 | [Hallelujah](https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Xperience with Love](https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi) | 9:46 |
+| 46 | [Hallelujah](https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Xperience with Love](https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi) | 9:46 |
+| 47 | [More](https://open.spotify.com/track/5Eqt1I1I5S1yWgqj1TCysK) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Chapter One](https://open.spotify.com/album/0ag7AC8rrkmqrTpC6SkMYJ) | 7:36 |
 | 48 | [Awurade Kasa](https://open.spotify.com/track/5mInFrdNxVsfBUeoUazXmo) | [Cindy Thompson](https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd) | [Cindy's Messiah](https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD) | 7:42 |
 | 49 | [Kabi O Osi O](https://open.spotify.com/track/7wvd86p1SSGKhb6iLRMCG2) | [Victor Olayeni](https://open.spotify.com/artist/0TRdYFzxaxrp8DCiBp4UiR) | [Life and Worship Chapter 1](https://open.spotify.com/album/09CZxo7F03KAMVuGwKQz9X) | 4:17 |
 | 50 | [Let It Rain](https://open.spotify.com/track/79GIdsRB1B2nQ8RIWVpG1I) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 7:35 |
 
-Snapshot ID: `MCxhZmY4Njk1ZjU2MDFlNTJiYTY4ZDE2ZGY2YTE2ZjAwZDI2MDA5M2U4`
+Snapshot ID: `MCwwYTIxMWY3MTNmNTIzNTU3ODFjZWUxZGI4NzkyNDc4ZjRlNjVlMDE2`

@@ -4,7 +4,7 @@
 
 > ¡Pop\-punk por siempre!
 
-124 songs - 6 hr 46 min
+126 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Así Nos Rompíamos el Hocico Ayer](https://open.spotify.com/track/08JMJA2pkJBXwwbzhvQ4av) | [Primo](https://open.spotify.com/artist/2wXJLXeNLTOKyDWw0F5FZF) | [Así Nos Rompíamos el Hocico Ayer](https://open.spotify.com/album/1BJcmBqzsfVXOpurvxnxZz) | 2:06 | 2021-11-26 | 2022-07-27 |
 | [Aunque a Veces Tenga Miedo](https://open.spotify.com/track/3NtymRSp0GJUBeiNUk3ZRL) | [Barney Gombo](https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc) | [Aunque a Veces Tenga Miedo](https://open.spotify.com/album/4mDGa6yqGKRmWvCHKIVvDM) | 3:54 | 2021-11-26 | 2022-11-13 |
 | [Ay Equis, Nada Que Ver..\. \(Pinche Raza Igualada\)](https://open.spotify.com/track/4gXv8ukCY5oIpzVMMfSFAi) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL), [Barney Gombo](https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc) | [Ay Equis, Nada Que Ver..\. \(Pinche Raza Igualada\)](https://open.spotify.com/album/09sex9lgVpZBDbkaQCp2ot) | 3:33 | 2023-06-02 |  |
+| [Años Maravillosos](https://open.spotify.com/track/3YguoqggwCvjY3WkAWzLL9) | [Klzon Chino](https://open.spotify.com/artist/6LOwMyA2rOPFKQFOu0rVwn) | [Años Maravillosos](https://open.spotify.com/album/0VxzeXQEnzpNsxWxR1yPFC) | 3:44 | 2023-09-22 |  |
 | [Bacardí](https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu) | [Pet Friendly](https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW) | [Bacardí](https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G) | 2:31 | 2022-12-21 |  |
 | [Bajo la Misma Luna \(Yo Estoy Pensando Que Tu Estas Pensando en Mi\)](https://open.spotify.com/track/0XFK8dOXAG5AJiVUJmEqfF) | [2contra1](https://open.spotify.com/artist/07QNsyKFdUIrz9DdQj1Df6) | [7 Minutos en el Infierno](https://open.spotify.com/album/0kQwfwokGW1xXfKYSt066t) | 2:37 | 2021-11-26 | 2022-07-23 |
 | [Canción para Ti](https://open.spotify.com/track/45Vmknqo3EMaLb6ijxUA3q) | [Blast55](https://open.spotify.com/artist/6ZtsVCTccysmOQrMasGMG8) | [A Todos Nos Pasa](https://open.spotify.com/album/6wJEaTch4XaGZnsXSAv0ve) | 3:45 | 2021-11-26 | 2023-04-15 |
@@ -108,8 +109,9 @@
 | [Primer Lugar](https://open.spotify.com/track/0meCAzWjALDb070H6L9DsS) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Primer Lugar](https://open.spotify.com/album/5SqvbU9C4x09HtKMmTRB3D) | 3:32 | 2021-11-26 | 2023-06-27 |
 | [Quemando Cartas](https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Entre La Guerra Y El Amor](https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV) | 3:05 | 2021-11-26 |  |
 | [ReiniciaR](https://open.spotify.com/track/4fERNkRLeLdy2EqPxHzBiu) | [May Sunday](https://open.spotify.com/artist/08SkBrVjxq80ivZKnGh1LE) | [ReiniciaR](https://open.spotify.com/album/4HuFfpp2wVLhh1LdyPRfn6) | 3:18 | 2022-07-22 | 2022-07-25 |
+| [Resiste](https://open.spotify.com/track/72uy4Nq5wCHFYnV6z2FCp5) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Resiste EP](https://open.spotify.com/album/2VgAfzswusFVxGpMxAzUY9) | 3:37 | 2023-09-22 |  |
 | [Rolleando Fuerte](https://open.spotify.com/track/5eicvn7A3NuAGduvU6a68t) | [2contra1](https://open.spotify.com/artist/07QNsyKFdUIrz9DdQj1Df6) | [2 contra 1](https://open.spotify.com/album/4sEtbJkhpBn6S3NgotSMFa) | 2:35 | 2021-11-26 | 2022-07-19 |
-| [Rompe Mi Mente](https://open.spotify.com/track/08FsQrACvV8m6qot7Uv2wI) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Rompe Mi Mente](https://open.spotify.com/album/0lvOw8x8KvSgARM5U8ZtLT) | 3:29 | 2023-05-12 |  |
+| [Rompe Mi Mente](https://open.spotify.com/track/08FsQrACvV8m6qot7Uv2wI) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Rompe Mi Mente](https://open.spotify.com/album/0lvOw8x8KvSgARM5U8ZtLT) | 3:29 | 2023-05-12 | 2023-09-23 |
 | [Salven la torre del reloj](https://open.spotify.com/track/3FDeix0Xgpf74VX3nV3g9w) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [Destinados a fallar](https://open.spotify.com/album/1OmvaIf4kLE46ZnX6Pfhnd) | 3:43 | 2021-11-26 | 2022-07-23 |
 | [Saoko \(Post\-Punk\)](https://open.spotify.com/track/1QcoAZN9XMAZQT2aeQqII0) | [Isaac De los Santos](https://open.spotify.com/artist/24jCcaU83zKxUs7BJylznZ) | [Saoko \(Post\-Punk\)](https://open.spotify.com/album/4Fmaxtk2DZgoQRZG3c8jn5) | 3:00 | 2022-10-01 | 2023-04-23 |
 | [Serás El Mástil De Mi Barco](https://open.spotify.com/track/3ehubcf2qVxCkpBwIeLBNu) | [May Sunday](https://open.spotify.com/artist/08SkBrVjxq80ivZKnGh1LE), [Alonzo Rodríguez](https://open.spotify.com/artist/6FabLitAKk8xbI901jJg6o) | [Ahora y Siempre](https://open.spotify.com/album/3FLGPjRkMAwnSN99iBR1e6) | 2:54 | 2021-11-26 | 2022-07-23 |
@@ -117,7 +119,7 @@
 | [Siempre Fuerte](https://open.spotify.com/track/6x8GV4GRH2hZ8eeRmpMrC4) | [Skates Mx](https://open.spotify.com/artist/2P3698bE1ZmRUy8KljStTv) | [Y Si Patinan?](https://open.spotify.com/album/3AVCV6rOUqSxWt9YRf3IjD) | 3:36 | 2021-11-26 | 2023-07-30 |
 | [Siempre la Cago](https://open.spotify.com/track/4iNZvtt1Bn0oCIMf8giWRF) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Interface](https://open.spotify.com/artist/7MTsoppc8uObq6H28nH0rd) | [Siempre la Cago](https://open.spotify.com/album/5mxQSrhYKGDhsxhMJEi37z) | 3:34 | 2021-11-26 | 2022-07-21 |
 | [Solo Dios lo Sabe](https://open.spotify.com/track/2PA11HBziALO8mnvnh3qXw) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Solo Dios lo Sabe](https://open.spotify.com/album/6Fg2fhsyWhk86CZruRUrQv) | 2:45 | 2023-04-28 |  |
-| [Te Seguiré](https://open.spotify.com/track/3jgYSzWBelkdbIT6i5MGYe) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Te Seguiré](https://open.spotify.com/album/5cQlyZifodz2DMKL78miNf) | 3:59 | 2023-07-28 |  |
+| [Te Seguiré](https://open.spotify.com/track/3jgYSzWBelkdbIT6i5MGYe) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Te Seguiré](https://open.spotify.com/album/5cQlyZifodz2DMKL78miNf) | 3:59 | 2023-07-28 | 2023-09-23 |
 | [Te Vale Madre](https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Te Vale Madre](https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7) | 3:10 | 2022-12-21 |  |
 | [Te Voy a Tener](https://open.spotify.com/track/08qtqeaHucyXi72GmgBwMP) | [Adeline](https://open.spotify.com/artist/4io6l8hPhpvszZt29zZXKt) | [Te Voy a Tener](https://open.spotify.com/album/4qus8nd695aj9k2XJXTPme) | 3:06 | 2021-11-26 | 2022-07-13 |
 | [Tennessecito](https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Mejores Tiempos](https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE) | 4:12 | 2021-11-26 |  |

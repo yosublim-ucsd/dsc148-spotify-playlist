@@ -4,7 +4,7 @@
 
 > Set the mood for your romantic date night with some soft and cozy Jazz.
 
-331 songs - 21 hr 18 min
+335 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2022-08-11 | 2023-01-20 |
 | [Cherry Stone](https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Cherry Stone](https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA) | 3:23 | 2022-11-24 | 2023-08-11 |
 | [Clear as Autumn Nights](https://open.spotify.com/track/2PVMfghJc3ayLHjGbGjg3J) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [This Is What I Want for Christmas](https://open.spotify.com/album/6auL7NTcuJr1TVvUcxizeV) | 5:01 | 2021-12-14 |  |
+| [Clear Out](https://open.spotify.com/track/0YEVAn2vGbx9jI7xY6Fguf) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Clear Out](https://open.spotify.com/album/2UAUzLv0n1w1QQ8U6iR2JU) | 3:25 | 2023-09-22 |  |
 | [Clear Sight](https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Clear Sight](https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S) | 2:47 | 2022-09-29 |  |
 | [Cocktails for Two \- Remastered](https://open.spotify.com/track/7DAMG7QY6VYazuuYfQVTJl) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Avant\-Garde Jazz \(Remastered\)](https://open.spotify.com/album/3miaDzBToycfxNmVr7m72N) | 3:17 | 2022-01-26 | 2022-09-22 |
 | [Come on..\. Lucky!](https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Come on..\. Lucky!](https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX) | 2:44 | 2023-04-20 |  |
@@ -108,6 +109,7 @@
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2022-09-29 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Georgia On My Mind](https://open.spotify.com/album/113L3LCtjrI2vA7xe8DCLq) | 3:12 | 2021-12-14 | 2023-05-05 |
 | [Giving thrills](https://open.spotify.com/track/2mKGI5TnGVSWbloCZlma6B) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Giving thrills](https://open.spotify.com/album/4I4N89jyjhMfacIc2tU4uH) | 3:11 | 2023-06-08 |  |
+| [Graceful Rhapsody](https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Graceful Rhapsody](https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm) | 2:42 | 2023-09-22 |  |
 | [Hello, Young Lovers](https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [Hello, Young Lovers](https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU) | 3:54 | 2023-06-01 |  |
 | [Home Of My Tomorrow](https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Home Of My Tomorrow](https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu) | 3:08 | 2022-11-24 |  |
 | [Home town](https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Home town](https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr) | 2:58 | 2023-01-12 |  |
@@ -213,6 +215,7 @@
 | [Nowhere To Go](https://open.spotify.com/track/30qiKII7quQgj7xBz9hL74) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Nowhere To Go](https://open.spotify.com/album/65hkYKJukpRB7kvDFbewtr) | 2:44 | 2023-08-10 |  |
 | [Numerous Occasions](https://open.spotify.com/track/7Cmp85HSefyHtULmgajybL) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Numerous Occasions](https://open.spotify.com/album/4Hn6jU3s5yKVffhJnDr6Et) | 3:31 | 2023-01-12 |  |
 | [On A Clear Day](https://open.spotify.com/track/2rtTRNbX2fRQGsLBje9YHS) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [On A Clear Day](https://open.spotify.com/album/3hLEkeJRG2VTK3M7015jt0) | 2:37 | 2022-10-13 |  |
+| [On Repeat](https://open.spotify.com/track/0DH1r35QPYQGWSVWiPb8nC) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [On Repeat](https://open.spotify.com/album/4vKULVroJWpWyQ6KnlxZSd) | 3:24 | 2023-09-22 |  |
 | [Once Again](https://open.spotify.com/track/6njul2LIdBRvxjoekr0mMr) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [Once Again](https://open.spotify.com/album/16pxAAGup6qor08lI2z7KV) | 3:23 | 2023-05-25 |  |
 | [Once I Had A Secret Love](https://open.spotify.com/track/05prboiM4bmlXfvsvghvI1) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:18 | 2021-12-14 | 2023-02-17 |
 | [Once In A Lifetime](https://open.spotify.com/track/0IQ6jc6zO9ffRqcNoiL1Di) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 4:12 | 2023-01-26 |  |
@@ -287,6 +290,7 @@
 | [The Turning Point](https://open.spotify.com/track/6G8zCGZyhxjCZsVIkUM3Fy) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [The Turning Point](https://open.spotify.com/album/41tIv6GzyU9Mk4143qBKvP) | 4:24 | 2022-09-08 |  |
 | [The Very Thought Of You](https://open.spotify.com/track/1Ov2QxMauYfb0YUahrGqxe) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Yesterday's Love Songs, Today's Blues \(Expanded Edition\)](https://open.spotify.com/album/6bcu2oDxVxGNI17MT3pCkw) | 2:53 | 2022-02-10 | 2022-04-08 |
 | [There Goes My Heart](https://open.spotify.com/track/1LGN3DO6YD61pwb64gQtZx) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [There Goes My Heart](https://open.spotify.com/album/1xNAXGrLepkx1b0pgBFuvn) | 3:42 | 2023-01-19 |  |
+| [There Will Be Better Days](https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [There Will Be Better Days](https://open.spotify.com/album/5ELhztVWr2IO1958kMWLli) | 4:59 | 2023-09-22 |  |
 | [There Will Never Be Another You](https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 3:38 | 2022-02-10 | 2022-04-08 |
 | [These Foolish Things](https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [These Foolish Things](https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy) | 4:50 | 2021-12-14 |  |
 | [They Said](https://open.spotify.com/track/5fxlpxZnDeUP8Gc98bwVs1) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [They Said](https://open.spotify.com/album/4QyebMBRUiYTbyOIrZux8t) | 3:38 | 2023-08-24 |  |

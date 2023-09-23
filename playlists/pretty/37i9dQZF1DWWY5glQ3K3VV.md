@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > Canzoni rap per party fino al mattino! Cover: Tony Effe
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,749 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,826 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 59 | [La zone \(feat\. Shiva\)](https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [La zone \(feat\. Shiva\)](https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M) | 2:38 |
 | 60 | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ) | [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz) | 3:16 |
 | 61 | [ANSIA NO](https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9) | [FSK SATELLITE](https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH) | [FSK TRAPSHIT REVENGE](https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S) | 2:28 |
-| 62 | [Caramba](https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Caramba](https://open.spotify.com/album/0wnFOzdO3ujU3eabTYDoF1) | 3:03 |
-| 63 | [Suave \(feat\. VillaBanks\)](https://open.spotify.com/track/4dswUsqTDCqWpmQlhFqedk) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [Suave \(feat\. VillaBanks\)](https://open.spotify.com/album/2rILNUxABq3b74Ucczc1zV) | 3:17 |
+| 62 | [Suave \(feat\. VillaBanks\)](https://open.spotify.com/track/4dswUsqTDCqWpmQlhFqedk) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [Suave \(feat\. VillaBanks\)](https://open.spotify.com/album/2rILNUxABq3b74Ucczc1zV) | 3:17 |
+| 63 | [Caramba](https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Caramba](https://open.spotify.com/album/0wnFOzdO3ujU3eabTYDoF1) | 3:03 |
 | 64 | [Blauer](https://open.spotify.com/track/70TPpmAKLK49gcs58JqqWy) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:55 |
 | 65 | [SENZA RUMORE](https://open.spotify.com/track/2Z7sJKCxTH94KCRxJTd4O7) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 3:49 |
 | 66 | [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 79 | [Gli Occhi del Blocco \(feat\. Escomar\)](https://open.spotify.com/track/2dKfIsCs1XhlDZrLjuTbX5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw) | [EP1](https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP) | 2:55 |
 | 80 | [Bando](https://open.spotify.com/track/0kzGjSRHGVcaWxagzQwAyD) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Bando](https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l) | 2:48 |
 
-Snapshot ID: `MCxkNDc3ZmYzMjFhZDcyZWU0OGY5OWVmYWI3MzU0ZjgwNTI2ZWM4MWI3`
+Snapshot ID: `MCw2NzNlYjA0NzBjYzM0YWI1OTNhMjE4NmFhNDMxOTAxMmU3Y2ZmMTUz`

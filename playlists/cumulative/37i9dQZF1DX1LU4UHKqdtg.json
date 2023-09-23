@@ -1385,6 +1385,28 @@
     },
     {
       "album": {
+        "name": "Better Things (Tropkillaz Remix)",
+        "url": "https://open.spotify.com/album/05K5RSyTasOI8cQTFHhTLS"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180468,
+      "name": "Better Things - Tropkillaz Remix",
+      "url": "https://open.spotify.com/track/7KxWAxnc5v27PO8YyhySn8"
+    },
+    {
+      "album": {
         "name": "BETTING",
         "url": "https://open.spotify.com/album/5tVF9innz1XK3xj72Phi7e"
       },
@@ -8082,7 +8104,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 230933,
-      "name": "New tomorrow",
+      "name": "New Tomorrow",
       "url": "https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c"
     },
     {

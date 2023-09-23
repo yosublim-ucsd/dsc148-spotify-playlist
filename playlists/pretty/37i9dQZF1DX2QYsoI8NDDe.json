@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Conexi\u00f3n Divina",
-  "num_followers": 503871,
+  "num_followers": 503896,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2M1ZTUwYjUyYTcyOWU3MDU3ZDk0MTM5MmQzYWIxNDNjMDNjMjEz",
+  "snapshot_id": "MCw0NzkxZmU0YTQ0Zjc4MWY1ZmY5Mzg3NWFlY2ZmNjA3MDAyMjBjMjRk",
   "tracks": [
     {
       "added_at": "2023-08-21 17:42:45",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-08-21 17:42:45",
       "album": {
-        "name": "Te Mereces Un Amor",
-        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Te Mereces Un Amor",
-      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
-    },
-    {
-      "added_at": "2023-08-21 17:42:45",
-      "album": {
         "name": "No Me Deja De Doler",
         "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 157946,
       "name": "No Me Deja De Doler",
       "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
+    },
+    {
+      "added_at": "2023-08-21 17:42:45",
+      "album": {
+        "name": "Te Mereces Un Amor",
+        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Te Mereces Un Amor",
+      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
     },
     {
       "added_at": "2023-08-21 17:42:45",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-08-21 17:42:45",
       "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN"
-      },
-      "artists": [
-        {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
-        }
-      ],
-      "duration_ms": 162037,
-      "name": "Terapia",
-      "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
-    },
-    {
-      "added_at": "2023-08-21 17:42:45",
-      "album": {
         "name": "Se Acabo (En Vivo)",
         "url": "https://open.spotify.com/album/2zFaRfokK5hhre6SV3EQEq"
       },
@@ -311,18 +295,38 @@
     {
       "added_at": "2023-08-21 17:42:45",
       "album": {
-        "name": "La Chacalosa",
-        "url": "https://open.spotify.com/album/3mmYCTs2YEuJPnXyJpNEJT"
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN"
       },
       "artists": [
         {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
         }
       ],
-      "duration_ms": 213713,
-      "name": "La Chacalosa",
-      "url": "https://open.spotify.com/track/5vuVl4GyBzqurNoUmVmWfC"
+      "duration_ms": 162037,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
+    },
+    {
+      "added_at": "2023-08-21 17:42:45",
+      "album": {
+        "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
+        "url": "https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        },
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "duration_ms": 180773,
+      "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
+      "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
     },
     {
       "added_at": "2023-08-21 17:42:45",
@@ -359,22 +363,18 @@
     {
       "added_at": "2023-08-21 17:42:45",
       "album": {
-        "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
-        "url": "https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO"
+        "name": "La Chacalosa",
+        "url": "https://open.spotify.com/album/3mmYCTs2YEuJPnXyJpNEJT"
       },
       "artists": [
         {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        },
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
         }
       ],
-      "duration_ms": 180773,
-      "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
-      "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
+      "duration_ms": 213713,
+      "name": "La Chacalosa",
+      "url": "https://open.spotify.com/track/5vuVl4GyBzqurNoUmVmWfC"
     },
     {
       "added_at": "2023-08-21 17:42:45",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-08-21 17:42:45",
       "album": {
+        "name": "Empoderada",
+        "url": "https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "duration_ms": 164186,
+      "name": "Empoderada",
+      "url": "https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP"
+    },
+    {
+      "added_at": "2023-08-21 17:42:45",
+      "album": {
         "name": "En Carne Viva",
         "url": "https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 203964,
       "name": "En Carne Viva",
       "url": "https://open.spotify.com/track/0576T1N3lsfD2ImwFrW1tO"
-    },
-    {
-      "added_at": "2023-08-21 17:42:45",
-      "album": {
-        "name": "Empoderada",
-        "url": "https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        }
-      ],
-      "duration_ms": 164186,
-      "name": "Empoderada",
-      "url": "https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP"
     },
     {
       "added_at": "2023-08-21 17:42:45",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-08-21 17:42:45",
       "album": {
-        "name": "San Mike",
-        "url": "https://open.spotify.com/album/49o87APRm62j0t13TMOB4E"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        }
-      ],
-      "duration_ms": 171250,
-      "name": "San Mike",
-      "url": "https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa"
-    },
-    {
-      "added_at": "2023-08-21 17:42:45",
-      "album": {
         "name": "G. Blanco",
         "url": "https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 178280,
       "name": "G. Blanco",
       "url": "https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8"
+    },
+    {
+      "added_at": "2023-08-21 17:42:45",
+      "album": {
+        "name": "Fayer",
+        "url": "https://open.spotify.com/album/2YCkZ9WQZ8Ctz0tI4L7MIB"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "duration_ms": 184911,
+      "name": "Fayer",
+      "url": "https://open.spotify.com/track/3vnA3XGgCmYuDJBJ5GyTPn"
     },
     {
       "added_at": "2023-08-21 17:42:45",

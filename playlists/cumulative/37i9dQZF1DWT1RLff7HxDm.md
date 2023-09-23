@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Jackie Venson
 
-140 songs - 14 hr 16 min
+141 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [I Wonder Who \- Live At The San Diego Civic Center, CA, USA / 1974](https://open.spotify.com/track/2WKH5jsAtRY3zDbx2OoO5y) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Live In San Diego '74](https://open.spotify.com/album/1uZboHwC6BiYuXGFZbcyYT) | 9:31 | 2022-04-29 |  |
 | [I'm In The Mood \- Live](https://open.spotify.com/track/4m3z1QKpXIBIvJFVhCyhtl) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I'm In The Mood \(Live\)](https://open.spotify.com/album/7llgEpwPWoyyECn3OxfJgS) | 4:08 | 2020-10-30 |  |
 | [Judgment Day](https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Songs from the Road](https://open.spotify.com/album/7HriuGrlYdLiubO6XQGbkt) | 7:17 | 2020-10-30 |  |
+| [Just Won’t Burn \- Live at the Beacon Theatre / 2022](https://open.spotify.com/track/3wl59CVUAS8IL3FfPwfGSB) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta), [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Just Won't Burn](https://open.spotify.com/album/3tUrmnZBBUN9ZCtdJh16xn) | 7:29 | 2023-09-22 |  |
 | [Keep Coming Back \- Live](https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Blues Caravan Live 2018](https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW) | 4:35 | 2020-10-30 |  |
 | [Keep On Growing \- Live](https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Live From The Fox Oakland](https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0) | 10:50 | 2020-10-30 |  |
 | [Keep On Growing \- Live](https://open.spotify.com/track/7pq4EbFglFdFZAiUn0ClFR) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Keep On Growing \(Live\)](https://open.spotify.com/album/4NS0gjSrKAalyUJyQNvE84) | 10:50 | 2020-10-30 | 2022-07-29 |

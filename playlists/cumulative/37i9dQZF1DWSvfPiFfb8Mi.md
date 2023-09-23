@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-217 songs - 15 hr 2 min
+218 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Hot Summer Love](https://open.spotify.com/track/4TQqoGyB4nYr79d6pYXNi9) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Hot Summer Love](https://open.spotify.com/album/2Ut3uBkJ4CPikDtEvtqULb) | 4:14 | 2022-06-20 |  |
 | [Hot Summer Love](https://open.spotify.com/track/5dVoFQZwySXrBDd3AszUIe) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Hot Summer Love](https://open.spotify.com/album/0SNFUiPfcs9jo8A5a6zs07) | 4:14 | 2021-07-24 | 2022-07-29 |
 | [Hot Summer Love](https://open.spotify.com/track/7jkNyMn9RQErk40hZlvVM9) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [The Moment](https://open.spotify.com/album/08tD174VfZEDisYlcp0mfX) | 4:14 | 2022-06-20 | 2022-11-13 |
+| [How It Feels](https://open.spotify.com/track/4KZPt9W4RTAIGiEUbiFJTV) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [How It Feels](https://open.spotify.com/album/0RUZEsQQWmWhsuKKo6sk8J) | 3:19 | 2023-09-22 |  |
 | [How Long Have You Been Away?](https://open.spotify.com/track/5H7NVUGfw8fstj1LWJ0wXo) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 3:28 | 2023-05-19 |  |
 | [Hydrate](https://open.spotify.com/track/6hHn9EtyvsJhovCmCCaJz2) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Hydrate EP](https://open.spotify.com/album/1X4AfBEtMngYcVObm6QKq1) | 6:22 | 2021-07-24 | 2023-05-20 |
 | [I Discover](https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [Chris Trucher](https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D) | [I Discover](https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO) | 2:35 | 2021-07-24 | 2023-08-07 |
@@ -193,7 +194,7 @@
 | [Street Swimming](https://open.spotify.com/track/1E1kJlXTfjl3WT1iyRq718) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Street Swimming](https://open.spotify.com/album/5CDlK2UulC69TCPGX26rT4) | 3:02 | 2021-07-24 | 2023-05-20 |
 | [Studio 54](https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Studio 54](https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv) | 2:46 | 2023-05-19 |  |
 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-05-19 |  |
-| [Sumthin Crazy \(with Rochelle Jordan\)](https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:06 | 2023-05-19 |  |
+| [Sumthin Crazy \(with Rochelle Jordan\)](https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:06 | 2023-05-19 | 2023-09-23 |
 | [Take It Back \(feat\. Davie\)](https://open.spotify.com/track/60ILwSbZxEZ6qgYZMPAq4D) | [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Take It Back \(feat\. Davie\)](https://open.spotify.com/album/5NN6jIlYaOhjirtYiGuPNr) | 3:36 | 2023-08-11 |  |
 | [The Baddest](https://open.spotify.com/track/6rcITsBAtOZV2m7p7faldT) | [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [The Baddest](https://open.spotify.com/album/6FDTsaviz1llJDeaAT58Ys) | 3:15 | 2023-05-19 | 2023-06-11 |
 | [The Best Rapper Alive](https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf) | [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [The Best Rapper Alive](https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm) | 8:07 | 2021-07-24 |  |

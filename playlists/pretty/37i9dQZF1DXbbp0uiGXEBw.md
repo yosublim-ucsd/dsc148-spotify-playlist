@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Thu Minh
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,303 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,317 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [yêu thì yêu không yêu thì yêu](https://open.spotify.com/track/79xFFmGKtEyky0I2G9U9Jg) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 3:10 |
 | 50 | [Từ Khung Cửa Sổ Này](https://open.spotify.com/track/6C1uzaA6dThCNQt89fk4kJ) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Từ Khung Cửa Sổ Này](https://open.spotify.com/album/3MP2DEC3eGwYHvBqmvlrMK) | 3:41 |
 
-Snapshot ID: `MCw2MDhiNDYxOWEzZmRlNGUyMmQ3ZDA5MzU2OGFmZTVkY2NiZWVmNDI3`
+Snapshot ID: `MCwyMDE4YmEwMDk0MmUzZDU2NGU2NTlmYmY3OWVmNGEyYTk1YzFlMjcy`

@@ -1,12 +1,12 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 652325,
+  "num_followers": 652540,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjg4NGIyNDg0NjE1YmZiOWJhY2VmYmRmYzNlYjUxMjdkMGEzYzk0",
+  "snapshot_id": "MCxkMDRiOWYyNjJmNDExZGVhOGQ1NzE5ODc1YWM2MDlhNWM2MDgyZjUz",
   "tracks": [
     {
       "added_at": "2022-12-23 14:03:48",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-12-23 14:03:48",
       "album": {
-        "name": "1999",
-        "url": "https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 373747,
-      "name": "1999 - 2019 Remaster",
-      "url": "https://open.spotify.com/track/2QSUyofqpGDCo026OPiTBQ"
-    },
-    {
-      "added_at": "2022-12-23 14:03:48",
-      "album": {
         "name": "The Twelve Inch Mixes",
         "url": "https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 365160,
       "name": "True",
       "url": "https://open.spotify.com/track/4q2lRiodoQnyFO65watkse"
+    },
+    {
+      "added_at": "2022-12-23 14:03:48",
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 373747,
+      "name": "1999 - 2019 Remaster",
+      "url": "https://open.spotify.com/track/2QSUyofqpGDCo026OPiTBQ"
     },
     {
       "added_at": "2022-12-23 14:03:48",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-12-23 14:03:48",
       "album": {
-        "name": "In the Heat of the Night",
-        "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
-      },
-      "artists": [
-        {
-          "name": "Imagination",
-          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
-        }
-      ],
-      "duration_ms": 322933,
-      "name": "Music and Lights",
-      "url": "https://open.spotify.com/track/3kEA66ZM9mCxwhynOxgsLh"
-    },
-    {
-      "added_at": "2022-12-23 14:03:48",
-      "album": {
         "name": "Rhythm Of Youth (Expanded Edition)",
         "url": "https://open.spotify.com/album/7EpYnc9mbn4dwQE7B9nnfz"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 278226,
       "name": "The Safety Dance - Extended Dance Version",
       "url": "https://open.spotify.com/track/2IqPRjJAcLvPqAEbnB2VJz"
+    },
+    {
+      "added_at": "2022-12-23 14:03:48",
+      "album": {
+        "name": "In the Heat of the Night",
+        "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
+      },
+      "artists": [
+        {
+          "name": "Imagination",
+          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
+        }
+      ],
+      "duration_ms": 322933,
+      "name": "Music and Lights",
+      "url": "https://open.spotify.com/track/3kEA66ZM9mCxwhynOxgsLh"
     },
     {
       "added_at": "2022-12-23 14:03:48",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-12-23 14:03:48",
       "album": {
-        "name": "Letter From My Heart",
-        "url": "https://open.spotify.com/album/3dLFdLwD6YULEAKZT0WjG4"
-      },
-      "artists": [
-        {
-          "name": "Steve Allen",
-          "url": "https://open.spotify.com/artist/2RsnV5tqDGDBOooPbpSVdS"
-        }
-      ],
-      "duration_ms": 325955,
-      "name": "Letter From My Heart - Original 12\" Version",
-      "url": "https://open.spotify.com/track/1m2Nhacm0P7zxEia9xMMme"
-    },
-    {
-      "added_at": "2022-12-23 14:03:48",
-      "album": {
         "name": "The Hurting",
         "url": "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 426266,
       "name": "Pale Shelter - Long Version",
       "url": "https://open.spotify.com/track/1UfMmncg5kMuPBRlAx8Jtd"
+    },
+    {
+      "added_at": "2022-12-23 14:03:48",
+      "album": {
+        "name": "Letter From My Heart",
+        "url": "https://open.spotify.com/album/3dLFdLwD6YULEAKZT0WjG4"
+      },
+      "artists": [
+        {
+          "name": "Steve Allen",
+          "url": "https://open.spotify.com/artist/2RsnV5tqDGDBOooPbpSVdS"
+        }
+      ],
+      "duration_ms": 325955,
+      "name": "Letter From My Heart - Original 12\" Version",
+      "url": "https://open.spotify.com/track/1m2Nhacm0P7zxEia9xMMme"
     },
     {
       "added_at": "2022-12-23 14:03:48",
@@ -1175,8 +1175,8 @@
     {
       "added_at": "2022-12-23 14:03:48",
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
       "artists": [
         {
@@ -1184,9 +1184,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 396920,
-      "name": "True Blue - The Color Mix",
-      "url": "https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ"
+      "duration_ms": 369600,
+      "name": "Like a Virgin - Extended Dance Remix",
+      "url": "https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc"
     },
     {
       "added_at": "2022-12-23 14:03:48",
@@ -1255,8 +1255,8 @@
     {
       "added_at": "2022-12-23 14:03:48",
       "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
       "artists": [
         {
@@ -1264,9 +1264,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 369600,
-      "name": "Like a Virgin - Extended Dance Remix",
-      "url": "https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc"
+      "duration_ms": 396920,
+      "name": "True Blue - The Color Mix",
+      "url": "https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ"
     },
     {
       "added_at": "2022-12-23 14:03:48",

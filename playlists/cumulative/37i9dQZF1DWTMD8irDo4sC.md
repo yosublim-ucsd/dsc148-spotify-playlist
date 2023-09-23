@@ -4,7 +4,7 @@
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-102 songs - 6 hr 48 min
+103 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Ella Enta \- Live Session](https://open.spotify.com/track/0O1Fa5JhUMU0n8AInGOCk9) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ella Enta \(Live Session\)](https://open.spotify.com/album/6s8leDjyyr6rUPpu2Qu0ds) | 4:08 | 2022-05-09 | 2022-07-29 |
 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 | 2022-05-09 |  |
 | [Erjaa Shoufak](https://open.spotify.com/track/6mbo7f6VsjsgxQBkgGA9mv) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Erjaa Shoufak](https://open.spotify.com/album/4pGrKvclUJW5QbzY80hU3a) | 3:47 | 2022-05-09 |  |
+| [Estihala \- Live Acoustic](https://open.spotify.com/track/65FeLB4ilmJRzMBzSzKJXJ) | [Sherif Abdelmeged](https://open.spotify.com/artist/6jjt4meb4Y0U7MbzYDjMrQ) | [Estihala \(Live Acoustic\)](https://open.spotify.com/album/2al5I60LV1UgE4lZUSm9WY) | 3:18 | 2022-05-09 |  |
 | [Estihala \- Live Acoustic](https://open.spotify.com/track/0CHNFpFyVHk2GwYxcbStKx) | [Sherif Meged](https://open.spotify.com/artist/42dFHQGSt3aXlp0v3Dy4xG) | [Estihala \(Live Acoustic\)](https://open.spotify.com/album/3tVevDZe08Jf26YZnjInGT) | 3:18 | 2022-05-09 | 2023-03-28 |
 | [Fi Balad](https://open.spotify.com/track/1ri0EAvOKGhFjtbxFioe31) | [Shadi Zaqtan](https://open.spotify.com/artist/5HRVCmuBf5fJhNsuxho0Uj) | [Rough Guide To Palestine](https://open.spotify.com/album/51jzaF1wPXfCZQ2g5THxUD) | 5:15 | 2022-05-09 | 2022-07-29 |
 | [Fuqaati \(My Bubble\)](https://open.spotify.com/track/1qvai6uaDWd2z4JeYSlFka) | [Ruba Shamshoum](https://open.spotify.com/artist/2SFD4ndp40N3lL0iy6W9VM) | [Fuqaati \(My Bubble\)](https://open.spotify.com/album/1BhIR1MRcxHmVp53exP61r) | 4:28 | 2022-05-09 |  |
@@ -59,7 +60,7 @@
 | [Munaya \(Dream\)](https://open.spotify.com/track/3bhui3GTdH3kJ4ic6ubmQS) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 5:46 | 2022-05-09 |  |
 | [My Mother](https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ) | [Marcel Khalifa](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Promises of the Storm](https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk) | 9:17 | 2022-05-09 |  |
 | [No Longer Mine](https://open.spotify.com/track/2m7cnexJsp4w560WX86dDr) | [Zaman](https://open.spotify.com/artist/6tKvVxNctQcr1Er8f1Z3dL) | [Made in Palestine](https://open.spotify.com/album/2edQBDFUQBDAwdDIypknXx) | 3:39 | 2022-05-09 | 2022-10-18 |
-| [Ombre de mon amant](https://open.spotify.com/track/7FhNnHOK7kdwAYtnXRFzsE) | [Michel Lambert](https://open.spotify.com/artist/6DIgXovySNbDB3K5lTtUKT), [Rima Khcheich](https://open.spotify.com/artist/7FF1EHOrIunUaaW3a79n9y), [Maarten Ornstein](https://open.spotify.com/artist/4MCO3NSa8mKwFCbxHxabJl), [Mike Fentross](https://open.spotify.com/artist/5qX8j53VqHUuxBZE5KB2qH) | [Ombre de mon amant](https://open.spotify.com/album/3yYrA1GcNIHSkMjLqyKge1) | 6:29 | 2022-05-09 |  |
+| [Ombre de mon amant](https://open.spotify.com/track/7FhNnHOK7kdwAYtnXRFzsE) | [Michel Lambert](https://open.spotify.com/artist/6DIgXovySNbDB3K5lTtUKT), [Rima Khcheich](https://open.spotify.com/artist/7FF1EHOrIunUaaW3a79n9y), [Maarten Ornstein](https://open.spotify.com/artist/4MCO3NSa8mKwFCbxHxabJl), [Mike Fentross](https://open.spotify.com/artist/5qX8j53VqHUuxBZE5KB2qH) | [Ombre de mon amant](https://open.spotify.com/album/3yYrA1GcNIHSkMjLqyKge1) | 6:29 | 2022-05-09 | 2023-09-23 |
 | [Oully Ya Sahbi](https://open.spotify.com/track/3KujYyygA5owoZZ3o8iyAE) | [Natacha Atlas](https://open.spotify.com/artist/0aVJmlOwIxTZeHzhFiFL5Y), [Sofiane Saidi](https://open.spotify.com/artist/6VnkIRZde53ai5TtkMulr4) | [Mish Maoul](https://open.spotify.com/album/00oemMx6T4Jdd86Q29vmuW) | 5:33 | 2022-05-09 |  |
 | [Oully Ya Sahbi](https://open.spotify.com/track/5tYbruqE7lH3eoJsVZlmfj) | [Natacha Atlas](https://open.spotify.com/artist/0aVJmlOwIxTZeHzhFiFL5Y), [Sofiane Saidi](https://open.spotify.com/artist/6VnkIRZde53ai5TtkMulr4) | [Mish Maoul](https://open.spotify.com/album/1btSlVX4PojD9owlRQIhKJ) | 5:33 | 2022-05-09 | 2022-07-25 |
 | [Poco a Poco](https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH) | [Sonia Noor](https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX) | [Poco a Poco](https://open.spotify.com/album/5w0dZ7uEgnSUzPBgwiItLC) | 3:42 | 2022-05-09 |  |

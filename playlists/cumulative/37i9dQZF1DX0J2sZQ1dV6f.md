@@ -4,7 +4,7 @@
 
 > Perreo after hours.
 
-333 songs - 17 hr 40 min
+334 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Santee](https://open.spotify.com/track/5Jssxp8m8PbF7gd9lZFfsx) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Santee](https://open.spotify.com/album/2OWQzXNMHUMe35yaKbWXcb) | 1:49 | 2023-02-24 | 2023-04-04 |
 | [SAOKO](https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [SAOKO](https://open.spotify.com/album/3OUsI2v5sOR5JTorrsi7If) | 2:17 | 2022-03-21 | 2022-07-09 |
 | [Se Le Ve](https://open.spotify.com/track/1ntqvhJlheHh2uFEcK9fqY) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [ENR](https://open.spotify.com/album/7c3cZS4ScoPCEmtZFIPqLF) | 3:04 | 2022-07-08 | 2023-02-25 |
+| [SE PASÓ CB](https://open.spotify.com/track/2nAcPTryquDspoxHSwqieR) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [SE PASÓ CB](https://open.spotify.com/album/6Ulx4w8CTxZ7xWGxfebHrp) | 3:03 | 2023-09-08 |  |
 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 | 2022-03-21 | 2022-07-09 |
 | [Sexo Virtual](https://open.spotify.com/track/1lV3QHHMAQt0Kc1ioZq2MP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:28 | 2022-03-21 |  |
 | [SHERATON](https://open.spotify.com/track/6sOSd3PYqy3UnSXF5r0MvN) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [SHERATON](https://open.spotify.com/album/0kfpaS0fOMNNohtRbY7ZxI) | 2:22 | 2023-05-25 |  |
@@ -285,7 +286,7 @@
 | [Sustancias Raras](https://open.spotify.com/track/1Lyp6Zu6kEofJaU7uKRITc) | [HOLI RARE](https://open.spotify.com/artist/1ISWaTxLhrZpB35ew0rW8q), [DJ Sustancia](https://open.spotify.com/artist/5i4Sx94vXjon4B5IPzdTZ9), [Zevra](https://open.spotify.com/artist/7iZesyVtiVJ999T2bbGT2D) | [Sustancias Raras](https://open.spotify.com/album/2yGirwqpSCbTRVldItuvcW) | 3:22 | 2023-05-25 | 2023-06-04 |
 | [Susurro Riddim](https://open.spotify.com/track/1mGxiXPxKIuItW4D2eVgjI) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Susurro Riddim](https://open.spotify.com/album/6f6DfbkP32U7ZIg31X0g0z) | 2:02 | 2022-03-21 | 2022-04-26 |
 | [Sé Que Recuerdas](https://open.spotify.com/track/0G4HpZod8ySWzUZqOq2Ool) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Opi the Hit Machine](https://open.spotify.com/artist/5VHv8HRkyW4zmhoYXu476k), [Ruso Beats](https://open.spotify.com/artist/046MM5OvGEg7muuuoFNaXe) | [Sé Que Recuerdas](https://open.spotify.com/album/1fJJHgGzPSQHM0rCVhXLqp) | 2:53 | 2023-05-25 | 2023-06-10 |
-| [Súbelo & Bájalo](https://open.spotify.com/track/0eaPs2AlJzS1q6zDvnkoEO) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Alexis](https://open.spotify.com/artist/2LudI3JLn6y78XrArvOhfx) | [Sempiterno](https://open.spotify.com/album/6bUYxqBfdn3VrsKBnJu4WQ) | 3:57 | 2023-05-25 |  |
+| [Súbelo & Bájalo](https://open.spotify.com/track/0eaPs2AlJzS1q6zDvnkoEO) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Alexis](https://open.spotify.com/artist/2LudI3JLn6y78XrArvOhfx) | [Sempiterno](https://open.spotify.com/album/6bUYxqBfdn3VrsKBnJu4WQ) | 3:57 | 2023-05-25 | 2023-09-23 |
 | [Ta \- Tan!](https://open.spotify.com/track/2Oz1VUVi99vwepCD6IhyYx) | [EsaMiPau!](https://open.spotify.com/artist/2lmxVMvK3ROVKHvLg23fei), [Baby Bae](https://open.spotify.com/artist/7rtODlbpm0d3ZeGOJgxHbU), [The Produsexxx](https://open.spotify.com/artist/0Huo99sGzwmHx3VfybdIk2), [Trillhouse](https://open.spotify.com/artist/0FIkFONUP78BzJE4DC8Gfa) | [Ta \- Tan!](https://open.spotify.com/album/6HgG0Wuvwy10VRGQvouZIn) | 2:59 | 2022-03-21 | 2022-04-20 |
 | [Tamagotchi](https://open.spotify.com/track/0ztgfQJ8raYUjuuJC8Ik42) | [GUNTTER](https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk), [HAMLIT SHORTY](https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL) | [Tamagotchi](https://open.spotify.com/album/1Z6JQqwz2U8Py6lsYh8j8P) | 2:31 | 2023-02-24 | 2023-03-02 |
 | [Tamagotchi](https://open.spotify.com/track/5bfep56ypsHGIR4i5KPKJN) | [GUNTTER](https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk), [HAMLIT SHORTY](https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL), [Sticks House](https://open.spotify.com/artist/3gvuPnQphwrMjq23LTUAFN) | [Tamagotchi](https://open.spotify.com/album/057rlsHQhvwj62HNgX52uA) | 2:31 | 2023-02-24 |  |

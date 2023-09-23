@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> The best indie rock right now\. Featuring new music by The Beaches.
+> Explore all things indie rock right now\. Featuring new music by Petey.
 
-1,189 songs - 2 day 16 hr 46 min
+1,193 songs - 2 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [American Football](https://open.spotify.com/track/1NI5y9DsyLxdybMe7i3OdN) | [Kitten](https://open.spotify.com/artist/4zHX9zUUtxUw898g1GyihC) | [American Football](https://open.spotify.com/album/702HLtsHLyZaHqg9S1GWJO) | 3:21 | 2021-06-07 | 2022-04-11 |
 | [American Honey](https://open.spotify.com/track/2CG6oeuMEtbL5OvKsyT7JL) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [American Honey](https://open.spotify.com/album/3V9AjOHddNkAIx7fmX9UcP) | 4:13 | 2021-06-07 | 2022-06-11 |
 | [Amtrak](https://open.spotify.com/track/5qAfSmdzTbYQmFUQUN2scR) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Amtrak](https://open.spotify.com/album/55UJtm6GzBNM9wjR6twP5g) | 2:56 | 2021-06-07 | 2022-04-21 |
+| [Angel Hair](https://open.spotify.com/track/0akgQn9E1BxuNqklbxPSTx) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Angel Hair](https://open.spotify.com/album/2nEyW8haFXnWeGSj33XsHH) | 2:56 | 2023-09-22 |  |
 | [Angelica](https://open.spotify.com/track/4MvwrOOQyjh40KWwmFElmn) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/4j8jm7kAaZN85GVBJSXSfT) | 3:52 | 2022-03-04 | 2022-04-20 |
 | [Anotha 1](https://open.spotify.com/track/7A9JS7lgiGyB5dz7vVaq1a) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Anotha 1](https://open.spotify.com/album/3xl1wniP5TMCIOfmok3SGm) | 2:45 | 2022-06-10 | 2022-07-16 |
 | [Ant Pile](https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Ant Pile](https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4) | 2:06 | 2023-05-26 | 2023-08-12 |
@@ -79,7 +80,7 @@
 | [Apartment Complex on the Eastside](https://open.spotify.com/track/2nm0J9sicQTiW8M8k2yZ4x) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Apartment Complex on the Eastside](https://open.spotify.com/album/52bzMUfIaS9YeVADl51eoT) | 4:07 | 2022-04-15 | 2022-09-03 |
 | [apartment402](https://open.spotify.com/track/3tzhG9Y64aTdoQj9p2pije) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [apartment402](https://open.spotify.com/album/2qLK5cRG3do78g2y8RFjpn) | 4:16 | 2023-09-08 | 2023-09-16 |
 | [April Baby](https://open.spotify.com/track/2Uq8YwiAYhbG2jNzLimd7A) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [April Baby](https://open.spotify.com/album/1VX0j5c4IKT9VRKWNJ0i5U) | 3:53 | 2022-04-08 | 2022-07-02 |
-| [Arcade](https://open.spotify.com/track/3gZHd2vSxknZBvNXaKsdOE) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [Arcade](https://open.spotify.com/album/5SLCLGN4Gq2Jx3R27bz0nL) | 3:59 | 2023-08-11 |  |
+| [Arcade](https://open.spotify.com/track/3gZHd2vSxknZBvNXaKsdOE) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [Arcade](https://open.spotify.com/album/5SLCLGN4Gq2Jx3R27bz0nL) | 3:59 | 2023-08-11 | 2023-09-23 |
 | [Are You Happy?](https://open.spotify.com/track/4kLdC0g4IzdTL1sUlIpnh4) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Are You Happy?](https://open.spotify.com/album/0XqYtsDMA5ORWlPLkc2LGF) | 3:12 | 2021-06-07 | 2022-06-11 |
 | [Are You In](https://open.spotify.com/track/5vVqAE6Y9LLXj7YoCxbeRM) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Are You In](https://open.spotify.com/album/2lyN14f6FTtvCL0ztt6Sxg) | 2:51 | 2023-05-05 | 2023-06-24 |
 | [Are You Thinking of Me](https://open.spotify.com/track/1t63a1ZQlX1OnpsyQXqsvj) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In Theory Depression](https://open.spotify.com/album/1Z94rLxogxcR9tWFUwbU8F) | 2:35 | 2023-07-07 | 2023-08-05 |
@@ -149,7 +150,7 @@
 | [Blue Copper](https://open.spotify.com/track/1W7FKWfoWQa0RMJ4ETdnjB) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Blue Copper](https://open.spotify.com/album/3t9jcAKSyh358dgNlheTqK) | 3:11 | 2022-09-30 | 2022-10-29 |
 | [Blue Sea](https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Blue Sea](https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz) | 3:15 | 2023-04-28 | 2023-06-24 |
 | [Bluebird](https://open.spotify.com/track/4Gy9i08hxSqDR5v2RPqXmu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 3:47 | 2021-06-07 | 2022-04-21 |
-| [Blurred Out](https://open.spotify.com/track/4oyBLJ6PTSZ7BZ0ITCi2kG) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C), [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Blurred Out](https://open.spotify.com/album/2VK7NkrDsiOyENkDJtmRUv) | 3:02 | 2023-08-11 |  |
+| [Blurred Out](https://open.spotify.com/track/4oyBLJ6PTSZ7BZ0ITCi2kG) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C), [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Blurred Out](https://open.spotify.com/album/2VK7NkrDsiOyENkDJtmRUv) | 3:02 | 2023-08-11 | 2023-09-23 |
 | [Blurt](https://open.spotify.com/track/0hvSJQdd2eGR3VBMfKbZSs) | [Mega Mango](https://open.spotify.com/artist/4O2iP6l7paJ9tThXxFVZXJ) | [Blurt](https://open.spotify.com/album/47gfLPyw1oBCUn8joa93bA) | 2:14 | 2022-07-15 | 2022-08-17 |
 | [Bob](https://open.spotify.com/track/3OMMX5sC4SaHFtZXH1MDmJ) | [The Sunshine State](https://open.spotify.com/artist/7fvI8ORZUF64qlb2GDcDQ7) | [Bob](https://open.spotify.com/album/5kwpmZCEI3vLYQ1lxg4sXs) | 3:21 | 2021-06-18 | 2022-04-21 |
 | [Body](https://open.spotify.com/track/2D3Kia865pJnopFMJtSwRV) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:20 | 2023-09-08 |  |
@@ -222,6 +223,7 @@
 | [Change](https://open.spotify.com/track/1Iq8H2uEpjyfkLQbUYdY5V) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Change](https://open.spotify.com/album/1Og1tMxcRr64qwuA5T6BKu) | 2:51 | 2022-08-05 | 2022-10-15 |
 | [Change Shapes \(feat\. Jesse\)](https://open.spotify.com/track/0pFx0KHtJVFzfjrQQB1FoR) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Jesse](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Change Shapes \(feat\. Jesse\)](https://open.spotify.com/album/5n3pUtUIrPAV5CqujbDGh1) | 3:29 | 2021-06-25 | 2022-02-12 |
 | [Change Your Mind](https://open.spotify.com/track/45KJZeYbF0N1tezwHWpeiz) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Change Your Mind](https://open.spotify.com/album/22PlF1r7TVJujwnutC9vb1) | 3:57 | 2023-05-19 | 2023-06-03 |
+| [Chaos Party](https://open.spotify.com/track/6oF2soqgQMtooPKPfwvLuv) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Ultrapure](https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9) | 2:59 | 2023-09-22 |  |
 | [Cherry Red](https://open.spotify.com/track/2vnN9cQLqaXEwShhOcMOxo) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [Cherry Red](https://open.spotify.com/album/60ZLV64RaCWqJ6XgheBRKt) | 2:39 | 2022-06-10 | 2022-06-25 |
 | [Chloe](https://open.spotify.com/track/4U8VEq1Eu4FdkgIp9xkgMl) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Chloe](https://open.spotify.com/album/3YYOxhWOHWlMXIgIUMMl0A) | 4:37 | 2022-05-26 | 2022-07-09 |
 | [CIGARETTES](https://open.spotify.com/track/1xJBz9XFCMZJiy6Mc4XrgC) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [CIGARETTES](https://open.spotify.com/album/6iBfLlPGfEmgjF8HG9OkJd) | 2:04 | 2023-07-21 | 2023-08-10 |
@@ -236,6 +238,7 @@
 | [Cold Blood](https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Cold Blood](https://open.spotify.com/album/7lUc1rvCShf2ydND7z6Glk) | 2:44 | 2021-06-07 | 2022-04-13 |
 | [Cold Like Me](https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Pastlife \(Deluxe\)](https://open.spotify.com/album/0vSwt0ateYFyLzdZDqAZyc) | 3:02 | 2022-12-02 | 2023-03-11 |
 | [coldish](https://open.spotify.com/track/5GidzN9AiIHoe3f1VgjBPk) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [liminal spaces](https://open.spotify.com/album/7KFoizTd1KGrJQBqFS58Z8) | 2:03 | 2022-10-21 | 2022-11-12 |
+| [COLLIDING](https://open.spotify.com/track/6sZM05GUBlSiCDd0LGmffK) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [COLLIDING](https://open.spotify.com/album/1FvHt3aswvRaEk5vm0pY58) | 2:43 | 2023-09-22 |  |
 | [Cologne](https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 2:44 | 2021-06-25 | 2022-06-11 |
 | [Come Apart](https://open.spotify.com/track/2qkAa6IrUy5WWizVE1rpeh) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/2qimyFod7MXk4bVSuXY1lQ) | 3:04 | 2022-07-22 | 2022-07-29 |
 | [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 | 2022-07-22 | 2022-12-08 |
@@ -394,6 +397,7 @@
 | [Failed at Math\(s\)](https://open.spotify.com/track/6W1wt10FubiQQVXychFAKp) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/1TyXRjcjSnDLmewsTjr6id) | 2:40 | 2023-05-05 | 2023-05-12 |
 | [Fallout](https://open.spotify.com/track/2naiEwIGmT5whcaG6Vmn8B) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Fallout](https://open.spotify.com/album/5xEDC9B8ohUyuoovW86zzX) | 4:36 | 2022-11-04 | 2023-04-15 |
 | [False Idols](https://open.spotify.com/track/6oofSlzxDnFothYfq2jfCi) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [False Idols](https://open.spotify.com/album/5Ee1l61ddtdGsVf9B7VcfE) | 2:53 | 2021-07-23 | 2022-01-31 |
+| [Family of Six](https://open.spotify.com/track/0a71EDvDZpjJosNHz1a15P) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [USA](https://open.spotify.com/album/3xyWW80QH0O51iZDT3MLMM) | 4:59 | 2023-09-22 |  |
 | [Favorite Sin](https://open.spotify.com/track/7lHXPeUCPJKmoAL5lS9Nln) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Favorite Sin](https://open.spotify.com/album/0RvCi9rbTyjerfZMmv5lJK) | 3:42 | 2021-07-19 | 2022-01-29 |
 | [Feel a Change Coming](https://open.spotify.com/track/4RU0siwktXnmhIRhViHnXr) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Feel a Change Coming](https://open.spotify.com/album/1I7bzhXcBjUCzoqnlDprB5) | 3:18 | 2023-05-26 | 2023-07-15 |
 | [Feel A Thing](https://open.spotify.com/track/2KXudYjDXkUbbLzN5VXT7N) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Feel A Thing](https://open.spotify.com/album/5JcDvYT7w6o6Mz9Yv7aVFw) | 3:26 | 2021-06-18 | 2022-04-15 |
@@ -761,7 +765,7 @@
 | [No More Excuses](https://open.spotify.com/track/1HybEopwfFZcAWz0C0sjsp) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [No More Excuses](https://open.spotify.com/album/0gTTJMJoKsDBZMOj66JISv) | 3:58 | 2022-07-29 | 2022-10-22 |
 | [No Proper Life](https://open.spotify.com/track/3m1qGLyr7OMyZLfTBKWT9S) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [No Proper Life](https://open.spotify.com/album/01iuegbl5telLk3B5Cl52p) | 2:45 | 2022-07-01 | 2022-10-08 |
 | [No Rule](https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [No Rule](https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE) | 5:25 | 2022-11-11 | 2022-12-27 |
-| [No Stranger](https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids // POOL](https://open.spotify.com/album/7l53P1GftnthQCpHQ3LwFX) | 3:44 | 2023-06-30 |  |
+| [No Stranger](https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids // POOL](https://open.spotify.com/album/7l53P1GftnthQCpHQ3LwFX) | 3:44 | 2023-06-30 | 2023-09-23 |
 | [No Worries Yes Worries](https://open.spotify.com/track/23QugSUc9zbCAZ1OprFZqw) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [KŌAN C](https://open.spotify.com/album/5TIxUI10Vo3SLKDDgkB9kT) | 2:52 | 2022-07-01 | 2022-07-30 |
 | [Nobody More](https://open.spotify.com/track/2H921QdeSvA1bBLVTA5ljH) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [Nobody More](https://open.spotify.com/album/1vXsXI0kvOtyJ1DZQeqZf1) | 2:55 | 2021-08-13 | 2022-02-05 |
 | [Not Enough](https://open.spotify.com/track/1RiLntZOALVZfwFnsC3JlF) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [ABSOLUTE HEARTBREAK](https://open.spotify.com/album/11Ax1twWIvL2xltYzbH3Up) | 2:44 | 2023-01-27 | 2023-04-09 |
@@ -1162,7 +1166,7 @@
 | [Who Put You Up To This?](https://open.spotify.com/track/0DZ8GaDFNzl7FxNZI0CU4B) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Who Put You Up To This?](https://open.spotify.com/album/4YGcrIILDZSwsSwILUKhxR) | 3:19 | 2022-02-11 | 2022-04-20 |
 | [Why You?](https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Why You?](https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq) | 2:40 | 2023-08-18 |  |
 | [Why'd Ya Wanna Come and Act Like That?](https://open.spotify.com/track/6r3jl8BLILxsSjeghBhUTV) | [Chinatown Slalom](https://open.spotify.com/artist/25pbZ2yTnog5SBbk7WyfNn) | [Why'd Ya Wanna Come and Act Like That?](https://open.spotify.com/album/1XDGlu9oNk3cnbgbHxS5Mv) | 2:31 | 2021-06-18 | 2022-01-06 |
-| [Wicked Styley](https://open.spotify.com/track/5bwjacSzWwVZzKHRGsOGDP) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Wicked Styley](https://open.spotify.com/album/1H5rc0kUITrP2PfdQyypUX) | 2:32 | 2023-08-11 |  |
+| [Wicked Styley](https://open.spotify.com/track/5bwjacSzWwVZzKHRGsOGDP) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Wicked Styley](https://open.spotify.com/album/1H5rc0kUITrP2PfdQyypUX) | 2:32 | 2023-08-11 | 2023-09-23 |
 | [Wild Heart](https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Wild Heart](https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI) | 2:57 | 2023-04-07 | 2023-06-17 |
 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 | 2023-03-10 | 2023-05-27 |
 | [Winona](https://open.spotify.com/track/50CrMqvVH178XRNNhhXfTy) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Winona](https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY) | 2:25 | 2021-06-07 | 2022-06-11 |

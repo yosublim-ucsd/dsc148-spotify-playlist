@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-156 songs - 9 hr 57 min
+158 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Insônia](https://open.spotify.com/track/4Q92ioXrNYiaLaRDJEc1mq) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 2:44 | 2022-04-26 |  |
 | [Inútil paisagem](https://open.spotify.com/track/4VhDH7KDHeYqyGcRTity4J) | [Juliano Vidal Band](https://open.spotify.com/artist/5ZOhtZZUJLIUeiZOEJwVa2) | [O Morro Nao Tem Vez](https://open.spotify.com/album/1wgx5igIEBKoVA9jKGegKD) | 4:23 | 2022-04-26 |  |
 | [Just Like Heaven](https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 4:12 | 2022-04-26 | 2022-05-25 |
+| [La Boca](https://open.spotify.com/track/4bsNYygNqXlMyIznr6JMOq) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [La Boca](https://open.spotify.com/album/1KOMNG9vql5kg6q7IbEWe5) | 4:04 | 2023-09-22 |  |
 | [Lembranças](https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV) | [Vitor José Fonseca](https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu) | [Lembranças](https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW) | 4:04 | 2022-04-26 |  |
 | [Light Dance](https://open.spotify.com/track/7wHsraPGARpUvcRW8holDn) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Light Dance](https://open.spotify.com/album/0M1TSMQxxvXzHdH4ZtgLkZ) | 3:39 | 2022-04-26 |  |
 | [Liljeholmsviken](https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Liljeholmsviken](https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe) | 4:22 | 2023-01-26 |  |
@@ -129,6 +130,7 @@
 | [Quiet Nights of Quiet Stars](https://open.spotify.com/track/6dSDOHrVdfyPfGlkZVUyD3) | [Arlo Langford Trio](https://open.spotify.com/artist/02DjFSGzdyir0ZksfCGuWp) | [Quiet Nights of Quiet Stars](https://open.spotify.com/album/3OicFT1OODV7al017E5kRL) | 4:48 | 2022-04-26 |  |
 | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Work From Home with Oscar Peterson](https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7) | 2:49 | 2022-04-26 | 2022-08-31 |
 | [Quizás, Quizás, Quizás](https://open.spotify.com/track/3vV7kdVX0gbNHwxgnQjTfF) | [Jade Vieira](https://open.spotify.com/artist/62u2ks7IGeMOqkSLCAaLHK) | [Quizás, Quizás, Quizás](https://open.spotify.com/album/2XQb3gFbkP7pRVZzMPbhCg) | 3:21 | 2022-05-24 | 2022-08-11 |
+| [Recife](https://open.spotify.com/track/2it9eIySkoMPexLleyo2eE) | [Stockholm Whereabouts](https://open.spotify.com/artist/7xGUX1jozTRuHMgjmRuK18) | [Recife](https://open.spotify.com/album/1mbGLAaBeA2071AXPDbDcW) | 3:42 | 2023-09-22 |  |
 | [Rio](https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Rio](https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B) | 3:19 | 2022-04-26 |  |
 | [Rio Lindo](https://open.spotify.com/track/3usSv5DQqZlulKLHRumXGH) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [Rio Lindo](https://open.spotify.com/album/0aC2r9F9VoEBhYa5MYUVq6) | 3:43 | 2022-08-17 |  |
 | [River of Dreams](https://open.spotify.com/track/303q7nGbVGdxUvbhbEfHzS) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [River of Dreams](https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA) | 3:03 | 2022-10-13 |  |

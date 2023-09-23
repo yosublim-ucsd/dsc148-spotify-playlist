@@ -4,7 +4,7 @@
 
 > Beautifully dark, dramatic tracks.
 
-209 songs - 14 hr 5 min
+210 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Crush \- Stripped](https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw) | 3:49 | 2021-10-22 | 2022-10-13 |
 | [Dark](https://open.spotify.com/track/4wP7eUgKyufHkps0BuqcTc) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Old Flint](https://open.spotify.com/album/3JEkU3iACus81448Un3ew4) | 5:07 | 2021-10-22 | 2022-06-14 |
 | [Dark](https://open.spotify.com/track/61KJrjXrNooCvc65CkSuTk) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Old Flint](https://open.spotify.com/album/35ydoAPPXGrPv88ho8teqo) | 5:07 | 2023-05-26 |  |
-| [Dark Matter](https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Dark Matter](https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO) | 4:36 | 2021-11-22 |  |
+| [Dark Matter](https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Dark Matter](https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO) | 4:36 | 2021-11-22 | 2023-09-23 |
 | [Deep Green](https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 3:35 | 2021-10-22 |  |
 | [Deliverance](https://open.spotify.com/track/0lTmVz7A8YJM2fI9k1iMcV) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 3:50 | 2022-07-11 |  |
 | [Depraved](https://open.spotify.com/track/0V1YLLguekkTID9Jd89ww2) | [Mammals](https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3) | [Animalia](https://open.spotify.com/album/7E90fKPdXwRGjvaiEQU6m2) | 3:53 | 2022-07-11 |  |
@@ -109,6 +109,7 @@
 | [I'm Not Asking](https://open.spotify.com/track/05IJNjjrvn8pDzOpbjrsIy) | [Odina](https://open.spotify.com/artist/2D0wm8aDnVrcljPwg2GM75) | [I'm Not Asking](https://open.spotify.com/album/6pnl1FCuVKktl20mJjYebQ) | 2:50 | 2022-07-11 | 2022-11-13 |
 | [I'm Not Asking](https://open.spotify.com/track/5iD3oYhBjvUQq5neIO6ZFj) | [Odina](https://open.spotify.com/artist/2D0wm8aDnVrcljPwg2GM75) | [I'm Not Asking](https://open.spotify.com/album/1AOJoqNJwzaKDt4HJanEyY) | 2:50 | 2021-10-22 | 2022-07-29 |
 | [I'm Tired, You're Lonely](https://open.spotify.com/track/3eOowx1zDomY1YC1UDKDKn) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [I'm Tired, You're Lonely](https://open.spotify.com/album/2AaWRj37SqGDYUpUrol8lm) | 3:25 | 2021-10-22 | 2022-11-13 |
+| [I'm Your Man](https://open.spotify.com/track/6YO2dalWyZSobXSY3UUPv9) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:29 | 2023-09-22 |  |
 | [In Dreams](https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 3:33 | 2021-10-22 |  |
 | [In The Dark](https://open.spotify.com/track/3diFeNuLMNdAfSmmyziPzg) | [Cathedrals](https://open.spotify.com/artist/7HIjKw4rHS0MtmV0cqSlpB) | [Cathedrals EP](https://open.spotify.com/album/0q0Q0cji1vzyB7f8kPg1sh) | 3:43 | 2021-10-22 | 2022-07-29 |
 | [In the Dark](https://open.spotify.com/track/49gE0a0YPRMXRp43QhnHH8) | [Cathedrals](https://open.spotify.com/artist/7HIjKw4rHS0MtmV0cqSlpB) | [Cathedrals \- EP](https://open.spotify.com/album/5pMbkSjNGEcKjnRwbF8kwv) | 3:43 | 2022-07-11 |  |

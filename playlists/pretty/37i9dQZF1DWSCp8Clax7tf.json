@@ -1,12 +1,12 @@
 {
   "description": "The Women who put Country Music on the map. Cover: Loretta Lynn",
-  "num_followers": 233347,
+  "num_followers": 233451,
   "original_name": "Legendary Women of Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGVmOTcyMTFhOGQ3YmZlZGFlOWFiMDFiOGY2NGRjNDgwYjFmZjM1",
+  "snapshot_id": "MCwwYjQ0YzlkMDJkOGJmY2M1NzVhNzg1Mzk4YzkwODNlZTYyYzk2ZWY1",
   "tracks": [
     {
       "added_at": "2023-02-13 19:21:59",
@@ -103,6 +103,22 @@
       "duration_ms": 194400,
       "name": "Harper Valley P.T.A.",
       "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
+    },
+    {
+      "added_at": "2023-02-13 19:21:59",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 287266,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
     },
     {
       "added_at": "2023-02-13 19:21:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,296,697 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,296,669 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 79 | [Warped Window](https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW) | 4:55 |
 | 80 | [In Spite of the Weather \- Bill Ryder\-Jones Re\-Imagining](https://open.spotify.com/track/1LyI8GoZSzCR9BcBAHcAAX) | [Michael Price](https://open.spotify.com/artist/6Ie1HZJ0vFXxxogMhPnZcg), [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4), [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [In Spite of the Weather \(Bill Ryder\-Jones Re\-Imagining\)](https://open.spotify.com/album/34tiEPjAQZ8BQwl3HMpIoy) | 5:56 |
 
-Snapshot ID: `MCwzNDY3ODFiYWViNzNkMTIzZjBjMmM5YThlZWI4YjllNGI0ZWY4ZjQ2`
+Snapshot ID: `MCw1YzBmZDUwMDA1ZjdiMDk3ODA2MTQxYTBlYmQxYTk0YmIwNWExMTJj`

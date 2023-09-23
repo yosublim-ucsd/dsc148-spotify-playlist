@@ -1,12 +1,12 @@
 {
   "description": "Majestic and bold, these new and known worship songs are great for every day.  Cover artist: <a href=\"https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw\">Kim Walker-Smith</a>",
-  "num_followers": 532425,
+  "num_followers": 532682,
   "original_name": "Songs of Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGViZDliY2E3N2M5YzY1YzI3YWI2ZDg4OTQ1NDZlNjkwNWY1OTFh",
+  "snapshot_id": "MCxiYjQ3ZWI2Yzg2ZWJhMmJkMzIxNjA3MDE0OWUxODM3YjhkNWU4Y2Nj",
   "tracks": [
     {
       "added_at": "2023-02-18 03:38:32",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "10,000 Reasons (Live)",
-        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 342493,
-      "name": "10,000 Reasons (Bless The Lord) - Live",
-      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
-    },
-    {
-      "added_at": "2023-02-18 03:38:32",
-      "album": {
         "name": "What A Beautiful Name",
         "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 238200,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
+    },
+    {
+      "added_at": "2023-02-18 03:38:32",
+      "album": {
+        "name": "10,000 Reasons (Live)",
+        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 342493,
+      "name": "10,000 Reasons (Bless The Lord) - Live",
+      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+        "name": "The Father's House",
+        "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
         }
       ],
-      "duration_ms": 259293,
-      "name": "How Can It Be",
-      "url": "https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD"
+      "duration_ms": 253640,
+      "name": "The Father's House - Studio",
+      "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "The Father's House",
-        "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
       },
       "artists": [
         {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 253640,
-      "name": "The Father's House - Studio",
-      "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
+      "duration_ms": 259293,
+      "name": "How Can It Be",
+      "url": "https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -647,22 +647,18 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "No Other Name (Deluxe Edition/Live)",
-        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
+        "name": "You Deliver Me",
+        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
         }
       ],
-      "duration_ms": 401760,
-      "name": "This I Believe (The Creed) - Live",
-      "url": "https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb"
+      "duration_ms": 204133,
+      "name": "How Deep The Father's Love For Us",
+      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -719,18 +715,22 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "You Deliver Me",
-        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
+        "name": "No Other Name (Deluxe Edition/Live)",
+        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
       },
       "artists": [
         {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
         }
       ],
-      "duration_ms": 204133,
-      "name": "How Deep The Father's Love For Us",
-      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
+      "duration_ms": 401760,
+      "name": "This I Believe (The Creed) - Live",
+      "url": "https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "Passion: Let The Future Begin",
-        "url": "https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 339493,
-      "name": "In Christ Alone - Live",
-      "url": "https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp"
-    },
-    {
-      "added_at": "2023-02-18 03:38:32",
-      "album": {
         "name": "All Of The Above",
         "url": "https://open.spotify.com/album/0nJ35Byhm8jzBS3QzjSv4D"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 330360,
       "name": "Hosanna",
       "url": "https://open.spotify.com/track/5VlojXyAGM1q9ke2ybxrVT"
+    },
+    {
+      "added_at": "2023-02-18 03:38:32",
+      "album": {
+        "name": "Passion: Let The Future Begin",
+        "url": "https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 339493,
+      "name": "In Christ Alone - Live",
+      "url": "https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "People (Live)",
-        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 449253,
-      "name": "Whole Heart (Hold Me Now) - Live",
-      "url": "https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup"
-    },
-    {
-      "added_at": "2023-02-18 03:38:32",
-      "album": {
         "name": "Way Maker",
         "url": "https://open.spotify.com/album/4KU1pPxzikIozkfEYR58Jx"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 230360,
       "name": "Who You Are To Me (feat. Lady A)",
       "url": "https://open.spotify.com/track/1L4MQJhKyrw0XiF0n0C2hL"
+    },
+    {
+      "added_at": "2023-02-18 03:38:32",
+      "album": {
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 449253,
+      "name": "Whole Heart (Hold Me Now) - Live",
+      "url": "https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -1035,18 +1035,38 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "Be One (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
+        "name": "Alive & Breathing",
+        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
       },
       "artists": [
         {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
         }
       ],
-      "duration_ms": 216400,
-      "name": "King Of The World",
-      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
+      "duration_ms": 242139,
+      "name": "Alive & Breathing (feat. Elle Limebear)",
+      "url": "https://open.spotify.com/track/3XtoBErYE1iSWKcMpftdnW"
+    },
+    {
+      "added_at": "2023-02-18 03:38:32",
+      "album": {
+        "name": "There Is More (Studio Sessions)",
+        "url": "https://open.spotify.com/album/2kwKl75APbUs1AxEv74JdQ"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Who You Say I Am",
+      "url": "https://open.spotify.com/track/0jBu6T5GgOekdHuXA5hVQM"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -1071,38 +1091,18 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "There Is More (Studio Sessions)",
-        "url": "https://open.spotify.com/album/2kwKl75APbUs1AxEv74JdQ"
+        "name": "Be One (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
         }
       ],
-      "duration_ms": 199520,
-      "name": "Who You Say I Am",
-      "url": "https://open.spotify.com/track/0jBu6T5GgOekdHuXA5hVQM"
-    },
-    {
-      "added_at": "2023-02-18 03:38:32",
-      "album": {
-        "name": "Alive & Breathing",
-        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 242139,
-      "name": "Alive & Breathing (feat. Elle Limebear)",
-      "url": "https://open.spotify.com/track/3XtoBErYE1iSWKcMpftdnW"
+      "duration_ms": 216400,
+      "name": "King Of The World",
+      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Because He Lives (Amen)",
+      "url": "https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap"
+    },
+    {
+      "added_at": "2023-02-18 03:38:32",
+      "album": {
         "name": "Breathe In",
         "url": "https://open.spotify.com/album/5klRUhngB9JrMVjiPFDHbP"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 490000,
       "name": "New Wine - Live",
       "url": "https://open.spotify.com/track/1MX4dx6yNvAH2GjIVsUF4h"
-    },
-    {
-      "added_at": "2023-02-18 03:38:32",
-      "album": {
-        "name": "Saints and Sinners",
-        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Because He Lives (Amen)",
-      "url": "https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap"
     },
     {
       "added_at": "2023-02-18 03:38:32",

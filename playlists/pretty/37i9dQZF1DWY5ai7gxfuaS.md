@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The most innovative and forward thinking metal right now\. Cover: Static\-X
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,058 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,217 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 24 | [Diazepam](https://open.spotify.com/track/2I2lcRhPdvzfpC8Q3Eb6uO) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer](https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5) | 2:33 |
 | 25 | [Terrible Lie](https://open.spotify.com/track/2e2aWPBaVWrNMngz5ftWPv) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Terrible Lie](https://open.spotify.com/album/2WSoYDdN55rm3lmGW8qSFl) | 4:03 |
 | 26 | [Dead World](https://open.spotify.com/track/3xafEn4vzr5HybW0uec4wS) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Dead World](https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF) | 4:01 |
-| 27 | [As They Bloom](https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [As They Bloom](https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ) | 3:57 |
-| 28 | [Stuck In My Ways](https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Cheaper Than Therapy](https://open.spotify.com/album/5v0QcUpjf2ucFObuv9Tpgb) | 4:48 |
+| 27 | [Stuck In My Ways](https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Cheaper Than Therapy](https://open.spotify.com/album/5v0QcUpjf2ucFObuv9Tpgb) | 4:48 |
+| 28 | [As They Bloom](https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [As They Bloom](https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ) | 3:57 |
 | 29 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 |
 | 30 | [ANTAGONIST RETURNS](https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm) | [The Worst of Us](https://open.spotify.com/artist/42VxcSRld3QR7Rmv7m97RW), [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO), [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [THE AKUMA](https://open.spotify.com/artist/20kxwZ3KtZExRwq4s9IXZW) | [ANTAGONIST RETURNS](https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb) | 3:37 |
 | 31 | [LXVE](https://open.spotify.com/track/1EN0MB0IzI9V7bagk3esAB) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [All Fine / eniF llA](https://open.spotify.com/album/7Lf2EWSPBMZZYJ0lWq1RMW) | 3:11 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 41 | [Storm](https://open.spotify.com/track/5C4y8xih0UowIf9yPgSAYT) | [Silver Lake by Esa Holopainen](https://open.spotify.com/artist/5snqVyyNcZNQPRkcTnFi4A) | [Silver Lake by Esa Holopainen](https://open.spotify.com/album/2zWSbMftaoejsLk66Rzsj4) | 4:14 |
 | 42 | [Heaviness](https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8) | [LIONFIGHT](https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP) | [An Investigation Into Perceived Heaviness](https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt) | 3:55 |
 | 43 | [Dopamine](https://open.spotify.com/track/7y9USehMh5BWR0tWXsXJ5K) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [From Voodoo to Zen](https://open.spotify.com/album/3kxzriTUAvJklocJHG7GH8) | 4:49 |
-| 44 | [WRAITH](https://open.spotify.com/track/3ZpKJSyH04bVosqILYY5AB) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [ABEYANCE](https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH) | 3:19 |
-| 45 | [be no one](https://open.spotify.com/track/79sLgm42dVXtLAModGd7CJ) | [Sepha.](https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA) | [overstimulation brain porridge](https://open.spotify.com/album/6O4apo5JpFLzhCDwS844Tn) | 4:21 |
+| 44 | [be no one](https://open.spotify.com/track/79sLgm42dVXtLAModGd7CJ) | [Sepha.](https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA) | [overstimulation brain porridge](https://open.spotify.com/album/6O4apo5JpFLzhCDwS844Tn) | 4:21 |
+| 45 | [WRAITH](https://open.spotify.com/track/3ZpKJSyH04bVosqILYY5AB) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [ABEYANCE](https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH) | 3:19 |
 | 46 | [RedZone](https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [RedZone / Dead or Alive](https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN) | 3:47 |
 | 47 | [Moot](https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz), [Morgan Lander](https://open.spotify.com/artist/6UmXnQCZQvayT1eZxAIvz5) | [Moot](https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ) | 4:05 |
 | 48 | [Heads Off](https://open.spotify.com/track/6YscsgZWCPcceessZBN1di) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Heads Off](https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7) | 4:31 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 52 | [Arluck](https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Blood Year](https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb) | 6:33 |
 | 53 | [Red River](https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS) | [Show Me A Dinosaur](https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ) | [Plantgazer](https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP) | 9:36 |
 | 54 | [Don't Wait](https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [Don't Wait](https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO) | 2:08 |
-| 55 | [Camel Dancefloor](https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA) | [Igorrr](https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9) | [Camel Dancefloor](https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn) | 3:13 |
-| 56 | [Contact](https://open.spotify.com/track/4wFWNUaR7NVwOAeFuAVsDs) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Kosmik](https://open.spotify.com/album/5JVAct2LmGOSWPNc3v1SQP) | 3:34 |
-| 57 | [The Future Says Thank You](https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [They Fear Us](https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61) | 3:38 |
+| 55 | [The Future Says Thank You](https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [They Fear Us](https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61) | 3:38 |
+| 56 | [Camel Dancefloor](https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA) | [Igorrr](https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9) | [Camel Dancefloor](https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn) | 3:13 |
+| 57 | [Contact](https://open.spotify.com/track/4wFWNUaR7NVwOAeFuAVsDs) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Kosmik](https://open.spotify.com/album/5JVAct2LmGOSWPNc3v1SQP) | 3:34 |
 | 58 | [Russian Doll](https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Flowers of Evil](https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV) | 3:55 |
 | 59 | [Touch the Corpse](https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Touch the Corpse](https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW) | 2:46 |
 | 60 | [Telescope](https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Telescope](https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X) | 4:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 79 | [Sun Up To Sun Down \- Remix](https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64), [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Sun Up To Sun Down \(Remix\)](https://open.spotify.com/album/0k0dMQoz9HiR6LtQUjykc8) | 2:28 |
 | 80 | [DIVINE DISINTEGRATION](https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W) | [ghostofblu](https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN) | [DIVINE DISINTEGRATION](https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR) | 2:08 |
 
-Snapshot ID: `MCwxYzRhZjI1YTA2OTIxNDMzZjk2MjBjOGI4MmFhMjQxMzU3OGYwMmI3`
+Snapshot ID: `MCw1ZjY0NzMzMDA3YjE3MWUxZDY3NDU0YmNkYThmNTc0MjZkYjg2MjUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,070 likes - 75 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,097 likes - 75 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 36 | [ピコっと!パピっと!!ガルパ☆ピコ!!!](https://open.spotify.com/track/3wQLAbD6vZqRM1RjCKgDVd) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [ピコっと!パピっと!!ガルパ☆ピコ!!!](https://open.spotify.com/album/1LohNjqaHsQkrLcNZJJjCN) | 4:19 |
 | 37 | [誓いのWingbeat](https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:15 |
 | 38 | [す、好きなんかじゃない！](https://open.spotify.com/track/50lLGQbFwJUHuIsXJzsBpw) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [TVアニメ「BanG Dream!」キャラクターソング 市ヶ谷有咲「す、好きなんかじゃない！」](https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA) | 3:56 |
-| 39 | [雨上がりの夢](https://open.spotify.com/track/36oQA58GCSj91Yr3iFEsj6) | [湊 友希那](https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS) | 2:55 |
+| 39 | [ひとりじゃないんだから](https://open.spotify.com/track/0BFyIMS0AV0nQPey197CAh) | [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [モカ](https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c), [リサ](https://open.spotify.com/artist/1hihJzteX1ZxRB0irUH9Jy), [花音](https://open.spotify.com/artist/0CP7lmqWkyfS6eltp2vsTf), [つぐみ](https://open.spotify.com/artist/0WVuJfe3JrP97oz0EJYFLr) | [ひとりじゃないんだから](https://open.spotify.com/album/3T2Swbk2WotBJA6sXka0mY) | 3:58 |
 | 40 | [わちゃ・もちゃ・ぺったん行進曲](https://open.spotify.com/track/4fcpTiauZx5tEi7JvtmWNf) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [SMILE ON PARADE](https://open.spotify.com/album/179xDc6x7RPbG09o0rEjXW) | 3:53 |
 | 41 | [LOUDER](https://open.spotify.com/track/3SQrzvJFTclycqYohgQHhH) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H) | 3:34 |
 | 42 | [しゅわりん☆どり～みん](https://open.spotify.com/track/4viy9f3Ka81kR1Gf2U9hAY) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB) | 3:55 |
 | 43 | [Y.O.L.O！！！！！](https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 4:30 |
-| 44 | [ひとりじゃないんだから](https://open.spotify.com/track/0BFyIMS0AV0nQPey197CAh) | [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [モカ](https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c), [リサ](https://open.spotify.com/artist/1hihJzteX1ZxRB0irUH9Jy), [花音](https://open.spotify.com/artist/0CP7lmqWkyfS6eltp2vsTf), [つぐみ](https://open.spotify.com/artist/0WVuJfe3JrP97oz0EJYFLr) | [ひとりじゃないんだから](https://open.spotify.com/album/3T2Swbk2WotBJA6sXka0mY) | 3:58 |
+| 44 | [雨上がりの夢](https://open.spotify.com/track/36oQA58GCSj91Yr3iFEsj6) | [湊 友希那](https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS) | 2:55 |
 | 45 | [See you! 〜それぞれの明日へ〜](https://open.spotify.com/track/5TZyQjaLF7C6mCHn7auFhr) | [日菜](https://open.spotify.com/artist/5IRX41YDPyIvlKBhfWQFjI), [千聖](https://open.spotify.com/artist/2HPjNk8xJr6y3lk8TzUcDj), [麻弥](https://open.spotify.com/artist/0roduHEfBOh5Dw6KIYlA7G), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [紗夜](https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5), [リサ](https://open.spotify.com/artist/7ols3PswTwnpdvbqHG2fav), [燐子](https://open.spotify.com/artist/3rsjfLbwzDOmns55hKDzS9), [薫](https://open.spotify.com/artist/2ZJwCjTnSnr2V7a91pBvoJ), [花音](https://open.spotify.com/artist/0CP7lmqWkyfS6eltp2vsTf) | [See you! 〜それぞれの明日へ〜](https://open.spotify.com/album/28jD62i4cZTV3y9hh6aj0l) | 5:11 |
 | 46 | [寄る辺のSunny, Sunny](https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 3:35 |
 | 47 | [花園電気ギター！！！](https://open.spotify.com/track/0GRDxtvxmz51U425YzSQnn) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング　花園たえ「花園電気ギター！！！」](https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 74 | [競宴Red×Violet](https://open.spotify.com/track/2sfhkbecN4x8DkdydVZzOP) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [劇場版「BanG Dream! FILM LIVE 2nd Stage」Special Songs](https://open.spotify.com/album/2brdfEDkVMfb9UoC4rupxF) | 4:23 |
 | 75 | [BLACK SHOUT](https://open.spotify.com/track/6NhXiTNe6XM5thwqyL610L) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H) | 4:04 |
 
-Snapshot ID: `MCxmYTQxZTY1N2E1ZjFmZmY0ZjY1NWQ0MmRmNDk2MjRiMDM2NjQ3Njhj`
+Snapshot ID: `MCwzOGJlNmE2OGVhMmE1MGU2MmUxYjQ1ZWIxMDI5ZTNkNzg1ZGYwNjQ4`

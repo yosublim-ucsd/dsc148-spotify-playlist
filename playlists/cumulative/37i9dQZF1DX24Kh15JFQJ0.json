@@ -4125,6 +4125,28 @@
     },
     {
       "album": {
+        "name": "Two Dozen Roses",
+        "url": "https://open.spotify.com/album/3Drss6cMVLm1BC2787GlLY"
+      },
+      "artists": [
+        {
+          "name": "Shenandoah",
+          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230528,
+      "name": "Two Dozen Roses",
+      "url": "https://open.spotify.com/track/5GQgvVT7tJGZNzj13pz36l"
+    },
+    {
+      "album": {
         "name": "Soundtrack To Summer 2021 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1fc9zXrxkl5Jq7ywXtirNY"
       },

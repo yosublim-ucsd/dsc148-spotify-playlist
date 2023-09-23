@@ -1,12 +1,12 @@
 {
   "description": "Ist nur einmal im Jahr!",
-  "num_followers": 359421,
+  "num_followers": 359732,
   "original_name": "Malle Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDEwNjhiOTcyMzVmMTJmZjU3YTMwYzJlMTQzODk0YTVlMTc5YjM1",
+  "snapshot_id": "MCwzMzQxYzU2YTNmZmYyNzBhMDMyZThhZmVkNTQ4MzQ1MDU1NzgwZDE0",
   "tracks": [
     {
       "added_at": "2023-09-18 16:25:06",
@@ -239,6 +239,26 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
+        "name": "Ein bisschen Aroma (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
+      },
+      "artists": [
+        {
+          "name": "Roger Whittaker",
+          "url": "https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "duration_ms": 178540,
+      "name": "Ein bisschen Aroma - Stereoact Remix",
+      "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
         "name": "Rapunzel (DJ Robin Remix)",
         "url": "https://open.spotify.com/album/3dr4AKRx355JOuK77zvyvX"
       },
@@ -259,22 +279,6 @@
       "duration_ms": 165045,
       "name": "Rapunzel - DJ Robin Remix",
       "url": "https://open.spotify.com/track/2WQBFD9aMY1HldcU7Ekvp1"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
-        "name": "Inselfieber",
-        "url": "https://open.spotify.com/album/1tPPkh2N7XXw9NwOKJaNNL"
-      },
-      "artists": [
-        {
-          "name": "Peter Wackel",
-          "url": "https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb"
-        }
-      ],
-      "duration_ms": 153956,
-      "name": "Inselfieber",
-      "url": "https://open.spotify.com/track/4aqVi3KlBMbmbbD07MHNFS"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -303,22 +307,18 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Ein bisschen Aroma (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
+        "name": "Inselfieber",
+        "url": "https://open.spotify.com/album/1tPPkh2N7XXw9NwOKJaNNL"
       },
       "artists": [
         {
-          "name": "Roger Whittaker",
-          "url": "https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+          "name": "Peter Wackel",
+          "url": "https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb"
         }
       ],
-      "duration_ms": 178540,
-      "name": "Ein bisschen Aroma - Stereoact Remix",
-      "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
+      "duration_ms": 153956,
+      "name": "Inselfieber",
+      "url": "https://open.spotify.com/track/4aqVi3KlBMbmbbD07MHNFS"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -843,26 +843,18 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Lea",
-        "url": "https://open.spotify.com/album/7DpARaNJn5iLOKGVANTSsq"
+        "name": "Hurra die Gams",
+        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
       },
       "artists": [
         {
-          "name": "Bierkapit\u00e4n",
-          "url": "https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD"
-        },
-        {
-          "name": "Andy Luxx",
-          "url": "https://open.spotify.com/artist/09Mknlo1aOXbEtxUD41wH2"
-        },
-        {
-          "name": "Dj Aaron",
-          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
+          "name": "Matty Valentino",
+          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
         }
       ],
-      "duration_ms": 159374,
-      "name": "Lea",
-      "url": "https://open.spotify.com/track/02AnxXaXzxredcMjjb26U0"
+      "duration_ms": 204444,
+      "name": "Hurra die Gams",
+      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -887,18 +879,26 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Hurra die Gams",
-        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
+        "name": "Lea",
+        "url": "https://open.spotify.com/album/7DpARaNJn5iLOKGVANTSsq"
       },
       "artists": [
         {
-          "name": "Matty Valentino",
-          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
+          "name": "Bierkapit\u00e4n",
+          "url": "https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD"
+        },
+        {
+          "name": "Andy Luxx",
+          "url": "https://open.spotify.com/artist/09Mknlo1aOXbEtxUD41wH2"
+        },
+        {
+          "name": "Dj Aaron",
+          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
         }
       ],
-      "duration_ms": 204444,
-      "name": "Hurra die Gams",
-      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
+      "duration_ms": 159374,
+      "name": "Lea",
+      "url": "https://open.spotify.com/track/02AnxXaXzxredcMjjb26U0"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
+        "name": "Schei\u00dfegal, ich feier (Radio Edit)",
+        "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
+      },
+      "artists": [
+        {
+          "name": "M\u00fctze Katze",
+          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
+        }
+      ],
+      "duration_ms": 164103,
+      "name": "Schei\u00dfegal, ich feier - Radio Edit",
+      "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
         "name": "Knicklicht",
         "url": "https://open.spotify.com/album/1TqfTWxuO8ciwXwoUB5GgE"
       },
@@ -1087,18 +1103,22 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Schei\u00dfegal, ich feier (Radio Edit)",
-        "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
+        "name": "Igel",
+        "url": "https://open.spotify.com/album/6wGn5LhAfZsymA3wVyBWFv"
       },
       "artists": [
         {
-          "name": "M\u00fctze Katze",
-          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        },
+        {
+          "name": "Vanessa Mai",
+          "url": "https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7"
         }
       ],
-      "duration_ms": 164103,
-      "name": "Schei\u00dfegal, ich feier - Radio Edit",
-      "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
+      "duration_ms": 134826,
+      "name": "Igel",
+      "url": "https://open.spotify.com/track/1op1VrGBMP2uuPOMFQ45R3"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -1203,26 +1223,6 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Igel",
-        "url": "https://open.spotify.com/album/6wGn5LhAfZsymA3wVyBWFv"
-      },
-      "artists": [
-        {
-          "name": "Ikke H\u00fcftgold",
-          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
-        },
-        {
-          "name": "Vanessa Mai",
-          "url": "https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7"
-        }
-      ],
-      "duration_ms": 134826,
-      "name": "Igel",
-      "url": "https://open.spotify.com/track/1op1VrGBMP2uuPOMFQ45R3"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
         "name": "Auf geht\u2019s nach Malle (Sar\u00e0 perch\u00e9 ti amo)",
         "url": "https://open.spotify.com/album/5HQxiHwV6aa81zg3zJg1Nc"
       },
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Ich bleib hier",
-        "url": "https://open.spotify.com/album/2whxURNncAj78xYqErLbFP"
-      },
-      "artists": [
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        },
-        {
-          "name": "M\u00fctze Katze",
-          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
-        }
-      ],
-      "duration_ms": 162947,
-      "name": "Ich bleib hier",
-      "url": "https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
         "name": "Sternstunden",
         "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 236200,
       "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
       "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
+        "name": "Ich bleib hier",
+        "url": "https://open.spotify.com/album/2whxURNncAj78xYqErLbFP"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        },
+        {
+          "name": "M\u00fctze Katze",
+          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
+        }
+      ],
+      "duration_ms": 162947,
+      "name": "Ich bleib hier",
+      "url": "https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Ich schie\u00df mich weg",
-        "url": "https://open.spotify.com/album/1nkb9GbsadB9rE1vonRmXg"
-      },
-      "artists": [
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        },
-        {
-          "name": "Micha von der Rampe",
-          "url": "https://open.spotify.com/artist/4hch8p1Mfo8MwyA5J6Vi9w"
-        }
-      ],
-      "duration_ms": 127989,
-      "name": "Ich schie\u00df mich weg",
-      "url": "https://open.spotify.com/track/72ZWod6JckJuSZ4BeyEqPU"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
         "name": "Senorita",
         "url": "https://open.spotify.com/album/7sC0Co4ka745oGeBfB3Bhk"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 238978,
       "name": "Senorita",
       "url": "https://open.spotify.com/track/5OHOykHs3Ct2pgbqod8uMD"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
+        "name": "Ich schie\u00df mich weg",
+        "url": "https://open.spotify.com/album/1nkb9GbsadB9rE1vonRmXg"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        },
+        {
+          "name": "Micha von der Rampe",
+          "url": "https://open.spotify.com/artist/4hch8p1Mfo8MwyA5J6Vi9w"
+        }
+      ],
+      "duration_ms": 127989,
+      "name": "Ich schie\u00df mich weg",
+      "url": "https://open.spotify.com/track/72ZWod6JckJuSZ4BeyEqPU"
     },
     {
       "added_at": "2023-09-18 16:25:06",

@@ -2,7 +2,7 @@
 
 ### [Connexion Rap](https://open.spotify.com/playlist/37i9dQZF1DWXVOrABrZKBq)
 
-> Le rap francophone est en forme\. Photo: Dave, Tiakola 🌐
+> Le rap francophone est en forme\. Photo: Favé, Gazo
 
 98 songs - 5 hr 8 min
 

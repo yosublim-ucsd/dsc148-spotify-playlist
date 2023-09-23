@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 
 > Go ahead, lounge a little longer with a fun mix of your favorite covers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,876 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,883 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 | 49 | [Creep](https://open.spotify.com/track/3TiWLK8KWhklkau2hVxBif) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Creep](https://open.spotify.com/album/6RFSLPW06Z3yjzewDi6oiA) | 3:54 |
 | 50 | [Titanium](https://open.spotify.com/track/0knwYd0kPonZMwaNWLLudK) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:47 |
 
-Snapshot ID: `MCxlZGZkNDAyZmYyMzNiMzM2YTUyNDFlYzRiYTNmN2NiZjhkNDIwNzA0`
+Snapshot ID: `MCxiNzM0NGFmMDc4NTU2ZDBkZThkNWNkYzlmYzUyZGI5MDMzODRkOTU2`

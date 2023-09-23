@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,311 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,452 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 14 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 |
 | 15 | [Like A Fool](https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:05 |
 | 16 | [Oh Honey](https://open.spotify.com/track/79MSWZup4Q1ShQ1kwsL4qo) | [Angelo Ferreri](https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ) | [Oh Honey](https://open.spotify.com/album/6hZAewOMwwk45SDM0Jcb8I) | 2:29 |
-| 17 | [Techno Disco Tool \- Radio Edit](https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Techno Disco Tool \(Radio Edit\)](https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq) | 3:14 |
+| 17 | [Let Me Love U](https://open.spotify.com/track/2BoPkeahovHxCSfmmlEl26) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Let Me Love U](https://open.spotify.com/album/62nvVdhCk001EdiodfzunA) | 3:09 |
 | 18 | [Starlight Delight](https://open.spotify.com/track/5pYAjHgii18QfT9IOOCkIR) | [NOCUI](https://open.spotify.com/artist/5WAAffTsqPSeJqB4zb1SlV) | [Starlight Delight](https://open.spotify.com/album/0SNFL0dNsmhBdzaWn1ftlp) | 5:27 |
-| 19 | [Let Me Love U](https://open.spotify.com/track/2BoPkeahovHxCSfmmlEl26) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Let Me Love U](https://open.spotify.com/album/62nvVdhCk001EdiodfzunA) | 3:09 |
+| 19 | [Techno Disco Tool \- Radio Edit](https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Techno Disco Tool \(Radio Edit\)](https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq) | 3:14 |
 | 20 | [Chemicals](https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:15 |
 | 21 | [Giodisco](https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Giodisco](https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD) | 2:43 |
 | 22 | [Thin Line](https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Thin Line](https://open.spotify.com/album/2SNatJfvvM3VT444888Mgk) | 3:08 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 47 | [Ma quale idea \- Myd Remix \(Radio Edit\)](https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Ma quale idea \(Myd Remix\)](https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY) | 3:39 |
 | 48 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 |
 | 49 | [Please \- Single Edit](https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Please](https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR) | 3:39 |
-| 50 | [Armaghetton \- Aeroplane Remix](https://open.spotify.com/track/7K0NRDpluahVsxekmJ3ufu) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Greeko](https://open.spotify.com/artist/2G60xU64nhrlgfBPxIE8JH), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Armaghetton \(Aeroplane Remix\)](https://open.spotify.com/album/1es3fJXc54eFu7uUZkSsrh) | 3:33 |
+| 50 | [Glitter Fonk](https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:33 |
 
-Snapshot ID: `MCxlNWVkZDgwMTE2YzFlNDM3NmM4NzczNTI0OTc3ZDk1MDZmY2Y3ZWFj`
+Snapshot ID: `MCxhMWMzYmUxMDIyNzQ4MmIzNDQ3OTEyZWY0OTU1MDgyODJhMTZlMDRk`

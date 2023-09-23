@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 178064,
       "name": "Baby",
       "url": "https://open.spotify.com/track/2A4L0NKNd3PHYBfA6u3PSG"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 156190,
       "name": "Cold Blooded",
       "url": "https://open.spotify.com/track/0V4rYVShLtyR1yzucwGv9i"
@@ -454,7 +454,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 154879,
       "name": "Don't Call Me",
       "url": "https://open.spotify.com/track/0TdS0abXCuojh4OrrxfbRA"
@@ -747,6 +747,28 @@
     },
     {
       "album": {
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/0xtrHMehgz8uPX7UjR0f6Q"
+      },
+      "artists": [
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        },
+        {
+          "name": "Juliana Gorito",
+          "url": "https://open.spotify.com/artist/7nuF0ft87c43gNhCrtmqEc"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253553,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/60fZAe19lMnufLHXErVg5U"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/1n6nvOAGVOvAirXMDNty3K"
       },
@@ -1016,6 +1038,28 @@
       "duration_ms": 131219,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/08icbnSa1ZRDspSi20iXO3"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/17YGLN0RuxOndcofUgkI0E"
+      },
+      "artists": [
+        {
+          "name": "Carol Seubert",
+          "url": "https://open.spotify.com/artist/0dGvlJ7IznrpAVfrLmpABQ"
+        },
+        {
+          "name": "Sophia Stedile",
+          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183934,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/7o99rtPEvsWcjfSlD0xqfk"
     },
     {
       "album": {
@@ -1491,6 +1535,32 @@
     },
     {
       "album": {
+        "name": "Secret Smile",
+        "url": "https://open.spotify.com/album/5gpnpEThHVweEN79R99HBU"
+      },
+      "artists": [
+        {
+          "name": "Softmal",
+          "url": "https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ"
+        },
+        {
+          "name": "Lucenamusic",
+          "url": "https://open.spotify.com/artist/335f9Ugg2hPztv12i4bz4g"
+        },
+        {
+          "name": "R.Braga",
+          "url": "https://open.spotify.com/artist/3Dk5WoF0srbBzNJoux07rC"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223253,
+      "name": "Secret Smile",
+      "url": "https://open.spotify.com/track/6q7HOOB1HFd8sGiLn9qaZ4"
+    },
+    {
+      "album": {
         "name": "See The Sun",
         "url": "https://open.spotify.com/album/0hmjkXqghMAHtt8p7aCNgX"
       },
@@ -1554,10 +1624,32 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 187317,
       "name": "Sex Machine - Kyllow Remix",
       "url": "https://open.spotify.com/track/1WMJEW05FNecZJJAtcq5nO"
+    },
+    {
+      "album": {
+        "name": "Shake For Me",
+        "url": "https://open.spotify.com/album/11SpfzP6rZhPmN9rHYr4XY"
+      },
+      "artists": [
+        {
+          "name": "Caique Carvalho",
+          "url": "https://open.spotify.com/artist/1W9pJsla05m0YLC25BaPzW"
+        },
+        {
+          "name": "Nogue",
+          "url": "https://open.spotify.com/artist/0ZCRAH96d0NQAcHcE6bCEJ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137162,
+      "name": "Shake For Me",
+      "url": "https://open.spotify.com/track/506Xzmxx9wmqrL5F0uyW2u"
     },
     {
       "album": {
@@ -1714,7 +1806,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 213543,
       "name": "Take It",
       "url": "https://open.spotify.com/track/3E6pRr10U7gMno9Ryz6HFC"
@@ -1841,6 +1933,24 @@
     },
     {
       "album": {
+        "name": "Tira A Camisa",
+        "url": "https://open.spotify.com/album/2uNjixcI6TJrlOcJfbJyuF"
+      },
+      "artists": [
+        {
+          "name": "Almanac",
+          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Tira A Camisa",
+      "url": "https://open.spotify.com/track/74wXmElNAq0vNBS47FiZSz"
+    },
+    {
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/04F8y4KfwMra5M1l3gplna"
       },
@@ -1896,7 +2006,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 234927,
       "name": "Vai no Ch\u00e3o 2k23 - Original Mix",
       "url": "https://open.spotify.com/track/6BH2EOiwGPsa99fYTOdPAr"
@@ -1918,6 +2028,32 @@
       "duration_ms": 158740,
       "name": "Velocidade",
       "url": "https://open.spotify.com/track/14QQZUBzohHF1BBSKZ1wfO"
+    },
+    {
+      "album": {
+        "name": "Viagem Ao Centro Do Eu (Coragem)",
+        "url": "https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx"
+      },
+      "artists": [
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        },
+        {
+          "name": "Paulo Novaes",
+          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
+        },
+        {
+          "name": "Nina Oliveira",
+          "url": "https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253770,
+      "name": "Viagem Ao Centro Do Eu (Coragem)",
+      "url": "https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo"
     },
     {
       "album": {

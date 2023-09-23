@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Lau Heung King
 
-692 songs - 1 day 15 hr 8 min
+694 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Conquer \- Live](https://open.spotify.com/track/4wzrcQrWikddwgxiFJAr4r) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Conquer \(Live\)](https://open.spotify.com/album/4e1FYYsHXgEym0ibwuTYqN) | 3:46 | 2022-12-08 | 2023-03-18 |
 | [Count to Three](https://open.spotify.com/track/7GRKbr2Pb4B2bm4LC6NRb2) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Count to Three](https://open.spotify.com/album/57HV84AdSQXLWEdBYYkArT) | 2:55 | 2023-04-27 | 2023-07-14 |
 | [Crack It](https://open.spotify.com/track/4K0OTeAlHEFW8bZo063vLq) | [陳浩](https://open.spotify.com/artist/02B3n4s3tZqb73uiLoegXu) | [Crack It](https://open.spotify.com/album/1AN852PAyR9UPeoDNzCuGJ) | 3:33 | 2023-02-02 | 2023-05-26 |
+| [Crashing Chase \(Drillphony\)](https://open.spotify.com/track/5yaoEzPu52YqtGGWm7uRlN) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [Crashing Chase \(Drillphony\)](https://open.spotify.com/album/4cGqnjLgNFjhI2vyMDa4pO) | 2:34 | 2023-09-21 |  |
 | [Credit](https://open.spotify.com/track/4Q8t1HBOX9lb8QQRcoGK1l) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Credit](https://open.spotify.com/album/7w5R7bNW0A8UkCT3zAvPSz) | 2:41 | 2023-06-01 | 2023-09-01 |
 | [Credit](https://open.spotify.com/track/5abqjJv3WCoD1y9z59yh7t) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Credit](https://open.spotify.com/album/7IqwSxxntduz6KUd8pAAwv) | 2:41 | 2023-05-11 | 2023-06-02 |
 | [cry baby](https://open.spotify.com/track/0wZVP1xzfhtXEzni1euLwG) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [cry baby](https://open.spotify.com/album/4AxO9XKqwFHv5BlT4UsxjL) | 3:58 | 2022-10-13 | 2023-03-18 |
@@ -145,7 +146,7 @@
 | [GHOSTED \(Prod\. Jom Donato & Shrinjay Ghosh\)](https://open.spotify.com/track/0zElDp0olI2fPoeBh1BQB3) | [KAREN YEE](https://open.spotify.com/artist/4PIfjY4eTuXfopttbsBdOh) | [GHOSTED \(Prod\. Jom Donato & Shrinjay Ghosh\)](https://open.spotify.com/album/3ymWQzCYogShcn2sPPJTSI) | 2:38 | 2023-09-14 |  |
 | [GIGGLE](https://open.spotify.com/track/6i64lLGBXrXxkJ5y5yUiFC) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [GIGGLE](https://open.spotify.com/album/2D0xcHpatH08bxmjLzi8aq) | 2:48 | 2022-05-26 | 2022-07-29 |
 | [Gigi](https://open.spotify.com/track/2iIk4RyJRWVa4l0t0fiQWs) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Gigi](https://open.spotify.com/album/0WnVwquHKlCPWJbZO9upzd) | 4:10 | 2022-12-29 | 2023-05-26 |
-| [give in to you](https://open.spotify.com/track/30uhhtCSKgdM41GpWRpLVJ) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [give in to you](https://open.spotify.com/album/5dN9X6OlySq4wet8HP1Gfi) | 3:04 | 2023-09-21 |  |
+| [give in to you](https://open.spotify.com/track/30uhhtCSKgdM41GpWRpLVJ) | [Lau Heung King](https://open.spotify.com/artist/4hoaMY482rsnuWzyVaa6Ql) | [give in to you](https://open.spotify.com/album/5dN9X6OlySq4wet8HP1Gfi) | 3:04 | 2023-09-21 |  |
 | [Give It Up \- Live](https://open.spotify.com/track/4omJ7cFiuK8I8tTbdnalEh) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Give It Up \(Live\)](https://open.spotify.com/album/7mOFUTdjtYNv8AkBmV1ZxI) | 3:36 | 2022-12-15 | 2023-01-06 |
 | [GO UP](https://open.spotify.com/track/1WLjBAS287dg6jaYdYjdpn) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [GO UP](https://open.spotify.com/album/55ShbiXKTKwGmHpb78dz5V) | 3:07 | 2023-05-11 | 2023-09-01 |
 | [GODSROOM 殿](https://open.spotify.com/track/6cq3QFJfZMi2IReXNsJjro) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp) | [GODSROOM 殿](https://open.spotify.com/album/6lSTMCNUXWFX1Rq5XSJGda) | 3:14 | 2023-06-22 |  |
@@ -469,6 +470,7 @@
 | [不可救藥的...](https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [不可救藥的...](https://open.spotify.com/album/1H2yIXcODEDvxaYEa4FQM5) | 3:03 | 2022-06-16 | 2022-09-09 |
 | [不安定因素](https://open.spotify.com/track/2BFHh7MnVxYzzSEQ4Cf7QD) | [DIZIWASTRIPPY](https://open.spotify.com/artist/2N23SDzDpduiMR58p4hQPe), [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [不安定因素](https://open.spotify.com/album/0OyYhO3YDR3yvlWLkFkyQj) | 2:30 | 2023-09-21 |  |
 | [不想再想](https://open.spotify.com/track/00H2zvjFakugiw2Snw4JCF) | [Rae Law](https://open.spotify.com/artist/3R82T1kwSMzxEH1UbkRqLV) | [不想再想](https://open.spotify.com/album/1zNqwvZu127NWwDq3egDGM) | 2:52 | 2023-06-29 |  |
+| [不羈](https://open.spotify.com/track/2ZIL1PtThR5tydXRb9cyJ3) | [CK 黃斯琪](https://open.spotify.com/artist/71nFssyAK21hrZo32OWnkX), [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [不羈](https://open.spotify.com/album/7A5B51z3ZBY8PGcXWV63cH) | 3:08 | 2023-09-21 |  |
 | [不羨仙](https://open.spotify.com/track/59jiD1lLtQ1wBuShJMuaL4) | [Yusobeit](https://open.spotify.com/artist/6bY9OcnH6oAoBVRDFIQcso) | [不羨仙](https://open.spotify.com/album/3JIMcQkcMOYZkhKZ2RoRS9) | 3:17 | 2023-03-16 | 2023-07-14 |
 | [不要來電](https://open.spotify.com/track/5LYr1razIy4OOGCbG3fivV) | [NotReal](https://open.spotify.com/artist/5Ug1UjqzpeXc1pqw2FrrDd) | [不要來電](https://open.spotify.com/album/0cMWOcHwL29U6P1AzAS0vD) | 2:41 | 2023-06-01 | 2023-09-01 |
 | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/track/5LG7dFSp3X7WhaabnJLfXT) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/album/1zWBngiKyE91gjT0MR0IaV) | 4:00 | 2022-08-04 | 2022-11-04 |

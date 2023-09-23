@@ -4,7 +4,7 @@
 
 > Soft and cozy sounds of Bossa nova.
 
-78 songs - 5 hr 11 min
+80 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [I've Never Been in Love Before](https://open.spotify.com/track/3zxJSADabzOeoABoE7O7Jz) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [I've Never Been in Love Before](https://open.spotify.com/album/2JS1LQHGLJ4ZmwM2LTFoW1) | 3:56 | 2023-05-11 |  |
 | [Insônia](https://open.spotify.com/track/4Q92ioXrNYiaLaRDJEc1mq) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 2:44 | 2023-05-11 |  |
 | [Inútil paisagem](https://open.spotify.com/track/4VhDH7KDHeYqyGcRTity4J) | [Juliano Vidal Band](https://open.spotify.com/artist/5ZOhtZZUJLIUeiZOEJwVa2) | [O Morro Nao Tem Vez](https://open.spotify.com/album/1wgx5igIEBKoVA9jKGegKD) | 4:23 | 2023-05-11 |  |
+| [La Boca](https://open.spotify.com/track/4bsNYygNqXlMyIznr6JMOq) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [La Boca](https://open.spotify.com/album/1KOMNG9vql5kg6q7IbEWe5) | 4:04 | 2023-09-22 |  |
 | [Lembranças](https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV) | [Vitor José Fonseca](https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu) | [Lembranças](https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW) | 4:04 | 2023-05-11 |  |
 | [Liljeholmsviken](https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Liljeholmsviken](https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe) | 4:22 | 2023-05-11 |  |
 | [Manha de Carnaval](https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The New Sound of Brazil](https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU) | 3:09 | 2023-05-11 |  |
@@ -64,6 +65,7 @@
 | [Presságio](https://open.spotify.com/track/5BdyZTa9TXXdLfOvvwhgGH) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Presságio](https://open.spotify.com/album/7LhUawCpzHAfH4MZ3zBLlb) | 6:37 | 2023-05-11 |  |
 | [Pão de Açúcar](https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [Pão de Açúcar](https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM) | 3:42 | 2023-05-11 |  |
 | [Quiet Nights of Quiet Stars](https://open.spotify.com/track/6dSDOHrVdfyPfGlkZVUyD3) | [Arlo Langford Trio](https://open.spotify.com/artist/02DjFSGzdyir0ZksfCGuWp) | [Quiet Nights of Quiet Stars](https://open.spotify.com/album/3OicFT1OODV7al017E5kRL) | 4:48 | 2023-05-11 |  |
+| [Recife](https://open.spotify.com/track/2it9eIySkoMPexLleyo2eE) | [Stockholm Whereabouts](https://open.spotify.com/artist/7xGUX1jozTRuHMgjmRuK18) | [Recife](https://open.spotify.com/album/1mbGLAaBeA2071AXPDbDcW) | 3:42 | 2023-09-22 |  |
 | [Rio](https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Rio](https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B) | 3:19 | 2023-05-11 |  |
 | [Rio Lindo](https://open.spotify.com/track/3usSv5DQqZlulKLHRumXGH) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [Rio Lindo](https://open.spotify.com/album/0aC2r9F9VoEBhYa5MYUVq6) | 3:43 | 2023-05-11 |  |
 | [River of Dreams](https://open.spotify.com/track/303q7nGbVGdxUvbhbEfHzS) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [River of Dreams](https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA) | 3:03 | 2023-05-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1084927,
+  "num_followers": 1085619,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDMwMzU0NGQ0MTExOTk5YTljMDg3YTliZDVkZTk1MWE1ZGFjOWY2",
+  "snapshot_id": "MCwzZWM5YmM4YjcyMDVmOWIwMTUwMDgwZTY1NmM2NzI4YTlkZThmYjc1",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -543,22 +543,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
         "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "The Guest (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD"
-      },
-      "artists": [
-        {
-          "name": "Phantom Planet",
-          "url": "https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "California - Tchad Blake Mix",
-      "url": "https://open.spotify.com/track/497Fkp3gRiGrRMoqBTDudr"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "G.R.L.",
         "url": "https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 198306,
       "name": "Ugly Heart",
       "url": "https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "The Guest (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD"
+      },
+      "artists": [
+        {
+          "name": "Phantom Planet",
+          "url": "https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY"
+        }
+      ],
+      "duration_ms": 193933,
+      "name": "California - Tchad Blake Mix",
+      "url": "https://open.spotify.com/track/497Fkp3gRiGrRMoqBTDudr"
     },
     {
       "added_at": "2020-08-27 16:10:25",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 85131,
+  "num_followers": 85142,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGY0N2M1YzhjMzE5N2Q4YjdkYWNlNWY0ODJlZmVjZmIyNjBlYmM0",
+  "snapshot_id": "MCxmOGQ5N2I1MDcxZDRkOGFmNDAxNWM3NzFjNzRkOTY2Y2JhODg3Zjgx",
   "tracks": [
     {
       "added_at": "2023-04-14 06:55:00",
@@ -435,22 +435,18 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "N\u00f3mada",
-        "url": "https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6"
+        "name": "Armenia",
+        "url": "https://open.spotify.com/album/4tT3ltCmgXpxtVuYTWN1bm"
       },
       "artists": [
         {
-          "name": "La Banda del Bisonte",
-          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
-        },
-        {
-          "name": "La Muchacha",
-          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
         }
       ],
-      "duration_ms": 287701,
-      "name": "N\u00f3mada",
-      "url": "https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A"
+      "duration_ms": 174939,
+      "name": "Alg\u00fan Contexto",
+      "url": "https://open.spotify.com/track/3VthvpD7tsAm5lybsXWXX1"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -471,18 +467,22 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Armenia",
-        "url": "https://open.spotify.com/album/4tT3ltCmgXpxtVuYTWN1bm"
+        "name": "N\u00f3mada",
+        "url": "https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6"
       },
       "artists": [
         {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+          "name": "La Banda del Bisonte",
+          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
+        },
+        {
+          "name": "La Muchacha",
+          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
         }
       ],
-      "duration_ms": 174939,
-      "name": "Alg\u00fan Contexto",
-      "url": "https://open.spotify.com/track/3VthvpD7tsAm5lybsXWXX1"
+      "duration_ms": 287701,
+      "name": "N\u00f3mada",
+      "url": "https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Yumbotop\u00eda",
-        "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
-      },
-      "artists": [
-        {
-          "name": "Las Yumbe\u00f1as",
-          "url": "https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh"
-        }
-      ],
-      "duration_ms": 173621,
-      "name": "El Tema de Amor Que Esperabas",
-      "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
         "name": "Cangrejo",
         "url": "https://open.spotify.com/album/3MvaFYJpFswQIHN8qCYThP"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 162000,
       "name": "Cangrejo",
       "url": "https://open.spotify.com/track/08IybVfdaHDLiJiAxO7R4e"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
+        "name": "Yumbotop\u00eda",
+        "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
+      },
+      "artists": [
+        {
+          "name": "Las Yumbe\u00f1as",
+          "url": "https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh"
+        }
+      ],
+      "duration_ms": 173621,
+      "name": "El Tema de Amor Que Esperabas",
+      "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
     },
     {
       "added_at": "2023-04-14 06:55:00",

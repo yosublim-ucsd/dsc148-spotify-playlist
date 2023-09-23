@@ -1997,6 +1997,28 @@
     },
     {
       "album": {
+        "name": "TRAPPii",
+        "url": "https://open.spotify.com/album/7iF9xB4XpjpAUK1K3gQk7v"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177514,
+      "name": "TRAPPii",
+      "url": "https://open.spotify.com/track/1NnWem6HonEiI378MLLOH8"
+    },
+    {
+      "album": {
         "name": "Tu No Metes Cabra",
         "url": "https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w"
       },

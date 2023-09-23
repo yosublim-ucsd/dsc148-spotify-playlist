@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > o toque de malandragem do bololô, mc ryan sp
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,252,375 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,253,237 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 60 | [Dior](https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Dior](https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR) | 3:49 |
 | 61 | [Detalhes](https://open.spotify.com/track/5dkytCgrODAV4HzGy0Sl94) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios Deluxe](https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b) | 3:33 |
 | 62 | [No Love](https://open.spotify.com/track/6ExnOUWNlAtsJCsqsa2GDB) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [No Love](https://open.spotify.com/album/5IRcRuEihMES5gUZWVsGyo) | 3:00 |
-| 63 | [Disney](https://open.spotify.com/track/0JsoISSv40wbMuKXkbkz57) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Favela Drill](https://open.spotify.com/album/4Su4WRXP0u7XDsv8nZzADQ) | 2:43 |
+| 63 | [Hobby + Gestão Inteligente](https://open.spotify.com/track/5PHOJumdwAHxdpPW2jofzO) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [SUSHIBOY011](https://open.spotify.com/artist/2zVeDfVtEfoveXYVb2sg4G), [engless](https://open.spotify.com/artist/5TPy1ZxKDks0wqWZfi24Ee) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 2:57 |
 | 64 | [Movimento \- Spotify Singles](https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Movimento \- Spotify Singles](https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ) | 2:38 |
 | 65 | [Londres Freestyle](https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [Londres Freestyle](https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU) | 2:08 |
 
-Snapshot ID: `MCw5MzlmZDg1M2MwZDMzYWRmZThhMDVjNDczMzhjOGNmYTIxZTQ3NDNi`
+Snapshot ID: `MCw1M2NmNTliNGRlMTljZjE1NDYyY2ZkNGFkZDk3MjI5OTZlZGZiYzc3`

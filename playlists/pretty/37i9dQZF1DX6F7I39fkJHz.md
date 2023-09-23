@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F7I39fkJHz.md) - [plain]
 
 > Las más bichotas de la escena featuring TAICHU.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,963 likes - 85 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,995 likes - 85 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F7I39fkJHz.md) - [plain]
 | 48 | [DELITO](https://open.spotify.com/track/0K3dGPXHVALEqW8EEQGc3T) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 3:23 |
 | 49 | [Colocao](https://open.spotify.com/track/3hGtjSJQ76HkWzeUkekKGY) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Parte de Mí](https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP) | 2:59 |
 | 50 | [Aprovechame BB](https://open.spotify.com/track/29VflI9cjsWbGfEkvu0Tyk) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Aprovechame BB](https://open.spotify.com/album/3F5VD1oinu70b2B9WWQ4ZU) | 3:12 |
-| 51 | [ALGARETE](https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [ALGARETE](https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n) | 3:28 |
-| 52 | [LA SANTA](https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA SANTA](https://open.spotify.com/album/7s7TZHak9Chi57TNKIH7T8) | 2:45 |
+| 51 | [LA SANTA](https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA SANTA](https://open.spotify.com/album/7s7TZHak9Chi57TNKIH7T8) | 2:45 |
+| 52 | [ALGARETE](https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [ALGARETE](https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n) | 3:28 |
 | 53 | [Maléfica](https://open.spotify.com/track/3i5cUvzBImLJTLh0koudVl) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Maléfica](https://open.spotify.com/album/5h10dZPmIJpkbFiwrNt8AO) | 3:03 |
 | 54 | [Bicha](https://open.spotify.com/track/3Xv4C3ZIpd1D0S9lUh4S1b) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Bicha](https://open.spotify.com/album/2LhBFY1mquGDfrsIw0oPaS) | 2:29 |
 | 55 | [Ella \- Remix De Ellas](https://open.spotify.com/track/6xvsaD0vPI2tU9gaF2e4j2) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Ella \(Remix De Ellas\)](https://open.spotify.com/album/1S3W5Bf9guhX9p3m8DG1Oe) | 3:10 |
-| 56 | [LOKITA](https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LOKITA](https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC) | 3:13 |
-| 57 | [For Ya](https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 |
+| 56 | [For Ya](https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 |
+| 57 | [Pasajero](https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Pasajero](https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa) | 3:38 |
 | 58 | [Nobody Like Yo](https://open.spotify.com/track/5ETecrJ4HK8qglSLq382hG) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nobody Like Yo](https://open.spotify.com/album/2NhtV3QHi04aqmbnaLCEYJ) | 2:34 |
-| 59 | [Pasajero](https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Pasajero](https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa) | 3:38 |
+| 59 | [LOKITA](https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LOKITA](https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC) | 3:13 |
 | 60 | [TOLKIN YIT](https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOLKIN YIT](https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp) | 2:21 |
 | 61 | [Mujerón](https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Mujerón](https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX) | 2:50 |
 | 62 | [Piketona \(with Kim Loaiza\)](https://open.spotify.com/track/0MBbWL85frwcC7hKCQm4r7) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Piketona \(with Kim Loaiza\)](https://open.spotify.com/album/4JWW3H1HSUA5beQdZ8oj8K) | 2:38 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F7I39fkJHz.md) - [plain]
 | 84 | [Solita \- Remix](https://open.spotify.com/track/1hFC3OfExDADVLCAQDgUr8) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Solita \(Remix\)](https://open.spotify.com/album/7rczcUlz87UicCYwuAig7C) | 3:50 |
 | 85 | [RYP](https://open.spotify.com/track/7rYfQFCiF69laKNrS1ONMH) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [RYP](https://open.spotify.com/album/0xMFuXkp5YGSmXem72aTOS) | 3:14 |
 
-Snapshot ID: `MCxhODA4NWU5NDI0OTEyODNiYjAwZmVkYjA2OGVlOGQ0ZmQzYzg2NWY3`
+Snapshot ID: `MCwxN2E0ZGZiNGE4OTY2YTliMWFjNGE2YjE2YTg0YjQ2YzJjNmZiMDVk`

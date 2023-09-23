@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-03",
-  "description": "Dosis musical para disfrutar el momento. Foto: Nicky Jam, Be\u00e9le",
+  "description": "Dosis musical para disfrutar el momento. Foto: Feid",
   "name": "Parchadito",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 180000,
       "name": "Afuera Arde",
       "url": "https://open.spotify.com/track/5NMZbDgtEWmxFd70YCV8bj"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 127658,
       "name": "BAD BITCH",
       "url": "https://open.spotify.com/track/7ee38maLm32TKcmcWQglD5"
@@ -312,10 +312,54 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 240180,
       "name": "BEiBi",
       "url": "https://open.spotify.com/track/53x7QqqdDnL50WZMtKixcu"
+    },
+    {
+      "album": {
+        "name": "Besos Ricos",
+        "url": "https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187715,
+      "name": "Besos Ricos",
+      "url": "https://open.spotify.com/track/1AeVenKA9w42gepptaabsD"
+    },
+    {
+      "album": {
+        "name": "BUBALU",
+        "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228253,
+      "name": "BUBALU",
+      "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
     },
     {
       "album": {
@@ -733,6 +777,28 @@
     },
     {
       "album": {
+        "name": "ESO VA",
+        "url": "https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "ESO VA",
+      "url": "https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4"
+    },
+    {
+      "album": {
         "name": "Estetograma",
         "url": "https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu"
       },
@@ -846,7 +912,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 231959,
       "name": "Horas",
       "url": "https://open.spotify.com/track/2UumxLigdCw91IxqpMEvPz"
@@ -1060,7 +1126,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 191448,
       "name": "las consecuencias",
       "url": "https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d"
@@ -1286,7 +1352,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 121836,
       "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
       "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
@@ -1489,6 +1555,32 @@
     },
     {
       "album": {
+        "name": "DEKKOLETERA 333",
+        "url": "https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "Montano",
+          "url": "https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191561,
+      "name": "No Te Creas Tanto",
+      "url": "https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV"
+    },
+    {
+      "album": {
         "name": "No Te Vayas",
         "url": "https://open.spotify.com/album/3vhqf5YeiGZyCuXkKzWE5b"
       },
@@ -1526,6 +1618,24 @@
       "duration_ms": 138948,
       "name": "NOSPOR",
       "url": "https://open.spotify.com/track/4yqrIQZxkR5ayIYDVE2alF"
+    },
+    {
+      "album": {
+        "name": "Offline",
+        "url": "https://open.spotify.com/album/7cLPoW0K3uRzKQyFlclq3w"
+      },
+      "artists": [
+        {
+          "name": "Liana Malva",
+          "url": "https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170307,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/4STNoDYDV4JzJcaL6ZocSU"
     },
     {
       "album": {
@@ -1678,6 +1788,24 @@
       "duration_ms": 178534,
       "name": "Por Eso Vine",
       "url": "https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu"
+    },
+    {
+      "album": {
+        "name": "Por La Forma En Que Me Miras",
+        "url": "https://open.spotify.com/album/7y3u55UCDkR0Naaq2A0Xir"
+      },
+      "artists": [
+        {
+          "name": "Jhosy",
+          "url": "https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193411,
+      "name": "Por La Forma En Que Me Miras",
+      "url": "https://open.spotify.com/track/4UfehNZcYmHX8ctXwiOB89"
     },
     {
       "album": {

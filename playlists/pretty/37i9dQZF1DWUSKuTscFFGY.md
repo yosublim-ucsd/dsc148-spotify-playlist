@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : David Kushner
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,416 likes - 59 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,517 likes - 59 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 18 | [the grudge](https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:09 |
 | 19 | [Doesn’t Do Me Any Good](https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:52 |
 | 20 | [Daddy’s a Psycho](https://open.spotify.com/track/6jYo2opycXJs1wj2jENEiq) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 4:19 |
-| 21 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 |
-| 22 | [Winner](https://open.spotify.com/track/3b5MPNYlX8ztJowxAwzTai) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Winner](https://open.spotify.com/album/0A7j3cX53ea8Bjy2exxXLy) | 3:37 |
-| 23 | [Mirage \- for Assassin's Creed Mirage](https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Mirage \(for Assassin's Creed Mirage\)](https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz) | 2:13 |
-| 24 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 |
-| 25 | [Crush](https://open.spotify.com/track/00Apys6jYrWA0Bse9Yon6O) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Crush](https://open.spotify.com/album/4zhSWdHOuYGS7EoJiY6PaE) | 2:55 |
-| 26 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 |
+| 21 | [Winner](https://open.spotify.com/track/3b5MPNYlX8ztJowxAwzTai) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Winner](https://open.spotify.com/album/0A7j3cX53ea8Bjy2exxXLy) | 3:37 |
+| 22 | [Mirage \- for Assassin's Creed Mirage](https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Mirage \(for Assassin's Creed Mirage\)](https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz) | 2:13 |
+| 23 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 |
+| 24 | [Crush](https://open.spotify.com/track/00Apys6jYrWA0Bse9Yon6O) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Crush](https://open.spotify.com/album/4zhSWdHOuYGS7EoJiY6PaE) | 2:55 |
+| 25 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 |
+| 26 | [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q) | 2:50 |
 | 27 | [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 |
 | 28 | [Sweet Relief](https://open.spotify.com/track/12BAxMbHzksw2xiq05gKtT) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Silence Between Songs](https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2) | 2:41 |
 | 29 | [Beautiful](https://open.spotify.com/track/0uWn41XAyeYza4CIubkoD4) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Beautiful](https://open.spotify.com/album/0yiKEn4Xgl1M8HSlmTWNS2) | 4:10 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 58 | [It’s Euphoric](https://open.spotify.com/track/7ynqVX9l6jWPDduSJwIiYG) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Euphoric](https://open.spotify.com/album/4J2xyrxoURH3t6plYCEPhf) | 3:41 |
 | 59 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 |
 
-Snapshot ID: `MCxiYmVmMmQ5YjZiNDliMjkyMzc3NTQzNTcxNzg4ODczNWM2MTkyNGFl`
+Snapshot ID: `MCxmYTUyNWQyNzBmM2JhNjk3ZTFlOWYxOTU1Yzk4ZjBlZDE2MThiYWM0`

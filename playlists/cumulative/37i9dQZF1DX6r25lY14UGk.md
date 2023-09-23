@@ -4,12 +4,13 @@
 
 > Essential kids songs to add to your family's collection.
 
-142 songs - 6 hr 41 min
+144 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [ABC You A G](https://open.spotify.com/track/0WJRF99Adva94LORA1Cyud) | [Pierce Freelon](https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG), [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS), [Stella Freelon](https://open.spotify.com/artist/07a4pfP7i1yw280o7TWBCk) | [AnceStars](https://open.spotify.com/album/64aREOj3hb0pCmJzTSxTXc) | 1:53 | 2023-06-02 |  |
 | [Affirmation Song](https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 2:06 | 2022-12-09 |  |
+| [All Bodies Are Good Bodies](https://open.spotify.com/track/4ZTMfcW0Hw9OkHghCwUifX) | [The Quokkas](https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg), [Erica Salcedo](https://open.spotify.com/artist/6kSGh6360H3PRZh8IrS2Ld), [Charlotte Barkla](https://open.spotify.com/artist/24eR58XlBzOSBAQSMVWmgf) | [All Bodies Are Good Bodies](https://open.spotify.com/album/09Ft6cb3sbDQjjPFFhJxlh) | 2:00 | 2023-09-22 |  |
 | [Aster & Goldenrod](https://open.spotify.com/track/0tfWVCen9NARGqo6KSkmW5) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Plants Rock](https://open.spotify.com/album/2qP0M5VHMVF6TC40tRckIg) | 3:29 | 2022-04-15 |  |
 | [Aw Rats!](https://open.spotify.com/track/2fwU2mOKq9Dg6AKVCJoPIU) | [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA) | [The Underground EP](https://open.spotify.com/album/0xCbftwb9n6KgSBqlxLwvC) | 2:07 | 2022-04-15 |  |
 | [Awesome Blossom](https://open.spotify.com/track/73LhvPZug2UePzRWjXriCV) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Easy Breezy!](https://open.spotify.com/album/6eresS8fJq05Eg8bpztUv2) | 2:39 | 2022-04-15 |  |
@@ -117,6 +118,7 @@
 | [Stereotype](https://open.spotify.com/track/4FUjZrdHlTUnDhMfaGazsf) | [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Stereotype](https://open.spotify.com/album/3izhrUyfDvcbHltLih5KLO) | 2:27 | 2022-04-15 |  |
 | [Strong](https://open.spotify.com/track/6In2DRsxT6UKi6bMjlp6sE) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Strong](https://open.spotify.com/album/31x3iFEsG2cQ6JdV5SirQA) | 3:18 | 2022-04-15 |  |
 | [Summer Days](https://open.spotify.com/track/0ETcX26w2dtcPeL4gL7o4P) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Summer Days](https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u) | 2:20 | 2022-04-15 |  |
+| [Sun Safety](https://open.spotify.com/track/4mjJBfM3AbvdR3yATMYQQV) | [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [It's Gonna Be A Great, Great Day!](https://open.spotify.com/album/63IsFT9czhPYdLK7SnKg1z) | 2:42 | 2023-09-22 |  |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2022-04-15 |  |
 | [Sway](https://open.spotify.com/track/2Y2pWaHeqp0W7OqhFSj0ra) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Sway](https://open.spotify.com/album/5YH1c6XadFeBRLXRiyQUR8) | 3:14 | 2022-04-15 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/3yOMhAM9ZwBjuKQv4pPWYs) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5), [Renee Stahl](https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ), [Jeremy Toback](https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt) | [Whole Lotta Love](https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR) | 3:20 | 2022-04-15 |  |

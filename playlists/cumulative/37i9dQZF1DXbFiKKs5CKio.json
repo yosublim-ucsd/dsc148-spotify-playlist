@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/3ZtPh7k9yk0F7f6KuiizWH"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/2EWaBErOpttybo792PEzIB"
+    },
+    {
+      "album": {
         "name": "Correnteza - A COLORS SHOW",
         "url": "https://open.spotify.com/album/3JwynjyDmYuvrZOFXhiUfU"
       },
@@ -904,7 +922,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 150833,
       "name": "Sinal de Fuma\u00e7a",
       "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"

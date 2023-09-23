@@ -2,9 +2,9 @@
 
 ### [Indie Covers](https://open.spotify.com/playlist/37i9dQZF1DXb67OkZ6150Z)
 
-> Discover indie covers\. Cover: Lovejoy
+> Songs you love with an indie spin on it\. Cover: Soccer Mommy
 
-417 songs - 1 day 1 hr 33 min
+419 songs - 1 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Don't Speak](https://open.spotify.com/track/5GFOBEhxOYCG2yM8vBgtdD) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [A Change Is Gonna Come \(U.S\. Release\)](https://open.spotify.com/album/1PI1juIuPm3zq1nIOBJl5S) | 4:43 | 2021-03-12 | 2022-04-10 |
 | [Don't You Want Me](https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG) | 3:19 | 2021-03-12 | 2022-08-10 |
 | [Don't You Want Me](https://open.spotify.com/track/6gREYnl1rgTBE06YIDZheT) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7uFQTjB1C5Wa61owwtrYJ3) | 3:19 | 2021-03-12 | 2022-07-23 |
-| [Dreams](https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Dreams](https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW) | 3:54 | 2021-03-19 |  |
+| [Dreams](https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Dreams](https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW) | 3:54 | 2021-03-19 | 2023-09-23 |
 | [Dreams](https://open.spotify.com/track/0ZqTolRYHEfdsM5d3lNv0Q) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 2:55 | 2023-03-17 | 2023-04-29 |
 | [Dreams](https://open.spotify.com/track/5RWbKDWHNFzmGar0rIiEev) | [JST FRNDS](https://open.spotify.com/artist/7liK6kUh6nKLH7NpvU1PLQ) | [Dreams](https://open.spotify.com/album/524NcQjDgENatNMySqXIde) | 4:21 | 2021-03-12 | 2022-06-10 |
 | [Dreams](https://open.spotify.com/track/5Ppp9IJc7xKMImEhwBTR0n) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Dreams](https://open.spotify.com/album/0SSyy4oYR6KxnQN8bPeK6r) | 4:19 | 2021-03-12 | 2022-04-21 |
@@ -187,13 +187,14 @@
 | [I Will Follow You Into The Dark](https://open.spotify.com/track/2uRDhUTXYoEYop4goR3lsa) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [I Will Follow You Into The Dark](https://open.spotify.com/album/1JItKcFYW0tNHqFHO4qqxo) | 3:53 | 2021-03-12 | 2022-08-10 |
 | [I Will Follow You Into the Dark](https://open.spotify.com/track/7e3SROp6VaekpMnbFKJjqt) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Looking for Alaska \(Music from the Original Series\)](https://open.spotify.com/album/4hRgz8S5EEyuVn2vUGwubS) | 3:53 | 2021-03-12 | 2022-07-29 |
 | [i will follow you into the dark \- Spotify Singles](https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Spotify Singles](https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl) | 2:33 | 2022-08-08 | 2023-01-14 |
-| [I Would Die 4 U](https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [I Would Die 4 U](https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA) | 3:19 | 2022-01-07 |  |
+| [I Would Die 4 U](https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [I Would Die 4 U](https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA) | 3:19 | 2022-01-07 | 2023-09-23 |
 | [I'm a Mess](https://open.spotify.com/track/1YGYnoIL8boFOsuq2bgah9) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [I'm a Mess](https://open.spotify.com/album/5P53hGjHbBBYcQEyEKzR5Z) | 2:59 | 2022-02-25 | 2022-07-21 |
 | [I'm Not In Love](https://open.spotify.com/track/79uTMlc8BJYCw8VGfosNO6) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [I'm Not In Love](https://open.spotify.com/album/3ZiNT1O7TFH3tj6gRPxeob) | 6:54 | 2021-03-12 | 2022-04-18 |
 | [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 | 2021-03-12 | 2022-08-10 |
 | [i'm not okay](https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [i'm not okay](https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa) | 2:54 | 2021-03-19 | 2022-07-23 |
 | [I'm On Fire](https://open.spotify.com/track/0lhcKPk0fppMAnFUt3QNy7) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm On Fire](https://open.spotify.com/album/5KA5O0ZMkVYk7UJHNfy3bs) | 2:38 | 2021-03-12 | 2022-10-13 |
 | [I'm On Fire](https://open.spotify.com/track/6uWstgXnQXfnAtcowLb9mf) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm on Fire](https://open.spotify.com/album/3aPijjXkCcaGDPS38ZUkuI) | 2:38 | 2022-09-03 |  |
+| [I'm Only Me When I'm With You](https://open.spotify.com/track/3p5rnKolaN8ap6Ykm0A8AK) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [I'm Only Me When I'm With You](https://open.spotify.com/album/4XxKXwDS8eG7aOw3cF816M) | 4:07 | 2023-09-22 |  |
 | [If I Can Help Somebody](https://open.spotify.com/track/200kNL3ORa01Knj2mDIqVT) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [If I Can Help Somebody](https://open.spotify.com/album/4qEanTOAfupdebUjPgdt09) | 1:44 | 2021-10-08 | 2022-07-06 |
 | [If I Ever Feel Better](https://open.spotify.com/track/0pBuio1OUL4cfvJ84MCG9L) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [If I Ever Feel Better](https://open.spotify.com/album/3GXC8kc31hdle7wKpbd730) | 2:58 | 2021-11-19 | 2022-06-27 |
 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 | 2021-03-12 |  |
@@ -224,6 +225,7 @@
 | [Landslide](https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Landslide](https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw) | 3:30 | 2022-09-03 | 2023-08-19 |
 | [Landslide \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Singles](https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2) | 3:53 | 2021-03-12 | 2022-07-29 |
 | [Lay All Your Love on Me](https://open.spotify.com/track/1XfbGoHFVubq0t4Bw8dPre) | [Pale Honey](https://open.spotify.com/artist/5vINmZdKrgF32tSV2adC7q) | [Lay All Your Love on Me](https://open.spotify.com/album/25LbjtI4lwZKcYhkHxPcwx) | 3:59 | 2021-03-12 | 2022-04-12 |
+| [Let's Dance to Joy Division](https://open.spotify.com/track/3FChIBncGO2pCxv9QIFIcI) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Let's Dance to Joy Division](https://open.spotify.com/album/72w9n6hWEOWE5QrMqrmJv8) | 3:23 | 2023-09-22 |  |
 | [Light Years \- The National Cover](https://open.spotify.com/track/7uAhjayzJxAo7lnmcyAqqg) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Light Years \(The National Cover\)](https://open.spotify.com/album/15rgJS2CtlWy2BscYiHpvr) | 3:01 | 2021-03-12 | 2022-07-29 |
 | [Like a Rolling Stone](https://open.spotify.com/track/49Q2VVHzabFRwAUQ1ByLNa) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Like a Rolling Stone](https://open.spotify.com/album/5UJhgkj2fP5ycNLbVdzQ3H) | 6:49 | 2022-05-20 |  |
 | [Like a Virgin](https://open.spotify.com/track/1FaxioLjUIAGpuvkDIDQHF) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Like a Virgin](https://open.spotify.com/album/3D6BRQjosyRAjyfAiogrKE) | 3:27 | 2021-03-12 | 2022-04-12 |

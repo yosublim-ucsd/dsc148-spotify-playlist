@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Molly Tuttle
 
-329 songs - 20 hr 39 min
+330 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Everything Changed](https://open.spotify.com/track/75lG0mNxn3YH7MD4qcLkA6) | [Lindsay Lou & the Flatbellys](https://open.spotify.com/artist/5shNy8PK3d0GaOUEoygZB3) | [Ionia](https://open.spotify.com/album/2WozLvN6TyURivAK0kNoHZ) | 4:05 | 2021-10-01 | 2022-07-29 |
 | [Fall, Fall, Fall](https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Fall, Fall, Fall](https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY) | 4:41 | 2021-10-01 | 2022-01-22 |
 | [Father Time](https://open.spotify.com/track/2BtUVOfF9KJdFoUfR7VIqb) | [Highland Reverie](https://open.spotify.com/artist/1xm0FYqJd14TSZdz5huwd2) | [Father Time](https://open.spotify.com/album/4hAgFDtiwPdjzIMxnbK7lJ) | 2:24 | 2022-01-21 |  |
+| [Ferris Wheel](https://open.spotify.com/track/1AjZqb7Tq31ImmqQBvCJot) | [George Jackson](https://open.spotify.com/artist/22k9oyPcLzjnKokhSHoFV7), [Eli Broxham](https://open.spotify.com/artist/1TgFBajZtGKOwhEONz9n8G), [Frank Evans](https://open.spotify.com/artist/1sOuG3dLwdgmh53W0NPaGO), [John Mailander](https://open.spotify.com/artist/4MYqkPU4l4Gpohaub6mGFr) | [Ferris Wheel](https://open.spotify.com/album/3SqYsi0HttqFNoIai2LomV) | 3:44 | 2023-09-22 |  |
 | [Firewood](https://open.spotify.com/track/19e3bfpKwSnvw4JEFQTihp) | [April Verch](https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8), [Cody Walters](https://open.spotify.com/artist/5dh7cV8PwHgi7aw1VN5KZj) | [Firewood](https://open.spotify.com/album/01p20IYbDXu5GZuKZQ5s6H) | 3:30 | 2023-06-23 |  |
 | [Fish and Bird](https://open.spotify.com/track/550dYYVKfQDzyMXEXENAkn) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Beat the Devil and Carry a Rail](https://open.spotify.com/album/3AdiKjgy86xmuyv7YC12kV) | 5:13 | 2022-01-21 |  |
 | [Fishin'](https://open.spotify.com/track/57R26ENxtPjmBH5qhVuWaX) | [Luisa Marion](https://open.spotify.com/artist/3m2JMbwYgxHsgGHo3Ifdie) | [Just Memories](https://open.spotify.com/album/39sFZfld2W398U2FJc5yPE) | 3:35 | 2022-05-27 | 2023-05-16 |

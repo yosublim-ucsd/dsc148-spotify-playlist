@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: Subtronics & HOL!",
+  "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: JEANIE",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -374,6 +374,24 @@
       "duration_ms": 198400,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/5ejKUS1gyCQlizpaYYk7uO"
+    },
+    {
+      "album": {
+        "name": "Artificial Dubstep",
+        "url": "https://open.spotify.com/album/2VRaD4Lr0lQKhinkSW2buX"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160551,
+      "name": "Artificial Dubstep",
+      "url": "https://open.spotify.com/track/2iV6jpVuKh8PS3wWQ5xLIi"
     },
     {
       "album": {
@@ -1806,7 +1824,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 226299,
       "name": "Creep Killa",
       "url": "https://open.spotify.com/track/2gahSUGM2ddz48vXK58fHt"
@@ -3080,7 +3098,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 166418,
       "name": "FULL CLIP",
       "url": "https://open.spotify.com/track/2gzJPzhQfUtAnP9cQSgKPA"
@@ -5997,6 +6015,24 @@
     },
     {
       "album": {
+        "name": "Psychosis (VIP)",
+        "url": "https://open.spotify.com/album/3usRn5GlrrNlW8O72qcdDd"
+      },
+      "artists": [
+        {
+          "name": "JEANIE",
+          "url": "https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Psychosis - VIP Mix",
+      "url": "https://open.spotify.com/track/5G2yowSJVtqadcVdKzNs54"
+    },
+    {
+      "album": {
         "name": "Pulse",
         "url": "https://open.spotify.com/album/2pP8FP2pWfb94qCJrHhy7f"
       },
@@ -6682,6 +6718,28 @@
       "duration_ms": 226333,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/1dNEaEL6b6SrYmsmC2lwbW"
+    },
+    {
+      "album": {
+        "name": "WRATH OF THE WICKED",
+        "url": "https://open.spotify.com/album/0QfcUPY2N5G1uJk0714XCb"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Medyk",
+          "url": "https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "SAVE U NOW",
+      "url": "https://open.spotify.com/track/4K0pPcYPRIBDavThi6FD0r"
     },
     {
       "album": {
@@ -7467,6 +7525,24 @@
     },
     {
       "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/1nlVk6AHkm9WdF0BZ9iGuB"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156924,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw"
+    },
+    {
+      "album": {
         "name": "stinkypoopy",
         "url": "https://open.spotify.com/album/0D19xJOcXHup620LKBEIrW"
       },
@@ -7540,7 +7616,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 227586,
       "name": "Streets",
       "url": "https://open.spotify.com/track/73SLjEpuUqy13FS7HyewkM"
@@ -7806,7 +7882,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 201600,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/3wAeOcZ8kILTJyUzFFuXjS"
@@ -7988,6 +8064,24 @@
       "duration_ms": 220137,
       "name": "The Takeover",
       "url": "https://open.spotify.com/track/7K8fmTPRda4YWsBTnin2nr"
+    },
+    {
+      "album": {
+        "name": "The Traveler",
+        "url": "https://open.spotify.com/album/2nS4P6sCq1Ou0Jen65ycsb"
+      },
+      "artists": [
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "The Traveler",
+      "url": "https://open.spotify.com/track/3WMVtc62GJK51VQLzyZCBa"
     },
     {
       "album": {
@@ -8186,7 +8280,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 156800,
       "name": "TILL I DIE (feat. Kanin)",
       "url": "https://open.spotify.com/track/7l0isAHLcKGHnEuHblcyvx"

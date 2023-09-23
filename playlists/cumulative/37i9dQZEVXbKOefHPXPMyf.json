@@ -742,7 +742,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 169386,
       "name": "ABRE LAS PATOTAS",
       "url": "https://open.spotify.com/track/6G75x2FTJ8JSO5iLPKhcYs"
@@ -2208,7 +2208,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 200933,
       "name": "As\u00ed Es Mi Tierra",
       "url": "https://open.spotify.com/track/2AuCMuyAcYzIIvWqyHD4yC"
@@ -4092,7 +4092,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 128746,
       "name": "Caballito",
       "url": "https://open.spotify.com/track/1epcMVhAPba9bHbsJ7kBdK"
@@ -4838,7 +4838,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 219413,
       "name": "Ca\u00f1a Dulce",
       "url": "https://open.spotify.com/track/2k5mRTFTXfukRbKgx2IXKK"
@@ -4864,6 +4864,32 @@
       "duration_ms": 126081,
       "name": "CCC",
       "url": "https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt"
+    },
+    {
+      "album": {
+        "name": "CCC (Remix)",
+        "url": "https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147877,
+      "name": "CCC - Remix",
+      "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
     },
     {
       "album": {
@@ -5586,7 +5612,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Columbia",
       "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
@@ -6868,7 +6894,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 195573,
       "name": "Demons",
       "url": "https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH"
@@ -8528,7 +8554,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 171466,
       "name": "El Torito",
       "url": "https://open.spotify.com/track/0xAcXqA1HFUz8AtxsXBp4n"
@@ -8916,7 +8942,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 259680,
       "name": "Enamorado tuyo",
       "url": "https://open.spotify.com/track/35LdDKNMwvKftENaj1WIwF"
@@ -9376,7 +9402,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 189560,
       "name": "Esp\u00edritu Guanacasteco",
       "url": "https://open.spotify.com/track/3m2KbuNF6QTPrsssDujM0O"
@@ -10094,6 +10120,42 @@
       "duration_ms": 223186,
       "name": "Flores Amarillas",
       "url": "https://open.spotify.com/track/4PUmVspCOFioja8MFM653t"
+    },
+    {
+      "album": {
+        "name": "Floricienta",
+        "url": "https://open.spotify.com/album/5vzRtE9SIJ6MVL0j6uFhW9"
+      },
+      "artists": [
+        {
+          "name": "Floricienta",
+          "url": "https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223186,
+      "name": "Flores Amarillas",
+      "url": "https://open.spotify.com/track/5wBBoVjoounI5e36oI8oZe"
+    },
+    {
+      "album": {
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Flores en An\u00f3nimo",
+      "url": "https://open.spotify.com/track/62pg2fFuBb6zgU2gqJR8kP"
     },
     {
       "album": {
@@ -12762,7 +12824,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 746500,
       "name": "Inspiraciones Costarricenses",
       "url": "https://open.spotify.com/track/6eySaS0IEKtud6e8jv5OKj"
@@ -14300,6 +14362,24 @@
       "duration_ms": 141864,
       "name": "La Trampa es Ley",
       "url": "https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g"
+    },
+    {
+      "album": {
+        "name": "La Triple M",
+        "url": "https://open.spotify.com/album/4Mw8E2g1o54rGBTFeOd5lA"
+      },
+      "artists": [
+        {
+          "name": "Mawell",
+          "url": "https://open.spotify.com/artist/6UO7zshgw0fLVF6DVKg9PN"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201120,
+      "name": "La Triple M",
+      "url": "https://open.spotify.com/track/6QX6tanKOhwMpPtu1p0zAL"
     },
     {
       "album": {
@@ -20774,7 +20854,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 216986,
       "name": "Patri\u00f3tica Costarricense",
       "url": "https://open.spotify.com/track/3NhXrrrHQjD2FNj7isxYnx"
@@ -21702,7 +21782,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 178506,
       "name": "Preme y Alevo",
       "url": "https://open.spotify.com/track/5hktG6nFAQ6eoE2vWVflT9"
@@ -23776,6 +23856,24 @@
       "duration_ms": 165074,
       "name": "Separate Ways (Worlds Apart) - Bryce Miller/Alloy Tracks Remix",
       "url": "https://open.spotify.com/track/0muK9BAzu2TJXQgWPsEj6e"
+    },
+    {
+      "album": {
+        "name": "September (sped up + slowed)",
+        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216022,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
     },
     {
       "album": {
@@ -30470,7 +30568,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 146559,
       "name": "wiggy",
       "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"

@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-187 songs - 12 hr 16 min
+190 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [It Never Entered My Mind](https://open.spotify.com/track/0ndlTAGPCJ2Xy12Ncoc5rq) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [It Never Entered My Mind](https://open.spotify.com/album/5iHpp0Os02Ae2LiX4ZICxA) | 3:44 | 2023-03-09 |  |
 | [It Used To Be Us](https://open.spotify.com/track/0iC0JiVXY8dmM3IIlqUk1p) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [It Used To Be Us](https://open.spotify.com/album/5o4zDDeN1kf2tsXUrV9bYI) | 3:38 | 2023-04-13 |  |
 | [It´s Easy To Remember](https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:32 | 2022-08-18 |  |
+| [It´s Wonderful](https://open.spotify.com/track/4fIrqRgwWZeHWx1xYzMk0z) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [It´s Wonderful](https://open.spotify.com/album/4NCJxvMwHsCIykqMx97Bew) | 3:12 | 2023-09-22 |  |
 | [I´ll Be Around](https://open.spotify.com/track/4axKyMqOx8NIyGsfKBA7Cv) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´ll Be Around](https://open.spotify.com/album/50XozG3HbIyUJWTJ9Fsoao) | 3:35 | 2022-08-18 |  |
 | [I´m Glad There Is You](https://open.spotify.com/track/5aSfAExWXaU5P4wuPkBINx) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 4:29 | 2022-08-18 |  |
 | [I´m Old Fashioned](https://open.spotify.com/track/5ANvL1PhHrU00JHPfIT6d8) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´m Old Fashioned](https://open.spotify.com/album/5MTHEEsQcOHppWKKxSAUt6) | 4:46 | 2022-08-18 |  |
@@ -108,6 +109,7 @@
 | [Monsieur Petit](https://open.spotify.com/track/355fsbshakbWMu6eB2gs20) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Monsieur Petit](https://open.spotify.com/album/2V7YRk0H2bv9kpDfpAYDMl) | 3:01 | 2023-04-27 |  |
 | [Mood Indigo](https://open.spotify.com/track/4FbyGU4nbHHioKAoCpYRzH) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Duke Ellington Meets Coleman Hawkins](https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG) | 5:56 | 2022-08-18 | 2023-01-06 |
 | [Moonbow](https://open.spotify.com/track/1l54HHTbA5ze9DnvBL93aw) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Moonbow](https://open.spotify.com/album/3vAnUbVPNlM5HZzoYUFh4t) | 3:52 | 2022-08-18 | 2022-10-07 |
+| [More than you know](https://open.spotify.com/track/0KDlzhSMPS14CBl50556yf) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [More than you know](https://open.spotify.com/album/0qsxhiQaIOfxt2Eq1NMw1z) | 3:50 | 2023-09-22 |  |
 | [Morii](https://open.spotify.com/track/25uH0QfCoOQ5Jw2c0rXGWf) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Morii](https://open.spotify.com/album/1ESEXNpgchtK0kal3g1lyo) | 3:48 | 2023-02-16 |  |
 | [Morning Star](https://open.spotify.com/track/7pu7cn7U9lvHYXRc2yrKBC) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Morning Star](https://open.spotify.com/album/6WZgJAHNWZCDLVVOOiM4py) | 3:44 | 2022-08-18 |  |
 | [My Heart Stood Still](https://open.spotify.com/track/1QbgNds5Ye8BovkywTbliF) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [My Heart Stood Still](https://open.spotify.com/album/2gfF3mlpt7aEvSiSyi1CEj) | 4:06 | 2022-12-01 |  |
@@ -142,6 +144,7 @@
 | [Sander](https://open.spotify.com/track/07VvD1Wz8hGKE2n6SEApWP) | [Tommie Blayne](https://open.spotify.com/artist/204e8Dl05BFPHdRr5icPdx) | [Sander](https://open.spotify.com/album/0oEU4hwkt4cel4aE2S9rZI) | 4:16 | 2023-06-15 |  |
 | [Searching](https://open.spotify.com/track/6psYARJ0RS8CNreEbKsCnD) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Searching](https://open.spotify.com/album/4mbAIA87RJPH09XAEdlmtV) | 3:28 | 2022-08-18 | 2023-08-25 |
 | [September Song](https://open.spotify.com/track/5mn5mx35dGRAQ6hF3I3kDD) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [September Song](https://open.spotify.com/album/0zsOMLv9GS8yPelwkfcvE9) | 3:29 | 2022-10-27 |  |
+| [Seven Steps](https://open.spotify.com/track/2unapOMh63c9FDNQHskpGL) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [Seven Steps](https://open.spotify.com/album/2wL9qSFeIhYBfxfSFxJSqk) | 3:07 | 2023-09-22 |  |
 | [She's A Class Act](https://open.spotify.com/track/7L8qE08pnMxr4JvvtYJxis) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [She's A Class Act](https://open.spotify.com/album/0MpvWeiSTn4OERhT97V4sw) | 3:37 | 2023-02-02 |  |
 | [Silent Thunder](https://open.spotify.com/track/6yY6hRz9VNEhaRyWEHTezV) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Silent Thunder](https://open.spotify.com/album/2D7QuOEsAvaN9oSQTLEjqb) | 4:39 | 2022-08-18 |  |
 | [Since You Left Me](https://open.spotify.com/track/3d4PWG3P1FU0CGiBu0fZRV) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Since You Left Me](https://open.spotify.com/album/02KZPHcpyozGVMKjVV2Wso) | 3:49 | 2022-12-08 |  |
@@ -151,7 +154,7 @@
 | [So They Say](https://open.spotify.com/track/4689TAqR9n79nptG04RV9c) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [So They Say](https://open.spotify.com/album/2Q3YVXtFCxn0LvdvVak5yg) | 3:57 | 2023-06-01 |  |
 | [Socks And Sandals](https://open.spotify.com/track/33HRgQotoW6raDZVZs3Rxk) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [Socks And Sandals](https://open.spotify.com/album/1dWIVAbxe91cDNhrMJ5fFV) | 3:39 | 2022-08-18 |  |
 | [Softly As In A Morning Sunrise \- Live At The Village Vanguard, New York City, NY/1957/Evening Alternate Take 7](https://open.spotify.com/track/3ybRszkVXeMWxWAec3NMJH) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [A Night At The Village Vanguard \(Live\)](https://open.spotify.com/album/4lZ0JM0RUD4jddNbD63O7b) | 6:39 | 2022-08-18 | 2022-09-09 |
-| [Someone to Watch Over Me](https://open.spotify.com/track/18iF9PLIbNvy01JS5zLkDT) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:30 | 2022-08-18 |  |
+| [Someone to Watch Over Me](https://open.spotify.com/track/18iF9PLIbNvy01JS5zLkDT) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:30 | 2022-08-18 | 2023-09-23 |
 | [Soul Eyes](https://open.spotify.com/track/1PuNnWMF5z3cwLjfnneoWw) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Soul Eyes](https://open.spotify.com/album/69RwU1eJbKXowhXpb6rd6B) | 4:45 | 2022-08-18 | 2023-01-06 |
 | [Spirited Away](https://open.spotify.com/track/3eaM1LE28xBoGvIEv5E9qs) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Spirited Away](https://open.spotify.com/album/6hbNsW5mwt435LHpDk8GTa) | 3:11 | 2023-02-16 | 2023-06-16 |
 | [Spring Is Here](https://open.spotify.com/track/0d4XWfUyqLQnemAJJlcaAg) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Spring Is Here](https://open.spotify.com/album/224qBI3ZUfjrQsoZNxxaji) | 3:15 | 2022-08-18 |  |

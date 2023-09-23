@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "BLACK MOONLIGHT",
+        "url": "https://open.spotify.com/album/7LVCjmDfqcVAWg74kQ0Qwr"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186724,
+      "name": "BLACK MOONLIGHT",
+      "url": "https://open.spotify.com/track/6Puhv2Iw9K8A3rkpxr4Dsz"
+    },
+    {
+      "album": {
         "name": "A Night At The Opera (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
       },
@@ -754,7 +772,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 216346,
       "name": "Forever's Not Enough - Edit",
       "url": "https://open.spotify.com/track/6ZUpIedN0WXOx0yhS433GW"

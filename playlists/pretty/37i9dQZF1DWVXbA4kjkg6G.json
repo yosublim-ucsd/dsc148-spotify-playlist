@@ -1,12 +1,12 @@
 {
   "description": "Atmospheric textures & downtempo beats. Cover: Beth Gibbons of Portishead ",
-  "num_followers": 439534,
+  "num_followers": 439844,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2I1NmRjNTI2NDI4MjBmMWRlZGNmMDcyN2EwNGJkZjI4MjZmMjYz",
+  "snapshot_id": "MCwwN2RjMmY3OTRlNjc4ZDBlMmY5NTY5ZjYzZjhmMDczNGEyYTAwZmU1",
   "tracks": [
     {
       "added_at": "2023-06-20 20:30:21",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 278346,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
         "name": "Clear",
         "url": "https://open.spotify.com/album/43znyD1XdGyB02qwhUpfEV"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 351693,
       "name": "Empire",
       "url": "https://open.spotify.com/track/7rU9Lk1rF17EeQnr4clnm6"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 278346,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "USSR Repertoire / The Theory Of Verticality",
-        "url": "https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv"
-      },
-      "artists": [
-        {
-          "name": "DJ Vadim",
-          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
-        }
-      ],
-      "duration_ms": 129400,
-      "name": "The Next Shit",
-      "url": "https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Maxinquaye",
         "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 210533,
       "name": "Ponderosa",
       "url": "https://open.spotify.com/track/3USAAb0W0n99SOensmme2D"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "USSR Repertoire / The Theory Of Verticality",
+        "url": "https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv"
+      },
+      "artists": [
+        {
+          "name": "DJ Vadim",
+          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
+        }
+      ],
+      "duration_ms": 129400,
+      "name": "The Next Shit",
+      "url": "https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "One Colour Just Reflects Another",
-        "url": "https://open.spotify.com/album/4DeywfBtRsQFApbOjDHsKt"
-      },
-      "artists": [
-        {
-          "name": "Up, Bustle & Out",
-          "url": "https://open.spotify.com/artist/0P8CKxjKGjVnIOOJSJoymP"
-        }
-      ],
-      "duration_ms": 340533,
-      "name": "Revolutionary Woman of The Windmill - Part Primera La Bandolera Del Molino",
-      "url": "https://open.spotify.com/track/1Ia7VpJTEQgWn65WPg0qRE"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Lamb",
         "url": "https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 456666,
       "name": "Trans Fatty Acid",
       "url": "https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "One Colour Just Reflects Another",
+        "url": "https://open.spotify.com/album/4DeywfBtRsQFApbOjDHsKt"
+      },
+      "artists": [
+        {
+          "name": "Up, Bustle & Out",
+          "url": "https://open.spotify.com/artist/0P8CKxjKGjVnIOOJSJoymP"
+        }
+      ],
+      "duration_ms": 340533,
+      "name": "Revolutionary Woman of The Windmill - Part Primera La Bandolera Del Molino",
+      "url": "https://open.spotify.com/track/1Ia7VpJTEQgWn65WPg0qRE"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
+        "name": "Dead Elvis",
+        "url": "https://open.spotify.com/album/0sIneyoFWF20AD3YcWYZOn"
+      },
+      "artists": [
+        {
+          "name": "Death In Vegas",
+          "url": "https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1"
+        }
+      ],
+      "duration_ms": 352600,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/4LOBq70NlI97iJ5wKwJW1D"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
         "name": "Reeled And Skinned",
         "url": "https://open.spotify.com/album/2i1Kxf68oQX9HUXIO2yLuz"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 287906,
       "name": "Snapper",
       "url": "https://open.spotify.com/track/6J6chA8LOxFv2SoKmmKpEg"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
-        "name": "Dead Elvis",
-        "url": "https://open.spotify.com/album/0sIneyoFWF20AD3YcWYZOn"
-      },
-      "artists": [
-        {
-          "name": "Death In Vegas",
-          "url": "https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1"
-        }
-      ],
-      "duration_ms": 352600,
-      "name": "Dirt",
-      "url": "https://open.spotify.com/track/4LOBq70NlI97iJ5wKwJW1D"
     },
     {
       "added_at": "2023-06-20 20:30:21",

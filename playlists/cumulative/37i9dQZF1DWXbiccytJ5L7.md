@@ -4,12 +4,13 @@
 
 > Country rap hits of today and tomorrow.
 
-108 songs - 6 hr 1 min
+110 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little Too Far](https://open.spotify.com/track/0IYTStpc8Iux9ImzTQvlFu) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk), [Ryan Miller](https://open.spotify.com/artist/7vzjsRPzEhuj0RtYS3M2jG) | [Hard Pills and Heartbreak](https://open.spotify.com/album/6IkkW1NUKXt8uumIfLHSv2) | 3:11 | 2023-03-17 | 2023-05-18 |
 | [A Little Too Far](https://open.spotify.com/track/6u4QyCtJYymSgcpz3mdaQo) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk), [Ryan Miller](https://open.spotify.com/artist/7vzjsRPzEhuj0RtYS3M2jG) | [Hard Pills and Heartbreak](https://open.spotify.com/album/57xrSx3W5UoMAcBL4Ms6Ua) | 3:11 | 2023-04-21 |  |
+| [Ain't Nothin' Free \(feat\. SB the Queen\)](https://open.spotify.com/track/6bd26YDDjUM8Zflkb5Nine) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [SB the Queen](https://open.spotify.com/artist/6KqXuBuC5LedSWM73bixOa) | [Ain't Nothin' Free \(feat\. SB the Queen\)](https://open.spotify.com/album/3IYqdJ67ZAPcUZCtCRcqEd) | 3:20 | 2023-09-22 |  |
 | [All The Girls Wanna Ride](https://open.spotify.com/track/4u4JqBap9AgXwHMH90pKTl) | [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Kuntry](https://open.spotify.com/album/6EquuFDUflWCLiB6Rc6dsE) | 3:25 | 2023-03-17 |  |
 | [Ammunition](https://open.spotify.com/track/5z4lIzved0Jy9AJcwb44uS) | [Jesslee](https://open.spotify.com/artist/7Bve7xtrpHJaFvwn4XIJV1) | [Ammunition](https://open.spotify.com/album/5lTeytt3nJN1hz8bZAiegJ) | 3:04 | 2023-03-17 |  |
 | [Average Joe](https://open.spotify.com/track/4UnGo0UABzqJY7WQd3EO9u) | [C'ing Jerome](https://open.spotify.com/artist/23kI8xM7taOJ0khWhczD57) | [Average Joe](https://open.spotify.com/album/6SSOOm89f6lbyNikB0O8mc) | 2:35 | 2023-06-16 | 2023-08-21 |
@@ -71,6 +72,7 @@
 | [Illinois Cowboy](https://open.spotify.com/track/0lh8NRCuusAHwujpALAD00) | [Kid Ziggy](https://open.spotify.com/artist/6jTPmZmVoj8iOxD7Lv2XC4), [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [Illinois Cowboy](https://open.spotify.com/album/7D5MSopZVBnrUDmLCQ4j79) | 2:30 | 2023-04-21 |  |
 | [Jesus Was a Redneck](https://open.spotify.com/track/0UbXLwB8mO5zPnzh5UARcU) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Brandon Hartt](https://open.spotify.com/artist/2I1y08CRzIMouGeCYzPVMb) | [Jesus Was a Redneck](https://open.spotify.com/album/2h3SMhJNqfzYnxMdZS7mJB) | 2:26 | 2023-06-30 |  |
 | [Kickin It In Tennessee](https://open.spotify.com/track/00tjbaCO1fXTdFdCrQH09L) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [American Made](https://open.spotify.com/album/1etK14fl8H9iwvaaEBobXU) | 4:28 | 2023-03-17 |  |
+| [Kinna Wanna](https://open.spotify.com/track/384pDNdIcOq4bAQSYthQkb) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [Kinna Wanna](https://open.spotify.com/album/1zPwfwHZaTH8qRg7NWhvTL) | 2:16 | 2023-09-22 |  |
 | [Knock 'Em Dead](https://open.spotify.com/track/2bGNFu7Hp1ZZFEaJEWy7ln) | [Sarah Ross](https://open.spotify.com/artist/6BHFfCwwWCOGRNSZAxNvrk) | [Mud Digger 4](https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh) | 3:30 | 2023-03-17 |  |
 | [Lifted](https://open.spotify.com/track/3CsdmO3Uh0qqlIli1wvnjM) | [Alexander King](https://open.spotify.com/artist/5hvNjGBoEkn4ENKwDvtouW), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Rosap](https://open.spotify.com/album/02UEIpucuJMIqjifFgCh8c) | 4:04 | 2023-03-17 |  |
 | [Live For The Moment](https://open.spotify.com/track/6bxDIFhdLKpeyGo0PBIz4w) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Haystak](https://open.spotify.com/artist/1Cv4OTcRrMvpUqKQftW88M), [Kevin Cummings](https://open.spotify.com/artist/5CreTojV18Ps5Bl4AOn5Nh) | [9\-5 or 20\-Life](https://open.spotify.com/album/4Zk61choxayZFVg3qIk7DL) | 3:13 | 2023-03-17 |  |

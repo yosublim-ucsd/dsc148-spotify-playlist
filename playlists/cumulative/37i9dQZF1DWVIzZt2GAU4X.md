@@ -4,7 +4,7 @@
 
 > Vocals and keys, front and center\. Cover: Adele
 
-225 songs - 14 hr 15 min
+227 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Almost Lover](https://open.spotify.com/track/3GSYWQNnSdovwC2H8HpziA) | [A Fine Frenzy](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) | [One Cell In The Sea](https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK) | 4:28 | 2022-03-25 | 2022-04-19 |
 | [Always Remember Us This Way](https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:30 | 2021-11-19 |  |
 | [Always Yours](https://open.spotify.com/track/7migRLi1DXN3x0Fz3RA5pP) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52) | [Always Yours](https://open.spotify.com/album/4EWYTqj1Ye7FD6ZkW94csN) | 2:57 | 2021-11-19 | 2022-07-29 |
-| [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 | 2022-04-01 |  |
+| [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 | 2022-04-01 | 2023-09-23 |
 | [Angels](https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Life Thru A Lens](https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN) | 4:25 | 2022-03-25 |  |
 | [Another Love](https://open.spotify.com/track/5FKnuwsKf7YFpmhA5Wnl0q) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Songs from Another Love](https://open.spotify.com/album/51ZlqbsTCEQfpvtrcRIxXB) | 4:10 | 2022-03-25 |  |
 | [Apologize](https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Shock Value](https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI) | 3:04 | 2022-03-25 |  |
@@ -36,6 +36,7 @@
 | [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 | 2022-04-01 | 2022-11-21 |
 | [Better Days \- Acoustic](https://open.spotify.com/track/57a7JmuEhuck9rv29rTJUN) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days \(Acoustic\)](https://open.spotify.com/album/3B7Ki0mDLnMCnKi07dP1R1) | 3:06 | 2021-11-19 | 2022-07-29 |
 | [Better Than Today](https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX) | 3:49 | 2021-11-19 | 2022-04-20 |
+| [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-22 |  |
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2022-12-16 |  |
 | [Blurry Eyes](https://open.spotify.com/track/5nBjAwUz17s1MaOkDXUnUE) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [Blurry Eyes](https://open.spotify.com/album/2BAOFkUF9mIe8Kv58y0fBy) | 3:36 | 2021-11-19 | 2022-07-02 |
 | [Breathe Me](https://open.spotify.com/track/6hrgeEo1WQOHVeF8QMv68S) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/6uVUKJgirfLpW20hCk9cwb) | 4:34 | 2022-01-27 | 2022-04-20 |
@@ -99,6 +100,7 @@
 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 | 2021-11-19 |  |
 | [I Should Probably Go To Bed](https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed](https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj) | 2:51 | 2021-11-19 | 2022-11-13 |
 | [I'll Never Love Again \- Film Version](https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 4:41 | 2021-11-19 |  |
+| [I'm Here](https://open.spotify.com/track/4ttrwU0rvD0f4WRQsHDPrh) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Matteo](https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc) | 3:42 | 2023-09-22 |  |
 | [i'm lonely](https://open.spotify.com/track/7uy83XLIbGI7Z7Ef07hgUa) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [i'm lonely](https://open.spotify.com/album/3eF1hA0IQHSCsaf7NeZV7S) | 3:01 | 2021-11-19 | 2022-03-01 |
 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 | 2022-01-27 |  |
 | [If I Go \- Embers Edition](https://open.spotify.com/track/1PuYx53QPdBMlQ6x8NhO1S) | [Blakey](https://open.spotify.com/artist/3cqjRMFHyTEbY3Gq1P7sAl) | [Embers Mixtape](https://open.spotify.com/album/6Kya7uHGxivoFg4yjyeNwT) | 3:14 | 2021-11-19 | 2022-01-25 |
@@ -157,7 +159,7 @@
 | [People Help the People](https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 4:16 | 2023-03-06 |  |
 | [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2022-12-16 | 2023-05-24 |
 | [Pointless](https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:51 | 2023-05-24 | 2023-06-01 |
-| [Put A Little Love On Me](https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:44 | 2021-11-19 |  |
+| [Put A Little Love On Me](https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:44 | 2021-11-19 | 2023-09-23 |
 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 | 2021-11-19 | 2022-03-26 |
 | [Quite Miss Home \- Acoustic](https://open.spotify.com/track/4lf7y6YX0WKLj1J3kM0gz9) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Quite Miss Home \(Acoustic\)](https://open.spotify.com/album/5ku3gzhWBSkDLlqOczH6wF) | 3:45 | 2021-11-19 | 2022-07-29 |
 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 | 2021-11-19 |  |

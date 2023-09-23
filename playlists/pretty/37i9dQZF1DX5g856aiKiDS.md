@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,476 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,541 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 49 | [Fxxxnds \(Feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Fxxxnds](https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH) | 3:29 |
 | 50 | [Only U \(Feat\. PENOMECO\)](https://open.spotify.com/track/11ysgxz5ER0yvnZ8Uogbe8) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Only U](https://open.spotify.com/album/2olAsLaKHRckNVhmB8xTI0) | 3:47 |
 
-Snapshot ID: `MCw1ZTk0MWJmMDIwYmZjNjM0NzI3NDAzNDg3YjcyNGEyNDMzYzhjOGZl`
+Snapshot ID: `MCxkYzdhYjI5MDcyM2I2YWVjYTIyYzc4Yjg4MDJhNDU5Yzk3ZGEwZjM4`

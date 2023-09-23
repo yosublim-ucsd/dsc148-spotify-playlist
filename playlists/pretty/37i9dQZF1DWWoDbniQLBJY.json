@@ -1,12 +1,12 @@
 {
   "description": "Pop ac\u00fastico para tu d\u00eda.",
-  "num_followers": 2018382,
+  "num_followers": 2018421,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzY1ZDE3OTEyMzYyZGZlMDZkNGRmZmM0N2E2OGZjZGEwYWUzODk1",
+  "snapshot_id": "MCw5NTYxOGJkNDg0NzhmZTgzYTRiZWQ4MWE5YmE4YzFjOWMyZWRkYWM0",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Canciones para escuchar en el r\u00edo",
-        "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Amapolas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 202867,
       "name": "Adi\u00f3s Amor - Recorded at Panoram Studios, Mexico",
       "url": "https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Canciones para escuchar en el r\u00edo",
+        "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Amapolas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Salvavidas de hielo",
-        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Pongamos que hablo de Mart\u00ednez",
-      "url": "https://open.spotify.com/track/3cApCJqmVwE23cxYUADZpx"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Parece Mentira",
         "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 213958,
       "name": "Parece Mentira",
       "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Salvavidas de hielo",
+        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Pongamos que hablo de Mart\u00ednez",
+      "url": "https://open.spotify.com/track/3cApCJqmVwE23cxYUADZpx"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -391,22 +391,6 @@
       "duration_ms": 252736,
       "name": "Planeando Madrid",
       "url": "https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Al otro lado del rio",
-        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 194626,
-      "name": "Al otro lado del r\u00edo",
-      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -483,6 +467,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Al otro lado del rio",
+        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 194626,
+      "name": "Al otro lado del r\u00edo",
+      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
       },
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "chiquita",
-        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "culpa",
-      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas M\u00e1s (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/7EHPmV9Jm3PIc0SK90ISIR"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 231990,
       "name": "C\u00f3mo Te Atreves - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/1hGcChJGpozz03cXw0aOjB"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "chiquita",
+        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "culpa",
+      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 400826,
+      "name": "No Ha Parado de Llover - Unplugged",
+      "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Saudade (Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 296671,
       "name": "Saudade - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 400826,
-      "name": "No Ha Parado de Llover - Unplugged",
-      "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "plan (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2yzuzakKWgRN89T3VpB1EP"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "plan (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/0Quiw6mpXblCJnLUyAhh8a"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Shakira MTV Unplugged",
         "url": "https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 298773,
       "name": "Estoy Aqu\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/1C4b2NM9ViU7PbCIA2PLVT"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "plan (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2yzuzakKWgRN89T3VpB1EP"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "plan (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0Quiw6mpXblCJnLUyAhh8a"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Velero",
-        "url": "https://open.spotify.com/album/7tBeAWDG3WD9AtaxpAjpU4"
-      },
-      "artists": [
-        {
-          "name": "Matt Hunter",
-          "url": "https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU"
-        },
-        {
-          "name": "Jambene",
-          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
-        }
-      ],
-      "duration_ms": 136595,
-      "name": "Velero",
-      "url": "https://open.spotify.com/track/4mQ4EM1rxdOo7Cc9g5dXK2"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "La Parte Buena",
         "url": "https://open.spotify.com/album/4I2udXkfy3th0HSo0wR7xc"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 223634,
       "name": "La Parte Buena",
       "url": "https://open.spotify.com/track/7qXpn9MV3tBoEWI7kr13rQ"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Velero",
+        "url": "https://open.spotify.com/album/7tBeAWDG3WD9AtaxpAjpU4"
+      },
+      "artists": [
+        {
+          "name": "Matt Hunter",
+          "url": "https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU"
+        },
+        {
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+        }
+      ],
+      "duration_ms": 136595,
+      "name": "Velero",
+      "url": "https://open.spotify.com/track/4mQ4EM1rxdOo7Cc9g5dXK2"
     },
     {
       "added_at": "2023-09-08 04:00:00",

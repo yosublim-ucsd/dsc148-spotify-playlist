@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Temerarios en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,593 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,950 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 17 | [Del Signo Libra](https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Puras Románticas](https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD) | 3:26 |
 | 18 | [Tu Última Canción](https://open.spotify.com/track/7dWSrvzawBZPa7VVeHZBn7) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Tu Última Canción](https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa) | 4:22 |
 | 19 | [Ese Loco Soy Yo](https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Directo Al Corazón](https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe) | 4:40 |
-| 20 | [Él Soy Yo](https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Linea De Oro Contigo O Sin Ti](https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs) | 3:15 |
-| 21 | [La Loca](https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC) | [Los Fugitivos](https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq) | [Vanidosa](https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs) | 4:14 |
+| 20 | [La Loca](https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC) | [Los Fugitivos](https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq) | [Vanidosa](https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs) | 4:14 |
+| 21 | [Él Soy Yo](https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Linea De Oro Contigo O Sin Ti](https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs) | 3:15 |
 | 22 | [Deja Una Rosa En Tu Balcón](https://open.spotify.com/track/1InGWsgNYr5cYTE4JWqGqu) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Hasta La Eternidad \(Clásicos Digitalizados\)](https://open.spotify.com/album/6f3szSu0uNGBOmcW01a6ZN) | 3:59 |
 | 23 | [Te Ví Con El](https://open.spotify.com/track/3TK5wK5bPpM4vIpAmkhkuX) | [Mandingo](https://open.spotify.com/artist/4KPkl90SSF2y1VYNt7dmba) | [En El Camino](https://open.spotify.com/album/6JckkNzJVY33kAwZ7FOd4J) | 2:38 |
 | 24 | [Como Te Recuerdo](https://open.spotify.com/track/3CH8ti307xUz5NlaHoQBPR) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Como Te Recuerdo](https://open.spotify.com/album/4VwV8hjVXteVkVNDCYPN1M) | 5:05 |
@@ -85,16 +85,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 75 | [Cosas Buenas Que Parecen Malas](https://open.spotify.com/track/22gj9wemYAZa74lfk38eqN) | [Los Rehenes](https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs) | 2:49 |
 | 76 | [Palabras Tristes](https://open.spotify.com/track/16NRX2SptYhIDr0FdAqMxZ) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Solo Baladas](https://open.spotify.com/album/5wYtiVi5x6N9H7KRFhfIzq) | 3:23 |
 | 77 | [Se Fue Mi Paloma](https://open.spotify.com/track/6v4btqrnQRhliof9wGuB3I) | [Los Mismos](https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7) | [Juntos Para Siempre](https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU) | 3:08 |
-| 78 | [Dulce Veneno](https://open.spotify.com/track/1rg9ILnB4n7cxlO9UdIXaG) | [Los Dueños Del Sol](https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d) | [Dulce Veneno](https://open.spotify.com/album/0LKfjHqTJ4Gp6F0HPplz1D) | 3:20 |
+| 78 | [El Perro, el Gato y Yo](https://open.spotify.com/track/54TgeMeInoK6wgPWw58ri7) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Lo Mejor De Guardianes Del Amor](https://open.spotify.com/album/4Asr02QFyUUEcwtcnGCYhx) | 3:37 |
 | 79 | [Dos Enamorados](https://open.spotify.com/track/12nMOOlu5TyP8FSnfj1WPJ) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [20 Aniversario](https://open.spotify.com/album/4RZzYGvr197oZhvcl0PzOi) | 3:41 |
-| 80 | [El Perro, el Gato y Yo](https://open.spotify.com/track/54TgeMeInoK6wgPWw58ri7) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Lo Mejor De Guardianes Del Amor](https://open.spotify.com/album/4Asr02QFyUUEcwtcnGCYhx) | 3:37 |
+| 80 | [Dulce Veneno](https://open.spotify.com/track/1rg9ILnB4n7cxlO9UdIXaG) | [Los Dueños Del Sol](https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d) | [Dulce Veneno](https://open.spotify.com/album/0LKfjHqTJ4Gp6F0HPplz1D) | 3:20 |
 | 81 | [Muchacha Triste](https://open.spotify.com/track/5aJtDBC3y4jyK63Af8yFbX) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Caramelo](https://open.spotify.com/album/1WgwIZMerQkpGMTesIlBHX) | 4:04 |
 | 82 | [Tiernas Mentiras](https://open.spotify.com/track/6YjOZqhnGjY73u8cY1p4gl) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Linea De Oro Contigo O Sin Ti](https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs) | 3:15 |
 | 83 | [Hablemos](https://open.spotify.com/track/3ArvAQ4N8f2Keehg0RPIhN) | [Impacto De Montemorelos](https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm) | [Colección De Oro, Vol\. 3](https://open.spotify.com/album/0Co4H1xWEZmKYczwFsSYr4) | 3:13 |
 | 84 | [Melodia Desencadenada](https://open.spotify.com/track/4wpIWC2jNrGEcDjgXvsUsf) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [Soy El Mismo](https://open.spotify.com/album/3BvXrTvzMYqZNz4hnqXSvj) | 3:40 |
 | 85 | [Que No Quede Huella](https://open.spotify.com/track/0gHwAu8QyzRDzbQ540RTRg) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Que No Quede Huella](https://open.spotify.com/album/7wKNGBwWNMq7pb0bNFOaed) | 3:00 |
-| 86 | [El Regalo](https://open.spotify.com/track/2YcC5doRA1MVLq2uY9rPay) | [Los Dueños Del Sol](https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d) | [El Regalo](https://open.spotify.com/album/2ZAZqDj4aIqNUoYHYawVE6) | 3:27 |
-| 87 | [Dame un Beso y Dime Adiós](https://open.spotify.com/track/1ysGXIszdrfCtyALss67QP) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Lo Mas Romantico De Ayer Con Los Mas Romanticos De Hoy](https://open.spotify.com/album/3It5f5lrSbIRS97VcFfJZc) | 3:38 |
+| 86 | [Dame un Beso y Dime Adiós](https://open.spotify.com/track/1ysGXIszdrfCtyALss67QP) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Lo Mas Romantico De Ayer Con Los Mas Romanticos De Hoy](https://open.spotify.com/album/3It5f5lrSbIRS97VcFfJZc) | 3:38 |
+| 87 | [El Regalo](https://open.spotify.com/track/2YcC5doRA1MVLq2uY9rPay) | [Los Dueños Del Sol](https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d) | [El Regalo](https://open.spotify.com/album/2ZAZqDj4aIqNUoYHYawVE6) | 3:27 |
 | 88 | [La Vi Llorar](https://open.spotify.com/track/6HBI3f4k8qikkuJJiyoZ0b) | [Grupo Pegasso Del Pollo Esteban](https://open.spotify.com/artist/0niB6NrGI4xxvwDtEmVnhM) | [El Pollo No Falla](https://open.spotify.com/album/5bTmjye8Z3uYMKwM9Q4KYP) | 3:27 |
 | 89 | [Déjala Que Se Divierta](https://open.spotify.com/track/3T9kuZcg6HoPlHSwVSdhDj) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [La Coloreteada](https://open.spotify.com/album/112NtpiLJlcKg2vw4Y3b3y) | 3:16 |
 | 90 | [Hay Otro Amor En Tu Lugar](https://open.spotify.com/track/4sGuUITG73yQwLliCuibQv) | [El Golpe](https://open.spotify.com/artist/3evCl0XUunm8x6MBd7MSnD) | [Morir Contigo](https://open.spotify.com/album/1o45pgbPbUoZsLltuRVUYR) | 2:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 99 | [Si Estuvieras Conmigo \- Dueto Con Grupo Bryndis](https://open.spotify.com/track/4JgxmSC0CvOZ4WOzNxS2S7) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5), [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [30 Aniversario Duetos](https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm) | 2:40 |
 | 100 | [El Muñeco](https://open.spotify.com/track/19G8XMtHCX6y6eYTLDbaU3) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Pensando En Ella](https://open.spotify.com/album/7chUnyKUwq88xEWfyGEV7a) | 2:42 |
 
-Snapshot ID: `MCxkM2ZkNmJjZDhiZGI4OGI5ZWEzNDE4ZGY0YTBjODZlYWIzNzZmNGEw`
+Snapshot ID: `MCwxNzg2YzM5NTc0N2QwODIxZDI3YmEyM2ZhY2VmYWI2ZDljMzQ4OWNi`

@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 233354,
+  "num_followers": 233402,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmUxYTEyYTQ0YWYxZmI1MWZlOTUzMGZlNTEyYjJmYzlmMzQ3ODE3",
+  "snapshot_id": "MCwxMTM4OTg5NTdmNDNhZGMyMGJkNzgwNDljZjY0OWRkMGVmZWEyYWI3",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -495,22 +495,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Nightmare Before Christmas Special Edition",
         "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 194026,
       "name": "Jack's Lament",
       "url": "https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -947,6 +947,22 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
+        "name": "Bad Moon Rising",
+        "url": "https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6"
+      },
+      "artists": [
+        {
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+        }
+      ],
+      "duration_ms": 311200,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
         "name": "Yes, I'm A Witch",
         "url": "https://open.spotify.com/album/749IRZj6CenDO9zLuqhiE7"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 228640,
       "name": "Yes, I'm A Witch",
       "url": "https://open.spotify.com/track/1ZEsbgte9LRHyOypNTitnP"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Bad Moon Rising",
-        "url": "https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6"
-      },
-      "artists": [
-        {
-          "name": "Sonic Youth",
-          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
-        }
-      ],
-      "duration_ms": 311200,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0"
     },
     {
       "added_at": "2019-10-09 15:02:50",

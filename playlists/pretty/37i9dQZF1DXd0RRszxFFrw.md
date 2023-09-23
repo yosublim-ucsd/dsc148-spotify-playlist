@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,899 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,946 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 37 | [Train to Rishikesh](https://open.spotify.com/track/5NQqC3Xs5CSHiZOEFOOWSa) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Luminosity](https://open.spotify.com/album/5WKBnocziOjEf0A3Sqpm7a) | 5:32 |
 | 38 | [Commitments](https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99) | [Affe Reidhoff](https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0) | [Commitments](https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st) | 3:14 |
 | 39 | [Ponte Veccio](https://open.spotify.com/track/391SJ2oXg8taceaR89iDK1) | [Indigo Mazati](https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw) | [Ponte Vecchio](https://open.spotify.com/album/1qozWuJvoOqgrLSLdcHnKc) | 2:28 |
-| 40 | [Tierra Mestiza](https://open.spotify.com/track/2s4SLxIaORw4KQSMIyMb9l) | [Gerardo Tamez](https://open.spotify.com/artist/6kX0LY1Cv1cE5FbsiSHwCF), [Terceto De Guitarras De La Ciudad De Mexico](https://open.spotify.com/artist/0ny4eZbPXPp631aVhUi7qV) | [Querencia](https://open.spotify.com/album/67mxe3mnxhw7YrOqMnNczL) | 3:39 |
-| 41 | [The Little Island Bossa](https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [The Little Island Bossa](https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW) | 4:06 |
+| 40 | [The Little Island Bossa](https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [The Little Island Bossa](https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW) | 4:06 |
+| 41 | [Tierra Mestiza](https://open.spotify.com/track/2s4SLxIaORw4KQSMIyMb9l) | [Gerardo Tamez](https://open.spotify.com/artist/6kX0LY1Cv1cE5FbsiSHwCF), [Terceto De Guitarras De La Ciudad De Mexico](https://open.spotify.com/artist/0ny4eZbPXPp631aVhUi7qV) | [Querencia](https://open.spotify.com/album/67mxe3mnxhw7YrOqMnNczL) | 3:39 |
 | 42 | [Montalbán](https://open.spotify.com/track/4oVDnTJ0ctB5OajVGuAUpo) | [Muniesa](https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v) | [Muniesa](https://open.spotify.com/album/1aj7jOSaXgoZcA0auD3BGK) | 2:06 |
 | 43 | [Me Estas Haciendo Falta](https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif) | [Elias Carrera](https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO) | [Wasi](https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ) | 2:32 |
 | 44 | [Madera Negra](https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7) | [Niño Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Niño Josele](https://open.spotify.com/album/79653plha39OpqECC3HCln) | 4:05 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 49 | [My Foolish Heart](https://open.spotify.com/track/57hSvxwQrxe3BZ8vDu6pVF) | [Niño Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Paz](https://open.spotify.com/album/6FTHzmqkzw39Ey8o20i39k) | 5:04 |
 | 50 | [Meu coração](https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3) | [Xavier Hermenegildo](https://open.spotify.com/artist/6KlphmbEPapSqBKhND7mJC) | [Meu coração](https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq) | 2:23 |
 | 51 | [Black Orpheus](https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z) | [Denisinho](https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6) | [Blue Bossa](https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g) | 3:01 |
-| 52 | [Rumbita \(Guitar Version\)](https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ) | [Guitarras De Oro](https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M) | [Música De España](https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC) | 3:41 |
-| 53 | [Just Feeling Great](https://open.spotify.com/track/6ThIFhiC2QlBlYnM5qgO9k) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Just Feeling Great](https://open.spotify.com/album/51ZoU9SmsB2MNiIQIe018S) | 2:01 |
+| 52 | [Just Feeling Great](https://open.spotify.com/track/6ThIFhiC2QlBlYnM5qgO9k) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Just Feeling Great](https://open.spotify.com/album/51ZoU9SmsB2MNiIQIe018S) | 2:01 |
+| 53 | [Rumbita \(Guitar Version\)](https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ) | [Guitarras De Oro](https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M) | [Música De España](https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC) | 3:41 |
 | 54 | [Isla de los Bienaventurados \(Bulerías\)](https://open.spotify.com/track/3CHxIC1JZewDlGqR039lrt) | [Cañizares](https://open.spotify.com/artist/1PySKBegwK588WYnOnrsPP) | [El Mito de la Caverna](https://open.spotify.com/album/0SD94n8I6upvFQolNEblFl) | 3:48 |
 | 55 | [Noches de Bohemia \- Guitar Version](https://open.spotify.com/track/2rtScPfFTDz0yMhCA0kdge) | [Paco Infante](https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht) | [Hablando Con Mi Guitarra](https://open.spotify.com/album/4gJ1Gbn76E8Q5lEryqRGS0) | 4:15 |
 | 56 | [Bossanova in My Heart](https://open.spotify.com/track/6zysZIDLdXhaK0FsHJOAVA) | [Eric Josef](https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN) | [Only In Paris](https://open.spotify.com/album/0NHLKrq4JVLGEahD9fyMaw) | 2:58 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 58 | [Tiempos Pasados](https://open.spotify.com/track/52Y2oYV8SXt292vc4I7NFO) | [Rafael Riqueni](https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4) | [Parque De María Luisa](https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI) | 2:14 |
 | 59 | [Senior Emilio](https://open.spotify.com/track/6EjZx8S2Hdd4ZoBqJfgNFA) | [Diego Fernandez](https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk) | [Senior Emilio](https://open.spotify.com/album/1RRWqAIb1gPzxnO8Y8BGda) | 4:38 |
 | 60 | [Brigas, Nunca Mais](https://open.spotify.com/track/0a0aIKG6sw9bt8iRy3iGh5) | [Rio Mendes](https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK) | [Bossa Nova Sounds EP](https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI) | 2:47 |
-| 61 | [Zaralmondi \- Colombianas](https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT) | [Enrique De Melchor](https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl) | [Bajo La Luna](https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO) | 3:51 |
-| 62 | [Herencia de Valencia](https://open.spotify.com/track/3DALc0j8IOpKpKAuiHU5zu) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Herencia de Valencia](https://open.spotify.com/album/1eHEvjtgHgOkzX7i5jqAQN) | 3:18 |
+| 61 | [Herencia de Valencia](https://open.spotify.com/track/3DALc0j8IOpKpKAuiHU5zu) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Herencia de Valencia](https://open.spotify.com/album/1eHEvjtgHgOkzX7i5jqAQN) | 3:18 |
+| 62 | [Zaralmondi \- Colombianas](https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT) | [Enrique De Melchor](https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl) | [Bajo La Luna](https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO) | 3:51 |
 | 63 | [Girl](https://open.spotify.com/track/51jdU0DN5BQctErrG44HVX) | [Notis Mavroudis](https://open.spotify.com/artist/3O3JrDqhfzJ6kOdvIEJwXK) | [The Beatles for Classical Guitar](https://open.spotify.com/album/0rcyFsJ0wcEo7rxntomDiD) | 2:45 |
 | 64 | [Tango en Skai \- Instrumental](https://open.spotify.com/track/1eGdw1BbGAYaXbgPcVIkGm) | [Panagiotis Margaris](https://open.spotify.com/artist/2UUloMjgTaoxRyWKK9mK0f) | [Cafe de l'Art, Vol\. 1 \(14 Guitar Duets Themes\)](https://open.spotify.com/album/5JpoixLQADUh6VXxqsFXvZ) | 2:53 |
 | 65 | [When the Ocean Sleeps](https://open.spotify.com/track/2ioFkeG63Xy5cdvjq5JpHr) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Lost Tales of Catalonia](https://open.spotify.com/album/1LnfyMLkTr1BD7UPj6ykTl) | 3:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 74 | [Porgy and Bess: Summertime \- The Sound of Music: My Favorite Things \- Autumn Leaves \(arr\. J\. Carter\)](https://open.spotify.com/track/6XhpnareRxv7kVHE4nVpXt) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Contemporary Spanish Guitar: Kindred Spirits](https://open.spotify.com/album/61scRHtRDhLo89WfuniFJV) | 6:42 |
 | 75 | [Alma Llanera](https://open.spotify.com/track/4LvHoaXNwmS9kbjYqirUZ3) | [Jesús Ángel](https://open.spotify.com/artist/1ztVnc2fFgonnotHZfHUtD) | [Alma Llanera](https://open.spotify.com/album/0ziCxc44HXR3qfEqyeSzUC) | 2:55 |
 
-Snapshot ID: `MCw5ZWVhMDk1NGM0OGUyZTE4Y2EwNDAzNThjMzI3NmU4NjgxZmEzYWM0`
+Snapshot ID: `MCw4NDYwNThjYjZiOTliM2Y4MWQ1N2EzNDRjMmY2ODBhY2FhMTdjMmVm`

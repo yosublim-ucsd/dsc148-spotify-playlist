@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,872 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,906 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 9 | [Gold　～また逢う日まで～](https://open.spotify.com/track/6hasQfFdygcQow58WNA614) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Gold　～また逢う日まで～](https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk) | 4:14 |
 | 10 | [Falling or flying](https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Falling or flying](https://open.spotify.com/album/4DQceiYfpF7ByhwsBQaWYH) | 3:24 |
 | 11 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 |
-| 12 | [California and Me](https://open.spotify.com/track/768tjNAwyH3nIFee5BIdcl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [California and Me](https://open.spotify.com/album/2tt47cpLkXdRqYhOcp2C9x) | 3:36 |
+| 12 | [California and Me](https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:36 |
 | 13 | [How You Feel](https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [How You Feel](https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX) | 3:03 |
 | 14 | [In My Room](https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq) | 2:57 |
 | 15 | [Still do](https://open.spotify.com/track/3J5diQCLgPeatxiFMq5XXX) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Still do](https://open.spotify.com/album/3GZ5Im54ZCIZc8rYZwxRTk) | 3:44 |
@@ -36,20 +36,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 26 | [Love Lost](https://open.spotify.com/track/2z9iuAxKv4TTeCrPAxxKg9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn) | 2:42 |
 | 27 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 |
 | 28 | [A Promised Land](https://open.spotify.com/track/1Bh2D6JRzwn1ZPL2dxcfnh) | [Wicked Lights](https://open.spotify.com/artist/2JMweZxR2xGs9rcfzktB5k) | [Have A Nice Dream](https://open.spotify.com/album/1V8UvQAM2qaPb4326KWUE3) | 5:37 |
-| 29 | [Glitch The System \(Glitch Bitch 2\)](https://open.spotify.com/track/0EyhPyMyKD04bSjQAohGIm) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Gentle Confrontation](https://open.spotify.com/album/232O7ibZyYtcDTNtyU6rlk) | 3:34 |
+| 29 | [Glitch The System \(Glitch Bitch 2\)](https://open.spotify.com/track/6jElW0nEQ1WRJHJLBUQqmx) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Gentle Confrontation](https://open.spotify.com/album/6t8EEPPBUhJiYucv3zsIKx) | 3:34 |
 | 30 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 |
 | 31 | [Head Down](https://open.spotify.com/track/3OxhqogH8yybYJzwpKvPxr) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6) | [Summing Up](https://open.spotify.com/album/3i2iavFSYOci10RdJoNSnX) | 4:12 |
 | 32 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 |
 | 33 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 |
 | 34 | [A&W](https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 7:13 |
 | 35 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 |
-| 36 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 |
+| 36 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
 | 37 | [this is how you fall in love](https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 2:54 |
 | 38 | [Lullaby For My Dog](https://open.spotify.com/track/7hhyUG0MgHLrtTmt8Hlcog) | [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Statues I](https://open.spotify.com/album/126uaBLz5spQHGfNcDMIA0) | 2:25 |
-| 39 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
+| 39 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 |
 | 40 | [95 Project \(Reprise\)](https://open.spotify.com/track/6XY6EHw2syj0We0U0GxCf7) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [95 Project \(Reprise\)](https://open.spotify.com/album/6V8BnI070YFCoWX0T8A60r) | 2:30 |
-| 41 | [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 |
-| 42 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 2:21 |
+| 41 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 2:21 |
+| 42 | [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 |
 | 43 | [Nectar.](https://open.spotify.com/track/5YamNEPEtoovtVgLWPZThg) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Nectar.](https://open.spotify.com/album/1InAJl1AGu9H9hjt1lOtGe) | 3:00 |
 | 44 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:45 |
 | 45 | [ミアネ](https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [306](https://open.spotify.com/album/4xDPpqsq8PLPtDRXGpKEPF) | 3:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 59 | [You Ain't No Celebrity](https://open.spotify.com/track/32PKkiwexuMNEDqfH1p3IH) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:33 |
 | 60 | [Bubblegum](https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW) | 4:39 |
 
-Snapshot ID: `MCwzOTlmNTg0MjRiODk2ZmU4NjM5OTk0ODIzYjI2OWUxMzMyZDkzODcy`
+Snapshot ID: `MCw4ZmMxYmRlMGUzNmQ5ODE5ZDI1Nzg0OGE4N2I2ODRmYjRlMDAyMzQz`

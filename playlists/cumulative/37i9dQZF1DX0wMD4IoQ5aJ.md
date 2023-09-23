@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-292 songs - 15 hr 32 min
+293 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Paradisio](https://open.spotify.com/track/7GbmFwC2i0P5kqkDdMPmhz) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Paradisio](https://open.spotify.com/album/4E6olUhJDgeSKnXPDTsTd7) | 2:51 | 2022-04-15 | 2023-01-07 |
 | [Paraply](https://open.spotify.com/track/6AkK9DgklncctGDoqKKF3J) | [ROSUNDA](https://open.spotify.com/artist/3kCAlLEkUjQl0hXPZGzuBf) | [Paraply](https://open.spotify.com/album/4tJaBXasFW1QLg0Y40756v) | 2:24 | 2023-08-18 |  |
 | [Passage](https://open.spotify.com/track/7wOZCITHxHO4j7dQ5jd2iL) | [Ben Travel](https://open.spotify.com/artist/6s1MIr0LiLjEnSGjvPqaUC) | [Passage](https://open.spotify.com/album/2ODUevO5ok7PMjrhlTmU3l) | 2:57 | 2022-04-15 | 2022-05-20 |
-| [Persist Display](https://open.spotify.com/track/77upAj6MD4twfI9UVQLT0d) | [Ixxx](https://open.spotify.com/artist/5xqKcWEO2z2WdF6CXAsm4Y) | [Persist Display](https://open.spotify.com/album/4JuU828Mu0bygg7RANN2cp) | 2:50 | 2022-04-15 |  |
+| [Persist Display](https://open.spotify.com/track/77upAj6MD4twfI9UVQLT0d) | [Ixxx](https://open.spotify.com/artist/5xqKcWEO2z2WdF6CXAsm4Y) | [Persist Display](https://open.spotify.com/album/4JuU828Mu0bygg7RANN2cp) | 2:50 | 2022-04-15 | 2023-09-23 |
 | [Portamento](https://open.spotify.com/track/563A3oAQnjkDEqEjlbs2bO) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Hey Valentine](https://open.spotify.com/album/4oFLsHYWq3URi7y8zdDg6r) | 2:28 | 2022-10-14 |  |
 | [Positano](https://open.spotify.com/track/2XxGvI9nvrkK6BuNAOvRQw) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Positano](https://open.spotify.com/album/365Du5Bh6lzXuxvSq7h7jW) | 3:08 | 2022-04-15 |  |
 | [Primal View](https://open.spotify.com/track/1g0mgAfM8cT1wwgfK3XOPM) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Primal View](https://open.spotify.com/album/2juZVcgTqgrGIvrf2wfmHh) | 2:48 | 2022-05-10 |  |
@@ -223,6 +223,7 @@
 | [Right Days](https://open.spotify.com/track/33LCCushOR1xZnjwlQqpqp) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Right Days](https://open.spotify.com/album/5ze159FKhoZpJZ3VZy9H3E) | 3:33 | 2022-04-15 | 2022-08-19 |
 | [Rolling Waves](https://open.spotify.com/track/04lYylciCngy12eu6fvRtY) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Rolling Waves](https://open.spotify.com/album/06wNwawAlHk2tglBJkeCID) | 2:53 | 2022-05-10 | 2023-01-07 |
 | [Rooftop Prelude](https://open.spotify.com/track/5ghSf2DY96iGYoB4vQePpE) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Rooftop Prelude](https://open.spotify.com/album/04mVbv0JlznRDcTBneKQQw) | 3:00 | 2022-10-28 |  |
+| [rouge](https://open.spotify.com/track/4zzEVfqWdajmKLY79CL45N) | [Hula Hoops](https://open.spotify.com/artist/5QmlQ9G1MllDh6ilEC2p1Y) | [rouge](https://open.spotify.com/album/6SBU98zyWyPIbgjVMjJuf0) | 2:19 | 2023-09-22 |  |
 | [Saint Tropez](https://open.spotify.com/track/4JO8HC0O0wJAjjiC01OISb) | [Blush Waves](https://open.spotify.com/artist/5gCmQS9fhEvfPQaXXhNzuj) | [Saint Tropez](https://open.spotify.com/album/3zvW548gu7s9f5k2fndTej) | 2:35 | 2022-04-15 | 2022-09-02 |
 | [Salt Water Taffy](https://open.spotify.com/track/7qja5koXB0YyXvP0lDLia6) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Salt Water Taffy](https://open.spotify.com/album/0Or7Az6koTg3dizh2hbNrU) | 3:08 | 2022-04-15 |  |
 | [Salty Sip](https://open.spotify.com/track/4H8pnRgT43YnCHZpfMgMRI) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [Salty Sip](https://open.spotify.com/album/2YzQUnhkZ0gHllxXU5saQL) | 3:36 | 2022-04-15 | 2023-08-19 |

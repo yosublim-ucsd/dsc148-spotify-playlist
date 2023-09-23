@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Manuel Turizo & Grupo Frontera
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,004 likes - 79 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,033 likes - 79 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 78 | [Como el Viento](https://open.spotify.com/track/5LyqFuRn4AaYlkpMFi1W0s) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Como el Viento](https://open.spotify.com/album/6UKDsAVlMkqKqWJgsnCYAK) | 3:18 |
 | 79 | [Estamos Aquí](https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estamos Aquí](https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu) | 3:02 |
 
-Snapshot ID: `MCwzZjU0YjJhM2RhZmMyZWI2YjFlOGYzYzJhYmE3MzJjY2FjNDhjNDc5`
+Snapshot ID: `MCxjY2QzZmM4NjE5NjlmZjc1ZTUwMzAyYzEzMTMxMmEzNjMzMjE4YzQ4`

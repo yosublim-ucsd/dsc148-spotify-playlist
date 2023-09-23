@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Becky G en portada.
 
-301 songs - 16 hr 4 min
+302 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Blanco Y Negro](https://open.spotify.com/track/3h5BJzVXakNbLvKY3oqNKd) | [Dano Arias](https://open.spotify.com/artist/1AiUJjP4nxM9KIqsFjxMVT), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Blanco Y Negro](https://open.spotify.com/album/4tjuJwbsp4c8zMFUErJpqR) | 3:04 | 2023-02-17 | 2023-04-23 |
 | [Brillo](https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:34 | 2022-04-15 |  |
 | [Buenas Rachas](https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Buenas Rachas](https://open.spotify.com/album/18pfoIprtoyL7UZ0r5aJ2e) | 2:33 | 2023-08-04 |  |
+| [Bulgari](https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bulgari](https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L) | 2:44 | 2023-09-15 |  |
 | [Bye](https://open.spotify.com/track/7FI04jmsPiLOz4GfpnCw3M) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [GXLE 3](https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk) | 2:38 | 2023-01-13 |  |
 | [Bélico y Cholo](https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bélico y Cholo](https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2) | 3:22 | 2023-02-13 |  |
 | [Cajas De Parke](https://open.spotify.com/track/2yIKNAZ0eXxTx3r3Emfmdk) | [Juanillo Diaz](https://open.spotify.com/artist/43QAcxJuLK8pBo8yKn2Vgz) | [Cajas De Parke](https://open.spotify.com/album/716M4KOIq0Fawqxx56r9qv) | 2:10 | 2022-07-01 | 2022-07-22 |
@@ -75,7 +76,7 @@
 | [Diviertete](https://open.spotify.com/track/211zWlnWWhycTO5T30Dxgu) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Diviertete](https://open.spotify.com/album/7fNa6l9OLAL1dj68Nr8mu4) | 3:43 | 2022-09-23 | 2023-08-26 |
 | [Dolor Maquillado](https://open.spotify.com/track/6AgYfAUT7HKK2EGv4euZUV) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Historias Pa’ Contar](https://open.spotify.com/album/6i8fnbUdHbs68xHQKgjEpg) | 4:05 | 2022-07-01 | 2022-09-05 |
 | [Don Nadie](https://open.spotify.com/track/5BhW3x0tZWGSwCPzjwVA1Q) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Don Nadie](https://open.spotify.com/album/2dGgRCiflxlEnLXADfuD0A) | 3:11 | 2023-06-30 |  |
-| [Donde Andaban](https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Donde Andaban](https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG) | 3:39 | 2023-03-17 |  |
+| [Donde Andaban](https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Donde Andaban](https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG) | 3:39 | 2023-03-17 | 2023-09-23 |
 | [Dos Extraños](https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 3:17 | 2023-09-08 |  |
 | [Duro Le Chingamos](https://open.spotify.com/track/3QmhokuGV0SJeVExRiVybT) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Duro Le Chingamos](https://open.spotify.com/album/3fyvcS54kHLuEpxwG3d2UV) | 2:27 | 2023-03-17 |  |
 | [Déjame Ser](https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Déjame Ser](https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz) | 3:08 | 2023-02-13 | 2023-05-30 |

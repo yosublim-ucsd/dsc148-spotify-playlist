@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 
 > Take another hit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,192 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,250 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 74 | [Ku Je Ti \(feat\. Ricky Rich & Dafina Zeqiri\)](https://open.spotify.com/track/0xVDkht7T97HkFCXmiCQLT) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dafina Zeqiri](https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ) | [Ku Je Ti \(feat\. Ricky Rich & Dafina Zeqiri\)](https://open.spotify.com/album/5A9aJ7wIhbEXQcJuE91YKQ) | 3:14 |
 | 75 | [Dégaine \(feat\. Damso\)](https://open.spotify.com/track/5cqLFudVQryezmVFmmyRJN) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Dégaine \(feat\. Damso\)](https://open.spotify.com/album/0qHraUEsPCcdTqCFBFDQvn) | 3:30 |
 
-Snapshot ID: `MCxiZDRkNzZkNDNlNzFkYWU3YWMwMjU1MGVjNzU1ZmQ1OWNkYzA1ZjI2`
+Snapshot ID: `MCwyNmIzMzA1MzcwZThlYTQwNWFjNGNmYWExMWM1YmFiZmM0NzU0OWNh`

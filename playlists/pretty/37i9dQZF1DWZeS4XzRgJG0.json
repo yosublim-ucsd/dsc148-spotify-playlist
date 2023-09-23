@@ -1,12 +1,12 @@
 {
   "description": "sorry ik kan niet... moet studeren",
-  "num_followers": 24387,
+  "num_followers": 24414,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzMzYTU3NTJjNWIwY2VjZDMwNmZmOGYwN2UxM2ZjOGM3MmRkZmEx",
+  "snapshot_id": "MCwzYTBhZjk4OWQ2ZDViM2UxMjc5M2Q4MmRhNGU5OTZkNWViMDA3NDMw",
   "tracks": [
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
+        "name": "Remember That Night?",
+        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Remember That Night?",
+      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
         "name": "brent",
         "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 219146,
       "name": "you were good to me",
       "url": "https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
-        "name": "Remember That Night?",
-        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Remember That Night?",
-      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
+        "name": "glisten",
+        "url": "https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "duration_ms": 169973,
+      "name": "all the kids are depressed",
+      "url": "https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
         "name": "Electric Light",
         "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 181360,
       "name": "Us",
       "url": "https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf"
-      },
-      "artists": [
-        {
-          "name": "Natalie Taylor",
-          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
-        }
-      ],
-      "duration_ms": 183103,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "glisten",
-        "url": "https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf"
       },
       "artists": [
         {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+          "name": "Natalie Taylor",
+          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
         }
       ],
-      "duration_ms": 169973,
-      "name": "all the kids are depressed",
-      "url": "https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE"
+      "duration_ms": 183103,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "You're Somebody Else",
-        "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 218883,
-      "name": "You're Somebody Else",
-      "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 202340,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "You're Somebody Else",
+        "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 218883,
+      "name": "You're Somebody Else",
+      "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Teenage Mind",
-        "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 155205,
-      "name": "Teenage Mind",
-      "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "Not About Angels",
         "url": "https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 189475,
       "name": "Not About Angels",
       "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Teenage Mind",
+        "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 155205,
+      "name": "Teenage Mind",
+      "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Sunset Lover",
-        "url": "https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        }
-      ],
-      "duration_ms": 237792,
-      "name": "Sunset Lover",
-      "url": "https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "Birdy",
         "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 256236,
       "name": "People Help the People",
       "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Sunset Lover",
+        "url": "https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        }
+      ],
+      "duration_ms": 237792,
+      "name": "Sunset Lover",
+      "url": "https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -2811,6 +2811,22 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
+        "name": "Catch & Release (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/08mhDNxoOmnXDIva5Y9t1V"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        }
+      ],
+      "duration_ms": 240065,
+      "name": "Catch & Release",
+      "url": "https://open.spotify.com/track/4mijx6Ka6ditVcHfL341w5"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
         "name": "Haunt You (feat. chloe moriondo)",
         "url": "https://open.spotify.com/album/2tDuXTNCAmd5VQXh2Bi8Ry"
       },
@@ -2827,22 +2843,6 @@
       "duration_ms": 167036,
       "name": "Haunt You (feat. chloe moriondo)",
       "url": "https://open.spotify.com/track/3vgf7gtRKDFNqFRJm7nA0m"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
-        "name": "Catch & Release (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/08mhDNxoOmnXDIva5Y9t1V"
-      },
-      "artists": [
-        {
-          "name": "Matt Simons",
-          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
-        }
-      ],
-      "duration_ms": 240065,
-      "name": "Catch & Release",
-      "url": "https://open.spotify.com/track/4mijx6Ka6ditVcHfL341w5"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -2959,22 +2959,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "All in Good Time",
-        "url": "https://open.spotify.com/album/629twvJQdWmsEJltulAT50"
-      },
-      "artists": [
-        {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
-        }
-      ],
-      "duration_ms": 220380,
-      "name": "Shoes of Lightning",
-      "url": "https://open.spotify.com/track/49EZkSLAz7I6vFJdsq3aIE"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/1qDN2w02Pz4lRqnZANiRNr"
       },
@@ -2987,6 +2971,22 @@
       "duration_ms": 218640,
       "name": "With You",
       "url": "https://open.spotify.com/track/3u0cm2AwmuIxInF9F7lOyF"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "All in Good Time",
+        "url": "https://open.spotify.com/album/629twvJQdWmsEJltulAT50"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "duration_ms": 220380,
+      "name": "Shoes of Lightning",
+      "url": "https://open.spotify.com/track/49EZkSLAz7I6vFJdsq3aIE"
     },
     {
       "added_at": "2023-05-12 08:21:15",

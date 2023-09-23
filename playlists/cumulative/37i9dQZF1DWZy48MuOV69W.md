@@ -4,14 +4,14 @@
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-99 songs - 5 hr 20 min
+100 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Child Is Born](https://open.spotify.com/track/2xoTSMtigVw64fJ9Ff5Tlk) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Christmas With Sinatra And Friends](https://open.spotify.com/album/6llYu8gxmvS2WrbVdGmoti) | 3:16 | 2021-12-21 | 2022-07-29 |
 | [A Child Is Born \- Remastered 2003](https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Together Again \(Remastered 2003\)](https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6) | 3:14 | 2021-12-21 | 2023-09-14 |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/3loEOofEBG0Z7iznsotuHI) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Les tubes de Noël](https://open.spotify.com/album/075XNkZk1DAXsnobzLpF70) | 2:13 | 2022-11-10 | 2022-11-13 |
-| [A Song For Christmas](https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:54 | 2021-12-21 |  |
+| [A Song For Christmas](https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:54 | 2021-12-21 | 2023-09-23 |
 | [All I Want For Christmas Is You](https://open.spotify.com/track/5495y2sQOmH2lTeki2cTkD) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [All I Want For Christmas Is You](https://open.spotify.com/album/6NG2YLKoP9ZrSPpUIiexj8) | 4:01 | 2022-12-08 |  |
 | [All Through The Night](https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [A Nancy Wilson Christmas](https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1) | 3:57 | 2021-12-21 |  |
 | [An Old Fashioned Christmas](https://open.spotify.com/track/7b3EE8oiI8Cu7sfDO46zs8) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Christmas Collection](https://open.spotify.com/album/1k0fZo1NgwWJUXsVX8SBHa) | 3:46 | 2021-12-21 |  |
@@ -34,6 +34,7 @@
 | [Christmas Memories](https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Vivian Buczek](https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 4:58 | 2021-12-21 |  |
 | [Christmas Morning](https://open.spotify.com/track/1F1hIbXmFT3cb6oDv3hoal) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:58 | 2021-12-21 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/3HLuXYvlzcfAKMddEk73CE) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Classic Christmas Album](https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141) | 3:58 | 2021-12-21 | 2022-11-13 |
+| [Everything’s Not Lost](https://open.spotify.com/track/2pqHAFERxzagkJu9qzzWI3) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Everything’s Not Lost](https://open.spotify.com/album/49WaKMcrbMJt3tqkLXnpVO) | 4:08 | 2023-09-22 |  |
 | [Frosty The Snowman](https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0) | [Silvio Thompson Band](https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C) | ['Tis The Season](https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ) | 2:38 | 2021-12-21 | 2023-09-03 |
 | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/track/0kuQpE8kmDdQ7GHyK7VV6N) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Have Yourself a Soulful Little Christmas](https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw) | 3:47 | 2021-12-21 |  |
 | [Happy Holiday / The Holiday Season](https://open.spotify.com/track/3sDdyBHQ60Cs1opmIyRvhp) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:36 | 2021-12-21 |  |

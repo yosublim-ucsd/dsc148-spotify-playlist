@@ -112,7 +112,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 180000,
       "name": "Adentro del Party",
       "url": "https://open.spotify.com/track/14fTqe6T4p9zyikK1RvYti"
@@ -884,7 +884,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 128567,
       "name": "El Manual",
       "url": "https://open.spotify.com/track/0qC3X3ffPny4BZCV0rNR6U"
@@ -1190,6 +1190,28 @@
       "duration_ms": 114860,
       "name": "FUMAN TWO",
       "url": "https://open.spotify.com/track/2GhH5I2KqMwPMA0xdHsjog"
+    },
+    {
+      "album": {
+        "name": "Gancia y Limon",
+        "url": "https://open.spotify.com/album/7b0BcgTvSykRcLLVF3PhVa"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        },
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233314,
+      "name": "Gancia y Limon",
+      "url": "https://open.spotify.com/track/7uGYENkWct1HfCf7Pmd06o"
     },
     {
       "album": {
@@ -1566,6 +1588,24 @@
       "duration_ms": 236173,
       "name": "La Motito de Carlitos",
       "url": "https://open.spotify.com/track/1x9OQtBbG9UEOF0Hgpew6h"
+    },
+    {
+      "album": {
+        "name": "La Ranchada",
+        "url": "https://open.spotify.com/album/2F0O2YclNhQdwKp865K2bH"
+      },
+      "artists": [
+        {
+          "name": "Los Gedes",
+          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453610,
+      "name": "La Ranchada",
+      "url": "https://open.spotify.com/track/5RIP4Uy07AfA9ilF58h3DW"
     },
     {
       "album": {
@@ -2214,7 +2254,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 268720,
       "name": "Pocos Quedan",
       "url": "https://open.spotify.com/track/1u2IbfH3dDRURiowHVul46"
@@ -2446,7 +2486,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 137608,
       "name": "Sabado Picado",
       "url": "https://open.spotify.com/track/0F0hZ3ztek0ldfjqNHFYmW"
@@ -2830,6 +2870,24 @@
       "duration_ms": 164323,
       "name": "Tranka",
       "url": "https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea"
+    },
+    {
+      "album": {
+        "name": "Triste y Solitario",
+        "url": "https://open.spotify.com/album/5hXFSBG6SAR974UC9p95zK"
+      },
+      "artists": [
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221022,
+      "name": "Triste y Solitario",
+      "url": "https://open.spotify.com/track/1SCETKwDlQs1uzymfwjKKp"
     },
     {
       "album": {
@@ -3248,6 +3306,32 @@
       "duration_ms": 205000,
       "name": "YO SOY TU MAESTRO - Remix",
       "url": "https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S"
+    },
+    {
+      "album": {
+        "name": "Zum Zum",
+        "url": "https://open.spotify.com/album/10b8bStXIQuBo76Mtb5rIp"
+      },
+      "artists": [
+        {
+          "name": "Tirri La Roca",
+          "url": "https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB"
+        },
+        {
+          "name": "Papu DJ",
+          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
+        },
+        {
+          "name": "Ciro deejay",
+          "url": "https://open.spotify.com/artist/0fA39HYLC2eZKcUwps0DAD"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Zum Zum",
+      "url": "https://open.spotify.com/track/2flPgnGSGMhh5CM2npJ7dL"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5463MYlHXHD"

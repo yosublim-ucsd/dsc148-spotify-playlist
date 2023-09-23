@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Love Transcends",
+        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
+      },
+      "artists": [
+        {
+          "name": "Jackie Venson",
+          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177178,
+      "name": "Always Free",
+      "url": "https://open.spotify.com/track/0vD4NlJVWTYE8rdj1UGsAt"
+    },
+    {
+      "album": {
         "name": "Any Way The Wind Blows",
         "url": "https://open.spotify.com/album/1uPRDVR48w703zWvbd0Jt5"
       },
@@ -77,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Best Of Times",
+        "url": "https://open.spotify.com/album/6bkOefhIbkWuboKf4nUnrM"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207533,
+      "name": "Best Of Times",
+      "url": "https://open.spotify.com/track/71Y2IwdmrmbMxB3Rq7fz4E"
+    },
+    {
+      "album": {
         "name": "Pearl River",
         "url": "https://open.spotify.com/album/52ap88GKN1tlssPoePQK0p"
       },
@@ -92,6 +128,24 @@
       "duration_ms": 248080,
       "name": "Big Mouth",
       "url": "https://open.spotify.com/track/5mCuc8RrujOdKaqQ5dH9so"
+    },
+    {
+      "album": {
+        "name": "High Voltage Blues",
+        "url": "https://open.spotify.com/album/0ieocMI2zlwYG0JcJUq6Ey"
+      },
+      "artists": [
+        {
+          "name": "Anthony Gomes",
+          "url": "https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213351,
+      "name": "Blues-a-fied",
+      "url": "https://open.spotify.com/track/0YIRYIx4Z0oJ5PF1DmqEFD"
     },
     {
       "album": {
@@ -1386,6 +1440,24 @@
       "duration_ms": 248706,
       "name": "Point of View",
       "url": "https://open.spotify.com/track/7xvRzWO7VuKSiQM1BWkEcs"
+    },
+    {
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227880,
+      "name": "Put That Back",
+      "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
     },
     {
       "album": {

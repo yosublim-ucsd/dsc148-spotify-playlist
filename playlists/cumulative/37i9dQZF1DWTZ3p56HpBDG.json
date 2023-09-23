@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of South Asian diaspora. Cover: Joy Crookes",
+  "description": "Best of South Asian diaspora. Cover: Danny Zee, Ali Zafar",
   "name": "No Borders",
   "tracks": [
     {
@@ -268,6 +268,28 @@
       "duration_ms": 227011,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/4paOi2D1A1pS5bPugSfUg7"
+    },
+    {
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/2QSnKAK5bBtLHtOqtmJbwC"
+      },
+      "artists": [
+        {
+          "name": "Muza",
+          "url": "https://open.spotify.com/artist/79jA5f2Sa3pgRT0ZTtYplo"
+        },
+        {
+          "name": "Mumzy Stranger",
+          "url": "https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241898,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/6bkSlqDEou4Juvkz4vivQ6"
     },
     {
       "album": {
@@ -2910,6 +2932,32 @@
       "duration_ms": 157016,
       "name": "Survive",
       "url": "https://open.spotify.com/track/4GandosKQX53ZXZ2UFsxiV"
+    },
+    {
+      "album": {
+        "name": "Sushi // Woofer Paar De! (feat. Mykko Montana)",
+        "url": "https://open.spotify.com/album/63aWGpSQIQrf4tV7yfQwHD"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        },
+        {
+          "name": "Danny Zee",
+          "url": "https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP"
+        },
+        {
+          "name": "Mykko Montana",
+          "url": "https://open.spotify.com/artist/0xOtJ5JY4Urje1oVlMd3aS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127384,
+      "name": "Sushi // Woofer Paar De! (feat. Mykko Montana)",
+      "url": "https://open.spotify.com/track/2K82VcYXD0fzFfLhYadvCC"
     },
     {
       "album": {

@@ -850,7 +850,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 138688,
       "name": "CAIXA DE PANDORA",
       "url": "https://open.spotify.com/track/6ZaUGENItZhXBsNh3AVg2C"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 181714,
       "name": "Celine (Vestidin)",
       "url": "https://open.spotify.com/track/2nzcvQ0FFdGvhQHVqtveix"
@@ -1652,7 +1652,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 150581,
       "name": "Drip",
       "url": "https://open.spotify.com/track/4Rpz7ah9UAfR25jINdTIcm"
@@ -3857,6 +3857,40 @@
     },
     {
       "album": {
+        "name": "Paz Terr\u00edvel",
+        "url": "https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90"
+      },
+      "artists": [
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Neconbeat",
+          "url": "https://open.spotify.com/artist/0FbOZwBS2giL3NOXLUoLQu"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Meu Brilho",
+      "url": "https://open.spotify.com/track/3ThkfldstULJpfvErgZFya"
+    },
+    {
+      "album": {
         "name": "Meu Carro na Pista",
         "url": "https://open.spotify.com/album/2v9St64Ky2ag2jZ5JLgPZV"
       },
@@ -3924,6 +3958,28 @@
       "duration_ms": 200314,
       "name": "Mimos",
       "url": "https://open.spotify.com/track/5zSJYov8aD46ZzSWI9esQo"
+    },
+    {
+      "album": {
+        "name": "Apesar De Voc\u00ea (Mixtape)",
+        "url": "https://open.spotify.com/album/4hEwNsdQMT8r1ue2X4KMDX"
+      },
+      "artists": [
+        {
+          "name": "Delatorvi",
+          "url": "https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "Minha Hist\u00f3ria (As Respostas)",
+      "url": "https://open.spotify.com/track/3KCozDZaYfEAved8Uofo1Y"
     },
     {
       "album": {
@@ -5221,6 +5277,36 @@
     },
     {
       "album": {
+        "name": "Puffer Size",
+        "url": "https://open.spotify.com/album/4UqyZsWRmyRhtwdOoTAsvt"
+      },
+      "artists": [
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142285,
+      "name": "Puffer Size",
+      "url": "https://open.spotify.com/track/70pCB1lFeN5KsNddfoV6Vd"
+    },
+    {
+      "album": {
         "name": "Quadriciclo",
         "url": "https://open.spotify.com/album/4HsEBX999Dg4OHYPAWULJC"
       },
@@ -5736,7 +5822,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 136072,
       "name": "Sereno",
       "url": "https://open.spotify.com/track/455DsXncSxfrW6LJJISdv4"
@@ -5848,6 +5934,24 @@
       "duration_ms": 136464,
       "name": "Superficial",
       "url": "https://open.spotify.com/track/6EOLDQz2rjwpZ2M5rApgH4"
+    },
+    {
+      "album": {
+        "name": "SHH",
+        "url": "https://open.spotify.com/album/6NhKR6U35pR28qAVdXTQi3"
+      },
+      "artists": [
+        {
+          "name": "Rudies Flacko",
+          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70286,
+      "name": "SUSTENTO TODA ESSA MARRA",
+      "url": "https://open.spotify.com/track/4VfDu8V77gvQIsmPcrHQvH"
     },
     {
       "album": {

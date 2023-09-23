@@ -4269,6 +4269,28 @@
     },
     {
       "album": {
+        "name": "What You Make It",
+        "url": "https://open.spotify.com/album/6oahNb5yQw1DEiLgbHJLFa"
+      },
+      "artists": [
+        {
+          "name": "Kinney",
+          "url": "https://open.spotify.com/artist/752jHHjQL6CzZuUVrGFtPv"
+        },
+        {
+          "name": "KOLARS",
+          "url": "https://open.spotify.com/artist/3tiDO34wzfyJdv8elYqKxj"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306734,
+      "name": "What You Make It",
+      "url": "https://open.spotify.com/track/7Cw5D0t79vvOCHjzGVaNSF"
+    },
+    {
+      "album": {
         "name": "It's A Southern Thing",
         "url": "https://open.spotify.com/album/4GhLVSMBnTsBqZStcVQOgq"
       },

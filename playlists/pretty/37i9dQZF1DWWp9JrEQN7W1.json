@@ -1,12 +1,12 @@
 {
   "description": "Something cute for baddies doing their hair and make-up. ",
-  "num_followers": 43746,
+  "num_followers": 44969,
   "original_name": "Getting Ready \ud83d\udc8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGIzYjlhNmFiYTRkZGM3ZGRkNTJlODUyODgxNWU0MjI0NDFmZWFi",
+  "snapshot_id": "MCxhZDEwY2YyMDMwZTYwYzFlZjMyMzI5OWE5NmZiNzg0Y2UxNGY1ZTZi",
   "tracks": [
     {
       "added_at": "2023-08-10 22:28:41",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-08-10 22:28:41",
       "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
+    },
+    {
+      "added_at": "2023-08-10 22:28:41",
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
-    },
-    {
-      "added_at": "2023-08-10 22:28:41",
-      "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
     },
     {
       "added_at": "2023-08-10 22:28:41",

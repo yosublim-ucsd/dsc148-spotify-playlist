@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー: AI
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,154 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,157 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 43 | [GULLIVER](https://open.spotify.com/track/5IuQ7mXHER8XCi4hQFJpJJ) | [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ), [Tomodachi](https://open.spotify.com/artist/10b7iI7HzdtxZgCfPovith) | [GULLIVER](https://open.spotify.com/album/2JdZnrIBWbOrz4wPYiHjO3) | 1:56 |
 | 44 | [AKANE](https://open.spotify.com/track/2ccOEhnfNr3nSaURTILBUY) | [Reichi](https://open.spotify.com/artist/5BQWK2wChHTnJKqmgR9D3D) | [AKANE](https://open.spotify.com/album/4vEyFBukqWydVhzP8wL9Dc) | 2:53 |
 | 45 | [New Moon](https://open.spotify.com/track/05gCLdUSYdCMoyu40MC5V0) | [BananaLemon](https://open.spotify.com/artist/3JKU6cvr3SESsNviVlNCZc) | [BESTY](https://open.spotify.com/album/0d3SQNjZ1hynZ14FQmWS3e) | 3:03 |
-| 46 | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/track/4KPJNptJJe00Jy3YBMXqe4) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/album/4YDaCT2bUZtIEaXhjAM100) | 3:14 |
+| 46 | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/track/5AVYMvMEZ0kFbuskjxTrsP) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [Neo Standard](https://open.spotify.com/album/6vXMlkcOS97nxv48Kl76MV) | 3:17 |
 | 47 | [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 |
 | 48 | [こんな夜更けは](https://open.spotify.com/track/5Gd5llvb4qm3o7DjQbjUqY) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Walking On Fire](https://open.spotify.com/album/2ESJy47cfp4oIvJWKGHIBz) | 3:51 |
 | 49 | [Wonder Woman](https://open.spotify.com/track/3irp6WdpBLseu6ENO00XEi) | [Namie Amuro](https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [Anna Tsuchiya](https://open.spotify.com/artist/1XTqQwcJw9D1bo0cuO8Oq2) | [Checkmate!](https://open.spotify.com/album/4NTDsMDwgwjJ8mRLVkpPpk) | 3:09 |
 | 50 | [Fighter](https://open.spotify.com/track/5IfISpdRTvRFKf8mGTJ0Z7) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F), [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [Fighter](https://open.spotify.com/album/2RXBuuFIINhwrOOkBQCaFJ) | 4:59 |
 
-Snapshot ID: `MCw0Njg2MTMzNDU5YWY3NGVmYTVjMDc1YjczZTFiOGRkMjEwYzAwYWQ4`
+Snapshot ID: `MCwzNTFmM2FhNDYzMWY0NjJiNTcwMzJhNTQ4OGUzZWY2ODgxOWNhYTJl`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-20",
-  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: Grupo Diez 4tro",
+  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: Juanchito",
   "name": "New M\u00fasica Mexicana Albums",
   "tracks": [
     {
@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "C\u00e1psulas",
+        "url": "https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg"
+      },
+      "artists": [
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175933,
+      "name": "Dulce",
+      "url": "https://open.spotify.com/track/3TJIhl6GYJ0LtembWzTlJ1"
+    },
+    {
+      "album": {
         "name": "MS 20 A\u00f1os",
         "url": "https://open.spotify.com/album/2uvZN0xtan2MRzQ81NYMhj"
       },
@@ -1076,6 +1094,28 @@
       "duration_ms": 221106,
       "name": "El Capataz - En Vivo",
       "url": "https://open.spotify.com/track/3OlVBCcVZ0T46DAJ16P0tM"
+    },
+    {
+      "album": {
+        "name": "Limbo (Con Mi Hermano)",
+        "url": "https://open.spotify.com/album/7azWeMopMTqNlUXiSZCcIc"
+      },
+      "artists": [
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        },
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228706,
+      "name": "El Chamaquito",
+      "url": "https://open.spotify.com/track/5I4uZ35YT4S350qFqpmohK"
     },
     {
       "album": {
@@ -1668,6 +1708,24 @@
       "duration_ms": 147781,
       "name": "Gente Corriente - En Vivo",
       "url": "https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa"
+    },
+    {
+      "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133261,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc"
     },
     {
       "album": {
@@ -2653,6 +2711,24 @@
     },
     {
       "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190848,
+      "name": "Motivos",
+      "url": "https://open.spotify.com/track/1hqmf2KAa5PaHgQhOEctZd"
+    },
+    {
+      "album": {
         "name": "CHSM El Higado!",
         "url": "https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB"
       },
@@ -2690,6 +2766,24 @@
       "duration_ms": 199489,
       "name": "Mujeres Divinas",
       "url": "https://open.spotify.com/track/1aonRnI6HP31i30Gcbsuj6"
+    },
+    {
+      "album": {
+        "name": "Limbo (Con Mi Hermano)",
+        "url": "https://open.spotify.com/album/7azWeMopMTqNlUXiSZCcIc"
+      },
+      "artists": [
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245666,
+      "name": "Mundo De Marfil",
+      "url": "https://open.spotify.com/track/3esEg8OKVi1RFQpW5z24sW"
     },
     {
       "album": {
@@ -2744,6 +2838,24 @@
       "duration_ms": 153320,
       "name": "Nac\u00ed Solo",
       "url": "https://open.spotify.com/track/0MR7lmNAdZ1fiyoHn1An1C"
+    },
+    {
+      "album": {
+        "name": "Limbo (Con Mi Hermano)",
+        "url": "https://open.spotify.com/album/7azWeMopMTqNlUXiSZCcIc"
+      },
+      "artists": [
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241906,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/3EoE0boYGKM6ARZPYKKjSM"
     },
     {
       "album": {
@@ -2802,6 +2914,24 @@
       "duration_ms": 211520,
       "name": "Necesitas",
       "url": "https://open.spotify.com/track/1L86jKfoxJ9XBdEEMGtT06"
+    },
+    {
+      "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123013,
+      "name": "Nene Zambada",
+      "url": "https://open.spotify.com/track/3IVFOkEMepCHIAGnUjvWJg"
     },
     {
       "album": {
@@ -3837,6 +3967,28 @@
     },
     {
       "album": {
+        "name": "C\u00e1psulas",
+        "url": "https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg"
+      },
+      "artists": [
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190466,
+      "name": "T\u00fa Te Mereces",
+      "url": "https://open.spotify.com/track/0jSCU4pckTESxGEzNu2Zz0"
+    },
+    {
+      "album": {
         "name": "Amor De Lejos",
         "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
       },
@@ -4034,6 +4186,24 @@
       "duration_ms": 162676,
       "name": "VVS",
       "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"
+    },
+    {
+      "album": {
+        "name": "C\u00e1psulas",
+        "url": "https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg"
+      },
+      "artists": [
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199426,
+      "name": "Y Hoy",
+      "url": "https://open.spotify.com/track/3kj9NO8joEef3AnBcqriCs"
     },
     {
       "album": {

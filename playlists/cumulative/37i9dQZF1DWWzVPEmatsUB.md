@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-373 songs - 22 hr 31 min
+374 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 | 2023-02-17 | 2023-07-05 |
 | [Angels In Science Fiction](https://open.spotify.com/track/6EDt6D43K1OewCZsGDZDku) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF) | 3:46 | 2023-04-21 |  |
 | [Any Way You Come \- Bonus Track](https://open.spotify.com/track/2Sn0qoBNjyQsbkrYOA2KB8) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell \(Deluxe\)](https://open.spotify.com/album/6tOEg8pBcr1IKImNngQHkc) | 3:25 | 2022-05-06 |  |
+| [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 | 2023-09-22 |  |
 | [Apparition](https://open.spotify.com/track/5xdfqTkWR6cUDURutACDhv) | [Blue Americans](https://open.spotify.com/artist/3opCzUejI73CIE2pZtKtKw) | [Apparition](https://open.spotify.com/album/3iztHG3O9JPbdH1hUIf4uu) | 3:53 | 2020-10-17 | 2022-04-21 |
 | [As Is](https://open.spotify.com/track/2ci45Uc8L6jCOPgjuas2C7) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [As Is](https://open.spotify.com/album/0yJ49iDzWq7qixm2jpGLbo) | 2:28 | 2023-03-10 | 2023-07-09 |
 | [As Is](https://open.spotify.com/track/3blffQRXJqDABPTWunKmEc) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [California Rain](https://open.spotify.com/album/1fo9JU2Wjx0meyd4i8kVXD) | 2:28 | 2023-03-10 | 2023-09-02 |
@@ -222,7 +223,7 @@
 | [Missing You Feels Right](https://open.spotify.com/track/0gEJwYN6aGOaPlAXxfGwDg) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Missing You Feels Right](https://open.spotify.com/album/0Pee6blyLwIG0DNI7kwY9S) | 3:15 | 2022-06-10 | 2023-09-03 |
 | [Missing You Feels Right](https://open.spotify.com/track/3t3aGS6XilzbV2g4olN8d4) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [FLIPSIDE](https://open.spotify.com/album/3lcndc4IH5pbNB1X8OyhV9) | 3:15 | 2023-09-01 |  |
 | [Mistake](https://open.spotify.com/track/3ahJC9bW7BCf6RvcCUFrFO) | [marc indigo](https://open.spotify.com/artist/5aNIaifrtVMQ2D9xNAaHbo) | [Mistake](https://open.spotify.com/album/1L7hOKqhIghHthPMuHkz4n) | 3:22 | 2020-10-17 | 2022-04-20 |
-| [Moderación \(Con Camilo\)](https://open.spotify.com/track/66eBZFnheqpOM16CCyA1HV) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Moderación \(Con Camilo\)](https://open.spotify.com/album/6MOmPtc8mFnVFjN8zDh6rD) | 3:19 | 2023-02-03 |  |
+| [Moderación \(Con Camilo\)](https://open.spotify.com/track/66eBZFnheqpOM16CCyA1HV) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Moderación \(Con Camilo\)](https://open.spotify.com/album/6MOmPtc8mFnVFjN8zDh6rD) | 3:19 | 2023-02-03 | 2023-09-23 |
 | [Moment](https://open.spotify.com/track/7hKTSydLsRENnTOqHiPVT0) | [Jay Warren](https://open.spotify.com/artist/692sqZdmqkQjdCk87QECpd) | [Moment](https://open.spotify.com/album/45eSjtBmN4SZsW3RB4RXUu) | 3:15 | 2020-10-17 | 2022-07-25 |
 | [Monday Comes Around \(Sleeping At Last Version\)](https://open.spotify.com/track/3HkohZNvcVBLXEr2t4z7TL) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 3:36 | 2023-09-15 |  |
 | [Money and Fools](https://open.spotify.com/track/5Dd3iLxJNlFnzsY8T8PW3a) | [Benny Walker](https://open.spotify.com/artist/7vkMTeJB89xakcCt1kaU0W) | [Chosen Line](https://open.spotify.com/album/1bT2pL7uhyDea49uNAV2W3) | 3:50 | 2021-07-26 | 2022-07-16 |

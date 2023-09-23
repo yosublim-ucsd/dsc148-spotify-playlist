@@ -2,9 +2,9 @@
 
 ### [Some Kinda Way](https://open.spotify.com/playlist/37i9dQZF1DWW78Y3ocEppf)
 
-> Let the songs speak\. Cover: Hylan Starr
+> Let the songs speak\. Cover: K\. Michelle
 
-558 songs - 1 day 5 hr 15 min
+560 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Effortless](https://open.spotify.com/track/6nKOZaeBQUEvLTJHQ2e6Ps) | [Upstrz](https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi) | [Effortless](https://open.spotify.com/album/64r0EJbn7mIVPUHCCbZAXS) | 3:14 | 2022-08-26 | 2022-10-15 |
 | [EGO](https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [EGO](https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc) | 2:29 | 2023-04-14 | 2023-07-29 |
 | [Ego](https://open.spotify.com/track/62uMO0yTFayaP492hqzlyL) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/1Hz5569Rl5Ui6OEtsW7cdi) | 5:50 | 2022-03-11 | 2022-07-25 |
+| [Either Way](https://open.spotify.com/track/3RS5YuY2AD0Fbz9VxLd9zj) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Either Way](https://open.spotify.com/album/3qnBJIsT0jCcTtRVAUMGTv) | 2:55 | 2023-09-22 |  |
 | [Element \(from Insecure: Music From The HBO Original Series, Season 4\)](https://open.spotify.com/track/1ePRRO0RaVPy2diUURqb3I) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [Element \(from Insecure: Music From The HBO Original Series, Season 4\)](https://open.spotify.com/album/3bm7Dxp8qvUKvbXyf06tcu) | 2:43 | 2021-12-15 | 2022-03-09 |
 | [emotional](https://open.spotify.com/track/1BMffJnuEsz31KwwSyjbQv) | [Zilo](https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz) | [KINDA HAPPY, KINDA SAD](https://open.spotify.com/album/3nOrmM1aN9RBB9vpwoSEzl) | 3:50 | 2022-09-02 | 2022-10-07 |
 | [Ex\-Factor](https://open.spotify.com/track/2XCTU3DJ9W6glWSkM2uQTS) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3) | 5:26 | 2021-12-15 | 2022-04-19 |
@@ -379,6 +380,7 @@
 | [Personal Baby](https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Personal Baby](https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd) | 2:53 | 2022-08-05 | 2022-12-10 |
 | [Pick A Side](https://open.spotify.com/track/5vXvD86WP93gFqrYrr93Q6) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Pick A Side](https://open.spotify.com/album/1xf8ut7calxvWuhLYyTrYK) | 3:12 | 2021-12-15 | 2022-06-23 |
 | [Pick A Side](https://open.spotify.com/track/7KRBMbHzWF4cwhWztWYUQ3) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Pick A Side](https://open.spotify.com/album/0ejO1G6PL8NPn35CXpnUPm) | 2:57 | 2021-12-15 | 2022-04-21 |
+| [Pick Up \(feat\. Jacquees and Fabolous\)](https://open.spotify.com/track/6fWbDYXfnAPJWfgzWrRaW0) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 4:07 | 2023-09-22 |  |
 | [Pick Up Your Feelings](https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Pick Up Your Feelings](https://open.spotify.com/album/1wsPNQ8DFxRYNQnCs0hMu7) | 3:52 | 2021-12-15 | 2022-12-03 |
 | [Pick Your Poison](https://open.spotify.com/track/3nzEMKTp0yRgKbskDDU1qj) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Grandmaster Vic](https://open.spotify.com/artist/6ntwG5UXVV6LCfXY2NbhuP) | [Before You Go](https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte) | 2:54 | 2022-04-29 | 2022-07-28 |
 | [pieces](https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:44 | 2022-08-05 | 2023-05-13 |
@@ -433,7 +435,7 @@
 | [Serial Fboy](https://open.spotify.com/track/0841LwMiMNMa6GGTBqfh7j) | [Asha Maclean](https://open.spotify.com/artist/4uo6Vevug3g8cZIDuyigcb) | [Serial Fboy](https://open.spotify.com/album/4VcIRSsRXAs7e1Xy9rxmaM) | 2:59 | 2021-12-15 | 2022-05-22 |
 | [Set Him Up \(feat\. Ari Lennox\)](https://open.spotify.com/track/0FhfNle9FovXRL03awCJbe) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Set Him Up \(feat\. Ari Lennox\)](https://open.spotify.com/album/6prRBHIVxS9oyvDmxS2nwa) | 3:42 | 2021-12-15 | 2022-07-24 |
 | [Set Up \(2017\)](https://open.spotify.com/track/1cWaT1NBz5pvNWTv4yFh2Y) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 2:06 | 2023-05-19 | 2023-07-13 |
-| [Sex & Empathy](https://open.spotify.com/track/5U0Gbz6YQl48Alts9Iqfnv) | [Lyfe Harris](https://open.spotify.com/artist/3056tgVkQYtDN8yWwAFmU2), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH) | [Sex & Empathy](https://open.spotify.com/album/3Tn9YalQNmNhbFJP7XpzJz) | 2:51 | 2023-07-21 |  |
+| [Sex & Empathy](https://open.spotify.com/track/5U0Gbz6YQl48Alts9Iqfnv) | [Lyfe Harris](https://open.spotify.com/artist/3056tgVkQYtDN8yWwAFmU2), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH) | [Sex & Empathy](https://open.spotify.com/album/3Tn9YalQNmNhbFJP7XpzJz) | 2:51 | 2023-07-21 | 2023-09-23 |
 | [Sex In The Porsche \(and PARTYNEXTDOOR\)](https://open.spotify.com/track/33RTe6MAxEno83JSdpObQr) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Sex In The Porsche \(and PARTYNEXTDOOR\)](https://open.spotify.com/album/0uHHoKJvLxf4gGRhyTUpjy) | 3:33 | 2022-12-16 | 2023-02-25 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-28 |  |
 | [Shoestring](https://open.spotify.com/track/0NEKQk8LR8m8gBNnG3QFzk) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Shoestring](https://open.spotify.com/album/5G6tyxzG08lXIfhMSHzxRH) | 3:58 | 2022-03-11 | 2022-07-21 |
@@ -527,7 +529,7 @@
 | [VICES](https://open.spotify.com/track/6XtaPHxQvhFn9p24f2tvRZ) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO](https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp) | 3:03 | 2022-07-15 | 2023-03-18 |
 | [Waste My Time](https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:43 | 2022-09-09 | 2023-04-09 |
 | [WASTE TIME](https://open.spotify.com/track/0pAV6EBJ5nBKbGfi3QpPtB) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:20 | 2022-07-15 | 2022-10-08 |
-| [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 | 2022-09-30 |  |
+| [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 | 2022-09-30 | 2023-09-23 |
 | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 | 2021-12-15 | 2022-08-06 |
 | [Watch It Grow \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/3rNreFbHZADxGFssb4Ohm1) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Long Story Short](https://open.spotify.com/album/7iiMaAnJoNNMFx79tcqyn2) | 2:46 | 2023-03-24 | 2023-05-25 |
 | [Waterfalls](https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Love Scars II](https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs) | 2:41 | 2023-04-14 |  |

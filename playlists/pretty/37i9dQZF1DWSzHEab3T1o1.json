@@ -1,12 +1,12 @@
 {
   "description": "El junte entre las estrellas del dance global y del urbano latino. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo",
-  "num_followers": 7526,
+  "num_followers": 7529,
   "original_name": "Global Dance Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDBjMjQwNzc3MjMwNjIyOThkNjU3MWI3MWU1MWVmNmM0NzRlYjBm",
+  "snapshot_id": "MCw1YWRiOTVlYTZiNzQ4NDVjNTE5MTVhMDU5ZmZkZjkxMjFkZWRiZmI1",
   "tracks": [
     {
       "added_at": "2021-12-31 04:31:13",
@@ -191,62 +191,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Music Is The Weapon (Reloaded)",
-        "url": "https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 169997,
-      "name": "Que Calor (feat. J Balvin & El Alfa)",
-      "url": "https://open.spotify.com/track/13HgktGt4RdYj0QmF1ELZO"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
-      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/7FTzcNdsKhMe53orWXsai8"
       },
@@ -287,6 +231,34 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/2Sq9AIsIrad2GygwB6QLPt"
       },
@@ -307,6 +279,34 @@
       "duration_ms": 198946,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/3MoV1UsAJmz64LHqyiRMp0"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Music Is The Weapon (Reloaded)",
+        "url": "https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 169997,
+      "name": "Que Calor (feat. J Balvin & El Alfa)",
+      "url": "https://open.spotify.com/track/13HgktGt4RdYj0QmF1ELZO"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -387,34 +387,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Free The Universe (Extended Version)",
-        "url": "https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        },
-        {
-          "name": "The Flexican",
-          "url": "https://open.spotify.com/artist/5Z3k52rtOTnOnvFHoKNHEN"
-        },
-        {
-          "name": "FS Green",
-          "url": "https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb"
-        }
-      ],
-      "duration_ms": 269146,
-      "name": "Watch Out For This (Bumaye)",
-      "url": "https://open.spotify.com/track/3j9o0zUoyGNXkijNSyRyBI"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Rockport Espacial",
         "url": "https://open.spotify.com/album/1RHKamkIrSEQAIUfsbYXvB"
       },
@@ -463,34 +435,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
-        "url": "https://open.spotify.com/album/0nfzbzXtyqNclDemdScFnT"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
-      "url": "https://open.spotify.com/track/7K5tOFxje8nlunmexOmWgo"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Boomshakalaka",
         "url": "https://open.spotify.com/album/2dO6HvLMmEFMuOLasVY9eC"
       },
@@ -519,6 +463,62 @@
       "duration_ms": 211920,
       "name": "Boomshakalaka",
       "url": "https://open.spotify.com/track/4yb5Z9dwnKhO9gC0AZQYDe"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
+        "url": "https://open.spotify.com/album/0nfzbzXtyqNclDemdScFnT"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
+      "url": "https://open.spotify.com/track/7K5tOFxje8nlunmexOmWgo"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Free The Universe (Extended Version)",
+        "url": "https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "The Flexican",
+          "url": "https://open.spotify.com/artist/5Z3k52rtOTnOnvFHoKNHEN"
+        },
+        {
+          "name": "FS Green",
+          "url": "https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb"
+        }
+      ],
+      "duration_ms": 269146,
+      "name": "Watch Out For This (Bumaye)",
+      "url": "https://open.spotify.com/track/3j9o0zUoyGNXkijNSyRyBI"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -591,22 +591,30 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/3nsJwTzE4qc9aOLEi6zMZN"
+        "name": "Do It!",
+        "url": "https://open.spotify.com/album/4lmWnKbt4wJ9KqFGnORsY2"
       },
       "artists": [
         {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
         },
         {
-          "name": "Juacko",
-          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
         }
       ],
-      "duration_ms": 251718,
-      "name": "Suavemente - Edm",
-      "url": "https://open.spotify.com/track/7rZem2rwrj9IbcDymBJX2L"
+      "duration_ms": 157444,
+      "name": "Do It! - Dimitri Vegas Radio Edit",
+      "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -627,6 +635,26 @@
       "duration_ms": 168648,
       "name": "Selfish Love (with Selena Gomez)",
       "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/3nsJwTzE4qc9aOLEi6zMZN"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "Juacko",
+          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
+        }
+      ],
+      "duration_ms": 251718,
+      "name": "Suavemente - Edm",
+      "url": "https://open.spotify.com/track/7rZem2rwrj9IbcDymBJX2L"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -671,34 +699,6 @@
       "duration_ms": 209820,
       "name": "Sexo",
       "url": "https://open.spotify.com/track/0j00zu3FKBWSu1Hyt2Ivcj"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Do It!",
-        "url": "https://open.spotify.com/album/4lmWnKbt4wJ9KqFGnORsY2"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        }
-      ],
-      "duration_ms": 157444,
-      "name": "Do It! - Dimitri Vegas Radio Edit",
-      "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
     },
     {
       "added_at": "2021-12-31 04:31:13",

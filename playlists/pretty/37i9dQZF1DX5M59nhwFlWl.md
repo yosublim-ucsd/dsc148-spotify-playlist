@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M59nhwFlWl.md) - [plain]
 
 > That unbridled, unholy, loud and dirty 90s rock goodness you know you love
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,678 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,785 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M59nhwFlWl.md) - [plain]
 | 26 | [All Over You](https://open.spotify.com/track/0sqE6XPi9VAaWl5NxDyMQK) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 3:59 |
 | 27 | [Touch, Peel And Stand](https://open.spotify.com/track/2eG7o3BfbzohiETArwsX1K) | [Days Of The New](https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t) | [Days Of The New](https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8) | 4:57 |
 | 28 | [Possum Kingdom](https://open.spotify.com/track/56SkdBKyR2zOkjk6wVFI9s) | [Toadies](https://open.spotify.com/artist/2QMMktUMtwMSwUZATX1cRO) | [Rubberneck](https://open.spotify.com/album/7tFTqVGHceSlXOaz8IylBN) | 5:08 |
-| 29 | [All Mixed Up](https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [311](https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU) | 2:59 |
-| 30 | [Comedown](https://open.spotify.com/track/2ox1STg6AbcEHoHWlFtFwr) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 5:26 |
+| 29 | [Comedown](https://open.spotify.com/track/2ox1STg6AbcEHoHWlFtFwr) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 5:26 |
+| 30 | [All Mixed Up](https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [311](https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU) | 2:59 |
 | 31 | [Low](https://open.spotify.com/track/6ctbCIikHbC6tSOL1rewQX) | [Cracker](https://open.spotify.com/artist/0ODQJS4mk7rVBJXjdqByX6) | [Kerosene Hat](https://open.spotify.com/album/1pM1BsMVd8CuEpgCwbqmFO) | 4:36 |
 | 32 | [Trippin' on a Hole in a Paper Heart](https://open.spotify.com/track/2gdtLnVGGg80Kj9GiqP0vH) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Tiny Music...Songs from the Vatican Gift Shop](https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe) | 2:55 |
 | 33 | [Hanginaround](https://open.spotify.com/track/0LWINYMC4s8QTdDSb1B3Q3) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [This Desert Life](https://open.spotify.com/album/60561o2TNguqnXD5ZurDup) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M59nhwFlWl.md) - [plain]
 | 49 | [Cut You In](https://open.spotify.com/track/0ecuZefr04QYl0cGpT53Nz) | [Jerry Cantrell](https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP) | [Boggy Depot](https://open.spotify.com/album/6AK1eIMwW1LxFNlqwiDED5) | 3:23 |
 | 50 | [Sheep Go To Heaven](https://open.spotify.com/track/4G8Eu3EDQZYhHPfJMFCv8V) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Prolonging the Magic](https://open.spotify.com/album/1vbpW28Od2ATmVyAZ0QZ3j) | 3:48 |
 
-Snapshot ID: `MCxmNmYzNWJlMzRmMDgyZDY0ZTZiMTJhMmQ0MDZlN2ZhODEzNTdiYjQy`
+Snapshot ID: `MCw1OTAwODczNjBmYzg3ZDBiYjMzMjVkYWU3MDI5MTZkMTFjZjdlMDg1`

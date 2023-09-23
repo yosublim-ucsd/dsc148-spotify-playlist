@@ -240,7 +240,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 243265,
-      "name": "Appudo Ippudo",
+      "name": "Apudo Ipudo",
       "url": "https://open.spotify.com/track/4KDq9bn0wdEbIFQDi1CGgj"
     },
     {
@@ -1886,8 +1886,12 @@
       },
       "artists": [
         {
-          "name": "Karthik, Sumangali",
-          "url": "https://open.spotify.com/artist/0E54odxP7aPA1Qzj1R75L3"
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Sumangaly",
+          "url": "https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX"
         }
       ],
       "date_added": "2023-08-30",

@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 21944,
+  "num_followers": 22016,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmJlYmI0YmU4NDc1YWVhM2JjMGVjYTI1YTE4OGQwZjJjZGRiOTli",
+  "snapshot_id": "MCw1YmIxZDI1ZmYwMGQyODQ0M2JmYTQ1ZmI4MDViMTY4YTRlMmQ5ZWJi",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Caldo",
-        "url": "https://open.spotify.com/album/3uafgFVSJQdrG4qmzaOMbk"
-      },
-      "artists": [
-        {
-          "name": "Ornella Vanoni",
-          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Poco Sole",
-      "url": "https://open.spotify.com/track/5BYIQOc3AOgmkcRXcMowfz"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "40 Grandi Successi",
         "url": "https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV"
       },
@@ -459,18 +443,18 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Stessa spiaggia stesso mare",
-        "url": "https://open.spotify.com/album/6G8ubrPkyF6iNFO5mCOUlK"
+        "name": "Caldo",
+        "url": "https://open.spotify.com/album/3uafgFVSJQdrG4qmzaOMbk"
       },
       "artists": [
         {
-          "name": "Piero Focaccia",
-          "url": "https://open.spotify.com/artist/0lJodOFdgKJsP8TWJlhVjK"
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
         }
       ],
-      "duration_ms": 180333,
-      "name": "Stessa spiaggia stesso mare",
-      "url": "https://open.spotify.com/track/30FSOhZMMbmbBvWHKO1zRH"
+      "duration_ms": 135000,
+      "name": "Poco Sole",
+      "url": "https://open.spotify.com/track/5BYIQOc3AOgmkcRXcMowfz"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -487,6 +471,22 @@
       "duration_ms": 179060,
       "name": "Tintarella di luna",
       "url": "https://open.spotify.com/track/11UYx9rpvK8RCEYhuvLHuH"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Stessa spiaggia stesso mare",
+        "url": "https://open.spotify.com/album/6G8ubrPkyF6iNFO5mCOUlK"
+      },
+      "artists": [
+        {
+          "name": "Piero Focaccia",
+          "url": "https://open.spotify.com/artist/0lJodOFdgKJsP8TWJlhVjK"
+        }
+      ],
+      "duration_ms": 180333,
+      "name": "Stessa spiaggia stesso mare",
+      "url": "https://open.spotify.com/track/30FSOhZMMbmbBvWHKO1zRH"
     },
     {
       "added_at": "2023-06-05 07:42:38",

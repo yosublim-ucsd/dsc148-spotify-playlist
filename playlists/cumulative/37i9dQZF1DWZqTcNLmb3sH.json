@@ -463,6 +463,36 @@
     },
     {
       "album": {
+        "name": "Aaradhipe (From \"Toby\")",
+        "url": "https://open.spotify.com/album/3dRZ2ZFqD9VnzO5S52ueME"
+      },
+      "artists": [
+        {
+          "name": "Midhun Mukundan",
+          "url": "https://open.spotify.com/artist/6oyTfygD0Skzy7RZOdUAZp"
+        },
+        {
+          "name": "Raj B Shetty",
+          "url": "https://open.spotify.com/artist/3iL3sjwDBgvwFfCpCguV6L"
+        },
+        {
+          "name": "Prithvi Antha",
+          "url": "https://open.spotify.com/artist/1VZqZOwtCKmOw0XUAMbjUN"
+        },
+        {
+          "name": "Siddhartha Belmannu",
+          "url": "https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Aaradhipe (From \"Toby\")",
+      "url": "https://open.spotify.com/track/77wUMQppODRuIMXZrnoD27"
+    },
+    {
+      "album": {
         "name": "Aasare (From \"Nimmellara Aashirvada \")",
         "url": "https://open.spotify.com/album/48MQ48TQGcCQclseDhEW5e"
       },
@@ -4968,7 +4998,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 251608,
       "name": "Dummare Dumma (From \"Skanda\")",
       "url": "https://open.spotify.com/track/1e5we3vLoPblqo4DMGncyy"
@@ -7670,7 +7700,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 247125,
       "name": "Hostel Hudugaru Protest Song",
       "url": "https://open.spotify.com/track/0EmwGgP7UAyWjtalVLdciE"
@@ -8410,6 +8440,24 @@
       "duration_ms": 200407,
       "name": "Jajaang Jaang",
       "url": "https://open.spotify.com/track/0ce8GZqOCoIjBjnHx2jI5p"
+    },
+    {
+      "album": {
+        "name": "Jana Jana Hodi Shiva (From \"Mangalavaaram\")",
+        "url": "https://open.spotify.com/album/6Cs82xDpzP0cvVl6lWpEmO"
+      },
+      "artists": [
+        {
+          "name": "V.M. Mahalingam",
+          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235312,
+      "name": "Jana Jana Hodi Shiva (From \"Mangalavaaram\")",
+      "url": "https://open.spotify.com/track/4DoZrVNR0Ko2Pp99MpfG76"
     },
     {
       "album": {
@@ -14821,6 +14869,32 @@
     },
     {
       "album": {
+        "name": "O Maaye (From \"Dvandva\")",
+        "url": "https://open.spotify.com/album/5Kli99ED9NGZYrZhXB4fNS"
+      },
+      "artists": [
+        {
+          "name": "Chandan Shetty",
+          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
+        },
+        {
+          "name": "Akash Parva",
+          "url": "https://open.spotify.com/artist/2LyrhBPTEuifocZjRarMW6"
+        },
+        {
+          "name": "Prathap s",
+          "url": "https://open.spotify.com/artist/2Hbu16ngEZhHp5c7IIU4Pm"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257920,
+      "name": "O Maaye (From \"Dvandva\")",
+      "url": "https://open.spotify.com/track/6Lp1E4RRJKlqfhR5MZYXYm"
+    },
+    {
+      "album": {
         "name": "Love Mocktail 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6MgIFfjFtKBjRcNRkxeHn6"
       },
@@ -15002,6 +15076,32 @@
       "duration_ms": 188339,
       "name": "Oga Oga (from \"Bad Manners\")",
       "url": "https://open.spotify.com/track/2AAD29MUJTPMbG6b0yrQNc"
+    },
+    {
+      "album": {
+        "name": "OGM (From \"Ghost\")",
+        "url": "https://open.spotify.com/album/1DejFzQ3uRdlJtWvqiIRD6"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "MC Chetan",
+          "url": "https://open.spotify.com/artist/6xVCfFjIqeehPyqll3aVNb"
+        },
+        {
+          "name": "Jithin Raj",
+          "url": "https://open.spotify.com/artist/2GkBjSH85M2uKGVtFL5eua"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165323,
+      "name": "OGM (From \"Ghost\")",
+      "url": "https://open.spotify.com/track/25T3o2LN7IV1mIXCt1FPbQ"
     },
     {
       "album": {
@@ -15994,7 +16094,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 183057,
       "name": "Pickle Song (From \"Aachar & Co.\")",
       "url": "https://open.spotify.com/track/7nOV1s0tvcnFwSnwjXMA9a"
@@ -16394,7 +16494,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 274105,
       "name": "Preethiya Besuge (From \"DAD - Devaraj Aliyas David\")",
       "url": "https://open.spotify.com/track/5x4Bvtqk7Xoo9Zd2Bsq58e"

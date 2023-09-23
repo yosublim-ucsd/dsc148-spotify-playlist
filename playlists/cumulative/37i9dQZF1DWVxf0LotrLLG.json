@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-18",
-  "description": "Descubre los nuevos \u00e1lbumes del a\u00f1o. Hit shuffle for a mixed listening experience. Cover: DEKKO",
+  "description": "Descubre los nuevos \u00e1lbumes del a\u00f1o. Hit shuffle for a mixed listening experience. Cover: Rawayana",
   "name": "New Latin Albums",
   "tracks": [
     {
@@ -500,6 +500,24 @@
       "duration_ms": 192000,
       "name": "Algo m\u00e1s",
       "url": "https://open.spotify.com/track/6FE1NAMYwkuNJDNPEZ8xez"
+    },
+    {
+      "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148819,
+      "name": "Alter Ego",
+      "url": "https://open.spotify.com/track/0k9IjYVHDTBKKbnVVmY6SQ"
     },
     {
       "album": {
@@ -1172,6 +1190,28 @@
       "duration_ms": 133977,
       "name": "BICHOTAG",
       "url": "https://open.spotify.com/track/5CQXesQM39J0CBnY0Npp6S"
+    },
+    {
+      "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175907,
+      "name": "Blam Blam",
+      "url": "https://open.spotify.com/track/6Yi0H0gVNT3fGPWn3ZVZ3a"
     },
     {
       "album": {
@@ -1856,6 +1896,28 @@
       "duration_ms": 163213,
       "name": "Conquistar El Planeta",
       "url": "https://open.spotify.com/track/0PnQyZ2269uNKZjiwwiF9C"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n trae las cornetas?",
+        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232993,
+      "name": "Consciencia",
+      "url": "https://open.spotify.com/track/36p09hSdfzUlnLf8Py0WRQ"
     },
     {
       "album": {
@@ -3041,6 +3103,24 @@
     },
     {
       "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142613,
+      "name": "El 17",
+      "url": "https://open.spotify.com/track/0VDQ1E8dcHrxPifCBE78S2"
+    },
+    {
+      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
@@ -3180,6 +3260,24 @@
       "duration_ms": 233290,
       "name": "El Gran Teatro",
       "url": "https://open.spotify.com/track/2n9rHWOVp9Dyy64MNPH3Sf"
+    },
+    {
+      "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164416,
+      "name": "El G\u00fcicho",
+      "url": "https://open.spotify.com/track/0jU8yUjdkIolONmi6mOwQP"
     },
     {
       "album": {
@@ -3340,6 +3438,28 @@
       "duration_ms": 187986,
       "name": "EL TONTO",
       "url": "https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E"
+    },
+    {
+      "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168125,
+      "name": "Ella Perrea",
+      "url": "https://open.spotify.com/track/6BGjArXcJnxm5Uyp0O7050"
     },
     {
       "album": {
@@ -3971,6 +4091,28 @@
     },
     {
       "album": {
+        "name": "El Bloke Hills",
+        "url": "https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162713,
+      "name": "Gafas Pal Sol",
+      "url": "https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep"
+    },
+    {
+      "album": {
         "name": "Aqua di Emma",
         "url": "https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU"
       },
@@ -4008,6 +4150,24 @@
       "duration_ms": 197374,
       "name": "Gladiador - Remix",
       "url": "https://open.spotify.com/track/1IbYD5V9zCvkPfIPcWqerO"
+    },
+    {
+      "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133261,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc"
     },
     {
       "album": {
@@ -4258,6 +4418,28 @@
       "duration_ms": 170682,
       "name": "hookah envenena",
       "url": "https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU"
+    },
+    {
+      "album": {
+        "name": "Hora Loca",
+        "url": "https://open.spotify.com/album/5L7vepCGsq5Ji84DPEDjP8"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191825,
+      "name": "Hora Loca",
+      "url": "https://open.spotify.com/track/5vgwmo15qa4jKLFW726iaF"
     },
     {
       "album": {
@@ -6407,6 +6589,28 @@
     },
     {
       "album": {
+        "name": "\u00bfQui\u00e9n trae las cornetas?",
+        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203898,
+      "name": "Nada Malo",
+      "url": "https://open.spotify.com/track/4I1qopX9knBHznBLKZpAUi"
+    },
+    {
+      "album": {
         "name": "Los Due\u00f1os De La Playa",
         "url": "https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp"
       },
@@ -8231,6 +8435,24 @@
     },
     {
       "album": {
+        "name": "El Bloke Hills",
+        "url": "https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Reggaeton Drugs",
+      "url": "https://open.spotify.com/track/04YIYmjQ0GeIq7QMsmdor0"
+    },
+    {
+      "album": {
         "name": "rimas del verbo amar",
         "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
       },
@@ -8406,6 +8628,28 @@
       "duration_ms": 212937,
       "name": "saboteo",
       "url": "https://open.spotify.com/track/0UNRC3pzUcGrKyftM2Fvzv"
+    },
+    {
+      "album": {
+        "name": "El Bloke Hills",
+        "url": "https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210130,
+      "name": "Sad Gang (Versi\u00f3n Reggaet\u00f3n)",
+      "url": "https://open.spotify.com/track/2XkAudwRY3mHW3MGMT61AA"
     },
     {
       "album": {

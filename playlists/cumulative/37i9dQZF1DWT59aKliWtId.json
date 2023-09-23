@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The highest quality alternative blend ft. Shakey Graves",
+  "description": "The highest quality alternative blend ft. The National",
   "name": "Grade A",
   "tracks": [
     {
@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 212333,
       "name": "Bug Like an Angel",
       "url": "https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE"
@@ -2605,6 +2605,24 @@
     },
     {
       "album": {
+        "name": "Damn That Frequency",
+        "url": "https://open.spotify.com/album/7a5dIBCEoHiyjbd7H81eMz"
+      },
+      "artists": [
+        {
+          "name": "Dhani Harrison",
+          "url": "https://open.spotify.com/artist/0BNG5EOWoNlIE1Q1c4L0Kh"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315395,
+      "name": "Damn That Frequency",
+      "url": "https://open.spotify.com/track/3Dq4DtnxHqAAf5Eezo0xbL"
+    },
+    {
+      "album": {
         "name": "Dance Around It",
         "url": "https://open.spotify.com/album/3Ee65K1Z40p7NYMdZnH2bh"
       },
@@ -3260,7 +3278,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 145093,
       "name": "Dummy",
       "url": "https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM"
@@ -3350,7 +3368,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 243946,
       "name": "Eat Your Young",
       "url": "https://open.spotify.com/track/2SXx7Ofa79CeJfio98aJcG"
@@ -4468,6 +4486,24 @@
       "duration_ms": 270066,
       "name": "Francesca",
       "url": "https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270066,
+      "name": "Francesca",
+      "url": "https://open.spotify.com/track/6QnfsyzifAJJrNHYTO6j9J"
     },
     {
       "album": {
@@ -6752,7 +6788,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 213706,
       "name": "Inside Outside",
       "url": "https://open.spotify.com/track/1CZvp1wwxWHgSJfXg3awqB"
@@ -7268,7 +7304,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 201527,
       "name": "Kenneth - Edit",
       "url": "https://open.spotify.com/track/6hF2LOSFQjhi7OJ4qKl2eJ"
@@ -7542,6 +7578,28 @@
       "duration_ms": 222680,
       "name": "Las Vegas",
       "url": "https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ"
+    },
+    {
+      "album": {
+        "name": "Laugh Track",
+        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264120,
+      "name": "Laugh Track (feat. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/7aprF5ADDukD1JWHXG9h9z"
     },
     {
       "album": {
@@ -8480,7 +8538,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 279853,
       "name": "Malina",
       "url": "https://open.spotify.com/track/5UWTtkrcnVXqkjdes4fX0W"
@@ -9079,6 +9137,24 @@
     },
     {
       "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "album": {
         "name": "Nauseous",
         "url": "https://open.spotify.com/album/4BZPvHTAO5qsC2jViKnEmL"
       },
@@ -9382,7 +9458,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 159493,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/37jwU53srb7CnhdoUPjTEY"
@@ -11347,6 +11423,24 @@
     },
     {
       "album": {
+        "name": "Road to Joy (Dark-Side Mix)",
+        "url": "https://open.spotify.com/album/44tPe18SnjCJP1C8ETlAQo"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324143,
+      "name": "Road to Joy - Dark-Side Mix",
+      "url": "https://open.spotify.com/track/4Z1kj9ZVllnLFThFwiC81z"
+    },
+    {
+      "album": {
         "name": "This Is A Photograph",
         "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
@@ -12491,6 +12585,28 @@
     },
     {
       "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169467,
+      "name": "Spotless (feat. The Lumineers)",
+      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
+    },
+    {
+      "album": {
         "name": "Stand For Myself",
         "url": "https://open.spotify.com/album/0cQJAAGTwnKJCz4FKLmooz"
       },
@@ -12802,7 +12918,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 250362,
       "name": "Superglue",
       "url": "https://open.spotify.com/track/1WvyvGWoB0IprROWOnj711"
@@ -13336,7 +13452,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 267773,
       "name": "The Alcott (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
@@ -14530,7 +14646,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 275774,
       "name": "Uncle Mick\u2019s Fireworks Extravaganza",
       "url": "https://open.spotify.com/track/4N0MhaEbiLWJ4PEDIHyF7R"
@@ -14710,7 +14826,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 192127,
       "name": "Vampire Empire",
       "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
@@ -15098,6 +15214,24 @@
       "duration_ms": 216186,
       "name": "Wasted On You",
       "url": "https://open.spotify.com/track/4noOryuWV7YvgdDGvSRNqU"
+    },
+    {
+      "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/4JcEWdNgAifwRcjqLpTY5o"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173736,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/7qiMle24h8ZpMlM1MJz6bE"
     },
     {
       "album": {

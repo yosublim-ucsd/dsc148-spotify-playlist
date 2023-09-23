@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,791 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,884 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 68 | [Si No Fue Asi](https://open.spotify.com/track/1wdAd6JuFOaFfLbzNXPR0Y) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Si No Fue Asi](https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd) | 3:05 |
 | 69 | [DESPUES QUE TE PERDI](https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [DESPUES QUE TE PERDI](https://open.spotify.com/album/42WNwBmPUmwfEfU92jiLvn) | 4:07 |
 | 70 | [Parte de Mi \(feat\. Lit Killah\)](https://open.spotify.com/track/4OocfNloIRk77ncIKBdYwb) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Parte de Mi \(feat\. Lit Killah\)](https://open.spotify.com/album/4xkKYfcSKi3SgMdO7zi6Bo) | 3:14 |
-| 71 | [Roto](https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Roto](https://open.spotify.com/album/4t8ZGNfpheMeR1LtpPcFO3) | 3:28 |
-| 72 | [Champagne](https://open.spotify.com/track/42aeewG3eWoiBVPHL4uIXs) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Maraví](https://open.spotify.com/artist/7ywfcCHkPBdIZub9j62NBj) | [Champagne](https://open.spotify.com/album/1hyojpXhtJZN8owpOxZVkx) | 3:53 |
+| 71 | [Champagne](https://open.spotify.com/track/42aeewG3eWoiBVPHL4uIXs) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Maraví](https://open.spotify.com/artist/7ywfcCHkPBdIZub9j62NBj) | [Champagne](https://open.spotify.com/album/1hyojpXhtJZN8owpOxZVkx) | 3:53 |
+| 72 | [Roto](https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Roto](https://open.spotify.com/album/4t8ZGNfpheMeR1LtpPcFO3) | 3:28 |
 | 73 | [LA PRIMERA VEZ](https://open.spotify.com/track/4ycnpTN1gmqOfxkLfBNbWB) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [MORDIENDO EL BOZAL](https://open.spotify.com/album/7KRqDXbyy0b6EVhpydNQ5w) | 3:17 |
 | 74 | [Digame Usted](https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Digame Usted](https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF) | 2:21 |
 | 75 | [C14TORCE IV](https://open.spotify.com/track/2rSjMzTh9CPqaFMQMZJy0s) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [C14TORCE IV](https://open.spotify.com/album/4VYevg4fdLHmRiEvDtRIEY) | 2:53 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 83 | [Lágrimas](https://open.spotify.com/track/6lqAPHFWOM0m6n6yHJxryB) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [OCTO](https://open.spotify.com/artist/4qTVjRDcIgtpss2ahiRPuw) | [Lágrimas](https://open.spotify.com/album/1ohao2KDQwLkTR3shBAQKi) | 2:45 |
 | 84 | [Slow](https://open.spotify.com/track/1x1KnF1LOtTQMZbI3XntnQ) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [KYOTTO](https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd) | [Slow](https://open.spotify.com/album/2k12JOTXBLjRdIeFSskitG) | 4:31 |
 | 85 | [Sábanas Anónimas](https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Por Si Mañana](https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0) | 3:07 |
-| 86 | [Me Gusta](https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Me Gusta](https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42) | 2:38 |
-| 87 | [Estrellas](https://open.spotify.com/track/0lEhCYREsnlzPTDFVWgSCv) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Estrellas](https://open.spotify.com/album/0bO3g7DlawvGhpl4jpRU06) | 3:06 |
+| 86 | [Estrellas](https://open.spotify.com/track/0lEhCYREsnlzPTDFVWgSCv) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Estrellas](https://open.spotify.com/album/0bO3g7DlawvGhpl4jpRU06) | 3:06 |
+| 87 | [Me Gusta](https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Me Gusta](https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42) | 2:38 |
 | 88 | [TU CINTURA](https://open.spotify.com/track/35rGCxanzxooL6R32BuMu6) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [PUNKDEMIA](https://open.spotify.com/album/0XMJsTzaZzW3AaztVZbb6f) | 4:05 |
 | 89 | [Pa Mi](https://open.spotify.com/track/5m8hIduzkrvf191VO9CQu4) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78) | [Pa Mi](https://open.spotify.com/album/5sP1lpFKLvJuO5egElrW9K) | 3:48 |
 | 90 | [CARAMELOS](https://open.spotify.com/track/4gC0DGimATZgd8lZW4n0aR) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy) | [CARAMELOS](https://open.spotify.com/album/3xfXp5kKVbWTMvO7bmOGWQ) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [Calle 2 \- Remix](https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Coscu](https://open.spotify.com/artist/1zRCMyk3hHYkMScpzvIVQm) | [Calle 2 \(Remix\)](https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07) | 3:42 |
 | 100 | [Mi Llamada](https://open.spotify.com/track/7KOjAgKGwAlmzSqnDHvkfE) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Lenny Taváres](https://open.spotify.com/artist/3fjQrf2I2ARKPtokE52RlM) | [Mi Llamada](https://open.spotify.com/album/6hGMmjLQGdQpnGPIk2UGO2) | 4:15 |
 
-Snapshot ID: `MCwzNzEzODhiMjA0ZjViYTk4ODdlNThiYWY3YmU1NTg3OTdmNTRkNzUw`
+Snapshot ID: `MCwzZjNjYzFhYTgyZThhMjA1M2FjZWM4ZjVjOWI2MjQ4YmE0YTY4OTNi`

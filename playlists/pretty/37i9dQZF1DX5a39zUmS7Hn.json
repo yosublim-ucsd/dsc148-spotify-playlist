@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: The Rolling Stones",
-  "num_followers": 413340,
+  "num_followers": 413522,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGZhMTAxMzE0NDk3ZTEwYjBmZmVhMTg5MDBhNjA1YTA3MjdlYTlk",
+  "snapshot_id": "MCwxODhiNjI2NjU4ODc3MTFjZjJmNGFhODJmNDU3MDI2YzhlZTA3YjI3",
   "tracks": [
     {
       "added_at": "2023-09-19 10:30:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-09-19 10:30:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 199342,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
-    },
-    {
-      "added_at": "2023-09-19 10:30:00",
-      "album": {
         "name": "Little Queen",
         "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 261933,
       "name": "Barracuda",
       "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
+    },
+    {
+      "added_at": "2023-09-19 10:30:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 199342,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
     },
     {
       "added_at": "2023-09-19 10:30:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-09-19 10:30:00",
       "album": {
-        "name": "Parklife (Special Edition)",
-        "url": "https://open.spotify.com/album/0DBkFC6739trhCoVreZyds"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Parklife - 2012 Remaster",
-      "url": "https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c"
-    },
-    {
-      "added_at": "2023-09-19 10:30:00",
-      "album": {
         "name": "Speak & Spell (2006 Remaster)",
         "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 222760,
       "name": "Just Can't Get Enough - 2006 Remaster",
       "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+    },
+    {
+      "added_at": "2023-09-19 10:30:00",
+      "album": {
+        "name": "Parklife (Special Edition)",
+        "url": "https://open.spotify.com/album/0DBkFC6739trhCoVreZyds"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Parklife - 2012 Remaster",
+      "url": "https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c"
     },
     {
       "added_at": "2023-09-19 10:30:00",

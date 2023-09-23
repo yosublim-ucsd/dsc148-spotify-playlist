@@ -210,7 +210,7 @@
           "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
         },
         {
-          "name": "Pardhaan",
+          "name": "PARDHAAN",
           "url": "https://open.spotify.com/artist/06sVoZgq2NIPNoWgggu8Vq"
         }
       ],
@@ -1088,6 +1088,24 @@
       "duration_ms": 207309,
       "name": "Baarishein",
       "url": "https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg"
+    },
+    {
+      "album": {
+        "name": "Baarishein",
+        "url": "https://open.spotify.com/album/2LeZ6oWQed5ewVUpyGJKDh"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207312,
+      "name": "Baarishein",
+      "url": "https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W"
     },
     {
       "album": {
@@ -2304,7 +2322,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 103264,
       "name": "Chaand Baaliyan",
       "url": "https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ"
@@ -2440,6 +2458,10 @@
         {
           "name": "Shilpa Rao",
           "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
         }
       ],
       "date_added": "2023-09-07",
@@ -4188,7 +4210,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 176232,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV"
@@ -7098,7 +7120,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 234722,
       "name": "Kaise Hua (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/1y1rQTkWmrZdJmjwuK07GC"
@@ -10576,6 +10598,10 @@
         {
           "name": "Shilpa Rao",
           "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
         }
       ],
       "date_added": "2023-09-10",

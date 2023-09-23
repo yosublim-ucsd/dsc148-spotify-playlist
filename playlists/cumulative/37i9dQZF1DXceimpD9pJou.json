@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones cristianas.  Foto: <a href=\"https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db?si=FtwW6NTFRWONZlSI--5snw\">Sion Naci\u00f3n Santa</a>",
+  "description": "Las mejores nuevas canciones cristianas.  Foto: <a href=\"spotify:artist:4jLWtcGrESS5YvRip2ATmL\">Niko Eme</a>",
   "name": "Novedades Cristianas",
   "tracks": [
     {
@@ -836,7 +836,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 239076,
       "name": "Al \u00danico & Jes\u00fas En El Centro",
       "url": "https://open.spotify.com/track/7k0txe5580p4JYBYl8hKXV"
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 167827,
       "name": "AMARILLO",
       "url": "https://open.spotify.com/track/6hU4Ee2ttvDY3ZAWImWsyv"
@@ -2715,6 +2715,28 @@
     },
     {
       "album": {
+        "name": "buen pastor",
+        "url": "https://open.spotify.com/album/6VARaF76F2B6tl0a8rSZCS"
+      },
+      "artists": [
+        {
+          "name": "PRISMA M\u00e1s Vida",
+          "url": "https://open.spotify.com/artist/2UHFb8SvTwloYRgoPz8umM"
+        },
+        {
+          "name": "Steven Richards",
+          "url": "https://open.spotify.com/artist/7nV5z8aBZuot66MlL143o4"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222430,
+      "name": "buen pastor",
+      "url": "https://open.spotify.com/track/0eJC8OXy9FgzgrT78YvIpR"
+    },
+    {
+      "album": {
         "name": "Buena Conducta",
         "url": "https://open.spotify.com/album/7Kk9Kf9LTNxHafMqol6dqT"
       },
@@ -3368,6 +3390,28 @@
       "duration_ms": 265173,
       "name": "Cerca",
       "url": "https://open.spotify.com/track/3858fxNSfJkH1NxN2ovEKh"
+    },
+    {
+      "album": {
+        "name": "CERO",
+        "url": "https://open.spotify.com/album/369EkiftlwvQ17tsBzm5FQ"
+      },
+      "artists": [
+        {
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        },
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "CERO",
+      "url": "https://open.spotify.com/track/7w6n2cGsn6Q4hIPDxHpAow"
     },
     {
       "album": {
@@ -4656,7 +4700,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 151791,
       "name": "Cuando el pueblo alaba a Dios / Ven esp\u00edritu divino",
       "url": "https://open.spotify.com/track/09xu8zlhiI8FDruP1ZziiU"
@@ -4770,6 +4814,24 @@
       "duration_ms": 462607,
       "name": "C\u00f3mo Te Amamos (feat. Karen Espinosa & Johnny Pe\u00f1a)",
       "url": "https://open.spotify.com/track/5QzMMnMmAKL82fpNdSIbG9"
+    },
+    {
+      "album": {
+        "name": "Buz\u00f3n de Voz",
+        "url": "https://open.spotify.com/album/5RyQDplYD8TDxYJPP6oVOl"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175008,
+      "name": "Dale Don",
+      "url": "https://open.spotify.com/track/11lZdZvubOvsHyJNiIR2ws"
     },
     {
       "album": {
@@ -5002,7 +5064,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 184917,
       "name": "De Camino",
       "url": "https://open.spotify.com/track/5xvTaOialdtRQYlQNE31W1"
@@ -7477,6 +7539,32 @@
     },
     {
       "album": {
+        "name": "En Tu Luz",
+        "url": "https://open.spotify.com/album/1bWAUo2uYM6X9jDhjn6x5q"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        },
+        {
+          "name": "Enrique Bremer",
+          "url": "https://open.spotify.com/artist/7qsRGFbPpZ353KE58HrLnP"
+        },
+        {
+          "name": "Anabel Zubillaga",
+          "url": "https://open.spotify.com/artist/4RxaKrP7A7sA8ueEtJQst7"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343792,
+      "name": "En Tu Luz",
+      "url": "https://open.spotify.com/track/07T6LB4Og4VcO2ldZ19rcv"
+    },
+    {
+      "album": {
         "name": "En Tu Nombre Cristo",
         "url": "https://open.spotify.com/album/2DrIOqLdzqBRchyBLWNtb9"
       },
@@ -8246,7 +8334,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 236571,
       "name": "Extraterrestre",
       "url": "https://open.spotify.com/track/4w3XNPj5NklCz4F2Fzmaiv"
@@ -9873,6 +9961,32 @@
     },
     {
       "album": {
+        "name": "Hay Libertad",
+        "url": "https://open.spotify.com/album/0moH7Y9un2ob37dZPjiJyT"
+      },
+      "artists": [
+        {
+          "name": "JUD\u00c1",
+          "url": "https://open.spotify.com/artist/0t9uXP0VN80kiUHiwzUmok"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 824205,
+      "name": "Hay Libertad",
+      "url": "https://open.spotify.com/track/7hhZ3fVksRqjoRDrAt3bM2"
+    },
+    {
+      "album": {
         "name": "Hay un hombre",
         "url": "https://open.spotify.com/album/4lp2PkekD2lN4POM1RGCHd"
       },
@@ -10394,7 +10508,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 212642,
       "name": "H\u00e1gase",
       "url": "https://open.spotify.com/track/7nQQsZhw7oXIyI4qz0EX3X"
@@ -10872,7 +10986,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 144135,
       "name": "Jesucristo Basta",
       "url": "https://open.spotify.com/track/02C6K03NjUElsH52R96HAf"
@@ -11156,7 +11270,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 498504,
       "name": "Kadosh",
       "url": "https://open.spotify.com/track/2N5FyNl3nWVhNqkTFvSVwR"
@@ -14123,6 +14237,24 @@
     },
     {
       "album": {
+        "name": "Mi Padre y Yo",
+        "url": "https://open.spotify.com/album/2ufF7rRfVoLTEk3Our8Eqg"
+      },
+      "artists": [
+        {
+          "name": "Emir Sensini",
+          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322071,
+      "name": "Mi Padre y Yo",
+      "url": "https://open.spotify.com/track/0rIVT1I8Ikcf4VpGIyGM6E"
+    },
+    {
+      "album": {
         "name": "Mi Plenitud",
         "url": "https://open.spotify.com/album/3rZ6WYcwB4uNPJgMHXEgAf"
       },
@@ -14414,6 +14546,24 @@
       "duration_ms": 195584,
       "name": "Milagro de Amor",
       "url": "https://open.spotify.com/track/4FkwzleyGqcBmEqrFZ8RKz"
+    },
+    {
+      "album": {
+        "name": "Milagroso // Lluvia Sanadora Cae",
+        "url": "https://open.spotify.com/album/4YvkizVKKPEgS7HiaKyqyE"
+      },
+      "artists": [
+        {
+          "name": "SioVera",
+          "url": "https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "Milagroso // Lluvia Sanadora Cae",
+      "url": "https://open.spotify.com/track/7diP5XgSpn8hEj0bwuuFBl"
     },
     {
       "album": {
@@ -16597,6 +16747,24 @@
     },
     {
       "album": {
+        "name": "Nos Toca A Nosotros",
+        "url": "https://open.spotify.com/album/7rrkOh5vjHo1V8Bibv4q4N"
+      },
+      "artists": [
+        {
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232329,
+      "name": "Pa' Hoy",
+      "url": "https://open.spotify.com/track/6lY0T0wj0iojiTPt7O45k6"
+    },
+    {
+      "album": {
         "name": "Pa' mi gente (Remix) [feat. Fern & Mod G]",
         "url": "https://open.spotify.com/album/6NcadtZrJbK8fuLBP1bZQT"
       },
@@ -17196,7 +17364,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 192696,
       "name": "Poder",
       "url": "https://open.spotify.com/track/1OZTQ2D9hd9JJaGkZRPlTN"
@@ -18685,6 +18853,24 @@
     },
     {
       "album": {
+        "name": "Restaurame",
+        "url": "https://open.spotify.com/album/1Wf70DQzr7E4UY14DXHrs4"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165005,
+      "name": "Restaurame",
+      "url": "https://open.spotify.com/track/2MaCdXfxbbzbTdseKEPviw"
+    },
+    {
+      "album": {
         "name": "Retumba",
         "url": "https://open.spotify.com/album/1SVObEggBQNTFiF8u1ocQD"
       },
@@ -18842,6 +19028,24 @@
       "duration_ms": 352702,
       "name": "Roca Firme",
       "url": "https://open.spotify.com/track/0szoXYidxdLMEiitSO1e3X"
+    },
+    {
+      "album": {
+        "name": "Roca Fuerte",
+        "url": "https://open.spotify.com/album/5EWM9PGXzuPGXiI89i4Yvp"
+      },
+      "artists": [
+        {
+          "name": "GaVriel",
+          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199798,
+      "name": "Roca Fuerte",
+      "url": "https://open.spotify.com/track/402xSEOwh41j6qLwPMeY8H"
     },
     {
       "album": {

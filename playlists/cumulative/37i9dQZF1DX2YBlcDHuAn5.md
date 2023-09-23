@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-103 songs - 6 hr 17 min
+104 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Closing Time](https://open.spotify.com/track/0CIfnjBJxhYbL69mU4K4yl) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl), [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Closing Time](https://open.spotify.com/album/75jo912nYXWzN6TY8bBFgO) | 3:22 | 2023-04-27 | 2023-05-13 |
 | [Colours](https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50) | [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [In The Morning, When We Rise](https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM) | 3:52 | 2023-02-23 | 2023-09-08 |
 | [Coyotes](https://open.spotify.com/track/3S0VPSpztymqIswSjQ8Pqm) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [Coyotes](https://open.spotify.com/album/678oZA2MpAcgLyFYKl0Bdy) | 4:56 | 2023-02-23 | 2023-03-18 |
+| [Dead End Street](https://open.spotify.com/track/2uu9JRbYg9IyjTvQoxG8zG) | [Femke](https://open.spotify.com/artist/5XEOJI2noMNu9v6f30cQ4w) | [Safe in the Suburbs](https://open.spotify.com/album/3OdmbPibKSXzidDbgvRsPi) | 2:58 | 2023-09-22 |  |
 | [Desire](https://open.spotify.com/track/5vuOY89Toj7pBC2YhLG8rX) | [Mattanja Joy Bradley](https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush) | [Desire](https://open.spotify.com/album/351qO6P8FcABXFsYPUfdDf) | 4:58 | 2023-02-23 | 2023-03-31 |
 | [DNA](https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [DNA](https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY) | 3:14 | 2023-09-07 |  |
 | [Dreamer](https://open.spotify.com/track/4YQubPuAYJpL7oXYCDvw0L) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Dreamer](https://open.spotify.com/album/1GKEaevMrPeFx6EbUkw9Sg) | 2:53 | 2023-02-23 | 2023-09-01 |
@@ -92,7 +93,7 @@
 | [The Way I Love You Now \- Bluefinger Version](https://open.spotify.com/track/5PSKr3GOMG58k5SoI2ebQo) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty) | [The Way I Love You Now](https://open.spotify.com/album/4AIG9wuEswkHUeQHcIZazL) | 4:09 | 2023-07-06 | 2023-09-08 |
 | [This Time](https://open.spotify.com/track/5PRvOCRtSq7bivvDlykZ2D) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/7cT12Vf8M9wtFZ9vAM7Now) | 3:48 | 2023-02-23 | 2023-09-10 |
 | [This World Is Our Home](https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [This World Is Our Home](https://open.spotify.com/album/1M1oZP4IZGIj4a4fG6JQny) | 2:53 | 2023-06-09 |  |
-| [Times](https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y) | [Marlayne](https://open.spotify.com/artist/4xjoVIB3eX5vHU3oz4BmBr), [Hans Vermeulen](https://open.spotify.com/artist/7kGe553AEMYjqXiGI8wIYD) | [Times](https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l) | 4:04 | 2023-09-21 |  |
+| [Times](https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y) | [Marlayne](https://open.spotify.com/artist/4xjoVIB3eX5vHU3oz4BmBr), [Hans Vermeulen](https://open.spotify.com/artist/7kGe553AEMYjqXiGI8wIYD) | [Times](https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l) | 4:04 | 2023-09-21 | 2023-09-23 |
 | [To The Darkness](https://open.spotify.com/track/1jFWYCpLlz6FqPOxSKIaZo) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [To The Darkness](https://open.spotify.com/album/5aJpNDqfKzEx66syRNqCr2) | 3:44 | 2023-06-15 | 2023-09-16 |
 | [Today I Started Loving You Again](https://open.spotify.com/track/0SUeDxIX7QXvA9uVkkYYWs) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x), [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR) | [Today I Started Loving You Again](https://open.spotify.com/album/6Q2DffHqnmTRIOW51TgQpP) | 2:36 | 2023-02-23 | 2023-04-29 |
 | [Today I Started Loving You Again](https://open.spotify.com/track/1mD2DWCvXN13LJBmRttH2I) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x), [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR) | [Down Every Road](https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf) | 2:36 | 2023-04-27 |  |

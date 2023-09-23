@@ -1,12 +1,12 @@
 {
   "description": "Throwing it back with these summer classics ",
-  "num_followers": 489638,
+  "num_followers": 489717,
   "original_name": "Summer Throwbacks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGU5Y2E5NzkyNWZhZmE5OTMyMDZhMjllYjk5YTQzYmQxNjEyYTJj",
+  "snapshot_id": "MCwwZDJlNTAyNjQ3ZjU0MzRkNTM4M2JkYThkODNjNmJiZGExY2I3MzQ3",
   "tracks": [
     {
       "added_at": "2023-07-25 01:06:37",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-07-25 01:06:37",
       "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+    },
+    {
+      "added_at": "2023-07-25 01:06:37",
+      "album": {
         "name": "Meet The Orphans",
         "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
-    },
-    {
-      "added_at": "2023-07-25 01:06:37",
-      "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2023-07-25 01:06:37",
@@ -1077,26 +1077,6 @@
       "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
     },
     {
-      "added_at": "2023-07-28 14:55:16",
-      "album": {
-        "name": "Hot Shot",
-        "url": "https://open.spotify.com/album/3MT88SSyxQGbqYXj4LVk3b"
-      },
-      "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
-          "name": "Rayvon",
-          "url": "https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN"
-        }
-      ],
-      "duration_ms": 235133,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/7FDV5ELOJHCGLe52AnttEd"
-    },
-    {
       "added_at": "2023-07-25 01:06:37",
       "album": {
         "name": "Cloud Nine",
@@ -1115,6 +1095,26 @@
       "duration_ms": 223186,
       "name": "Stole the Show",
       "url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"
+    },
+    {
+      "added_at": "2023-07-28 14:55:16",
+      "album": {
+        "name": "Hot Shot",
+        "url": "https://open.spotify.com/album/3MT88SSyxQGbqYXj4LVk3b"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Rayvon",
+          "url": "https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7FDV5ELOJHCGLe52AnttEd"
     },
     {
       "added_at": "2023-07-25 01:06:37",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2023-07-25 01:06:37",
       "album": {
-        "name": "Summer Of Love",
-        "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 184104,
-      "name": "Summer of Love (Shawn Mendes & Tainy)",
-      "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
-    },
-    {
-      "added_at": "2023-07-25 01:06:37",
-      "album": {
         "name": "China",
         "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
+    },
+    {
+      "added_at": "2023-07-25 01:06:37",
+      "album": {
+        "name": "Summer Of Love",
+        "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 184104,
+      "name": "Summer of Love (Shawn Mendes & Tainy)",
+      "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
     },
     {
       "added_at": "2023-07-25 01:06:37",

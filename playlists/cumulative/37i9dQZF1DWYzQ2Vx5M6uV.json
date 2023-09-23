@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Kizz Daniel & Becky G",
+  "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Feid & Rema",
   "name": "Afro Ritmo",
   "tracks": [
     {
@@ -322,6 +322,28 @@
       "duration_ms": 187782,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/0N83qk5axJe71xNDXeViFQ"
+    },
+    {
+      "album": {
+        "name": "BUBALU",
+        "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228253,
+      "name": "BUBALU",
+      "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
     },
     {
       "album": {
@@ -2054,7 +2076,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 211250,
       "name": "Rover (feat. Piso 21)",
       "url": "https://open.spotify.com/track/401WZ0HpjqSVtpCp6uVtij"

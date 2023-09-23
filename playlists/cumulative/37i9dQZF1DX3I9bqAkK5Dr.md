@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-151 songs - 9 hr 10 min
+152 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Ninne Ne Choosina Nimishana](https://open.spotify.com/track/6AxR54ZY7DawzNWrFhoptL) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L) | [Ninne Ne Choosina Nimishana](https://open.spotify.com/album/7vrGbY7lSIcTEN3lQsjTkP) | 4:19 | 2023-05-18 | 2023-05-26 |
 | [Noi](https://open.spotify.com/track/2dgzpgnsazXnZ6j1DrbjWU) | [Phani Kalyan](https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0) | [Noi](https://open.spotify.com/album/4NgYkaGqkrfceZDU9ZJM1V) | 4:45 | 2023-03-06 |  |
 | [Nuv Lenide](https://open.spotify.com/track/0Cz5N91JbdypWxGoQMCSLd) | [K S Harisankar](https://open.spotify.com/artist/5xChfd59lzEVrY85cCQHeU) | [Nuv Lenide](https://open.spotify.com/album/2YTVIdEEygqyJF969Va698) | 3:43 | 2022-07-18 | 2023-05-23 |
-| [Nuvve Kada Na Pranam](https://open.spotify.com/track/2qi73fWzCmtgf6ObJEvliy) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Nuvve Kada Na Pranam](https://open.spotify.com/album/5mBu2KuE00fe7FBxUKyXR2) | 3:50 | 2023-08-29 |  |
+| [Nuvve Kada Na Pranam](https://open.spotify.com/track/2qi73fWzCmtgf6ObJEvliy) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Nuvve Kada Na Pranam](https://open.spotify.com/album/5mBu2KuE00fe7FBxUKyXR2) | 3:50 | 2023-08-29 | 2023-09-23 |
 | [Nuvve Naa Lokam](https://open.spotify.com/track/7F1p60yC1Gb7De3omM8335) | [Pavan Kumar Harisomayajula](https://open.spotify.com/artist/1AATURikxHdk3SN6OEcF5l) | [Nuvve Naa Lokam](https://open.spotify.com/album/2kjrdeVEGpLxC4KIrQSxz6) | 4:27 | 2023-07-10 | 2023-07-25 |
 | [Nuvve Oka Sainyam](https://open.spotify.com/track/3BF1XYVHGSB1ijw3qDVwZ5) | [Sumanth Borra](https://open.spotify.com/artist/3hu79lSCu6pxnTG3Vfpuyz), [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb) | [Nuvve Oka Sainyam](https://open.spotify.com/album/6ypkqH11ztrhbFQXTDYoDP) | 2:31 | 2023-03-16 | 2023-05-26 |
 | [Nuvvele](https://open.spotify.com/track/3KAAehMv5l1x239SONwaDw) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Nee Kosam](https://open.spotify.com/album/65B5rk7dznh1ma7nV0H6DO) | 3:39 | 2023-06-27 | 2023-09-12 |
@@ -124,6 +124,7 @@
 | [Premalona](https://open.spotify.com/track/0o8t82I40o1YuJyLM2TTxV) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Premalona](https://open.spotify.com/album/08YLhIiDa8hIUDg7rJ4pal) | 1:31 | 2023-09-21 |  |
 | [Preme](https://open.spotify.com/track/4GN3kyhteAgfCPqcZYx6wV) | [Joseph Vijay](https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD) | [Preme](https://open.spotify.com/album/3xAIfUpFgshmPDO97ZwnNB) | 4:01 | 2023-09-08 |  |
 | [Priya](https://open.spotify.com/track/5EsYWuhhGZQEj1GZmxF4l3) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Priya](https://open.spotify.com/album/7gm0Xh4k3ax15aFHUuptGu) | 3:15 | 2023-06-26 | 2023-07-25 |
+| [Priya Priya](https://open.spotify.com/track/16cpJ0xgeanA767VKsu4MC) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk) | [Priya Priya](https://open.spotify.com/album/4MtmaOUM9dfMbcQi1qt4sE) | 4:37 | 2023-09-22 |  |
 | [Priyamvadha](https://open.spotify.com/track/2EGJx8mbYurKtFtu1JvPlZ) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Sandeep Kumar](https://open.spotify.com/artist/3LnFpfYe0DlcxsqVw0vJBW) | [Priyamvadha](https://open.spotify.com/album/6CpYGQNXbnaWwNcOmenKpr) | 3:30 | 2023-04-10 | 2023-06-06 |
 | [Raagalani](https://open.spotify.com/track/5ooUFuCNdvbD2LwHDjgzYZ) | [MC Hari](https://open.spotify.com/artist/5fAyRRV9ivuTIRFVpwzxF8), [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Raagalani](https://open.spotify.com/album/6p34UCvj2FvN01JaNxIIq1) | 2:38 | 2022-07-18 | 2023-06-21 |
 | [Raagni](https://open.spotify.com/track/1pwHudKnEvILcwRi8L47Uz) | [Sunitha Upadrasta](https://open.spotify.com/artist/3kAWPYJkfMsEY15eG83QrE) | [Raagni](https://open.spotify.com/album/0UT9YM7CiqpQK8SjwSJJ2M) | 3:24 | 2023-03-09 | 2023-05-23 |

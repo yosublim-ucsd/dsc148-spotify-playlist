@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Crooked Teeth",
+        "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227847,
+      "name": "Born For Greatness",
+      "url": "https://open.spotify.com/track/5NFXaR31k0gmII07w6OJIt"
+    },
+    {
+      "album": {
         "name": "boy",
         "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
       },
@@ -2298,7 +2316,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 169655,
       "name": "Life's Coming in Slow - from GRAN TURISMO 7",
       "url": "https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj"

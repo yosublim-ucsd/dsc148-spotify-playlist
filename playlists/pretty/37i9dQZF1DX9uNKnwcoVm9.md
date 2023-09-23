@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,917 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,088 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,12 +72,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 62 | [El No Pereció](https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [En Las Alas Del Amor](https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI) | 4:20 |
 | 63 | [Simplemente Gracias](https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 5:25 |
 | 64 | [Donde Tú estás](https://open.spotify.com/track/4hvmopV4wO0CTe9DgicOOF) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b), [Rebeca Zamorano](https://open.spotify.com/artist/0VYpDFB2cAlvfacFCFvADL) | [Gloria sea a ti](https://open.spotify.com/album/2Iyng7Y20EuZ1VSOafcnPg) | 8:54 |
-| 65 | [Por el poder de tu amor \(The power of your Love\)](https://open.spotify.com/track/3euqm8P1Mye2BiCEtjwFbT) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Inquebrantable](https://open.spotify.com/album/4tsFZXkN7eXwhY4ujk6C3u) | 5:29 |
+| 65 | [Por el Sueño De Dios](https://open.spotify.com/track/1hKVju5eLUkPkYFVYh7hkR) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Dios Lo Hará Otra Vez](https://open.spotify.com/album/1qu2wAOiIGzTCcS5Dad9jI) | 4:30 |
 | 66 | [Yo Quiero Estar Donde Tu Estás](https://open.spotify.com/track/4yHpEcaH1WLJ2e6MlMXZXd) | [Palabra en Acción](https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw), [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Santo Es El Señor](https://open.spotify.com/album/6o1JXibPpTx6TwbsmqkfSS) | 5:05 |
 | 67 | [La Ultima Palabra](https://open.spotify.com/track/5sZZC9Dx3erwSmle0ncMJw) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Vivo para Ti](https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ) | 4:23 |
 | 68 | [Te Vi Llegar](https://open.spotify.com/track/5axhzyUPdFRhf2xBL00Ira) | [Gadiel Espinoza](https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6) | [Al Que Vive](https://open.spotify.com/album/0EnsJ3Ctbamkhj0rOVtAhQ) | 4:26 |
 | 69 | [Roca eterna](https://open.spotify.com/track/6XQmgFgA5ERwrgbmb7iUx3) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP) | 4:55 |
-| 70 | [Por el Sueño De Dios](https://open.spotify.com/track/1hKVju5eLUkPkYFVYh7hkR) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Dios Lo Hará Otra Vez](https://open.spotify.com/album/1qu2wAOiIGzTCcS5Dad9jI) | 4:30 |
+| 70 | [Por el poder de tu amor \(The power of your Love\)](https://open.spotify.com/track/3euqm8P1Mye2BiCEtjwFbT) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Inquebrantable](https://open.spotify.com/album/4tsFZXkN7eXwhY4ujk6C3u) | 5:29 |
 | 71 | [Siempre Más](https://open.spotify.com/track/2x4DbDfgF8WRrbKC1ieyCk) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Más Que Suficiente](https://open.spotify.com/album/10MAZP2R3fsjRzpdZ2Gatm) | 5:52 |
 | 72 | [¿De Quién Temeré? \(Dios De Ejércitos\)](https://open.spotify.com/track/60J9n7mYcPsunOxSJGjSqW) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Me Vistió De Promesas](https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp) | 4:19 |
 | 73 | [No Basta](https://open.spotify.com/track/0x5bPI62nRetHyUiPykJwK) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Hoy Más Que Ayer](https://open.spotify.com/album/7HgsN9Iac7wiBz4TsucSBw) | 3:50 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 92 | [Anciano de Días \- Live](https://open.spotify.com/track/4QNG4X8Kph67GRGZC5TnAu) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Anhelo Conocerte](https://open.spotify.com/album/0N3Fy6ufUY6nS0q82SpDFu) | 6:37 |
 | 93 | [Llena Este Lugar](https://open.spotify.com/track/2mOaRojOOLqKh4nnpcE6qL) | [Joan Sanchez](https://open.spotify.com/artist/5iWIrC7cCdB1YEfIn15ONZ), [RPBand](https://open.spotify.com/artist/2iF6pJUq2ukNP5AP2YfAY3) | [Llena Este Lugar](https://open.spotify.com/album/6LYfjLkiy8qNTibTf4klao) | 6:10 |
 | 94 | [Tengo Sed De Ti](https://open.spotify.com/track/40cVQj7FN9WmRCcNGcetZn) | [Tony Pérez](https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ) | [He Visto Su Gloria](https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6) | 7:27 |
-| 95 | [Mi confianza está en ti \(remix\)](https://open.spotify.com/track/1Qn5cNivk7VRHKFgDAOBsN) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Mi confianza está en ti \(remix\)](https://open.spotify.com/album/4P70uBMLI7M22FKLIVZU96) | 5:33 |
-| 96 | [De Lo Más Profundo](https://open.spotify.com/track/2YlJSBmdJcGmWAda2m5moL) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1) | 7:45 |
+| 95 | [De Lo Más Profundo](https://open.spotify.com/track/2YlJSBmdJcGmWAda2m5moL) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1) | 7:45 |
+| 96 | [Mi confianza está en ti \(remix\)](https://open.spotify.com/track/1Qn5cNivk7VRHKFgDAOBsN) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Mi confianza está en ti \(remix\)](https://open.spotify.com/album/4P70uBMLI7M22FKLIVZU96) | 5:33 |
 | 97 | [Tu Voluntad](https://open.spotify.com/track/1bkekelOajuDH9SxvazW6G) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Tu Voluntad](https://open.spotify.com/album/5K6pp3sMIXMxkzYcQDJ6yU) | 6:27 |
 | 98 | [Parece un Sueno](https://open.spotify.com/track/7LYLheF1lgAicmSeugSFR7) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [El Mejor Regalo](https://open.spotify.com/album/5GWkPY9tYCZXLHswGzo0ZR) | 3:54 |
 | 99 | [Tu Corazón](https://open.spotify.com/track/214zEfKabCRcGKrMuQZRTi) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz) | [Tu Corazón](https://open.spotify.com/album/2dwTkrBFDyCq2uOCN7wg2E) | 4:04 |
 | 100 | [Escondido en Èl \- Spanish](https://open.spotify.com/track/5j7zEOjg0ySSGK5R3aSS3s) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Perdido en Tu Amor](https://open.spotify.com/album/0A92FA4s4a4jM7GuBqVE5F) | 4:57 |
 
-Snapshot ID: `MCxhN2Y0OWFiYzVjNWYzMjM2MTRlNTAwNDA4NjViYjdiMjIwNzUyYjAw`
+Snapshot ID: `MCw2N2MxODljMGZmMTA3ZDUwZjM1NjM2NzVkNDJmYzEwNjhjNmE1ZmFh`

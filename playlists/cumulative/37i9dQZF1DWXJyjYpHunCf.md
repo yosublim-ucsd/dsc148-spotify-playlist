@@ -2,9 +2,9 @@
 
 ### [Folk Pop](https://open.spotify.com/playlist/37i9dQZF1DWXJyjYpHunCf)
 
-> The best of folk\-infused pop and singer\-songwriter\. Cover: Noah Kahan
+> The best of folk\-infused pop and singer\-songwriter\. Cover: David Kushner
 
-300 songs - 17 hr 16 min
+303 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Crazy World \(Judgement Day\)](https://open.spotify.com/track/3Iwy2ykCDExY2Z50JZtcxe) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Crazy World \(Judgement Day\)](https://open.spotify.com/album/5T3DJdl6IBDiVFpHtOJRt0) | 4:40 | 2021-11-12 | 2022-07-27 |
 | [Dance All Over Me](https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:14 | 2022-08-19 |  |
 | [DANDELION](https://open.spotify.com/track/5eMzR6D1oiZd6uPbYijJVs) | [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [DANDELION](https://open.spotify.com/album/4C3Okl0eCT7wBlHWHB6ett) | 3:03 | 2021-11-12 | 2022-07-29 |
+| [Dead Man](https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man](https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY) | 4:34 | 2023-09-22 |  |
 | [Devastating](https://open.spotify.com/track/6ZCrjDxawDuN5CA2Wv5lQw) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Devastating](https://open.spotify.com/album/0Um7o0i84H6WIdYJPbMSAQ) | 4:23 | 2021-11-12 | 2022-07-29 |
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-06-16 | 2023-07-29 |
 | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe) | 3:33 | 2023-07-21 |  |
@@ -85,7 +86,7 @@
 | [Don't Be a Stranger \(feat\. Cam\) \- Acoustic Version](https://open.spotify.com/track/7jXAuEBIcb3nqRewoSzdxo) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Don't Be a Stranger \(feat\. Cam\) \[Acoustic Version\]](https://open.spotify.com/album/2TYrhUq7pwAXq41k1wl2zU) | 3:21 | 2021-11-12 | 2022-07-29 |
 | [Don't Say](https://open.spotify.com/track/2kCQe2koRNHNdOtOxyKhaO) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Don't Say](https://open.spotify.com/album/5H8Bt6wNnU0DvxVybUQI5k) | 3:21 | 2021-11-12 | 2022-07-29 |
 | [Don't Say](https://open.spotify.com/track/41bZyIzMjq7wx5JxJbc0Dl) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Don't Say](https://open.spotify.com/album/5zjEdsCxqIh5e3q3yPSbl3) | 3:24 | 2022-08-19 | 2022-11-14 |
-| [Doppelgänger](https://open.spotify.com/track/1q9jh0Ov1tk9aaxFVaYzkC) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Doppelgänger](https://open.spotify.com/album/4teZN2PzvrzgLyQ41rO3OH) | 2:52 | 2023-04-14 |  |
+| [Doppelgänger](https://open.spotify.com/track/1q9jh0Ov1tk9aaxFVaYzkC) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Doppelgänger](https://open.spotify.com/album/4teZN2PzvrzgLyQ41rO3OH) | 2:52 | 2023-04-14 | 2023-09-23 |
 | [Dreamer](https://open.spotify.com/track/3Q8paSvq4CgMeIcIqu9Dlo) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [Dreamer](https://open.spotify.com/album/2ZoHkOe9n2Ix14B3jwo4KR) | 3:26 | 2022-02-21 | 2022-07-15 |
 | [Dried Up River](https://open.spotify.com/track/6saTpYJv62gbFeRgC7VF82) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Dried Up River](https://open.spotify.com/album/5QveyiS7sznogAxujItLjZ) | 3:51 | 2021-11-12 | 2022-07-29 |
 | [drive](https://open.spotify.com/track/1POBIDmX5L8lDEQSkO1DBi) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [drive](https://open.spotify.com/album/0DbML0JCn2c8JhNYwx2Fcu) | 2:46 | 2023-04-12 |  |
@@ -143,6 +144,7 @@
 | [Hollow](https://open.spotify.com/track/2tCL2T0TTIOS0s70HCJP3L) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Hollow](https://open.spotify.com/album/1clRfpGP6mkk4TxW33YEfO) | 3:03 | 2021-11-12 | 2023-02-23 |
 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 | 2021-11-12 |  |
 | [How Do We Stay In Love?](https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [How Do We Stay In Love?](https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR) | 2:39 | 2023-07-21 |  |
+| [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 | 2023-09-22 |  |
 | [I Don't Deserve It](https://open.spotify.com/track/0aA8UQmAlCSLXj8tm8iDKb) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [I Don't Deserve It](https://open.spotify.com/album/1DHgLR9HwTeITN8oNL96Q8) | 3:46 | 2022-03-12 | 2022-11-13 |
 | [I Don't Really Care For You](https://open.spotify.com/track/5heU7rc2joRWgV7zz9N0Ll) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [I Don't Really Care For You](https://open.spotify.com/album/2WVqGcJwbqBQxJCeytGbvx) | 4:03 | 2021-11-12 | 2022-07-28 |
 | [I Don't Really Care for You](https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 4:04 | 2022-10-14 |  |
@@ -175,6 +177,7 @@
 | [Kick Out the Windows \- Radio Edit](https://open.spotify.com/track/6Q04NQKyB5x3Ge5TRyfZT1) | [Parsonsfield](https://open.spotify.com/artist/6azzAm8BwExr6xaAaR14TR) | [Kick Out the Windows \(Radio Edit\)](https://open.spotify.com/album/7msqHdpzdvApMcWNrBG4iG) | 3:11 | 2021-11-12 | 2022-07-29 |
 | [Kinda Wild](https://open.spotify.com/track/1ehActP7W2zePSz3aAm8in) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Kinda Wild](https://open.spotify.com/album/0JgJBpHVvXiQNlFJP00iAy) | 4:57 | 2023-06-23 |  |
 | [L\-Train](https://open.spotify.com/track/5uDxY7uEOSHI8OOqYphnr4) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [L\-Train](https://open.spotify.com/album/3HqA2mPPC5Uadvdt9AU0HO) | 3:47 | 2022-08-19 | 2022-10-06 |
+| [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-09-22 |  |
 | [Landmine](https://open.spotify.com/track/4YjTwBC1T231kB5AEOK8vf) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/4wiL1pYcgXSvhbaGuM1Xxo) | 3:04 | 2023-07-28 |  |
 | [Left With The Wolves](https://open.spotify.com/track/0HFAsJi2Hj9NbujFRDkgVK) | [Nathan Hawes](https://open.spotify.com/artist/3TCZ7tmHZOrKKwkikHcSwd) | [Left With The Wolves](https://open.spotify.com/album/7jgTAQJ1vLuf6NUVUgk0bb) | 3:49 | 2022-03-12 | 2023-01-29 |
 | [letting go](https://open.spotify.com/track/30a5DDL7xq347S143EoOPp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:26 | 2022-03-12 |  |
@@ -185,7 +188,7 @@
 | [Losing from Within](https://open.spotify.com/track/32yqbK3xTvNU0EdA9BMi37) | [Hayley Reardon](https://open.spotify.com/artist/4US8FhryQWWUOPmLmreZDW) | [Losing from Within](https://open.spotify.com/album/7FzoIWP5nniks0bag7330P) | 3:22 | 2021-11-12 | 2022-07-29 |
 | [Lost](https://open.spotify.com/track/37GoX99NfDFMNcbmXTe40O) | [Jack and White](https://open.spotify.com/artist/2U5RgZDZdAR13tX6yivvRy), [Brooke White](https://open.spotify.com/artist/1feuQE7d9izI54MoL5Lc7t) | [Lost](https://open.spotify.com/album/54bkovX3Y2sBVWerGMHpeb) | 3:45 | 2021-11-12 | 2022-07-28 |
 | [Lottery](https://open.spotify.com/track/5F3QLG5Vnc1kT02PM9Mk37) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/34RIeuzZA8ySXCbsEd62jG) | 2:31 | 2022-03-12 | 2022-09-15 |
-| [Lottery](https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 2:33 | 2022-08-19 |  |
+| [Lottery](https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 2:33 | 2022-08-19 | 2023-09-23 |
 | [Love in Vain](https://open.spotify.com/track/5MarctIzuTHNE914cieIlz) | [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU) | [Love in Vain](https://open.spotify.com/album/3xdQaXYUwTrTuBjMy4hWco) | 3:25 | 2021-11-12 | 2022-07-29 |
 | [Lover, I](https://open.spotify.com/track/01mIMINaQNlKX8m02pj1ti) | [Garden Gloves](https://open.spotify.com/artist/7LvkKnhytQkJg72KAu49sF), [Jackson Wooten](https://open.spotify.com/artist/0y7d3G52a49UExL70y2lkz), [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [Outside the Chateau Apartments](https://open.spotify.com/album/6IeuhpS6DhsKHD8vdVGyqo) | 2:41 | 2021-11-12 | 2022-06-29 |
 | [Making Do](https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Making Do](https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC) | 3:34 | 2021-11-12 | 2023-07-05 |
@@ -297,7 +300,7 @@
 | [Wintergreen](https://open.spotify.com/track/4SZKuCSzKbKWSFkg7yHeHp) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Wintergreen](https://open.spotify.com/album/7qlEqLyATaydg82FdhOAwT) | 3:31 | 2021-11-12 | 2022-07-29 |
 | [Wintergreen](https://open.spotify.com/track/6U6xkMgaFgR0LEWHAOcD4F) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Yours to Break](https://open.spotify.com/album/7d4zInmL1k7M6t6GmGlwuJ) | 3:31 | 2022-10-14 | 2023-02-04 |
 | [Wintergreen](https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Yours to Break](https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL) | 3:31 | 2023-01-27 |  |
-| [Wonderland](https://open.spotify.com/track/29Eswc8MgqA24TyhmyM7Lf) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Wonderland](https://open.spotify.com/album/3Qg4NwL9X3k6EUDA6bQ5pC) | 3:32 | 2023-07-07 |  |
+| [Wonderland](https://open.spotify.com/track/29Eswc8MgqA24TyhmyM7Lf) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Wonderland](https://open.spotify.com/album/3Qg4NwL9X3k6EUDA6bQ5pC) | 3:32 | 2023-07-07 | 2023-09-23 |
 | [Wonderland](https://open.spotify.com/track/69OY9Ujexp9qK4MHtD6Tzr) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Wonderland](https://open.spotify.com/album/770No61AWG74gR1xQaRYzL) | 3:32 | 2023-03-17 | 2023-07-08 |
 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 | 2021-11-12 |  |
 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 | 2022-03-12 |  |

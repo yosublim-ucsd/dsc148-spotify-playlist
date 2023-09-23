@@ -4,7 +4,7 @@
 
 > The perfect jazz backdrop to the cocktails.
 
-85 songs - 5 hr 0 min
+87 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Fluster](https://open.spotify.com/track/00MDdSPO6iWPZwwuF6RH89) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Fluster](https://open.spotify.com/album/5zDXxceLBK4Ojz08uNZ2KB) | 3:31 | 2023-05-25 |  |
 | [For Heaven's Sake](https://open.spotify.com/track/02i1UXUUB9PN5zFqTZJ0Yo) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [For Heaven's Sake](https://open.spotify.com/album/5p7vmVJVnf9vPQ2dI5W5VW) | 3:30 | 2023-05-10 |  |
 | [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2023-05-10 |  |
+| [Graceful Rhapsody](https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Graceful Rhapsody](https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm) | 2:42 | 2023-09-22 |  |
 | [Holograms](https://open.spotify.com/track/0MTxJdAZ7XYz5ES0GT5Dd7) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Holograms](https://open.spotify.com/album/32TK2PRS6wBvm4JIM9DdNk) | 3:52 | 2023-05-10 |  |
 | [Home town](https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Home town](https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr) | 2:58 | 2023-05-10 |  |
 | [I Concentrate On You](https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [I Concentrate On You](https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL) | 4:40 | 2023-05-10 |  |
@@ -40,6 +41,7 @@
 | [I'm Glad There's You](https://open.spotify.com/track/46xwl2PYDmeEnYGdXnvW2g) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm Glad There's You](https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc) | 4:01 | 2023-05-10 |  |
 | [I've Got The World On A String](https://open.spotify.com/track/0tuXGGgwQeA6FDthPFPTOT) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [I've Got The World On A String](https://open.spotify.com/album/2d3RRqSl4gfGbqJ93hdAwI) | 4:17 | 2023-05-10 |  |
 | [I've Grown Accustomed To Your Face](https://open.spotify.com/track/5D9zI5bZ2XgFDEYdqGrHnP) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [I've Grown Accustomed To Your Face](https://open.spotify.com/album/3ecnXHWiMR4xIF94MCd9p2) | 3:13 | 2023-05-10 |  |
+| [It´s Wonderful](https://open.spotify.com/track/4fIrqRgwWZeHWx1xYzMk0z) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [It´s Wonderful](https://open.spotify.com/album/4NCJxvMwHsCIykqMx97Bew) | 3:12 | 2023-09-22 |  |
 | [Lake Arrowhead](https://open.spotify.com/track/1iceRErjDazYdrZoB8eo48) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Lake Arrowhead](https://open.spotify.com/album/2PER2MGdknFkZG5AAXDA9v) | 3:38 | 2023-05-10 |  |
 | [Last Call](https://open.spotify.com/track/2nUhKiUfVdLcGmcdYHdjBw) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 2:49 | 2023-05-10 |  |
 | [Le jardin de l'espoir](https://open.spotify.com/track/6u2JXDE0uEWI0iu6QvsAGN) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Le jardin de l'espoir](https://open.spotify.com/album/2zrDkiN2AW9emd4IBDRCkv) | 4:23 | 2023-05-10 |  |

@@ -1527,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "DA PAURA",
+        "url": "https://open.spotify.com/album/2Q4126DBdA4sZV5X5xdoiW"
+      },
+      "artists": [
+        {
+          "name": "PRINCIPE",
+          "url": "https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136068,
+      "name": "DA PAURA",
+      "url": "https://open.spotify.com/track/5RtW8gQnmnf2tI6XOaxVlb"
+    },
+    {
+      "album": {
         "name": "Dancing in My Room",
         "url": "https://open.spotify.com/album/3t1MvGhT6LU3fOIp3KMrta"
       },
@@ -3683,6 +3701,24 @@
     },
     {
       "album": {
+        "name": "LOSER",
+        "url": "https://open.spotify.com/album/0bwONTyMcavDzaKfXm25uJ"
+      },
+      "artists": [
+        {
+          "name": "CARO WOW",
+          "url": "https://open.spotify.com/artist/6kyGmHxzIq5UcqAYS6BWUs"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142952,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/11uWk4MpRXW6Ei95F6RjFQ"
+    },
+    {
+      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -4212,7 +4248,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 169237,
       "name": "Numb Little Bug",
       "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
@@ -4874,7 +4910,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 162739,
       "name": "SnOWfLAkE",
       "url": "https://open.spotify.com/track/2zIbl1gHuqMgXnC6bxURWW"

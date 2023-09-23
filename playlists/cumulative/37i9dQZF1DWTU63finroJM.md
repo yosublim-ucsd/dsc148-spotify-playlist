@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon.
 
-1,097 songs - 2 day 13 hr 5 min
+1,099 songs - 2 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Broker](https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [Broker](https://open.spotify.com/album/4syw0FRlDPOvhtxY9saHrk) | 2:30 | 2023-02-17 |  |
 | [Buat Ku Sempurna](https://open.spotify.com/track/39fKEscitfslEas7J1zKFJ) | [Vanessa Reynauld](https://open.spotify.com/artist/3ClWG1ei6mt02XaSzpuSYa) | [Buat Ku Sempurna](https://open.spotify.com/album/0Zk8UiB0JmFI3kaf9YQz7j) | 2:48 | 2022-02-03 | 2022-08-02 |
 | [Buenos Días](https://open.spotify.com/track/56h6nyrgG2guJPgdTRdju1) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 2:12 | 2022-03-24 | 2022-04-15 |
-| [BURNA FONE](https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [BURNA FONE](https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg) | 2:39 | 2023-06-29 |  |
+| [BURNA FONE](https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [BURNA FONE](https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg) | 2:39 | 2023-06-29 | 2023-09-23 |
 | [Busted](https://open.spotify.com/track/1Kc00Xx45rcJVdpFhHaxMc) | [Soulstice](https://open.spotify.com/artist/2EGJbNf0Hva2C2N6hvhMXD) | [Busted](https://open.spotify.com/album/1FiYlmq6TULRuhcZSlf59V) | 3:50 | 2022-02-10 | 2022-02-19 |
 | [bye bye](https://open.spotify.com/track/12bz9ZB91ONuwiZt1NaUMK) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE) | 3:18 | 2022-03-24 | 2022-04-21 |
 | [C.C.G](https://open.spotify.com/track/0neY86dLQyT6FPYbpdizTT) | [Lorena Santos](https://open.spotify.com/artist/4joarc2IPqP1ZvWfcbZ52C) | [C.C.G](https://open.spotify.com/album/4J8TjKFG6ZIOjRjYHSwlIR) | 2:04 | 2022-03-24 | 2022-06-20 |
@@ -370,6 +370,7 @@
 | [Holiday Only](https://open.spotify.com/track/13xSCpapdAiR1bPWwoZp1y) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Holiday Only](https://open.spotify.com/album/1W0r6fsyYXIWVRJKR8cWfw) | 4:14 | 2022-02-03 | 2022-03-18 |
 | [Home](https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Proverb](https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK) | 3:21 | 2022-06-29 | 2023-05-09 |
 | [Home](https://open.spotify.com/track/5bCYPHUQ6kaAUN51DijF5I) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT), [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Home](https://open.spotify.com/album/2yvil8dH6U3hzXK96yUpni) | 3:43 | 2022-09-08 | 2023-05-31 |
+| [homebody](https://open.spotify.com/track/2Dc0zNIYfOhWs1D13pjQrJ) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [homebody](https://open.spotify.com/album/5rt24b30Az06G6MYCfjwCJ) | 2:42 | 2023-09-22 |  |
 | [hometonone](https://open.spotify.com/track/2r3QRuErB1Lgck5CqI2KH4) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [hometonone](https://open.spotify.com/album/1uadeW46GYVBfUsqtK45in) | 2:58 | 2022-03-21 | 2023-04-18 |
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 | 2022-03-21 | 2023-04-18 |
 | [Hontowane,](https://open.spotify.com/track/1G5cJCr6WwmiKRGlCbq6WS) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Hontowane,](https://open.spotify.com/album/0Kyfu9ZMYITiwDUngdTpJc) | 3:21 | 2023-01-20 |  |
@@ -523,7 +524,7 @@
 | [Lové](https://open.spotify.com/track/53g4gARwjJHVGIqMLAKcYl) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Dimanche](https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq) | 3:17 | 2022-03-24 | 2022-04-18 |
 | [Luka Yang Kurindu](https://open.spotify.com/track/0v7phHdROHvzpqTYeUQqtw) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Sebuah Cerita](https://open.spotify.com/album/2s1MfOgZZetupfPMptd49j) | 3:34 | 2022-02-10 | 2022-03-11 |
 | [Línea 7](https://open.spotify.com/track/7dKqJB09t92xID0Hw4ycMt) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Línea 7](https://open.spotify.com/album/27lhcWFcNtAPhlxgkzsSmG) | 2:55 | 2023-02-08 |  |
-| [m00d](https://open.spotify.com/track/45DZdd09Sopo3UOoeJgifU) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [m00d](https://open.spotify.com/album/5zFqEhDGip3zPPvLshFeDk) | 3:04 | 2023-08-18 |  |
+| [m00d](https://open.spotify.com/track/45DZdd09Sopo3UOoeJgifU) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [m00d](https://open.spotify.com/album/5zFqEhDGip3zPPvLshFeDk) | 3:04 | 2023-08-18 | 2023-09-23 |
 | [Ma Petite](https://open.spotify.com/track/5bSeIISxf9qsORBjc4BATA) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Ma Petite](https://open.spotify.com/album/13TI9sopF88fXBHc8JeF6f) | 3:57 | 2022-03-24 | 2022-04-16 |
 | [Maafkan Aku \#terlanjurmencinta](https://open.spotify.com/track/0ZoBl7pWhdjnj4eIe9I11o) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Maafkan Aku \#terlanjurmencinta](https://open.spotify.com/album/7HfpqObrxrN4qutlLkxTw3) | 3:44 | 2022-02-03 | 2022-03-15 |
 | [Mad Doctor](https://open.spotify.com/track/5zi0i85j65B7VeHofufPwt) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [MAD DOCTOR](https://open.spotify.com/album/5fOaAZm7tVTv5aimJ9FKbv) | 2:33 | 2022-06-29 | 2022-08-02 |
@@ -656,7 +657,7 @@
 | [Over Now](https://open.spotify.com/track/19VskVnejF7oVZPDXgWjeK) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Tide Pool](https://open.spotify.com/album/2zagOQicdXPVl65hpGJu43) | 3:27 | 2022-02-10 | 2023-01-21 |
 | [Over the Sea](https://open.spotify.com/track/0yxq8tWNMnEuVLrubXpZuW) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC), [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [Over the Sea](https://open.spotify.com/album/5zXNaA05GSxZmvfAtBqltq) | 3:21 | 2022-09-08 | 2023-05-31 |
 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2023-01-20 | 2023-06-10 |
-| [P STANDS 4 PLAYA](https://open.spotify.com/track/3ozyV7sAHXaMvrbtziNIEj) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [P PACK](https://open.spotify.com/album/21gk0Gn8JCF9bsu9dThv5e) | 2:51 | 2023-05-22 |  |
+| [P STANDS 4 PLAYA](https://open.spotify.com/track/3ozyV7sAHXaMvrbtziNIEj) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [P PACK](https://open.spotify.com/album/21gk0Gn8JCF9bsu9dThv5e) | 2:51 | 2023-05-22 | 2023-09-23 |
 | [P.O.V.](https://open.spotify.com/track/1KkwYF9KdyosZE8XBxCyvO) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [P.O.V.](https://open.spotify.com/album/3Wiwt3U5W7O37Kka9vg0nQ) | 2:36 | 2022-03-24 | 2022-12-15 |
 | [Pa Acá](https://open.spotify.com/track/5WnqsCunwFaYlnhF8ZcekE) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t) | [Pa Acá](https://open.spotify.com/album/6GHCA312OwUvhTfkcnjrpS) | 3:00 | 2022-04-07 | 2022-04-14 |
 | [Pa' Contarla](https://open.spotify.com/track/2JQifUvo3SrpOnD4K6ZudU) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Seguimos Avanzando](https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC) | 2:57 | 2022-03-24 | 2022-04-13 |
@@ -693,6 +694,7 @@
 | [Pioggia di CBD](https://open.spotify.com/track/5eL7azGDSAndUemSxGm79B) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Pioggia di CBD](https://open.spotify.com/album/4UcG471p9uZwNJUGLRG4Ib) | 3:10 | 2022-03-24 | 2022-04-19 |
 | [Pit A Pat](https://open.spotify.com/track/79KjJGfIVfbkwHBxHqohTT) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Pit A Pat](https://open.spotify.com/album/6dFBPAA4Ip65F50LOKwwDD) | 3:40 | 2022-06-23 | 2022-06-26 |
 | [plany](https://open.spotify.com/track/0K5Cr8OvLVvhG87CsSjZsM) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [plany](https://open.spotify.com/album/0cxuO8WpinhRMKElDqUtfR) | 2:39 | 2022-08-01 | 2022-12-03 |
+| [PLAYLIST \(ROCK DA BOAT\)](https://open.spotify.com/track/7D6jnDW82vRRMiCRLcy0pl) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [WE STILL YOUNG](https://open.spotify.com/album/2UlMKNVdCbVxTG4LwxpiTz) | 2:47 | 2023-09-22 |  |
 | [Plutão](https://open.spotify.com/track/3ydmNkAyYq0AKtG8sTfE9P) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Plutão](https://open.spotify.com/album/2sZzCGg7xCNdWQwoVaFuro) | 3:41 | 2022-04-07 | 2022-08-30 |
 | [pocket locket](https://open.spotify.com/track/0SWVKG9dVSv0s1qdJKxp5c) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/4hKWAWw7dOBJvPiwghGWC5) | 3:08 | 2022-02-03 | 2022-03-11 |
 | [Polytics](https://open.spotify.com/track/29DpuCxcRK8igslbq7RSD4) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Polytics](https://open.spotify.com/album/3znffL5bZo1Fkjj5j2xKjj) | 2:35 | 2022-03-24 | 2022-08-02 |

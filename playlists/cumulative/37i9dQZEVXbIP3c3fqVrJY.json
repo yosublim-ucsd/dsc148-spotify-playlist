@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -8294,7 +8294,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 132831,
       "name": "HORE HIGH",
       "url": "https://open.spotify.com/track/34mvTDg8PruZLjywOU7NwO"
@@ -10168,7 +10168,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 253964,
       "name": "KEEP IT G",
       "url": "https://open.spotify.com/track/679gbS0hHCAKLSOpFAfNqF"
@@ -14368,7 +14368,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 137143,
       "name": "NEV\u00cd\u0160 NIC pt. 1",
       "url": "https://open.spotify.com/track/4Ifinfx4MHqUDgOR5VKHp0"
@@ -16410,7 +16410,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 162734,
       "name": "PRCVL",
       "url": "https://open.spotify.com/track/0uWJ2KCfPoscUPwtGEgcYP"
@@ -17940,7 +17940,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 212173,
       "name": "SAVE",
       "url": "https://open.spotify.com/track/5arEkXTHnVRcpsl0BOND0E"
@@ -19850,7 +19850,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -21957,6 +21957,24 @@
     },
     {
       "album": {
+        "name": "Vitej",
+        "url": "https://open.spotify.com/album/7tJAal486BXKlzJzeUGtIm"
+      },
+      "artists": [
+        {
+          "name": "Vadak",
+          "url": "https://open.spotify.com/artist/40QCR893a1Qyi8VkmouPU3"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140326,
+      "name": "Vitej",
+      "url": "https://open.spotify.com/track/7EaJ7n3cuFmjtq2nLkRVrQ"
+    },
+    {
+      "album": {
         "name": "Maneki Neko",
         "url": "https://open.spotify.com/album/14097cT0BJDT8GVihXbQJA"
       },
@@ -22602,7 +22620,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 154285,
       "name": "Whip",
       "url": "https://open.spotify.com/track/7rOUkuZOT4BnGNz7YbUORD"
@@ -23518,7 +23536,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 170582,
       "name": "ZP\u00c1TKY NA SVOJ\u00cd PLANETU",
       "url": "https://open.spotify.com/track/5aPDg8Lt6Ci8gtD1VFPuWx"

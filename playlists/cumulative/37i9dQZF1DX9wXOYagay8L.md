@@ -2,7 +2,7 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2?si=\-7mU6WX9QMm0TtUU\-4CDug">Thando Zide</a>
+> Beautiful proudly South African gems\. Cover: Thando Zide
 
 478 songs - 1 day 10 hr 32 min
 

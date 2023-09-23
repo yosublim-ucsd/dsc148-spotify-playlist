@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 149035,
+  "num_followers": 149096,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmI4ZWRiNjVkZjhjNWRkODkwYThkNTQwZTg5NTVmYWVlY2QwMzJi",
+  "snapshot_id": "MCxjMGQxNGFlNjcyZWJmODVlYjkxYWU1MjNjMmVlNzc4YzJjNWQ2YTAz",
   "tracks": [
     {
       "added_at": "2023-09-21 22:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 220812,
+      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "Dancing With A Stranger (With Normani) [Acoustic]",
         "url": "https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 187621,
       "name": "Dancing With A Stranger (With Normani) - Acoustic",
       "url": "https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 220812,
-      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 193133,
-      "name": "Love Her",
-      "url": "https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "A Place We Knew",
         "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 221706,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/35AG36QH9ytiNtPyx9xwr8"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "Love Her",
+      "url": "https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Nervous System",
-        "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Worst In Me",
-      "url": "https://open.spotify.com/track/1FY8gDAydm8CfGYp7Lv9ce"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Same Kind Of Different (Acoustic)",
         "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "A Song For Every Moon",
-        "url": "https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5"
+        "name": "Nervous System",
+        "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
       },
       "artists": [
         {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 205029,
-      "name": "Just The Same",
-      "url": "https://open.spotify.com/track/593gJ3mb44oBLSAezl2UkQ"
+      "duration_ms": 202346,
+      "name": "Worst In Me",
+      "url": "https://open.spotify.com/track/1FY8gDAydm8CfGYp7Lv9ce"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1343,6 +1327,22 @@
       "duration_ms": 178476,
       "name": "Thin",
       "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "A Song For Every Moon",
+        "url": "https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 205029,
+      "name": "Just The Same",
+      "url": "https://open.spotify.com/track/593gJ3mb44oBLSAezl2UkQ"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Lose You Too",
-        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 186463,
-      "name": "Lose You Too",
-      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 218946,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Lose You Too",
+        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 186463,
+      "name": "Lose You Too",
+      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
     },
     {
       "added_at": "2023-09-21 22:00:00",

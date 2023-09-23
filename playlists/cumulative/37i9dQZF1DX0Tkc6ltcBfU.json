@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "2017",
+        "url": "https://open.spotify.com/album/6E8WPJP4zLzLWxBnOU7qoM"
+      },
+      "artists": [
+        {
+          "name": "Jace!",
+          "url": "https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140316,
+      "name": "2017",
+      "url": "https://open.spotify.com/track/3yl7WqiswUejJddFqErYPV"
+    },
+    {
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/5eo1sGPwe7pPucD3DjOyzf"
       },
@@ -168,7 +186,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 155028,
       "name": "305",
       "url": "https://open.spotify.com/track/3DQbJANnheUwHcOh36LKRt"
@@ -1529,6 +1547,32 @@
     },
     {
       "album": {
+        "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
+        "url": "https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153941,
+      "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
+      "url": "https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e"
+    },
+    {
+      "album": {
         "name": "Big League (with Yo Gotti, Moneybagg Yo, CMG The Label feat. Mozzy & Lil Poppa)",
         "url": "https://open.spotify.com/album/0F7yQR5SY5IJ9G8xUg15h6"
       },
@@ -1560,6 +1604,28 @@
       "duration_ms": 163876,
       "name": "Big League (with Yo Gotti, Moneybagg Yo, CMG The Label feat. Mozzy & Lil Poppa)",
       "url": "https://open.spotify.com/track/4i32zrLpygBg5Ruy1uqN78"
+    },
+    {
+      "album": {
+        "name": "Big Mad (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/04jIgr8btAumWJzTRIhrxl"
+      },
+      "artists": [
+        {
+          "name": "Icandy",
+          "url": "https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110781,
+      "name": "Big Mad (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/6UliIDFULJHvJpSfQ61zu5"
     },
     {
       "album": {
@@ -1920,7 +1986,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 148302,
       "name": "Bluffin (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/1hS8xbWKEifaf0VuFpIY69"
@@ -2164,6 +2230,24 @@
       "duration_ms": 154409,
       "name": "Bows",
       "url": "https://open.spotify.com/track/4Xkk9RBSBgRBAFwPta5FlT"
+    },
+    {
+      "album": {
+        "name": "Boyz Don't Cry",
+        "url": "https://open.spotify.com/album/5B5ysW40MnOKxVz2GRq1cz"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166578,
+      "name": "Boyz Don't Cry",
+      "url": "https://open.spotify.com/track/5VXGNoY8O9qRJUYMciPTfc"
     },
     {
       "album": {
@@ -3160,7 +3244,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 125588,
       "name": "Confidential",
       "url": "https://open.spotify.com/track/03q7ekI0qZyqAA2c7ZkX6B"
@@ -4236,7 +4320,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 181429,
       "name": "Equal Dirt",
       "url": "https://open.spotify.com/track/1XoANQIq3IKd0YsZTDd4RR"
@@ -4900,6 +4984,28 @@
       "duration_ms": 148732,
       "name": "Flags To The Sky (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/34nGTjKinQV46a8C8T2HfY"
+    },
+    {
+      "album": {
+        "name": "RIP Human Art",
+        "url": "https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274558,
+      "name": "Flavors of Karma",
+      "url": "https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7"
     },
     {
       "album": {
@@ -5949,6 +6055,24 @@
     },
     {
       "album": {
+        "name": "GTA",
+        "url": "https://open.spotify.com/album/0XJ7SlwKhONKSr4qUSeC9r"
+      },
+      "artists": [
+        {
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123464,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/0BjnnSOpNQa779935YIE81"
+    },
+    {
+      "album": {
         "name": "Gucci Flow",
         "url": "https://open.spotify.com/album/3lGERq1ZXRcK9x7uSggz3q"
       },
@@ -6250,6 +6374,28 @@
       "duration_ms": 390861,
       "name": "Heaven For Thugs (Letter to Wap)",
       "url": "https://open.spotify.com/track/1Um0VBEUksMQfbeHOaDcrv"
+    },
+    {
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/48eAYIvW7LSsqDVfOgJrER"
+      },
+      "artists": [
+        {
+          "name": "Danny Towers",
+          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
+        },
+        {
+          "name": "Tony Shhnow",
+          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173913,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/43pjKTwerf0zk3WSj1TE7I"
     },
     {
       "album": {
@@ -9378,7 +9524,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 164907,
       "name": "Meant 4 You",
       "url": "https://open.spotify.com/track/69YpzMeKwxPTZ6JVLPayYz"
@@ -10746,7 +10892,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 163935,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/7ry34dFOuoK2c5GoYWWsl3"
@@ -10976,10 +11122,28 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 164776,
       "name": "Ocean Spray",
       "url": "https://open.spotify.com/track/6dNOefmb6Lgl5vNtJsSajt"
+    },
+    {
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/4l2DlHC3hnZlhpu7SxGYUR"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139487,
+      "name": "Ochoa",
+      "url": "https://open.spotify.com/track/5hmKP4aC7jSNXYD6Suoq4y"
     },
     {
       "album": {
@@ -12400,7 +12564,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 185748,
       "name": "Put It On Da Floor Again (feat. Cardi B)",
       "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
@@ -14190,6 +14354,28 @@
       "duration_ms": 175819,
       "name": "Standards",
       "url": "https://open.spotify.com/track/54llkrIQrEyNyHx7PcrtSc"
+    },
+    {
+      "album": {
+        "name": "Starstruck",
+        "url": "https://open.spotify.com/album/01EL8VkRfnMk9tWc88n34r"
+      },
+      "artists": [
+        {
+          "name": "2FeetBino",
+          "url": "https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153769,
+      "name": "Starstruck",
+      "url": "https://open.spotify.com/track/7vlvtegZco6Jr9oKTLkVt2"
     },
     {
       "album": {

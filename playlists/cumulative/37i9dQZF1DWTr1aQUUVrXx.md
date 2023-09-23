@@ -4,7 +4,7 @@
 
 > Your favourite café with that warm and cozy Jazz vibe.
 
-130 songs - 7 hr 44 min
+138 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,10 @@
 | [Candy](https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Candy](https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1) | 3:24 | 2023-03-03 |  |
 | [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2023-03-03 |  |
 | [Cherry Stone](https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Cherry Stone](https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA) | 3:23 | 2023-03-03 |  |
+| [Clear Out](https://open.spotify.com/track/0YEVAn2vGbx9jI7xY6Fguf) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Clear Out](https://open.spotify.com/album/2UAUzLv0n1w1QQ8U6iR2JU) | 3:25 | 2023-09-22 |  |
 | [Clowns And Crowns](https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Clowns And Crowns](https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p) | 4:01 | 2023-03-16 |  |
 | [Coffee with My Baby](https://open.spotify.com/track/6Bp14zQZMHbZGOSuTIHkyF) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Winter in New York](https://open.spotify.com/album/1bZWiXD71om6CskjaZWcpF) | 2:47 | 2023-03-03 |  |
+| [Crooked Politicians](https://open.spotify.com/track/3AxgIQQy36G89sU41UaIwb) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Crooked Politicians](https://open.spotify.com/album/4aqNCgPghtRszsF147PlAN) | 2:57 | 2023-09-22 |  |
 | [Daydreams](https://open.spotify.com/track/6e6mVG7SXv73TrkpziM4gW) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [Daydreams](https://open.spotify.com/album/62wFAEZha1KG97xnIoIGZx) | 3:22 | 2023-03-03 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Don't Go To Strangers](https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m) | 4:02 | 2023-03-03 |  |
 | [Ducks for cover](https://open.spotify.com/track/4oECG5mUxW51Nh3U6iOdrc) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Ducks for cover](https://open.spotify.com/album/4sbUuCDayRl0uaF92eUquz) | 2:40 | 2023-05-11 |  |
@@ -50,8 +52,10 @@
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2023-03-03 |  |
 | [Forget the Moonlight](https://open.spotify.com/track/04B0Jt1hOgu7nt6UEjtTo8) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Tonight We Dance](https://open.spotify.com/album/4KUrd6HHTvbaJDNUVlUDFF) | 2:43 | 2023-03-03 |  |
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2023-03-03 |  |
+| [Graceful Rhapsody](https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Graceful Rhapsody](https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm) | 2:42 | 2023-09-22 |  |
 | [Have You Seen Me Lately](https://open.spotify.com/track/6aaYBpzYrY3bGS3eIDOG5s) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Have You Seen Me Lately](https://open.spotify.com/album/0QTxZxJKxQhTOLpoZLxjgp) | 2:11 | 2023-03-03 |  |
 | [Heartbreak Avenue](https://open.spotify.com/track/6LeUGbjrPif0UyaPYzKxdG) | [James Elias](https://open.spotify.com/artist/1uOGdY4LAe4Bc2YLhjsPGr) | [Heartbreak Avenue](https://open.spotify.com/album/3RrW88TLHIjgNehr6KG4sk) | 3:08 | 2023-03-24 |  |
+| [Here Comes Friday](https://open.spotify.com/track/2HwC77N8rDxMrW3Ve8RfE2) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [Here Comes Friday](https://open.spotify.com/album/6RoLm9qaZtHvLzoLTguwW8) | 2:49 | 2023-09-22 |  |
 | [Hometown Again](https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Hometown Again](https://open.spotify.com/album/2eN9SpfwZpcRW8MYvptqKG) | 4:35 | 2023-03-03 |  |
 | [I Saw The Sun](https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [I Saw The Sun](https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM) | 4:20 | 2023-03-03 |  |
 | [I'll never stop loving you](https://open.spotify.com/track/0MYJbAm4cQxWzKVGmIp7KS) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [I'll never stop loving you](https://open.spotify.com/album/7D7IqqcmJPkvbxjQFBxZDk) | 3:51 | 2023-03-03 |  |
@@ -86,6 +90,7 @@
 | [My Ideal](https://open.spotify.com/track/7auDnLAZDuygfAcDyaRwIN) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [My Ideal](https://open.spotify.com/album/1UPIz7n0yAGGuMaonT6Vho) | 3:20 | 2023-04-27 |  |
 | [My lids closed down](https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [My lids closed down](https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll) | 3:51 | 2023-03-03 |  |
 | [My Lonely Days Are Over](https://open.spotify.com/track/3A2U0deukLyVDP7IMDPk5K) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [My Lonely Days Are Over](https://open.spotify.com/album/6cHr3pZ7P9eQHuRcpLH0H9) | 3:50 | 2023-03-03 |  |
+| [My Ship](https://open.spotify.com/track/6LfNBoBMp1pJtnm2VQm0gy) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [My Ship](https://open.spotify.com/album/4L2n6cYNRrpHlsIO6sokyR) | 2:36 | 2023-09-22 |  |
 | [New York City Dreamin'](https://open.spotify.com/track/7IzASoTEuRv3G2uSkP79sE) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [New York City Dreamin'](https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U) | 4:01 | 2023-04-14 |  |
 | [Nose to Nose](https://open.spotify.com/track/2MAgc6myxmuptflBX9CIFs) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [Margaret Dances](https://open.spotify.com/album/7beQd9cOaKBuE8N4lVRhau) | 3:57 | 2023-03-03 | 2023-03-25 |
 | [Notes and Nights](https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Notes and Nights](https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4) | 3:04 | 2023-03-03 |  |
@@ -94,6 +99,7 @@
 | [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 | 2023-03-03 |  |
 | [On 14th Street](https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 2:56 | 2023-03-03 |  |
 | [On Delancey](https://open.spotify.com/track/1sfu03jKTPkDODkKSDpcDM) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Big Apple](https://open.spotify.com/album/5fghKHhrLGGIXxg2DUgMAb) | 3:47 | 2023-03-03 |  |
+| [On Repeat](https://open.spotify.com/track/0DH1r35QPYQGWSVWiPb8nC) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [On Repeat](https://open.spotify.com/album/4vKULVroJWpWyQ6KnlxZSd) | 3:24 | 2023-09-22 |  |
 | [One Day We'll Meet Again](https://open.spotify.com/track/3EPOmVwYPGqKVaY6nQagAk) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [One Day We'll Meet Again](https://open.spotify.com/album/0Fm7XBtV5rD5RUDauVeNC3) | 4:00 | 2023-03-03 |  |
 | [Only Way To Play Is All In](https://open.spotify.com/track/5nEXgS8wX0y4dVqe3GUPHI) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Only Way To Play Is All In](https://open.spotify.com/album/4PzO4qn8WkZtHL6Fx6z65h) | 3:18 | 2023-03-24 |  |
 | [Our Love Story](https://open.spotify.com/track/1FW1U15nbWIAteWTI2Iy9L) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Our Love Story](https://open.spotify.com/album/3G7vIhBdcwdmKTMdr4NcYt) | 2:40 | 2023-04-14 |  |
@@ -111,6 +117,7 @@
 | [Solitaire](https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Solitaire](https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw) | 3:31 | 2023-03-03 |  |
 | [Someone Elses Love](https://open.spotify.com/track/0NVDCHyEn5eLwfcxx2QFC6) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Someone Elses Love](https://open.spotify.com/album/0UF9P6f5lz0xSlJpg7X4kv) | 3:43 | 2023-03-03 | 2023-06-23 |
 | [Something about him](https://open.spotify.com/track/18L4SUEMJ0jJKmajWCCRP7) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Something about him](https://open.spotify.com/album/091PRS9X1pT5pEVDFAd7Vx) | 2:40 | 2023-05-11 |  |
+| [Speak Low](https://open.spotify.com/track/1DvyJsR76IH3HPxEC0DQ67) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Speak Low](https://open.spotify.com/album/4rMsJgxLDc3JHVM4b9Nibp) | 2:44 | 2023-09-22 |  |
 | [Storvindeln](https://open.spotify.com/track/51JcTTZu3LG8aDEXBA4XzV) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Storvindeln](https://open.spotify.com/album/1EjiRshKRMV9tGaT2q5Qzr) | 3:36 | 2023-03-03 |  |
 | [Sweet Lilyanne](https://open.spotify.com/track/2DX1gWF4hjdivWePjoP81G) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Sweet Lilyanne](https://open.spotify.com/album/1P3MpyYyLwr075pq33KiRk) | 3:13 | 2023-06-22 |  |
 | [Tangerine](https://open.spotify.com/track/3aEzo1qHVQU5S3nsjFfx0V) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [Tangerine](https://open.spotify.com/album/1HhnW65X0yXfoXZSWSFROL) | 2:59 | 2023-03-03 |  |
@@ -119,6 +126,7 @@
 | [The Flow of Your Way](https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 3:26 | 2023-03-03 |  |
 | [The Meadows](https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [The Meadows](https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6) | 3:15 | 2023-03-03 |  |
 | [The Nearness Of You](https://open.spotify.com/track/4X3IkZgkTo4WTchJXzBlNf) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [The Nearness Of You](https://open.spotify.com/album/6OcNfptFr34zXqNDyriSt0) | 5:10 | 2023-03-03 |  |
+| [There Will Be Better Days](https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [There Will Be Better Days](https://open.spotify.com/album/5ELhztVWr2IO1958kMWLli) | 4:59 | 2023-09-22 |  |
 | [Things To Look Forward To](https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 4:05 | 2023-03-03 |  |
 | [Through The Years](https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Through The Years](https://open.spotify.com/album/4fWa037ryzZJYfrxejalL0) | 3:56 | 2023-03-03 |  |
 | [Tip Your Hat](https://open.spotify.com/track/3sg1RZE32Qwy8j1T1POnBx) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Something About Her Smile](https://open.spotify.com/album/2NzsBCHEWjKiUQbUjDfpNl) | 3:58 | 2023-03-03 |  |

@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: BIG WETT
 
-1,395 songs - 3 day 5 hr 41 min
+1,396 songs - 3 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1035,7 +1035,8 @@
 | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns) | 2:52 | 2023-08-31 | 2023-09-22 |
 | [Rush \- Big Freedia Remix / Dub Mix](https://open.spotify.com/track/0SxcksZ3df53fj0OmkuczF) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Rush \(Remixes\)](https://open.spotify.com/album/2YdP8LNldo2EPpJGlSN2Au) | 4:43 | 2023-08-17 | 2023-09-01 |
 | [RUSH OF ADRENALINE](https://open.spotify.com/track/5rEoBScdfgC3uARpgA6Ppp) | [BIG WETT](https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB) | [PU$$Y](https://open.spotify.com/album/3fdjotd2Jlz5UI3H5nQb2o) | 3:20 | 2023-09-21 |  |
-| [Russia \- 10th Anniversary Remix](https://open.spotify.com/track/6obCfy975kTU3Aok8WVqJY) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Russia \(10th Anniversary Remix\)](https://open.spotify.com/album/6qLLtftnO0aQ2DBprMBbXN) | 6:26 | 2023-09-21 |  |
+| [Russia \- 10th Anniversary Remix](https://open.spotify.com/track/6obCfy975kTU3Aok8WVqJY) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Russia \(10th Anniversary Remix\)](https://open.spotify.com/album/6qLLtftnO0aQ2DBprMBbXN) | 6:26 | 2023-09-21 | 2023-09-23 |
+| [Russia \- Nightmares On Wax 10th Anniversary Remix](https://open.spotify.com/track/1pjgAfJIPdhOALB4tSd2V0) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Russia \(Nightmares On Wax 10th Anniversary Remix\)](https://open.spotify.com/album/1jl8wdsypQhNpcdAVfgFSw) | 6:26 | 2023-09-22 |  |
 | [Ruthless](https://open.spotify.com/track/1XuFjxGwGRaWYJ4NGLWg1V) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD) | [Ruthless](https://open.spotify.com/album/754RRtCBYndQ8IC9yfSFAE) | 2:59 | 2023-01-12 | 2023-02-17 |
 | [S.O.S](https://open.spotify.com/track/46ZbeFHcvPbZT3z19WIKHZ) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [S.O.S](https://open.spotify.com/album/5sudLLMrf4J9ymgG8f07Ba) | 2:54 | 2023-01-12 | 2023-02-17 |
 | [Sacrifice](https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY) | [Sacrifice](https://open.spotify.com/album/4D3QP0SVFo1iRWWACAhmQi) | 4:39 | 2023-02-16 | 2023-03-18 |

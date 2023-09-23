@@ -2,7 +2,7 @@
 
 ### [Barça Legends: R10](https://open.spotify.com/playlist/37i9dQZF1DX3qlucjkX5Dv)
 
-> The songs that inspired Ronaldinho in the 2000s\. Handpicked by the Brazilian and Barça legend himself!
+> Las canciones que inspiraron a Ronaldinho en los 2000\. Seleccionadas especialmente por el propio brasileño y leyenda del Barça.
 
 50 songs - 3 hr 20 min
 

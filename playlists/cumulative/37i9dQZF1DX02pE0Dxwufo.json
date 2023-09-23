@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Drive You Out Of My Mind",
+        "url": "https://open.spotify.com/album/0tybIuD9JXSQ0zY1s9PQmv"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212360,
+      "name": "Drive You Out Of My Mind",
+      "url": "https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD"
+    },
+    {
+      "album": {
         "name": "Welcome To The Block Party",
         "url": "https://open.spotify.com/album/0dNsg2k0JVBXDjAyASks9p"
       },

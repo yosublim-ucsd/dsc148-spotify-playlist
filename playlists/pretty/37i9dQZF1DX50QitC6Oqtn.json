@@ -1,12 +1,12 @@
 {
-  "description": "Because we all deserve great pop love songs in one playlist.",
-  "num_followers": 3605942,
+  "description": "Porque todo el mundo se merece una playlist con las mejores canciones pop rom\u00e1nticas.",
+  "num_followers": 3606015,
   "original_name": "Love Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmM3ZjFkOTc3YTZmNzlkYjM4OTQ3ZWYzNTNkZmJjYzEyOGY2Yzg5",
+  "snapshot_id": "MCw4YjJhMzlmNDM1YjZjODNhNTg1YWZiMDY1MWIzOTJhOGM1ZTY3NWIw",
   "tracks": [
     {
       "added_at": "2022-12-08 16:33:34",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 173710,
-      "name": "34+35",
-      "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 207520,
       "name": "Happier",
       "url": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 173710,
+      "name": "34+35",
+      "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "Halcyon Nights",
+        "url": "https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 154440,
+      "name": "How Long Will I Love You",
+      "url": "https://open.spotify.com/track/3X003bO0MMxXEsJJxidiig"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "UN DIA (ONE DAY) (Feat. Tainy)",
         "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 232253,
       "name": "UN DIA (ONE DAY) (Feat. Tainy)",
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "Halcyon Nights",
-        "url": "https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 154440,
-      "name": "How Long Will I Love You",
-      "url": "https://open.spotify.com/track/3X003bO0MMxXEsJJxidiig"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "America Town",
+        "url": "https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY"
+      },
+      "artists": [
+        {
+          "name": "Five For Fighting",
+          "url": "https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Superman (It's Not Easy)",
+      "url": "https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "Electronic Earth (Expanded Edition)",
         "url": "https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 271813,
       "name": "Beneath Your Beautiful",
       "url": "https://open.spotify.com/track/2EcsgXlxz99UMDSPg5T8RF"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "America Town",
-        "url": "https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY"
-      },
-      "artists": [
-        {
-          "name": "Five For Fighting",
-          "url": "https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Superman (It's Not Easy)",
-      "url": "https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 231653,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Save Me, San Francisco (Golden Gate Edition)",
         "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 205453,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 231653,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Icarus Falls",
-        "url": "https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh"
+        "name": "Come On Over (Diamond Edition / Super Deluxe)",
+        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
       },
       "artists": [
         {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 199600,
-      "name": "There You Are",
-      "url": "https://open.spotify.com/track/5y4XJ9UFS5eOdoYPF5pSAE"
+      "duration_ms": 212224,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/3x2ksaXI6EZUWidE2BiLXy"
     }
   ],
   "unique_name": "Love Pop",

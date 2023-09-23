@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 
 > Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,565 likes - 138 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,575 likes - 138 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 118 | [Old Love / New Love](https://open.spotify.com/track/7ah7ropOQbN7tRy4PiiW5a) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [The Music of Grand Theft Auto V, Vol\. 1: Original Music](https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr) | 3:53 |
 | 119 | [Cars](https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [The Pleasure Principle](https://open.spotify.com/album/5xFlkqLDx3wbgqtvrez1n0) | 3:58 |
 | 120 | [Pruitt Igoe](https://open.spotify.com/track/18APnag6mkchj7jEOW921Q) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [Koyaanisqatsi \(Complete Original Soundtrack\)](https://open.spotify.com/album/7ruApgAZVeqcDJp77jSGg7) | 7:50 |
-| 121 | [Clear](https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC) | 4:54 |
+| 121 | [Clear \- Jose “Animal” Diaz Remix](https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC) | 4:54 |
 | 122 | [Windowlicker](https://open.spotify.com/track/409z4jUHpq7eIkg3N3FzZh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Windowlicker](https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh) | 6:05 |
 | 123 | [Rising To The Top](https://open.spotify.com/track/3eFyL2sxUrjWxtJsAMe9VE) | [8\-Off Agallah Featuring Sean Price & Bazaar Royale](https://open.spotify.com/artist/1HpeNXcML3EVkAmZlfl2Nv) | [Game Tight](https://open.spotify.com/album/2fq6xLDQhwbswMqTL3ey9M) | 5:02 |
 | 124 | [El Malo](https://open.spotify.com/track/1fIjc50dmcl9PkH3E4iG4E) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Malo](https://open.spotify.com/album/6ROTUtQlp130rdHDff3nhE) | 4:00 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 137 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 |
 | 138 | [Groove Me](https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Guy](https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc) | 4:33 |
 
-Snapshot ID: `MCw4NDM5MjM1NjljNTU2OWJkYzgzZjE5OGYyMDA1OTQyMDBmMDBmYWM1`
+Snapshot ID: `MCwzOWI2M2ViZGIyMGNlMWUwOTcwOGQzNjc0YTExZjIxODY4NGFkNmIw`

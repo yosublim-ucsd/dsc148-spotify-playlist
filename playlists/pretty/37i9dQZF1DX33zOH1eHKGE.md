@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33zOH1eHKGE.md) - [plain]
 
 > Move your way through the day with the dance tracks you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,261 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,289 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33zOH1eHKGE.md) - [plain]
 | 35 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 |
 | 36 | [The Cure & The Cause \- Radio Edit](https://open.spotify.com/track/2aYryJEl86lIZWCS6X1CUm) | [Fish Go Deep](https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y), [Tracey K](https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg) | [The Cure & The Cause \(Radio Edit\)](https://open.spotify.com/album/4O082xEh8tgidqkcNKrVEN) | 2:37 |
 | 37 | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB) | 3:09 |
-| 38 | [Maria Maria](https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Maria Maria](https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd) | 2:41 |
-| 39 | [Don’t Wake Me Up](https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Don’t Wake Me Up](https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs) | 3:08 |
+| 38 | [Don’t Wake Me Up](https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Don’t Wake Me Up](https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs) | 3:08 |
+| 39 | [Maria Maria](https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Maria Maria](https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd) | 2:41 |
 | 40 | [All Of Me \(Do For Love\)](https://open.spotify.com/track/2fzqWz8fV05O1RA6PfHFYc) | [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j), [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4) | [All Of Me \(Do For Love\)](https://open.spotify.com/album/4ln6BUu9ajIKCntL6qGqCk) | 2:24 |
 | 41 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks) | 4:27 |
 | 42 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33zOH1eHKGE.md) - [plain]
 | 99 | [Off The Ground](https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Off The Ground](https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h) | 4:02 |
 | 100 | [Rather Be Alone](https://open.spotify.com/track/1hUV7Uu4pYQZaaXLjEIIYn) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [Rather Be Alone](https://open.spotify.com/album/5MFbTHhx95bMJrUfyELiQo) | 2:17 |
 
-Snapshot ID: `MCxiOTcxYThiZDdhMzcwNDU2OGExMWI1ZTYyOTc5MmE0MTc1YTBiNWYx`
+Snapshot ID: `MCw2MjQ5MTBiNzVkY2EzMmQ3YzM0Y2UwNGM5YzZjMDQ3Yjk2NmMxNmMx`

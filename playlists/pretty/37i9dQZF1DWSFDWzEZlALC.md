@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Paula Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,815 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,088 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [schwarze SUVs](https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [schwarze SUVs](https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2) | 2:49 |
-| 2 | [Mit dir kann ich alleine sein](https://open.spotify.com/track/6OYxGokMBWj8wCbDIbhFmB) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 3:38 |
+| 2 | [Es hört nicht auf](https://open.spotify.com/track/0Uc0m7ThckGvaT0TFG7snX) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 3:15 |
 | 3 | [\\ sympathisch](https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [vier aufnahmen](https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM) | 2:25 |
 | 4 | [gloria](https://open.spotify.com/track/2UTAtsMndGwUnYwFal6iVQ) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [gloria](https://open.spotify.com/album/0Jprwfz5Yv9WzebYv5fKWQ) | 2:33 |
 | 5 | [dudenkstsoschön](https://open.spotify.com/track/4ln3kBmN7yFA1BfthpliPu) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [dudenkstsoschön \- EP](https://open.spotify.com/album/1kzYVp0ptv49eWRu7ATcxp) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Irgendwo](https://open.spotify.com/track/1yJgf4ImIanoAfQudI60N7) | [Kicker Dibs](https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt), [dery](https://open.spotify.com/artist/1ZxMxowLXzup8y1McJ3JbT) | [Die Pointe](https://open.spotify.com/album/37bJUCwPLErO9HkGNJTJFs) | 2:57 |
 | 75 | [Alles Neu](https://open.spotify.com/track/1s3BpG01PThikupXaSwn9a) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Alles Neu](https://open.spotify.com/album/1fM6vzYrjVcN8RuC83bvhv) | 2:46 |
 
-Snapshot ID: `MCxjNWM1MzYyZmNjNjQ2ZmQ2YjE2YWE0YTZmOTE4MGRlN2IyZDYwNDY1`
+Snapshot ID: `MTY5NTM4MTU2MCwwMDAwMDAwMGQzNjgxZGIyOTYyOWU2NDI1YmYyMWYzNGNkMWZjZDgx`

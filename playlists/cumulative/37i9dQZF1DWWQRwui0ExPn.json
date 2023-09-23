@@ -3335,6 +3335,24 @@
     },
     {
       "album": {
+        "name": "agua",
+        "url": "https://open.spotify.com/album/6kjN8E5Prjjmy5aVwUt05C"
+      },
+      "artists": [
+        {
+          "name": "Polo Stay",
+          "url": "https://open.spotify.com/artist/35X6RkVD3pG5UtrPcNWEiC"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95064,
+      "name": "agua",
+      "url": "https://open.spotify.com/track/6JNamHmYjPaMd0wbQXXY26"
+    },
+    {
+      "album": {
         "name": "Bossa Beats (Vol. 1)",
         "url": "https://open.spotify.com/album/1DWgbBULmBzoYVKEb4uqHs"
       },
@@ -30605,6 +30623,24 @@
     },
     {
       "album": {
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/78lllAwn1bwdyYDubGS6zr"
+      },
+      "artists": [
+        {
+          "name": "archipelago beats",
+          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139090,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/3bDOZNlk6IVPQ5mWTQsM1W"
+    },
+    {
+      "album": {
         "name": "empathy",
         "url": "https://open.spotify.com/album/3ZRXyKlQAdLPpGRmIO0wDD"
       },
@@ -31222,7 +31258,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 97547,
       "name": "Episodes",
       "url": "https://open.spotify.com/track/0GNjeGXFr9gUTKG8Jj4lhU"
@@ -31276,7 +31312,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 107062,
       "name": "Equata",
       "url": "https://open.spotify.com/track/06IcYJVcONJEnswRGec8pM"
@@ -34564,7 +34600,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 96000,
       "name": "FIREPLACE",
       "url": "https://open.spotify.com/track/2MN0TiLemN76mrh1fQR6KR"
@@ -44617,6 +44653,24 @@
     },
     {
       "album": {
+        "name": "Hindu Kush",
+        "url": "https://open.spotify.com/album/3eVevCRdpv0j1V9tnNUqgI"
+      },
+      "artists": [
+        {
+          "name": "Lil Gromit",
+          "url": "https://open.spotify.com/artist/12R1ZRnrpi0uH9EfmLQ9Pj"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "Hindu Kush",
+      "url": "https://open.spotify.com/track/5Zd05JL9B7aEP7mGutk5si"
+    },
+    {
+      "album": {
         "name": "Hip Hop & Rap",
         "url": "https://open.spotify.com/album/0DLAkYn4G6K2hGMiE23gwe"
       },
@@ -48960,6 +49014,24 @@
       "duration_ms": 146666,
       "name": "Inner Life",
       "url": "https://open.spotify.com/track/1BC6zMFU5a9ADQZb9Nd4XN"
+    },
+    {
+      "album": {
+        "name": "Inner Peace",
+        "url": "https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf"
+      },
+      "artists": [
+        {
+          "name": "Moon Cheese",
+          "url": "https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232385,
+      "name": "Inner Peace",
+      "url": "https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8"
     },
     {
       "album": {
@@ -58340,6 +58412,24 @@
       "duration_ms": 108000,
       "name": "Long Road",
       "url": "https://open.spotify.com/track/47oNON3ESZjvhiHaHJk8RI"
+    },
+    {
+      "album": {
+        "name": "Long Road Ahead",
+        "url": "https://open.spotify.com/album/611Alj80RhRlw6glxVdkX4"
+      },
+      "artists": [
+        {
+          "name": "CRFT",
+          "url": "https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101078,
+      "name": "Long Road Ahead",
+      "url": "https://open.spotify.com/track/2D3kQm3XNGOdXedTprdwN5"
     },
     {
       "album": {
@@ -74842,7 +74932,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 156934,
       "name": "Our Last Night On Earth",
       "url": "https://open.spotify.com/track/3E6Jgg7PBKQVaWOugpzctP"
@@ -82182,7 +82272,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 151417,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2Z9lY4T8YNQVAtLEJ4DnHq"
@@ -86974,6 +87064,24 @@
       "duration_ms": 132000,
       "name": "sekao",
       "url": "https://open.spotify.com/track/4c2TiYoJHIjEPZ5syRZhsY"
+    },
+    {
+      "album": {
+        "name": "Select Two",
+        "url": "https://open.spotify.com/album/1GMEqYDj5dNL4JHButRNVh"
+      },
+      "artists": [
+        {
+          "name": "Oslo",
+          "url": "https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105882,
+      "name": "Select Two",
+      "url": "https://open.spotify.com/track/7IxFYn2KOiiXauZUJ0ukY5"
     },
     {
       "album": {
@@ -106270,7 +106378,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 137142,
       "name": "Ukiyo",
       "url": "https://open.spotify.com/track/2g3FU5bc1GbXgWSIuNuPjP"

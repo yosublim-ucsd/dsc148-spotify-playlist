@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,246 likes - 75 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,249 likes - 75 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 7:52 |
 | 2 | [Olson](https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:31 |
 | 3 | [Stranger Things](https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 1:07 |
-| 4 | [13 Angels Standing Guard 'Round The Side Of Your Bed](https://open.spotify.com/track/7jbLjvNlKbfCRUoFWKo5TR) | [Silver Mt\. Zion](https://open.spotify.com/artist/0bRpSBtMd3stO4J6TWclMb) | [He Has Left Us Alone But Shafts Of Light Sometimes Grace The Corner Of Our Rooms](https://open.spotify.com/album/298tKa2DPLT9GNmY8vsvLj) | 7:22 |
-| 5 | [Rachel's Song](https://open.spotify.com/track/5JtTSaH8W6UVqViPgpcqTq) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 4:48 |
+| 4 | [Rachel's Song](https://open.spotify.com/track/5JtTSaH8W6UVqViPgpcqTq) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 4:48 |
+| 5 | [13 Angels Standing Guard 'Round The Side Of Your Bed](https://open.spotify.com/track/7jbLjvNlKbfCRUoFWKo5TR) | [Silver Mt\. Zion](https://open.spotify.com/artist/0bRpSBtMd3stO4J6TWclMb) | [He Has Left Us Alone But Shafts Of Light Sometimes Grace The Corner Of Our Rooms](https://open.spotify.com/album/298tKa2DPLT9GNmY8vsvLj) | 7:22 |
 | 6 | [Melancholia II](https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr) | 6:49 |
 | 7 | [A World Of Madness](https://open.spotify.com/track/2GMeVXL0JQFLmAIJJa8K2n) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:47 |
 | 8 | [Signals \- Remastered 2005](https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 2:46 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 25 | [Gemini](https://open.spotify.com/track/47Iu8veHUAGjZkZRtVmqfo) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 2:56 |
 | 26 | [This Isn't You](https://open.spotify.com/track/4cocLXeDOiFIPBgZCvJ3RF) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 2:23 |
 | 27 | [\#4](https://open.spotify.com/track/4fQEbOabaTSC80INS7cD3Q) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 4:39 |
-| 28 | [Silent Messenger](https://open.spotify.com/track/4z2rlz9eCnfpWv2eAVg3SF) | [Desiderii Marginis](https://open.spotify.com/artist/56TXBqxg34LL3EqFqwS3EX) | [Procession](https://open.spotify.com/album/0JCLdXVVINlBEugw8VtRRV) | 7:35 |
-| 29 | [It Was Only a Dream](https://open.spotify.com/track/715mzRnO46sUW5P9ebzzMn) | [Timecop1983](https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r) | [Night Drive](https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i) | 5:58 |
+| 28 | [It Was Only a Dream](https://open.spotify.com/track/715mzRnO46sUW5P9ebzzMn) | [Timecop1983](https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r) | [Night Drive](https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i) | 5:58 |
+| 29 | [Silent Messenger](https://open.spotify.com/track/4z2rlz9eCnfpWv2eAVg3SF) | [Desiderii Marginis](https://open.spotify.com/artist/56TXBqxg34LL3EqFqwS3EX) | [Procession](https://open.spotify.com/album/0JCLdXVVINlBEugw8VtRRV) | 7:35 |
 | 30 | [Ones Atop the Unknown](https://open.spotify.com/track/7EQXtgp56sFwJu1euom2GC) | [Apocryphos](https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP), [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr), [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [Onyx](https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS) | 5:37 |
 | 31 | [A Room Between the Rooms](https://open.spotify.com/track/6aAfkcsiO7rerTy6kHJ6V4) | [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [The Starwheel](https://open.spotify.com/album/5Dh3rhalDH2MPXTS2yhIOG) | 6:33 |
 | 32 | [\#5](https://open.spotify.com/track/2waF939RizyTNhrDoq7ePY) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 8:55 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 55 | [The Moment Before You Fall Asleep](https://open.spotify.com/track/7AwHujsWTO74KJ6yDbQQbk) | [ALLSEITS](https://open.spotify.com/artist/3KEZRlZ6GtlMcK6ICypOAD) | [Cycles "Cyclic Law's 10th Year Anniversary Label Sampler"](https://open.spotify.com/album/6aPaiQi44SS1IPE6bU5dLp) | 8:28 |
 | 56 | [Come Back To Bali](https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi) | [Idee Du Femelle](https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm) | [Sequences](https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B) | 7:37 |
 | 57 | [Mannequin Metric](https://open.spotify.com/track/6t45daSIcmRzYeJBB0x3ve) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [In Fabric OST](https://open.spotify.com/album/56h30DA2RokyYVDobT2U5a) | 4:14 |
-| 58 | [That Which Lies Beyond](https://open.spotify.com/track/25Dy49um1MbZVN96c1dS6m) | [Sinke Dûs](https://open.spotify.com/artist/7G1jLG6TOGiYhRsdiUdm1k) | [Akrasia](https://open.spotify.com/album/2mpTyxf7rUWZh18pQw0rNo) | 7:11 |
-| 59 | [Aesthetic](https://open.spotify.com/track/3ATbLqkrK5N5rKKQLW9WfE) | [Enmarta](https://open.spotify.com/artist/06w0fwBJQtrtvs5iU9UVqs) | [Sea of Black](https://open.spotify.com/album/01pQ8hR7osCIMZ7nXKTcid) | 6:26 |
+| 58 | [Aesthetic](https://open.spotify.com/track/3ATbLqkrK5N5rKKQLW9WfE) | [Enmarta](https://open.spotify.com/artist/06w0fwBJQtrtvs5iU9UVqs) | [Sea of Black](https://open.spotify.com/album/01pQ8hR7osCIMZ7nXKTcid) | 6:26 |
+| 59 | [That Which Lies Beyond](https://open.spotify.com/track/25Dy49um1MbZVN96c1dS6m) | [Sinke Dûs](https://open.spotify.com/artist/7G1jLG6TOGiYhRsdiUdm1k) | [Akrasia](https://open.spotify.com/album/2mpTyxf7rUWZh18pQw0rNo) | 7:11 |
 | 60 | [Anthropic Uncreation](https://open.spotify.com/track/4Z355byisU8j1DVSwA3biP) | [Vestigial](https://open.spotify.com/artist/6NgdG349NLTViR0NJqGGRV) | [Translucent Communion](https://open.spotify.com/album/7h6pY9nZuq2ytVcplRLbOl) | 5:16 |
 | 61 | [Loneliness](https://open.spotify.com/track/2ttcbHh6jc3fil4h9BIs7A) | [New Risen Throne](https://open.spotify.com/artist/2PBztP9oVOgzWXiIrXONKi) | [Loneliness of Hidden Structures](https://open.spotify.com/album/5zmFF4XK5jiz9i8yNvMyiS) | 9:14 |
 | 62 | [Teresa, Lark of Ascension](https://open.spotify.com/track/0rJdenp3eMqCGuMsx6gv34) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Berberian Sound Studio](https://open.spotify.com/album/4uYqcc2NK0s0Zfieyt3w7C) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 74 | [Witch's Will](https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy) | [Wilburn Burchette](https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 4:57 |
 | 75 | [Mogadon Coffee Morning](https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia) | [The Advisory Circle](https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S) | [Other Channels](https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D) | 2:56 |
 
-Snapshot ID: `MCwwNTVjOTAzMmU3NzZmODNlNTdkZDIzZjhiZjkzMTY2YTNiMmE5YWVh`
+Snapshot ID: `MCw3NGMyNDY2ZjIzNmEyYTI3Nzg1NzczNTYyZjE0ZjEzYmFhNjlhMGZl`

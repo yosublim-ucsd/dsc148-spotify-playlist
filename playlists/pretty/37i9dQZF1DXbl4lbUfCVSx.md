@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,370 likes - 40 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,390 likes - 40 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 34 | [San Limit](https://open.spotify.com/track/0jMJvojL24cI32yYm8l43z) | [T\-Vice](https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N) | [3 Tou 9](https://open.spotify.com/album/1IwaIw7A5aN8sYmvwyvz5m) | 4:49 |
 | 35 | [Habitude](https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Nou Pap Dòmi Deyò: Ou Pa Kontan,Vi’n Bat Mwen](https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np) | 5:32 |
 | 36 | [She's a Freak](https://open.spotify.com/track/0emPt8vmtR7wKYKr0TKajD) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [She's a Freak](https://open.spotify.com/album/6weHkn20iKsmXfJeD8QpfJ) | 6:54 |
-| 37 | [Simplicité](https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 5:31 |
-| 38 | [Sonia](https://open.spotify.com/track/6fRP9uqtzh7VNTrtkSfXs0) | [Black Parents](https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9) | [L'année du Kompa 2001 \(Ayiti Konpa\)](https://open.spotify.com/album/5wgDhWtXVweawspXDh1je9) | 4:28 |
-| 39 | [Lanmou Doudou](https://open.spotify.com/track/2jl6qxOAmEuQB5QWrMsVbD) | [Jacques Sauveur Jean](https://open.spotify.com/artist/7zMjoqEv6asrJzuhFnR72e), [Fabrice Rouzier](https://open.spotify.com/artist/4h2SA3cxN3x4638hDpzy7e) | [Haïti Twoubadou Volume 1](https://open.spotify.com/album/7xVvyQ8qlFd6FbV7OYsAIA) | 4:15 |
+| 37 | [Lanmou Doudou](https://open.spotify.com/track/2jl6qxOAmEuQB5QWrMsVbD) | [Jacques Sauveur Jean](https://open.spotify.com/artist/7zMjoqEv6asrJzuhFnR72e), [Fabrice Rouzier](https://open.spotify.com/artist/4h2SA3cxN3x4638hDpzy7e) | [Haïti Twoubadou Volume 1](https://open.spotify.com/album/7xVvyQ8qlFd6FbV7OYsAIA) | 4:15 |
+| 38 | [Simplicité](https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 5:31 |
+| 39 | [Sonia](https://open.spotify.com/track/6fRP9uqtzh7VNTrtkSfXs0) | [Black Parents](https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9) | [L'année du Kompa 2001 \(Ayiti Konpa\)](https://open.spotify.com/album/5wgDhWtXVweawspXDh1je9) | 4:28 |
 | 40 | [Grev Bèbè](https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 5:16 |
 
-Snapshot ID: `MCxiMjNjZDA0ZDU1MTY3MDRjZWNmZTQyZDMyYTMyNGZlYWZlNTM4Njc0`
+Snapshot ID: `MCw1ZDQ5MDEwZjU0YzhiMzU2NTdhYjk2YTAwNTBjN2YzMTMyNjk2MDNk`

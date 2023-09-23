@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,241 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,623 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 46 | [You And Your Sister \- Remastered](https://open.spotify.com/track/6y234mJkt0DEh39NxZ4uZ6) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [Blood \(Remastered\)](https://open.spotify.com/album/1wHBJPXwl19a4xNgPaCDq9) | 3:14 |
 | 47 | [Dive](https://open.spotify.com/track/0RBfGcrONMLwLysUhbtxJM) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:25 |
 | 48 | [Pearl](https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 5:14 |
-| 49 | [No\-One in the World](https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [Morning Light](https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk) | 6:41 |
-| 50 | [Breathe in, Breathe Out](https://open.spotify.com/track/06fSbKiMP2Z7vzYG4WOBXB) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Bon Voyage](https://open.spotify.com/album/0jolpH4eoj3kSEVg9mvZXr) | 2:50 |
+| 49 | [Breathe in, Breathe Out](https://open.spotify.com/track/06fSbKiMP2Z7vzYG4WOBXB) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Bon Voyage](https://open.spotify.com/album/0jolpH4eoj3kSEVg9mvZXr) | 2:50 |
+| 50 | [No\-One in the World](https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [Morning Light](https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk) | 6:41 |
 
-Snapshot ID: `MCwxZGQ0MDI1ZjFhMzFlOTI4MzM1NGM4NWExNDRmOWQwODgwNGQ4YWE3`
+Snapshot ID: `MCwxNGFkMGI1NjYwNjFhMGI3YjlhODMzMDBiMTYwZWJmYzk2NzFmZGMy`

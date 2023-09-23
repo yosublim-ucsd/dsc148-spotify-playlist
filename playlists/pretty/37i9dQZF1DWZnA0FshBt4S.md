@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,366 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,461 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 41 | [Get This Party Started](https://open.spotify.com/track/2Lc71gh10nC31d24a1lYbU) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Momentum](https://open.spotify.com/album/730tFTLjk3HGaJSW2AMiBB) | 2:22 |
 | 42 | [A Flowery Song](https://open.spotify.com/track/6FYCcmTfxq84NSePWXLIby) | [Five Iron Frenzy](https://open.spotify.com/artist/1BcAEs4W94BrXMmVCOgwSx) | [Upbeats & Beatdowns](https://open.spotify.com/album/7IUjcWJ3ucGT2C97McF1Ua) | 3:40 |
 | 43 | [Basic Instructions](https://open.spotify.com/track/1P2U3LMx2Rj3pVmnmT4LSd) | [Burlap To Cashmere](https://open.spotify.com/artist/4onLiJTk4yL72Yu7tc5ifw) | [Anybody Out There?](https://open.spotify.com/album/6conxG5LDeq8o4Jge5KSJe) | 3:59 |
-| 44 | [Faith My Eyes](https://open.spotify.com/track/7IWNJRIemIyC3NA8qf5Zy8) | [Caedmon's Call](https://open.spotify.com/artist/0K1BPXwAU1CTd8DNZohopA) | [40 Acres](https://open.spotify.com/album/5uiJsWmOVFUVukiEJ7JJSL) | 4:41 |
-| 45 | [Deeper](https://open.spotify.com/track/0hDWOLFu71QCiI8MblsMks) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [King of Fools](https://open.spotify.com/album/4FrXWYXrratJp2KfiFl32j) | 4:20 |
+| 44 | [Deeper](https://open.spotify.com/track/0hDWOLFu71QCiI8MblsMks) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [King of Fools](https://open.spotify.com/album/4FrXWYXrratJp2KfiFl32j) | 4:20 |
+| 45 | [Faith My Eyes](https://open.spotify.com/track/7IWNJRIemIyC3NA8qf5Zy8) | [Caedmon's Call](https://open.spotify.com/artist/0K1BPXwAU1CTd8DNZohopA) | [40 Acres](https://open.spotify.com/album/5uiJsWmOVFUVukiEJ7JJSL) | 4:41 |
 | 46 | [Undo Me](https://open.spotify.com/track/5EV1UhPaelVqKHXkaxglAY) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [The Collection](https://open.spotify.com/album/6O9oaYFECfRRBV5z2g0fbV) | 3:23 |
 | 47 | [Get Down](https://open.spotify.com/track/3PTHCjyRYLVMVxeUX59joC) | [Audio Adrenaline](https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER) | [The Ultimate Collection](https://open.spotify.com/album/47NIFvfpDVQbVaoDcfwKqy) | 3:14 |
 | 48 | [Gasoline](https://open.spotify.com/track/050IFBYeEqDS4FavXJifoe) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Skillet](https://open.spotify.com/album/5PUVPlbwm347Jt0Vdcw3s5) | 4:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 74 | [Why Do I Do](https://open.spotify.com/track/37KnIgKETYyOOXe56FLquT) | [Jump5](https://open.spotify.com/artist/0qa4GMXrmylKemymbElIwq) | [The Ultimate Collection](https://open.spotify.com/album/1DPCpHWC875p3L4xAVSIoX) | 3:22 |
 | 75 | [The Devil Is Bad](https://open.spotify.com/track/7HU4ubA9Ml4ztErtnHdOMW) | [The W's](https://open.spotify.com/artist/6hbwBTYR4mLag3kkI6wXSV) | [Fourth From The Last](https://open.spotify.com/album/5ZyJ4WdmnQEGI6vWOKs7Ab) | 3:33 |
 
-Snapshot ID: `MCxhYzQ4MGE4YzAxNGI1ZGM4NzgyM2EwMmMyOGQ3NTdjNDMwYWI5MGVj`
+Snapshot ID: `MCxlNzBiYmVhOTg5YTQ5MTE4MWMxZTRiY2U4YTk5ZTE2MzA2MzE3YzI5`

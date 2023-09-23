@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Paty B",
+  "description": "Fresh Latin pop on the rise. Cover: Manuel Medrano ",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -400,7 +400,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 145741,
       "name": "Alguien M\u00e1s",
       "url": "https://open.spotify.com/track/2B1wvUhXgpNQEaKrpbz4GB"
@@ -2338,7 +2338,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 175175,
       "name": "DIAMANTE",
       "url": "https://open.spotify.com/track/5HZH0Rbz2mRnqgBkBeTsOf"
@@ -3614,6 +3614,28 @@
       "duration_ms": 197272,
       "name": "Himalaya",
       "url": "https://open.spotify.com/track/74KFolNpy0UwidpiCu8oT4"
+    },
+    {
+      "album": {
+        "name": "Hora Loca",
+        "url": "https://open.spotify.com/album/5L7vepCGsq5Ji84DPEDjP8"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191825,
+      "name": "Hora Loca",
+      "url": "https://open.spotify.com/track/5vgwmo15qa4jKLFW726iaF"
     },
     {
       "album": {
@@ -5040,7 +5062,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 195714,
       "name": "MI CLON",
       "url": "https://open.spotify.com/track/6EirSWHP9Q1it8S74vvg6o"
@@ -6693,6 +6715,24 @@
     },
     {
       "album": {
+        "name": "Piloto",
+        "url": "https://open.spotify.com/album/7M5aY3GmyqVZ1QTX9FGpAQ"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Pagan",
+          "url": "https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197739,
+      "name": "Piloto",
+      "url": "https://open.spotify.com/track/5zkg48j0gxSLy59XSVzs9K"
+    },
+    {
+      "album": {
         "name": "plan",
         "url": "https://open.spotify.com/album/0aj9WFB9hsubUgiU6jolp9"
       },
@@ -7206,7 +7246,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 206546,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/2Zq2coIIUUPBOhfXdDvz61"
@@ -8319,6 +8359,24 @@
     },
     {
       "album": {
+        "name": "Terrenas",
+        "url": "https://open.spotify.com/album/06Q5tx0RnwRsyUG9lxXl6p"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172928,
+      "name": "Terrenas",
+      "url": "https://open.spotify.com/track/09bjw433XQN5p3M9lSyToN"
+    },
+    {
+      "album": {
         "name": "Thinking About You",
         "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
       },
@@ -8348,7 +8406,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 91371,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/2cTMmwJpMuGxH4AQUhS2qh"
@@ -8989,6 +9047,24 @@
     },
     {
       "album": {
+        "name": "Verano En NY",
+        "url": "https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186617,
+      "name": "Verano En NY",
+      "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
+    },
+    {
+      "album": {
         "name": "Vestido Azul",
         "url": "https://open.spotify.com/album/1cG0jWGYtjHLwkBDLu3evL"
       },
@@ -9066,6 +9142,24 @@
       "duration_ms": 202409,
       "name": "Vientos De Octubre",
       "url": "https://open.spotify.com/track/4gkp9363KMagdNiJ5lJmVT"
+    },
+    {
+      "album": {
+        "name": "Vivir Sin Ti",
+        "url": "https://open.spotify.com/album/0dDw8rrirY1bIT438Mww1t"
+      },
+      "artists": [
+        {
+          "name": "Alessandra Aguirre",
+          "url": "https://open.spotify.com/artist/0m4SQNU6NyIJxjsSQRGfpB"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215735,
+      "name": "Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/3T7McfB15Chvm5HVQ1T4b5"
     },
     {
       "album": {

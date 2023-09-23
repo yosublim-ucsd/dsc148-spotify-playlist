@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 
 > chansons pour journées ensoleillées 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,607 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,622 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 | 99 | [Nouvelle\-Orléans](https://open.spotify.com/track/1CCKf8yGsKuVz5cgRwgShM) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paradigmes](https://open.spotify.com/album/1u2Q5MFWptOdPpldjC0xO9) | 3:53 |
 | 100 | [Way to be Loved](https://open.spotify.com/track/3wO7lEbQYuxxEXmwfk335E) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Picture You Staring](https://open.spotify.com/album/4z3LIKiUlP8T192JheUI1U) | 4:23 |
 
-Snapshot ID: `MCxiMTU1ODJiNzg2OTg3MDU0ODBmYzA5YjUzMWZhZGQ0NWJkYTExMDJj`
+Snapshot ID: `MCwwNmExMDE0OWFiZWMxYTM4NmEwYjVkYTc5NDA1YzQxYjAwMmVmNDZl`

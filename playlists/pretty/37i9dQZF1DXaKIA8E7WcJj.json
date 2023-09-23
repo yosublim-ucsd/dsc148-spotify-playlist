@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1960s.\n",
-  "num_followers": 2896090,
+  "num_followers": 2896568,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzgxZmZlYzk3NmUzOGRkNzYzYzk1ZmE0YmRlNjhlNjM2NDdhZmY2",
+  "snapshot_id": "MCw4NjkzZTgwYjZjM2UzNDA0ZTcwMTFiYjk2MDA3MDY2NTk5ZmM0NzNh",
   "tracks": [
     {
       "added_at": "2022-08-12 11:06:50",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Kinks (Deluxe)",
-        "url": "https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 131573,
-      "name": "You Really Got Me",
-      "url": "https://open.spotify.com/track/29SyMC0plk6qw8NMF7lfRL"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 161906,
       "name": "You Never Can Tell",
       "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Kinks (Deluxe)",
+        "url": "https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 131573,
+      "name": "You Really Got Me",
+      "url": "https://open.spotify.com/track/29SyMC0plk6qw8NMF7lfRL"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Do you Believe In Magic",
-        "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
       },
       "artists": [
         {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 125826,
-      "name": "Do You Believe in Magic?",
-      "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
+        "name": "Do you Believe In Magic",
+        "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
         }
       ],
-      "duration_ms": 119880,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
+      "duration_ms": 125826,
+      "name": "Do You Believe in Magic?",
+      "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1107,6 +1107,22 @@
       "duration_ms": 174840,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Bee Gees' 1st",
+        "url": "https://open.spotify.com/album/2ESenDgBlvBFn6G1SfVZIw"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/0mbS3VwRbO6HVBMPXnzOGA"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1139,22 +1155,6 @@
       "duration_ms": 210160,
       "name": "Hey Joe",
       "url": "https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Bee Gees' 1st",
-        "url": "https://open.spotify.com/album/2ESenDgBlvBFn6G1SfVZIw"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/0mbS3VwRbO6HVBMPXnzOGA"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 149613,
-      "name": "Homeward Bound",
-      "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "I Put A Spell On You",
         "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 155026,
       "name": "I Put A Spell On You",
       "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 149613,
+      "name": "Homeward Bound",
+      "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Bring It On Home to Me",
-      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Showcase",
         "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 172946,
       "name": "Do You Love Me - Mono Single",
       "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Bring It On Home to Me",
+      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 220400,
       "name": "Girl from the North Country",
       "url": "https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 175853,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/5zQyqgNXKzhifkivumzxDS"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "The Essential Skeeter Davis",
         "url": "https://open.spotify.com/album/3KwArr7JHl7ykUNYrrja7N"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 157573,
       "name": "The End of the World",
       "url": "https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 175853,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/5zQyqgNXKzhifkivumzxDS"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2199,6 +2199,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "From Nowhere",
+        "url": "https://open.spotify.com/album/1myVNI7Ucy8g9HudbJ8Vu2"
+      },
+      "artists": [
+        {
+          "name": "The Troggs",
+          "url": "https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25"
+        }
+      ],
+      "duration_ms": 155333,
+      "name": "Wild Thing",
+      "url": "https://open.spotify.com/track/7jGzYUZ2Bgg8BDfYlQRfn8"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
         "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
       },
@@ -2227,22 +2243,6 @@
       "duration_ms": 201733,
       "name": "Try a Little Tenderness",
       "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "From Nowhere",
-        "url": "https://open.spotify.com/album/1myVNI7Ucy8g9HudbJ8Vu2"
-      },
-      "artists": [
-        {
-          "name": "The Troggs",
-          "url": "https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25"
-        }
-      ],
-      "duration_ms": 155333,
-      "name": "Wild Thing",
-      "url": "https://open.spotify.com/track/7jGzYUZ2Bgg8BDfYlQRfn8"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2347,6 +2347,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "Reach Out I'll Be There",
+      "url": "https://open.spotify.com/track/6Pkj4nv5K53i64cLVgkVyY"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Heat Wave",
         "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
       },
@@ -2359,22 +2375,6 @@
       "duration_ms": 163053,
       "name": "(Love Is Like A) Heat Wave",
       "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Going To A Go-Go",
-        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "The Tracks Of My Tears",
-      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2395,18 +2395,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Reach Out",
-        "url": "https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp"
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
       },
       "artists": [
         {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
         }
       ],
-      "duration_ms": 178533,
-      "name": "Reach Out I'll Be There",
-      "url": "https://open.spotify.com/track/6Pkj4nv5K53i64cLVgkVyY"
+      "duration_ms": 174360,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
     },
     {
       "added_at": "2022-08-12 11:06:50",

@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Zena Emad
 
-551 songs - 1 day 8 hr 3 min
+552 songs - 1 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Ana Aghar](https://open.spotify.com/track/4RIYFfuJ80QpWaufFwDrl2) | [Joan Husssein](https://open.spotify.com/artist/35hdPES6rNnAfwx4b2Tze7) | [Ana Aghar](https://open.spotify.com/album/6kkhEalG1bDhUpVkZxwB6v) | 4:20 | 2022-03-01 | 2022-07-29 |
 | [Ana El Bent](https://open.spotify.com/track/7AJLni3cxsh32VuYVr7wgH) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Ana El Bent](https://open.spotify.com/album/3w6UgD8PcJDOX5I33JKSVO) | 3:17 | 2023-07-25 |  |
 | [Ana El Mostahel](https://open.spotify.com/track/4lYozOwaI7qe9clHySo8UN) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [Ana El Mostahel](https://open.spotify.com/album/7BmITE5PHY7SF8bblQWfQg) | 4:21 | 2022-03-11 | 2022-10-17 |
-| [Ana Kwaiesa](https://open.spotify.com/track/5RoqJbplHkPfnuhbgox0Wa) | [Amal Maher](https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl) | [Ana Kwaiesa](https://open.spotify.com/album/1Px3yEgGoNjt5gMfbpZcHr) | 4:15 | 2023-09-22 |  |
+| [Ana Kwaiesa](https://open.spotify.com/track/5RoqJbplHkPfnuhbgox0Wa) | [Amal Maher](https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl) | [Ana Kwaiesa](https://open.spotify.com/album/1Px3yEgGoNjt5gMfbpZcHr) | 4:15 | 2023-09-22 | 2023-09-23 |
 | [Ana Majnouna](https://open.spotify.com/track/4Iq7OP49gPTh7ldmelQs6l) | [Hala Al Turk](https://open.spotify.com/artist/08XpoQUQ8CrwDVMo1BOEpj) | [Ana Majnouna](https://open.spotify.com/album/4NBYYKXSrXAGwfANAqWyYa) | 2:42 | 2022-11-15 | 2022-11-20 |
 | [Ana Men](https://open.spotify.com/track/0t0wTAuASealrrHyrkYdF6) | [May Abd El Aziz](https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j) | [Ana Men](https://open.spotify.com/album/4iCFKHnPhLPceHgpAuF4ZO) | 3:34 | 2021-12-23 | 2022-02-27 |
 | [Ana Wein](https://open.spotify.com/track/5FUkSeyQJaH4kZ8frwvKYo) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Ana Wein](https://open.spotify.com/album/4ahaqIfKhv72tl8TxDzjHt) | 3:52 | 2023-03-02 | 2023-07-14 |
@@ -78,6 +78,7 @@
 | [Ask the Birds in Cairo](https://open.spotify.com/track/0smhfpWtRIvkZfmSHtlqFP) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [MC Bolbol](https://open.spotify.com/artist/2pvO2XJbzr9F3kzPwPsZW3) | [Citadel](https://open.spotify.com/album/5R5Y42WWQaGI2ZLl9AUkeo) | 3:47 | 2021-12-30 | 2022-02-26 |
 | [Asli Barri](https://open.spotify.com/track/03KTLf6CPbn53mvq96zybI) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6), [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7), [Nancy Hawa](https://open.spotify.com/artist/6dFTgftg5qijJnLBRPqWUd), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL), [Yusor Hamed](https://open.spotify.com/artist/6ed5NBGyvev1Q2JzDIS47x) | [Asli Barri](https://open.spotify.com/album/5fnQD9hhQa40g4Bk1xFdsX) | 3:32 | 2021-12-23 | 2022-03-02 |
 | [Atoul](https://open.spotify.com/track/2nxNsJ9Lve8edydwY8oL5b) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Atoul](https://open.spotify.com/album/7uR9bmwan77bo430VOvIzX) | 2:42 | 2022-03-03 | 2023-05-13 |
+| [Ayzak Ala Enferad](https://open.spotify.com/track/7GvJaBiQmrzLP5FNz61p47) | [Waed](https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg) | [Ayzak Ala Enferad](https://open.spotify.com/album/5gtfKG7lMH9U5hZjCoV3U3) | 3:18 | 2023-09-22 |  |
 | [Ba3d Al Frak](https://open.spotify.com/track/01KJufb1Qt3s3xeiRZll1z) | [Deema Cam](https://open.spotify.com/artist/6r28s3Wv8IIIQgKptX71zj) | [Ba3d Al Frak](https://open.spotify.com/album/0iHOLK0SOIEP4YnNi6wG7S) | 3:54 | 2021-12-23 | 2022-03-01 |
 | [Ba9i](https://open.spotify.com/track/1oTZuVigsvGyUHM9zMOKFM) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Ba9i](https://open.spotify.com/album/0zQqQuBMkh7xratGdm5cwW) | 3:37 | 2021-12-23 | 2022-03-02 |
 | [Baad Sneen](https://open.spotify.com/track/613tFlzrS2BfYZ1zqcTHqZ) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX) | [Baad Sneen](https://open.spotify.com/album/6GIUWZvRkFJyjgLwXak8Md) | 3:42 | 2023-05-04 | 2023-09-09 |

@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 61328,
+  "num_followers": 61345,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2JjOThkY2NkNmU5NzUxYjQ4ZjYxNDE2ZWE2OWEyMDcyMDM0Nzkw",
+  "snapshot_id": "MCxmMTIyMDIxZTI3NTE3ODVlMjFlNmI2NThlNjJjZWIyNzQ1NmEyNzgz",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -363,22 +363,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Whatever People Say I Am, That's What I'm Not",
-        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 141133,
-      "name": "Dancing Shoes",
-      "url": "https://open.spotify.com/track/0hAMkY2kwdXPPDfQ1e3BmJ"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Speak & Spell (2006 Remaster)",
         "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 222760,
       "name": "Just Can't Get Enough - 2006 Remaster",
       "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 141133,
+      "name": "Dancing Shoes",
+      "url": "https://open.spotify.com/track/0hAMkY2kwdXPPDfQ1e3BmJ"
     },
     {
       "added_at": "2021-06-15 09:25:05",

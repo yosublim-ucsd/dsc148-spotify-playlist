@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-117 songs - 8 hr 2 min
+118 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Summum Bonum](https://open.spotify.com/track/1i0GPOOiWudGbWlApdADbp) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Cassa Nova](https://open.spotify.com/album/7qDgQiJVHJwOiFtYCBYIxn) | 4:41 | 2022-05-26 | 2023-04-30 |
 | [Summum Bonum](https://open.spotify.com/track/1QYoKJcQyYDlXXrNRJMk6q) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Cassa Nova](https://open.spotify.com/album/5o6i6YQEXWa8oNy38aHrrI) | 4:41 | 2023-03-16 |  |
 | [Sungguh Terlalu](https://open.spotify.com/track/2ooOtbd0mJ27xhwwGCnnkb) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV) | [Sungguh Terlalu](https://open.spotify.com/album/1TDcayS0iX7Ky7O0a6qvEs) | 4:17 | 2022-05-26 | 2022-12-10 |
-| [Sungguh Terlalu](https://open.spotify.com/track/7wQDwTshgxYJyXmdVR9ncE) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV) | [A Tiny Bit of Gold In The Dark Ocean](https://open.spotify.com/album/2ye0rT388zwLfuvv4RdRM0) | 4:17 | 2022-12-08 |  |
+| [Sungguh Terlalu](https://open.spotify.com/track/7wQDwTshgxYJyXmdVR9ncE) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV) | [A Tiny Bit of Gold In The Dark Ocean](https://open.spotify.com/album/2ye0rT388zwLfuvv4RdRM0) | 4:17 | 2022-12-08 | 2023-09-23 |
 | [Sunkissed \(feat\. Châu Bùi\)](https://open.spotify.com/track/1HQcB17Uevy4vdHlsuqCqe) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4), [Châu Bùi](https://open.spotify.com/artist/6mKDR6IdsyqRp38x1uigAR) | [Sunkissed \(feat\. Châu Bùi\)](https://open.spotify.com/album/2greZVau20V2fjDYKe7PcK) | 3:22 | 2022-05-26 |  |
 | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6) | 3:53 | 2022-08-30 |  |
 | [Taman Anak\-Anak](https://open.spotify.com/track/1uKJr3V995pBJ9oJuXCuCn) | [Alahad](https://open.spotify.com/artist/7AaHhQPFtgAiytNjj81Wmt) | [Taman Anak\-Anak](https://open.spotify.com/album/50xHVSEMYhkZ7evx6WfyDP) | 3:56 | 2023-07-06 |  |
@@ -111,6 +111,7 @@
 | [You're My Everything](https://open.spotify.com/track/77wZQJsPyqE4hYg2AXsNhu) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [You're My Everything](https://open.spotify.com/album/6S5BlJeryFRwxm6ApQ6ncz) | 3:32 | 2023-02-02 |  |
 | [Your Love Is My Morning Sun](https://open.spotify.com/track/2NUkNwQ0mueTBvjk2B8qO5) | [Chucheewa](https://open.spotify.com/artist/3CGdklrdSj2in8Kjc43hQU), [Casinotone](https://open.spotify.com/artist/3k9FRWf2JzOTyJFWNwhTvA) | [Your Love Is My Morning Sun](https://open.spotify.com/album/2Mf8sJl6JHdep4HXFvfeMH) | 4:53 | 2022-05-26 | 2023-02-03 |
 | [Yth: NAIF](https://open.spotify.com/track/0YuZ7HexTHIw6Dm2n9ZDab) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd), [KawaNAIF](https://open.spotify.com/artist/3VRqVXKE255LdwstWIkl0W) | [Yth: NAIF](https://open.spotify.com/album/4nANc60JTeBPqn2j2ZvJZl) | 4:55 | 2022-05-26 |  |
+| [คิดสิ](https://open.spotify.com/track/2ETNrSPgFzST9bNmUKQzEM) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [คิดสิ](https://open.spotify.com/album/3cl7sIBeKmZwJ0pTMEikLY) | 3:57 | 2023-09-22 |  |
 | [ประกาศให้โลกรู้](https://open.spotify.com/track/5IdsoQa6jJY988phl22EPC) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ประกาศให้โลกรู้](https://open.spotify.com/album/7rj1LF1of31j98OJnOckkS) | 4:05 | 2023-03-09 |  |
 | [เกี่ยวกันไหม \(You\)](https://open.spotify.com/track/2IuZlsxVbaDpYvfkZyWvnN) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [BLISS](https://open.spotify.com/album/4mdc1YH7aJo13ZgvihEkOa) | 4:14 | 2022-05-26 | 2022-11-17 |
 | [เกี่ยวกันไหม \(You\)](https://open.spotify.com/track/3Qoq9Wi8SYn5gnBSn0FPku) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [Bliss](https://open.spotify.com/album/2KIuhe1oMCte5xpN9bmDrS) | 4:14 | 2022-05-26 | 2022-07-29 |

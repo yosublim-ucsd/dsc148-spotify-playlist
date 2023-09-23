@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。<br/>生命太短促 痛太清楚 才讓你讓我 愛到無退路。
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,382 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,387 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 49 | [短髮](https://open.spotify.com/track/5IRrr5Dqp1dUU1ftUSchMO) | [Gigi Leung](https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau) | [最愛梁詠琪新歌+精選](https://open.spotify.com/album/6LjnjLi8J3HtfKzYEpfTbg) | 4:40 |
 | 50 | [記得](https://open.spotify.com/track/6bBs2Ws2YfdSlT3gNC2ZN0) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp), [Jerry Lin](https://open.spotify.com/artist/1XmumGa6Cu6YPXpPFkLNMm) | [真實](https://open.spotify.com/album/3hIxtGdXE0qPrSRGZwnPbw) | 4:46 |
 
-Snapshot ID: `MCw2MGYwMWYwNDJmYjQ2OGI1ZTA5YzBhY2FhMGFjNjRhOWU4ODQzMzk1`
+Snapshot ID: `MCxlN2FhNDA3ZmM0YjNhYzAzZjgwMjQ2ZGZmYmVhYjJhNDEwYjlhNzEy`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B lives. Featuring Diddy, Cleo Sol, Victoria Mon\u00e9t and more.",
+  "description": "Where R&B lives. Featuring Brent Faiyaz, SZA, Summer Walker and more.",
   "name": "RNB X",
   "tracks": [
     {
@@ -130,6 +130,24 @@
       "duration_ms": 181911,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36"
+    },
+    {
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
     },
     {
       "album": {
@@ -1922,7 +1940,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 121283,
       "name": "Fell In Love",
       "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
@@ -3138,7 +3156,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 209473,
       "name": "I'm The One",
       "url": "https://open.spotify.com/track/1zNn3HYROuUzPrTLXXBRXk"
@@ -3654,7 +3672,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 216524,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
@@ -4332,7 +4350,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-23",
       "duration_ms": 187723,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
@@ -7175,6 +7193,28 @@
     },
     {
       "album": {
+        "name": "The Love Album: Off The Grid",
+        "url": "https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "NOVA WAV",
+          "url": "https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194360,
+      "name": "What\u2019s Love (feat. NOVA WAV)",
+      "url": "https://open.spotify.com/track/21yOrYYYOQ3RLjbBYcXzAV"
+    },
+    {
+      "album": {
         "name": "Where I Go (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
       },
@@ -7326,6 +7366,24 @@
       "duration_ms": 186095,
       "name": "Words of Affirmation",
       "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
+    },
+    {
+      "album": {
+        "name": "WY@",
+        "url": "https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208040,
+      "name": "WY@",
+      "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 
 > Mejor seguimos cantando, como cantaba el abuelo\. ¡Garganta pa' que te quiero, si no pa' cantarle al pueblo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,074 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,079 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 50 | [Perdón \(with Alejandro Fernández\) \- Remasterizado 2005](https://open.spotify.com/track/7yXN5WniQqoKxtFIRQeRkk) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mis Duetos](https://open.spotify.com/album/1jSkqqoREpC4oEERkILwAG) | 3:34 |
 | 51 | [La Mitad Que Me Faltaba](https://open.spotify.com/track/1LV1VwcmwEYt7aHYfiPtbv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 3:25 |
 | 52 | [Más No Puedo](https://open.spotify.com/track/68teZcAANkNhea13y7GqDP) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:42 |
-| 53 | [Nube Viajera](https://open.spotify.com/track/6L4fL5BzvvkDLTHs67Uqo6) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:04 |
-| 54 | [Por Tu Maldito Amor](https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1) | 3:56 |
+| 53 | [Por Tu Maldito Amor](https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1) | 3:56 |
+| 54 | [Nube Viajera](https://open.spotify.com/track/6L4fL5BzvvkDLTHs67Uqo6) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:04 |
 | 55 | [Vamos A Darnos Tiempo \- Live At El Lunario En La Ciudad De México/2010](https://open.spotify.com/track/6DnpQbM6kELQYZ3jXCayo3) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Revolución En Vivo \(Live At El Lunario En La Ciudad De México/2010\)](https://open.spotify.com/album/00toeVbLBW5ZFWTzKZfQ9n) | 4:17 |
 | 56 | [No Sé Olvidar](https://open.spotify.com/track/5GRw7thRUAl9hYx9V8jbPk) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:21 |
 | 57 | [Qué Voy a Hacer Con Mi Amor](https://open.spotify.com/track/2H2Tg24kqd1eA3F7BSQFSi) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:05 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 89 | [La Mesa 20](https://open.spotify.com/track/1dsIlMbsQao9WntC9SrwvO) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 2:40 |
 | 90 | [En el Jardín](https://open.spotify.com/track/3J0rEntEhkv5aE9vbr3VmF) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:50 |
 | 91 | [Cien Años](https://open.spotify.com/track/3XeHLWySChbhhvaZFRezpS) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Muriendo de Amor](https://open.spotify.com/album/5Jf4pcpIxqZLzcSkXbr6q3) | 2:54 |
-| 92 | [El Rey \- En Vivo \[Un Azteca en el Azteca\]](https://open.spotify.com/track/0bf0zZj6XCvNgAt7pIM7y6) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Azteca en el Azteca \(En Vivo\)](https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb) | 2:26 |
-| 93 | [Inocente](https://open.spotify.com/track/6cwPxkPg5Cf1Rb1mS4MZXY) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 3:06 |
+| 92 | [Inocente](https://open.spotify.com/track/6cwPxkPg5Cf1Rb1mS4MZXY) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 3:06 |
+| 93 | [El Rey \- En Vivo \[Un Azteca en el Azteca\]](https://open.spotify.com/track/0bf0zZj6XCvNgAt7pIM7y6) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Azteca en el Azteca \(En Vivo\)](https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb) | 2:26 |
 | 94 | [Mudanza A La Luna](https://open.spotify.com/track/5QtzrMvhtEUQzCkehNQqdh) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:48 |
 | 95 | [Acá Entre Nos \- En Vivo \[Un Azteca en el Azteca\]](https://open.spotify.com/track/42sXKjLh6v97XWojhwckLR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Azteca en el Azteca \(En Vivo\)](https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb) | 3:56 |
 | 96 | [Estos Celos \- En Vivo \[Un Azteca en el Azteca\]](https://open.spotify.com/track/0w2gzREUayU0MUNSMFrqnf) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Azteca en el Azteca \(En Vivo\)](https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 99 | [Hoy Decidí Olvidarte \(Aunque No Estés Conmigo\) \- En Vivo Desde El Teatro Real](https://open.spotify.com/track/19AnCk8PLWof2cQmTenZof) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias Reales \(En Vivo Desde El Teatro Real\)](https://open.spotify.com/album/1Psmz14dcKR0QEyoUeGxXP) | 4:17 |
 | 100 | [Prenda del Alma](https://open.spotify.com/track/70r0u0KuBKSkn3ahnNVbcw) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Muriendo de Amor](https://open.spotify.com/album/5Jf4pcpIxqZLzcSkXbr6q3) | 3:43 |
 
-Snapshot ID: `MCw0ODQ0ZWI3MGI4YWQ3MWNiOTNlNDMzN2JhZTUzMDVjMzAyZTI2MzNi`
+Snapshot ID: `MCxiMDMyNDQ5NjkwNjVjZWE4YWVjMDI2YTBjNmEyMWMwMzU0OGIxOWIz`

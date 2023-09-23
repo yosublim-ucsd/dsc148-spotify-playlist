@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover: D.O.\(디오\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,891 likes - 52 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,148 likes - 52 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 51 | [I want to be a pillow](https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_ello?](https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B) | 3:43 |
 | 52 | [Saying Hello](https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D) | 3:59 |
 
-Snapshot ID: `MCxkZGQ0ZTNjZTk4N2I3NzUyY2JkZDg0NTgzNGRhN2E3Y2VlMWMwZGE4`
+Snapshot ID: `MCxkOTZjN2Y4ZmFhNzA2ODE2ZWE3Y2IyM2ZjNDMzN2U0MTI2MzVmZTZm`

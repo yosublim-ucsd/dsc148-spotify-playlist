@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 14825,
+  "num_followers": 14875,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjk5ODhlODM4ZGE1MzQ5Yzg1NjE3NzVkNjkzNTQ5ODZlMTE5MjM3",
+  "snapshot_id": "MCwzODQ4MWQ2OWNmODYwY2Y1NTRkYWI0YTY4ZWYyOTAyNDg3Y2FhY2Ew",
   "tracks": [
     {
       "added_at": "2023-09-21 23:00:00",
@@ -119,22 +119,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Wetin",
-        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 78946,
-      "name": "Wetin",
-      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "The Lost Petals",
         "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 121695,
       "name": "Once More",
       "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Wetin",
+        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 78946,
+      "name": "Wetin",
+      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Tequila Ever After",
-        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 199825,
-      "name": "Make It Easy (with Coco Jones)",
-      "url": "https://open.spotify.com/track/54bu2ltIe6yARxA7CvwNuX"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "I Love It Here",
         "url": "https://open.spotify.com/album/3BzDtldlIXJJGh9Qc7tbLK"
       },
@@ -1067,34 +1047,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
+        "name": "Tequila Ever After",
+        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
       },
       "artists": [
         {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 164196,
-      "name": "Give A Little Kindness",
-      "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp"
-      },
-      "artists": [
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
         {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
         }
       ],
-      "duration_ms": 185341,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
+      "duration_ms": 199825,
+      "name": "Make It Easy (with Coco Jones)",
+      "url": "https://open.spotify.com/track/54bu2ltIe6yARxA7CvwNuX"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1127,6 +1095,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 164196,
+      "name": "Give A Little Kindness",
+      "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/0yiKEn4Xgl1M8HSlmTWNS2"
       },
@@ -1139,6 +1123,38 @@
       "duration_ms": 250481,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/0uWn41XAyeYza4CIubkoD4"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 185341,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "I Love It Here",
+        "url": "https://open.spotify.com/album/3BzDtldlIXJJGh9Qc7tbLK"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 228936,
+      "name": "Know Yourself",
+      "url": "https://open.spotify.com/track/6wCbvwag0wNRBbhZuXwVpk"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Ouu Ahh",
-        "url": "https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 165274,
-      "name": "Ouu Ahh",
-      "url": "https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
       },
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "Ouu Ahh",
+        "url": "https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 165274,
+      "name": "Ouu Ahh",
+      "url": "https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -1219,46 +1235,6 @@
       "duration_ms": 169031,
       "name": "safe haven",
       "url": "https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "I Love It Here",
-        "url": "https://open.spotify.com/album/3BzDtldlIXJJGh9Qc7tbLK"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 228936,
-      "name": "Know Yourself",
-      "url": "https://open.spotify.com/track/6wCbvwag0wNRBbhZuXwVpk"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "5th Dimension",
-        "url": "https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1283,6 +1259,30 @@
       "duration_ms": 220264,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "5th Dimension",
+        "url": "https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1319,6 +1319,22 @@
       "duration_ms": 234384,
       "name": "Foreigner",
       "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Say Salud",
+        "url": "https://open.spotify.com/album/6Yk2SJXrtKsP64Sdn1y3Z6"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "Say Salud",
+      "url": "https://open.spotify.com/track/3LaMO5jj65HG15NqlJsI3I"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1379,18 +1395,38 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Say Salud",
-        "url": "https://open.spotify.com/album/6Yk2SJXrtKsP64Sdn1y3Z6"
+        "name": "Caught Up (with L.A.X)",
+        "url": "https://open.spotify.com/album/0oqFBdsXbcEJoBvbYPOSgv"
       },
       "artists": [
         {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+          "name": "Ananya Birla",
+          "url": "https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
         }
       ],
-      "duration_ms": 156428,
-      "name": "Say Salud",
-      "url": "https://open.spotify.com/track/3LaMO5jj65HG15NqlJsI3I"
+      "duration_ms": 206831,
+      "name": "Caught Up (with L.A.X)",
+      "url": "https://open.spotify.com/track/1ABjNDCB0idRxu2kpcgWsc"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Jara",
+        "url": "https://open.spotify.com/album/6vda4JDcL24Ango61D6jGU"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 160644,
+      "name": "Jara",
+      "url": "https://open.spotify.com/track/4Kp8RzMUbGSEkjrElCRgww"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1411,22 +1447,6 @@
       "duration_ms": 159000,
       "name": "In The Light - Stripped Version",
       "url": "https://open.spotify.com/track/5mYqU9e8dtRolpcS1FFE5B"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Jara",
-        "url": "https://open.spotify.com/album/6vda4JDcL24Ango61D6jGU"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 160644,
-      "name": "Jara",
-      "url": "https://open.spotify.com/track/4Kp8RzMUbGSEkjrElCRgww"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1467,26 +1487,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Undercover Lover",
-        "url": "https://open.spotify.com/album/11T4lEhgDKLOA6be6OUzfP"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Twelve XII",
-          "url": "https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi"
-        }
-      ],
-      "duration_ms": 152072,
-      "name": "Undercover Lover",
-      "url": "https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "Undercover Lover",
+        "url": "https://open.spotify.com/album/11T4lEhgDKLOA6be6OUzfP"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Twelve XII",
+          "url": "https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi"
+        }
+      ],
+      "duration_ms": 152072,
+      "name": "Undercover Lover",
+      "url": "https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt"
       },
@@ -1527,26 +1547,6 @@
       "duration_ms": 205601,
       "name": "Love Me or Leave Me",
       "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Jane",
-        "url": "https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 202372,
-      "name": "Jane",
-      "url": "https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y"
     }
   ],
   "unique_name": "Cocoa Butter ",

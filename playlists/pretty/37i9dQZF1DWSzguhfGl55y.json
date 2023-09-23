@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 617200,
+  "num_followers": 617322,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDcyNjJjOGVmMjhhMmU1ZTA3NmM3MWQ0MWI5NDc5MWEzMzI1YWM5",
+  "snapshot_id": "MCxiZjVhNzk5NWRiODIwYjA5MWU3NzI1MWZlNWQ1YmJjYzBlNDIzMjBh",
   "tracks": [
     {
       "added_at": "2023-07-13 12:12:51",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
-        "name": "Zum Gl\u00fcck in die Zukunft",
-        "url": "https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg"
-      },
-      "artists": [
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        },
-        {
-          "name": "Yasha",
-          "url": "https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Verstrahlt",
-      "url": "https://open.spotify.com/track/1wblDHAGAHk9v3prkgPZwI"
-    },
-    {
-      "added_at": "2023-07-13 12:12:51",
-      "album": {
         "name": "Prison Break Anthem (Ich Glaub An Dich)",
         "url": "https://open.spotify.com/album/1xeVXMLFtHrldJwO4nbNdK"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 242813,
       "name": "Prison Break Anthem (Ich Glaub An Dich) - Single Version",
       "url": "https://open.spotify.com/track/1mC06CRaWGhsWhdX99GJqL"
+    },
+    {
+      "added_at": "2023-07-13 12:12:51",
+      "album": {
+        "name": "Zum Gl\u00fcck in die Zukunft",
+        "url": "https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg"
+      },
+      "artists": [
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        },
+        {
+          "name": "Yasha",
+          "url": "https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Verstrahlt",
+      "url": "https://open.spotify.com/track/1wblDHAGAHk9v3prkgPZwI"
     },
     {
       "added_at": "2023-07-13 12:12:51",
@@ -787,18 +787,22 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
-        "name": "Zum Gl\u00fcck in die Zukunft",
-        "url": "https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg"
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/2bsldlysGbFc8Kqg0iItlU"
       },
       "artists": [
         {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+          "name": "AZAD",
+          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
+        },
+        {
+          "name": "Cassandra Steen",
+          "url": "https://open.spotify.com/artist/6wbgb7phg82I4tnO6GWMhr"
         }
       ],
-      "duration_ms": 224080,
-      "name": "Endboss",
-      "url": "https://open.spotify.com/track/7pRY7ku84Y3x3nPoB2gxy0"
+      "duration_ms": 221346,
+      "name": "Eines Tages (feat. Cassandra Steen) - Single Edit",
+      "url": "https://open.spotify.com/track/3U0yDyVzdjhOcl3TcEDylU"
     },
     {
       "added_at": "2023-07-13 12:12:51",
@@ -823,22 +827,18 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/2bsldlysGbFc8Kqg0iItlU"
+        "name": "Zum Gl\u00fcck in die Zukunft",
+        "url": "https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg"
       },
       "artists": [
         {
-          "name": "AZAD",
-          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
-        },
-        {
-          "name": "Cassandra Steen",
-          "url": "https://open.spotify.com/artist/6wbgb7phg82I4tnO6GWMhr"
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
         }
       ],
-      "duration_ms": 221346,
-      "name": "Eines Tages (feat. Cassandra Steen) - Single Edit",
-      "url": "https://open.spotify.com/track/3U0yDyVzdjhOcl3TcEDylU"
+      "duration_ms": 224080,
+      "name": "Endboss",
+      "url": "https://open.spotify.com/track/7pRY7ku84Y3x3nPoB2gxy0"
     },
     {
       "added_at": "2023-07-13 12:12:51",

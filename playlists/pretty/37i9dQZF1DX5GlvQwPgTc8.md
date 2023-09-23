@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 
 > Your favourite party hits to kick off the weekend\. Can you taste it?
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,851 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,850 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 | 24 | [Lullaby](https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [The Wave](https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a) | 2:40 |
 | 25 | [Call on Me \- Ryan Riback Remix](https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [Call On Me \(Remixes\)](https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ) | 3:42 |
 | 26 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 |
-| 27 | [Bad](https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Bad](https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00) | 2:49 |
-| 28 | [Faded](https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc) | 3:43 |
+| 27 | [Faded](https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc) | 3:43 |
+| 28 | [Bad](https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Bad](https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00) | 2:49 |
 | 29 | [Are You With Me \- Radio Edit](https://open.spotify.com/track/62nhuooamoroYpJyqE0nLd) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH) | 2:18 |
 | 30 | [Drive \- Edit](https://open.spotify.com/track/3XsNRi2cypsksscysYbyaF) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 3:11 |
 | 31 | [L'amour toujours \(feat\. Delaney Jane\) \- Tiësto Edit](https://open.spotify.com/track/4UutBLYMby6whu2bMYh9Oa) | [Dzeko & Torres](https://open.spotify.com/artist/5Ip2ecnyGpNyZvPuuYU8Ai), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [L'amour toujours \(feat\. Delaney Jane\) \[Tiësto Edit\]](https://open.spotify.com/album/7xHel31VzvhY5VoPFCiq6g) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 | 49 | [Obsessed](https://open.spotify.com/track/7p4tetW3qNwSCz92PLGJg5) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Obsessed](https://open.spotify.com/album/6rlqFfCAuPnZUFmS8sCIWw) | 3:29 |
 | 50 | [Particula](https://open.spotify.com/track/0e8fTfa0ZKCwOi2UdULooT) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [Know No Better](https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC) | 3:24 |
 
-Snapshot ID: `MCwwMjYyMmI3ZWE0NjZjMTdhNjdhZTVhNGM3MzZmNTIwYTk4ZmU1OWFh`
+Snapshot ID: `MCxhYjUyZTAzYjQxYjUyN2M0NGQ2NmY2YTE3MDE2ZmIxMWQzMzM3ZjU1`

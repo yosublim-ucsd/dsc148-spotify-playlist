@@ -4,7 +4,7 @@
 
 > Soul meets blues\. Cover: Joe Louis Walker
 
-90 songs - 6 hr 37 min
+91 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,10 +66,11 @@
 | [No Regrets](https://open.spotify.com/track/0d6zDOS0Zk0Kkar2Lrp20P) | [Mighty Mo Rodgers](https://open.spotify.com/artist/03iIha4mNgohGeWoOqLrXm) | [Blues Is My Wailin' Wall](https://open.spotify.com/album/0XaRMLkHX5jGdnF6YATIRQ) | 4:57 | 2020-12-01 |  |
 | [None Of Us Are Free](https://open.spotify.com/track/1MBgaJoraHR7RHgAV58QU4) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Don't Give Up On Me](https://open.spotify.com/album/5fPt2yO2JG9ymtO1PNz5iK) | 5:29 | 2020-12-01 |  |
 | [On The Drift](https://open.spotify.com/track/5IlAb89iBEgBzd27yyQLOX) | [Bobby Wayne](https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA) | [Hit That Thing](https://open.spotify.com/album/46rNncqCqYequ72xyfnD55) | 5:20 | 2020-12-01 |  |
-| [On The Surface](https://open.spotify.com/track/0qQTdGIA3YPcC1L3kaJpm4) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [I've Got My Own Hell To Raise](https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC) | 3:26 | 2020-12-01 |  |
+| [On The Surface](https://open.spotify.com/track/0qQTdGIA3YPcC1L3kaJpm4) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [I've Got My Own Hell To Raise](https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC) | 3:26 | 2020-12-01 | 2023-09-23 |
 | [One Monkey Don't Stop No Show](https://open.spotify.com/track/46CVcMYhTAfH5ls1XCcGne) | [Trudy Lynn](https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz) | [Blues Keep Knockin'](https://open.spotify.com/album/3TkTF2vFl6agmhQ3F6dSaz) | 3:14 | 2020-12-01 |  |
 | [Out of Love](https://open.spotify.com/track/1JGEgNKQ438BSiNbNFXPV1) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Fire It Up](https://open.spotify.com/album/6LC0JgaYxblH0m74rvvULm) | 3:42 | 2021-04-23 | 2022-07-29 |
 | [Out Of Love](https://open.spotify.com/track/4eWh67wskXcVPXFdSSlrQS) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Fire It Up](https://open.spotify.com/album/4Xsv6JN4IqEz3rXfPCBAkn) | 3:42 | 2021-04-23 |  |
+| [Out Of Sight](https://open.spotify.com/track/3s6cuxFNe2so5aX2NTAM6Q) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd), [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Out Of Sight](https://open.spotify.com/album/5o9sRpyDsuhc3fiS7y99gK) | 3:48 | 2023-09-22 |  |
 | [Reckless Heart](https://open.spotify.com/track/2P4SDDe2O1sMNETDMK2NXF) | [Johnny Rawls](https://open.spotify.com/artist/7vuXCITiRilCLfuySIgZKM) | [Tiger in a Cage](https://open.spotify.com/album/2y2airR6ysuixHtrYfHpEG) | 4:25 | 2020-12-01 |  |
 | [Say What You Mean](https://open.spotify.com/track/7moJNXUN9kWKhUYgE55pKG) | [Robert Ward](https://open.spotify.com/artist/2EhEsO2w9hIRm84aiy6sla) | [Rhythm Of The People](https://open.spotify.com/album/63srEUyuzfcMeuSBQn5fvB) | 4:21 | 2020-12-01 |  |
 | [Someday Baby](https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg) | [Chick Willis](https://open.spotify.com/artist/0NrO6QCCIuFygHBeEN670A) | [From the Heart and Soul](https://open.spotify.com/album/3uwUrRcmhucNTtlNmaXtNn) | 4:42 | 2020-12-01 |  |

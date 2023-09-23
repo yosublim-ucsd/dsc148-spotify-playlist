@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,294 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,317 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 16 | [Someday](https://open.spotify.com/track/5W3SrNE55U2N5kg2ygA1lx) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/685mm3HkTIAFJYRSpGJul8) | 4:18 |
 | 17 | [Can't Go](https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because This Is My First Life \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp) | 3:31 |
 | 18 | [The Snowman](https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk) | 3:56 |
-| 19 | [Dreaming About You](https://open.spotify.com/track/4GpACqU62rGBnFEQQyDZw5) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Replay \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/55EdkCQtpj8BRYdoElsdn2) | 3:41 |
-| 20 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 |
+| 19 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 |
+| 20 | [Dreaming About You](https://open.spotify.com/track/4GpACqU62rGBnFEQQyDZw5) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Replay \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/55EdkCQtpj8BRYdoElsdn2) | 3:41 |
 | 21 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 |
 | 22 | [Love Alone](https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:41 |
 | 23 | [Thank you for Goodbye](https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Thank you for Goodbye](https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3) | 4:13 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 38 | [The Hardest Part](https://open.spotify.com/track/0iJhBjjOrLKG8RwmjWWSfF) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [The Hardest Part](https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY) | 4:18 |
 | 39 | [Why break up? \(My love X Jeon Sang Keun\)](https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Why break up? \(My love X Jeon Sang Keun\)](https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K) | 4:31 |
 | 40 | [The Island](https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir) | [88\-Keys](https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE) | [YUMI's Cells 2, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE) | 4:00 |
-| 41 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
-| 42 | [Emptiness in Memory](https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Emptiness in Memory](https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG) | 4:38 |
+| 41 | [Emptiness in Memory](https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Emptiness in Memory](https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG) | 4:38 |
+| 42 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
 | 43 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
 | 44 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 |
-| 45 | [바람이 분다](https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Eyebrow Moon 눈썹달](https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA) | 3:56 |
-| 46 | [Sad ending \(Feat\. george\)](https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 4:22 |
+| 45 | [Sad ending \(Feat\. george\)](https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 4:22 |
+| 46 | [바람이 분다](https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Eyebrow Moon 눈썹달](https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA) | 3:56 |
 | 47 | [Run from you](https://open.spotify.com/track/3ZLpVia2sizm0ccjLDo3wH) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Run from you](https://open.spotify.com/album/5pAHpZo7WsjNthkDgna0m3) | 3:57 |
 | 48 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 |
 | 49 | [Clockwork](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:47 |
 | 50 | [How about you](https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [STAR](https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz) | 4:21 |
 
-Snapshot ID: `MCwzYjMyMjIzZGUyYzMyMWU2M2VkNzNkMDdiMjY5NjQxM2JlZTExOGI4`
+Snapshot ID: `MCw3NDAyOTU0ODVkOTJkNDM3ZDk2M2E5YjM3NjE4NmNmNjk5MmFmNmFl`

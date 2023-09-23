@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#voorjou \#rihanna \#noano7k \#prada \#koekje \#joost
 
-241 songs - 12 hr 2 min
+242 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [Pacman](https://open.spotify.com/track/4joVpbCQJpocvyp9cbD8lf) | [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV), [Stepz](https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P) | [Pacman](https://open.spotify.com/album/58cgGThT5NejuPh4ERwq6x) | 2:02 | 2023-02-23 | 2023-03-08 |
 | [Padellen](https://open.spotify.com/track/7vjvSnuolvOBNgJDSodY2B) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Padellen](https://open.spotify.com/album/3q35BTO8rRIOxSPFJgGvh1) | 2:08 | 2023-04-11 | 2023-07-14 |
 | [Pagodão do Birimbola \(Tchubirabirom\)](https://open.spotify.com/track/24llggQslFoCamLMIg3Jka) | [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM), [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2) | [Pagodão do Birimbola \(Tchubirabirom\)](https://open.spotify.com/album/2VQvcst1qXdFNY3HwfCM5H) | 2:05 | 2023-02-23 | 2023-03-28 |
-| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-24 |  |
+| [Paint The Town Red](https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:50 | 2023-09-22 |  |
+| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-24 | 2023-09-23 |
 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-02-23 | 2023-04-19 |
 | [Parado no Bailão](https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT) | [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo), [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt) | [Parado no Bailão](https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa) | 2:51 | 2023-02-23 |  |
 | [Past Lives](https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:34 | 2023-07-10 | 2023-07-19 |

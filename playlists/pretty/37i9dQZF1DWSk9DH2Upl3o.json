@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Kendall Street Company",
-  "num_followers": 23861,
+  "num_followers": 23900,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmQwMGZhMGUwM2VlZjk4MTc1MWQ1MzA0ZmNkYzI4N2U2N2ZmODZl",
+  "snapshot_id": "MCwxYTljNTNlOTI3ODczZGFiNWQzNmMwYzc5MjZiOTRkNzM1ZjEyNmMw",
   "tracks": [
     {
       "added_at": "2023-08-11 04:01:00",
@@ -25,10 +25,10 @@
       "url": "https://open.spotify.com/track/094cZWfxSIguNUNADtqb9Z"
     },
     {
-      "added_at": "2023-07-28 04:01:00",
+      "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Tightrope",
-        "url": "https://open.spotify.com/album/64IH5rpfXEoBmtsi6PiHEA"
+        "name": "Separation95",
+        "url": "https://open.spotify.com/album/2NCWozoBxPRln2eCx2v7Pp"
       },
       "artists": [
         {
@@ -36,9 +36,25 @@
           "url": "https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9"
         }
       ],
-      "duration_ms": 494561,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/5IbvaLaCWy2Oixk3AqEETp"
+      "duration_ms": 285794,
+      "name": "Trapeze",
+      "url": "https://open.spotify.com/track/2fQqA2jMxsxx7CfrOP5bgY"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Stuck in Between",
+        "url": "https://open.spotify.com/album/1NZ2SrbhnuY6jLKoq1MU5Z"
+      },
+      "artists": [
+        {
+          "name": "Chalk Dinosaur",
+          "url": "https://open.spotify.com/artist/0nGLnZVTm8IXRb83Rarg6C"
+        }
+      ],
+      "duration_ms": 353103,
+      "name": "Stuck in Between",
+      "url": "https://open.spotify.com/track/2OX0jfmSfFFIk9rFTzivZU"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -71,22 +87,6 @@
       "duration_ms": 207059,
       "name": "Wake Me Up Slowly",
       "url": "https://open.spotify.com/track/0y7blJSil3bQPApeU7R1cV"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Stuck in Between",
-        "url": "https://open.spotify.com/album/1NZ2SrbhnuY6jLKoq1MU5Z"
-      },
-      "artists": [
-        {
-          "name": "Chalk Dinosaur",
-          "url": "https://open.spotify.com/artist/0nGLnZVTm8IXRb83Rarg6C"
-        }
-      ],
-      "duration_ms": 353103,
-      "name": "Stuck in Between",
-      "url": "https://open.spotify.com/track/2OX0jfmSfFFIk9rFTzivZU"
     },
     {
       "added_at": "2023-07-14 04:01:00",

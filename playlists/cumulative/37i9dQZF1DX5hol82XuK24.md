@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-241 songs - 16 hr 7 min
+244 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Deaf](https://open.spotify.com/track/4mD08TdVCPxyV4xnP5o7Wt) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Wednesday](https://open.spotify.com/album/75iTRwhc1ujZwiTrCdBQOu) | 5:12 | 2021-11-01 | 2022-07-29 |
 | [Deep Green](https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 3:35 | 2021-11-01 |  |
 | [Deep Six Textbook](https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I, Gemini](https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC) | 5:39 | 2021-11-01 |  |
-| [deepfake](https://open.spotify.com/track/4joNvDANwbD24bZhI6au7d) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [deepfake](https://open.spotify.com/album/2FZLlKKbqTGs8EqTskm6cI) | 3:05 | 2021-11-01 |  |
+| [deepfake](https://open.spotify.com/track/4joNvDANwbD24bZhI6au7d) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [deepfake](https://open.spotify.com/album/2FZLlKKbqTGs8EqTskm6cI) | 3:05 | 2021-11-01 | 2023-09-23 |
 | [Demon Dance](https://open.spotify.com/track/0WGM2aQxdr6isBhLGG3PcV) | [Julian Winding](https://open.spotify.com/artist/2n73yy6NNrGAo8wMDzmRax) | [Powder Room](https://open.spotify.com/album/10ZVjdD635lCP0vhaiAMfZ) | 6:01 | 2022-10-23 | 2022-11-01 |
 | [Deny](https://open.spotify.com/track/75sB2SPkXFmSQ2MCV38iyk) | [King Woman](https://open.spotify.com/artist/4C20AUsp5T2VNHmzSTSzYn) | [Created in the Image of Suffering](https://open.spotify.com/album/3Hfzq8ppZoC0pkwTuEMF4g) | 3:54 | 2022-10-23 | 2022-11-01 |
 | [Dog Rectum](https://open.spotify.com/track/4QtmD6iUt1rUjuFXJGhFtC) | [ScreamerClauz](https://open.spotify.com/artist/175gcancxo7YU4uQGxSfsx) | [Planetary Evacuation Recruitment Tape](https://open.spotify.com/album/4PV3OovytHfb0QdOK944k1) | 4:53 | 2022-10-23 | 2022-11-01 |
@@ -102,6 +102,7 @@
 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-21 |  |
 | [Human Nature](https://open.spotify.com/track/2GpsOpJLP2ufAlFbr4rhWY) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Shabrang](https://open.spotify.com/album/54tTC9UQtLnu5Wldhlnstr) | 5:00 | 2022-10-23 | 2022-11-01 |
 | [I Like You](https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:47 | 2021-11-01 |  |
+| [I Love Me After You](https://open.spotify.com/track/55Y5p2XyPaYBPGtzj1f9fE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:48 | 2023-09-22 |  |
 | [I Stood Bleeding](https://open.spotify.com/track/4I4buFO8TRmLpihhWkAcmg) | [bloody/bath](https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc) | [I Stood Bleeding](https://open.spotify.com/album/5cF6ExjCGajZB2IauoHMSM) | 4:10 | 2021-11-01 | 2022-10-16 |
 | [I Stood Bleeding](https://open.spotify.com/track/7iwRXTRE81MwsiORhGYVlH) | [bloody/bath](https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc) | [I Stood Bleeding](https://open.spotify.com/album/02ysyopK7YANMs08B9KRrQ) | 4:10 | 2022-09-25 |  |
 | [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 | 2022-09-13 |  |
@@ -116,7 +117,8 @@
 | [Keep Driving](https://open.spotify.com/track/1qmPW7bz0DrLYZySk4EeQo) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Careful](https://open.spotify.com/album/6G1kayusfMD3mcRXtPty2k) | 3:31 | 2022-10-23 | 2022-11-01 |
 | [Kill Me \- Baby Blue](https://open.spotify.com/track/63bUL5WRZiWBkTmUTV5ucd) | [Dead Soft](https://open.spotify.com/artist/6NayGIgExrNwxUk6MHnMPN) | [Baby Blue](https://open.spotify.com/album/2HLMbPWmagfcwrztFjAPmr) | 3:17 | 2021-11-01 | 2022-09-22 |
 | [Lacrymaria Olor](https://open.spotify.com/track/2VC3elGOA4t4khPnwyzWAx) | [Nicole Dollanganger](https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO) | [Heart Shaped Bed](https://open.spotify.com/album/19knElXcxF8ay3UdoafG17) | 3:43 | 2022-10-23 | 2022-11-01 |
-| [Lifeboats](https://open.spotify.com/track/4v5Gh9dg1S51pOUwJeU49Q) | [Eleanor Collides](https://open.spotify.com/artist/25BX6Xni6D9YdDmS4UhK34) | [Lifeboats](https://open.spotify.com/album/1tR2o0fZ5EQmcw0vbNAEta) | 4:14 | 2022-09-13 |  |
+| [Le Temple Volant](https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B), [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Le Temple Volant](https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5) | 2:05 | 2023-09-22 |  |
+| [Lifeboats](https://open.spotify.com/track/4v5Gh9dg1S51pOUwJeU49Q) | [Eleanor Collides](https://open.spotify.com/artist/25BX6Xni6D9YdDmS4UhK34) | [Lifeboats](https://open.spotify.com/album/1tR2o0fZ5EQmcw0vbNAEta) | 4:14 | 2022-09-13 | 2023-09-23 |
 | [Live Forever](https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd) | [Daniel Spaleniak](https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs) | [Tape V](https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw) | 2:57 | 2022-02-24 |  |
 | [Lost](https://open.spotify.com/track/3xd4GVGAuzJGdVZLEKvWea) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Stay Ugly EP](https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7) | 2:28 | 2022-10-23 | 2022-11-01 |
 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 | 2021-11-01 |  |
@@ -135,7 +137,7 @@
 | [My Evil](https://open.spotify.com/track/3X70q6VNGZzpM9XaWfGVn0) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [My Evil](https://open.spotify.com/album/49lWEieiOPuNNh59L19qlR) | 2:24 | 2023-07-05 |  |
 | [My Friend of Misery](https://open.spotify.com/track/0MMsevzxWNn78F1SCkKFdB) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [The Metallica Blacklist](https://open.spotify.com/album/73pUIoNvoi8m51Vg97CAKX) | 3:30 | 2022-11-01 | 2022-11-14 |
 | [My Friend Of Misery](https://open.spotify.com/track/2Z6ll7M4yRePY3Rr0TTM0U) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [My Friend Of Misery](https://open.spotify.com/album/36S8UQHffJYyNVLlEVn1zI) | 3:30 | 2021-11-01 | 2022-07-29 |
-| [My Friend of Misery](https://open.spotify.com/track/3GGkrhDdtE10kUbMHGsrm1) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [My Friend of Misery](https://open.spotify.com/album/5uWEWXfsS7EyQGxsqRpIhZ) | 3:30 | 2022-01-27 |  |
+| [My Friend of Misery](https://open.spotify.com/track/3GGkrhDdtE10kUbMHGsrm1) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [My Friend of Misery](https://open.spotify.com/album/5uWEWXfsS7EyQGxsqRpIhZ) | 3:30 | 2022-01-27 | 2023-09-23 |
 | [My Funny Valentine](https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 3:11 | 2023-03-22 |  |
 | [Myopia](https://open.spotify.com/track/0jbgt7psXDq3cOQK7s0THz) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Myopia](https://open.spotify.com/album/1XFhwj2xUtypgyEqAmTrQV) | 5:16 | 2022-10-23 | 2022-11-01 |
 | [Night Time](https://open.spotify.com/track/0ibXYHIS1vPqpkm1LoIWZR) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 3:36 | 2021-11-01 | 2022-07-29 |
@@ -183,6 +185,7 @@
 | [Silk](https://open.spotify.com/track/3kXHcC7133uiMrtYzjrhUO) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool \(Deluxe Edition\)](https://open.spotify.com/album/5Uqtbi6LDSKDNNzfVU58PM) | 4:03 | 2022-11-01 | 2022-11-13 |
 | [Silk](https://open.spotify.com/track/5z75fXqSd5jhRsV543Trxh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h) | 4:03 | 2022-01-27 |  |
 | [Silk](https://open.spotify.com/track/7f62MruiQN3mxACnIU0yxO) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool \(Deluxe Edition\)](https://open.spotify.com/album/0k5PHXVakV1aq3UmacxELa) | 4:03 | 2021-11-01 | 2022-07-29 |
+| [Sirens](https://open.spotify.com/track/6rjxyDTlJCGqo1XQ6vrq5R) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Sirens](https://open.spotify.com/album/5jtOLGuMV0eYTHJptwgI1D) | 4:28 | 2023-09-22 |  |
 | [Sleeping In Your Garden](https://open.spotify.com/track/1eG48OpdY0FRJcDlBwqzRi) | [Gia Ford](https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX) | [Sleeping In Your Garden](https://open.spotify.com/album/2am9dGCCUrwCw1DOX4wiXX) | 3:24 | 2022-01-27 |  |
 | [Sleeping In Your Garden](https://open.spotify.com/track/6rsWFFpAa5EtlXMwjYJfSj) | [Gia Ford](https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX) | [Sleeping In Your Garden](https://open.spotify.com/album/3hexKcgksYb1BG9CZjpxEG) | 3:24 | 2021-11-01 | 2022-07-29 |
 | [Slowdance I](https://open.spotify.com/track/4G0LxX3BHpxI6QJZbw0iK6) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [When I Have Fears](https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz) | 4:01 | 2021-11-01 |  |

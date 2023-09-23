@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 
 > All the best soul disco sounds for getting down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,280 likes - 62 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,338 likes - 62 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 12 | [Thinking of You \- 1995 Remaster](https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 4:26 |
 | 13 | [I Love to Love](https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L) | [Tina Charles](https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa) | [I Love To Love \- The Best Of](https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647) | 3:03 |
 | 14 | [Now That We Found Love](https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 4:41 |
-| 15 | [Ain't No Stoppin' Us Now \- Single Version](https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [The Best Of Philadelphia International Records](https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ) | 3:37 |
+| 15 | [Can You Feel It](https://open.spotify.com/track/0RAiBUgOC5pgFUHsldtix3) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Triumph](https://open.spotify.com/album/5YhOA7OGN6xFPwQznkfe69) | 5:59 |
 | 16 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 |
-| 17 | [Can You Feel It](https://open.spotify.com/track/0RAiBUgOC5pgFUHsldtix3) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Triumph](https://open.spotify.com/album/5YhOA7OGN6xFPwQznkfe69) | 5:59 |
+| 17 | [Ain't No Stoppin' Us Now \- Single Version](https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [The Best Of Philadelphia International Records](https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ) | 3:37 |
 | 18 | [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 |
 | 19 | [Best of My Love](https://open.spotify.com/track/6UjlpJhUqOQqv0hrb38IDI) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [The Best Of The Emotions: Best Of My Love](https://open.spotify.com/album/30OwtFBugzMGsAYhXzEBEP) | 3:39 |
 | 20 | [Everlasting Love](https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:33 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 34 | [Call Me](https://open.spotify.com/track/5wQ4djiNq19XCQY7Z00uG0) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ) | 6:22 |
 | 35 | [Bad Luck \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 6:26 |
 | 36 | [Taste of Bitter Love](https://open.spotify.com/track/0EAtqMkJ13QYAN7QDcFiDs) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [About Love \(Expanded Edition\)](https://open.spotify.com/album/0rPCO55x3MGthe8qkn64o6) | 4:38 |
-| 37 | [Jack and Jill](https://open.spotify.com/track/5KDT5BDSmomPMe2AXuGInR) | [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [Raydio](https://open.spotify.com/album/36AmrTuGmb1LyYSimTHRkE) | 4:35 |
-| 38 | [What Cha Gonna Do With My Lovin'](https://open.spotify.com/track/7aWlIvlA3FoH51yekCpCau) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [What Cha Gonna Do With My Lovin'](https://open.spotify.com/album/6cBpPLXrHESAJU4lFyBsdl) | 4:06 |
+| 37 | [What Cha Gonna Do With My Lovin'](https://open.spotify.com/track/7aWlIvlA3FoH51yekCpCau) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [What Cha Gonna Do With My Lovin'](https://open.spotify.com/album/6cBpPLXrHESAJU4lFyBsdl) | 4:06 |
+| 38 | [Jack and Jill](https://open.spotify.com/track/5KDT5BDSmomPMe2AXuGInR) | [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [Raydio](https://open.spotify.com/album/36AmrTuGmb1LyYSimTHRkE) | 4:35 |
 | 39 | [It's a Disco Night \(Rock Don't Stop\), Pts\. 1 & 2](https://open.spotify.com/track/4mJfDc1mot6O8NvPbXaTgq) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Winner Takes All](https://open.spotify.com/album/0SVqyFBkvKyaZMRKKftr6z) | 5:15 |
 | 40 | [This Is It](https://open.spotify.com/track/44UWAmppRuj5KNHWbAASuF) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [This Is It \(Expanded Edition\)](https://open.spotify.com/album/5vLlnYOvOgwrWxGjNdlhnz) | 3:31 |
 | 41 | [Going Back to My Roots \- 12" Version](https://open.spotify.com/track/41Mi2vvuSD01FvtlAQsaat) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [I Got the Melody \(Expanded Edition\)](https://open.spotify.com/album/2R9rEVibO3wDnB950OThmj) | 5:25 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 61 | [You Little Trustmaker](https://open.spotify.com/track/0oBGKZP0d982ct1ZZeX6Uq) | [The Tymes](https://open.spotify.com/artist/0a1BmEq1mZ5ufKMC2fsziR) | [Disco Party](https://open.spotify.com/album/7Kneel529obA7Qd9glamb4) | 2:49 |
 | 62 | [Pipeline](https://open.spotify.com/track/50nRo6MZZE81IxYWNaUiQd) | [Bruce Johnston](https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:57 |
 
-Snapshot ID: `MCw1OWY0NDBiODlkMTVkNWJiOTUzNzEwMTNmNWI0NmQ5OWQ3Njc1NDMz`
+Snapshot ID: `MCxlYzBmZGVkNGE4Mjg5M2JmY2E1MTRmNTg3NjhiZjBjODQ0NmI5NGIw`
