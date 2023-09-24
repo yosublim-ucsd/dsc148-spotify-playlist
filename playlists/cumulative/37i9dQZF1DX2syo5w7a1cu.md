@@ -4,7 +4,7 @@
 
 > Mellow songs from the 90s\. Cover: Sinéad O'Connor
 
-375 songs - 1 day 4 hr 1 min
+376 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Again](https://open.spotify.com/track/0IaMMHVbpJ0LrRAeigWOXr) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 3:47 | 2021-02-02 | 2023-07-27 |
 | [Against All Odds \(Take A Look at Me Now\) \(feat\. Westlife\)](https://open.spotify.com/track/3dfW4YCs9Wvm83csZRpmbA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/3Iq8rXgxwlSPpRsIacNLgK) | 3:19 | 2021-02-02 | 2022-07-29 |
 | [Against All Odds \(Take A Look at Me Now\) \(feat\. Westlife\)](https://open.spotify.com/track/0Ac0Ge47UpkVceZyPin7IP) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Coast To Coast \(Expanded Edition\)](https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu) | 3:20 | 2022-03-21 | 2022-11-13 |
-| [Against All Odds \(Take A Look at Me Now\) \- Mariah Only](https://open.spotify.com/track/6PS1YRjdJ5Muakh2oh0UB2) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Against All Odds \(Take A Look at Me Now\) EP](https://open.spotify.com/album/3Jx6tgsjoX2oL7vqfnb89j) | 3:21 | 2022-03-21 |  |
+| [Against All Odds \(Take A Look at Me Now\) \- Mariah Only](https://open.spotify.com/track/6PS1YRjdJ5Muakh2oh0UB2) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Against All Odds \(Take A Look at Me Now\) EP](https://open.spotify.com/album/3Jx6tgsjoX2oL7vqfnb89j) | 3:21 | 2022-03-21 | 2023-09-24 |
 | [All By Myself](https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 5:12 | 2022-03-21 |  |
 | [All By Myself](https://open.spotify.com/track/20EpQjfV7B4ZQJkIdHO1Tw) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling Into You](https://open.spotify.com/album/55UPmpHLvZKGgTPUD1woES) | 5:12 | 2021-02-02 | 2022-07-29 |
 | [All for Love](https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [If We Fall in Love Tonight](https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6) | 4:41 | 2021-02-02 |  |
@@ -130,6 +130,7 @@
 | [Heaven For Everyone \- Remastered 2011](https://open.spotify.com/track/3Klfd4rsRO53fYpxmdQmYV) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(2011 Remaster\)](https://open.spotify.com/album/391ScNR3xKywWSpfDwP3n0) | 5:36 | 2021-02-02 | 2022-07-29 |
 | [Here With Me](https://open.spotify.com/track/4xFxK0FXmNlUDRgCaIQCVn) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 4:15 | 2021-02-02 |  |
 | [Hero](https://open.spotify.com/track/4FCb4CUbFCMNRkI6lYc1zI) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl) | 4:17 | 2021-02-02 | 2023-09-17 |
+| [Hero](https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 4:17 | 2022-03-21 |  |
 | [Hold On](https://open.spotify.com/track/2kQLJexCx8wPTAqK0x0ijO) | [Jamie Walters](https://open.spotify.com/artist/4JRaryUoRSFiZt04ReUD8N) | [Jamie Walters](https://open.spotify.com/album/7BIYShWL599GYMbx7rEJ25) | 4:24 | 2021-02-02 | 2022-11-13 |
 | [Hold on My Heart \- 2007 Remaster](https://open.spotify.com/track/0qbhFj4bVrguIZViOJOs36) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [We Can't Dance](https://open.spotify.com/album/1lCuwXVtx72gZN0iT20TmO) | 4:37 | 2022-03-21 | 2022-11-13 |
 | [Hold On My Heart \- Remastered 2007](https://open.spotify.com/track/4zRl3lAyZOVcJgHwZTpH17) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [We Can't Dance](https://open.spotify.com/album/2WFkJi4USarY1qe3yjifjG) | 4:38 | 2021-02-02 | 2022-07-29 |

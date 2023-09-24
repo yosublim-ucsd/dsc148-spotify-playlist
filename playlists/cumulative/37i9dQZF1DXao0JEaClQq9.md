@@ -4,7 +4,7 @@
 
 > melting into Mitski, and the many sounds of modern ethereal.
 
-530 songs - 1 day 9 hr 13 min
+531 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,7 @@
 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 | 2021-06-03 | 2022-04-20 |
 | [Moon](https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 2:36 | 2021-11-15 | 2022-11-19 |
 | [Morning Dew](https://open.spotify.com/track/4IU9uyvBToh2mtFEyiAdGk) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Morning Dew](https://open.spotify.com/album/5kCdO1hqtUSmO1LFFw3izp) | 4:34 | 2021-06-03 | 2022-07-29 |
-| [Movies](https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 5:53 | 2021-06-03 |  |
+| [Movies](https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 5:53 | 2021-06-03 | 2023-09-24 |
 | [Multiply](https://open.spotify.com/track/0snbwXpGlnIFHbUogLZUsP) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Multiply](https://open.spotify.com/album/4RFqKxDDXCOukzy2RzTmDZ) | 2:16 | 2021-06-03 | 2022-04-23 |
 | [Multiply](https://open.spotify.com/track/7epHw01JrUjS1kKdxdENTE) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Digital Meadow](https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ) | 2:16 | 2022-06-03 | 2022-07-29 |
 | [My Friend](https://open.spotify.com/track/1HaiuKlLZqB1J1od7sqGhc) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [5am and I Can't Sleep](https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6) | 5:27 | 2022-05-20 | 2022-06-19 |
@@ -333,6 +333,7 @@
 | [No Butterflies, No Nothing](https://open.spotify.com/track/3ZILqwsgKxsjrBLBjrOaSF) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [No Butterflies, No Nothing](https://open.spotify.com/album/0lU40mXWleCp13QB6lf30L) | 2:59 | 2021-06-03 | 2022-07-18 |
 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 | 2021-06-03 | 2022-04-20 |
 | [No Shadow](https://open.spotify.com/track/6KyccUT8S3KMRh5wt4CN2n) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Skin 2 Skin](https://open.spotify.com/album/0mclvOXYO7qb7jefYYdZLr) | 3:18 | 2021-09-24 | 2022-04-19 |
+| [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 | 2023-09-22 |  |
 | [Note To Self \(feat\. Empress Of\)](https://open.spotify.com/track/3dBgEBXZvYLshrZ0ATB7fT) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [EPHEMERA](https://open.spotify.com/album/0elpfsW5SObWj2BmXLpOwo) | 2:17 | 2021-06-03 | 2022-07-29 |
 | [Nothing's Free](https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Nothing's Free](https://open.spotify.com/album/5pltEj0ae0InqT2P908pOJ) | 4:38 | 2023-03-14 | 2023-04-15 |
 | [Nothing’s Special](https://open.spotify.com/track/2EsL4kfdrEZJTKRFhuMDbY) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Nothing's Special](https://open.spotify.com/album/2xBvgd6MJXlo98bWrxQRKk) | 3:33 | 2021-06-11 | 2022-04-22 |

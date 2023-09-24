@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ca\u00f1onazos salseros para persignar la pista de baile!",
-  "num_followers": 45783,
+  "num_followers": 45848,
   "original_name": "Salsa Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODRiOWVlZDlhMmIxMWUyODZkN2I0ZWM4YzI2MmYxYmY5YzMwMjhk",
+  "snapshot_id": "MCwyMGRhNTA4MGQxZDdkMTMwYzVkODM5ZGU1Nzg2ZWVkN2E3OGY1MmUx",
   "tracks": [
     {
       "added_at": "2022-12-30 20:26:55",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "10 De Coleccion",
-        "url": "https://open.spotify.com/album/4l7BTfiKsjv1DoReRxxySR"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 302360,
-      "name": "Amores Como el Nuestro",
-      "url": "https://open.spotify.com/track/3WLXf7K7mIGEBtFq41afce"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "Intenso",
         "url": "https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 254933,
       "name": "La Agarro Bajando",
       "url": "https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "10 De Coleccion",
+        "url": "https://open.spotify.com/album/4l7BTfiKsjv1DoReRxxySR"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 302360,
+      "name": "Amores Como el Nuestro",
+      "url": "https://open.spotify.com/track/3WLXf7K7mIGEBtFq41afce"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Cara De Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 298640,
-      "name": "Qu\u00e9 Hay de Malo",
-      "url": "https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "Aqui No Se Sienta Nadie!",
         "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 205813,
       "name": "Brujeria",
       "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
+      },
+      "artists": [
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+        }
+      ],
+      "duration_ms": 321200,
+      "name": "Casi Te Envidio",
+      "url": "https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
+        "name": "Cara De Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
       },
       "artists": [
         {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 321200,
-      "name": "Casi Te Envidio",
-      "url": "https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV"
+      "duration_ms": 298640,
+      "name": "Qu\u00e9 Hay de Malo",
+      "url": "https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
+        "name": "Feliz Navidad Con Salsa",
+        "url": "https://open.spotify.com/album/5RktkOfRU1eqXvh0qSK2uP"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 296773,
+      "name": "T\u00fa Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/64zAjhGj8t7iHtUdNoTnRm"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
         "name": "25 Aniversario",
         "url": "https://open.spotify.com/album/2AWeNpuIiYqGa2UfpjFVk0"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 332093,
       "name": "Conciencia",
       "url": "https://open.spotify.com/track/6Fxn2ZdlXbKesbhxHbHa9p"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
-        "name": "Feliz Navidad Con Salsa",
-        "url": "https://open.spotify.com/album/5RktkOfRU1eqXvh0qSK2uP"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 296773,
-      "name": "T\u00fa Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/64zAjhGj8t7iHtUdNoTnRm"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "El Caballero De La Salsa - La Historia Tropical",
-        "url": "https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 266786,
-      "name": "Conteo Regresivo - Salsa Version",
-      "url": "https://open.spotify.com/track/7uNNpyYnWFeUPO3h5jIgIc"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "Esta Noche Pinta Bien",
         "url": "https://open.spotify.com/album/0ceW81MVe18ar3uFnCd47z"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 267627,
       "name": "Esta Noche Pinta Bien",
       "url": "https://open.spotify.com/track/33I5ibIJsuejSkWQ8jZNU4"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "El Caballero De La Salsa - La Historia Tropical",
+        "url": "https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 266786,
+      "name": "Conteo Regresivo - Salsa Version",
+      "url": "https://open.spotify.com/track/7uNNpyYnWFeUPO3h5jIgIc"
     },
     {
       "added_at": "2022-12-30 20:26:55",

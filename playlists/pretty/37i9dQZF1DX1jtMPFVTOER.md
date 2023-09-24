@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Robert Glasper
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,723 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,803 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [you said...](https://open.spotify.com/track/2T8gjOM7DTgu7YtwLC0ddf) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [you said...](https://open.spotify.com/album/77L359klVW9v2ODUWvNPF5) | 2:14 |
 | 100 | [i can see you're online](https://open.spotify.com/track/5eJAtLcl5sGHf1rs4rB7D1) | [Indira May](https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24), [Saffron](https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl) | [i can see you're online](https://open.spotify.com/album/1xh1mtVTSZk9GmJyTGqBZA) | 2:29 |
 
-Snapshot ID: `MCwwN2Q3MjU4OTIzMzYyNjM3ZGFlZTIzM2Y3OTllYmQ3MzAxODVhOWQ3`
+Snapshot ID: `MCxhYmY4M2IwZjY0NjZmY2IzMThiZjMyODgxMDZkOWVmN2EyYjQ2ZmNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > Cover: Hannah Diamond
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,547 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,657 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [poison](https://open.spotify.com/track/6uTNwwSVJoaJbOjVkZ4Iit) | [lieu](https://open.spotify.com/artist/0MliYj4eUtEoxXU56zBOqx) | [poison](https://open.spotify.com/album/7ClOXODZighfFZmOXW9ffE) | 1:41 |
 | 100 | [Person](https://open.spotify.com/track/41ooYpJZt6Te6wP1uLm2hP) | [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [Person](https://open.spotify.com/album/5K3fLIzPQz3XlvCKquqHkE) | 3:30 |
 
-Snapshot ID: `MCw4YzE5MzI3N2Y4OGY5MmQzMzRjZTkwMTEwY2YxNGI4M2IwNDM3YmE1`
+Snapshot ID: `MCxjOTIwMDcxZTA0NWFlZDlhMzAyMTAzMjUzNzQyNGI0Zjc3NTk0ODZi`

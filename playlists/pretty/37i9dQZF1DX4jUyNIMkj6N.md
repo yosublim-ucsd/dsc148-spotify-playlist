@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,842 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,925 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [Look At The Light](https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV) | [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU) | [Flowers](https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW) | 3:40 |
 | 60 | [george's shelter](https://open.spotify.com/track/771Otb2pCjDvsZMorD3AO2) | [Planet Ibiza](https://open.spotify.com/artist/2f0fVIP8exBDlW5SHhKosW) | [george's shelter](https://open.spotify.com/album/3tp3rMzZnwovJYZc89OsaY) | 3:01 |
 
-Snapshot ID: `MCw3YzcxNjBmMjQ3ZTg2Njk1ZjhiZmUwMGZhMGYwOGI2YTdmNGVmODgx`
+Snapshot ID: `MCxlMGI4YjcxNzgzYzk0ZmIxZDUyMTcwMzUwODUwYjFiNWU3MDM5M2Ey`

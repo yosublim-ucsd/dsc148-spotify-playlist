@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems\. Cover: Thando Zide
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,604 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,723 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Uyangijabulisa](https://open.spotify.com/track/3RmhsiQszFnnixoOrLznAN) | [Fezeka Dlamini](https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7), [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Naledi](https://open.spotify.com/artist/092ZdmX5G7PFTtsWoQHkmX) | [Uyangijabulisa](https://open.spotify.com/album/04HgLbUVHdvAvawQzjX9JW) | 4:48 |
 | 2 | [Bengdakiwe](https://open.spotify.com/track/1KIKoF34Yafcd8TkwBzwPv) | [Xowla](https://open.spotify.com/artist/08ejcjfMzbGwiK9MVslxc5), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Bengdakiwe](https://open.spotify.com/album/62I8W34ivwTtJJikdzlnp2) | 4:42 |
 | 3 | [Imimoya](https://open.spotify.com/track/65ssk0NCbNtYDYgF86Tc65) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Usiba Lwe Gazi](https://open.spotify.com/album/4kzfelmFoUzuDzyBszL7aq) | 3:58 |
-| 4 | [iLanga Lakho](https://open.spotify.com/track/5EivzbVw42HmpnRPnZRH9c) | [Thando Zide](https://open.spotify.com/artist/2EhCXqQCZ3VJIcK0N0eK9s), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [iLanga Lakho](https://open.spotify.com/album/3xqM88DptGJ6iSNf0NXLaK) | 4:44 |
+| 4 | [iLanga Lakho](https://open.spotify.com/track/5EivzbVw42HmpnRPnZRH9c) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [iLanga Lakho](https://open.spotify.com/album/3xqM88DptGJ6iSNf0NXLaK) | 4:44 |
 | 5 | [Soze Ndixole](https://open.spotify.com/track/5IE6y5Vqx6bjSws7ZhuCUe) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [047](https://open.spotify.com/artist/6yse1bwFvfDg33dBcLk5x8), [Kwanda](https://open.spotify.com/artist/30hs2VdIfkqGk8JhyyFCfr) | [Soze Ndixole](https://open.spotify.com/album/1aKY1cEE7H73nw7U1RPs6h) | 4:22 |
 | 6 | [Eyami](https://open.spotify.com/track/5Jf3hmkf8WKKqxM4vM8rux) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Eyami](https://open.spotify.com/album/1RiHVe3VXFIC1xIQ8VJPUa) | 4:20 |
 | 7 | [Njalo](https://open.spotify.com/track/3oyrlumXA15HTQQ3dwBGVe) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Njalo](https://open.spotify.com/album/4z7nzQ247jp025EVzZMXyF) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 49 | [Luthando](https://open.spotify.com/track/4AsLvBX0FwCBvaN5GDGz42) | [Vico da sporo](https://open.spotify.com/artist/2EkWKzVuqZfkSOZv6l8yXd), [Sandile](https://open.spotify.com/artist/5mApcr740y6tGusKPPNkb4) | [Bandlase](https://open.spotify.com/album/0pjabAOKogpe019KUyPiSe) | 4:46 |
 | 50 | [Fatela](https://open.spotify.com/track/58u8z6ia8GTm9yZlkmtCtV) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Fatela](https://open.spotify.com/album/0XkXn7Kotl8QMwP5YGdGHY) | 5:51 |
 
-Snapshot ID: `MCw1NzRjNmMzNzcwYzc5MzM4OTBlMGU1NzhlZjdhMzY4MDkyYzEzZjhi`
+Snapshot ID: `MCwyNzU0NTk0M2QzNzE4NTY4ODZmNWJlYmZkZTRlZGU1NDQ4MjRlYjYw`

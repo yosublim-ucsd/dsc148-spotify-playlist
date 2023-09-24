@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Kellen Byanca",
-  "num_followers": 97080,
+  "num_followers": 97281,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWQ3OTUzODJmZjM5NTI2NmU4NDYzZDE2Y2MzZjliMGQxY2QxYzAz",
+  "snapshot_id": "MCw2NGQxODdmNDI3NDY0ZWUyYWZhMmYxZGM4NjU4OWQ0ZmU5MTJjNTA2",
   "tracks": [
     {
       "added_at": "2023-09-15 21:58:46",
@@ -435,22 +435,18 @@
     {
       "added_at": "2023-09-15 21:58:46",
       "album": {
-        "name": "Vou Marcar Tua Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/17rhygLbze0bt5pti1qhr9"
+        "name": "Voc\u00ea N\u00e3o Vai Parar",
+        "url": "https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f"
       },
       "artists": [
         {
-          "name": "Raquel Olliver",
-          "url": "https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx"
-        },
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
         }
       ],
-      "duration_ms": 249983,
-      "name": "Vou Marcar Tua Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/5EyxLxAeXQufZxFIqyV5sB"
+      "duration_ms": 340411,
+      "name": "Voc\u00ea N\u00e3o Vai Parar",
+      "url": "https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d"
     },
     {
       "added_at": "2023-09-15 21:58:46",
@@ -475,18 +471,22 @@
     {
       "added_at": "2023-09-15 21:58:46",
       "album": {
-        "name": "Voc\u00ea N\u00e3o Vai Parar",
-        "url": "https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f"
+        "name": "Vou Marcar Tua Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/17rhygLbze0bt5pti1qhr9"
       },
       "artists": [
         {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+          "name": "Raquel Olliver",
+          "url": "https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx"
+        },
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
         }
       ],
-      "duration_ms": 340411,
-      "name": "Voc\u00ea N\u00e3o Vai Parar",
-      "url": "https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d"
+      "duration_ms": 249983,
+      "name": "Vou Marcar Tua Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/5EyxLxAeXQufZxFIqyV5sB"
     },
     {
       "added_at": "2023-09-15 21:58:46",
@@ -647,8 +647,8 @@
     {
       "added_at": "2023-09-15 21:58:46",
       "album": {
-        "name": "A Tenda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 470263,
-      "name": "A Tenda (Ao Vivo)",
-      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
+      "duration_ms": 312287,
+      "name": "Sou Eu",
+      "url": "https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn"
     },
     {
       "added_at": "2023-09-15 21:58:46",
@@ -731,8 +731,8 @@
     {
       "added_at": "2023-09-15 21:58:46",
       "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+        "name": "A Tenda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 312287,
-      "name": "Sou Eu",
-      "url": "https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn"
+      "duration_ms": 470263,
+      "name": "A Tenda (Ao Vivo)",
+      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
     },
     {
       "added_at": "2023-09-15 21:58:46",
@@ -1083,22 +1083,18 @@
     {
       "added_at": "2023-09-15 21:58:46",
       "album": {
-        "name": "Vai Se Cumprir",
-        "url": "https://open.spotify.com/album/5x3DpJwDkKrcfnp6SV6cEg"
+        "name": "Passa L\u00e1 em Casa Jesus",
+        "url": "https://open.spotify.com/album/61yf8smjeBzEwUNuJRWV4U"
       },
       "artists": [
         {
-          "name": "Camilly Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/4rUGVlkSvIQX76x3P54ObH"
-        },
-        {
-          "name": "Kiara Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
+          "name": "Kailane Frauches",
+          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
         }
       ],
-      "duration_ms": 248143,
-      "name": "Vai Se Cumprir",
-      "url": "https://open.spotify.com/track/550RtH8cLuEu2IIL6pJXG9"
+      "duration_ms": 294122,
+      "name": "Passa L\u00e1 em Casa Jesus",
+      "url": "https://open.spotify.com/track/7qKr6x5EXFDxI5Ei6Xfaqj"
     },
     {
       "added_at": "2023-09-15 21:58:46",
@@ -1119,22 +1115,22 @@
     {
       "added_at": "2023-09-15 21:58:46",
       "album": {
-        "name": "Tempo de Espera",
-        "url": "https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6"
+        "name": "Vai Se Cumprir",
+        "url": "https://open.spotify.com/album/5x3DpJwDkKrcfnp6SV6cEg"
       },
       "artists": [
         {
-          "name": "Ketelyn Amanda",
-          "url": "https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl"
+          "name": "Camilly Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/4rUGVlkSvIQX76x3P54ObH"
         },
         {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+          "name": "Kiara Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
         }
       ],
-      "duration_ms": 263040,
-      "name": "Tempo de Espera",
-      "url": "https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7"
+      "duration_ms": 248143,
+      "name": "Vai Se Cumprir",
+      "url": "https://open.spotify.com/track/550RtH8cLuEu2IIL6pJXG9"
     },
     {
       "added_at": "2023-09-15 21:58:46",
@@ -1155,18 +1151,22 @@
     {
       "added_at": "2023-09-15 21:58:46",
       "album": {
-        "name": "Passa L\u00e1 em Casa Jesus",
-        "url": "https://open.spotify.com/album/61yf8smjeBzEwUNuJRWV4U"
+        "name": "Tempo de Espera",
+        "url": "https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6"
       },
       "artists": [
         {
-          "name": "Kailane Frauches",
-          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
+          "name": "Ketelyn Amanda",
+          "url": "https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl"
+        },
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
         }
       ],
-      "duration_ms": 294122,
-      "name": "Passa L\u00e1 em Casa Jesus",
-      "url": "https://open.spotify.com/track/7qKr6x5EXFDxI5Ei6Xfaqj"
+      "duration_ms": 263040,
+      "name": "Tempo de Espera",
+      "url": "https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7"
     },
     {
       "added_at": "2023-09-15 21:58:46",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-09-15 21:58:46",
       "album": {
-        "name": "Foi Livramento",
-        "url": "https://open.spotify.com/album/3MLc0qnl3LlKaCv3IYaaOq"
-      },
-      "artists": [
-        {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Foi Livramento",
-      "url": "https://open.spotify.com/track/1JkvT03hdwgki1kT3qwcQi"
-    },
-    {
-      "added_at": "2023-09-15 21:58:46",
-      "album": {
         "name": "Vai Ter Resposta",
         "url": "https://open.spotify.com/album/5QDCJezujUI5QHPOHTxNcE"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 264816,
       "name": "Vai Ter Resposta",
       "url": "https://open.spotify.com/track/7bol88BQ1ZpxWgpBiZXk9M"
+    },
+    {
+      "added_at": "2023-09-15 21:58:46",
+      "album": {
+        "name": "Foi Livramento",
+        "url": "https://open.spotify.com/album/3MLc0qnl3LlKaCv3IYaaOq"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Foi Livramento",
+      "url": "https://open.spotify.com/track/1JkvT03hdwgki1kT3qwcQi"
     },
     {
       "added_at": "2023-09-15 21:58:46",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2023-09-15 21:58:46",
       "album": {
-        "name": "Vai Passar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj"
-      },
-      "artists": [
-        {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
-        },
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 315022,
-      "name": "Vai Passar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo"
-    },
-    {
-      "added_at": "2023-09-15 21:58:46",
-      "album": {
         "name": "Desapareceu um Povo (Ao Vivo)",
         "url": "https://open.spotify.com/album/1e4nJnPwLL6a7ivAyppNmS"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 210977,
       "name": "Desapareceu um Povo (Ao Vivo)",
       "url": "https://open.spotify.com/track/3CzOSJ3mlQUBuVa85iHlfK"
+    },
+    {
+      "added_at": "2023-09-15 21:58:46",
+      "album": {
+        "name": "Vai Passar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        },
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 315022,
+      "name": "Vai Passar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo"
     },
     {
       "added_at": "2023-09-15 21:58:46",

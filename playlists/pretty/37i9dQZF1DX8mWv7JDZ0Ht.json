@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Silva, Liniker",
-  "num_followers": 432381,
+  "num_followers": 432423,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjY5YmJmNThkZjExY2NhY2VlYjAyMTBhNmI0MTVkNTExZTNlYWNm",
+  "snapshot_id": "MCxkNzM3ZWE2ZDdkNjgwNzFhYzkyMGM4YmNhNjljYjJiMDNjMDQ3NTFm",
   "tracks": [
     {
       "added_at": "2023-09-22 03:00:00",
@@ -783,58 +783,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "No Passo da Saudades",
-        "url": "https://open.spotify.com/album/0729bsCZ4g6R5JeuVpoUsj"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Coelho",
-          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
-        },
-        {
-          "name": "\u00cdtalo Ribeiro",
-          "url": "https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu"
-        }
-      ],
-      "duration_ms": 176869,
-      "name": "No Passo da Saudades",
-      "url": "https://open.spotify.com/track/6rPw4RPfrsMlmXeZb5QUII"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "Coisas De Voc\u00ea",
-        "url": "https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 153428,
-      "name": "Virginiana",
-      "url": "https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "Cultivar",
-        "url": "https://open.spotify.com/album/4yPnrxjHCZCMrxtnZICrZQ"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 133222,
-      "name": "Mundo de Papel",
-      "url": "https://open.spotify.com/track/0ZRsxwz6faJVZrdUyz6Hmj"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "T\u00f4 te olhando",
         "url": "https://open.spotify.com/album/1dA5DEFhICKQiv9rwFRV7Z"
       },
@@ -855,6 +803,58 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
+        "name": "Coisas De Voc\u00ea",
+        "url": "https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 153428,
+      "name": "Virginiana",
+      "url": "https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "No Passo da Saudades",
+        "url": "https://open.spotify.com/album/0729bsCZ4g6R5JeuVpoUsj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Coelho",
+          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
+        },
+        {
+          "name": "\u00cdtalo Ribeiro",
+          "url": "https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu"
+        }
+      ],
+      "duration_ms": 176869,
+      "name": "No Passo da Saudades",
+      "url": "https://open.spotify.com/track/6rPw4RPfrsMlmXeZb5QUII"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "Cultivar",
+        "url": "https://open.spotify.com/album/4yPnrxjHCZCMrxtnZICrZQ"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 133222,
+      "name": "Mundo de Papel",
+      "url": "https://open.spotify.com/track/0ZRsxwz6faJVZrdUyz6Hmj"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
         "name": "M\u00faltipla",
         "url": "https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2"
       },
@@ -867,22 +867,6 @@
       "duration_ms": 161540,
       "name": "Nem Eu Me Entendo",
       "url": "https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "te decorei em mim",
-        "url": "https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 177078,
-      "name": "te decorei em mim",
-      "url": "https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -927,6 +911,22 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
+        "name": "te decorei em mim",
+        "url": "https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 177078,
+      "name": "te decorei em mim",
+      "url": "https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
         "name": "Me Sinto Com Sorte",
         "url": "https://open.spotify.com/album/7xnXIInegkDGhIPDOKi8tT"
       },
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
-      },
-      "artists": [
-        {
-          "name": "Anna P\u00eago",
-          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
-        }
-      ],
-      "duration_ms": 145131,
-      "name": "O Que Eu Devia Ter Vivido",
-      "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "Desconectar",
         "url": "https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 156000,
       "name": "Desconectar",
       "url": "https://open.spotify.com/track/5k7iqWlybTTsHlyy9FbdiA"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
+      },
+      "artists": [
+        {
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+        }
+      ],
+      "duration_ms": 145131,
+      "name": "O Que Eu Devia Ter Vivido",
+      "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Ser Eu",
-        "url": "https://open.spotify.com/album/0RAQR6HW13BW5Q3ikBfc9M"
-      },
-      "artists": [
-        {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
-        }
-      ],
-      "duration_ms": 161828,
-      "name": "Ser Eu",
-      "url": "https://open.spotify.com/track/2ExyuObg4f2r7wTiM03rST"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "Primeiro Bom Dia",
         "url": "https://open.spotify.com/album/05x9tfi2dUqNtsOuFOToWF"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 133770,
       "name": "Primeiro Bom Dia",
       "url": "https://open.spotify.com/track/0pAfPb9PMGcLoWpsPh1wB0"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "Ser Eu",
+        "url": "https://open.spotify.com/album/0RAQR6HW13BW5Q3ikBfc9M"
+      },
+      "artists": [
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
+        }
+      ],
+      "duration_ms": 161828,
+      "name": "Ser Eu",
+      "url": "https://open.spotify.com/track/2ExyuObg4f2r7wTiM03rST"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
+        "name": "Cofre",
+        "url": "https://open.spotify.com/album/5TLAQQvsUK7W9jKfPnbw6d"
+      },
+      "artists": [
+        {
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
+        }
+      ],
+      "duration_ms": 199911,
+      "name": "Cofre",
+      "url": "https://open.spotify.com/track/4p9aBRtgLpwtrfXRNubECr"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
         "name": "Sustentar",
         "url": "https://open.spotify.com/album/4x3tqq8eCMgPfTtQjRl4eF"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 147600,
       "name": "Sustentar",
       "url": "https://open.spotify.com/track/3T0qWI1v8N7ZuxA61MTH4i"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "Cofre",
-        "url": "https://open.spotify.com/album/5TLAQQvsUK7W9jKfPnbw6d"
-      },
-      "artists": [
-        {
-          "name": "Rebeca",
-          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
-        }
-      ],
-      "duration_ms": 199911,
-      "name": "Cofre",
-      "url": "https://open.spotify.com/track/4p9aBRtgLpwtrfXRNubECr"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "deixa eu me perder",
-        "url": "https://open.spotify.com/album/56H5OItpiWEjREhIsSpy8l"
-      },
-      "artists": [
-        {
-          "name": "Chiara Maria",
-          "url": "https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "deixa eu me perder",
-      "url": "https://open.spotify.com/track/47byIEQkbY3In4DyTYmOw4"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "Um Brinde A Vida",
         "url": "https://open.spotify.com/album/3VigMl5w5d4kIedETAUgw3"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 182086,
       "name": "Um Brinde A Vida",
       "url": "https://open.spotify.com/track/368jIb4IpHgNiYmVG2J4PD"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "deixa eu me perder",
+        "url": "https://open.spotify.com/album/56H5OItpiWEjREhIsSpy8l"
+      },
+      "artists": [
+        {
+          "name": "Chiara Maria",
+          "url": "https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "deixa eu me perder",
+      "url": "https://open.spotify.com/track/47byIEQkbY3In4DyTYmOw4"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Teu Calor",
-        "url": "https://open.spotify.com/album/4bRwD7jIFJsYeG0qstycLh"
-      },
-      "artists": [
-        {
-          "name": "Megic Eric",
-          "url": "https://open.spotify.com/artist/3rFzMogFPAHD5EV57Trym9"
-        }
-      ],
-      "duration_ms": 302653,
-      "name": "Teu Calor",
-      "url": "https://open.spotify.com/track/0Cz8QlQ80iGaBW9i2Rizp8"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "N\u00e3o Me Chame Mais De Ex",
         "url": "https://open.spotify.com/album/4DtJfSrX5mpAgr8pvH9VtV"
       },
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
+        "name": "Curto Circuito",
+        "url": "https://open.spotify.com/album/0SQUnsHd7sJpXtNVnGVthT"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Napoli",
+          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Curto Circuito",
+      "url": "https://open.spotify.com/track/2JGqsJfRy8n0NgDJBwbGxd"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
         "name": "em busca do veneno da serpente",
         "url": "https://open.spotify.com/album/7aCXFxP6AviVWVd6mVMXce"
       },
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Curto Circuito",
-        "url": "https://open.spotify.com/album/0SQUnsHd7sJpXtNVnGVthT"
+        "name": "Teu Calor",
+        "url": "https://open.spotify.com/album/4bRwD7jIFJsYeG0qstycLh"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Napoli",
-          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
+          "name": "Megic Eric",
+          "url": "https://open.spotify.com/artist/3rFzMogFPAHD5EV57Trym9"
         }
       ],
-      "duration_ms": 153573,
-      "name": "Curto Circuito",
-      "url": "https://open.spotify.com/track/2JGqsJfRy8n0NgDJBwbGxd"
+      "duration_ms": 302653,
+      "name": "Teu Calor",
+      "url": "https://open.spotify.com/track/0Cz8QlQ80iGaBW9i2Rizp8"
     },
     {
       "added_at": "2023-09-22 03:00:00",

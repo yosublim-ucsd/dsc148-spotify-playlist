@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: SNOW WIFE",
-  "num_followers": 81882,
+  "num_followers": 81889,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDRjOWE1YmJlYjgwYjAyYWZjZTU5NmY1ZjI3YTA0ZjgyNzRiNTlj",
+  "snapshot_id": "MCw2NTNhYmMzNjU0MjIyZDRlYzgxNTVhZjFkNjM1ZWMyMTBmNzljOGQw",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Shapeshift",
-        "url": "https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf"
-      },
-      "artists": [
-        {
-          "name": "Jenna Doe",
-          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
-        }
-      ],
-      "duration_ms": 145173,
-      "name": "Shapeshift",
-      "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "What You Waiting For",
         "url": "https://open.spotify.com/album/59iiiARciChm70cn85wxuH"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 175327,
       "name": "What You Waiting For",
       "url": "https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Shapeshift",
+        "url": "https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf"
+      },
+      "artists": [
+        {
+          "name": "Jenna Doe",
+          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
+        }
+      ],
+      "duration_ms": 145173,
+      "name": "Shapeshift",
+      "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -907,38 +907,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "EXPIRED",
-        "url": "https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy"
-      },
-      "artists": [
-        {
-          "name": "jenny nuo",
-          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
-        }
-      ],
-      "duration_ms": 146739,
-      "name": "EXPIRED",
-      "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "bon iver",
-      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Hot One",
         "url": "https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9"
       },
@@ -959,6 +927,38 @@
       "duration_ms": 176445,
       "name": "Hot One",
       "url": "https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "bon iver",
+      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "EXPIRED",
+        "url": "https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy"
+      },
+      "artists": [
+        {
+          "name": "jenny nuo",
+          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
+        }
+      ],
+      "duration_ms": 146739,
+      "name": "EXPIRED",
+      "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Good Love 2.0",
+        "url": "https://open.spotify.com/album/5sDQY6ndqcHq15PD1WZgSl"
+      },
+      "artists": [
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        }
+      ],
+      "duration_ms": 174062,
+      "name": "Good Love 2.0",
+      "url": "https://open.spotify.com/track/0xErrzRegFIsekcvQ5wsS0"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 410080,
       "name": "All We Have (feat. Lastlings)",
       "url": "https://open.spotify.com/track/3sstd2afQEb5yQw0ldiKI5"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Good Love 2.0",
-        "url": "https://open.spotify.com/album/5sDQY6ndqcHq15PD1WZgSl"
-      },
-      "artists": [
-        {
-          "name": "Priya Ragu",
-          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
-        }
-      ],
-      "duration_ms": 174062,
-      "name": "Good Love 2.0",
-      "url": "https://open.spotify.com/track/0xErrzRegFIsekcvQ5wsS0"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Am I Human?",
-        "url": "https://open.spotify.com/album/2wagkL8o47G71cciBICnsI"
+        "name": "Seoul",
+        "url": "https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv"
       },
       "artists": [
         {
-          "name": "LIA LIA",
-          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+          "name": "Sofia Kay",
+          "url": "https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q"
         }
       ],
-      "duration_ms": 152829,
-      "name": "Am I Human?",
-      "url": "https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL"
+      "duration_ms": 213076,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Seoul",
-        "url": "https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kay",
-          "url": "https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q"
-        }
-      ],
-      "duration_ms": 213076,
-      "name": "Seoul",
-      "url": "https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 282110,
       "name": "Power",
       "url": "https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Am I Human?",
+        "url": "https://open.spotify.com/album/2wagkL8o47G71cciBICnsI"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "duration_ms": 152829,
+      "name": "Am I Human?",
+      "url": "https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL"
     },
     {
       "added_at": "2023-08-25 04:00:00",

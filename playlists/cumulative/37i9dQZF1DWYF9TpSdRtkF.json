@@ -2757,6 +2757,28 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 06 Cleasky",
+        "url": "https://open.spotify.com/album/00KZ35DyzALroEalMDTVmh"
+      },
+      "artists": [
+        {
+          "name": "Elena Shimabara (CV: Asuka Kakumoto)",
+          "url": "https://open.spotify.com/artist/6HnMvYK5iNrp6s758Omcls"
+        },
+        {
+          "name": "Miya Miyao (CV: Choucho Kiritani)",
+          "url": "https://open.spotify.com/artist/2MenDm4cLUCQkODm7Zkbar"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250586,
+      "name": "\u60f3\u3044\u51fa\u306f\u30af\u30ea\u30a2\u30b9\u30ab\u30a4",
+      "url": "https://open.spotify.com/track/3mV5VrJ3nKzpCYSt3XKJbF"
+    },
+    {
+      "album": {
         "name": "\u6625\u65e5\u672a\u6765\u3001\u6700\u4e0a\u9759\u9999\u3001\u7bb1\u5d0e\u661f\u68a8\u82b1\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8",
         "url": "https://open.spotify.com/album/699LKoWkFLt9QyiUNhX2r4"
       },
@@ -3132,7 +3154,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 227893,
       "name": "\u7d19\u30fb\u5fc3\u30fb\u30da\u30f3\u30fb\u5fc3 - SHISHINPENSHIN -",
       "url": "https://open.spotify.com/track/2Utvk0X0sJPcrAltf1m5Ya"

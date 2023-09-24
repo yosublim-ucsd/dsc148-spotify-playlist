@@ -4,7 +4,7 @@
 
 > Streetwear label Geedup Co selects their top 5 tracks for AUNZ’s home of hip\-hop, A1.
 
-55 songs - 2 hr 46 min
+56 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Never Die \(feat\. Lil Wayne\)](https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:10 | 2023-09-22 |  |
 | [On My Soul](https://open.spotify.com/track/4eZr40clokPVb8YPgEIjnL) | [J\-MILLA](https://open.spotify.com/artist/1sQJVmNoYaMV05kdys6jy0) | [On My Soul](https://open.spotify.com/album/1gpXKlkQu4jsATJAfEwJCf) | 2:46 | 2023-09-22 |  |
 | [Pac Energy](https://open.spotify.com/track/7KnYrhrqdbpXpjm81Yl9Zd) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Pac Energy](https://open.spotify.com/album/0YyWS2dZA7QHKbjG7vXata) | 3:42 | 2023-09-22 |  |
+| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-09-22 |  |
 | [Pakistan](https://open.spotify.com/track/72bWarcvDzWp9aAsUWnVpq) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Pakistan](https://open.spotify.com/album/2Xjzyzg5UuBg6fGHBs1SL2) | 2:54 | 2023-09-22 |  |
 | [PARK CHINOIS](https://open.spotify.com/track/4W8hCr8DuzuTkvDj895CeZ) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [PARK CHINOIS](https://open.spotify.com/album/1JmkxwBhaTc6YK6ijSWYNX) | 3:22 | 2023-09-22 |  |
 | [Remain The Same](https://open.spotify.com/track/18ykDJYV2RmdSpkRxf3etO) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Remain The Same](https://open.spotify.com/album/6wUlv3fppZczotLINqceBd) | 3:05 | 2023-09-22 |  |

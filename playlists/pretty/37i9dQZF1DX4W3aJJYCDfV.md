@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Doja Cat \(pictured\), Headie One & K\-Trap, Bakar and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,390 likes - 130 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,477 likes - 130 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 78 | [Mushrooms](https://open.spotify.com/track/15B1cDTWSXF4t3rmALOtyU) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Glasgow KI$$](https://open.spotify.com/artist/7oHXioVOisWBMFEj74TDFB), [Robot Collective](https://open.spotify.com/artist/4t9Q7485yjN60bdXa0dBEp) | [Mushrooms](https://open.spotify.com/album/3kCdR5MEFKLMft8GmAGxD3) | 3:10 |
 | 79 | [Black Dress](https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Black Dress](https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9) | 3:57 |
 | 80 | [A STRANGER](https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [A STRANGER](https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC) | 2:47 |
-| 81 | [Stick To The Plan](https://open.spotify.com/track/70LSkaIGJp3vClVP1G513o) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Stick To The Plan](https://open.spotify.com/album/2P2x81BNcG0Njj1ivyS6km) | 3:20 |
+| 81 | [Stick To The Plan](https://open.spotify.com/track/70LSkaIGJp3vClVP1G513o) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc) | [Stick To The Plan](https://open.spotify.com/album/2P2x81BNcG0Njj1ivyS6km) | 3:06 |
 | 82 | [Killing Me Slowly](https://open.spotify.com/track/04d4GzuAcytdLP2M3U9hiu) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Tori Romo](https://open.spotify.com/artist/3uuKpwmr7SsX9lVp4AGG5x) | [Killing Me Slowly](https://open.spotify.com/album/5CfsdEREZS2gS16RsxrKI9) | 3:36 |
 | 83 | [Grow](https://open.spotify.com/track/0JCHKnoruBII0Ir6CnhLCf) | [Carmelle Cox](https://open.spotify.com/artist/5LprRwSpDwiAQxRbrZ70zz), [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH), [ST Files](https://open.spotify.com/artist/3ovV3uOHZzKoAzcdNSsP2p) | [Grow](https://open.spotify.com/album/3ltcAgSi9tAObMxJwGvzBC) | 5:55 |
 | 84 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 129 | [lessons](https://open.spotify.com/track/7KZbYz90yBIxzp0CjerooE) | [PEACH.](https://open.spotify.com/artist/5HyiFvRV3bQjLAdOyfTvt6) | [lessons](https://open.spotify.com/album/4Cfk3yJTdQWhw65sTdNGdr) | 3:34 |
 | 130 | [Love Is Free](https://open.spotify.com/track/51j0exKov2Fq2Z8xXalO7j) | [CAZ](https://open.spotify.com/artist/7v18Pi0vYm0bXeg1BrlwMt) | [Love Is Free](https://open.spotify.com/album/7qv4MCXzq0JwffARjt8oRM) | 2:36 |
 
-Snapshot ID: `MCw1MDhkMGZmYjU4YzZhYmEwYzU3NDgwMzdhNzJmYzBjOTM4NjBjNDg2`
+Snapshot ID: `MCxkMjVmYjg5ZDE3NDViOWNhZmY0NzkxMmEyMTgzNDI1MTRlYTUwYzg3`

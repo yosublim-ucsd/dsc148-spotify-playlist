@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-524 songs - 1 day 4 hr 45 min
+526 songs - 1 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [makeitliveforever](https://open.spotify.com/track/2xXSBf2g9yFvNwL966JrUO) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/53gOm5R7JN5DAkIuZymFOZ) | 1:50 | 2021-12-15 | 2022-02-12 |
 | [MANGO \(feat\. Adi Oasis\)](https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [MANGO \(feat\. Adi Oasis\)](https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0) | 4:05 | 2022-02-11 | 2023-04-15 |
 | [Many Ways](https://open.spotify.com/track/2AfcTMT8jdpbUAEXYhcj2d) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Many Ways](https://open.spotify.com/album/73nMLfzFweJGeLrW3dmtqN) | 3:27 | 2023-04-21 | 2023-09-15 |
+| [Marking My Time](https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau) | 4:28 | 2023-09-22 |  |
 | [Masterpiece](https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 5:44 | 2021-12-15 | 2023-08-19 |
 | [MAYBE SWANKAFORNiA](https://open.spotify.com/track/0mRa1oLuYvOOhRydLk0Bqp) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4) | 2:51 | 2023-05-05 | 2023-06-09 |
 | [MAYBE SWANKAFORNiA](https://open.spotify.com/track/0rjjTjhUsMy3Akhy3zduKK) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/3eZdxMaUii7OAahX0hFcJU) | 2:51 | 2023-05-05 |  |
@@ -331,8 +332,9 @@
 | [Napkins](https://open.spotify.com/track/3PqnBkr83kaVQNKP0qYjQF) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Napkins](https://open.spotify.com/album/01uQnrOaLJC13xdImR2Dtc) | 3:35 | 2022-06-30 | 2022-09-30 |
 | [neve give up](https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:41 | 2021-12-15 | 2023-01-28 |
 | [Never Know](https://open.spotify.com/track/62L4gX0hWCso6ikzA9yjpe) | [Mulherin](https://open.spotify.com/artist/0pvhBvl3SFpzhahmYfqcPo) | [Never Know](https://open.spotify.com/album/4GymIaS8BsKYYPJqzgr5Bf) | 3:03 | 2021-12-15 | 2022-04-18 |
+| [New Lows](https://open.spotify.com/track/3AcEznRWD9ySaNvW6TUxcc) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Midnight Microdose, Vol\. 2](https://open.spotify.com/album/3nZfR3g2APtjLlOOE3h6jL) | 1:26 | 2023-09-16 |  |
 | [Night Terrific! \(feat\. Yaqob\)](https://open.spotify.com/track/1wQxWFfARHkHVPd9PnZiKU) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj), [Yaqob](https://open.spotify.com/artist/5poGTBtoUMt7M5UtX0XpcU) | [Night Terrific! \(feat\. Yaqob\)](https://open.spotify.com/album/6FK7EC7d9V88Eo1F9bQm8g) | 2:44 | 2021-12-15 | 2022-07-28 |
-| [No Love Without You](https://open.spotify.com/track/6hkp6tJrFcoYkdktLIA4rh) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [No Love Without You](https://open.spotify.com/album/4psixGGfeWXq1LMcVmX9ME) | 3:10 | 2023-05-12 |  |
+| [No Love Without You](https://open.spotify.com/track/6hkp6tJrFcoYkdktLIA4rh) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [No Love Without You](https://open.spotify.com/album/4psixGGfeWXq1LMcVmX9ME) | 3:10 | 2023-05-12 | 2023-09-24 |
 | [No Romance](https://open.spotify.com/track/3WXmP0wXwhnrBRzmdyGctC) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [No Romance](https://open.spotify.com/album/2Gk6fcvchxO7esaBUyhaet) | 3:57 | 2021-12-15 | 2023-02-13 |
 | [no spine](https://open.spotify.com/track/1YHB8m41zFD61dCHy96BFI) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [crumbs in my bed](https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh) | 3:02 | 2023-09-01 |  |
 | [North Face](https://open.spotify.com/track/63bAGRSSX2V1hhPSP2NpBC) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Analogue](https://open.spotify.com/album/1SgtXskC74No0x9a9iDlfw) | 3:16 | 2021-12-15 | 2022-06-11 |
@@ -382,7 +384,7 @@
 | [Queen Tings](https://open.spotify.com/track/5tkR9JkBj3Ueeo8W4k8IZD) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 3:08 | 2021-12-15 | 2023-05-13 |
 | [R U DUMM?](https://open.spotify.com/track/6DZWyOyqhudkMzwBA9Kqum) | [NADUH](https://open.spotify.com/artist/5voTUw1S7gRACJXVp3slwh) | [R U DUMM?](https://open.spotify.com/album/2Uynv1M3RGcHSkDRDxQ9uR) | 3:01 | 2021-12-15 | 2022-07-21 |
 | [Raining Tomorrow](https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Raining Tomorrow](https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY) | 3:48 | 2023-08-11 |  |
-| [Reconnect](https://open.spotify.com/track/5RrKRyu91jJs9l2wFwg7Qp) | [Astrønne](https://open.spotify.com/artist/2DOAWdT8xBtf0aLDS5U8yN) | [Reconnect](https://open.spotify.com/album/3nfVHvD93P3r2sU7tpiZhw) | 3:26 | 2023-09-08 |  |
+| [Reconnect](https://open.spotify.com/track/5RrKRyu91jJs9l2wFwg7Qp) | [Astrønne](https://open.spotify.com/artist/2DOAWdT8xBtf0aLDS5U8yN) | [Reconnect](https://open.spotify.com/album/3nfVHvD93P3r2sU7tpiZhw) | 3:26 | 2023-09-08 | 2023-09-24 |
 | [Regrets](https://open.spotify.com/track/4U7Mih8jHL0v5g6oksHMBm) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [OMNI](https://open.spotify.com/album/4ZW6k9Vn0VR6ulH7C2PXcT) | 2:34 | 2021-12-15 | 2022-07-29 |
 | [Relax](https://open.spotify.com/track/2WFLsBTMjMMWBLOiTGvFFq) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ), [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Baw Baw Black Sheep](https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k) | 3:51 | 2021-12-15 | 2023-01-28 |
 | [Remember Me](https://open.spotify.com/track/630Ug0XtmhhFvAKo0PNuEI) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Remember Me](https://open.spotify.com/album/4iLi0ZWdcYtCZvsXZHTRLx) | 3:19 | 2021-12-15 | 2022-09-17 |

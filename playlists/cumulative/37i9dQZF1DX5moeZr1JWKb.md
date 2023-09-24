@@ -4,7 +4,7 @@
 
 > Estas son las grandes voces del Hip Hop\. Foto: Tayko
 
-91 songs - 4 hr 57 min
+92 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Asi Es la Vida](https://open.spotify.com/track/5BA4WEqUAPHBqx4bxO7Ld5) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Rodesens](https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8) | [Asi Es la Vida](https://open.spotify.com/album/4yLc8PxzYwiyTw2iogrCK3) | 2:12 | 2023-05-26 | 2023-09-09 |
 | [Así Me Corten la Luz \- Yoky Barrios](https://open.spotify.com/track/76f5KHMPlGkeW9OvdT4efE) | [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj), [Barragan](https://open.spotify.com/artist/1cIqvDo17E9xHqz3homiJH) | [Así Me Corten la Luz](https://open.spotify.com/album/53WjlTIITjHUrsXJJRjUWZ) | 3:36 | 2023-05-26 |  |
 | [BEEMO](https://open.spotify.com/track/5PHhNS4BtZEAHeu4aqoLba) | [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [BEEMO](https://open.spotify.com/album/1I6fnBF8oU0yPo4NPQmuif) | 2:08 | 2023-06-30 | 2023-07-15 |
-| [Bendición o Desgracia](https://open.spotify.com/track/2jMh4nHPNtayqz7MsAnoc9) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Bendición o Desgracia](https://open.spotify.com/album/67tBFPuqAgfDiMe2ee0gA3) | 2:43 | 2023-06-30 |  |
+| [Bendición o Desgracia](https://open.spotify.com/track/2jMh4nHPNtayqz7MsAnoc9) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Bendición o Desgracia](https://open.spotify.com/album/67tBFPuqAgfDiMe2ee0gA3) | 2:43 | 2023-06-30 | 2023-09-24 |
+| [Bendición o Desgracia](https://open.spotify.com/track/5H4xazm3fBhE9DVv1zkbJ8) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Bendición o Desgracia](https://open.spotify.com/album/1cS0tv59v0ZkkEQR2ouWyO) | 2:43 | 2023-09-08 |  |
 | [Bogotá](https://open.spotify.com/track/6DcedC1YjHenkutpm6X2KA) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [Bogotá](https://open.spotify.com/album/3eSvHe6Q008l85ZJ8s6lEH) | 3:21 | 2023-08-04 |  |
 | [Boombarrio](https://open.spotify.com/track/0san1KUetFkSctwivThY7z) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM) | [Boombarrio](https://open.spotify.com/album/5bmFCK52DIm32GPjOzzT8V) | 3:26 | 2023-05-26 |  |
 | [Buenos Días Vietnam](https://open.spotify.com/track/2ieyIDwlghKt45bqH19sOg) | [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre), [Gambeta](https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4) | [Indiana Jones](https://open.spotify.com/album/0Zzv3eEsc54Szwm8CrZjd6) | 3:58 | 2023-05-26 |  |

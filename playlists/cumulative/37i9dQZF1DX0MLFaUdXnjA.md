@@ -2,7 +2,7 @@
 
 ### [Chill Pop](https://open.spotify.com/playlist/37i9dQZF1DX0MLFaUdXnjA)
 
-> Keeping it lowkey with the best of today's chill pop\. Cover: Miley Cyrus
+> Keeping it lowkey with the best of today's chill pop\. Cover: Tom Odell
 
 1,429 songs - 3 day 4 hr 42 min
 

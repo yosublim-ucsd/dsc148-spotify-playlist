@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,925 likes - 70 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,949 likes - 70 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 69 | [Arrival](https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ) | [MATRiXXMAN](https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y) | [Sector II: Acid](https://open.spotify.com/album/4MAJPXXQDS2icpR3MqUq8U) | 7:45 |
 | 70 | [Butoh \(Robert Hood Remix\)](https://open.spotify.com/track/1eAw92jTlkIhrj0H4k7yKj) | [Sven Väth](https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F), [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Butoh \(Robert Hood Remix\)](https://open.spotify.com/album/2sqpT33fOrCzj9d0JUVceQ) | 7:06 |
 
-Snapshot ID: `MCw1NDNjNjBhYjYxZDE0ZTVhYWY4ZjkxNGI4MzljYjUyZTA5Y2Q0NWNi`
+Snapshot ID: `MCwxNTAzNzQ0YThmMDc0MjdlNGI4ZWZiM2U4MmFjNWQ5NGNiYjNiYTNj`

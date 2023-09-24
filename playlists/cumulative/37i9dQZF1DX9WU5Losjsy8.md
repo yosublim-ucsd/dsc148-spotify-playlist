@@ -4,11 +4,12 @@
 
 > Ist nur einmal im Jahr!
 
-86 songs - 4 hr 21 min
+87 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24\-6 \(Scheissegal welcher Tag\)](https://open.spotify.com/track/7IXJHfvpYAtjXbyxfxMMVz) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [24\-6 \(Scheissegal welcher Tag\)](https://open.spotify.com/album/5AXr8RJzTQgDbUec1Yf4uv) | 2:17 | 2023-07-28 | 2023-08-11 |
+| [A Mann für Amore \- Single Mix](https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Von Herzen](https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC) | 3:52 | 2023-09-18 |  |
 | [Abfahrt](https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Dorfdisko](https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL) | 3:26 | 2023-07-14 |  |
 | [Anna\-Lena](https://open.spotify.com/track/5NTiHVwhx2FpUsuSbgkDGE) | [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Deejay Matze](https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4) | [Anna\-Lena](https://open.spotify.com/album/2NQEW9DajvxCNWSyj0eS5d) | 3:00 | 2023-07-14 |  |
 | [Arielle](https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai) | [Arielle](https://open.spotify.com/album/4EXFZVB4injyDGnD86Z77z) | 3:25 | 2023-07-14 |  |
@@ -80,7 +81,7 @@
 | [Rapunzel \- DJ Robin Remix](https://open.spotify.com/track/2WQBFD9aMY1HldcU7Ekvp1) | [Die Draufgänger](https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV), [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [Rapunzel \(DJ Robin Remix\)](https://open.spotify.com/album/3dr4AKRx355JOuK77zvyvX) | 2:45 | 2023-07-14 |  |
 | [Saufen aufm Spielplatz](https://open.spotify.com/track/5U20wHHKhsNDONaKQOC4JG) | [BroyS](https://open.spotify.com/artist/3yDixC6rzq0qg2HmZTobCO), [Pbb Yea](https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9) | [Saufen aufm Spielplatz](https://open.spotify.com/album/0kd5J1CE0NNrppIM1hQi67) | 4:00 | 2023-07-14 |  |
 | [Saufi saufi](https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Saufi saufi](https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7) | 3:26 | 2023-07-14 |  |
-| [Sauftourist](https://open.spotify.com/track/61eiAAYLa2sygwdg7nt1qL) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf) | [Sauftourist](https://open.spotify.com/album/66sLyPMmwDoRqYo0XU3YLX) | 2:50 | 2023-07-14 |  |
+| [Sauftourist](https://open.spotify.com/track/61eiAAYLa2sygwdg7nt1qL) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf) | [Sauftourist](https://open.spotify.com/album/66sLyPMmwDoRqYo0XU3YLX) | 2:50 | 2023-07-14 | 2023-09-24 |
 | [Scheißegal, ich feier \- Radio Edit](https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg) | [Mütze Katze](https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF) | [Scheißegal, ich feier \(Radio Edit\)](https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY) | 2:44 | 2023-07-14 |  |
 | [Senorita](https://open.spotify.com/track/5OHOykHs3Ct2pgbqod8uMD) | [Kay One](https://open.spotify.com/artist/6VjbeCqoayiHYnefrisskv), [Pietro Lombardi](https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0) | [Senorita](https://open.spotify.com/album/7sC0Co4ka745oGeBfB3Bhk) | 3:58 | 2023-08-28 |  |
 | [So viel gemeinsam](https://open.spotify.com/track/3iyH9HYxpRskunFjMF8F7O) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [So viel gemeinsam](https://open.spotify.com/album/6YiV531P44nWmCr2E6PvPl) | 2:16 | 2023-07-14 | 2023-08-04 |

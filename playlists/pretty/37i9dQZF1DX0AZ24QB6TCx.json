@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 304726,
+  "num_followers": 304804,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTE1MjUzZTY4YTc0NDkwMzY3OTJkZWRkMmRjYTBiODFhMTNiYjQ1",
+  "snapshot_id": "MCw3MWE4MzdkM2NkZWVkMDFkNWUwMDE3YmJhMTJjMjRmYzI1ZTViZGU5",
   "tracks": [
     {
       "added_at": "2023-08-03 22:01:00",
@@ -31,30 +31,6 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "Allein Allein",
-        "url": "https://open.spotify.com/album/2oLn47kWsw7iYC3NOtNEx2"
-      },
-      "artists": [
-        {
-          "name": "INNERVERSE",
-          "url": "https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf"
-        },
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        }
-      ],
-      "duration_ms": 221128,
-      "name": "Allein Allein",
-      "url": "https://open.spotify.com/track/2bpHc7nCduKQWJVNqJ4mDj"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
         "name": "Your Voice (Adam Port Remix)",
         "url": "https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da"
       },
@@ -75,6 +51,30 @@
       "duration_ms": 260655,
       "name": "Your Voice - Adam Port Remix",
       "url": "https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "Allein Allein",
+        "url": "https://open.spotify.com/album/2oLn47kWsw7iYC3NOtNEx2"
+      },
+      "artists": [
+        {
+          "name": "INNERVERSE",
+          "url": "https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "duration_ms": 221128,
+      "name": "Allein Allein",
+      "url": "https://open.spotify.com/track/2bpHc7nCduKQWJVNqJ4mDj"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
+        "name": "Love Will Set U Free",
+        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 382447,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/4fkmywQO1lT7X6V3yOngaw"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
         "name": "Fj\u00e4ll",
         "url": "https://open.spotify.com/album/0QgzD9uaXYFfohdHQPKYG1"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 315297,
       "name": "Fj\u00e4ll",
       "url": "https://open.spotify.com/track/7KuYN3fAlt1JM689zzx3wJ"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "Love Will Set U Free",
-        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 382447,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/4fkmywQO1lT7X6V3yOngaw"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
+        "name": "Parallels",
+        "url": "https://open.spotify.com/album/3fAVBC8B78yJePSSRr1sKv"
+      },
+      "artists": [
+        {
+          "name": "NIHILS",
+          "url": "https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx"
+        }
+      ],
+      "duration_ms": 330545,
+      "name": "Parallels",
+      "url": "https://open.spotify.com/track/0YDIy9Ixkh7dH36GanI1YJ"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
         "name": "Blood Moon (Remixes)",
         "url": "https://open.spotify.com/album/4TGKtivFRBZl4BymLiQTpK"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 289134,
       "name": "A Thousand Knives (Enamour Remix) - Edit",
       "url": "https://open.spotify.com/track/37Zi74wmcWpaFGogWQipqx"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "Parallels",
-        "url": "https://open.spotify.com/album/3fAVBC8B78yJePSSRr1sKv"
-      },
-      "artists": [
-        {
-          "name": "NIHILS",
-          "url": "https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx"
-        }
-      ],
-      "duration_ms": 330545,
-      "name": "Parallels",
-      "url": "https://open.spotify.com/track/0YDIy9Ixkh7dH36GanI1YJ"
     },
     {
       "added_at": "2023-08-03 22:01:00",

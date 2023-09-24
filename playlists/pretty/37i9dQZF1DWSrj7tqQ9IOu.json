@@ -1,12 +1,12 @@
 {
   "description": "The best French indie tracks right now. Cover: Z\u00e9lie",
-  "num_followers": 404435,
+  "num_followers": 404479,
   "original_name": "Made in France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzQ4YWJkOWIxZjVjYmZkYzU4Y2JiM2Y2NWNhMzBhOWM0MDkzNjQ5",
+  "snapshot_id": "MCwzN2YxNmNkZDlhOWUwYTRhOTkzYmI2ZDkyMGRiZjE1YzE5YTEyYjkx",
   "tracks": [
     {
       "added_at": "2023-09-21 22:01:00",
@@ -284,12 +284,12 @@
       },
       "artists": [
         {
-          "name": "Mathieu Boogaerts",
-          "url": "https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ"
-        },
-        {
           "name": "Mr GISCARD",
           "url": "https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj"
+        },
+        {
+          "name": "Mathieu Boogaerts",
+          "url": "https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ"
         }
       ],
       "duration_ms": 176120,

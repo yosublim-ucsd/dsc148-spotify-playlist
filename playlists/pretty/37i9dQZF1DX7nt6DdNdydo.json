@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 43968,
+  "num_followers": 44025,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjA1ZWQ1ODRkNDk5ZGU2YmNiYjE3NDM0MWFmODdmYWQ4NzgyMDg0",
+  "snapshot_id": "MCw4MzMzMDQwNmRmNzI2ZjBiYzYwMDQyZDhmN2I5NTE4ZjNlZDc2Y2Vi",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "28 Big Ones",
-        "url": "https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 155693,
-      "name": "Grandma Plays The Numbers",
-      "url": "https://open.spotify.com/track/5eVbYxvz9Ed9Y9KEjfA64y"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Ruth Brown",
         "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 195466,
       "name": "5-10-15 Hours",
       "url": "https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "28 Big Ones",
+        "url": "https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 155693,
+      "name": "Grandma Plays The Numbers",
+      "url": "https://open.spotify.com/track/5eVbYxvz9Ed9Y9KEjfA64y"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Lovin' Machine",
-        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 160827,
-      "name": "Bloodshot Eyes",
-      "url": "https://open.spotify.com/track/4w873lwWDABniYU2MOaXYQ"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Dearest",
         "url": "https://open.spotify.com/album/4AmBFaXqeJYiS3bMKbVnRX"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 156653,
       "name": "It Ain't The Meat, It's The Motion",
       "url": "https://open.spotify.com/track/5DowgjLju7riW4EXaZfdTZ"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Down The Road Apiece",
+      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -179,18 +179,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+        "name": "Lovin' Machine",
+        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
       },
       "artists": [
         {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
         }
       ],
-      "duration_ms": 179893,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
+      "duration_ms": 160827,
+      "name": "Bloodshot Eyes",
+      "url": "https://open.spotify.com/track/4w873lwWDABniYU2MOaXYQ"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Lovin' Machine",
-        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 145443,
-      "name": "Lovin' Machine",
-      "url": "https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "The Capitol Years",
         "url": "https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV"
       },
@@ -335,38 +319,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
-        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
-        }
-      ],
-      "duration_ms": 334360,
-      "name": "Saturday Night Fish Fry - Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6NrCCHjmdopC3Jh0SGLPe5"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "The EP Collection",
-        "url": "https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb"
-      },
-      "artists": [
-        {
-          "name": "Tiny Bradshaw",
-          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
-        }
-      ],
-      "duration_ms": 114813,
-      "name": "Bradshaw Boogie",
-      "url": "https://open.spotify.com/track/1BFEfvRUGbjo8goeXENTKT"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Presenting Helen Humes",
         "url": "https://open.spotify.com/album/7dU3bNHJgHR1YHcUi5NgAl"
       },
@@ -383,8 +335,24 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "28 Big Ones",
-        "url": "https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT"
+        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
+        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+        }
+      ],
+      "duration_ms": 334360,
+      "name": "Saturday Night Fish Fry - Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6NrCCHjmdopC3Jh0SGLPe5"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Lovin' Machine",
+        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
       },
       "artists": [
         {
@@ -392,9 +360,25 @@
           "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
         }
       ],
-      "duration_ms": 135853,
-      "name": "Shake That Thing",
-      "url": "https://open.spotify.com/track/28S7lYq6jJxpyT8FYkpOHi"
+      "duration_ms": 145443,
+      "name": "Lovin' Machine",
+      "url": "https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The EP Collection",
+        "url": "https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb"
+      },
+      "artists": [
+        {
+          "name": "Tiny Bradshaw",
+          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
+        }
+      ],
+      "duration_ms": 114813,
+      "name": "Bradshaw Boogie",
+      "url": "https://open.spotify.com/track/1BFEfvRUGbjo8goeXENTKT"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -447,6 +431,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "28 Big Ones",
+        "url": "https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 135853,
+      "name": "Shake That Thing",
+      "url": "https://open.spotify.com/track/28S7lYq6jJxpyT8FYkpOHi"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Presenting Big Jay McNeely",
         "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
       },
@@ -459,22 +459,6 @@
       "duration_ms": 167866,
       "name": "Deacon Rides Again",
       "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Lovin' Machine",
-        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Keep On Churnin' (Till The Butter Come)",
-      "url": "https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -511,6 +495,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Lost Halloween",
+        "url": "https://open.spotify.com/album/4TpcgsEr8w68ELyq0fZR4T"
+      },
+      "artists": [
+        {
+          "name": "Big 'T' Tyler",
+          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
+        }
+      ],
+      "duration_ms": 120480,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/49VFbbe7fYParNLzugoweT"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Ruth Brown",
         "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
       },
@@ -527,18 +527,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Lost Halloween",
-        "url": "https://open.spotify.com/album/4TpcgsEr8w68ELyq0fZR4T"
+        "name": "Lovin' Machine",
+        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
       },
       "artists": [
         {
-          "name": "Big 'T' Tyler",
-          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
         }
       ],
-      "duration_ms": 120480,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/49VFbbe7fYParNLzugoweT"
+      "duration_ms": 173466,
+      "name": "Keep On Churnin' (Till The Butter Come)",
+      "url": "https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Shorty",
+        "url": "https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3"
+      },
+      "artists": [
+        {
+          "name": "Vernon Dilworth",
+          "url": "https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Who Said Shorty Wasn't Coming Back - Lucky Millinder",
+      "url": "https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "The Humphrey Lyttelton Big Band with Jimmy Rushing",
         "url": "https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 116933,
       "name": "Mr. Five By Five",
       "url": "https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Shorty",
-        "url": "https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3"
-      },
-      "artists": [
-        {
-          "name": "Vernon Dilworth",
-          "url": "https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Who Said Shorty Wasn't Coming Back - Lucky Millinder",
-      "url": "https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF"
     },
     {
       "added_at": "2022-03-28 19:44:25",

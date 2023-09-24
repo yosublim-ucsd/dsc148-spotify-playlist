@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 4280,
+  "num_followers": 4297,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzRkNzNkZGMxOTk3MGFlZjE0ODhhYThiNDNjOTA3MzAxYWZmYWVk",
+  "snapshot_id": "MCxiMTUzYjU0NzZkNTlkMDYzNTYyZjlkN2Y1MGU2Mjk0MzM2NTYzYTk5",
   "tracks": [
     {
       "added_at": "2023-09-22 06:16:22",
@@ -619,8 +619,8 @@
     {
       "added_at": "2023-09-22 06:16:22",
       "album": {
-        "name": "Built And Broken",
-        "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
         }
       ],
-      "duration_ms": 268293,
-      "name": "Built And Broken",
-      "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
+      "duration_ms": 210506,
+      "name": "Pink Shades",
+      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
     },
     {
       "added_at": "2023-09-22 06:16:22",
@@ -699,8 +699,8 @@
     {
       "added_at": "2023-09-22 06:16:22",
       "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
+        "name": "Built And Broken",
+        "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
         }
       ],
-      "duration_ms": 210506,
-      "name": "Pink Shades",
-      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
+      "duration_ms": 268293,
+      "name": "Built And Broken",
+      "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
     },
     {
       "added_at": "2023-09-22 06:16:22",
@@ -815,38 +815,38 @@
     {
       "added_at": "2023-09-22 06:16:22",
       "album": {
-        "name": "What Kind of Woman",
-        "url": "https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG"
+        "name": "Times",
+        "url": "https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l"
       },
       "artists": [
         {
-          "name": "DeWolff",
-          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
+          "name": "Marlayne",
+          "url": "https://open.spotify.com/artist/4xjoVIB3eX5vHU3oz4BmBr"
         },
         {
-          "name": "Dawn Brothers",
-          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
+          "name": "Hans Vermeulen",
+          "url": "https://open.spotify.com/artist/7kGe553AEMYjqXiGI8wIYD"
         }
       ],
-      "duration_ms": 214240,
-      "name": "What Kind of Woman",
-      "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
+      "duration_ms": 244060,
+      "name": "Times",
+      "url": "https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y"
     },
     {
       "added_at": "2023-09-22 06:16:22",
       "album": {
-        "name": "Into The Wild",
-        "url": "https://open.spotify.com/album/10JOoOnHzsKLifj0g1DTJy"
+        "name": "Wandering Soul",
+        "url": "https://open.spotify.com/album/6OPr5drQs4sdE8IgAK4vEv"
       },
       "artists": [
         {
-          "name": "Jennifer Ewbank",
-          "url": "https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8"
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
         }
       ],
-      "duration_ms": 165120,
-      "name": "Into The Wild",
-      "url": "https://open.spotify.com/track/2Fu4lrs00YKBQ1sIHUT4Kl"
+      "duration_ms": 152590,
+      "name": "Gravel Road",
+      "url": "https://open.spotify.com/track/078aq6YFLnlMAK6yqst82A"
     }
   ],
   "unique_name": "Route Americana",

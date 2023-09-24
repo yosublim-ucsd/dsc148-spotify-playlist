@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¿Shakira belicona? ¿Nodal y Ricky Martin sinfónicos? ¿Blink\-182 de regreso? 2023 todavía tiene sorpresas para ti
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,078 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,411 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 30 | [Contigo Hasta El Final](https://open.spotify.com/track/34Iw1vdwNttY3t9pbFA8iQ) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo Hasta El Final](https://open.spotify.com/album/4XfWnAyKndaUkwOPahhjbn) | 2:48 |
 | 31 | [MAMBO 23](https://open.spotify.com/track/0lWCaNootIluiysUga5SjO) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [MAMBO 23](https://open.spotify.com/album/3SOAiZvQz3nBPuOkdRKUhG) | 3:20 |
 | 32 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 |
-| 33 | [Amanecer](https://open.spotify.com/track/6hh3qOUupeGORRXwNJXmuL) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Dekko](https://open.spotify.com/artist/6KABzmbqGOPdhXuiV67wTC) | [Amanecer](https://open.spotify.com/album/2dpoGIT0FH5ceESag6H3bi) | 3:05 |
+| 33 | [Amanecer](https://open.spotify.com/track/6hh3qOUupeGORRXwNJXmuL) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Amanecer](https://open.spotify.com/album/2dpoGIT0FH5ceESag6H3bi) | 3:05 |
 | 34 | [cuando salto me duele](https://open.spotify.com/track/5Z7mpQCwr8Ydr5WNQgO8Dd) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [cuando salto me duele](https://open.spotify.com/album/2MTsy6zxZYxcmm1VYkYySR) | 3:09 |
 | 35 | [Lo Que Falta De Mí](https://open.spotify.com/track/3egTDzqctMyQ8VVxNDpycu) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Lo Que Falta De Mí](https://open.spotify.com/album/60wOFQr0bZZjerxuioYEqA) | 3:41 |
 | 36 | [ícaro](https://open.spotify.com/track/68BnzdIbvcoW11I0EhVvwb) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP) | [ícaro](https://open.spotify.com/album/1vtrBs348NQgNBIJG2cUFH) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [ESO VA](https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [ESO VA](https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w) | 2:46 |
 | 50 | [Quiero ser un ONVRE](https://open.spotify.com/track/2x9xbcKJoicB51xCJe6MdS) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [DEBUT](https://open.spotify.com/album/7dQNB0f4oHyXikawZWmuUU) | 2:51 |
 
-Snapshot ID: `MCwzNTU0OGZiN2M1YWJmNWUyOGM3NTM2MWI4MzY4NTBlMDg1ZjVlZTEz`
+Snapshot ID: `MCxkZjc4YWZhODE3NmQzMjc5YTJmMDk3YWMzZWI3NTkzMWIxNjI0N2Zm`

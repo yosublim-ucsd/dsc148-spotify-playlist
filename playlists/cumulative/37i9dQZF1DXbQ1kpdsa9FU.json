@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Let the Praises Ring: The Best of Lincoln Brewster",
+        "url": "https://open.spotify.com/album/4YI4aVaQzJhT9XZdLpPBHE"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Brewster",
+          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287434,
+      "name": "Everlasting God",
+      "url": "https://open.spotify.com/track/6eYawsVsCvja8wXmcshtdI"
+    },
+    {
+      "album": {
         "name": "Fresh Start",
         "url": "https://open.spotify.com/album/52gg77WRnRbxTrKYQaQ5mx"
       },
@@ -1816,7 +1834,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 237198,
       "name": "Live Like That",
       "url": "https://open.spotify.com/track/6QbbxQtijqLfUV90Vlm1Xh"

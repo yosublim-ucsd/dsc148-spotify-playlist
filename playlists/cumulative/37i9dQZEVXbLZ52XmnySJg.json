@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 207312,
       "name": "Baarishein",
       "url": "https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W"
@@ -4210,7 +4210,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 176232,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV"
@@ -7198,7 +7198,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 251999,
       "name": "Kalapakkaara (From \"King of Kotha\")",
       "url": "https://open.spotify.com/track/554RItg5afQv3ODGQMT29x"
@@ -10474,7 +10474,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 253000,
       "name": "Neela Nilave (From \"RDX\")",
       "url": "https://open.spotify.com/track/73rMD23ocpYxwQXJQJyRDv"
@@ -11036,6 +11036,24 @@
       "duration_ms": 210857,
       "name": "Pacha Elai (From \"Love Today\")",
       "url": "https://open.spotify.com/track/4JO0JV8cZ4JnB777tmNKh9"
+    },
+    {
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
     {
       "album": {
@@ -12166,7 +12184,7 @@
       ],
       "date_added": "2021-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 228855,
       "name": "Ranjha (From \"Shershaah\")",
       "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
@@ -13036,7 +13054,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 247941,
       "name": "Shayad",
       "url": "https://open.spotify.com/track/1smFN2CLqGROu0J0UyvDfL"
@@ -15054,7 +15072,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 270000,
       "name": "Tu Aake Dekhle",
       "url": "https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby"

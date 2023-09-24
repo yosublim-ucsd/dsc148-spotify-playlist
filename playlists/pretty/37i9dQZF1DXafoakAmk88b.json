@@ -1,12 +1,12 @@
 {
   "description": "New indie driving the current. Cover: Jordan Ward",
-  "num_followers": 35099,
+  "num_followers": 35156,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDVlNGQyMmM4ODI4ZjcwMDE5YmVlODhlNTkyZmU4NzAzNzEzMGMw",
+  "snapshot_id": "MCxlZjZiMDNkMDRhMDgxMGQ5Y2MzYjUzNDQxZDhhOWJlMDM1MWM0M2U5",
   "tracks": [
     {
       "added_at": "2023-08-31 23:41:20",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-08-31 23:41:20",
       "album": {
+        "name": "Let\u2019s Start Here.",
+        "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 190581,
+      "name": "the ride-",
+      "url": "https://open.spotify.com/track/04HeNxRRVjcwctfp2K2kMu"
+    },
+    {
+      "added_at": "2023-08-31 23:41:20",
+      "album": {
         "name": "KAYTRAMIN\u00c9",
         "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 181000,
       "name": "Who He Iz",
       "url": "https://open.spotify.com/track/02nhDSWvcXYALyVkth2oXd"
-    },
-    {
-      "added_at": "2023-08-31 23:41:20",
-      "album": {
-        "name": "Let\u2019s Start Here.",
-        "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 190581,
-      "name": "the ride-",
-      "url": "https://open.spotify.com/track/04HeNxRRVjcwctfp2K2kMu"
     },
     {
       "added_at": "2023-08-31 23:41:20",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-08-31 23:41:20",
       "album": {
-        "name": "This City is a Graveyard",
-        "url": "https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH"
-      },
-      "artists": [
-        {
-          "name": "Baby Storme",
-          "url": "https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe"
-        }
-      ],
-      "duration_ms": 187377,
-      "name": "This City is a Graveyard",
-      "url": "https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH"
-    },
-    {
-      "added_at": "2023-08-31 23:41:20",
-      "album": {
         "name": "Is It Magic?",
         "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 188727,
       "name": "Is It Magic?",
       "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
+    },
+    {
+      "added_at": "2023-08-31 23:41:20",
+      "album": {
+        "name": "This City is a Graveyard",
+        "url": "https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH"
+      },
+      "artists": [
+        {
+          "name": "Baby Storme",
+          "url": "https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe"
+        }
+      ],
+      "duration_ms": 187377,
+      "name": "This City is a Graveyard",
+      "url": "https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH"
     },
     {
       "added_at": "2023-08-31 23:41:20",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-08-31 23:41:20",
       "album": {
-        "name": "no way out",
-        "url": "https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP"
-      },
-      "artists": [
-        {
-          "name": "ivri",
-          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
-        }
-      ],
-      "duration_ms": 113624,
-      "name": "no way out",
-      "url": "https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX"
-    },
-    {
-      "added_at": "2023-08-31 23:41:20",
-      "album": {
         "name": "killer",
         "url": "https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 176876,
       "name": "killer",
       "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
+    },
+    {
+      "added_at": "2023-08-31 23:41:20",
+      "album": {
+        "name": "no way out",
+        "url": "https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "duration_ms": 113624,
+      "name": "no way out",
+      "url": "https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX"
     },
     {
       "added_at": "2023-08-31 23:41:20",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-08-31 23:41:20",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 196739,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
-    },
-    {
-      "added_at": "2023-08-31 23:41:20",
-      "album": {
         "name": "EL-MEAN",
         "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 251501,
       "name": "Choose You",
       "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
+    },
+    {
+      "added_at": "2023-08-31 23:41:20",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 196739,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
     },
     {
       "added_at": "2023-08-31 23:41:20",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-08-31 23:41:20",
       "album": {
+        "name": "Why (Spare Me Tears)",
+        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 205229,
+      "name": "Why (Spare Me Tears)",
+      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
+    },
+    {
+      "added_at": "2023-08-31 23:41:20",
+      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 150360,
       "name": "Sunrise Bang Ur Head Against Tha Wall",
       "url": "https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz"
-    },
-    {
-      "added_at": "2023-08-31 23:41:20",
-      "album": {
-        "name": "Why (Spare Me Tears)",
-        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 205229,
-      "name": "Why (Spare Me Tears)",
-      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
     },
     {
       "added_at": "2023-08-31 23:41:20",

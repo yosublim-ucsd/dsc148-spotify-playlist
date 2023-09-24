@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,528 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,553 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 | 100 | [Thank God It's Christmas](https://open.spotify.com/track/3sSEbpbUVNnzU2sFZ81WAk) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Thank God It's Christmas](https://open.spotify.com/album/5eifKVwGfihPewkitHo5PS) | 4:03 |
 | 101 | [Christmas Was Here \- Acoustic](https://open.spotify.com/track/4gwD6CSw69CzAKS3h9E95K) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Christmas Was Here \(Acoustic\)](https://open.spotify.com/album/7oqCUVREr1pAvBMqvqzQZi) | 3:34 |
 
-Snapshot ID: `MCw0YzU5OTdlOGZlOGI2MWQxNmY4MTBiYTIzODBjNzFiMWU4OWRlZGY5`
+Snapshot ID: `MCwyYzdkYmI4OTRkYTA5MmNkOWNkZGJkYzVlODNhNzhkM2I0N2I1NDdl`

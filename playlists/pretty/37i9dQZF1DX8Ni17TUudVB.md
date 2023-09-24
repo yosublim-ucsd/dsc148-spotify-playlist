@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,652 likes - 90 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,672 likes - 90 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 31 | [The Sound Of San Francisco \- Progressive Album Mix](https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5) | [Global Deejays](https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L) | [Network \- taken from Superstar](https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL) | 3:44 |
 | 32 | [N5](https://open.spotify.com/track/2HQWMYkuy8Rm0uweatfe8F) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:34 |
 | 33 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 |
-| 34 | [Bad](https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Bad](https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00) | 2:49 |
-| 35 | [Shake It](https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shake It](https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay) | 2:47 |
-| 36 | [SICKO MODE \- Skrillex Remix](https://open.spotify.com/track/0u695M7KyzXaPIjpEbxOkB) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [SICKO MODE \(Skrillex Remix\)](https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa) | 5:04 |
+| 34 | [Shake It](https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shake It](https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay) | 2:47 |
+| 35 | [SICKO MODE \- Skrillex Remix](https://open.spotify.com/track/0u695M7KyzXaPIjpEbxOkB) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [SICKO MODE \(Skrillex Remix\)](https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa) | 5:04 |
+| 36 | [Bad](https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Bad](https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00) | 2:49 |
 | 37 | [Seven Nation Army \(feat\. KOYSINA\)](https://open.spotify.com/track/2fzqpmKuYcNQS7clW1XxAS) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [Seven Nation Army \(feat\. KOYSINA\)](https://open.spotify.com/album/5Esn3Dn0sLqrjo4v87Q17M) | 2:13 |
 | 38 | [Sex & Love](https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:25 |
 | 39 | [Better When You're Gone](https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Better When You're Gone](https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o) | 3:12 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 89 | [Shock \(feat\. Kabasaki\)](https://open.spotify.com/track/0aHZqxYvut2l9cqJ73VrpK) | [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Fuka](https://open.spotify.com/artist/5TyQ1yXiSsZxrJHrL5kFmZ), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [Shock \(feat\. Kabasaki\)](https://open.spotify.com/album/3Bz8QogW92aM0p6YkXwqsp) | 2:47 |
 | 90 | [Dished \(Male Stripper\)](https://open.spotify.com/track/4DIspILFDWAlU7bViTMqhS) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Dished \(Male Stripper\)](https://open.spotify.com/album/6RzHkehHgF4kgwFrZJX5D4) | 4:13 |
 
-Snapshot ID: `MCw2MzliNjE1MWJlNjEyZGEwYzBhMTYwMTAzZTNkNGRiMzk2ZDAxNTM1`
+Snapshot ID: `MCwwZTdmNDkzYTRhNTVkMTc0ODdiMTFlMDU0Y2Y3OWUyMmY3ODQzZDli`

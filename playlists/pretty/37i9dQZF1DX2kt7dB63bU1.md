@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,632 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,702 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 17 | [Peach Velvet Sky](https://open.spotify.com/track/1r9Xoxz09kMbcIEm7WfjkF) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Peach Velvet Sky](https://open.spotify.com/album/4kaMFxOjrLmf2jEQWJkNW9) | 5:50 |
 | 18 | [I Am What I Am](https://open.spotify.com/track/78ixe4bEW1kmcLk9e0BAL8) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [I Am What I Am](https://open.spotify.com/album/6O07IvI0wU3MpzSRn3s4Xv) | 5:32 |
 | 19 | [The Healing](https://open.spotify.com/track/0ZkpaZtDYH1ibxz3rfXApD) | [Raina Sokolov\-Gonzalez](https://open.spotify.com/artist/0o5z8wisVmLT0Ta3vxOPjU) | [The Healing](https://open.spotify.com/album/1zshc1VJ8P9b852xdHybMC) | 3:59 |
-| 20 | [Bewitched](https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp) | 4:06 |
+| 20 | [Bewitched](https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:06 |
 | 21 | [Pick Yourself Up](https://open.spotify.com/track/7ivKNAmR9kyuWNIDqZ09n3) | [Anthony Strong](https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO) | [Pick Yourself Up](https://open.spotify.com/album/6VMr6sgE1dyMAas9ntv4WB) | 2:14 |
 | 22 | [Honeysuckle Rose](https://open.spotify.com/track/2XHZQMfaIft1QP0RFSl56F) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ), [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [High Standards](https://open.spotify.com/album/67MjTmlLG28UrchS60RTMo) | 1:40 |
 | 23 | [Chega de Saudade](https://open.spotify.com/track/0wMBswBqCvIF3Na1cQQ0D7) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Charles Goold](https://open.spotify.com/artist/093VHM9FzYzlFcIEYbXPwR), [Russell Hall](https://open.spotify.com/artist/2IZLjkTpDvr514Y8RBrpQT) | [Melancolia](https://open.spotify.com/album/4kVGZDkDbWtqKVsoHmKIX2) | 4:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Brighter Sun](https://open.spotify.com/track/0XxabEZXVU40LCFIieeLvJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Robertson](https://open.spotify.com/artist/5Oc8E5NEXYp98fctQhH1po), [Danny Fischer](https://open.spotify.com/artist/2yzTBNWC2oYud1uy2PJRni) | [Brighter Sun](https://open.spotify.com/album/1Jz0RNEbIiIBJdwTPEKw1N) | 4:06 |
 | 100 | [Waiting for the Sun to Rise](https://open.spotify.com/track/7ghUJN5yFKgcuSsY0TxRT1) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [Waiting For The Sun To Rise](https://open.spotify.com/album/5E0CarVimmc8TWcIgcqZ4f) | 4:38 |
 
-Snapshot ID: `MCxiMjAxYjYxMWVlZTE2MjAzMGRiM2ZjYTUzNDZhNjVmMTVhZmFhODUy`
+Snapshot ID: `MCxiNjcyZmQyYmIzZjcwNzRkNWFhM2NmYmNkOWU0MzVmYzA3N2MwMjdl`

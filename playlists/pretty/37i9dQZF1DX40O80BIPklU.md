@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Bipo Montana, McKlopedia y Nanpa Básico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,183 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,248 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 26 | [Mujer](https://open.spotify.com/track/1pCgmKc1xoCpFnhm3JnmRq) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp), [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [Mujer](https://open.spotify.com/album/5r0bfpYeKKhKKDXfGfhuwV) | 3:05 |
 | 27 | [PASAR EL ROLO](https://open.spotify.com/track/0TFQ7UThwlokHls2vxTxb2) | [Lopes](https://open.spotify.com/artist/2C1KWrmE57M3riWQArK4kz), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [PASAR EL ROLO](https://open.spotify.com/album/6BaTUVSblCrSozjzwQIBkb) | 3:05 |
 | 28 | [Será posible?](https://open.spotify.com/track/5wqqW9bUNknibziCuIaelA) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [IceOD](https://open.spotify.com/artist/3DfOyzOkibnHvb21bHqa2B) | [Será posible?](https://open.spotify.com/album/2w2Zl5jULCwcpHgUuhR8WB) | 2:38 |
-| 29 | [Bendición o Desgracia](https://open.spotify.com/track/2jMh4nHPNtayqz7MsAnoc9) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Bendición o Desgracia](https://open.spotify.com/album/67tBFPuqAgfDiMe2ee0gA3) | 2:43 |
+| 29 | [Bendición o Desgracia](https://open.spotify.com/track/5H4xazm3fBhE9DVv1zkbJ8) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Bendición o Desgracia](https://open.spotify.com/album/1cS0tv59v0ZkkEQR2ouWyO) | 2:43 |
 | 30 | [La Profecía \(The Eagle & The Condor\)](https://open.spotify.com/track/4gJD13mp8IhO7PtTkbmaaX) | [BIGG B](https://open.spotify.com/artist/3qFYbL5KyojWPNOp7jPNqK), [Eduardo Rico](https://open.spotify.com/artist/5nhTZIp9cOhQ1ArBJZwEPz) | [La Profecía \(The Eagle & The Condor\)](https://open.spotify.com/album/23oTd0d19ex5sQWEEt3xma) | 3:21 |
 | 31 | [Ansiedad](https://open.spotify.com/track/69vGl5T8eNegQYemljEFWX) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [Ansiedad](https://open.spotify.com/album/6F8ccFAxXnQ9RPiQo0aPn9) | 3:21 |
 | 32 | [Después de Antes](https://open.spotify.com/track/1X0NmncUIFrmGxQzInjr3I) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Después de Antes](https://open.spotify.com/album/2M7c4etCFEFT1muf7qinap) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 99 | [Underrated](https://open.spotify.com/track/42EDLkzqnTmw2xZZ9bkfYT) | [Lego Skillz](https://open.spotify.com/artist/7jk87weJfexobhc1bJJt9M), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk), [Haze](https://open.spotify.com/artist/4OYcQT9EHQHCYJVfbyGNzr) | [Underrated](https://open.spotify.com/album/4bTHEqX5vfP9UiFairPree) | 3:00 |
 | 100 | [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/track/0TiZ8GSp9bYyZRTA5h6biu) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/album/13W1KYMSvDSWOWOXYClSxO) | 5:28 |
 
-Snapshot ID: `MCw4ODFjZDc1ZDNjMDhiZmE0MDMxNjlkNzFiMGMwY2VhOWZmY2U2Y2Zj`
+Snapshot ID: `MCxmYWE1NzU1NzJmY2Y4NDNhZmIwYjVhYjA0NTM5YzZhM2UzZGY2MzM3`

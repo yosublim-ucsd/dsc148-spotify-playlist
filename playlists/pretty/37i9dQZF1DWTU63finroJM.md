@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,734 likes - 154 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,752 likes - 154 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 4 | [PLAYLIST \(ROCK DA BOAT\)](https://open.spotify.com/track/7D6jnDW82vRRMiCRLcy0pl) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [WE STILL YOUNG](https://open.spotify.com/album/2UlMKNVdCbVxTG4LwxpiTz) | 2:47 |
 | 5 | [Missiles](https://open.spotify.com/track/3SuOjeljBRqvDEQecwm53o) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Missiles](https://open.spotify.com/album/7Dt51R1XaFzJiOYexjDLkN) | 2:44 |
 | 6 | [we grew up together](https://open.spotify.com/track/343YezHfY7G8ZliqUHYQKS) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu), [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [we grew up together](https://open.spotify.com/album/0a8IV62EQe7cWglIFJXapM) | 4:04 |
-| 7 | [homebody](https://open.spotify.com/track/2Dc0zNIYfOhWs1D13pjQrJ) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [homebody](https://open.spotify.com/album/5rt24b30Az06G6MYCfjwCJ) | 2:42 |
+| 7 | [homebody \- feat\. YAØ](https://open.spotify.com/track/2Dc0zNIYfOhWs1D13pjQrJ) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [homebody \(feat\. YAØ\)](https://open.spotify.com/album/5rt24b30Az06G6MYCfjwCJ) | 2:42 |
 | 8 | [Totoo](https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 4:40 |
 | 9 | [i don't lose sleep anymore](https://open.spotify.com/track/4iMTHWzHMf6qVDGY7hzqoE) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [i don't lose sleep anymore](https://open.spotify.com/album/0TPSnNtb4boimpeYCN5XFq) | 3:15 |
 | 10 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 153 | [PULL UP](https://open.spotify.com/track/7HVA1EkKQi4zNaYwE17Cvo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [PULL UP](https://open.spotify.com/album/4bqkpI02r4Qc2BFrJtHOic) | 2:41 |
 | 154 | [空っぽ](https://open.spotify.com/track/1VfOJgHWGyXIVcowq3dcJK) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [空っぽ](https://open.spotify.com/album/6gsTB987dJeaTUifVdWbO4) | 4:53 |
 
-Snapshot ID: `MCxlNzRkZmNjNzQ5Y2YxMTUxYzgwY2IzZWIyYjQ2YzU1NDE0NjA5YzAz`
+Snapshot ID: `MCxjMGNiM2RmZWExZWZlNGVlYjQxOTlhZmM0ZDAwZDBkZmJkNzA0OTAz`

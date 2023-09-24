@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Gardna ",
-  "num_followers": 198701,
+  "num_followers": 198716,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjVjNzhjN2U2MTM3ZWQ1ZWE0MTk5YjE1YjBjMDI4ZDdiMDAwYjNh",
+  "snapshot_id": "MCwyMzhkODAzMzA3ODcwYWUxMzFiZTZmYjcwM2NmNDc0ZGQyN2NkY2Mx",
   "tracks": [
     {
       "added_at": "2023-09-22 00:01:00",
@@ -747,8 +747,8 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Party Right / Snake Charmer",
-        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
+        "name": "Behind the Scenes / Reeces Pieces",
+        "url": "https://open.spotify.com/album/0azeR1xCVvGFxRXSvnQHwY"
       },
       "artists": [
         {
@@ -756,13 +756,13 @@
           "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
         },
         {
-          "name": "Logan_olm",
-          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+          "name": "Jess Spink",
+          "url": "https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz"
         }
       ],
-      "duration_ms": 216715,
-      "name": "Party Right",
-      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
+      "duration_ms": 282890,
+      "name": "Behind the Scenes (feat. Jess Spink)",
+      "url": "https://open.spotify.com/track/4T1J5mZ2doy1HJ8373eI0A"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -947,8 +947,8 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Behind the Scenes / Reeces Pieces",
-        "url": "https://open.spotify.com/album/0azeR1xCVvGFxRXSvnQHwY"
+        "name": "Party Right / Snake Charmer",
+        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
       },
       "artists": [
         {
@@ -956,13 +956,13 @@
           "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
         },
         {
-          "name": "Jess Spink",
-          "url": "https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz"
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
         }
       ],
-      "duration_ms": 282890,
-      "name": "Behind the Scenes (feat. Jess Spink)",
-      "url": "https://open.spotify.com/track/4T1J5mZ2doy1HJ8373eI0A"
+      "duration_ms": 216715,
+      "name": "Party Right",
+      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Signal / Have You Over (feat. Ruth Royall)",
-        "url": "https://open.spotify.com/album/2wROMSuKGzDy8R8AuVHcuE"
-      },
-      "artists": [
-        {
-          "name": "Axel Boy",
-          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
-        },
-        {
-          "name": "Ruth Royall",
-          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
-        }
-      ],
-      "duration_ms": 253181,
-      "name": "Signal (feat. Ruth Royall)",
-      "url": "https://open.spotify.com/track/0DH8DLh53K6WKk5eShesMx"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Emergency",
         "url": "https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 169846,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Signal / Have You Over (feat. Ruth Royall)",
+        "url": "https://open.spotify.com/album/2wROMSuKGzDy8R8AuVHcuE"
+      },
+      "artists": [
+        {
+          "name": "Axel Boy",
+          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+        },
+        {
+          "name": "Ruth Royall",
+          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
+        }
+      ],
+      "duration_ms": 253181,
+      "name": "Signal (feat. Ruth Royall)",
+      "url": "https://open.spotify.com/track/0DH8DLh53K6WKk5eShesMx"
     },
     {
       "added_at": "2023-09-22 00:01:00",

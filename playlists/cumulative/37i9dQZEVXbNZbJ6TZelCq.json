@@ -2168,7 +2168,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 136875,
       "name": "Banii",
       "url": "https://open.spotify.com/track/7l1amnUcwOBdJQtLEmMKNi"
@@ -2878,7 +2878,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 153406,
       "name": "Blonda",
       "url": "https://open.spotify.com/track/6hScg8gWUWo26CMq51Payc"
@@ -3734,7 +3734,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 130890,
       "name": "Cali Cartel",
       "url": "https://open.spotify.com/track/2Z9FV7X0msBHewrcstIo3x"
@@ -10944,7 +10944,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 192000,
       "name": "IN LIPSA TA",
       "url": "https://open.spotify.com/track/60sy8u1IoawaNCSKG0g7t9"
@@ -11658,7 +11658,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 155000,
       "name": "John Wick",
       "url": "https://open.spotify.com/track/6G0I9i0lNXOCflBBaskv9B"
@@ -17029,6 +17029,24 @@
     },
     {
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+    },
+    {
+      "album": {
         "name": "Paint The Town Red",
         "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
       },
@@ -17040,7 +17058,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
@@ -17496,6 +17514,28 @@
       "duration_ms": 156000,
       "name": "PICHINEZ CICHINEZ",
       "url": "https://open.spotify.com/track/74i0kG1mWGUP9A9ispPglq"
+    },
+    {
+      "album": {
+        "name": "Ping Pong",
+        "url": "https://open.spotify.com/album/6vpnkFh7VxD3GMPhOunnm1"
+      },
+      "artists": [
+        {
+          "name": "Andrei G",
+          "url": "https://open.spotify.com/artist/5WXXT0hYK8tf9uGh0UYwDO"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Ping Pong",
+      "url": "https://open.spotify.com/track/3qnJsnPfN3IeBg2dzWazVV"
     },
     {
       "album": {
@@ -21470,7 +21510,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 170285,
       "name": "Stai",
       "url": "https://open.spotify.com/track/0yssm9ttK7TvO7QymKJlVT"
@@ -23836,7 +23876,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 123448,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/0aRAYNUQt0GI79ZrHsuw0n"

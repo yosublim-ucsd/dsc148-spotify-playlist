@@ -4136,7 +4136,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -5179,6 +5179,24 @@
     },
     {
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+    },
+    {
+      "album": {
         "name": "Paint The Town Red",
         "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
       },
@@ -5190,7 +5208,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
@@ -6844,7 +6862,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 170900,
       "name": "Unicorn",
       "url": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK"
@@ -7912,7 +7930,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 184675,
       "name": "\u05d0\u05d9\u05df \u05d0\u05d5\u05ea\u05e0\u05d5 \u05d9\u05d5\u05ea\u05e8 (By Tamar Yahalomy & Yonatan Kalimi)",
       "url": "https://open.spotify.com/track/1zZ9bah4HU0TtICQzCFXp3"
@@ -8602,7 +8620,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 268823,
       "name": "\u05d0\u05ea \u05d7\u05e1\u05e8\u05d4 \u05dc\u05d9 & \u05d0\u05d5\u05e8\u05d5\u05ea",
       "url": "https://open.spotify.com/track/6Eds9y8ZiQHcIegsEIVcYP"
@@ -11118,7 +11136,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 291000,
       "name": "\u05db\u05e0\u05e4\u05d9\u05d9\u05dd - Live",
       "url": "https://open.spotify.com/track/7Jeh9SPQdyULPmdIqTNo3y"
@@ -12370,7 +12388,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 232173,
       "name": "\u05de\u05d9 \u05d0\u05ea \u05d4\u05d9\u05d5\u05dd \u05d1\u05dc\u05e2\u05d3\u05d9\u05d9",
       "url": "https://open.spotify.com/track/5gOFp28Edmv4nk8HIwnQfe"

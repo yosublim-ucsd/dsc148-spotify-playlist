@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Lau Heung King
 
-694 songs - 1 day 15 hr 14 min
+695 songs - 1 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -648,7 +648,8 @@
 | [純屬意外](https://open.spotify.com/track/4Z3Ace3WggPau7oaDm6D52) | [ANEWA](https://open.spotify.com/artist/7suYWmDTY81Lj4FhMx36cA) | [純屬意外](https://open.spotify.com/album/22TVB3rNju4rjPORgV0uU8) | 3:42 | 2022-07-28 | 2022-09-09 |
 | [純情](https://open.spotify.com/track/7CvTXPEEFrDinye9qEevka) | [留香瓊](https://open.spotify.com/artist/58zAtNxBTtRpnwe9bwQaQN) | [純情](https://open.spotify.com/album/5atQKsd77QwGjmxvZhKey6) | 4:02 | 2022-11-24 | 2023-03-18 |
 | [結界師對香港土地問題的看法\(8分\) \(feat\. $hinyLungs\)](https://open.spotify.com/track/2Q2MInLxDy1Lk00hJVxAJE) | [Chefwest](https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee), [$hinyLungs](https://open.spotify.com/artist/6hgAAw2ZKhlAtNXxR7ZEah) | [SUPPRESS\(ed\)](https://open.spotify.com/album/6m0vC4SoLl5MLSROJVXpqm) | 2:56 | 2022-11-17 | 2023-03-18 |
-| [羊 \(feat\. TXMIYAMA\)](https://open.spotify.com/track/0mlV6AhzUdpW3jc5WvU3ux) | [KENI](https://open.spotify.com/artist/6jp6lJjFpNdVsmaJz2WAhS) | [Oh my.](https://open.spotify.com/album/3kdzxVZUeTJxf4F9Ud263O) | 2:38 | 2023-08-10 |  |
+| [羊](https://open.spotify.com/track/7G366O8Dl9F6DtaPwtLl36) | [KENI](https://open.spotify.com/artist/6jp6lJjFpNdVsmaJz2WAhS), [TXMIYAMA](https://open.spotify.com/artist/725OKiwmqplFRll4H7WHkw) | [Oh my.](https://open.spotify.com/album/0JKRzwzqH4sl0CeZswxR3W) | 2:38 | 2023-09-21 |  |
+| [羊 \(feat\. TXMIYAMA\)](https://open.spotify.com/track/0mlV6AhzUdpW3jc5WvU3ux) | [KENI](https://open.spotify.com/artist/6jp6lJjFpNdVsmaJz2WAhS) | [Oh my.](https://open.spotify.com/album/3kdzxVZUeTJxf4F9Ud263O) | 2:38 | 2023-08-10 | 2023-09-24 |
 | [老竇 lou5 dau6](https://open.spotify.com/track/3FBlH6patapG21dA1dDVFK) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva) | [老竇 lou5 dau6](https://open.spotify.com/album/0ig01lIsZ07WaDQa28ERBV) | 2:14 | 2022-10-27 | 2023-02-03 |
 | [耍起](https://open.spotify.com/track/4SZmncGAdn7sBK2F4JF1Y1) | [Dr\. JR](https://open.spotify.com/artist/1DlV2khNATOnSNTVDiq8X8), [J Ho](https://open.spotify.com/artist/3hLoyLpu0vKQwSQ63c3xcy) | [耍起](https://open.spotify.com/album/6gVYXtkNmaUyfiGSeqjEMm) | 2:51 | 2022-09-22 | 2022-11-04 |
 | [臉紅時我想看穿你的心臟](https://open.spotify.com/track/74zDfZprw49eIQbe31bPME) | [Sinnie Ng](https://open.spotify.com/artist/7zqVmX2goYKaLa1sIGlo27) | [臉紅時我想看穿你的心臟](https://open.spotify.com/album/0XoBprUMG2iCYBwcN05J82) | 3:48 | 2022-08-18 | 2022-11-04 |

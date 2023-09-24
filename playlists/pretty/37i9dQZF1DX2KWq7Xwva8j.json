@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Yarea",
-  "num_followers": 23573,
+  "num_followers": 23599,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTY2NzA4MGFlMWQ1OTZmOTBhNTdhNTc0NDNmYWIwYjYzYjcxOTA1",
+  "snapshot_id": "MCwxYzJhOGJiOGRjZjkxODBjMWZiNTcwNWVjZjJiYjk3ODA5OWM0ZDdi",
   "tracks": [
     {
       "added_at": "2023-09-15 10:05:24",
@@ -235,22 +235,18 @@
     {
       "added_at": "2023-09-15 10:05:24",
       "album": {
-        "name": "Agua al dolor",
-        "url": "https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh"
+        "name": "En Otro Lugar",
+        "url": "https://open.spotify.com/album/7yUGYSIUFrE4u335WYpXgx"
       },
       "artists": [
         {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
         }
       ],
-      "duration_ms": 208372,
-      "name": "Agua al dolor",
-      "url": "https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h"
+      "duration_ms": 178326,
+      "name": "En Otro Lugar",
+      "url": "https://open.spotify.com/track/4cbYLSExjhetFfq2WHGYhR"
     },
     {
       "added_at": "2023-09-15 10:05:24",
@@ -271,18 +267,22 @@
     {
       "added_at": "2023-09-15 10:05:24",
       "album": {
-        "name": "En Otro Lugar",
-        "url": "https://open.spotify.com/album/7yUGYSIUFrE4u335WYpXgx"
+        "name": "Agua al dolor",
+        "url": "https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh"
       },
       "artists": [
         {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 178326,
-      "name": "En Otro Lugar",
-      "url": "https://open.spotify.com/track/4cbYLSExjhetFfq2WHGYhR"
+      "duration_ms": 208372,
+      "name": "Agua al dolor",
+      "url": "https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h"
     },
     {
       "added_at": "2023-09-15 10:05:24",

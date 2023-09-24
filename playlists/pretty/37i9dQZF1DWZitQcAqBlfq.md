@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZitQcAqBlfq.md) - [plain]
 
 > British producer <a href="spotify:artist:3KOHpygRuo1ruQAbEneR3t">George FitzGerald</a> explores the ethereal world of Electronic Music in his latest DJ mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,730 likes - 15 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,748 likes - 15 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZitQcAqBlfq.md) - [plain]
 | 14 | [SErving BIG time \[133 BPM\] \- Mixed](https://open.spotify.com/track/5LD7no4IzGPodxqaKWMk64) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [SErving BIG time \[133 BPM\] \(Mixed\)](https://open.spotify.com/album/7t6cPv2g1yKyT1WJRoztLW) | 1:31 |
 | 15 | [Cold \- Mixed](https://open.spotify.com/track/3L7oKZrLmFyFzblKBgxqxR) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Cold \(Mixed\)](https://open.spotify.com/album/3Ssa0kWRkjt1BJGjbQc552) | 4:38 |
 
-Snapshot ID: `MCwzOGYxYjYyNGNjMTc3MzNmNDFlMmQzYWRjYjNhZjU1ZmFhYjM0Mzgw`
+Snapshot ID: `MCw0OWY1OWY5MDhjOGY4NTY4MzBjZjMwZmFkYzAwM2NhZDkzNDBiOWQ1`

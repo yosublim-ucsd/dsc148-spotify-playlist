@@ -2742,7 +2742,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 204266,
       "name": "Eyes Off You",
       "url": "https://open.spotify.com/track/0VpEX8ib3wE7u8NOw4szU6"
@@ -3192,6 +3192,24 @@
       "duration_ms": 134006,
       "name": "Friends, Right?",
       "url": "https://open.spotify.com/track/7Hxdp3Pdo8EgE7Qq1sCsHE"
+    },
+    {
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
     },
     {
       "album": {

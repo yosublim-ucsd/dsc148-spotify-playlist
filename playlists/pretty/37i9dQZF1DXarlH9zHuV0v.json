@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 233402,
+  "num_followers": 233457,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTM4OTg5NTdmNDNhZGMyMGJkNzgwNDljZjY0OWRkMGVmZWEyYWI3",
+  "snapshot_id": "MCw5NmUxYTEyYTQ0YWYxZmI1MWZlOTUzMGZlNTEyYjJmYzlmMzQ3ODE3",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -607,22 +607,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 209546,
-      "name": "Hungry Like the Wolf",
-      "url": "https://open.spotify.com/track/2qeESyQyH7MRHCBotCQsNq"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Battlestar Galactica: The A to Z of Fantasy TV",
         "url": "https://open.spotify.com/album/3k0JikEiL0wvgmX0x72geJ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 142560,
       "name": "The Addams Family",
       "url": "https://open.spotify.com/track/5Pbhy6ElMAob3jp5e8ru3r"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 209546,
+      "name": "Hungry Like the Wolf",
+      "url": "https://open.spotify.com/track/2qeESyQyH7MRHCBotCQsNq"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -655,22 +655,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "The Last Stand",
-        "url": "https://open.spotify.com/album/14OgR04PHXULz1svvsol8L"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 174698,
-      "name": "Blood of Bannockburn",
-      "url": "https://open.spotify.com/track/34YTjOjyJOg8e0HyIHHKpw"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
         "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 313453,
       "name": "Scary Monsters (And Super Creeps) - 2017 Remaster",
       "url": "https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "The Last Stand",
+        "url": "https://open.spotify.com/album/14OgR04PHXULz1svvsol8L"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 174698,
+      "name": "Blood of Bannockburn",
+      "url": "https://open.spotify.com/track/34YTjOjyJOg8e0HyIHHKpw"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -899,22 +899,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "The Best Of Edgar Winter",
-        "url": "https://open.spotify.com/album/6knWE50fnmU6X50X7QGfQY"
-      },
-      "artists": [
-        {
-          "name": "The Edgar Winter Group",
-          "url": "https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI"
-        }
-      ],
-      "duration_ms": 285600,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/4aK0vJsPXFsFdBUh8hPaDT"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "The Addams Family (Original Music From The T.V. Show)",
         "url": "https://open.spotify.com/album/3GPiacqnXD4MCCMWvSTT53"
       },
@@ -931,6 +915,22 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
+        "name": "The Best Of Edgar Winter",
+        "url": "https://open.spotify.com/album/6knWE50fnmU6X50X7QGfQY"
+      },
+      "artists": [
+        {
+          "name": "The Edgar Winter Group",
+          "url": "https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI"
+        }
+      ],
+      "duration_ms": 285600,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/4aK0vJsPXFsFdBUh8hPaDT"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
         "name": "OutRun",
         "url": "https://open.spotify.com/album/3euRfc09m6LRXwplFPYtqh"
       },
@@ -943,22 +943,6 @@
       "duration_ms": 175653,
       "name": "Rampage",
       "url": "https://open.spotify.com/track/6gRAOJYu1jQsNgMlrrudT9"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Bad Moon Rising",
-        "url": "https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6"
-      },
-      "artists": [
-        {
-          "name": "Sonic Youth",
-          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
-        }
-      ],
-      "duration_ms": 311200,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -983,6 +967,22 @@
       "duration_ms": 228640,
       "name": "Yes, I'm A Witch",
       "url": "https://open.spotify.com/track/1ZEsbgte9LRHyOypNTitnP"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Bad Moon Rising",
+        "url": "https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6"
+      },
+      "artists": [
+        {
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+        }
+      ],
+      "duration_ms": 311200,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0"
     },
     {
       "added_at": "2019-10-09 15:02:50",

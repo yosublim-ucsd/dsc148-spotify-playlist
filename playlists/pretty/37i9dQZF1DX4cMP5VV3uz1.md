@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,792 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,862 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 51 | [Lumberjackin' \- Vocal Mix](https://open.spotify.com/track/2rrQ5uFbqOpJ1dYFfiV30G) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [VIP](https://open.spotify.com/album/0y0rbZ1pjtN3Q9YFA9d7ty) | 4:00 |
 | 52 | [Out of Time](https://open.spotify.com/track/22r0D0nQXyP3Hkzb3qTnhl) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Out of Time](https://open.spotify.com/album/5j1LFq1ZzTBfwPyYWWNjAf) | 3:51 |
 | 53 | [Vibration \(feat\. AR/CO\)](https://open.spotify.com/track/75xoQG7rwVC2xNGZOfg2mh) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 4:02 |
-| 54 | [Take Me As I Am](https://open.spotify.com/track/5UjccMIJkNhont0TGSU0iD) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [None Of Us Are Getting Out Of This Life Alive](https://open.spotify.com/album/4hEKRyUeVXejefnsvKYERB) | 3:06 |
-| 55 | [Waiting For You](https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Waiting For You](https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte) | 3:46 |
+| 54 | [Waiting For You](https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Waiting For You](https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte) | 3:46 |
+| 55 | [Take Me As I Am](https://open.spotify.com/track/5UjccMIJkNhont0TGSU0iD) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [None Of Us Are Getting Out Of This Life Alive](https://open.spotify.com/album/4hEKRyUeVXejefnsvKYERB) | 3:06 |
 | 56 | [Talk To Me](https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Talk To Me](https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K) | 4:26 |
 | 57 | [Party All the Time \(feat\. Kay\)](https://open.spotify.com/track/7xN6f50e0ZdiDehWaVFeZ2) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Party All the Time \(feat\. Kay\)](https://open.spotify.com/album/026MiiWON7Aei7MKzxCKGC) | 4:26 |
 | 58 | [All For You](https://open.spotify.com/track/3y1fEFFHFv79OYeCbzc774) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [All For You](https://open.spotify.com/album/254Y0CD07dB40q84db89EB) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 74 | [Kraken](https://open.spotify.com/track/76FWqanqrb3nf3XZ3vIv7x) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Konetix](https://open.spotify.com/artist/5PeWO3p58iWJNlYdsW4wmV) | [Kraken](https://open.spotify.com/album/1Ac1pcGtOMPK4JEuWRqUsP) | 2:38 |
 | 75 | [Take You Higher](https://open.spotify.com/track/2rnDPE04mBt78lfmp9JNDP) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Lazers Not Included](https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB) | 4:47 |
 
-Snapshot ID: `MCw3ZjkzNzEyMzU5NTcyMTBhMmM1NGRmZjllOGUyMGFkMmY3YzBiMDg1`
+Snapshot ID: `MCw2MDVjNmYwOWYyNDA0NmY1NGU5OGFmNGU5N2NhNDhjYTQ2NmIyYzRh`

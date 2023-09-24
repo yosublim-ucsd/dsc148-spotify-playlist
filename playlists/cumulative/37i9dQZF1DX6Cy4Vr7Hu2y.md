@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: ITZY\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-347 songs - 19 hr 30 min
+348 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [New](https://open.spotify.com/track/1vu104daKjc0v1Acfopza2) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [New](https://open.spotify.com/album/7w8HoXrinhQcgDRxBEaiRZ) | 3:02 | 2021-11-21 | 2022-04-18 |
 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 | 2023-07-07 |  |
 | [NO THANKS](https://open.spotify.com/track/5jzMrbCnHeBjw6ARXJEgsD) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [iCE](https://open.spotify.com/album/6Bmm0yb59VBvI7ozMOQZoB) | 3:01 | 2022-08-02 | 2022-08-19 |
-| [NUNU NANA](https://open.spotify.com/track/2cUzIBGMvx2BZ2Q1fzjdl1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [NUNA](https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd) | 3:15 | 2022-07-07 |  |
+| [NUNU NANA](https://open.spotify.com/track/2cUzIBGMvx2BZ2Q1fzjdl1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [NUNA](https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd) | 3:15 | 2022-07-07 | 2023-09-24 |
 | [NUNU NANA](https://open.spotify.com/track/4Bmk7JYOquhWmSMMW4WebM) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [NUNA](https://open.spotify.com/album/4LqLe7NBEYYiUN4pfQJStN) | 3:15 | 2021-11-21 | 2022-07-29 |
 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 | 2022-10-19 |  |
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-08 | 2022-07-18 |
@@ -301,6 +301,7 @@
 | [To All 서른에게](https://open.spotify.com/track/1h2zAA8piBm3LSUz9HK9D8) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeon So Hyun](https://open.spotify.com/artist/3jMgodiEy9ze7ksHxPkc9v) | [To All 서른에게](https://open.spotify.com/album/63M6yzXRbwWH3nW8ZdRlOZ) | 4:54 | 2022-03-22 | 2022-07-23 |
 | [To My Unloving Self](https://open.spotify.com/track/38vMjlKPV4sl9noW4rv2bH) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [To My Unloving Self](https://open.spotify.com/album/7wjdjU5tsDqjDv4nc5gCmh) | 3:35 | 2022-03-29 | 2022-04-19 |
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-04-05 |  |
+| [Top or Cliff](https://open.spotify.com/track/6nxaMLoDXkG0NlwV46Jnvb) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Door](https://open.spotify.com/album/5MO48BnK6X9VlYtFHpJtvy) | 3:41 | 2023-09-18 |  |
 | [Trip 여행](https://open.spotify.com/track/78iqyVhGvzdGL1WUflBpAl) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Trip 여행](https://open.spotify.com/album/2tjGAzAg63GYTpn73Jyxdi) | 3:47 | 2021-11-21 | 2022-07-24 |
 | [Trouble](https://open.spotify.com/track/6Addtv72IK02MBRDYvOY07) | [Azer](https://open.spotify.com/artist/1PezbflKZup3T95LnAQ0vg) | [Trouble](https://open.spotify.com/album/2azFNJDJLIN8I19woiWfE9) | 3:32 | 2022-07-06 | 2022-07-28 |
 | [Trouble? TRAVEL!](https://open.spotify.com/track/6A3J47xL9B4EFAjQ79YX52) | [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r) | [Trouble? TRAVEL!](https://open.spotify.com/album/07FQYMZJFk9t3jpZ8fDQAA) | 3:53 | 2022-06-20 | 2022-07-28 |

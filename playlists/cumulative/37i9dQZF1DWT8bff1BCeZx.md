@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-89 songs - 8 hr 2 min
+90 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Confam](https://open.spotify.com/track/1AgHIQMl64yK84dbCuddpz) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [Confam](https://open.spotify.com/album/7r0C7rE7lg3GjQX8Wuwzln) | 2:37 | 2023-08-18 |  |
 | [Could've Been Worse \- Amapiano Remix](https://open.spotify.com/track/1XLSqQmbo1oAFpWHiJp0B9) | [Shae'\\dy](https://open.spotify.com/artist/1WnGHRAEWg1fJyMeH2wVds) | [Could've Been Worse \(Amapiano Remix\)](https://open.spotify.com/album/1WXqpBqjGFsEOapieUSmd4) | 5:02 | 2023-07-07 | 2023-07-14 |
 | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/track/2RWZmHPIBFt3JKONel59uK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/album/7qX3BuzNizGmk2hkwRxuq1) | 3:28 | 2023-07-14 | 2023-09-14 |
+| [Daddy Wey Dey Pamper \- Gbedu Version](https://open.spotify.com/track/1TL5gkcrDrX5sOdNOzmCQ6) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/album/2vFfnAxG1DEPzxRxakdE5r) | 3:28 | 2023-09-22 |  |
 | [Daily](https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Daily](https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj) | 2:56 | 2023-06-30 |  |
 | [Desire Pt\. 2](https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Desire Pt\. 2](https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne) | 2:40 | 2023-07-07 |  |
 | [Ebenezer \- Live](https://open.spotify.com/track/0ssKyRqsf6GmSXtBHObYAP) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Kingdom Come \(Live\)](https://open.spotify.com/album/0nmXZ2QOghK12EEQv8NNnD) | 7:11 | 2023-08-18 | 2023-08-20 |
@@ -96,6 +97,6 @@
 | [Worthy Is the Lamb \(Hallelujah Challenge Praise Medley 2\)](https://open.spotify.com/track/5kZvQyDPB33N9yb99rdc3V) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 10:28 | 2023-04-06 |  |
 | [Yeshua \(Extended\)](https://open.spotify.com/track/67LzBqIKu1rHsT98euxpa7) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Nikki Laoye](https://open.spotify.com/artist/7lVBawhz0dr9UnFokEvtrP), [Sonny Green](https://open.spotify.com/artist/0JyaUTiOWDW0vjHUXfgrDx) | [Yeshua \(Extended\)](https://open.spotify.com/album/4FxYm4ZXW4qxhiDmADoU8H) | 2:36 | 2023-09-08 |  |
 | [Yesu \(Jesus\)](https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Guya](https://open.spotify.com/artist/1WdV2fjFsYXEqKe9AaqGpH) | [Yesu \(Jesus\)](https://open.spotify.com/album/74jptpKQgDOKwRdNTMXToI) | 3:55 | 2023-09-08 |  |
-| [Zoe](https://open.spotify.com/track/4hKMY8nO1JocNWLFJmb9zS) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [More Than Music \(Transcendent Worship\)](https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg) | 8:33 | 2023-06-16 |  |
+| [Zoe](https://open.spotify.com/track/4hKMY8nO1JocNWLFJmb9zS) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [More Than Music \(Transcendent Worship\)](https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg) | 8:33 | 2023-06-16 | 2023-09-24 |
 
 \*This playlist was first scraped on 2023-04-07. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 321830,
+  "num_followers": 321832,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjBlZGViM2E0YTlkNmYzNDU1ZjRkMTc2MWE1YTZhNGIxZWVmOTll",
+  "snapshot_id": "MCwyMDFmYjI0MmI2MWNkMGEwNTZkODlkMzU4MWYyN2JiNmFiOGYxNjkw",
   "tracks": [
     {
       "added_at": "2023-09-22 00:01:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 242880,
-      "name": "Redlight",
-      "url": "https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Party All The Time",
         "url": "https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 129860,
       "name": "Party All The Time",
       "url": "https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 242880,
+      "name": "Redlight",
+      "url": "https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -935,6 +935,26 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/1HaIedqKyxg6wI24PEQfHi"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "duration_ms": 155550,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/09zYedT6OABvIqKBuEH3zE"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 186541,
       "name": "Don't Stop Just Yet",
       "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/1HaIedqKyxg6wI24PEQfHi"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        }
-      ],
-      "duration_ms": 155550,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Ladybug",
+        "url": "https://open.spotify.com/album/1VZQh9Bo7jrxRrXTkxJN2R"
+      },
+      "artists": [
+        {
+          "name": "D\u00fczer",
+          "url": "https://open.spotify.com/artist/6CCZHHwdSXxweCgJmcf3DJ"
+        }
+      ],
+      "duration_ms": 126660,
+      "name": "Ladybug",
+      "url": "https://open.spotify.com/track/2VWs3tTCpvPIPwwgpG68Gj"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Lift Me Up",
         "url": "https://open.spotify.com/album/5b6TihYV69YXs0p5CKnGYs"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 206265,
       "name": "Bionic Boy",
       "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Ladybug",
-        "url": "https://open.spotify.com/album/1VZQh9Bo7jrxRrXTkxJN2R"
-      },
-      "artists": [
-        {
-          "name": "D\u00fczer",
-          "url": "https://open.spotify.com/artist/6CCZHHwdSXxweCgJmcf3DJ"
-        }
-      ],
-      "duration_ms": 126660,
-      "name": "Ladybug",
-      "url": "https://open.spotify.com/track/2VWs3tTCpvPIPwwgpG68Gj"
     },
     {
       "added_at": "2023-09-22 00:01:00",

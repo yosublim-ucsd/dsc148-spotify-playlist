@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,758,670 likes - 214 songs - 12 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,758,771 likes - 214 songs - 12 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 56 | [I'm on Fire](https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was \(Deluxe Edition\)](https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS) | 3:12 |
 | 57 | [Champagne Supernova \(OurVinyl Sessions\)](https://open.spotify.com/track/0C0bw3UZM525pEFU6hYfVH) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Jillette Johnson \| OurVinyl Sessions](https://open.spotify.com/album/3EWf23G2C83dLTXmh8Ynzj) | 4:14 |
 | 58 | [Landslide](https://open.spotify.com/track/2AhqPhQ4E1r9v2i2TfJHR0) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5), [Hollow Hum](https://open.spotify.com/artist/6NQ43mtSf2OvGJ02QZC8E6) | [Why Worry: A Collection of Covers](https://open.spotify.com/album/2XB49bxOGV2L6tz6vkwRjT) | 4:05 |
-| 59 | [Like a Rolling Stone](https://open.spotify.com/track/49Q2VVHzabFRwAUQ1ByLNa) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Like a Rolling Stone](https://open.spotify.com/album/5UJhgkj2fP5ycNLbVdzQ3H) | 6:49 |
+| 59 | [Like a Rolling Stone](https://open.spotify.com/track/6nMb0jnVYulCHhe5UpyKBq) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [The Full Moon Project](https://open.spotify.com/album/0VraDVmjkr0vVjaZqLM7bi) | 6:49 |
 | 60 | [I'm Not the Only One \- Live from Spotify, London](https://open.spotify.com/track/7wIYDzWW82O6Rc4vGuzjND) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Spotify Session](https://open.spotify.com/album/3NW16XZ8U99Qm8E9v52UTz) | 3:15 |
 | 61 | [Don't You Want Me \- For Nest Audio Sessions](https://open.spotify.com/track/6yM9OJDDkLJyqYiAuC7J9R) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Don't You Want Me \(For Nest Audio Sessions\)](https://open.spotify.com/album/5hL5qGAc4WCWjmI2pnFbEv) | 2:59 |
 | 62 | [Feathers for Bakersfield](https://open.spotify.com/track/0iz7dzqoFI3EFP9ImCAxp1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Highway Butterfly: The Songs of Neal Casal](https://open.spotify.com/album/5AX09rVNqMNqtzOyRhrLSK) | 3:33 |
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 98 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 |
 | 99 | [Love Yourself, Out of the Woods, Roses \- Acoustic Mashup](https://open.spotify.com/track/1rNuKbtlRfq7DBeLBSzrmz) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5) | [Love Yourself, Out of the Woods, Roses \(Acoustic Mashup\)](https://open.spotify.com/album/2LwXhrAYh4viJKQcJUi9Be) | 3:57 |
 | 100 | [Slow Burn \- Yours Truly: 2018](https://open.spotify.com/track/1nSSsrQO34b7XhLOVUnZcs) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Slow Burn \(Yours Truly: 2018\)](https://open.spotify.com/album/1T3kWlsaTNAJKJVG1Fsv0E) | 3:29 |
-| 101 | [Soak up the Sun \- Unplugged](https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Judah & The Lion \(Unplugged\)](https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7) | 4:11 |
+| 101 | [Soak up the Sun \- Unplugged](https://open.spotify.com/track/0eUty3IjjOqEheyWEb9Rsb) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Judah & The Lion \(Unplugged\)](https://open.spotify.com/album/6YdwCaQPQ4j3h8F8fFWeUi) | 4:11 |
 | 102 | [The Sweet Escape](https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [The Sweet Escape](https://open.spotify.com/album/3jCd27MDogNResJz6axMOP) | 2:46 |
 | 103 | [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 |
 | 104 | [It's Not Living \(If It's Not with You\)](https://open.spotify.com/track/0rZLcXPM6ozJK7BF28F9mK) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Covers](https://open.spotify.com/album/0DGxizS2jb1tTYimUJdQ15) | 2:56 |
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 213 | [As Long as You Love Me](https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o), [Charlotte Almgren](https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua) | [As Long as You Love Me](https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1) | 2:31 |
 | 214 | [Chasing Cars](https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Chasing Cars](https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj) | 4:28 |
 
-Snapshot ID: `MCw5MDRjNDVlNjcxNTJkMGRkZDViNGJjZmM4ZjU1ZmY4ZDE0Zjg2ZGRl`
+Snapshot ID: `MCwxZDBkMzViMmFjZjdjNjRhY2U0ODM2NGFhNjIwNGM3NTM1Njg1YjQ0`

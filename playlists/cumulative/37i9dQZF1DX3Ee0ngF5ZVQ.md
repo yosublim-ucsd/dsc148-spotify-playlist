@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Cody Johnson
 
-532 songs - 1 day 7 hr 40 min
+533 songs - 1 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Break Up In A Bar](https://open.spotify.com/track/1UcWlY9PXa0GjqEOksJ1Gk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Break Up In A Bar](https://open.spotify.com/album/2Z7T8o2cJVPN8xMUsh2kc5) | 3:36 | 2022-03-11 | 2022-09-10 |
 | [Breaking Every Heart In Texas](https://open.spotify.com/track/4hJYNs2uklbeUle7SWit80) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Breaking Every Heart In Texas](https://open.spotify.com/album/4HvGqNLGMecrxpdKoAznvz) | 3:26 | 2021-12-17 | 2022-11-13 |
 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 | 2022-04-15 |  |
-| [Bring You Down](https://open.spotify.com/track/0aI0CjHskW0LhHVSIoNXET) | [The Lowdown Drifters](https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG), [Taylor Hunnicutt](https://open.spotify.com/artist/1Pgmihwxrgcm4UOqN8Mzom) | [Cheating On A Memory, Chapter 3](https://open.spotify.com/album/36DYqh63Xt8VWishLELknB) | 3:55 | 2022-10-01 |  |
+| [Bridges to Burn](https://open.spotify.com/track/0wC4KXkDpSPnwmGjp1Wopt) | [Nick Hickman](https://open.spotify.com/artist/54dy3kYqGy3V4obgZZP08h) | [Bridges To Burn](https://open.spotify.com/album/1WG4fgaNMXbxbsbjJR1X6G) | 3:10 | 2023-09-22 |  |
+| [Bring You Down](https://open.spotify.com/track/0aI0CjHskW0LhHVSIoNXET) | [The Lowdown Drifters](https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG), [Taylor Hunnicutt](https://open.spotify.com/artist/1Pgmihwxrgcm4UOqN8Mzom) | [Cheating On A Memory, Chapter 3](https://open.spotify.com/album/36DYqh63Xt8VWishLELknB) | 3:55 | 2022-10-01 | 2023-09-24 |
 | [Bruised Orange \(Chain of Sorrow\)](https://open.spotify.com/track/4AMELibNEGPOQOFNfkdvZj) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N) | [Bruised Orange \(Chain of Sorrow\)](https://open.spotify.com/album/5pBKLo2o48EUjRjWiFUmhE) | 3:50 | 2021-12-17 | 2022-01-22 |
 | [Buckle of the Bible Belt](https://open.spotify.com/track/03zP9TiVkMyNul9NArPx6R) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Buckle of the Bible Belt](https://open.spotify.com/album/1dkJmdPnl2W9WoQgrkXFlD) | 3:00 | 2022-08-12 | 2023-03-25 |
 | [Build You a Bar](https://open.spotify.com/track/5ipv5YkZIyYCW6h7zjfjKs) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Build You a Bar](https://open.spotify.com/album/3cJepIdRwtbAUJYzTykBQK) | 3:48 | 2022-04-08 | 2022-08-10 |

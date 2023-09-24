@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Joshua Baraka",
-  "num_followers": 1817,
+  "num_followers": 1818,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDIyYTMwN2JmMjAyZWE5NGI4OWQ3N2RiYmUzNzkwYzc4NTI2MDFl",
+  "snapshot_id": "MCwzNGYyODBkOGNjZWNkYzRhMjFlNTliZmQ2ZDM4ZGZhNWY2MWFhMWNj",
   "tracks": [
     {
       "added_at": "2023-09-22 07:46:38",
@@ -231,26 +231,6 @@
     {
       "added_at": "2023-09-22 07:46:38",
       "album": {
-        "name": "From Uganda With Love",
-        "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
-      },
-      "artists": [
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        }
-      ],
-      "duration_ms": 110124,
-      "name": "SUPAHAWT",
-      "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
-    },
-    {
-      "added_at": "2023-09-22 07:46:38",
-      "album": {
         "name": "Salary",
         "url": "https://open.spotify.com/album/0ysAKohoYkEI47eHS9GPry"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 169200,
       "name": "Salary",
       "url": "https://open.spotify.com/track/78al3N9RaWJUDMhPS6Z669"
+    },
+    {
+      "added_at": "2023-09-22 07:46:38",
+      "album": {
+        "name": "From Uganda With Love",
+        "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "duration_ms": 110124,
+      "name": "SUPAHAWT",
+      "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
     },
     {
       "added_at": "2023-09-22 07:46:38",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-09-22 07:46:38",
       "album": {
+        "name": "Chai Mata",
+        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
+      },
+      "artists": [
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Chai Mata",
+      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
+    },
+    {
+      "added_at": "2023-09-22 07:46:38",
+      "album": {
         "name": "Ekyama",
         "url": "https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 217021,
       "name": "Ekyama",
       "url": "https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf"
-    },
-    {
-      "added_at": "2023-09-22 07:46:38",
-      "album": {
-        "name": "Chai Mata",
-        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
-      },
-      "artists": [
-        {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Chai Mata",
-      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
     },
     {
       "added_at": "2023-09-22 07:46:38",
@@ -567,22 +567,6 @@
       "duration_ms": 185939,
       "name": "Bwereere",
       "url": "https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm"
-    },
-    {
-      "added_at": "2023-09-22 07:46:38",
-      "album": {
-        "name": "Pretty Young Thing",
-        "url": "https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Pretty Young Thing",
-      "url": "https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK"
     },
     {
       "added_at": "2023-09-22 07:46:38",
@@ -623,6 +607,22 @@
       "duration_ms": 193776,
       "name": "Enjoyment",
       "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
+    },
+    {
+      "added_at": "2023-09-22 07:46:38",
+      "album": {
+        "name": "Pretty Young Thing",
+        "url": "https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Pretty Young Thing",
+      "url": "https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK"
     },
     {
       "added_at": "2023-09-22 07:46:38",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-09-22 07:46:38",
       "album": {
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH"
+      },
+      "artists": [
+        {
+          "name": "Runbouy",
+          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
+    },
+    {
+      "added_at": "2023-09-22 07:46:38",
+      "album": {
         "name": "Fertilizer",
         "url": "https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp"
       },
@@ -735,8 +751,8 @@
     {
       "added_at": "2023-09-22 07:46:38",
       "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj"
+        "name": "WATERSHED",
+        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
       },
       "artists": [
         {
@@ -744,13 +760,13 @@
           "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
         },
         {
-          "name": "BRYAN THE MENSAH",
-          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
+          "name": "Lagum the Rapper",
+          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
         }
       ],
-      "duration_ms": 188444,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT"
+      "duration_ms": 137333,
+      "name": "Mama I Made It",
+      "url": "https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH"
     },
     {
       "added_at": "2023-09-22 07:46:38",
@@ -823,22 +839,6 @@
     {
       "added_at": "2023-09-22 07:46:38",
       "album": {
-        "name": "Kikole",
-        "url": "https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH"
-      },
-      "artists": [
-        {
-          "name": "Runbouy",
-          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
-        }
-      ],
-      "duration_ms": 216058,
-      "name": "Kikole",
-      "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
-    },
-    {
-      "added_at": "2023-09-22 07:46:38",
-      "album": {
         "name": "Aye",
         "url": "https://open.spotify.com/album/6CXDElxxiujEhPQbwcBXR9"
       },
@@ -903,22 +903,18 @@
     {
       "added_at": "2023-09-22 07:46:38",
       "album": {
-        "name": "WATERSHED",
-        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
+        "name": "BESTIE",
+        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Lagum the Rapper",
-          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
         }
       ],
-      "duration_ms": 137333,
-      "name": "Mama I Made It",
-      "url": "https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH"
+      "duration_ms": 173949,
+      "name": "BESTIE",
+      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
     }
   ],
   "unique_name": "Made In Uganda",

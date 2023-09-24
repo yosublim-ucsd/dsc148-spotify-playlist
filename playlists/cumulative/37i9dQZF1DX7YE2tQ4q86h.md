@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Slayyyter
 
-673 songs - 1 day 10 hr 7 min
+674 songs - 1 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Baby Was A Dancer](https://open.spotify.com/track/1TJ2BnYssITgFEuOGE0oIv) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Baby Was A Dancer](https://open.spotify.com/album/2zVnQDbAYM3BS0gXjehgW4) | 2:39 | 2023-03-24 | 2023-04-29 |
 | [Babylon](https://open.spotify.com/track/5DttNeiizFqWUON9hZBqTY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:41 | 2022-08-12 | 2022-09-10 |
 | [Back To Me \(Me Ma Moop\)](https://open.spotify.com/track/0kDXr6VmGWxTVL7CnJw71T) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Back To Me \(Me Ma Moop\)](https://open.spotify.com/album/2SaKz8EkJUeo3UI3pOOtmp) | 2:50 | 2023-04-28 | 2023-08-19 |
+| [Bad Apple \(1, 2, 3\)](https://open.spotify.com/track/6hEo7nAwwah5a9BvwZ0LEw) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Bad Apple \(1, 2, 3\)](https://open.spotify.com/album/72jW5bP5izDr3UZrXaZ4Ri) | 2:37 | 2023-09-23 |  |
 | [Bad At Letting Go](https://open.spotify.com/track/4uWDzzFjuB9AV1hMSTyEAJ) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Bad At Letting Go](https://open.spotify.com/album/25cBhyZGuY9xdg7QMCdc9K) | 3:20 | 2023-01-20 | 2023-02-18 |
 | [Bad Energy](https://open.spotify.com/track/1W3ufvaiblglNP1ohlDTob) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [The Character](https://open.spotify.com/album/7dAPAxXAFZPsBDiSJu1CUx) | 2:22 | 2022-07-29 | 2022-10-22 |
 | [Bad For My Health](https://open.spotify.com/track/7m0qnyh7iNzZhVjKIjRrEE) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Bad for My Health](https://open.spotify.com/album/1MvX6YKRXyhayUOEEqlvyI) | 2:34 | 2022-05-13 | 2022-06-04 |
@@ -181,7 +182,7 @@
 | [Down To One](https://open.spotify.com/track/4p5MmF1qGCjiTM4zU1N56e) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Down To One](https://open.spotify.com/album/12ySRiWrZYkDI9P5BmTgx7) | 3:02 | 2023-09-15 |  |
 | [Downtown](https://open.spotify.com/track/1agzjKir1PVW91rkCbiXks) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Downtown](https://open.spotify.com/album/1QRMi6OGmvL3PR7uctgSa7) | 2:11 | 2023-09-22 |  |
 | [Dramatic](https://open.spotify.com/track/0fzNbspDae66MSdL8fR1kC) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Dramatic](https://open.spotify.com/album/2hasjKPec7XpfkMH0j1jwW) | 3:12 | 2023-06-09 | 2023-07-22 |
-| [Drinkin'](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Drinkin'](https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI) | 2:29 | 2023-08-25 |  |
+| [Drinkin'](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Drinkin'](https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI) | 2:29 | 2023-08-25 | 2023-09-24 |
 | [Drinks on MI](https://open.spotify.com/track/3EnaAIwiciqClp6bnI40gr) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Silver & Gold \- Chapter II](https://open.spotify.com/album/6IffxaOUNV88w4yxw561vT) | 2:41 | 2023-03-03 | 2023-09-09 |
 | [Drip Drop](https://open.spotify.com/track/13Oms7rPHZlvGz1ny1F2FO) | [Erika Jayne](https://open.spotify.com/artist/3jgs1QD0amFu2y6bqSK36Y) | [Drip Drop](https://open.spotify.com/album/3Q711uLnVZ9ufizLWrXUn5) | 3:44 | 2023-09-08 |  |
 | [Drown Us Out](https://open.spotify.com/track/7Jfz5QUZE8T6ZRrNfAO04V) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Drown Us Out](https://open.spotify.com/album/7cVVLx6eUOcKPU9dKs7axq) | 3:16 | 2022-12-30 | 2023-01-28 |

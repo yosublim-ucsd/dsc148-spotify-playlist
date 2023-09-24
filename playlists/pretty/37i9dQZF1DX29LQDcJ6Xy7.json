@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 297723,
+  "num_followers": 297855,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTM5ZTljNGRmZDRlZWU2MDYwZmI2NzhjMzUwNmJkZGQ5MzgzZTA4",
+  "snapshot_id": "MCxmMzRiNWUyZGQ3NjIwM2JjZWI2YTZhNTQyZjEyOGMwODgzMWQzN2U5",
   "tracks": [
     {
       "added_at": "2023-07-14 02:37:32",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Anima Inferna",
-        "url": "https://open.spotify.com/album/3bu7vMto2xe6ZYLcDJVTLS"
+        "name": "Symbols",
+        "url": "https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC"
       },
       "artists": [
         {
-          "name": "Gothminister",
-          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
         }
       ],
-      "duration_ms": 217826,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/5SSgOEhCl3C20ioDkt96fr"
+      "duration_ms": 367933,
+      "name": "Megalomaniac",
+      "url": "https://open.spotify.com/track/1d3iQh4fTm5D6iRtgrZPZ9"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Symbols",
-        "url": "https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC"
+        "name": "Anima Inferna",
+        "url": "https://open.spotify.com/album/3bu7vMto2xe6ZYLcDJVTLS"
       },
       "artists": [
         {
-          "name": "KMFDM",
-          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
         }
       ],
-      "duration_ms": 367933,
-      "name": "Megalomaniac",
-      "url": "https://open.spotify.com/track/1d3iQh4fTm5D6iRtgrZPZ9"
+      "duration_ms": 217826,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/5SSgOEhCl3C20ioDkt96fr"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
-        "url": "https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
-      "url": "https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I"
-    },
-    {
-      "added_at": "2023-07-14 02:37:32",
-      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 179733,
       "name": "After the Flesh",
       "url": "https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK"
+    },
+    {
+      "added_at": "2023-07-14 02:37:32",
+      "album": {
+        "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
+        "url": "https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
+      "url": "https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Termination Bliss",
-        "url": "https://open.spotify.com/album/4Ag57DqawdZcI8m6ns0zR7"
-      },
-      "artists": [
-        {
-          "name": "Deathstars",
-          "url": "https://open.spotify.com/artist/4Tg06Sex4LzwcgVdfRrHlp"
-        }
-      ],
-      "duration_ms": 246160,
-      "name": "Blitzkrieg",
-      "url": "https://open.spotify.com/track/18JcWK7NWc3lNAt0H0UY28"
-    },
-    {
-      "added_at": "2023-07-14 02:37:32",
-      "album": {
         "name": "Ich wei\u00df es nicht",
         "url": "https://open.spotify.com/album/49fvgWYikvKVaNF5z0swh6"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 289451,
       "name": "Ich wei\u00df es nicht",
       "url": "https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz"
+    },
+    {
+      "added_at": "2023-07-14 02:37:32",
+      "album": {
+        "name": "Termination Bliss",
+        "url": "https://open.spotify.com/album/4Ag57DqawdZcI8m6ns0zR7"
+      },
+      "artists": [
+        {
+          "name": "Deathstars",
+          "url": "https://open.spotify.com/artist/4Tg06Sex4LzwcgVdfRrHlp"
+        }
+      ],
+      "duration_ms": 246160,
+      "name": "Blitzkrieg",
+      "url": "https://open.spotify.com/track/18JcWK7NWc3lNAt0H0UY28"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Killer Quinn",
-        "url": "https://open.spotify.com/album/3WRtHLiv4uw6pkxx0Bbddd"
-      },
-      "artists": [
-        {
-          "name": "SCARLET",
-          "url": "https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN"
-        }
-      ],
-      "duration_ms": 179178,
-      "name": "Killer Quinn",
-      "url": "https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf"
-    },
-    {
-      "added_at": "2023-07-14 02:37:32",
-      "album": {
         "name": "Satellites",
         "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
       },
@@ -1615,18 +1599,34 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "New Messiah",
-        "url": "https://open.spotify.com/album/3M5G33aqX2jA7ZyaujjAem"
+        "name": "Killer Quinn",
+        "url": "https://open.spotify.com/album/3WRtHLiv4uw6pkxx0Bbddd"
       },
       "artists": [
         {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+          "name": "SCARLET",
+          "url": "https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN"
         }
       ],
-      "duration_ms": 270466,
-      "name": "New Messiah",
-      "url": "https://open.spotify.com/track/784D068nWk6mUvEXkufPnF"
+      "duration_ms": 179178,
+      "name": "Killer Quinn",
+      "url": "https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf"
+    },
+    {
+      "added_at": "2023-07-14 02:37:32",
+      "album": {
+        "name": "Digital Gods",
+        "url": "https://open.spotify.com/album/2dhSJeHtfSCcpEwyQCikfc"
+      },
+      "artists": [
+        {
+          "name": "Oddko",
+          "url": "https://open.spotify.com/artist/1UVYxhc5UIS5VLvUXrSo81"
+        }
+      ],
+      "duration_ms": 206346,
+      "name": "D4TM",
+      "url": "https://open.spotify.com/track/6S4Q0HDqHDsdcmfFNvyc8y"
     }
   ],
   "unique_name": "Industrial Metal",

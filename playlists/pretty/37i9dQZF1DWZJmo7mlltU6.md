@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Rocco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,449 likes - 99 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,483 likes - 99 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 68 | [Fifth](https://open.spotify.com/track/5DNpSTHMlVO4OdiQJ1uG8v) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Fifth](https://open.spotify.com/album/0cxSW85kPAIUEk6UIejvPD) | 2:35 |
 | 69 | [So Bad](https://open.spotify.com/track/3KLGkGZU4wU5zLudW0a0em) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [So Bad](https://open.spotify.com/album/6aRAFBI8tnHWCUAlTaaZGN) | 3:33 |
 | 70 | [Screw Time](https://open.spotify.com/track/041KVEd5BQnsyZKdqdmE0r) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Screw Time](https://open.spotify.com/album/3XuJ6wvVTZyiMslESPVRJ7) | 3:05 |
-| 71 | [Venus](https://open.spotify.com/track/3Ix717qz55IpboW4fz3cyf) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Fish Bowl](https://open.spotify.com/album/277iuWreJUuseNVEXN5NrA) | 2:27 |
+| 71 | [Venus](https://open.spotify.com/track/4eNGVnQWq6FxBKpKHVRKkH) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Fish Bowl](https://open.spotify.com/album/0PQMRtZNljTn1i68vJtWO5) | 2:27 |
 | 72 | [So Good](https://open.spotify.com/track/0LLsfeo4VRuHHlaWkNVpBI) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Close to the Sun](https://open.spotify.com/album/3lYAyUT4gBWtPRTytq9eLZ) | 2:41 |
 | 73 | [Tache d'encre](https://open.spotify.com/track/1toQXtLaRc3MaK53vKL24z) | [Valse Fréquence](https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC) | [Tache d'encre](https://open.spotify.com/album/0yYien414Z46D8nNVjFj9d) | 3:12 |
 | 74 | [Querernos De Nuevo](https://open.spotify.com/track/1FfSInK2AKyrvKLjKJNQFe) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Querernos De Nuevo](https://open.spotify.com/album/4KOE4Zl1O25anbQ6EunSSk) | 3:51 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 98 | [Lejos del mundo y el dolor](https://open.spotify.com/track/2VE3DQwmKSxrYRbZ0aC8yS) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Lejos del mundo y el dolor](https://open.spotify.com/album/2YxVEE82jzCGMBoMsx637i) | 3:12 |
 | 99 | [Feels Like Home](https://open.spotify.com/track/7oxBqKaMhXexOEpSYjlgoE) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Feels Like Home](https://open.spotify.com/album/2SAK1eWgzPJp9GhJDNK32v) | 3:37 |
 
-Snapshot ID: `MCw3YjdjYjYyZWIzN2IyOGYwYjk0MDI2MzRhMGVjOTllNDY4OWU3MWVh`
+Snapshot ID: `MCxkYTFhOWEyOTM4MjZhMmJjOGE2MWIwYjAxMzVhY2Q5YzM0NzI3NWI3`

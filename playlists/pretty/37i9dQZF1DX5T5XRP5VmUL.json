@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to the holiday season!",
-  "num_followers": 133066,
+  "num_followers": 133061,
   "original_name": "Christmas in Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTIwM2FmNjM3OTI4MmZmMDFlMjk5MGVjMjBiMjZjYmMxYWMxYzU3",
+  "snapshot_id": "MCxiYjBkMzcxNjgyYTc2N2FiNjIyNDdjN2ZiMjRlYjE5M2Y3NTA2MGMx",
   "tracks": [
     {
       "added_at": "2022-12-16 16:34:09",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/4e4Amgi25FhDCFIYhbyuEh"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 150697,
-      "name": "Merry Christmas",
-      "url": "https://open.spotify.com/track/6B8tOwbbbvRkGBrFw2PJB1"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Little Road to Bethlehem",
         "url": "https://open.spotify.com/album/7st3j23d7T5dGL3qNuhJMw"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 169662,
       "name": "Little Road to Bethlehem",
       "url": "https://open.spotify.com/track/61BGiilYVYNXqwx8hgHwF5"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/4e4Amgi25FhDCFIYhbyuEh"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 150697,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/6B8tOwbbbvRkGBrFw2PJB1"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "Happy Xmas",
+        "url": "https://open.spotify.com/album/2EOoAok8LUm3QDd2Jq0NUW"
+      },
+      "artists": [
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "duration_ms": 191401,
+      "name": "Happy Xmas",
+      "url": "https://open.spotify.com/track/1mp6u70l0qHqRWQN6bJLoX"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6TrBZsEdcM4SiIAiEEZJbJ"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 140765,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/2Txst52kJxfvQjVgbCcE2N"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "Happy Xmas",
-        "url": "https://open.spotify.com/album/2EOoAok8LUm3QDd2Jq0NUW"
-      },
-      "artists": [
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        }
-      ],
-      "duration_ms": 191401,
-      "name": "Happy Xmas",
-      "url": "https://open.spotify.com/track/1mp6u70l0qHqRWQN6bJLoX"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Coming Home (For Christmas)",
-        "url": "https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT"
-      },
-      "artists": [
-        {
-          "name": "Scott Helman",
-          "url": "https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg"
-        }
-      ],
-      "duration_ms": 207792,
-      "name": "Coming Home (For Christmas)",
-      "url": "https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Joy to the World",
         "url": "https://open.spotify.com/album/61i2xsCv4xblemUmhtRnGh"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 169666,
       "name": "What I See",
       "url": "https://open.spotify.com/track/3vdKhieD57HDrBx0wyMyYh"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Coming Home (For Christmas)",
+        "url": "https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT"
+      },
+      "artists": [
+        {
+          "name": "Scott Helman",
+          "url": "https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg"
+        }
+      ],
+      "duration_ms": 207792,
+      "name": "Coming Home (For Christmas)",
+      "url": "https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Takin' Care Of Christmas",
-        "url": "https://open.spotify.com/album/55HArZ8d6oaHrv2NTZWyYG"
-      },
-      "artists": [
-        {
-          "name": "Randy Bachman",
-          "url": "https://open.spotify.com/artist/1Q4aI4HsIQmidZrgCOAcBg"
-        },
-        {
-          "name": "Beverley Mahood",
-          "url": "https://open.spotify.com/artist/2Ur7EJdq2Lv5rOAQDNbCl7"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Takin' Care Of Christmas",
-      "url": "https://open.spotify.com/track/1KCFZtY7YZA610dHQTSG8z"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Christmas at Home",
         "url": "https://open.spotify.com/album/7ChOdPEmGK7XajwLkxWdU1"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 206421,
       "name": "Christmas at Home",
       "url": "https://open.spotify.com/track/3ALSNnwqeIwMOk8DsgLZux"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Takin' Care Of Christmas",
+        "url": "https://open.spotify.com/album/55HArZ8d6oaHrv2NTZWyYG"
+      },
+      "artists": [
+        {
+          "name": "Randy Bachman",
+          "url": "https://open.spotify.com/artist/1Q4aI4HsIQmidZrgCOAcBg"
+        },
+        {
+          "name": "Beverley Mahood",
+          "url": "https://open.spotify.com/artist/2Ur7EJdq2Lv5rOAQDNbCl7"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Takin' Care Of Christmas",
+      "url": "https://open.spotify.com/track/1KCFZtY7YZA610dHQTSG8z"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/6r1K4pY3QjCpQsiznP1nWO"
+      },
+      "artists": [
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        }
+      ],
+      "duration_ms": 229623,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/1KOcD6gU6G3aI8bj3mDmgl"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "Slide On Christmas",
         "url": "https://open.spotify.com/album/3A2ZgopwrWy9AKNKZcdkeZ"
       },
@@ -1463,22 +1483,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Blue Christmas",
-        "url": "https://open.spotify.com/album/6r1K4pY3QjCpQsiznP1nWO"
+        "name": "The Last Christmas (We Ever Spend Apart)",
+        "url": "https://open.spotify.com/album/6OHsKP52OjrBnA3vvKnN24"
       },
       "artists": [
         {
-          "name": "David Foster",
-          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
-        },
-        {
-          "name": "Katharine McPhee",
-          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
         }
       ],
-      "duration_ms": 229623,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/1KOcD6gU6G3aI8bj3mDmgl"
+      "duration_ms": 207581,
+      "name": "The Last Christmas (We Ever Spend Apart)",
+      "url": "https://open.spotify.com/track/7IJuZ1XUVCpiOSWqEZySIk"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1495,22 +1511,6 @@
       "duration_ms": 186890,
       "name": "Someday at Christmas",
       "url": "https://open.spotify.com/track/5iXpw1SFBcjh7lNwuyKi7X"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "The Last Christmas (We Ever Spend Apart)",
-        "url": "https://open.spotify.com/album/6OHsKP52OjrBnA3vvKnN24"
-      },
-      "artists": [
-        {
-          "name": "Arkells",
-          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
-        }
-      ],
-      "duration_ms": 207581,
-      "name": "The Last Christmas (We Ever Spend Apart)",
-      "url": "https://open.spotify.com/track/7IJuZ1XUVCpiOSWqEZySIk"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/6gqhPighIztVIp72MbJfYv"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 254562,
+      "name": "Love Is Christmas",
+      "url": "https://open.spotify.com/track/53PKK3VnmRgBqK0r3cgRb7"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "Jingle Bells",
         "url": "https://open.spotify.com/album/2kRh0f81nPNjN5exdOOWRa"
       },
@@ -1643,18 +1659,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "O Holy Night",
-        "url": "https://open.spotify.com/album/6gqhPighIztVIp72MbJfYv"
+        "name": "One More Day of Christmas / Do You Hear What I Hear",
+        "url": "https://open.spotify.com/album/4Bf8UkSQXx6tk5baokwU6s"
       },
       "artists": [
         {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
         }
       ],
-      "duration_ms": 254562,
-      "name": "Love Is Christmas",
-      "url": "https://open.spotify.com/track/53PKK3VnmRgBqK0r3cgRb7"
+      "duration_ms": 162749,
+      "name": "One More Day of Christmas",
+      "url": "https://open.spotify.com/track/0dJ4qvAQzIH5HIdB5PVj8D"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1675,34 +1691,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/59s1aDGGfp5Sv9TjbsRKuz"
+        "name": "River",
+        "url": "https://open.spotify.com/album/6eFMdTriLrFtrE1xLXsVJs"
       },
       "artists": [
         {
-          "name": "Bruce Cockburn",
-          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
+          "name": "Ryland James",
+          "url": "https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0"
         }
       ],
-      "duration_ms": 257533,
-      "name": "I Saw Three Ships",
-      "url": "https://open.spotify.com/track/4JhEnX4fBX5kyr1EECfv6h"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "One More Day of Christmas / Do You Hear What I Hear",
-        "url": "https://open.spotify.com/album/4Bf8UkSQXx6tk5baokwU6s"
-      },
-      "artists": [
-        {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
-        }
-      ],
-      "duration_ms": 162749,
-      "name": "One More Day of Christmas",
-      "url": "https://open.spotify.com/track/0dJ4qvAQzIH5HIdB5PVj8D"
+      "duration_ms": 197229,
+      "name": "River",
+      "url": "https://open.spotify.com/track/6QjfeWvTkJTgMJcifKXoa5"
     }
   ],
   "unique_name": "Christmas in Canada",

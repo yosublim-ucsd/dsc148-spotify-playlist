@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-353 songs - 17 hr 14 min
+354 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Backseat](https://open.spotify.com/track/1TeG6xwHJG8Y6fiw7PebSl) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf) | 2:49 | 2023-04-07 |  |
 | [Bad Bees \(feat\. Harrison First\)](https://open.spotify.com/track/2GvYPnGRiF9MdJSSeS30tY) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [Bad Bees \(feat\. Harrison First\)](https://open.spotify.com/album/5dVTLuCWaBvkTR6taXAZAn) | 2:59 | 2021-10-29 | 2022-08-06 |
 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 | 2022-07-29 |  |
-| [Ballin'](https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU) | [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [Make Trouble](https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT) | 3:30 | 2022-12-02 |  |
+| [Ballin'](https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU) | [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [Make Trouble](https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT) | 3:30 | 2022-12-02 | 2023-09-24 |
 | [Bang Bang](https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [Bang Bang](https://open.spotify.com/album/5C0wNtxNy0dMhY7mfX6mYJ) | 2:24 | 2022-07-22 |  |
 | [Banga](https://open.spotify.com/track/0Lg4xPkkZ3k7PP8kZhqyHV) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga](https://open.spotify.com/album/3HGGWYXPmiZ7d3qMbCi3ZD) | 2:21 | 2022-09-16 | 2023-02-26 |
 | [Banga](https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga](https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw) | 2:21 | 2023-02-17 |  |
@@ -50,6 +50,7 @@
 | [Broke Bitch](https://open.spotify.com/track/3Ay4JbFCfh7q7RIUScJQ1v) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Lil Asian Thiccie](https://open.spotify.com/artist/0j2BoCcPBX1B5vF8tp2nL7) | [Broke Bitch](https://open.spotify.com/album/62uCkdPVscfNWzzqIdSjxB) | 3:21 | 2023-01-06 | 2023-04-05 |
 | [BUBBLEGUM](https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [BUBBLEGUM](https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe) | 2:28 | 2022-08-26 |  |
 | [Bumba Bass](https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2) | [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Bumba Bass](https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn) | 2:13 | 2023-03-10 |  |
+| [buttons!](https://open.spotify.com/track/3PXb8ZLJiz59pSO5ZrJDx0) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [buttons!](https://open.spotify.com/album/1BNaZf2C1HMVCC2pCRdYsr) | 3:59 | 2023-09-22 |  |
 | [B€NZ](https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [B€NZ](https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z) | 4:04 | 2022-08-12 |  |
 | [Can't See](https://open.spotify.com/track/1kYkGEVNpugTZiigbiNK2W) | [NEVERGLOW](https://open.spotify.com/artist/2K7Hlrg5cti0mVKx4l0Rwz) | [Can't See](https://open.spotify.com/album/2BncSMJsjWgHrl6XbgMbjr) | 3:07 | 2022-04-29 | 2022-07-15 |
 | [Can't Talk Right Now](https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Can't Talk Right Now](https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ) | 3:19 | 2023-09-15 |  |

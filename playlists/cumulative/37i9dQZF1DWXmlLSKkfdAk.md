@@ -4,7 +4,7 @@
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-311 songs - 18 hr 50 min
+313 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [Let It Go](https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG) | 3:14 | 2021-11-12 | 2023-07-29 |
 | [Let It Go](https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV) | 3:14 | 2023-04-21 |  |
 | [Let Me Love You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Spotify Singles](https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36) | 3:41 | 2021-11-12 |  |
-| [Like a Rolling Stone](https://open.spotify.com/track/49Q2VVHzabFRwAUQ1ByLNa) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Like a Rolling Stone](https://open.spotify.com/album/5UJhgkj2fP5ycNLbVdzQ3H) | 6:49 | 2022-05-27 |  |
+| [Like a Rolling Stone](https://open.spotify.com/track/49Q2VVHzabFRwAUQ1ByLNa) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Like a Rolling Stone](https://open.spotify.com/album/5UJhgkj2fP5ycNLbVdzQ3H) | 6:49 | 2022-05-27 | 2023-09-24 |
+| [Like a Rolling Stone](https://open.spotify.com/track/6nMb0jnVYulCHhe5UpyKBq) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [The Full Moon Project](https://open.spotify.com/album/0VraDVmjkr0vVjaZqLM7bi) | 6:49 | 2023-09-15 |  |
 | [Linger](https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Linger](https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx) | 3:21 | 2021-11-12 |  |
 | [Little Talks](https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb) | [Julia Sheer](https://open.spotify.com/artist/4jHWpUyRI2rzJVimtasEBF), [Jon D](https://open.spotify.com/artist/5HCypjplgh5uQezvBpOfXN) | [Little Talks](https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM) | 3:39 | 2021-11-12 |  |
 | [Lose You to Love Me](https://open.spotify.com/track/0lpwplpsEws1hk5ekWXKEv) | [Róisín O](https://open.spotify.com/artist/7nsv8ov54a8qlNXwhEkgkr) | [Lose You to Love Me](https://open.spotify.com/album/79WfChsgCA9A2qomzArMNd) | 3:57 | 2021-11-12 | 2022-07-29 |
@@ -242,7 +243,8 @@
 | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/track/1KFuLRUmWf0irn0CLclT2X) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/album/3by1f21NPpyV2sxW4PkzRp) | 2:57 | 2021-11-12 |  |
 | [Slow Burn](https://open.spotify.com/track/7wxpR27OE3OlkTWVjTlLIR) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings Kacey Musgraves](https://open.spotify.com/album/5V2Gr572p76K873Hm20xFl) | 3:37 | 2021-11-12 | 2022-03-12 |
 | [Slow Burn \- Yours Truly: 2018](https://open.spotify.com/track/1nSSsrQO34b7XhLOVUnZcs) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Slow Burn \(Yours Truly: 2018\)](https://open.spotify.com/album/1T3kWlsaTNAJKJVG1Fsv0E) | 3:29 | 2021-11-12 |  |
-| [Soak up the Sun \- Unplugged](https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Judah & The Lion \(Unplugged\)](https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7) | 4:11 | 2022-07-27 |  |
+| [Soak up the Sun \- Unplugged](https://open.spotify.com/track/0eUty3IjjOqEheyWEb9Rsb) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Judah & The Lion \(Unplugged\)](https://open.spotify.com/album/6YdwCaQPQ4j3h8F8fFWeUi) | 4:11 | 2023-09-15 |  |
+| [Soak up the Sun \- Unplugged](https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Judah & The Lion \(Unplugged\)](https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7) | 4:11 | 2022-07-27 | 2023-09-24 |
 | [Soak Up The Sun \- Unplugged](https://open.spotify.com/track/7xfz6i5AvB1GwccEcIrb7k) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Judah & the Lion \(Unplugged\)](https://open.spotify.com/album/0ftg0MdGcyRwB8Zzt624BS) | 4:11 | 2021-11-12 | 2022-10-16 |
 | [Someday](https://open.spotify.com/track/5YeuTTxiFbYSyFGorYKeBx) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Someday](https://open.spotify.com/album/4J7pEYLGLaAGwD3xflvOeJ) | 2:39 | 2021-11-12 | 2022-05-28 |
 | [Song Beneath the Song](https://open.spotify.com/track/49ykaqGBrhQ6FSriy2ZBaF) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Song Beneath the Song](https://open.spotify.com/album/68oxfceV08SzsvYbJ0DEyj) | 3:11 | 2022-05-27 |  |

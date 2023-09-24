@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill, and potentially disassociate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,459,340 likes - 150 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,459,707 likes - 150 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 79 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 |
 | 80 | [Hoboken](https://open.spotify.com/track/0i3pE7eoqghj9gdRoBd8tU) | [Franklin Jonas](https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV) | [Hoboken](https://open.spotify.com/album/6DuIkYLO8uu4Yz1GEsMivZ) | 4:08 |
 | 81 | [Cotton Candy Lemonade](https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade](https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ) | 2:26 |
-| 82 | [Venus](https://open.spotify.com/track/3Ix717qz55IpboW4fz3cyf) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Fish Bowl](https://open.spotify.com/album/277iuWreJUuseNVEXN5NrA) | 2:27 |
+| 82 | [Venus](https://open.spotify.com/track/4eNGVnQWq6FxBKpKHVRKkH) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Fish Bowl](https://open.spotify.com/album/0PQMRtZNljTn1i68vJtWO5) | 2:27 |
 | 83 | [sole outlet](https://open.spotify.com/track/3Axrk0m3aMkCz2D7R3GT5D) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [sole outlet](https://open.spotify.com/album/0Xmtrxgeg2ivd3874Nn9fL) | 3:47 |
 | 84 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
 | 85 | [Warmer](https://open.spotify.com/track/27n8scut9e5uU4uD5qFzDQ) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A), [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Warmer](https://open.spotify.com/album/2opDURU1h6QFzIGYDFGOyA) | 2:34 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 149 | [For The Breakdowns](https://open.spotify.com/track/2fN3mTftR80HwV5r79rq10) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [For the Breakdowns](https://open.spotify.com/album/5yoqFxiDljDVn70lVn1Sd2) | 3:04 |
 | 150 | [Find Out](https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:28 |
 
-Snapshot ID: `MCxkOGIwMTIyYTNmMWNiYWI5MTQ0NmM3NjMyMjgxZmRkNDI5ZjE0ZWEw`
+Snapshot ID: `MCw3ZjY0NWM2ZWUzMGM4NDIzZTgyOGI1YjQwMTYyNjc2ZmZkYzIyOTY1`

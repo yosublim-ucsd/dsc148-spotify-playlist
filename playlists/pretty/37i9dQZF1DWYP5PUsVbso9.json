@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 279685,
+  "num_followers": 279880,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2U3ZmYwZDM5YmZjNjQ3ZTQwZGFlNGEwODEwNzJhZWJiMjMxZTBh",
+  "snapshot_id": "MCw4NGFmZDBiZDc1NGYxMDkyNmQzNmQ0ZmIzYWRlNDBhNWFiMTVmZDky",
   "tracks": [
     {
       "added_at": "2023-08-21 19:26:53",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/1CYDyOq4idlMXcqqxiJ1A5"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "duration_ms": 141040,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/4LE5mk1mDDn0TX7669wVvg"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 178733,
       "name": "Good Hearted Woman",
       "url": "https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
-        "name": "Pure Love",
-        "url": "https://open.spotify.com/album/1CYDyOq4idlMXcqqxiJ1A5"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
-        }
-      ],
-      "duration_ms": 141040,
-      "name": "Pure Love",
-      "url": "https://open.spotify.com/track/4LE5mk1mDDn0TX7669wVvg"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1131,18 +1131,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Charlie Rich - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/3kN2WdUo9AGwDcgcMKZ1ib"
+        "name": "The Essential Johnny Duncan",
+        "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
       },
       "artists": [
         {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+          "name": "Johnny Duncan",
+          "url": "https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm"
+        },
+        {
+          "name": "Janie Fricke",
+          "url": "https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV"
         }
       ],
-      "duration_ms": 162866,
-      "name": "The Most Beautiful Girl",
-      "url": "https://open.spotify.com/track/5kXmiepRVuKhhz0SxyCVeL"
+      "duration_ms": 189786,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1179,22 +1183,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Essential Johnny Duncan",
-        "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
+        "name": "Charlie Rich - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/3kN2WdUo9AGwDcgcMKZ1ib"
       },
       "artists": [
         {
-          "name": "Johnny Duncan",
-          "url": "https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm"
-        },
-        {
-          "name": "Janie Fricke",
-          "url": "https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV"
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
         }
       ],
-      "duration_ms": 189786,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
+      "duration_ms": 162866,
+      "name": "The Most Beautiful Girl",
+      "url": "https://open.spotify.com/track/5kXmiepRVuKhhz0SxyCVeL"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Kendalls - 42 Massive Hits",
-        "url": "https://open.spotify.com/album/0TLnx23a5jjqtakfXHLHdz"
+        "name": "Love In The Hot Afternoon",
+        "url": "https://open.spotify.com/album/4NFaunfYQOLB85ZHBSTw77"
       },
       "artists": [
         {
-          "name": "The Kendalls",
-          "url": "https://open.spotify.com/artist/1rFQlnVFNwI3H6QLDL7LFN"
+          "name": "Gene Watson",
+          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
         }
       ],
-      "duration_ms": 145253,
-      "name": "Heaven's Just A Sin Away",
-      "url": "https://open.spotify.com/track/2MQMTw0ErhEAecLfm2ClUk"
+      "duration_ms": 199400,
+      "name": "Love In The Hot Afternoon",
+      "url": "https://open.spotify.com/track/3MwNnB3W5pi8URHRKlksGt"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Love In The Hot Afternoon",
-        "url": "https://open.spotify.com/album/4NFaunfYQOLB85ZHBSTw77"
+        "name": "The Kendalls - 42 Massive Hits",
+        "url": "https://open.spotify.com/album/0TLnx23a5jjqtakfXHLHdz"
       },
       "artists": [
         {
-          "name": "Gene Watson",
-          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
+          "name": "The Kendalls",
+          "url": "https://open.spotify.com/artist/1rFQlnVFNwI3H6QLDL7LFN"
         }
       ],
-      "duration_ms": 199400,
-      "name": "Love In The Hot Afternoon",
-      "url": "https://open.spotify.com/track/3MwNnB3W5pi8URHRKlksGt"
+      "duration_ms": 145253,
+      "name": "Heaven's Just A Sin Away",
+      "url": "https://open.spotify.com/track/2MQMTw0ErhEAecLfm2ClUk"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+        "name": "25 Number Ones",
+        "url": "https://open.spotify.com/album/4GeLWE7lG3Ur3SaYaolhkh"
       },
       "artists": [
         {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 168360,
-      "name": "Some Broken Hearts Never Mend - Single Version",
-      "url": "https://open.spotify.com/track/6OREPdoHWU3IehSiZA6rcw"
+      "duration_ms": 181932,
+      "name": "You've Never Been This Far Before",
+      "url": "https://open.spotify.com/track/2PX54jMPTjvpgAod0oIuIP"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "25 Number Ones",
-        "url": "https://open.spotify.com/album/4GeLWE7lG3Ur3SaYaolhkh"
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 181932,
-      "name": "You've Never Been This Far Before",
-      "url": "https://open.spotify.com/track/2PX54jMPTjvpgAod0oIuIP"
+      "duration_ms": 168360,
+      "name": "Some Broken Hearts Never Mend - Single Version",
+      "url": "https://open.spotify.com/track/6OREPdoHWU3IehSiZA6rcw"
     },
     {
       "added_at": "2023-08-21 19:26:53",

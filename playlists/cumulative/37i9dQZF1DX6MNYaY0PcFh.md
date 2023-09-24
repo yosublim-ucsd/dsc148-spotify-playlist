@@ -4,7 +4,7 @@
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-92 songs - 5 hr 42 min
+94 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Big & Bad Riddim](https://open.spotify.com/track/1MiQKWnyI47pXvW5wWf9ts) | [Vato Gonzalez](https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Big & Bad Riddim](https://open.spotify.com/album/48MB8hbQNRWWy5C1DHa4WG) | 2:55 | 2023-06-08 |  |
 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 | 2023-01-24 |  |
 | [Body Pump \- Sammy Virji Remix](https://open.spotify.com/track/1R0EiJvOzjo9yrju6I9KGd) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Renaissance \(Kiwi Remixes\)](https://open.spotify.com/album/2E98VQYa7nlKyPufEmHENP) | 4:23 | 2022-11-25 |  |
-| [Brighter Days](https://open.spotify.com/track/6zcs5NdnUypM6sCFYC7U5Y) | [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [Estate Royalty](https://open.spotify.com/album/54VM01evVF5qSWPWBvfO22) | 2:32 | 2023-09-22 |  |
+| [Brighter Days](https://open.spotify.com/track/3JgvbAIabTHI9UvGStpxM1) | [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [Estate Royalty](https://open.spotify.com/album/5A53s3TnstEoTDmwO9CwOb) | 2:32 | 2023-09-22 |  |
+| [Brighter Days](https://open.spotify.com/track/6zcs5NdnUypM6sCFYC7U5Y) | [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [Estate Royalty](https://open.spotify.com/album/54VM01evVF5qSWPWBvfO22) | 2:32 | 2023-09-22 | 2023-09-24 |
 | [Cafè](https://open.spotify.com/track/6sCofmkLZC3a2cCf7nU8Pa) | [ROJAZ](https://open.spotify.com/artist/2d0BUP7WeJ6caBJZHIn5G6) | [Cafè](https://open.spotify.com/album/1Q4lMGQ5B7eGyiV1fmnQsH) | 3:23 | 2023-09-01 |  |
 | [care 4](https://open.spotify.com/track/2LNzaAAzQMSp6TGpFi3oIB) | [Banditt](https://open.spotify.com/artist/4uoxnYSZK48iKLjfbjRi6A), [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [care 4](https://open.spotify.com/album/14UGM6sZZnYrvtpgEE30kU) | 3:52 | 2022-11-25 |  |
 | [Clay](https://open.spotify.com/track/45eOx1vmwSTY7mRK7wCC08) | [Dampé](https://open.spotify.com/artist/4NvFxGMQzU0xJjAEMR5R9i) | [Clay](https://open.spotify.com/album/0CmOmXMgJWIDgxAwi9zmUd) | 5:04 | 2023-03-23 |  |
@@ -78,6 +79,7 @@
 | [Put A Record On \- Sammy Virji Remix](https://open.spotify.com/track/5qV7vQA1BvlDWY7CED68SL) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Remixes](https://open.spotify.com/album/2Le6cq7l8xVgh04U5EQXYq) | 3:33 | 2022-11-25 | 2023-04-15 |
 | [Rain](https://open.spotify.com/track/6JZj90z1LqUkSyhdT6PEKm) | [Froman](https://open.spotify.com/artist/2XmYUy3NJHRuT3hBb8IS76) | [Rain](https://open.spotify.com/album/1rWGsnrgkXJ8hc3DDGZL5l) | 4:16 | 2022-11-25 |  |
 | [Reach Out](https://open.spotify.com/track/488LUcRU6PCWIZYU7dwmjI) | [Jamie Hai](https://open.spotify.com/artist/47wEVywYRzex59hogE2iEJ) | [Reach Out](https://open.spotify.com/album/0RxksKCj5vd2QK9WAgpmpy) | 3:13 | 2023-01-24 | 2023-04-28 |
+| [REPLAY](https://open.spotify.com/track/78bKo5cD6JUPHfsY7sxSKj) | [ŚWIĘTY BASS](https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP), [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [MoreNight](https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N) | [REPLAY](https://open.spotify.com/album/4rNLK6g8hfpXK5wkpHAZ6n) | 2:54 | 2023-09-22 |  |
 | [Satyr](https://open.spotify.com/track/2Cp7vXWA3ie2KcpWVN7Jk1) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Satyr](https://open.spotify.com/album/0VJv3jujrhYMsfiTO9F3cb) | 4:45 | 2022-11-25 | 2023-04-28 |
 | [See Me](https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI) | [See Me](https://open.spotify.com/album/7AfLC7I27rL70s7HFOmX3O) | 3:04 | 2023-09-01 |  |
 | [Show Me](https://open.spotify.com/track/0fOYe1mfPRzQ64zvMcqA59) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Show Me](https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M) | 3:28 | 2023-09-22 |  |
@@ -97,7 +99,7 @@
 | [This Time of Morning \- Mikey B Remix](https://open.spotify.com/track/2ZHeK3mdGj6IirKolEQ50z) | [Mikey B](https://open.spotify.com/artist/5WVfrnCWJYHvQEUIc1ViWy), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [This Time of Morning \(Mikey B Remix\) \(feat\. Local\)](https://open.spotify.com/album/4XYjOIWcFXIPmvCBpNASXD) | 3:40 | 2022-11-25 |  |
 | [Uh Oh](https://open.spotify.com/track/74Cy4UMTn0Yeu0kSMwARt8) | [MoreNight](https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N) | [Uh Oh](https://open.spotify.com/album/0OJEQmJJBPKNsWV50bOUF1) | 3:13 | 2022-11-25 | 2023-04-28 |
 | [Up De Flats](https://open.spotify.com/track/1VZqn2CpJjkewNFpZj488S) | [Gemma Dunleavy](https://open.spotify.com/artist/4RdnMFmYii89p8VnyvPHKr) | [Up De Flats](https://open.spotify.com/album/0mCCeAdYsdD0M3aYUb3CHQ) | 4:58 | 2022-11-25 | 2023-09-02 |
-| [Visions](https://open.spotify.com/track/1nQpu5Bzfc2HylKKwX06Lk) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Visions](https://open.spotify.com/album/3rWDCqvvj2cmJjhUlFSIMa) | 2:15 | 2022-11-25 |  |
+| [Visions](https://open.spotify.com/track/1nQpu5Bzfc2HylKKwX06Lk) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Visions](https://open.spotify.com/album/3rWDCqvvj2cmJjhUlFSIMa) | 2:15 | 2022-11-25 | 2023-09-24 |
 | [With Me \(feat\. Sâlo\)](https://open.spotify.com/track/7qERcHhtCTltMIGZl4nmYp) | [Bassboy](https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy), [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [With Me](https://open.spotify.com/album/76CVi2dGMcEgtoDcxeQWlH) | 3:48 | 2022-11-25 |  |
 | [words](https://open.spotify.com/track/0MjMYoSWmtVYAhv1Uj3zQO) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [words](https://open.spotify.com/album/4BmDulVoVXieakGP3ZrJqn) | 3:09 | 2022-11-25 |  |
 

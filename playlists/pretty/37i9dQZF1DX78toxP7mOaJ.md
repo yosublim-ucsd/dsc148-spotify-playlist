@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Arcy Drive \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,389 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,419 likes - 125 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 46 | [Athene](https://open.spotify.com/track/02pXk68MbRpG26YFRxWzJh) | [The Velveteins](https://open.spotify.com/artist/1jUEqf1F3oW4JGoMfYxCvN) | [Athene](https://open.spotify.com/album/6pqA7APcsNeUqI7Nqj9Vde) | 3:21 |
 | 47 | [Big Bite](https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite](https://open.spotify.com/album/5r7FCFcuwOhQFO8Oc9jaoI) | 3:21 |
 | 48 | [call and i'll answer](https://open.spotify.com/track/51vawGnoKBqY2SdAWybbwR) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp), [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX), [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [call and i'll answer](https://open.spotify.com/album/2NXhDNzDePkU5ShifAcu32) | 2:46 |
-| 49 | [Chinatown](https://open.spotify.com/track/7fR9MfOsR6MKQqkQWGQyM4) | [PHONY](https://open.spotify.com/artist/7mODeSVag7ANGN6WCvIwVM) | [Chinatown](https://open.spotify.com/album/4G7CLkRhDFuAukds5zn9dx) | 2:39 |
+| 49 | [Chinatown](https://open.spotify.com/track/7fR9MfOsR6MKQqkQWGQyM4) | [Phony](https://open.spotify.com/artist/7mODeSVag7ANGN6WCvIwVM) | [Chinatown](https://open.spotify.com/album/4G7CLkRhDFuAukds5zn9dx) | 2:39 |
 | 50 | [Changes](https://open.spotify.com/track/7lLp5dtiWkM8d0oVfnD2WS) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [Changes](https://open.spotify.com/album/5MCauxko02CqzLRjptNIuX) | 3:55 |
 | 51 | [Hostage](https://open.spotify.com/track/2HtXypOaDQhfWG1sKrjN0f) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [Hostage](https://open.spotify.com/album/4fAX7xHj1PJZfIMKtnri9G) | 3:28 |
 | 52 | [King of the Slugs](https://open.spotify.com/track/059rVLt0il9OJVc93OQDQs) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [King of the Slugs](https://open.spotify.com/album/0dQAxLkosumV0aFGumrdUJ) | 7:05 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 124 | [dissolve](https://open.spotify.com/track/1GJF9cxjx4tEeUgIHlqGlb) | [sunshy](https://open.spotify.com/artist/3N10oOH2Qf9uti4SA0Azav) | [dissolve](https://open.spotify.com/album/2oHvvxsZZ8lziRzIjIfUs9) | 2:25 |
 | 125 | [Olly Carp](https://open.spotify.com/track/2VspudiJVujvSewaidcfKZ) | [HYLA](https://open.spotify.com/artist/7hpxHWdnM6cECjtgqMiWOo) | [Olly Carp](https://open.spotify.com/album/09tgHx4T78MhsW4XP0GKte) | 4:35 |
 
-Snapshot ID: `MCwyNjUxMjgyOTYwZGQ1ZjEzMDZhZTRkNzI4YmU3ZDVhYTUxYmU2MDMy`
+Snapshot ID: `MCxmMjZiMGEyZDkzNTY2MDU2NmNhYmQyOTBhMGJlNGEyNjg4MWIzMThk`

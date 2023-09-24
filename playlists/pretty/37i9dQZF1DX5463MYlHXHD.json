@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa \u00f1eri. Foto: BM & La Champions Liga.",
-  "num_followers": 559681,
+  "num_followers": 559857,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjJmNTA2OWNiNGY4ODQ2YjU0ZTU1MTI4MGNlODU2YTM0OTg5ODdk",
+  "snapshot_id": "MCwwMzRjNzMyZjQxMmIzN2UwYmU4YThkYzBjMjc5YmYwNzAxNGY4MWI5",
   "tracks": [
     {
       "added_at": "2023-09-22 03:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
+        "name": "Amor de Mentiras",
+        "url": "https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 171493,
+      "name": "Son de Amores",
+      "url": "https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
         "name": "Perrito Malvado",
         "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 280895,
       "name": "Perrito Malvado",
       "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "Amor de Mentiras",
-        "url": "https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 171493,
-      "name": "Son de Amores",
-      "url": "https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -719,6 +719,26 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
+        "name": "Me Muero de Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "El Viejo Marquez",
+          "url": "https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA"
+        }
+      ],
+      "duration_ms": 208619,
+      "name": "Me Muero de Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
         "name": "Fua Mi Amor",
         "url": "https://open.spotify.com/album/1RIwnlL46NTomi13sv71QT"
       },
@@ -767,26 +787,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Me Muero de Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "El Viejo Marquez",
-          "url": "https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA"
-        }
-      ],
-      "duration_ms": 208619,
-      "name": "Me Muero de Amor - En Vivo",
-      "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "EL NOBA | DJ TAO Turreo Sessions #7",
         "url": "https://open.spotify.com/album/38OxiO1MGBXfK8cicptGZH"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Altos Cumbieros - Cumbia Villera",
-        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
-      },
-      "artists": [
-        {
-          "name": "Altos Cumbieros",
-          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "No voy a llorar",
-      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "Parulo",
         "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
       },
@@ -859,18 +843,34 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "No Lo Compren",
-        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+        "name": "100% Negro Cumbiero",
+        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
       },
       "artists": [
         {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
         }
       ],
-      "duration_ms": 217013,
-      "name": "Soy Soltero",
-      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
+      "duration_ms": 212253,
+      "name": "El humo de mi fasito",
+      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "Altos Cumbieros - Cumbia Villera",
+        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
+      },
+      "artists": [
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "No voy a llorar",
+      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -891,42 +891,18 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "PICA",
-        "url": "https://open.spotify.com/album/1vyX43WgFXa8BLmIG3DlnN"
+        "name": "No Lo Compren",
+        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
       },
       "artists": [
         {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Al Records",
-          "url": "https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T"
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
         }
       ],
-      "duration_ms": 164531,
-      "name": "PICA",
-      "url": "https://open.spotify.com/track/5FKeJ9Z6W4mgG5aUOok3Qn"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "100% Negro Cumbiero",
-        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "El humo de mi fasito",
-      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
+      "duration_ms": 217013,
+      "name": "Soy Soltero",
+      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -951,6 +927,30 @@
       "duration_ms": 144000,
       "name": "TRUCHO",
       "url": "https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "PICA",
+        "url": "https://open.spotify.com/album/1vyX43WgFXa8BLmIG3DlnN"
+      },
+      "artists": [
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Al Records",
+          "url": "https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T"
+        }
+      ],
+      "duration_ms": 164531,
+      "name": "PICA",
+      "url": "https://open.spotify.com/track/5FKeJ9Z6W4mgG5aUOok3Qn"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1047,6 +1047,42 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
+        "name": "Me Declaro Culpable",
+        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "duration_ms": 177815,
+      "name": "Chetos y Cumbieros",
+      "url": "https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "Session en el Barrio #4",
+        "url": "https://open.spotify.com/album/2XNGEtOnfHv98X3Hf83nQO"
+      },
+      "artists": [
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "duration_ms": 152176,
+      "name": "Session en el Barrio #4",
+      "url": "https://open.spotify.com/track/1YvhaUhTLCXsVuOiEbVFgq"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
         "name": "Tamo Chelo (Remix)",
         "url": "https://open.spotify.com/album/7mFkiXqQqnWYveSQeA9GXE"
       },
@@ -1083,42 +1119,6 @@
       "duration_ms": 338437,
       "name": "Tamo Chelo - Remix",
       "url": "https://open.spotify.com/track/0utOOrcBB24KZil9cgAwXB"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "Me Declaro Culpable",
-        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 177815,
-      "name": "Chetos y Cumbieros",
-      "url": "https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "Session en el Barrio #4",
-        "url": "https://open.spotify.com/album/2XNGEtOnfHv98X3Hf83nQO"
-      },
-      "artists": [
-        {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
-        },
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        }
-      ],
-      "duration_ms": 152176,
-      "name": "Session en el Barrio #4",
-      "url": "https://open.spotify.com/track/1YvhaUhTLCXsVuOiEbVFgq"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Tranka",
-        "url": "https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 164323,
-      "name": "Tranka",
-      "url": "https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "Pinta",
         "url": "https://open.spotify.com/album/3NuIVDa1eiDxLTciy5J4Ha"
       },
@@ -1219,6 +1199,42 @@
       "duration_ms": 177950,
       "name": "Pinta",
       "url": "https://open.spotify.com/track/7nXutPtu8epp2VJ300iN2A"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "Tranka",
+        "url": "https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 164323,
+      "name": "Tranka",
+      "url": "https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "Orgullosa",
+      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1255,22 +1271,6 @@
       "duration_ms": 332000,
       "name": "Remake",
       "url": "https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
-      },
-      "artists": [
-        {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Orgullosa",
-      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Cumbia Callejera",
-        "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
-      },
-      "artists": [
-        {
-          "name": "Pala Ancha",
-          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
-        }
-      ],
-      "duration_ms": 233247,
-      "name": "Coraz\u00f3n de Madre (Destapate Una Cerveza)",
-      "url": "https://open.spotify.com/track/3ZLU1OKjiCyM2Ka7vcjT5f"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "Es Corta la Bocha",
         "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
       },
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "La Vanda M\u00e1s Loca",
-        "url": "https://open.spotify.com/album/2B3GFfHCVp73DgzXllsumE"
+        "name": "Cumbia Callejera",
+        "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
       },
       "artists": [
         {
-          "name": "Flor De Piedra",
-          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
+          "name": "Pala Ancha",
+          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
         }
       ],
-      "duration_ms": 259173,
-      "name": "Sos Bot\u00f3n",
-      "url": "https://open.spotify.com/track/5kYmx9V55bJWm7Qt9hD8WK"
+      "duration_ms": 233247,
+      "name": "Coraz\u00f3n de Madre (Destapate Una Cerveza)",
+      "url": "https://open.spotify.com/track/3ZLU1OKjiCyM2Ka7vcjT5f"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1411,6 +1395,22 @@
       "duration_ms": 114860,
       "name": "FUMAN TWO",
       "url": "https://open.spotify.com/track/2GhH5I2KqMwPMA0xdHsjog"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "La Vanda M\u00e1s Loca",
+        "url": "https://open.spotify.com/album/2B3GFfHCVp73DgzXllsumE"
+      },
+      "artists": [
+        {
+          "name": "Flor De Piedra",
+          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
+        }
+      ],
+      "duration_ms": 259173,
+      "name": "Sos Bot\u00f3n",
+      "url": "https://open.spotify.com/track/5kYmx9V55bJWm7Qt9hD8WK"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1575,30 +1575,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "La Gilera (Remix)",
-        "url": "https://open.spotify.com/album/6PGwcy5RlZKN3PRIRsAwm3"
-      },
-      "artists": [
-        {
-          "name": "El Perro",
-          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
-        },
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "Ponte Perro",
-          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
-        }
-      ],
-      "duration_ms": 147107,
-      "name": "La Gilera - Remix",
-      "url": "https://open.spotify.com/track/75ShCUU5RS4NE8allIpJPa"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "Batalla de los Dj Mixerzone",
         "url": "https://open.spotify.com/album/1J3PnGjU5bj5b02D87zzxQ"
       },
@@ -1647,6 +1623,30 @@
       "duration_ms": 1047973,
       "name": "Batalla Villera",
       "url": "https://open.spotify.com/track/3RxFQSlNXtcH3gVlAsCRhE"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "La Gilera (Remix)",
+        "url": "https://open.spotify.com/album/6PGwcy5RlZKN3PRIRsAwm3"
+      },
+      "artists": [
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        },
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        }
+      ],
+      "duration_ms": 147107,
+      "name": "La Gilera - Remix",
+      "url": "https://open.spotify.com/track/75ShCUU5RS4NE8allIpJPa"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
-        "url": "https://open.spotify.com/album/3wfrXUOmmYvZybB6WJVZXY"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 171434,
-      "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
-      "url": "https://open.spotify.com/track/3yWjuT7dTTTnalhjME6T2F"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "Rompe el Party (Remix)",
         "url": "https://open.spotify.com/album/1h6s34Zj3EstmoMgn3J4ZV"
       },
@@ -1815,6 +1795,26 @@
       "duration_ms": 207673,
       "name": "Rompe el Party (Remix)",
       "url": "https://open.spotify.com/track/0bpzKlI1oiRYp9UnK90qcV"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
+        "url": "https://open.spotify.com/album/3wfrXUOmmYvZybB6WJVZXY"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 171434,
+      "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
+      "url": "https://open.spotify.com/track/3yWjuT7dTTTnalhjME6T2F"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "No Lo Compren",
-        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Dale Zorrita",
-      "url": "https://open.spotify.com/track/4fobsgzB6v77kwv57KsjNe"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "No Hay Mal Que Dure 100 A\u00f1os",
         "url": "https://open.spotify.com/album/65MAxmxDPkdM3IZQY6ZOco"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 175933,
       "name": "En la Cama T\u00fa y Yo",
       "url": "https://open.spotify.com/track/1iryRHcRPsAVeXBa94zeqx"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "No Lo Compren",
+        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Dale Zorrita",
+      "url": "https://open.spotify.com/track/4fobsgzB6v77kwv57KsjNe"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -2183,6 +2183,26 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
+        "name": "Gordo Rata (En Vivo)",
+        "url": "https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        },
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "duration_ms": 220464,
+      "name": "Gordo Rata - En Vivo",
+      "url": "https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
         "name": "Hola (Remix)",
         "url": "https://open.spotify.com/album/79ZYNjHhMRByHU6xYGYWuI"
       },
@@ -2215,22 +2235,22 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Gordo Rata (En Vivo)",
-        "url": "https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO"
+        "name": "Sin Ayuda",
+        "url": "https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV"
       },
       "artists": [
         {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
         },
         {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+          "name": "Pala Ancha",
+          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
         }
       ],
-      "duration_ms": 220464,
-      "name": "Gordo Rata - En Vivo",
-      "url": "https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy"
+      "duration_ms": 229500,
+      "name": "Sin Ayuda",
+      "url": "https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -2251,22 +2271,18 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Sin Ayuda",
-        "url": "https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV"
+        "name": "Puro Movimiento",
+        "url": "https://open.spotify.com/album/6D53J2Fx7FANdtNngTsWCi"
       },
       "artists": [
         {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
-        },
-        {
-          "name": "Pala Ancha",
-          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
         }
       ],
-      "duration_ms": 229500,
-      "name": "Sin Ayuda",
-      "url": "https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG"
+      "duration_ms": 293041,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/0VK2WShGGSlD8wCD9DSxup"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -2291,22 +2307,6 @@
       "duration_ms": 178591,
       "name": "Una Botella X Tu Amor",
       "url": "https://open.spotify.com/track/5UYTx6v8mOGurOSo7qZnNz"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "Puro Movimiento",
-        "url": "https://open.spotify.com/album/6D53J2Fx7FANdtNngTsWCi"
-      },
-      "artists": [
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        }
-      ],
-      "duration_ms": 293041,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/0VK2WShGGSlD8wCD9DSxup"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -2383,18 +2383,18 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "El Marginal",
-        "url": "https://open.spotify.com/album/58EvYnCxnhrid5sUBLCUW3"
+        "name": "Ritmo Sustancia",
+        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
       },
       "artists": [
         {
-          "name": "Sara Hebe",
-          "url": "https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW"
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
         }
       ],
-      "duration_ms": 189567,
-      "name": "El Marginal",
-      "url": "https://open.spotify.com/track/4SEhmRp9PAp0uS0AlefNWs"
+      "duration_ms": 268720,
+      "name": "Pocos Quedan",
+      "url": "https://open.spotify.com/track/1u2IbfH3dDRURiowHVul46"
     }
   ],
   "unique_name": "Cumbia de Barrio",

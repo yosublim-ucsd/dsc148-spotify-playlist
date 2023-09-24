@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Roosevelt
 
-473 songs - 1 day 8 hr 47 min
+474 songs - 1 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,8 @@
 | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-02-23 | 2023-04-07 |
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2023-09-07 |  |
 | [Shinigami \- Radio Edit](https://open.spotify.com/track/29vrRFHjIR33kKOSiaffGX) | [Kalipo](https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi), [Joy Tyson](https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es) | [Shinigami](https://open.spotify.com/album/3aQkPbrHdemWQVJSQbPOge) | 3:29 | 2023-09-21 |  |
-| [should sleep](https://open.spotify.com/track/0oixdxR51PVtYYnkd09G0Q) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx) | [should sleep](https://open.spotify.com/album/2vIiA0ULu72YnqRDKlrxkI) | 4:29 | 2023-09-14 |  |
+| [should sleep](https://open.spotify.com/track/0oixdxR51PVtYYnkd09G0Q) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx) | [should sleep](https://open.spotify.com/album/2vIiA0ULu72YnqRDKlrxkI) | 4:29 | 2023-09-14 | 2023-09-24 |
+| [should sleep](https://open.spotify.com/track/6zpMH3MUT8qINonUWks3rW) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx) | [should sleep](https://open.spotify.com/album/3h2UC5oK5JXSpzliYZJiY8) | 4:29 | 2023-09-21 |  |
 | [Silly Walk](https://open.spotify.com/track/6wQlfm6qN5ycOoy5WFrHaM) | [Nobodys Face](https://open.spotify.com/artist/2cP7dnZQqfYPoMMdmYQyJl), [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Silly Walk](https://open.spotify.com/album/6Xn6Y3yj1Q2z1LMApgvatr) | 3:21 | 2023-07-20 | 2023-08-18 |
 | [Skipping Like A Stone \(feat\. Beck\)](https://open.spotify.com/track/7JpclywOpe1Vthr9TPdkj2) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Skipping Like A Stone \(feat\. Beck\)](https://open.spotify.com/album/7nWojjbfKGtHyYeA8vsBXa) | 4:43 | 2023-08-24 | 2023-09-22 |
 | [Skipping Like A Stone \(feat\. Beck\) \- Gerd Janson Remix](https://open.spotify.com/track/3qDaCdP9xU4wMoLYJCipyo) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Skipping Like A Stone \(feat\. Beck\) \[Gerd Janson Remix\]](https://open.spotify.com/album/1sTGjuVWoBksS49T9pOp4b) | 3:05 | 2023-09-21 |  |

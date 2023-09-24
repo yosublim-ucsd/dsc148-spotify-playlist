@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Austin Snell
 
-320 songs - 20 hr 2 min
+321 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Six Days On The Road](https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Six Days On The Road](https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX) | 2:53 | 2021-12-10 | 2023-01-06 |
 | [Six Days On The Road](https://open.spotify.com/track/032sAei1X5MdodhFWfTwE2) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [The Ice Road](https://open.spotify.com/album/2gaHEZAkAegkmjJnej9xLS) | 2:50 | 2022-03-11 | 2022-04-20 |
 | [Someone Like You \- Piano Vocal](https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [1979](https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C) | 5:20 | 2021-12-10 |  |
-| [Someone You Loved](https://open.spotify.com/track/2Gd3xovLjWKqPIfQNs3LP0) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Someone You Loved](https://open.spotify.com/album/1z9rgqCPr9UaOxipFCHZN5) | 2:51 | 2021-12-10 |  |
+| [Someone You Loved](https://open.spotify.com/track/2Gd3xovLjWKqPIfQNs3LP0) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Someone You Loved](https://open.spotify.com/album/1z9rgqCPr9UaOxipFCHZN5) | 2:51 | 2021-12-10 | 2023-09-24 |
 | [Something Like That \- Pop Punk Cover](https://open.spotify.com/track/75xmRzTOaSrldjcTcimQdE) | [Alex Melton](https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA), [Ryan Scott Graham](https://open.spotify.com/artist/4goa0eLNaGxDcbhVcG7KM3) | [Something Like That / Secrets](https://open.spotify.com/album/0VtreAEeBIYvfIeSima8Bq) | 3:01 | 2022-03-25 | 2022-04-21 |
 | [Spanish Eyes \(with Willie Nelson\)](https://open.spotify.com/track/7spZfheSLhzlsT9D5lZgkg) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [What A Wonderful World](https://open.spotify.com/album/3hP05skXXuQthotNtFrexa) | 3:33 | 2022-03-25 | 2022-04-19 |
 | [Sparks Fly](https://open.spotify.com/track/5vdvzc4drsamBYXaSF8l5u) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Sparks Fly](https://open.spotify.com/album/4zprx6Kbn9U7ca2JxakMxh) | 4:21 | 2022-03-25 | 2022-07-26 |
@@ -305,6 +305,7 @@
 | [We Just Disagree](https://open.spotify.com/track/3xsYZOaajjyJouOEuKIeo7) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [Certified Hits](https://open.spotify.com/album/61zrzuhdogtVgtLZPATw3L) | 3:26 | 2021-12-10 | 2022-07-29 |
 | [What's Up \(What's Going On\)](https://open.spotify.com/track/5FonXR4yh9PWNbQCHQn5I0) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 3:51 | 2023-01-03 |  |
 | [What's Your Country Song](https://open.spotify.com/track/5S6Fijz2xGd1YSykH6zHWg) | [Charlotte Ave](https://open.spotify.com/artist/2rcT3E2t3e3HYJUOMsG3UX) | [What's Your Country Song](https://open.spotify.com/album/5vpq2EODIUw9aCqlty61kF) | 2:40 | 2022-01-07 | 2022-07-17 |
+| [What’s Up?](https://open.spotify.com/track/7meXWIzJ01VGReBK26gtvw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Perry](https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo) | [What's Up?](https://open.spotify.com/album/74p9zXtOsvboiAi9srfb6l) | 4:38 | 2023-09-22 |  |
 | [When I Was Your Man](https://open.spotify.com/track/2Fv1cWu2Hg2Z4UXsu3fbrx) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Big Machine Undercover](https://open.spotify.com/album/3rWSVlSY22f5XwgMUK2bwf) | 3:46 | 2021-12-10 |  |
 | [When You Say Nothing At All](https://open.spotify.com/track/0zu7EjQ4ij0uVpqp9eGR1J) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Now That I've Found You: A Collection](https://open.spotify.com/album/1yt29znD6KxC2ayfnT1Cqk) | 4:20 | 2021-12-10 | 2022-07-29 |
 | [When You Say Nothing At All](https://open.spotify.com/track/6HveTIMynTMzTc5L0TcS20) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Now That I've Found You: A Collection](https://open.spotify.com/album/32y7QMTFfQC3ZZB3rb2RFs) | 4:20 | 2022-07-08 |  |

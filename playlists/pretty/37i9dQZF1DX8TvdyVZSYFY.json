@@ -1,12 +1,12 @@
 {
   "description": "Big hits from the world of acoustics.",
-  "num_followers": 2070356,
+  "num_followers": 2070502,
   "original_name": "Acoustic Throwbacks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTBlMjBhMGUyNjJjNmIxZTNmMzE3NmUzOTg4NDJmODg2Y2ExM2Ey",
+  "snapshot_id": "MCxjODE4Mzc4ZmQ0YmU0YzExZTliMDU3MjY5OTRlZTRmMTRjMzY2OTJk",
   "tracks": [
     {
       "added_at": "2022-01-10 11:27:44",
@@ -387,18 +387,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+        "name": "Little Talks",
+        "url": "https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Julia Sheer",
+          "url": "https://open.spotify.com/artist/4jHWpUyRI2rzJVimtasEBF"
+        },
+        {
+          "name": "Jon D",
+          "url": "https://open.spotify.com/artist/5HCypjplgh5uQezvBpOfXN"
         }
       ],
-      "duration_ms": 203800,
-      "name": "What Do You Mean? - Acoustic",
-      "url": "https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa"
+      "duration_ms": 219760,
+      "name": "Little Talks",
+      "url": "https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -419,22 +423,18 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Little Talks",
-        "url": "https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM"
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
       "artists": [
         {
-          "name": "Julia Sheer",
-          "url": "https://open.spotify.com/artist/4jHWpUyRI2rzJVimtasEBF"
-        },
-        {
-          "name": "Jon D",
-          "url": "https://open.spotify.com/artist/5HCypjplgh5uQezvBpOfXN"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 219760,
-      "name": "Little Talks",
-      "url": "https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb"
+      "duration_ms": 203800,
+      "name": "What Do You Mean? - Acoustic",
+      "url": "https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "One Call Away (Acoustic + Remixes)",
-        "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "One Call Away - Acoustic",
-      "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "The Village Sessions",
         "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 232706,
       "name": "Slow Dancing in a Burning Room - Acoustic",
       "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "One Call Away (Acoustic + Remixes)",
+        "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "One Call Away - Acoustic",
+      "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "Believe Acoustic",
+        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "As Long As You Love Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/1kN9UiyOSRVCrSc49ft0lp"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "Coco - Summer Sessions",
         "url": "https://open.spotify.com/album/1mTJGBsXbsOO1YuBrnqWpS"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 163913,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/1nnEOnBgHPVpAAZIkFknzv"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
-        "name": "Believe Acoustic",
-        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "As Long As You Love Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/1kN9UiyOSRVCrSc49ft0lp"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "13 Reasons Why (A Netflix Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2OicPkzxga0ybQIdl3kvaa"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 212693,
-      "name": "Kill Em With Kindness - Acoustic",
-      "url": "https://open.spotify.com/track/6pezb9EwyygkHnJqkjLphG"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Strip That Down (Acoustic)",
         "url": "https://open.spotify.com/album/3r0jAzmzY8r6tF1E6lYFr5"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 184475,
       "name": "Strip That Down - Acoustic",
       "url": "https://open.spotify.com/track/1Ddj6nkhUP3lHpLvDqPsvC"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "13 Reasons Why (A Netflix Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2OicPkzxga0ybQIdl3kvaa"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 212693,
+      "name": "Kill Em With Kindness - Acoustic",
+      "url": "https://open.spotify.com/track/6pezb9EwyygkHnJqkjLphG"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Hear The Bells",
-        "url": "https://open.spotify.com/album/4dbG2curXKnkFG8XYEj9eY"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Carlton",
-          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
-        }
-      ],
-      "duration_ms": 278346,
-      "name": "A Thousand Miles - Acoustic",
-      "url": "https://open.spotify.com/track/1YuUPfLPOyvB1QYDKam0tc"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Rockabye (Acoustic)",
         "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 157466,
       "name": "Rockabye - Acoustic Version",
       "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Hear The Bells",
+        "url": "https://open.spotify.com/album/4dbG2curXKnkFG8XYEj9eY"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Carlton",
+          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
+        }
+      ],
+      "duration_ms": 278346,
+      "name": "A Thousand Miles - Acoustic",
+      "url": "https://open.spotify.com/track/1YuUPfLPOyvB1QYDKam0tc"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Please Keep Loving Me (Acoustic)",
-        "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
+        "name": "Between the Bars",
+        "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
       },
       "artists": [
         {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
         }
       ],
-      "duration_ms": 197626,
-      "name": "Please Keep Loving Me - Acoustic",
-      "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
+      "duration_ms": 260053,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Between the Bars",
-        "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
+        "name": "Please Keep Loving Me (Acoustic)",
+        "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
       },
       "artists": [
         {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
         }
       ],
-      "duration_ms": 260053,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
+      "duration_ms": 197626,
+      "name": "Please Keep Loving Me - Acoustic",
+      "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Umbrella (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 178319,
-      "name": "Umbrella - Acoustic Version",
-      "url": "https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 247683,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/5MZYOtR8fcaZoWzweBNdMm"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Umbrella (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 178319,
+      "name": "Umbrella - Acoustic Version",
+      "url": "https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Pretty Girl (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk"
-      },
-      "artists": [
-        {
-          "name": "Becca Adams",
-          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
-        }
-      ],
-      "duration_ms": 180828,
-      "name": "Pretty Girl - Acoustic Version",
-      "url": "https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "#Acoustic",
         "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 183472,
       "name": "Don't Wanna Know - Acoustic Version",
       "url": "https://open.spotify.com/track/4fHJwyR7JILiSAbLyXcrKx"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Pretty Girl (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk"
+      },
+      "artists": [
+        {
+          "name": "Becca Adams",
+          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
+        }
+      ],
+      "duration_ms": 180828,
+      "name": "Pretty Girl - Acoustic Version",
+      "url": "https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -2095,6 +2095,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "Live At AllSaints Studios",
+        "url": "https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Thunder - Live/Acoustic",
+      "url": "https://open.spotify.com/track/2mZrKpdrNUA4oZJWzTunqZ"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "Spotify Sessions London",
         "url": "https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb"
       },
@@ -2123,22 +2139,6 @@
       "duration_ms": 245780,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4JrV4NJ4ChSoxBTEIb0D7F"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
-        "name": "Live At AllSaints Studios",
-        "url": "https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Thunder - Live/Acoustic",
-      "url": "https://open.spotify.com/track/2mZrKpdrNUA4oZJWzTunqZ"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/6LKflEUxLnl1whADVUb8cf"
-      },
-      "artists": [
-        {
-          "name": "Echosmith",
-          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
-        }
-      ],
-      "duration_ms": 201745,
-      "name": "Cool Kids - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "My My My! (Remixes)",
         "url": "https://open.spotify.com/album/08GvuwssKcSX2YrTqITDtN"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 223106,
       "name": "My My My! - Acoustic",
       "url": "https://open.spotify.com/track/2o7aTRkVOAiQSv0CoFUKxk"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/6LKflEUxLnl1whADVUb8cf"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "duration_ms": 201745,
+      "name": "Cool Kids - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -2411,6 +2411,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "We Got You Covered, Vol. 1",
+        "url": "https://open.spotify.com/album/2gYoCL1G2KVMOBZUM0sD4M"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        }
+      ],
+      "duration_ms": 148174,
+      "name": "Can't Stop the Feeling / This Is What You Came For",
+      "url": "https://open.spotify.com/track/5QBsxRm92KS9oUJHAHhkax"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
       },
@@ -2439,22 +2455,6 @@
       "duration_ms": 225106,
       "name": "Wake Me Up - Acoustic",
       "url": "https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
-        "name": "We Got You Covered, Vol. 1",
-        "url": "https://open.spotify.com/album/2gYoCL1G2KVMOBZUM0sD4M"
-      },
-      "artists": [
-        {
-          "name": "Anthem Lights",
-          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
-        }
-      ],
-      "duration_ms": 148174,
-      "name": "Can't Stop the Feeling / This Is What You Came For",
-      "url": "https://open.spotify.com/track/5QBsxRm92KS9oUJHAHhkax"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -2787,6 +2787,26 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "FRIENDS (Acoustic)",
+        "url": "https://open.spotify.com/album/233AbsgzaS416igerB12cS"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 209434,
+      "name": "FRIENDS - Acoustic",
+      "url": "https://open.spotify.com/track/7cWAu4fGyUN2XAET9fuvxR"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "Jagged Little Pill (Acoustic)",
         "url": "https://open.spotify.com/album/0qsuMHaweGJqyC3zIAjo9N"
       },
@@ -2819,26 +2839,6 @@
       "duration_ms": 217864,
       "name": "Fast Car - Acoustic",
       "url": "https://open.spotify.com/track/6pZZ4FUkivhTGlVR8FZXE6"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
-        "name": "FRIENDS (Acoustic)",
-        "url": "https://open.spotify.com/album/233AbsgzaS416igerB12cS"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 209434,
-      "name": "FRIENDS - Acoustic",
-      "url": "https://open.spotify.com/track/7cWAu4fGyUN2XAET9fuvxR"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -2931,26 +2931,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Hey (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
-      },
-      "artists": [
-        {
-          "name": "F\u00c4IS",
-          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 156804,
-      "name": "Hey - Acoustic",
-      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Across A Wire (Live In New York)",
         "url": "https://open.spotify.com/album/1tqB9q7YnXgWekLtO6wggy"
       },
@@ -2979,6 +2959,26 @@
       "duration_ms": 203886,
       "name": "Cold - Acoustic",
       "url": "https://open.spotify.com/track/4ez6DC2iTsT9t48E8Bonrn"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Hey (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
+      },
+      "artists": [
+        {
+          "name": "F\u00c4IS",
+          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 156804,
+      "name": "Hey - Acoustic",
+      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3019,22 +3019,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Passport Home - EP",
-        "url": "https://open.spotify.com/album/3geJ2JihmZE86xCXINxDgx"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 178166,
-      "name": "Passport Home - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/5iZdKYiMnjUetBtqvWA4Mn"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Human Nature",
         "url": "https://open.spotify.com/album/6RSFXvmUQDPhC6YFFOWPIB"
       },
@@ -3047,6 +3031,22 @@
       "duration_ms": 236952,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/6OtBIOTGkUT3ok8YXxs0Wl"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Passport Home - EP",
+        "url": "https://open.spotify.com/album/3geJ2JihmZE86xCXINxDgx"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 178166,
+      "name": "Passport Home - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/5iZdKYiMnjUetBtqvWA4Mn"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3083,22 +3083,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Still Falling For You (Live)",
-        "url": "https://open.spotify.com/album/75gFY0BONpCrfIIlzh1Vi0"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 241283,
-      "name": "Still Falling For You - Live",
-      "url": "https://open.spotify.com/track/26m4W0OdNVDsgDY5relJwj"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "In My Own Words (Deluxe 15th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1"
       },
@@ -3111,6 +3095,22 @@
       "duration_ms": 210866,
       "name": "Sexy Love - Acoustic",
       "url": "https://open.spotify.com/track/6bEFATtkxrq72ExCHZODHF"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Still Falling For You (Live)",
+        "url": "https://open.spotify.com/album/75gFY0BONpCrfIIlzh1Vi0"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 241283,
+      "name": "Still Falling For You - Live",
+      "url": "https://open.spotify.com/track/26m4W0OdNVDsgDY5relJwj"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3211,26 +3211,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Pumped Up Kicks (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5T7d2e1RIlkpU1h8hys6jE"
-      },
-      "artists": [
-        {
-          "name": "Missy & Blonde",
-          "url": "https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh"
-        },
-        {
-          "name": "Julia Ross",
-          "url": "https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu"
-        }
-      ],
-      "duration_ms": 174793,
-      "name": "Pumped Up Kicks",
-      "url": "https://open.spotify.com/track/5Kfbof2USqmBaEgRHd0VTk"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/4KeIxMxenWyNIfusGxKCb7"
       },
@@ -3247,6 +3227,26 @@
       "duration_ms": 201282,
       "name": "Weak - Acoustic",
       "url": "https://open.spotify.com/track/5RvpcF6WipmIipuZbjJkVV"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Pumped Up Kicks (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5T7d2e1RIlkpU1h8hys6jE"
+      },
+      "artists": [
+        {
+          "name": "Missy & Blonde",
+          "url": "https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh"
+        },
+        {
+          "name": "Julia Ross",
+          "url": "https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu"
+        }
+      ],
+      "duration_ms": 174793,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/5Kfbof2USqmBaEgRHd0VTk"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3299,22 +3299,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Don't Speak",
-        "url": "https://open.spotify.com/album/2XYnl9lZPDC1wO2WOKxX7d"
-      },
-      "artists": [
-        {
-          "name": "Zak Manley",
-          "url": "https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2"
-        }
-      ],
-      "duration_ms": 133317,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/53EWpo23oiJ5gvO8KI7JMR"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Sing It With Me (Acoustics)",
         "url": "https://open.spotify.com/album/1XK0ARZ0qqFBLfH1IoA050"
       },
@@ -3331,6 +3315,22 @@
       "duration_ms": 221154,
       "name": "Sing It With Me - Acoustic",
       "url": "https://open.spotify.com/track/5VoAmDgLauPPfUNcVasc6G"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Don't Speak",
+        "url": "https://open.spotify.com/album/2XYnl9lZPDC1wO2WOKxX7d"
+      },
+      "artists": [
+        {
+          "name": "Zak Manley",
+          "url": "https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2"
+        }
+      ],
+      "duration_ms": 133317,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/53EWpo23oiJ5gvO8KI7JMR"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3367,22 +3367,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/2iMnzQdDe5pAQc49l20qmm"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 181406,
-      "name": "Naked - Acoustic",
-      "url": "https://open.spotify.com/track/4XE7tOwOJpWpBF8VdNShBf"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Apologize",
         "url": "https://open.spotify.com/album/0ksnJ7aLLk73HYqEmTTGna"
       },
@@ -3395,6 +3379,22 @@
       "duration_ms": 181596,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/2xHKGx65VCsJgU83Bvh4j7"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2iMnzQdDe5pAQc49l20qmm"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 181406,
+      "name": "Naked - Acoustic",
+      "url": "https://open.spotify.com/track/4XE7tOwOJpWpBF8VdNShBf"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3519,6 +3519,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/327yl27iCBZAr48CauikQb"
+      },
+      "artists": [
+        {
+          "name": "Roses & Frey",
+          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+        }
+      ],
+      "duration_ms": 184915,
+      "name": "For You - Acoustic",
+      "url": "https://open.spotify.com/track/1cZyjXi4MvSVlm0DRevIhc"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "Whoa, Nelly! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0"
       },
@@ -3555,22 +3571,6 @@
       "duration_ms": 197007,
       "name": "Find You - Acoustic - Live In Los Angeles",
       "url": "https://open.spotify.com/track/1CnOUJzM9F5JHUVepMQ2Dt"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/327yl27iCBZAr48CauikQb"
-      },
-      "artists": [
-        {
-          "name": "Roses & Frey",
-          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
-        }
-      ],
-      "duration_ms": 184915,
-      "name": "For You - Acoustic",
-      "url": "https://open.spotify.com/track/1cZyjXi4MvSVlm0DRevIhc"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3639,22 +3639,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/4pANGdgJmTNkQbPgs7Zw4Q"
-      },
-      "artists": [
-        {
-          "name": "Plain Simple",
-          "url": "https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad"
-        }
-      ],
-      "duration_ms": 189738,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/1xFsUSKR7r6B2kOyWjqLHV"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Nobody's Perfect",
         "url": "https://open.spotify.com/album/17OX0eFpormIwzgjFRolkK"
       },
@@ -3667,6 +3651,22 @@
       "duration_ms": 282666,
       "name": "Nobody's Perfect - Acoustic Version",
       "url": "https://open.spotify.com/track/5AHyWDQc3l2yalJVXbL5Yk"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/4pANGdgJmTNkQbPgs7Zw4Q"
+      },
+      "artists": [
+        {
+          "name": "Plain Simple",
+          "url": "https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad"
+        }
+      ],
+      "duration_ms": 189738,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/1xFsUSKR7r6B2kOyWjqLHV"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3787,22 +3787,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/4EljF3hf20ZscDyd8bBB7R"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 197195,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/68ngc4vLwImhAeWHmXKcEI"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "AM Versions",
         "url": "https://open.spotify.com/album/5CCdVEgMxHdXrufmR2cHHN"
       },
@@ -3815,6 +3799,22 @@
       "duration_ms": 272711,
       "name": "Say You Won't Let Go",
       "url": "https://open.spotify.com/track/3P5YMCerK9PIDR8qHdQmdH"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/4EljF3hf20ZscDyd8bBB7R"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 197195,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/68ngc4vLwImhAeWHmXKcEI"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -4087,22 +4087,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Be Mine (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4NHhDZOHQENk2YAMzoND56"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        }
-      ],
-      "duration_ms": 154933,
-      "name": "Be Mine - Acoustic Version",
-      "url": "https://open.spotify.com/track/1fqUqhhPKZehjiKNLkhZks"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Cover Sessions, Vol. 4",
         "url": "https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD"
       },
@@ -4131,6 +4115,22 @@
       "duration_ms": 193200,
       "name": "Growing Pains - Acoustic",
       "url": "https://open.spotify.com/track/47yx240eURgVYhEDLWGcis"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Be Mine (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4NHhDZOHQENk2YAMzoND56"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        }
+      ],
+      "duration_ms": 154933,
+      "name": "Be Mine - Acoustic Version",
+      "url": "https://open.spotify.com/track/1fqUqhhPKZehjiKNLkhZks"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -4335,22 +4335,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "MTV Presents Unplugged: Florence + The Machine (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0wKJlJVLq79jSWHTnsVVq6"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 252506,
-      "name": "Shake It Out - Acoustic",
-      "url": "https://open.spotify.com/track/2nPUkZzM3cHNmXhzk5SOC4"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Ciao Adios (Acoustic)",
         "url": "https://open.spotify.com/album/64cGy2dag6tMuu9keS8dWp"
       },
@@ -4363,6 +4347,22 @@
       "duration_ms": 284601,
       "name": "Ciao Adios - Acoustic",
       "url": "https://open.spotify.com/track/6smhUkQT8kHxF16dkziIcn"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "MTV Presents Unplugged: Florence + The Machine (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0wKJlJVLq79jSWHTnsVVq6"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 252506,
+      "name": "Shake It Out - Acoustic",
+      "url": "https://open.spotify.com/track/2nPUkZzM3cHNmXhzk5SOC4"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -4891,22 +4891,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Sex",
-        "url": "https://open.spotify.com/album/4AGzYnRkjNmzjS58Qkufj9"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 238003,
-      "name": "Chocolate - Acoustic Version",
-      "url": "https://open.spotify.com/track/1TaLP9QdlbZ0s9CQQzDGkI"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Real Life (Acoustic)",
         "url": "https://open.spotify.com/album/31IHRCGs5lvEvDkaDjr3eZ"
       },
@@ -4931,6 +4915,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "Sex",
+        "url": "https://open.spotify.com/album/4AGzYnRkjNmzjS58Qkufj9"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 238003,
+      "name": "Chocolate - Acoustic Version",
+      "url": "https://open.spotify.com/track/1TaLP9QdlbZ0s9CQQzDGkI"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "Kiss the Sky (feat. Wyclef Jean) [Acoustic]",
         "url": "https://open.spotify.com/album/2KIWNOjOmsAb5oYMket4e9"
       },
@@ -4951,22 +4951,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Hangover Hug",
-        "url": "https://open.spotify.com/album/0bQ1ggkiRbGhWgYXNXxqaj"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "If I Lose Myself - Acoustic",
-      "url": "https://open.spotify.com/track/0W3kIk1w1qw0G3zKQsuApH"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Taped Up Heart (feat. Clara Mae) [Acoustic]",
         "url": "https://open.spotify.com/album/4yTzydzF5VR14iw0iAIHdn"
       },
@@ -4983,6 +4967,22 @@
       "duration_ms": 226379,
       "name": "Taped up Heart (feat. Clara Mae) - Acoustic",
       "url": "https://open.spotify.com/track/1JO2oS5Gv04NoUQsR2GtZc"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Hangover Hug",
+        "url": "https://open.spotify.com/album/0bQ1ggkiRbGhWgYXNXxqaj"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "If I Lose Myself - Acoustic",
+      "url": "https://open.spotify.com/track/0W3kIk1w1qw0G3zKQsuApH"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -5055,18 +5055,18 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Spotify Session",
-        "url": "https://open.spotify.com/album/2IV7ZEABJEfaqxuQWlbV48"
+        "name": "Call On Me (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1CKFN0JYtkyPOgEIkIvBz2"
       },
       "artists": [
         {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+          "name": "Starley",
+          "url": "https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV"
         }
       ],
-      "duration_ms": 203949,
-      "name": "The Book of Love - Spotify Session",
-      "url": "https://open.spotify.com/track/54FZgilRgqRRxwIz0tPly6"
+      "duration_ms": 148288,
+      "name": "Call On Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/7eTkIKmFgeb9MQmkTC2jCi"
     }
   ],
   "unique_name": "Acoustic Throwbacks",

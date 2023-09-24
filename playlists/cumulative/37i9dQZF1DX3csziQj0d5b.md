@@ -4,7 +4,7 @@
 
 > Some bops to take the pain of homework away.
 
-566 songs - 1 day 6 hr 47 min
+567 songs - 1 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Exhale](https://open.spotify.com/track/6CagMrZXJUdGGIw6Eaepos) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 2:44 | 2022-04-14 | 2022-07-29 |
 | [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 | 2023-03-24 | 2023-07-01 |
 | [Eyes Closed](https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed \(Piano Version\)](https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW) | 3:14 | 2023-03-24 | 2023-04-14 |
-| [Eyes Off You](https://open.spotify.com/track/0VpEX8ib3wE7u8NOw4szU6) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Phases \- EP](https://open.spotify.com/album/2eiprRNqzj5s3IPLvKsF6z) | 3:24 | 2022-04-14 |  |
+| [Eyes Off You](https://open.spotify.com/track/0VpEX8ib3wE7u8NOw4szU6) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Phases \- EP](https://open.spotify.com/album/2eiprRNqzj5s3IPLvKsF6z) | 3:24 | 2022-04-14 | 2023-09-24 |
 | [F64](https://open.spotify.com/track/5DFi6D7SrYHRIgZbY5MqqE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [F64](https://open.spotify.com/album/5SNPs8Oz8Nmhv0MA6YnJpE) | 3:24 | 2023-01-24 | 2023-03-02 |
 | [Fake](https://open.spotify.com/track/4Gt2kh3QbAGU6yquOWn4aW) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Fake](https://open.spotify.com/album/6pbBHbkfs6i0JzhWjDmvb1) | 2:26 | 2022-04-14 | 2022-07-29 |
 | [fake news](https://open.spotify.com/track/7JmBK5wlbs6Hj8hlQNOQ07) | [sancy j](https://open.spotify.com/artist/3UVxi5LYbngFziA6ots019) | [age of information](https://open.spotify.com/album/2jFDNjAVypQM9FMSOLNOXw) | 1:58 | 2022-04-14 | 2022-04-21 |
@@ -175,6 +175,7 @@
 | [Free](https://open.spotify.com/track/0j9hwC26u5KWY8bf8Ajm4o) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Free](https://open.spotify.com/album/2pBsm9BxIYXOfcdeUXlO3L) | 3:37 | 2022-05-13 | 2022-05-15 |
 | [Free Time](https://open.spotify.com/track/0fNLObXT9pvc3VED0oAevd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:38 | 2022-04-14 | 2022-06-16 |
 | [Friends, Right?](https://open.spotify.com/track/7Hxdp3Pdo8EgE7Qq1sCsHE) | [AMWIN](https://open.spotify.com/artist/4Lj9IwyjADyWsk9eEtQUbY) | [Friends, Right?](https://open.spotify.com/album/2tsIzbMjexsSAMXpkByB9N) | 2:14 | 2022-04-14 | 2022-04-21 |
+| [From The Start](https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 2:49 | 2023-09-15 |  |
 | [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 | 2023-07-25 | 2023-08-05 |
 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:38 | 2022-04-14 | 2023-07-01 |
 | [Getting Over You](https://open.spotify.com/track/2BNkTvg1kHAAfGvqh56x5a) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Getting Over You](https://open.spotify.com/album/3RZDzcVgDoyt1LB5fhnB6x) | 4:15 | 2022-04-14 | 2022-04-21 |

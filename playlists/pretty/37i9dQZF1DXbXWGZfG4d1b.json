@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 19349,
+  "num_followers": 19376,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTVhN2QzYmI4OTEyODgxYzA0ODQ3NTRiYjE2YzgwYWJiNWNjYjY4",
+  "snapshot_id": "MCxlMzI0YWIyMzA3Y2I2NzkzMjQwMTM2NmQxMmQ4ZmRlZjA1ZWZjZWM0",
   "tracks": [
     {
       "added_at": "2023-09-15 03:00:00",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "Azul Es Donde Siempre Estoy",
+        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Protagonista",
+      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "Salir del Confort",
         "url": "https://open.spotify.com/album/2uk2MSf9s40VYEMD3C3CM5"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 196010,
       "name": "Salir del Confort",
       "url": "https://open.spotify.com/track/4ObAtoz13OZ8uN2g5ADVyX"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Azul Es Donde Siempre Estoy",
-        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Protagonista",
-      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -615,18 +615,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/0cZEg5Ydxxr2bea2LRY3tu"
+        "name": "Nos Pasa Lo Mismo",
+        "url": "https://open.spotify.com/album/0S052giv0KheknU0PiEY5C"
       },
       "artists": [
         {
-          "name": "Onda Vaga",
-          "url": "https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ"
+          "name": "Hojas por el Barrio",
+          "url": "https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
         }
       ],
-      "duration_ms": 196751,
-      "name": "Olas Negras",
-      "url": "https://open.spotify.com/track/51JSkV0wKdoFYR8Cn2PBjT"
+      "duration_ms": 181790,
+      "name": "Nos Pasa Lo Mismo",
+      "url": "https://open.spotify.com/track/5gSDKJXKITtPcxnQJ8yNri"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -647,22 +651,18 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Nos Pasa Lo Mismo",
-        "url": "https://open.spotify.com/album/0S052giv0KheknU0PiEY5C"
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/0cZEg5Ydxxr2bea2LRY3tu"
       },
       "artists": [
         {
-          "name": "Hojas por el Barrio",
-          "url": "https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+          "name": "Onda Vaga",
+          "url": "https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ"
         }
       ],
-      "duration_ms": 181790,
-      "name": "Nos Pasa Lo Mismo",
-      "url": "https://open.spotify.com/track/5gSDKJXKITtPcxnQJ8yNri"
+      "duration_ms": 196751,
+      "name": "Olas Negras",
+      "url": "https://open.spotify.com/track/51JSkV0wKdoFYR8Cn2PBjT"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "La Primera Exploracion",
-        "url": "https://open.spotify.com/album/59xOCYVLOGYpUoygJU8ccU"
-      },
-      "artists": [
-        {
-          "name": "Temporada de Tormentas",
-          "url": "https://open.spotify.com/artist/1C78D9fdVfE6A4O09iplw4"
-        }
-      ],
-      "duration_ms": 337560,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/6VKX4w8MblhshBO4GHZlQi"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 170353,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7jUG0DPV7K1r0gHBvF6BFz"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "La Primera Exploracion",
+        "url": "https://open.spotify.com/album/59xOCYVLOGYpUoygJU8ccU"
+      },
+      "artists": [
+        {
+          "name": "Temporada de Tormentas",
+          "url": "https://open.spotify.com/artist/1C78D9fdVfE6A4O09iplw4"
+        }
+      ],
+      "duration_ms": 337560,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/6VKX4w8MblhshBO4GHZlQi"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Ariel",
-        "url": "https://open.spotify.com/album/7eb9kb0GxEUuK8HFuWKIya"
-      },
-      "artists": [
-        {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
-        }
-      ],
-      "duration_ms": 240750,
-      "name": "Ariel",
-      "url": "https://open.spotify.com/track/53cZ2u5osTGHMIkDtSx7KV"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "Cae la noche",
         "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 244144,
       "name": "Cae la noche",
       "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Ariel",
+        "url": "https://open.spotify.com/album/7eb9kb0GxEUuK8HFuWKIya"
+      },
+      "artists": [
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        }
+      ],
+      "duration_ms": 240750,
+      "name": "Ariel",
+      "url": "https://open.spotify.com/track/53cZ2u5osTGHMIkDtSx7KV"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "Bitcha",
+        "url": "https://open.spotify.com/album/1DbD5SRuAb3Hhtwy9WeGpK"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Desbats",
+          "url": "https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP"
+        }
+      ],
+      "duration_ms": 214738,
+      "name": "Bitcha",
+      "url": "https://open.spotify.com/track/66eI95IhQNQqaWEl8y8ExE"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "Savia Roja",
         "url": "https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 153710,
       "name": "Toxi",
       "url": "https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Como Bailan los Dem\u00e1s",
-        "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 243951,
-      "name": "El Im\u00e1n",
-      "url": "https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Bitcha",
-        "url": "https://open.spotify.com/album/1DbD5SRuAb3Hhtwy9WeGpK"
+        "name": "Como Bailan los Dem\u00e1s",
+        "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
       },
       "artists": [
         {
-          "name": "Juli\u00e1n Desbats",
-          "url": "https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP"
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
         }
       ],
-      "duration_ms": 214738,
-      "name": "Bitcha",
-      "url": "https://open.spotify.com/track/66eI95IhQNQqaWEl8y8ExE"
+      "duration_ms": 243951,
+      "name": "El Im\u00e1n",
+      "url": "https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Wandering Rebel",
-        "url": "https://open.spotify.com/album/62UjZaiTdDtv3nbtjTxgj4"
-      },
-      "artists": [
-        {
-          "name": "Juan Wauters",
-          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
-        }
-      ],
-      "duration_ms": 172960,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/1kKfYZ3Mpp4sLdUZsLSHFe"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "La Ciudad Que Dejamos",
         "url": "https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 244952,
       "name": "Hacia los Bosques",
       "url": "https://open.spotify.com/track/3dKFsNU5RbbTx6530zjr7U"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Wandering Rebel",
+        "url": "https://open.spotify.com/album/62UjZaiTdDtv3nbtjTxgj4"
+      },
+      "artists": [
+        {
+          "name": "Juan Wauters",
+          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
+        }
+      ],
+      "duration_ms": 172960,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/1kKfYZ3Mpp4sLdUZsLSHFe"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Recordar/ Volver a pasar",
-        "url": "https://open.spotify.com/album/1QLUvdWhyHNrIN2I3Jc9ZR"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Pien",
-          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
-        }
-      ],
-      "duration_ms": 262500,
-      "name": "San Camilo",
-      "url": "https://open.spotify.com/track/311A2rODtSCuXld6Uyj4TQ"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "El Club Audiovisual",
         "url": "https://open.spotify.com/album/6lQhvKS0pAvBzG54hATdiQ"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 172823,
       "name": "Qu\u00e9 M\u00e1s Puedo Hacer?",
       "url": "https://open.spotify.com/track/3msrD4D95JLz00h5Q9rNHI"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Recordar/ Volver a pasar",
+        "url": "https://open.spotify.com/album/1QLUvdWhyHNrIN2I3Jc9ZR"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Pien",
+          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
+        }
+      ],
+      "duration_ms": 262500,
+      "name": "San Camilo",
+      "url": "https://open.spotify.com/track/311A2rODtSCuXld6Uyj4TQ"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "El Disparo",
+        "url": "https://open.spotify.com/album/6UQDbLG4Ugo3s0RkwKO0pi"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 209241,
+      "name": "El Disparo",
+      "url": "https://open.spotify.com/track/7mTQouRQxzOyV3hsHRKnGu"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "Corriendo",
         "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 166500,
       "name": "La Cena",
       "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "El Disparo",
-        "url": "https://open.spotify.com/album/6UQDbLG4Ugo3s0RkwKO0pi"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 209241,
-      "name": "El Disparo",
-      "url": "https://open.spotify.com/track/7mTQouRQxzOyV3hsHRKnGu"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Una Comedia Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
-      },
-      "artists": [
-        {
-          "name": "Valentin y Los Volcanes",
-          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
-        }
-      ],
-      "duration_ms": 224031,
-      "name": "Son\u00e1mbulos",
-      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "Fantasmas",
         "url": "https://open.spotify.com/album/7z8TypbmxIssYjPmB1yDsc"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 209032,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/161UJ1aTjzHXcI1J9sAV7S"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Una Comedia Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
+      },
+      "artists": [
+        {
+          "name": "Valentin y Los Volcanes",
+          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
+        }
+      ],
+      "duration_ms": 224031,
+      "name": "Son\u00e1mbulos",
+      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "AMORA",
+        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
+      },
+      "artists": [
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        },
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 208822,
+      "name": "AMORA",
+      "url": "https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "Un Secreto",
         "url": "https://open.spotify.com/album/4uxwhFNLUv5vpnrohAmxl7"
       },
@@ -1663,22 +1683,6 @@
       "duration_ms": 172250,
       "name": "Un Secreto",
       "url": "https://open.spotify.com/track/6DpFtcYZwHLh0Lz5WLcCIZ"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "HORA DE IRTE MIXTAPE",
-        "url": "https://open.spotify.com/album/5x1j2CtNYKsIsvYvTsyeTX"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 187874,
-      "name": "NO ME ATRAE",
-      "url": "https://open.spotify.com/track/2AvLjHKuiQYgiuJ299t3NP"
     }
   ],
   "unique_name": "6PM Indie",

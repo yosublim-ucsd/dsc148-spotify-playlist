@@ -1,12 +1,12 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 47096,
+  "num_followers": 47138,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODBlM2E0MmY1YmEwMDAyZTVlYjgyNTUxMGVmMzg3YmQwMTlkOTUw",
+  "snapshot_id": "MCw0YjIxOTFiNGE3ZDQwZGU3YWFlZmI2YmRhN2FkNzYxYTlhYzYyNTU2",
   "tracks": [
     {
       "added_at": "2023-08-18 20:27:37",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
+        "name": "Bolero Mientras Tanto",
+        "url": "https://open.spotify.com/album/4L055vgTYvevOpwOXPTR6Z"
+      },
+      "artists": [
+        {
+          "name": "Las Perlas Negras",
+          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Bolero Mientras Tanto",
+      "url": "https://open.spotify.com/track/0iKHZPDNJBn9o4tPawbjQU"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
         "name": "Toda Esta Gente",
         "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 151250,
       "name": "Toda Esta Gente",
       "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/4mv1g3vawUWCavTnRXf3Mf"
-      },
-      "artists": [
-        {
-          "name": "Las Perlas Negras",
-          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/57QF4UIb5JicadAG6WZRKI"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -607,8 +607,8 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Bolero Mientras Tanto",
-        "url": "https://open.spotify.com/album/4L055vgTYvevOpwOXPTR6Z"
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/4mv1g3vawUWCavTnRXf3Mf"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Bolero Mientras Tanto",
-      "url": "https://open.spotify.com/track/0iKHZPDNJBn9o4tPawbjQU"
+      "duration_ms": 166500,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/57QF4UIb5JicadAG6WZRKI"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
+        "name": "Amor Tumbado",
+        "url": "https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n"
+      },
+      "artists": [
+        {
+          "name": "Francis Nola",
+          "url": "https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah"
+        }
+      ],
+      "duration_ms": 148750,
+      "name": "Amor Tumbado",
+      "url": "https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
         "name": "Llorando Estoy Por Ti",
         "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 149346,
       "name": "La cama de piedra",
       "url": "https://open.spotify.com/track/4k2RPbnJ2YIopAFJ2bwmfo"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
-        "name": "Amor Tumbado",
-        "url": "https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n"
-      },
-      "artists": [
-        {
-          "name": "Francis Nola",
-          "url": "https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah"
-        }
-      ],
-      "duration_ms": 148750,
-      "name": "Amor Tumbado",
-      "url": "https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Mariachi from Mexico",
-        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "Que no quede huella",
-      "url": "https://open.spotify.com/track/1IpS7AlHPQ4B4AXspsGAq3"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
         "name": "The Best of Mexico",
         "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 200893,
       "name": "Quien sera",
       "url": "https://open.spotify.com/track/5IfdlPHLv1VtqupKtAj6Ih"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
+        "name": "Mariachi from Mexico",
+        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "Que no quede huella",
+      "url": "https://open.spotify.com/track/1IpS7AlHPQ4B4AXspsGAq3"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "Moliendo Cafe",
-      "url": "https://open.spotify.com/track/36gjuOicU4G4yDFaorSoBF"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
         "name": "Mariachi Sol: Viva Mexico",
         "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 204146,
       "name": "Cielo Rojo",
       "url": "https://open.spotify.com/track/5saspiZn3XAYBfNBy9iAlN"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
+        "name": "Trio Azteca: Folk Songs and Ballads",
+        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "Moliendo Cafe",
+      "url": "https://open.spotify.com/track/36gjuOicU4G4yDFaorSoBF"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
+        "name": "Un Rinconcito En El Cielo",
+        "url": "https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0"
+      },
+      "artists": [
+        {
+          "name": "M.O.Y.A.",
+          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
+        }
+      ],
+      "duration_ms": 251294,
+      "name": "Un Rinconcito En El Cielo",
+      "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
         "name": "Me La Avente",
         "url": "https://open.spotify.com/album/64ACb5cSpTJU9Kzq3CDDiQ"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 156750,
       "name": "Me La Avente",
       "url": "https://open.spotify.com/track/4BVtzn6TkSJ9lTmh1eK2fg"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
-        "name": "Exitos de Juan Zaizar",
-        "url": "https://open.spotify.com/album/5L5AW3heSexIq7mmccsi65"
-      },
-      "artists": [
-        {
-          "name": "Juan Zaizar",
-          "url": "https://open.spotify.com/artist/73jxdVvynjIPx5Frtin9j1"
-        }
-      ],
-      "duration_ms": 204320,
-      "name": "Cruz de olvido",
-      "url": "https://open.spotify.com/track/2COQMXlLtvjXFl2sWPmn0o"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Un Rinconcito En El Cielo",
-        "url": "https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0"
+        "name": "Exitos de Juan Zaizar",
+        "url": "https://open.spotify.com/album/5L5AW3heSexIq7mmccsi65"
       },
       "artists": [
         {
-          "name": "M.O.Y.A.",
-          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
+          "name": "Juan Zaizar",
+          "url": "https://open.spotify.com/artist/73jxdVvynjIPx5Frtin9j1"
         }
       ],
-      "duration_ms": 251294,
-      "name": "Un Rinconcito En El Cielo",
-      "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
+      "duration_ms": 204320,
+      "name": "Cruz de olvido",
+      "url": "https://open.spotify.com/track/2COQMXlLtvjXFl2sWPmn0o"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1447,6 +1447,22 @@
       "duration_ms": 302093,
       "name": "Cucurrucuc\u00fa paloma",
       "url": "https://open.spotify.com/track/6JFqN2RNAlaHkskkf1wUtE"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0YIQTg5FStD73KRP1UnCI1"
+      },
+      "artists": [
+        {
+          "name": "M.O.Y.A.",
+          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1531,38 +1547,6 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0YIQTg5FStD73KRP1UnCI1"
-      },
-      "artists": [
-        {
-          "name": "M.O.Y.A.",
-          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 183400,
-      "name": "La barca",
-      "url": "https://open.spotify.com/track/2bKWGYLXfunIGqkSbVartz"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
         "name": "Y Todo Para Que",
         "url": "https://open.spotify.com/album/4NZRI46AsgksuR6cCX2vFc"
       },
@@ -1575,22 +1559,6 @@
       "duration_ms": 152372,
       "name": "Y Todo Para Que",
       "url": "https://open.spotify.com/track/1IqZNILZcGQDnEIueNMFgT"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
-        "name": "Recuerdos De Mi Tierra",
-        "url": "https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Premier",
-          "url": "https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea"
-        }
-      ],
-      "duration_ms": 149623,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/1Ph7ahP8j4viFmpXB4Krgj"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1611,22 +1579,34 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Alma Mexicana",
-        "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
+        "name": "Recuerdos De Mi Tierra",
+        "url": "https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe"
       },
       "artists": [
         {
-          "name": "Byron Brizz",
-          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
-        },
-        {
-          "name": "David Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i"
+          "name": "Mariachi Premier",
+          "url": "https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea"
         }
       ],
-      "duration_ms": 145125,
-      "name": "Me Muero Sin Tus Besos",
-      "url": "https://open.spotify.com/track/5A1XB9lNEvGHWNu1hkOpKT"
+      "duration_ms": 149623,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/1Ph7ahP8j4viFmpXB4Krgj"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
+        "name": "Trio Azteca: Folk Songs and Ballads",
+        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 183400,
+      "name": "La barca",
+      "url": "https://open.spotify.com/track/2bKWGYLXfunIGqkSbVartz"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1643,6 +1623,26 @@
       "duration_ms": 249000,
       "name": "Duele",
       "url": "https://open.spotify.com/track/2kyYCNAMtQSTik4L9ps1xH"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
+        "name": "Alma Mexicana",
+        "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
+      },
+      "artists": [
+        {
+          "name": "Byron Brizz",
+          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+        },
+        {
+          "name": "David Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i"
+        }
+      ],
+      "duration_ms": 145125,
+      "name": "Me Muero Sin Tus Besos",
+      "url": "https://open.spotify.com/track/5A1XB9lNEvGHWNu1hkOpKT"
     },
     {
       "added_at": "2023-08-18 20:27:37",

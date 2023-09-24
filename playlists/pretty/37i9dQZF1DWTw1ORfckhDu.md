@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Fabe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,496 likes - 70 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,526 likes - 70 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 69 | [Bella \(feat\. ZUUZ\)](https://open.spotify.com/track/34j24zkVLS2PssMqn1NDef) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Bella \(feat\. ZUUZ\)](https://open.spotify.com/album/2VVGeRFP6NwMsWkVgyJv05) | 2:15 |
 | 70 | [Lotos](https://open.spotify.com/track/50MfoKEnwu06TZh4RGSV5x) | [WIL](https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT) | [Lotos](https://open.spotify.com/album/47fJOAh4neM35NuB79ZJK1) | 2:27 |
 
-Snapshot ID: `MCxhMTk1YjI1YTYxNDMyNzdlOWNiY2NjMDU5YzRhYTkxZWVhNWM5ZjZj`
+Snapshot ID: `MCw5ODVlYzIwYzkxY2JjNTBiNmZkZTUyOTZiYjZkYmQzNTE0MDQxYTYy`

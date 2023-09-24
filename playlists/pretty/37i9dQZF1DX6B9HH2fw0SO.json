@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 53978,
+  "num_followers": 54012,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTZhNjQ0Y2NlOTk3Yjg5MDliNDg2YzYxOTQxMjg1ZjZhYzQ1MTg1",
+  "snapshot_id": "MCw3YzkyYzdlMjRkNmNiZWVmNGJjZDE0ZmIzYWNmMzFlNzVlY2QwM2Zl",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "This Is Home",
-        "url": "https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "This Is Home",
-      "url": "https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 203653,
       "name": "Spirits",
       "url": "https://open.spotify.com/track/1VyiUi0mRnSKgtHa5dBoUd"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "This Is Home",
+        "url": "https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "This Is Home",
+      "url": "https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -799,22 +799,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Strangers to Ourselves",
-        "url": "https://open.spotify.com/album/6iKqPv9C5oU29LR82N8lJf"
-      },
-      "artists": [
-        {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "Lampshades on Fire",
-      "url": "https://open.spotify.com/track/5jJ69cMDMC0aeWPjZo6VP2"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Glitterbug (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 209557,
       "name": "Greek Tragedy",
       "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Strangers to Ourselves",
+        "url": "https://open.spotify.com/album/6iKqPv9C5oU29LR82N8lJf"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 187720,
+      "name": "Lampshades on Fire",
+      "url": "https://open.spotify.com/track/5jJ69cMDMC0aeWPjZo6VP2"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Make Out",
-        "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 231002,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/79XlfHDVYTMeqb2UR3ojEA"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Hold My Home (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0TVRC5LerpnNkti1gWsuW7"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 188106,
       "name": "All This Could Be Yours",
       "url": "https://open.spotify.com/track/1bbcAQuGuAxKS1HM96B8uh"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Make Out",
+        "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 231002,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/79XlfHDVYTMeqb2UR3ojEA"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "How Big, How Blue, How Beautiful (Deluxe)",
-        "url": "https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 293468,
-      "name": "Delilah",
-      "url": "https://open.spotify.com/track/0fgSfUAnuJzzB8l8MdgRZg"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Glitterbug (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 226106,
       "name": "Pink Lemonade",
       "url": "https://open.spotify.com/track/7dFERLugNJZUgtX1V3KA4b"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "How Big, How Blue, How Beautiful (Deluxe)",
+        "url": "https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 293468,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/0fgSfUAnuJzzB8l8MdgRZg"
     },
     {
       "added_at": "2021-09-14 05:14:45",

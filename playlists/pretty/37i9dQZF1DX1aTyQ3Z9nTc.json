@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 128668,
+  "num_followers": 128717,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjk3ODY2M2YzZmIwNmZiOTRhMjgxOTVkMmRjM2FkM2JmNWI0NDI1",
+  "snapshot_id": "MCxhMjRiOWFhZGU1Y2M1NTU0MTM2Y2E3MTdlMTU2ZWQ1ZjIzZjcwY2Vj",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:59",
@@ -581,26 +581,6 @@
       "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "Remember Your North Star",
-        "url": "https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        },
-        {
-          "name": "DJ Nativesun",
-          "url": "https://open.spotify.com/artist/3rdO5iHjXkfY8ZbnQYJBrm"
-        }
-      ],
-      "duration_ms": 125973,
-      "name": "pour up",
-      "url": "https://open.spotify.com/track/0NzTOeYLPLOGFL40dOX3ho"
-    },
-    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Moon Shoes EP",
@@ -619,6 +599,26 @@
       "duration_ms": 217013,
       "name": "Free Room (feat. Appleby)",
       "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "Remember Your North Star",
+        "url": "https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        },
+        {
+          "name": "DJ Nativesun",
+          "url": "https://open.spotify.com/artist/3rdO5iHjXkfY8ZbnQYJBrm"
+        }
+      ],
+      "duration_ms": 125973,
+      "name": "pour up",
+      "url": "https://open.spotify.com/track/0NzTOeYLPLOGFL40dOX3ho"
     },
     {
       "added_at": "2023-04-07 21:25:17",
@@ -1129,20 +1129,20 @@
       "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
+      "added_at": "2023-08-04 15:55:51",
       "album": {
-        "name": "LET IT RAIN",
-        "url": "https://open.spotify.com/album/3JYRLABN6Vnnq7aEb39mZ4"
+        "name": "SOBER",
+        "url": "https://open.spotify.com/album/5nS6v4qdEL2h9lTasRmziy"
       },
       "artists": [
         {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+          "name": "SIPHO.",
+          "url": "https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ"
         }
       ],
-      "duration_ms": 221423,
-      "name": "LET IT RAIN",
-      "url": "https://open.spotify.com/track/0zPiT8nesNRCXKWvK7ryHh"
+      "duration_ms": 155906,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1165,36 +1165,20 @@
       "url": "https://open.spotify.com/track/0KynSPlg3g8OdZq6irgMH2"
     },
     {
-      "added_at": "2023-08-04 15:55:51",
+      "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "SOBER",
-        "url": "https://open.spotify.com/album/5nS6v4qdEL2h9lTasRmziy"
+        "name": "LET IT RAIN",
+        "url": "https://open.spotify.com/album/3JYRLABN6Vnnq7aEb39mZ4"
       },
       "artists": [
         {
-          "name": "SIPHO.",
-          "url": "https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ"
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
         }
       ],
-      "duration_ms": 155906,
-      "name": "SOBER",
-      "url": "https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ"
-    },
-    {
-      "added_at": "2023-08-25 17:07:43",
-      "album": {
-        "name": "UPSIDE DOWN",
-        "url": "https://open.spotify.com/album/435sa84NSMTcIzBeSN178q"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "UPSIDE DOWN",
-      "url": "https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11"
+      "duration_ms": 221423,
+      "name": "LET IT RAIN",
+      "url": "https://open.spotify.com/track/0zPiT8nesNRCXKWvK7ryHh"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -1215,6 +1199,22 @@
       "duration_ms": 247117,
       "name": "HMU for a Good Time",
       "url": "https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ"
+    },
+    {
+      "added_at": "2023-08-25 17:07:43",
+      "album": {
+        "name": "UPSIDE DOWN",
+        "url": "https://open.spotify.com/album/435sa84NSMTcIzBeSN178q"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "UPSIDE DOWN",
+      "url": "https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1257,22 +1257,6 @@
       "url": "https://open.spotify.com/track/3KtJc97wstkCvrRLs10epl"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Simp",
-        "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 151676,
-      "name": "Simp",
-      "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Xtasy (Remix) [feat. Doechii]",
@@ -1291,6 +1275,22 @@
       "duration_ms": 270497,
       "name": "Xtasy (Remix) [feat. Doechii]",
       "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Simp",
+        "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        }
+      ],
+      "duration_ms": 151676,
+      "name": "Simp",
+      "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
     },
     {
       "added_at": "2023-04-07 21:25:17",
@@ -1333,6 +1333,22 @@
       "url": "https://open.spotify.com/track/1g0k1bFcLKyIrdsdUkF3eW"
     },
     {
+      "added_at": "2022-09-23 04:08:19",
+      "album": {
+        "name": "CROSSOVER (Deluxe)",
+        "url": "https://open.spotify.com/album/3blh2LrECEQA15PwechWtO"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 177483,
+      "name": "day to day",
+      "url": "https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1"
+    },
+    {
       "added_at": "2022-08-05 04:16:42",
       "album": {
         "name": "Ce Soir",
@@ -1351,22 +1367,6 @@
       "duration_ms": 162222,
       "name": "Ce Soir",
       "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
-    },
-    {
-      "added_at": "2022-09-23 04:08:19",
-      "album": {
-        "name": "CROSSOVER (Deluxe)",
-        "url": "https://open.spotify.com/album/3blh2LrECEQA15PwechWtO"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 177483,
-      "name": "day to day",
-      "url": "https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1"
     },
     {
       "added_at": "2022-07-29 04:11:59",
@@ -1421,6 +1421,22 @@
       "url": "https://open.spotify.com/track/6V6dHhxQHC935m5HmBEQ7p"
     },
     {
+      "added_at": "2023-08-04 15:55:51",
+      "album": {
+        "name": "BACK 2 U",
+        "url": "https://open.spotify.com/album/7bjYLQ5geSdsztH5roji9w"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 160855,
+      "name": "BACK 2 U",
+      "url": "https://open.spotify.com/track/5xihG1vCTRe0kh1Pdacscb"
+    },
+    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "Hourglass",
@@ -1439,22 +1455,6 @@
       "duration_ms": 174092,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/7udNt8rbaYcuYKaAtkA8qn"
-    },
-    {
-      "added_at": "2023-08-04 15:55:51",
-      "album": {
-        "name": "BACK 2 U",
-        "url": "https://open.spotify.com/album/7bjYLQ5geSdsztH5roji9w"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 160855,
-      "name": "BACK 2 U",
-      "url": "https://open.spotify.com/track/5xihG1vCTRe0kh1Pdacscb"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1617,20 +1617,24 @@
       "url": "https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs"
     },
     {
-      "added_at": "2023-06-30 04:31:23",
+      "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/2UkMebjhDLVDDFGZg2kEPY"
+        "name": "Interstellar.",
+        "url": "https://open.spotify.com/album/09q6uMoetRAZ4ESnPaEM1F"
       },
       "artists": [
         {
-          "name": "Godblesscomputers",
-          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+          "name": "chromonicci",
+          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
         }
       ],
-      "duration_ms": 225937,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK"
+      "duration_ms": 235339,
+      "name": "Interstellar.",
+      "url": "https://open.spotify.com/track/4k9BF0WyAx8l8GaB9oJzyV"
     },
     {
       "added_at": "2023-06-16 06:53:32",
@@ -1653,24 +1657,20 @@
       "url": "https://open.spotify.com/track/37dUHBmNPBtDhoi2HAVrIy"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
+      "added_at": "2023-06-30 04:31:23",
       "album": {
-        "name": "Interstellar.",
-        "url": "https://open.spotify.com/album/09q6uMoetRAZ4ESnPaEM1F"
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/2UkMebjhDLVDDFGZg2kEPY"
       },
       "artists": [
         {
-          "name": "chromonicci",
-          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
         }
       ],
-      "duration_ms": 235339,
-      "name": "Interstellar.",
-      "url": "https://open.spotify.com/track/4k9BF0WyAx8l8GaB9oJzyV"
+      "duration_ms": 225937,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -1845,6 +1845,22 @@
       "url": "https://open.spotify.com/track/329H2EaUO3fnG27NLD6mqn"
     },
     {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "skate depot",
+        "url": "https://open.spotify.com/album/1uSppsOJIQEvV8vhvH9DNt"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 186423,
+      "name": "skate depot",
+      "url": "https://open.spotify.com/track/5L9q6ezwkinZ47fUwj2Jfl"
+    },
+    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "Simple.",
@@ -1875,22 +1891,6 @@
       "duration_ms": 154838,
       "name": "Lover Loaded Fantasy",
       "url": "https://open.spotify.com/track/1I0TJSqkMgFHaS9foB6OJ1"
-    },
-    {
-      "added_at": "2022-05-02 22:05:00",
-      "album": {
-        "name": "skate depot",
-        "url": "https://open.spotify.com/album/1uSppsOJIQEvV8vhvH9DNt"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 186423,
-      "name": "skate depot",
-      "url": "https://open.spotify.com/track/5L9q6ezwkinZ47fUwj2Jfl"
     },
     {
       "added_at": "2023-05-26 04:00:00",

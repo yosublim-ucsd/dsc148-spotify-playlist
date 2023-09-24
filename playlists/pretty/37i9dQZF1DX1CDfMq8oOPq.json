@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Paige",
-  "num_followers": 41199,
+  "num_followers": 41220,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDg3YjQwOGEyZTgxNmU3MzU0ZTc0NWQwZWExNTg5MTFmNGZiMjFl",
+  "snapshot_id": "MCwzOTVkMDE0M2Q0NjI5YzY3MjM3NjU2Y2U2OTgwYzNiMGEyNmViZTA0",
   "tracks": [
     {
       "added_at": "2023-09-22 03:01:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
+        "name": "Licor",
+        "url": "https://open.spotify.com/album/6a9GBHSCTEoyGopwFQOj19"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 257642,
+      "name": "Licor",
+      "url": "https://open.spotify.com/track/3pPudCfrDQWTnMZsYzIs7N"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
         "name": "Hentai",
         "url": "https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 142500,
       "name": "Hentai",
       "url": "https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Licor",
-        "url": "https://open.spotify.com/album/6a9GBHSCTEoyGopwFQOj19"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 257642,
-      "name": "Licor",
-      "url": "https://open.spotify.com/track/3pPudCfrDQWTnMZsYzIs7N"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -683,34 +683,26 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Sempre Vigiando",
-        "url": "https://open.spotify.com/album/5aIaJUTj6LvBjmUPW9AlU0"
+        "name": "RIO",
+        "url": "https://open.spotify.com/album/4cwwqwxjP1VbCDbxAuGWpC"
       },
       "artists": [
         {
-          "name": "Jovem MK",
-          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
         },
         {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+          "name": "Clara Dalua",
+          "url": "https://open.spotify.com/artist/3hiOjOhhsHCbXK9Fv3EmF1"
         },
         {
-          "name": "Laura Sette",
-          "url": "https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc"
-        },
-        {
-          "name": "Fahel",
-          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
-        },
-        {
-          "name": "HERvolution",
-          "url": "https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt"
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
         }
       ],
-      "duration_ms": 175448,
-      "name": "Sempre Vigiando",
-      "url": "https://open.spotify.com/track/3fpp2ctX7J8w2irjjtbDWg"
+      "duration_ms": 133034,
+      "name": "RIO",
+      "url": "https://open.spotify.com/track/31fgfrINtE64CB5rRUTxH6"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -739,26 +731,34 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "RIO",
-        "url": "https://open.spotify.com/album/4cwwqwxjP1VbCDbxAuGWpC"
+        "name": "Sempre Vigiando",
+        "url": "https://open.spotify.com/album/5aIaJUTj6LvBjmUPW9AlU0"
       },
       "artists": [
         {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+          "name": "Jovem MK",
+          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
         },
         {
-          "name": "Clara Dalua",
-          "url": "https://open.spotify.com/artist/3hiOjOhhsHCbXK9Fv3EmF1"
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
         },
         {
-          "name": "2050",
-          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+          "name": "Laura Sette",
+          "url": "https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc"
+        },
+        {
+          "name": "Fahel",
+          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
+        },
+        {
+          "name": "HERvolution",
+          "url": "https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt"
         }
       ],
-      "duration_ms": 133034,
-      "name": "RIO",
-      "url": "https://open.spotify.com/track/31fgfrINtE64CB5rRUTxH6"
+      "duration_ms": 175448,
+      "name": "Sempre Vigiando",
+      "url": "https://open.spotify.com/track/3fpp2ctX7J8w2irjjtbDWg"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -991,38 +991,22 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Refiz uma de Amor",
-        "url": "https://open.spotify.com/album/4gxtiK4zuXpTyh0lTyR5no"
+        "name": "F\u00f4lego",
+        "url": "https://open.spotify.com/album/7naaLUZqJKOQQ393Ox5E6s"
       },
       "artists": [
         {
-          "name": "Karol de Souza",
-          "url": "https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8"
-        }
-      ],
-      "duration_ms": 191993,
-      "name": "Refiz uma de Amor",
-      "url": "https://open.spotify.com/track/7nWDoDGFHg2zn6jXw2IHKJ"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Calcinha da Fendi",
-        "url": "https://open.spotify.com/album/0yNGyMsTEBUWwfYvNYoWHl"
-      },
-      "artists": [
-        {
-          "name": "gabss",
-          "url": "https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E"
+          "name": "Barona",
+          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
         },
         {
-          "name": "Dj Herculano",
-          "url": "https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv"
+          "name": "YORI",
+          "url": "https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E"
         }
       ],
-      "duration_ms": 158714,
-      "name": "Calcinha da Fendi",
-      "url": "https://open.spotify.com/track/4TUAvHTUKyQ1pioT6J5MQ1"
+      "duration_ms": 166756,
+      "name": "F\u00f4lego",
+      "url": "https://open.spotify.com/track/3qaUjRnNnYkRTXywDKwBMm"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -1047,22 +1031,38 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "F\u00f4lego",
-        "url": "https://open.spotify.com/album/7naaLUZqJKOQQ393Ox5E6s"
+        "name": "Calcinha da Fendi",
+        "url": "https://open.spotify.com/album/0yNGyMsTEBUWwfYvNYoWHl"
       },
       "artists": [
         {
-          "name": "Barona",
-          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
+          "name": "gabss",
+          "url": "https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E"
         },
         {
-          "name": "YORI",
-          "url": "https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E"
+          "name": "Dj Herculano",
+          "url": "https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv"
         }
       ],
-      "duration_ms": 166756,
-      "name": "F\u00f4lego",
-      "url": "https://open.spotify.com/track/3qaUjRnNnYkRTXywDKwBMm"
+      "duration_ms": 158714,
+      "name": "Calcinha da Fendi",
+      "url": "https://open.spotify.com/track/4TUAvHTUKyQ1pioT6J5MQ1"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Refiz uma de Amor",
+        "url": "https://open.spotify.com/album/4gxtiK4zuXpTyh0lTyR5no"
+      },
+      "artists": [
+        {
+          "name": "Karol de Souza",
+          "url": "https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8"
+        }
+      ],
+      "duration_ms": 191993,
+      "name": "Refiz uma de Amor",
+      "url": "https://open.spotify.com/track/7nWDoDGFHg2zn6jXw2IHKJ"
     },
     {
       "added_at": "2023-09-22 03:01:00",

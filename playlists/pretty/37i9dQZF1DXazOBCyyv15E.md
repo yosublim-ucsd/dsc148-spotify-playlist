@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Bleachers
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,432 likes - 78 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,467 likes - 78 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 77 | [Alligator](https://open.spotify.com/track/611w5RH6Et8D5hrSqxxib7) | [Gia Ford](https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX) | [Alligator](https://open.spotify.com/album/2XXEJZqcwdc9iZLLmOPJPc) | 3:10 |
 | 78 | [sideline, red wine lover](https://open.spotify.com/track/4tCwtpj5QR1FLpCevAuGx3) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [you, green](https://open.spotify.com/album/3n22PGmZoD2DTEr9AuBws4) | 2:47 |
 
-Snapshot ID: `MCwxMTE2N2I1MDgxOTBjMzYzNzBiOTMwYWM5OTUyNjk2M2VkZWFiNDY5`
+Snapshot ID: `MCw2MzA1MDMxMTA0YWUwZTY3MzIzZGI1NmUyY2JkM2I1ZjI5ZjZmMGUz`

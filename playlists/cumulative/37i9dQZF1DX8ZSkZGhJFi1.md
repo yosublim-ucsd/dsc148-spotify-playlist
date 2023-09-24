@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-584 songs - 23 hr 53 min
+587 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Dunes](https://open.spotify.com/track/535knsjWDnJEFPMwirjpkq) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [INWANE](https://open.spotify.com/album/60b9W4yvLfNCgvNqPqyCmF) | 4:48 | 2022-06-24 | 2023-09-09 |
 | [Dunes](https://open.spotify.com/track/75LxHkNVcAaSXzRXytMF0K) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [Dunes](https://open.spotify.com/album/1hubOUXe6IT6OtNT7f1nje) | 4:48 | 2022-02-17 | 2022-07-29 |
 | [Dusk](https://open.spotify.com/track/2lFTXt6gHlFgqOO8PXtagw) | [Unoriginals](https://open.spotify.com/artist/6LUOePAzkWw3iTrAzfiP1d) | [Dusk](https://open.spotify.com/album/2lM5JgM0TfX6avIjk8JXUr) | 2:56 | 2022-02-17 | 2023-09-09 |
-| [Dusk's Delight](https://open.spotify.com/track/6GpE61U0CCL7k01WyF3DiN) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Dusk's Delight](https://open.spotify.com/album/3da8NaCjNEuTJiVOUlDR3O) | 2:00 | 2023-09-22 |  |
+| [Dusk's Delight](https://open.spotify.com/track/6GpE61U0CCL7k01WyF3DiN) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Dusk's Delight](https://open.spotify.com/album/3da8NaCjNEuTJiVOUlDR3O) | 2:00 | 2023-09-22 | 2023-09-24 |
 | [El Clásico](https://open.spotify.com/track/2R8izDCEhhL9vQSkHZZZLG) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [El Clásico](https://open.spotify.com/album/2rPikPoa8oTq9EWfPUgS6b) | 2:04 | 2023-09-08 |  |
 | [Elastic](https://open.spotify.com/track/2L2aSrua8ZBRMogFhF6I1Q) | [4to28](https://open.spotify.com/artist/0yWkm3SjcPi6xzWv5qCKmM) | [Elastic](https://open.spotify.com/album/4lXR2fC1cbE3mD732vjbdM) | 2:01 | 2023-09-08 |  |
 | [Elevator Vibes](https://open.spotify.com/track/0wIvtei7sFyuvMwG5bRfSo) | [STAY THERE](https://open.spotify.com/artist/169SFNhjiSsCtKYt0APX6r) | [Elevator Vibes](https://open.spotify.com/album/0L2tAWPMwQdUF0fkc6pj8j) | 2:46 | 2023-09-08 |  |
@@ -242,7 +242,7 @@
 | [Jazzy Vibes](https://open.spotify.com/track/1hsGmd0FaHgH5nQYZzWrX2) | [Hanagoori](https://open.spotify.com/artist/2vRSKTF2P233iIMuhkoO2l) | [Jazzy Vibes](https://open.spotify.com/album/1SVTiqLbbKzXGbY99HKnqB) | 1:58 | 2023-09-08 |  |
 | [Journey In](https://open.spotify.com/track/4ir4jAGbMUcLpIfRGI77Ir) | [Freddy Peterson](https://open.spotify.com/artist/1RzMfKmdmXJb7xWw7GPAgt) | [Underwater Cactus](https://open.spotify.com/album/1rFPmXsf0UETLNia2pEfHm) | 1:36 | 2022-02-17 | 2023-09-09 |
 | [Joy of the harp](https://open.spotify.com/track/0LG0YbowzKhQpJ8o3cKwus) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Joy of the harp](https://open.spotify.com/album/33OZiiXN5TCAl3pyGexD6P) | 2:10 | 2023-09-08 |  |
-| [Jump and Run](https://open.spotify.com/track/7MFQThHWQWeBLUrynWMxWh) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk), [KRETEK](https://open.spotify.com/artist/1Xvvf9ExdWJYvtXk2F5rVA) | [Jump and Run](https://open.spotify.com/album/120G1tTg76kYPRDFTVMBAu) | 2:50 | 2023-09-22 |  |
+| [Jump and Run](https://open.spotify.com/track/7MFQThHWQWeBLUrynWMxWh) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk), [KRETEK](https://open.spotify.com/artist/1Xvvf9ExdWJYvtXk2F5rVA) | [Jump and Run](https://open.spotify.com/album/120G1tTg76kYPRDFTVMBAu) | 2:50 | 2023-09-22 | 2023-09-24 |
 | [Just One Of Those Things](https://open.spotify.com/track/0cPgDhXIJMX45AIRCdzYZz) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Just One of Those Things](https://open.spotify.com/album/4ECH1gTcz4Svspd0UrgwCT) | 4:06 | 2023-09-08 |  |
 | [Justified](https://open.spotify.com/track/5B3o3dGWUneZVJovkXP6Gd) | [Sonny TK](https://open.spotify.com/artist/3PQjywXKA1AkREjMitjvLN) | [Justified](https://open.spotify.com/album/1IsoRdugxMdtAHVvM1Ytxn) | 3:04 | 2022-02-17 | 2023-09-09 |
 | [Keen](https://open.spotify.com/track/51Ie5gtGGban5Lff22PCzX) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Jazz Cats](https://open.spotify.com/album/2GgAaiOoYwlpXsEnCLzaNv) | 2:56 | 2023-09-08 |  |
@@ -287,6 +287,7 @@
 | [Luma Beach](https://open.spotify.com/track/4Sn9pCrvAruVFVAIP3rppA) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Luma Beach](https://open.spotify.com/album/7LjazepQBFDepvqeF5UPOR) | 2:40 | 2023-09-08 |  |
 | [Lunaria](https://open.spotify.com/track/2LeB4W3vaR6HB4y6gWpUY9) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Lunaria / Hedera](https://open.spotify.com/album/3zP4M1aTF9givkBPPLNnjq) | 1:33 | 2023-09-08 |  |
 | [Luscious](https://open.spotify.com/track/1Ab68vQtCoAu7KKcqTaE6G) | [Lé Mon](https://open.spotify.com/artist/3U3NnVCyS9UfVmCIHpb7Bo), [No Catch](https://open.spotify.com/artist/73wiYU4PA3rTJ6Bu9clbfS) | [Luscious](https://open.spotify.com/album/0SKdzfxXvINsaKXNpGn83J) | 1:57 | 2023-09-08 |  |
+| [Lush](https://open.spotify.com/track/5pbMjvDEHdFVRkxjNeaUFu) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Lush](https://open.spotify.com/album/1jlHR4iZJzzw25bVjRBG5P) | 2:27 | 2023-09-22 |  |
 | [Mad World](https://open.spotify.com/track/3xwrhWMrYlSv1YkMaOa9KV) | [Rascal](https://open.spotify.com/artist/3fWAVycjEzJH9BxxrfyCDA) | [Mad World](https://open.spotify.com/album/56bhW3j6Ti2w1Drf7qEUXv) | 1:28 | 2023-09-08 |  |
 | [Maharani Ardiga](https://open.spotify.com/track/2jruslhpwLSNiqinVoumWD) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Freefall](https://open.spotify.com/album/1RrbJ0k3FCQIzXUBe51yNf) | 1:35 | 2022-02-17 | 2023-09-09 |
 | [Mangos](https://open.spotify.com/track/19Lkk1hRKKOwE4qTOL36nf) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Mangos](https://open.spotify.com/album/7GISc4x59WUJlbOapq2IHK) | 3:38 | 2023-09-08 |  |
@@ -336,7 +337,7 @@
 | [night bumps](https://open.spotify.com/track/0LTCfhZhU886QSKP9sduPh) | [jag glum](https://open.spotify.com/artist/1KfrvBundzNVB4zlLvuRbN) | [night bumps](https://open.spotify.com/album/6GDq8CtNkCKtStLVVFZBkr) | 2:04 | 2023-09-08 |  |
 | [Night In](https://open.spotify.com/track/3feeyGjoIIVNbzRLTSz7Wm) | [cpacesh1ps](https://open.spotify.com/artist/4BGrCgl16msxL2wmYB8LN7) | [Night In](https://open.spotify.com/album/4y5D2Bb8a4sdLU4IxWRiR7) | 2:11 | 2023-09-08 |  |
 | [Night Session](https://open.spotify.com/track/1zDp1QFkvTuqX8tPoljHyM) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh), [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Night Session](https://open.spotify.com/album/3JzhW3MaqUrJVLKNJIR3dY) | 2:05 | 2023-09-08 |  |
-| [Night Station](https://open.spotify.com/track/4zbhATFqovWqcdjsazCS4E) | [Dani Desh](https://open.spotify.com/artist/1e12CuoLjy5FhIu0hvcLxP) | [Night Station](https://open.spotify.com/album/6qszXu2N6Ct6UaG31kAjYW) | 1:33 | 2023-09-22 |  |
+| [Night Station](https://open.spotify.com/track/4zbhATFqovWqcdjsazCS4E) | [Dani Desh](https://open.spotify.com/artist/1e12CuoLjy5FhIu0hvcLxP) | [Night Station](https://open.spotify.com/album/6qszXu2N6Ct6UaG31kAjYW) | 1:33 | 2023-09-22 | 2023-09-24 |
 | [No Club Nights](https://open.spotify.com/track/3CX9woVxbNze4MJ5EvTJeL) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [No Club Nights](https://open.spotify.com/album/66XlREt4HOxq7C4Z5qT4dI) | 3:49 | 2022-02-17 | 2023-09-09 |
 | [No One Can Love Me Like I Do](https://open.spotify.com/track/3zwjwMgH8AkbaPndKL0Rb0) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [No One Can Love Me Like I Do](https://open.spotify.com/album/4roAGtuRhpXaDTL4gRAbJX) | 2:42 | 2022-02-17 | 2023-09-09 |
 | [Noon](https://open.spotify.com/track/692BbmPcX0H4AuiCSsVGxk) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Noon](https://open.spotify.com/album/6LQNlc436wtwnuK8xr8WNz) | 1:37 | 2023-09-08 |  |
@@ -352,6 +353,7 @@
 | [Omit The Feeble Meat](https://open.spotify.com/track/6MX2R5xvIUf6c6Q9cjoSJN) | [Squirrely Bass](https://open.spotify.com/artist/16szDgocdMVICKd53On8MK) | [Omit The Feeble Meat](https://open.spotify.com/album/1LiXDvjxnxdnnCiw7Xbplf) | 2:41 | 2022-02-17 | 2023-09-09 |
 | [On Golden Pond](https://open.spotify.com/track/0w2qPXThCA5AxbolFra2Ap) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [On Golden Pond](https://open.spotify.com/album/62q6SGct1PhpQ9beHT38zw) | 3:16 | 2023-09-08 |  |
 | [On My Own](https://open.spotify.com/track/2c0vdzZDEULEqPdZkmieXe) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [On My Own](https://open.spotify.com/album/0zFnzQpP0iGMcnyuSfiSzP) | 2:34 | 2023-09-08 |  |
+| [On The Ropes](https://open.spotify.com/track/4sO0G4xNHYN2Z7u710SrdN) | [LOFI FRAN](https://open.spotify.com/artist/79lYlTTaSsCLvanVBtYWf6) | [On The Ropes](https://open.spotify.com/album/3rKkbhXfzpRHPfRLZfxUfN) | 1:24 | 2023-09-22 |  |
 | [One Call Away](https://open.spotify.com/track/2QyqR3aM0QBsgoFBALBVyR) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [One Call Away](https://open.spotify.com/album/3BwfSQ7LGLCkCAREkpcsDP) | 2:28 | 2022-02-17 | 2023-09-09 |
 | [One Minute](https://open.spotify.com/track/1cav5cQVWoCppNXXbg7b5m) | [Ed Mate](https://open.spotify.com/artist/6DJfY1YYdNAMLbd1Aj9ITV) | [One Minute](https://open.spotify.com/album/1dQGXOReBiGGZAwag5ZPyW) | 1:10 | 2023-09-08 | 2023-09-23 |
 | [OneTwo](https://open.spotify.com/track/0BzXb43npjCoedlPHH3W2X) | [Zig Zagger](https://open.spotify.com/artist/2zypz5VQ9xGRQkgZMQmZla) | [OneTwo](https://open.spotify.com/album/2Icm2s5LdBApWfvalmokYn) | 2:54 | 2022-02-17 | 2023-09-09 |
@@ -518,6 +520,7 @@
 | [Theme](https://open.spotify.com/track/6LGzIiVow9pEHzSc7Z2NC5) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Theme](https://open.spotify.com/album/7HWzZzrVY6lIhyoO2V9wL6) | 2:35 | 2022-02-17 | 2023-09-09 |
 | [Three Eleven](https://open.spotify.com/track/6mpdxk6NcSbyKN3YPfVLDt) | [Hologram Life](https://open.spotify.com/artist/556OIgOCzim3VGfOZHWAqx) | [Three Eleven](https://open.spotify.com/album/0hdNNKYeIK7WpnzRqP6ElD) | 4:39 | 2022-02-17 | 2023-09-09 |
 | [Throwing Tomatoes](https://open.spotify.com/track/5YHwUWpLm8Ju2rYvSRV3Ir) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Not sure about this](https://open.spotify.com/album/1PsRH84FYg5KSvFupOsvCT) | 1:39 | 2023-09-08 |  |
+| [Tiger Tales \(of the Concrete Jungle\)](https://open.spotify.com/track/2Jtxx7JTFeEq7vGG5mxgMV) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Tiger Tales \(of the Concrete Jungle\)](https://open.spotify.com/album/6FfMLwzNxswjsR5tlM0YGV) | 3:10 | 2023-09-22 |  |
 | [Tiles](https://open.spotify.com/track/1TZ1wSmpYdSLajpBhlSGx3) | [byJ.](https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws) | [Tiles](https://open.spotify.com/album/2uMxZwF0beMKwgS4M90Dev) | 2:31 | 2023-09-08 |  |
 | [Time And Space](https://open.spotify.com/track/2LAqKH7Fep8GfNJGONTAag) | [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [Time And Space](https://open.spotify.com/album/0g5vm8jQYvi7daN6YsSlUY) | 2:46 | 2023-09-08 | 2023-09-23 |
 | [Time to Face Your Fears](https://open.spotify.com/track/5GdLtWqbQVXKIAwUpXuJcq) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [I'll Leave the Light on for You](https://open.spotify.com/album/1uEqiWIlQBYypx6pZFZ6xL) | 3:07 | 2022-02-17 | 2023-09-09 |

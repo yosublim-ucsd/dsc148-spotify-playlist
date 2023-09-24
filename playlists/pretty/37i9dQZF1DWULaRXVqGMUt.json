@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 42174,
+  "num_followers": 42202,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODI2YmU0ZTc0M2RmMDFhNGJkMmQzMmZhZmQ4ZmY1YWVlM2UzMmNm",
+  "snapshot_id": "MCxhYjFmNGZhYmRkODk1YzllMTFiNzZlZWMwZTk0ZWViNmQ1ZDc5MTA4",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:58",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
+        "name": "Chicago/The Blues/Today!",
+        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann's South Side Piano",
+          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
+        }
+      ],
+      "duration_ms": 141560,
+      "name": "Spann's Stomp",
+      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 218626,
       "name": "Pauly's Birthday Boogie",
       "url": "https://open.spotify.com/track/088NmJPi9Tnn6BKn6xyo9r"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
-        "name": "Chicago/The Blues/Today!",
-        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann's South Side Piano",
-          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
-        }
-      ],
-      "duration_ms": 141560,
-      "name": "Spann's Stomp",
-      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Jumpin' With Joe",
-        "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Roll 'Em Pete",
-      "url": "https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Lost in Boogie",
         "url": "https://open.spotify.com/album/4Uvu9q2bZB69DNWeMNfJNK"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 212453,
       "name": "E-Flat Flyer",
       "url": "https://open.spotify.com/track/6SoGI3M6TKrVsPvdNaNJxG"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Jumpin' With Joe",
+        "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Roll 'Em Pete",
+      "url": "https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -479,30 +479,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
-      },
-      "artists": [
-        {
-          "name": "Ella Mae Morse",
-          "url": "https://open.spotify.com/artist/0qGFARKf4pfodYjZbj5N4v"
-        },
-        {
-          "name": "Freddie Slack And His Orchestra",
-          "url": "https://open.spotify.com/artist/4sDUl3F44oqvU3YQm8HmBw"
-        },
-        {
-          "name": "Don Raye",
-          "url": "https://open.spotify.com/artist/5UpwoPrXTj5b0kLlg8Sn5X"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "The House of Blue Lights",
-      "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "The Lost Paramount Tapes",
         "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
       },
@@ -531,6 +507,30 @@
       "duration_ms": 181093,
       "name": "Blue Lamp",
       "url": "https://open.spotify.com/track/3GPEPvxXoFf5GYZzlulpvz"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
+      },
+      "artists": [
+        {
+          "name": "Ella Mae Morse",
+          "url": "https://open.spotify.com/artist/0qGFARKf4pfodYjZbj5N4v"
+        },
+        {
+          "name": "Freddie Slack And His Orchestra",
+          "url": "https://open.spotify.com/artist/4sDUl3F44oqvU3YQm8HmBw"
+        },
+        {
+          "name": "Don Raye",
+          "url": "https://open.spotify.com/artist/5UpwoPrXTj5b0kLlg8Sn5X"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "The House of Blue Lights",
+      "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
+        "name": "Cincinnati Stomp",
+        "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Duskin",
+          "url": "https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB"
+        }
+      ],
+      "duration_ms": 146066,
+      "name": "Dollar Bill Boogie",
+      "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
         "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
         "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Cincinnati Stomp",
-        "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
+        "name": "No Hats",
+        "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
       },
       "artists": [
         {
-          "name": "Big Joe Duskin",
-          "url": "https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB"
+          "name": "Caroline Dahl",
+          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
         }
       ],
-      "duration_ms": 146066,
-      "name": "Dollar Bill Boogie",
-      "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
+      "duration_ms": 201066,
+      "name": "Caroline's Boogie",
+      "url": "https://open.spotify.com/track/1uAc2LHf9dhj1kyGC8UfkP"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -727,18 +743,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "No Hats",
-        "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
+        "name": "Plays Mac Rebennack",
+        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
       },
       "artists": [
         {
-          "name": "Caroline Dahl",
-          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
         }
       ],
-      "duration_ms": 201066,
-      "name": "Caroline's Boogie",
-      "url": "https://open.spotify.com/track/1uAc2LHf9dhj1kyGC8UfkP"
+      "duration_ms": 238315,
+      "name": "Mac's Boogie",
+      "url": "https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -775,22 +791,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Plays Mac Rebennack",
-        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 238315,
-      "name": "Mac's Boogie",
-      "url": "https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Battin' The Boogie",
         "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 141666,
       "name": "Killer Miller",
       "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
-        "name": "\"Devil Digit Boogie Woogie\"",
-        "url": "https://open.spotify.com/album/3Ex4BUJtFC1CvSqXqdKdYe"
-      },
-      "artists": [
-        {
-          "name": "Caroline Dahl",
-          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "A Boogie Woogie Sunday",
-      "url": "https://open.spotify.com/track/1JJCKBuLVPAU0oeu5aWtSt"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -875,6 +859,22 @@
       "duration_ms": 151261,
       "name": "Swanee River Boogie",
       "url": "https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "\"Devil Digit Boogie Woogie\"",
+        "url": "https://open.spotify.com/album/3Ex4BUJtFC1CvSqXqdKdYe"
+      },
+      "artists": [
+        {
+          "name": "Caroline Dahl",
+          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "A Boogie Woogie Sunday",
+      "url": "https://open.spotify.com/track/1JJCKBuLVPAU0oeu5aWtSt"
     },
     {
       "added_at": "2023-09-15 11:42:58",

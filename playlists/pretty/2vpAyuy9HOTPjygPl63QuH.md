@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,510 likes - 26 songs - 1 hr 29 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,520 likes - 27 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 5 | [When I See It \(feat\. The Vic\)](https://open.spotify.com/track/0ZNO8GpuqnGWSJAzqo3Dso) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [The Vic](https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR) | [When I See It \(feat\. The Vic\)](https://open.spotify.com/album/0fzfB2d2fwXPjqhoKhbME1) | 3:15 |
 | 6 | [Feel The Beat](https://open.spotify.com/track/0kr84X5N2Hboq2xYDi0NdW) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Feel The Beat](https://open.spotify.com/album/3Mv9oGaAlqQHNJW1gzwYEn) | 3:04 |
 | 7 | [Boom](https://open.spotify.com/track/0OkFEj1W0O9lT9vXr1figp) | [Burnski](https://open.spotify.com/artist/4aOxcso0VF2zuORd93J32L) | [Boom](https://open.spotify.com/album/1RNreiF6Hpj84Y2zd1Wa8r) | 5:22 |
-| 8 | [One More Night \- Original Mix](https://open.spotify.com/track/1YNGUtpgns4CiCjvMwPHaZ) | [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW) | [One More Night](https://open.spotify.com/album/6QltyfC8rasBvrtknYg3ox) | 2:11 |
+| 8 | [One More Night](https://open.spotify.com/track/1YNGUtpgns4CiCjvMwPHaZ) | [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW) | [One More Night](https://open.spotify.com/album/6QltyfC8rasBvrtknYg3ox) | 2:11 |
 | 9 | [In Your Mind](https://open.spotify.com/track/1fljgBD0HxUOOtLDQ9WSaM) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [In Your Mind](https://open.spotify.com/album/1lnxNRd7kCfp1AGkVehKCU) | 2:34 |
 | 10 | [Phone \- GENESI Remix](https://open.spotify.com/track/0ZrTSNEbi72x7HsbocY5Qv) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [Phone \(GENESI Remix\)](https://open.spotify.com/album/0GjnbPeC1Q1rtkjYdSDkNS) | 3:14 |
 | 11 | [Mushrooms](https://open.spotify.com/track/15B1cDTWSXF4t3rmALOtyU) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Glasgow KI$$](https://open.spotify.com/artist/7oHXioVOisWBMFEj74TDFB), [Robot Collective](https://open.spotify.com/artist/4t9Q7485yjN60bdXa0dBEp) | [Mushrooms](https://open.spotify.com/album/3kCdR5MEFKLMft8GmAGxD3) | 3:10 |
 | 12 | [Fakez](https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Fakez](https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X) | 4:31 |
 | 13 | [Is It Me](https://open.spotify.com/track/4X4N9Oqw4BMOzZubKscOF1) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Curtiba](https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3), [Haylee Wood](https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR) | [Is It Me](https://open.spotify.com/album/1PwT4vLwRrpzOcJlnogRSf) | 2:32 |
-| 14 | [Love All Night](https://open.spotify.com/track/2OiDl6bWeHjHBXC97Uzuby) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Love All Night](https://open.spotify.com/album/0hBdeY8XlSoOuuZ12rXu3d) | 3:33 |
+| 14 | [Love All Night](https://open.spotify.com/track/2OiDl6bWeHjHBXC97Uzuby) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Love All Night](https://open.spotify.com/album/0hBdeY8XlSoOuuZ12rXu3d) | 3:32 |
 | 15 | [You Make Me](https://open.spotify.com/track/3w7WfiqcMn3o02gp3PmWtT) | [Zurra](https://open.spotify.com/artist/2NqTMxpFwTe8BQlCCeiZPW) | [You Make Me](https://open.spotify.com/album/0jrLsKeDsz5kvOchfEHkRp) | 3:08 |
 | 16 | [One Pill](https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [One Pill](https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio) | 3:37 |
 | 17 | [Breakout](https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Breakout](https://open.spotify.com/album/7yQjA4ww0AJcvas0NJsuIc) | 3:35 |
@@ -34,5 +34,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 24 | [Get Down](https://open.spotify.com/track/3sFkO2PDRIiZhqR0ZtRzuw) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Get Down EP](https://open.spotify.com/album/1GiStB0oGRElP49xAQo2A3) | 5:08 |
 | 25 | [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 |
 | 26 | [Yeah](https://open.spotify.com/track/6OSl6T4krWpPK7qrSStoS1) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Yeah](https://open.spotify.com/album/7h18BePxAaCgbyXVOBPLz8) | 3:33 |
+| 27 | [Elevate](https://open.spotify.com/track/4xoGO5RB7uMa1McZ3ildSK) | [Josh Samuel](https://open.spotify.com/artist/2a9qbB4LyjVFuaCeQBX11A) | [Elevate](https://open.spotify.com/album/5PqvMVRwm9MJUUYiyJr9AQ) | 3:00 |
 
-Snapshot ID: `NzU5Miw5MTNhZThkN2IzNjgzMWJmNmM4OTRmOTFiNjk0M2I0NTQzYzQ0MDM3`
+Snapshot ID: `NzU5MyxkMTBiNzkwYWY0MjQ0ZWYzN2E4YjA3MTk0ZjhmNTk3MzJkYmU3MDli`

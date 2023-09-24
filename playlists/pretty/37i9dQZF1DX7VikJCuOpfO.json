@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Camila Fern\u00e1ndez",
-  "num_followers": 69685,
+  "num_followers": 69736,
   "original_name": "Mariachi 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzdhNjdkOTAzYWNkNjA2YjViOWE3ZTRjMmM5YTVlMjIyZmEyMGI3",
+  "snapshot_id": "MCxmMzJmYWE5NmYyM2E3MGJkNzNkZjdlMTEyNDliY2NhZGNhODlmNmNk",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Ciega Por El",
-        "url": "https://open.spotify.com/album/3DVWC67qQXYuxAC1zWGZg5"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 208461,
-      "name": "Ciega Por El",
-      "url": "https://open.spotify.com/track/0WRIitsjs8BB1klVE6T1R5"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "La Jugada",
         "url": "https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 233066,
       "name": "La Jugada",
       "url": "https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Ciega Por El",
+        "url": "https://open.spotify.com/album/3DVWC67qQXYuxAC1zWGZg5"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 208461,
+      "name": "Ciega Por El",
+      "url": "https://open.spotify.com/track/0WRIitsjs8BB1klVE6T1R5"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "No Lo Pod\u00eda Hacer Mejor",
-        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 178980,
-      "name": "No Lo Pod\u00eda Hacer Mejor",
-      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Peca de Bonita",
         "url": "https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 147093,
       "name": "Peca de Bonita",
       "url": "https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "No Lo Pod\u00eda Hacer Mejor",
+        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 178980,
+      "name": "No Lo Pod\u00eda Hacer Mejor",
+      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1459,22 +1459,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Paloma Blanca",
-        "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6VcNthQXZE5e8dMP44NpIw"
       },
       "artists": [
         {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Mariachi Divas de Cindy Shea",
-          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
         }
       ],
-      "duration_ms": 233373,
-      "name": "Paloma Blanca",
-      "url": "https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ"
+      "duration_ms": 198102,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1uzkk0F8vFqu6RaKZ2dNqA"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1511,18 +1507,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6VcNthQXZE5e8dMP44NpIw"
+        "name": "Paloma Blanca",
+        "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
       },
       "artists": [
         {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Mariachi Divas de Cindy Shea",
+          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
         }
       ],
-      "duration_ms": 198102,
-      "name": "Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1uzkk0F8vFqu6RaKZ2dNqA"
+      "duration_ms": 233373,
+      "name": "Paloma Blanca",
+      "url": "https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Vali\u00f3 La Pena Con Mariachi",
-        "url": "https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Duele Estar Vivo",
-      "url": "https://open.spotify.com/track/2UEWCYISDArkdFAm7QpTk0"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Dej\u00e9moslo As\u00ed",
         "url": "https://open.spotify.com/album/3mNYNFOwyvPHyMTycASoO6"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 180059,
       "name": "Dej\u00e9moslo As\u00ed",
       "url": "https://open.spotify.com/track/2bku6uSoRemC75vR4JoePF"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Vali\u00f3 La Pena Con Mariachi",
+        "url": "https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Duele Estar Vivo",
+      "url": "https://open.spotify.com/track/2UEWCYISDArkdFAm7QpTk0"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Las Rejas No Matan",
-        "url": "https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9"
-      },
-      "artists": [
-        {
-          "name": "Guadalupe Pineda",
-          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Las Rejas No Matan",
-      "url": "https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "El Tenampa",
         "url": "https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 134954,
       "name": "El Tenampa",
       "url": "https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Las Rejas No Matan",
+        "url": "https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9"
+      },
+      "artists": [
+        {
+          "name": "Guadalupe Pineda",
+          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Las Rejas No Matan",
+      "url": "https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm"
     }
   ],
   "unique_name": "Mariachi 2023",

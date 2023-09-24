@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : David Kushner",
-  "num_followers": 229517,
+  "num_followers": 229587,
   "original_name": "Nouveaut\u00e9s Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTUyNWQyNzBmM2JhNjk3ZTFlOWYxOTU1Yzk4ZjBlZDE2MThiYWM0",
+  "snapshot_id": "MCxiYmVmMmQ5YjZiNDliMjkyMzc3NTQzNTcxNzg4ODczNWM2MTkyNGFl",
   "tracks": [
     {
       "added_at": "2023-09-21 22:00:00",
@@ -347,6 +347,22 @@
       "duration_ms": 259167,
       "name": "Daddy\u2019s a Psycho",
       "url": "https://open.spotify.com/track/6jYo2opycXJs1wj2jENEiq"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
     },
     {
       "added_at": "2023-09-21 22:00:00",

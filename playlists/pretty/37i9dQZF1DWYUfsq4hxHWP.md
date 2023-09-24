@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Dylan Gossett, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,833 likes - 165 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,919 likes - 165 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 100 | [All to Yourself](https://open.spotify.com/track/1qHzMKegbX2x2mi9n7mhP1) | [Raquel Cole](https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF) | [All to Yourself](https://open.spotify.com/album/47KkcsloezADjw8jRxqV8O) | 2:57 |
 | 101 | [This Pickup](https://open.spotify.com/track/2Qeqg8LQ6W8PtsMXfdnMJY) | [Wyatt McCubbin](https://open.spotify.com/artist/4HxnSRFjP0vKzW7z21kuPf) | [This Pickup](https://open.spotify.com/album/2nNM3fTB5V4Npz01MDmRHg) | 2:44 |
 | 102 | [Sad Boy](https://open.spotify.com/track/5HXeFxdGYf7E8ozMrkpg16) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Sad Boy](https://open.spotify.com/album/2pq26YS86WKYdOukqRW6jw) | 3:21 |
-| 103 | [Guilty](https://open.spotify.com/track/2igIT0hhkjKogoqKiDp7JW) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Guilty](https://open.spotify.com/album/05DdBX10OZWNY5LoejprU6) | 3:17 |
+| 103 | [Guilty](https://open.spotify.com/track/0sZN4IEXTqXqKMrPYUdpt9) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Guilty](https://open.spotify.com/album/0FJNCv0IHoRqpd1EmIxMNa) | 3:17 |
 | 104 | [Feels Country To Me](https://open.spotify.com/track/7dBmX4wCp5omrUmhQZRsBD) | [Zach McPhee](https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN) | [Feels Country To Me](https://open.spotify.com/album/74IgBLQuYLtL0zvJyhNHgX) | 3:25 |
 | 105 | [Right Back](https://open.spotify.com/track/0bc6d4DAVrVAUHUKxCOJTJ) | [Jenny Tolman](https://open.spotify.com/artist/0XTwuMYVkRCPAe5e5dsxED) | [Right Back](https://open.spotify.com/album/6Ydmk2w5Q3StOphmBhe00X) | 2:59 |
 | 106 | [Love in a Country Town](https://open.spotify.com/track/0CdgXUdmcZ2Tej7Ilv2Hz0) | [Lane Pittman](https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ) | [Love In A Country Town](https://open.spotify.com/album/4l7zygarBRjtJrGaE8w04t) | 3:08 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 164 | [All I Need](https://open.spotify.com/track/0ALoQRB70pKZ7uQJn73ayj) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [All I Need](https://open.spotify.com/album/4gZKOtJnkoalUg98BQONK8) | 2:51 |
 | 165 | [Heart Ain't Gonna Break Itself](https://open.spotify.com/track/7eEgQXDglOtRow46n0bcbh) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0) | [Heart Ain't Gonna Break Itself](https://open.spotify.com/album/2ermdyMMGsZEvXe4tmMZBq) | 2:38 |
 
-Snapshot ID: `MCwxMDIyZTI0MWM1ZjU2NDU4NTlhOThhZDQ2ODg5ZGJkZDM0MGY2Yjc2`
+Snapshot ID: `MCw3YTc1ZWMyYjhhYzZmODYxNWU1Yzk2NzRmYjJhOGNiMDkxZjY1MDk5`

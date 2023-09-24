@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 114091,
+  "num_followers": 114191,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzNiMzQ4ZDc5YWE5NDZhMDc5M2RiYjc0ZWY2NmI3MTkwNGUxYWVk",
+  "snapshot_id": "MCxkZDM3ZTFmNDBjZDFhOGFhYmViMjBmNGY4YTYxZTE4OTA2YmI1ZWNh",
   "tracks": [
     {
       "added_at": "2023-09-15 22:07:17",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-09-15 22:07:17",
       "album": {
+        "name": "Tomado",
+        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "Tomado",
+      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
+    },
+    {
+      "added_at": "2023-09-15 22:07:17",
+      "album": {
         "name": "Balada do Senhor (Remixes)",
         "url": "https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 178663,
       "name": "Balada do Senhor (Slap House Gospel)",
       "url": "https://open.spotify.com/track/6qK8RrdvUSBKWoBjgAqyoV"
-    },
-    {
-      "added_at": "2023-09-15 22:07:17",
-      "album": {
-        "name": "Tomado",
-        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 236792,
-      "name": "Tomado",
-      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
     },
     {
       "added_at": "2023-09-15 22:07:17",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2023-09-15 22:07:17",
       "album": {
+        "name": "Tempo Novo",
+        "url": "https://open.spotify.com/album/5sdUuhHJoS9RyRfYkGWzYJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Alan Nunes",
+          "url": "https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo"
+        },
+        {
+          "name": "Cristo Alegria",
+          "url": "https://open.spotify.com/artist/4qsj59g2x0oYzuOuXagY3J"
+        }
+      ],
+      "duration_ms": 217147,
+      "name": "Tempo Novo",
+      "url": "https://open.spotify.com/track/0IvQFmJgLHW9beiu5mTMvy"
+    },
+    {
+      "added_at": "2023-09-15 22:07:17",
+      "album": {
         "name": "Me Resgatou (Remix)",
         "url": "https://open.spotify.com/album/6TU6bUWANhJ9zpJ3tTApVM"
       },
@@ -1319,26 +1339,6 @@
       "duration_ms": 231948,
       "name": "Me Resgatou - Remix",
       "url": "https://open.spotify.com/track/7Lp0ewXTeZBzflHnhX9mp7"
-    },
-    {
-      "added_at": "2023-09-15 22:07:17",
-      "album": {
-        "name": "Tempo Novo",
-        "url": "https://open.spotify.com/album/5sdUuhHJoS9RyRfYkGWzYJ"
-      },
-      "artists": [
-        {
-          "name": "DJ Alan Nunes",
-          "url": "https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo"
-        },
-        {
-          "name": "Cristo Alegria",
-          "url": "https://open.spotify.com/artist/4qsj59g2x0oYzuOuXagY3J"
-        }
-      ],
-      "duration_ms": 217147,
-      "name": "Tempo Novo",
-      "url": "https://open.spotify.com/track/0IvQFmJgLHW9beiu5mTMvy"
     },
     {
       "added_at": "2023-09-15 22:07:17",

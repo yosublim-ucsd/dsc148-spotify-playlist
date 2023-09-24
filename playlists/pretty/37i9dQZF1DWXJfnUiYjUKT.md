@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,822 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,735 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Weird & Bizarre](https://open.spotify.com/track/46OGrRCC0Y7ZyF0qvXsPNt) | [Posh Chocolates](https://open.spotify.com/artist/3xTWaGPtvulmX73dfT71J1) | [Weird & Bizarre](https://open.spotify.com/album/4fLINYR36a8frZuUoefi6j) | 3:15 |
 | 100 | [Heartbreak Hangover](https://open.spotify.com/track/4nEmjzru7UcuqtXQuCVgBb) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ) | [Heartbreak Hangover](https://open.spotify.com/album/7t7gZelBweppkMgJ1ZabEN) | 2:34 |
 
-Snapshot ID: `MCxlOGZjNDJlYWZhMjAxZGE1YzliNzkyOWQyNDM5NDA1Y2UzZTBkMjY2`
+Snapshot ID: `MCw5NjI1NGNlYjhlZmZlMWQyNjMxMGNkMWVjOWFlMWRkNWJmYjVjOTM3`

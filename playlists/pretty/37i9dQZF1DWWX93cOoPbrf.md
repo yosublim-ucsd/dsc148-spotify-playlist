@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 784,573 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,855 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 2 | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh) | 2:44 |
 | 3 | [El Dos de los Antrax](https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Dos de los Antrax](https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS) | 3:19 |
 | 4 | [Nene Zambada](https://open.spotify.com/track/3IVFOkEMepCHIAGnUjvWJg) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:03 |
-| 5 | [El De La Defender Blanca](https://open.spotify.com/track/1hWwQlh8IX6RroVqPpZmbc) | [Grupo Cartel](https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J) | [El De La Defender Blanca](https://open.spotify.com/album/4B4JQCRfMSBbsnZfGGJ1Xk) | 3:01 |
+| 5 | [El De La Defender Blanca](https://open.spotify.com/track/1hWwQlh8IX6RroVqPpZmbc) | [Grupo Cartel](https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J) | [El De La Defender Blanca](https://open.spotify.com/album/4B4JQCRfMSBbsnZfGGJ1Xk) | 3:02 |
 | 6 | [Negro y Azul](https://open.spotify.com/track/52pCk0elJjXzijwCAFUWO8) | [Triángulo Dorado](https://open.spotify.com/artist/2RiTt3cJ76SzzmhPSBTFLp) | [Negro y Azul](https://open.spotify.com/album/33nrBVp7x5AVWKDG0jPR0P) | 3:30 |
 | 7 | [Malo Es No Hacer Billete](https://open.spotify.com/track/1qokziiqQTfZyXdroK13rP) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Malo Es No Hacer Billete](https://open.spotify.com/album/1cyMKWjSIl6fL1hQg67QIJ) | 2:49 |
 | 8 | [El Justiciero \- En Vivo](https://open.spotify.com/track/34kAodQ7ShXtIVRYLeznzj) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Hybert Daniel](https://open.spotify.com/artist/4XUmhvUbf4A6lrEZtYhjIZ) | [El Justiciero \(En Vivo\)](https://open.spotify.com/album/0Fz4H4i8qYb1bEsn6yTQ8P) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Apenas Es Martes](https://open.spotify.com/track/1RXb99lIyj8RYACt13yg8M) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 3:20 |
 | 75 | [Las Hazañas Del Güerito](https://open.spotify.com/track/0uZGA1nYVzPfDjFZYc8tme) | [Códice](https://open.spotify.com/artist/20p8yriwsdlALnCz2xXLmZ) | [Las Hazañas Del Güerito](https://open.spotify.com/album/3f42mpaRBVm7K2IBzsfL2O) | 2:58 |
 
-Snapshot ID: `MCw1ZDVmOWVhODA5MWVlODM3OWIyOGNiMDZmNThmY2NiZGJhZjlhZWQ2`
+Snapshot ID: `MCxiNTA2NDQzYTc2ZWRhZGYxZDljZjgzNmY3ZDIxOGI2OTUwZDU1M2I5`

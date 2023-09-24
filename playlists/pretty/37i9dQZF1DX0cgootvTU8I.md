@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,539 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,597 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 19 | [Full Train](https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4) | 5:53 |
 | 20 | [JUNGLE TEKNAH](https://open.spotify.com/track/5eStmyvgU3yFAiHn35oPE8) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7frIZAGJytWq2BV7qAcwYU) | 4:01 |
 | 21 | [Good Time](https://open.spotify.com/track/2LVz0jvvdCSwSEYIvcIXqA) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [Good Time](https://open.spotify.com/album/1C9ovUwakv3dr4dMgBJcWg) | 4:37 |
-| 22 | [Biscotti](https://open.spotify.com/track/3PyDt0e29NtPjA7H5Ry532) | [Fracture](https://open.spotify.com/artist/5imJlmURJJk9wicePHiqvo) | [Velocity EP](https://open.spotify.com/album/5eN1lpjJfhwdOXhGB0JGEe) | 4:15 |
+| 22 | [Surfing The Anxiety Waves](https://open.spotify.com/track/6tbQHnuPgy7m4ElWYhr9tP) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Surfing The Anxiety Waves](https://open.spotify.com/album/0XcdWrmdAbRkGuXNKjbEMQ) | 4:03 |
 | 23 | [Untitled Dubplate](https://open.spotify.com/track/4yvT9PAz7bBpNnC1OPIKss) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [At the Controls, Vol\. 2](https://open.spotify.com/album/5lGywtvzhpd7t3iN0kRPok) | 3:52 |
 | 24 | [Daktari](https://open.spotify.com/track/5owmZx9QF53AiqqldvPILj) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Daktari EP](https://open.spotify.com/album/3UyLzpscjnDPCSEBrR7L07) | 5:37 |
-| 25 | [Off the Lorry](https://open.spotify.com/track/0P4iPgEIEDX75wUOXd9qtE) | [Bailey Ibbs](https://open.spotify.com/artist/4eD3dYFqa3RmNZlAlVHFjO) | [Helter Skelter](https://open.spotify.com/album/7yObjiXbEUKeOSL8N2XqOr) | 4:48 |
-| 26 | [Surfing The Anxiety Waves](https://open.spotify.com/track/6tbQHnuPgy7m4ElWYhr9tP) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Surfing The Anxiety Waves](https://open.spotify.com/album/0XcdWrmdAbRkGuXNKjbEMQ) | 4:03 |
+| 25 | [Biscotti](https://open.spotify.com/track/3PyDt0e29NtPjA7H5Ry532) | [Fracture](https://open.spotify.com/artist/5imJlmURJJk9wicePHiqvo) | [Velocity EP](https://open.spotify.com/album/5eN1lpjJfhwdOXhGB0JGEe) | 4:15 |
+| 26 | [Off the Lorry](https://open.spotify.com/track/0P4iPgEIEDX75wUOXd9qtE) | [Bailey Ibbs](https://open.spotify.com/artist/4eD3dYFqa3RmNZlAlVHFjO) | [Helter Skelter](https://open.spotify.com/album/7yObjiXbEUKeOSL8N2XqOr) | 4:48 |
 | 27 | [Poison Dart](https://open.spotify.com/track/0obrmAmV2GVxzIqcSVsvlD) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Poison Dart](https://open.spotify.com/album/4IVVcdv4PghrHBrroHctI1) | 4:29 |
 | 28 | [Ringa Ringa \(The Old Pandemic Folk Song\) \[feat\. Mediaeval Baebes\] \- Breakage Remix](https://open.spotify.com/track/0FVVU7Ok63VQCOrVOefhQW) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Mediæval Bæbes](https://open.spotify.com/artist/1vQmLYgD92RwmsfHqTwjmQ), [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [Ringa Ringa \(The Old Pandemic Folk Song\) \[Breakage Remix\]](https://open.spotify.com/album/1DQbuba1bTaOfSqryD1Q0M) | 3:04 |
 | 29 | [Seen](https://open.spotify.com/track/4YYCOTGjYUTbbegTEzcYaP) | [Settle Down](https://open.spotify.com/artist/37qo0ES6034TySyNPFhmIC) | [The Trip EP](https://open.spotify.com/album/7DpB6Bu2fw1gvZxPz9pYdC) | 4:34 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 45 | [1 Million Breaks](https://open.spotify.com/track/11CNiCDrhdElGjJB53Pxuv) | [AceMoMa](https://open.spotify.com/artist/5igyz9vWH6ban6NMfKeCir), [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX), [MoMa Ready](https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV) | [A Future](https://open.spotify.com/album/0DJkcrqqnMlkHt2ybbz7Qn) | 6:55 |
 | 46 | [Cloud Busting](https://open.spotify.com/track/626yGgf3EhAd2FEYyZljIi) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Cloud Busting / Octopus](https://open.spotify.com/album/5vILT1JDVDMq9SaxaPfRz3) | 6:50 |
 | 47 | [Casca](https://open.spotify.com/track/4Qu41yeeAQ3bCQ4Dd8JUuG) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S), [Tamen](https://open.spotify.com/artist/2HVIdpqXvq82kEqaXzWIc6) | [Casca EP](https://open.spotify.com/album/3M4zL1J2RN7sZrRb4LcG4j) | 5:55 |
-| 48 | [Adventures VIP \- Original](https://open.spotify.com/track/06u7pgGxQfHWs4R3ghIFbN) | [Brayzn](https://open.spotify.com/artist/5QqWJDnxXi4odamUxarOyB) | [Myor Massiv 10](https://open.spotify.com/album/6fizhc0oj1RTUZdVHWWkJV) | 6:32 |
-| 49 | [Memories](https://open.spotify.com/track/4ODFIOLukNMkAP2SQTnuBj) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Memories](https://open.spotify.com/album/3BwiqqO6tBI5j4LoqiHJy6) | 3:15 |
+| 48 | [Yes, Ok?](https://open.spotify.com/track/6TfEn8jq0laP1hN0pw1Clf) | [Beep Tzt](https://open.spotify.com/artist/0OPS6KMivVzxP2moJjMvSS) | [Beep Tzt](https://open.spotify.com/album/3RSLqqDvm5YYXjytf1sMle) | 7:56 |
+| 49 | [Adventures VIP \- Original](https://open.spotify.com/track/06u7pgGxQfHWs4R3ghIFbN) | [Brayzn](https://open.spotify.com/artist/5QqWJDnxXi4odamUxarOyB) | [Myor Massiv 10](https://open.spotify.com/album/6fizhc0oj1RTUZdVHWWkJV) | 6:32 |
 | 50 | [Come With Me](https://open.spotify.com/track/3y6hObDg86mAhr4C7SfmYf) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Cybass](https://open.spotify.com/artist/0qKOvfud2ajAxBCZySk29p) | [Come With Me](https://open.spotify.com/album/7f0bGISHCJJFKYsM6yVNb7) | 4:17 |
 
-Snapshot ID: `MCw5NmI4MDQzOGFlYzQ5OGY5NDYyNjliYmYwZDY2YzkyMDFiMzA1N2Ri`
+Snapshot ID: `MCxmZTU0YTUzNTg2M2FmODUzNDdkZDZhYTE0MmE5MGJjM2U5YzNhMDUw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Kelly Clarkson
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,615 likes - 100 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,682 likes - 100 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 38 | [Emotions \- Live at MTV Unplugged, Kaufman Astoria Studios, New York \- March 1992](https://open.spotify.com/track/5a7ftvz1gh9lbxGmLCCzz1) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [MTV Unplugged EP](https://open.spotify.com/album/0jpGebANqbNNKbWHq2XhEM) | 3:59 |
 | 39 | [I Don't Want to Talk About It \- Live at Newcastle, England, 12/17/1976](https://open.spotify.com/track/1ADpmLJK8WhPEIZM3ZaQTK) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Live 1976 \- 1998: Tonight's the Night](https://open.spotify.com/album/6427BkrSWr5rVBOEWcYILd) | 5:07 |
 | 40 | [Stay With Me \- Live From The Royal Albert Hall](https://open.spotify.com/track/41qam5MCYe9vBnSmX3FeOH) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Gloria \(Special Edition\)](https://open.spotify.com/album/5BNUgsVK7qqfFnV046qHfW) | 4:13 |
-| 41 | [Hurts So Good \- Live From The Studio](https://open.spotify.com/track/4n8FLFUeTBJeY1PlPKwYJ0) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Hurts So Good \(Live From The Studio\)](https://open.spotify.com/album/629SuCWLMZ0BoQDciPUV24) | 3:22 |
-| 42 | [Goodbye My Lover \- Live in Ireland](https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Chasing Time: The Bedlam Sessions](https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF) | 4:48 |
+| 41 | [Goodbye My Lover \- Live in Ireland](https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Chasing Time: The Bedlam Sessions](https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF) | 4:48 |
+| 42 | [Hurts So Good \- Live From The Studio](https://open.spotify.com/track/4n8FLFUeTBJeY1PlPKwYJ0) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Hurts So Good \(Live From The Studio\)](https://open.spotify.com/album/629SuCWLMZ0BoQDciPUV24) | 3:22 |
 | 43 | [My Heart Will Go On \(Live in Quebec City\) \- Live from Quebec City, Canada \- July 2013](https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Céline..\. Une seule fois / Live 2013](https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL) | 6:41 |
 | 44 | [Goodbye Yellow Brick Road \- Live](https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [One Night Only](https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY) | 3:18 |
 | 45 | [Hips Don't Lie \(feat\. Wyclef Jean\) \- Live \- December 2006](https://open.spotify.com/track/52XoFtAGfg9AFuCB4YCcVQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Shakira Oral Fixation Tour \(Live\)](https://open.spotify.com/album/5gqCXGuM57doaWDs6LlccJ) | 7:16 |
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 50 | [Empire State of Mind \(Part II\) Broken Down \- Live at Metropolis Studios, New York, NY \- May 2013](https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Alicia Keys \- VH1 Storytellers](https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9) | 4:18 |
 | 51 | [Latch \- Live From Madison Square Garden](https://open.spotify.com/track/1M6IbIQY2yf9we4LlT2keJ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 8:06 |
 | 52 | [Everything \- Live from Madison Square Garden](https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé Meets Madison Square Garden](https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt) | 3:37 |
-| 53 | [Gimme! Gimme! Gimme! \(A Man After Midnight\) \- Live](https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Live At Wembley Arena](https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo) | 5:34 |
+| 53 | [Back For Good \- Progress Tour Live / 2011](https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Progress Live](https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR) | 5:14 |
 | 54 | [Your Song \- Live At Madison Square Garden](https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton 60 \- Live At Madison Square Garden](https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68) | 4:09 |
 | 55 | [She Wolf \- El Dorado World Tour Live](https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira In Concert: El Dorado World Tour](https://open.spotify.com/album/5EdGgMlsJ7bv8IUqkaaPZN) | 5:40 |
-| 56 | [Back For Good \- Progress Tour Live / 2011](https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Progress Live](https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR) | 5:14 |
+| 56 | [Gimme! Gimme! Gimme! \(A Man After Midnight\) \- Live](https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Live At Wembley Arena](https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo) | 5:34 |
 | 57 | [Sing \- Live and in Session](https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 5:19 |
 | 58 | [Havana \- Live](https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Havana \(Live\)](https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6) | 4:08 |
 | 59 | [Forever Young](https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Stark Naked and Absolutely Live](https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43) | 5:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 99 | [Moves Like Jagger \- Live In Manchester](https://open.spotify.com/track/5TeLifYMYzXQxNmJv0sHLL) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Live music from Concerts](https://open.spotify.com/album/3A7eg1VKPfqLard0TWTH5r) | 4:59 |
 | 100 | [Fastlove \- Live](https://open.spotify.com/track/2cM4093hKmkWTF0Rc5OdJa) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 5:12 |
 
-Snapshot ID: `MCw5MTg2MTYxYzcwYzBhZTE2NmJhMTM2OGY1NThiZTE1NzliMmMyYjdh`
+Snapshot ID: `MCwxM2QxOGI1YzZmZmMwMDdkY2RiMDY0MjQyMTE2OWYxNjczNTg5NWJh`

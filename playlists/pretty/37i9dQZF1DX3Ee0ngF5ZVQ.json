@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Cody Johnson",
-  "num_followers": 418524,
+  "num_followers": 418647,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDBiMzdmZTNjOWFhYmI5YzI5NDY3NmNmZjA3OWM5MjQxZmExOTBi",
+  "snapshot_id": "MCxiNzI5Njk2YzI0OTA0ZGU2NzlkYzdlZTc0NjRjNjIxYzdmZjY3ODVm",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -215,22 +215,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "If You Were Mine",
-        "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
+        "name": "When My Baby\u2019s In Boots",
+        "url": "https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 219882,
-      "name": "If You Were Mine",
-      "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
+      "duration_ms": 182133,
+      "name": "When My Baby\u2019s In Boots",
+      "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -251,18 +247,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "When My Baby\u2019s In Boots",
-        "url": "https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q"
+        "name": "If You Were Mine",
+        "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 182133,
-      "name": "When My Baby\u2019s In Boots",
-      "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"
+      "duration_ms": 219882,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -631,22 +631,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Your Bar Now",
-        "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
+        "name": "Breaking News",
+        "url": "https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li"
       },
       "artists": [
         {
-          "name": "Tyler Halverson",
-          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
-        },
-        {
-          "name": "Kylie Frey",
-          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 214253,
-      "name": "Your Bar Now",
-      "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
+      "duration_ms": 220234,
+      "name": "Breaking News",
+      "url": "https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -667,34 +663,38 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Breaking News",
-        "url": "https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li"
+        "name": "Your Bar Now",
+        "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
       },
       "artists": [
         {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Tyler Halverson",
+          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
+        },
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
         }
       ],
-      "duration_ms": 220234,
-      "name": "Breaking News",
-      "url": "https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v"
+      "duration_ms": 214253,
+      "name": "Your Bar Now",
+      "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
     },
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Turn It Down",
-        "url": "https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4"
+        "name": "Times Are Changing",
+        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
       "artists": [
         {
-          "name": "Grant Gilbert",
-          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
         }
       ],
-      "duration_ms": 192643,
-      "name": "Turn It Down",
-      "url": "https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF"
+      "duration_ms": 219481,
+      "name": "Shines Through",
+      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Times Are Changing",
-        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
+        "name": "Heartfelt",
+        "url": "https://open.spotify.com/album/5sCBCyGbNmMg4PzIg674ge"
       },
       "artists": [
         {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
         }
       ],
-      "duration_ms": 219481,
-      "name": "Shines Through",
-      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+      "duration_ms": 195123,
+      "name": "Heartfelt",
+      "url": "https://open.spotify.com/track/0OGcW962TOINe5X95LeAhl"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Heartfelt",
-        "url": "https://open.spotify.com/album/5sCBCyGbNmMg4PzIg674ge"
+        "name": "Turn It Down",
+        "url": "https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4"
       },
       "artists": [
         {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+          "name": "Grant Gilbert",
+          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
         }
       ],
-      "duration_ms": 195123,
-      "name": "Heartfelt",
-      "url": "https://open.spotify.com/track/0OGcW962TOINe5X95LeAhl"
+      "duration_ms": 192643,
+      "name": "Turn It Down",
+      "url": "https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -899,22 +899,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Pancho and Lefty",
-        "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
+        "name": "How The Hurtin' Goes",
+        "url": "https://open.spotify.com/album/2ncmrKQvRbxIkds4J4o3Ly"
       },
       "artists": [
         {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        },
-        {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+          "name": "Curtis Grimes",
+          "url": "https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP"
         }
       ],
-      "duration_ms": 309510,
-      "name": "Pancho and Lefty",
-      "url": "https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg"
+      "duration_ms": 170896,
+      "name": "How The Hurtin' Goes",
+      "url": "https://open.spotify.com/track/0kx8fHSdEZPDaSommWNjfa"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -935,18 +931,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "How The Hurtin' Goes",
-        "url": "https://open.spotify.com/album/2ncmrKQvRbxIkds4J4o3Ly"
+        "name": "Pancho and Lefty",
+        "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
       },
       "artists": [
         {
-          "name": "Curtis Grimes",
-          "url": "https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP"
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        },
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
         }
       ],
-      "duration_ms": 170896,
-      "name": "How The Hurtin' Goes",
-      "url": "https://open.spotify.com/track/0kx8fHSdEZPDaSommWNjfa"
+      "duration_ms": 309510,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "blood",
-        "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
       },
       "artists": [
         {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
         }
       ],
-      "duration_ms": 298906,
-      "name": "blood",
-      "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1027,22 +1027,6 @@
       "duration_ms": 267040,
       "name": "it won't always be this way",
       "url": "https://open.spotify.com/track/5z7R8So9WwQsMS8IECnH0T"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
-      },
-      "artists": [
-        {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
-        }
-      ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1067,22 +1051,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Nothin\u2019s Changed",
-        "url": "https://open.spotify.com/album/1mfsIkwIlh9UJ851daTUt2"
-      },
-      "artists": [
-        {
-          "name": "Bart Crow",
-          "url": "https://open.spotify.com/artist/0Vdv0pEg0SwdqoEbpP3MJ1"
-        }
-      ],
-      "duration_ms": 182044,
-      "name": "Nothin\u2019s Changed",
-      "url": "https://open.spotify.com/track/55Dy9OWWGmV4QQyU9uqjK1"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Boy From Anderson County",
         "url": "https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid"
       },
@@ -1099,6 +1067,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Nothin\u2019s Changed",
+        "url": "https://open.spotify.com/album/1mfsIkwIlh9UJ851daTUt2"
+      },
+      "artists": [
+        {
+          "name": "Bart Crow",
+          "url": "https://open.spotify.com/artist/0Vdv0pEg0SwdqoEbpP3MJ1"
+        }
+      ],
+      "duration_ms": 182044,
+      "name": "Nothin\u2019s Changed",
+      "url": "https://open.spotify.com/track/55Dy9OWWGmV4QQyU9uqjK1"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "My Heart You'll Tend",
         "url": "https://open.spotify.com/album/1KpJBUETISSfAToyFkBDDA"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 233203,
       "name": "My Heart You'll Tend",
       "url": "https://open.spotify.com/track/3po9LDXpTQyJCPc5O1RUut"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "blood",
+        "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 298906,
+      "name": "blood",
+      "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Hell I Am",
-        "url": "https://open.spotify.com/album/2JS808o99F8IorC0P8DPXj"
-      },
-      "artists": [
-        {
-          "name": "Shawn David",
-          "url": "https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2"
-        }
-      ],
-      "duration_ms": 240098,
-      "name": "Hell I Am",
-      "url": "https://open.spotify.com/track/4WeR5cSR8JJLB81D8Ccmgu"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Fooled Around",
         "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 192125,
       "name": "Fooled Around",
       "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Hell I Am",
+        "url": "https://open.spotify.com/album/2JS808o99F8IorC0P8DPXj"
+      },
+      "artists": [
+        {
+          "name": "Shawn David",
+          "url": "https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2"
+        }
+      ],
+      "duration_ms": 240098,
+      "name": "Hell I Am",
+      "url": "https://open.spotify.com/track/4WeR5cSR8JJLB81D8Ccmgu"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Sound of You Gone",
-        "url": "https://open.spotify.com/album/0WbLRjZ0z3dhov2EU0zjzf"
+        "name": "But Me",
+        "url": "https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1"
       },
       "artists": [
         {
-          "name": "Grace Tyler",
-          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+          "name": "Slade Coulter",
+          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
         }
       ],
-      "duration_ms": 210310,
-      "name": "Sound of You Gone",
-      "url": "https://open.spotify.com/track/1Ezm2kChBPSkNRbeL8zwJV"
+      "duration_ms": 235920,
+      "name": "But Me",
+      "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "But Me",
-        "url": "https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1"
-      },
-      "artists": [
-        {
-          "name": "Slade Coulter",
-          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "But Me",
-      "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Die Runnin'",
         "url": "https://open.spotify.com/album/6cB7PMBtBbBERIL8Aru4S5"
       },
@@ -1491,28 +1475,8 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "9 To 5",
-        "url": "https://open.spotify.com/album/5kicg2H6THrgsSoW3SAA4v"
-      },
-      "artists": [
-        {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
-        },
-        {
-          "name": "Kylie Frey",
-          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
-        }
-      ],
-      "duration_ms": 136358,
-      "name": "9 To 5 (feat. Kylie Frey)",
-      "url": "https://open.spotify.com/track/1fVv9DVpLNiobkGlE1LrtH"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Jesus in a Bar",
-        "url": "https://open.spotify.com/album/7dyXRT0wtewOg9jyKqm4WN"
+        "name": "Sound of You Gone",
+        "url": "https://open.spotify.com/album/0WbLRjZ0z3dhov2EU0zjzf"
       },
       "artists": [
         {
@@ -1520,9 +1484,9 @@
           "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
         }
       ],
-      "duration_ms": 238815,
-      "name": "Jesus in a Bar",
-      "url": "https://open.spotify.com/track/4XBKMHoWOIJMqKol7VhWDk"
+      "duration_ms": 210310,
+      "name": "Sound of You Gone",
+      "url": "https://open.spotify.com/track/1Ezm2kChBPSkNRbeL8zwJV"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1539,6 +1503,22 @@
       "duration_ms": 191777,
       "name": "Happy Hour",
       "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Jesus in a Bar",
+        "url": "https://open.spotify.com/album/7dyXRT0wtewOg9jyKqm4WN"
+      },
+      "artists": [
+        {
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+        }
+      ],
+      "duration_ms": 238815,
+      "name": "Jesus in a Bar",
+      "url": "https://open.spotify.com/track/4XBKMHoWOIJMqKol7VhWDk"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1563,6 +1543,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/1Om7EoqiNsXCCMeiTzC9BZ"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "duration_ms": 208827,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/40TItUSmH99bXtbzp0pl4H"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "What Is It Even?",
         "url": "https://open.spotify.com/album/7pOByvaZQPALod9AwZJi3j"
       },
@@ -1579,18 +1575,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/1Om7EoqiNsXCCMeiTzC9BZ"
+        "name": "9 To 5",
+        "url": "https://open.spotify.com/album/5kicg2H6THrgsSoW3SAA4v"
       },
       "artists": [
         {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        },
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
         }
       ],
-      "duration_ms": 208827,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/40TItUSmH99bXtbzp0pl4H"
+      "duration_ms": 136358,
+      "name": "9 To 5 (feat. Kylie Frey)",
+      "url": "https://open.spotify.com/track/1fVv9DVpLNiobkGlE1LrtH"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1695,22 +1695,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Cheating On A Memory, Chapter 3",
-        "url": "https://open.spotify.com/album/36DYqh63Xt8VWishLELknB"
+        "name": "Bridges To Burn",
+        "url": "https://open.spotify.com/album/1WG4fgaNMXbxbsbjJR1X6G"
       },
       "artists": [
         {
-          "name": "The Lowdown Drifters",
-          "url": "https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG"
-        },
-        {
-          "name": "Taylor Hunnicutt",
-          "url": "https://open.spotify.com/artist/1Pgmihwxrgcm4UOqN8Mzom"
+          "name": "Nick Hickman",
+          "url": "https://open.spotify.com/artist/54dy3kYqGy3V4obgZZP08h"
         }
       ],
-      "duration_ms": 235365,
-      "name": "Bring You Down",
-      "url": "https://open.spotify.com/track/0aI0CjHskW0LhHVSIoNXET"
+      "duration_ms": 190171,
+      "name": "Bridges to Burn",
+      "url": "https://open.spotify.com/track/0wC4KXkDpSPnwmGjp1Wopt"
     }
   ],
   "unique_name": "Texas Country Now",

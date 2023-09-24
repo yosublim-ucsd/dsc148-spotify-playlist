@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-1,327 songs - 3 day 3 hr 47 min
+1,328 songs - 3 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [El Fuego](https://open.spotify.com/track/3ZaVoj8BLT8ig7GLDFwr2A) | [Liam Cox](https://open.spotify.com/artist/3nVgi5QDYGaqV2BSUny5F3) | [El Fuego](https://open.spotify.com/album/6unTFJTfWUxUpJQqNO6rcf) | 3:38 | 2023-09-15 | 2023-09-23 |
 | [El Oh Vee Ee](https://open.spotify.com/track/2qg9rX4JsmSXIsv1aqucm9) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [El Oh Vee Ee](https://open.spotify.com/album/1RSEErTX6MymSpxhNR4PYm) | 3:31 | 2022-06-24 | 2022-07-02 |
 | [El Sueno \- Matt Sassari Edit](https://open.spotify.com/track/6n13UCVXXO0xmod1SKBJZV) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [El Sueno \(Matt Sassari Edit\)](https://open.spotify.com/album/16hOcGE7rr6ExsxDJ03YSl) | 2:35 | 2023-01-06 | 2023-01-14 |
+| [Elevate](https://open.spotify.com/track/4xoGO5RB7uMa1McZ3ildSK) | [Josh Samuel](https://open.spotify.com/artist/2a9qbB4LyjVFuaCeQBX11A) | [Elevate](https://open.spotify.com/album/5PqvMVRwm9MJUUYiyJr9AQ) | 3:00 | 2023-09-23 |  |
 | [Elevate](https://open.spotify.com/track/2BNuVKb6S0kJVOWy5mVbdA) | [ROOSTERJAXX](https://open.spotify.com/artist/5s9BO1SFLuFK7SgVd86h1l), [Kiro Prime](https://open.spotify.com/artist/21WEErBdntViTGBBNIX1Sr) | [Elevate](https://open.spotify.com/album/6FTxuM4ehCttTxvH2jV4w4) | 3:29 | 2022-09-30 | 2022-10-08 |
 | [Elevate](https://open.spotify.com/track/52fxI7EFHD6tmXjenLG0wr) | [TCHDWN](https://open.spotify.com/artist/60niYEUa3Wsf65wvQUy5tw) | [Elevate](https://open.spotify.com/album/2u2qk6yvJKTRwqdvNKoBvV) | 3:54 | 2023-05-05 | 2023-05-13 |
 | [Elevate VIP](https://open.spotify.com/track/05ZOBCIJojCrANSOz7255q) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Elevate VIP](https://open.spotify.com/album/6b5vSI6rAWCgJO4FDJpK4o) | 3:38 | 2023-02-10 | 2023-02-18 |
@@ -685,7 +686,7 @@
 | [Lost Identity](https://open.spotify.com/track/6bqmgDRpq9ulZkrUeCxTW6) | [Luxo](https://open.spotify.com/artist/3ECUg6kTV5tp9vJ2UFNYZ9), [Elternhouse](https://open.spotify.com/artist/2T0Pjvt0kNuyw1nE3s56wj) | [Lost Identity](https://open.spotify.com/album/0MHnC0c5GZEgHsGH0s8knt) | 3:38 | 2022-12-02 | 2022-12-17 |
 | [Loud Tonight](https://open.spotify.com/track/68Hb7cEAoENqIes52urp8Y) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Loud Tonight](https://open.spotify.com/album/4EI9MeXtQkVCIkYDmdFNsy) | 2:55 | 2023-08-04 | 2023-08-12 |
 | [Love Again](https://open.spotify.com/track/4bTuLsz4Fu2S3051kNirdi) | [Frank Nicolas](https://open.spotify.com/artist/6KbB9th6QJ5D7VVupa3Ask), [Maximillian G.](https://open.spotify.com/artist/2pRI7DTwoOZWymKuvvT27D) | [Love Again ep](https://open.spotify.com/album/1wUN4Nx8NQEKDVk8taPqil) | 5:40 | 2022-11-19 | 2022-11-29 |
-| [Love All Night](https://open.spotify.com/track/2OiDl6bWeHjHBXC97Uzuby) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Love All Night](https://open.spotify.com/album/0hBdeY8XlSoOuuZ12rXu3d) | 3:33 | 2023-09-22 |  |
+| [Love All Night](https://open.spotify.com/track/2OiDl6bWeHjHBXC97Uzuby) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Love All Night](https://open.spotify.com/album/0hBdeY8XlSoOuuZ12rXu3d) | 3:32 | 2023-09-22 |  |
 | [Love Finds A Way \- Radio Edit](https://open.spotify.com/track/6FLpYaVGuq1CFgU6sd3iuj) | [David Herrlich](https://open.spotify.com/artist/62k0c1WajfOGpgzjmVHpKj) | [Love Finds A Way \(Radio Edit\)](https://open.spotify.com/album/1B7YW1Y5VSXDdIIagVOSy7) | 2:22 | 2023-01-28 | 2023-02-11 |
 | [Love Me Loco](https://open.spotify.com/track/0vsEfm4TTVrVCQiYcil89k) | [AZETE](https://open.spotify.com/artist/5e6nRKm8reY5xeYhC7efVC) | [Love Me Loco](https://open.spotify.com/album/14OiUNiltQEZGyZQviHNyL) | 3:13 | 2022-10-02 | 2022-10-08 |
 | [Love Songs](https://open.spotify.com/track/6nb57vP4sMYeeU2mfzVgr6) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Love Songs](https://open.spotify.com/album/3s5kOpbjLyG7l7N9Ezg1h0) | 3:08 | 2022-09-30 | 2022-10-08 |
@@ -824,7 +825,7 @@
 | [Once Again](https://open.spotify.com/track/5kaatP5lWXawzDDSTvRWGE) | [Fab Massimo](https://open.spotify.com/artist/6EDKZ3fyIzcualNVjPayM4) | [Once Again](https://open.spotify.com/album/5MNMuP8EQZzh5zVBPgjHFK) | 3:24 | 2022-07-29 | 2022-08-06 |
 | [Once Again](https://open.spotify.com/track/7oJ2XhNFQvF4vjJA9BR4i2) | [LALZIN](https://open.spotify.com/artist/0j4hdmNGBCznlyeFs618eM), [APIX](https://open.spotify.com/artist/0LwYeiqMBiWwxeSwnwmZwt) | [Once Again](https://open.spotify.com/album/77HAIMrwzEVPIsKdYQvDtT) | 3:35 | 2022-10-07 | 2022-10-15 |
 | [One Bad Bitch \(Eleganto Remix\)](https://open.spotify.com/track/33LgnvxTJ9GSGbUl5RHX0i) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Lefris](https://open.spotify.com/artist/3NxCFrrWRg6MVVNiPgPylF), [Sky Sky](https://open.spotify.com/artist/1qHWLwufRLQk2pVywVbBBp), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V) | [Free Moksi Remix Pack, Vol\. 1](https://open.spotify.com/album/5VRCfHoqtoJyQbquRlDMKu) | 3:07 | 2022-09-02 | 2022-09-10 |
-| [One More Night \- Original Mix](https://open.spotify.com/track/1YNGUtpgns4CiCjvMwPHaZ) | [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW) | [One More Night](https://open.spotify.com/album/6QltyfC8rasBvrtknYg3ox) | 2:11 | 2023-09-22 |  |
+| [One More Night](https://open.spotify.com/track/1YNGUtpgns4CiCjvMwPHaZ) | [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW) | [One More Night](https://open.spotify.com/album/6QltyfC8rasBvrtknYg3ox) | 2:11 | 2023-09-22 |  |
 | [One Pill](https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [One Pill](https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio) | 3:37 | 2023-09-22 |  |
 | [One Time](https://open.spotify.com/track/5Sq0xF5p4Wf8Cma4u8RLkp) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [One Time](https://open.spotify.com/album/4fd1UTfFav8SWtQyIcuUIu) | 3:36 | 2023-04-14 | 2023-04-22 |
 | [Only Man](https://open.spotify.com/track/5xg1c2BrE1Ebt9a4xR2LoC) | [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl), [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [Only Man EP](https://open.spotify.com/album/2YnBlnJQS41Klgd146FlML) | 4:01 | 2023-04-07 | 2023-04-15 |

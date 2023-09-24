@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Charles Aznavour
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,926 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,135 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 59 | [Tout L'Amour](https://open.spotify.com/track/3IpN4w5HAStXjJ1PNihtlc) | [Dario Moreno](https://open.spotify.com/artist/39rtUmVAGX9W1e2aXE9YkF) | [Si Tu Vas A Rio](https://open.spotify.com/album/3fuvWRKCCJ5GM9C4DAaQAe) | 1:56 |
 | 60 | [L'eau vive](https://open.spotify.com/track/0eziJsP0e5LCvy0Drk1u4N) | [Guy Béart](https://open.spotify.com/artist/4DfwtuOinoPWTCOLETBkq7) | [Les chansons de Guy Béart](https://open.spotify.com/album/4HJWBPdHKbkVRlPDJLID7B) | 3:00 |
 
-Snapshot ID: `MCxhNzY5ZTQ3ZGNjZjg2NzA2OTA1MzU5NjU2ZDFhMGYzMTA2MzgxN2Zi`
+Snapshot ID: `MCw2ODEyZTg0ZjQ3MzMwZDkyNjM0NzQ1ODI0MjI4ZGI3MDYwOGUwNGRj`

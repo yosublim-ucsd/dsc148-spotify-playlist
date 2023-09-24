@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: The National
 
-1,178 songs - 2 day 23 hr 4 min
+1,179 songs - 2 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,7 +575,8 @@
 | [Life 4 You](https://open.spotify.com/track/4QgmBsLjmbrSPdkduDXutZ) | [Jiwhan Kim](https://open.spotify.com/artist/5iuodxEu3skXjt8pTbImO1), [Minjeong](https://open.spotify.com/artist/61tWd17tvt3qHk7PlrTVpv) | [Life 4 You](https://open.spotify.com/album/0y8AqUHFyZX5e8A0qBKKAh) | 2:55 | 2022-03-31 | 2022-05-27 |
 | [Life of the Lovers](https://open.spotify.com/track/6MhzQJruXlaJA1b9KO188o) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [Life of the Lovers](https://open.spotify.com/album/4esHEpO4KBAQ511nWQZgtt) | 4:10 | 2023-02-17 | 2023-04-09 |
 | [Lifetime](https://open.spotify.com/track/0jVRZSyLXC48J2G66b12Ms) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Lifetime](https://open.spotify.com/album/6PvL70jTGrQAekjocgG620) | 5:06 | 2023-09-22 |  |
-| [Like It Was Meant To Be](https://open.spotify.com/track/7cz4iZepf9e5Mxj4t5rYeB) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Like It Was Meant To Be](https://open.spotify.com/album/6CZCQsfxNLLWURl0LicSnI) | 3:29 | 2023-08-11 |  |
+| [Like It Was Meant To Be](https://open.spotify.com/track/72GB7Yf1lIstTjcD7eQAju) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:29 | 2023-09-22 |  |
+| [Like It Was Meant To Be](https://open.spotify.com/track/7cz4iZepf9e5Mxj4t5rYeB) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Like It Was Meant To Be](https://open.spotify.com/album/6CZCQsfxNLLWURl0LicSnI) | 3:29 | 2023-08-11 | 2023-09-24 |
 | [Little Balcony](https://open.spotify.com/track/2DvYI7HNzX3n9Ng20PBBQM) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Little Balcony](https://open.spotify.com/album/75zUQz0Ak8fUlhreq72tor) | 3:15 | 2022-07-15 | 2022-08-05 |
 | [Little Balcony](https://open.spotify.com/track/0ALdUxWVaIDeuPjP78hgIe) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Little Balcony](https://open.spotify.com/album/75zUQz0Ak8fUlhreq72tor) | 2:34 | 2022-07-15 | 2022-09-23 |
 | [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/track/7imJEoNqRJL4n8OQEChzWG) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/album/4JShuZ6qkG6qk6yUVQHVM2) | 2:40 | 2022-01-13 | 2022-01-21 |
@@ -631,7 +632,7 @@
 | [Mayflower](https://open.spotify.com/track/4dkUIKRDVbl3Btd0020IRt) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Mayflower](https://open.spotify.com/album/2uSoNhTaQQsPV9PXIuxOeQ) | 4:09 | 2022-09-09 | 2022-10-15 |
 | [Mayflower](https://open.spotify.com/track/4uU5ALeQE7LN8rsv5IdVCW) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 4:09 | 2022-10-13 | 2023-02-04 |
 | [Me & Me](https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Me & Me](https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi) | 2:27 | 2023-07-21 | 2023-08-19 |
-| [MEGUANXIDEYO](https://open.spotify.com/track/4RDEVasHPf6KH7yTCjpL47) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [MEGUANXIDEYO](https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu) | 3:40 | 2023-09-22 |  |
+| [MEIGUANXIDEYO](https://open.spotify.com/track/4RDEVasHPf6KH7yTCjpL47) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [MEIGUANXIDEYO](https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu) | 3:40 | 2023-09-22 |  |
 | [MEMORY](https://open.spotify.com/track/1SAJZUMIg3tDCMpCVYd9Gm) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [MEMORY b/w COUNTY LINES](https://open.spotify.com/album/3vdGdBTdwToZ7u3KAYgMyw) | 3:53 | 2022-08-26 | 2022-09-29 |
 | [MEMORY](https://open.spotify.com/track/5smrq8X3uBuyy5nzREKnJV) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 3:53 | 2022-09-22 | 2023-02-04 |
 | [MENTHOL\*](https://open.spotify.com/track/2nMTBUdxkdCZWo7n3upy1e) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [MENTHOL\*](https://open.spotify.com/album/1KTVkY7i6Ry8QMtPTBzYOf) | 3:07 | 2021-12-16 | 2022-02-11 |

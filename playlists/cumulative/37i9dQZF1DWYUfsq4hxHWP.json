@@ -12040,6 +12040,24 @@
     {
       "album": {
         "name": "Guilty",
+        "url": "https://open.spotify.com/album/0FJNCv0IHoRqpd1EmIxMNa"
+      },
+      "artists": [
+        {
+          "name": "Harper O'Neill",
+          "url": "https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197308,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/0sZN4IEXTqXqKMrPYUdpt9"
+    },
+    {
+      "album": {
+        "name": "Guilty",
         "url": "https://open.spotify.com/album/05DdBX10OZWNY5LoejprU6"
       },
       "artists": [
@@ -12050,7 +12068,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 197308,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/2igIT0hhkjKogoqKiDp7JW"

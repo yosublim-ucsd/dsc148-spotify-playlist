@@ -352,7 +352,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 444630,
       "name": "I Stand Amazed (Live)",
       "url": "https://open.spotify.com/track/0544EK1JJF4rBb2DREyn26"
@@ -515,6 +515,28 @@
     },
     {
       "album": {
+        "name": "Jesus Oh",
+        "url": "https://open.spotify.com/album/62srZNS6dHIfKMjU1CHxNL"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255384,
+      "name": "Jesus Oh",
+      "url": "https://open.spotify.com/track/6xEE5orPvEG63CHH8WosnD"
+    },
+    {
+      "album": {
         "name": "Life and Worship Chapter 1",
         "url": "https://open.spotify.com/album/09CZxo7F03KAMVuGwKQz9X"
       },
@@ -526,7 +548,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 257645,
       "name": "Kabi O Osi O",
       "url": "https://open.spotify.com/track/7wvd86p1SSGKhb6iLRMCG2"
@@ -602,7 +624,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 455206,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/79GIdsRB1B2nQ8RIWVpG1I"

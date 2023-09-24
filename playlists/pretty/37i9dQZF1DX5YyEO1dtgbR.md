@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 
 > Experimental electronic beyond the borders of tradition.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,224 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,240 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 | 52 | [Danza De Los Voladores](https://open.spotify.com/track/1r9R3iy3SjeFXlDgeuxzo8) | [Marco Shuttle](https://open.spotify.com/artist/2DqPerh6whhlts8Pb0BUJi) | [Cobalt Desert Oasis](https://open.spotify.com/album/5CF51zMpCiEKUReRLJyoDb) | 4:47 |
 | 53 | [Ritual](https://open.spotify.com/track/1fiLAzFX7J5cfsOqe5Hm3U) | [Arthur Hnatek](https://open.spotify.com/artist/7iKMlMMzSb9jVQDwygYlOT), [Taut](https://open.spotify.com/artist/414TcEcyOyBiJu8cRdKrxE) | [Ritual](https://open.spotify.com/album/3CJw1Ly9KaVZyZQCcLmump) | 4:27 |
 | 54 | [Dreaming Of A Better Place](https://open.spotify.com/track/72QkLvjQpIhPrmmaR4KjjY) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Dreaming Of A Better Place](https://open.spotify.com/album/5gcWBRhHDFlTwrDzaIDivg) | 5:05 |
-| 55 | [Shimmer and Glimmer](https://open.spotify.com/track/4ij6tfkN13bt1jfWGWXg9S) | [Chants](https://open.spotify.com/artist/1bboGoBc0rr3oXFdFlAjSC) | [Poly Pointillism](https://open.spotify.com/album/66zkrppo8OPQq9kMhxhzp0) | 2:10 |
+| 55 | [Shimmer and Glimmer](https://open.spotify.com/track/4w7JDDgv13YI0ZiIwplRSy) | [Chants](https://open.spotify.com/artist/1bboGoBc0rr3oXFdFlAjSC) | [Poly Pointillism](https://open.spotify.com/album/7zmMRLwzf3PPnzEBWI2cLi) | 2:10 |
 | 56 | [Heart of Darkness](https://open.spotify.com/track/5Ax3jEG6VsLbDEXVrmdSNB) | [Overlook](https://open.spotify.com/artist/3rkCIOMxodtXwWH17WoH1b), [Karim Maas](https://open.spotify.com/artist/6oxrR6cq85sqyD9RJK5RBY) | [UVB76\-018](https://open.spotify.com/album/0u3aRSYNf9dV1DDTkyATr1) | 6:43 |
 | 57 | [Fern Flowers](https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx) | [Lutto Lento](https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta) | [LEGENDO](https://open.spotify.com/album/62N0giCXIgepaMQl864MIk) | 4:32 |
 | 58 | [Surge](https://open.spotify.com/track/6g0TV5mLWMBQWTeDVSNGmp) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Surge](https://open.spotify.com/album/2qDP6JVB5FksPqvFJ4xnEs) | 4:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 | 74 | [I'll be 20 when I'm 40](https://open.spotify.com/track/4x47gRjGYRRiDGhbdtpnCs) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Patrimony](https://open.spotify.com/album/7olQu6AkixLOum1nfMkZvf) | 5:13 |
 | 75 | [Those Tears of Hutton](https://open.spotify.com/track/49WbV4XtJ5QWJd2m5UrwSg) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [This Moment of Silence](https://open.spotify.com/album/6Zj6qfpTfQCmlyajevOM8z) | 6:15 |
 
-Snapshot ID: `MCw0Y2VlNTUwMzAxYzZkOTYwNTgxZDcyZTc5YzhlNmFiZDE4YmRhOWZl`
+Snapshot ID: `MCwzZjNlZDdhMDNkZjUzMDU4NmJjY2FkMGE4NmM0Y2VjOWYzZDdmYmQw`

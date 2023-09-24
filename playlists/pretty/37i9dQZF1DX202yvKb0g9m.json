@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 104421,
+  "num_followers": 104469,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGE0M2Q1ZmViMmM0OGYwOWQ5NzA2OWE3MWJjNDk2NjhkMTQwY2Y3",
+  "snapshot_id": "MCwzMGI1ZDE1ODE1OWI5YTA0ZDFmMjMwODFiMzZlMWEwNzQyOTc5OTll",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -123,6 +123,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/3BAjbq6blqHla1TgJUT7U7"
+      },
+      "artists": [
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "duration_ms": 511031,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/4rvnBqTmx66LlCJZLbLAOY"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "At Night (Remixes)",
         "url": "https://open.spotify.com/album/4F5OnBWfJa7YfjRZ86bZc8"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 431281,
       "name": "At Night - Peggy Gou's Acid Journey Remix",
       "url": "https://open.spotify.com/track/2S07r08uP4VjkbEkHgt3ot"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/3BAjbq6blqHla1TgJUT7U7"
-      },
-      "artists": [
-        {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
-        }
-      ],
-      "duration_ms": 511031,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/4rvnBqTmx66LlCJZLbLAOY"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -271,22 +271,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "stuff i used to do",
-        "url": "https://open.spotify.com/album/3NqLE9V39dR0Pikwv1hYAA"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 141304,
-      "name": "Charlie can't dance",
-      "url": "https://open.spotify.com/track/1SPtQ4u1JIz7u4PRXYCqiY"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 326920,
       "name": "Bassline",
       "url": "https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "stuff i used to do",
+        "url": "https://open.spotify.com/album/3NqLE9V39dR0Pikwv1hYAA"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 141304,
+      "name": "Charlie can't dance",
+      "url": "https://open.spotify.com/track/1SPtQ4u1JIz7u4PRXYCqiY"
     },
     {
       "added_at": "2021-10-22 11:07:27",

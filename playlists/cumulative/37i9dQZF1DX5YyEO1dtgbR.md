@@ -4,7 +4,7 @@
 
 > Experimental electronic beyond the borders of tradition.
 
-120 songs - 9 hr 16 min
+121 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Rotating In Unison](https://open.spotify.com/track/38x5k5FN5X7rtrN3WyxcA1) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH) | 5:01 | 2021-10-15 | 2022-06-15 |
 | [Roygbiv](https://open.spotify.com/track/06teMXvgw1V8HP3wIfoMUm) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Roygbiv](https://open.spotify.com/album/2l1FDimk3Ps9g404lYOsjr) | 5:08 | 2021-10-15 |  |
 | [Shafted](https://open.spotify.com/track/3S9qbZmAsQS1wAwafAV5mT) | [Cleyra](https://open.spotify.com/artist/6M4BbcSta78oGBZu6TtGyE) | [Shafted](https://open.spotify.com/album/0Ck52zaGqJB1cUUBs1O5E0) | 5:18 | 2021-10-15 |  |
-| [Shimmer and Glimmer](https://open.spotify.com/track/4ij6tfkN13bt1jfWGWXg9S) | [Chants](https://open.spotify.com/artist/1bboGoBc0rr3oXFdFlAjSC) | [Poly Pointillism](https://open.spotify.com/album/66zkrppo8OPQq9kMhxhzp0) | 2:10 | 2021-10-15 |  |
+| [Shimmer and Glimmer](https://open.spotify.com/track/4ij6tfkN13bt1jfWGWXg9S) | [Chants](https://open.spotify.com/artist/1bboGoBc0rr3oXFdFlAjSC) | [Poly Pointillism](https://open.spotify.com/album/66zkrppo8OPQq9kMhxhzp0) | 2:10 | 2021-10-15 | 2023-09-24 |
+| [Shimmer and Glimmer](https://open.spotify.com/track/4w7JDDgv13YI0ZiIwplRSy) | [Chants](https://open.spotify.com/artist/1bboGoBc0rr3oXFdFlAjSC) | [Poly Pointillism](https://open.spotify.com/album/7zmMRLwzf3PPnzEBWI2cLi) | 2:10 | 2022-06-14 |  |
 | [Sistine \(Plucks\)](https://open.spotify.com/track/1cU2mzy2qMALRP53VJszzx) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Sistine \(Plucks\)](https://open.spotify.com/album/2q6v3ilegZlsSg04Hoc4Gg) | 3:29 | 2021-10-15 |  |
 | [Sooty Tern](https://open.spotify.com/track/3q0lmG1rRSijb9YqUjXpEd) | [ELLLL](https://open.spotify.com/artist/40W5fNvMZwLnag1FYei0Jk) | [Sooty Tern](https://open.spotify.com/album/171D4IdaILZe3QeQ4e9O88) | 6:04 | 2021-10-15 | 2022-05-06 |
 | [Surge](https://open.spotify.com/track/6g0TV5mLWMBQWTeDVSNGmp) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Surge](https://open.spotify.com/album/2qDP6JVB5FksPqvFJ4xnEs) | 4:44 | 2021-10-15 |  |

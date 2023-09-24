@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in Rock this week\. Cover: laye
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,326 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,382 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 24 | [die a little less](https://open.spotify.com/track/4SSkNGqyT3NMoDBevo4aIC) | [Gwyn Love](https://open.spotify.com/artist/4o5ZquVPYCsS90FQYPkGzN), [La+ch](https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG) | [die a little less](https://open.spotify.com/album/3v6Pl74V5UvjrVaVzQbnyD) | 2:22 |
 | 25 | [Heartbreak Kid](https://open.spotify.com/track/52J6YtU7jLcoBKShJxMITp) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Heartbreak Kid](https://open.spotify.com/album/6iDURKweXeDCpXnIXcTchM) | 3:00 |
 | 26 | [funeral](https://open.spotify.com/track/0am0CxU7cNcBgULPFN6Nnx) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [funeral](https://open.spotify.com/album/1wI2EXcdoNUKBSPnJivC3G) | 2:28 |
-| 27 | [Find a Way to Love \(Somebody Else\)](https://open.spotify.com/track/5NSQMtfOOAydoxztB0RPCo) | [Eric Punzo](https://open.spotify.com/artist/5ovr8bErhT7iHJVZL18osS) | [Gridlock \- EP](https://open.spotify.com/album/66GwKUzrkInXvAk9kGRD1d) | 3:30 |
+| 27 | [Find a Way to Love \(Somebody Else\)](https://open.spotify.com/track/5NSQMtfOOAydoxztB0RPCo) | [Eric Punzo](https://open.spotify.com/artist/5ovr8bErhT7iHJVZL18osS) | [Gridlock](https://open.spotify.com/album/66GwKUzrkInXvAk9kGRD1d) | 3:30 |
 | 28 | [Punisher](https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM) | 3:14 |
 | 29 | [Cool Girl](https://open.spotify.com/track/4aXUKyFqYBSI7J6A1PwjTh) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/6aZFHnpTwonsLw8qVI5DdB) | 1:45 |
 | 30 | [Devil Teasin' Me](https://open.spotify.com/track/2m7eRoX184m8k270T2GTHM) | [The Commoners](https://open.spotify.com/artist/6GevXItFTFNqPQQvEW8W9C) | [Devil Teasin' Me](https://open.spotify.com/album/7n8RiE0EUmLJPWa3NbnvZo) | 4:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [It Only Bothers You](https://open.spotify.com/track/69MwqSM07rdnCA89MNxzdL) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 4:03 |
 | 100 | [X\-RAY](https://open.spotify.com/track/26ZtCUtuDqeVjyTk0IsJzR) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | ["DESTRUCTION FOR DUMMIES", PT\. 2 JEAN DAWSON AS "NIGHTMARE"](https://open.spotify.com/album/48Rpbx4MGnVgN7Eli5yWvO) | 3:09 |
 
-Snapshot ID: `MCxhODA4N2M3MWFlNzFlNzlhZWU2MWJmMTA3OTdlNTY0M2JhOGE4NDEz`
+Snapshot ID: `MCwyMGNkZmQ4MjhhMThkMjgzYWQ0NTEzNzAzMDE5YmE5YTJjNzFmYjdi`

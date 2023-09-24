@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Kelly Clarkson",
-  "num_followers": 61615,
+  "num_followers": 61682,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTg2MTYxYzcwYzBhZTE2NmJhMTM2OGY1NThiZTE1NzliMmMyYjdh",
+  "snapshot_id": "MCwxM2QxOGI1YzZmZmMwMDdkY2RiMDY0MjQyMTE2OWYxNjczNTg5NWJh",
   "tracks": [
     {
       "added_at": "2023-09-01 18:59:58",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-09-01 18:59:58",
       "album": {
-        "name": "Hurts So Good (Live From The Studio)",
-        "url": "https://open.spotify.com/album/629SuCWLMZ0BoQDciPUV24"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 202833,
-      "name": "Hurts So Good - Live From The Studio",
-      "url": "https://open.spotify.com/track/4n8FLFUeTBJeY1PlPKwYJ0"
-    },
-    {
-      "added_at": "2023-09-01 18:59:58",
-      "album": {
         "name": "Chasing Time: The Bedlam Sessions",
         "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 288146,
       "name": "Goodbye My Lover - Live in Ireland",
       "url": "https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "Hurts So Good (Live From The Studio)",
+        "url": "https://open.spotify.com/album/629SuCWLMZ0BoQDciPUV24"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 202833,
+      "name": "Hurts So Good - Live From The Studio",
+      "url": "https://open.spotify.com/track/4n8FLFUeTBJeY1PlPKwYJ0"
     },
     {
       "added_at": "2023-09-01 18:59:58",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-09-01 18:59:58",
       "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
+        "name": "Progress Live",
+        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
         }
       ],
-      "duration_ms": 334813,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - Live",
-      "url": "https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y"
+      "duration_ms": 314240,
+      "name": "Back For Good - Progress Tour Live / 2011",
+      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
     },
     {
       "added_at": "2023-09-01 18:59:58",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-09-01 18:59:58",
       "album": {
-        "name": "Progress Live",
-        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
       },
       "artists": [
         {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 314240,
-      "name": "Back For Good - Progress Tour Live / 2011",
-      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
+      "duration_ms": 334813,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - Live",
+      "url": "https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y"
     },
     {
       "added_at": "2023-09-01 18:59:58",

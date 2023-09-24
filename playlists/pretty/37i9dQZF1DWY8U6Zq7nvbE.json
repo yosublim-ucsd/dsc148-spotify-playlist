@@ -1,12 +1,12 @@
 {
   "description": "The best from the world of acoustic songs and pop covers right now.",
-  "num_followers": 1135408,
+  "num_followers": 1135435,
   "original_name": "Hot Acoustics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjhlYzJmNzlmNjQzYWIyMzEzMzJmMDljZjU1NmMwYzU0NDQ3N2Vj",
+  "snapshot_id": "MCxmYzkyYmVhOTM2OGRlMDM3ZWI5Yjc2OTdhNjljY2ZhMzM2MTljYWU2",
   "tracks": [
     {
       "added_at": "2023-08-31 14:40:35",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r"
-      },
-      "artists": [
-        {
-          "name": "Simon Sage",
-          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
-        }
-      ],
-      "duration_ms": 132024,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Black Car (feat. ALMA) [Acoustic]",
         "url": "https://open.spotify.com/album/69sad8MZUsNa9b6F6BGgZe"
       },
@@ -775,22 +759,18 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Lonely (with benny blanco) [Main + Acoustic]",
-        "url": "https://open.spotify.com/album/7HWrpFGNHEaylb0DK0xrkH"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+          "name": "Simon Sage",
+          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
         }
       ],
-      "duration_ms": 155188,
-      "name": "Lonely (with benny blanco) - Acoustic",
-      "url": "https://open.spotify.com/track/4fKiuIavbsoTRZ6R7xuAyT"
+      "duration_ms": 132024,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -807,6 +787,26 @@
       "duration_ms": 182952,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Lonely (with benny blanco) [Main + Acoustic]",
+        "url": "https://open.spotify.com/album/7HWrpFGNHEaylb0DK0xrkH"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 155188,
+      "name": "Lonely (with benny blanco) - Acoustic",
+      "url": "https://open.spotify.com/track/4fKiuIavbsoTRZ6R7xuAyT"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "breakeven",
-        "url": "https://open.spotify.com/album/31NdbzRpE5w6lfvLdMsDeO"
-      },
-      "artists": [
-        {
-          "name": "middle of june",
-          "url": "https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm"
-        }
-      ],
-      "duration_ms": 210783,
-      "name": "breakeven",
-      "url": "https://open.spotify.com/track/1LvA1xObKcFK4eMsEKsEzP"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Back to Black",
         "url": "https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 183674,
       "name": "Back to Black",
       "url": "https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "breakeven",
+        "url": "https://open.spotify.com/album/31NdbzRpE5w6lfvLdMsDeO"
+      },
+      "artists": [
+        {
+          "name": "middle of june",
+          "url": "https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm"
+        }
+      ],
+      "duration_ms": 210783,
+      "name": "breakeven",
+      "url": "https://open.spotify.com/track/1LvA1xObKcFK4eMsEKsEzP"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Always You (Wedding Version) [From Maybe I Do]",
-        "url": "https://open.spotify.com/album/4vsAKJa3PnwSsxPRqifyfY"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Always You (Wedding Version) [From Maybe I Do]",
-      "url": "https://open.spotify.com/track/3jk8QofgnK5a2NfZYYPcVC"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Barbie Girl",
         "url": "https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 170931,
       "name": "Barbie Girl",
       "url": "https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Always You (Wedding Version) [From Maybe I Do]",
+        "url": "https://open.spotify.com/album/4vsAKJa3PnwSsxPRqifyfY"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Always You (Wedding Version) [From Maybe I Do]",
+      "url": "https://open.spotify.com/track/3jk8QofgnK5a2NfZYYPcVC"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "Lose You To Love Me (Acoustic)",
+        "url": "https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd"
+      },
+      "artists": [
+        {
+          "name": "Highland Peak",
+          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
+        }
+      ],
+      "duration_ms": 254871,
+      "name": "Lose You To Love Me - Acoustic",
+      "url": "https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "Greatest Covers Ever",
         "url": "https://open.spotify.com/album/4Q95NiPxJUIr8sT7qRlZts"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 217864,
       "name": "Fast Car - Acoustic",
       "url": "https://open.spotify.com/track/6pZZ4FUkivhTGlVR8FZXE6"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "Lose You To Love Me (Acoustic)",
-        "url": "https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd"
-      },
-      "artists": [
-        {
-          "name": "Highland Peak",
-          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
-        }
-      ],
-      "duration_ms": 254871,
-      "name": "Lose You To Love Me - Acoustic",
-      "url": "https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "how do you sleep?",
-        "url": "https://open.spotify.com/album/6HHO3PkWgYYK6D0zAS9VUm"
-      },
-      "artists": [
-        {
-          "name": "who's heather",
-          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
-        }
-      ],
-      "duration_ms": 223340,
-      "name": "how do you sleep?",
-      "url": "https://open.spotify.com/track/6vRNE5P6s0GIZRQPJgLpF6"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Those Eyes",
         "url": "https://open.spotify.com/album/4puw9Hf1Unj7Kasb1ZAxso"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 164228,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/4HyBPhQQodPLaf5solOIDN"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "how do you sleep?",
+        "url": "https://open.spotify.com/album/6HHO3PkWgYYK6D0zAS9VUm"
+      },
+      "artists": [
+        {
+          "name": "who's heather",
+          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
+        }
+      ],
+      "duration_ms": 223340,
+      "name": "how do you sleep?",
+      "url": "https://open.spotify.com/track/6vRNE5P6s0GIZRQPJgLpF6"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Better Break My Heart",
-        "url": "https://open.spotify.com/album/1owl6V1iP8bkGij4M2gt32"
-      },
-      "artists": [
-        {
-          "name": "Rhys",
-          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
-        }
-      ],
-      "duration_ms": 175013,
-      "name": "Better Break My Heart - Acoustic version",
-      "url": "https://open.spotify.com/track/1p3q7kGwvV6MEG4ADZi08y"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Anti-Hero",
         "url": "https://open.spotify.com/album/6GT70Pr0BdBT9wWM2wsyZm"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 223625,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/4RcpUHWXC8lgTNyitAFO9m"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Better Break My Heart",
+        "url": "https://open.spotify.com/album/1owl6V1iP8bkGij4M2gt32"
+      },
+      "artists": [
+        {
+          "name": "Rhys",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "duration_ms": 175013,
+      "name": "Better Break My Heart - Acoustic version",
+      "url": "https://open.spotify.com/track/1p3q7kGwvV6MEG4ADZi08y"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2415,18 +2415,18 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "25 Acoustic (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2hDCebKKttYzWSJEnp9m0a"
+        "name": "I ain't worried",
+        "url": "https://open.spotify.com/album/6T7RkNIqWCqueJnBvzroza"
       },
       "artists": [
         {
-          "name": "Sofia Karlberg",
-          "url": "https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2"
+          "name": "middle of june",
+          "url": "https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm"
         }
       ],
-      "duration_ms": 217548,
-      "name": "Send My Love (To Your New Lover) - Acoustic Version",
-      "url": "https://open.spotify.com/track/2NZXGZVgML83MePjoxxofN"
+      "duration_ms": 168095,
+      "name": "I ain't worried",
+      "url": "https://open.spotify.com/track/7vaoU0TQjXGzOchBjOKWCj"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2447,18 +2447,18 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "I ain't worried",
-        "url": "https://open.spotify.com/album/6T7RkNIqWCqueJnBvzroza"
+        "name": "25 Acoustic (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2hDCebKKttYzWSJEnp9m0a"
       },
       "artists": [
         {
-          "name": "middle of june",
-          "url": "https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm"
+          "name": "Sofia Karlberg",
+          "url": "https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2"
         }
       ],
-      "duration_ms": 168095,
-      "name": "I ain't worried",
-      "url": "https://open.spotify.com/track/7vaoU0TQjXGzOchBjOKWCj"
+      "duration_ms": 217548,
+      "name": "Send My Love (To Your New Lover) - Acoustic Version",
+      "url": "https://open.spotify.com/track/2NZXGZVgML83MePjoxxofN"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2659,6 +2659,26 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "All Into Nothing (Acoustic)",
+        "url": "https://open.spotify.com/album/0PcCssmKfflgVxBoc4FSBE"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "duration_ms": 195970,
+      "name": "All Into Nothing - Acoustic",
+      "url": "https://open.spotify.com/track/5GMJ3Uq60h1NAqMZcjtEqT"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "Sparks",
         "url": "https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx"
       },
@@ -2687,26 +2707,6 @@
       "duration_ms": 242581,
       "name": "Girl I Wish I Didn't Know - Acoustic",
       "url": "https://open.spotify.com/track/2Zmt6TqxG2UGDxg4SjNVkA"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "All Into Nothing (Acoustic)",
-        "url": "https://open.spotify.com/album/0PcCssmKfflgVxBoc4FSBE"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        }
-      ],
-      "duration_ms": 195970,
-      "name": "All Into Nothing - Acoustic",
-      "url": "https://open.spotify.com/track/5GMJ3Uq60h1NAqMZcjtEqT"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2847,6 +2847,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "You'll Never Walk Alone",
+        "url": "https://open.spotify.com/album/7nUJxEfO6ShXWqz4QHCmTg"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 161402,
+      "name": "You'll Never Walk Alone",
+      "url": "https://open.spotify.com/track/2eivkicsT39M1pz0A4mfSD"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "Keep It Simple (feat. Wilder Woods) [Acoustic]",
         "url": "https://open.spotify.com/album/25uDrMlNrw9SXufzkVl0jF"
       },
@@ -2883,22 +2899,6 @@
       "duration_ms": 176117,
       "name": "THATS WHAT I WANT - Piano Acoustic",
       "url": "https://open.spotify.com/track/4p95kpslEQ0PhjaeHPmqoD"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "You'll Never Walk Alone",
-        "url": "https://open.spotify.com/album/7nUJxEfO6ShXWqz4QHCmTg"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 161402,
-      "name": "You'll Never Walk Alone",
-      "url": "https://open.spotify.com/track/2eivkicsT39M1pz0A4mfSD"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -3039,6 +3039,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "7 Years",
+        "url": "https://open.spotify.com/album/7jt23XlIkhW60dDre0mpYr"
+      },
+      "artists": [
+        {
+          "name": "City Sessions",
+          "url": "https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g"
+        }
+      ],
+      "duration_ms": 222189,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/3CztMDwiifDlxsKRkyCwPK"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "Black & Blue (Acoustic Version)",
         "url": "https://open.spotify.com/album/1KX6McwupYpQOAS4SfcNvG"
       },
@@ -3055,22 +3071,6 @@
       "duration_ms": 186034,
       "name": "Black & Blue - Acoustic Version",
       "url": "https://open.spotify.com/track/64b21IcAEJwtwAgBQH6k83"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "7 Years",
-        "url": "https://open.spotify.com/album/7jt23XlIkhW60dDre0mpYr"
-      },
-      "artists": [
-        {
-          "name": "City Sessions",
-          "url": "https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g"
-        }
-      ],
-      "duration_ms": 222189,
-      "name": "7 Years",
-      "url": "https://open.spotify.com/track/3CztMDwiifDlxsKRkyCwPK"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -3107,22 +3107,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Acoustic in Isby",
-        "url": "https://open.spotify.com/album/7mWKfFxovOPJfuEk7qGWbq"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 249782,
-      "name": "Nangilima - Acoustic in Isby",
-      "url": "https://open.spotify.com/track/1HJpeLvjjld7yMytQHruNJ"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/2N76uyM3yxfn8Jpo00EMiL"
       },
@@ -3135,6 +3119,22 @@
       "duration_ms": 152854,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/5YljSVhTtJ41C2H72vExEU"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Acoustic in Isby",
+        "url": "https://open.spotify.com/album/7mWKfFxovOPJfuEk7qGWbq"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 249782,
+      "name": "Nangilima - Acoustic in Isby",
+      "url": "https://open.spotify.com/track/1HJpeLvjjld7yMytQHruNJ"
     },
     {
       "added_at": "2023-08-31 14:40:35",

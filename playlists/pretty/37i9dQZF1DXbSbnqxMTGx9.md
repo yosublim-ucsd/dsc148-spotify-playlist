@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,803,269 likes - 250 songs - 13 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,803,457 likes - 250 songs - 13 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,7 +194,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 184 | [Ba Ba Boom](https://open.spotify.com/track/2RvMpOxSYXbOrrlCATGbs2) | [The Jamaicans](https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5) | [Ba Ba Boom](https://open.spotify.com/album/39ilJtvILiTJIscDiIDapx) | 3:21 |
 | 185 | [Queen Majesty](https://open.spotify.com/track/4tawIo5zC9yIaX63JKeD5f) | [The Techniques](https://open.spotify.com/artist/7aSGHNg5TRgbrzaUclcNAK) | [Little Did You Know](https://open.spotify.com/album/5B20Ijd7dySD3Edz69sQ2f) | 3:32 |
 | 186 | [Please Stop Your Lying](https://open.spotify.com/track/4y8vOLeFZGHSeG6yJOKGbW) | [Errol Dunkley](https://open.spotify.com/artist/228y2DiGvQkteqDD2dUZDD) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:47 |
-| 187 | [Winey Winey](https://open.spotify.com/track/2owTznrjP8EU6RWWtRwh1p) | [The Kingstonians](https://open.spotify.com/artist/2NzuDDwo53DigKbHuCZo7C) | [This Is Trojan Rock Steady](https://open.spotify.com/album/5LfK4b7FQcx96fQGkzOUez) | 2:52 |
+| 187 | [Winey Winey](https://open.spotify.com/track/2owTznrjP8EU6RWWtRwh1p) | [The Kingstonians](https://open.spotify.com/artist/2NzuDDwo53DigKbHuCZo7C) | [This Is Trojan Rock Steady](https://open.spotify.com/album/5LfK4b7FQcx96fQGkzOUez) | 2:54 |
 | 188 | [Things You Say You Love](https://open.spotify.com/track/1t1n7aB3m6GbuUyh0hMTLl) | [The Jamaicans](https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5) | [Version Galore](https://open.spotify.com/album/5eh0V4WPD6ziBy6kyCrbqt) | 2:46 |
 | 189 | [Gypsy Woman](https://open.spotify.com/track/7egILYPRuh0cJASXYSMDiO) | [The Uniques](https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb) | [Absolutely](https://open.spotify.com/album/0ZkUtI3QXfeRvy2AJ4WqE5) | 3:17 |
 | 190 | [What Will Your Mama Say](https://open.spotify.com/track/443VQIhCLNhVnQlQqHgIOM) | [Clancy Eccles](https://open.spotify.com/artist/0YVtA75CDCz5FYqis7Kf8v) | [Freedom \(Expanded Version\)](https://open.spotify.com/album/2k9j7W44RmjdDPQa4wiSph) | 3:18 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 249 | [Monkey Man](https://open.spotify.com/track/4g4BE9VeeQwPOvQ5sJTpj2) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:46 |
 | 250 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 |
 
-Snapshot ID: `MCwxN2M3MzUxMGEyZTJmZWM2YzNkYWRhZjc4Y2ExN2RjYzMyNDc0ODc2`
+Snapshot ID: `MCxiYThkN2EyMzg5NmU3MDg5ZjIzNDY1ZmU2ZThiMWI0MzRlYTg4N2E5`

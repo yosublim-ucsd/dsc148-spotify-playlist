@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 50226,
+  "num_followers": 50287,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTllY2RkZDcwNTgwNGRiZDgzNjM5YmUzN2E5NjQ3OGM2NzllNTAx",
+  "snapshot_id": "MCxlYWVmZjY4NTRmNzA0ZWM4NjE1MjIyNmM4ZTFhYTgyNzZkYjVlOTU2",
   "tracks": [
     {
       "added_at": "2023-09-22 03:01:00",
@@ -95,18 +95,18 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Cola Comigo",
-        "url": "https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw"
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/3ZtPh7k9yk0F7f6KuiizWH"
       },
       "artists": [
         {
-          "name": "LUTHULY",
-          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
         }
       ],
-      "duration_ms": 208617,
-      "name": "Cola Comigo",
-      "url": "https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183"
+      "duration_ms": 225000,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/2EWaBErOpttybo792PEzIB"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -123,6 +123,42 @@
       "duration_ms": 226073,
       "name": "Me Curar",
       "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Cola Comigo",
+        "url": "https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw"
+      },
+      "artists": [
+        {
+          "name": "LUTHULY",
+          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
+        }
+      ],
+      "duration_ms": 208617,
+      "name": "Cola Comigo",
+      "url": "https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Dava Praia",
+        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
+      },
+      "artists": [
+        {
+          "name": "Guinu",
+          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
+        },
+        {
+          "name": "Juliane Gamboa",
+          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "Dava Praia",
+      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -147,26 +183,6 @@
       "duration_ms": 122263,
       "name": "Falando Dela 2",
       "url": "https://open.spotify.com/track/1ebphlBWJHENEs1StX3FYP"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Dava Praia",
-        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
-      },
-      "artists": [
-        {
-          "name": "Guinu",
-          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
-        },
-        {
-          "name": "Juliane Gamboa",
-          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "Dava Praia",
-      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -239,26 +255,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Nunca Te Deixei",
-        "url": "https://open.spotify.com/album/0pF4py857zGGCEty1CeelF"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Nunca Te Deixei",
-      "url": "https://open.spotify.com/track/6p1NbvGtfNKgsRsVU9eLDG"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "MOVA - Algumas Verdades, Outras Mentiras",
         "url": "https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3"
       },
@@ -275,6 +271,26 @@
       "duration_ms": 176285,
       "name": "E EU?",
       "url": "https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Nunca Te Deixei",
+        "url": "https://open.spotify.com/album/0pF4py857zGGCEty1CeelF"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Nunca Te Deixei",
+      "url": "https://open.spotify.com/track/6p1NbvGtfNKgsRsVU9eLDG"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -371,22 +387,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Coisas De Amor",
-        "url": "https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v"
-      },
-      "artists": [
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        }
-      ],
-      "duration_ms": 211005,
-      "name": "Me Esque\u00e7a Devagar",
-      "url": "https://open.spotify.com/track/74yArCzYnQuxpMeo68JYgd"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Mergulhei",
         "url": "https://open.spotify.com/album/4raO1hapwBztV4pxrNSzps"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 211524,
       "name": "Mergulhei",
       "url": "https://open.spotify.com/track/58H4xYSRZ65vvmZPEAZ91H"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Coisas De Amor",
+        "url": "https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v"
+      },
+      "artists": [
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        }
+      ],
+      "duration_ms": 211005,
+      "name": "Me Esque\u00e7a Devagar",
+      "url": "https://open.spotify.com/track/74yArCzYnQuxpMeo68JYgd"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -555,6 +571,30 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
+        "name": "Hip Hop Machine #18",
+        "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
+      },
+      "artists": [
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        },
+        {
+          "name": "Machine Series",
+          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
+        },
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 357248,
+      "name": "Se Foi",
+      "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
         "name": "Ondina",
         "url": "https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK"
       },
@@ -583,30 +623,6 @@
       "duration_ms": 173385,
       "name": "SHAWTY",
       "url": "https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Hip Hop Machine #18",
-        "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
-      },
-      "artists": [
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        },
-        {
-          "name": "Machine Series",
-          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
-        },
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 357248,
-      "name": "Se Foi",
-      "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -803,22 +819,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Perfeita Demais",
-        "url": "https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9"
-      },
-      "artists": [
-        {
-          "name": "R0DR1",
-          "url": "https://open.spotify.com/artist/2VpY3fWHu7VbsHZSyQKOGZ"
-        }
-      ],
-      "duration_ms": 200281,
-      "name": "Perfeita Demais",
-      "url": "https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Aeroporto",
         "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 209537,
       "name": "Aeroporto",
       "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Perfeita Demais",
+        "url": "https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9"
+      },
+      "artists": [
+        {
+          "name": "R0DR1",
+          "url": "https://open.spotify.com/artist/2VpY3fWHu7VbsHZSyQKOGZ"
+        }
+      ],
+      "duration_ms": 200281,
+      "name": "Perfeita Demais",
+      "url": "https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -875,6 +891,26 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
+        "name": "Um momento",
+        "url": "https://open.spotify.com/album/07S8GOxygxS3qpgcaU3npE"
+      },
+      "artists": [
+        {
+          "name": "Gray C.",
+          "url": "https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS"
+        }
+      ],
+      "duration_ms": 180894,
+      "name": "Um momento",
+      "url": "https://open.spotify.com/track/3ZBvsS1lEFjKc6kUqsAcHY"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
         "name": "Qu\u00edmica Perfeita",
         "url": "https://open.spotify.com/album/4N9f3X6QVI2CPt9byDyzGw"
       },
@@ -907,42 +943,6 @@
       "duration_ms": 317059,
       "name": "Entre Mem\u00f3rias Tristes",
       "url": "https://open.spotify.com/track/7CD5cl7ctI7x6SYBLHN1mL"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/3ZtPh7k9yk0F7f6KuiizWH"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/2EWaBErOpttybo792PEzIB"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Um momento",
-        "url": "https://open.spotify.com/album/07S8GOxygxS3qpgcaU3npE"
-      },
-      "artists": [
-        {
-          "name": "Gray C.",
-          "url": "https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS"
-        }
-      ],
-      "duration_ms": 180894,
-      "name": "Um momento",
-      "url": "https://open.spotify.com/track/3ZBvsS1lEFjKc6kUqsAcHY"
     }
   ],
   "unique_name": "su\u00edte.",

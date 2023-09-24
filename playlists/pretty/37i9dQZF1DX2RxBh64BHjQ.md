@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0gg11prPP6OqtUvBcKnPpq">Rylo Rodriguez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,791,031 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,791,158 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Gangsta Boogie](https://open.spotify.com/track/05pTIcFoJc2Sd5gULTUR1t) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Gangsta Boogie](https://open.spotify.com/album/0MVmaI88e3V5OdfQ29FeTi) | 3:54 |
 | 100 | [Donda Bag](https://open.spotify.com/track/79rneIpoGKwhqE1MSaw4Ls) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Donda Bag](https://open.spotify.com/album/5QeuHVVKK7Y0lxmNX0OBuI) | 3:08 |
 
-Snapshot ID: `MCwyZGUxY2U5NDkwNzllNTU2NmMzMGUxODJmZWViYWMzZDQ0ZjE5ODA2`
+Snapshot ID: `MCw1NjEzZjhiODY1Yzc4YWEyMWZlNTBhMTVlYzg5ZmEzN2M5OGE0NGYy`

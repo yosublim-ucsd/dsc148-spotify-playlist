@@ -4,12 +4,12 @@
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-209 songs - 12 hr 18 min
+210 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+ Mulheres Pretas](https://open.spotify.com/track/0BRuk2trF5sNjgbC3yTva6) | [Lady Rap](https://open.spotify.com/artist/4qfV25oIIDVFCCYUIG5ODW) | [Algo A Dizer \- Volume 1](https://open.spotify.com/album/0VR7wezO2iOuxiIgrdxfHk) | 3:50 | 2021-10-15 | 2022-07-28 |
-| [100% Feminista](https://open.spotify.com/track/4hLSdyrFDMjRJS3zhU2ZQz) | [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Bandida](https://open.spotify.com/album/57gugEndr41sLF4rRVcUte) | 3:19 | 2021-10-15 |  |
+| [100% Feminista](https://open.spotify.com/track/4hLSdyrFDMjRJS3zhU2ZQz) | [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Bandida](https://open.spotify.com/album/57gugEndr41sLF4rRVcUte) | 3:19 | 2021-10-15 | 2023-09-24 |
 | [50 Reais](https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [50 Reais](https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6) | 3:27 | 2021-10-15 |  |
 | [A Menina Dança](https://open.spotify.com/track/3K1mmD3jyjSp0kruKKAoBl) | [Baby Do Brasil](https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls) | [A Menina Ainda Dança \(Baby Sucessos\)](https://open.spotify.com/album/4FhqrNecbtzv5Ym3gxqITi) | 6:53 | 2021-10-15 | 2022-07-29 |
 | [A Mulher do Fim do Mundo](https://open.spotify.com/track/6sbT0r4zqYl0FTK0YcmmWq) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [A Mulher do Fim do Mundo](https://open.spotify.com/album/6pmPFWW4M6YDDDuFeUppDG) | 4:37 | 2021-10-15 | 2022-07-28 |
@@ -65,6 +65,7 @@
 | [Deixa](https://open.spotify.com/track/7FVOOixkNSoUkY3GUUfREK) | [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Ana Muller](https://open.spotify.com/album/0wzMf9BvPCaVifQiWwkIp4) | 4:04 | 2021-10-15 | 2022-07-28 |
 | [Delírio](https://open.spotify.com/track/6xljIkWM1sM84RPw4coZWZ) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Delírio](https://open.spotify.com/album/6xOlwAGA7rxAzBfOzkWLhU) | 2:54 | 2021-10-15 | 2022-11-24 |
 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 | 2021-10-15 |  |
+| [Diaba](https://open.spotify.com/track/4Zhxtm6x56wEiRtSMAl28n) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Diaba](https://open.spotify.com/album/01o2odeolV6Ke76Q2QTVyS) | 2:45 | 2022-10-07 |  |
 | [Disque Denúncia](https://open.spotify.com/track/7g2Lma1UzaiY90YGwK0vke) | [Nina Oliveira](https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1) | [Disque Denúncia](https://open.spotify.com/album/7KRhRqVMh2QTtOP6Fd3ITf) | 3:27 | 2021-10-15 | 2022-07-27 |
 | [Diz Que Fui Por Ai](https://open.spotify.com/track/6BAlnEh3wnUMpIBiuQQHYg) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara](https://open.spotify.com/album/6GupTGdWq2CPBZTn28joxE) | 2:08 | 2021-10-15 | 2022-07-29 |
 | [Diz Que Fui Por Ai](https://open.spotify.com/track/28BSCtSAR6HQmdrt823rg4) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara \(1964\)](https://open.spotify.com/album/0DrdA7FNioWPk1wRaRuHn7) | 2:09 | 2022-10-07 |  |

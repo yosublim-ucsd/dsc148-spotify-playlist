@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 52616,
+  "num_followers": 52916,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGM0NThjYWFkYjdmZjRlNmEwYjUyMTdjOGYwZTBkYjZkMjQ5NmE2",
+  "snapshot_id": "MCxjZDcxYWUwY2MzYTg5NDFjYzM2MjliZDRlNGRkODMwNzA2MWU4OTNj",
   "tracks": [
     {
       "added_at": "2023-09-19 06:59:01",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-09-19 06:59:01",
       "album": {
-        "name": "Carry On The Grudge",
-        "url": "https://open.spotify.com/album/3iRWCjHbKKSICMbXarCTRC"
-      },
-      "artists": [
-        {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
-        }
-      ],
-      "duration_ms": 246186,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/22eNdxGb4tEvBt0nBCp52o"
-    },
-    {
-      "added_at": "2023-09-19 06:59:01",
-      "album": {
         "name": "Whatever People Say I Am, That's What I'm Not",
         "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 268626,
       "name": "Perhaps Vampires Is A Bit Strong But\u2026",
       "url": "https://open.spotify.com/track/6Slvi85s1hIaeykjvDe1xk"
+    },
+    {
+      "added_at": "2023-09-19 06:59:01",
+      "album": {
+        "name": "Carry On The Grudge",
+        "url": "https://open.spotify.com/album/3iRWCjHbKKSICMbXarCTRC"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "duration_ms": 246186,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/22eNdxGb4tEvBt0nBCp52o"
     },
     {
       "added_at": "2023-09-19 06:59:01",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-09-19 06:59:01",
       "album": {
-        "name": "St. Charles Square",
-        "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 235325,
-      "name": "St. Charles Square",
-      "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
-    },
-    {
-      "added_at": "2023-09-19 06:59:01",
-      "album": {
         "name": "Writer's Block",
         "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 228893,
       "name": "The Chills",
       "url": "https://open.spotify.com/track/6KF8tgwtvx29hM2RxqHoqP"
+    },
+    {
+      "added_at": "2023-09-19 06:59:01",
+      "album": {
+        "name": "St. Charles Square",
+        "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 235325,
+      "name": "St. Charles Square",
+      "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
     },
     {
       "added_at": "2023-09-19 06:59:01",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-09-19 06:59:01",
       "album": {
-        "name": "Beat the Devil's Tattoo",
-        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
-      },
-      "artists": [
-        {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "River Styx",
-      "url": "https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC"
-    },
-    {
-      "added_at": "2023-09-19 06:59:01",
-      "album": {
         "name": "Bad Moon Rising",
         "url": "https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 218693,
       "name": "Zombie Prom",
       "url": "https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b"
+    },
+    {
+      "added_at": "2023-09-19 06:59:01",
+      "album": {
+        "name": "Beat the Devil's Tattoo",
+        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "duration_ms": 235746,
+      "name": "River Styx",
+      "url": "https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC"
     },
     {
       "added_at": "2023-09-19 06:59:01",

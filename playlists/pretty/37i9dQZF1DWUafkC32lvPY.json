@@ -1,12 +1,12 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 5744,
+  "num_followers": 5792,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTJiNzJjZmEwYjA0OGQ5MTgyYmMwODg2MmRmNDE3ZmVkOGQ5YTM1",
+  "snapshot_id": "MCwyYTg3NmZlZGI5ODQ5OTJjNGEyYWEwOGM3MjNmNGM0ZWJiNzVlODg2",
   "tracks": [
     {
       "added_at": "2023-09-14 03:19:01",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-09-14 03:19:01",
       "album": {
+        "name": "Todo Tranqui",
+        "url": "https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP"
+      },
+      "artists": [
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 100738,
+      "name": "Todo Tranqui",
+      "url": "https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M"
+    },
+    {
+      "added_at": "2023-09-14 03:19:01",
+      "album": {
         "name": "Remixes lofi del Regional Chill",
         "url": "https://open.spotify.com/album/0zYXLwvBFEYXKJg9bI8YAT"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 123875,
       "name": "Los d\u00edas grises (Remix)",
       "url": "https://open.spotify.com/track/5HS4clb7EG8MeRGybBVPRY"
-    },
-    {
-      "added_at": "2023-09-14 03:19:01",
-      "album": {
-        "name": "Todo Tranqui",
-        "url": "https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP"
-      },
-      "artists": [
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 100738,
-      "name": "Todo Tranqui",
-      "url": "https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M"
     },
     {
       "added_at": "2023-09-14 03:19:01",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-09-14 03:19:01",
       "album": {
-        "name": "Cumbiero",
-        "url": "https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 99000,
-      "name": "Cumbiero",
-      "url": "https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7"
-    },
-    {
-      "added_at": "2023-09-14 03:19:01",
-      "album": {
         "name": "Floripa",
         "url": "https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 119998,
       "name": "Floripa",
       "url": "https://open.spotify.com/track/6ZDo86HphrqZunbODFaQZm"
+    },
+    {
+      "added_at": "2023-09-14 03:19:01",
+      "album": {
+        "name": "Cumbiero",
+        "url": "https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 99000,
+      "name": "Cumbiero",
+      "url": "https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7"
     },
     {
       "added_at": "2023-09-14 03:19:01",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-09-14 03:19:01",
       "album": {
-        "name": "Like Coconut From The Tree",
-        "url": "https://open.spotify.com/album/7bu1eXJ1qIb9sDC0Jq3AhC"
-      },
-      "artists": [
-        {
-          "name": "Burrito Eats",
-          "url": "https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT"
-        }
-      ],
-      "duration_ms": 122709,
-      "name": "Like Coconut From The Tree",
-      "url": "https://open.spotify.com/track/0PwWBtV1EUmg1TtKtJPM85"
-    },
-    {
-      "added_at": "2023-09-14 03:19:01",
-      "album": {
         "name": "Brazilian Flavor",
         "url": "https://open.spotify.com/album/7KRW5vGGs4RUzv7r36FGRR"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 118288,
       "name": "Brazilian Flavor",
       "url": "https://open.spotify.com/track/3whLJWc9Bu4mk0cnueIiKg"
+    },
+    {
+      "added_at": "2023-09-14 03:19:01",
+      "album": {
+        "name": "Like Coconut From The Tree",
+        "url": "https://open.spotify.com/album/7bu1eXJ1qIb9sDC0Jq3AhC"
+      },
+      "artists": [
+        {
+          "name": "Burrito Eats",
+          "url": "https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT"
+        }
+      ],
+      "duration_ms": 122709,
+      "name": "Like Coconut From The Tree",
+      "url": "https://open.spotify.com/track/0PwWBtV1EUmg1TtKtJPM85"
     },
     {
       "added_at": "2023-09-14 03:19:01",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-09-14 03:19:01",
       "album": {
+        "name": "Lofi Chill",
+        "url": "https://open.spotify.com/album/1HstApWi4IFpuz5HJmoXpf"
+      },
+      "artists": [
+        {
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+        }
+      ],
+      "duration_ms": 115017,
+      "name": "El Malec\u00f3n",
+      "url": "https://open.spotify.com/track/1Svr9y0d5DpH5SswUuMQv5"
+    },
+    {
+      "added_at": "2023-09-14 03:19:01",
+      "album": {
         "name": "Uno Es M\u00ednimo Dos",
         "url": "https://open.spotify.com/album/4LkiclyNpFe3akHcHzUAeK"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 122273,
       "name": "Safe Place",
       "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
-    },
-    {
-      "added_at": "2023-09-14 03:19:01",
-      "album": {
-        "name": "Lofi Chill",
-        "url": "https://open.spotify.com/album/1HstApWi4IFpuz5HJmoXpf"
-      },
-      "artists": [
-        {
-          "name": "SanelliX",
-          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
-        }
-      ],
-      "duration_ms": 115017,
-      "name": "El Malec\u00f3n",
-      "url": "https://open.spotify.com/track/1Svr9y0d5DpH5SswUuMQv5"
     },
     {
       "added_at": "2023-09-14 03:19:01",
@@ -967,6 +967,26 @@
     {
       "added_at": "2023-09-14 03:19:01",
       "album": {
+        "name": "Playa del Amor",
+        "url": "https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7"
+      },
+      "artists": [
+        {
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 129565,
+      "name": "Playa del Amor",
+      "url": "https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ"
+    },
+    {
+      "added_at": "2023-09-14 03:19:01",
+      "album": {
         "name": "Quiet Process",
         "url": "https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 131091,
       "name": "are you kidding?",
       "url": "https://open.spotify.com/track/0hZq7KELxVZNX9y03D13K2"
-    },
-    {
-      "added_at": "2023-09-14 03:19:01",
-      "album": {
-        "name": "Playa del Amor",
-        "url": "https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7"
-      },
-      "artists": [
-        {
-          "name": "SanelliX",
-          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 129565,
-      "name": "Playa del Amor",
-      "url": "https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ"
     },
     {
       "added_at": "2023-09-14 03:19:01",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-14 03:19:01",
       "album": {
-        "name": "Alc\u00e1zar",
-        "url": "https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ"
-      },
-      "artists": [
-        {
-          "name": "Tranquilo",
-          "url": "https://open.spotify.com/artist/1nsZek7hpjsfxkKDwRykLE"
-        }
-      ],
-      "duration_ms": 98653,
-      "name": "Alc\u00e1zar",
-      "url": "https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE"
-    },
-    {
-      "added_at": "2023-09-14 03:19:01",
-      "album": {
         "name": "Dia de Muertos",
         "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 149333,
       "name": "Cempasuchil",
       "url": "https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA"
+    },
+    {
+      "added_at": "2023-09-14 03:19:01",
+      "album": {
+        "name": "Alc\u00e1zar",
+        "url": "https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ"
+      },
+      "artists": [
+        {
+          "name": "Tranquilo",
+          "url": "https://open.spotify.com/artist/1nsZek7hpjsfxkKDwRykLE"
+        }
+      ],
+      "duration_ms": 98653,
+      "name": "Alc\u00e1zar",
+      "url": "https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE"
     },
     {
       "added_at": "2023-09-14 03:19:01",

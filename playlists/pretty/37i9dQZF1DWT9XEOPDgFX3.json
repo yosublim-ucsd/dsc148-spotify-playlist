@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Briston Maroney",
-  "num_followers": 75264,
+  "num_followers": 75338,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzAzMTM3MGE1NWZiYTA4ODM1YWQ5ZjQyZTkxYjkzNWMxMGEyMTZk",
+  "snapshot_id": "MCxjOWZiZWNhNzJiZjM1NjQ3NmU2YzkxZjA0OWFiYzQ3NWI4MjJiMzRi",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Broadview",
-        "url": "https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Broadview",
-      "url": "https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "In Two",
         "url": "https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 143162,
       "name": "In Two",
       "url": "https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Broadview",
+        "url": "https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Broadview",
+      "url": "https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "To Enjoy is the Only Thing",
+        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 252454,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Holdup",
         "url": "https://open.spotify.com/album/0xwKLtHe9vEa7a4w88guxk"
       },
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+        "name": "As You Are",
+        "url": "https://open.spotify.com/album/1C11POJDeirmj0HP7JGF2w"
       },
       "artists": [
         {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
         }
       ],
-      "duration_ms": 252454,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
+      "duration_ms": 141946,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1263,22 +1279,6 @@
       "duration_ms": 215586,
       "name": "my house is warm",
       "url": "https://open.spotify.com/track/5szktaZo20RhrFUfRp4Res"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "As You Are",
-        "url": "https://open.spotify.com/album/1C11POJDeirmj0HP7JGF2w"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 141946,
-      "name": "As You Are",
-      "url": "https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "in another life",
+        "url": "https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "burner phone",
+      "url": "https://open.spotify.com/track/1vB0pKXnvQaeqSGkoeNJ9t"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Barbara",
         "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 162560,
       "name": "Catch Your Eye",
       "url": "https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "in another life",
-        "url": "https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "burner phone",
-      "url": "https://open.spotify.com/track/1vB0pKXnvQaeqSGkoeNJ9t"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Three Hours",
-        "url": "https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT"
-      },
-      "artists": [
-        {
-          "name": "John Parish",
-          "url": "https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk"
-        },
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 272567,
-      "name": "Three Hours",
-      "url": "https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 319053,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Three Hours",
+        "url": "https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT"
+      },
+      "artists": [
+        {
+          "name": "John Parish",
+          "url": "https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk"
+        },
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 272567,
+      "name": "Three Hours",
+      "url": "https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1891,38 +1891,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Sorceress",
-        "url": "https://open.spotify.com/album/0CGHgo9imbQfU2n8LdbVDO"
-      },
-      "artists": [
-        {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
-        }
-      ],
-      "duration_ms": 186509,
-      "name": "Wind On Tin",
-      "url": "https://open.spotify.com/track/49TYOtiNamKbN1xGIaNOgV"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Coyotes",
-        "url": "https://open.spotify.com/album/4oi348TEEySIOcEJPnVSrI"
-      },
-      "artists": [
-        {
-          "name": "Public Library Commute",
-          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Coyotes",
-      "url": "https://open.spotify.com/track/0hUjeGobTWYBa5DmlHOeoR"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Bury Your Horses",
         "url": "https://open.spotify.com/album/0p9h901vVxQXkcdPwNt2bS"
       },
@@ -1935,6 +1903,22 @@
       "duration_ms": 233984,
       "name": "Dr. Johann Averies",
       "url": "https://open.spotify.com/track/6XnocPwfmJ1Sr1ZstHOTTg"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Sorceress",
+        "url": "https://open.spotify.com/album/0CGHgo9imbQfU2n8LdbVDO"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "duration_ms": 186509,
+      "name": "Wind On Tin",
+      "url": "https://open.spotify.com/track/49TYOtiNamKbN1xGIaNOgV"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1955,18 +1939,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Mouse Me Cat You",
-        "url": "https://open.spotify.com/album/10US8WPvdKCwAjGyU1HLVS"
+        "name": "Coyotes",
+        "url": "https://open.spotify.com/album/4oi348TEEySIOcEJPnVSrI"
       },
       "artists": [
         {
-          "name": "MyKey",
-          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
         }
       ],
-      "duration_ms": 217329,
-      "name": "Mouse Me Cat You",
-      "url": "https://open.spotify.com/track/75WlJmJCkwsbgwrLEle4mp"
+      "duration_ms": 183800,
+      "name": "Coyotes",
+      "url": "https://open.spotify.com/track/0hUjeGobTWYBa5DmlHOeoR"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1983,6 +1967,22 @@
       "duration_ms": 222800,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/6kmeI9upOHk6TRSi2StNlr"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Mouse Me Cat You",
+        "url": "https://open.spotify.com/album/10US8WPvdKCwAjGyU1HLVS"
+      },
+      "artists": [
+        {
+          "name": "MyKey",
+          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
+        }
+      ],
+      "duration_ms": 217329,
+      "name": "Mouse Me Cat You",
+      "url": "https://open.spotify.com/track/75WlJmJCkwsbgwrLEle4mp"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Out of My Province",
-        "url": "https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk"
-      },
-      "artists": [
-        {
-          "name": "Nadia Reid",
-          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
-        }
-      ],
-      "duration_ms": 287150,
-      "name": "Oh Canada",
-      "url": "https://open.spotify.com/track/4LKH9EGWayUvhM3CzmPVEI"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Humor",
         "url": "https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR"
       },
@@ -2051,18 +2035,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Mia Gargaret",
-        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
+        "name": "Out of My Province",
+        "url": "https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk"
       },
       "artists": [
         {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
         }
       ],
-      "duration_ms": 97643,
-      "name": "lesson",
-      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
+      "duration_ms": 287150,
+      "name": "Oh Canada",
+      "url": "https://open.spotify.com/track/4LKH9EGWayUvhM3CzmPVEI"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2079,6 +2063,22 @@
       "duration_ms": 217066,
       "name": "Lawn",
       "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Mia Gargaret",
+        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 97643,
+      "name": "lesson",
+      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
     }
   ],
   "unique_name": "Folk Arc",

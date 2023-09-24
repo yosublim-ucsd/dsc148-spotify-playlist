@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: James Francis
 
-107 songs - 5 hr 54 min
+108 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [folding edges](https://open.spotify.com/track/5n5y0n7equo0sYNbjN6kg4) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W) | [folding edges](https://open.spotify.com/album/0LrIgQ8ru1dhWY00oPms5p) | 2:21 | 2023-08-22 |  |
 | [Fork In The Rhodes](https://open.spotify.com/track/3x5ZyzDcGUHVTfpKJXoevK) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 3:58 | 2023-08-22 |  |
 | [fugla](https://open.spotify.com/track/38tYOR0HDj5UA2hev4YZvJ) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [fugla](https://open.spotify.com/album/2MyxEuKVIJgT2RHpK2HpUO) | 2:10 | 2023-08-22 |  |
-| [Goldfoil](https://open.spotify.com/track/0SVgLGkpkGz8PI6fdQbMeO) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Goldfoil](https://open.spotify.com/album/7zOVyVUPJZXiE9vYAwoiuC) | 2:34 | 2023-08-25 |  |
+| [Goldfoil](https://open.spotify.com/track/0SVgLGkpkGz8PI6fdQbMeO) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Goldfoil](https://open.spotify.com/album/7zOVyVUPJZXiE9vYAwoiuC) | 2:34 | 2023-08-25 | 2023-09-24 |
 | [Hejdå Kalvsnäs](https://open.spotify.com/track/1w3sKSxr3tYfapEOijOMkp) | [Ivan Blomqvist](https://open.spotify.com/artist/2oUbOThqfFheldf9E8JXqm) | [Bror](https://open.spotify.com/album/6DWVse4ijyv7htxjpnGiU9) | 6:59 | 2023-08-22 |  |
 | [Heyoka](https://open.spotify.com/track/3NCnbcbwC9mO8DnHGFMShE) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Dédalo](https://open.spotify.com/album/3VG63zwDBrNHX52aWzDxFA) | 3:09 | 2023-08-22 |  |
 | [Hypnagogia Wakefull Dreams](https://open.spotify.com/track/2VvDKx7lzdarObpQFn1iAh) | [HawkOne](https://open.spotify.com/artist/7Dlqz8agsXxLV5fwDPT65Y), [Raz\-One](https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP) | [Hypnagogia Wakefull Dreams](https://open.spotify.com/album/1rOHNSH1iKXfUrDlzqvwdv) | 2:18 | 2023-08-22 |  |
@@ -84,6 +84,7 @@
 | [Plage des Casernes](https://open.spotify.com/track/1Clcv7tRrcpxWVMdieibkd) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Plage des Casernes](https://open.spotify.com/album/3CbjF8Luwm8Xe7v33DwfdX) | 2:16 | 2023-08-22 |  |
 | [Remote Planet](https://open.spotify.com/track/4smyrNQADEnjkGPq63Mhqo) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Remote Planet](https://open.spotify.com/album/2haESr4vtT5qJnJlucCk1R) | 2:42 | 2023-08-22 |  |
 | [Rivers](https://open.spotify.com/track/5mCtECEiN0CmjDDUB450KR) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Chris Keys](https://open.spotify.com/artist/4Reen2gOVFXG3PIVMiq9ur) | [Rivers](https://open.spotify.com/album/24btn0dNAQauTIEK9sGQGq) | 2:40 | 2023-08-22 |  |
+| [Routes To Knowledge](https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN) | [The Golden Eternity](https://open.spotify.com/artist/4aqECXxlXiQKDaOIJYrwTu) | [Routes To Knowledge](https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl) | 2:57 | 2023-09-22 |  |
 | [Sapphire](https://open.spotify.com/track/4EZmaOxulwwYXoDTIjRUTl) | [Guy Rickard](https://open.spotify.com/artist/0YxB3L46MotRo4ngOeOB5M), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Sapphire](https://open.spotify.com/album/3l1BpaDK1dFnKJZ2m5ypDC) | 2:24 | 2023-08-22 |  |
 | [Saturnine](https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Saturnine](https://open.spotify.com/album/4DsFPZkhSucdsBJ3uhc5aK) | 4:53 | 2023-08-22 |  |
 | [Saucisses](https://open.spotify.com/track/4JHGTOdOKWXuGoilIl1AOk) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF) | [Saucisses](https://open.spotify.com/album/044XUQSGNdY6MjmGR9goR0) | 2:27 | 2023-08-22 |  |

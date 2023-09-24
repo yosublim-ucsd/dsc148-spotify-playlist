@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 125787,
+  "num_followers": 125823,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTE4ZTJkNWVlMzNjMGMyOTNiNGZhZDljNzQ3Y2ZiNGEzYWYxMzA5",
+  "snapshot_id": "MCw4ZDlmMjVmZDAxZjcxMzFiODk4ZjJlZjcxZTNlYzdmZWUyODQzZjg1",
   "tracks": [
     {
       "added_at": "2023-02-17 05:58:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Lo Mejor de Savia Andina (M\u00fasica Boliviana)",
-        "url": "https://open.spotify.com/album/3TThUIkeWMC62bZdIdYeV9"
-      },
-      "artists": [
-        {
-          "name": "Savia Andina",
-          "url": "https://open.spotify.com/artist/0hkFv9719WLJ2uupZTn0ru"
-        }
-      ],
-      "duration_ms": 214906,
-      "name": "Boquer\u00f3n Abandonado",
-      "url": "https://open.spotify.com/track/0ECth7Ix1HakMkZVOWDALf"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "\u201dZamba Puta\u201d",
         "url": "https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 235682,
       "name": "La Felicidad",
       "url": "https://open.spotify.com/track/4FDiLM3onP5Kpd4fdz352D"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Lo Mejor de Savia Andina (M\u00fasica Boliviana)",
+        "url": "https://open.spotify.com/album/3TThUIkeWMC62bZdIdYeV9"
+      },
+      "artists": [
+        {
+          "name": "Savia Andina",
+          "url": "https://open.spotify.com/artist/0hkFv9719WLJ2uupZTn0ru"
+        }
+      ],
+      "duration_ms": 214906,
+      "name": "Boquer\u00f3n Abandonado",
+      "url": "https://open.spotify.com/track/0ECth7Ix1HakMkZVOWDALf"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -483,6 +483,42 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Relato",
+      "url": "https://open.spotify.com/track/6igYafJjuXcq87DLZJyXzW"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Viajante",
+        "url": "https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ"
+      },
+      "artists": [
+        {
+          "name": "Tremor",
+          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
+        }
+      ],
+      "duration_ms": 248941,
+      "name": "Caracol",
+      "url": "https://open.spotify.com/track/3QJcapradiMKjvI0nKb2Vn"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
         "name": "Astro",
         "url": "https://open.spotify.com/album/79WFnNXKctYYSwJxas6AI8"
       },
@@ -511,22 +547,6 @@
       "duration_ms": 266080,
       "name": "Isla Negra",
       "url": "https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
-        "name": "Viajante",
-        "url": "https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ"
-      },
-      "artists": [
-        {
-          "name": "Tremor",
-          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
-        }
-      ],
-      "duration_ms": 248941,
-      "name": "Caracol",
-      "url": "https://open.spotify.com/track/3QJcapradiMKjvI0nKb2Vn"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -575,26 +595,6 @@
       "duration_ms": 218752,
       "name": "Gemas",
       "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Relato",
-      "url": "https://open.spotify.com/track/6igYafJjuXcq87DLZJyXzW"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Hoja de Coca",
-        "url": "https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe"
-      },
-      "artists": [
-        {
-          "name": "Rumillajta",
-          "url": "https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "Hoja de Coca",
-      "url": "https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Isqun",
         "url": "https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 202008,
       "name": "Francisca Pizarro",
       "url": "https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Hoja de Coca",
+        "url": "https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe"
+      },
+      "artists": [
+        {
+          "name": "Rumillajta",
+          "url": "https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx"
+        }
+      ],
+      "duration_ms": 266066,
+      "name": "Hoja de Coca",
+      "url": "https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Lo Mejor de los Kjarkas",
-        "url": "https://open.spotify.com/album/4AioSjCy9kSATUkERbkzo9"
+        "name": "Mezcla",
+        "url": "https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa"
       },
       "artists": [
         {
-          "name": "Los Kjarkas",
-          "url": "https://open.spotify.com/artist/0tkboyBYNymYytYlb9EXkN"
+          "name": "M.A.K.U SoundSystem",
+          "url": "https://open.spotify.com/artist/1XvVZZxpcgZw7MUG5BIUJh"
         }
       ],
-      "duration_ms": 216372,
-      "name": "Sunch'u T'ikitay - Remastered",
-      "url": "https://open.spotify.com/track/1kuH31to6yBPXaAvVUmisu"
+      "duration_ms": 351173,
+      "name": "De Barrio",
+      "url": "https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0"
     }
   ],
   "unique_name": "Entre los Andes",

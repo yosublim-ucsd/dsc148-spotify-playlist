@@ -4,7 +4,7 @@
 
 > Beyond genre, beyond language, beyond borders\. Cover: Rocco.
 
-783 songs - 1 day 18 hr 59 min
+784 songs - 1 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -730,7 +730,8 @@
 | [up / down](https://open.spotify.com/track/06rFDcdBI6sZYMySwZ93nr) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [up / down](https://open.spotify.com/album/6UuyLNmYlCl6opJtdewWH5) | 1:53 | 2023-04-28 | 2023-07-15 |
 | [Vanilla Ice Cream](https://open.spotify.com/track/5nK8YwcjEblpT8RCYgGq0o) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [Vanilla Ice Cream](https://open.spotify.com/album/0xv3zhCfQjHLlWnTeU0Cm6) | 3:25 | 2022-01-14 | 2023-02-11 |
 | [Vanish](https://open.spotify.com/track/7epg2WffKZL79Hm1P16p5v) | [Rosalyn](https://open.spotify.com/artist/0eBxT8cgP2efRvTQWyomVY) | [Vanish](https://open.spotify.com/album/5fWgAep1WpZeafJCRpbxhO) | 4:04 | 2022-01-14 | 2022-04-09 |
-| [Venus](https://open.spotify.com/track/3Ix717qz55IpboW4fz3cyf) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Fish Bowl](https://open.spotify.com/album/277iuWreJUuseNVEXN5NrA) | 2:27 | 2023-05-05 |  |
+| [Venus](https://open.spotify.com/track/3Ix717qz55IpboW4fz3cyf) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Fish Bowl](https://open.spotify.com/album/277iuWreJUuseNVEXN5NrA) | 2:27 | 2023-05-05 | 2023-09-24 |
+| [Venus](https://open.spotify.com/track/4eNGVnQWq6FxBKpKHVRKkH) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Fish Bowl](https://open.spotify.com/album/0PQMRtZNljTn1i68vJtWO5) | 2:27 | 2023-09-22 |  |
 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 | 2022-01-28 | 2022-04-29 |
 | [victim of nostalgia](https://open.spotify.com/track/6oHXQQLzea4keyHSbFUxtS) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [victim of nostalgia](https://open.spotify.com/album/1q368d6nMTceCEkSYdIqHl) | 2:36 | 2022-04-29 | 2022-07-23 |
 | [Viene y va](https://open.spotify.com/track/7BmOMWZGP24NqOhKHR5nP9) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Viene y va](https://open.spotify.com/album/6GWe6fVPhwpgPU6sfmwM0W) | 2:54 | 2023-03-17 | 2023-08-19 |

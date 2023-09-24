@@ -148,7 +148,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 151000,
       "name": "17",
       "url": "https://open.spotify.com/track/6y4Z3qrOwInrWJhocyiRcA"
@@ -1163,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "Neutronstj\u00e4rnan",
+        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230746,
+      "name": "Alltid n\u00e4stan d\u00e4r",
+      "url": "https://open.spotify.com/track/3R6PS7vYHZDzI610oack26"
+    },
+    {
+      "album": {
         "name": "Allting Har Sitt Pris",
         "url": "https://open.spotify.com/album/2YR3DvmlK0cSQwDbW0z6tv"
       },
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -1612,6 +1630,24 @@
       "duration_ms": 186123,
       "name": "Aura",
       "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
+    },
+    {
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze"
     },
     {
       "album": {
@@ -2504,7 +2540,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 182995,
       "name": "Beroendeframkallande",
       "url": "https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0"
@@ -3558,6 +3594,24 @@
       "duration_ms": 108498,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ"
+    },
+    {
+      "album": {
+        "name": "B\u00e4st h\u00e4r inne",
+        "url": "https://open.spotify.com/album/5StD84eoU8BOFcReirunrU"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299733,
+      "name": "B\u00e4st h\u00e4r inne",
+      "url": "https://open.spotify.com/track/2r8X5szspfSyhUlVes7plU"
     },
     {
       "album": {
@@ -4878,7 +4932,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -4994,6 +5048,32 @@
       "duration_ms": 179133,
       "name": "Dandi dansa",
       "url": "https://open.spotify.com/track/41iZhFesLQ6JLjyPxI4LLL"
+    },
+    {
+      "album": {
+        "name": "Dans fr\u00e5n dig",
+        "url": "https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g"
+      },
+      "artists": [
+        {
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+        },
+        {
+          "name": "Sara Kurt",
+          "url": "https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh"
+        },
+        {
+          "name": "Le Winter",
+          "url": "https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Dans fr\u00e5n dig",
+      "url": "https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb"
     },
     {
       "album": {
@@ -5128,7 +5208,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -5628,7 +5708,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 165045,
       "name": "Din l\u00e5t",
       "url": "https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G"
@@ -5744,7 +5824,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 132666,
       "name": "DISKOTEKA",
       "url": "https://open.spotify.com/track/16jNbcjTGEskPA06R4wbQz"
@@ -6619,6 +6699,28 @@
     },
     {
       "album": {
+        "name": "Durackord",
+        "url": "https://open.spotify.com/album/2XMFONFWIuKj3Uwjzc4t08"
+      },
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        },
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179232,
+      "name": "Durackord",
+      "url": "https://open.spotify.com/track/3GhXLFuS9GSzWqrrjlqRoX"
+    },
+    {
+      "album": {
         "name": "Dybala (Remix)",
         "url": "https://open.spotify.com/album/7oGFqps90o6PRG1x9L5a2Q"
       },
@@ -7128,6 +7230,24 @@
       "duration_ms": 192533,
       "name": "En kv\u00e4ll i juni",
       "url": "https://open.spotify.com/track/6xYeTISkTw4S9K9hJgr1KJ"
+    },
+    {
+      "album": {
+        "name": "Neutronstj\u00e4rnan",
+        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256320,
+      "name": "En lampa i m\u00e4ssing",
+      "url": "https://open.spotify.com/track/4BJP5hoJG1UXiPTnyEQNFg"
     },
     {
       "album": {
@@ -8948,7 +9068,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
@@ -10263,6 +10383,24 @@
     },
     {
       "album": {
+        "name": "Neutronstj\u00e4rnan",
+        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269040,
+      "name": "G\u00e4rna lite till",
+      "url": "https://open.spotify.com/track/15Fs9wpP2uQQewAceBGYPc"
+    },
+    {
+      "album": {
         "name": "G\u00c5R DET BRA?",
         "url": "https://open.spotify.com/album/7titrAJAZMyrsvcnrrZ2pR"
       },
@@ -11328,6 +11466,24 @@
       "duration_ms": 137942,
       "name": "Hjertel\u00f8s",
       "url": "https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3"
+    },
+    {
+      "album": {
+        "name": "Hj\u00e4rtat utanp\u00e5 min skjorta",
+        "url": "https://open.spotify.com/album/7egKQhPVOgOgM22MIRfYmP"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146331,
+      "name": "Hj\u00e4rtat utanp\u00e5 min skjorta",
+      "url": "https://open.spotify.com/track/1OOQi3ImCyejs9oLZJeG7I"
     },
     {
       "album": {
@@ -13602,7 +13758,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 214187,
       "name": "Josefin",
       "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"
@@ -14530,6 +14686,24 @@
       "duration_ms": 228893,
       "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
       "url": "https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS"
+    },
+    {
+      "album": {
+        "name": "K\u00e4nslokall",
+        "url": "https://open.spotify.com/album/0by3vmltZZetCzPLg90D1p"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123169,
+      "name": "K\u00e4nslokall",
+      "url": "https://open.spotify.com/track/4eamNeQdsYOWCxqm6s4r8w"
     },
     {
       "album": {
@@ -17145,6 +17319,24 @@
     },
     {
       "album": {
+        "name": "Neutronstj\u00e4rnan",
+        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397253,
+      "name": "Min gata i stan",
+      "url": "https://open.spotify.com/track/5qXKuapHkxosZWkYjwrzj3"
+    },
+    {
+      "album": {
         "name": "MIN K\u00c4RA MAMMA",
         "url": "https://open.spotify.com/album/0Pxynl2BaH8hA0jIrnlPVO"
       },
@@ -17660,7 +17852,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 154960,
       "name": "MULTIVITAMIN",
       "url": "https://open.spotify.com/track/5LLY0yvNGk6FxADFydtpVW"
@@ -18651,6 +18843,24 @@
     },
     {
       "album": {
+        "name": "Neutronstj\u00e4rnan",
+        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296480,
+      "name": "N\u00e5t som verkligen \u00e4r bra",
+      "url": "https://open.spotify.com/track/2AF3NZG80HjQve5W7wu9Th"
+    },
+    {
+      "album": {
         "name": "N\u00e5t som verkligen \u00e4r bra",
         "url": "https://open.spotify.com/album/14quXCtH6SS5oZi1pk2GRO"
       },
@@ -19241,6 +19451,24 @@
     },
     {
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+    },
+    {
+      "album": {
         "name": "Paint The Town Red",
         "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
       },
@@ -19252,7 +19480,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
@@ -19282,6 +19510,24 @@
       "duration_ms": 178000,
       "name": "PAKET",
       "url": "https://open.spotify.com/track/7LtgVT3e9MfQo5AWnakby2"
+    },
+    {
+      "album": {
+        "name": "Palmerna",
+        "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147013,
+      "name": "Palmerna",
+      "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
     },
     {
       "album": {
@@ -20052,7 +20298,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 124812,
       "name": "PRAPAPA",
       "url": "https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq"
@@ -20868,7 +21114,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 121219,
       "name": "RID MIG SOM EN DALAH\u00c4ST",
       "url": "https://open.spotify.com/track/74xfr2lyWfi2qZjWtqovBg"
@@ -21178,6 +21424,24 @@
       "duration_ms": 200436,
       "name": "Rom-Com",
       "url": "https://open.spotify.com/track/0GfPbAHD69YgJUQVwMTrtS"
+    },
+    {
+      "album": {
+        "name": "Neutronstj\u00e4rnan",
+        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248293,
+      "name": "Rosor & champagne",
+      "url": "https://open.spotify.com/track/19s1sITOZWsUyCBva6mVs8"
     },
     {
       "album": {
@@ -22688,7 +22952,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 148000,
       "name": "SKEVA BIL",
       "url": "https://open.spotify.com/track/1tOSNNkVKi3AXyHqGsx8kR"
@@ -22892,7 +23156,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 310490,
       "name": "Slime You Out (feat. SZA)",
       "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
@@ -23598,7 +23862,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 160373,
       "name": "Somna",
       "url": "https://open.spotify.com/track/6oEfLCekbv7T0ERha5IQO9"
@@ -27079,6 +27343,24 @@
     },
     {
       "album": {
+        "name": "Neutronstj\u00e4rnan",
+        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203813,
+      "name": "Vad g\u00f6r det om hundra \u00e5r",
+      "url": "https://open.spotify.com/track/5THadTahrY6xuDbzVwqCFG"
+    },
+    {
+      "album": {
         "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig",
         "url": "https://open.spotify.com/album/4y7g9dQcKkmBBNtMYhHxQs"
       },
@@ -27126,7 +27408,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
@@ -27952,6 +28234,24 @@
       "duration_ms": 270493,
       "name": "V\u00e5r julskinka har rymt",
       "url": "https://open.spotify.com/track/1ieq2YaXJBzyJ33fOYvG8W"
+    },
+    {
+      "album": {
+        "name": "Neutronstj\u00e4rnan",
+        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383973,
+      "name": "V\u00e5r tid",
+      "url": "https://open.spotify.com/track/1sLzMNcepqXukRSp61o2Zx"
     },
     {
       "album": {
@@ -29220,6 +29520,24 @@
       "duration_ms": 174080,
       "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver - N!NE EPA Remix",
       "url": "https://open.spotify.com/track/1KRcokkLCrwMPFWeP5Hroa"
+    },
+    {
+      "album": {
+        "name": "Neutronstj\u00e4rnan",
+        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231906,
+      "name": "\u00c4r det n\u00e5t jag ska ta med",
+      "url": "https://open.spotify.com/track/2a7tGulq9dxg88WWHP3XlV"
     },
     {
       "album": {

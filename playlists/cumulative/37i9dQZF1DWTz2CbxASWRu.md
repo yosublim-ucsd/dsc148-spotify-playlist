@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-357 songs - 1 day 1 hr 59 min
+358 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Drume negrita](https://open.spotify.com/track/4SDJ1j1yDow7XtZkd3KG1f) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx), [Manuel Galbán](https://open.spotify.com/artist/5uG50qso5XAfxs6BeXdnld) | [Mambo Sinuendo](https://open.spotify.com/album/7Bbr1kphzvv9LEUoAFMmkj) | 4:59 | 2023-07-10 |  |
 | [Dunia](https://open.spotify.com/track/2z0uvX4r1dxtUXQ4ZPlxkz) | [Yohann Le Ferrand Yeko](https://open.spotify.com/artist/3y07qo45MpNyhqm6LULsb3), [Tina](https://open.spotify.com/artist/1nmKkJDDGhnTAk2RW094D5) | [Dunia](https://open.spotify.com/album/417uYyIQaYK9xlMLISTwLi) | 4:00 | 2023-07-10 |  |
 | [Désolé \(feat\. Fatoumata Diawara\)](https://open.spotify.com/track/1lPjbmk2TylddPKESSIBfm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Song Machine Episode 2](https://open.spotify.com/album/5xbq27ybQPAC8IiLtbHNxN) | 3:56 | 2023-07-10 |  |
+| [Eko Ile](https://open.spotify.com/track/0UsSyf5UyhfbmvD20roRan) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Afrodisiac](https://open.spotify.com/album/45HI1dpu375NsO8F84kwWK) | 6:41 | 2023-07-10 |  |
 | [Eko Ile](https://open.spotify.com/track/0VRPHLUhnbdoPvGUVRhsfL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Afrodisiac](https://open.spotify.com/album/2cBh3ze0atDVhWhFUDoikD) | 6:41 | 2023-07-10 | 2023-09-22 |
 | [El Cuarto de Tula](https://open.spotify.com/track/5zin8iiYEO4UkSxuJl4wX5) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [El Cuarto de Tula](https://open.spotify.com/album/6DUStCCysG291DlT5mnaky) | 4:13 | 2023-07-10 |  |
 | [El Desierto](https://open.spotify.com/track/4aTaow76b7IgtlkhpVhCra) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI) | [La Llorona](https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP) | 3:53 | 2023-07-10 |  |
@@ -309,7 +310,7 @@
 | [Sueno en Paraguay](https://open.spotify.com/track/5VOMJBi8KMutN8DUB1ZYro) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu) | 3:53 | 2023-07-10 |  |
 | [Sueña](https://open.spotify.com/track/36AqjVOrwb29Xc31RBDJAy) | [Sonia De Los Santos](https://open.spotify.com/artist/4aNmQzHcg0vTqPSauw4CKr), [Zeudi Castañeda](https://open.spotify.com/artist/3pwMCl20rE77YMGgCanTif) | [Esperanza](https://open.spotify.com/album/6Xsju25I5pCP0cCNgXs2iv) | 3:04 | 2023-07-10 |  |
 | [Só Nós Dois](https://open.spotify.com/track/3yiXy2ydZP9ZpsYxvUI6sO) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Só Nós Dois](https://open.spotify.com/album/0riMkWHIG90iXfB2WKQTq3) | 3:48 | 2023-07-10 |  |
-| [Ta Lassa \- Hide & Smile Edit](https://open.spotify.com/track/4zO3tHghEN89LhG7zbMGtk) | [International Soleil Band](https://open.spotify.com/artist/3Btuf1RlPWMzHASwRufaNs), [Hide & Smile](https://open.spotify.com/artist/19WmN3fivUDmFsGcxXmlQ8) | [Ta Lassa](https://open.spotify.com/album/6EnZA0e6ioxGM68gWinLlv) | 6:16 | 2023-07-10 |  |
+| [Ta Lassa \- Hide & Smile Edit](https://open.spotify.com/track/4zO3tHghEN89LhG7zbMGtk) | [International Soleil Band](https://open.spotify.com/artist/3Btuf1RlPWMzHASwRufaNs), [Hide & Smile](https://open.spotify.com/artist/19WmN3fivUDmFsGcxXmlQ8) | [Ta Lassa](https://open.spotify.com/album/6EnZA0e6ioxGM68gWinLlv) | 6:16 | 2023-07-10 | 2023-09-24 |
 | [Taariko](https://open.spotify.com/track/1PhE15U1uTnEd3sjusfmG2) | [Sona Jobarteh](https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr), [Zihirina Maiga](https://open.spotify.com/artist/372GQznySYAsjGDsWdn1iQ) | [Badinyaa Kumoo](https://open.spotify.com/album/1lFli5KvWDQ44irop8P9se) | 6:02 | 2023-07-10 |  |
 | [Tahabort](https://open.spotify.com/track/1fd4zR1mI316y8y8Yq5txJ) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Imarhan](https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL) | 3:30 | 2023-07-10 |  |
 | [Take Five](https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub Reggae](https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS) | 3:38 | 2023-07-10 |  |

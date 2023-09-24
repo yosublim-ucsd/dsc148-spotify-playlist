@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Taco Hemingway
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,291 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,478 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [RYSY](https://open.spotify.com/track/6d2W4tWQGGhhnJe4zddAUi) | [Pawbeats](https://open.spotify.com/artist/4WrzIcfTrK5U6UcDp4cX6L), [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY), [Paluch](https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv) | [RYSY](https://open.spotify.com/album/3pBEh2pgcaYJz0qwWqYmtg) | 2:50 |
 | 50 | [NA ZAWSZE](https://open.spotify.com/track/4l2ugyJ52D0ErwcS0gB7da) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79) | 2:15 |
 
-Snapshot ID: `MCw1ZTUzNGM5YzM1Y2FiMGQ5YmQ2M2VhMTBjODQ5ZTMxZmVlMjJiMGEx`
+Snapshot ID: `MCxmYjRhMWYwODk1YWQwZDZjZTZjYjJkMzM2NmNkYThmMGRiYjQ1ODAx`

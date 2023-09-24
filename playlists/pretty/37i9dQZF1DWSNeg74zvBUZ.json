@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 19102,
+  "num_followers": 19107,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzU1MTU4NDJjOTBkNGVmNjUwODc3NjJiYzE5MzM4YWFkN2M2ZmY2",
+  "snapshot_id": "MCw1MWQ2YmIxYWVmNzBlMWZiYjFkNTFkOTdiMDcxNmE3MzFkYWExZmIw",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Who Are You",
-        "url": "https://open.spotify.com/album/3IlpmrOKZkuPNopf0WCk1F"
-      },
-      "artists": [
-        {
-          "name": "E Ruscha V",
-          "url": "https://open.spotify.com/artist/0NOdYxMmwVSeIshVxo6eVE"
-        }
-      ],
-      "duration_ms": 124265,
-      "name": "The Hostess",
-      "url": "https://open.spotify.com/track/0ZibOOMZvxb78LLTzkogKL"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Six Songs for Invisible Gardens",
         "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 223000,
       "name": "Peperomia Seedling",
       "url": "https://open.spotify.com/track/5Gly7CIj29ZKPw5Zo0qFmz"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/3IlpmrOKZkuPNopf0WCk1F"
+      },
+      "artists": [
+        {
+          "name": "E Ruscha V",
+          "url": "https://open.spotify.com/artist/0NOdYxMmwVSeIshVxo6eVE"
+        }
+      ],
+      "duration_ms": 124265,
+      "name": "The Hostess",
+      "url": "https://open.spotify.com/track/0ZibOOMZvxb78LLTzkogKL"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -741,22 +741,6 @@
       "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
     },
     {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "A flame my love, a frequency",
-        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 128354,
-      "name": "November",
-      "url": "https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx"
-    },
-    {
       "added_at": "2022-08-03 03:18:13",
       "album": {
         "name": "Biologica, Volume One (Water)",
@@ -771,6 +755,22 @@
       "duration_ms": 156073,
       "name": "12121",
       "url": "https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "A flame my love, a frequency",
+        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
+      },
+      "artists": [
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "duration_ms": 128354,
+      "name": "November",
+      "url": "https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx"
     },
     {
       "added_at": "2021-09-10 04:35:25",

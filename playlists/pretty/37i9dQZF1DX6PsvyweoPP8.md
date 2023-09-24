@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,558 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,600 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 6 | [Sintomas de Prazer \- Live](https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sintomas de Prazer \- Live](https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4) | 2:31 |
 | 7 | [Ninguém Ama Ninguém](https://open.spotify.com/track/1z2JhprrpIx3Frjh59NXud) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Ninguém Ama Ninguém](https://open.spotify.com/album/5pNjfoqyUbZi2msTjdxPWM) | 1:55 |
 | 8 | [Meia Noite](https://open.spotify.com/track/117CW2893WqAWbhYoT1r1T) | [Urbanamente](https://open.spotify.com/artist/49rYuhLNSc8WNdIw5CV0kT), [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [Meia Noite](https://open.spotify.com/album/0vK40migZmPRt5MWOut01C) | 2:14 |
-| 9 | [De Marola](https://open.spotify.com/track/5DlrNzF7YmK2dZBjfr0qZ2) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Skinny Beats](https://open.spotify.com/artist/5qAJZIUIWJiFxjqOluT7h4) | [Paz Terrível](https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90) | 2:49 |
+| 9 | [De Marola](https://open.spotify.com/track/5DlrNzF7YmK2dZBjfr0qZ2) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r) | [Paz Terrível](https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90) | 2:49 |
 | 10 | [Good Vibe](https://open.spotify.com/track/0ssgd2ZvDawP0KHGfBYRpv) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 3:01 |
 | 11 | [Cabernet](https://open.spotify.com/track/0xwgvtubxQLhih95DsBenc) | [Vulgo Ivy](https://open.spotify.com/artist/2RB1vNsqpdZzvGepJMUBV5) | [Cabernet](https://open.spotify.com/album/2IOs6J2xnEhyPQBYfUGXpC) | 2:44 |
 | 12 | [Moderada](https://open.spotify.com/track/6ZIjjfDP7ztfZAT8s1cvXF) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Toda Noite](https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe) | 1:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 74 | [Não Demora](https://open.spotify.com/track/2upeA1eDVdtH4t7zUdGULn) | [Mati](https://open.spotify.com/artist/6q4OTLGMcroTVXFFKSkzzC), [Ni Munhoz](https://open.spotify.com/artist/3e0wWnjJSczRhvjFKT7kQZ) | [Não Demora](https://open.spotify.com/album/0NtFR23BCN7A9jCfbaj54z) | 2:46 |
 | 75 | [Na Sua Rota](https://open.spotify.com/track/2ru53XgZV761mqXaBwSk5Y) | [Diego Thug](https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw), [VK](https://open.spotify.com/artist/00fzfkVD3y9sfUfdaYDAGf) | [Smooth](https://open.spotify.com/album/4Tp411Bh9vDjXlJRHsSpLD) | 3:32 |
 
-Snapshot ID: `MCw2ODcyY2Y5ZmNhMTc0NzgyMTE3N2Y3ZDJkMDk1ZDYxMmQwMTIzNzAx`
+Snapshot ID: `MCxkZjQzMTNlYmNlNWU0MGQxZmVjMmMxZWQ0NTFmNTM1NDU1NzI0ZTM0`

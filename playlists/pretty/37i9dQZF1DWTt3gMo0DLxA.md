@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover \- OG
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,591 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,783 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 |
 | 50 | [Evare Nuvvu](https://open.spotify.com/track/7m64tTau2Rh6hzVDA1oV6K) | [Harish Raghavendra](https://open.spotify.com/artist/4Kw0NhqitzjxLy1jH5FlTg) | [Rajubhai](https://open.spotify.com/album/7IeNvR1LQ1Z8sWM8KaAB2O) | 4:10 |
 
-Snapshot ID: `MCxjMmJkM2Q4ZjBjYmQ5NGVmNmIwNmI4YWMwNzg1MDQ1M2MxMzJlNWI2`
+Snapshot ID: `MCwzY2RkNjlkZGU1NzA4ZGQ3YTBhNGZhMTZiMzVkYTFlZDk5ZDU1ZmFh`

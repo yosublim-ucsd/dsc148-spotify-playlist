@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Laura Misch",
-  "num_followers": 297058,
+  "num_followers": 297129,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTEwYjJiZmEwZWQwMjhkNzNkYWEwMmMyZTY5M2NlODBkNWU4OTZi",
+  "snapshot_id": "MCw2YTcxNDVjZjU3ZGQ4NjZlNTViMmMxNzZjNGUyODJmNWQxYjdjMGI4",
   "tracks": [
     {
       "added_at": "2023-09-21 23:00:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "An Ever Changing View",
+        "url": "https://open.spotify.com/album/2mDAsYdtmCGxxcYRFkTit0"
+      },
+      "artists": [
+        {
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+        }
+      ],
+      "duration_ms": 392146,
+      "name": "An Ever Changing View",
+      "url": "https://open.spotify.com/track/7oOdeQyktbC4mCnuSYTFDk"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "Means The World",
         "url": "https://open.spotify.com/album/5O0iPLncgsSWVTr5FyF2o5"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 181130,
       "name": "Means The World",
       "url": "https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "An Ever Changing View",
-        "url": "https://open.spotify.com/album/2mDAsYdtmCGxxcYRFkTit0"
-      },
-      "artists": [
-        {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
-        }
-      ],
-      "duration_ms": 392146,
-      "name": "An Ever Changing View",
-      "url": "https://open.spotify.com/track/7oOdeQyktbC4mCnuSYTFDk"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -539,26 +539,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Motherland Journey",
-        "url": "https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg"
+        "name": "Variables",
+        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
       "artists": [
         {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        },
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        },
-        {
-          "name": "Dylan Jones",
-          "url": "https://open.spotify.com/artist/4XoX7Wk4oPECLHHbGNMfhG"
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
         }
       ],
-      "duration_ms": 215863,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg"
+      "duration_ms": 403933,
+      "name": "Foreword",
+      "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -579,18 +571,26 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Variables",
-        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
+        "name": "Motherland Journey",
+        "url": "https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg"
       },
       "artists": [
         {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        },
+        {
+          "name": "Dylan Jones",
+          "url": "https://open.spotify.com/artist/4XoX7Wk4oPECLHHbGNMfhG"
         }
       ],
-      "duration_ms": 403933,
-      "name": "Foreword",
-      "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
+      "duration_ms": 215863,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -699,6 +699,30 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/1sdWZoa3udg3L1l3EuNk8j"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "duration_ms": 237507,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/4saR4OyR8NalWxaDjN5cVf"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/2iJ77SyZvqXvNPdf71QGp3"
       },
@@ -735,26 +759,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/1sdWZoa3udg3L1l3EuNk8j"
+        "name": "Saturnine",
+        "url": "https://open.spotify.com/album/4DsFPZkhSucdsBJ3uhc5aK"
       },
       "artists": [
         {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
         }
       ],
-      "duration_ms": 237507,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/4saR4OyR8NalWxaDjN5cVf"
+      "duration_ms": 293298,
+      "name": "Saturnine",
+      "url": "https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -775,22 +791,6 @@
       "duration_ms": 178173,
       "name": "Apho",
       "url": "https://open.spotify.com/track/6EMP27Iax2P3LrfFggIt1c"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Saturnine",
-        "url": "https://open.spotify.com/album/4DsFPZkhSucdsBJ3uhc5aK"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 293298,
-      "name": "Saturnine",
-      "url": "https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -851,38 +851,26 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Variables",
-        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
+        "name": "Champagne Kisses",
+        "url": "https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU"
       },
       "artists": [
         {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 450240,
-      "name": "BC",
-      "url": "https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "edbl & friends - JPRK",
-        "url": "https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G"
-      },
-      "artists": [
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+          "name": "Reuben James",
+          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
         },
         {
-          "name": "JPRK",
-          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
+          "name": "Tom Ford",
+          "url": "https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
         }
       ],
-      "duration_ms": 161771,
-      "name": "5k",
-      "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
+      "duration_ms": 235433,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/2n1tmBwwgF0dP0kU9CELhL"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -907,6 +895,26 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "edbl & friends - JPRK",
+        "url": "https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "JPRK",
+          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
+        }
+      ],
+      "duration_ms": 161771,
+      "name": "5k",
+      "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "Black Classical Music",
         "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
       },
@@ -927,26 +935,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Champagne Kisses",
-        "url": "https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU"
+        "name": "Variables",
+        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
       "artists": [
         {
-          "name": "Reuben James",
-          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
-        },
-        {
-          "name": "Tom Ford",
-          "url": "https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE"
-        },
-        {
-          "name": "CARRTOONS",
-          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
         }
       ],
-      "duration_ms": 235433,
-      "name": "Sun Goes Down",
-      "url": "https://open.spotify.com/track/2n1tmBwwgF0dP0kU9CELhL"
+      "duration_ms": 450240,
+      "name": "BC",
+      "url": "https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "My Voice",
+        "url": "https://open.spotify.com/album/3307v7bngEkIXsB6OZWBy8"
+      },
+      "artists": [
+        {
+          "name": "Ashley Henry",
+          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
+        }
+      ],
+      "duration_ms": 271040,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/1ssRJeVukT0jJEoBO8b0c7"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "The Spoon",
         "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
       },
@@ -1191,18 +1207,38 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "My Voice",
-        "url": "https://open.spotify.com/album/3307v7bngEkIXsB6OZWBy8"
+        "name": "Knocked Down",
+        "url": "https://open.spotify.com/album/7Aaay06Qqs7PTimOjKuIFC"
       },
       "artists": [
         {
-          "name": "Ashley Henry",
-          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Asher Kosher",
+          "url": "https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6"
+        },
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        },
+        {
+          "name": "Turt",
+          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
+        },
+        {
+          "name": "Paya",
+          "url": "https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO"
+        },
+        {
+          "name": "Joe Beard",
+          "url": "https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP"
         }
       ],
-      "duration_ms": 271040,
-      "name": "Breeze",
-      "url": "https://open.spotify.com/track/1ssRJeVukT0jJEoBO8b0c7"
+      "duration_ms": 215800,
+      "name": "Knocked Down",
+      "url": "https://open.spotify.com/track/6eqB9nHqFg5lXl0R4KJOfn"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1235,22 +1271,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 352633,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Wave Decay",
         "url": "https://open.spotify.com/album/1CmKCXUb6mRilW1KHYUJTh"
       },
@@ -1263,6 +1283,42 @@
       "duration_ms": 291293,
       "name": "Wave Decay",
       "url": "https://open.spotify.com/track/4lBKAEQXVzaicd1FLy83Lu"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "(Why You So) Green With Envy",
+        "url": "https://open.spotify.com/album/1paw3uKEs0vZ4HcBsjjjuE"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        },
+        {
+          "name": "Oscar #Worldpeace",
+          "url": "https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs"
+        }
+      ],
+      "duration_ms": 292306,
+      "name": "(Why You So) Green With Envy",
+      "url": "https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 352633,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1283,6 +1339,22 @@
       "duration_ms": 209020,
       "name": "Love Theme For Leisure Trip",
       "url": "https://open.spotify.com/track/1v0gfS8rwkD3Vgnm12NslK"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Latency",
+        "url": "https://open.spotify.com/album/2GdN1zVGThhW0YLSViECgF"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "duration_ms": 226332,
+      "name": "Latency",
+      "url": "https://open.spotify.com/track/0sGeZR0HjMbEx5o1xTWpvF"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1319,58 +1391,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Latency",
-        "url": "https://open.spotify.com/album/2GdN1zVGThhW0YLSViECgF"
+        "name": "Statue",
+        "url": "https://open.spotify.com/album/4wFr0pQoS4kiBXugi8eaTF"
       },
       "artists": [
         {
-          "name": "corto.alto",
-          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+          "name": "Tilly Valentine",
+          "url": "https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP"
         }
       ],
-      "duration_ms": 226332,
-      "name": "Latency",
-      "url": "https://open.spotify.com/track/0sGeZR0HjMbEx5o1xTWpvF"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "(Why You So) Green With Envy",
-        "url": "https://open.spotify.com/album/1paw3uKEs0vZ4HcBsjjjuE"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        },
-        {
-          "name": "Oscar #Worldpeace",
-          "url": "https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs"
-        }
-      ],
-      "duration_ms": 292306,
-      "name": "(Why You So) Green With Envy",
-      "url": "https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "your intuition is your friend (radio edit)",
-        "url": "https://open.spotify.com/album/57enkmVamHuaYnkD5ZoEvB"
-      },
-      "artists": [
-        {
-          "name": "muva of Earth",
-          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
-        },
-        {
-          "name": "Edward Wakili-Hick",
-          "url": "https://open.spotify.com/artist/1MNaRPIUnpKM8gcmw1gaP7"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "your intuition is your friend - radio edit",
-      "url": "https://open.spotify.com/track/6rioSjyjKCmkM52gZjJluM"
+      "duration_ms": 204254,
+      "name": "Statue",
+      "url": "https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1391,34 +1423,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Statue",
-        "url": "https://open.spotify.com/album/4wFr0pQoS4kiBXugi8eaTF"
+        "name": "your intuition is your friend (radio edit)",
+        "url": "https://open.spotify.com/album/57enkmVamHuaYnkD5ZoEvB"
       },
       "artists": [
         {
-          "name": "Tilly Valentine",
-          "url": "https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP"
-        }
-      ],
-      "duration_ms": 204254,
-      "name": "Statue",
-      "url": "https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Lovestruck in London",
-        "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
-      },
-      "artists": [
+          "name": "muva of Earth",
+          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
+        },
         {
-          "name": "Immy",
-          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
+          "name": "Edward Wakili-Hick",
+          "url": "https://open.spotify.com/artist/1MNaRPIUnpKM8gcmw1gaP7"
         }
       ],
-      "duration_ms": 174764,
-      "name": "If You Love The Moon",
-      "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
+      "duration_ms": 216000,
+      "name": "your intuition is your friend - radio edit",
+      "url": "https://open.spotify.com/track/6rioSjyjKCmkM52gZjJluM"
     }
   ],
   "unique_name": "Jazz UK",

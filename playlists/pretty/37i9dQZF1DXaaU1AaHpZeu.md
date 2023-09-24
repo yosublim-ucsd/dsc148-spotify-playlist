@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Armenia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,376 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,407 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 2 | [Llamadas Vacías](https://open.spotify.com/track/1yL2B3kWqmpC5cDISZB5EO) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Llamadas Vacías](https://open.spotify.com/album/1q7GW6BI9MzTLjwQbtje3n) | 2:23 |
 | 3 | [El Cable](https://open.spotify.com/track/1UZQtIbMg0jxgiulIadYpU) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [El Cable](https://open.spotify.com/album/0sxMSSA5KNAIpwGN1UJI3j) | 2:57 |
 | 4 | [Popper](https://open.spotify.com/track/6ItfkloC6nAJCjVK8oSZ5i) | [Ben Yart](https://open.spotify.com/artist/1Emea6iLt1X27HTatnL7oV) | [Popper](https://open.spotify.com/album/3hXEP8hHHyLwjYz49dR1Ce) | 2:35 |
-| 5 | [Ruido Blanco](https://open.spotify.com/track/5g5KY6eSju9aZR6BKNKddB) | [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So), [Anabela Cartolano](https://open.spotify.com/artist/5lcdLjR1TYyL5QIDCpTwU2) | [Solastalgia](https://open.spotify.com/album/7B5t33RwFi42z6N6SCmyp1) | 4:55 |
+| 5 | [Ruido Blanco](https://open.spotify.com/track/5g5KY6eSju9aZR6BKNKddB) | [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Solastalgia](https://open.spotify.com/album/7B5t33RwFi42z6N6SCmyp1) | 4:55 |
 | 6 | [El grito](https://open.spotify.com/track/1dQuJZVVlSTiFmiKveWNc8) | [Mikel Izal](https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8) | [El grito](https://open.spotify.com/album/4X7CJxDX5KU5taf312VW4U) | 4:40 |
 | 7 | [Prendas Nuevas](https://open.spotify.com/track/39e0dif18KfsiW3XI7CLlN) | [k onda](https://open.spotify.com/artist/71W0pSc6iDkFYwoFL7fUJE), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Prendas Nuevas](https://open.spotify.com/album/0dRuyWtNthFiwfM054JJ10) | 2:37 |
 | 8 | [Mandala](https://open.spotify.com/track/3Lebs7ERP0ILzr80u9UReL) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Jardín de las Almas](https://open.spotify.com/album/6qNDuK7TXMUK0aTKsyevYT) | 3:44 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 22 | [Valle La Pena](https://open.spotify.com/track/0olSeXCDZo7HXTS9rHOH5i) | [Mustard](https://open.spotify.com/artist/1w47PGjlIC5Zfj1IzZI2t6) | [Valle La Pena](https://open.spotify.com/album/5otGsLkao2fXLzjNqbgSio) | 3:03 |
 | 23 | [Prenderé Una Velita](https://open.spotify.com/track/2cfTHWhdLpEsrymlHzQ7nS) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Prenderé Una Velita](https://open.spotify.com/album/4uGFhQdYuetWsHe0mUwBtu) | 2:38 |
 | 24 | [Alquiler](https://open.spotify.com/track/0ZGYFU5Vx8UIWLax710E0g) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Alquiler](https://open.spotify.com/album/7KRroI1HJyQs0lltlKHsCI) | 2:35 |
-| 25 | [te vas a lamentar: '\(](https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [te vas a lamentar: '\(](https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8) | 3:09 |
+| 25 | [te vas a lamentar :'\(](https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [Nan Que](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [te vas a lamentar :'\(](https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8) | 3:09 |
 | 26 | [Cómplices](https://open.spotify.com/track/0g9wwRv9mqQ2Tav1A6sFK4) | [Reno Rojas](https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l) | [Cómplices](https://open.spotify.com/album/6JhinkHNQUKvMqpyDCyRik) | 4:20 |
 | 27 | [Mi Sueño](https://open.spotify.com/track/5KEVe54PKR5Imu2ovBm1CY) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Mi Sueño](https://open.spotify.com/album/0E94vI4EfOVH9HVnmhyafU) | 2:42 |
 | 28 | [No Huí](https://open.spotify.com/track/313jYZDkgH8CSnnhu849cD) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [El Individuo](https://open.spotify.com/artist/6g5g4O5mwD2z9AZJLNgz8O) | [No Huí](https://open.spotify.com/album/4x8mc2CIbdYmCBdq4hzMTm) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Venganza](https://open.spotify.com/track/3rEWBl6OLD7kKpIgGxRy7x) | [Velandia y La Tigra](https://open.spotify.com/artist/2saVhSlCKjNZnW4QZcFHkE), [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi) | [Proverbios Burros](https://open.spotify.com/album/0kOYLBgKBtUwd3OX9LxYsA) | 4:12 |
 | 50 | [Algo Discreto](https://open.spotify.com/track/7y660DIuwEb44cC86hNjAf) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Algo Discreto](https://open.spotify.com/album/10RilTBrHWcQeLOmgbptgp) | 3:20 |
 
-Snapshot ID: `MCw0MTI2MzExZDEwNGE2OGQ4MThlMzk3ZmM4MjFhZWYxNWZjMjBiY2Nj`
+Snapshot ID: `MCxhYTU5NGUxMWFhNWY3NDRkMWEwM2I1MTUwNzk0NWZmMjBjZjY5NzNh`

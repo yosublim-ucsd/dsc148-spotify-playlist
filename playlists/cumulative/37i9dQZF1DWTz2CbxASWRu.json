@@ -1952,6 +1952,24 @@
     {
       "album": {
         "name": "Afrodisiac",
+        "url": "https://open.spotify.com/album/45HI1dpu375NsO8F84kwWK"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401066,
+      "name": "Eko Ile",
+      "url": "https://open.spotify.com/track/0UsSyf5UyhfbmvD20roRan"
+    },
+    {
+      "album": {
+        "name": "Afrodisiac",
         "url": "https://open.spotify.com/album/2cBh3ze0atDVhWhFUDoikD"
       },
       "artists": [
@@ -5814,7 +5832,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 376318,
       "name": "Ta Lassa - Hide & Smile Edit",
       "url": "https://open.spotify.com/track/4zO3tHghEN89LhG7zbMGtk"

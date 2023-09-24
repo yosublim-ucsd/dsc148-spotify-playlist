@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 
 > Instrumental beats to boost your weight lifting workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,845 likes - 155 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,907 likes - 155 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 21 | [Count Your Blessings](https://open.spotify.com/track/1NbWD40pGtLkGpY1NMsyRX) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Outcast Society](https://open.spotify.com/album/50X5rlLKcD0wFWPsNTdpRu) | 2:33 |
 | 22 | [No home no future](https://open.spotify.com/track/62SxyqZXXVlDAycfkS1kj1) | [Captain XY](https://open.spotify.com/artist/0fYeCYtwaOrxHt0Wwkbb1t) | [No home no future](https://open.spotify.com/album/6eXnhjk6FecIfcvcqni0iH) | 2:23 |
 | 23 | [Willfully Blind](https://open.spotify.com/track/4WGL5cz4peREOVOv8FWemf) | [Nowhere Now Here](https://open.spotify.com/artist/28VTxH3Tc2T5tamVQGYnI6) | [Willfully Blind](https://open.spotify.com/album/16tMBxkZLCfnK6ngq0q8FQ) | 2:25 |
-| 24 | [Gold Stacks](https://open.spotify.com/track/38qTxMCGROJeJlo6E274p4) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW), [Rizzo8](https://open.spotify.com/artist/0caGWjTQd9dDtOjAjxkzRK) | [Gold Stacks](https://open.spotify.com/album/4pYrbFvIep8pumAx11IAQN) | 2:54 |
+| 24 | [Gold Stacks](https://open.spotify.com/track/0Y5Ejjjlr5uGOORvBHgjmK) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW), [Rizzo8](https://open.spotify.com/artist/0caGWjTQd9dDtOjAjxkzRK) | [Gold Stacks](https://open.spotify.com/album/0NWDqiBWQJ9r3ElHlKqGjR) | 2:54 |
 | 25 | [Brutal Wishes](https://open.spotify.com/track/7yM1bz379moGe4Plh82580) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Brutal Wishes](https://open.spotify.com/album/2u7BOJPweym8fbSgqOGw9k) | 2:40 |
 | 26 | [Meeks](https://open.spotify.com/track/7BDKdMg5UVqxEtdYIxcTQg) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Meeks](https://open.spotify.com/album/3VZoMKFFy6lG8ccNfe2DYm) | 2:28 |
 | 27 | [Blood From Stone](https://open.spotify.com/track/0riVmvUyq1neYwzVayekMe) | [7hour flower](https://open.spotify.com/artist/1WJElDa3ckdTDhvvbkkizK) | [Blood From Stone](https://open.spotify.com/album/2FerCnm7f3QQ3ucZ27W9y6) | 2:01 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 48 | [Sumwhere Else](https://open.spotify.com/track/3HUzxgjBZmDLoomxx64YnL) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Elephants](https://open.spotify.com/album/5DfvYDOOwkc6IjpSU1v1i0) | 2:29 |
 | 49 | [Ritual](https://open.spotify.com/track/3uDWsAoVlvzaNz0JdTRKvv) | [Alx Beats](https://open.spotify.com/artist/5n8XW4GI0uT3sHgwUOUapx) | [Ritual](https://open.spotify.com/album/0TPakPFzZk4JJDjIU4MLSG) | 1:58 |
 | 50 | [Destroyer](https://open.spotify.com/track/3wdsSODAZAaWz3QwABi8tb) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q), [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Destroyer](https://open.spotify.com/album/0uGHL52MiHrXs37iIqsTJ7) | 2:59 |
-| 51 | [Frozen](https://open.spotify.com/track/0RJD9vHqbcBG9VX8ml9nL2) | [Dr\. J](https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Frozen](https://open.spotify.com/album/23dKuFmFNnE6Te4UfjDews) | 3:09 |
+| 51 | [Frozen](https://open.spotify.com/track/6PuJovR9z3hph9MDCiIVgS) | [Dr\. J](https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Frozen](https://open.spotify.com/album/0GRRcND8BPMGmFakvmwqWf) | 3:09 |
 | 52 | [The Bait](https://open.spotify.com/track/52lba8ChKV0BUlHQ2ZVmKJ) | [Azucares](https://open.spotify.com/artist/4nBe4luXcnZ8QqpoyZq4OC) | [The Bait](https://open.spotify.com/album/4vqYl1faPjiqx6NN0Zflox) | 2:54 |
 | 53 | [Cut a Rug](https://open.spotify.com/track/5GjAB6xggsDZyAoupbD7pn) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Cut a Rug](https://open.spotify.com/album/3JFp7UL5zWsXWVBpp7fjZ2) | 3:18 |
 | 54 | [ELECTRICITY](https://open.spotify.com/track/0DlOpwlheQMUoOx0f5euC8) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [XTC](https://open.spotify.com/album/2jugoFHJTnh2ImByqF2mZ3) | 2:30 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 80 | [running out of time](https://open.spotify.com/track/0e6UrhLAH2lnNe6zdlUTBN) | [NON](https://open.spotify.com/artist/2QFuIA3uFMQAidzZe9x3Bw) | [future](https://open.spotify.com/album/0sH4ZqrqNsEqUWBtc34EaS) | 2:48 |
 | 81 | [Top of the Line](https://open.spotify.com/track/0hozPW69A9O8m8SDSeeHRY) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Top of the Line](https://open.spotify.com/album/4YZJrAvoRBtb6KvektTwz0) | 2:46 |
 | 82 | [Nu World Order](https://open.spotify.com/track/3erqNTHPWsfJVM4ZSsEJ6t) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Nu World Order](https://open.spotify.com/album/2Je8l8GvcHGTwNjcyCrd4w) | 2:48 |
-| 83 | [Not Enough](https://open.spotify.com/track/4mKUzggb15xw0CxE5mrmMi) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Not Enough](https://open.spotify.com/album/4fR6ne32b1qv0Mzum1UMC7) | 2:56 |
+| 83 | [Not Enough](https://open.spotify.com/track/1U77lwBD0RppViVldWJZDc) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Not Enough](https://open.spotify.com/album/19yHYGsUda5U53PQnPAsVA) | 2:56 |
 | 84 | [Wealth](https://open.spotify.com/track/7IKDfOt2zBPmN8MuUsdnEY) | [Nesyu Beats](https://open.spotify.com/artist/13jVsjl8pYgoBgRXfBDtw8) | [Heatwave](https://open.spotify.com/album/1CJUWXSpXZcMyZicwa1JFz) | 3:21 |
 | 85 | [Suspens Trap Beat](https://open.spotify.com/track/4BYzQfbibYvzDegGR1JoEe) | [Origin Studio](https://open.spotify.com/artist/4rRMk8pMRjwTi8tKHvuQ0b) | [Suspens Trap Beat](https://open.spotify.com/album/1oLZiOM9BnvTBDQp8Zvzdk) | 2:56 |
 | 86 | [Find Your Own Way](https://open.spotify.com/track/1Sm6NMqZxCu9uKQ7rvJKs3) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Find Your Own Way](https://open.spotify.com/album/1dih45nT3fXu29empKFZrb) | 2:53 |
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 103 | [BandMan](https://open.spotify.com/track/6Sbx6Ma3X6YYFavy1UHL7z) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Energizer](https://open.spotify.com/album/04eOFB9yAJwn7bj5MnMFQ3) | 2:20 |
 | 104 | [Oopsy](https://open.spotify.com/track/3OUA1bhQpKkLH05dy9POEz) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Soul Waste](https://open.spotify.com/album/4ungK52Ght7QUuKwRc0rlF) | 2:47 |
 | 105 | [The Only Way Is Up](https://open.spotify.com/track/7rHuepPgmSd5rn5v5UvGIT) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [The Only Way Is Up](https://open.spotify.com/album/69s27L8CloHAZCXvqgHdmi) | 3:41 |
-| 106 | [Youngin](https://open.spotify.com/track/2H5QkzvbIFTxZdpZ1fyXvb) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW), [Kutoff](https://open.spotify.com/artist/1Z1aKCA8ivXsGZHfEsuzhv) | [Youngin](https://open.spotify.com/album/6N36NlLcGlAC3MIEc353Pc) | 2:42 |
+| 106 | [Youngin](https://open.spotify.com/track/4mN11J4LbMcfIONLRPY2HX) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW), [Kutoff](https://open.spotify.com/artist/1Z1aKCA8ivXsGZHfEsuzhv) | [Youngin](https://open.spotify.com/album/3BByvn0clO7pHwGi7qYFyD) | 2:42 |
 | 107 | [AJ](https://open.spotify.com/track/2pcIABO9SnBqK7YvxayTUg) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [AJ](https://open.spotify.com/album/1sKGSWZLv9meMtIAChg2pU) | 2:21 |
 | 108 | [Chopper](https://open.spotify.com/track/0w7AG9UksTH3yHNzmMzwwq) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Chopper](https://open.spotify.com/album/7ggLaz0nrCCM8Nwa6hCIqG) | 2:24 |
 | 109 | [Swept away](https://open.spotify.com/track/50D42NjOSA7pcx8RftldNM) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Swept away](https://open.spotify.com/album/7dL8pdaQekKy8wr8GtiLt6) | 3:13 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 154 | [Theme](https://open.spotify.com/track/6LGzIiVow9pEHzSc7Z2NC5) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Theme](https://open.spotify.com/album/7HWzZzrVY6lIhyoO2V9wL6) | 2:35 |
 | 155 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 |
 
-Snapshot ID: `MCxhNDEwY2M3ZWMyOGYwYWM0MWY1YWMzOTMxMDMxY2IwYWI2ZjUxNDg0`
+Snapshot ID: `MCw5NmQ5MzY5YjM1YzQ2YTkwMDEzYjMwNDUwMmJkZTE0NmEyNGM1NTJm`

@@ -4,7 +4,7 @@
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-402 songs - 23 hr 50 min
+403 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Blindside](https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Blindside](https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ) | 3:31 | 2023-08-04 |  |
 | [Bloodstream](https://open.spotify.com/track/5v4sZRuvWDcisoOk1PFv6T) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 5:00 | 2022-04-06 | 2023-01-14 |
 | [Blue Moon](https://open.spotify.com/track/2uWwCU5X1TjJiiN6BbUaB8) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/3BBFUxPg8KFmAv96SmY4ok) | 4:02 | 2022-03-25 | 2022-04-15 |
-| [Blue Moon](https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:02 | 2022-10-14 |  |
+| [Blue Moon](https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:02 | 2022-10-14 | 2023-09-24 |
 | [Bones](https://open.spotify.com/track/4Twrw5ITmINc8akSEe979c) | [Feliz](https://open.spotify.com/artist/3Kgb1mPd8ZiYrCKqLw6Wvh) | [Dreams and Airplanes](https://open.spotify.com/album/6Ad3RaB9WT6U6W81lWM21g) | 3:05 | 2021-12-24 | 2022-06-25 |
 | [Brigadeiro](https://open.spotify.com/track/7gyyV6gDCX2ORt8jCcTlvi) | [Mira](https://open.spotify.com/artist/66c0QYupOFnMOiTXzHQbcH) | [Brigadeiro](https://open.spotify.com/album/4A1hlTcYv5LdjJ13ctr8Gl) | 3:14 | 2021-12-24 | 2022-04-10 |
 | [Budapest](https://open.spotify.com/track/48gsLPdOUEDjr7P8Wvykne) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Did You Hear the Rain?](https://open.spotify.com/album/17a7gzqcZt6SjXRQVoXN6M) | 3:22 | 2022-03-25 | 2022-04-20 |
@@ -104,6 +104,7 @@
 | [De Longe](https://open.spotify.com/track/0XOy3NAxxcGbJ0cuaoCdmp) | [Luan Costa](https://open.spotify.com/artist/31TjzIHki6R3FzCCmVe8JL) | [De Longe](https://open.spotify.com/album/43TwEa6aCaTzhVi3bERuFj) | 3:04 | 2021-12-24 | 2022-07-07 |
 | [de Manhã](https://open.spotify.com/track/1nNYZCoVeWiTTCseNu9ZcK) | [Oliveira](https://open.spotify.com/artist/2XbtSN9obA46AlRp5mNc0T) | [de Manhã](https://open.spotify.com/album/1PPLKhNWZZQ4A1iIGVBlmb) | 2:36 | 2021-12-24 | 2022-07-08 |
 | [De Pouquinho em Pouquinho](https://open.spotify.com/track/7mK3JJcyPBfD1nR9D5Au45) | [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90) | [Sermão](https://open.spotify.com/album/7C8Y58SuXhiwBPqQGlTTVH) | 3:27 | 2021-12-24 | 2022-07-28 |
+| [Dead Man](https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man](https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY) | 4:34 | 2023-09-22 |  |
 | [deixa que eu já vou](https://open.spotify.com/track/4td0kvJluzs9IeqnASVllo) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [deixa que eu já vou](https://open.spotify.com/album/744yL93oUhidi5dTt32T7z) | 3:18 | 2022-02-11 | 2022-07-24 |
 | [Delírio No.1](https://open.spotify.com/track/3qglS0QT8mOAID6ZCDFayP) | [Phillip Long](https://open.spotify.com/artist/26FGaBmX3yqXeFp3rTPWyp) | [Delírio No.1](https://open.spotify.com/album/1qdGRLIN26dCeia3JR6CcU) | 3:36 | 2021-12-24 | 2022-07-24 |
 | [Depois da Chuva](https://open.spotify.com/track/3GSUIjNARBX6sNfiN67axu) | [Caio Weber](https://open.spotify.com/artist/4KpnRsMRAyhyLuySBWiZRS), [O Rubro](https://open.spotify.com/artist/0LJuVMj5yhi7TzHN0hcgA0) | [Depois da Chuva](https://open.spotify.com/album/1bpF4M6hjRiWmovSuvqctt) | 3:05 | 2022-03-25 | 2022-05-07 |

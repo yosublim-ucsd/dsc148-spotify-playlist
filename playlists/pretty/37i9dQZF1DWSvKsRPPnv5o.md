@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Blxst & Bino Rideaux
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,667 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,760 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 27 | [Cruisin In LA](https://open.spotify.com/track/1UV019623AbYfbqjiBMrCP) | [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [Cruisin In LA](https://open.spotify.com/album/5PXmTtfSFf2yrQ0VF7Doe2) | 2:42 |
 | 28 | [Buckle Up](https://open.spotify.com/track/225mfDVl2zv1gcS3QAtXXH) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Buckle Up](https://open.spotify.com/album/2HJxcPLIKtKd8LPSAHwsQL) | 1:58 |
 | 29 | [30 Million](https://open.spotify.com/track/6bEpunGeNF9HhB3M3tjXJA) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Gotdamnitdupri](https://open.spotify.com/artist/5JPm0OhnoxswDh5mxZ0JYs) | [30 Million](https://open.spotify.com/album/3AH0lgDsLby2Cu1gMStsaL) | 2:16 |
-| 30 | [Diamonds on my Chain \(feat\. Genese & ProjeckBabyTwin\)](https://open.spotify.com/track/66kG38maCP4SiHQMkfklSS) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Genese](https://open.spotify.com/artist/7vl9Y5sDlClymLJsMZESl1), [ProjeckBabyTwin](https://open.spotify.com/artist/1mmShfPuqfUU4K9EjZjxzN) | [Diamonds on my Chain \(feat\. Genese & ProjeckBabyTwin\)](https://open.spotify.com/album/4LMMVkSd5M4yM5JYNjcKWt) | 2:52 |
+| 30 | [Diamonds on my Chain \(feat\. Geneses & ProjeckBabyTwin\)](https://open.spotify.com/track/66kG38maCP4SiHQMkfklSS) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Geneses](https://open.spotify.com/artist/4euhEQKn6vCDyoDqrDnTC7), [ProjeckBabyTwin](https://open.spotify.com/artist/1mmShfPuqfUU4K9EjZjxzN) | [Diamonds on my Chain \(feat\. Geneses & ProjeckBabyTwin\)](https://open.spotify.com/album/4LMMVkSd5M4yM5JYNjcKWt) | 2:52 |
 | 31 | [Right In \- Remix](https://open.spotify.com/track/5swV28xY13yBRgZMiiuVlS) | [Azjah](https://open.spotify.com/artist/3VFIf5Tn1WYGKodgtyVwjL), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Right In \(Remix\)](https://open.spotify.com/album/1SNOAB0CY99sQDIscIzSN6) | 3:43 |
 | 32 | [Blueprint](https://open.spotify.com/track/1t1OFWl4MpfiIJhZe1t6I4) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Sixtape 3](https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX) | 2:22 |
 | 33 | [BUTTERFLY COUPE feat\. Tyga](https://open.spotify.com/track/3HCDcijVzbd59yvVn0nLPY) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [BUTTERFLY COUPE feat\. Tyga](https://open.spotify.com/album/4Lm3jQ2K459Vufnq6wHjn4) | 2:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 74 | [Hoedown \(with Zoe Osama\)](https://open.spotify.com/track/5y8AkgjrtsCspzzAjxqIJ3) | [Shady Blu](https://open.spotify.com/artist/0n23tjBSiGh9chOSKpgoqa), [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Hoedown \(with Zoe Osama\)](https://open.spotify.com/album/1SJWGIrKqoQMfALk7xtGWn) | 2:13 |
 | 75 | [4Life](https://open.spotify.com/track/6VB1KfpJzVAnFvyeiCPC4f) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [4Life](https://open.spotify.com/album/0raGZNP4IH0KrI6qdpToQP) | 2:36 |
 
-Snapshot ID: `MCxiNmM2N2Y3Nzc4ZjZkZTA2OWFjMjNjZjIzOTRlZmQ0NTNkY2RlNDMw`
+Snapshot ID: `MCw4ZjM0Njk1OTI2ZjQ4NTk4NDljOTA1ODA3NWNmYzllNWU4MmRhOTc0`

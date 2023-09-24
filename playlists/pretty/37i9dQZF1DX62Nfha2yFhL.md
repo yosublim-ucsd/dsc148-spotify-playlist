@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 
 > every day soul with a funky groove for a laid back day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,277 likes - 115 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,359 likes - 115 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | 60 | [Donnys Wylin Out](https://open.spotify.com/track/1Qdt1CwtRxHbrdVCMprupx) | [Collard](https://open.spotify.com/artist/3UHGHiVMz1L0XqFi3oXHvH) | [Good Fog](https://open.spotify.com/album/3eP7sWozVZZwK3zYh4wbFG) | 2:45 |
 | 61 | [MANGO \(feat\. Adi Oasis\)](https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [MANGO \(feat\. Adi Oasis\)](https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0) | 4:05 |
 | 62 | [ONLY\-1](https://open.spotify.com/track/38N8M1Zr80OELCoPelAUBP) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8) | [004DAISY](https://open.spotify.com/album/24e0sHcaegLydaqZGRwJ1e) | 3:38 |
-| 63 | [P.B.J.](https://open.spotify.com/track/1KEXxYtfNyK08g2Pc4gcSh) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [P.B.J.](https://open.spotify.com/album/1dysgGdZKKCvtqyk9k455I) | 4:08 |
+| 63 | [P.B.J.](https://open.spotify.com/track/47h0eLXSjZlhI8htgdhnre) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [P.B.J.](https://open.spotify.com/album/5uSiLxgkpViFzUYu5cu7hz) | 4:08 |
 | 64 | [Head Rush \(feat\. Trinidad Jame$\)](https://open.spotify.com/track/4fjFcapaQFLdUghyyjXkN1) | [Morris Day](https://open.spotify.com/artist/1L56apXminRPJqnqBN0vhe), [Trinidad James](https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J) | [Last Call](https://open.spotify.com/album/1UFTWoydZvElLrrkLheaL4) | 3:41 |
 | 65 | [As a matter of fact](https://open.spotify.com/track/7sKqEHM3swTrZAdbwazi7Y) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [As a matter of fact](https://open.spotify.com/album/4MkjomUjWjKm4SKBvO8Ksh) | 2:24 |
 | 66 | [dialtone.](https://open.spotify.com/track/6QSDAKIZetBwAyfrjVhuSo) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [dialtone.](https://open.spotify.com/album/51xVyHmgajtEEMJ8vt0jy9) | 3:12 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | 114 | [Pink Youth](https://open.spotify.com/track/2WwwfnTUm4yUK8stRMPd7V) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Pink Youth](https://open.spotify.com/album/52lWZNXWoJMWFNPmXdAWz9) | 4:00 |
 | 115 | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I) | 2:44 |
 
-Snapshot ID: `MCw0ZDNkYzQ0Njg5NDZlYTI5YzBkMjI5OTc4NGQyYjZiZDNlNmNhYzRl`
+Snapshot ID: `MCxiMDdlMmMzNjUzZjc3NzlkNzNmNjk3NzQyNTFlZDQzYzJlZDg4MjFl`

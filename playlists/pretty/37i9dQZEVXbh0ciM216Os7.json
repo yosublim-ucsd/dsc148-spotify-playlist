@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNTU5MjAsMDAwMDAwMDBlZDhkM2M0M2RiNmVkNGQ4Y2I2MTk2YWRmNDMzOWJlOQ==",
+  "snapshot_id": "MjgyNTU5MjAsMDAwMDAwMDBjMjEzN2Q4ZGU3NjNiYTdiZDgzNzdlMDU2MTYzOWJiZA==",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -75,30 +75,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Victory (feat. Inspectah Deck)",
-        "url": "https://open.spotify.com/album/6lJjltkTkX4fPxczJ67At7"
-      },
-      "artists": [
-        {
-          "name": "Elcamino",
-          "url": "https://open.spotify.com/artist/54jJabxN5Xa0aMGK4mYdVg"
-        },
-        {
-          "name": "Black Soprano Family",
-          "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 201556,
-      "name": "Victory (feat. Inspectah Deck)",
-      "url": "https://open.spotify.com/track/5wkaGvO8nNomCL7UCzknw6"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
         "url": "https://open.spotify.com/album/1gBwiVRUudP3d2z5ti1oUB"
       },
@@ -123,6 +99,30 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Victory (feat. Inspectah Deck)",
+        "url": "https://open.spotify.com/album/6lJjltkTkX4fPxczJ67At7"
+      },
+      "artists": [
+        {
+          "name": "Elcamino",
+          "url": "https://open.spotify.com/artist/54jJabxN5Xa0aMGK4mYdVg"
+        },
+        {
+          "name": "Black Soprano Family",
+          "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 201556,
+      "name": "Victory (feat. Inspectah Deck)",
+      "url": "https://open.spotify.com/track/5wkaGvO8nNomCL7UCzknw6"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Die For You",
         "url": "https://open.spotify.com/album/6CcokXL3Z0k0ja95TqQmPY"
       },
@@ -139,26 +139,6 @@
       "duration_ms": 320903,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/3SiUuh5xDvFTSo8xm2EOYa"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Around",
-        "url": "https://open.spotify.com/album/1xVB2ZFkpDB1L1FlXkrDsy"
-      },
-      "artists": [
-        {
-          "name": "Imeuhy",
-          "url": "https://open.spotify.com/artist/3822sVnWqznDFeIAQ2KqHn"
-        },
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 164517,
-      "name": "Around",
-      "url": "https://open.spotify.com/track/3cr4YdZtHmRKODwus59Wos"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -195,6 +175,42 @@
       "duration_ms": 221000,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/0nDzTiBd4yfZkywYaNGmr1"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "What Is Consciousness?",
+        "url": "https://open.spotify.com/album/6R1FZ9Lu1tCpxSIAxdsPO3"
+      },
+      "artists": [
+        {
+          "name": "Devon Church",
+          "url": "https://open.spotify.com/artist/7CBzDKeqUsPOqLyYwpvT1g"
+        },
+        {
+          "name": "Delicate Steve",
+          "url": "https://open.spotify.com/artist/1bNgeTuV3MlkAq64Ybvcq5"
+        }
+      ],
+      "duration_ms": 139142,
+      "name": "What Is Consciousness?",
+      "url": "https://open.spotify.com/track/3QxRWTE24zEgFAqDCmtEDA"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Live at The Fillmore Miami",
+        "url": "https://open.spotify.com/album/0A9OpR4Qq1cDF16Zhm2ItJ"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 296282,
+      "name": "Maria Tambi\u00e9n - Live at The Fillmore Miami",
+      "url": "https://open.spotify.com/track/0WzCuVJWPXIXJ83v88BXVS"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -331,26 +347,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "should sleep",
-        "url": "https://open.spotify.com/album/2vIiA0ULu72YnqRDKlrxkI"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "J.P. Bimeni",
-          "url": "https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx"
-        }
-      ],
-      "duration_ms": 269907,
-      "name": "should sleep",
-      "url": "https://open.spotify.com/track/0oixdxR51PVtYYnkd09G0Q"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5ckMdSLnCP1HEGe8clgU9B"
       },
@@ -387,6 +383,26 @@
       "duration_ms": 222986,
       "name": "Happy",
       "url": "https://open.spotify.com/track/4xO6bnooEZzdvKGNuciK0i"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "should sleep",
+        "url": "https://open.spotify.com/album/3h2UC5oK5JXSpzliYZJiY8"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "J.P. Bimeni",
+          "url": "https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx"
+        }
+      ],
+      "duration_ms": 269907,
+      "name": "should sleep",
+      "url": "https://open.spotify.com/track/6zpMH3MUT8qINonUWks3rW"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -455,6 +471,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Reveal",
+        "url": "https://open.spotify.com/album/4qHth7RtxTPuE406MGm7gJ"
+      },
+      "artists": [
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        }
+      ],
+      "duration_ms": 612361,
+      "name": "Eros",
+      "url": "https://open.spotify.com/track/2UtnVhNJlUc8mdQ4GoSQgx"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Good Brother",
         "url": "https://open.spotify.com/album/58pAjB9W3xHw1aX0L9Jw3X"
       },
@@ -471,22 +503,6 @@
       "duration_ms": 193390,
       "name": "Good Brother",
       "url": "https://open.spotify.com/track/2OjpcpsNXvrqDJ6ltfzkeW"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Reveal",
-        "url": "https://open.spotify.com/album/4qHth7RtxTPuE406MGm7gJ"
-      },
-      "artists": [
-        {
-          "name": "Micah Thomas",
-          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
-        }
-      ],
-      "duration_ms": 482744,
-      "name": "Denardirn",
-      "url": "https://open.spotify.com/track/4popyNacmTRK5gjVDb5mml"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -551,62 +567,6 @@
       "duration_ms": 175020,
       "name": "Le d\u00e9part",
       "url": "https://open.spotify.com/track/1PwDhG68D4jCxwjrvGvGc7"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Origin Story",
-        "url": "https://open.spotify.com/album/2swkmIyTPKt9sihMZXPmMv"
-      },
-      "artists": [
-        {
-          "name": "Hopsin",
-          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
-        },
-        {
-          "name": "The Future Kingz",
-          "url": "https://open.spotify.com/artist/4sw5s8BqMsNkOSZtNgACKv"
-        }
-      ],
-      "duration_ms": 297624,
-      "name": "Origin Story",
-      "url": "https://open.spotify.com/track/4ybWYbMBbqqTthbhYx6Z40"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Notorious",
-        "url": "https://open.spotify.com/album/6I5IlEokrrRc7JE06R6R3n"
-      },
-      "artists": [
-        {
-          "name": "Gangman",
-          "url": "https://open.spotify.com/artist/5ggH1sWqm8IFkr1df1QXQB"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 211894,
-      "name": "Notorious",
-      "url": "https://open.spotify.com/track/2j5J8ywEvdkXIPL8bjzaOz"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Live In Tokyo",
-        "url": "https://open.spotify.com/album/4lituQ1x0A5NXh7dmEHS3S"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 270040,
-      "name": "Chain Reaction - Live",
-      "url": "https://open.spotify.com/track/7ADzRdI3TmUwBiHViCHCG8"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: SIX LOUNGE
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,537 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,611 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [Catch The Miracle](https://open.spotify.com/track/0veerJcFJTSumChnxuLD0i) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [Catch The Miracle](https://open.spotify.com/album/2jHtSMczXw6jiUfFL64Vjz) | 5:24 |
 | 100 | [Dreamy Soul Of Language](https://open.spotify.com/track/2VwjtQtzLbss67dDHtjSr0) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Dreamy Soul Of Language](https://open.spotify.com/album/28BP4mS8hNnYdC6qtzlI1O) | 3:23 |
 
-Snapshot ID: `MCxlZDQxMTU3MTBjZWUyZTg4MGRjMDQ4OTM0MzY5Y2VlMzEwODVhODEw`
+Snapshot ID: `MCxkNDVlZDk1Y2MwYzA0NzYyYjRmMmRkNDQzYjYyODlhNjZlMDhhNmYy`

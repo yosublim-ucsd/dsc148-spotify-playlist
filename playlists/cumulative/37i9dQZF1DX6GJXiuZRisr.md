@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-414 songs - 1 day 5 hr 56 min
+415 songs - 1 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Dark Matter](https://open.spotify.com/track/4qsfGLGlXsCgzlGgr3NMuT) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Dark Matter](https://open.spotify.com/album/3gy0GBkh2YXrOmD6jdgnNF) | 5:23 | 2022-02-18 | 2022-07-23 |
 | [Deep Space](https://open.spotify.com/track/3XisBBYpK8TmL8ogBPCA8c) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Deep Space](https://open.spotify.com/album/4LBZQ53rwA424Ej7YFQc9F) | 3:01 | 2023-05-05 | 2023-09-08 |
 | [Delta](https://open.spotify.com/track/0WbXxAn99TZzB2kdLkh5hu) | [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV) | [Wake Your Mind Sessions 004 Exclusives](https://open.spotify.com/album/5ecWuN5lJXqZeqVU0UUVaW) | 4:05 | 2021-05-07 | 2022-04-16 |
+| [Desire \(with Sam Smith\) \- Cedric Gervais Festival Mix](https://open.spotify.com/track/4E03xcSx0FZOfzEeTdcmRc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Desire \(with Sam Smith\) \[Cedric Gervais Remixes\]](https://open.spotify.com/album/7zxqQLnexgfdIdtfDWDGIx) | 4:19 | 2023-09-22 |  |
 | [Disco Voyager](https://open.spotify.com/track/2L4THbkubfdMU7x1xGnvZM) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Disco Voyager](https://open.spotify.com/album/6KMUEMw2nWTayCFWhjeNT7) | 3:10 | 2023-02-17 | 2023-09-23 |
 | [Disconnected](https://open.spotify.com/track/4mB7gWAkOB7LLWBM7XoL6Y) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Sealine](https://open.spotify.com/artist/1ymJtuSjInzP2KWww4GKTA) | [Disconnected](https://open.spotify.com/album/40kTQIRTrLffXGmtER1nWd) | 4:58 | 2022-04-08 | 2022-07-06 |
 | [Disconnected](https://open.spotify.com/track/5whfEtyAne9wl48fQrG6M3) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Sealine](https://open.spotify.com/artist/1ymJtuSjInzP2KWww4GKTA) | [Unreality](https://open.spotify.com/album/2NGLSFRIh6W1YN8lCwpxGq) | 4:58 | 2022-07-01 | 2022-07-25 |
@@ -350,7 +351,7 @@
 | [The Book Of Wisdom](https://open.spotify.com/track/2LbBVu9zXT5VBtKQUr7Bjz) | [ZOYA](https://open.spotify.com/artist/5eqThkuR9VjiLuYfzESTp7) | [The Book Of Wisdom](https://open.spotify.com/album/3rZzflHwbx182lpEdodaVn) | 3:29 | 2021-05-07 | 2022-04-19 |
 | [The Coaster](https://open.spotify.com/track/29Z2NgQd8Og6nKlzs1GQ6S) | [Rodg](https://open.spotify.com/artist/1kb9YssvADeiGvCUwJzbdT) | [The Coaster](https://open.spotify.com/album/7bc7gl0qBODD1JQHbTtjwA) | 3:06 | 2021-05-07 | 2022-07-21 |
 | [The Grand Swell](https://open.spotify.com/track/3SwAjQOvQ79jpLZyjzJwJh) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [The Grand Swell](https://open.spotify.com/album/23V0126apKDHzsQrAiqLwT) | 4:51 | 2021-08-20 | 2022-07-29 |
-| [The Horizon \(With You\)](https://open.spotify.com/track/0TO3DquQQvJDchx14UOKBF) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [The Horizon \(With You\)](https://open.spotify.com/album/4GO1A8lXlVrAqy0It5up3Q) | 3:07 | 2023-09-15 |  |
+| [The Horizon \(With You\)](https://open.spotify.com/track/0TO3DquQQvJDchx14UOKBF) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [The Horizon \(With You\)](https://open.spotify.com/album/4GO1A8lXlVrAqy0It5up3Q) | 3:07 | 2023-09-15 | 2023-09-24 |
 | [The Maker](https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [The Maker](https://open.spotify.com/album/3iXFPnNVizKfo1pUerR7Md) | 2:36 | 2023-03-14 |  |
 | [The Navigator](https://open.spotify.com/track/6iNjFncKo3p2T2gi9yKuOw) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [The Navigator](https://open.spotify.com/album/1K1IAd3OoWMakUBD5CRiZD) | 6:03 | 2021-11-05 | 2022-06-26 |
 | [The Return \- Edit](https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [The Return \(Edit\)](https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2) | 3:52 | 2023-07-14 |  |

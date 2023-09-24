@@ -4,7 +4,7 @@
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Bipo Montana, McKlopedia y Nanpa Básico en portada.
 
-226 songs - 12 hr 55 min
+227 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Barrio \(with Lefty Sm\)](https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v) | 2:24 | 2023-07-21 | 2023-09-02 |
 | [Barrio Latino](https://open.spotify.com/track/0w2aP2dOpP0NzZkF6KrH9K) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Barrio Latino](https://open.spotify.com/album/5ma9J5X1CO2tJ79UdtgZCL) | 4:16 | 2021-12-30 | 2022-07-30 |
 | [Basura](https://open.spotify.com/track/0cYBYOIh4MBfqKTJLW7l7B) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [Basura](https://open.spotify.com/album/3i7rjEauwC9KmXiMsyS5U1) | 2:20 | 2021-12-30 | 2022-03-26 |
-| [Bendición o Desgracia](https://open.spotify.com/track/2jMh4nHPNtayqz7MsAnoc9) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Bendición o Desgracia](https://open.spotify.com/album/67tBFPuqAgfDiMe2ee0gA3) | 2:43 | 2023-06-30 |  |
+| [Bendición o Desgracia](https://open.spotify.com/track/2jMh4nHPNtayqz7MsAnoc9) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Bendición o Desgracia](https://open.spotify.com/album/67tBFPuqAgfDiMe2ee0gA3) | 2:43 | 2023-06-30 | 2023-09-24 |
+| [Bendición o Desgracia](https://open.spotify.com/track/5H4xazm3fBhE9DVv1zkbJ8) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Bendición o Desgracia](https://open.spotify.com/album/1cS0tv59v0ZkkEQR2ouWyO) | 2:43 | 2023-09-22 |  |
 | [BIEN](https://open.spotify.com/track/3SojRz8QWCcDobJTkEC56e) | [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Doble P Ache Ene](https://open.spotify.com/artist/5yh17UV0XSFV1lzzFC39XR) | [BIEN](https://open.spotify.com/album/6D2pfqxHrPDnJGnUNlubJD) | 3:29 | 2023-03-03 | 2023-07-18 |
 | [BIEN O MAL](https://open.spotify.com/track/4n0MBJuHpZ9dnD1BtsOIxB) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:56 | 2022-09-09 | 2023-09-09 |
 | [Bitman Shiet](https://open.spotify.com/track/3A1rpugzLtrJ93vpXRyy7Y) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Bitman Shiet](https://open.spotify.com/album/3qP2HaThCH1EhcTZaab9eE) | 3:17 | 2021-12-30 | 2022-10-29 |

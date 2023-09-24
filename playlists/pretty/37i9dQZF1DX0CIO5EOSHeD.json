@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Yot Club & Jordana",
-  "num_followers": 453350,
+  "num_followers": 453486,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjA5N2Y2YjFiMDZhZmM3YzJiZTk0NGZmZGEzYTA1NTE2NmRjNWY3",
+  "snapshot_id": "MCw2ZWUzMTdmYjk3ZjVhMjRlOGRmZGZjNDU3N2Q4NTNjMTM4NjAwOWVl",
   "tracks": [
     {
       "added_at": "2023-09-15 12:36:22",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "at least i'm pretty",
-        "url": "https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL"
-      },
-      "artists": [
-        {
-          "name": "Harriette",
-          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
-        }
-      ],
-      "duration_ms": 106800,
-      "name": "at least i'm pretty",
-      "url": "https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "Huli Ka",
         "url": "https://open.spotify.com/album/4TtzUdu7yLu0gWH7Nmoo9u"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 95000,
       "name": "Death of the Phone Call",
       "url": "https://open.spotify.com/track/15z5xDY6UAjEiWoMXhTK3Q"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "at least i'm pretty",
+        "url": "https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL"
+      },
+      "artists": [
+        {
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+        }
+      ],
+      "duration_ms": 106800,
+      "name": "at least i'm pretty",
+      "url": "https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "concussion",
-        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
-      },
-      "artists": [
-        {
-          "name": "girlhouse",
-          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
-        }
-      ],
-      "duration_ms": 277142,
-      "name": "concussion",
-      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "It's In My Head",
         "url": "https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 181792,
       "name": "It's In My Head",
       "url": "https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "concussion",
+        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
+      },
+      "artists": [
+        {
+          "name": "girlhouse",
+          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+        }
+      ],
+      "duration_ms": 277142,
+      "name": "concussion",
+      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "off the grid",
-        "url": "https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 239195,
-      "name": "u dont kno me",
-      "url": "https://open.spotify.com/track/22yfTobyBNSSJXWIlNjPgt"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "Hurting",
         "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
+        "name": "off the grid",
+        "url": "https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 239195,
+      "name": "u dont kno me",
+      "url": "https://open.spotify.com/track/22yfTobyBNSSJXWIlNjPgt"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/2q5JOJpEa00GfddyBJAPrz"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 249968,
       "name": "Forever",
       "url": "https://open.spotify.com/track/579zXcYm2N9vvsltW2RDJP"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Body Jumper",
+        "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 118521,
+      "name": "Blue Sheen",
+      "url": "https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -835,22 +851,6 @@
       "duration_ms": 131174,
       "name": "Can\u2019t Get Enough",
       "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
-        "name": "Body Jumper",
-        "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 118521,
-      "name": "Blue Sheen",
-      "url": "https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "Plastic Envelope / Protect Him Always",
-        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Plastic Envelope",
-      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "I Want To Be With You",
         "url": "https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 179573,
       "name": "I Want To Be With You",
       "url": "https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Plastic Envelope / Protect Him Always",
+        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Plastic Envelope",
+      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "Me Oh My Mirror",
-        "url": "https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "Mulholland Drive",
         "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 163709,
       "name": "Midnight on a Sunny Day",
       "url": "https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Me Oh My Mirror",
+        "url": "https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/75htLgjuNRdGrfZLcsT5N3"
+      },
+      "artists": [
+        {
+          "name": "rainbow frog biscuits",
+          "url": "https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/4TKAE15440weMFqZeuzprE"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
         "name": "Afternoon Bike Ride",
         "url": "https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 179141,
       "name": "Before the Fall",
       "url": "https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/75htLgjuNRdGrfZLcsT5N3"
-      },
-      "artists": [
-        {
-          "name": "rainbow frog biscuits",
-          "url": "https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/4TKAE15440weMFqZeuzprE"
     },
     {
       "added_at": "2023-09-15 12:36:22",

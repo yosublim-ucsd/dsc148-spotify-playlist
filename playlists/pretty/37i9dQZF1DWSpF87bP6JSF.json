@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del pop latino featuring Shakira.",
-  "num_followers": 3192308,
+  "num_followers": 3195330,
   "original_name": "La Lista Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmViOGUxZTE0YjI1NGY0ZTZhMDI0Mjk0ZDNlODA2YmZjOTM4YmQ2",
+  "snapshot_id": "MCxmYWRjMGZiNTljZTMzMjU3NzU1OTkyODc2YTJlY2ZjOTNiNDcyNzBl",
   "tracks": [
     {
       "added_at": "2023-09-22 06:45:00",
@@ -603,6 +603,26 @@
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
+    },
+    {
+      "added_at": "2023-09-22 06:45:00",
+      "album": {
+        "name": "Por el Resto de Tu Vida",
+        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 197476,
+      "name": "Por el Resto de Tu Vida",
+      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
     },
     {
       "added_at": "2023-09-22 06:45:00",

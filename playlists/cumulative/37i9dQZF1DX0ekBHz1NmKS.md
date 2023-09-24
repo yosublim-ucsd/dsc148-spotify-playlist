@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-777 songs - 1 day 17 hr 4 min
+779 songs - 1 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,7 @@
 | [Lean On](https://open.spotify.com/track/6d9FN6JpZp0UpOtTntQs3T) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Lean On](https://open.spotify.com/album/06En50z6PjL5SLMTjVGOpl) | 2:35 | 2022-09-29 | 2022-10-13 |
 | [Lean On](https://open.spotify.com/track/78ypW37aC7D2wdopIj5SHi) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [BACKYARD](https://open.spotify.com/album/2NKtdIm9jwON5zlOKn70L4) | 2:35 | 2022-10-27 | 2023-02-13 |
 | [Leave Me Alone](https://open.spotify.com/track/4wJpnZTJ1WiEC8n9kUzlHT) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Among Heads](https://open.spotify.com/album/1Jkh2XEpMKKDsrCVH94e9y) | 3:18 | 2022-04-01 | 2022-04-21 |
-| [LESS](https://open.spotify.com/track/08p0RXW7VhUlAVNmjfRsk9) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [LESS](https://open.spotify.com/album/5W7XuGuj82QHTEBds6DO6X) | 3:13 | 2023-08-03 |  |
+| [LESS](https://open.spotify.com/track/08p0RXW7VhUlAVNmjfRsk9) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [LESS](https://open.spotify.com/album/5W7XuGuj82QHTEBds6DO6X) | 3:13 | 2023-08-03 | 2023-09-24 |
 | [Let Me Know](https://open.spotify.com/track/4hHZaxhMwNwRmRcpOJKwYr) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Happiness Before Love](https://open.spotify.com/album/0QO4oVr3XwrE6Jxx8SB39x) | 3:28 | 2022-05-20 | 2022-07-25 |
 | [Let You Go](https://open.spotify.com/track/6DS1xAYtMbwfMx0b8IlYIk) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Let You Go](https://open.spotify.com/album/4MevvS4iJ8wJpgp4Y7aAY0) | 2:22 | 2022-03-10 | 2022-05-07 |
 | [Lika bra](https://open.spotify.com/track/2AuOnLQFk1LCiSWuxbQona) | [råsa](https://open.spotify.com/artist/7xt4XwzlemR8yD2e3M26Wj) | [Lika bra](https://open.spotify.com/album/2uZdMOYOd3qwAzuNS0hKur) | 2:59 | 2021-12-16 | 2022-03-10 |
@@ -455,7 +455,7 @@
 | [My Friends](https://open.spotify.com/track/5G4xG632nZ9b3l9L4eI1hK) | [Nadja Kasanesh](https://open.spotify.com/artist/11VSQqCvMHu2UNkfyuIoXa) | [My Friends](https://open.spotify.com/album/0sgJCD4bUVQi7cbTb0jWUQ) | 2:57 | 2022-04-07 | 2022-05-08 |
 | [My Love](https://open.spotify.com/track/7z1w4IrnedvSTn5GZ2P5qm) | [Ess Bogale](https://open.spotify.com/artist/0iR8N3LhYx9AqADZL9RKd7) | [My Love](https://open.spotify.com/album/3BntMcd0jqbsXgRfseNuAy) | 2:49 | 2022-03-24 | 2022-04-19 |
 | [My Name](https://open.spotify.com/track/382xlBIkKxzIhpOobszUCE) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [My Name](https://open.spotify.com/album/5yqYKtzpJhpsqN1666cQXt) | 2:14 | 2021-12-16 | 2022-05-13 |
-| [Måndagsbarn \- Spotify Singles](https://open.spotify.com/track/6sLEtc4bWznxS0ERA6lt1k) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Måndagsbarn \(Spotify Singles\)](https://open.spotify.com/album/19WGMtXFnntmUQvqfAdmPC) | 3:00 | 2023-04-27 |  |
+| [Måndagsbarn \- Spotify Singles](https://open.spotify.com/track/6sLEtc4bWznxS0ERA6lt1k) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Måndagsbarn \(Spotify Singles\)](https://open.spotify.com/album/19WGMtXFnntmUQvqfAdmPC) | 3:00 | 2023-04-27 | 2023-09-24 |
 | [Naked](https://open.spotify.com/track/5xVUzNOpWbmBmOJn1Jb4Am) | [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [Naked](https://open.spotify.com/album/7BVMjlnTbiCcEuzwRgcVRU) | 3:30 | 2021-12-16 | 2022-01-14 |
 | [Naked Love](https://open.spotify.com/track/0tBKRyjgUWvU7zNjYqnoDz) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Naked Love](https://open.spotify.com/album/2x1WdqyybAl3oe9hGMG074) | 3:16 | 2022-05-05 | 2022-07-28 |
 | [Nattbuss](https://open.spotify.com/track/1kZQyJRQi9PcWwzpPHVxwc) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Nattbuss](https://open.spotify.com/album/64dApoo1lReAnvqcz6CETQ) | 3:26 | 2023-03-29 |  |
@@ -513,6 +513,7 @@
 | [Piller](https://open.spotify.com/track/3xZ690zBbgyUX7vwZhCrQv) | [Klara & Jag](https://open.spotify.com/artist/2X2m34XTofjWhhW0Wnya5k) | [I stadens famn](https://open.spotify.com/album/6QKW1QYSFKgwGD0ajHRvNm) | 3:20 | 2022-05-12 | 2022-07-23 |
 | [Piller](https://open.spotify.com/track/5O7wcEKtYa8T7aAPPYEK4B) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Piller](https://open.spotify.com/album/4e12w2ks3KmvLjodwRN7W1) | 3:48 | 2021-12-16 | 2022-02-19 |
 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 | 2021-12-16 | 2022-03-11 |
+| [Pluto \- Bonus Track](https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Home](https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn) | 2:51 | 2023-09-21 |  |
 | [Policeman](https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Policeman](https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft) | 3:33 | 2022-06-02 | 2023-04-23 |
 | [Poppade en till](https://open.spotify.com/track/5QR4fCF91oBMMdiH0xJDvk) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Poppade en till](https://open.spotify.com/album/1KkYv6Q0yrGehzyZm0tAGJ) | 3:29 | 2023-01-27 | 2023-04-25 |
 | [Poppis Visa](https://open.spotify.com/track/1TV02N2DgCdHMFCkES06m1) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [PART TWO](https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j) | 3:15 | 2022-05-20 | 2022-11-11 |
@@ -538,6 +539,7 @@
 | [Rom\-Com](https://open.spotify.com/track/0GfPbAHD69YgJUQVwMTrtS) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Sweet Life](https://open.spotify.com/album/05qc5AvQy0FFYc3pKLgSS2) | 3:20 | 2021-12-16 | 2022-03-05 |
 | [Rosa nejlikor](https://open.spotify.com/track/0czj9HxnkaotIbcXazZ6PG) | [Agnes Matsdotter](https://open.spotify.com/artist/6C0HjwmlFfHqrpxeQctQWi) | [Rosa nejlikor](https://open.spotify.com/album/0ReOX2s7WHUhmYcAwRxDrZ) | 3:19 | 2022-04-07 | 2022-04-29 |
 | [Roses N Guns](https://open.spotify.com/track/3AKrDsF5ndU05s455qAs5Y) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Roses N Guns](https://open.spotify.com/album/62ECLLY1SK5EGvZ90GeIGx) | 4:41 | 2023-03-02 | 2023-04-20 |
+| [Rosor & champagne](https://open.spotify.com/track/19s1sITOZWsUyCBva6mVs8) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Neutronstjärnan](https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx) | 4:08 | 2023-09-21 |  |
 | [Rude Girl](https://open.spotify.com/track/5BIKxh0EVJnEQdP7Cn7XH6) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Rude Girl](https://open.spotify.com/album/5nalPhFowgImnYG9rvHhQs) | 3:04 | 2022-05-05 | 2022-07-05 |
 | [Ruff Tuff](https://open.spotify.com/track/7i3MKC9GHUqpnbM4DLhRGp) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Babydolls](https://open.spotify.com/album/6HORbSOngRfgyMEqkBkqCi) | 3:07 | 2022-05-30 | 2022-07-29 |
 | [Rule the World](https://open.spotify.com/track/3wegijGUPhF7eHGCIST2Rz) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [A Letter from the Universe](https://open.spotify.com/album/1KVlwAn0aLqaqxzgU5zItL) | 2:59 | 2022-04-01 | 2022-04-21 |

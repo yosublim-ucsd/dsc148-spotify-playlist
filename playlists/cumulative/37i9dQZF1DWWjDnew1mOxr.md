@@ -4,7 +4,7 @@
 
 > Boss music for boss people\. Cover: JAMIE WEBSTER
 
-164 songs - 9 hr 31 min
+165 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Goonies \(I Only Tolerate You\)](https://open.spotify.com/track/38HNASK1K4hAuLD1BRIQan) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Goonies \(I Only Tolerate You\)](https://open.spotify.com/album/53R61BIJ4taXnBztmuLVNH) | 2:18 | 2023-01-10 | 2023-09-23 |
 | [Hell On Earth](https://open.spotify.com/track/5zkVTkQkHV4ygkf4sjicbA) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Hell On Earth](https://open.spotify.com/album/0H19BYgfRBOrW5BXg7yFqH) | 2:45 | 2023-01-10 | 2023-02-24 |
 | [Hippodrome](https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Hippodrome](https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc) | 2:41 | 2023-06-28 |  |
+| [Hold Yr Horses](https://open.spotify.com/track/5gKekPljHBtFvuQcaMOnii) | [ERNIE](https://open.spotify.com/artist/3nXSj676JUEKFxfACHmC9J) | [Hold Yr Horses](https://open.spotify.com/album/20OuG64r08ZIIaxArM2Spc) | 2:32 | 2023-09-19 |  |
 | [Hometown](https://open.spotify.com/track/7jY9kYe3KKy6abWf08x18M) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Hometown](https://open.spotify.com/album/0aMx31rpahrCtfQbOf2AiP) | 4:52 | 2023-06-13 | 2023-08-02 |
 | [Hometown](https://open.spotify.com/track/4i72Dwm23Pn1u1waLYMnBm) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Hometown](https://open.spotify.com/album/6dV3WNRJOzU583dR5795pR) | 4:52 | 2023-07-28 |  |
 | [Hometown](https://open.spotify.com/track/2kRuduqaJfLIWGZy5EOBam) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Hometown](https://open.spotify.com/album/3pWXwphIVPJlFcvuxXvghu) | 4:52 | 2023-01-10 | 2023-06-12 |
@@ -84,7 +85,7 @@
 | [I'm Feeling it now](https://open.spotify.com/track/2cKCMoQu3dQ6y5QfT8rKRn) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN), [Jess Newby](https://open.spotify.com/artist/7siBS11QpPhl3FP0Fbkrtg) | [I'm Feeling It Now](https://open.spotify.com/album/3ax5xlVUZA8d67OIjx31px) | 3:03 | 2023-07-11 |  |
 | [If You Wanna](https://open.spotify.com/track/600a14WIlxMRKPn5DlSC6m) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [If You Wanna](https://open.spotify.com/album/3qq71MqRsuDFptNY9VeEAB) | 2:48 | 2023-09-19 |  |
 | [If You’re Gonna Break My Heart](https://open.spotify.com/track/4rd7dRScIJePZmZsHpDHRP) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [If You’re Gonna Break My Heart](https://open.spotify.com/album/0HINCw0Pfo7xmGaMTXS51l) | 4:26 | 2023-02-03 |  |
-| [IN & OUT](https://open.spotify.com/track/5DOnhg0ICVjTw8kWiPPzew) | [Cortney Dixon](https://open.spotify.com/artist/1KyaMEHOakwjwLlLYorYYp) | [IN & OUT](https://open.spotify.com/album/1kEw4BEDtEcpqcIX7bb0ul) | 2:56 | 2023-07-28 |  |
+| [IN & OUT](https://open.spotify.com/track/5DOnhg0ICVjTw8kWiPPzew) | [Cortney Dixon](https://open.spotify.com/artist/1KyaMEHOakwjwLlLYorYYp) | [IN & OUT](https://open.spotify.com/album/1kEw4BEDtEcpqcIX7bb0ul) | 2:56 | 2023-07-28 | 2023-09-24 |
 | [Intimacy](https://open.spotify.com/track/39EFala3XXRculW4xXJyOg) | [The Sukis](https://open.spotify.com/artist/0z2w2g48teQXR561xEi3zT) | [Intimacy](https://open.spotify.com/album/7zYp5nRE0nSKYryN9BUArc) | 2:31 | 2023-01-10 |  |
 | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/track/05AXOoZN3bpJh6oXylrfvX) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/6sxU6FxUwBONwo2zsbD2v8) | 2:45 | 2023-01-10 | 2023-01-29 |
 | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/track/3aVGdoYas2GPVZNLN1IxXY) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/2YoatZbkNsBRrfmX0pq9Ay) | 2:45 | 2023-01-10 | 2023-02-07 |

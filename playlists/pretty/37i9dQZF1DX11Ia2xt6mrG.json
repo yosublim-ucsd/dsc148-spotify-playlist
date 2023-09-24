@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Mr Pig y Mario Bautista en portada.",
-  "num_followers": 54967,
+  "num_followers": 54970,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWVjZWJjNjk4YmUyZTgxNTZiYWUwNDQ5Y2VlZDc1MGMxYmIyMmU5",
+  "snapshot_id": "MCxiNmE2NDE0NDRhNWExNzA1YzY2ODBkOGZjZjBhNzgzNjAyNGM2ODlm",
   "tracks": [
     {
       "added_at": "2023-09-12 19:22:53",
@@ -727,26 +727,6 @@
     {
       "added_at": "2023-09-12 19:22:53",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
-      },
-      "artists": [
-        {
-          "name": "Juan Soto",
-          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
-        },
-        {
-          "name": "Lemon Mint",
-          "url": "https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0"
-        }
-      ],
-      "duration_ms": 252579,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
-    },
-    {
-      "added_at": "2023-09-12 19:22:53",
-      "album": {
         "name": "Pass The Dutch",
         "url": "https://open.spotify.com/album/4jd1mPf6zBve7aMue5g4qj"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 208125,
       "name": "Pass The Dutch",
       "url": "https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0"
+    },
+    {
+      "added_at": "2023-09-12 19:22:53",
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
+      },
+      "artists": [
+        {
+          "name": "Juan Soto",
+          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
+        },
+        {
+          "name": "Lemon Mint",
+          "url": "https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0"
+        }
+      ],
+      "duration_ms": 252579,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
     },
     {
       "added_at": "2023-09-12 19:22:53",

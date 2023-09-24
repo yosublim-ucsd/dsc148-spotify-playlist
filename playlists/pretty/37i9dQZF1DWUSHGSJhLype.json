@@ -1,12 +1,12 @@
 {
   "description": "aquele mexid\u00e3o envolvente que o brasileiro ama / Foto: DENNIS, Mc Poze do Rodo",
-  "num_followers": 404085,
+  "num_followers": 404368,
   "original_name": "Puro SUCO DE BRASIL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDJiMzY3MTYyMWYyYTYyNDUwYmJkODQwYzJkZDUwOGE5N2U3Y2U2",
+  "snapshot_id": "MCwyOTNjYzA0MTc4MTI0OTIxM2I2ZTc2Y2RiNTNkOTEyZWRjMzQ4MGFi",
   "tracks": [
     {
       "added_at": "2023-09-22 17:53:14",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "Decretos Reais, Vol. 2",
-        "url": "https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 166774,
-      "name": "Le\u00e3o",
-      "url": "https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO"
-    },
-    {
-      "added_at": "2023-09-22 17:53:14",
-      "album": {
         "name": "ELA PIROU NA DODGE RAM",
         "url": "https://open.spotify.com/album/52rFElLntscFgyQVwbcEs3"
       },
@@ -367,6 +351,38 @@
       "duration_ms": 179599,
       "name": "ELA PIROU NA DODGE RAM",
       "url": "https://open.spotify.com/track/3o4wcB1Y6xC62eF02n9RSZ"
+    },
+    {
+      "added_at": "2023-09-22 17:53:14",
+      "album": {
+        "name": "Decretos Reais, Vol. 2",
+        "url": "https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 166774,
+      "name": "Le\u00e3o",
+      "url": "https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO"
+    },
+    {
+      "added_at": "2023-09-22 17:53:14",
+      "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 124455,
+      "name": "A Dona Aranha",
+      "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -391,18 +407,18 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+        "name": "Furduncinho do Rogerinho",
+        "url": "https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
         }
       ],
-      "duration_ms": 124455,
-      "name": "A Dona Aranha",
-      "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
+      "duration_ms": 179701,
+      "name": "Furduncinho do Rogerinho",
+      "url": "https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -431,18 +447,22 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "Furduncinho do Rogerinho",
-        "url": "https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a"
+        "name": "Eu Gosto Assim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO"
       },
       "artists": [
         {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
         }
       ],
-      "duration_ms": 179701,
-      "name": "Furduncinho do Rogerinho",
-      "url": "https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n"
+      "duration_ms": 148800,
+      "name": "Eu Gosto Assim - Ao Vivo",
+      "url": "https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -475,26 +495,6 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "Eu Gosto Assim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        },
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Eu Gosto Assim - Ao Vivo",
-      "url": "https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF"
-    },
-    {
-      "added_at": "2023-09-22 17:53:14",
-      "album": {
         "name": "DONA DE MIM",
         "url": "https://open.spotify.com/album/6gUUHKk5qcIHyffnbfApNO"
       },
@@ -523,6 +523,22 @@
       "duration_ms": 187562,
       "name": "Posturado E Calmo",
       "url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh"
+    },
+    {
+      "added_at": "2023-09-22 17:53:14",
+      "album": {
+        "name": "Pode Cr\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "duration_ms": 163584,
+      "name": "085 - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -563,22 +579,6 @@
       "duration_ms": 200723,
       "name": "Anota A\u00ed - Ao Vivo",
       "url": "https://open.spotify.com/track/5a2CIQaMW3Keqtx4BdXbEY"
-    },
-    {
-      "added_at": "2023-09-22 17:53:14",
-      "album": {
-        "name": "Pode Cr\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ"
-      },
-      "artists": [
-        {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        }
-      ],
-      "duration_ms": 163584,
-      "name": "085 - Ao Vivo",
-      "url": "https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "Diferent\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 163038,
-      "name": "Diferent\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/3PLdcrfVesYKyTpS1EXsxO"
-    },
-    {
-      "added_at": "2023-09-22 17:53:14",
-      "album": {
         "name": "Coisas Que Eu Sei",
         "url": "https://open.spotify.com/album/36lpQCTJkcgC8o5xc2hRCn"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 192240,
       "name": "Coisas Que Eu Sei",
       "url": "https://open.spotify.com/track/5btDKzAsFh975NSWxwBHRc"
+    },
+    {
+      "added_at": "2023-09-22 17:53:14",
+      "album": {
+        "name": "Diferent\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 163038,
+      "name": "Diferent\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3PLdcrfVesYKyTpS1EXsxO"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
-        "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
+        "name": "A.Mago - Playlist do Mago",
+        "url": "https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So"
       },
       "artists": [
         {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
         }
       ],
-      "duration_ms": 453018,
-      "name": "At\u00e9 Que Durou / Tu Mandas No Meu Cora\u00e7\u00e3o / Adorei / Supera",
-      "url": "https://open.spotify.com/track/1TFqH3zKOiTZoVe0OQuJte"
+      "duration_ms": 178080,
+      "name": "MONTAGEM ANOS 2000",
+      "url": "https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -891,6 +891,22 @@
       "duration_ms": 138000,
       "name": "Gostosinha \u00e9 Ela",
       "url": "https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy"
+    },
+    {
+      "added_at": "2023-09-22 17:53:14",
+      "album": {
+        "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
+        "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 453018,
+      "name": "At\u00e9 Que Durou / Tu Mandas No Meu Cora\u00e7\u00e3o / Adorei / Supera",
+      "url": "https://open.spotify.com/track/1TFqH3zKOiTZoVe0OQuJte"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -963,30 +979,6 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "Faz o Teu Nome",
-        "url": "https://open.spotify.com/album/5TW9EKpA3iQoRMy8JdlP5B"
-      },
-      "artists": [
-        {
-          "name": "Os Quebradeiras",
-          "url": "https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x"
-        },
-        {
-          "name": "DJ Zullu",
-          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
-        },
-        {
-          "name": "Stefan Baby",
-          "url": "https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3"
-        }
-      ],
-      "duration_ms": 99701,
-      "name": "Faz o Teu Nome",
-      "url": "https://open.spotify.com/track/2SFc3dFgkPvADsqz84MYi6"
-    },
-    {
-      "added_at": "2023-09-22 17:53:14",
-      "album": {
         "name": "Balan\u00e7o da Rede",
         "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
       },
@@ -1007,18 +999,26 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "A.Mago - Playlist do Mago",
-        "url": "https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So"
+        "name": "Faz o Teu Nome",
+        "url": "https://open.spotify.com/album/5TW9EKpA3iQoRMy8JdlP5B"
       },
       "artists": [
         {
-          "name": "DJ Arana",
-          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+          "name": "Os Quebradeiras",
+          "url": "https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x"
+        },
+        {
+          "name": "DJ Zullu",
+          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
+        },
+        {
+          "name": "Stefan Baby",
+          "url": "https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3"
         }
       ],
-      "duration_ms": 178080,
-      "name": "MONTAGEM ANOS 2000",
-      "url": "https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h"
+      "duration_ms": 99701,
+      "name": "Faz o Teu Nome",
+      "url": "https://open.spotify.com/track/2SFc3dFgkPvADsqz84MYi6"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -1199,6 +1199,34 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
+        "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
+        "url": "https://open.spotify.com/album/51kAalNphK3VMQJNA0KzzL"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Chic\u00e3o do Piseiro",
+          "url": "https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG"
+        },
+        {
+          "name": "Roni Bruno",
+          "url": "https://open.spotify.com/artist/2IhVpxz1wJpQWdAq28nYQ1"
+        },
+        {
+          "name": "Mts No Beat",
+          "url": "https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7"
+        }
+      ],
+      "duration_ms": 135892,
+      "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
+      "url": "https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk"
+    },
+    {
+      "added_at": "2023-09-22 17:53:14",
+      "album": {
         "name": "Perdoou Nada (Ao Vivo)",
         "url": "https://open.spotify.com/album/2QK0cNElhPgXGxRx15mKbJ"
       },
@@ -1283,34 +1311,6 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
-        "url": "https://open.spotify.com/album/51kAalNphK3VMQJNA0KzzL"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "Chic\u00e3o do Piseiro",
-          "url": "https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG"
-        },
-        {
-          "name": "Roni Bruno",
-          "url": "https://open.spotify.com/artist/2IhVpxz1wJpQWdAq28nYQ1"
-        },
-        {
-          "name": "Mts No Beat",
-          "url": "https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7"
-        }
-      ],
-      "duration_ms": 135892,
-      "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
-      "url": "https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk"
-    },
-    {
-      "added_at": "2023-09-22 17:53:14",
-      "album": {
         "name": "POLLY HITMADO",
         "url": "https://open.spotify.com/album/2iQVaMwqHCSOtQaWvALe80"
       },
@@ -1347,42 +1347,6 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "Onde Tu Vai Sentar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0B8P5we7BnNCq7MU7vVHs7"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        },
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 182640,
-      "name": "Onde Tu Vai Sentar - Ao Vivo",
-      "url": "https://open.spotify.com/track/1EabI1QbflYnmXuMKtlzbI"
-    },
-    {
-      "added_at": "2023-09-22 17:53:14",
-      "album": {
-        "name": "Botadinha Saliente",
-        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
-      },
-      "artists": [
-        {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Botadinha Saliente",
-      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
-    },
-    {
-      "added_at": "2023-09-22 17:53:14",
-      "album": {
         "name": "Sarradinha",
         "url": "https://open.spotify.com/album/21BCcHAJmoutTXsFnHZBbh"
       },
@@ -1407,38 +1371,22 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "Digo ou N\u00e3o Digo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4rrEzh5Y8zLVH7njdRIECu"
+        "name": "Onde Tu Vai Sentar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0B8P5we7BnNCq7MU7vVHs7"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
         },
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
         }
       ],
-      "duration_ms": 189800,
-      "name": "Digo ou N\u00e3o Digo - Ao Vivo",
-      "url": "https://open.spotify.com/track/2rtsT3CefzKc05JdAm8aQ5"
-    },
-    {
-      "added_at": "2023-09-22 17:53:14",
-      "album": {
-        "name": "Te Love (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX"
-      },
-      "artists": [
-        {
-          "name": "Kevi Jonny",
-          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
-        }
-      ],
-      "duration_ms": 169002,
-      "name": "Te Love - Ao Vivo",
-      "url": "https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj"
+      "duration_ms": 182640,
+      "name": "Onde Tu Vai Sentar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1EabI1QbflYnmXuMKtlzbI"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -1459,6 +1407,78 @@
       "duration_ms": 147116,
       "name": "5 Da Manh\u00e3 - Ao Vivo",
       "url": "https://open.spotify.com/track/0ZVWliWjMmYFxQe9U63Y5W"
+    },
+    {
+      "added_at": "2023-09-22 17:53:14",
+      "album": {
+        "name": "Botadinha Saliente",
+        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Botadinha Saliente",
+      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
+    },
+    {
+      "added_at": "2023-09-22 17:53:14",
+      "album": {
+        "name": "Digo ou N\u00e3o Digo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rrEzh5Y8zLVH7njdRIECu"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "Digo ou N\u00e3o Digo - Ao Vivo",
+      "url": "https://open.spotify.com/track/2rtsT3CefzKc05JdAm8aQ5"
+    },
+    {
+      "added_at": "2023-09-22 17:53:14",
+      "album": {
+        "name": "Pode Apostar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5UmfrsNwNH8e7vLuL3MHP9"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 193834,
+      "name": "Pode Apostar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0IDtnboUFETT3X81lLisTk"
+    },
+    {
+      "added_at": "2023-09-22 17:53:14",
+      "album": {
+        "name": "Te Love (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX"
+      },
+      "artists": [
+        {
+          "name": "Kevi Jonny",
+          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
+        }
+      ],
+      "duration_ms": 169002,
+      "name": "Te Love - Ao Vivo",
+      "url": "https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -1527,26 +1547,6 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "Pode Apostar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5UmfrsNwNH8e7vLuL3MHP9"
-      },
-      "artists": [
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        },
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 193834,
-      "name": "Pode Apostar - Ao Vivo",
-      "url": "https://open.spotify.com/track/0IDtnboUFETT3X81lLisTk"
-    },
-    {
-      "added_at": "2023-09-22 17:53:14",
-      "album": {
         "name": "A Caminho do Bega [Piseiro Remix]",
         "url": "https://open.spotify.com/album/1iHsaiSw8TCeXR1EAni3RL"
       },
@@ -1571,6 +1571,26 @@
       "duration_ms": 136220,
       "name": "A Caminho do Bega [Piseiro Remix] (feat. Dj Mizzontti)",
       "url": "https://open.spotify.com/track/6GIIq2BZtZorfS2R2Y2vAT"
+    },
+    {
+      "added_at": "2023-09-22 17:53:14",
+      "album": {
+        "name": "Deixa Eu Viver (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2CeQU70wcB0vYGaKI2GB4B"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 201856,
+      "name": "Deixa Eu Viver - Ao Vivo",
+      "url": "https://open.spotify.com/track/1vHWl4CiItYFf8X9Mrpcxy"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -1659,26 +1679,6 @@
       "duration_ms": 288764,
       "name": "Wonderful Pagode Rmx",
       "url": "https://open.spotify.com/track/33sVci9mshFZmvaRXCRlL4"
-    },
-    {
-      "added_at": "2023-09-22 17:53:14",
-      "album": {
-        "name": "Deixa Eu Viver (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2CeQU70wcB0vYGaKI2GB4B"
-      },
-      "artists": [
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 201856,
-      "name": "Deixa Eu Viver - Ao Vivo",
-      "url": "https://open.spotify.com/track/1vHWl4CiItYFf8X9Mrpcxy"
     },
     {
       "added_at": "2023-09-22 17:53:14",

@@ -1,12 +1,12 @@
 {
   "description": "Canciones con la adrenalina necesaria para dar esa milla extra.",
-  "num_followers": 430998,
+  "num_followers": 431168,
   "original_name": "Corre con Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTRlMzFmZGY1NTU0ZWVkYWRjNjJkMzEzNzlhYzQxMjBlYjZlMWJi",
+  "snapshot_id": "MCw3YTlhNDkyZGM5N2UzOGE3MjUzYTdjMmViZDk3ZTM0M2ZkZDRlMjRj",
   "tracks": [
     {
       "added_at": "2023-05-15 15:35:17",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-05-15 15:35:17",
       "album": {
-        "name": "Blur (Special Edition)",
-        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
       "artists": [
         {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 121160,
-      "name": "Song 2 - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
+      "duration_ms": 176346,
+      "name": "American Idiot",
+      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
     }
   ],
   "unique_name": "Corre con Rock",

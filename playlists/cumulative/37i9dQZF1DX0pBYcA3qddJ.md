@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-553 songs - 1 day 13 hr 25 min
+554 songs - 1 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,8 @@
 | [Poulenc: 愛の小径](https://open.spotify.com/track/72nhak9DZ2egStp68ji0x7) | [フランシス・プーランク](https://open.spotify.com/artist/6STj8m2UOKPkUE3YkXEh1u), [Tomoharu Ushida](https://open.spotify.com/artist/6FQJl3uqOIuXjrpFv7QclR) | [牛田智大BEST \~ピアノ名曲集](https://open.spotify.com/album/2UojxP4ugI3Uwiv6Ki6Wnr) | 2:07 | 2023-02-28 | 2023-05-17 |
 | [prayer](https://open.spotify.com/track/6OsvEWimF3N0u9DaYcp8s7) | [永井 秀和](https://open.spotify.com/artist/4c8uLFCDBJCYOfqWodvCGE), [N nulls](https://open.spotify.com/artist/6w7driOaO7unWQ2b2FaZcS) | [prayer](https://open.spotify.com/album/3xLdp5jUCFruYUCrjMBBaN) | 3:50 | 2023-05-23 | 2023-07-12 |
 | [Pretty](https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Pretty](https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp) | 3:25 | 2023-04-18 | 2023-09-06 |
-| [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 | 2023-06-15 |  |
+| [Promise](https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:54 | 2023-09-21 |  |
+| [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 | 2023-06-15 | 2023-09-24 |
 | [Préludes / Book 1, L.117: 8\. La Fille aux Cheveux de Lin \(Arr\. Marshall\)](https://open.spotify.com/track/65IMlsHgCj36oLhdi9ugpv) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kaori Muraji](https://open.spotify.com/artist/1NBiTq7dgcI4yWrz5evt9P) | [Music Gift to](https://open.spotify.com/album/6Kad3lsqZ5Sp9hdNfj5kGj) | 3:11 | 2023-02-28 | 2023-09-06 |
 | [Purple](https://open.spotify.com/track/10Ipr7AR8CGspcIERaSTNO) | [The Wisely Brothers](https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb) | [THINK WISELY](https://open.spotify.com/album/6WdMLccynx5EqCuI8elJZ5) | 4:15 | 2022-10-20 | 2022-10-26 |
 | [Pマママ](https://open.spotify.com/track/3z12jfqeERWLOG05Vw3fa3) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Pマママ](https://open.spotify.com/album/5DMA7aDkyDhtUarSEf8AfL) | 5:36 | 2023-09-05 | 2023-09-15 |

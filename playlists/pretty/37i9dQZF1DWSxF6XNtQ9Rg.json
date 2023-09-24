@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Marra e Gu\u00e8",
-  "num_followers": 192237,
+  "num_followers": 192371,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzMxYjkyZWEyN2E4NTgxMjVhYWI1MjRmYjNlMjFkMzg1MmFkYTBh",
+  "snapshot_id": "MCwxMjVmMGI0NTJiMDFiNTQ2MWRmMDNhZGU4MTIxNzQxNWI3MTZlMDhm",
   "tracks": [
     {
       "added_at": "2023-09-21 22:01:00",
@@ -487,30 +487,22 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "Body (Remix) [feat. Capo Plaza & Rondodasosa]",
-        "url": "https://open.spotify.com/album/6DiEWYk79JFILIgUd6SrTA"
+        "name": "NOI, LORO, GLI ALTRI",
+        "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
       },
       "artists": [
         {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         },
         {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 205106,
-      "name": "Body (Remix) [feat. Capo Plaza & Rondodasosa]",
-      "url": "https://open.spotify.com/track/1JAkXiY10vwLhSbcsiimrp"
+      "duration_ms": 218367,
+      "name": "\u221e LOVE (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -535,22 +527,30 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "NOI, LORO, GLI ALTRI",
-        "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
+        "name": "Body (Remix) [feat. Capo Plaza & Rondodasosa]",
+        "url": "https://open.spotify.com/album/6DiEWYk79JFILIgUd6SrTA"
       },
       "artists": [
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
         },
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
         }
       ],
-      "duration_ms": 218367,
-      "name": "\u221e LOVE (feat. Gu\u00e8)",
-      "url": "https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199"
+      "duration_ms": 205106,
+      "name": "Body (Remix) [feat. Capo Plaza & Rondodasosa]",
+      "url": "https://open.spotify.com/track/1JAkXiY10vwLhSbcsiimrp"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
+        "name": "NOI, LORO, GLI ALTRI",
+        "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 192688,
+      "name": "CRAZY LOVE",
+      "url": "https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
         "name": "Senza Di Me",
         "url": "https://open.spotify.com/album/1RIFJfcfz9CgzSER8yweTm"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 201961,
       "name": "Senza Di Me (feat. Venerus & Franco126)",
       "url": "https://open.spotify.com/track/3xGD5KhnizETt7KQwxtUAc"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "NOI, LORO, GLI ALTRI",
-        "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 192688,
-      "name": "CRAZY LOVE",
-      "url": "https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -699,6 +699,26 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
+        "name": "SOLO TUTTO",
+        "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 187431,
+      "name": "STUPIDO",
+      "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 185146,
       "name": "Tesla (feat. Sfera Ebbasta & DrefGold)",
       "url": "https://open.spotify.com/track/093RgZ7RXHZwIrxZhZYX4Q"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "SOLO TUTTO",
-        "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
-      },
-      "artists": [
-        {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        }
-      ],
-      "duration_ms": 187431,
-      "name": "STUPIDO",
-      "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -935,26 +935,6 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/5euEUUI8h8f2lWE5GMi2T1"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 171375,
-      "name": "Stamm Fort (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/7iTTQvztpfrDneVSX9IGBD"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
         "name": "MACHETE MIXTAPE 4",
         "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 144097,
       "name": "MARYLEAN (feat. Marracash) - prod. Low Kidd",
       "url": "https://open.spotify.com/track/28fRkU3vhqAJdl9i9458pQ"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/5euEUUI8h8f2lWE5GMi2T1"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 171375,
+      "name": "Stamm Fort (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/7iTTQvztpfrDneVSX9IGBD"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1247,22 +1247,22 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "GIOVANE RONDO",
-        "url": "https://open.spotify.com/album/19go1SwCMtX80cSTF7C8Qf"
+        "name": "Santeria",
+        "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
       },
       "artists": [
         {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         },
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 217443,
-      "name": "SLATT (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/1YvhcTM8aIRTg03AavA2HJ"
+      "duration_ms": 232412,
+      "name": "Nulla Accade",
+      "url": "https://open.spotify.com/track/6uqeN1m6DXG0yOQ4WMNndB"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1279,6 +1279,26 @@
       "duration_ms": 180346,
       "name": "Lo Sai Che Ci Penso",
       "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "GIOVANE RONDO",
+        "url": "https://open.spotify.com/album/19go1SwCMtX80cSTF7C8Qf"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 217443,
+      "name": "SLATT (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/1YvhcTM8aIRTg03AavA2HJ"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1319,22 +1339,22 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "Santeria",
-        "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
+        "name": "Mon Fre (feat. Emis Killa)",
+        "url": "https://open.spotify.com/album/77lRpzVsAaD51GUhOpQd3K"
       },
       "artists": [
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         },
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
         }
       ],
-      "duration_ms": 232412,
-      "name": "Nulla Accade",
-      "url": "https://open.spotify.com/track/6uqeN1m6DXG0yOQ4WMNndB"
+      "duration_ms": 224150,
+      "name": "Mon Fre - feat. Emis Killa",
+      "url": "https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1355,26 +1375,6 @@
       "duration_ms": 193554,
       "name": "Baby (with J Balvin)",
       "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "Mon Fre (feat. Emis Killa)",
-        "url": "https://open.spotify.com/album/77lRpzVsAaD51GUhOpQd3K"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 224150,
-      "name": "Mon Fre - feat. Emis Killa",
-      "url": "https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
+        "name": "Filtri",
+        "url": "https://open.spotify.com/album/0Rh1xvnuSs3GyZAvpLlkut"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        }
+      ],
+      "duration_ms": 169683,
+      "name": "Rompo (feat. Boro)",
+      "url": "https://open.spotify.com/track/4oPh7HAoMR1bLBbxwqKmgn"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
         "name": "MACHETE MIXTAPE 4",
         "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 177036,
       "name": "HO PAURA DI USCIRE 2 - prod. Mace",
       "url": "https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "Filtri",
-        "url": "https://open.spotify.com/album/0Rh1xvnuSs3GyZAvpLlkut"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        },
-        {
-          "name": "Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
-        }
-      ],
-      "duration_ms": 169683,
-      "name": "Rompo (feat. Boro)",
-      "url": "https://open.spotify.com/track/4oPh7HAoMR1bLBbxwqKmgn"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1947,18 +1947,22 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "Drippin' in Milano",
-        "url": "https://open.spotify.com/album/0yAArQfNMOEnB5G3KvTFcU"
+        "name": "Crack Musica",
+        "url": "https://open.spotify.com/album/5jEMsm5dqdur3YKs8RL56B"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "Dark Polo Gang",
+          "url": "https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 159989,
-      "name": "Drippin' in Milano",
-      "url": "https://open.spotify.com/track/1TrjxEcRPHvaLF3saKCSs4"
+      "duration_ms": 251653,
+      "name": "Cavallini (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/3StzACYDEYmfOOWNU83iRs"
     }
   ],
   "unique_name": "Hit Rap Italiane",

@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Austin Snell",
-  "num_followers": 96579,
+  "num_followers": 96644,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2E4MTQzMzEyNDc0YmFjOTIwZWFmYjM3MzNkNWQ5NjE4ZjI1YmM1",
+  "snapshot_id": "MCxmN2QxODIzOGU2ZDA1NGY5NWMzMmNhNGFhNzUyMGNhOGNiOWU0NGQ2",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "What's Up?",
+        "url": "https://open.spotify.com/album/74p9zXtOsvboiAi9srfb6l"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Linda Perry",
+          "url": "https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo"
+        }
+      ],
+      "duration_ms": 278105,
+      "name": "What\u2019s Up?",
+      "url": "https://open.spotify.com/track/7meXWIzJ01VGReBK26gtvw"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK"
       },
@@ -1619,6 +1639,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Acoustic Covers (Deluxe)",
+        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 271771,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "I Don't Want To Miss A Thing",
         "url": "https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy"
       },
@@ -1647,22 +1683,6 @@
       "duration_ms": 189253,
       "name": "Gentle On My Mind",
       "url": "https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Acoustic Covers (Deluxe)",
-        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 271771,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1727,22 +1747,6 @@
       "duration_ms": 232005,
       "name": "Blue Bayou",
       "url": "https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Someone You Loved",
-        "url": "https://open.spotify.com/album/1z9rgqCPr9UaOxipFCHZN5"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 171320,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/2Gd3xovLjWKqPIfQNs3LP0"
     }
   ],
   "unique_name": "Country Covers",

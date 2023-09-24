@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: cassö, RAYE, D\-Block Europe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,792,760 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,793,050 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Nonstop](https://open.spotify.com/track/4GLmR59ivaKbUVikqJW7tg) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Nonstop](https://open.spotify.com/album/5iQPep5UWWfqr4Lvcuy3dm) | 3:02 |
 | 50 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
 
-Snapshot ID: `MCw1ZDRmODA1NjdjMzc5ZmE1ZGQzNWMyMWQwODBkNDhlODA2YzRkZWM5`
+Snapshot ID: `MCxjYzY5ZDkyZjNiMjQ1ODQ1NTA5YWMyZGM2NWU2MzdkOTRlYzY5Nzgz`

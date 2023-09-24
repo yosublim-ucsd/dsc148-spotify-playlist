@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Katnuf
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,010 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,023 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 |
 | 40 | [Stout, Bad & Vies](https://open.spotify.com/track/15jJDcp0hJnpuYQz0eTf5l) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Stout, Bad & Vies](https://open.spotify.com/album/3txKVfxJiw2TQ84HvZHoFD) | 2:25 |
 
-Snapshot ID: `MCw0ZmIxMDNhODliMjQxNmIwYTM5MjI4MThiNDAzNWJiNmFkYmE4Yzlj`
+Snapshot ID: `MCxlM2U0ZjhiOGZlMDg2ZDMzOTMxMjg2YTAxOWM0NTM1OWEyNGExYjRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92zI3Y5s9Wf.md) - [plain]
 
 > Up & coming Indonesian producer <a href="spotify:artist:7kA4sEagpoNK91I7wr9tYr">Bleu Clair</a> brings his high\-powered energy to his mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,930 likes - 17 songs - 59 min 22 sec
+[Spotify](https://open.spotify.com/user/spotify) - 4,935 likes - 17 songs - 59 min 22 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92zI3Y5s9Wf.md) - [plain]
 | 16 | [Ocean \- Walker & Royce Mix \- Mixed](https://open.spotify.com/track/76dWV8LuOUowkq7maSoF3j) | [Teachers](https://open.spotify.com/artist/0D0wa2W41SfFzUKoWec8sE), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV) | [Ocean \- Walker & Royce Mix \(Mixed\)](https://open.spotify.com/album/6Vl8XyTW8iMKKJ7EhMq8Qe) | 4:30 |
 | 17 | [Hyperspace \(feat\. Teza Sumendra\) \- Mixed](https://open.spotify.com/track/6vsYbmd2rluMxQyRLx8mK9) | [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Hyperspace \(feat\. Teza Sumendra\) \[Mixed\]](https://open.spotify.com/album/6AJxmR7PYMWzH7611EAou7) | 3:52 |
 
-Snapshot ID: `MCw1MTRhOGY2Mzk1MjQ5YmZjZDI2MzdmYWJlMDdlMTUwNmE1YmNmMTE5`
+Snapshot ID: `MCw3YWQxYjcxOGUyNWExMWQyOGIxODQ2Mzc0ZTZjZmNlODdlYTc1NjFh`

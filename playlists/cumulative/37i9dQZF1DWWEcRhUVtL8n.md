@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Rocco
 
-1,671 songs - 3 day 16 hr 1 min
+1,672 songs - 3 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -800,6 +800,7 @@
 | [intimate moments](https://open.spotify.com/track/0Tj5Dm8TNH4nzXgzAztyJE) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [intimate moments](https://open.spotify.com/album/3xNEpEy2g317i4J04FQD2U) | 3:30 | 2020-12-12 | 2022-06-15 |
 | [Into My Arms](https://open.spotify.com/track/5zTkiTjxGgLlhtc24r2Qse) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Dreamland](https://open.spotify.com/album/3Z62dgkhjWCfLeZ8v9p2Td) | 3:51 | 2020-10-20 | 2021-06-03 |
 | [Into The Night](https://open.spotify.com/track/0VlNBqGgNFR8Kp022pyp2f) | [Neptune](https://open.spotify.com/artist/5hmJ3DqZwkYDk0qGHsO14N) | [Into The Night](https://open.spotify.com/album/5GIgKmHgOWhwRXsRUPoiqV) | 2:46 | 2022-06-24 | 2022-09-16 |
+| [Into Your Room](https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Into Your Room](https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws) | 3:29 | 2023-09-22 |  |
 | [Intuition](https://open.spotify.com/track/5CNsudttspVuqYvMaiKhrs) | [Tishmal](https://open.spotify.com/artist/5lzYtvETBVL9Rqen5RUpPu) | [Intuition](https://open.spotify.com/album/4KAh8M5voajKYfF62DN9ri) | 3:06 | 2022-04-15 | 2022-04-20 |
 | [Invisible Things](https://open.spotify.com/track/1ShHhJlzaLuoZbJ3aP4z0m) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:17 | 2020-10-20 | 2021-05-25 |
 | [IRL](https://open.spotify.com/track/5bm1adZmcKKwmZSnpfjCbn) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Weird Years \(Season 1\)](https://open.spotify.com/album/7zparkRx1Pfgdab0baixix) | 3:24 | 2021-01-17 | 2022-04-16 |
@@ -1326,7 +1327,7 @@
 | [Slowly](https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Slowly](https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum) | 2:53 | 2023-08-25 |  |
 | [smb2l](https://open.spotify.com/track/44dlDthpDSiplvoFGwD2AA) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [shapeless](https://open.spotify.com/album/2yJtn1NTEXnj5tM3B2NGyf) | 2:46 | 2023-03-03 | 2023-03-18 |
 | [smile](https://open.spotify.com/track/19H6OuZyJ9iFpxVvQveTJP) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 2:35 | 2022-12-07 | 2023-01-19 |
-| [Smiley](https://open.spotify.com/track/7jp7cuoSYqBfNNZ2njs4Yv) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Smiley](https://open.spotify.com/album/63ub9Mu2sxcHPPSxpBspMR) | 2:49 | 2023-06-30 |  |
+| [Smiley](https://open.spotify.com/track/7jp7cuoSYqBfNNZ2njs4Yv) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Smiley](https://open.spotify.com/album/63ub9Mu2sxcHPPSxpBspMR) | 2:49 | 2023-06-30 | 2023-09-24 |
 | [Smoke and Mirrors](https://open.spotify.com/track/6fKpX8Zm3BR8SaZ4p20TA6) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Smoke and Mirrors](https://open.spotify.com/album/2HuDC40v2paafEQvIvkM41) | 3:11 | 2021-02-24 | 2021-05-27 |
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-21 | 2023-04-01 |
 | [So Clear](https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [So Clear](https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI) | 3:32 | 2023-04-14 | 2023-04-29 |

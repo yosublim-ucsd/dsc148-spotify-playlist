@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Lefty SM en portada.",
-  "num_followers": 146233,
+  "num_followers": 146501,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWM3ZGZmYzJjOTM4MmI3ZmEyNGNlMzVlNjMyY2NkNDI2YzgzMzJh",
+  "snapshot_id": "MCw5ZDVjOGUzOWRiNWYxZTQ2ZjdhNDM0NDBhNGQzYmQwYjExNzRjNDY1",
   "tracks": [
     {
       "added_at": "2023-09-08 06:00:00",
@@ -843,18 +843,22 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
-        "url": "https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ"
+        "name": "El Chamaquito",
+        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
       },
       "artists": [
         {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
         }
       ],
-      "duration_ms": 190575,
-      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
-      "url": "https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL"
+      "duration_ms": 139863,
+      "name": "El Chamaquito",
+      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -875,22 +879,18 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "El Chamaquito",
-        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
+        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
+        "url": "https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        },
-        {
-          "name": "Angel Cervantes",
-          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 139863,
-      "name": "El Chamaquito",
-      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
+      "duration_ms": 190575,
+      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
+      "url": "https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
+        "name": "Pal Amor Soy Malo",
+        "url": "https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Pal Amor Soy Malo",
+      "url": "https://open.spotify.com/track/7gwKQ5sNGRFZ70o0SK5DTR"
+    },
+    {
+      "added_at": "2023-09-08 06:00:00",
+      "album": {
         "name": "En Blindadas",
         "url": "https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 190154,
       "name": "En Blindadas",
       "url": "https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo"
-    },
-    {
-      "added_at": "2023-09-08 06:00:00",
-      "album": {
-        "name": "Pal Amor Soy Malo",
-        "url": "https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC"
-      },
-      "artists": [
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Pal Amor Soy Malo",
-      "url": "https://open.spotify.com/track/7gwKQ5sNGRFZ70o0SK5DTR"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1435,6 +1435,26 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
+        "name": "La 701 (Panter Belico)",
+        "url": "https://open.spotify.com/album/59qiGHotwfcZvHITzogmEG"
+      },
+      "artists": [
+        {
+          "name": "5 Music MX",
+          "url": "https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH"
+        },
+        {
+          "name": "La Fresada Music",
+          "url": "https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1"
+        }
+      ],
+      "duration_ms": 180101,
+      "name": "La 701 - Panter Belico",
+      "url": "https://open.spotify.com/track/7FerPDdH6GQJkL39rwY5Ek"
+    },
+    {
+      "added_at": "2023-09-08 06:00:00",
+      "album": {
         "name": "Un Tabaco (En Vivo)",
         "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
       },
@@ -1467,26 +1487,6 @@
       "duration_ms": 219452,
       "name": "No Te Metas",
       "url": "https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV"
-    },
-    {
-      "added_at": "2023-09-08 06:00:00",
-      "album": {
-        "name": "La 701 (Panter Belico)",
-        "url": "https://open.spotify.com/album/59qiGHotwfcZvHITzogmEG"
-      },
-      "artists": [
-        {
-          "name": "5 Music MX",
-          "url": "https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH"
-        },
-        {
-          "name": "La Fresada Music",
-          "url": "https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1"
-        }
-      ],
-      "duration_ms": 180101,
-      "name": "La 701 - Panter Belico",
-      "url": "https://open.spotify.com/track/7FerPDdH6GQJkL39rwY5Ek"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1639,18 +1639,22 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "LA Dank",
-        "url": "https://open.spotify.com/album/0TRaJBVbMxyxbI5TkDvX88"
+        "name": "Pateando El Bote",
+        "url": "https://open.spotify.com/album/3WpZ9itqu22gESDv2KXXVR"
       },
       "artists": [
         {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+          "name": "Jose Gomez",
+          "url": "https://open.spotify.com/artist/6OAcZpQHWwBwgDWejEd8DB"
+        },
+        {
+          "name": "Kevin Ortiz",
+          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
         }
       ],
-      "duration_ms": 147253,
-      "name": "LA Dank",
-      "url": "https://open.spotify.com/track/1yuO5XZmlvwGk9VtSoEhzW"
+      "duration_ms": 177200,
+      "name": "Pateando El Bote",
+      "url": "https://open.spotify.com/track/6t3PjoEUPfZGzw1yHQCwTr"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1687,6 +1691,22 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
+        "name": "LA Dank",
+        "url": "https://open.spotify.com/album/0TRaJBVbMxyxbI5TkDvX88"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        }
+      ],
+      "duration_ms": 147253,
+      "name": "LA Dank",
+      "url": "https://open.spotify.com/track/1yuO5XZmlvwGk9VtSoEhzW"
+    },
+    {
+      "added_at": "2023-09-08 06:00:00",
+      "album": {
         "name": "En La Lumbre (En Vivo, Sonora, M\u00e9xico, 2023)",
         "url": "https://open.spotify.com/album/0xroiBY5yESM9Rp7qh1dFM"
       },
@@ -1699,22 +1719,6 @@
       "duration_ms": 162474,
       "name": "En La Lumbre - En Vivo, Sonora, M\u00e9xico, 2023",
       "url": "https://open.spotify.com/track/2ZnQIKPgq3SptPgG4XTnYU"
-    },
-    {
-      "added_at": "2023-09-08 06:00:00",
-      "album": {
-        "name": "La Reina Del Condado",
-        "url": "https://open.spotify.com/album/1GAYzF6ub76uaNaW8srhAI"
-      },
-      "artists": [
-        {
-          "name": "Jose Gomez",
-          "url": "https://open.spotify.com/artist/6OAcZpQHWwBwgDWejEd8DB"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "La Reina Del Condado",
-      "url": "https://open.spotify.com/track/0UzgGknQoXDbSmwAfsvqDN"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1739,6 +1743,22 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
+        "name": "La Reina Del Condado",
+        "url": "https://open.spotify.com/album/1GAYzF6ub76uaNaW8srhAI"
+      },
+      "artists": [
+        {
+          "name": "Jose Gomez",
+          "url": "https://open.spotify.com/artist/6OAcZpQHWwBwgDWejEd8DB"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "La Reina Del Condado",
+      "url": "https://open.spotify.com/track/0UzgGknQoXDbSmwAfsvqDN"
+    },
+    {
+      "added_at": "2023-09-08 06:00:00",
+      "album": {
         "name": "El Mero Mero",
         "url": "https://open.spotify.com/album/5N7dhr06pl91qYkj3q6UVd"
       },
@@ -1751,26 +1771,6 @@
       "duration_ms": 190627,
       "name": "El Mero Mero",
       "url": "https://open.spotify.com/track/1i4CDdL8UfHD3pMWeMMVhQ"
-    },
-    {
-      "added_at": "2023-09-08 06:00:00",
-      "album": {
-        "name": "Pateando El Bote",
-        "url": "https://open.spotify.com/album/3WpZ9itqu22gESDv2KXXVR"
-      },
-      "artists": [
-        {
-          "name": "Jose Gomez",
-          "url": "https://open.spotify.com/artist/6OAcZpQHWwBwgDWejEd8DB"
-        },
-        {
-          "name": "Kevin Ortiz",
-          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "Pateando El Bote",
-      "url": "https://open.spotify.com/track/6t3PjoEUPfZGzw1yHQCwTr"
     },
     {
       "added_at": "2023-09-08 06:00:00",

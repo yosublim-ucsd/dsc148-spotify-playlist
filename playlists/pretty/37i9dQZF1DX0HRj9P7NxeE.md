@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 
 > Get your body right with this workout twerkout
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,770,190 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,770,222 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 46 | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ) | 2:53 |
 | 47 | [Act Bad](https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Act Bad](https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ) | 3:12 |
 | 48 | [BO$$ CHICK](https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [THE SINGLE LIFE](https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8) | 2:14 |
-| 49 | [Anything Flows \(feat\. Maiya The Don, 2Rare & Kari Faux\)](https://open.spotify.com/track/5MnqugWyPeiodmvBbFIZ6m) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [Anything Flows \(feat\. Maiya The Don, 2Rare & Kari Faux\)](https://open.spotify.com/album/60LPFmZ5vcbDBZRexNZ9c1) | 3:18 |
+| 49 | [Super Freaky Girl \(with JT & BIA feat\. Katie Got Bandz, Akbar V & Maliibu Mitch\) \- Queen Mix](https://open.spotify.com/track/4dFKEyGrwmIimMqwYleFOR) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Katie Got Bandz](https://open.spotify.com/artist/48ObYO3GM7R76nRcfyvnM9), [Akbar V](https://open.spotify.com/artist/74PEUb9Hxn7dY8jjgnQvSw), [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx) | [Super Freaky Girl \(Queen Mix\)](https://open.spotify.com/album/0kTHpgQCab29IVUdUIVtI6) | 3:54 |
 | 50 | [Sneaky Link](https://open.spotify.com/track/4dPaEnjUaBjG3ukUHMeNDl) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [NyNy](https://open.spotify.com/artist/37ANmItcvVWbBEROrO5g33) | [Sneaky Link](https://open.spotify.com/album/66q0tnzglsn6fHdeDHF8T8) | 2:26 |
 
-Snapshot ID: `MCxjODFhOTJjMDMxOTIxZjY4NDM3Y2IyNWM1ZTMzOGMyN2Y0Zjk3MWM0`
+Snapshot ID: `MCw0OWM4MzBiZWRmODg4N2I0YjZmNWMzOWJhZmQ3NzZmNGMwY2YxZTNl`

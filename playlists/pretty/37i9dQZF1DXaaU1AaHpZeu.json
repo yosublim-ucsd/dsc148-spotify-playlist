@@ -1,12 +1,12 @@
 {
   "description": "Nuevos hallazgos de m\u00fasica indie latina. Armenia en portada.",
-  "num_followers": 297376,
+  "num_followers": 297407,
   "original_name": "Novedades Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTI2MzExZDEwNGE2OGQ4MThlMzk3ZmM4MjFhZWYxNWZjMjBiY2Nj",
+  "snapshot_id": "MCxhYTU5NGUxMWFhNWY3NDRkMWEwM2I1MTUwNzk0NWZmMjBjZjY5NzNh",
   "tracks": [
     {
       "added_at": "2023-09-22 08:08:00",
@@ -92,8 +92,8 @@
           "url": "https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So"
         },
         {
-          "name": "Anabela Cartolano",
-          "url": "https://open.spotify.com/artist/5lcdLjR1TYyL5QIDCpTwU2"
+          "name": "Anabella Cartolano",
+          "url": "https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C"
         }
       ],
       "duration_ms": 295568,
@@ -431,17 +431,21 @@
     {
       "added_at": "2023-09-22 08:08:00",
       "album": {
-        "name": "te vas a lamentar: '(",
+        "name": "te vas a lamentar :'(",
         "url": "https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8"
       },
       "artists": [
         {
           "name": "La Valenti",
           "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        },
+        {
+          "name": "Nan Que",
+          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
         }
       ],
       "duration_ms": 189600,
-      "name": "te vas a lamentar: '(",
+      "name": "te vas a lamentar :'(",
       "url": "https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh"
     },
     {

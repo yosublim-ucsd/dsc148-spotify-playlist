@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-499 songs - 2 day 0 hr 49 min
+500 songs - 2 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Changes](https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Changes EP](https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J) | 5:41 | 2021-06-25 | 2023-04-29 |
 | [Changing Lanes \- Edit](https://open.spotify.com/track/5i2lSzyNHNCeqpqtg6oiIQ) | [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Changing Lanes](https://open.spotify.com/album/7tQ7dbGEJxV5dLcZY5JpIT) | 6:18 | 2022-04-22 | 2022-07-28 |
 | [Chaque Fois](https://open.spotify.com/track/4egICwEusGUJsGEaTwGscm) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [Chaque Fois](https://open.spotify.com/album/4wyqLUE8pvyn1epJLJsiaJ) | 7:30 | 2021-04-21 | 2022-07-27 |
+| [Children Of 95](https://open.spotify.com/track/0W3fiSN6ebq9V3kFb0KGPn) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Children Of 95](https://open.spotify.com/album/0lPtLvaconuzEsRPFEnRKv) | 5:57 | 2023-09-22 |  |
 | [CIRCLES \- Rodriguez Jr\. Remix](https://open.spotify.com/track/0PwaykhbrTRE7DdtCM5hKR) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [CIRCLES \(Rodriguez Jr\. Remix\)](https://open.spotify.com/album/3HJEiJoDYSoT967vQQBui6) | 5:21 | 2023-01-20 | 2023-04-19 |
 | [Closing Doors \- Edit](https://open.spotify.com/track/72kB1jI3G6H3zv33Qwmmhe) | [Khen](https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ) | [Closing Doors / Burgundy](https://open.spotify.com/album/5covQ2LXbpXw98ICHdjMq9) | 3:48 | 2021-10-01 | 2022-04-21 |
 | [Colibria](https://open.spotify.com/track/4mrkRBRhahbgcfimPihZVN) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/7Mz3hUKPxQMZco25qZ6sQF) | 7:59 | 2021-12-13 | 2022-04-21 |
@@ -348,7 +349,7 @@
 | [Peacock Revisit \(feat\. Ice Beats Slide & Sbuda Maleather\)](https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq) | [SOLACE](https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik) | 5:26 | 2023-08-11 | 2023-09-02 |
 | [Petra](https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Petra](https://open.spotify.com/album/4fAOQoSV8Sy0XKDKuSS4bp) | 4:36 | 2022-04-08 |  |
 | [Phara Oh](https://open.spotify.com/track/5TrkFfJgrGa1PdAkJO5QAs) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Phara Oh Away](https://open.spotify.com/album/15qqhB5L0g5xb8sFVaVEul) | 8:47 | 2021-05-07 | 2023-03-11 |
-| [Pilgrim](https://open.spotify.com/track/5gzMsfzBU9VKgVUcOWDRTG) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Pilgrim](https://open.spotify.com/album/4okF9Jy3KqE8zRkgKzCNGQ) | 3:39 | 2023-09-08 |  |
+| [Pilgrim](https://open.spotify.com/track/5gzMsfzBU9VKgVUcOWDRTG) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Pilgrim](https://open.spotify.com/album/4okF9Jy3KqE8zRkgKzCNGQ) | 3:39 | 2023-09-08 | 2023-09-24 |
 | [Pink Elephant](https://open.spotify.com/track/5PYE614MlfD0iWdug1SjcX) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [The Witness EP](https://open.spotify.com/album/5rCCueOoszcB562Okhz13f) | 5:45 | 2021-09-03 | 2022-07-28 |
 | [Pliva](https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Pliva](https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh) | 4:04 | 2022-07-28 |  |
 | [Pont de la Caille](https://open.spotify.com/track/3jAPlfftOtKBgrJ722luE3) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Pont de la Caille](https://open.spotify.com/album/64dSfNdAExAwPFtjPmXm4M) | 5:13 | 2021-09-03 | 2023-04-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 16962,
+  "num_followers": 16997,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWZjNGM4ZTQ2ZGNiMzc5YzE2Mzk3ODI2NmZhMWViODMzNTBkMmFi",
+  "snapshot_id": "MCxlYjBjZjAyNTNhMGE2OTc4YjFjYmQxOTkzYzg0M2ZiNDg0ZmQ5YzNm",
   "tracks": [
     {
       "added_at": "2023-09-21 23:00:00",
@@ -59,6 +59,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "YAWA",
+        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "YAWA",
+      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "Talibans II",
         "url": "https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 176453,
       "name": "Talibans II",
       "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "YAWA",
-        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "YAWA",
-      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "Reckless & Sweet",
+        "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 159680,
+      "name": "Reckless & Sweet",
+      "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "Why?",
         "url": "https://open.spotify.com/album/0fgWT4cXG1JsVF9suHlU0M"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 184421,
       "name": "Why?",
       "url": "https://open.spotify.com/track/0znm2JL9roSYKV6e4CUo87"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Reckless & Sweet",
-        "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 159680,
-      "name": "Reckless & Sweet",
-      "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "Busy Body",
+        "url": "https://open.spotify.com/album/6oFUkKyLd51aEtcsFEDBuT"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 162063,
+      "name": "Busy Body",
+      "url": "https://open.spotify.com/track/0lbVaIuvvZvK499elqT7uX"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "ENTA",
         "url": "https://open.spotify.com/album/4FQD5xomYdmrUI47Y0q3zY"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 156237,
       "name": "ENTA",
       "url": "https://open.spotify.com/track/7DZBsMWWLZizzztPtTGmBC"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Busy Body",
-        "url": "https://open.spotify.com/album/6oFUkKyLd51aEtcsFEDBuT"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 162063,
-      "name": "Busy Body",
-      "url": "https://open.spotify.com/track/0lbVaIuvvZvK499elqT7uX"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Repercussions",
-        "url": "https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 180714,
-      "name": "Repercussions",
-      "url": "https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Boy Alone (Deluxe)",
         "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 166271,
       "name": "imagine (feat. Aitch)",
       "url": "https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Repercussions",
+        "url": "https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 180714,
+      "name": "Repercussions",
+      "url": "https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "Black Panther: Wakanda Forever Prologue",
+        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
+        }
+      ],
+      "duration_ms": 213860,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "A Night In Cocody",
         "url": "https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 220264,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Black Panther: Wakanda Forever Prologue",
-        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Marvel",
-          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
-        }
-      ],
-      "duration_ms": 213860,
-      "name": "No Woman No Cry",
-      "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1259,22 +1259,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "7 in the Morning",
-        "url": "https://open.spotify.com/album/33HDZIBuxNPHLvSB8Rs9L7"
+        "name": "My Own (feat. Blaqbonez)",
+        "url": "https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV"
       },
       "artists": [
         {
-          "name": "Laime",
-          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+          "name": "Major AJ",
+          "url": "https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT"
         },
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 214913,
-      "name": "7 in the Morning",
-      "url": "https://open.spotify.com/track/1ECMAbJySsfImTUuDRj9J7"
+      "duration_ms": 180765,
+      "name": "My Own (feat. Blaqbonez)",
+      "url": "https://open.spotify.com/track/5YHRiz4ZoCCAIJaMNy1Ct8"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1295,22 +1295,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "My Own (feat. Blaqbonez)",
-        "url": "https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV"
+        "name": "7 in the Morning",
+        "url": "https://open.spotify.com/album/33HDZIBuxNPHLvSB8Rs9L7"
       },
       "artists": [
         {
-          "name": "Major AJ",
-          "url": "https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT"
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
         },
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 180765,
-      "name": "My Own (feat. Blaqbonez)",
-      "url": "https://open.spotify.com/track/5YHRiz4ZoCCAIJaMNy1Ct8"
+      "duration_ms": 214913,
+      "name": "7 in the Morning",
+      "url": "https://open.spotify.com/track/1ECMAbJySsfImTUuDRj9J7"
     },
     {
       "added_at": "2023-09-21 23:00:00",

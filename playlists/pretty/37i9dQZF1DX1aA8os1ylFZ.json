@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 236641,
+  "num_followers": 236721,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzFlNWFmOTMzMTZkYmIzYWVlNTBkNGJjNjY1OWYxZDhiMGRiNDli",
+  "snapshot_id": "MCwzM2E3ZDMxZmE2MTE0YzNlZjM4OWEzNWEzODc3NGU4YTc5OWJlMGI3",
   "tracks": [
     {
       "added_at": "2023-09-21 22:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Tasty",
-        "url": "https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK"
-      },
-      "artists": [
-        {
-          "name": "DaniLeigh",
-          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
-        }
-      ],
-      "duration_ms": 150799,
-      "name": "Tasty",
-      "url": "https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Bestie",
         "url": "https://open.spotify.com/album/6kRPeBs9unh27QfKtYy0GE"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 174545,
       "name": "Bestie",
       "url": "https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        }
+      ],
+      "duration_ms": 150799,
+      "name": "Tasty",
+      "url": "https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -991,22 +991,18 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Victims & Villains",
-        "url": "https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia"
+        "name": "who's loving you?",
+        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
       },
       "artists": [
         {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
         }
       ],
-      "duration_ms": 230136,
-      "name": "white rice d\u00e9j\u00e0 vu",
-      "url": "https://open.spotify.com/track/4knVIbR3KouTZI1R26W3yy"
+      "duration_ms": 238178,
+      "name": "MUSE FREESTYLE",
+      "url": "https://open.spotify.com/track/5QZ3Y4zHDEb8oTlRVmrizx"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1027,18 +1023,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "who's loving you?",
-        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
+        "name": "Victims & Villains",
+        "url": "https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia"
       },
       "artists": [
         {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
         }
       ],
-      "duration_ms": 238178,
-      "name": "MUSE FREESTYLE",
-      "url": "https://open.spotify.com/track/5QZ3Y4zHDEb8oTlRVmrizx"
+      "duration_ms": 230136,
+      "name": "white rice d\u00e9j\u00e0 vu",
+      "url": "https://open.spotify.com/track/4knVIbR3KouTZI1R26W3yy"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Save Me, Pt. 2",
-        "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        }
-      ],
-      "duration_ms": 151569,
-      "name": "Save Me, Pt. 2",
-      "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Life Is Better Now",
         "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 151724,
       "name": "Troubling",
       "url": "https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Save Me, Pt. 2",
+        "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        }
+      ],
+      "duration_ms": 151569,
+      "name": "Save Me, Pt. 2",
+      "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Solstice",
-        "url": "https://open.spotify.com/album/0qirqalFHKsdczuFN3mcEL"
-      },
-      "artists": [
-        {
-          "name": "K. Roosevelt",
-          "url": "https://open.spotify.com/artist/6NwdT3GPUajFQ9IvBYe0cu"
-        }
-      ],
-      "duration_ms": 178348,
-      "name": "Pleasure & Pain",
-      "url": "https://open.spotify.com/track/36xSEKbM5mpSiErUfYvzW0"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Obsession",
         "url": "https://open.spotify.com/album/5ILqDCabfFQrBHHJ4yVfT6"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 201869,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/0qirqalFHKsdczuFN3mcEL"
+      },
+      "artists": [
+        {
+          "name": "K. Roosevelt",
+          "url": "https://open.spotify.com/artist/6NwdT3GPUajFQ9IvBYe0cu"
+        }
+      ],
+      "duration_ms": 178348,
+      "name": "Pleasure & Pain",
+      "url": "https://open.spotify.com/track/36xSEKbM5mpSiErUfYvzW0"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 156213,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Ride with You",
         "url": "https://open.spotify.com/album/6Ugju3J2yU7PfOk0nSAkBF"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 164793,
       "name": "Ride with You",
       "url": "https://open.spotify.com/track/0pwGmwNir2jkqhWhBu9WqB"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 156213,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "FTU",
-        "url": "https://open.spotify.com/album/2jVFeHlGtvJKQE5dLmCFOu"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 144692,
-      "name": "FTU",
-      "url": "https://open.spotify.com/track/2qpLQjX4rSnNJyUJMdHnSA"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Bag (with Lucky Daye)",
         "url": "https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 211400,
       "name": "Bag (with Lucky Daye)",
       "url": "https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "FTU",
+        "url": "https://open.spotify.com/album/2jVFeHlGtvJKQE5dLmCFOu"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 144692,
+      "name": "FTU",
+      "url": "https://open.spotify.com/track/2qpLQjX4rSnNJyUJMdHnSA"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/5NeVFESnfQbNb14PTKn3y4"
-      },
-      "artists": [
-        {
-          "name": "Sky Feliz",
-          "url": "https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O"
-        }
-      ],
-      "duration_ms": 152562,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/50YvgSEJQpNlvOaTNJzwnk"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "PPL",
         "url": "https://open.spotify.com/album/1xpCtREzKaMD49H0qoeaGk"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 194307,
       "name": "PPL",
       "url": "https://open.spotify.com/track/0ZuqNhqowaaWYp4KBL5v3i"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/5NeVFESnfQbNb14PTKn3y4"
+      },
+      "artists": [
+        {
+          "name": "Sky Feliz",
+          "url": "https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O"
+        }
+      ],
+      "duration_ms": 152562,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/50YvgSEJQpNlvOaTNJzwnk"
     }
   ],
   "unique_name": "R&B Magic",

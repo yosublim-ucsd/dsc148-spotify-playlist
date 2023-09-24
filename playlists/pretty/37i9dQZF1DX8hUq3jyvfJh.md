@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Juliette e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,145 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,221 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [ATÉ O AMANHECER](https://open.spotify.com/track/65ZF0SDgHrIhSYXLYaZ47S) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [ATÉ O AMANHECER](https://open.spotify.com/album/6i8zv9CCuIszeZZxa3i6Uo) | 3:29 |
 | 50 | [Sem Tédio](https://open.spotify.com/track/6LIOqJseCbEpEVLkMkjp7U) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 3:00 |
 
-Snapshot ID: `MCw5OGU2N2E4YTkyYjIyZTQ5MWU3NjUxYTM2MDAwMzBjMDVlMjIzMzk5`
+Snapshot ID: `MCwwMzU2MDc5ZGY0ZWU3NTI4ZmNiMDk2NmEyYmY5NWJkYzc0MjJkMDg4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Zélie
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,435 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,479 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 12 | [Lost and found](https://open.spotify.com/track/3o5inGcKklTC2NwrCSUhQl) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Lost and found](https://open.spotify.com/album/3AVDhfJj8lyxdhLgSia94h) | 4:02 |
 | 13 | [L'an prochain](https://open.spotify.com/track/5KcrRKstOkD5USI4wA2hEV) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Jules Jaconelli](https://open.spotify.com/artist/5vQd9dKRdEZFKuMjtF4qoJ) | [L'an prochain](https://open.spotify.com/album/6kExkDePwNliVyZfXLRscx) | 3:20 |
 | 14 | [The Secret \(The Promise Version\)](https://open.spotify.com/track/5QjzQ7asp6pyZ3vA5hdJdH) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [The Secret \(The Promise Version\)](https://open.spotify.com/album/5WljcXBf72wU7zEVumjKiT) | 3:30 |
-| 15 | [Polka \(feat\. Mathieu Boogaerts\)](https://open.spotify.com/track/5bDAWKeNJbEpIMqaUx5GfR) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ), [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [Polka \(feat\. Mathieu Boogaerts\)](https://open.spotify.com/album/1VuQsHuRsr1KMPjysZuDs8) | 2:56 |
+| 15 | [Polka \(feat\. Mathieu Boogaerts\)](https://open.spotify.com/track/5bDAWKeNJbEpIMqaUx5GfR) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj), [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Polka \(feat\. Mathieu Boogaerts\)](https://open.spotify.com/album/1VuQsHuRsr1KMPjysZuDs8) | 2:56 |
 | 16 | [SAN FRANCISCO \(BABY!\)](https://open.spotify.com/track/05QklCPuKAyDce74SWqf6I) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [SAN FRANCISCO \(BABY!\)](https://open.spotify.com/album/4QdUQ164R3oomzrOz72IIg) | 3:15 |
 | 17 | [Night Heights](https://open.spotify.com/track/7fPM25Phrs4uJhHyuBbVbU) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [The Fool](https://open.spotify.com/album/7arCig498ft2Kc7pJJFHxw) | 4:09 |
 | 18 | [Sweet Life](https://open.spotify.com/track/2cJ2LCRO3UNbf3F20CaUh8) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Chambre Noire, Vol\. 1](https://open.spotify.com/album/4pam5MIIbElV9WVZibgJJi) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [A Taste Of Possibility](https://open.spotify.com/track/09qAEZgB4KcFixRPilvca1) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [A Taste Of Possibility](https://open.spotify.com/album/4SiCcKUuHVHXJwRcPsb2Yf) | 3:46 |
 | 50 | [bb l'eau salée <3](https://open.spotify.com/track/6qMeuBJkaGj9rGDkw550pV) | [BARON.E](https://open.spotify.com/artist/1caQnYGFCNkm8cVRIzLZBE) | [bb l'eau salée <3](https://open.spotify.com/album/7vZ6cKjPGMmx8BIlWifr0n) | 3:24 |
 
-Snapshot ID: `MCw2NzQ4YWJkOWIxZjVjYmZkYzU4Y2JiM2Y2NWNhMzBhOWM0MDkzNjQ5`
+Snapshot ID: `MCwzN2YxNmNkZDlhOWUwYTRhOTkzYmI2ZDkyMGRiZjE1YzE5YTEyYjkx`

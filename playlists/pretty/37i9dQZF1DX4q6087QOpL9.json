@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 80310,
+  "num_followers": 80410,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjU4NGRlN2U0ZTEyODQ3MDBjMmJhNGQzYWY1NTU5YzZjOGFhNDVh",
+  "snapshot_id": "MCxmOTdiNGFiYTU4MjVkODhhZWQxZTBiMzU0YjM5MGMyMWIzZjBkNDcx",
   "tracks": [
     {
       "added_at": "2023-09-14 22:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "The Way You Love Me - Deluxe Re-Issue",
+        "url": "https://open.spotify.com/album/5XFybVXqX9Xhys2sd91eC1"
+      },
+      "artists": [
+        {
+          "name": "Marc Evans",
+          "url": "https://open.spotify.com/artist/2wVgC86wvH9gCdREODnb9d"
+        }
+      ],
+      "duration_ms": 399653,
+      "name": "The Way U Love Me",
+      "url": "https://open.spotify.com/track/5u2Bf96SjyWMKSrqAu9jUD"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "I Think I'll Do Some Stepping (On My Own) - OPOLOPO Rework",
         "url": "https://open.spotify.com/album/4xR1Tz7NKnqwaPYvt3VlSX"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 508111,
       "name": "I Think I'll Do Some Stepping (On My Own) - OPOLOPO Rework",
       "url": "https://open.spotify.com/track/0q6bCDZ8YCM4QyGofrSiSy"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "The Way You Love Me - Deluxe Re-Issue",
-        "url": "https://open.spotify.com/album/5XFybVXqX9Xhys2sd91eC1"
-      },
-      "artists": [
-        {
-          "name": "Marc Evans",
-          "url": "https://open.spotify.com/artist/2wVgC86wvH9gCdREODnb9d"
-        }
-      ],
-      "duration_ms": 399653,
-      "name": "The Way U Love Me",
-      "url": "https://open.spotify.com/track/5u2Bf96SjyWMKSrqAu9jUD"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Michael",
-        "url": "https://open.spotify.com/album/6bKcuQcBLfUwfMycHOvWlF"
-      },
-      "artists": [
-        {
-          "name": "Roy Davis Jr.",
-          "url": "https://open.spotify.com/artist/3O81ptrvwO8etw6HwABJs8"
-        }
-      ],
-      "duration_ms": 342800,
-      "name": "Michael - Love From San Francisco Dub",
-      "url": "https://open.spotify.com/track/7pPhKV991VkEc2oGCV7eSD"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Welcome Aboard",
         "url": "https://open.spotify.com/album/47CFXxwAVI0tk9Y6uVNjcU"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 455800,
       "name": "Welcome Aboard",
       "url": "https://open.spotify.com/track/4U2yUqDM2ibL4nc8ZMyONC"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Michael",
+        "url": "https://open.spotify.com/album/6bKcuQcBLfUwfMycHOvWlF"
+      },
+      "artists": [
+        {
+          "name": "Roy Davis Jr.",
+          "url": "https://open.spotify.com/artist/3O81ptrvwO8etw6HwABJs8"
+        }
+      ],
+      "duration_ms": 342800,
+      "name": "Michael - Love From San Francisco Dub",
+      "url": "https://open.spotify.com/track/7pPhKV991VkEc2oGCV7eSD"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "No Politics",
+        "url": "https://open.spotify.com/album/74Td3mSTHD8Mum5B1kJFt5"
+      },
+      "artists": [
+        {
+          "name": "Quentin Harris",
+          "url": "https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B"
+        }
+      ],
+      "duration_ms": 463320,
+      "name": "Poor People - Big Room Mix",
+      "url": "https://open.spotify.com/track/2Fi5Z7kEeZ0W3jjPAdk7Q4"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "At the Club",
         "url": "https://open.spotify.com/album/0g6MukWd7tGaELufBpokoy"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 424226,
       "name": "What's Your Number - Jazzanova Re-Number",
       "url": "https://open.spotify.com/track/45q5jidHHt7JkO9p9D2SER"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "No Politics",
-        "url": "https://open.spotify.com/album/74Td3mSTHD8Mum5B1kJFt5"
-      },
-      "artists": [
-        {
-          "name": "Quentin Harris",
-          "url": "https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B"
-        }
-      ],
-      "duration_ms": 463320,
-      "name": "Poor People - Big Room Mix",
-      "url": "https://open.spotify.com/track/2Fi5Z7kEeZ0W3jjPAdk7Q4"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Collection 1999-2011",
-        "url": "https://open.spotify.com/album/36kZ9hTS3K8Fm29zgoelSD"
-      },
-      "artists": [
-        {
-          "name": "Karizma",
-          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
-        }
-      ],
-      "duration_ms": 515039,
-      "name": "The Power",
-      "url": "https://open.spotify.com/track/0fmdJ1YLOeeYb30RzXhObS"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Lucas",
         "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 269572,
       "name": "Night Visions",
       "url": "https://open.spotify.com/track/3ChSgzeihSYujR3JpKk9De"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Collection 1999-2011",
+        "url": "https://open.spotify.com/album/36kZ9hTS3K8Fm29zgoelSD"
+      },
+      "artists": [
+        {
+          "name": "Karizma",
+          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
+        }
+      ],
+      "duration_ms": 515039,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/0fmdJ1YLOeeYb30RzXhObS"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "DJ-Kicks (DJ Tennis) [DJ Mix]",
-        "url": "https://open.spotify.com/album/2pzrqp12CEqxTDmzJY3QbV"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dixon Jr.",
-          "url": "https://open.spotify.com/artist/17D4XhKTcpssfBwEITytUb"
-        }
-      ],
-      "duration_ms": 285617,
-      "name": "Soul Sounds - Mixed",
-      "url": "https://open.spotify.com/track/2PlH4gu2nA5yU1mLg904Py"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "As Long As You Believe (Turbojazz & Sean McCabe Remixes)",
         "url": "https://open.spotify.com/album/0zixIlzr498H0saKAnv9Ta"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 466163,
       "name": "Kissing Strangers - Ralf GUM & CrisP Club Mix",
       "url": "https://open.spotify.com/track/1y8atHf1XO3GLyUSo8vJuq"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "DJ-Kicks (DJ Tennis) [DJ Mix]",
+        "url": "https://open.spotify.com/album/2pzrqp12CEqxTDmzJY3QbV"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dixon Jr.",
+          "url": "https://open.spotify.com/artist/17D4XhKTcpssfBwEITytUb"
+        }
+      ],
+      "duration_ms": 285617,
+      "name": "Soul Sounds - Mixed",
+      "url": "https://open.spotify.com/track/2PlH4gu2nA5yU1mLg904Py"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Avery*Sunshine Summer EP",
-        "url": "https://open.spotify.com/album/0sLbMeLCTvBYnQv1YWb7NM"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 441600,
-      "name": "Ugly Part of Me - Terry Hunter Mix",
-      "url": "https://open.spotify.com/track/0N0lb2ExXb6eCRwLVrpBRJ"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Love's Been Right Here",
         "url": "https://open.spotify.com/album/4pyTC09XaKrvHkZ990Ao3J"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 455505,
       "name": "Love's Been Right Here - DJ Spen & Gary Hudgins Remix",
       "url": "https://open.spotify.com/track/0I0Cp90UWNjsg3iOFW3iR5"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Avery*Sunshine Summer EP",
+        "url": "https://open.spotify.com/album/0sLbMeLCTvBYnQv1YWb7NM"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 441600,
+      "name": "Ugly Part of Me - Terry Hunter Mix",
+      "url": "https://open.spotify.com/track/0N0lb2ExXb6eCRwLVrpBRJ"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Momma's Groove",
-        "url": "https://open.spotify.com/album/7bUrgjRgOLDrNVOmrbOTSI"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 384012,
-      "name": "Momma's Groove",
-      "url": "https://open.spotify.com/track/7eMprrLOCDuig4qPmZScNO"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Seven Ways To Wonder (The Remixes)",
         "url": "https://open.spotify.com/album/6lr0dRBpTY8mRXgHGDDRQB"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 401400,
       "name": "Alibi - Dennis F's Out On Bail Mix",
       "url": "https://open.spotify.com/track/057swhFYVLbnaU8elKKUin"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Momma's Groove",
+        "url": "https://open.spotify.com/album/7bUrgjRgOLDrNVOmrbOTSI"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 384012,
+      "name": "Momma's Groove",
+      "url": "https://open.spotify.com/track/7eMprrLOCDuig4qPmZScNO"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1931,66 +1931,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "TIME AFTER TIME",
-        "url": "https://open.spotify.com/album/46cffMNNSqO6tR8rxjBPuh"
-      },
-      "artists": [
-        {
-          "name": "Soul Central",
-          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
-        },
-        {
-          "name": "Abigail Bailey",
-          "url": "https://open.spotify.com/artist/0QUNf5BdFRIp6NSs2WbgxM"
-        }
-      ],
-      "duration_ms": 399693,
-      "name": "Time After Time (feat. Abigail Bailey) - Yoruba Soul Club Mix",
-      "url": "https://open.spotify.com/track/45Z6d1DyniiBmnLwepN9KH"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Nuyorican Soul",
-        "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
-      },
-      "artists": [
-        {
-          "name": "Nuyorican Soul",
-          "url": "https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw"
-        },
-        {
-          "name": "Jocelyn Brown",
-          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "It's Alright, I Feel It",
-      "url": "https://open.spotify.com/track/15coSKNGG21bUKZpJ2Lv6N"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Want You In My Soul",
-        "url": "https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML"
-      },
-      "artists": [
-        {
-          "name": "Lovebirds",
-          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
-        },
-        {
-          "name": "Stee Downes",
-          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
-        }
-      ],
-      "duration_ms": 497521,
-      "name": "Want You In My Soul",
-      "url": "https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "For The Culture (Sean McCabe & Black Sonix Remix)",
         "url": "https://open.spotify.com/album/5hvhL20Q3hGxuZ6U7ZIhXf"
       },
@@ -2019,22 +1959,62 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "When The Morning Comes",
-        "url": "https://open.spotify.com/album/5C44djamaXUXQI1U1NzdS2"
+        "name": "TIME AFTER TIME",
+        "url": "https://open.spotify.com/album/46cffMNNSqO6tR8rxjBPuh"
       },
       "artists": [
         {
-          "name": "Alton Miller",
-          "url": "https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs"
+          "name": "Soul Central",
+          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
         },
         {
-          "name": "Amp Fiddler",
-          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
+          "name": "Abigail Bailey",
+          "url": "https://open.spotify.com/artist/0QUNf5BdFRIp6NSs2WbgxM"
         }
       ],
-      "duration_ms": 475262,
-      "name": "When The Morning Comes - Main Vocal Mix",
-      "url": "https://open.spotify.com/track/0sZmHiIFlz2RfXzrZCGiIu"
+      "duration_ms": 399693,
+      "name": "Time After Time (feat. Abigail Bailey) - Yoruba Soul Club Mix",
+      "url": "https://open.spotify.com/track/45Z6d1DyniiBmnLwepN9KH"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Want You In My Soul",
+        "url": "https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML"
+      },
+      "artists": [
+        {
+          "name": "Lovebirds",
+          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
+        },
+        {
+          "name": "Stee Downes",
+          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
+        }
+      ],
+      "duration_ms": 497521,
+      "name": "Want You In My Soul",
+      "url": "https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Nuyorican Soul",
+        "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
+      },
+      "artists": [
+        {
+          "name": "Nuyorican Soul",
+          "url": "https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw"
+        },
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "It's Alright, I Feel It",
+      "url": "https://open.spotify.com/track/15coSKNGG21bUKZpJ2Lv6N"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2059,22 +2039,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "There Is Soul in My House",
-        "url": "https://open.spotify.com/album/0mtSczfPaltwZlDzGEwD0M"
+        "name": "When The Morning Comes",
+        "url": "https://open.spotify.com/album/5C44djamaXUXQI1U1NzdS2"
       },
       "artists": [
         {
-          "name": "YASS",
-          "url": "https://open.spotify.com/artist/1mChelK5fqmS7lxluoXP9C"
+          "name": "Alton Miller",
+          "url": "https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs"
         },
         {
-          "name": "L.T. Brown",
-          "url": "https://open.spotify.com/artist/2ysRdZ0qk3lM9z1t8c4RSc"
+          "name": "Amp Fiddler",
+          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
         }
       ],
-      "duration_ms": 488266,
-      "name": "I'm Free - Main Mix",
-      "url": "https://open.spotify.com/track/3ZW2pHUEgX65rINbaqzZA7"
+      "duration_ms": 475262,
+      "name": "When The Morning Comes - Main Vocal Mix",
+      "url": "https://open.spotify.com/track/0sZmHiIFlz2RfXzrZCGiIu"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2103,6 +2083,26 @@
       "duration_ms": 232258,
       "name": "Warning - Radio Edit",
       "url": "https://open.spotify.com/track/0UGEJhHc5CwI2BmbPTGq72"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "There Is Soul in My House",
+        "url": "https://open.spotify.com/album/0mtSczfPaltwZlDzGEwD0M"
+      },
+      "artists": [
+        {
+          "name": "YASS",
+          "url": "https://open.spotify.com/artist/1mChelK5fqmS7lxluoXP9C"
+        },
+        {
+          "name": "L.T. Brown",
+          "url": "https://open.spotify.com/artist/2ysRdZ0qk3lM9z1t8c4RSc"
+        }
+      ],
+      "duration_ms": 488266,
+      "name": "I'm Free - Main Mix",
+      "url": "https://open.spotify.com/track/3ZW2pHUEgX65rINbaqzZA7"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2159,6 +2159,30 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "More Than a Remix",
+        "url": "https://open.spotify.com/album/02ikEBjQhYGRO8VCW2LlXA"
+      },
+      "artists": [
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        },
+        {
+          "name": "E-Man",
+          "url": "https://open.spotify.com/artist/7pJ2OuS57Yaj77slBPquK8"
+        },
+        {
+          "name": "Rainy Payne",
+          "url": "https://open.spotify.com/artist/3ir0UwJPYaz4OWSvf0F5pc"
+        }
+      ],
+      "duration_ms": 455346,
+      "name": "For Real - Atjazz Remix",
+      "url": "https://open.spotify.com/track/1AHF21soOfMpMTZ4mjIXsa"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Think Twice (Remixes)",
         "url": "https://open.spotify.com/album/61K70Q4gJ3wUzEMQDYV2aN"
       },
@@ -2195,30 +2219,6 @@
       "duration_ms": 409763,
       "name": "Come Home - Kerri's Mmmh Mix",
       "url": "https://open.spotify.com/track/6zhYeCpXsztywWOP05nwJu"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "More Than a Remix",
-        "url": "https://open.spotify.com/album/02ikEBjQhYGRO8VCW2LlXA"
-      },
-      "artists": [
-        {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
-        },
-        {
-          "name": "E-Man",
-          "url": "https://open.spotify.com/artist/7pJ2OuS57Yaj77slBPquK8"
-        },
-        {
-          "name": "Rainy Payne",
-          "url": "https://open.spotify.com/artist/3ir0UwJPYaz4OWSvf0F5pc"
-        }
-      ],
-      "duration_ms": 455346,
-      "name": "For Real - Atjazz Remix",
-      "url": "https://open.spotify.com/track/1AHF21soOfMpMTZ4mjIXsa"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/3Kq6Nk7TIM4qNQ86iaUJbq"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "Cosmic Signs",
-      "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/7if5T5GgLmQbe2uaZBcTAZ"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 497280,
       "name": "Rain - Terry Hunter Rainy Daze Remix",
       "url": "https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/3Kq6Nk7TIM4qNQ86iaUJbq"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Cosmic Signs",
+      "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2463,26 +2463,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Good Morning EP",
-        "url": "https://open.spotify.com/album/4OceKEsE23D5MJbgWCoL7r"
-      },
-      "artists": [
-        {
-          "name": "Karizma",
-          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
-        },
-        {
-          "name": "Kaytronik",
-          "url": "https://open.spotify.com/artist/4E3Ym06uZ8vSiMfd9L19Se"
-        }
-      ],
-      "duration_ms": 373664,
-      "name": "Good Morning - Kaytronik Remix",
-      "url": "https://open.spotify.com/track/5XFwHSECR0Iy4bhdT0hSvP"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Virgin Ubiquity: Remixed",
         "url": "https://open.spotify.com/album/2fx4CE0Us9UpxDD9ySZLHd"
       },
@@ -2511,6 +2491,26 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Good Morning EP",
+        "url": "https://open.spotify.com/album/4OceKEsE23D5MJbgWCoL7r"
+      },
+      "artists": [
+        {
+          "name": "Karizma",
+          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
+        },
+        {
+          "name": "Kaytronik",
+          "url": "https://open.spotify.com/artist/4E3Ym06uZ8vSiMfd9L19Se"
+        }
+      ],
+      "duration_ms": 373664,
+      "name": "Good Morning - Kaytronik Remix",
+      "url": "https://open.spotify.com/track/5XFwHSECR0Iy4bhdT0hSvP"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Todd Terry's Rare Grooves Vol. VI",
         "url": "https://open.spotify.com/album/1lrAW15Ve0rrlWz4SBpLiR"
       },
@@ -2527,6 +2527,26 @@
       "duration_ms": 669373,
       "name": "Feelin Good - Danny \"Buddah\" Morales Edit",
       "url": "https://open.spotify.com/track/7yk8FvOQke3AcTFltnX6YI"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/3RwDXsnqjYwdSKYnsm2xrM"
+      },
+      "artists": [
+        {
+          "name": "Leroy Styles",
+          "url": "https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif"
+        },
+        {
+          "name": "Kenton Lee",
+          "url": "https://open.spotify.com/artist/2Ee5ylRUxJdGacCEHIr052"
+        }
+      ],
+      "duration_ms": 346853,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/6VZGDCHjMs16OGAT1uP5sM"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2571,26 +2591,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/3RwDXsnqjYwdSKYnsm2xrM"
-      },
-      "artists": [
-        {
-          "name": "Leroy Styles",
-          "url": "https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif"
-        },
-        {
-          "name": "Kenton Lee",
-          "url": "https://open.spotify.com/artist/2Ee5ylRUxJdGacCEHIr052"
-        }
-      ],
-      "duration_ms": 346853,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/6VZGDCHjMs16OGAT1uP5sM"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Black Resurrection",
         "url": "https://open.spotify.com/album/7kNu3USRBHZOrkPSEUadFZ"
       },
@@ -2603,6 +2603,30 @@
       "duration_ms": 525130,
       "name": "Spiritually Speaking",
       "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Virgin Ubiquity: Remixed",
+        "url": "https://open.spotify.com/album/2fx4CE0Us9UpxDD9ySZLHd"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Terri Wells",
+          "url": "https://open.spotify.com/artist/6YBiK4t0ZuN8ACjIfByjqJ"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "duration_ms": 526800,
+      "name": "Holiday - Kenny Dope Main Pass",
+      "url": "https://open.spotify.com/track/5sNqQYKPuIUvipXRKWzOc8"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2651,30 +2675,6 @@
       "duration_ms": 419400,
       "name": "Wizeman (feat. Imaani)",
       "url": "https://open.spotify.com/track/0EsWTCXnAOjeVGDx7Rky7N"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Virgin Ubiquity: Remixed",
-        "url": "https://open.spotify.com/album/2fx4CE0Us9UpxDD9ySZLHd"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Terri Wells",
-          "url": "https://open.spotify.com/artist/6YBiK4t0ZuN8ACjIfByjqJ"
-        },
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        }
-      ],
-      "duration_ms": 526800,
-      "name": "Holiday - Kenny Dope Main Pass",
-      "url": "https://open.spotify.com/track/5sNqQYKPuIUvipXRKWzOc8"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2755,22 +2755,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Love and Devotion",
-        "url": "https://open.spotify.com/album/4FRzsqXyeqlFjB6azOBOuF"
-      },
-      "artists": [
-        {
-          "name": "Joi Cardwell",
-          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
-        }
-      ],
-      "duration_ms": 313893,
-      "name": "Love and Devotion-Porgy and Bess Mix",
-      "url": "https://open.spotify.com/track/3L5nmAeO0DhM04Wju6geCh"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/7r5EEZrmQ9VTbKHpJ3WC1l"
       },
@@ -2787,6 +2771,22 @@
       "duration_ms": 530459,
       "name": "Crossroads - Vocal Mix",
       "url": "https://open.spotify.com/track/22PwkCs6NcnI2tW6IbaC3x"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Love and Devotion",
+        "url": "https://open.spotify.com/album/4FRzsqXyeqlFjB6azOBOuF"
+      },
+      "artists": [
+        {
+          "name": "Joi Cardwell",
+          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
+        }
+      ],
+      "duration_ms": 313893,
+      "name": "Love and Devotion-Porgy and Bess Mix",
+      "url": "https://open.spotify.com/track/3L5nmAeO0DhM04Wju6geCh"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2827,6 +2827,26 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Spinning Inside Your Love (DJ Spinna Remix - 2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/7cZjXwMrwHS8Df6a5TMHDr"
+      },
+      "artists": [
+        {
+          "name": "Robert Strauss",
+          "url": "https://open.spotify.com/artist/3GWkz1BXFgGQxJCrVfqJaG"
+        },
+        {
+          "name": "Dj Spinna",
+          "url": "https://open.spotify.com/artist/44E0JWHttieVoD6vUHWoa2"
+        }
+      ],
+      "duration_ms": 421506,
+      "name": "Spinning Inside Your Love - DJ Spinna Remix - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/3JOKodchSwl2hIdsrcJ8XB"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Sermon One EP (feat. Ron Carroll)",
         "url": "https://open.spotify.com/album/1PenNFTRyle8MGmDlTBTE5"
       },
@@ -2847,26 +2867,6 @@
       "duration_ms": 488209,
       "name": "He's Gonna Make It Alright (feat. Ron Carroll) - MD'z Original Recipe Vocal Mixx",
       "url": "https://open.spotify.com/track/6RZV9eMP6MAF72urSAME56"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Spinning Inside Your Love (DJ Spinna Remix - 2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/7cZjXwMrwHS8Df6a5TMHDr"
-      },
-      "artists": [
-        {
-          "name": "Robert Strauss",
-          "url": "https://open.spotify.com/artist/3GWkz1BXFgGQxJCrVfqJaG"
-        },
-        {
-          "name": "Dj Spinna",
-          "url": "https://open.spotify.com/artist/44E0JWHttieVoD6vUHWoa2"
-        }
-      ],
-      "duration_ms": 421506,
-      "name": "Spinning Inside Your Love - DJ Spinna Remix - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/3JOKodchSwl2hIdsrcJ8XB"
     },
     {
       "added_at": "2023-09-14 22:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 448058,
+  "num_followers": 448101,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjlmMjQyODRkYTYxMGE4ZDY1MWU0YzkyODM2MmQxZDY3ODlkMWQ5",
+  "snapshot_id": "MCw0ZGQ3M2YzYWM2ZTVjODgxNGQ5MzY4OTZhMWVlOGYwYjIxMTQyM2M5",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Blue Rev",
-        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 185276,
-      "name": "After The Earthquake",
-      "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Shadowboxer",
         "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 272680,
       "name": "Easier",
       "url": "https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Blue Rev",
+        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 185276,
+      "name": "After The Earthquake",
+      "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Show Me How",
-        "url": "https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz"
+        "name": "Mirror Master",
+        "url": "https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
         }
       ],
-      "duration_ms": 293960,
-      "name": "Show Me How",
-      "url": "https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ"
+      "duration_ms": 237746,
+      "name": "Call Me Back",
+      "url": "https://open.spotify.com/track/14KP6cmTImZmrcAC5m0Azd"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Mirror Master",
-        "url": "https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 237746,
-      "name": "Call Me Back",
-      "url": "https://open.spotify.com/track/14KP6cmTImZmrcAC5m0Azd"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Sofa Kings",
         "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Show Me How",
+        "url": "https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 293960,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Arrow",
+        "url": "https://open.spotify.com/album/1mupITVP9mYqKBHjWWDN1W"
+      },
+      "artists": [
+        {
+          "name": "Heartless Bastards",
+          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
+        }
+      ],
+      "duration_ms": 308066,
+      "name": "Only for You",
+      "url": "https://open.spotify.com/track/4KwvTXx3yR0FA4LGfxD4xP"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Nothing But Thieves (Deluxe)",
         "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 183852,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Arrow",
-        "url": "https://open.spotify.com/album/1mupITVP9mYqKBHjWWDN1W"
-      },
-      "artists": [
-        {
-          "name": "Heartless Bastards",
-          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
-        }
-      ],
-      "duration_ms": 308066,
-      "name": "Only for You",
-      "url": "https://open.spotify.com/track/4KwvTXx3yR0FA4LGfxD4xP"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "CHAOS NOW*",
+        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "PIRATE RADIO*",
+      "url": "https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Box in a Heart (with renforshort)",
         "url": "https://open.spotify.com/album/0jzapUf2Ges18ftQlgKuJ3"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 171063,
       "name": "Box in a Heart (with renforshort)",
       "url": "https://open.spotify.com/track/3tZXR1QTZihYHLIdByiNh3"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "CHAOS NOW*",
-        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "PIRATE RADIO*",
-      "url": "https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Jungle (Radio Edit)",
-        "url": "https://open.spotify.com/album/0O6n01xArsUl4MTRAwTxLX"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 236876,
-      "name": "Jungle (Radio Edit)",
-      "url": "https://open.spotify.com/track/7dEGgbP5Ld5mQfbpiwDjoe"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "The Days We Had",
         "url": "https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 245386,
       "name": "Something Here",
       "url": "https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Jungle (Radio Edit)",
+        "url": "https://open.spotify.com/album/0O6n01xArsUl4MTRAwTxLX"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 236876,
+      "name": "Jungle (Radio Edit)",
+      "url": "https://open.spotify.com/track/7dEGgbP5Ld5mQfbpiwDjoe"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1581,22 +1581,6 @@
       "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc"
-      },
-      "artists": [
-        {
-          "name": "The Brinks",
-          "url": "https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz"
-        }
-      ],
-      "duration_ms": 205129,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W"
-    },
-    {
       "added_at": "2023-06-29 18:09:48",
       "album": {
         "name": "Set Yourself Free",
@@ -1611,6 +1595,22 @@
       "duration_ms": 185740,
       "name": "Set Yourself Free",
       "url": "https://open.spotify.com/track/4w7XRsCWPzXiC7HZUEVLFl"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc"
+      },
+      "artists": [
+        {
+          "name": "The Brinks",
+          "url": "https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz"
+        }
+      ],
+      "duration_ms": 205129,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Stay Out Of It",
-        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 185317,
-      "name": "Stay Out Of It",
-      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "I Don't Think I Can Do This Anymore",
         "url": "https://open.spotify.com/album/2Kq0O56yHIBpLJ0Oc2FjGe"
       },
@@ -1711,6 +1695,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Stay Out Of It",
+        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 185317,
+      "name": "Stay Out Of It",
+      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "I See You",
         "url": "https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p"
       },
@@ -1723,22 +1723,6 @@
       "duration_ms": 228735,
       "name": "I See You",
       "url": "https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Help Me to Feel Again",
-        "url": "https://open.spotify.com/album/656dTune8st7zgtyUljuGH"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 262383,
-      "name": "Help Me to Feel Again",
-      "url": "https://open.spotify.com/track/0W18OZyj6fkWbjYIypxFIn"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1843,22 +1827,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Everything Will Be Ok Eventually",
-        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 294071,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Good Old",
         "url": "https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34"
       },
@@ -1887,6 +1855,22 @@
       "duration_ms": 235334,
       "name": "All For You",
       "url": "https://open.spotify.com/track/5iRNyVceIz0DTdpSafiBM8"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Everything Will Be Ok Eventually",
+        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 294071,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1955,6 +1939,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Sun Leads Me On",
+        "url": "https://open.spotify.com/album/2KJ1WS6aB0BJ9bnwv8xItK"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 241866,
+      "name": "Turn Your Love",
+      "url": "https://open.spotify.com/track/2lCTLnaQOc73eG5UFls7QE"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Sunlit Youth",
         "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
       },
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Sun Leads Me On",
-        "url": "https://open.spotify.com/album/2KJ1WS6aB0BJ9bnwv8xItK"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 241866,
-      "name": "Turn Your Love",
-      "url": "https://open.spotify.com/track/2lCTLnaQOc73eG5UFls7QE"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Nearer My God",
         "url": "https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 192666,
       "name": "Come Follow Me Down",
       "url": "https://open.spotify.com/track/5RPx9i0nwUdzpvJcYFTe1D"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Back In My Head Again",
+        "url": "https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge"
+      },
+      "artists": [
+        {
+          "name": "Levi Evans",
+          "url": "https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX"
+        }
+      ],
+      "duration_ms": 174539,
+      "name": "Back In My Head Again",
+      "url": "https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0"
     }
   ],
   "unique_name": "License To Chill",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Roosevelt
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,115 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,170 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 11 | [Black Pegasus](https://open.spotify.com/track/0Zx8UHVhUqjuDHoW9khZla) | [DJ Swagger](https://open.spotify.com/artist/3l8A3VM3N2E4lx3afyMd9C), [Henry Greenleaf](https://open.spotify.com/artist/4Vb86N91tE4WcS36QNalLg) | [Black Pegasus](https://open.spotify.com/album/33qUFwA770Xqi6eSnwctgV) | 2:33 |
 | 12 | [Gimme](https://open.spotify.com/track/6Dr2wJDKpLYLK6eJBxU3Q7) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Gimme](https://open.spotify.com/album/3fW5jXxfLXPYMCc4vJqitm) | 4:05 |
 | 13 | [i can see](https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [i can see](https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A) | 3:49 |
-| 14 | [should sleep](https://open.spotify.com/track/0oixdxR51PVtYYnkd09G0Q) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx) | [should sleep](https://open.spotify.com/album/2vIiA0ULu72YnqRDKlrxkI) | 4:29 |
+| 14 | [should sleep](https://open.spotify.com/track/6zpMH3MUT8qINonUWks3rW) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx) | [should sleep](https://open.spotify.com/album/3h2UC5oK5JXSpzliYZJiY8) | 4:29 |
 | 15 | [Summer Love \- Jan Blomqvist Remix](https://open.spotify.com/track/7tbrktfjBjRc12mE9cV8ri) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Summer Love \(Jan Blomqvist Remix\)](https://open.spotify.com/album/68scr1Ev9AoX1Czp74KJ6i) | 5:49 |
 | 16 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 17 | [Forevermore](https://open.spotify.com/track/4aSwhF2daSyaCqUYPSbrqh) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Forevermore](https://open.spotify.com/album/1MJ8xDif5W7wGQIQz63Dhi) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [A Different Frame](https://open.spotify.com/track/0pk4GJ9REs9fRFlUweWVgs) | [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3), [Alexandros Miaris](https://open.spotify.com/artist/3QCcMb3KxBsUjc89yD80xS) | [A Different Frame](https://open.spotify.com/album/1RVocr5uuN4XJW4UjyWBD3) | 3:11 |
 | 75 | [Ether](https://open.spotify.com/track/5IyOYclKa9w9sjEeewNDmu) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Ether](https://open.spotify.com/album/2GA2x8SLtSQLz0GNiK6b5D) | 3:10 |
 
-Snapshot ID: `MCw0NjAxODE4Nzk1MDViZWM2MDQyMjM1YzQzZGM4OTAwYWEyMzliZjhi`
+Snapshot ID: `MCwxNzNkNWY4OTU0NmRhMGU1NDY0NWViNGQ2YWQ2NTk4MTBiODNlYmY5`

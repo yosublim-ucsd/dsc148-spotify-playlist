@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Yemi Alade
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,538 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,562 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 38 | [Atlantis](https://open.spotify.com/track/0qlCLYmWUwebbDwRrL2x9h) | [Dave Nunes](https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR), [WaxFiend](https://open.spotify.com/artist/052544MnsA3CEiQtQHlx7r), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ), [CHAMOS](https://open.spotify.com/artist/2HEwUTzrG0SLQLLSQQGBWi) | [Atlantis](https://open.spotify.com/album/6Tbso6hKAJh87lbG9qnJHR) | 3:34 |
 | 39 | [Roma](https://open.spotify.com/track/5HTcQgNskY36EEtdB4zMfr) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [For the Kulture](https://open.spotify.com/album/4nrewczBwXf6d8PBs3fDV6) | 2:34 |
 | 40 | [La Popo](https://open.spotify.com/track/5CrVILPAHgzk83nnhAGEVF) | [LIMO](https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR), [Dr\. Yaro & La Folie](https://open.spotify.com/artist/7lR8WBYvyK9iTHuv5HwUpe) | [La Popo](https://open.spotify.com/album/63uxuJlSD9Z6o5nkQW19Af) | 3:16 |
-| 41 | [Danger \- RMX](https://open.spotify.com/track/1QBcLNVeXKU6Bzz3z5KPtD) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [Danger \(RMX\)](https://open.spotify.com/album/6Kchb3of3XRixZtMzpc5lc) | 2:18 |
+| 41 | [Danger \- RMX](https://open.spotify.com/track/1QBcLNVeXKU6Bzz3z5KPtD) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Danger \(RMX\)](https://open.spotify.com/album/6Kchb3of3XRixZtMzpc5lc) | 2:18 |
 | 42 | [YAWA](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [YAWA](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 |
 | 43 | [Labadi](https://open.spotify.com/track/0UP371eP3lmySxTUF79jLK) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi) | [Labadi](https://open.spotify.com/album/7tlYleJ9w1xTOa8WX94K31) | 2:16 |
 | 44 | [Belle Carte](https://open.spotify.com/track/2gKsBw5M0U3HXF0fUPo2Lt) | [CDG](https://open.spotify.com/artist/44ePsJ2ugBV7yHk8c4w4WL) | [Belle Carte](https://open.spotify.com/album/3Yin1NWzb34xLjIh0bN3cJ) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Bottles](https://open.spotify.com/track/331ZKCTgF27kBC2W5vmRmV) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Bottles](https://open.spotify.com/album/1EhfKYJkIdRS5yYDnb3OKq) | 2:40 |
 | 50 | [Chanjé](https://open.spotify.com/track/0koJoqB4PwaAcCtFGssnA2) | [Lorenz](https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN) | [Chanjé](https://open.spotify.com/album/3iIOfM4ooNNBxufKmAHoeV) | 3:43 |
 
-Snapshot ID: `MCwxOWRhZmI3YTg3ZGJkMDA2YTQzYjc2MzlhYmIzMGYxNjUzNzdhMTc0`
+Snapshot ID: `MCxkNzlhMTBlMDc2ZGY3MjVkN2U1YTcyYThiMTU3ZDE4NDA3YjEyZTFh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 > Neighborhood Storytellers\. Cover: DeeBaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,879 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,885 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 12 | [I THINK \(FEAT\. LIL BABY\)](https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:25 |
 | 13 | [i was just thinking](https://open.spotify.com/track/5QG0l8nybp5rLMo7saQHl2) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 3:12 |
 | 14 | [Need Prescriptions \(feat\. Lil Durk\)](https://open.spotify.com/track/71dIX6uF8GBFCHbgx4JeXn) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [4 The Trenches](https://open.spotify.com/album/3Uqp9nAzjdY5Ew55jk0bCg) | 2:24 |
-| 15 | [Hook Mitchell](https://open.spotify.com/track/6CKDa6mKBdGpllS72Bpj5V) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Dame D.O.L.L.A](https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ) | [Hook Mitchell](https://open.spotify.com/album/0f3GzsAigXJPTZj6pNmODH) | 3:39 |
+| 15 | [Hook Mitchell \(feat\. Dame D.O.L.L.A.\)](https://open.spotify.com/track/6CKDa6mKBdGpllS72Bpj5V) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Dame D.O.L.L.A](https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ) | [Hook Mitchell \(feat\. Dame D.O.L.L.A.\)](https://open.spotify.com/album/0f3GzsAigXJPTZj6pNmODH) | 3:39 |
 | 16 | [child of GOD](https://open.spotify.com/track/4mkguQG08ITzkOuwxEEhDt) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw) | [child of GOD](https://open.spotify.com/album/2tdQ8ymmQslIQTBSPO1xga) | 2:54 |
 | 17 | [Loner](https://open.spotify.com/track/1DenbmzkT4hvnq1ltyBZBM) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Public Housing, Pt\. 2](https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI) | 2:46 |
 | 18 | [Sun Up / Sun Down](https://open.spotify.com/track/7z1KycCf3qBqmfbaagBS0F) | [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE), [Radistarz](https://open.spotify.com/artist/5iMSKRaSXzdjqyeok8GtM2) | [Sun Up / Sun Down](https://open.spotify.com/album/35QTFJiXPklVTsbRaVarI8) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 49 | [Deadicated](https://open.spotify.com/track/7BaipfgQs3gWGjttLAt8wN) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Deadicated](https://open.spotify.com/album/6NaFv2sq5u2mDT2R8rA7E2) | 3:21 |
 | 50 | [Me First](https://open.spotify.com/track/5hT0mnDTVjyIsnBjXc3X0Q) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL) | [Me First](https://open.spotify.com/album/6PtlmGYKfyGEMi9Q9OtzmR) | 2:57 |
 
-Snapshot ID: `MCw5MmYzZWJhZGQwYjMyYmY1YTk2NDMzY2ZjNDA0YWIxMDk0OWZiNGJh`
+Snapshot ID: `MCw0OWZlZjY1MGNlNjAzYTZlZjRkNjNkYzY0NGViOWNiYmE3OWE0NmQx`

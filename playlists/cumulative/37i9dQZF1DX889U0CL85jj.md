@@ -4,7 +4,7 @@
 
 > Just chill, and potentially disassociate.
 
-564 songs - 1 day 8 hr 38 min
+565 songs - 1 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,7 +524,8 @@
 | [Up All Night](https://open.spotify.com/track/1MkNcbkKddbuLZq1a8Vx7o) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Up All Night](https://open.spotify.com/album/69q3coTXWa2EuyfCXFBQtz) | 2:57 | 2019-06-26 | 2022-08-20 |
 | [Vacation](https://open.spotify.com/track/7c3o20IFicfq6xzf2BMfrx) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Vacation](https://open.spotify.com/album/2yyJyMbVCggJxBxTguQdza) | 1:59 | 2022-09-19 |  |
 | [Val!um](https://open.spotify.com/track/0yXU3XSY2yYs542ksvHLNL) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Val!um](https://open.spotify.com/album/7tCOA660KQ5c83XLJHtRYn) | 3:08 | 2020-02-12 | 2022-04-29 |
-| [Venus](https://open.spotify.com/track/3Ix717qz55IpboW4fz3cyf) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Fish Bowl](https://open.spotify.com/album/277iuWreJUuseNVEXN5NrA) | 2:27 | 2023-04-28 |  |
+| [Venus](https://open.spotify.com/track/3Ix717qz55IpboW4fz3cyf) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Fish Bowl](https://open.spotify.com/album/277iuWreJUuseNVEXN5NrA) | 2:27 | 2023-04-28 | 2023-09-24 |
+| [Venus](https://open.spotify.com/track/4eNGVnQWq6FxBKpKHVRKkH) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Fish Bowl](https://open.spotify.com/album/0PQMRtZNljTn1i68vJtWO5) | 2:27 | 2023-04-28 |  |
 | [Victory Lap](https://open.spotify.com/track/7ajvW6P91ViwSc8MsrBSP5) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Victory Lap](https://open.spotify.com/album/7dIv6ZyOlTosM8b5EGQyD6) | 4:13 | 2022-11-11 | 2023-04-18 |
 | [Visions \- Flanger Version](https://open.spotify.com/track/1EWnX4sXfV9uQTek7xA6UR) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley \(Deluxe\)](https://open.spotify.com/album/4diHCkCZbrCxqzy0rg4c2o) | 6:19 | 2023-04-28 |  |
 | [Visions \- Flanger Version](https://open.spotify.com/track/5tucRo53CbTKz9Kwvk6p38) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Visions EP](https://open.spotify.com/album/1qtoMXwXqSggeYfVJEbG5i) | 6:19 | 2023-01-27 | 2023-04-22 |

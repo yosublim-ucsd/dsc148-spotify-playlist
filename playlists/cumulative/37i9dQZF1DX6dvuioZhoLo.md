@@ -4,7 +4,7 @@
 
 > New makes old\. Cover: Sierra Ferrell
 
-218 songs - 12 hr 52 min
+219 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Analog](https://open.spotify.com/track/7gznOSnMIlcZzT1RFb1sYv) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [South Texas Suite](https://open.spotify.com/album/4yplutFc2VEEIEuXRYa9Ie) | 3:24 | 2022-04-01 | 2023-05-17 |
 | [Any Old Time](https://open.spotify.com/track/3Fv6JcNgvTOipsgbb0dFbb) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Any Old Time](https://open.spotify.com/album/48aWkol0vDAAznw8Q2ZtXi) | 2:58 | 2021-11-12 | 2022-07-29 |
 | [Any Old Time](https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 2:58 | 2022-04-01 |  |
-| [Ashes](https://open.spotify.com/track/1apDxpEFWUmDrTSYYEHv0L) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 4:34 | 2022-04-01 |  |
+| [Ashes](https://open.spotify.com/track/1apDxpEFWUmDrTSYYEHv0L) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 4:34 | 2022-04-01 | 2023-09-24 |
 | [Ashes](https://open.spotify.com/track/6dben05JiKn09x31h1JgOW) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/5AmFYqUT1cu6JErSTHw5k6) | 4:34 | 2021-11-12 | 2022-07-28 |
 | [Better to My Baby](https://open.spotify.com/track/5s18OgMbxObkcqjLYKmA9z) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Better to My Baby](https://open.spotify.com/album/62VwM9Z6qTwE1kkoGm2Z53) | 3:11 | 2021-11-12 | 2022-07-13 |
 | [Better Way](https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Canyons of my Mind](https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g) | 4:15 | 2021-11-12 |  |
@@ -149,6 +149,7 @@
 | [Motorcycle](https://open.spotify.com/track/4qd7c6XSzByd6Dz1QdLAnV) | [Jade Jackson](https://open.spotify.com/artist/2KklSK3N4XIGKfW1THLjLP) | [Motorcycle](https://open.spotify.com/album/1jQcb2lUXTMt27UH9XjquE) | 3:06 | 2021-11-12 | 2022-07-25 |
 | [My Boots](https://open.spotify.com/track/3WFkgqIclweIZ9kNQXbhe9) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [South Texas Suite](https://open.spotify.com/album/6jtK4NrygZZTIKrzBzDnFJ) | 4:47 | 2021-11-12 | 2022-05-26 |
 | [My Heart Skips A Beat](https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Secret Sisters](https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI) | 2:23 | 2021-11-12 |  |
+| [No Name](https://open.spotify.com/track/2CVpkt0xfradTwL6KxNncR) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO) | 3:06 | 2023-09-08 |  |
 | [No Name](https://open.spotify.com/track/4LJ2bh3gZf9rEKQeFeuG3R) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa) | 3:06 | 2021-11-12 | 2023-08-23 |
 | [No One Has the Answers](https://open.spotify.com/track/4qpiPxbVxxtgmECadFR7fc) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Golden Eagle](https://open.spotify.com/album/3ZVKsaGLzKLXyLpDht0SF6) | 3:28 | 2021-11-12 | 2022-07-29 |
 | [No One Has the Answers](https://open.spotify.com/track/58emzxS7apqOn2amBFfDyr) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Golden Eagle](https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL) | 3:28 | 2022-04-01 |  |

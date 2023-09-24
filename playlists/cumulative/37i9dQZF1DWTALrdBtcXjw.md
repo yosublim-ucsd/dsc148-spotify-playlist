@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-280 songs - 1 day 1 hr 16 min
+281 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bird in the Hand](https://open.spotify.com/track/61zAmzM06Q7mVNQgcioHI3) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [Viewpoint](https://open.spotify.com/album/5qxvA6BN2WPgDkoxUF3604) | 5:38 | 2023-06-08 | 2023-09-01 |
 | [Black Narcissus](https://open.spotify.com/track/69ond5qxNhicqpCxYseO4h) | [Charlie Wilder Band](https://open.spotify.com/artist/6UYNORrztDMx6aNjhzwJTV) | [Ev'rytime We Say Goodbye](https://open.spotify.com/album/1Up43SfdvFghh3BAE1yBgG) | 2:38 | 2022-09-16 | 2022-10-12 |
 | [Blue Ballad](https://open.spotify.com/track/6f6OQJv9qjqyJq9NHin45n) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f), [Space Jazz Trio](https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65) | [Phil's Mood](https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43) | 6:34 | 2020-03-31 | 2022-04-21 |
+| [Blue J](https://open.spotify.com/track/5YilK4r71sVXeQMqjJy6U0) | [Niels Vincentz](https://open.spotify.com/artist/06swMcwDI7ffGr3D3K10qF), [Danny Grissett](https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Going Easy](https://open.spotify.com/album/785gj476PUw44LuycivuoG) | 8:49 | 2023-09-22 |  |
 | [Blue J](https://open.spotify.com/track/5x35uH31Olzlei17YL0Ybe) | [Niels Vincentz](https://open.spotify.com/artist/06swMcwDI7ffGr3D3K10qF), [Danny Grissett](https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Blue J](https://open.spotify.com/album/7C7h0ao54dU2K4GI3fopSW) | 8:49 | 2023-03-23 | 2023-04-11 |
 | [Blues For Gilad](https://open.spotify.com/track/76szeG5Lqxb1iPjRPoZkZd) | [Brian Lynch](https://open.spotify.com/artist/2jOWJM2ILZD1NTyORxsduI), [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg), [Dwayne Burno](https://open.spotify.com/artist/6bc7L0muoQvrJmrehvygRT), [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Brian Lynch Meets Bill Charlap](https://open.spotify.com/album/48pBFx9vagHaifgJUnAl2w) | 7:53 | 2023-06-08 |  |
 | [Blues for Sharpie](https://open.spotify.com/track/3gPr9tbx4jSM0nS6O9J5UZ) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [The New Classic Trio](https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1) | 5:29 | 2020-03-31 |  |
@@ -67,7 +68,7 @@
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/1CgD99QQ8RReNg7LKbBO1y) | [Harper Douglas](https://open.spotify.com/artist/0qnH2Ve4RbdQEPnNAFy2np) | [Dream A Little Dream Of Me](https://open.spotify.com/album/7ycWxV5g9evEkfpieN6YG1) | 3:00 | 2023-01-26 |  |
 | [East of the Sun \(And West of the Moon\)](https://open.spotify.com/track/7dNORA3zEIgPBelCsFFMTH) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 7:41 | 2023-03-23 |  |
 | [Elemental Mood](https://open.spotify.com/track/1UU9CmBw1QQLdlqjhkE8U9) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Ballads](https://open.spotify.com/album/5TukPT8lJcjrx8tVMpuHg6) | 6:03 | 2022-03-11 |  |
-| [Embraceable You](https://open.spotify.com/track/0BJL88oEd6rgUyjD9T3Sz3) | [Atzko Kohashi](https://open.spotify.com/artist/663fDRhznKHDmaCT2lIuro), [Frans Van Der Hoeven](https://open.spotify.com/artist/43UY4tYgs9ksxkJxyowUTe), [Sebastiaan Kaptein](https://open.spotify.com/artist/2pJ8MtliDompiMC7eTKSI8) | [Lujon](https://open.spotify.com/album/6iL7O7Ks30wMWw7joi11FN) | 3:54 | 2022-09-16 |  |
+| [Embraceable You](https://open.spotify.com/track/0BJL88oEd6rgUyjD9T3Sz3) | [Atzko Kohashi](https://open.spotify.com/artist/663fDRhznKHDmaCT2lIuro), [Frans Van Der Hoeven](https://open.spotify.com/artist/43UY4tYgs9ksxkJxyowUTe), [Sebastiaan Kaptein](https://open.spotify.com/artist/2pJ8MtliDompiMC7eTKSI8) | [Lujon](https://open.spotify.com/album/6iL7O7Ks30wMWw7joi11FN) | 3:54 | 2022-09-16 | 2023-09-24 |
 | [Emily](https://open.spotify.com/track/5Ug1JZFSNu4YBEfF5gAtPI) | [Ben Besiakov](https://open.spotify.com/artist/5yZadAMrFsD1BPOC01DpJ4) | [The Art of Jazz with Ben Besiakov](https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3) | 5:19 | 2022-02-24 | 2022-08-31 |
 | [Eronel](https://open.spotify.com/track/1um3T5M9KAgWLDQk0IUzhh) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Un musicien \- Une histoire](https://open.spotify.com/album/4KRfiGU514jIczyXkQ4KK6) | 4:30 | 2020-03-31 | 2022-07-29 |
 | [Eronel](https://open.spotify.com/track/67tnJf77mVKMIOVcR1SQ2F) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Criss\-Cross \(Expanded Edition\)](https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI) | 4:30 | 2022-07-28 | 2023-08-25 |

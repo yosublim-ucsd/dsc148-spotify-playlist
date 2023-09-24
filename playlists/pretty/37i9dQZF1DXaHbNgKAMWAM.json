@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 12882,
+  "num_followers": 12903,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGE1NjUyNjdiNzQzYmZmOTZkY2ZkYzkwOWM1MDkzMmU4N2NmMjY0",
+  "snapshot_id": "MCw1YTY0ZDgxMmExZDgzMDE5ODEzMmQ2YzEwM2M0MWFkMGZiMzIxZGIw",
   "tracks": [
     {
       "added_at": "2023-09-20 06:37:23",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-09-20 06:37:23",
       "album": {
-        "name": "\ub098\ubb34",
-        "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
-      },
-      "artists": [
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "duration_ms": 232558,
-      "name": "\ub098\ubb34",
-      "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
-    },
-    {
-      "added_at": "2023-09-20 06:37:23",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye"
       },
@@ -315,18 +299,18 @@
     {
       "added_at": "2023-09-20 06:37:23",
       "album": {
-        "name": "The Book of Us : Gluon - Nothing can tear us apart",
-        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
+        "name": "\ub098\ubb34",
+        "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
       },
       "artists": [
         {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
         }
       ],
-      "duration_ms": 257752,
-      "name": "Where the sea sleeps",
-      "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
+      "duration_ms": 232558,
+      "name": "\ub098\ubb34",
+      "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
     },
     {
       "added_at": "2023-09-20 06:37:23",
@@ -343,6 +327,22 @@
       "duration_ms": 256146,
       "name": "\ub450 \uc0ac\ub78c",
       "url": "https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna"
+    },
+    {
+      "added_at": "2023-09-20 06:37:23",
+      "album": {
+        "name": "The Book of Us : Gluon - Nothing can tear us apart",
+        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 257752,
+      "name": "Where the sea sleeps",
+      "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
     },
     {
       "added_at": "2023-09-20 06:37:23",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-09-20 06:37:23",
       "album": {
-        "name": "PSY 9th",
-        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        }
-      ],
-      "duration_ms": 199766,
-      "name": "Celeb",
-      "url": "https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5"
-    },
-    {
-      "added_at": "2023-09-20 06:37:23",
-      "album": {
         "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 212093,
       "name": "Pit a Pat",
       "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
+    },
+    {
+      "added_at": "2023-09-20 06:37:23",
+      "album": {
+        "name": "PSY 9th",
+        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "duration_ms": 199766,
+      "name": "Celeb",
+      "url": "https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5"
     },
     {
       "added_at": "2023-09-20 06:37:23",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-09-20 06:37:23",
       "album": {
-        "name": "Omnibus, Pt. 2: Inside Out",
-        "url": "https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Shooting Star",
-      "url": "https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT"
-    },
-    {
-      "added_at": "2023-09-20 06:37:23",
-      "album": {
         "name": "The 3rd Digital Single `Amazing You'",
         "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 296832,
       "name": "Amazing You",
       "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
+    },
+    {
+      "added_at": "2023-09-20 06:37:23",
+      "album": {
+        "name": "Omnibus, Pt. 2: Inside Out",
+        "url": "https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT"
     },
     {
       "added_at": "2023-09-20 06:37:23",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-09-20 06:37:23",
       "album": {
+        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "duration_ms": 199295,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
+    },
+    {
+      "added_at": "2023-09-20 06:37:23",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
       },
@@ -935,22 +951,6 @@
     {
       "added_at": "2023-09-20 06:37:23",
       "album": {
-        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 199295,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
-    },
-    {
-      "added_at": "2023-09-20 06:37:23",
-      "album": {
         "name": "INTERVIEW",
         "url": "https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-09-20 06:37:23",
       "album": {
-        "name": "Tale of the Nine Tailed 1938, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1Ak7K5Pb4PFpGizV46S8iP"
-      },
-      "artists": [
-        {
-          "name": "Kei",
-          "url": "https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc"
-        }
-      ],
-      "duration_ms": 189575,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/0HsCULcKWeaF2WdKMTTx8q"
-    },
-    {
-      "added_at": "2023-09-20 06:37:23",
-      "album": {
         "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 244764,
       "name": "I Will Be By Your Side",
       "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
+    },
+    {
+      "added_at": "2023-09-20 06:37:23",
+      "album": {
+        "name": "Tale of the Nine Tailed 1938, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1Ak7K5Pb4PFpGizV46S8iP"
+      },
+      "artists": [
+        {
+          "name": "Kei",
+          "url": "https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc"
+        }
+      ],
+      "duration_ms": 189575,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0HsCULcKWeaF2WdKMTTx8q"
     },
     {
       "added_at": "2023-09-20 06:37:23",

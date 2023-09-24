@@ -1,12 +1,12 @@
 {
   "description": "Just good vibes all day long",
-  "num_followers": 3239757,
+  "num_followers": 3240267,
   "original_name": "Good Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWE5N2IzNTA1OGRiMGZmYTAyYzIwNjkyODdkN2RmOWI0MzAzZWQz",
+  "snapshot_id": "MCwxYTg4OTc1NGE3NWI0NjY3YWFiNTkwNDc2Yzc1ZDEwZWE1ZThiMjEy",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -799,6 +799,22 @@
       "duration_ms": 230813,
       "name": "Slide (feat. Frank Ocean & Migos)",
       "url": "https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187723,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
     },
     {
       "added_at": "2023-09-22 04:00:00",

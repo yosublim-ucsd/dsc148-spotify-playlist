@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,671 likes - 75 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,682 likes - 75 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 4 | [Study Equal Magic!](https://open.spotify.com/track/7KfXfSEQGeABJ1EKxrzcfq) | [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM ST@RTING LINE\-06 S.E.M](https://open.spotify.com/album/21ZxRoS0gEeQVaxHuIreOH) | 4:16 |
 | 5 | [JOYFUL HEART MAKER](https://open.spotify.com/track/0shXOeXxmhiVhVsr52F6wp) | [High Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM GROWING SIGN@L 18](https://open.spotify.com/album/61lUtgXia5yWLvkYm3K5Kl) | 4:00 |
 | 6 | [Platinum MASK](https://open.spotify.com/track/3QsDMmFNQRCb58jUqlsdwT) | [Beit](https://open.spotify.com/artist/4kjd7D2GThtSXOHBgq0WA9) | [THE IDOLM@STER SideM GROWING SIGN@L 17](https://open.spotify.com/album/43eYRzEUdFH4IpDIHm4vjY) | 3:25 |
-| 7 | [Smiling Platter!](https://open.spotify.com/track/3kDmBdaw5LwkoFJjslFnTg) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM 49 ELEMENTS \-08 Café Parade](https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L) | 4:13 |
+| 7 | [Smiling Platter！](https://open.spotify.com/track/3kDmBdaw5LwkoFJjslFnTg) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM 49 ELEMENTS \-08 Café Parade](https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L) | 4:13 |
 | 8 | [The Symphonic Daylight](https://open.spotify.com/track/1aiWX0FBgLr07AbnXODNBh) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM 49 ELEMENTS \-07 Altessimo](https://open.spotify.com/album/3vjUKQMaJjm1pc3RLhziH4) | 4:06 |
 | 9 | [Take a StuMp!](https://open.spotify.com/track/5UjieTtkvrOJfKMa6EmTQ7) | [315 ALLSTARS](https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX) | [THE IDOLM@STER SideM GROWING SIGN@L 15 Take a StuMp!](https://open.spotify.com/album/3Fja2KNccssihfc2LpBcT4) | 4:57 |
 | 10 | [VIVA!!ファミリーリズム](https://open.spotify.com/track/1pfERoEBY2qrMaEWFnL89o) | [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK) | [THE IDOLM@STER SideM GROWING SIGN@L 16](https://open.spotify.com/album/7DfG2yYrf0EFW3sNkuNzpr) | 4:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 74 | [はんどめいど・きみはーと!](https://open.spotify.com/track/2hLA2UCmK6hS3yMDUzqXsx) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM 5th ANNIVERSARY 03](https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX) | 4:11 |
 | 75 | [Toward Pole Star](https://open.spotify.com/track/3ttWXcnYMaTc5IUgRmQndI) | [High Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM GROWING SIGN@L 18](https://open.spotify.com/album/61lUtgXia5yWLvkYm3K5Kl) | 4:20 |
 
-Snapshot ID: `MCw4ZTMyMTdhNGQxNDZhNzU5ZDEwYjI3OTBlZDRjYjRlYzEyNzdlYzUz`
+Snapshot ID: `MCxkOTcxOTVjY2NlYTA3ODBjMGEzZTFhNjAxNWU2ZGY4YWI4NjE4MjZh`

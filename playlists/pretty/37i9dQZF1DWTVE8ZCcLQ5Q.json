@@ -1,12 +1,12 @@
 {
   "description": "Descubra Senndy e novos talentos brasileiros no horizonte.",
-  "num_followers": 421278,
+  "num_followers": 421266,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzVhYTUzMWU0NmU2NmZiZGI0MzNiZmU0NTI4NTI3MTJmZWE1NjI5",
+  "snapshot_id": "MCw4NGRiYzAzYzE4YjY1M2M2ZWE3ODA1YjI3YWE5Y2QwY2E1ZjcyZWVj",
   "tracks": [
     {
       "added_at": "2023-07-12 21:00:00",
@@ -367,26 +367,6 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "Putaria 2000",
-        "url": "https://open.spotify.com/album/6PX62HEjc1VcSeGGrauuaC"
-      },
-      "artists": [
-        {
-          "name": "Puterrier",
-          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
-        },
-        {
-          "name": "biggie diehl",
-          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
-        }
-      ],
-      "duration_ms": 107204,
-      "name": "Putaria 2000",
-      "url": "https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
         "name": "Joga na Cara",
         "url": "https://open.spotify.com/album/6wAmvT3thzRT1weMOvVABC"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 109846,
       "name": "Joga na Cara",
       "url": "https://open.spotify.com/track/1gKXrwKn5ub6wyefqMsnZp"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
+        "name": "Putaria 2000",
+        "url": "https://open.spotify.com/album/6PX62HEjc1VcSeGGrauuaC"
+      },
+      "artists": [
+        {
+          "name": "Puterrier",
+          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        }
+      ],
+      "duration_ms": 107204,
+      "name": "Putaria 2000",
+      "url": "https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "bonita e miser\u00e1vel",
-        "url": "https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK"
-      },
-      "artists": [
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 171601,
-      "name": "bonita e miser\u00e1vel",
-      "url": "https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
         "name": "O outro lado do rio",
         "url": "https://open.spotify.com/album/1lVG4rP4Lqpk0fkHC5z61C"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 194351,
       "name": "Me chama pra dan\u00e7ar",
       "url": "https://open.spotify.com/track/7zQB0CvUfqnziNBF4kLW1a"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
+        "name": "bonita e miser\u00e1vel",
+        "url": "https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 171601,
+      "name": "bonita e miser\u00e1vel",
+      "url": "https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1319,6 +1319,30 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
+        "name": "24K o Spotify Que Paga",
+        "url": "https://open.spotify.com/album/36xMrm390G9SD1R6e1jtfR"
+      },
+      "artists": [
+        {
+          "name": "Mc Kanhoto",
+          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "24K o Spotify Que Paga",
+      "url": "https://open.spotify.com/track/7x0begSPdxT8KgFgwG3XaQ"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
         "name": "Putaria e Crime",
         "url": "https://open.spotify.com/album/1mt7soWCRIs5QgCOh2R8EL"
       },
@@ -1355,30 +1379,6 @@
       "duration_ms": 151111,
       "name": "alice (s\u00f3 que sem as maravilhas)",
       "url": "https://open.spotify.com/track/5FSjNo8QjPCMU5qo8NKOxY"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "24K o Spotify Que Paga",
-        "url": "https://open.spotify.com/album/36xMrm390G9SD1R6e1jtfR"
-      },
-      "artists": [
-        {
-          "name": "Mc Kanhoto",
-          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
-        },
-        {
-          "name": "Mc Neg\u00e3o Original",
-          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
-        },
-        {
-          "name": "DJ Guh Mix",
-          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "24K o Spotify Que Paga",
-      "url": "https://open.spotify.com/track/7x0begSPdxT8KgFgwG3XaQ"
     },
     {
       "added_at": "2023-07-12 21:00:00",

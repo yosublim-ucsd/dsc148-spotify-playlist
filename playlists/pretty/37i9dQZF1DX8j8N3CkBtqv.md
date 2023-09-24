@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Utsavi Jha
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,830 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,692 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Keh Do Na](https://open.spotify.com/track/5EHWMWzFWpV8xu9IrRxyVi) | [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r) | [Keh Do Na](https://open.spotify.com/album/2adeNS3gByA7VyV3a4WzL0) | 2:48 |
 | 50 | [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 |
 
-Snapshot ID: `MCw1ZDMyMWI3ZDZjOTdmMmM4YzQxMzI4MzVkNmM0M2ZkZDBkMTE1MWJl`
+Snapshot ID: `MCw3NmMxNTU1MjZlYTM2Mjc4NGY3NTVlOGRmZmE1ZWM3YzlmMWNkNzFk`

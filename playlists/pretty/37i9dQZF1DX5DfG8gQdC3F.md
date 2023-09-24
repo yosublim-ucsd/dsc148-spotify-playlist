@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Doja Cat, New West, CRi, Arkells and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,135 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,164 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 88 | [Mad Dawgs](https://open.spotify.com/track/3kEgs2Z7fv0IUxBtTjnAyl) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Mad Dawgs](https://open.spotify.com/album/6vFcul1OLKllwf1UTfgwKs) | 2:14 |
 | 89 | [Knock Knock \- SlimeBag](https://open.spotify.com/track/7nDmhet3z2l2xq4II2tuGs) | [Jmak Beatz](https://open.spotify.com/artist/6bgIg27xhR1qZVMGRHJ0hc), [6ixsoundz](https://open.spotify.com/artist/61FeQjakAPnkMuFXIP7NWc), [Top5](https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw) | [Knock Knock \(SlimeBag\)](https://open.spotify.com/album/7vLC1om7yfmeGzGnOWwewz) | 2:05 |
 | 90 | [The Top](https://open.spotify.com/track/0CGDrIdIsKucUtnkUFSK7b) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [TPL](https://open.spotify.com/album/3xASLbzCdazOv4wGh3oHmZ) | 3:02 |
-| 91 | [Find a Way to Love \(Somebody Else\)](https://open.spotify.com/track/5NSQMtfOOAydoxztB0RPCo) | [Eric Punzo](https://open.spotify.com/artist/5ovr8bErhT7iHJVZL18osS) | [Gridlock \- EP](https://open.spotify.com/album/66GwKUzrkInXvAk9kGRD1d) | 3:30 |
+| 91 | [Find a Way to Love \(Somebody Else\)](https://open.spotify.com/track/5NSQMtfOOAydoxztB0RPCo) | [Eric Punzo](https://open.spotify.com/artist/5ovr8bErhT7iHJVZL18osS) | [Gridlock](https://open.spotify.com/album/66GwKUzrkInXvAk9kGRD1d) | 3:30 |
 | 92 | [La Mujer Serpiente](https://open.spotify.com/track/17Jr3dUfaeEQaXbRzk3xB7) | [Earthtones](https://open.spotify.com/artist/76XmPFcaeZruNWCbMhMAE2), [Oliwa](https://open.spotify.com/artist/1ah0QMzlKN8IKTcKhEn0aD), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [La Mujer Serpiente / Cumbia Serpiente](https://open.spotify.com/album/7arHakpR3Sau6woFUznhz5) | 3:54 |
 | 93 | [Cowgirl Radio](https://open.spotify.com/track/7hadjYMpcpJ8ZUvenr5wxB) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Cowgirl Radio](https://open.spotify.com/album/1cwLCReU5YYj5gViPF84yP) | 3:14 |
 | 94 | [Farside Bathroom](https://open.spotify.com/track/1uMvIrnZ1FVEDsdaSR6DHz) | [Pkew Pkew Pkew](https://open.spotify.com/artist/2wLjuls619sr3fihBDQigt) | [Siiick Days](https://open.spotify.com/album/1X44oHV9hIf1yOqjUccwJx) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Addiction](https://open.spotify.com/track/0ocRpLelepKUSy1X08ddi9) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Comme dans un penthouse](https://open.spotify.com/album/12rLRy19o75nJG4cXKn2tR) | 3:29 |
 | 100 | [die a little less](https://open.spotify.com/track/4SSkNGqyT3NMoDBevo4aIC) | [Gwyn Love](https://open.spotify.com/artist/4o5ZquVPYCsS90FQYPkGzN), [La+ch](https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG) | [die a little less](https://open.spotify.com/album/3v6Pl74V5UvjrVaVzQbnyD) | 2:22 |
 
-Snapshot ID: `MCxhMmY1Yjk2MDY5Njg5NGNhNjY5NTMwYzQwMTNhZjZhMTI4NDNiNGE0`
+Snapshot ID: `MCwxYzhiYjM5MDljNTA0ZGM1NGUxNDNmZjRjZWY4YWMzNDkwOTQ1MTg3`

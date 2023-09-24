@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,271 likes - 96 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,275 likes - 96 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 9 | [Suara Moden Malaysia](https://open.spotify.com/track/291FMoTOzzbgyQNOF6uxwX) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk), [Balan Kash](https://open.spotify.com/artist/58WvdKjSjjthpO3u9t0bfe), [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB), [Mal Hamka](https://open.spotify.com/artist/0o50QOOPoOXy3ifSSVQWjc), [Abby Suehaiveey](https://open.spotify.com/artist/1ENnK2dbTu8jbPRqBJHRgm) | [Suara Moden Malaysia](https://open.spotify.com/album/5DrCcKYmsdV4tUi5GTDQT6) | 3:08 |
 | 10 | [Mirage \- for Assassin's Creed Mirage](https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Mirage \(for Assassin's Creed Mirage\)](https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz) | 2:13 |
 | 11 | [It's Time To Cari Ganti!](https://open.spotify.com/track/6KS0m5ib7tBFJv39z2Yytm) | [Space Walk](https://open.spotify.com/artist/2euJe2y8CIy7gbW1hZXN2S), [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [It's Time To Cari Ganti!](https://open.spotify.com/album/4TMrvkSoYftX2bNj2OqHCv) | 4:01 |
-| 12 | [homebody](https://open.spotify.com/track/2Dc0zNIYfOhWs1D13pjQrJ) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [homebody](https://open.spotify.com/album/5rt24b30Az06G6MYCfjwCJ) | 2:42 |
+| 12 | [homebody \- feat\. YAØ](https://open.spotify.com/track/2Dc0zNIYfOhWs1D13pjQrJ) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [homebody \(feat\. YAØ\)](https://open.spotify.com/album/5rt24b30Az06G6MYCfjwCJ) | 2:42 |
 | 13 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
 | 14 | [Bagaimana Aku](https://open.spotify.com/track/2HqmS98nQsBVhmS5rBjeVZ) | [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi) | [Bagaimana Aku](https://open.spotify.com/album/6GnyEOSAT5gXj9Vbi3auCy) | 2:14 |
 | 15 | [off without me](https://open.spotify.com/track/6EIlZdUbxRWahYO5xOd8cf) | [Aseekmars](https://open.spotify.com/artist/13XDJTv59THUVpthxagkmV), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [off without me](https://open.spotify.com/album/37XA94NR32zE8RiX3DYWtA) | 3:21 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 41 | [Fading](https://open.spotify.com/track/3DigdfiNzmD0zMoWRAfxnk) | [Nicole Lai](https://open.spotify.com/artist/0qme0QUpU1XxC8Fa5sIVeb), [Gaston Pong](https://open.spotify.com/artist/60VWor37GAY948KKZibKiI) | [Fading](https://open.spotify.com/album/2z5ZA0XNYcljlCRuPyBgP6) | 3:19 |
 | 42 | [Summer Vibes](https://open.spotify.com/track/7aKX262g7OMTuPm9XwoYNS) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Summer Vibes](https://open.spotify.com/album/7Cm5Ys8oAUwV7COhNTF7aV) | 2:19 |
 | 43 | [More & More](https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:28 |
-| 44 | [MEGUANXIDEYO](https://open.spotify.com/track/4RDEVasHPf6KH7yTCjpL47) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [MEGUANXIDEYO](https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu) | 3:40 |
+| 44 | [MEIGUANXIDEYO](https://open.spotify.com/track/4RDEVasHPf6KH7yTCjpL47) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [MEIGUANXIDEYO](https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu) | 3:40 |
 | 45 | [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 |
 | 46 | [If I Say I Love You](https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [If I Say I Love You](https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP) | 3:50 |
 | 47 | [Bodak Pink](https://open.spotify.com/track/3npZgbgUnaxi5p3BfkbyVQ) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9), [KnowKnow](https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN) | [Bodak Pink](https://open.spotify.com/album/0OXqXUVcg5pdotFxx6gL09) | 2:56 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 95 | [Main Thing](https://open.spotify.com/track/1aSjnYP1J124WyGB7MsJ5X) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Main Thing](https://open.spotify.com/album/5ZNijsH0jWLSZiD7BDB0YB) | 2:16 |
 | 96 | [Rodeo](https://open.spotify.com/track/7cD3GOKnMPgW4m37meuv3J) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Rodeo](https://open.spotify.com/album/3qRfgIajUoPGnLDZSlX33g) | 2:35 |
 
-Snapshot ID: `MCxkMTFmMzk5NWFhM2I3ZTM1OTZhN2FjNjYxNWUxZDE3ZGRhOGU0NjJk`
+Snapshot ID: `MCxjOTFjZjBkZWZlZmRkMGI1Yzc2YTE1MzllYmM5MmY3MjkzYWM1NDFm`

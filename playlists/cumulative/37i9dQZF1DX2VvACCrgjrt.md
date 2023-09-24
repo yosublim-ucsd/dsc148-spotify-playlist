@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: AC Slater & Chris Lorenzo \(Fly With Us\)
 
-545 songs - 1 day 4 hr 47 min
+546 songs - 1 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Burner](https://open.spotify.com/track/4eD02ae441W9cFnRahfJG8) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Burner](https://open.spotify.com/album/5PMT6HNrpMoR2cJLLdrkGU) | 4:09 | 2021-10-29 | 2022-08-13 |
 | [Buss It](https://open.spotify.com/track/5UNZKAMoyFI58haxqyFoaH) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [Buss It](https://open.spotify.com/album/2rUM4l1MrQnauFqO0QyMMC) | 3:40 | 2021-10-29 | 2022-05-07 |
 | [Bust It](https://open.spotify.com/track/3jRf1CgbwS6KK8loU2P7sg) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Bust It](https://open.spotify.com/album/0cxkIWSWJSCN8ld8sUnaWO) | 3:18 | 2021-10-29 | 2022-07-16 |
+| [buttons!](https://open.spotify.com/track/3PXb8ZLJiz59pSO5ZrJDx0) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [buttons!](https://open.spotify.com/album/1BNaZf2C1HMVCC2pCRdYsr) | 3:59 | 2023-09-22 |  |
 | [Call Me](https://open.spotify.com/track/4soXgnLGNNHkrPfUouig5Z) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Call Me](https://open.spotify.com/album/3oCS0kj9EWXwUU0wcM5FKt) | 1:55 | 2023-07-14 | 2023-07-29 |
 | [CALYPSO](https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [CALYPSO](https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3) | 2:32 | 2023-08-25 |  |
 | [CALYPSO](https://open.spotify.com/track/4YmOaFeMM8jRE7FEXixlAM) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [CALYPSO](https://open.spotify.com/album/2V75e6FEFox27TlO3hcX5U) | 2:32 | 2023-08-04 | 2023-09-01 |
@@ -397,7 +398,7 @@
 | [Punch Box](https://open.spotify.com/track/3UQW9mvgLbCySmH1P5H5aK) | [Kitone](https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj) | [Punch Box](https://open.spotify.com/album/11GcRnHzjCeZADwURMaac8) | 2:26 | 2021-10-29 | 2022-02-14 |
 | [PURRITO](https://open.spotify.com/track/4J5mnWrMZSWfLe6auPLZwA) | [Mord Fustang](https://open.spotify.com/artist/34hwBP1esafQoCVtLz7F6K) | [PURRITO](https://open.spotify.com/album/7BoIRZP3g0jRztON2uo7Cu) | 3:33 | 2023-06-30 | 2023-07-15 |
 | [Push It](https://open.spotify.com/track/0QUVjsIqKTRkV76T59rCMM) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Push It](https://open.spotify.com/album/2f7if07zQ8aqkwjq6NovP8) | 2:50 | 2022-07-29 | 2023-06-03 |
-| [Putaria](https://open.spotify.com/track/5VDX0PYPSaNJn0z6pW11jB) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Lodgerz](https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE), [Illegal Music](https://open.spotify.com/artist/1GtUSudmcirmaUqcgBzu3u) | [Putaria](https://open.spotify.com/album/7GqQTyGs2Jk6MSQtGFxW6F) | 2:40 | 2023-06-16 |  |
+| [Putaria](https://open.spotify.com/track/5VDX0PYPSaNJn0z6pW11jB) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Lodgerz](https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE), [Illegal Music](https://open.spotify.com/artist/1GtUSudmcirmaUqcgBzu3u) | [Putaria](https://open.spotify.com/album/7GqQTyGs2Jk6MSQtGFxW6F) | 2:40 | 2023-06-16 | 2023-09-24 |
 | [Queue](https://open.spotify.com/track/27ThU2UjsMWH48A49DEKck) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Not The Father](https://open.spotify.com/artist/2RGCVHkfmLPJcZVrPBsvY0) | [Queue](https://open.spotify.com/album/4z6vS3ZGkTnfKlY4gezFKH) | 3:06 | 2021-10-29 | 2022-07-30 |
 | [Rage](https://open.spotify.com/track/3bTjVR73jjv8ifAYbpohUe) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Rage](https://open.spotify.com/album/21JEOvsMFfHCEhAq2YKxYq) | 2:55 | 2022-10-14 |  |
 | [Rampage](https://open.spotify.com/track/1FAMmDVKA84HUrA12iFEuE) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Rampage](https://open.spotify.com/album/7tvJ8CY63uFzEiyRLSH495) | 3:04 | 2021-10-29 | 2022-07-30 |

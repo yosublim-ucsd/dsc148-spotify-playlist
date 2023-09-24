@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 195882,
       "name": "ECHO",
       "url": "https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY"
@@ -2848,6 +2848,24 @@
       "duration_ms": 222000,
       "name": "Heavenly - Ethan C. Davis Remix",
       "url": "https://open.spotify.com/track/5CpnqWOerx7I3rkThe5cyR"
+    },
+    {
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/1iEHm6xjd7QWKYt67AmjZ3"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225520,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/7Fmk7xa6JijQVUpDILAxrR"
     },
     {
       "album": {

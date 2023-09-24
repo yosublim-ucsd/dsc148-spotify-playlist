@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 85142,
+  "num_followers": 85157,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGQ5N2I1MDcxZDRkOGFmNDAxNWM3NzFjNzRkOTY2Y2JhODg3Zjgx",
+  "snapshot_id": "MCw4OGY0N2M1YzhjMzE5N2Q4YjdkYWNlNWY0ODJlZmVjZmIyNjBlYmM0",
   "tracks": [
     {
       "added_at": "2023-04-14 06:55:00",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
+        "name": "Marteko Euriak",
+        "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
       },
       "artists": [
         {
-          "name": "Poligamia",
-          "url": "https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O"
+          "name": "1280 Almas",
+          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
         }
       ],
-      "duration_ms": 187093,
-      "name": "Una Canci\u00f3n",
-      "url": "https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA"
+      "duration_ms": 187478,
+      "name": "Salvaje Vagabundo",
+      "url": "https://open.spotify.com/track/0gOvLUA0IHMUiDFPPINFnr"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Marteko Euriak",
-        "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
       },
       "artists": [
         {
-          "name": "1280 Almas",
-          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
+          "name": "Poligamia",
+          "url": "https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O"
         }
       ],
-      "duration_ms": 187478,
-      "name": "Salvaje Vagabundo",
-      "url": "https://open.spotify.com/track/0gOvLUA0IHMUiDFPPINFnr"
+      "duration_ms": 187093,
+      "name": "Una Canci\u00f3n",
+      "url": "https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Ave Nocturna",
-        "url": "https://open.spotify.com/album/7kwFVg9z4gRPmmz8z5TZIH"
-      },
-      "artists": [
-        {
-          "name": "Bajo Tierra",
-          "url": "https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm"
-        }
-      ],
-      "duration_ms": 217903,
-      "name": "Ave Nocturna",
-      "url": "https://open.spotify.com/track/7Hnw7DhlqhfdywAqjNDXy5"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/2ETz2y2dJ7bD7XfXXUaKjq"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 213146,
       "name": "Voy a olvidarme de mi",
       "url": "https://open.spotify.com/track/2AklN5bNjuVAg3U3bKZ0Dk"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
+        "name": "Ave Nocturna",
+        "url": "https://open.spotify.com/album/7kwFVg9z4gRPmmz8z5TZIH"
+      },
+      "artists": [
+        {
+          "name": "Bajo Tierra",
+          "url": "https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm"
+        }
+      ],
+      "duration_ms": 217903,
+      "name": "Ave Nocturna",
+      "url": "https://open.spotify.com/track/7Hnw7DhlqhfdywAqjNDXy5"
     },
     {
       "added_at": "2023-04-14 06:55:00",

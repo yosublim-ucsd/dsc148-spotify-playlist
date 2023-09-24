@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,884 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,903 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 53 | [エバーグリーン](https://open.spotify.com/track/6L8EXO1KIMl41yEzspq3yA) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [エバーグリーン](https://open.spotify.com/album/6RxYB8bqVBrNg4ls25HlDY) | 4:15 |
 | 54 | [CRAZY BEAUTIFUL NIGHT](https://open.spotify.com/track/1BvsiUIXqmq0i7Fa8cC3LV) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [CRAZY BEAUTIFUL NIGHT](https://open.spotify.com/album/67xKEMSjfmnUn628A2FvYQ) | 3:38 |
 | 55 | [SWEET BABY](https://open.spotify.com/track/02lLEGpT6KjOPIOhBlsTXE) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [SWEET BABY](https://open.spotify.com/album/2FEl5PwaafNtwSSzRy2Vti) | 3:14 |
-| 56 | [君が僕の心臓じゃないせいで feat\. 川崎鷹也](https://open.spotify.com/track/1xX6HxY7JxZLz6NPwmlwWb) | [BAK](https://open.spotify.com/artist/1WmnQSoQxUa4x14IWgHCiD), [Takaya Kawasaki](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [君が僕の心臓じゃないせいで feat\. 川崎鷹也](https://open.spotify.com/album/5tHK7FxxSVLaMZsuoBQYd9) | 4:16 |
+| 56 | [君が僕の心臓じゃないせいで feat\. 川崎鷹也](https://open.spotify.com/track/1xX6HxY7JxZLz6NPwmlwWb) | [BAK](https://open.spotify.com/artist/1WmnQSoQxUa4x14IWgHCiD), [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [君が僕の心臓じゃないせいで feat\. 川崎鷹也](https://open.spotify.com/album/5tHK7FxxSVLaMZsuoBQYd9) | 4:16 |
 | 57 | [ラヴ・クラウド](https://open.spotify.com/track/066FlsZYTfxPIgLlFoAsNI) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Moon](https://open.spotify.com/album/631rw1DEmDYgdHb0QioP3y) | 3:39 |
 | 58 | [Skipping Like A Stone \(feat\. Beck\)](https://open.spotify.com/track/7JpclywOpe1Vthr9TPdkj2) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Skipping Like A Stone \(feat\. Beck\)](https://open.spotify.com/album/7nWojjbfKGtHyYeA8vsBXa) | 4:43 |
 | 59 | [Dientes](https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Dientes](https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Super funk market](https://open.spotify.com/track/3HnMGHU13H5oeNYjbKw8Eb) | [.ENDRECHERI.](https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78) | [Super funk market](https://open.spotify.com/album/28VOgfZgmEysQj9UdgjoNP) | 3:49 |
 | 100 | [Pink sky \- feat\. テークエム](https://open.spotify.com/track/2WIm3OUeb4vMSxnpj4r1fm) | [POOL](https://open.spotify.com/artist/2dvTZ5JWjRhkzd8QSBIhDo), [TAKE\-M](https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL) | [Pink sky \(feat\. テークエム\)](https://open.spotify.com/album/3PDJbAGuJYVb63fhwWOocu) | 3:17 |
 
-Snapshot ID: `MCw0OTE4MWFmOWZhYjUyYTJlOTcwZDdhOWFkM2RmMTI5OThhNjk2ZjIx`
+Snapshot ID: `MCxiMDBiMWIyMzFmY2VhMDBhNmVlNDE4YzA1MTEzYWYwN2U1YjRlYmRl`

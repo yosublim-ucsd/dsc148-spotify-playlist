@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "akl\u0131na ben gelicem",
+        "url": "https://open.spotify.com/album/58PsD3FgNdDAdX4efIAB2J"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149406,
+      "name": "akl\u0131na ben gelicem",
+      "url": "https://open.spotify.com/track/3ZwRkdnTb4az8X5n4WXuHA"
+    },
+    {
+      "album": {
         "name": "Aksiyon",
         "url": "https://open.spotify.com/album/4dr2xGbBSqKzd5yjVpHjkQ"
       },
@@ -1254,7 +1272,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 186950,
       "name": "Aynen",
       "url": "https://open.spotify.com/track/72HD3OMs70hTZlbKVVd1rG"
@@ -5017,6 +5035,28 @@
     },
     {
       "album": {
+        "name": "Geceler",
+        "url": "https://open.spotify.com/album/3FDarLcv4ob7ETiDyH58za"
+      },
+      "artists": [
+        {
+          "name": "Sagopa Kajmer",
+          "url": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+        },
+        {
+          "name": "Mine Ko\u015fan",
+          "url": "https://open.spotify.com/artist/2ditOd9fNYAscQhUmYhfXh"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276802,
+      "name": "Geceler",
+      "url": "https://open.spotify.com/track/4H2KhOR9QOHHv4ttjV5Lhz"
+    },
+    {
+      "album": {
         "name": "BEGEFEND\u0130",
         "url": "https://open.spotify.com/album/4uzkcFaD6X2zpojuI0Y1IT"
       },
@@ -7198,7 +7238,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 101116,
       "name": "\u0130ZLED\u0130 MAHALLE",
       "url": "https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi"
@@ -8286,6 +8326,28 @@
       "duration_ms": 158509,
       "name": "LELELE",
       "url": "https://open.spotify.com/track/0GacjftLDThkCn0kMJETNh"
+    },
+    {
+      "album": {
+        "name": "LETS GO PARTY",
+        "url": "https://open.spotify.com/album/6ZHdU3NqqnXF4eEUDg9RP4"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "LETS GO PARTY",
+      "url": "https://open.spotify.com/track/4pmhGRk8wqp2ncPzSsqWya"
     },
     {
       "album": {
@@ -9428,7 +9490,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 315975,
       "name": "M\u00fcphem",
       "url": "https://open.spotify.com/track/4rH2IQ3tNg5clDOnzut7RV"
@@ -9576,7 +9638,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 152374,
       "name": "Nefes",
       "url": "https://open.spotify.com/track/1Lt5VeNJK63RPHt7dRFB0Q"
@@ -10247,6 +10309,24 @@
     },
     {
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+    },
+    {
+      "album": {
         "name": "Paint The Town Red",
         "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
       },
@@ -10258,7 +10338,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
@@ -11882,7 +11962,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 165797,
       "name": "Sevecek Sand\u0131m",
       "url": "https://open.spotify.com/track/7dWOeNUJfixlvUcpZD90YE"

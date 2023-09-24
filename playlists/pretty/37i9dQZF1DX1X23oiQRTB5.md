@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Dave x Tiakola au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,457,282 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,457,828 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 34 | [ᚷ\. INSPIRÉ DE FAITS RÉELS \#6](https://open.spotify.com/track/0QqP2jJFb8RhGjugYSbFxf) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [ᚷ\. INSPIRÉ DE FAITS RÉELS \#6](https://open.spotify.com/album/4HqxQlBSI8N5u9OnPCRXNZ) | 2:49 |
 | 35 | [Cardio](https://open.spotify.com/track/4sexM5K1L4lSviqpadSUGi) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Cardio](https://open.spotify.com/album/2J98KFdCrWGuY3FP9mAenE) | 3:13 |
 | 36 | [Finale \- Nouvelle École](https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM) | [Dau](https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L) | [Finale \- Nouvelle École](https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS) | 3:00 |
-| 37 | [Entraînement](https://open.spotify.com/track/10IQPICqgiB3TeUV2UcYqz) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW) | 4:11 |
+| 37 | [Entraînement](https://open.spotify.com/track/5JwqiWLLvi0HGABtvw57eX) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/1WYGwCvsfFrr7kuQcfNnJr) | 4:11 |
 | 38 | [10 minutes](https://open.spotify.com/track/3KLqY7E5dOgvfZ6qppQ9u7) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 2:32 |
 | 39 | [Sadio \(feat\. Offset\)](https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:42 |
 | 40 | [Signé](https://open.spotify.com/track/7gYpMsodGiFN0qMmz9FCTj) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Signé](https://open.spotify.com/album/0LQj4X4tGaXE4PwtZGQDuh) | 3:00 |
 
-Snapshot ID: `MCxiMjkyMjE0ZjViODE4NDI2NzdmMDNiMzYyYjM0YjU2ZmM0ZmFmNmM1`
+Snapshot ID: `MCxlMDY3NzcyMzYxZTA1ZmU0YjFkMjJhMzc3ZThkOGFlMWMwMDZjMDk3`

@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Colo de Deus",
-  "num_followers": 315863,
+  "num_followers": 316011,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmM5OWQ2MWM2YmZmMmI4MDAxOGQyNWJhOGI5MDc4OTAwMDM0NzAz",
+  "snapshot_id": "MCw0YTVjY2Q3NjI1YzVlMzlmYjc0OGE4YjZkOWQ4MGI4ZWNhOTQ5ZjBi",
   "tracks": [
     {
       "added_at": "2023-09-01 05:59:46",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-09-01 05:59:46",
       "album": {
-        "name": "Se Eu Tenho o Hoje",
-        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
-      },
-      "artists": [
-        {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
-        }
-      ],
-      "duration_ms": 327961,
-      "name": "Se Eu Tenho o Hoje",
-      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
-    },
-    {
-      "added_at": "2023-09-01 05:59:46",
-      "album": {
         "name": "Que Amor \u00c9 Esse?",
         "url": "https://open.spotify.com/album/1VfrXFXpdm0M0Liuc1LXK7"
       },
@@ -523,22 +507,18 @@
     {
       "added_at": "2023-09-01 05:59:46",
       "album": {
-        "name": "Em Sil\u00eancio",
-        "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
+        "name": "Se Eu Tenho o Hoje",
+        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
       },
       "artists": [
         {
-          "name": "Minist\u00e9rio Tua Palavra",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        },
-        {
-          "name": "Padre Denis-Ricard",
-          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
         }
       ],
-      "duration_ms": 228125,
-      "name": "Em Sil\u00eancio",
-      "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
+      "duration_ms": 327961,
+      "name": "Se Eu Tenho o Hoje",
+      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
     },
     {
       "added_at": "2023-09-01 05:59:46",
@@ -559,6 +539,26 @@
       "duration_ms": 173272,
       "name": "Como \u00c9s Lindo",
       "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
+    },
+    {
+      "added_at": "2023-09-01 05:59:46",
+      "album": {
+        "name": "Em Sil\u00eancio",
+        "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Tua Palavra",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        },
+        {
+          "name": "Padre Denis-Ricard",
+          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
+        }
+      ],
+      "duration_ms": 228125,
+      "name": "Em Sil\u00eancio",
+      "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
     },
     {
       "added_at": "2023-09-01 05:59:46",
@@ -723,38 +723,6 @@
     {
       "added_at": "2023-09-01 05:59:46",
       "album": {
-        "name": "Nada Te Perturbe",
-        "url": "https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25"
-      },
-      "artists": [
-        {
-          "name": "Ziza Fernandes",
-          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
-        }
-      ],
-      "duration_ms": 225326,
-      "name": "Nada Te Perturbe",
-      "url": "https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1"
-    },
-    {
-      "added_at": "2023-09-01 05:59:46",
-      "album": {
-        "name": "Exaltado",
-        "url": "https://open.spotify.com/album/6rBDRwqE7alteM5SMANcOO"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        }
-      ],
-      "duration_ms": 280851,
-      "name": "Exaltado - Ao Vivo",
-      "url": "https://open.spotify.com/track/3jARfDXmV195P6y1NWHa82"
-    },
-    {
-      "added_at": "2023-09-01 05:59:46",
-      "album": {
         "name": "Vocacional Shalom 2023",
         "url": "https://open.spotify.com/album/7HwdocC4w9sMdtdRffLCaJ"
       },
@@ -775,18 +743,34 @@
     {
       "added_at": "2023-09-01 05:59:46",
       "album": {
-        "name": "Ressonhar",
-        "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
+        "name": "Exaltado",
+        "url": "https://open.spotify.com/album/6rBDRwqE7alteM5SMANcOO"
       },
       "artists": [
         {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
         }
       ],
-      "duration_ms": 290125,
-      "name": "Oceano de Miseric\u00f3rdia",
-      "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
+      "duration_ms": 280851,
+      "name": "Exaltado - Ao Vivo",
+      "url": "https://open.spotify.com/track/3jARfDXmV195P6y1NWHa82"
+    },
+    {
+      "added_at": "2023-09-01 05:59:46",
+      "album": {
+        "name": "Nada Te Perturbe",
+        "url": "https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25"
+      },
+      "artists": [
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        }
+      ],
+      "duration_ms": 225326,
+      "name": "Nada Te Perturbe",
+      "url": "https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1"
     },
     {
       "added_at": "2023-09-01 05:59:46",
@@ -803,6 +787,22 @@
       "duration_ms": 249940,
       "name": "Deus V\u00ea",
       "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
+    },
+    {
+      "added_at": "2023-09-01 05:59:46",
+      "album": {
+        "name": "Ressonhar",
+        "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
+      },
+      "artists": [
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        }
+      ],
+      "duration_ms": 290125,
+      "name": "Oceano de Miseric\u00f3rdia",
+      "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
     },
     {
       "added_at": "2023-09-01 05:59:46",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-09-01 05:59:46",
       "album": {
-        "name": "Paci\u00eancia",
-        "url": "https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv"
-    },
-    {
-      "added_at": "2023-09-01 05:59:46",
-      "album": {
         "name": "M\u00e3e, Me Defende do Mal",
         "url": "https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 300184,
       "name": "M\u00e3e, Me Defende do Mal",
       "url": "https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl"
+    },
+    {
+      "added_at": "2023-09-01 05:59:46",
+      "album": {
+        "name": "Paci\u00eancia",
+        "url": "https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv"
     }
   ],
   "unique_name": "M\u00fasica Cat\u00f3lica ",

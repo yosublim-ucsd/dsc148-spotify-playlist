@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: John Ghost
 
-181 songs - 15 hr 24 min
+182 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Lambda](https://open.spotify.com/track/2RpAIod9HRKhrTWd7bv1QU) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [The New Lady Llama](https://open.spotify.com/album/2d3o91tzR0dqRkTcAcfOkm) | 2:37 | 2022-09-15 | 2023-04-06 |
 | [Lambda](https://open.spotify.com/track/4Q0ndfrABOZ9OfaqMqLkf2) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [Lambda](https://open.spotify.com/album/15CHatpLTNDCNRrjc9cXm6) | 2:37 | 2022-09-08 | 2022-09-25 |
 | [Last Dance](https://open.spotify.com/track/5AHYdlkvXQ4Lae83JZDm7K) | [Otto Kintet](https://open.spotify.com/artist/27CCZtAURerCD9yhrcJ3KE) | [Pico](https://open.spotify.com/album/5lZ2Y0VqVwjvxivPHlEYst) | 6:15 | 2022-09-08 |  |
-| [Little Steps](https://open.spotify.com/track/20yGgGMyNJDELJk7nsJMRT) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [Little Steps](https://open.spotify.com/album/0f7crbBu4TBbLOe91XHQVW) | 5:11 | 2023-06-23 |  |
+| [Little Steps](https://open.spotify.com/track/20yGgGMyNJDELJk7nsJMRT) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [Little Steps](https://open.spotify.com/album/0f7crbBu4TBbLOe91XHQVW) | 5:11 | 2023-06-23 | 2023-09-24 |
+| [Little Steps](https://open.spotify.com/track/3ouhg3MWKPPjXlCrRg1MXh) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [Amulet](https://open.spotify.com/album/1HQmEGfHgCgy2LnCra5ZnJ) | 5:11 | 2023-09-07 |  |
 | [Lotus](https://open.spotify.com/track/66vGTK42BwvBUNV97qlYkt) | [Teun Verbruggen](https://open.spotify.com/artist/2eMZsuJlUdllW1yrtGWNDA), [Steven Delannoye](https://open.spotify.com/artist/1u5vg85XHGbkusKdsRaWCn), [Nathan Wouters](https://open.spotify.com/artist/6aF2zTGGmfSLFRms6tXsRT), [Bram de Looze](https://open.spotify.com/artist/32c6i6INQivcOe8y7zyKmG), [André Fernandes](https://open.spotify.com/artist/7bz7PGWzFOOl05qVo6EXU2) | [Chasing Penguins](https://open.spotify.com/album/4sISBgndNpI66M1LUs2CwF) | 6:15 | 2022-09-08 | 2023-04-06 |
 | [Macadam](https://open.spotify.com/track/04KWVisYgJMlhO2iGRC162) | [schroothoop](https://open.spotify.com/artist/2gbO1WIhdYAqbwwh6LaASF) | [MACADAM](https://open.spotify.com/album/0MmXLzMi3nrfO0lec3drjK) | 3:10 | 2023-04-06 |  |
 | [Mammoet](https://open.spotify.com/track/52rTIOyqlAOiRPFMbyewUb) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d), [Nabou](https://open.spotify.com/artist/1BwV1xO6KyJBmdx87xcJ08) | [PAPARA](https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6) | 8:55 | 2022-10-20 |  |

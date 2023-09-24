@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 50700,
+  "num_followers": 50796,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjA4NGNiNTc0OWM1NTNjNTBlNDE3ODI4YjEwNjM1MGM5NjlhYzc4",
+  "snapshot_id": "MCwwZTIzNjlhYWM0YTYxMTcwZjQwN2VkNzU4MjJjZGUzYTJlMTk3ZThl",
   "tracks": [
     {
       "added_at": "2023-09-18 17:33:17",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
-        "name": "I Love The Nightlife",
-        "url": "https://open.spotify.com/album/6e42g4IxKHPNT6VsRMkP4v"
-      },
-      "artists": [
-        {
-          "name": "Alicia Bridges",
-          "url": "https://open.spotify.com/artist/1UY4oIFpjCKe5qIhKDcloe"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "I Love The Nightlife (Disco 'Round)",
-      "url": "https://open.spotify.com/track/6c0G8K6G2LlIfJTsRLJjfs"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
         "name": "Pride Classics",
         "url": "https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 326586,
       "name": "Never Knew Love Like This Before",
       "url": "https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
+        "name": "I Love The Nightlife",
+        "url": "https://open.spotify.com/album/6e42g4IxKHPNT6VsRMkP4v"
+      },
+      "artists": [
+        {
+          "name": "Alicia Bridges",
+          "url": "https://open.spotify.com/artist/1UY4oIFpjCKe5qIhKDcloe"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "I Love The Nightlife (Disco 'Round)",
+      "url": "https://open.spotify.com/track/6c0G8K6G2LlIfJTsRLJjfs"
     },
     {
       "added_at": "2023-09-18 17:33:17",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+        "name": "The Essential Evelyn \"Champagne\" King",
+        "url": "https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI"
       },
       "artists": [
         {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+          "name": "Evelyn \"Champagne\" King",
+          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
         }
       ],
-      "duration_ms": 280733,
-      "name": "No One Gets The Prize",
-      "url": "https://open.spotify.com/track/3z8EX1QoPW20ME8IueIADZ"
+      "duration_ms": 391693,
+      "name": "Shame - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup"
     },
     {
       "added_at": "2023-09-18 17:33:17",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
-        "name": "The Essential Evelyn \"Champagne\" King",
-        "url": "https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI"
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
       },
       "artists": [
         {
-          "name": "Evelyn \"Champagne\" King",
-          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
         }
       ],
-      "duration_ms": 391693,
-      "name": "Shame - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup"
+      "duration_ms": 280733,
+      "name": "No One Gets The Prize",
+      "url": "https://open.spotify.com/track/3z8EX1QoPW20ME8IueIADZ"
     },
     {
       "added_at": "2023-09-18 17:33:17",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
-        "name": "Kid Creole - Ze August Darnell Sessions (Remastered 2018)",
-        "url": "https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ"
-      },
-      "artists": [
-        {
-          "name": "Elbow Bones And The Racketeers",
-          "url": "https://open.spotify.com/artist/3ybGU1QPtfQ5QJHmaPjqmj"
-        }
-      ],
-      "duration_ms": 261293,
-      "name": "A Night in New York - Remastered",
-      "url": "https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
         "name": "'Lectric Lady",
         "url": "https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 473240,
       "name": "Love Is You - A Tom Moulton Mix",
       "url": "https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
+        "name": "Kid Creole - Ze August Darnell Sessions (Remastered 2018)",
+        "url": "https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ"
+      },
+      "artists": [
+        {
+          "name": "Elbow Bones And The Racketeers",
+          "url": "https://open.spotify.com/artist/3ybGU1QPtfQ5QJHmaPjqmj"
+        }
+      ],
+      "duration_ms": 261293,
+      "name": "A Night in New York - Remastered",
+      "url": "https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2"
     },
     {
       "added_at": "2023-09-18 17:33:17",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 244733,
+      "name": "Put Your Body In It",
+      "url": "https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
         "name": "Philadelphia International Records: The Tom Moulton Remixes",
         "url": "https://open.spotify.com/album/25R1Y9bt82lbSwZemUBJ1A"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 750560,
       "name": "The Love I Lost - A Tom Moulton Mix",
       "url": "https://open.spotify.com/track/6kTRD53rZvscOShCDotKVy"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 244733,
-      "name": "Put Your Body In It",
-      "url": "https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh"
     }
   ],
   "unique_name": "Disco Decadence",

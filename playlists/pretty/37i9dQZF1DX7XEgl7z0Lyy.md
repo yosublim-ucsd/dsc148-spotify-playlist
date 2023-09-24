@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,363 likes - 64 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,855 likes - 64 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 19 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 |
 | 20 | [SHAKE THAT SHIT!](https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe) | [SHAKE THAT SHIT!](https://open.spotify.com/album/1Cw0Mri4i2zYXtQEd7qqOs) | 2:35 |
 | 21 | [sharp fangs](https://open.spotify.com/track/5FvE6L92NLw7qQcmtl6dPB) | [whatsaheart](https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV), [removeface](https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF) | [sharp fangs](https://open.spotify.com/album/2LHH01c9fE0F4ZdJxlY1qa) | 2:15 |
-| 22 | [PARTY!](https://open.spotify.com/track/4pUWZda85cdZYJ8hznSMft) | [LyteSpeed](https://open.spotify.com/artist/4XIl1fxI6tJQzbSMb2fNAr), [removeface](https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF) | [PARTY!](https://open.spotify.com/album/4yBtw3pWdZWHurpAtWLyHD) | 1:18 |
+| 22 | [PARTY!](https://open.spotify.com/track/4pUWZda85cdZYJ8hznSMft) | [LyteSpeed](https://open.spotify.com/artist/4XIl1fxI6tJQzbSMb2fNAr), [removeface](https://open.spotify.com/artist/6kdU7vLLarZWY5c5HNpEjM) | [PARTY!](https://open.spotify.com/album/4yBtw3pWdZWHurpAtWLyHD) | 1:18 |
 | 23 | [LET ME SEE YA MOVE!](https://open.spotify.com/track/5z6IuFSIc3OrZGDC2Q9icP) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [LET ME SEE YA MOVE!](https://open.spotify.com/album/3264fH7RgsN1aubvVgT0ny) | 2:01 |
 | 24 | [GOOD LOYAL THOTS](https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw) | 1:42 |
 | 25 | [Sleepwalker \- Ultra Slowed & Reverb](https://open.spotify.com/track/00nDbhlvByugZmIG21JYSK) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Sleepwalker \(Ultra Slowed & Reverb\)](https://open.spotify.com/album/74fiQju6Hajz6CMfCv7Z8i) | 5:17 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 63 | [4ever \(feat\. Universe\)](https://open.spotify.com/track/1iNZsRg2WI437aWBsQdGaS) | [removeface](https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF), [Universe](https://open.spotify.com/artist/30RtxAnENaOe9XNqA4UxZW) | [4ever \(feat\. Universe\)](https://open.spotify.com/album/3QxEUjtcqaKHos7arMaVcz) | 2:28 |
 | 64 | [INVINCIBLE](https://open.spotify.com/track/4Uz07xPAEDFQcjY9vXZmXn) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU), [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [INVINCIBLE](https://open.spotify.com/album/3pKMJN25tbBk9YV76EHnMj) | 2:10 |
 
-Snapshot ID: `MCwwNWI2NjMwMDk4MGUxYTE2ZWZmMWY3NmNkYTBmN2RjODVlNWRhNmY4`
+Snapshot ID: `MCwwZTYzN2NjMTYyZTc4NDUyNWE4NDhiZDVkNzNkYzllZTA2YWM0ZjI0`

@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Shakira
 
-1,460 songs - 3 day 8 hr 13 min
+1,461 songs - 3 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -675,7 +675,8 @@
 | [Ligaya](https://open.spotify.com/track/3sJKnpDvliJ9OH4cORjatB) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0k85IwWv2bdmLKU9ZVgIEe) | 4:08 | 2022-02-02 | 2022-03-09 |
 | [Ligo Ligo](https://open.spotify.com/track/4ba3bmE2i6SvEXIaJYhUoJ) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Ligo Ligo](https://open.spotify.com/album/1vRQu7kPciIGfVhWABjTnN) | 2:46 | 2022-07-06 | 2023-01-05 |
 | [like everyone else](https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [like everyone else](https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk) | 3:21 | 2023-05-03 | 2023-07-06 |
-| [Like It Was Meant To Be](https://open.spotify.com/track/7cz4iZepf9e5Mxj4t5rYeB) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Like It Was Meant To Be](https://open.spotify.com/album/6CZCQsfxNLLWURl0LicSnI) | 3:29 | 2023-09-06 |  |
+| [Like It Was Meant To Be](https://open.spotify.com/track/72GB7Yf1lIstTjcD7eQAju) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:29 | 2023-09-22 |  |
+| [Like It Was Meant To Be](https://open.spotify.com/track/7cz4iZepf9e5Mxj4t5rYeB) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Like It Was Meant To Be](https://open.spotify.com/album/6CZCQsfxNLLWURl0LicSnI) | 3:29 | 2023-09-06 | 2023-09-24 |
 | [like we're wired](https://open.spotify.com/track/0jWQBmBX3jowX8AuUXmzjq) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [like we're wired](https://open.spotify.com/album/3MZUsQ4bHveRDrwIxVV40S) | 4:06 | 2022-07-06 | 2022-08-04 |
 | [LILITH](https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [LILITH](https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j) | 3:15 | 2022-08-03 | 2022-09-09 |
 | [Limits](https://open.spotify.com/track/1B0iOpkr5IojCDJZt5GAp4) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Limits](https://open.spotify.com/album/5IX9e7jYLTUbqubgkxJ11B) | 4:12 | 2023-01-04 | 2023-02-02 |

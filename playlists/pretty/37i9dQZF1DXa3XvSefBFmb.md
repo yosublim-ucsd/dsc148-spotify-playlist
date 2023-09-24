@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Cláudia Pascoal, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,488 likes - 30 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,490 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,15 +28,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 18 | [Desejo](https://open.spotify.com/track/3xgK2IJGamu77gnktTiWGT) | [Barbie Africana](https://open.spotify.com/artist/6Y98odeUz2ubIvj01pO2iF) | [Desejo](https://open.spotify.com/album/3oTtPi313aCXQfYPbpQPIC) | 3:46 |
 | 19 | [Se o arrependimento matasse](https://open.spotify.com/track/52hos2cE2BuLVOGIS9K45m) | [701](https://open.spotify.com/artist/00ITn8oTHWAJMGySvynsYg) | [Se o arrependimento matasse](https://open.spotify.com/album/7tDOIWqQUIHBKydJCj65IA) | 2:48 |
 | 20 | [Gioconda](https://open.spotify.com/track/6m18HRE3Gl6My4mPT6rZ7p) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [Gioconda](https://open.spotify.com/album/3nx4fxE1yzp88g8UNG2f6M) | 3:34 |
-| 21 | [Dum Durum](https://open.spotify.com/track/6RCx3JQ1BatALyi7tAXRt2) | [April Ivy](https://open.spotify.com/artist/0cRXFRbq7wk9jeMO47rVVH) | [Dum Durum](https://open.spotify.com/album/2IxWgnff4OzHUjoCXEPJKL) | 3:00 |
-| 22 | [Não Vás Já](https://open.spotify.com/track/4DYmYAfqfZuByZVkMzKo8s) | [Mimi Froes](https://open.spotify.com/artist/7dj67AKOjHzIzTvFMAmm7b) | [Não Vás Já](https://open.spotify.com/album/26PIhBXukKKtbsU178B5pj) | 3:11 |
-| 23 | [Alguém me leve](https://open.spotify.com/track/6s0oK7V9nUfCHqwK1bKWtX) | [Mariana Guimarães](https://open.spotify.com/artist/0ZPP2ooNi7xEaPWdDDFFaL) | [Alguém me leve](https://open.spotify.com/album/6C7ncqdHEypvsoM6zajdtI) | 2:17 |
-| 24 | [Nha Terra](https://open.spotify.com/track/7vtV7ejdWpEXE9AZbhoCJT) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Nha Terra](https://open.spotify.com/album/7gdoM0c1l4yw20IhLdCgCL) | 3:29 |
-| 25 | [os croquetes acabam](https://open.spotify.com/track/3Kv9393GtI3N8MCxZBW8xf) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [os croquetes acabam](https://open.spotify.com/album/2VjrO71oAxcBHdQJlBimRT) | 3:33 |
-| 26 | [Quarto das Danças](https://open.spotify.com/track/1gZARiIO36Ve6ra2GrVZ3s) | [Peixinhos da Horta](https://open.spotify.com/artist/5aUosFnCCeP6M1tHKEE715) | [Peixinhos da Horta](https://open.spotify.com/album/1V8nuaS3o0e1FUNV0lZC1r) | 5:24 |
-| 27 | [Figure Me Out](https://open.spotify.com/track/33KcVTPkDJfxaj9R4UEjhs) | [Niko](https://open.spotify.com/artist/60F6GZlScfppuKQn9hvGTr) | [Figure Me Out](https://open.spotify.com/album/2f0MSLZA9bIXlj4Z2WUeOv) | 3:16 |
-| 28 | [Fortuna](https://open.spotify.com/track/6EfAk17gvHb3gCOdg06jrQ) | [HADESSA](https://open.spotify.com/artist/7de7WfiJE75AYM339SbTCN) | [FORTUNA](https://open.spotify.com/album/4Jr5XZRa4V3nCl3iLFc6KY) | 2:26 |
-| 29 | [dança da mudança](https://open.spotify.com/track/0i4sAFCLI1ewNz6gAtt9kk) | [EVAYA](https://open.spotify.com/artist/3QH6q9XnQDc8zXKJubY7FP) | [dança da mudança](https://open.spotify.com/album/7CWpgwGed4Rxo7c8awFXoU) | 3:42 |
-| 30 | [Não me o dês](https://open.spotify.com/track/0jM5QYXtUxIABdY2RjXLtT) | [Vitoria Vermelho](https://open.spotify.com/artist/3bIAwNSVIYqI1GYQQ3RXTY) | [Não me o dês](https://open.spotify.com/album/06M62kcFbZgcNWafQ5OYbH) | 4:15 |
+| 21 | [Hipnose](https://open.spotify.com/track/7lJ6ly1TTyrsu5anLgunFt) | [Inês Monstro](https://open.spotify.com/artist/4dh79sEeMKuEsZhkojV8xQ) | [Hipnose](https://open.spotify.com/album/57IgWyeDmrtZDKMejmIZDv) | 2:55 |
+| 22 | [Yo No Cambio Nada](https://open.spotify.com/track/6PV5RuhCHMKaRak7CueUdg) | [Lorena Pollock](https://open.spotify.com/artist/57aJV1lubomzRmN7U39Wmh), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [Yo No Cambio Nada](https://open.spotify.com/album/0qzEePjdojLGgVg3xqoBVa) | 2:46 |
+| 23 | [Não Voltes](https://open.spotify.com/track/4YruHUe2FsBDjogFkvKilL) | [LUA](https://open.spotify.com/artist/5ZDxpJ5D6Z2wdJqZBgrZeJ) | [Não Voltes](https://open.spotify.com/album/4kMxsjBaWaD76GyvjF5yCs) | 2:41 |
+| 24 | [Caminho](https://open.spotify.com/track/6a1OsFyxays4Jm5dSS5skj) | [Sara Monteiro](https://open.spotify.com/artist/5HELMWN5G2dNC2AOXn2VNu) | [Caminho](https://open.spotify.com/album/5tPSih0QA3KeuPuQi67ubq) | 3:05 |
+| 25 | [Rosa Carne](https://open.spotify.com/track/7HHvSGhwoJoFRLlDHLrMrx) | [Joana Alegre](https://open.spotify.com/artist/3cNMSW7AIN2WILAlRBU2cX) | [Rosa Carne](https://open.spotify.com/album/5w23ty7rfqtTgsimICj4kv) | 3:23 |
+| 26 | [últimobeijo](https://open.spotify.com/track/608sFnBA22QEfaGTj7Wxv9) | [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [rés.tu](https://open.spotify.com/album/4DYm7M4vSHNIKg4INwlZSw) | 3:22 |
+| 27 | [Até Te Fazia](https://open.spotify.com/track/22Ij3Hrp6vLmGoe10bITwE) | [Rita Lina](https://open.spotify.com/artist/0BhIUKHQe1CFblIrj6bgcz) | [Até Te Fazia](https://open.spotify.com/album/5LuYJvYXxIJAt7hpbJMErr) | 5:10 |
+| 28 | [G$D](https://open.spotify.com/track/63xl61UQwvUHeJ9vLKEdiO) | [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8) | [G$D](https://open.spotify.com/album/5L32ja5pyb4DWZ56MawUAd) | 2:46 |
+| 29 | [CAMPO DAS CEBOLAS é nosso](https://open.spotify.com/track/3kvftvR1EuxLY39qQXDyza) | [MONSTRA](https://open.spotify.com/artist/7oUlgiZtYEgJy0bo4peq37) | [CAMPO DAS CEBOLAS é nosso](https://open.spotify.com/album/11prMsRWhDxsorNEcgbGvs) | 1:57 |
+| 30 | [alive](https://open.spotify.com/track/64WX9nKHMXo8p3U9xNtQst) | [Mariana Tereso](https://open.spotify.com/artist/2flPiXqSKewUNnRoSCGZHu) | [alive](https://open.spotify.com/album/0sat1rfA143YkuH5Ntscq0) | 2:18 |
+| 31 | [Óleo de Nardo](https://open.spotify.com/track/5cgRl7jA0rgMKxVa67c1Im) | [Marta Carvalho](https://open.spotify.com/artist/1WKRIi62Q7pwuixJZJLiGJ) | [Óleo de Nardo](https://open.spotify.com/album/0UD30GJitaJkNFGVFY7Nep) | 2:59 |
+| 32 | [Sente\-me](https://open.spotify.com/track/6ySYTYcp4mryfcZ2LNfnv2) | [Annie Vybz](https://open.spotify.com/artist/77dEdVCqVU3bF0dEMwiEXP) | [Sente\-me](https://open.spotify.com/album/0mam6tVPRKQWkfvv2M8xf5) | 3:24 |
+| 33 | [Há mais vida](https://open.spotify.com/track/6UilFbPs2m3lginIqFfkem) | [Rita Barata](https://open.spotify.com/artist/4PrCdnwvQQEn01MKOLuWwq) | [Há mais vida](https://open.spotify.com/album/4cdriNP0Kcata1qTZqTMGj) | 2:54 |
+| 34 | [Problemas de Expressão](https://open.spotify.com/track/3fxskCZglUTC5IDuAzLM6D) | [Inês Matias](https://open.spotify.com/artist/2rMHkOGKfovYpZuHAegCJx) | [Problemas de Expressão](https://open.spotify.com/album/7D8U1XVsxMAiirusZ15HCo) | 2:56 |
+| 35 | [cansada de ti](https://open.spotify.com/track/2eQaSvC6yEnXbBPNX23DM3) | [Capital Da Bulgária](https://open.spotify.com/artist/2UJGmrsRtfv442IVFpttfs) | [cansada de ti](https://open.spotify.com/album/7LZ988wEv0YbUIKdD0S5Cs) | 3:44 |
+| 36 | [Lourdes](https://open.spotify.com/track/24hRsmQ5wftbfAbWu3sQUN) | [Ana De Llor](https://open.spotify.com/artist/61DENukGlPQstYvSeroMfG) | [Not Your Holy Ghost](https://open.spotify.com/album/26F3OQWRgnUPQWjTmYFtsW) | 3:49 |
+| 37 | [Será o que Será](https://open.spotify.com/track/13zIXFdZlVUvzVDcdOyUso) | [Joana Espadinha](https://open.spotify.com/artist/2LNs5dvEce3LaEp4nwW16B) | [Será o que Será](https://open.spotify.com/album/7aKu8zZEkGTYXAVI1q9Wyt) | 3:37 |
+| 38 | [Menina Da Praia](https://open.spotify.com/track/6XjKdI4vpyYxBTKQUKubti) | [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [Menina Da Praia](https://open.spotify.com/album/0LsNLEO6qHTO7XisIGrRKW) | 2:19 |
+| 39 | [Animais](https://open.spotify.com/track/1OkPYQrertkavsGTKupdrM) | [Rita Vian](https://open.spotify.com/artist/2F6B2QaWX7cz72kKtY8LRD) | [Animais](https://open.spotify.com/album/38wSJJQWMmGCTsfv9ugfDI) | 3:57 |
+| 40 | [Peito Aberto](https://open.spotify.com/track/555q41mfvs5cNXGV9Zv7GE) | [SOPHIA](https://open.spotify.com/artist/0wlYDNCNA2BeqciBhNEYM8) | [Peito Aberto](https://open.spotify.com/album/2JpPMMnPdUBFKVe8MCPsqU) | 2:41 |
+| 41 | [Dum Durum](https://open.spotify.com/track/6RCx3JQ1BatALyi7tAXRt2) | [April Ivy](https://open.spotify.com/artist/0cRXFRbq7wk9jeMO47rVVH) | [Dum Durum](https://open.spotify.com/album/2IxWgnff4OzHUjoCXEPJKL) | 3:00 |
+| 42 | [Não Vás Já](https://open.spotify.com/track/4DYmYAfqfZuByZVkMzKo8s) | [Mimi Froes](https://open.spotify.com/artist/7dj67AKOjHzIzTvFMAmm7b) | [Não Vás Já](https://open.spotify.com/album/26PIhBXukKKtbsU178B5pj) | 3:11 |
+| 43 | [Alguém me leve](https://open.spotify.com/track/6s0oK7V9nUfCHqwK1bKWtX) | [Mariana Guimarães](https://open.spotify.com/artist/0ZPP2ooNi7xEaPWdDDFFaL) | [Alguém me leve](https://open.spotify.com/album/6C7ncqdHEypvsoM6zajdtI) | 2:17 |
+| 44 | [Nha Terra](https://open.spotify.com/track/7vtV7ejdWpEXE9AZbhoCJT) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Nha Terra](https://open.spotify.com/album/7gdoM0c1l4yw20IhLdCgCL) | 3:29 |
+| 45 | [os croquetes acabam](https://open.spotify.com/track/3Kv9393GtI3N8MCxZBW8xf) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [os croquetes acabam](https://open.spotify.com/album/2VjrO71oAxcBHdQJlBimRT) | 3:33 |
+| 46 | [Quarto das Danças](https://open.spotify.com/track/1gZARiIO36Ve6ra2GrVZ3s) | [Peixinhos da Horta](https://open.spotify.com/artist/5aUosFnCCeP6M1tHKEE715) | [Peixinhos da Horta](https://open.spotify.com/album/1V8nuaS3o0e1FUNV0lZC1r) | 5:24 |
+| 47 | [Figure Me Out](https://open.spotify.com/track/33KcVTPkDJfxaj9R4UEjhs) | [Niko](https://open.spotify.com/artist/60F6GZlScfppuKQn9hvGTr) | [Figure Me Out](https://open.spotify.com/album/2f0MSLZA9bIXlj4Z2WUeOv) | 3:16 |
+| 48 | [Fortuna](https://open.spotify.com/track/6EfAk17gvHb3gCOdg06jrQ) | [HADESSA](https://open.spotify.com/artist/7de7WfiJE75AYM339SbTCN) | [FORTUNA](https://open.spotify.com/album/4Jr5XZRa4V3nCl3iLFc6KY) | 2:26 |
+| 49 | [dança da mudança](https://open.spotify.com/track/0i4sAFCLI1ewNz6gAtt9kk) | [EVAYA](https://open.spotify.com/artist/3QH6q9XnQDc8zXKJubY7FP) | [dança da mudança](https://open.spotify.com/album/7CWpgwGed4Rxo7c8awFXoU) | 3:42 |
+| 50 | [Não me o dês](https://open.spotify.com/track/0jM5QYXtUxIABdY2RjXLtT) | [Vitoria Vermelho](https://open.spotify.com/artist/3bIAwNSVIYqI1GYQQ3RXTY) | [Não me o dês](https://open.spotify.com/album/06M62kcFbZgcNWafQ5OYbH) | 4:15 |
 
-Snapshot ID: `MCw4NjUyZWI1Y2I5ZDM4NzU2NjdjNTNiNDNmY2YzMGVhZTk2ODI1MzQ0`
+Snapshot ID: `MCwzMmEyZWE2YTc4ODIzYmQwOTEyMWNkYzYyZmEyMWI1ZjNmNTAwYzgy`

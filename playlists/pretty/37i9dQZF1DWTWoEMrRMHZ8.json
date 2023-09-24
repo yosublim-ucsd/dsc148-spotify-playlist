@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Joyce Alane",
-  "num_followers": 346417,
+  "num_followers": 346460,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTc3MmNmOTZhMTUzZWZkNjE2NmM3MjcwNDE5MjQ1Y2NjYzY5YmMw",
+  "snapshot_id": "MCwzZDRiZTkxOTIxYmRlOGQxN2ExMDAzZWE4NWVjMjQwNjVjYWFlZDY0",
   "tracks": [
     {
       "added_at": "2023-09-02 00:00:35",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Portas",
-        "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Feliz, Alegre e Forte",
-      "url": "https://open.spotify.com/track/5wIytrxWis1yWdvAE5z890"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Um dia de domingo",
         "url": "https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 251903,
       "name": "Um dia de domingo",
       "url": "https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Portas",
+        "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Feliz, Alegre e Forte",
+      "url": "https://open.spotify.com/track/5wIytrxWis1yWdvAE5z890"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Releituras",
-        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 178081,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Pra Melhorar",
         "url": "https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 256613,
       "name": "Pra Melhorar",
       "url": "https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 178081,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Pisadinha",
-        "url": "https://open.spotify.com/album/7ErOLfcPk2BGTrjfrx7nSY"
+        "name": "Tua Mania",
+        "url": "https://open.spotify.com/album/62KeKm1nciobB61pMOfQBv"
       },
       "artists": [
         {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+          "name": "Jona Poeta",
+          "url": "https://open.spotify.com/artist/2CUdlmUOwQQy1E4hUuAaNL"
         }
       ],
-      "duration_ms": 196706,
-      "name": "Pisadinha",
-      "url": "https://open.spotify.com/track/7AseVbtQ1CL0vY3f8XMyCH"
+      "duration_ms": 206451,
+      "name": "Tua Mania",
+      "url": "https://open.spotify.com/track/6bB8o2MFqMwuZEqQz9xLkI"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Tua Mania",
-        "url": "https://open.spotify.com/album/62KeKm1nciobB61pMOfQBv"
+        "name": "Pisadinha",
+        "url": "https://open.spotify.com/album/7ErOLfcPk2BGTrjfrx7nSY"
       },
       "artists": [
         {
-          "name": "Jona Poeta",
-          "url": "https://open.spotify.com/artist/2CUdlmUOwQQy1E4hUuAaNL"
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
         }
       ],
-      "duration_ms": 206451,
-      "name": "Tua Mania",
-      "url": "https://open.spotify.com/track/6bB8o2MFqMwuZEqQz9xLkI"
+      "duration_ms": 196706,
+      "name": "Pisadinha",
+      "url": "https://open.spotify.com/track/7AseVbtQ1CL0vY3f8XMyCH"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1279,18 +1279,22 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Morena Bonita",
-        "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
+        "name": "A M\u00fasica de Tom",
+        "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
       },
       "artists": [
         {
-          "name": "Anna Setton",
-          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
+          "name": "Ayrton Montarroyos",
+          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
+        },
+        {
+          "name": "Cain\u00e3 Cavalcante",
+          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
         }
       ],
-      "duration_ms": 179517,
-      "name": "Morena Bonita",
-      "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
+      "duration_ms": 185691,
+      "name": "Eu Sei Que Vou Te Amar",
+      "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1311,22 +1315,18 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "A M\u00fasica de Tom",
-        "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
+        "name": "Morena Bonita",
+        "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
       },
       "artists": [
         {
-          "name": "Ayrton Montarroyos",
-          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
-        },
-        {
-          "name": "Cain\u00e3 Cavalcante",
-          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
+          "name": "Anna Setton",
+          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
         }
       ],
-      "duration_ms": 185691,
-      "name": "Eu Sei Que Vou Te Amar",
-      "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
+      "duration_ms": 179517,
+      "name": "Morena Bonita",
+      "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Porto",
-        "url": "https://open.spotify.com/album/6Usxsp50R9DWMOn26jlZCj"
-      },
-      "artists": [
-        {
-          "name": "MPB4",
-          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "Porto",
-      "url": "https://open.spotify.com/track/5OfyMpThWxNX87z92GNerl"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Alagados",
         "url": "https://open.spotify.com/album/3Mdko7tfSEfTdTaukgzAst"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 196614,
       "name": "Alagados",
       "url": "https://open.spotify.com/track/4tFVcNSN26d2OSWSlOxRIf"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Porto",
+        "url": "https://open.spotify.com/album/6Usxsp50R9DWMOn26jlZCj"
+      },
+      "artists": [
+        {
+          "name": "MPB4",
+          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "Porto",
+      "url": "https://open.spotify.com/track/5OfyMpThWxNX87z92GNerl"
     },
     {
       "added_at": "2023-09-02 00:00:35",

@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 29741,
+  "num_followers": 29802,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTQwMGE2NWM0NTFiZTQ4Yzc3NjkyMzJhNmYyYThiYjY0NjNjOWE4",
+  "snapshot_id": "MCw3YWMxYzNhM2I4OTU0MTA5Yjc3MDI1NjEyYTg2Mjg1ZTlhMzU0Mzhi",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -331,26 +331,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Rye Lane Vol. 1",
-        "url": "https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh"
-      },
-      "artists": [
-        {
-          "name": "Al Dobson Jr.",
-          "url": "https://open.spotify.com/artist/3YOthLzFPTgp0fEtLRUoES"
-        },
-        {
-          "name": "Reginald Omas Mamode",
-          "url": "https://open.spotify.com/artist/5f6KVvbRDEzdb6zTNVpYZy"
-        }
-      ],
-      "duration_ms": 132864,
-      "name": "Nankoo on Keys",
-      "url": "https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Finding Foundations (The Remixes)",
         "url": "https://open.spotify.com/album/3k2eNuf5EEc1KUMrjJaskk"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 367413,
       "name": "Learn Your Lesson - Photay Remix",
       "url": "https://open.spotify.com/track/3s8yxBdiXFlEi6y0gfGreR"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Rye Lane Vol. 1",
+        "url": "https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh"
+      },
+      "artists": [
+        {
+          "name": "Al Dobson Jr.",
+          "url": "https://open.spotify.com/artist/3YOthLzFPTgp0fEtLRUoES"
+        },
+        {
+          "name": "Reginald Omas Mamode",
+          "url": "https://open.spotify.com/artist/5f6KVvbRDEzdb6zTNVpYZy"
+        }
+      ],
+      "duration_ms": 132864,
+      "name": "Nankoo on Keys",
+      "url": "https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -395,6 +395,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo"
+      },
+      "artists": [
+        {
+          "name": "Harvey Sutherland",
+          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
+        }
+      ],
+      "duration_ms": 376960,
+      "name": "Bamboo",
+      "url": "https://open.spotify.com/track/0tj5lFNJMzGKoQMY5uafU2"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Trips #2: Vietnam",
         "url": "https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 440341,
       "name": "Ho Chi Min",
       "url": "https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo"
-      },
-      "artists": [
-        {
-          "name": "Harvey Sutherland",
-          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
-        }
-      ],
-      "duration_ms": 376960,
-      "name": "Bamboo",
-      "url": "https://open.spotify.com/track/0tj5lFNJMzGKoQMY5uafU2"
     },
     {
       "added_at": "2021-10-08 17:36:35",

@@ -4,7 +4,7 @@
 
 > Cool beats for homework time!
 
-475 songs - 17 hr 59 min
+476 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [NEAR](https://open.spotify.com/track/72u6WlUdYIx62Z33Xvh7A4) | [SINY](https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT) | [Shinigami](https://open.spotify.com/album/47couheC4wUEeHig9mBYHW) | 1:35 | 2022-04-08 | 2022-04-22 |
 | [Neon Vision](https://open.spotify.com/track/7M2Iw9mM6J9cXSlTPJmJna) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Neon Vision](https://open.spotify.com/album/0KA0WQNv9pzBaXaNBwXVsK) | 1:35 | 2023-09-22 |  |
 | [New Growth](https://open.spotify.com/track/2I0x0mu9XbWlIfqoLoTHcj) | [titus barnacle](https://open.spotify.com/artist/5EJZmwZWIIfJvPaGPwMnyT) | [New Growth](https://open.spotify.com/album/7jgdixZrr2xvhZwWaey6bC) | 2:44 | 2023-09-22 |  |
+| [Nice & Slow](https://open.spotify.com/track/248PhgimKf2fadl85Jpahp) | [Abel Cainstro](https://open.spotify.com/artist/5CPBSgpTzpVWoLHc5sCLgk) | [Nice & Slow](https://open.spotify.com/album/2qjuhm2zAbotesLj3pOK49) | 2:05 | 2023-09-22 |  |
 | [nightbefore](https://open.spotify.com/track/0jHMnNlipupeMqodQ4CT2j) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [ili](https://open.spotify.com/album/3D8ATLRSxBxi5qIAmNEJM2) | 1:32 | 2022-04-08 | 2022-11-20 |
 | [nightbefore](https://open.spotify.com/track/3zT3IP0oKCCC3y053oTxfq) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [ili](https://open.spotify.com/album/0XYhq9IUqFfBsHpTyZfEmi) | 1:32 | 2022-07-08 | 2023-09-23 |
 | [Nine One Nine](https://open.spotify.com/track/56Bovd4TcOgv6LbVpSMgh8) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Carolina Sound](https://open.spotify.com/album/0Vux1XegJB79Un1aRtrRog) | 2:16 | 2022-04-08 | 2022-04-22 |
@@ -448,7 +449,7 @@
 | [Two Sugars](https://open.spotify.com/track/78LwMq5kE4abuzxwFZBTpl) | [Zil Baii](https://open.spotify.com/artist/2GhKieYf0xORLI4shTjq9b) | [Two Sugars](https://open.spotify.com/album/3cm8bQErqffQQ8SMa0CXP3) | 2:37 | 2022-04-08 | 2023-09-23 |
 | [undefined](https://open.spotify.com/track/4RzY9ZLhrqDwsbTl69va0t) | [Twinkz](https://open.spotify.com/artist/1uAbd4UZwniPiJefEpZfm9) | [undefined](https://open.spotify.com/album/3qJIV0suS9ltJYxEXB1dQF) | 1:41 | 2023-09-22 |  |
 | [Undeniable](https://open.spotify.com/track/4VkuebWvS2LlxmnMjukZ21) | [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41), [Choftus Leek](https://open.spotify.com/artist/5oc0NyRrTn4F7cVJg1rTdl) | [Undeniable](https://open.spotify.com/album/6Yi9YIuFueT15dls1lblx2) | 2:34 | 2023-09-22 |  |
-| [United We Belong](https://open.spotify.com/track/29tQwha5pdWNZIbYAAo7AA) | [Frankly, We Hold](https://open.spotify.com/artist/3iWvwND7pIhG7IUtdDsFKy) | [Open Skies](https://open.spotify.com/album/1JXMg78YhoyB4Xhx9dc7sC) | 2:02 | 2022-04-08 |  |
+| [United We Belong](https://open.spotify.com/track/29tQwha5pdWNZIbYAAo7AA) | [Frankly, We Hold](https://open.spotify.com/artist/3iWvwND7pIhG7IUtdDsFKy) | [Open Skies](https://open.spotify.com/album/1JXMg78YhoyB4Xhx9dc7sC) | 2:02 | 2022-04-08 | 2023-09-24 |
 | [until tomorrow](https://open.spotify.com/track/7MNksDnfbhw9Dd1xaGFN2Q) | [Kurt Stewart](https://open.spotify.com/artist/1SzLvjYm0lQLPi3AneCpDO) | [until tomorrow](https://open.spotify.com/album/4B71U95fiuqTiJS4VEq2B9) | 1:34 | 2023-09-22 |  |
 | [Urban Sunsets](https://open.spotify.com/track/5pEDDmOo2f7jm2Vtw8I1Ms) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Urban Sunsets](https://open.spotify.com/album/1WyMhhHMhnyqwG2fe7Xkdu) | 2:10 | 2023-09-22 |  |
 | [Villa](https://open.spotify.com/track/7c9cDXMbIU0TjbzHZv3u5w) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Villa](https://open.spotify.com/album/07fZdmfX93IMGYGBSPg6HQ) | 1:57 | 2023-09-22 |  |

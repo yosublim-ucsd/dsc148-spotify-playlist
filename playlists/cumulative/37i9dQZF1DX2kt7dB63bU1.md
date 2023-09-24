@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-658 songs - 1 day 22 hr 5 min
+659 songs - 1 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Because I Love You](https://open.spotify.com/track/4nf5wpXpZ1WVF0SCdl3tLb) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [Because I Love You](https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5) | 4:10 | 2021-11-12 | 2022-10-08 |
 | [Bei Mir Bist Du Schön](https://open.spotify.com/track/5EHm4yYpUnpWcwhfJ31wUj) | [Deanne Matley](https://open.spotify.com/artist/3QU3r3Nc2oTIZ1EysGiFDH) | [Bei Mir Bist Du Schön](https://open.spotify.com/album/0M5qo0lyH2mRYbtwCauSQB) | 4:36 | 2022-01-07 | 2023-01-21 |
 | [Better Than Anything](https://open.spotify.com/track/4tgTwBJaSBtoqUnI2cEVL4) | [Mark Winkler](https://open.spotify.com/artist/761zuGWLesLMv5B6HhbSHS), [David Benoit](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) | [Better Than Anything](https://open.spotify.com/album/3x7h1t1xD5hE3XymtR8u2z) | 3:50 | 2021-01-15 | 2022-02-19 |
-| [Bewitched](https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp) | 4:06 | 2023-07-28 |  |
+| [Bewitched](https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:06 | 2023-07-28 |  |
+| [Bewitched](https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp) | 4:06 | 2023-07-28 | 2023-09-24 |
 | [Big Spender](https://open.spotify.com/track/79b8nEVYn7Od2cqY1EhPrL) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [Big Spender](https://open.spotify.com/album/2pIekKbMcTd038cgB9XJfU) | 2:27 | 2023-03-03 | 2023-03-25 |
 | [Blackbird Sing](https://open.spotify.com/track/0j4eYL0EQAAeUiKqkmQnUG) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Blackbird Sing](https://open.spotify.com/album/1TNnOqAC5n4zLuYSilIcWB) | 3:29 | 2021-03-05 | 2022-02-19 |
 | [Bloodline](https://open.spotify.com/track/0uEkDFrfTS24kzANpkfPLk) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 3:49 | 2021-11-12 | 2022-10-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: RRARI DAL TACCO, Kid Yugi
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,576 likes - 55 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,607 likes - 55 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [Pas De Salam](https://open.spotify.com/track/4odaNK2WriH7cXdTOaOxKH) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv), [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn) | [Pas De Salam](https://open.spotify.com/album/3XmmEZ7dvQw18C8KsRKWhf) | 2:39 |
 | 55 | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/album/1fhQ6ZcU9gOnp6jubU91x9) | 2:27 |
 
-Snapshot ID: `MCxhNmU1NjEyMTUzOGJkNmExMzcwMGIxZTk0YmVkYjU4ZGNiZTU4OWRm`
+Snapshot ID: `MCxjZWYxNDg2NGJmN2U0MzFjN2M2NGQzNWU0YzhkMmY3ODYxOTJlZGFh`

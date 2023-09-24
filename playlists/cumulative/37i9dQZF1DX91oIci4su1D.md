@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-746 songs - 1 day 21 hr 21 min
+747 songs - 1 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,7 @@
 | [Love Again \- Beatsole Remix](https://open.spotify.com/track/2Yi6MRvsW9fmsZfgP5Wf7J) | [Patrik Humann](https://open.spotify.com/artist/0j2Ihl9OItORphJE9uS14W), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Beatsole](https://open.spotify.com/artist/6Gs2jNsD9XkEYUJZOSx4qk) | [Love Again \(Beatsole Remix\)](https://open.spotify.com/album/4aXpEAF41R4nIrfhzsSNGx) | 3:37 | 2021-12-17 | 2022-01-08 |
 | [Love In My Heart](https://open.spotify.com/track/4kOCrZEzt3QeM5PLwQkxAm) | [Sean Mathews](https://open.spotify.com/artist/4EgcCrbZzOA0TdSfzBbIt1) | [Love In My Heart](https://open.spotify.com/album/0EyWctBuWGYoFZ7yoFocBm) | 3:50 | 2022-05-20 | 2022-05-25 |
 | [Love Is An Act of Courage](https://open.spotify.com/track/6FcvXsmVeqDcjDyHakYz60) | [Ana Criado](https://open.spotify.com/artist/74wwiRVGGmTpYiU2l1olVU), [Costa](https://open.spotify.com/artist/7IIb3I34G7MKHkscqTWPIJ) | [Love Is An Act of Courage](https://open.spotify.com/album/6FIB3ucRFLk8DPnhCer9SO) | 3:21 | 2022-07-22 | 2022-07-27 |
-| [Love Me Higher](https://open.spotify.com/track/1FeCPgiLDpRB2ItfimFUTA) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Love Me Higher](https://open.spotify.com/album/7oGwRbmzvEWpmi2NUh0P4x) | 3:45 | 2023-07-14 |  |
+| [Love Me Higher](https://open.spotify.com/track/1FeCPgiLDpRB2ItfimFUTA) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Love Me Higher](https://open.spotify.com/album/7oGwRbmzvEWpmi2NUh0P4x) | 3:45 | 2023-07-14 | 2023-09-24 |
 | [Love My Way \- Craig Connelly Remix](https://open.spotify.com/track/34oMEfdZky9etr51GYBCQf) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g), [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL) | [Love My Way \(Craig Connelly Remix\)](https://open.spotify.com/album/0zRhCMJieMUV0DY5IJ8La8) | 4:37 | 2023-06-02 |  |
 | [Love U More \(Solarstone Pure Mix\) \- Mixed](https://open.spotify.com/track/4PtpNI6JFjASuIJCCPckxV) | [Sunscreem](https://open.spotify.com/artist/0rMScAC6pl5e5tF5zrwjdI), [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [Solarstone presents Pure Trance Vol\. 9 \(mixed by Solarstone and Stoneface & Terminal\)](https://open.spotify.com/album/4ykzHbhg9DL5q1xAECvX3I) | 5:47 | 2021-12-17 | 2022-04-02 |
 | [Love You More](https://open.spotify.com/track/41KNb9756Ewaa7Smn2QSRL) | [Dave Neven](https://open.spotify.com/artist/3nmkZFOvLJkwj6r54ievPs), [Nicholas Gunn](https://open.spotify.com/artist/54EYfCxN1dGJKec029vO7S) | [Love You More](https://open.spotify.com/album/6MX16K9xqqLjPoQsArhnsN) | 3:58 | 2022-03-18 | 2023-04-09 |
@@ -716,6 +716,7 @@
 | [Visions](https://open.spotify.com/track/1avY7Gt8UXFY3niXHGj1pZ) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Visions](https://open.spotify.com/album/4lxSkbSFdXBG5aCsvCtcaZ) | 3:02 | 2021-12-17 | 2022-07-26 |
 | [Visions](https://open.spotify.com/track/1dDUV0wX5nnxiqz4MCrnRr) | [Jorza](https://open.spotify.com/artist/2QQUtKcJQ0bkubS0Titmi4), [Sherano](https://open.spotify.com/artist/2Dxe0mR6EMgSc7f72pqKq6) | [Visions](https://open.spotify.com/album/4ewVL0YFCVY1mLeLXXRIKb) | 3:22 | 2022-04-15 | 2022-06-23 |
 | [Voices From Earth](https://open.spotify.com/track/05ESlCD4zwIk8O61n2tRdA) | [Rub!k](https://open.spotify.com/artist/5U2wxAflSm2aCkV61rqhX2) | [Voices From Earth](https://open.spotify.com/album/1tANGPlVGpxDO6DNAUdoxT) | 2:57 | 2022-11-18 |  |
+| [Voltage](https://open.spotify.com/track/4RdyWfatbuMFFmkMyA0QqG) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Jordan Gill](https://open.spotify.com/artist/4SMjBNhuUVL2dqIk67vsKx) | [Voltage](https://open.spotify.com/album/6VRvE1Md5dC2XZ5GsOF2yI) | 3:50 | 2023-09-22 |  |
 | [Walk Through Shadows](https://open.spotify.com/track/288OdSeiMaRQSx2XKoGbDr) | [Maratone](https://open.spotify.com/artist/1hVS5JWJxeuMiu7sultgO7), [Saphron](https://open.spotify.com/artist/22qBHVRKKdZZURzAL4QGUZ), [Hardcode](https://open.spotify.com/artist/31DfphJBdyA0ZrWd1MWebu) | [Walk Through Shadows](https://open.spotify.com/album/0I8cOAWVy0bBnvz8ODOxgs) | 4:07 | 2022-02-04 | 2022-07-07 |
 | [Wandering Heart](https://open.spotify.com/track/3619qKPkLiI4QVTSFSAXGt) | [Mark Roma](https://open.spotify.com/artist/060FnJg6S5kH1FzOqLJePq), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Wandering Heart](https://open.spotify.com/album/19gXgcq2fnpOgiHJ35dB56) | 2:42 | 2023-06-09 |  |
 | [WARRIOR](https://open.spotify.com/track/4Nwj9lMURvCAsU6DQDuy3Q) | [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8), [Daxson](https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW) | [WARRIOR](https://open.spotify.com/album/1OnswtGIHmQubKovKfiRop) | 3:28 | 2023-02-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil",
-  "num_followers": 10935,
+  "num_followers": 10986,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDBmMmIwZWI5NjA2OWIwMGFlM2NjMDU5YjEwNTczYWY3Y2UxN2Q2",
+  "snapshot_id": "MCw5OTdhNmJjNDJjNjUxZTFiZjM0MzgzM2UyOTI3MzVlZDM3Y2Q2YjJm",
   "tracks": [
     {
       "added_at": "2023-09-22 03:01:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
+        "name": "A Volta Do Astro-Rei",
+        "url": "https://open.spotify.com/album/2LjQqmOByHVX2pHDG68w6p"
+      },
+      "artists": [
+        {
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        }
+      ],
+      "duration_ms": 152941,
+      "name": "A Volta Do Astro-Rei",
+      "url": "https://open.spotify.com/track/0PHdvnqGjOah4swvDO5qFm"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
         "name": "Promessas",
         "url": "https://open.spotify.com/album/5SzwkmVh7Udr3jRLgG2Bo3"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "A Volta Do Astro-Rei",
-        "url": "https://open.spotify.com/album/2LjQqmOByHVX2pHDG68w6p"
-      },
-      "artists": [
-        {
-          "name": "Tarcis",
-          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
-        }
-      ],
-      "duration_ms": 152941,
-      "name": "A Volta Do Astro-Rei",
-      "url": "https://open.spotify.com/track/0PHdvnqGjOah4swvDO5qFm"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Hipnose",
         "url": "https://open.spotify.com/album/3g8RNiykDYeTd0KNUc5Ri6"
       },
@@ -519,22 +519,6 @@
       "duration_ms": 209471,
       "name": "Hipnose",
       "url": "https://open.spotify.com/track/1fs5yLzGEdAWJ5smXEZ1wU"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "VxRxS",
-        "url": "https://open.spotify.com/album/4pRtgWxHewubCRQPaQnhe6"
-      },
-      "artists": [
-        {
-          "name": "V\u00edrus",
-          "url": "https://open.spotify.com/artist/1PUMdtllFKYq4Ymzduzocv"
-        }
-      ],
-      "duration_ms": 90618,
-      "name": "Andarilho",
-      "url": "https://open.spotify.com/track/7C50cr8Jasct0C4cRdNacH"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -563,6 +547,22 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
+        "name": "VxRxS",
+        "url": "https://open.spotify.com/album/4pRtgWxHewubCRQPaQnhe6"
+      },
+      "artists": [
+        {
+          "name": "V\u00edrus",
+          "url": "https://open.spotify.com/artist/1PUMdtllFKYq4Ymzduzocv"
+        }
+      ],
+      "duration_ms": 90618,
+      "name": "Andarilho",
+      "url": "https://open.spotify.com/track/7C50cr8Jasct0C4cRdNacH"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
         "name": "COLADINHO",
         "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
       },
@@ -587,26 +587,22 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Nem Me Beijou",
-        "url": "https://open.spotify.com/album/1mKB7qlzATgaGbU1bq11if"
+        "name": "Inten\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/3ilMS8oAM1s3BbGPx8vC3x"
       },
       "artists": [
         {
-          "name": "Marvyn",
-          "url": "https://open.spotify.com/artist/3XU1kxGF6EFSS0mcqMhkDU"
+          "name": "Teresa",
+          "url": "https://open.spotify.com/artist/6CkM4kAago2rgEPrx0KAgm"
         },
         {
-          "name": "Naldo Benny",
-          "url": "https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU"
-        },
-        {
-          "name": "BM Ally",
-          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
+          "name": "Ramiroquai Beats",
+          "url": "https://open.spotify.com/artist/6ge1L5pIkjedqXFNZbBbSU"
         }
       ],
-      "duration_ms": 193768,
-      "name": "Nem Me Beijou",
-      "url": "https://open.spotify.com/track/3b6XOBJg8qql5u5qwnRXK5"
+      "duration_ms": 135625,
+      "name": "Inten\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/3u2sSLxFik3vD9geQEK7Lz"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -639,22 +635,26 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Inten\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/3ilMS8oAM1s3BbGPx8vC3x"
+        "name": "Nem Me Beijou",
+        "url": "https://open.spotify.com/album/1mKB7qlzATgaGbU1bq11if"
       },
       "artists": [
         {
-          "name": "Teresa",
-          "url": "https://open.spotify.com/artist/6CkM4kAago2rgEPrx0KAgm"
+          "name": "Marvyn",
+          "url": "https://open.spotify.com/artist/3XU1kxGF6EFSS0mcqMhkDU"
         },
         {
-          "name": "Ramiroquai Beats",
-          "url": "https://open.spotify.com/artist/6ge1L5pIkjedqXFNZbBbSU"
+          "name": "Naldo Benny",
+          "url": "https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU"
+        },
+        {
+          "name": "BM Ally",
+          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
         }
       ],
-      "duration_ms": 135625,
-      "name": "Inten\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/3u2sSLxFik3vD9geQEK7Lz"
+      "duration_ms": 193768,
+      "name": "Nem Me Beijou",
+      "url": "https://open.spotify.com/track/3b6XOBJg8qql5u5qwnRXK5"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
+        "name": "Ressaca",
+        "url": "https://open.spotify.com/album/7n6OgUHqVmMddUERyTONlG"
+      },
+      "artists": [
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Ressaca",
+      "url": "https://open.spotify.com/track/6G5jevhPxuWf3bWiWosEzQ"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
         "name": "Perigo",
         "url": "https://open.spotify.com/album/1oFEEJiCKaUPk8h4yqVwvT"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Ressaca",
-        "url": "https://open.spotify.com/album/7n6OgUHqVmMddUERyTONlG"
-      },
-      "artists": [
-        {
-          "name": "Coruja Bc1",
-          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Ressaca",
-      "url": "https://open.spotify.com/track/6G5jevhPxuWf3bWiWosEzQ"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Mexe",
         "url": "https://open.spotify.com/album/1mqK9aWzwHg84PTR3ata3r"
       },
@@ -951,18 +951,22 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Deixa Falar",
-        "url": "https://open.spotify.com/album/3dHxbFlLTseVIyhHyusGqu"
+        "name": "S\u00f3 Minha",
+        "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
       },
       "artists": [
         {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+          "name": "Gabr\u00e1",
+          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
         }
       ],
-      "duration_ms": 136800,
-      "name": "Deixa Falar",
-      "url": "https://open.spotify.com/track/0FiYoFSKLu3UgbmfR6i0Ph"
+      "duration_ms": 149433,
+      "name": "S\u00f3 Minha",
+      "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -987,22 +991,18 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "S\u00f3 Minha",
-        "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
+        "name": "Deixa Falar",
+        "url": "https://open.spotify.com/album/3dHxbFlLTseVIyhHyusGqu"
       },
       "artists": [
         {
-          "name": "Gabr\u00e1",
-          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
         }
       ],
-      "duration_ms": 149433,
-      "name": "S\u00f3 Minha",
-      "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
+      "duration_ms": 136800,
+      "name": "Deixa Falar",
+      "url": "https://open.spotify.com/track/0FiYoFSKLu3UgbmfR6i0Ph"
     },
     {
       "added_at": "2023-09-22 03:01:00",

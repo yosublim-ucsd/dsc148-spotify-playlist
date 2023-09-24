@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx3vT1QCKCV.md) - [plain]
 
 > The jazz giant's classic recordings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,425 likes - 80 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,502 likes - 80 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx3vT1QCKCV.md) - [plain]
 | 65 | [Summertime](https://open.spotify.com/track/2urSBQat1mXT6bLgCunxAy) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [My Favorite Things](https://open.spotify.com/album/3nLStxdTkSzihxm7FTLzCP) | 11:37 |
 | 66 | [Iris](https://open.spotify.com/track/4NiKtErEz8AzMHw6XzXhbm) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stellar Regions \(Expanded Edition\)](https://open.spotify.com/album/7mRUsJqMx3abxYEVch43bI) | 3:53 |
 | 67 | ['Round Midnight \(feat\. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | ['Round About Midnight](https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K) | 5:55 |
-| 68 | [I Want To Talk About You \- Live At Birdland Jazzclub, New York City, NY/1963](https://open.spotify.com/track/0Gyk86QWZXG45SvjpLbu6D) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Live At Birdland](https://open.spotify.com/album/3bFxBCBwFQ8WGRghgoUxaU) | 8:10 |
+| 68 | [I Want To Talk About You \- Live At Birdland Jazzclub, New York City, NY, 10/8/1963](https://open.spotify.com/track/0Gyk86QWZXG45SvjpLbu6D) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Live At Birdland](https://open.spotify.com/album/3bFxBCBwFQ8WGRghgoUxaU) | 8:10 |
 | 69 | [Love](https://open.spotify.com/track/77cmgRVbL9Nrzs4ohbJzBQ) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Meditations](https://open.spotify.com/album/0jwbGEDOCydvlWUIhS6gGY) | 8:09 |
 | 70 | [Straight Street \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6fdLlJJC7D4wkeRVAXR6tK) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane \[Rudy Van Gelder Remaster\]](https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg) | 6:17 |
 | 71 | [Countdown \- 2020 Remaster](https://open.spotify.com/track/7aubHMiL85lZyppYOOwbwu) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(60th Anniversary Super Deluxe Edition\) \[2020 Remaster\]](https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4) | 2:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx3vT1QCKCV.md) - [plain]
 | 79 | [Milestones \(feat\. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/1xicvSO4CJ2ymqYgpk7DFh) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | [Milestones](https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv) | 5:42 |
 | 80 | [Love Thy Neighbor](https://open.spotify.com/track/1gKTf31EAVW8F57Z36uu0A) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stardust](https://open.spotify.com/album/4xqrPtNB1AmM2qFLOCZ1GW) | 9:22 |
 
-Snapshot ID: `MCwzMjViNGNhMGE0ZmE4NmNmYzBlYmQzZmU0MmNlMGJlYzE1YTIzODVm`
+Snapshot ID: `MCw0M2M5ODM1NWI0YjRkNzI1ZDA1NDRjZjhlOTBkMjhmYWU1NzA3YjU4`

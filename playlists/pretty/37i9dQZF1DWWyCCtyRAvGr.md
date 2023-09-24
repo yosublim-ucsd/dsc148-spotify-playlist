@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,048 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,109 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 61 | [Whole World's Got The Blues](https://open.spotify.com/track/025MO5zsytvjgjZiuokOyS) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Dear America](https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ) | 5:33 |
 | 62 | [I'm A Little Mixed Up](https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG) | [Betty James](https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v) | [The Chess Story 1957\-1964](https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB) | 2:51 |
 | 63 | [A Apolitical Blues](https://open.spotify.com/track/3ApqVYTzkiGRK74zw34X3X) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Sailin' Shoes](https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt) | 3:28 |
-| 64 | [One Day Closer To Home](https://open.spotify.com/track/38EnQxo9CZ5w9muuxNh1TJ) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [One Day Closer To Home](https://open.spotify.com/album/2xBkirTkPauFlljvqJWClc) | 3:48 |
-| 65 | [Caldonia](https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Savoy](https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF) | 3:32 |
-| 66 | [You Know My Love](https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues \(Deluxe Edition\)](https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ) | 4:18 |
+| 64 | [You Know My Love](https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues \(Deluxe Edition\)](https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ) | 4:18 |
+| 65 | [One Day Closer To Home](https://open.spotify.com/track/38EnQxo9CZ5w9muuxNh1TJ) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [One Day Closer To Home](https://open.spotify.com/album/2xBkirTkPauFlljvqJWClc) | 3:48 |
+| 66 | [Caldonia](https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Savoy](https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF) | 3:32 |
 | 67 | [Pretty Flowers](https://open.spotify.com/track/60vycVSlMAOiqZd7qtW9Vp) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:51 |
 | 68 | [One Scotch, One Bourbon, One Beer](https://open.spotify.com/track/0l33ve0XHG5XxKwMQPKcZk) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [One Scotch, One Bourbon, One Beer](https://open.spotify.com/album/7uDIaa0VUbDhhEA4CkqNN6) | 3:12 |
 | 69 | [Easy On The Eyes](https://open.spotify.com/track/4mEITOF0rKhIZr3rBJuwk0) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 3:31 |
@@ -86,15 +86,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 76 | [Drifting From Town To Town](https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 3:06 |
 | 77 | [Thanks, But No Thanks](https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [From The Heart Of A Woman](https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h) | 4:17 |
 | 78 | [Five Long Years](https://open.spotify.com/track/5joO3RcUHeTMjasJrjVa9a) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Outta' Season](https://open.spotify.com/album/3oKjmBZzVdDLTQWI7vf5Jg) | 3:22 |
-| 79 | [Connecticut Blues](https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 2:26 |
-| 80 | [She's Long, She's Tall \(She Weeps Like A Willow Tree\) \- Live At Cafe Au\-Go\-Go/1966](https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Live At The Cafe Au\-Go\-Go](https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd) | 3:20 |
-| 81 | [Somewhere](https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Somewhere](https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9) | 3:30 |
+| 79 | [She's Long, She's Tall \(She Weeps Like A Willow Tree\) \- Live At Cafe Au\-Go\-Go/1966](https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Live At The Cafe Au\-Go\-Go](https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd) | 3:20 |
+| 80 | [Somewhere](https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Somewhere](https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9) | 3:30 |
+| 81 | [Connecticut Blues](https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 2:26 |
 | 82 | [I Got News For You](https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp) | [Andrew Brown](https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 5:01 |
 | 83 | [Nothing But Love](https://open.spotify.com/track/4O4GPgWzFwIjMZggucEDk2) | [Rick Estrin & The Nightcats](https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U) | [Contemporary](https://open.spotify.com/album/1iarrnQhFVvqazwsGSz0G7) | 3:02 |
 | 84 | [Love on the Rocks](https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz) | [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Love on the Rocks](https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA) | 3:42 |
 | 85 | [Don't Deal With The Devil](https://open.spotify.com/track/33jJqlgkrH2iHOjoXcOj7r) | [Sean Stephen](https://open.spotify.com/artist/0wHOPf2KuDPTX1jXDw1qMp) | [Shadows and Ghosts](https://open.spotify.com/album/7MLFMguNvYpr0q0ZWOOzAa) | 3:50 |
-| 86 | [Hiding Place](https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Hiding Place](https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D) | 7:23 |
-| 87 | [I Hate These Doggone Blues](https://open.spotify.com/track/1eE6YpZjxNZg9EKOL41za7) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h) | 4:38 |
+| 86 | [I Hate These Doggone Blues](https://open.spotify.com/track/1eE6YpZjxNZg9EKOL41za7) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h) | 4:38 |
+| 87 | [Hiding Place](https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Hiding Place](https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D) | 7:23 |
 | 88 | [I'm on My Way](https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 3:11 |
 | 89 | [Reconsider Baby \- Remastered](https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:00 |
 | 90 | [Sitting At Home Alone](https://open.spotify.com/track/3y5yJbyAJcCSWJmUF7Fi8d) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Try It...You Might Like It: GA\-20 Does Hound Dog Taylor](https://open.spotify.com/album/4d9H4axCobgD9iuMsP3XCj) | 4:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 99 | [Gone For Good](https://open.spotify.com/track/4DfTU1lBVwrQvFLnpBbXLF) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 2:58 |
 | 100 | [I Need Love So Bad](https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 2:36 |
 
-Snapshot ID: `MCw3MzhmNDNhZGY2MjA3MmQ0MThmNzE5NGM4ODM5YjZlYjBlYjQzNDg5`
+Snapshot ID: `MCw5Y2FhNGM2ZDE0YmE5MjViYmUzYjFjNjJjNDBmNWUwZWZhMzkwZDkw`

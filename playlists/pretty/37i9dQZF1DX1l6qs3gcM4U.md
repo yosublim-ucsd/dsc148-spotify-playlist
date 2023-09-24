@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Dj Black Spygo, Djodje and Chelsea Dinorath.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,796 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,878 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 86 | [Apaixonado](https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Cláudio Ismael](https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo) | [Visão](https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d) | 3:34 |
 | 87 | [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO) | 3:59 |
 | 88 | [Fica Parado \(feat\. C4 Pedro\)](https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Mais de Mim](https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi) | 3:48 |
-| 89 | [Si Ki Min Krè](https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Si Ki Min Krè](https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW) | 2:39 |
-| 90 | [Já Deu](https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Já Deu](https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G) | 3:47 |
+| 89 | [Já Deu](https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Já Deu](https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G) | 3:47 |
+| 90 | [Si Ki Min Krè](https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Si Ki Min Krè](https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW) | 2:39 |
 | 91 | [Teu Ego](https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ) | [Ivan Alekxei](https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Teu Ego](https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa) | 4:46 |
 | 92 | [Infinito](https://open.spotify.com/track/2e3KTRfz4appswSpkawQid) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [INFINITO](https://open.spotify.com/album/3LHg9Q9UzF2Ak9CvIqLzj3) | 3:19 |
 | 93 | [Reagi](https://open.spotify.com/track/28TKKqjvFEzjdySF7xqLr9) | [Elsy](https://open.spotify.com/artist/0MQ5pkCrgpk3D9efPa4vSu) | [Reagi](https://open.spotify.com/album/5H2uPj4d6xWVUDZvrqFPtr) | 3:38 |
 | 94 | [Corno](https://open.spotify.com/track/1siCdFLHxIxRguAO1Q7NND) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Esperado](https://open.spotify.com/album/53WRpFhBqEq4McKmLeURPr) | 3:30 |
 | 95 | [Ser Feliz](https://open.spotify.com/track/4tb70HZ8PwboF7aGGVBl1I) | [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd), [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Ser Feliz](https://open.spotify.com/album/7uTQAEBWfbze3iYIfOqmdR) | 3:25 |
-| 96 | [Saudades](https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27) | [Érica Boaventura](https://open.spotify.com/artist/1iCTkpYE0TcjFrlpX8LPYg) | [Saudades](https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO) | 4:09 |
+| 96 | [Pesadelo](https://open.spotify.com/track/14ARu7hPD42NU1adhNPCo0) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Pesadelo](https://open.spotify.com/album/3dnAjufiPKEgkngtFr8dcR) | 3:32 |
 | 97 | [Do Teu Jeito](https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Do Teu Jeito](https://open.spotify.com/album/2vBdOoAaFXejJio7jSoZdW) | 3:13 |
-| 98 | [Pele Negra](https://open.spotify.com/track/1Y2alA2MIN3Qpj8T6yAxJN) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Pele Negra](https://open.spotify.com/album/0f21KuFAIbz8Bw7ExD1koZ) | 4:05 |
-| 99 | [Sentimento](https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Filho do Zua](https://open.spotify.com/artist/08HE59FnzdSLSYWuesN8hm) | [Sentimento](https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3) | 3:12 |
+| 98 | [Saudades](https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27) | [Érica Boaventura](https://open.spotify.com/artist/1iCTkpYE0TcjFrlpX8LPYg) | [Saudades](https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO) | 4:09 |
+| 99 | [Pele Negra](https://open.spotify.com/track/1Y2alA2MIN3Qpj8T6yAxJN) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Pele Negra](https://open.spotify.com/album/0f21KuFAIbz8Bw7ExD1koZ) | 4:05 |
 | 100 | [Cara Trancada](https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ) | [KONSTANTINO](https://open.spotify.com/artist/4zdhRvYNGW2zd5f4yarhdJ) | [Cara Trancada](https://open.spotify.com/album/1K4ppTJiB80RfqNKA0B7rI) | 4:16 |
 
-Snapshot ID: `MCw5MjRhYTNjMzYwYTViYWZjZGE3YzFlNDk5OGZhYWRkMzc0MjQwYWNk`
+Snapshot ID: `MCw1ODI0ZjJmMGE3OTY2ZWE4M2E4MDg3MTI2MTZkM2NiNTkzZjk2Mjgy`

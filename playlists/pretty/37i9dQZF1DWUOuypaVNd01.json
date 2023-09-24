@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Big Bllakk",
-  "num_followers": 32948,
+  "num_followers": 32974,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWU1ODk0ZGJiZWZmNjIzNGU2MDFjZTYzMzE5NDMwYmY0OGZmNjNm",
+  "snapshot_id": "MCw5MmIzNmI1MmVjOTY0ODZjNDk0ZjgwY2JiY2YyZjM4OTJkMzI5N2M5",
   "tracks": [
     {
       "added_at": "2023-09-04 13:49:57",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
+        "name": "FILHO PR\u00d3DIGO 2",
+        "url": "https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2"
+      },
+      "artists": [
+        {
+          "name": "Flacko",
+          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
+        }
+      ],
+      "duration_ms": 133168,
+      "name": "RJ CLIMA HOSTIL",
+      "url": "https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx"
+    },
+    {
+      "added_at": "2023-09-04 13:49:57",
+      "album": {
         "name": "Homem da Noite",
         "url": "https://open.spotify.com/album/09scSCeX8e2a5J5HAB6riJ"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
-        "name": "FILHO PR\u00d3DIGO 2",
-        "url": "https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2"
+        "name": "Mente Livre 2.0",
+        "url": "https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD"
       },
       "artists": [
         {
-          "name": "Flacko",
-          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
         }
       ],
-      "duration_ms": 133168,
-      "name": "RJ CLIMA HOSTIL",
-      "url": "https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx"
+      "duration_ms": 208111,
+      "name": "Mente Livre 2.0",
+      "url": "https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX"
     },
     {
       "added_at": "2023-09-04 13:49:57",
@@ -1111,22 +1127,6 @@
       "duration_ms": 118153,
       "name": "Chav\u00e3o",
       "url": "https://open.spotify.com/track/5sz8xfbQ7dkr4ggUZpATok"
-    },
-    {
-      "added_at": "2023-09-04 13:49:57",
-      "album": {
-        "name": "Mente Livre 2.0",
-        "url": "https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD"
-      },
-      "artists": [
-        {
-          "name": "Leal",
-          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
-        }
-      ],
-      "duration_ms": 208111,
-      "name": "Mente Livre 2.0",
-      "url": "https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX"
     },
     {
       "added_at": "2023-09-04 13:49:57",

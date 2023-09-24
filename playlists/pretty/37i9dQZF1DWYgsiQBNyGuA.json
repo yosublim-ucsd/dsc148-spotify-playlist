@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 65955,
+  "num_followers": 66037,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTZiNTBiNDllZDc4MDllNjcyMTUxMDUwOWU2MTdlZjc5MmMwYzMz",
+  "snapshot_id": "MCwyMTFhNTA0MzYyYzljOTcyMjYwMWE2YmJiYzdkOWRkYmUxZmRjYWZl",
   "tracks": [
     {
       "added_at": "2023-08-15 12:19:23",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 172863,
-      "name": "O Me O My",
-      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
-    },
-    {
-      "added_at": "2023-08-15 12:19:23",
-      "album": {
         "name": "Run Home Slow",
         "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 187973,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0"
+    },
+    {
+      "added_at": "2023-08-15 12:19:23",
+      "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 172863,
+      "name": "O Me O My",
+      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
     },
     {
       "added_at": "2023-08-15 12:19:23",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
-        "name": "Comin' From Where I'm From",
-        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
       },
       "artists": [
         {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 273893,
-      "name": "Cornbread, Fish & Collard Greens",
-      "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
+      "duration_ms": 249693,
+      "name": "Man of the Universe",
+      "url": "https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM"
     },
     {
       "added_at": "2023-08-15 12:19:23",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+        "name": "Comin' From Where I'm From",
+        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
         }
       ],
-      "duration_ms": 249693,
-      "name": "Man of the Universe",
-      "url": "https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM"
+      "duration_ms": 273893,
+      "name": "Cornbread, Fish & Collard Greens",
+      "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
     },
     {
       "added_at": "2023-08-15 12:19:23",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "These Eyes",
-      "url": "https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7"
-    },
-    {
-      "added_at": "2023-08-15 12:19:23",
-      "album": {
         "name": "Rahsaan Patterson",
         "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 293400,
       "name": "Spend The Night",
       "url": "https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4"
+    },
+    {
+      "added_at": "2023-08-15 12:19:23",
+      "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "These Eyes",
+      "url": "https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7"
     },
     {
       "added_at": "2023-08-15 12:19:23",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
+        "name": "Soul Revolution",
+        "url": "https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8"
+      },
+      "artists": [
+        {
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Positivity",
+      "url": "https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz"
+    },
+    {
+      "added_at": "2023-08-15 12:19:23",
+      "album": {
         "name": "Take You There",
         "url": "https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 301960,
       "name": "The Way I Feel",
       "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
-    },
-    {
-      "added_at": "2023-08-15 12:19:23",
-      "album": {
-        "name": "Soul Revolution",
-        "url": "https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8"
-      },
-      "artists": [
-        {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "Positivity",
-      "url": "https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz"
     },
     {
       "added_at": "2023-08-15 12:19:23",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
+        "name": "Movin' On",
+        "url": "https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID"
       },
       "artists": [
         {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
         }
       ],
-      "duration_ms": 286960,
-      "name": "True",
-      "url": "https://open.spotify.com/track/12Coc139hXMlwp2CinTQ2N"
+      "duration_ms": 214666,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn"
     },
     {
       "added_at": "2023-08-15 12:19:23",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
-        "name": "Movin' On",
-        "url": "https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID"
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
       },
       "artists": [
         {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
         }
       ],
-      "duration_ms": 214666,
-      "name": "Movin' On",
-      "url": "https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn"
+      "duration_ms": 286960,
+      "name": "True",
+      "url": "https://open.spotify.com/track/12Coc139hXMlwp2CinTQ2N"
     },
     {
       "added_at": "2023-08-15 12:19:23",

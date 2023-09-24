@@ -462,7 +462,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 310000,
       "name": "Bheemla Nayak Title Song",
       "url": "https://open.spotify.com/track/6BiLK0zV9MULmHcM7G7L2W"
@@ -654,8 +654,16 @@
       },
       "artists": [
         {
-          "name": "Raghu Dixit, Sooraj Santhosh, Rita",
-          "url": "https://open.spotify.com/artist/2EKt6uCM7nHLvkzJ1Cbab1"
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+        },
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        },
+        {
+          "name": "Rita Thyagarajan",
+          "url": "https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF"
         }
       ],
       "date_added": "2023-08-07",
@@ -1604,7 +1612,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 237474,
       "name": "Gusa Gusa Lade",
       "url": "https://open.spotify.com/track/3Z8mfS2fQweEvT9QW9FFGx"
@@ -3502,7 +3510,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 240408,
       "name": "Pranaamam",
       "url": "https://open.spotify.com/track/75PLRXczgeUtwD9mFzDVsB"
@@ -4130,7 +4138,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 278188,
       "name": "Super Machi",
       "url": "https://open.spotify.com/track/3WTHnUPLqVZXSw54PFLtiL"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Feat\. FMK
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,239 likes - 95 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,396 likes - 95 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 94 | [Fugaz](https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:11 |
 | 95 | [TRIP](https://open.spotify.com/track/4qJZMkZWLkjXsddoBzAgpb) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [TRIP](https://open.spotify.com/album/4R2oCsWPmQLLfRZUZwpjzh) | 2:55 |
 
-Snapshot ID: `MCw4OGFjZDFmMDBhYzJhZTExOWI1YTFiNzgzMTVmYmFhNzk1NTIyNzRh`
+Snapshot ID: `MCwwNzIyZWZkMTBiNDVmZDVlNDVkMzdmNGVkMWZkMDllOTM3YmViZTA4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: LANY
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,403 likes - 68 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,426 likes - 68 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 39 | [Copenhagen](https://open.spotify.com/track/28E1szJlW78BvA6HpCybgH) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [Copenhagen](https://open.spotify.com/album/5UlocQNBaXROdSOgONgpor) | 3:29 |
 | 40 | [Givin Up](https://open.spotify.com/track/3ioUU8TzRPMsN8C4sFi1fz) | [Saint Blonde](https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq) | [Givin Up](https://open.spotify.com/album/63RtHHVvzPc2dXa8fdq3f9) | 2:28 |
 | 41 | [fckboys](https://open.spotify.com/track/1FOYiATDkLEbiYwD8HmPxE) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [fckboys](https://open.spotify.com/album/70aJ0Nb1J8GVJWs7luRSjp) | 2:43 |
-| 42 | [Right Here, For Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 |
+| 42 | [Right Here, for Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 |
 | 43 | [Internet Boy](https://open.spotify.com/track/4CIWbTFSV1WX8WjnkgHBY2) | [Bradley Kim](https://open.spotify.com/artist/3nJiC4ijSQZ1HHJB0gqJWM) | [Internet Boy](https://open.spotify.com/album/4i9NHE0Z6lfnQMzuY4gOA4) | 2:59 |
 | 44 | [Loser](https://open.spotify.com/track/17fCb9V3l6TDdZgITI2JxB) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Loser](https://open.spotify.com/album/3fAGoxl8Jutg1VmAcA0pgy) | 2:09 |
 | 45 | [See You Later](https://open.spotify.com/track/1Gu9Ub6kjlbsk64jY7Qjgs) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [See You Later](https://open.spotify.com/album/3F5wWjyaj0raSg2JFK1Yqw) | 2:35 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 67 | [I've Loved You For So Long](https://open.spotify.com/track/0j1AlYnUBAiYOuVBDwCT20) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/1d4SG4S7oEKwHcPCyQsC2J) | 2:56 |
 | 68 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 
-Snapshot ID: `MCxlMzgwMTRjZTFjYWU5MzY1NWI3YjBjNmJiYjhmZWM3MDk5NjEzMDA1`
+Snapshot ID: `MCwzMjk1MWRkZTEwMzNhMjkxNzZjM2RjZWZjOTY3MmEwYzRkOTYzOWY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,075 likes - 140 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,088 likes - 140 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 4 | [Monster Mash](https://open.spotify.com/track/5VnJN193do97HJy4aSY92j) | [Kid Drew and the Kids](https://open.spotify.com/artist/0ZZEIFI5YjLqOo4qc5Awj3) | [Kid Drew and the Kids Present: Spooky Halloween Party Music](https://open.spotify.com/album/6ejSEMxGjq0F9aVPHK0y9a) | 3:13 |
 | 5 | [Pokemon Theme](https://open.spotify.com/track/2VPRDWwo9NR9WcAjsLuKBl) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [Kids Halloween Movie Themes](https://open.spotify.com/album/1NFW9JfxAZTDtpyB0fEQfN) | 3:18 |
 | 6 | [Monster Party](https://open.spotify.com/track/7niABza1kHX9RmKGxpXVnb) | [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Monster Party](https://open.spotify.com/album/6S6SItFon75RaEaRSmKonV) | 1:43 |
-| 7 | [Time For Halloween](https://open.spotify.com/track/5mBxvbUwiDBkt5eBsN45PK) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [Blue's Sing\-Along Spectacular](https://open.spotify.com/album/0pxwh5JfIYlY8IGwWnsSGZ) | 1:25 |
+| 7 | [Time For Halloween](https://open.spotify.com/track/2FbFxJEQSnG6TpAYmDm6ZU) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [Spooky Scary Tunes for Kids](https://open.spotify.com/album/23PKfY96XSY26OeLKyJucM) | 1:25 |
 | 8 | [Halloween Floor is Lava](https://open.spotify.com/track/0qeUh1qhHUyBWEUfQhp67I) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Halloween Floor is Lava](https://open.spotify.com/album/401zoIGOIdNruRAcb9jhiz) | 3:39 |
 | 9 | [Old MacDonald's Haunted Farm](https://open.spotify.com/track/5f4pk2mhjFOmdpFj1HXxlr) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 2:21 |
 | 10 | [Goosebumps](https://open.spotify.com/track/5XZz9OwrEQJVpgkntifwzk) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Monsters & Goosebumps](https://open.spotify.com/album/7deHbl0kyfHgiOK5OzYowH) | 2:21 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 139 | [Witch Doctor](https://open.spotify.com/track/2Eyv5QwBHpWIJFOzIXKnm0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 2:25 |
 | 140 | [Scooby Doo, Where Are You?](https://open.spotify.com/track/4tHL2ARKN75Romnwr6nWiH) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 1:40 |
 
-Snapshot ID: `MCwyZDQ2OWE0YmY4MmNjNDg0ZGI4ZGYzODRlYTdiMjliYzYxNDM3ZWJm`
+Snapshot ID: `MCxjMWJjZGJmNDQ5ZGFjZmQwNzEyZTIwZmE3ODIyMTkwZmM5ZmQ5MmJj`

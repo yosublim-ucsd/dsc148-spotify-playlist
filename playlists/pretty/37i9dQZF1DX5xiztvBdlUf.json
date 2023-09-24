@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 598347,
+  "num_followers": 598522,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDgyNmYzMDA2MjBmM2JhODA0YjdhYTg3MmIxZGE5NWZjODI4ZDll",
+  "snapshot_id": "MCwwMTljNjQ2MjgzMzI2NmQ4YzUzNjdkZTVhNThlZmEzY2ZjMzE1ZmNh",
   "tracks": [
     {
       "added_at": "2023-09-15 16:02:45",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
-      },
-      "artists": [
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 193064,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
         "name": "Caprice",
         "url": "https://open.spotify.com/album/0zv9KQqPhVAPleEi8anQ4R"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 230839,
       "name": "Caprice",
       "url": "https://open.spotify.com/track/6UJTyXQvDe3hv8NQXOKOCl"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 193064,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
+        "name": "Cenote",
+        "url": "https://open.spotify.com/album/1TXpoAyR5Z3q3IixFnUiwf"
+      },
+      "artists": [
+        {
+          "name": "Sainte Vie",
+          "url": "https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk"
+        }
+      ],
+      "duration_ms": 298335,
+      "name": "Cenote",
+      "url": "https://open.spotify.com/track/6kZOfRM1yZUyLGATRhPTuf"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
         "name": "Cynnes",
         "url": "https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 474093,
       "name": "Silence & Secrets - Black Coffee Remix",
       "url": "https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
-        "name": "Cenote",
-        "url": "https://open.spotify.com/album/1TXpoAyR5Z3q3IixFnUiwf"
-      },
-      "artists": [
-        {
-          "name": "Sainte Vie",
-          "url": "https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk"
-        }
-      ],
-      "duration_ms": 298335,
-      "name": "Cenote",
-      "url": "https://open.spotify.com/track/6kZOfRM1yZUyLGATRhPTuf"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -779,26 +779,6 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "Roads Of Gold",
-        "url": "https://open.spotify.com/album/5j2ZsWodikhixJNHhUCGKq"
-      },
-      "artists": [
-        {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        },
-        {
-          "name": "Redward Martin",
-          "url": "https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2"
-        }
-      ],
-      "duration_ms": 310602,
-      "name": "Roads Of Gold - Edit",
-      "url": "https://open.spotify.com/track/1M1g0SAJavX4mMLqEqKTDn"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
         "name": "Nefertari",
         "url": "https://open.spotify.com/album/3bx0Oxn4rZeOpTds2RVX6h"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 241160,
       "name": "Nefertari",
       "url": "https://open.spotify.com/track/7lN1zrd3LsTqGeaPODv2IP"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
+        "name": "Roads Of Gold",
+        "url": "https://open.spotify.com/album/5j2ZsWodikhixJNHhUCGKq"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "Redward Martin",
+          "url": "https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2"
+        }
+      ],
+      "duration_ms": 310602,
+      "name": "Roads Of Gold - Edit",
+      "url": "https://open.spotify.com/track/1M1g0SAJavX4mMLqEqKTDn"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "Be Here and Now",
-        "url": "https://open.spotify.com/album/3pcwig8qvCceUoeo4xhLD7"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 209699,
-      "name": "Be Here and Now",
-      "url": "https://open.spotify.com/track/3uvfxpOixHqWdwpFfJb48F"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
         "name": "Inner Child (Patrice B\u00e4umel Remix)",
         "url": "https://open.spotify.com/album/4AVJ3orR0WTENQDm3mn67f"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 253195,
       "name": "Inner Child - Patrice B\u00e4umel Remix",
       "url": "https://open.spotify.com/track/6oFYHUfDjBTGvR5M3RzSUE"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
+        "name": "Be Here and Now",
+        "url": "https://open.spotify.com/album/3pcwig8qvCceUoeo4xhLD7"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 209699,
+      "name": "Be Here and Now",
+      "url": "https://open.spotify.com/track/3uvfxpOixHqWdwpFfJb48F"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
+        "name": "Cold Shoulder (Helsloot Remix)",
+        "url": "https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st"
+      },
+      "artists": [
+        {
+          "name": "Words of Ni\u014d",
+          "url": "https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "Cold Shoulder - Helsloot Remix",
+      "url": "https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
       },
@@ -1363,22 +1383,18 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "Cold Shoulder (Helsloot Remix)",
-        "url": "https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st"
+        "name": "Kilian",
+        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
       },
       "artists": [
         {
-          "name": "Words of Ni\u014d",
-          "url": "https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq"
-        },
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
         }
       ],
-      "duration_ms": 246466,
-      "name": "Cold Shoulder - Helsloot Remix",
-      "url": "https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP"
+      "duration_ms": 420115,
+      "name": "Kilian",
+      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -1395,22 +1411,6 @@
       "duration_ms": 224262,
       "name": "Home",
       "url": "https://open.spotify.com/track/2C63v8jhFe8q2SnAliA3ql"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
-        "name": "Kilian",
-        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
-      },
-      "artists": [
-        {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
-        }
-      ],
-      "duration_ms": 420115,
-      "name": "Kilian",
-      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "Yesterday Lovers EP",
-        "url": "https://open.spotify.com/album/1ag11nTE38FpiVbTFo1uMD"
-      },
-      "artists": [
-        {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
-        }
-      ],
-      "duration_ms": 395662,
-      "name": "Yesterday Lovers",
-      "url": "https://open.spotify.com/track/01bh3fz0TFPA1Onsfj4nA4"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 241010,
       "name": "Sway",
       "url": "https://open.spotify.com/track/5GkG36tzfeuSaeW5TROrE4"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
+        "name": "Yesterday Lovers EP",
+        "url": "https://open.spotify.com/album/1ag11nTE38FpiVbTFo1uMD"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "duration_ms": 395662,
+      "name": "Yesterday Lovers",
+      "url": "https://open.spotify.com/track/01bh3fz0TFPA1Onsfj4nA4"
     },
     {
       "added_at": "2023-09-15 16:02:45",

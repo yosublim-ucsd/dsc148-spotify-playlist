@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: Jocelyn 9.4.0
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,871 likes - 72 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,883 likes - 72 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [r u happy now?](https://open.spotify.com/track/4G2avvdC2denJm9d244fez) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [r u happy now?](https://open.spotify.com/album/6HBnBlT0skv0BgIE4lcY16) | 2:55 |
 | 2 | [whatnot \(ft\. 木木mumu\)](https://open.spotify.com/track/0eJRc05BRVvdUekEGko7oj) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [木木mumu](https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL) | [whatnot](https://open.spotify.com/album/5QCbbm1puBIptPXmIHbUJJ) | 2:10 |
-| 3 | [MEGUANXIDEYO](https://open.spotify.com/track/4RDEVasHPf6KH7yTCjpL47) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [MEGUANXIDEYO](https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu) | 3:40 |
+| 3 | [MEIGUANXIDEYO](https://open.spotify.com/track/4RDEVasHPf6KH7yTCjpL47) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [MEIGUANXIDEYO](https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu) | 3:40 |
 | 4 | [再為你做點什麼](https://open.spotify.com/track/1YMhGvNA0ZN5MgJ8HsCYfa) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 4:17 |
 | 5 | [HIGHLIGHT](https://open.spotify.com/track/27umyRyWYx4CCiMPtlhXbG) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [Be a Lover](https://open.spotify.com/album/5tfoS4WlDJ9iKUFma08JUq) | 2:54 |
 | 6 | [知道你過得不太好我就放心了 \(feat\. Teezy\)](https://open.spotify.com/track/1XqSUfBkz9jacZOgOkwy2C) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [Teezy](https://open.spotify.com/artist/5P4IE6bIqsXDKHf5Z7vmeA) | [不遠處](https://open.spotify.com/album/3OfDmuDl9aMma0I8JxtYeA) | 3:34 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [揣摩](https://open.spotify.com/track/2iVgPTx2uGBwHzre52clg3) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 3:51 |
 | 72 | [東京夜晚聽著老派情歌](https://open.spotify.com/track/3e2FIKYgEfNb2PJObKCBfk) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [東京夜晚聽著老派情歌](https://open.spotify.com/album/4Ur25iRCAqsl1Aik9NNvJD) | 3:49 |
 
-Snapshot ID: `MCxhNTk4ODlhZTE2NWU3ZjQ5OThjMDdhM2I4YjQ3Y2NiZWU4ZGE2OTdi`
+Snapshot ID: `MCxjOGRmMDgzOTVlYTUzNTlkZTIzNjEyMmM3NjU5ZDhlODY4N2JlODJm`

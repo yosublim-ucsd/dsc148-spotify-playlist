@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,244 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,287 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 |
 | 50 | [INGEN KAN SLÅ \(BOTEN ANNA\)](https://open.spotify.com/track/1pLglW5mDscxmbo32uaf3U) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [INGEN KAN SLÅ \(BOTEN ANNA\)](https://open.spotify.com/album/3wiC6E5VBDno4edLIFcWKY) | 2:09 |
 
-Snapshot ID: `MCxjZGRiNGY5MzNhOWUwYjI2ZTM5ODNkZGEyZjE5MzYyZjUxNGVkNzBi`
+Snapshot ID: `MCw3NzE3NmUyZjJmYTA3NDNkMTczMjhlYjU3MmM0N2RiYzhjNTViMmIy`

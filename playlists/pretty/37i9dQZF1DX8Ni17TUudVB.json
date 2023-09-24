@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 139652,
+  "num_followers": 139672,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzliNjE1MWJlNjEyZGEwYzBhMTYwMTAzZTNkNGRiMzk2ZDAxNTM1",
+  "snapshot_id": "MCwwZTdmNDkzYTRhNTVkMTc0ODdiMTFlMDU0Y2Y3OWUyMmY3ODQzZDli",
   "tracks": [
     {
       "added_at": "2023-09-11 15:59:41",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "Bad",
-        "url": "https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        }
-      ],
-      "duration_ms": 169910,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 304512,
       "name": "SICKO MODE - Skrillex Remix",
       "url": "https://open.spotify.com/track/0u695M7KyzXaPIjpEbxOkB"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 169910,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"
     },
     {
       "added_at": "2023-09-11 15:59:41",

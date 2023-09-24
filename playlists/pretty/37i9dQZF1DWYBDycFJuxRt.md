@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Mr.Children \*👉 <a href="https://spice.eplus.jp/articles/322246?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,104 likes - 79 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,173 likes - 79 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 78 | [ゲゲゲの鬼太郎 \(DUB\)](https://open.spotify.com/track/7iIcGjmiXobTxghRDJWLx2) | [KODAMA AND THE DUB STATION BAND](https://open.spotify.com/artist/6EI7t3mczkCqKUNIsFtyKH) | [ゲゲゲの鬼太郎 \(DUB\)](https://open.spotify.com/album/0H1Qoa0H3PH1ZCZcgLMXRQ) | 4:23 |
 | 79 | [サニーサイドへようこそ \- ウ山あまね Remix](https://open.spotify.com/track/38gFkxCWV1x7GF48j7zCgs) | [笹川真生](https://open.spotify.com/artist/4S3tEYMH3Mjdbn4mkBvqi0), [Amane Uyama](https://open.spotify.com/artist/3CyPpYzll6TJcJ0RTnHHVa) | [サニーサイドへようこそ \(ウ山あまね Remix\)](https://open.spotify.com/album/28zzko2OgECsQ6lu0E2Orp) | 3:52 |
 
-Snapshot ID: `MCxlZTIwNzgyNmY1ZDAzZTI1YWFiY2ZmYzQ5Mjc4M2MyZjI5ZDIwZDBk`
+Snapshot ID: `MCxhNDZjMmQxMmFhYzM4YWQzMTRiMGI1Njg0MDAzODJhMDZjMDk4OTY0`

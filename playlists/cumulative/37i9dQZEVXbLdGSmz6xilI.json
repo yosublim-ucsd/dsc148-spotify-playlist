@@ -975,36 +975,6 @@
     },
     {
       "album": {
-        "name": "Rap Vi\u1ec7t M\u00f9a 3 - V\u00f2ng 2",
-        "url": "https://open.spotify.com/album/4YSxnHCean6ZAsYwB1V9nW"
-      },
-      "artists": [
-        {
-          "name": "RAP VI\u1ec6T",
-          "url": "https://open.spotify.com/artist/1cPpd989kghzlZqfpP4KwL"
-        },
-        {
-          "name": "Dick",
-          "url": "https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh"
-        },
-        {
-          "name": "DT",
-          "url": "https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP"
-        },
-        {
-          "name": "UMIE",
-          "url": "https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj"
-        }
-      ],
-      "date_added": "2023-08-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 223783,
-      "name": "Anh L\u00e0 Ai? (feat. Dick, DT & UMIE)",
-      "url": "https://open.spotify.com/track/6HpkHTTwfVmSoopeloHqOp"
-    },
-    {
-      "album": {
         "name": "Rap Vi\u1ec7t M\u00f9a 3 (2023) - T\u1eadp 8",
         "url": "https://open.spotify.com/album/6t6MpiPsDCgZutjx2BQF5Z"
       },
@@ -1032,6 +1002,36 @@
       "duration_ms": 223783,
       "name": "Anh L\u00e0 Ai? (feat. Dick, DT & UMIE)",
       "url": "https://open.spotify.com/track/6IUEwlNgVnT5CYeBuq6DTH"
+    },
+    {
+      "album": {
+        "name": "Rap Vi\u1ec7t M\u00f9a 3 - V\u00f2ng 2",
+        "url": "https://open.spotify.com/album/4YSxnHCean6ZAsYwB1V9nW"
+      },
+      "artists": [
+        {
+          "name": "RAP VI\u1ec6T",
+          "url": "https://open.spotify.com/artist/1cPpd989kghzlZqfpP4KwL"
+        },
+        {
+          "name": "Dick",
+          "url": "https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh"
+        },
+        {
+          "name": "DT T\u1eadp Rap",
+          "url": "https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP"
+        },
+        {
+          "name": "UMIE",
+          "url": "https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223783,
+      "name": "Anh L\u00e0 Ai? (feat. Dick, DT & UMIE)",
+      "url": "https://open.spotify.com/track/6HpkHTTwfVmSoopeloHqOp"
     },
     {
       "album": {
@@ -4770,7 +4770,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 179986,
       "name": "Em iu",
       "url": "https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg"
@@ -6056,7 +6056,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 168926,
       "name": "Haegeum",
       "url": "https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1"
@@ -8657,7 +8657,7 @@
         },
         {
           "name": "DT T\u1eadp Rap",
-          "url": "https://open.spotify.com/artist/33WAQlPzHQJF1LiN1il2Qr"
+          "url": "https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP"
         }
       ],
       "date_added": "2023-09-22",
@@ -11029,6 +11029,24 @@
     },
     {
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+    },
+    {
+      "album": {
         "name": "Paint The Town Red",
         "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
       },
@@ -11040,7 +11058,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"

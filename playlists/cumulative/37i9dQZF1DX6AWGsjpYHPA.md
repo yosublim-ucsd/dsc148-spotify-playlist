@@ -4,7 +4,7 @@
 
 > Hand\-curated cuts from the vault, no record player required.
 
-261 songs - 19 hr 2 min
+262 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Kali](https://open.spotify.com/track/5MJPZdoWBTx134lpRvnCUE) | [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Kali](https://open.spotify.com/album/50ElTxt2kk7MPWWOKtw1yK) | 3:33 | 2022-08-29 | 2022-11-09 |
 | [Kane Train](https://open.spotify.com/track/0EDAZsV2t4Lh42R0mhjmXj) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Kane Train / Ur2yung](https://open.spotify.com/album/19KltJ72feDxM0ncxqE4vb) | 2:16 | 2021-12-03 | 2022-05-25 |
 | [Kite Day](https://open.spotify.com/track/1NiGKtmRQclUgYHJY1TEJo) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Kite Day](https://open.spotify.com/album/2O8b1i8Ii2WOSSWa6z2Yc5) | 5:56 | 2022-08-29 | 2022-09-16 |
-| [Koko](https://open.spotify.com/track/1Bfpf7s6E7doiTpVasSmgI) | [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr) | [E.VAX](https://open.spotify.com/album/1VBiQl2RvoMZObKGMypUWF) | 2:35 | 2021-12-03 |  |
+| [Koko](https://open.spotify.com/track/1Bfpf7s6E7doiTpVasSmgI) | [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr) | [E.VAX](https://open.spotify.com/album/1VBiQl2RvoMZObKGMypUWF) | 2:35 | 2021-12-03 | 2023-09-24 |
 | [Kısasa Kısas](https://open.spotify.com/track/2GSAfjcioTeJ9kecoC1E5Y) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Kısasa Kısas b/w Erkilet Güzeli](https://open.spotify.com/album/6iHhK9eih54hFVVgdbXdY1) | 3:49 | 2021-12-03 | 2022-07-29 |
 | [L.D.R.A](https://open.spotify.com/track/3dE5JkCceos3FiuQmTKfOx) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe), [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Wish & Fonda Rae](https://open.spotify.com/artist/4tlwGA9FRTxbAiBTW1rLJc) | [Tomorrow’s People](https://open.spotify.com/album/0qk4ovxWz0en2H2HIqz2wT) | 4:29 | 2021-12-03 | 2022-07-22 |
 | [La femme d'argent](https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 7:06 | 2022-07-21 | 2023-06-02 |
@@ -162,6 +162,7 @@
 | [Morning Sunrise](https://open.spotify.com/track/5Fse8BFC410yZ4kpVqBCHt) | [Weldon Irvine](https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL) | [The Sisters](https://open.spotify.com/album/1yixr0hxXd5h9L9nOAMcBP) | 3:19 | 2022-02-10 | 2022-06-24 |
 | [Mountain](https://open.spotify.com/track/1th4PAEaEQEV0NWAFfwWvv) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/3oF1tzg93AKNKRcX2sdABL) | 2:15 | 2022-09-15 | 2023-09-03 |
 | [Mountain](https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB) | 2:15 | 2021-12-03 | 2023-02-03 |
+| [Movementt](https://open.spotify.com/track/1zYA5cNkQnFyyVOZaY7lqO) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K) | 3:33 | 2023-07-18 |  |
 | [Movementt](https://open.spotify.com/track/41eywgVC3YN7RmdZNmwpyC) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4MnjVFnInqwCgHBqt4e6zN) | 3:33 | 2021-12-03 | 2022-09-16 |
 | [Moving Up](https://open.spotify.com/track/4fVc3sWHB984OYDaPQotTa) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 3:05 | 2021-12-03 | 2022-07-27 |
 | [Mushroom Abolitionist](https://open.spotify.com/track/5vaBJ81tv092hKGtV7opBv) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Like A Good Old Friend](https://open.spotify.com/album/0S7gwzr5kWmKpEuVdQtqip) | 4:44 | 2021-12-03 | 2022-06-12 |

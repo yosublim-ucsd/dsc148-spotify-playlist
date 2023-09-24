@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-195 songs - 8 hr 41 min
+196 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,8 +168,9 @@
 | [Thriller \- Halloween Party Mix](https://open.spotify.com/track/243fOom6o8pnOPYmiCJCpd) | [The Evolved](https://open.spotify.com/artist/7xSBnqOw8Dz4kNiHvVvbNt) | [Halloween Fun and Games for Kids](https://open.spotify.com/album/7BB3XXoA8ilVktiW4Vn8zv) | 5:30 | 2021-08-30 |  |
 | [Thriller \- Kids Halloween Party Mix](https://open.spotify.com/track/3buVhJpLfKO5hTxNw3mTgQ) | [Kids Halloween Party Band](https://open.spotify.com/artist/5aC89Ulm1BfnveKgEVgbzM) | [Halloween Songs and Tunes \- 45 Classic Songs for Your Halloween Party](https://open.spotify.com/album/7i6LyayvwuNTII8mE19cZv) | 5:30 | 2021-08-30 | 2022-07-29 |
 | [Time For Halloween](https://open.spotify.com/track/0j7NN6tiaAd9TpHSiM6XWR) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [Blue's Sing\-Along Spectacular](https://open.spotify.com/album/4DkCDgZJNNeGRA3xyKYMPQ) | 1:25 | 2021-09-10 | 2022-10-13 |
+| [Time For Halloween](https://open.spotify.com/track/2FbFxJEQSnG6TpAYmDm6ZU) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [Spooky Scary Tunes for Kids](https://open.spotify.com/album/23PKfY96XSY26OeLKyJucM) | 1:25 | 2022-10-11 |  |
 | [Time For Halloween](https://open.spotify.com/track/3iLUuK5OeQgu60vhasY27q) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [Blue's Sing\-Along Spectacular](https://open.spotify.com/album/43d5DHMVa3CbUDs9eC3RIg) | 1:25 | 2022-10-11 | 2022-11-24 |
-| [Time For Halloween](https://open.spotify.com/track/5mBxvbUwiDBkt5eBsN45PK) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [Blue's Sing\-Along Spectacular](https://open.spotify.com/album/0pxwh5JfIYlY8IGwWnsSGZ) | 1:25 | 2022-10-11 |  |
+| [Time For Halloween](https://open.spotify.com/track/5mBxvbUwiDBkt5eBsN45PK) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [Blue's Sing\-Along Spectacular](https://open.spotify.com/album/0pxwh5JfIYlY8IGwWnsSGZ) | 1:25 | 2022-10-11 | 2023-09-24 |
 | [Time Warp](https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu) | [Little Nell](https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke), [Patricia Quinn](https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs), [Richard O'Brien](https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:19 | 2021-09-10 |  |
 | [Toilet Paper Mummy](https://open.spotify.com/track/5LiH5hCxDDxvFG2Zo2n8dr) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Toilet Paper Mummy](https://open.spotify.com/album/3wvdzbQIUFORGuRC0RQIve) | 2:13 | 2021-10-04 | 2022-07-29 |
 | [Toilet Paper Mummy](https://open.spotify.com/track/6iFfqyU2EA0q3ei8p8sHw9) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Halloween Party](https://open.spotify.com/album/4LQzv1AK9H01DWlrgq1oOv) | 2:13 | 2021-10-04 |  |

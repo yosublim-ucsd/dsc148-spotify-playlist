@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Zach Bryan, Kane Brown, Carrie Underwood and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,528 likes - 73 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,849 likes - 73 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 72 | [No Tomorrow](https://open.spotify.com/track/7ksDauV0PbvSSW0PE7y2ek) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [No Tomorrow](https://open.spotify.com/album/18rcAg8ODdaAjwuUqD5G5e) | 3:41 |
 | 73 | [Livin on a Little](https://open.spotify.com/track/5kljKrdwgBnKG2vWAWXjt5) | [Josh Melton](https://open.spotify.com/artist/5l5SDQs2xyEidWQOw3ro6T) | [Livin on a Little](https://open.spotify.com/album/6NFffXbBviUSDXPq3QD072) | 2:51 |
 
-Snapshot ID: `MCxkNWJiOTM2MmNhZjM1MTRiZjJmYjQ3NjA2YWNiZTE5YjQyOGQxZGYw`
+Snapshot ID: `MCwwOTUyOWE5MDAwNzBlMmEzZDcwNTM4ZDEzMmEyNmNhYWU2NzY3Mzlm`

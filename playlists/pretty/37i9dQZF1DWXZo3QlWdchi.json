@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 288715,
+  "num_followers": 288776,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzQ2MzgxNTViMzU4Mzk4Nzk2ZDE0YTA1MmUzMTdlMDQyNzUyMTE2",
+  "snapshot_id": "MCw5Y2NiYzNmOTg5NWU1ZmVjNTI3NzQwMWVmZDkwMjg1YWMwNzYzYjli",
   "tracks": [
     {
       "added_at": "2023-09-22 03:01:00",
@@ -375,6 +375,26 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
+        "name": "Capital Inicial Ac\u00fastico NYC (Ao Vivo) [Vers\u00e3o Deluxe + Faixa Extra]",
+        "url": "https://open.spotify.com/album/2lahfyiTR3XXoGDIhzb9oN"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        }
+      ],
+      "duration_ms": 256773,
+      "name": "N\u00e3o Olhe Pra Tr\u00e1s (feat. Lenine) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2fs1QLFTJ09BEnMTj9xQ4Z"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
         "name": "Ac\u00fastico (Ao Vivo / Remastered)",
         "url": "https://open.spotify.com/album/0TcjNekoKeMNRoKZYestuT"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 237173,
       "name": "Are You Gonna Be My Girl - Acoustic",
       "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Capital Inicial Ac\u00fastico NYC (Ao Vivo) [Vers\u00e3o Deluxe + Faixa Extra]",
-        "url": "https://open.spotify.com/album/2lahfyiTR3XXoGDIhzb9oN"
-      },
-      "artists": [
-        {
-          "name": "Capital Inicial",
-          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
-        },
-        {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        }
-      ],
-      "duration_ms": 256773,
-      "name": "N\u00e3o Olhe Pra Tr\u00e1s (feat. Lenine) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2fs1QLFTJ09BEnMTj9xQ4Z"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Gigaton",
-        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 322306,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Come What(ever) May [Special Edition]",
         "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 267253,
       "name": "Wicked Game - Acoustic; Live",
       "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Gigaton",
+        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 322306,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Imprevis\u00edvel (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5j4JF0JaqOzsPxIfXP0bDf"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        }
-      ],
-      "duration_ms": 188821,
-      "name": "Imprevis\u00edvel (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/0zo8ZIMMDWQNOmUNS3BIXl"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Capital Inicial Ac\u00fastico NYC (Ao Vivo) [Vers\u00e3o Deluxe + Faixa Extra]",
         "url": "https://open.spotify.com/album/2lahfyiTR3XXoGDIhzb9oN"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 65965,
       "name": "Welcome To The Sky (Intro) - Ao Vivo",
       "url": "https://open.spotify.com/track/2cfUKb4GlITzFHWKO844GX"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Imprevis\u00edvel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5j4JF0JaqOzsPxIfXP0bDf"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 188821,
+      "name": "Imprevis\u00edvel (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0zo8ZIMMDWQNOmUNS3BIXl"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -1051,6 +1051,22 @@
       "duration_ms": 208316,
       "name": "Enquanto Ela N\u00e3o Chegar - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6hLStuKVbiJdTj79re7JMx"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Voc\u00ea Vai Lembrar de Mim (Edi\u00e7\u00e3o Especial)",
+        "url": "https://open.spotify.com/album/0WE73xCoDYeWVoU7b7Trlb"
+      },
+      "artists": [
+        {
+          "name": "NX Zero",
+          "url": "https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Voc\u00ea Vai Lembrar de Mim - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6Ewm2wXpotQexuHUJqdLuR"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -1179,22 +1195,6 @@
       "duration_ms": 242253,
       "name": "Can\u00e7\u00e3o Da Meia Noite",
       "url": "https://open.spotify.com/track/61g04v9KWwRSDeAHZADvxZ"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Voc\u00ea Vai Lembrar de Mim (Edi\u00e7\u00e3o Especial)",
-        "url": "https://open.spotify.com/album/0WE73xCoDYeWVoU7b7Trlb"
-      },
-      "artists": [
-        {
-          "name": "NX Zero",
-          "url": "https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Voc\u00ea Vai Lembrar de Mim - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6Ewm2wXpotQexuHUJqdLuR"
     },
     {
       "added_at": "2023-09-22 03:01:00",

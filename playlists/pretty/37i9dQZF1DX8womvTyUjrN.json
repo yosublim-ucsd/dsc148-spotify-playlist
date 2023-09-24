@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Manuel Medrano ",
-  "num_followers": 285262,
+  "num_followers": 285334,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjE4ZThkZGY4ODJmNDExYjQzYjcxMGU3M2ViZDM2MTFlMjI4ZjI5",
+  "snapshot_id": "MCxlMTU0NzRlZGUyZDM4NmI1MzNmMGZmYjRmZmVlNDNkMTdhZjk5ODJl",
   "tracks": [
     {
       "added_at": "2023-09-22 15:56:35",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-09-22 15:56:35",
       "album": {
+        "name": "en el pasado",
+        "url": "https://open.spotify.com/album/78EFQKhgET0w845QMun4na"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 223124,
+      "name": "en el pasado",
+      "url": "https://open.spotify.com/track/5yaLbxJA06rXg1W3jI7M5Q"
+    },
+    {
+      "added_at": "2023-09-22 15:56:35",
+      "album": {
         "name": "B\u00f3rrame",
         "url": "https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 173226,
       "name": "B\u00f3rrame",
       "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
-    },
-    {
-      "added_at": "2023-09-22 15:56:35",
-      "album": {
-        "name": "en el pasado",
-        "url": "https://open.spotify.com/album/78EFQKhgET0w845QMun4na"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 223124,
-      "name": "en el pasado",
-      "url": "https://open.spotify.com/track/5yaLbxJA06rXg1W3jI7M5Q"
     },
     {
       "added_at": "2023-09-22 15:56:35",

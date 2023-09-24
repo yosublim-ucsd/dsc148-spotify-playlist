@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Knocked Loose",
-  "num_followers": 465938,
+  "num_followers": 466040,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGFiM2UwNDhhMTczNmY2ZDQ0Njk3MzgyZjI4ZjEwMmY0Yjc4YzBm",
+  "snapshot_id": "MCxhY2VmNzQ5MjllMjQ5YzM3ZGQyOWNmNDQ2M2U3YjA0MjQ1NDhhM2E5",
   "tracks": [
     {
       "added_at": "2023-06-20 21:21:38",
@@ -711,22 +711,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "DISCO4 :: PART II",
-        "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
+        "name": "Brutalism",
+        "url": "https://open.spotify.com/album/5qag6esZLv5ySuCpzh7CE6"
       },
       "artists": [
         {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        },
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
         }
       ],
-      "duration_ms": 326771,
-      "name": "COLD BLOOD",
-      "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
+      "duration_ms": 207145,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/7klLTLP8zff6I83OK0AMgO"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -747,18 +743,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Brutalism",
-        "url": "https://open.spotify.com/album/5qag6esZLv5ySuCpzh7CE6"
+        "name": "DISCO4 :: PART II",
+        "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
       "artists": [
         {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        },
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 207145,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/7klLTLP8zff6I83OK0AMgO"
+      "duration_ms": 326771,
+      "name": "COLD BLOOD",
+      "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "It's Over",
-        "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "It's Over",
-      "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "DEATH (Ever Colder)",
         "url": "https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 287692,
       "name": "DEATH (Ever Colder)",
       "url": "https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "It's Over",
+        "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "LIVING PROOF",
-        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
-      },
-      "artists": [
-        {
-          "name": "DRAIN",
-          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "FTS (KYS)",
-      "url": "https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Misery Made Me",
         "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 208258,
       "name": "Were You Nervous?",
       "url": "https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "LIVING PROOF",
+        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "FTS (KYS)",
+      "url": "https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Return of the Arsonist",
-        "url": "https://open.spotify.com/album/2A1RY2fEJAucP1uAiGL5nb"
-      },
-      "artists": [
-        {
-          "name": "Blood Command",
-          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
-        }
-      ],
-      "duration_ms": 181979,
-      "name": "S01E02.Return.Of.The.Arsonist.720p.HDTV.x264",
-      "url": "https://open.spotify.com/track/7zEDmEGVQNIJ5M8SU3fpIM"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Restless Heart, Keep Running",
         "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 227573,
       "name": "We\u2019ll Always Have Paris",
       "url": "https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Return of the Arsonist",
+        "url": "https://open.spotify.com/album/2A1RY2fEJAucP1uAiGL5nb"
+      },
+      "artists": [
+        {
+          "name": "Blood Command",
+          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
+        }
+      ],
+      "duration_ms": 181979,
+      "name": "S01E02.Return.Of.The.Arsonist.720p.HDTV.x264",
+      "url": "https://open.spotify.com/track/7zEDmEGVQNIJ5M8SU3fpIM"
     },
     {
       "added_at": "2023-06-20 21:21:38",

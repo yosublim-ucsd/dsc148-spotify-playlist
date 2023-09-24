@@ -22687,6 +22687,24 @@
     },
     {
       "album": {
+        "name": "Ma muse / Je t'haine",
+        "url": "https://open.spotify.com/album/6GuWrATXQamfjDlQdion0H"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178115,
+      "name": "Ma muse",
+      "url": "https://open.spotify.com/track/04Y0l7UQzs13uyKXzCYi2p"
+    },
+    {
+      "album": {
         "name": "HIDEAWAY, Vol. I",
         "url": "https://open.spotify.com/album/66LghYktR6TEc6bzm0wjuN"
       },
@@ -22908,6 +22926,28 @@
       "duration_ms": 196874,
       "name": "Magnifique",
       "url": "https://open.spotify.com/track/4mzNeemSeYcTJSPlQWudN7"
+    },
+    {
+      "album": {
+        "name": "Telegram 2",
+        "url": "https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196089,
+      "name": "Magot",
+      "url": "https://open.spotify.com/track/69zAnyBtarXinChSUq925t"
     },
     {
       "album": {
@@ -26924,7 +26964,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 203359,
       "name": "Ouvrir les yeux",
       "url": "https://open.spotify.com/track/5d069i6qYWZBBZMRy6cRaz"
@@ -28734,7 +28774,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 201250,
       "name": "Plus jamais",
       "url": "https://open.spotify.com/track/7ghrmlvEtSS3fuHwgl3ePD"

@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-389 songs - 21 hr 38 min
+390 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Down \(Remix\)](https://open.spotify.com/track/5mmmjhQjqh7HxmAcVbKn4u) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6), [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [Down \(Remix\)](https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD) | 3:05 | 2023-02-07 |  |
 | [Drive](https://open.spotify.com/track/4ScuweLj0tTDZobFXMBEEy) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Drive](https://open.spotify.com/album/31N8Te52jkft4appFKnqzd) | 2:42 | 2021-10-31 | 2022-07-27 |
 | [DYSFUNCTIONAL](https://open.spotify.com/track/1Ul8uZz3foXwCasaCPgVZb) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F) | [DYSFUNCTIONAL](https://open.spotify.com/album/57tpaCIg1x0CR9VBVsCyjU) | 2:25 | 2021-10-31 | 2022-07-29 |
-| [ECHO](https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [ECHO](https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT) | 3:15 | 2023-02-07 |  |
+| [ECHO](https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [ECHO](https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT) | 3:15 | 2023-02-07 | 2023-09-24 |
 | [Echo](https://open.spotify.com/track/4gSD3M18TW4oUikNduQbjP) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Echo](https://open.spotify.com/album/360Y9HLXTa23Qt3ODpLSid) | 3:18 | 2023-02-08 | 2023-02-21 |
 | [Edge Of My Seat \- THUNDERBIRD Remix](https://open.spotify.com/track/2oTLO5bUVaNMuZYaevh0yf) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4), [Thunderbird](https://open.spotify.com/artist/5VxO478AntJVva4bXjGzLE) | [The St\. Nemele Collab Sessions](https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ) | 2:59 | 2021-10-31 | 2022-07-26 |
 | [Electric](https://open.spotify.com/track/7AQxzmkhwBJwgSYr0qQTVf) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Whitney Medina](https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ) | [Touching Heaven \- Electric EP](https://open.spotify.com/album/7aeZhYzqlaq5f68cLvfsXc) | 3:34 | 2021-10-31 | 2022-07-24 |
@@ -153,6 +153,7 @@
 | [HEARTBEAT](https://open.spotify.com/track/5uiQHTNins7Q4g971dBteD) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [HEARTBEAT](https://open.spotify.com/album/43pPjFLwb4YLAN28HbcZQE) | 3:16 | 2021-10-31 | 2023-02-08 |
 | [Heartbeat \(All I Need\)](https://open.spotify.com/track/41eeOy5oZTW88kz6HOaTNV) | [theCurrent](https://open.spotify.com/artist/1wbKO2FnUMah5t5LVF4cNz) | [Heartbeat \(All I Need\)](https://open.spotify.com/album/4T0ewZ0EGgl8B6jVDACXna) | 3:39 | 2021-10-31 | 2022-07-22 |
 | [Heavenly \- Ethan C\. Davis Remix](https://open.spotify.com/track/5CpnqWOerx7I3rkThe5cyR) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD), [Ethan C\. Davis](https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II) | [Heavenly \(Ethan C\. Davis Remix\)](https://open.spotify.com/album/5jvHkWq48VJRuvAMLgpLon) | 3:42 | 2023-02-08 | 2023-05-17 |
+| [Heavy](https://open.spotify.com/track/7Fmk7xa6JijQVUpDILAxrR) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Heavy](https://open.spotify.com/album/1iEHm6xjd7QWKYt67AmjZ3) | 3:45 | 2023-02-07 |  |
 | [Help Me \- Josh Ellis Remix](https://open.spotify.com/track/2KxYKAqHF02Tzi3ky7afRV) | [Dani Miché](https://open.spotify.com/artist/1IAenyCYPeI3B4gpI6I6Cf), [Josh Ellis](https://open.spotify.com/artist/3EvcwIGX0GYJFloHS7r9Tw) | [Help Me \(Josh Ellis Remix\)](https://open.spotify.com/album/3IEaMzg1WqQ1fZKIQ9Q1ME) | 2:29 | 2021-10-31 | 2022-07-29 |
 | [Help Me \- Remix](https://open.spotify.com/track/65nhpDbzSPax2Gq46dbat8) | [Dani Miché](https://open.spotify.com/artist/1IAenyCYPeI3B4gpI6I6Cf), [Josh Ellis](https://open.spotify.com/artist/3EvcwIGX0GYJFloHS7r9Tw) | [Help Me \(Remix\)](https://open.spotify.com/album/6bzyBO35AF4ro1au4ldI2S) | 2:29 | 2021-10-31 | 2023-02-08 |
 | [Help Me Let Go](https://open.spotify.com/track/1hbvXOQPUpodXhZ51ipfcZ) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy) | 2:37 | 2023-02-07 |  |

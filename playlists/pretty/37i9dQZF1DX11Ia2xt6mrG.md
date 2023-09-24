@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Mr Pig y Mario Bautista en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,967 likes - 83 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,970 likes - 83 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 34 | [Trago a Trago](https://open.spotify.com/track/0z61jZUmMPEGvdSrKBt3GX) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [Trago a Trago](https://open.spotify.com/album/6wJZCc4a0h220aD4oCkckl) | 2:17 |
 | 35 | [Quemá](https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Quemá](https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB) | 2:29 |
 | 36 | [Deep Lies](https://open.spotify.com/track/1uzLk7oQmjOcH1qtexmNXM) | [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS), [BW](https://open.spotify.com/artist/1i44h6fV8ef3hIb9tF2Lvp), [Criminal Sounds](https://open.spotify.com/artist/5njfytLYZKkzutruHPuSVj), [Onyra](https://open.spotify.com/artist/6C4TTq7NEdvKLUmBaSqAMb) | [Deep Lies](https://open.spotify.com/album/48n5az0Eky1MyA3LQMNRLz) | 3:25 |
-| 37 | [Weekend](https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW) | [Juan Soto](https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN), [Lemon Mint](https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0) | [Weekend](https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7) | 4:12 |
-| 38 | [Pass The Dutch](https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Pass The Dutch](https://open.spotify.com/album/4jd1mPf6zBve7aMue5g4qj) | 3:28 |
+| 37 | [Pass The Dutch](https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Pass The Dutch](https://open.spotify.com/album/4jd1mPf6zBve7aMue5g4qj) | 3:28 |
+| 38 | [Weekend](https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW) | [Juan Soto](https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN), [Lemon Mint](https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0) | [Weekend](https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7) | 4:12 |
 | 39 | [Mi Amor](https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29), [Keep It Dope](https://open.spotify.com/artist/638zBnRaMj32pQn3C2Q18y), [Priscila](https://open.spotify.com/artist/48wvp5MbVxUwAyF9BdiqdX) | [Mi Amor](https://open.spotify.com/album/4mQSYNviTSOjMHxQ0cazal) | 3:31 |
 | 40 | [Brake Test](https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN) | [Kevin Brand](https://open.spotify.com/artist/37FEWLu0vHMvO4n1SHnWBS), [Guztavo MX](https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q), [Nitai Charan](https://open.spotify.com/artist/5R74FYSqMPIUYTHQs2TA6I) | [Brake Test](https://open.spotify.com/album/1sb9HqNdyxgAhBykc1FGZI) | 2:17 |
 | 41 | [Time \(feat\. Alexia Langis\)](https://open.spotify.com/track/3aw25wFUuAAB8rxheGg09G) | [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93), [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS), [Riallo](https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u), [Alexia Langis](https://open.spotify.com/artist/1KnmhAncqCZIhgi2vD9x5x) | [Time \(feat\. Alexia Langis\)](https://open.spotify.com/album/4SElNkH0p7XWGmRZSNoDsi) | 3:07 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 82 | [Take It](https://open.spotify.com/track/6wHjctWbG9IUDo96rUbT9F) | [XIX](https://open.spotify.com/artist/4kujTclzOfCLEztutiKfRR) | [Take It](https://open.spotify.com/album/00pXCpxTg1iRi8VH6LG5SH) | 2:42 |
 | 83 | [Mistake](https://open.spotify.com/track/7l636KtnTBB2UvAPzAKEWs) | [JOKA](https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV) | [Mistake](https://open.spotify.com/album/0dch9Ac7ijGh5uGL3Q5p0T) | 3:12 |
 
-Snapshot ID: `MCwzYWVjZWJjNjk4YmUyZTgxNTZiYWUwNDQ5Y2VlZDc1MGMxYmIyMmU5`
+Snapshot ID: `MCxiNmE2NDE0NDRhNWExNzA1YzY2ODBkOGZjZjBhNzgzNjAyNGM2ODlm`

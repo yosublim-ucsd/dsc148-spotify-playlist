@@ -4,7 +4,7 @@
 
 > A collection of songs from Tony Hawk's Pro Skater 1 + 2.
 
-71 songs - 3 hr 34 min
+72 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,8 +52,9 @@
 | [Like This](https://open.spotify.com/track/5wKdgps461nDhzUvU6qNmf) | [Super Best Frens Club](https://open.spotify.com/artist/0ozGbOEjps1hYGadCD1brV) | [Like This](https://open.spotify.com/album/1CHzcqISZAkAht1GLXBZ9W) | 2:10 | 2020-08-06 |  |
 | [Lose Control](https://open.spotify.com/track/6Yhq1D9jiBCMBQIGpXe7ks) | [Tyrone Briggs](https://open.spotify.com/artist/1sLkS9C3zNRvdh5N2huwDp) | [Lose Control](https://open.spotify.com/album/76QC8PJGGlPOeNSnK7cJ4T) | 2:25 | 2020-08-13 |  |
 | [May 16](https://open.spotify.com/track/2y2E0ix0iJWQWUMmlbTWjg) | [Lagwagon](https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf) | [Let's Talk About Feelings](https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz) | 2:56 | 2020-05-15 |  |
+| [Mid 20's Skateboarder](https://open.spotify.com/track/2YMyri03SS5w5cA0yicarQ) | [Pkew Pkew Pkew](https://open.spotify.com/artist/2wLjuls619sr3fihBDQigt) | [+ One](https://open.spotify.com/album/2JFRNIFfGZrAT5yyfBzD0L) | 2:07 | 2020-07-28 |  |
 | [Mid 20's Skateboarder](https://open.spotify.com/track/46W2vQzqR6cfTdzBfC1KQK) | [Pkew Pkew Pkew](https://open.spotify.com/artist/2wLjuls619sr3fihBDQigt) | [+ One](https://open.spotify.com/album/7gBLLGdZzX15mOMVkKxLvS) | 2:07 | 2020-07-28 | 2023-09-15 |
-| [Mid 20's Skateboarder](https://open.spotify.com/track/6NiVbUwxuTETC56The3Sup) | [Pkew Pkew Pkew](https://open.spotify.com/artist/2wLjuls619sr3fihBDQigt) | [Pkew Pkew Pkew](https://open.spotify.com/album/2tFF5agrKKsDEtnh8gg1JD) | 2:07 | 2020-07-28 |  |
+| [Mid 20's Skateboarder](https://open.spotify.com/track/6NiVbUwxuTETC56The3Sup) | [Pkew Pkew Pkew](https://open.spotify.com/artist/2wLjuls619sr3fihBDQigt) | [Pkew Pkew Pkew](https://open.spotify.com/album/2tFF5agrKKsDEtnh8gg1JD) | 2:07 | 2020-07-28 | 2023-09-24 |
 | [Misery Guts](https://open.spotify.com/track/3Tfq8Ba1jAFipLb4HLgt6x) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Best of Luck Club](https://open.spotify.com/album/4tJrRPoZQsGRCmIrtFSqgV) | 2:33 | 2020-07-28 | 2022-07-29 |
 | [Misery Guts](https://open.spotify.com/track/4nFEpqglSpknKNaGLT8jeX) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Best of Luck Club](https://open.spotify.com/album/5YCf7fOpsfKgB5f3XFLjh8) | 2:33 | 2020-07-28 |  |
 | [New Girl](https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 2:03 | 2020-05-15 |  |

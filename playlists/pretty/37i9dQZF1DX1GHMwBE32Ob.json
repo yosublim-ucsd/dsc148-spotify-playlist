@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nRIP Mohbad",
-  "num_followers": 20891,
+  "num_followers": 21166,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTM3YWU1NTAyOTcwZWRiNjk1YThjYTZlMDY5ZDI2MDk2N2VkN2I0",
+  "snapshot_id": "MCxjZWYxMTFiODZiNzcxNjNiNGUyN2E4N2I1NmJjNTY4ZmE1ZTc2NTE2",
   "tracks": [
     {
       "added_at": "2023-09-21 23:00:00",
@@ -551,6 +551,26 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "Shina Peters",
+        "url": "https://open.spotify.com/album/1v9I3AogBgQUvCokc8B52P"
+      },
+      "artists": [
+        {
+          "name": "Reminisce",
+          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
+        },
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Shina Peters",
+      "url": "https://open.spotify.com/track/0DxBucbIM0unAoubGFRl9J"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "Sere",
         "url": "https://open.spotify.com/album/1ANJrFdux0Uj3j89YlhhUh"
       },
@@ -571,22 +591,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/17voJtUJhl79b5WgXT0ttE"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 126671,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/1Ut1vSnb0hM58jFbPVhZaC"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Peace Be Unto You (PBUY)",
         "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
       },
@@ -603,22 +607,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Shina Peters",
-        "url": "https://open.spotify.com/album/1v9I3AogBgQUvCokc8B52P"
+        "name": "Body",
+        "url": "https://open.spotify.com/album/17voJtUJhl79b5WgXT0ttE"
       },
       "artists": [
         {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
-        },
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Shina Peters",
-      "url": "https://open.spotify.com/track/0DxBucbIM0unAoubGFRl9J"
+      "duration_ms": 126671,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/1Ut1vSnb0hM58jFbPVhZaC"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Astalavista",
-        "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 171921,
-      "name": "Astalavista",
-      "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Ara (Gen Gen Tin)",
         "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
       },
@@ -679,18 +659,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Soapy",
-        "url": "https://open.spotify.com/album/1v9gHXqfKMRyEb1i64KJW3"
+        "name": "Astalavista",
+        "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
       },
       "artists": [
         {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 174043,
-      "name": "Soapy",
-      "url": "https://open.spotify.com/track/1SlqJxitLASHinl3X0Mvkn"
+      "duration_ms": 171921,
+      "name": "Astalavista",
+      "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -751,6 +735,26 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "duration_ms": 151548,
+      "name": "Bankruptcy",
+      "url": "https://open.spotify.com/track/6tbnqrQJWzPPQzlzvoIewt"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "Yoga",
         "url": "https://open.spotify.com/album/63GoanBcE6J4MDIuSQi7jc"
       },
@@ -763,6 +767,22 @@
       "duration_ms": 168352,
       "name": "Yoga",
       "url": "https://open.spotify.com/track/79xHOEYZKZEj6fPkmhQboa"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Soapy",
+        "url": "https://open.spotify.com/album/1v9gHXqfKMRyEb1i64KJW3"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 174043,
+      "name": "Soapy",
+      "url": "https://open.spotify.com/track/1SlqJxitLASHinl3X0Mvkn"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -799,42 +819,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Wire",
-        "url": "https://open.spotify.com/album/7sp3pOTSG2BO3VWKcRWJH8"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 144065,
-      "name": "Wire",
-      "url": "https://open.spotify.com/track/2XNaMlHROxvkKGohcQHQZV"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "DND",
-        "url": "https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 151548,
-      "name": "Bankruptcy",
-      "url": "https://open.spotify.com/track/6tbnqrQJWzPPQzlzvoIewt"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "BOMBOY",
         "url": "https://open.spotify.com/album/4zS7IKrN5TK8xYIrPo3yli"
       },
@@ -851,6 +835,54 @@
       "duration_ms": 178000,
       "name": "Shakor",
       "url": "https://open.spotify.com/track/14EoKlhYnxqRrqjV7PIdS0"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 145351,
+      "name": "In Charge",
+      "url": "https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Wire",
+        "url": "https://open.spotify.com/album/7sp3pOTSG2BO3VWKcRWJH8"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 144065,
+      "name": "Wire",
+      "url": "https://open.spotify.com/track/2XNaMlHROxvkKGohcQHQZV"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "YUSFUL MUSIC",
+        "url": "https://open.spotify.com/album/1HuptmkvsxXrr4JLulD83n"
+      },
+      "artists": [
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        }
+      ],
+      "duration_ms": 140551,
+      "name": "traffic",
+      "url": "https://open.spotify.com/track/57Ca9ulwiKUh5VEAb0ObA3"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -875,54 +907,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "YUSFUL MUSIC",
-        "url": "https://open.spotify.com/album/1HuptmkvsxXrr4JLulD83n"
-      },
-      "artists": [
-        {
-          "name": "YKB",
-          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
-        }
-      ],
-      "duration_ms": 140551,
-      "name": "traffic",
-      "url": "https://open.spotify.com/track/57Ca9ulwiKUh5VEAb0ObA3"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Good Bad Boy",
-        "url": "https://open.spotify.com/album/6aneMaptAsMI6EwKwQva1E"
-      },
-      "artists": [
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
-        }
-      ],
-      "duration_ms": 163158,
-      "name": "Good Bad Boy",
-      "url": "https://open.spotify.com/track/3ZRee35yTrQLeck0yWBYep"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "DND",
-        "url": "https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 145351,
-      "name": "In Charge",
-      "url": "https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Lotto",
         "url": "https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Mara pass Mara Beat",
-        "url": "https://open.spotify.com/album/62ZqjZDrqpIWVnuPiOszJW"
+        "name": "Good Bad Boy",
+        "url": "https://open.spotify.com/album/6aneMaptAsMI6EwKwQva1E"
       },
       "artists": [
         {
-          "name": "Dj khalipha",
-          "url": "https://open.spotify.com/artist/26l8B7ThPgYc7a1rZbdStB"
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
         }
       ],
-      "duration_ms": 315257,
-      "name": "Mara pass Mara Beat",
-      "url": "https://open.spotify.com/track/2nfq8lunsGzwURhFN8OpX7"
+      "duration_ms": 163158,
+      "name": "Good Bad Boy",
+      "url": "https://open.spotify.com/track/3ZRee35yTrQLeck0yWBYep"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -975,18 +959,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Don't Hype Me",
-        "url": "https://open.spotify.com/album/1TunsBNNXVGGhhMojgm4f6"
+        "name": "Mara pass Mara Beat",
+        "url": "https://open.spotify.com/album/62ZqjZDrqpIWVnuPiOszJW"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Dj khalipha",
+          "url": "https://open.spotify.com/artist/26l8B7ThPgYc7a1rZbdStB"
         }
       ],
-      "duration_ms": 123870,
-      "name": "Don't Hype Me",
-      "url": "https://open.spotify.com/track/0NxAC5CVvgBfA5Qm2pqsg0"
+      "duration_ms": 315257,
+      "name": "Mara pass Mara Beat",
+      "url": "https://open.spotify.com/track/2nfq8lunsGzwURhFN8OpX7"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1007,6 +991,22 @@
       "duration_ms": 191722,
       "name": "KPK (Ko Por Ke)",
       "url": "https://open.spotify.com/track/17q1F7gvBjI5aizepORyYG"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Don't Hype Me",
+        "url": "https://open.spotify.com/album/1TunsBNNXVGGhhMojgm4f6"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 123870,
+      "name": "Don't Hype Me",
+      "url": "https://open.spotify.com/track/0NxAC5CVvgBfA5Qm2pqsg0"
     },
     {
       "added_at": "2023-09-21 23:00:00",

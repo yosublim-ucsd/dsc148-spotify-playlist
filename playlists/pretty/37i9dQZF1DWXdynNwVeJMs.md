@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: John Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,438 likes - 83 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,454 likes - 83 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sheep Party](https://open.spotify.com/track/0BCkmc1jTgXtKU7D4j2hcf) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Sheep Party](https://open.spotify.com/album/0XHGwPuz9L7V969y1aLJSU) | 5:28 |
 | 2 | [The Quantities](https://open.spotify.com/track/41NMjKhLiukWNoNF2csOsk) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [The Quantities](https://open.spotify.com/album/6tBW03xdXTl5juo3u9RwB4) | 7:14 |
-| 3 | [Little Steps](https://open.spotify.com/track/20yGgGMyNJDELJk7nsJMRT) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [Little Steps](https://open.spotify.com/album/0f7crbBu4TBbLOe91XHQVW) | 5:11 |
+| 3 | [Little Steps](https://open.spotify.com/track/3ouhg3MWKPPjXlCrRg1MXh) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [Amulet](https://open.spotify.com/album/1HQmEGfHgCgy2LnCra5ZnJ) | 5:11 |
 | 4 | [WGHWBH](https://open.spotify.com/track/2Gk2ojObQ0KJev9q4xANXm) | [HONEY](https://open.spotify.com/artist/4A8G43ljlPyTmgBYOzi6zc) | [WGHWBH](https://open.spotify.com/album/3IXktD0oxECWhvw7yBW8LU) | 4:45 |
 | 5 | [Amulet](https://open.spotify.com/track/6f0ImtlSe8SRo2qeHW4TLc) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [Amulet](https://open.spotify.com/album/1HQmEGfHgCgy2LnCra5ZnJ) | 4:01 |
 | 6 | [Rouf\-rouf](https://open.spotify.com/track/17QU94mEoN2moywNnBohht) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [Sink\-Along](https://open.spotify.com/album/79jbHO5dq9dkn0TvqbHBdT) | 3:28 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 82 | [Birdman](https://open.spotify.com/track/06CZmASsue66Gkp269Rqld) | [Hachoo](https://open.spotify.com/artist/63YSIh9PBCZZUzZWAJoidv) | [On a Thin Rope with a Shaky Smile](https://open.spotify.com/album/11fDYTospHQX82R2IKQFcj) | 5:05 |
 | 83 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 |
 
-Snapshot ID: `MCxhMWI3OGRmZDIzMjkxY2RhMzE5OTA4ZGJkMWFkZjAzOWE4MTEyYWUz`
+Snapshot ID: `MCw0NWU5MjE0MWE1MGNjYmRkYjcxNTE3MjVhOTBhZjRkNDMzMThkOGE3`

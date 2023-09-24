@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29674,
+  "num_followers": 29680,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2ZkNTY5NTQzYmEwYmEzZTY4OGU4NzcwZDY2Yjk3YjgxZGYwNjcy",
+  "snapshot_id": "MCwyOTQ1ZGQ0NjVjODQ1NDA4ZTY3ZDRjYTY0MzBhNjU4MjMxZjhmMjVj",
   "tracks": [
     {
       "added_at": "2023-09-14 22:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Punkfestival",
-        "url": "https://open.spotify.com/album/2dHXmO7yLflqWRsE1O0b5A"
-      },
-      "artists": [
-        {
-          "name": "Attentat",
-          "url": "https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n"
-        }
-      ],
-      "duration_ms": 142184,
-      "name": "Punkfestival",
-      "url": "https://open.spotify.com/track/2HsOYlJSGyrQoMU5ju4YJ9"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Versace Style",
         "url": "https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 128080,
       "name": "Punkrockarflicka",
       "url": "https://open.spotify.com/track/5WUTe6rxs2C9lwd5MtAfBU"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Punkfestival",
+        "url": "https://open.spotify.com/album/2dHXmO7yLflqWRsE1O0b5A"
+      },
+      "artists": [
+        {
+          "name": "Attentat",
+          "url": "https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n"
+        }
+      ],
+      "duration_ms": 142184,
+      "name": "Punkfestival",
+      "url": "https://open.spotify.com/track/2HsOYlJSGyrQoMU5ju4YJ9"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Fr\u00e5n Fest Till Arrest",
-        "url": "https://open.spotify.com/album/1qhDJcBNvhcdyWABmvD35a"
-      },
-      "artists": [
-        {
-          "name": "Gatans Lag",
-          "url": "https://open.spotify.com/artist/1DbBWYISy3xIJBHlenLGj2"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Livet \u00c4r F\u00f6r Kort F\u00f6r Sorgliga S\u00e5nger",
-      "url": "https://open.spotify.com/track/6kbvbAKoFDtOjbxfTPTFGp"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Labyrint",
         "url": "https://open.spotify.com/album/4KUhSI60vpQqSqWIWT9E5S"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 125733,
       "name": "Dr\u00f6mmen",
       "url": "https://open.spotify.com/track/5b0r4KGSNjxplg8fmpsnva"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Fr\u00e5n Fest Till Arrest",
+        "url": "https://open.spotify.com/album/1qhDJcBNvhcdyWABmvD35a"
+      },
+      "artists": [
+        {
+          "name": "Gatans Lag",
+          "url": "https://open.spotify.com/artist/1DbBWYISy3xIJBHlenLGj2"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Livet \u00c4r F\u00f6r Kort F\u00f6r Sorgliga S\u00e5nger",
+      "url": "https://open.spotify.com/track/6kbvbAKoFDtOjbxfTPTFGp"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "V\u00e4lkommen Hit",
-        "url": "https://open.spotify.com/album/2z3APsZA3kx1vFH88VnX8f"
-      },
-      "artists": [
-        {
-          "name": "V\u00c4NSTERN\u00c4VEN",
-          "url": "https://open.spotify.com/artist/4cOYuFklSQ8HBFFpP7UPMl"
-        }
-      ],
-      "duration_ms": 90493,
-      "name": "Arbetsl\u00f6s",
-      "url": "https://open.spotify.com/track/5Lb9ECALk7W9U0lXju7ePo"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Grit",
         "url": "https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 174753,
       "name": "Jag l\u00e4mnar festen",
       "url": "https://open.spotify.com/track/0BizThcD0irhGDGoZNCn1z"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "V\u00e4lkommen Hit",
+        "url": "https://open.spotify.com/album/2z3APsZA3kx1vFH88VnX8f"
+      },
+      "artists": [
+        {
+          "name": "V\u00c4NSTERN\u00c4VEN",
+          "url": "https://open.spotify.com/artist/4cOYuFklSQ8HBFFpP7UPMl"
+        }
+      ],
+      "duration_ms": 90493,
+      "name": "Arbetsl\u00f6s",
+      "url": "https://open.spotify.com/track/5Lb9ECALk7W9U0lXju7ePo"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Gbg Noir",
+        "url": "https://open.spotify.com/album/6ekcmRIvx0kvzrex5j1lNN"
+      },
+      "artists": [
+        {
+          "name": "En Svensk Tiger",
+          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
+        }
+      ],
+      "duration_ms": 182526,
+      "name": "Svegregationen",
+      "url": "https://open.spotify.com/track/1JTg3ZsOwIpsqdpEKnhGmA"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "F\u00f6r Sverige",
         "url": "https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 205506,
       "name": "Hela hatet stormar",
       "url": "https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Gbg Noir",
-        "url": "https://open.spotify.com/album/6ekcmRIvx0kvzrex5j1lNN"
-      },
-      "artists": [
-        {
-          "name": "En Svensk Tiger",
-          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
-        }
-      ],
-      "duration_ms": 182526,
-      "name": "Svegregationen",
-      "url": "https://open.spotify.com/track/1JTg3ZsOwIpsqdpEKnhGmA"
     },
     {
       "added_at": "2023-09-14 22:00:00",

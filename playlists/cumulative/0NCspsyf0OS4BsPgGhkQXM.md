@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-843 songs - 1 day 21 hr 24 min
+844 songs - 1 day 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [DEAD](https://open.spotify.com/track/2XkZmwkeIxvEF2vwzhjZ18) | [TRAILS](https://open.spotify.com/artist/4CSX0R9KLs9HkyqLfiraPQ) | [DEAD](https://open.spotify.com/album/1GaznnolBVSmfI5fxxBBZW) | 3:03 | 2022-07-01 | 2022-07-29 |
 | [Dead Friends](https://open.spotify.com/track/4Py4FD7U21NP8AdOTs5LfT) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa), [Sam Sky](https://open.spotify.com/artist/2YiWowjyYqKEXuAle5oNDU) | [Dead Friends](https://open.spotify.com/album/4eo1sMonygWrfmqiwA644k) | 3:46 | 2023-06-16 |  |
 | [Dead In The Water \(feat\. Zack Gray\)](https://open.spotify.com/track/4lYq3zUbjg9gkb1HaECfzA) | [Falling North](https://open.spotify.com/artist/4kLMqs7ECFydJLPlfDnEe5), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Dead In The Water \(feat\. Zack Gray\)](https://open.spotify.com/album/6FbfWSfaLmc3HqjIUwktl4) | 3:35 | 2022-03-25 | 2022-04-30 |
+| [Death Of Us](https://open.spotify.com/track/3t7ybOh1oLqm0EOpLE3f7f) | [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij), [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Xuitcasecity](https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL) | [Death Of Us](https://open.spotify.com/album/2GPBDRHDSWOmPAi1R4QIIx) | 4:00 | 2023-09-23 |  |
 | [Decoded](https://open.spotify.com/track/5HK4l3NoJdlr0IJMnKaO8s) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa) | [Decoded](https://open.spotify.com/album/7vegLp4uXP12y3DF1Xv8q0) | 4:00 | 2022-01-14 | 2022-02-17 |
 | [Deep End](https://open.spotify.com/track/1UtRBq2n0IlQNA1WI3axWX) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Pieces](https://open.spotify.com/album/2Mzaihfp9i7m6UO5HSRtHb) | 3:28 | 2022-11-22 | 2023-02-22 |
 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/3wJrBiiTIRRfKSL2TQWR60) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA) | 4:10 | 2022-12-16 | 2022-12-27 |
@@ -301,7 +302,7 @@
 | [GRAVES](https://open.spotify.com/track/2NPP7YXovwRup7HPCSuV4D) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [GRAVES](https://open.spotify.com/album/4SGV9kedUN8m8Hc2oFKJZK) | 2:55 | 2023-07-14 |  |
 | [Gravity](https://open.spotify.com/track/21PELgAI135nZmhjEi9MxG) | [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV), [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [Tyler Graves](https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq) | [Gravity](https://open.spotify.com/album/70pPhEPFbPp31jXsSxPiOj) | 4:22 | 2022-10-28 | 2022-12-10 |
 | [Green Eyes](https://open.spotify.com/track/1DHW6t77tM8E87iR761mPk) | [ZEVY](https://open.spotify.com/artist/3Rr9ksBPquEWyD9fP2VBZk), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Green Eyes](https://open.spotify.com/album/5UWvLY4Ty8d4f8wIdHIbwY) | 2:50 | 2022-02-17 | 2022-09-15 |
-| [Growing Pains](https://open.spotify.com/track/6wcNgknP5xXeTDSKjz4oDz) | [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA), [Addy Maxwell](https://open.spotify.com/artist/5wVwjaMyPd1L7u8P9cm7a8) | [Growing Pains](https://open.spotify.com/album/2g0VCFppPhh1hLfE48JmMV) | 3:20 | 2023-09-22 |  |
+| [Growing Pains](https://open.spotify.com/track/6wcNgknP5xXeTDSKjz4oDz) | [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA), [Addy Maxwell](https://open.spotify.com/artist/5wVwjaMyPd1L7u8P9cm7a8) | [Growing Pains](https://open.spotify.com/album/2g0VCFppPhh1hLfE48JmMV) | 2:50 | 2023-09-22 |  |
 | [GTA](https://open.spotify.com/track/5UQaYjFGGe4rWllcEOwPQc) | [PHONKA TRUCK](https://open.spotify.com/artist/6YS8kbWWMQlkGFiloRZ7As), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [GTA](https://open.spotify.com/album/3WOGIwO2sGQEVqzIoU7Rpo) | 2:23 | 2022-12-26 | 2023-03-22 |
 | [GUD VIBRATIONS](https://open.spotify.com/track/2BVUOGciUUUqOPSLtHwLGp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q) | [GUD VIBRATIONS](https://open.spotify.com/album/1ABYsJwhqu0MoN3HVn3tKi) | 3:44 | 2022-11-22 |  |
 | [Guessin](https://open.spotify.com/track/0xZTCb7IAzKPVlHZJxxrZh) | [Snowlab](https://open.spotify.com/artist/1YRMfUfTUndLI8JBgSnfB7) | [Guessin](https://open.spotify.com/album/5NzoSKS5RUQRPvKvYrLrv5) | 3:00 | 2022-02-04 | 2022-03-05 |

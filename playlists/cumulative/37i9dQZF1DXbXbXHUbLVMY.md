@@ -4,18 +4,19 @@
 
 > Skandinavisk hiphop holder det 100! 🚨
 
-60 songs - 2 hr 30 min
+61 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Åh\) Tåmy, Tåmy \- Rifla x Sheriff](https://open.spotify.com/track/6BTqkUxJRluSfyWXICpuVF) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [\(Åh\) Tåmy, Tåmy \- Rifla x Sheriff](https://open.spotify.com/album/7cI6WjL8tRjS8mpFf07Wox) | 3:10 | 2023-09-21 |  |
 | [1877](https://open.spotify.com/track/0QhExfZSTY5TnRzHOxJGwm) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Xania](https://open.spotify.com/album/7H1IWk2YAccSqlGqkA6Ac7) | 2:39 | 2023-09-21 |  |
 | [95](https://open.spotify.com/track/41rOFUwgdYCySkMPb99RjL) | [Hiwá](https://open.spotify.com/artist/6dxaJO4moD1NB2YpmTRg4a), [Philip Emilio](https://open.spotify.com/artist/2GN0eor58XbyUUfQxWTgYn) | [95](https://open.spotify.com/album/3IKvmlokK9vfru4Aki55GX) | 2:42 | 2023-09-21 |  |
+| [Automatic](https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Automatic](https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P) | 2:10 | 2023-09-21 |  |
 | [BAD GIRL](https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [BAD GIRL](https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1) | 2:28 | 2023-09-21 |  |
-| [Banana](https://open.spotify.com/track/2EXIXFyWSnJAVzxy4kZQfA) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Banana](https://open.spotify.com/album/3qIFOSosWTxUJu0fSpdemE) | 2:10 | 2023-09-21 |  |
+| [Banana](https://open.spotify.com/track/2EXIXFyWSnJAVzxy4kZQfA) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Banana](https://open.spotify.com/album/3qIFOSosWTxUJu0fSpdemE) | 2:10 | 2023-09-21 | 2023-09-24 |
 | [BLANCO](https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [BLANCO](https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2) | 2:15 | 2023-09-21 |  |
 | [Blind](https://open.spotify.com/track/5udk76BjdsWuTAw1i6CjGG) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Blind](https://open.spotify.com/album/31ksRf0SjvqKDRJicFN246) | 2:41 | 2023-09-21 |  |
-| [BODY](https://open.spotify.com/track/6jYyljzxnFohnVpHgrBpNp) | [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg), [ifrapluto](https://open.spotify.com/artist/3746KXadqrg8QEdaAY4gaj) | [BODY](https://open.spotify.com/album/1GIESGxRLnPgv4D37y1qDN) | 2:23 | 2023-09-21 |  |
+| [BODY](https://open.spotify.com/track/6jYyljzxnFohnVpHgrBpNp) | [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg), [ifrapluto](https://open.spotify.com/artist/6DDyKBj86C24FkwrjEPE0B) | [BODY](https://open.spotify.com/album/1GIESGxRLnPgv4D37y1qDN) | 2:23 | 2023-09-21 |  |
 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 | 2023-09-21 |  |
 | [Brazil Flow](https://open.spotify.com/track/1rxFEfLu4vTQUJzvB5Hddr) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Brazil Flow](https://open.spotify.com/album/2qBDUq858Mc3HT33TcXzgl) | 1:31 | 2023-09-21 |  |
 | [Cuando Menos Lo Espera](https://open.spotify.com/track/0K64Z8f4jGT1jGmVEvgs20) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Cuando Menos Lo Espera](https://open.spotify.com/album/5I4I0k75uiUnqyJvh7vxLC) | 3:00 | 2023-09-21 |  |
@@ -47,7 +48,7 @@
 | [Marokko Barcelona Colorado California](https://open.spotify.com/track/2jHkG1qU1vrb5gssUNTevT) | [Vågard](https://open.spotify.com/artist/6ZXRSfJDOksQ4bLcqXS71g), [Girson](https://open.spotify.com/artist/62DjNN5uijrpERaMexkBjE) | [Notoriske B.O.G.](https://open.spotify.com/album/1PBwk1ooupSISW2Py20p3O) | 4:12 | 2023-09-21 |  |
 | [Michelin Stjerner](https://open.spotify.com/track/4KjHgPOIsA8LlMwyAJRlfv) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 3:04 | 2023-09-21 |  |
 | [Millions](https://open.spotify.com/track/6Mel5VQ8UQXDT4aetZvzWg) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Millions](https://open.spotify.com/album/3Xdn3e64AD2PB90zCsA7i0) | 2:01 | 2023-09-21 |  |
-| [Narcissist](https://open.spotify.com/track/1XKxURVG2NMwaR92iF90Ek) | [Yung Slippy](https://open.spotify.com/artist/5q2b2XIdrnuvoT7hAZqWws), [Rambow](https://open.spotify.com/artist/2TAD8WSOC3Zw8LTj3Ue45F) | [Narcissist](https://open.spotify.com/album/6PSmLzomYnUw4VXEcJSzSp) | 2:05 | 2023-09-21 |  |
+| [Narcissist](https://open.spotify.com/track/1XKxURVG2NMwaR92iF90Ek) | [Yung Slippy](https://open.spotify.com/artist/5q2b2XIdrnuvoT7hAZqWws), [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [Narcissist](https://open.spotify.com/album/6PSmLzomYnUw4VXEcJSzSp) | 2:05 | 2023-09-21 |  |
 | [Nånting i Luften](https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Nånting i Luften](https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y) | 2:31 | 2023-09-21 |  |
 | [PANGPANG](https://open.spotify.com/track/4lxCRiUcm8k3fiWf0wDrUf) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [PANGPANG](https://open.spotify.com/album/7JgAD3sKtMTpbWqLivjE0H) | 2:29 | 2023-09-21 |  |
 | [Pendejo](https://open.spotify.com/track/5jCm2CYGVougaTZo8g9uCW) | [Lille Pablo](https://open.spotify.com/artist/6Y4IHXCDwWvuNBmdqTIUTz) | [Pendejo](https://open.spotify.com/album/41ZSewcI8wnAyunssOkVAI) | 2:57 | 2023-09-21 |  |

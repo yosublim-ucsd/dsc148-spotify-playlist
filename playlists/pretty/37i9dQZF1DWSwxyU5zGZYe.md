@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Best acoustic melodies from Bollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,483 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,567 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 22 | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \- Unplugged](https://open.spotify.com/track/3UPesdwW261UnhOg03Coy7) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \[Unplugged\]](https://open.spotify.com/album/3p6PTmeOHxfxNaqSFpMAVJ) | 0:55 |
 | 23 | [Galliyan \(Unplugged\)](https://open.spotify.com/track/0zlsXumKe7ymS1ANu5TDZP) | [Shraddha Kapoor](https://open.spotify.com/artist/6vYL9RV6m4NECOJzbGRbbV), [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB) | [Ek Villain](https://open.spotify.com/album/3EkmvTqyKrnMw1WiVpsSwF) | 4:14 |
 | 24 | [Nain Ta Heere \- Lisa](https://open.spotify.com/track/6emAuBpvTZkGlZu7uQnkFe) | [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Jugjugg Jeeyo](https://open.spotify.com/album/49wsmGDdtSoQiLt2lsVbaQ) | 3:33 |
-| 25 | [Jeena Jeena \(From "Badlapur"\)](https://open.spotify.com/track/05nBv34NJeyLWEoezng4n5) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Badlapur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jrhoBoX4Ktvq3PYL04PIR) | 3:48 |
+| 25 | [Jeena Jeena](https://open.spotify.com/track/0HEIct25CX0hhLucnhTkUr) | [Eser Inc.](https://open.spotify.com/artist/1xYwO3igKogfuoti47VcRO), [Konina](https://open.spotify.com/artist/6KvaDqIuZn68YGfuSbdXBj), [BazukaBeko](https://open.spotify.com/artist/3K1AAnD5alr3OR8SClyBmc) | [Jeena Jeena](https://open.spotify.com/album/4qBH6thoW5xgNIumimUVvD) | 3:55 |
 | 26 | [Baatein Kuch Ankahee Si \- Unplugged](https://open.spotify.com/track/4yWEl7boNZlIUQ32enHCsi) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Suhail Kaul](https://open.spotify.com/artist/42jgHGbOryNOmlSgJPGljN) | [Life In A Metro \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6leYdBPs1XzfUgpc8xgeSi) | 4:18 |
 | 27 | [Iktara](https://open.spotify.com/track/3jtKSUiVDowKNBqVQbWaig) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Wake Up Sid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fzE65RP7Gyhi8hdOv8eRQ) | 4:13 |
 | 28 | [Mitra Re \(Reprise\)](https://open.spotify.com/track/0VvSU2eXRF3E0b1hClv1uX) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Mitra Re \(Reprise\)](https://open.spotify.com/album/1IeFurDxEca30wboHFE2I7) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 49 | [Heer](https://open.spotify.com/track/1CapGmE3jqZpEATdujksnX) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Jab Tak Hai Jaan](https://open.spotify.com/album/3G0diKadKaufyFybV3TzuP) | 5:14 |
 | 50 | [Rozana](https://open.spotify.com/track/1mYcukuz7uow0wc7DmPXHU) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Rozana \(From "Naam Shabana"\)](https://open.spotify.com/album/6QsWVJu3QawRgoAgUH9QX5) | 4:34 |
 
-Snapshot ID: `MCwzZGQwZDg0MmY2ZDBjZDgxMzJkYjE0ZjRmMDgxZWU2ZTc0OGM2OGZh`
+Snapshot ID: `MCwzZmM1ODIxN2VlMGYwMjU0OGIyNTliN2IyMGEyNjExYjUzN2NkOGI5`

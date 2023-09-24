@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-323 songs - 14 hr 57 min
+324 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,12 +86,13 @@
 | [Ei runde til](https://open.spotify.com/track/660vI3gYDKGe8p3hEfNvwT) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Ei runde til](https://open.spotify.com/album/5Ik0lJYyGxtPu3OaKkwh4B) | 3:56 | 2021-12-16 | 2022-07-23 |
 | [Ei tid \- Akustisk versjon](https://open.spotify.com/track/38Qxu73W4pnkkwlKJaLfUK) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT), [Synne](https://open.spotify.com/artist/68UvCzlIOr87VYF5icJd2d) | [Ei tid \(Akustisk versjon\)](https://open.spotify.com/album/2JenyjghH78NEzzNDEfPvF) | 4:02 | 2021-12-16 | 2022-11-16 |
 | [En drikkesang](https://open.spotify.com/track/2z12HXARpuQP9teW2tGyz0) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [En drikkesang](https://open.spotify.com/album/3BwiO8gXGLlvgI8X3pdGMl) | 2:14 | 2023-04-06 | 2023-06-29 |
+| [EN GAMMAL AMAZON](https://open.spotify.com/track/4910aDasJAeKxAAo5fNHll) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [EN GAMMAL AMAZON](https://open.spotify.com/album/1Vi6Fpf8sGX9PAFY0q2bz6) | 2:16 | 2023-09-21 |  |
 | [En gammal Amazon](https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [En gammal Amazon](https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa) | 2:46 | 2022-07-07 | 2023-09-14 |
 | [En gång till](https://open.spotify.com/track/0FupHylTHhYVgWAwzq5h58) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [En gång till](https://open.spotify.com/album/2g1GNjRGreJp22uF1ZUIAy) | 2:43 | 2022-06-02 | 2023-01-28 |
 | [En jävel på att ragga bil](https://open.spotify.com/track/1wzf0oO2OT51wljEGIprag) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [En jävel på att ragga bil](https://open.spotify.com/album/5tsqsn7LIbz7dNsdrhs82C) | 2:46 | 2023-08-10 |  |
 | [En liten plass](https://open.spotify.com/track/2vuqZNKtukufFAxw7ur0vv) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [En liten plass](https://open.spotify.com/album/1GZN0qJ29ZlPxnAw1Kuayh) | 3:08 | 2021-12-16 | 2022-07-28 |
 | [En Siste Gang](https://open.spotify.com/track/6lIrtEQ8OF4uvnhObQI24b) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [En Siste Gang](https://open.spotify.com/album/5hmLAtsJqRmubvhgQUSkJD) | 3:05 | 2022-01-20 | 2022-07-05 |
-| [En Siste Gang](https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Helt Sykt VOL2](https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA) | 3:05 | 2022-07-28 |  |
+| [En Siste Gang](https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Helt Sykt VOL2](https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA) | 3:05 | 2022-07-28 | 2023-09-24 |
 | [En Slant Til Trikken Hjem](https://open.spotify.com/track/3Ha6Sri0JqpiI8wb3vIzsY) | [Scandinavia](https://open.spotify.com/artist/5N3xjxgDYbxsAqEeB3OTSm) | [De Aller Beste](https://open.spotify.com/album/6ex4LgCUYXmoSyOUsW8NW7) | 3:34 | 2021-12-16 | 2022-04-20 |
 | [Er Det Du Eller Meg Som Er Mest Fucked Up?](https://open.spotify.com/track/11By0UO1ssT4kJ4eXhwRVb) | [PAT49](https://open.spotify.com/artist/6p3M0KTYqaOs3aOmQ6iVMs), [Kappa Laks](https://open.spotify.com/artist/7ewAbX1zy9l54vpnjsDUPj) | [Er Det Du Eller Meg Som Er Mest Fucked Up?](https://open.spotify.com/album/3LxA06EibvV4UMSVhL1EgO) | 2:09 | 2022-04-14 | 2022-08-25 |
 | [Er det lov å leva](https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Er det lov å leva](https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU) | 2:11 | 2021-12-16 | 2022-11-16 |

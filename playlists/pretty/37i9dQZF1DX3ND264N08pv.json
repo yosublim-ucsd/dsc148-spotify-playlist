@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 57703,
+  "num_followers": 57882,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzc5OTM4NjBlN2QyNDlkZmNiZWZmZDI5Njc1YjE4YzY3MmEwYWUx",
+  "snapshot_id": "MCw2MTAxYjhmNWQyYzIzN2I4YTk5OTYxMDE0ZGMwYjNkMWQwYTU4MTk4",
   "tracks": [
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Outta Here",
-        "url": "https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw"
-      },
-      "artists": [
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "Sihk",
-          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
-        }
-      ],
-      "duration_ms": 138500,
-      "name": "Outta Here",
-      "url": "https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "READY 4 WAR",
         "url": "https://open.spotify.com/album/3KX00M9fI6G2H1mlFzvPKi"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 202571,
       "name": "Jongens van de straat",
       "url": "https://open.spotify.com/track/5O9mjAGrtDPTgque6qZWn8"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Outta Here",
+        "url": "https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Sihk",
+          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
+        }
+      ],
+      "duration_ms": 138500,
+      "name": "Outta Here",
+      "url": "https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1535,6 +1535,30 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "DON'T BE SCARED",
+        "url": "https://open.spotify.com/album/5beQxSHKyvH6FeYkRttFNn"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        },
+        {
+          "name": "Frenchkillerz",
+          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
+        },
+        {
+          "name": "BLACK FREQUENCY",
+          "url": "https://open.spotify.com/artist/6npcGVRXFdD99Gcv9AKaaH"
+        }
+      ],
+      "duration_ms": 186098,
+      "name": "DON'T BE SCARED",
+      "url": "https://open.spotify.com/track/7acXF1WBYmFqqbgExXLQ98"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/1dK50G7UOfUkgB6ysbyexf"
       },
@@ -1699,22 +1723,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Dominator 2022 (Hell Of A Ride)",
-        "url": "https://open.spotify.com/album/0BWZ28qb6KwR4wD8Ms7MCA"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Schrik Van De Stad",
-      "url": "https://open.spotify.com/track/02d1XpujNOPL5bqFLaCUbU"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Back to Square One",
         "url": "https://open.spotify.com/album/6kZ3RJatrJ9zZvZwIAYiJb"
       },
@@ -1767,6 +1775,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "Dominator 2022 (Hell Of A Ride)",
+        "url": "https://open.spotify.com/album/0BWZ28qb6KwR4wD8Ms7MCA"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Schrik Van De Stad",
+      "url": "https://open.spotify.com/track/02d1XpujNOPL5bqFLaCUbU"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "Hide Me",
         "url": "https://open.spotify.com/album/3sqlQlmk1NPZaeo62ihESL"
       },
@@ -1779,6 +1803,22 @@
       "duration_ms": 183891,
       "name": "Hide Me",
       "url": "https://open.spotify.com/track/31i8Y19hlXk2MzraK6EX9B"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Masters Of Hardcore Chapter XLIV",
+        "url": "https://open.spotify.com/album/2Y0PWBnphib2osozApxHou"
+      },
+      "artists": [
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/6lmpE4fLJcfCKxJViIRjZK"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1803,42 +1843,6 @@
       "duration_ms": 201600,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/7wDCo18UPwxRkkMxd9VxBL"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Masters Of Hardcore Chapter XLIV",
-        "url": "https://open.spotify.com/album/2Y0PWBnphib2osozApxHou"
-      },
-      "artists": [
-        {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/6lmpE4fLJcfCKxJViIRjZK"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "It's Time EP",
-        "url": "https://open.spotify.com/album/4mxwkTvcFUddpupBXJz8Lp"
-      },
-      "artists": [
-        {
-          "name": "Distinction",
-          "url": "https://open.spotify.com/artist/03FPXOHxGckbmbTQVqXmm3"
-        },
-        {
-          "name": "Kelly",
-          "url": "https://open.spotify.com/artist/1EfC8FYxeatTpN8RZBiiHT"
-        }
-      ],
-      "duration_ms": 239745,
-      "name": "The Protector",
-      "url": "https://open.spotify.com/track/48IF3j773hpoiFt97HyooD"
     }
   ],
   "unique_name": "Hardcore Rage 2023",

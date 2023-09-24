@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Mick Jenkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,623,168 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,623,179 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 40 | [beauty supply](https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 3:13 |
 | 41 | [Life & Times](https://open.spotify.com/track/72yDZnVtbbtfWLYWvonF9f) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Round Trip](https://open.spotify.com/album/0PQ4npF4hXGSfNnwkxmEQ9) | 3:14 |
 | 42 | [Harlem World 97 \(feat\. Estelle\)](https://open.spotify.com/track/66c6S7LLdZ6V4LdqnB1k2M) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Harlem World 97 \(feat\. Estelle\)](https://open.spotify.com/album/0pOSCZ2yuQhY5qBYnbAwjF) | 2:17 |
-| 43 | [Dump On Em](https://open.spotify.com/track/5mMW1V1GTn7Vygkjfw2PZz) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [MC Ren](https://open.spotify.com/artist/4fbyGOEjViyE97W58eGEgU) | [Dump On Em](https://open.spotify.com/album/7gOlcEabtQvzoSyOXtjqQ5) | 3:36 |
-| 44 | [SINCE ELEMENTARY](https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [SINCE ELEMENTARY](https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs) | 3:24 |
+| 43 | [SINCE ELEMENTARY](https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [SINCE ELEMENTARY](https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs) | 3:24 |
+| 44 | [Dump On Em](https://open.spotify.com/track/5mMW1V1GTn7Vygkjfw2PZz) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [MC Ren](https://open.spotify.com/artist/4fbyGOEjViyE97W58eGEgU) | [Dump On Em](https://open.spotify.com/album/7gOlcEabtQvzoSyOXtjqQ5) | 3:36 |
 | 45 | [CHANNEL No3](https://open.spotify.com/track/6UIMNszTQOvYchYqswBR17) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [CHANNEL No3](https://open.spotify.com/album/1WfB6HK3LNQh3TLoDv3Msw) | 3:46 |
 | 46 | [Super Rare \(feat\. Hello O'Shay\)](https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Protea](https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk) | 3:20 |
 | 47 | [Andre 3000 \(feat\. Bangladesh\)](https://open.spotify.com/track/1Bm1hJhiao6NAT06jCdEsU) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [7xvethegenius](https://open.spotify.com/artist/3qIgGknqPwbSOTd6aLmah5), [Bangladesh](https://open.spotify.com/artist/0lKIUVjGFoPfBH6nXfudEx) | [Conway The Machine Presents: Drumwork The Album](https://open.spotify.com/album/23duSQFjfpcwNRHhYJmT2L) | 4:29 |
-| 48 | [MARATHON](https://open.spotify.com/track/4YsYeD30IRuVA4BnG2qRKY) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [MARATHON](https://open.spotify.com/album/3Fw74FRQhHTDA57xb2O3ki) | 3:17 |
-| 49 | [Runway](https://open.spotify.com/track/1OnukNKu7NWY4ouTc7w26u) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB) | [Runway](https://open.spotify.com/album/5pKCdjwCiOVwVVy28d2sFV) | 3:06 |
+| 48 | [Runway](https://open.spotify.com/track/1OnukNKu7NWY4ouTc7w26u) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB) | [Runway](https://open.spotify.com/album/5pKCdjwCiOVwVVy28d2sFV) | 3:06 |
+| 49 | [MARATHON](https://open.spotify.com/track/4YsYeD30IRuVA4BnG2qRKY) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [MARATHON](https://open.spotify.com/album/3Fw74FRQhHTDA57xb2O3ki) | 3:17 |
 | 50 | [$outhside Story ft\. Common](https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Victor](https://open.spotify.com/album/5wa0dQzg8Qe4L28za33DcH) | 3:16 |
 
-Snapshot ID: `MCw2ZmNmYjI0NTc2MDY3MTY1MTFmM2Q0OWU0YmJhNGM0Yjg4ZTc1YjA3`
+Snapshot ID: `MCxmZDZjNDY5MTMyZjhlMWE2MGEwY2I0MDM2NTQyYzQ2OTc2MGE0NTE2`

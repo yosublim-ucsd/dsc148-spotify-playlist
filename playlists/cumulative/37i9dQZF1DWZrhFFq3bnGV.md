@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Dewa Budjana
 
-155 songs - 11 hr 1 min
+156 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Last Day of Summer](https://open.spotify.com/track/4oUIfcycGoAKSDYhgeiFLA) | [Krista Monica](https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz) | [Last Day of Summer](https://open.spotify.com/album/7rqSiJ0ZaTI1nNWhGCdItB) | 3:02 | 2022-09-02 |  |
 | [Late Motion](https://open.spotify.com/track/6i0NdwSm1upF6v8Sd89jIO) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Late Motion](https://open.spotify.com/album/3objZ0Q20F9f5R42HfB1B3) | 2:34 | 2022-09-02 | 2022-11-18 |
 | [Leila \- Instrumental](https://open.spotify.com/track/3epfDlHCiGJMICVRFngWfm) | [David Manuhutu](https://open.spotify.com/artist/3qCCL9ki2Y4XCEJamluKMC), [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ), [Pete Bernstein](https://open.spotify.com/artist/6bd5oX2lDq7HtWnKrHm64C) | [A Journey \(Instrumental\)](https://open.spotify.com/album/4yCGYsN6zT7hhpJD5IbDYw) | 5:45 | 2023-03-03 | 2023-08-25 |
-| [Like It Was Meant To Be](https://open.spotify.com/track/7cz4iZepf9e5Mxj4t5rYeB) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Like It Was Meant To Be](https://open.spotify.com/album/6CZCQsfxNLLWURl0LicSnI) | 3:29 | 2023-08-17 |  |
+| [Like It Was Meant To Be](https://open.spotify.com/track/72GB7Yf1lIstTjcD7eQAju) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:29 | 2023-09-07 |  |
+| [Like It Was Meant To Be](https://open.spotify.com/track/7cz4iZepf9e5Mxj4t5rYeB) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Like It Was Meant To Be](https://open.spotify.com/album/6CZCQsfxNLLWURl0LicSnI) | 3:29 | 2023-08-17 | 2023-09-24 |
 | [Like Someone In Love](https://open.spotify.com/track/0fB6UiXQltFaqUEhDFqoiI) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Hansen Arief](https://open.spotify.com/artist/7446uGOrQeWwCLpw4L6DHA), [Joshua Alexander](https://open.spotify.com/artist/7cKHUspMzlUC7k1UTndbYr), [Ify Alyssa](https://open.spotify.com/artist/2Up8d4glQCL5t90Fq9aGp4) | [Like Someone In Love](https://open.spotify.com/album/6IUwLsSLyw4usMrtkg1noZ) | 3:37 | 2023-06-08 |  |
 | [Little Bit Simple \- Instrumental Version](https://open.spotify.com/track/0vlnOeaiMERE83zsDwV1i5) | [Harif Santoso](https://open.spotify.com/artist/7E6DDaLrcTuOodp5meW12r) | [Little Bit Simple \(Instrumental Version\)](https://open.spotify.com/album/3dYqureVrHc38jE6m4EqRH) | 3:17 | 2022-09-02 | 2023-08-25 |
 | [Love In Peace](https://open.spotify.com/track/3BguNO1FHJs4KRqNp1hC2K) | [Praya Tjondro](https://open.spotify.com/artist/5ByAOpFqqD2MzptfchAEiM) | [Love In Peace](https://open.spotify.com/album/72PHHKpw2zuBHrDgPx0Mfl) | 4:24 | 2023-08-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Alya Zurayya
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,380 likes - 53 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,381 likes - 53 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 52 | [Gerdalia](https://open.spotify.com/track/4NT8vnGvumlDKCc73GdnNF) | [Niga Gunawan](https://open.spotify.com/artist/1nAbYFUpfK24120Ig3EhiI) | [Gerdalia](https://open.spotify.com/album/4IryBjKtK6wNqvr0WIDWRg) | 3:33 |
 | 53 | [Smile on You](https://open.spotify.com/track/1TdWThcKzP9aoGAacnbqWg) | [The Jasmates](https://open.spotify.com/artist/1aOU8t8z49ZQmt1ZO4Gf0U) | [Smile on You](https://open.spotify.com/album/313JE1LrYa4iIKoqDYQfbx) | 3:11 |
 
-Snapshot ID: `MCxkNzg1ZjJhYmRkOWJjY2NmYjQwMzFjNDY3OTEwYmVhMDM4MmU5NDk1`
+Snapshot ID: `MCwzYzc3YjU0MGVhNDQwMDU4NmQzMDEyN2Q2NGMwZTI1NWRlOWE1NGZm`

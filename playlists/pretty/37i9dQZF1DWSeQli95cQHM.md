@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,886 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,898 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 31 | [Algo 2](https://open.spotify.com/track/7JukUaZAH26NHybv468QmK) | [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW), [BLANCAh](https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz) | [ALGO](https://open.spotify.com/album/4lYlRgyH0HzIhB5WBiCYxw) | 5:52 |
 | 32 | [Proibidao \- Selvagem / Trepanado Remix](https://open.spotify.com/track/1jjruWEZ2qpnv3pW5eepY2) | [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD), [Rosco Sledge](https://open.spotify.com/artist/77MSjesIIrHWtmTzGOLMM5), [Selvagem](https://open.spotify.com/artist/0BNvsgoekC0iZFQ7xaXNTt), [Trepanado](https://open.spotify.com/artist/36xqOgs50nlKOUVSRV4XXZ) | [Proibidao EP](https://open.spotify.com/album/4QGXGZqhe0fi5tu2TBijEj) | 6:38 |
 | 33 | [Passa a Lata de Lólo](https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq) | [Diaz](https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 4:07 |
-| 34 | [Corpo Fechado](https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K) | [Gezender](https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Corpo](https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz) | 5:03 |
-| 35 | [Espinheira Santa](https://open.spotify.com/track/77vJvWKutipZ94F2QACjc2) | [Cashu](https://open.spotify.com/artist/7oNCVt3wMXXKwOQ672Ti6Q), [Mari Herzer](https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 11:05 |
-| 36 | [Rock The Box \- Original](https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a) | [Vermelho](https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL), [Ivana Wonder](https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7) | [Rock The Box](https://open.spotify.com/album/15RTVs764De4RhPcuu03li) | 6:22 |
+| 34 | [Espinheira Santa](https://open.spotify.com/track/77vJvWKutipZ94F2QACjc2) | [Cashu](https://open.spotify.com/artist/7oNCVt3wMXXKwOQ672Ti6Q), [Mari Herzer](https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 11:05 |
+| 35 | [Rock The Box \- Original](https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a) | [Vermelho](https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL), [Ivana Wonder](https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7) | [Rock The Box](https://open.spotify.com/album/15RTVs764De4RhPcuu03li) | 6:22 |
+| 36 | [Corpo Fechado](https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K) | [Gezender](https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Corpo](https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz) | 5:03 |
 | 37 | [Chá de trombeta](https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5) | [Entropia\-Entalpia](https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e), [Fel C](https://open.spotify.com/artist/2y6nJKuBcPdakXmgggiGo4), [Bica](https://open.spotify.com/artist/3ZlQplsw3GzQQximvP0vgU) | [Chá de trombeta](https://open.spotify.com/album/3v6CT4nFEl2aUw0E5CY2Zp) | 7:00 |
 | 38 | [Orange Sunlight](https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Mensagem](https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb) | 4:26 |
 | 39 | [Maelström](https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC) | [Wielki](https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB) | [Maelström](https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT) | 8:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 49 | [Odara](https://open.spotify.com/track/3rAsJNy8H7u0wO5yoeRfNL) | [Gabto](https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP) | [V.A\. Odara Vol.1 \- Arde Mas Aguenta](https://open.spotify.com/album/3WP0lbkJsGiL9I3wWQXlmt) | 6:16 |
 | 50 | [Minguante](https://open.spotify.com/track/0F7pdPtwD1hAgYcgvE07P0) | [Kika Deeke](https://open.spotify.com/artist/2h4JqVoUA7Td1SqC5fHaAE) | [Quando o Tempo dá um Tempo](https://open.spotify.com/album/394surSicOxNpbQV6tMSDC) | 5:08 |
 
-Snapshot ID: `MCxmZTgyMTY1MTZjMDk2YjcwMzMxY2MzM2Q3MDI0NTAzMTU3OGRlMjk2`
+Snapshot ID: `MCw4NGY2OWJjNzlkMTRjYWI0NmE4NTRlY2M5N2VkOTkxNDZiMGJhNDJl`

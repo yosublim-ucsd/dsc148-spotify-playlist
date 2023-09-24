@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-285 songs - 23 hr 25 min
+286 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [He Said She Got It Going](https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Said She Got It Going](https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS) | 2:38 | 2022-11-17 |  |
 | [He Was Too Good to Me](https://open.spotify.com/track/0qj5TGBUn4HqIYobLteQT8) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [The Richard Rodgers Songbook](https://open.spotify.com/album/6opNRfwAVL3qUz1ixuVAJ5) | 4:42 | 2022-05-18 |  |
 | [Her](https://open.spotify.com/track/7n3xKq0wJh04yNxnmD6VEt) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Her](https://open.spotify.com/album/2k2Sp6taVfGQqVX9otguHc) | 3:58 | 2022-11-10 | 2023-06-23 |
-| [Here Be Dragons](https://open.spotify.com/track/0ak0lbOVx74oKQOAxsTD89) | [Oded Tzur](https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi) | [Here Be Dragons](https://open.spotify.com/album/6gW7QW2o86q0VeW6OZhDdJ) | 8:29 | 2022-05-18 |  |
+| [Here Be Dragons](https://open.spotify.com/track/0ak0lbOVx74oKQOAxsTD89) | [Oded Tzur](https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi) | [Here Be Dragons](https://open.spotify.com/album/6gW7QW2o86q0VeW6OZhDdJ) | 8:29 | 2022-05-18 | 2023-09-24 |
 | [Here's That Rainy Day](https://open.spotify.com/track/1m0dIj1PvGldkiwJUYzc1l) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [The Boss Is Back!](https://open.spotify.com/album/737Arukc7X3Nc9F5FYuBmz) | 6:07 | 2022-09-08 |  |
 | [How Insensitive](https://open.spotify.com/track/1hqWVjmyVWOk6JN5WQsBfl) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [From This Moment On](https://open.spotify.com/album/5KeVVIp7Fffz1S9gkpTyFj) | 5:19 | 2022-08-17 | 2022-08-23 |
 | [How Insensitive](https://open.spotify.com/track/5kd1KA3Gmj9ePKAcrEyNHu) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [From This Moment On \(International eAlbum\)](https://open.spotify.com/album/27IGIkOxncgWgJzzoboDcM) | 5:19 | 2022-05-18 | 2022-07-24 |
@@ -187,6 +187,7 @@
 | [No Other Love](https://open.spotify.com/track/17XdGYRzYd0bbVTlghPF1Y) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 2:59 | 2022-05-18 | 2022-08-27 |
 | [No Time To Lose](https://open.spotify.com/track/33PBF5x1QjBp3EjlMHVkqd) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [No Time To Lose](https://open.spotify.com/album/7JrQv5id6mbOlu2iWFc4Ob) | 4:31 | 2023-05-18 |  |
 | [Nocturnal Serenade](https://open.spotify.com/track/6i2gZTC6mjNvamfLYvPm8R) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Nocturnal Serenade](https://open.spotify.com/album/1a97FiVDBO8Zvor9AXqNgJ) | 4:12 | 2023-05-04 |  |
+| [Not Nice At All](https://open.spotify.com/track/7pilE4NULuXBPHZNzODH5i) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Not Nice At All](https://open.spotify.com/album/5TRSBkD21PjK91y6gfUWMH) | 2:56 | 2023-09-22 |  |
 | [Nothing Like a Spring](https://open.spotify.com/track/3nSTb8hxLHbDdG8oEXYy5u) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Clear Skies](https://open.spotify.com/album/1lkZ3pXnZoqj9grtpAkdNY) | 3:31 | 2023-03-23 |  |
 | [On 14th Street](https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 2:56 | 2022-12-01 |  |
 | [Once Upon A Summertime](https://open.spotify.com/track/1QnLbfLk02EXAJ01pTUsvs) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Waltz For Debby](https://open.spotify.com/album/5jMKNvYYHH08quqLK3ylTC) | 3:03 | 2022-05-18 | 2022-08-27 |

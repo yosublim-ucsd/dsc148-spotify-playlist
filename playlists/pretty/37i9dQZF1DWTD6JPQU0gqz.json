@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 49764,
+  "num_followers": 49776,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjRhZjRkNzNjY2RiOGI0M2VlZjUwZDRmNDYwYzkxZmRmMTFkYWU5",
+  "snapshot_id": "MCw1NDY4NGE2MzkxNTc5ODJkOGM5MzRhYTc2MGU0Njg2NTgwYTg2MDk5",
   "tracks": [
     {
       "added_at": "2023-06-20 14:37:46",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "El Toro",
+        "url": "https://open.spotify.com/album/4YlZJyaLuOrjvaReHUvxCm"
+      },
+      "artists": [
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        }
+      ],
+      "duration_ms": 160093,
+      "name": "El Toro",
+      "url": "https://open.spotify.com/track/1vxryrqzNEJwIXFusC2U7t"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "Se Acab\u00f3 (feat. Mozart La Para)",
         "url": "https://open.spotify.com/album/6PIadmxdguUf7r0EZtxlMr"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 186216,
       "name": "Se Acab\u00f3 (feat. Mozart La Para)",
       "url": "https://open.spotify.com/track/13N9dHnUuR0W5MvzFYko5a"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "El Toro",
-        "url": "https://open.spotify.com/album/4YlZJyaLuOrjvaReHUvxCm"
-      },
-      "artists": [
-        {
-          "name": "Nino Freestyle",
-          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
-        }
-      ],
-      "duration_ms": 160093,
-      "name": "El Toro",
-      "url": "https://open.spotify.com/track/1vxryrqzNEJwIXFusC2U7t"
     },
     {
       "added_at": "2023-06-20 14:37:46",

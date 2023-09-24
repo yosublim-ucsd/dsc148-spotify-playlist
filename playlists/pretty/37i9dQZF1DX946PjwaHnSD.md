@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX946PjwaHnSD.md) - [plain]
 
 > Os batidões mais agitados pra animar sua malhação!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,958 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,997 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX946PjwaHnSD.md) - [plain]
 | 69 | [Ostentação Fora do Normal](https://open.spotify.com/track/0XdMbVMiMX140TBtpbwbcC) | [Mc Leo da Baixada](https://open.spotify.com/artist/7BcNoOEIx29j5XjfDxCIUy), [Mc Daleste](https://open.spotify.com/artist/4icSP0yZzpmBZLO6Z8OQGZ) | [Ostentação Fora do Normal](https://open.spotify.com/album/6BmG1T4PMrYDeo4lxRKgeU) | 4:08 |
 | 70 | [Beijinho no Ombro](https://open.spotify.com/track/4k3HBeh98WWN2ybGHC0WQI) | [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [Beijinho no Ombro](https://open.spotify.com/album/0ofNAjXeTd2H2co7rKhKTE) | 2:44 |
 | 71 | [O Bebê](https://open.spotify.com/track/15YEYgT0kDso9gwOcJFAmV) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [O Bebê](https://open.spotify.com/album/7J4vpR8Rl5sB7GqBIk8A8h) | 2:58 |
-| 72 | [Ela É Top](https://open.spotify.com/track/7xqti214kTYnmT84pwA1KI) | [Mc Bola](https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc) | [É Top](https://open.spotify.com/album/76hwJW4FIuRZUuYi7dXLQl) | 2:42 |
+| 72 | [Ela É Top](https://open.spotify.com/track/7xqti214kTYnmT84pwA1KI) | [Mc Bola](https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc), [DJ Gao](https://open.spotify.com/artist/0Q1CkPEUGw8fsEgygBdYQr) | [É Top](https://open.spotify.com/album/76hwJW4FIuRZUuYi7dXLQl) | 2:42 |
 | 73 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 |
 | 74 | [Só Você](https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Só Você](https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de) | 2:41 |
 | 75 | [Vou Buscar](https://open.spotify.com/track/0xM4n3kxoGINnGMPHHzpPK) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Dj Nene](https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM) | [Vou Buscar](https://open.spotify.com/album/7qefhomYNiDsv0Kcc0RBVy) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX946PjwaHnSD.md) - [plain]
 | 99 | [Ao Som do 150](https://open.spotify.com/track/2nCKTSg3tWkfth4TSYBVzy) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Ao Som do 150](https://open.spotify.com/album/0NnlEaVeimova4vnBMhkGl) | 1:59 |
 | 100 | [Lindona](https://open.spotify.com/track/1wyclICZwhqZYizAdtvzYu) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Mc Bola](https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc), [Nego Blue](https://open.spotify.com/artist/5dpdK20EYUPpUaAk9ERPFg) | [Lindona](https://open.spotify.com/album/5qrFMWpAjDjSzBPhgoXAVy) | 3:52 |
 
-Snapshot ID: `MCxhZGFmY2NiY2M0ZTI4YTQwMzY0MmYwMGFjMzAzMjhkZjI4MjE4MjQx`
+Snapshot ID: `MCxlN2IwZTgyNmE5NzViMTg3Nzc4Mzk5ZDc3ZjgwMmFkYjY2MmU2NDk4`

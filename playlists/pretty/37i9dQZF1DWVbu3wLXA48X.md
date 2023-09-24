@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: The National
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,242 likes - 92 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,250 likes - 92 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 4 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 5 | [Circle](https://open.spotify.com/track/2daQ1ffjbUgZxzrxQSQb71) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [All Around You](https://open.spotify.com/album/0V1dIAje2IVpyBQp6byOwi) | 3:00 |
 | 6 | [cyber meat](https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 3:06 |
-| 7 | [MEGUANXIDEYO](https://open.spotify.com/track/4RDEVasHPf6KH7yTCjpL47) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [MEGUANXIDEYO](https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu) | 3:40 |
+| 7 | [MEIGUANXIDEYO](https://open.spotify.com/track/4RDEVasHPf6KH7yTCjpL47) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [MEIGUANXIDEYO](https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu) | 3:40 |
 | 8 | [Will Anybody Ever Love Me?](https://open.spotify.com/track/4g37wGcNWcVCdY0UoRNPzu) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Will Anybody Ever Love Me?](https://open.spotify.com/album/0k9E8vq5iYJUNO40E2G6U1) | 4:09 |
 | 9 | [All Night](https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [All Night](https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk) | 3:28 |
 | 10 | [Lifetime](https://open.spotify.com/track/0jVRZSyLXC48J2G66b12Ms) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Lifetime](https://open.spotify.com/album/6PvL70jTGrQAekjocgG620) | 5:06 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 77 | [Daydream](https://open.spotify.com/track/4O8svCJbCldgKp4meuXRKr) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM), [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [Daydream](https://open.spotify.com/album/6FR3pCx1lAGyWlkGVIWkP0) | 3:38 |
 | 78 | [An Arrow In The Wall](https://open.spotify.com/track/4UZIlXnN3AXAqwd9PpFtiU) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [An Arrow In The Wall](https://open.spotify.com/album/3lpSUYsMgtrhNEjsPfCfsz) | 4:49 |
 | 79 | [Manhattan](https://open.spotify.com/track/0WMkBDaWr13JBRaIGMNyQu) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Manhattan](https://open.spotify.com/album/3iWkBhtKdPdzo7opnJRmTX) | 5:19 |
-| 80 | [Like It Was Meant To Be](https://open.spotify.com/track/7cz4iZepf9e5Mxj4t5rYeB) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Like It Was Meant To Be](https://open.spotify.com/album/6CZCQsfxNLLWURl0LicSnI) | 3:29 |
+| 80 | [Like It Was Meant To Be](https://open.spotify.com/track/72GB7Yf1lIstTjcD7eQAju) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:29 |
 | 81 | [Space Invader](https://open.spotify.com/track/7eP181rqgdCB0q9HD4BzMK) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Space Invader](https://open.spotify.com/album/3NYiaVQ8wD0rx56fMcAaFG) | 6:58 |
 | 82 | [Love It Is Not Love](https://open.spotify.com/track/6Vt9VWwLberr7ByuYsTmti) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw), [The Shacks](https://open.spotify.com/artist/6vqxTQz5ZOfRSQZWfes7mR) | [Love It Is Not Love](https://open.spotify.com/album/4NhcBOfwaQODR4OY3boMSV) | 3:39 |
 | 83 | [I did it again \(電影《全個世界都有電話》插曲\)](https://open.spotify.com/track/2YKCtAZ6XEJz35zQaKVw1X) | [SoulFa 靈魂沙發](https://open.spotify.com/artist/2eJX9VONHesNkNhdVKuBTY) | [I did it again \(電影《全個世界都有電話》插曲\)](https://open.spotify.com/album/4iwij262gYXrOrMInEoBSa) | 3:23 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 91 | [Losing You](https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Losing You](https://open.spotify.com/album/1JtdjMrrJTW1wC4r8olF1t) | 3:02 |
 | 92 | [Better Than Life](https://open.spotify.com/track/0fsh3O5K4Cih85nuCqekP0) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Better Than Life](https://open.spotify.com/album/23ja9hIqOtQ70oJCOPFEow) | 1:29 |
 
-Snapshot ID: `MCwzYzkxOTE5MjdhMmNlZDMwMWE1YzU2ZWQ1Y2VlNzcwYjc0MDZkMGQ2`
+Snapshot ID: `MCw3ZmY0MDRlMjcyMjAzYTUzNTY4MjMyNjQ2ZTUwZTJjMTI5YWIyMjQ0`

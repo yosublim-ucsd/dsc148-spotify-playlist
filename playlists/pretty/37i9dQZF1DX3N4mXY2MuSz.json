@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzU2Nzg3Y2E2ZmU2NjZiMDY2NWY1OGU4ZWE3ZWRkMzJmMzBlYjky",
+  "snapshot_id": "MCwyMzM0NWViN2EwNTdmY2JiZWNkZGMxYjQ0MTQ3NTQ3MmM1ZTM0NzRk",
   "tracks": [
     {
       "added_at": "2022-11-09 11:58:09",
@@ -267,22 +267,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Dirty Work",
-        "url": "https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Merry Christmas, Kiss My Ass",
-      "url": "https://open.spotify.com/track/1Y2GZOHagYKkKRzNVbpbT5"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Gift Wrapped: 20 Songs That Keep On Giving",
         "url": "https://open.spotify.com/album/6VkWzNwwvmUfEBAzrBEIzY"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 224586,
       "name": "All I Want for Christmas Is You - 2005",
       "url": "https://open.spotify.com/track/48wRnWDekEx5bCOA9oeVF4"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Merry Christmas, Kiss My Ass",
+      "url": "https://open.spotify.com/track/1Y2GZOHagYKkKRzNVbpbT5"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -443,18 +443,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Self Entitled",
-        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
+        "name": "Happy Skalidays",
+        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
       },
       "artists": [
         {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
         }
       ],
-      "duration_ms": 163933,
-      "name": "Xmas Has Been X'ed",
-      "url": "https://open.spotify.com/track/40GMBdqqTwa2A1pGZEfOxO"
+      "duration_ms": 182286,
+      "name": "Grandma Got Run Over By A Reindeer",
+      "url": "https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -491,6 +491,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Xmas Has Been X'ed",
+      "url": "https://open.spotify.com/track/40GMBdqqTwa2A1pGZEfOxO"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
         "url": "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 217466,
       "name": "Is This Christmas? - Radio Edit",
       "url": "https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Happy Skalidays",
-        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 182286,
-      "name": "Grandma Got Run Over By A Reindeer",
-      "url": "https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas (Baby Please Come Home)",
-        "url": "https://open.spotify.com/album/2rFjx4qhTiyQwCAnNSnJQs"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 187355,
-      "name": "Christmas (Baby Please Come Home)",
-      "url": "https://open.spotify.com/track/3FaUJo1nrRUm51tc4nldkg"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 109186,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/1Hal68E1MbcY7GPcsQbqVm"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Christmas (Baby Please Come Home)",
+        "url": "https://open.spotify.com/album/2rFjx4qhTiyQwCAnNSnJQs"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 187355,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/3FaUJo1nrRUm51tc4nldkg"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -651,6 +651,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 127733,
+      "name": "O Come, O Come Emmanuel",
+      "url": "https://open.spotify.com/track/16qtpiIyiTmsN2Dnl5ZPj9"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "The Season's Upon Us",
         "url": "https://open.spotify.com/album/0eX2dIB3Ce7t32RjWoppJJ"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 242186,
       "name": "The Season's Upon Us",
       "url": "https://open.spotify.com/track/1gSmN84niQf7DZSCCWfOyN"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Punk Goes Christmas (Deluxe)",
-        "url": "https://open.spotify.com/album/6pj3sxkEUpAOlix05HpxmF"
-      },
-      "artists": [
-        {
-          "name": "Jarrod Alonge",
-          "url": "https://open.spotify.com/artist/3zLWOB0I86EiVgG5NrX1ht"
-        }
-      ],
-      "duration_ms": 207255,
-      "name": "12 Days Of A Pop-Punk Christmas",
-      "url": "https://open.spotify.com/track/3a0JYuE4yo9xtGon59a7t9"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -699,18 +699,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
+        "name": "Punk Goes Christmas (Deluxe)",
+        "url": "https://open.spotify.com/album/6pj3sxkEUpAOlix05HpxmF"
       },
       "artists": [
         {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+          "name": "Jarrod Alonge",
+          "url": "https://open.spotify.com/artist/3zLWOB0I86EiVgG5NrX1ht"
         }
       ],
-      "duration_ms": 127733,
-      "name": "O Come, O Come Emmanuel",
-      "url": "https://open.spotify.com/track/16qtpiIyiTmsN2Dnl5ZPj9"
+      "duration_ms": 207255,
+      "name": "12 Days Of A Pop-Punk Christmas",
+      "url": "https://open.spotify.com/track/3a0JYuE4yo9xtGon59a7t9"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -727,6 +727,22 @@
       "duration_ms": 221040,
       "name": "Hava Nagila",
       "url": "https://open.spotify.com/track/7ybZEUwDsHGMkWGoNSgmCg"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 99573,
+      "name": "God Rest Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/1dlO7CncE79hCspdTO99Fz"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -795,18 +811,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Horror Xmas",
-        "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
+        "name": "Happy Skalidays",
+        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
       },
       "artists": [
         {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
         }
       ],
-      "duration_ms": 132637,
-      "name": "You\u2019re a Mean One, Mr. Grinch",
-      "url": "https://open.spotify.com/track/385QXeZY8UHFDde2FvFwuS"
+      "duration_ms": 228868,
+      "name": "Skank For Christmas",
+      "url": "https://open.spotify.com/track/3VblSLAooy2B3mFwHbApLy"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -827,34 +843,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Happy Skalidays",
-        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
+        "name": "Horror Xmas",
+        "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
       },
       "artists": [
         {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
         }
       ],
-      "duration_ms": 228868,
-      "name": "Skank For Christmas",
-      "url": "https://open.spotify.com/track/3VblSLAooy2B3mFwHbApLy"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 99573,
-      "name": "God Rest Ye Merry Gentlemen",
-      "url": "https://open.spotify.com/track/1dlO7CncE79hCspdTO99Fz"
+      "duration_ms": 132637,
+      "name": "You\u2019re a Mean One, Mr. Grinch",
+      "url": "https://open.spotify.com/track/385QXeZY8UHFDde2FvFwuS"
     },
     {
       "added_at": "2022-12-01 23:00:47",
@@ -871,6 +871,22 @@
       "duration_ms": 185973,
       "name": "Lieder und Lametta",
       "url": "https://open.spotify.com/track/46KSW1QTjZ0d6MuaRqduti"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Nothing For Christmas",
+      "url": "https://open.spotify.com/track/5zdyKroAn09fOqljE7ddIV"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -896,22 +912,6 @@
       },
       "artists": [
         {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Nothing For Christmas",
-      "url": "https://open.spotify.com/track/5zdyKroAn09fOqljE7ddIV"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Punk Goes Christmas",
-        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
-      },
-      "artists": [
-        {
           "name": "Real Friends",
           "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
         }
@@ -919,22 +919,6 @@
       "duration_ms": 157746,
       "name": "I Had A Heart",
       "url": "https://open.spotify.com/track/32l3HV3vwkoVjagjLGdJll"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "\u2026And A Happy New Year",
-        "url": "https://open.spotify.com/album/0nvXgp11ABRjr2BFuBm3rP"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 201640,
-      "name": "Mr. Winter",
-      "url": "https://open.spotify.com/track/3dboEgQj1XkorQYxcj62PY"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -951,6 +935,22 @@
       "duration_ms": 92706,
       "name": "Hark! The Herald Angels Sing",
       "url": "https://open.spotify.com/track/6myYlIrIBlKhGxYpRwfh03"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "\u2026And A Happy New Year",
+        "url": "https://open.spotify.com/album/0nvXgp11ABRjr2BFuBm3rP"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 201640,
+      "name": "Mr. Winter",
+      "url": "https://open.spotify.com/track/3dboEgQj1XkorQYxcj62PY"
     },
     {
       "added_at": "2021-11-19 13:39:50",

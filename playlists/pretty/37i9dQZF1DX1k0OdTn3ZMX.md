@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Skindred.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,194 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,384 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 49 | [Soaking Nerves](https://open.spotify.com/track/16obiBx0cUuFG2ib5QRTfX) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Soaking Nerves](https://open.spotify.com/album/28LaJRDcI0PPmkylQH0vsn) | 2:57 |
 | 50 | [Unraveling](https://open.spotify.com/track/6YP09NwxQ8SLxcIksD89Bp) | [Earshot](https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA) | [Unraveling](https://open.spotify.com/album/1QpkidAXuoW3JBeHlA8Vu0) | 2:59 |
 
-Snapshot ID: `MCw4YWQ3Zjk0MTZlNTJjMTVmY2JkNmYzODkwY2JjMzI0ZWY3NzBlOThh`
+Snapshot ID: `MCwyNzBmY2MyNzQyN2JiNWI2ZDBhYjQ1NGUzOGJhODEwYzc0NjE5NmQ0`

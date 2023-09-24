@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265360,
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
+    },
+    {
+      "album": {
         "name": "Aktiverad (Klick Klack)",
         "url": "https://open.spotify.com/album/08X6EYHEmvmFt7Xpgtquo4"
       },
@@ -1958,7 +1976,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
@@ -2590,6 +2608,24 @@
       "duration_ms": 205280,
       "name": "Birthday Cake",
       "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
+    },
+    {
+      "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
       "album": {
@@ -3562,7 +3598,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 196939,
       "name": "Can't Tame Her",
       "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
@@ -4976,7 +5012,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 158101,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/4DXxwYUmOfpVk0RU8oZw1M"
@@ -6006,6 +6042,32 @@
       "duration_ms": 212668,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/0fQfJFfngYfG26560HLMLN"
+    },
+    {
+      "album": {
+        "name": "D\u00f8nski Pikken (Scooby)",
+        "url": "https://open.spotify.com/album/6f2RIqBvbuv3fiYEC1sHuk"
+      },
+      "artists": [
+        {
+          "name": "Westbound",
+          "url": "https://open.spotify.com/artist/722i4mGB64Op5XVudnFI0u"
+        },
+        {
+          "name": "Roc Mul",
+          "url": "https://open.spotify.com/artist/2QkG2LM1QO37UTojXXTCvB"
+        },
+        {
+          "name": "Generalen",
+          "url": "https://open.spotify.com/artist/5oud9gmLpNuZfvGs74Dy5n"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181166,
+      "name": "D\u00f8nski Pikken (Scooby)",
+      "url": "https://open.spotify.com/track/2B4M8QyF3XRa5r9iGfkPA7"
     },
     {
       "album": {
@@ -8400,7 +8462,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 211141,
       "name": "get him back!",
       "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
@@ -8472,7 +8534,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 177921,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
@@ -9016,6 +9078,24 @@
       "duration_ms": 168689,
       "name": "Gutter Snakker Aldri Sammen",
       "url": "https://open.spotify.com/track/3g3sGREXFyNQIxLYJ4p4l9"
+    },
+    {
+      "album": {
+        "name": "G\u00e5 bli lykkelig, du",
+        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187281,
+      "name": "G\u00e5 bli lykkelig, du",
+      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
     },
     {
       "album": {
@@ -14030,7 +14110,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 121198,
       "name": "leve",
       "url": "https://open.spotify.com/track/6d9s0vEuwplNtUGzch47Od"
@@ -17943,6 +18023,24 @@
     },
     {
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+    },
+    {
+      "album": {
         "name": "Paint The Town Red",
         "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
       },
@@ -17954,7 +18052,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
@@ -24133,6 +24231,24 @@
     },
     {
       "album": {
+        "name": "VARMT",
+        "url": "https://open.spotify.com/album/5f16FcQYKBKs7UwUxLmRTz"
+      },
+      "artists": [
+        {
+          "name": "Segert\u00e5get",
+          "url": "https://open.spotify.com/artist/2ipDTQIxcKOp0YwDcGgO1u"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151706,
+      "name": "VARMT",
+      "url": "https://open.spotify.com/track/0EspE7ObH3h4icYdHdpwUl"
+    },
+    {
+      "album": {
         "name": "Ventar p\u00e5 mirakelet (med Daniela Reyes)",
         "url": "https://open.spotify.com/album/46k5pLdMCGyUagrOHDKold"
       },
@@ -24708,6 +24824,28 @@
       "duration_ms": 172266,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
+    },
+    {
+      "album": {
+        "name": "When You're Lonely",
+        "url": "https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159016,
+      "name": "When You're Lonely",
+      "url": "https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc"
     },
     {
       "album": {

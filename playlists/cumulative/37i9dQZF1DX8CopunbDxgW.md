@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: CRi
 
-936 songs - 2 day 12 hr 39 min
+937 songs - 2 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -756,7 +756,7 @@
 | [Standing My Ground](https://open.spotify.com/track/6zNm2BIV6gbsRRG0jwQA2d) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Standing My Ground](https://open.spotify.com/album/0d8gBiY0neOTYJmbd8Muw6) | 2:49 | 2023-08-04 |  |
 | [Star City \- Radio Edit](https://open.spotify.com/track/1DxjrGvRHPxmLF8TEmsqwt) | [Solomon Fesshaye](https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4) | [Star City](https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb) | 3:36 | 2022-02-25 | 2022-07-28 |
 | [Star Song](https://open.spotify.com/track/4EZIrBbmC9MqtxXNUrlho4) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Star Song](https://open.spotify.com/album/1YXaxdoQwwzdpLQDDDpmPD) | 3:30 | 2023-03-03 | 2023-05-04 |
-| [Star Swing](https://open.spotify.com/track/3aZI3XL8QULBURRSg2O7rr) | [Astrocolor](https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD) | [Moonlighting – AstroJazz Vol.1](https://open.spotify.com/album/4UaAyjTwG1k7X6qJkwYoAy) | 3:35 | 2023-08-25 |  |
+| [Star Swing](https://open.spotify.com/track/3aZI3XL8QULBURRSg2O7rr) | [Astrocolor](https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD) | [Moonlighting – AstroJazz Vol.1](https://open.spotify.com/album/4UaAyjTwG1k7X6qJkwYoAy) | 3:35 | 2023-08-25 | 2023-09-24 |
 | [Staring at the Ceiling](https://open.spotify.com/track/1vPRVC9OhWpLUFmHwUCziG) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Staring at the Ceiling](https://open.spotify.com/album/2pI8tzfUm19pAGtH3ZHfq5) | 3:43 | 2022-02-25 | 2022-04-17 |
 | [Staring In The Dark](https://open.spotify.com/track/7JAVF82CR6L7SZzxiPPOM2) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Staring In The Dark](https://open.spotify.com/album/2jxqw18TEVeQ2GhNMq7Ht3) | 4:03 | 2023-03-24 | 2023-09-16 |
 | [Starstruck \- Vegyn Remix](https://open.spotify.com/track/1DuPTyxPS2oiZMgLAF11gj) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Starstruck \(Vegyn Remix\)](https://open.spotify.com/album/6GJDNkrgXK9vjiJbK9g9qa) | 3:48 | 2021-05-07 | 2023-02-11 |
@@ -775,6 +775,7 @@
 | [Studio 54](https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Studio 54](https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv) | 2:46 | 2023-05-26 |  |
 | [Suenos Bravos](https://open.spotify.com/track/0GvR5AtuXU05hbkRA5o4WT) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Suenos Bravos](https://open.spotify.com/album/0qkdLopwwuWRoX4U4FpXL0) | 3:30 | 2021-09-10 | 2022-08-18 |
 | [Summer Lovin'](https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KEHLI](https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA) | [Summer Lovin'](https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS) | 3:06 | 2021-06-11 | 2022-07-02 |
+| [Summer of Luv \(feat\. Unknown Mortal Orchestra\) \- Bakermat Remix](https://open.spotify.com/track/2i7dmjiBBXxJEBwTg0XO4o) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Summer of Luv \(feat\. Unknown Mortal Orchestra\) \[Bakermat Remix\]](https://open.spotify.com/album/1PoyQK1c3DiDe0TeNz21z0) | 2:43 | 2023-09-22 |  |
 | [summer on the inside](https://open.spotify.com/track/21ksz0flcMgWIbERkkpRND) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [summer on the inside](https://open.spotify.com/album/3Wl4tQlkhwDKdfZn6K0SgD) | 3:25 | 2021-07-30 | 2022-02-12 |
 | [summertime breeze](https://open.spotify.com/track/1IdASaCkAnfqAPHBqOVP7t) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [summertime breeze](https://open.spotify.com/album/7AWpTOhF68ORoyDYXG9TxN) | 3:02 | 2022-05-06 | 2022-07-25 |
 | [Sunburn](https://open.spotify.com/track/7xqDIqjgXW9OHbi1sPxeUF) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sunburn](https://open.spotify.com/album/1203zCqGjsMNe9vre3dMrJ) | 3:02 | 2022-05-20 | 2022-08-17 |

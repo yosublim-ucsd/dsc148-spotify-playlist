@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Steves J. Bryan",
-  "num_followers": 81320,
+  "num_followers": 81372,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjZmYWVjYzQ2ZDc5NjY5NmIwODY2N2I0MDI5YWFjNjQ0OGY0Mzlj",
+  "snapshot_id": "MCwwMjNiZjU5MTQwMDdmMjNlZWVhMTY0ZTdhMWI1OTU1ODk3ZjAxODY1",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Mennaj Moun Yo",
+        "url": "https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7"
+      },
+      "artists": [
+        {
+          "name": "Tony Mix",
+          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
+        }
+      ],
+      "duration_ms": 188035,
+      "name": "Mennaj Moun Yo",
+      "url": "https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Kelly Krow",
         "url": "https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 270315,
       "name": "Sal Vle",
       "url": "https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Mennaj Moun Yo",
-        "url": "https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7"
-      },
-      "artists": [
-        {
-          "name": "Tony Mix",
-          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
-        }
-      ],
-      "duration_ms": 188035,
-      "name": "Mennaj Moun Yo",
-      "url": "https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Way Too Nice",
+        "url": "https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65"
+      },
+      "artists": [
+        {
+          "name": "Eyo-E",
+          "url": "https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB"
+        }
+      ],
+      "duration_ms": 125600,
+      "name": "Way Too Nice",
+      "url": "https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Flavors",
         "url": "https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 166008,
       "name": "Wine Pon Me - Remix",
       "url": "https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Way Too Nice",
-        "url": "https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65"
-      },
-      "artists": [
-        {
-          "name": "Eyo-E",
-          "url": "https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB"
-        }
-      ],
-      "duration_ms": 125600,
-      "name": "Way Too Nice",
-      "url": "https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "New Life Livin",
-        "url": "https://open.spotify.com/album/0RzCStjG3EleF3nBseRL5z"
+        "name": "Dekonekte",
+        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
       },
       "artists": [
         {
-          "name": "Kai Alc\u00e9",
-          "url": "https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi"
+          "name": "Florence El Luche",
+          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
         }
       ],
-      "duration_ms": 311098,
-      "name": "New Life Livin",
-      "url": "https://open.spotify.com/track/5oUSwHrEKXPo8JoEUDWAvY"
+      "duration_ms": 226560,
+      "name": "Dekonekte",
+      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Dekonekte",
-        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
+        "name": "New Life Livin",
+        "url": "https://open.spotify.com/album/0RzCStjG3EleF3nBseRL5z"
       },
       "artists": [
         {
-          "name": "Florence El Luche",
-          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
+          "name": "Kai Alc\u00e9",
+          "url": "https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi"
         }
       ],
-      "duration_ms": 226560,
-      "name": "Dekonekte",
-      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
+      "duration_ms": 311098,
+      "name": "New Life Livin",
+      "url": "https://open.spotify.com/track/5oUSwHrEKXPo8JoEUDWAvY"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "On va pas baisser les bras",
+        "url": "https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A"
+      },
+      "artists": [
+        {
+          "name": "Paska",
+          "url": "https://open.spotify.com/artist/1bzxy9o2LlCO1NZOXGRSe6"
+        },
+        {
+          "name": "Romeomania",
+          "url": "https://open.spotify.com/artist/3Gd9aSyUrIZVbZmC6q6A4w"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "On va pas baisser les bras",
+      "url": "https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Come to My Bedroom",
         "url": "https://open.spotify.com/album/2vYwjJsZHvUDwfiAXS8LP9"
       },
@@ -1471,22 +1491,6 @@
       "duration_ms": 141955,
       "name": "Come to My Bedroom",
       "url": "https://open.spotify.com/track/5fnGy4kjvO08yxiFkVt1bG"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Haiti debout",
-        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9lO",
-          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Kote moun yo",
-      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1523,22 +1527,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "On va pas baisser les bras",
-        "url": "https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A"
+        "name": "Haiti debout",
+        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
       },
       "artists": [
         {
-          "name": "Paska",
-          "url": "https://open.spotify.com/artist/1bzxy9o2LlCO1NZOXGRSe6"
-        },
-        {
-          "name": "Romeomania",
-          "url": "https://open.spotify.com/artist/3Gd9aSyUrIZVbZmC6q6A4w"
+          "name": "B\u00e9lO",
+          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
         }
       ],
-      "duration_ms": 195692,
-      "name": "On va pas baisser les bras",
-      "url": "https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r"
+      "duration_ms": 198533,
+      "name": "Kote moun yo",
+      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Regr\u00e8",
-        "url": "https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7"
-      },
-      "artists": [
-        {
-          "name": "Wood Terrib",
-          "url": "https://open.spotify.com/artist/4wSk5bVKgDx15T3dXLDcfr"
-        }
-      ],
-      "duration_ms": 229998,
-      "name": "Regr\u00e8",
-      "url": "https://open.spotify.com/track/4QNzWxiTT6z18G0so0cflj"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Ou Bezwen",
         "url": "https://open.spotify.com/album/0tH8ORhhM3pt7UhoG9jnOp"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 173025,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Regr\u00e8",
+        "url": "https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7"
+      },
+      "artists": [
+        {
+          "name": "Wood Terrib",
+          "url": "https://open.spotify.com/artist/4wSk5bVKgDx15T3dXLDcfr"
+        }
+      ],
+      "duration_ms": 229998,
+      "name": "Regr\u00e8",
+      "url": "https://open.spotify.com/track/4QNzWxiTT6z18G0so0cflj"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Can't Catch Me",
-        "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
-      },
-      "artists": [
-        {
-          "name": "Jessie Woo",
-          "url": "https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL"
-        }
-      ],
-      "duration_ms": 229991,
-      "name": "Can't Catch Me",
-      "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Ram 6: Manmanm Se Ginen",
         "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 183333,
       "name": "Mpral D\u00f2mi Nan Simity\u00e8",
       "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Can't Catch Me",
+        "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
+      },
+      "artists": [
+        {
+          "name": "Jessie Woo",
+          "url": "https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL"
+        }
+      ],
+      "duration_ms": 229991,
+      "name": "Can't Catch Me",
+      "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
     },
     {
       "added_at": "2023-09-01 04:00:00",

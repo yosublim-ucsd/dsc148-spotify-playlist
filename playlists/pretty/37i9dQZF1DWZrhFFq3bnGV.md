@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Dewa Budjana
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,768 likes - 79 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,786 likes - 79 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Padmaskara](https://open.spotify.com/track/5kQpYeaQvEMyCkCv3VUQod) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB) | [Padmaskara](https://open.spotify.com/album/7jwpaXb1Aze8GHnIpDHGfW) | 4:05 |
-| 2 | [Like It Was Meant To Be](https://open.spotify.com/track/7cz4iZepf9e5Mxj4t5rYeB) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Like It Was Meant To Be](https://open.spotify.com/album/6CZCQsfxNLLWURl0LicSnI) | 3:29 |
+| 2 | [Like It Was Meant To Be](https://open.spotify.com/track/72GB7Yf1lIstTjcD7eQAju) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:29 |
 | 3 | [Everyday People](https://open.spotify.com/track/6rmxcDSZza05k1ylSVo3am) | [Praya Tjondro](https://open.spotify.com/artist/5ByAOpFqqD2MzptfchAEiM) | [Love In Peace](https://open.spotify.com/album/72PHHKpw2zuBHrDgPx0Mfl) | 4:37 |
 | 4 | [Berbunga \- Bunga](https://open.spotify.com/track/3NtqKyA6WU6AR6ajEAntjO) | [The Groove](https://open.spotify.com/artist/4QaAmS47H6ZCc5JtXP5933), [Tiara Effendy](https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg) | [Sejiwa](https://open.spotify.com/album/4rEgxywUFenTE0CSvJxUAO) | 3:56 |
 | 5 | [GYMNASIUM](https://open.spotify.com/track/3gXpHM1ZcUKF5Kn3CtuT0q) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np), [JOY](https://open.spotify.com/artist/2hiaJ5v1B9HiftMeHcDmht) | [GYMNASIUM](https://open.spotify.com/album/04hDXHNlGH50mEs2aSI0D2) | 3:49 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 78 | [Afterthought](https://open.spotify.com/track/3cXwYQyvPCwNoWPDisoBOy) | [Anastasya Poetri](https://open.spotify.com/artist/6e2MbJs1OWfSbaCCkJybNt) | [Afterthought](https://open.spotify.com/album/44mPYEF7jEnGsvsA0TFceA) | 3:44 |
 | 79 | [Pengungkapan Hatimu](https://open.spotify.com/track/7jITLJhURuLtOkLxmjDs67) | [Candra Darusman](https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Pengungkapan Hatimu](https://open.spotify.com/album/6SYCwGMPFlhIgFQuiVoGpe) | 3:56 |
 
-Snapshot ID: `MCw2ZjYzY2JkNmQ1YjM3MjU0YzdmYmY5NDliNzMzMjViNzFiODI3MDZl`
+Snapshot ID: `MCw3MzU4NjQyZWZhODdkMDBkOWY3MDQxNmE0NDM5ODYyODNhM2JiN2M5`

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Aitana",
-  "num_followers": 993766,
+  "num_followers": 993885,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTBjYjJkNTZmNDM1MmZiZGNkN2Q0MzVlNWIwOTRjOWRhMmE4ZGJk",
+  "snapshot_id": "MCwyYWJjOGIyOTRhOTU1OWM5YTAxMThjNjViNzE1MmQ3ODhiNjI5NDRk",
   "tracks": [
     {
       "added_at": "2023-09-21 22:01:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "Pasa_je_ro",
-        "url": "https://open.spotify.com/album/6iYDWq8eBZDw4Te0dOsnAI"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 247280,
-      "name": "Pasa_je_ro",
-      "url": "https://open.spotify.com/track/5wPrJkHbugqIJuMQJN2qjp"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
         "name": "La la Love You Bonus",
         "url": "https://open.spotify.com/album/5RpGs1cIVJHLtn88LEdXjb"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 188093,
       "name": "El Fin del Mundo",
       "url": "https://open.spotify.com/track/70JnnNNAxPjvZGPwjJfX47"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "Pasa_je_ro",
+        "url": "https://open.spotify.com/album/6iYDWq8eBZDw4Te0dOsnAI"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 247280,
+      "name": "Pasa_je_ro",
+      "url": "https://open.spotify.com/track/5wPrJkHbugqIJuMQJN2qjp"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
+        "name": "M\u00e1quina del Tiempo",
+        "url": "https://open.spotify.com/album/7oXFKwMbYhY6K8P6Skp3hM"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 153386,
+      "name": "M\u00e1quina del Tiempo",
+      "url": "https://open.spotify.com/track/7rGpG81sWMUcxkyJwvmlAq"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
         "name": "PORTARSE MAL",
         "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "M\u00e1quina del Tiempo",
-        "url": "https://open.spotify.com/album/7oXFKwMbYhY6K8P6Skp3hM"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        }
-      ],
-      "duration_ms": 153386,
-      "name": "M\u00e1quina del Tiempo",
-      "url": "https://open.spotify.com/track/7rGpG81sWMUcxkyJwvmlAq"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
         "name": "Ibiza",
         "url": "https://open.spotify.com/album/7IySKrXiQULxSpJYy9eYgX"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 170600,
       "name": "Pasa La P\u00e1gina \"Panam\u00e1\"",
       "url": "https://open.spotify.com/track/64jJKitRKjCCKKCuShfpSl"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "Nunca Volvieron",
+        "url": "https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Nunca Volvieron",
+      "url": "https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -791,22 +807,6 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "Mil Laberintos",
-        "url": "https://open.spotify.com/album/6YKiRmNf2cuIRfuWmaaqMX"
-      },
-      "artists": [
-        {
-          "name": "Ters",
-          "url": "https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Mil Laberintos",
-      "url": "https://open.spotify.com/track/3PeaoxxHW9L5OVVnkWDg6S"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
         "name": "Qu\u00e9 bonita",
         "url": "https://open.spotify.com/album/1Em1AH6NyWHAPyCaVM7iGX"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 163768,
       "name": "Qu\u00e9 bonita",
       "url": "https://open.spotify.com/track/31TmMW92lP0UoxtAaF89hU"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "Mil Laberintos",
+        "url": "https://open.spotify.com/album/6YKiRmNf2cuIRfuWmaaqMX"
+      },
+      "artists": [
+        {
+          "name": "Ters",
+          "url": "https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Mil Laberintos",
+      "url": "https://open.spotify.com/track/3PeaoxxHW9L5OVVnkWDg6S"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -859,26 +875,6 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "AVENTURA",
-        "url": "https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf"
-      },
-      "artists": [
-        {
-          "name": "ZABDIEL",
-          "url": "https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5"
-        },
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 193059,
-      "name": "AVENTURA",
-      "url": "https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
         "name": "Espinita Clav\u00e1",
         "url": "https://open.spotify.com/album/6TNvmYm1VvIgk7VkKiyiUw"
       },
@@ -895,6 +891,26 @@
       "duration_ms": 166552,
       "name": "Espinita Clav\u00e1",
       "url": "https://open.spotify.com/track/5nBPZbNLIJJqiDO1POCDGR"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "AVENTURA",
+        "url": "https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf"
+      },
+      "artists": [
+        {
+          "name": "ZABDIEL",
+          "url": "https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 193059,
+      "name": "AVENTURA",
+      "url": "https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "VUELA ALTO",
-        "url": "https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 178961,
-      "name": "VUELA ALTO",
-      "url": "https://open.spotify.com/track/6Up49hQmFHWPMpxN8FIu9o"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
         "name": "Un Rato pa Siempre",
         "url": "https://open.spotify.com/album/6VkLEGEcb8GBrHPbpVC21m"
       },
@@ -1059,6 +1059,22 @@
       "duration_ms": 163505,
       "name": "Un Rato pa Siempre",
       "url": "https://open.spotify.com/track/3rEBrW8QTAq0lZiZX8LNBL"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "VUELA ALTO",
+        "url": "https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 178961,
+      "name": "VUELA ALTO",
+      "url": "https://open.spotify.com/track/6Up49hQmFHWPMpxN8FIu9o"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "VUELA ALTO",
-        "url": "https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 201206,
-      "name": "MI BANDERA",
-      "url": "https://open.spotify.com/track/4lTgUY1rtzieQLFGCzfpmA"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
         "name": "Si Supieran",
         "url": "https://open.spotify.com/album/0T8lt5lLQi5bB9s7yLQiFW"
       },
@@ -1243,6 +1243,22 @@
       "duration_ms": 179542,
       "name": "TE QUIERO",
       "url": "https://open.spotify.com/track/3joDSTDSPrKoEB1TxCFDHv"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "VUELA ALTO",
+        "url": "https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 201206,
+      "name": "MI BANDERA",
+      "url": "https://open.spotify.com/track/4lTgUY1rtzieQLFGCzfpmA"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1291,22 +1307,6 @@
       "duration_ms": 171440,
       "name": "Nunca Volver\u00e1s",
       "url": "https://open.spotify.com/track/1b9sYsa4aFiBv7mqOKvwsM"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "Nunca Volvieron",
-        "url": "https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Nunca Volvieron",
-      "url": "https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex"
     }
   ],
   "unique_name": "Pop con \u00d1",

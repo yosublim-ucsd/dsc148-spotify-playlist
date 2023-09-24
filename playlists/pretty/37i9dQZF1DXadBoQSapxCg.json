@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 302042,
+  "num_followers": 302091,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjQ3NDEyMmU2MmNjNDdjMDUxYTFmOGI2ZGE5ZmNmZWVjNGNjYTY3",
+  "snapshot_id": "MCwxYTUxMTM5ODUwMTM3MjMwMTI5YTU0ZDdiZjJkY2Y5ODRjYjc3OTgx",
   "tracks": [
     {
       "added_at": "2023-06-16 03:00:00",
@@ -503,6 +503,26 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
+        "name": "ImPKvel",
+        "url": "https://open.spotify.com/album/42ptYCyz94D7b2Z2uadVBS"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 143245,
+      "name": "Do jeito que tu gosta",
+      "url": "https://open.spotify.com/track/34D0w6kVzuQ35vyHIFrWTC"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
         "name": "Singular",
         "url": "https://open.spotify.com/album/3ffB44QD77vSxTGv95cTFG"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 267000,
       "name": "Singular",
       "url": "https://open.spotify.com/track/0yTMkAKfAHDSEh4CQhKU26"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
-        "name": "ImPKvel",
-        "url": "https://open.spotify.com/album/42ptYCyz94D7b2Z2uadVBS"
-      },
-      "artists": [
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 143245,
-      "name": "Do jeito que tu gosta",
-      "url": "https://open.spotify.com/track/34D0w6kVzuQ35vyHIFrWTC"
     },
     {
       "added_at": "2023-06-16 03:00:00",

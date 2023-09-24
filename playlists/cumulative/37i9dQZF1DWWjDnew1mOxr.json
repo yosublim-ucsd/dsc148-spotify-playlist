@@ -1143,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Hold Yr Horses",
+        "url": "https://open.spotify.com/album/20OuG64r08ZIIaxArM2Spc"
+      },
+      "artists": [
+        {
+          "name": "ERNIE",
+          "url": "https://open.spotify.com/artist/3nXSj676JUEKFxfACHmC9J"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152714,
+      "name": "Hold Yr Horses",
+      "url": "https://open.spotify.com/track/5gKekPljHBtFvuQcaMOnii"
+    },
+    {
+      "album": {
         "name": "Hometown",
         "url": "https://open.spotify.com/album/0aMx31rpahrCtfQbOf2AiP"
       },
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-24",
       "duration_ms": 176749,
       "name": "IN & OUT",
       "url": "https://open.spotify.com/track/5DOnhg0ICVjTw8kWiPPzew"

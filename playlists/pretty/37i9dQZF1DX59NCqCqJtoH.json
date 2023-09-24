@@ -1,12 +1,12 @@
 {
   "description": "we hear you.",
-  "num_followers": 1159785,
+  "num_followers": 1160052,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzZjYjZlNWExMjhmY2MyNmZhNzBkOWQ3MjlkNmEwYTZjNjA2NTc3",
+  "snapshot_id": "MCxlYmM5YmYyZmViZGNmODQ2YmMzNzA1ZGNiODI1ODVlNjliYTEzNjVl",
   "tracks": [
     {
       "added_at": "2023-09-15 19:36:40",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-09-15 19:36:40",
       "album": {
+        "name": "ALLERGIC",
+        "url": "https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f"
+      },
+      "artists": [
+        {
+          "name": "clide",
+          "url": "https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "ALLERGIC",
+      "url": "https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia"
+    },
+    {
+      "added_at": "2023-09-15 19:36:40",
+      "album": {
         "name": "homies",
         "url": "https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X"
       },
@@ -351,18 +367,18 @@
     {
       "added_at": "2023-09-15 19:36:40",
       "album": {
-        "name": "ALLERGIC",
-        "url": "https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f"
+        "name": "Rabbit Hearted.",
+        "url": "https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz"
       },
       "artists": [
         {
-          "name": "clide",
-          "url": "https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy"
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
         }
       ],
-      "duration_ms": 155200,
-      "name": "ALLERGIC",
-      "url": "https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia"
+      "duration_ms": 198807,
+      "name": "Silly Girl",
+      "url": "https://open.spotify.com/track/0ZP3E9L1I0C6rmD0CAKqDc"
     },
     {
       "added_at": "2023-09-15 19:36:40",
@@ -379,22 +395,6 @@
       "duration_ms": 154000,
       "name": "Please Never Fall in Love Again",
       "url": "https://open.spotify.com/track/42H6GeQfrBkT3vTUTdpB1M"
-    },
-    {
-      "added_at": "2023-09-15 19:36:40",
-      "album": {
-        "name": "Rabbit Hearted.",
-        "url": "https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 198807,
-      "name": "Silly Girl",
-      "url": "https://open.spotify.com/track/0ZP3E9L1I0C6rmD0CAKqDc"
     },
     {
       "added_at": "2023-09-15 19:36:40",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-09-15 19:36:40",
       "album": {
-        "name": "goodnight moon (demos)",
-        "url": "https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 107369,
-      "name": "i'll never fall in love with myself - demo",
-      "url": "https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6"
-    },
-    {
-      "added_at": "2023-09-15 19:36:40",
-      "album": {
         "name": "minor",
         "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 160506,
       "name": "minor",
       "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
+    },
+    {
+      "added_at": "2023-09-15 19:36:40",
+      "album": {
+        "name": "goodnight moon (demos)",
+        "url": "https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 107369,
+      "name": "i'll never fall in love with myself - demo",
+      "url": "https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6"
     },
     {
       "added_at": "2023-09-15 19:36:40",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-09-15 19:36:40",
       "album": {
-        "name": "crush (demos)",
-        "url": "https://open.spotify.com/album/6yngFpZeMWDDIz2Mlk4ToP"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 91206,
-      "name": "what does he have that i don't?",
-      "url": "https://open.spotify.com/track/15MDjoryOggmkMTdh13IGx"
-    },
-    {
-      "added_at": "2023-09-15 19:36:40",
-      "album": {
         "name": "we were girls together",
         "url": "https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2023-09-15 19:36:40",
       "album": {
-        "name": "Grey Lines",
-        "url": "https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj"
+        "name": "crush (demos)",
+        "url": "https://open.spotify.com/album/6yngFpZeMWDDIz2Mlk4ToP"
       },
       "artists": [
         {
-          "name": "Austin George",
-          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Grey Lines",
-      "url": "https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk"
+      "duration_ms": 91206,
+      "name": "what does he have that i don't?",
+      "url": "https://open.spotify.com/track/15MDjoryOggmkMTdh13IGx"
     },
     {
       "added_at": "2023-09-15 19:36:40",
@@ -667,6 +651,22 @@
       "duration_ms": 200000,
       "name": "I'm Always Here",
       "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
+    },
+    {
+      "added_at": "2023-09-15 19:36:40",
+      "album": {
+        "name": "Grey Lines",
+        "url": "https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj"
+      },
+      "artists": [
+        {
+          "name": "Austin George",
+          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Grey Lines",
+      "url": "https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk"
     },
     {
       "added_at": "2023-09-15 19:36:40",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-09-15 19:36:40",
       "album": {
+        "name": "Kenny",
+        "url": "https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 194133,
+      "name": "Kenny",
+      "url": "https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv"
+    },
+    {
+      "added_at": "2023-09-15 19:36:40",
+      "album": {
         "name": "is your bedroom ceiling bored? (feat. Cavetown)",
         "url": "https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 207509,
       "name": "is your bedroom ceiling bored? (feat. Cavetown)",
       "url": "https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF"
-    },
-    {
-      "added_at": "2023-09-15 19:36:40",
-      "album": {
-        "name": "Kenny",
-        "url": "https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 194133,
-      "name": "Kenny",
-      "url": "https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv"
     },
     {
       "added_at": "2023-09-15 19:36:40",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-09-15 19:36:40",
       "album": {
-        "name": "handgun",
-        "url": "https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL"
-      },
-      "artists": [
-        {
-          "name": "jake minch",
-          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
-        }
-      ],
-      "duration_ms": 173446,
-      "name": "handgun",
-      "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
-    },
-    {
-      "added_at": "2023-09-15 19:36:40",
-      "album": {
         "name": "I even told my mom about u",
         "url": "https://open.spotify.com/album/7keewWiui2hsR0iOXOQaQQ"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 120032,
       "name": "I even told my mom about u",
       "url": "https://open.spotify.com/track/6Uxex5NWDRtA8hQKDpRn8H"
+    },
+    {
+      "added_at": "2023-09-15 19:36:40",
+      "album": {
+        "name": "handgun",
+        "url": "https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL"
+      },
+      "artists": [
+        {
+          "name": "jake minch",
+          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
+        }
+      ],
+      "duration_ms": 173446,
+      "name": "handgun",
+      "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
     },
     {
       "added_at": "2023-09-15 19:36:40",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-09-15 19:36:40",
       "album": {
-        "name": "Teen Mom",
-        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 222803,
-      "name": "Teen Mom",
-      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
-    },
-    {
-      "added_at": "2023-09-15 19:36:40",
-      "album": {
         "name": "why didn't you call???",
         "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 196734,
       "name": "why didn't you call???",
       "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
+    },
+    {
+      "added_at": "2023-09-15 19:36:40",
+      "album": {
+        "name": "Teen Mom",
+        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 222803,
+      "name": "Teen Mom",
+      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
     },
     {
       "added_at": "2023-09-15 19:36:40",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-09-15 19:36:40",
       "album": {
-        "name": "i care so much that i dont care at all",
-        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "2005 barbie doll",
-      "url": "https://open.spotify.com/track/5eSuJiqfipF2q0x9jyW59c"
-    },
-    {
-      "added_at": "2023-09-15 19:36:40",
-      "album": {
         "name": "VERY ALONE",
         "url": "https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 131146,
       "name": "VERY ALONE",
       "url": "https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90"
+    },
+    {
+      "added_at": "2023-09-15 19:36:40",
+      "album": {
+        "name": "i care so much that i dont care at all",
+        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "2005 barbie doll",
+      "url": "https://open.spotify.com/track/5eSuJiqfipF2q0x9jyW59c"
     },
     {
       "added_at": "2023-09-15 19:36:40",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-09-15 19:36:40",
       "album": {
-        "name": "Cruel",
-        "url": "https://open.spotify.com/album/62ft4e9TqvJRNaUt9QYk2F"
-      },
-      "artists": [
-        {
-          "name": "Hojean",
-          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
-        }
-      ],
-      "duration_ms": 186686,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5"
-    },
-    {
-      "added_at": "2023-09-15 19:36:40",
-      "album": {
         "name": "Ball",
         "url": "https://open.spotify.com/album/75RDBx0Z18jNRzwQafl5Hi"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 151525,
       "name": "Ball",
       "url": "https://open.spotify.com/track/3CL4OEx96xE6eO9vrHunJY"
+    },
+    {
+      "added_at": "2023-09-15 19:36:40",
+      "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/62ft4e9TqvJRNaUt9QYk2F"
+      },
+      "artists": [
+        {
+          "name": "Hojean",
+          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
+        }
+      ],
+      "duration_ms": 186686,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5"
     },
     {
       "added_at": "2023-09-15 19:36:40",

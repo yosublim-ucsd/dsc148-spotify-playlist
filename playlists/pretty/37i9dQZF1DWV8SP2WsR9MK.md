@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,387 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,477 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 59 | [The Heat of the Day](https://open.spotify.com/track/67L1qmOw0n2Bz84BJTpzrQ) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Imaginary Day](https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf) | 9:44 |
 | 60 | [In A Sentimental Mood](https://open.spotify.com/track/1NaYmJphKpCQqW2nUIIClH) | [Emily Remler](https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ) | [Firefly](https://open.spotify.com/album/60MOA021iZ4tJDSg0s78je) | 7:49 |
 | 61 | [When The Sun Comes Out](https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU) | [Howard Roberts](https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel) | [Good Pickin's](https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS) | 4:15 |
-| 62 | [Moon River](https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Bill Frisell \(with Dave Holland and Elvin Jones\)](https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ) | 6:26 |
-| 63 | [You Don't Know What Love Is](https://open.spotify.com/track/7Ca2gDDPC5qR2o2hv39muC) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [We'll Be Together Again](https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL) | 4:46 |
+| 62 | [You Don't Know What Love Is](https://open.spotify.com/track/7Ca2gDDPC5qR2o2hv39muC) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [We'll Be Together Again](https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL) | 4:46 |
+| 63 | [Moon River](https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Bill Frisell \(with Dave Holland and Elvin Jones\)](https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ) | 6:26 |
 | 64 | [Misty \- 2001 Remaster](https://open.spotify.com/track/5fQFn9MwQFgh1MRIl4eg7u) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q), [Malcolm Addey](https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH) | [The Sound Of Johnny Smith](https://open.spotify.com/album/1zeJkPpy0WkLnTQo9TUEeh) | 5:28 |
 | 65 | [Minor Blues](https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [The Next Step](https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb) | 5:54 |
 | 66 | [The Nearness Of You \- Instrumental](https://open.spotify.com/track/118oSpIpxvMlnpeX2TOiKr) | [George Van Eps](https://open.spotify.com/artist/6QL3lIEWRff6Nn0Iy1yIps), [Howard Alden](https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR) | [Hand\-Crafted Swing](https://open.spotify.com/album/1qb8YfycUTV28M85dBT5kZ) | 6:10 |
 | 67 | [Polka Dots and Moonbeams](https://open.spotify.com/track/5VRDZxFLIIjGTH2Q33Aq14) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or), [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [Standard Brands](https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e) | 5:48 |
-| 68 | [Moonlight In Vermont](https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV) | [Jimmy Bruno](https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5) | [Burnin'](https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K) | 8:12 |
-| 69 | [You Are Too Beautiful](https://open.spotify.com/track/7dOfAphsqSBeYQWtBPa8xO) | [Don Thompson](https://open.spotify.com/artist/1l2y80b850BRWQ3Y6YhLaX), [Ed Bickert](https://open.spotify.com/artist/28OasCag6MpcSYdG8blWHA) | [At the Garden Party](https://open.spotify.com/album/2GHEmpg1poRNNgLSh8Q81q) | 6:34 |
+| 68 | [You Are Too Beautiful](https://open.spotify.com/track/7dOfAphsqSBeYQWtBPa8xO) | [Don Thompson](https://open.spotify.com/artist/1l2y80b850BRWQ3Y6YhLaX), [Ed Bickert](https://open.spotify.com/artist/28OasCag6MpcSYdG8blWHA) | [At the Garden Party](https://open.spotify.com/album/2GHEmpg1poRNNgLSh8Q81q) | 6:34 |
+| 69 | [Moonlight In Vermont](https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV) | [Jimmy Bruno](https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5) | [Burnin'](https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K) | 8:12 |
 | 70 | [I'll Be Seeing You](https://open.spotify.com/track/1kirrr7NRQrqAa9sxdaXiQ) | [Jonathan Kreisberg](https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy), [Gary Versace](https://open.spotify.com/artist/3bklSQEy3caQzQT5GQ5Nhp), [Matt Penman](https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k), [Mark Ferber](https://open.spotify.com/artist/2BrGFbXBIGLSy4lRO8Pf6w) | [Night Songs](https://open.spotify.com/album/1sVOdEgJidStrGyDLrwqcx) | 7:23 |
 | 71 | [Shape Of Things That Are And Were](https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Shape Of Things To Come](https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B) | 5:47 |
 | 72 | [For Toddlers Only](https://open.spotify.com/track/19GBMJXq6kXHemriVnEtnC) | [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Jazz Guitar](https://open.spotify.com/album/6mFt5Ao230rf7Dedo8C6mK) | 5:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 99 | [Walkin' Up](https://open.spotify.com/track/6MVMLpL405L6JXbHXsddGa) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [The Capitol Vaults Jazz Series](https://open.spotify.com/album/6RRyVVMofYvprSf4fJViho) | 3:19 |
 | 100 | [Tenderly](https://open.spotify.com/track/7kxl3YY1zqfybhYMylZGRz) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG) | [Easy Like](https://open.spotify.com/album/4FEQUVniR5kClrtPy9uVJD) | 3:15 |
 
-Snapshot ID: `MCw1MWY5Y2IxYTA3NmM3MWJmNzMwYTcyMzUzNDM0YjFiYzc1NDNhZTJm`
+Snapshot ID: `MCwxMjU2NzkyMzg5MTYwMWVjNjBiN2VhMjUyMzA5ZDI4ZTJjN2NmYmVj`

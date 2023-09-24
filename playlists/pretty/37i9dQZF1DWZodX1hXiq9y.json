@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 75419,
+  "num_followers": 75534,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDBiNWJmZmU3YTg2ZTU0ZTM0NTY5M2MwOGQ2YjI3YTE4ZTMyMDBk",
+  "snapshot_id": "MCxhZDcxNTRlNDJlODNmYzMxZTE5YTc5MTU3ODkxNGIwYmI4ZTNkOTQw",
   "tracks": [
     {
       "added_at": "2023-09-01 07:42:13",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Blues Walk",
-        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 403200,
-      "name": "Blues Walk",
-      "url": "https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "The Bridge",
         "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 310666,
       "name": "Where Are You - Remastered",
       "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Blues Walk",
+        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 403200,
+      "name": "Blues Walk",
+      "url": "https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "The Magnificent Charlie Parker",
-        "url": "https://open.spotify.com/album/3fA0ldo788no64soavIbL3"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 162805,
-      "name": "Au Privave - Take 3 Master",
-      "url": "https://open.spotify.com/track/6bwRCPiP5Y4Y9RhdTOzTGD"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Presenting The Gerry Mulligan Sextet",
         "url": "https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 323373,
       "name": "Everything Happens To Me",
       "url": "https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "The Magnificent Charlie Parker",
+        "url": "https://open.spotify.com/album/3fA0ldo788no64soavIbL3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 162805,
+      "name": "Au Privave - Take 3 Master",
+      "url": "https://open.spotify.com/track/6bwRCPiP5Y4Y9RhdTOzTGD"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
+        "name": "Now\u2019s The Time: The Genius Of Charlie Parker #3",
+        "url": "https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 178866,
+      "name": "Confirmation",
+      "url": "https://open.spotify.com/track/29erJjtgdbh1KbG7MuPJCj"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 285666,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Now\u2019s The Time: The Genius Of Charlie Parker #3",
-        "url": "https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 178866,
-      "name": "Confirmation",
-      "url": "https://open.spotify.com/track/29erJjtgdbh1KbG7MuPJCj"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Stitt Plays Bird (Remastered Version)",
-        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Now's the Time - Remastered Version",
-      "url": "https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "The Bad Plus Joshua Redman",
         "url": "https://open.spotify.com/album/2tzJagRYnAeB9j65wJx2j3"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 412613,
       "name": "As This Moment Slips Away",
       "url": "https://open.spotify.com/track/5CcAkJMkqpx7vwyYq1CQQd"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Stitt Plays Bird (Remastered Version)",
+        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Now's the Time - Remastered Version",
+      "url": "https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "The Complete Savoy & Dial Master Takes",
-        "url": "https://open.spotify.com/album/2c6BUJGIxa4SA94iYX4JkT"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Ornithology",
-      "url": "https://open.spotify.com/track/7s1fLxwhmKa6VDNqzJzOsE"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Further Definitions",
         "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 320346,
       "name": "Blue Star",
       "url": "https://open.spotify.com/track/7KmeTGyGCdwcJFuA6rAEi9"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "The Complete Savoy & Dial Master Takes",
+        "url": "https://open.spotify.com/album/2c6BUJGIxa4SA94iYX4JkT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Ornithology",
+      "url": "https://open.spotify.com/track/7s1fLxwhmKa6VDNqzJzOsE"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
+        "name": "We Free Kings",
+        "url": "https://open.spotify.com/album/4ayNl8wrfXJXABMk0L4eRW"
+      },
+      "artists": [
+        {
+          "name": "Rahsaan Roland Kirk",
+          "url": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV"
+        }
+      ],
+      "duration_ms": 280573,
+      "name": "A Sack Full Of Soul",
+      "url": "https://open.spotify.com/track/0J35LZeovLDsokAl3oiu35"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
         "name": "Jutta Hipp With Zoot Sims (Expanded Edition)",
         "url": "https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2"
       },
@@ -1679,22 +1695,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "We Free Kings",
-        "url": "https://open.spotify.com/album/4ayNl8wrfXJXABMk0L4eRW"
-      },
-      "artists": [
-        {
-          "name": "Rahsaan Roland Kirk",
-          "url": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV"
-        }
-      ],
-      "duration_ms": 280573,
-      "name": "A Sack Full Of Soul",
-      "url": "https://open.spotify.com/track/0J35LZeovLDsokAl3oiu35"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Tell It The Way It Is",
         "url": "https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi"
       },
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "On Impulse!",
-        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 417333,
-      "name": "Three Little Words",
-      "url": "https://open.spotify.com/track/6bR6BWEAtfxB6XNbS85Ua0"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "The Return Of Art Pepper",
         "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 229866,
       "name": "Pepper Steak",
       "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "On Impulse!",
+        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 417333,
+      "name": "Three Little Words",
+      "url": "https://open.spotify.com/track/6bR6BWEAtfxB6XNbS85Ua0"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Tenor Madness",
-        "url": "https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins Quartet",
-          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
-        }
-      ],
-      "duration_ms": 370693,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/3TdCZEoDwRP7UwcsHyzyjU"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith",
         "url": "https://open.spotify.com/album/0yAbp9pGErWGyK3g8n0KFp"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 238493,
       "name": "Once In A While",
       "url": "https://open.spotify.com/track/4T43EB5BkiOq3XpYB3VPts"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Tenor Madness",
+        "url": "https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins Quartet",
+          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
+        }
+      ],
+      "duration_ms": 370693,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/3TdCZEoDwRP7UwcsHyzyjU"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "David Liebman Quartet / Quintet Live",
-        "url": "https://open.spotify.com/album/43gMWHr1qI8I4QXXRxADoz"
-      },
-      "artists": [
-        {
-          "name": "Dave Liebman",
-          "url": "https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn"
-        }
-      ],
-      "duration_ms": 799425,
-      "name": "The Last Train",
-      "url": "https://open.spotify.com/track/5H1HQb0Sma4TVuFbKDRQWO"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 368053,
       "name": "Eco - Remastered",
       "url": "https://open.spotify.com/track/6XHR5Gs3ZbrBrqVPPA1tGa"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "David Liebman Quartet / Quintet Live",
+        "url": "https://open.spotify.com/album/43gMWHr1qI8I4QXXRxADoz"
+      },
+      "artists": [
+        {
+          "name": "Dave Liebman",
+          "url": "https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn"
+        }
+      ],
+      "duration_ms": 799425,
+      "name": "The Last Train",
+      "url": "https://open.spotify.com/track/5H1HQb0Sma4TVuFbKDRQWO"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2275,6 +2275,22 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
+        "name": "Moving In",
+        "url": "https://open.spotify.com/album/6ApnelkoRtJZEQjyORY77D"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 463640,
+      "name": "The Forest",
+      "url": "https://open.spotify.com/track/5IxPx8zwI30weoTTaNu2vk"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
         "name": "Parker, Charlie: Ornithology (1945-1947)",
         "url": "https://open.spotify.com/album/3KIQyUFgbHKf8WjBhwYCaK"
       },
@@ -2295,6 +2311,22 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
+        "name": "Back East",
+        "url": "https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        }
+      ],
+      "duration_ms": 400853,
+      "name": "Back East",
+      "url": "https://open.spotify.com/track/5BxatdeERzU9irLOFkkHG5"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
         "name": "Joyous Encounter",
         "url": "https://open.spotify.com/album/7JJAVKH0nRCW4NzpAqUhGu"
       },
@@ -2307,22 +2339,6 @@
       "duration_ms": 485920,
       "name": "Pannonica",
       "url": "https://open.spotify.com/track/4iuYeo7alKHLLyNBIWbt88"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Moving In",
-        "url": "https://open.spotify.com/album/6ApnelkoRtJZEQjyORY77D"
-      },
-      "artists": [
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 463640,
-      "name": "The Forest",
-      "url": "https://open.spotify.com/track/5IxPx8zwI30weoTTaNu2vk"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2343,22 +2359,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Back East",
-        "url": "https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        }
-      ],
-      "duration_ms": 400853,
-      "name": "Back East",
-      "url": "https://open.spotify.com/track/5BxatdeERzU9irLOFkkHG5"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Escaping Shadows",
         "url": "https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW"
       },
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "You're Driving Me Crazy",
-        "url": "https://open.spotify.com/album/0BE0WOuZalUmHhg76lKup5"
-      },
-      "artists": [
-        {
-          "name": "Phil Woods",
-          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
-        }
-      ],
-      "duration_ms": 188226,
-      "name": "Blues in Pig Alley",
-      "url": "https://open.spotify.com/track/0KH7vOWkGMs1IXgrllV20R"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Pushing the World Away",
         "url": "https://open.spotify.com/album/79HogqAl7FydqNlNZqVz79"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 223960,
       "name": "A Side Order of Hijiki",
       "url": "https://open.spotify.com/track/2ZdIftmBJqA88uoE8H1wZq"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "You're Driving Me Crazy",
+        "url": "https://open.spotify.com/album/0BE0WOuZalUmHhg76lKup5"
+      },
+      "artists": [
+        {
+          "name": "Phil Woods",
+          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+        }
+      ],
+      "duration_ms": 188226,
+      "name": "Blues in Pig Alley",
+      "url": "https://open.spotify.com/track/0KH7vOWkGMs1IXgrllV20R"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2511,6 +2511,22 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
+        "name": "Rights Of Swing (Remastered)",
+        "url": "https://open.spotify.com/album/3o9hV5EHfdTas5OgNCJ56V"
+      },
+      "artists": [
+        {
+          "name": "Phil Woods",
+          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+        }
+      ],
+      "duration_ms": 397306,
+      "name": "Prelude And Part 1 - Remastered",
+      "url": "https://open.spotify.com/track/2BaEvkAEiyN7IkPcgkyZZr"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
         "name": "Where Are You?",
         "url": "https://open.spotify.com/album/5UIu8Ra41XV49VoscOnMjT"
       },
@@ -2531,22 +2547,6 @@
       "duration_ms": 315520,
       "name": "Nigeria",
       "url": "https://open.spotify.com/track/0p9mkM9GtASH9tF73Qo5H3"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Rights Of Swing (Remastered)",
-        "url": "https://open.spotify.com/album/3o9hV5EHfdTas5OgNCJ56V"
-      },
-      "artists": [
-        {
-          "name": "Phil Woods",
-          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
-        }
-      ],
-      "duration_ms": 397306,
-      "name": "Prelude And Part 1 - Remastered",
-      "url": "https://open.spotify.com/track/2BaEvkAEiyN7IkPcgkyZZr"
     },
     {
       "added_at": "2023-09-01 07:42:13",

@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-204 songs - 9 hr 17 min
+208 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,12 +73,14 @@
 | [First Half](https://open.spotify.com/track/4EVDMXXJs143jposTpJjxu) | [Charles M](https://open.spotify.com/artist/20rOuJzUYSNKfaWM69IZb3) | [Somewhere](https://open.spotify.com/album/0WaZ8LL66jyGceZHhjeGJC) | 2:47 | 2021-11-11 |  |
 | [First Place](https://open.spotify.com/track/0oJpKkNS2xAok3jwhWfSPe) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [LAX2DUBAI](https://open.spotify.com/album/2ISpqgsjma0X7KXDM7Jxo3) | 2:27 | 2021-11-11 |  |
 | [Flowersong](https://open.spotify.com/track/7c43qz8M78sEZ7MFSUKYSg) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [Flowersong](https://open.spotify.com/album/2m6M5yr2JesrlRW0EVv5IZ) | 2:40 | 2021-11-11 |  |
-| [Frozen](https://open.spotify.com/track/0RJD9vHqbcBG9VX8ml9nL2) | [Dr\. J](https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Frozen](https://open.spotify.com/album/23dKuFmFNnE6Te4UfjDews) | 3:09 | 2022-12-23 |  |
+| [Frozen](https://open.spotify.com/track/0RJD9vHqbcBG9VX8ml9nL2) | [Dr\. J](https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Frozen](https://open.spotify.com/album/23dKuFmFNnE6Te4UfjDews) | 3:09 | 2022-12-23 | 2023-09-24 |
+| [Frozen](https://open.spotify.com/track/6PuJovR9z3hph9MDCiIVgS) | [Dr\. J](https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Frozen](https://open.spotify.com/album/0GRRcND8BPMGmFakvmwqWf) | 3:09 | 2023-09-04 |  |
 | [GAMETIME](https://open.spotify.com/track/13YCzEIXsoBWLEXSyaTeAe) | [SLVG](https://open.spotify.com/artist/779QJkvhTmrxtUGaMo8QbK), [TUNDRAMANE](https://open.spotify.com/artist/3ucTA7IrKCwHk3EvnfRVOu) | [GAMETIME](https://open.spotify.com/album/5WMNiz7h7MoUSYHK1R2s6t) | 1:55 | 2022-05-27 | 2022-06-03 |
 | [Geeker](https://open.spotify.com/track/0XOagxiFUHOYHlz6AthrNB) | [peerless](https://open.spotify.com/artist/1c2JWfQucGww8ADlPqc0oJ) | [Raging in the Pit with My Bros](https://open.spotify.com/album/66uwS7rr9YJdhF5gOIJDMj) | 2:11 | 2022-11-25 |  |
 | [Ghost](https://open.spotify.com/track/0Xb7YTUlcB32tOYazFZ0c7) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Ghost](https://open.spotify.com/album/4X2204B0fGbDQyvrNvIjJD) | 2:36 | 2021-11-11 |  |
 | [Giggin](https://open.spotify.com/track/0hbHnKGSmY4wKAGqXHNQ6f) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Giggin](https://open.spotify.com/album/5MCf2Q4N6Jolv1vOmMCpTO) | 2:07 | 2022-12-23 |  |
-| [Gold Stacks](https://open.spotify.com/track/38qTxMCGROJeJlo6E274p4) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW), [Rizzo8](https://open.spotify.com/artist/0caGWjTQd9dDtOjAjxkzRK) | [Gold Stacks](https://open.spotify.com/album/4pYrbFvIep8pumAx11IAQN) | 2:54 | 2022-05-20 |  |
+| [Gold Stacks](https://open.spotify.com/track/0Y5Ejjjlr5uGOORvBHgjmK) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW), [Rizzo8](https://open.spotify.com/artist/0caGWjTQd9dDtOjAjxkzRK) | [Gold Stacks](https://open.spotify.com/album/0NWDqiBWQJ9r3ElHlKqGjR) | 2:54 | 2023-09-04 |  |
+| [Gold Stacks](https://open.spotify.com/track/38qTxMCGROJeJlo6E274p4) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW), [Rizzo8](https://open.spotify.com/artist/0caGWjTQd9dDtOjAjxkzRK) | [Gold Stacks](https://open.spotify.com/album/4pYrbFvIep8pumAx11IAQN) | 2:54 | 2022-05-20 | 2023-09-24 |
 | [Golden Barb Wire](https://open.spotify.com/track/7JZFY4O9OpRJfAHuzw9b5B) | [OWN A JET](https://open.spotify.com/artist/1JwkWoUMCVaZ7f9SmXtAYA) | [Golden Barb Wire](https://open.spotify.com/album/5o6OEpVYpToc03ZjEjC1UX) | 2:15 | 2022-12-09 |  |
 | [Half Way](https://open.spotify.com/track/2d9zoxSgfgUQnwwvyRW5Fh) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Half Way](https://open.spotify.com/album/3YxGww927qj7P3nd7lQwr3) | 2:56 | 2023-09-04 |  |
 | [Half Way](https://open.spotify.com/track/7nVLCGdcpIWaAizdRRvmKG) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Half Way](https://open.spotify.com/album/0zb0u64c1aQOSRh7zLxoMT) | 2:56 | 2022-04-22 | 2023-09-23 |
@@ -121,7 +123,8 @@
 | [No home no future](https://open.spotify.com/track/62SxyqZXXVlDAycfkS1kj1) | [Captain XY](https://open.spotify.com/artist/0fYeCYtwaOrxHt0Wwkbb1t) | [No home no future](https://open.spotify.com/album/6eXnhjk6FecIfcvcqni0iH) | 2:23 | 2023-09-04 |  |
 | [No Mercy](https://open.spotify.com/track/22eZmqMUw5G6pVI8qAnF4d) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Vices](https://open.spotify.com/album/6Vz3vNBiyBIQb1OJ40QRir) | 2:25 | 2022-12-09 |  |
 | [No Switch Up](https://open.spotify.com/track/1v55e29Im1Q4kox18pOE0Y) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [No Switch Up](https://open.spotify.com/album/0gNiizgVjbJ8sgchjiefvI) | 2:35 | 2022-03-29 |  |
-| [Not Enough](https://open.spotify.com/track/4mKUzggb15xw0CxE5mrmMi) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Not Enough](https://open.spotify.com/album/4fR6ne32b1qv0Mzum1UMC7) | 2:56 | 2022-04-22 |  |
+| [Not Enough](https://open.spotify.com/track/1U77lwBD0RppViVldWJZDc) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Not Enough](https://open.spotify.com/album/19yHYGsUda5U53PQnPAsVA) | 2:56 | 2023-09-04 |  |
+| [Not Enough](https://open.spotify.com/track/4mKUzggb15xw0CxE5mrmMi) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Not Enough](https://open.spotify.com/album/4fR6ne32b1qv0Mzum1UMC7) | 2:56 | 2022-04-22 | 2023-09-24 |
 | [Nu World Order](https://open.spotify.com/track/3erqNTHPWsfJVM4ZSsEJ6t) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Nu World Order](https://open.spotify.com/album/2Je8l8GvcHGTwNjcyCrd4w) | 2:48 | 2022-04-22 |  |
 | [Occult](https://open.spotify.com/track/13D4J163opPgCKVFgRrA6s) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Occult](https://open.spotify.com/album/4lGfCI0E8Dcnoxy76sTWpj) | 2:56 | 2021-11-11 |  |
 | [Ocean](https://open.spotify.com/track/1bFbRcEr176gytK7jpXZy3) | [Damien Thorpe](https://open.spotify.com/artist/2gWKTDvpiP3BHKAU07jBYW) | [Ocean](https://open.spotify.com/album/1w48jnVbZhaB1li8zGFFXz) | 2:21 | 2021-11-11 | 2022-09-17 |
@@ -211,6 +214,7 @@
 | [Wonderland](https://open.spotify.com/track/7IpMCQSwhwQOjb8cHr7ViV) | [Djsneverendingstory](https://open.spotify.com/artist/5H53Vq7VfrqjdEMX3mx5Xp) | [Wonderland](https://open.spotify.com/album/3dL5EuR6gRlgWhmMbWId0i) | 4:03 | 2021-11-11 | 2022-09-17 |
 | [Y2K](https://open.spotify.com/track/5sFrWbiYAfBkHmpgo3j9cV) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Y2K](https://open.spotify.com/album/5zgdMB01DgxhbQClYO9k8Y) | 2:16 | 2022-11-25 |  |
 | [You Say It's Easy](https://open.spotify.com/track/76H1wnU1AwWjQ2tWKeG1xg) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Love for Drill](https://open.spotify.com/album/5ilOUMe6p4roT9ZViobEC6) | 2:28 | 2022-04-08 |  |
-| [Youngin](https://open.spotify.com/track/2H5QkzvbIFTxZdpZ1fyXvb) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW), [Kutoff](https://open.spotify.com/artist/1Z1aKCA8ivXsGZHfEsuzhv) | [Youngin](https://open.spotify.com/album/6N36NlLcGlAC3MIEc353Pc) | 2:42 | 2022-05-13 |  |
+| [Youngin](https://open.spotify.com/track/2H5QkzvbIFTxZdpZ1fyXvb) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW), [Kutoff](https://open.spotify.com/artist/1Z1aKCA8ivXsGZHfEsuzhv) | [Youngin](https://open.spotify.com/album/6N36NlLcGlAC3MIEc353Pc) | 2:42 | 2022-05-13 | 2023-09-24 |
+| [Youngin](https://open.spotify.com/track/4mN11J4LbMcfIONLRPY2HX) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW), [Kutoff](https://open.spotify.com/artist/1Z1aKCA8ivXsGZHfEsuzhv) | [Youngin](https://open.spotify.com/album/3BByvn0clO7pHwGi7qYFyD) | 2:42 | 2023-09-04 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 512696,
+  "num_followers": 512961,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjc3NDc3NDBjNDhmM2FkMWQzYzNlNzE2OTYwNWZlYzQyYWMwMTY3",
+  "snapshot_id": "MCxjZTVkMGZjNmViNDNiZTY4ODExNDFmYjc4Yzk2Mjc4ZGRlY2FjMDA2",
   "tracks": [
     {
       "added_at": "2023-09-14 22:00:00",
@@ -215,30 +215,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Otherside",
-        "url": "https://open.spotify.com/album/66mIQU9Et5l2adfdWAQQLD"
-      },
-      "artists": [
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        },
-        {
-          "name": "WHITENO1SE",
-          "url": "https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2"
-        },
-        {
-          "name": "Eytan Peled",
-          "url": "https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "Otherside",
-      "url": "https://open.spotify.com/track/5Vx0adNfQ9acNFltwiXd2Z"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "He.art (Omiki & Terra Remix)",
         "url": "https://open.spotify.com/album/2YgMh1KbaXvV5GByqywQAU"
       },
@@ -259,6 +235,30 @@
       "duration_ms": 432676,
       "name": "He.art (Omiki & Terra Remix)",
       "url": "https://open.spotify.com/track/0IQ2lKaun7QeB4ixCbJoIb"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Otherside",
+        "url": "https://open.spotify.com/album/66mIQU9Et5l2adfdWAQQLD"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "WHITENO1SE",
+          "url": "https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2"
+        },
+        {
+          "name": "Eytan Peled",
+          "url": "https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/5Vx0adNfQ9acNFltwiXd2Z"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -679,6 +679,26 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/1MbrZrYLnEb7PK28rX7Nug"
+      },
+      "artists": [
+        {
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+        },
+        {
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        }
+      ],
+      "duration_ms": 159642,
+      "name": "You Make Me Feel - Radio Version",
+      "url": "https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Shiva Style, Pt. 2",
         "url": "https://open.spotify.com/album/6CZaPBFfSRM0uDuTSAUCKa"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 349764,
       "name": "Shiva Style, Pt. 2",
       "url": "https://open.spotify.com/track/0WLTMOUNg6zHjSlFR4Hv3m"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "You Make Me Feel",
-        "url": "https://open.spotify.com/album/1MbrZrYLnEb7PK28rX7Nug"
-      },
-      "artists": [
-        {
-          "name": "Ghost Rider",
-          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
-        },
-        {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        }
-      ],
-      "duration_ms": 159642,
-      "name": "You Make Me Feel - Radio Version",
-      "url": "https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -987,26 +987,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Chamunda",
-        "url": "https://open.spotify.com/album/2lu9LraHRyUq1q7yEAuF9u"
-      },
-      "artists": [
-        {
-          "name": "Shanti People",
-          "url": "https://open.spotify.com/artist/4udXDlf1VbsKEaII28KQLt"
-        },
-        {
-          "name": "S3N0",
-          "url": "https://open.spotify.com/artist/5R1yd5y1Aap6x2iFiXjPj1"
-        }
-      ],
-      "duration_ms": 202237,
-      "name": "Chamunda - Radio Edit",
-      "url": "https://open.spotify.com/track/1JI5SuVVmXWCGrJ8HiicxF"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "STAY (HEDEGAARD Remix)",
         "url": "https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 178285,
       "name": "War of the Gods",
       "url": "https://open.spotify.com/track/2fSuULcE8VMeOHxBsXIy0d"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Chamunda",
+        "url": "https://open.spotify.com/album/2lu9LraHRyUq1q7yEAuF9u"
+      },
+      "artists": [
+        {
+          "name": "Shanti People",
+          "url": "https://open.spotify.com/artist/4udXDlf1VbsKEaII28KQLt"
+        },
+        {
+          "name": "S3N0",
+          "url": "https://open.spotify.com/artist/5R1yd5y1Aap6x2iFiXjPj1"
+        }
+      ],
+      "duration_ms": 202237,
+      "name": "Chamunda - Radio Edit",
+      "url": "https://open.spotify.com/track/1JI5SuVVmXWCGrJ8HiicxF"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/0FdDfrDGmVaKivoyy6gUY9"
-      },
-      "artists": [
-        {
-          "name": "Phenomenal",
-          "url": "https://open.spotify.com/artist/3n1MLjPurbOnrhDXePNrQU"
-        },
-        {
-          "name": "Paul Hadi",
-          "url": "https://open.spotify.com/artist/6NuxH9Sx4ywdMTkqaSRDkR"
-        }
-      ],
-      "duration_ms": 268172,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/0DKWDteZi7MzDnJYc4i48b"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Remixes",
         "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 488275,
       "name": "Poison - Darma Remix",
       "url": "https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/0FdDfrDGmVaKivoyy6gUY9"
+      },
+      "artists": [
+        {
+          "name": "Phenomenal",
+          "url": "https://open.spotify.com/artist/3n1MLjPurbOnrhDXePNrQU"
+        },
+        {
+          "name": "Paul Hadi",
+          "url": "https://open.spotify.com/artist/6NuxH9Sx4ywdMTkqaSRDkR"
+        }
+      ],
+      "duration_ms": 268172,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/0DKWDteZi7MzDnJYc4i48b"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1563,22 +1563,26 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Behind",
-        "url": "https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt"
+        "name": "Frequency (Aura Vortex Remix)",
+        "url": "https://open.spotify.com/album/0YCowgi0iH0oCjtfFtuWUS"
       },
       "artists": [
         {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+          "name": "Day Din",
+          "url": "https://open.spotify.com/artist/1YzhPssoLV65PIChO3Uri9"
         },
         {
-          "name": "Deep Kontakt",
-          "url": "https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna"
+          "name": "Coming Soon!!!",
+          "url": "https://open.spotify.com/artist/4Iht6hiRR5kov66LO7fcOu"
+        },
+        {
+          "name": "Aura Vortex",
+          "url": "https://open.spotify.com/artist/5T6ATRUoiqVQpcQTK94ies"
         }
       ],
-      "duration_ms": 273375,
-      "name": "Behind",
-      "url": "https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ"
+      "duration_ms": 435428,
+      "name": "Frequency - Aura Vortex Remix",
+      "url": "https://open.spotify.com/track/057ud3gUiKPOJ6CY696J4I"
     }
   ],
   "unique_name": "Psytrance Supernova",

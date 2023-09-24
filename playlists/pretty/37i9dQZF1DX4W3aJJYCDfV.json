@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Doja Cat (pictured), Headie One & K-Trap, Bakar and more!",
-  "num_followers": 839390,
+  "num_followers": 839477,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDhkMGZmYjU4YzZhYmEwYzU3NDgwMzdhNzJmYzBjOTM4NjBjNDg2",
+  "snapshot_id": "MCxkMjVmYjg5ZDE3NDViOWNhZmY0NzkxMmEyMTgzNDI1MTRlYTUwYzg3",
   "tracks": [
     {
       "added_at": "2023-09-22 08:12:12",
@@ -1418,9 +1418,13 @@
         {
           "name": "Offica",
           "url": "https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2"
+        },
+        {
+          "name": "A92",
+          "url": "https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc"
         }
       ],
-      "duration_ms": 200000,
+      "duration_ms": 186714,
       "name": "Stick To The Plan",
       "url": "https://open.spotify.com/track/70LSkaIGJp3vClVP1G513o"
     },

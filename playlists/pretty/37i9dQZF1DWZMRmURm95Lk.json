@@ -1,28 +1,32 @@
 {
   "description": "Beat e rime, oggi come una volta. DJ Shocca, Gu\u00e8 ed Ele A in cover.",
-  "num_followers": 35339,
+  "num_followers": 35371,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmNmMzhmYzNkODE5ODAxNzQ2ZjljMWI3YzNjMTNjZmYwZGI0NmFl",
+  "snapshot_id": "MCwwMWQ1ZTliM2NhNWMwYTk3YWM0YWE0NDQ1NTAyYzgwMTM2OTcyMDgx",
   "tracks": [
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "Cos\u00ec Com' \u00e8",
-        "url": "https://open.spotify.com/album/4qtNe5vJDsAYXFhMX81Gp2"
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
       },
       "artists": [
         {
-          "name": "Articolo 31",
-          "url": "https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe"
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
         }
       ],
-      "duration_ms": 203026,
-      "name": "Tranqi Funky",
-      "url": "https://open.spotify.com/track/2ttUbhePgGQQKAe5vxQVG4"
+      "duration_ms": 159095,
+      "name": "DOPE BOY",
+      "url": "https://open.spotify.com/track/6r4QPSgVEV5ZXJVqarKaQn"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -99,22 +103,18 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "VIRUS",
-        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+        "name": "Cos\u00ec Com' \u00e8",
+        "url": "https://open.spotify.com/album/4qtNe5vJDsAYXFhMX81Gp2"
       },
       "artists": [
         {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+          "name": "Articolo 31",
+          "url": "https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe"
         }
       ],
-      "duration_ms": 159095,
-      "name": "DOPE BOY",
-      "url": "https://open.spotify.com/track/6r4QPSgVEV5ZXJVqarKaQn"
+      "duration_ms": 203026,
+      "name": "Tranqi Funky",
+      "url": "https://open.spotify.com/track/2ttUbhePgGQQKAe5vxQVG4"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -124,7 +124,7 @@
       },
       "artists": [
         {
-          "name": "Frankie HI-NRG MC",
+          "name": "Frankie hi-nrg mc",
           "url": "https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI"
         },
         {
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "Penna Capitale",
-        "url": "https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 202885,
-      "name": "Una Volta Sola",
-      "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
         "name": "60 Hz",
         "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 224000,
       "name": "Notte Blu",
       "url": "https://open.spotify.com/track/3onqRjPDjMpOaE9le8pMfN"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "Penna Capitale",
+        "url": "https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 202885,
+      "name": "Una Volta Sola",
+      "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "Il Tempo Vola 2002-2020",
-        "url": "https://open.spotify.com/album/2t9xl2JQTdrndND3rdwIh6"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Bugiardo",
-      "url": "https://open.spotify.com/track/0sUDu8d4eRNgRk1u7WKINl"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
         "name": "Marracash",
         "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 233120,
       "name": "Bastavano Le Briciole",
       "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "Il Tempo Vola 2002-2020",
+        "url": "https://open.spotify.com/album/2t9xl2JQTdrndND3rdwIh6"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Bugiardo",
+      "url": "https://open.spotify.com/track/0sUDu8d4eRNgRk1u7WKINl"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
+        "name": "Iron Maiden",
+        "url": "https://open.spotify.com/album/5r6SGHEkgZKiqV3KVw0awx"
+      },
+      "artists": [
+        {
+          "name": "Axos",
+          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
+        }
+      ],
+      "duration_ms": 158076,
+      "name": "Iron Maiden",
+      "url": "https://open.spotify.com/track/5CHWWIk5gnZ5TQb5XK4fRN"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
         "name": "Sotto effetto stono",
         "url": "https://open.spotify.com/album/63h7JtAfYi7W0e4lbGtzEE"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 276933,
       "name": "Solo lei ha quel che voglio (feat. Danny Losito)",
       "url": "https://open.spotify.com/track/6XuUJwcaTMdDS7rsasMNaM"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "Iron Maiden",
-        "url": "https://open.spotify.com/album/5r6SGHEkgZKiqV3KVw0awx"
-      },
-      "artists": [
-        {
-          "name": "Axos",
-          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
-        }
-      ],
-      "duration_ms": 158076,
-      "name": "Iron Maiden",
-      "url": "https://open.spotify.com/track/5CHWWIk5gnZ5TQb5XK4fRN"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "Sotto lo stesso effetto",
-        "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
-      },
-      "artists": [
-        {
-          "name": "Sottotono",
-          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Amor de mi vida",
-      "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
         "name": "Neffa E I Messaggeri Della Dopa",
         "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
       },
@@ -1915,6 +1899,62 @@
       "duration_ms": 238773,
       "name": "Il 6\u00b0 Senso",
       "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "Sotto lo stesso effetto",
+        "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
+      },
+      "artists": [
+        {
+          "name": "Sottotono",
+          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Amor de mi vida",
+      "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "Chi more pe' mme",
+        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "duration_ms": 283480,
+      "name": "Chi more pe' mme",
+      "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "Infernum",
+        "url": "https://open.spotify.com/album/1CD519TNba7nHjdcrCekz9"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        },
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        },
+        {
+          "name": "Michele Venanzoni",
+          "url": "https://open.spotify.com/artist/5Pp7noxtW19NbiFiZzOZpB"
+        }
+      ],
+      "duration_ms": 180776,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/1WYX66uRaVP4GCEwyvAt3D"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1955,46 +1995,6 @@
       "duration_ms": 197227,
       "name": "Mani sporche (feat. Gianni Bismark & Lil Kvneki)",
       "url": "https://open.spotify.com/track/3knYKrDUrIv8F271A7cmEm"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "Infernum",
-        "url": "https://open.spotify.com/album/1CD519TNba7nHjdcrCekz9"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        },
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        },
-        {
-          "name": "Michele Venanzoni",
-          "url": "https://open.spotify.com/artist/5Pp7noxtW19NbiFiZzOZpB"
-        }
-      ],
-      "duration_ms": 180776,
-      "name": "Beatrice",
-      "url": "https://open.spotify.com/track/1WYX66uRaVP4GCEwyvAt3D"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "Chi more pe' mme",
-        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
-      },
-      "artists": [
-        {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
-        }
-      ],
-      "duration_ms": 283480,
-      "name": "Chi more pe' mme",
-      "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
     },
     {
       "added_at": "2023-09-21 22:01:00",

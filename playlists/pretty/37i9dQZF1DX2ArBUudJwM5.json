@@ -1,12 +1,12 @@
 {
   "description": "Estamos listas para un festival \u00fanico. \n",
-  "num_followers": 39113,
+  "num_followers": 39127,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTA2MDMzZjQ3ZjA1ZTU1MjYyYjhlYzM1OGYwNjQ1MDM5NjdjNjRi",
+  "snapshot_id": "MCwwNDZhZGNmNDM1MzdjMjE0NzhjODU0MjllZjlkYjdhNzQ3MjUzMmY1",
   "tracks": [
     {
       "added_at": "2023-09-20 19:09:49",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "Lindos Problemas",
-      "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
-    },
-    {
-      "added_at": "2023-09-20 19:09:49",
-      "album": {
         "name": "La Movidita",
         "url": "https://open.spotify.com/album/59IsmbtBiwZmpwrBOJzymP"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 182880,
       "name": "La G\u00fcera Salome",
       "url": "https://open.spotify.com/track/51kzAz2guzWXeQFtzE3BUa"
+    },
+    {
+      "added_at": "2023-09-20 19:09:49",
+      "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "Lindos Problemas",
+      "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -747,38 +747,6 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "Mariposa Azul",
-        "url": "https://open.spotify.com/album/0u5EXmZWkofaUccSvKyx2f"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 201382,
-      "name": "Mariposa Azul",
-      "url": "https://open.spotify.com/track/30A9i0eGYhLESSFRQBHuX9"
-    },
-    {
-      "added_at": "2023-09-20 19:09:49",
-      "album": {
-        "name": "Raices de Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/35FaKPTKnwtwZ2JJbIiTG5"
-      },
-      "artists": [
-        {
-          "name": "Mimi Maura",
-          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Yo no lloro m\u00e1s",
-      "url": "https://open.spotify.com/track/61p3ncr6aD14pvJjdmRBaG"
-    },
-    {
-      "added_at": "2023-09-20 19:09:49",
-      "album": {
         "name": "Revolea",
         "url": "https://open.spotify.com/album/5i2gn7HRchalnvQHW5WCYI"
       },
@@ -803,6 +771,38 @@
       "duration_ms": 233763,
       "name": "Revolea",
       "url": "https://open.spotify.com/track/2I8yKSM7fygPWvu8iWKW9r"
+    },
+    {
+      "added_at": "2023-09-20 19:09:49",
+      "album": {
+        "name": "Raices de Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/35FaKPTKnwtwZ2JJbIiTG5"
+      },
+      "artists": [
+        {
+          "name": "Mimi Maura",
+          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Yo no lloro m\u00e1s",
+      "url": "https://open.spotify.com/track/61p3ncr6aD14pvJjdmRBaG"
+    },
+    {
+      "added_at": "2023-09-20 19:09:49",
+      "album": {
+        "name": "Mariposa Azul",
+        "url": "https://open.spotify.com/album/0u5EXmZWkofaUccSvKyx2f"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 201382,
+      "name": "Mariposa Azul",
+      "url": "https://open.spotify.com/track/30A9i0eGYhLESSFRQBHuX9"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "Tu Casa",
-        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Tu Casa",
-      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
-    },
-    {
-      "added_at": "2023-09-20 19:09:49",
-      "album": {
         "name": "No te confundas",
         "url": "https://open.spotify.com/album/6Sp9EMuyxQtWwDri5dRji4"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 198800,
       "name": "Que no se entere",
       "url": "https://open.spotify.com/track/0PtHJn4KCLVoFI5gR4nBRU"
+    },
+    {
+      "added_at": "2023-09-20 19:09:49",
+      "album": {
+        "name": "Tu Casa",
+        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Tu Casa",
+      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "Aguerrida",
-        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 151953,
-      "name": "Ni una Gota de Amor",
-      "url": "https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0"
-    },
-    {
-      "added_at": "2023-09-20 19:09:49",
-      "album": {
         "name": "Chocolate Ingl\u00e9s",
         "url": "https://open.spotify.com/album/3pZONXDON8OV4eHSvPPh1q"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 218320,
       "name": "El Chino",
       "url": "https://open.spotify.com/track/7qs3pUILxp3VqyBLqhV6gU"
+    },
+    {
+      "added_at": "2023-09-20 19:09:49",
+      "album": {
+        "name": "Aguerrida",
+        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 151953,
+      "name": "Ni una Gota de Amor",
+      "url": "https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "LXS INFERNALES (Del Valle Encantado)",
-        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 182256,
-      "name": "TRIGAL",
-      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
-    },
-    {
-      "added_at": "2023-09-20 19:09:49",
-      "album": {
         "name": "Seremos Primavera",
         "url": "https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 230259,
       "name": "Sorojchi",
       "url": "https://open.spotify.com/track/3G2oKpZKebeikGbTBiidsb"
+    },
+    {
+      "added_at": "2023-09-20 19:09:49",
+      "album": {
+        "name": "LXS INFERNALES (Del Valle Encantado)",
+        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 182256,
+      "name": "TRIGAL",
+      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
+        "name": "Tiempo Mariposa",
+        "url": "https://open.spotify.com/album/5nTp3qal7e64coF2pnjS7P"
+      },
+      "artists": [
+        {
+          "name": "Elena Roger",
+          "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
+        }
+      ],
+      "duration_ms": 269247,
+      "name": "Az\u00facar del Estero",
+      "url": "https://open.spotify.com/track/6KVOOiZ0QWZiYbwHVzncru"
+    },
+    {
+      "added_at": "2023-09-20 19:09:49",
+      "album": {
         "name": "La Luna y la Miel",
         "url": "https://open.spotify.com/album/1fkwPvQLORS4FKvgQZrxyF"
       },
@@ -1215,18 +1231,18 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "Tiempo Mariposa",
-        "url": "https://open.spotify.com/album/5nTp3qal7e64coF2pnjS7P"
+        "name": "I'm Sexy",
+        "url": "https://open.spotify.com/album/1IawKxLc0kQANfv3T7Wgbs"
       },
       "artists": [
         {
-          "name": "Elena Roger",
-          "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
+          "name": "Sof\u00eda Gabanna",
+          "url": "https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm"
         }
       ],
-      "duration_ms": 269247,
-      "name": "Az\u00facar del Estero",
-      "url": "https://open.spotify.com/track/6KVOOiZ0QWZiYbwHVzncru"
+      "duration_ms": 193448,
+      "name": "I'm Sexy",
+      "url": "https://open.spotify.com/track/6EehCI47rrOjaDHwrpTO7q"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "I'm Sexy",
-        "url": "https://open.spotify.com/album/1IawKxLc0kQANfv3T7Wgbs"
+        "name": "Y Segu\u00ed Cantando: Canciones Censuradas E Ineditas",
+        "url": "https://open.spotify.com/album/2r2shJjgCrryoYCQ1GUeNa"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Gabanna",
-          "url": "https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm"
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         }
       ],
-      "duration_ms": 193448,
-      "name": "I'm Sexy",
-      "url": "https://open.spotify.com/track/6EehCI47rrOjaDHwrpTO7q"
+      "duration_ms": 157066,
+      "name": "Como La Cigarra",
+      "url": "https://open.spotify.com/track/4gZBUGO3IJMvRilvnOxCaK"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "Y Segu\u00ed Cantando: Canciones Censuradas E Ineditas",
-        "url": "https://open.spotify.com/album/2r2shJjgCrryoYCQ1GUeNa"
+        "name": "Ella Es Como Vos",
+        "url": "https://open.spotify.com/album/1LfYBvw5tUsR0o4pVVRJWN"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+          "name": "Antho Mattei",
+          "url": "https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl"
         }
       ],
-      "duration_ms": 157066,
-      "name": "Como La Cigarra",
-      "url": "https://open.spotify.com/track/4gZBUGO3IJMvRilvnOxCaK"
+      "duration_ms": 269773,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/4NiyWU5iTYOm95h2zHOFsk"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -1347,18 +1363,18 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "Ella Es Como Vos",
-        "url": "https://open.spotify.com/album/1LfYBvw5tUsR0o4pVVRJWN"
+        "name": "Es Mi Culpa",
+        "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
       },
       "artists": [
         {
-          "name": "Antho Mattei",
-          "url": "https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl"
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
         }
       ],
-      "duration_ms": 269773,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/4NiyWU5iTYOm95h2zHOFsk"
+      "duration_ms": 215067,
+      "name": "Es Mi Culpa",
+      "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "Es Mi Culpa",
-        "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
+        "name": "Perlas y Diamantes",
+        "url": "https://open.spotify.com/album/7kO9imSCx60PuvubbTMDgt"
       },
       "artists": [
         {
-          "name": "Erica",
-          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
+          "name": "Viuda E Hijas De Roque Enroll",
+          "url": "https://open.spotify.com/artist/5X7IiXMVREXSohJkJEwdef"
         }
       ],
-      "duration_ms": 215067,
-      "name": "Es Mi Culpa",
-      "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
+      "duration_ms": 174546,
+      "name": "Estoy Tocando Fondo",
+      "url": "https://open.spotify.com/track/01sEco3yGjZm6mAAZzMlKm"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -1407,22 +1423,6 @@
       "duration_ms": 133711,
       "name": "24/7",
       "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
-    },
-    {
-      "added_at": "2023-09-20 19:09:49",
-      "album": {
-        "name": "Perlas y Diamantes",
-        "url": "https://open.spotify.com/album/7kO9imSCx60PuvubbTMDgt"
-      },
-      "artists": [
-        {
-          "name": "Viuda E Hijas De Roque Enroll",
-          "url": "https://open.spotify.com/artist/5X7IiXMVREXSohJkJEwdef"
-        }
-      ],
-      "duration_ms": 174546,
-      "name": "Estoy Tocando Fondo",
-      "url": "https://open.spotify.com/track/01sEco3yGjZm6mAAZzMlKm"
     },
     {
       "added_at": "2023-09-20 19:09:49",

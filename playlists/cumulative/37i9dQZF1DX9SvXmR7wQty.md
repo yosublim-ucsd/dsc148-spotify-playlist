@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Safia Nolin
 
-2,059 songs - 4 day 14 hr 3 min
+2,061 songs - 4 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1177,6 +1177,7 @@
 | [Ma douce \(feat\. Soolking\)](https://open.spotify.com/track/17JXkST3znIDJ2zkpr0cZR) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Coeur ouvert](https://open.spotify.com/album/0QEGWT2rxEPmNmjnClMYVi) | 2:50 | 2022-09-30 | 2022-10-15 |
 | [Ma drogue](https://open.spotify.com/track/2AFT8fANFNiYV2ua5hkrS2) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Extraterrestre](https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks) | 2:48 | 2022-06-03 | 2022-06-18 |
 | [Ma maison aux vents fous](https://open.spotify.com/track/5x1nwSbFot6fn7P2Cr83RM) | [LARCHE](https://open.spotify.com/artist/1EIPhCiePboY8AlbZr4HMv) | [Ma maison aux vents fous](https://open.spotify.com/album/2RJy4uqDAHIESe5pk7bAUv) | 3:23 | 2022-07-08 | 2022-07-23 |
+| [Ma muse](https://open.spotify.com/track/04Y0l7UQzs13uyKXzCYi2p) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Ma muse / Je t'haine](https://open.spotify.com/album/6GuWrATXQamfjDlQdion0H) | 2:58 | 2023-09-22 |  |
 | [Ma peau brûle](https://open.spotify.com/track/0CSnwni3GSWONb9hvpaxfx) | [Mayfly](https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw) | [HIDEAWAY, Vol\. I](https://open.spotify.com/album/66LghYktR6TEc6bzm0wjuN) | 3:22 | 2023-01-13 | 2023-01-28 |
 | [Ma petite entreprise](https://open.spotify.com/track/6EPZV6aJrOaudNPTOtAiII) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [Les chevaux du plaisir \(Boulay chante Bashung\)](https://open.spotify.com/album/0mQ42DeEtBHZ33FhVzJ5sV) | 3:42 | 2023-03-17 | 2023-04-09 |
 | [Ma promesse](https://open.spotify.com/track/5TNhRGVHRNAIHLo5Xaouzh) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Ma promesse](https://open.spotify.com/album/77RhDral1NtDom4ydM19vn) | 2:28 | 2022-09-16 | 2022-10-01 |
@@ -1189,6 +1190,7 @@
 | [Magic Johnson](https://open.spotify.com/track/68IeiFIaq7Pd5O5REmwMuj) | [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP) | [Sua broue](https://open.spotify.com/album/4qCiQshJI98LzrP1gtE7T1) | 1:59 | 2022-06-24 | 2022-07-09 |
 | [Magique](https://open.spotify.com/track/0FzN7tnPh3epsX38zFgvV1) | [S’tano](https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc) | [Magique](https://open.spotify.com/album/7Ju4HUvlakPvIsibpoZ4Wu) | 3:05 | 2023-01-20 | 2023-01-28 |
 | [Magnifique](https://open.spotify.com/track/4mzNeemSeYcTJSPlQWudN7) | [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [TronelDiablo](https://open.spotify.com/album/1kRKwfoDM7hFBH9YrBGlyb) | 3:16 | 2022-08-12 | 2022-08-27 |
+| [Magot](https://open.spotify.com/track/69zAnyBtarXinChSUq925t) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Telegram 2](https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc) | 3:16 | 2023-09-22 |  |
 | [main l’oiseau](https://open.spotify.com/track/1b00k9gcQ9SxLK0aLXlUpa) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [ET SI, DE/main l'oiseau](https://open.spotify.com/album/4NJy1ueaJ0uqJwNDsycSVa) | 3:26 | 2023-09-22 |  |
 | [MAINTENANT](https://open.spotify.com/track/5I7W7mFSWcIWN5LfWR8ElP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [MAINTENANT](https://open.spotify.com/album/7wroesHmGqA6A7UmoKZCxO) | 3:55 | 2022-09-30 | 2022-10-15 |
 | [Maison de dicks](https://open.spotify.com/track/0MFuLr24g6cc6iAmuwj7PQ) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Maison de dicks](https://open.spotify.com/album/0qCoa6PwtapBcSp8KRIQiZ) | 2:26 | 2022-02-11 | 2022-02-26 |
@@ -1390,7 +1392,7 @@
 | [Ours en cage](https://open.spotify.com/track/2UygN6kuMAaDHFXGywnB4Q) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE), [Gxlden](https://open.spotify.com/artist/7B8bcVe9PQZSS633ZQa9qo) | [Ours en cage](https://open.spotify.com/album/2NbGxEzsahYMFpnp95IPCt) | 2:21 | 2023-03-10 | 2023-03-25 |
 | [Outfit](https://open.spotify.com/track/3rsCRv584vweuDabWrHgRR) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw), [LEDOC](https://open.spotify.com/artist/5bR9oIpu664wSag91FUI9d) | [Outfit](https://open.spotify.com/album/3H1ZDOuNRN8VbTIQNNU31Q) | 2:55 | 2022-04-29 | 2022-05-07 |
 | [Outété](https://open.spotify.com/track/3GZCULuKsRR4FpnrKFkIe0) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Outété](https://open.spotify.com/album/05LPUIOpXEr1aItAeYscFP) | 3:05 | 2022-05-06 | 2022-05-14 |
-| [Ouvrir les yeux](https://open.spotify.com/track/5d069i6qYWZBBZMRy6cRaz) | [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Ouvrir les yeux](https://open.spotify.com/album/6jWhRZHy0gZieVkWxu35yb) | 3:23 | 2023-09-15 |  |
+| [Ouvrir les yeux](https://open.spotify.com/track/5d069i6qYWZBBZMRy6cRaz) | [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Ouvrir les yeux](https://open.spotify.com/album/6jWhRZHy0gZieVkWxu35yb) | 3:23 | 2023-09-15 | 2023-09-24 |
 | [Ovni \(C\-132\)](https://open.spotify.com/track/6ATlxhYNWlz0nAUJoeoyry) | [Matt Boudreau](https://open.spotify.com/artist/6r5xvxemxhGGIjDOqmO4wV) | [Ovni \(C\-132\)](https://open.spotify.com/album/40SV2LYDGopKziBbqHPljR) | 3:13 | 2022-01-28 | 2022-02-05 |
 | [Où tu voudras \(feat\. Tayc\)](https://open.spotify.com/track/18sI6BcfZWB5z77dSlQjqK) | [47ter](https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Où tu voudras \(feat\. Tayc\)](https://open.spotify.com/album/5MJy5brDsbiFiVHzc9eDcf) | 3:09 | 2023-04-14 | 2023-05-20 |
 | [P'tit village](https://open.spotify.com/track/7x8dg0DkvyVeU1vNG6HVAw) | [Jace](https://open.spotify.com/artist/7KCD5IGwoH8rY19DZnOHpO) | [P'tit village](https://open.spotify.com/album/7J4D7KBNSJd23hVlKnGJ2X) | 2:22 | 2023-01-13 | 2023-01-28 |
@@ -1485,7 +1487,7 @@
 | [PLUS FORT](https://open.spotify.com/track/5WjCSLizeYIRcfkClIZwWJ) | [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [PLUS FORT](https://open.spotify.com/album/68N37Y1WWxgs9Px37a9Xuq) | 3:05 | 2022-04-22 | 2022-04-29 |
 | [Plus fort que le coeur \(acoustic version\)](https://open.spotify.com/track/597IPyHiTwYi9fRl12GfqX) | [Laura Gagné](https://open.spotify.com/artist/34UjqWd6fDAaLYo7CWVwSA) | [Plus fort que le coeur \(acoustic version\)](https://open.spotify.com/album/6hdko08ga2L0QIObTzumPP) | 2:08 | 2022-10-14 | 2022-10-29 |
 | [Plus fort que le cœur](https://open.spotify.com/track/4GdMU1f51JKvpLQky8S2jj) | [Laura Gagné](https://open.spotify.com/artist/34UjqWd6fDAaLYo7CWVwSA) | [Plus fort que le cœur](https://open.spotify.com/album/052EvmGp30g21DHOw0T9JQ) | 2:14 | 2022-06-17 | 2022-06-25 |
-| [Plus jamais](https://open.spotify.com/track/7ghrmlvEtSS3fuHwgl3ePD) | [BÉNI BASS DJ](https://open.spotify.com/artist/0LTdSULKSgSW95izfDSS8V), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Plus jamais](https://open.spotify.com/album/0gpLTk6qJsrvfxIU4M7h8X) | 3:21 | 2023-09-15 |  |
+| [Plus jamais](https://open.spotify.com/track/7ghrmlvEtSS3fuHwgl3ePD) | [BÉNI BASS DJ](https://open.spotify.com/artist/0LTdSULKSgSW95izfDSS8V), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Plus jamais](https://open.spotify.com/album/0gpLTk6qJsrvfxIU4M7h8X) | 3:21 | 2023-09-15 | 2023-09-24 |
 | [Plus on change, plus on se ressemble](https://open.spotify.com/track/0FkWwbLTL0mpDuYZ2czTdS) | [Olivier Couture](https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq) | [Plus on change, plus on se ressemble](https://open.spotify.com/album/4lLe43rzy59HYgrJu2dmHJ) | 3:52 | 2022-03-04 | 2022-03-12 |
 | [Plus qu'assez](https://open.spotify.com/track/5TvGIuBUdc53iD6NrYfjK7) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Plus qu'assez](https://open.spotify.com/album/74eMYBI9D5AtWcVBogXz9o) | 3:23 | 2022-10-21 | 2022-10-29 |
 | [Plus que](https://open.spotify.com/track/4jYENrEA31fBzgCsEVc6x7) | [Lhéfé](https://open.spotify.com/artist/3bzQSOFEd6Zgzxi8nyhxOY) | [Mentir mon plaisir](https://open.spotify.com/album/5kG61u4EiSpCZhPw6QrSC0) | 3:41 | 2023-01-13 | 2023-01-21 |

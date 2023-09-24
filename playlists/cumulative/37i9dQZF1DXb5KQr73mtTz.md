@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-232 songs - 15 hr 13 min
+233 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Hey 있잖아](https://open.spotify.com/track/35jprpmHyUeZtCiGj2ggDa) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Cobalt Blue](https://open.spotify.com/album/6LYD23SLNIifGJ08R6KdO0) | 3:57 | 2022-05-11 | 2022-07-29 |
 | [Home](https://open.spotify.com/track/6y7oBWsXHt4ClQuUqqdFsj) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Home](https://open.spotify.com/album/6fO5C0CRfbjwL027kmCJG2) | 4:07 | 2022-05-11 | 2022-07-26 |
 | [Hopeless Romantic \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:55 | 2023-02-28 |  |
-| [How about you](https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [STAR](https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz) | 4:21 | 2022-05-11 |  |
+| [How about you](https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [STAR](https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz) | 4:21 | 2022-05-11 | 2023-09-24 |
 | [How Can I Live Without You](https://open.spotify.com/track/2WU6qcQohr7YTygqaE1A0J) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [How Can I Live Without You](https://open.spotify.com/album/3Z8pAXoh1RbOLaLia5Y1wz) | 3:44 | 2022-10-04 | 2023-01-04 |
 | [How Can I Live Without You](https://open.spotify.com/track/2wR3Hf3iIiCIAP8xx1I3Px) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [How Can I Live Without You](https://open.spotify.com/album/4ToOcySEVsN3ZEpKtd4nvO) | 3:44 | 2022-05-11 | 2022-07-24 |
 | [How could you](https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [How could you](https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo) | 4:11 | 2022-05-11 | 2022-10-25 |
@@ -225,6 +225,7 @@
 | [You Are The Sea](https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [You Are The Sea \(CURTAIN CALL OST Part.4\)](https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw) | 4:06 | 2022-11-23 | 2023-03-18 |
 | [You're Free](https://open.spotify.com/track/19BiyAamzm9lGzz7LXuCbb) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [You're Free](https://open.spotify.com/album/26TddKetWo996P7sqj0u5Y) | 3:44 | 2022-05-11 | 2022-07-29 |
 | [You, you](https://open.spotify.com/track/1zqVFI0tM6SHXGRtf5nzV4) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [You, you](https://open.spotify.com/album/4PN4xczdZoMbKBdJgaOltt) | 5:02 | 2022-05-11 | 2022-07-29 |
+| [거울 MIRROR](https://open.spotify.com/track/3rJlE3EHSZcjOVI5fJZpgR) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [거울 MIRROR](https://open.spotify.com/album/2BKrJ8ePL68zc2xesSdkHN) | 4:42 | 2023-09-20 |  |
 | [나와 같다면](https://open.spotify.com/track/76vLOcSPwCr4BHQSO7Ihis) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [서바이벌 나는 가수다 경연 3\-2 \- 네티즌 추천곡](https://open.spotify.com/album/40mJuq7mDmCahsMxjSBxzk) | 3:38 | 2022-05-11 | 2022-06-01 |
 | [날 사랑한 처음의 너로 돌아와](https://open.spotify.com/track/21gnQyyXCoEgDkq3kU9kWZ) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [START\-UP \(Original Television Soundtrack\) Pt\. 15](https://open.spotify.com/album/0xAoGTzx1tl2j6xuVoLg90) | 3:36 | 2023-06-13 |  |
 | [마음의 말](https://open.spotify.com/track/5vtZXdKKGx1BOcFYYDiXlH) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [로봇이 아니야, Pt\. 3 Original Television Soundtrack](https://open.spotify.com/album/5ElDHNX2Jpo6vwkFKhSQCF) | 5:02 | 2022-05-11 | 2023-06-04 |

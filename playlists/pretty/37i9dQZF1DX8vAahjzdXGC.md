@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Andmesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,027 likes - 112 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,062 likes - 112 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 52 | [Sending All The Love](https://open.spotify.com/track/1VA5ZsqZFVHPxIqXgy0Co4) | [ONE ASIA](https://open.spotify.com/artist/6TuhzZXkbCmRDORFuCIoXo) | [Sending All The Love](https://open.spotify.com/album/5Nu2PITLQefilHbkNvlLKU) | 5:18 |
 | 53 | [憧れのままに](https://open.spotify.com/track/7LXjgEPK0QDh2yAZDRwVTs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [憧れのままに](https://open.spotify.com/album/7xaN3BvO06dYFJywAwgZDe) | 3:24 |
 | 54 | [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 |
-| 55 | [MEGUANXIDEYO](https://open.spotify.com/track/4RDEVasHPf6KH7yTCjpL47) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [MEGUANXIDEYO](https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu) | 3:40 |
+| 55 | [MEIGUANXIDEYO](https://open.spotify.com/track/4RDEVasHPf6KH7yTCjpL47) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [MEIGUANXIDEYO](https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu) | 3:40 |
 | 56 | [If I Say I Love You](https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [If I Say I Love You](https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP) | 3:50 |
 | 57 | [Ternoktah](https://open.spotify.com/track/5TZKS3PVVQE3QSUdGMAPIG) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Ternoktah](https://open.spotify.com/album/035lH9LLmKEzfr6DfinriW) | 3:51 |
 | 58 | [Cerita Kita](https://open.spotify.com/track/4IPqIHMpiWO3zuYdcEHdsZ) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP), [Nabila Razali](https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO) | [Cerita Kita](https://open.spotify.com/album/4R8IxdtCQj242dBeQCVQ9n) | 3:44 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 87 | [keep a window open//](https://open.spotify.com/track/32Y6HMKVOnPXqmtOr8TR4j) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [keep a window open//](https://open.spotify.com/album/5YJXQWhjuBdthyBOewxTql) | 2:30 |
 | 88 | [Burn](https://open.spotify.com/track/7xusJWTJfFsyNw0SJYICfv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/2pwTxu5gfazogIb5zYaLhf) | 2:23 |
 | 89 | [whatnot \(ft\. 木木mumu\)](https://open.spotify.com/track/0eJRc05BRVvdUekEGko7oj) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [木木mumu](https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL) | [whatnot](https://open.spotify.com/album/5QCbbm1puBIptPXmIHbUJJ) | 2:10 |
-| 90 | [homebody](https://open.spotify.com/track/2Dc0zNIYfOhWs1D13pjQrJ) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [homebody](https://open.spotify.com/album/5rt24b30Az06G6MYCfjwCJ) | 2:42 |
+| 90 | [homebody \- feat\. YAØ](https://open.spotify.com/track/2Dc0zNIYfOhWs1D13pjQrJ) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [homebody \(feat\. YAØ\)](https://open.spotify.com/album/5rt24b30Az06G6MYCfjwCJ) | 2:42 |
 | 91 | [Summer Vibes](https://open.spotify.com/track/7aKX262g7OMTuPm9XwoYNS) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Summer Vibes](https://open.spotify.com/album/7Cm5Ys8oAUwV7COhNTF7aV) | 2:19 |
 | 92 | [off without me](https://open.spotify.com/track/6EIlZdUbxRWahYO5xOd8cf) | [Aseekmars](https://open.spotify.com/artist/13XDJTv59THUVpthxagkmV), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [off without me](https://open.spotify.com/album/37XA94NR32zE8RiX3DYWtA) | 3:21 |
 | 93 | [NOTHING IS OK RN](https://open.spotify.com/track/0qsPna12kWD3zZVf0aqkxq) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53), [ROYAL ESTATE](https://open.spotify.com/artist/0VHEsvWyL8en9IA2JI4jzh) | [nothing is ok rn](https://open.spotify.com/album/5gflFa4cw8mufbVL92OVQd) | 4:17 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 111 | [Main Thing](https://open.spotify.com/track/1aSjnYP1J124WyGB7MsJ5X) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Main Thing](https://open.spotify.com/album/5ZNijsH0jWLSZiD7BDB0YB) | 2:16 |
 | 112 | [Rodeo](https://open.spotify.com/track/7cD3GOKnMPgW4m37meuv3J) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Rodeo](https://open.spotify.com/album/3qRfgIajUoPGnLDZSlX33g) | 2:35 |
 
-Snapshot ID: `MCxlYmU2ODdhNmY1ZDE0NzBmMzNhZmE5NjNlYWNmNGY2NThkNjNhZjVi`
+Snapshot ID: `MCw4YmQ3NmYxODQxMzhkMzRlMmRlNzc3OTUyMDYwYTFmN2UyOThjZWJh`

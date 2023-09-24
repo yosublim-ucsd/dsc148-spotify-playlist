@@ -1,12 +1,12 @@
 {
   "description": "Throwbacks for that emo kid in all of us. Cover: Paramore ",
-  "num_followers": 175553,
+  "num_followers": 175943,
   "original_name": "Emo Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjM5ZGRlMzAzNDI4MjViZWMwOTA3YjMyYTE4NzkwZjk5NjJiZmY2",
+  "snapshot_id": "MCwzM2Q4ZjQxMDBhYmM4MjY4NjdlOTkwOGU0NDBhNGQ5MmI1NWNjYTI4",
   "tracks": [
     {
       "added_at": "2022-09-12 15:41:09",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-09-12 15:41:09",
       "album": {
-        "name": "The Same Old Blood Rush With A New Touch",
-        "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
-      },
-      "artists": [
-        {
-          "name": "Cute Is What We Aim For",
-          "url": "https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "The Curse of Curves",
-      "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
-    },
-    {
-      "added_at": "2022-09-12 15:41:09",
-      "album": {
         "name": "Hold Me Down",
         "url": "https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 143080,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW"
+    },
+    {
+      "added_at": "2022-09-12 15:41:09",
+      "album": {
+        "name": "The Same Old Blood Rush With A New Touch",
+        "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
+      },
+      "artists": [
+        {
+          "name": "Cute Is What We Aim For",
+          "url": "https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "The Curse of Curves",
+      "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
     },
     {
       "added_at": "2022-09-12 15:41:09",

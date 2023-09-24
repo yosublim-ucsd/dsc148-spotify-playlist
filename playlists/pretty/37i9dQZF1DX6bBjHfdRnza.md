@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Kuren\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,282 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,332 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 21 | [A.D.S.R](https://open.spotify.com/track/0g6piC0Qd0pKEjc4UUyALV) | [Moontalk](https://open.spotify.com/artist/4UFhlgDCipgC1LdbaJgIgN) | [A.D.S.R](https://open.spotify.com/album/5NNbsqmQKfLTLSXoTWGgVQ) | 3:45 |
 | 22 | [Free Flying](https://open.spotify.com/track/7lfi086k2AilxJslHh2AFq) | [Tom Nolan](https://open.spotify.com/artist/3L4zJBOdYvj9pNYzIsP5s7) | [Free Flying](https://open.spotify.com/album/6BveUT0QP67asPqHG9nd1J) | 3:41 |
 | 23 | [Crush](https://open.spotify.com/track/0jef5NXkE7wnzA7ZUMeamG) | [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m) | [Crush](https://open.spotify.com/album/3KDvkGd3e5CU27QhsN6lRd) | 2:29 |
-| 24 | [432 Drip](https://open.spotify.com/track/2MbJ2JWH4vdf2ic2HnNITX) | [Berus](https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa) | [Beat Side](https://open.spotify.com/album/4IdABKLjJMvJVHKx610CNK) | 2:56 |
+| 24 | [432 Drip](https://open.spotify.com/track/2MbJ2JWH4vdf2ic2HnNITX) | [Berus](https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa), [Abdel Hady](https://open.spotify.com/artist/7Kz7E6ZDI7TL8DaFwXFSkr) | [Beat Side](https://open.spotify.com/album/4IdABKLjJMvJVHKx610CNK) | 2:56 |
 | 25 | [C\-Quence Of Calamities \- Sedef Adasi Remix](https://open.spotify.com/track/7E7LJpIEOCSvdUdYgKP3Cz) | [BASHKKA](https://open.spotify.com/artist/5ofWf87ImDZQO2KzwdlPSw), [Sedef Adasi](https://open.spotify.com/artist/4jY1cwyuyqQATeSI16ZeYD) | [C\-Quence Of Calamities \(Sedef Adasi Remix\)](https://open.spotify.com/album/6uj8RoEhoAC8xU9B8c8l3r) | 3:55 |
 | 26 | [For The Bass](https://open.spotify.com/track/09VTm5ffIEblmJi1wD9XCn) | [Borj.](https://open.spotify.com/artist/3O7bD1NOJOWs4cokNjNcEr) | [For The Bass](https://open.spotify.com/album/6mcirLbT5brYGqdiuqgu7r) | 2:31 |
 | 27 | [Clean & Neat](https://open.spotify.com/track/22tNdBkA3yWyU3sQ4YGdMe) | [Moonaddict](https://open.spotify.com/artist/3F5sppuhVSClZlpmEp2fkF), [Duktuz](https://open.spotify.com/artist/3CFalFc2HSF9h93Jj04kOg) | [Clean & Neat EP](https://open.spotify.com/album/5ZXVfypDpI67Bs6BFFLKLv) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Get On Down](https://open.spotify.com/track/1T6FYYAZ9EBFcwNG4wxQ45) | [Edan](https://open.spotify.com/artist/1CgA8b6FL1s26NYpHqSqAp), [Berrow](https://open.spotify.com/artist/47pmchHoS8EYM5yvX1SATs) | [Get On Down / Make You Feel Good](https://open.spotify.com/album/2YEy9PT3FGgIxexoXs8ETN) | 4:55 |
 | 100 | [Cruisin'](https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Cruisin'](https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm) | 3:27 |
 
-Snapshot ID: `MCxhMzQ0NWExMzJkMWExODRhMmQyYzU2YjM5YjdhYzM5ZmIxYjNjNDE0`
+Snapshot ID: `MCxhZTcyMGFlMjJiNGFhOTQ0YjZiNTkzNzg1NDg0OWRmZmNjNTUwNWU3`

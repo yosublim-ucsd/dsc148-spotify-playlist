@@ -1,12 +1,12 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 5065,
+  "num_followers": 5079,
   "original_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjRkNWU5OGFkNTQ3YmIyNGY4MGJiM2IwODk4ZWZkMWVlYzkwNjI5",
+  "snapshot_id": "MCwxMmQzMjgyNjk0MTY1MzdkMTVkMmYwMDc0MGJhN2ZmNjM1ZGViMTJj",
   "tracks": [
     {
       "added_at": "2023-07-07 15:58:47",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "Cliche",
-        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
-      },
-      "artists": [
-        {
-          "name": "ROJO",
-          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
-        }
-      ],
-      "duration_ms": 186697,
-      "name": "Cliche",
-      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
         "name": "D_iary page.2",
         "url": "https://open.spotify.com/album/28ir5sUSxl9dkPD1jjeBKv"
       },
@@ -1079,26 +1063,6 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "Is this love?",
-        "url": "https://open.spotify.com/album/1FUgKWwkD6La6MGm0Ndh5K"
-      },
-      "artists": [
-        {
-          "name": "JUNIEL",
-          "url": "https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6"
-        },
-        {
-          "name": "YOUN TOVEN",
-          "url": "https://open.spotify.com/artist/6AXmdfKN5XhluSBP5wCrEr"
-        }
-      ],
-      "duration_ms": 183296,
-      "name": "Is this love? (with YOUN TOVEN)",
-      "url": "https://open.spotify.com/track/6AzNmQzi4gFwlbcfCUemJ2"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
         "name": "Spring Is Come By Chance (Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun)",
         "url": "https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1"
       },
@@ -1115,6 +1079,42 @@
       "duration_ms": 207613,
       "name": "Spring Is Come By Chance",
       "url": "https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
+        "name": "Cliche",
+        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
+      },
+      "artists": [
+        {
+          "name": "ROJO",
+          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
+        }
+      ],
+      "duration_ms": 186697,
+      "name": "Cliche",
+      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
+        "name": "Is this love?",
+        "url": "https://open.spotify.com/album/1FUgKWwkD6La6MGm0Ndh5K"
+      },
+      "artists": [
+        {
+          "name": "JUNIEL",
+          "url": "https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6"
+        },
+        {
+          "name": "YOUN TOVEN",
+          "url": "https://open.spotify.com/artist/6AXmdfKN5XhluSBP5wCrEr"
+        }
+      ],
+      "duration_ms": 183296,
+      "name": "Is this love? (with YOUN TOVEN)",
+      "url": "https://open.spotify.com/track/6AzNmQzi4gFwlbcfCUemJ2"
     },
     {
       "added_at": "2023-07-07 15:58:47",
