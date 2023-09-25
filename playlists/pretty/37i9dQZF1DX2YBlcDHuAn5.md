@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,297 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,319 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 46 | [Lola with the Light Eyes](https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [The Epic Tale of the Stranded Man](https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH) | 3:32 |
 | 47 | [Only Love](https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [Big Thing](https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU) | 3:35 |
 | 48 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 |
-| 49 | [Times](https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y) | [Marlayne](https://open.spotify.com/artist/4xjoVIB3eX5vHU3oz4BmBr), [Hans Vermeulen](https://open.spotify.com/artist/7kGe553AEMYjqXiGI8wIYD) | [Times](https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l) | 4:04 |
-| 50 | [Gravel Road](https://open.spotify.com/track/078aq6YFLnlMAK6yqst82A) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Wandering Soul](https://open.spotify.com/album/6OPr5drQs4sdE8IgAK4vEv) | 2:32 |
+| 49 | [Gravel Road](https://open.spotify.com/track/078aq6YFLnlMAK6yqst82A) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Wandering Soul](https://open.spotify.com/album/6OPr5drQs4sdE8IgAK4vEv) | 2:32 |
+| 50 | [Times](https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y) | [Marlayne](https://open.spotify.com/artist/4xjoVIB3eX5vHU3oz4BmBr), [Hans Vermeulen](https://open.spotify.com/artist/7kGe553AEMYjqXiGI8wIYD) | [Times](https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l) | 4:04 |
 
-Snapshot ID: `MCxiMTUzYjU0NzZkNTlkMDYzNTYyZjlkN2Y1MGU2Mjk0MzM2NTYzYTk5`
+Snapshot ID: `MCw1MzRkNzNkZGMxOTk3MGFlZjE0ODhhYThiNDNjOTA3MzAxYWZmYWVk`

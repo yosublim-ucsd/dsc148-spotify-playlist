@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 
 > Breathe deep and release that pressure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,664 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,681 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 48 | [All I Want](https://open.spotify.com/track/3ZYF8cV01HigmljsPaGFgn) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:22 |
 | 49 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 |
 | 50 | [The Bottom Line \(feat\. Josin\)](https://open.spotify.com/track/6SWcMCO8k07ptNCxf3Vmij) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Josin](https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW) | [some kind of peace](https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf) | 4:02 |
-| 51 | [Middle Of Nowhere](https://open.spotify.com/track/01w1oPjMMgYoXOv6bJyP8Q) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Middle Of Nowhere](https://open.spotify.com/album/3eYfdXctkEmwlDK9GWf2oG) | 6:42 |
+| 51 | [Middle Of Nowhere](https://open.spotify.com/track/5wlMfZKIVAlZ9nfBFyjI2S) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Middle Of Nowhere](https://open.spotify.com/album/7vZoAzkg4fOTxHIBQF9MVN) | 6:42 |
 | 52 | [I Won't](https://open.spotify.com/track/4dZOYn2YKHlRFDdYMabhNi) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [I Won't](https://open.spotify.com/album/1s9nYOISY7t8qS8hhLrYjk) | 3:35 |
 | 53 | [Reculver](https://open.spotify.com/track/6rkBNzraDcu5xuOMPGM041) | [lotusbliss](https://open.spotify.com/artist/7KasCF2ZfqwGRglWxqPFne) | [Bittersweet](https://open.spotify.com/album/3vbgdxeQbajiKQGphj6nkR) | 4:28 |
 | 54 | [RC\-20](https://open.spotify.com/track/4D1lbXrMY3iNnTqmRlcN5t) | [ChiruP](https://open.spotify.com/artist/5vaqhKQFXVxNaLP5qXYjrs) | [RC\-20](https://open.spotify.com/album/6lcAWTaPj9p67z1uBPX2aS) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 99 | [On The Way There](https://open.spotify.com/track/1cwV9KDoWoL2espNeeibvb) | [RolledBack](https://open.spotify.com/artist/1XZkIY1rC0QNcjpSIdMCoU), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [On The Way There](https://open.spotify.com/album/47SYiqJbww6E7jwvXscLSR) | 2:25 |
 | 100 | [I Know](https://open.spotify.com/track/4NmVOfj6JSxruDVrYW46AL) | [Khushi](https://open.spotify.com/artist/3Kyyw68V3tjQfwJ6ROuzrR) | [I Know](https://open.spotify.com/album/4dYC2w3OZtkW5xynPq6Jk2) | 2:34 |
 
-Snapshot ID: `MCw5YWE0YzA4NmU5NWI1ZWRkMzZlYzhkM2I3NDBkYzcyNGMzM2VjM2Vi`
+Snapshot ID: `MCxkNGUzOWJmOWYwMGVkYTFjODhlYjgxZDE0ODg1ZGJkYTQxMTQyNmEz`

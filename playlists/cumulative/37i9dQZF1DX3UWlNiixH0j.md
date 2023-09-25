@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. Cover: CHAI
 
-858 songs - 2 day 5 hr 25 min
+859 songs - 2 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,8 @@
 | [Furai](https://open.spotify.com/track/0JlDINY2QfgBGG1HYXeuyV) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Furai](https://open.spotify.com/album/4j0Zj8PZiRK5PL7MqFQA83) | 4:25 | 2023-02-21 | 2023-04-06 |
 | [fushigi \- URBAN VOLCANO SOUNDS Mysterious Boogie Remix](https://open.spotify.com/track/4izWh3S6IbaKO0pIRHdSxZ) | [HALFBY](https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF), [URBAN VOLCANO SOUNDS](https://open.spotify.com/artist/7uKxxjykhehO0XETSo7Ahi) | [fushigi \(URBAN VOLCANO SOUNDS Mysterious Boogie Remix\)](https://open.spotify.com/album/1kLgYyA73inRosAynMsNHu) | 5:49 | 2023-08-22 | 2023-09-19 |
 | [GAME](https://open.spotify.com/track/2VtkTGHzX6otFrgjB37PNn) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/00tN5W3sO93jZSqpLywQBs) | 2:45 | 2023-09-19 | 2023-09-21 |
-| [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-20 |  |
+| [GAME](https://open.spotify.com/track/2aZ6Du5TkxZUjvHW9uH8Qj) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:45 | 2023-09-22 |  |
+| [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-20 | 2023-09-25 |
 | [Garakuta](https://open.spotify.com/track/6YshcqmnTv2PZQIcpULXql) | [TEKE::TEKE](https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu) | [Garakuta](https://open.spotify.com/album/1YXVCWVeFjXN9vDjH8Uark) | 2:58 | 2023-03-03 | 2023-03-29 |
 | [Garden](https://open.spotify.com/track/6S3zXTgua8IH8y0UXG2o5z) | [Mariana in our Heads](https://open.spotify.com/artist/4sa4uFNUGC2SH8a4Rj710I) | [Landscapes](https://open.spotify.com/album/13pufn8mYgJ4A6w2zkUlQF) | 4:10 | 2023-07-04 | 2023-07-12 |
 | [garden.](https://open.spotify.com/track/3FQGrW0IsZ0HKewjwq8bgQ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [CHAPTER I: MEMENTO MOLLY](https://open.spotify.com/album/6D3UFoo05uS97YwuW8En48) | 3:35 | 2023-03-30 | 2023-04-28 |

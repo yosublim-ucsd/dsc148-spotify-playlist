@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Ilsey",
-  "num_followers": 61083,
+  "num_followers": 61199,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGNkZGQ5NjRjYWI5ZDU1NDhkYjAyMWYzMGIwNTVlMDBjOTlhNjM5",
+  "snapshot_id": "MCw5YmEyYjhiM2E3NDQ3ZWJmZDFlM2MwNDdhZWRlMTQ3ZTQ4OGIyNjI2",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "j's lullaby (darlin' i'd wait for you)",
-        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
       },
       "artists": [
         {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 290132,
-      "name": "j's lullaby (darlin' i'd wait for you)",
-      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+        "name": "j's lullaby (darlin' i'd wait for you)",
+        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
         }
       ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+      "duration_ms": 290132,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 195252,
-      "name": "I Burned LA Down",
-      "url": "https://open.spotify.com/track/4dEUEEbO25gBn2s9dASnYi"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "London's Song",
         "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 178573,
       "name": "London's Song",
       "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 195252,
+      "name": "I Burned LA Down",
+      "url": "https://open.spotify.com/track/4dEUEEbO25gBn2s9dASnYi"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Th\u00e9r\u00e8se",
         "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 234186,
       "name": "Give Me The Reason",
       "url": "https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "How Do We Stay In Love?",
-        "url": "https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR"
-      },
-      "artists": [
-        {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
-        }
-      ],
-      "duration_ms": 159981,
-      "name": "How Do We Stay In Love?",
-      "url": "https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Forget About Us",
         "url": "https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 196359,
       "name": "Forget About Us",
       "url": "https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "How Do We Stay In Love?",
+        "url": "https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "duration_ms": 159981,
+      "name": "How Do We Stay In Love?",
+      "url": "https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 185228,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "these words are all for you too",
         "url": "https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 205286,
       "name": "A Concert Six Months From Now",
       "url": "https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 185228,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "14",
-        "url": "https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 141796,
-      "name": "14",
-      "url": "https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Boston Accent",
         "url": "https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 201453,
       "name": "German Cars",
       "url": "https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "14",
+        "url": "https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 141796,
+      "name": "14",
+      "url": "https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY"
     },
     {
       "added_at": "2023-09-22 04:00:00",

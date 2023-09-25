@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 58630,
+  "num_followers": 58628,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGU0NjhmMzkzY2I0Njg1N2FkZTE4Yzc3MTkzMTI3MmIzYmIzZjMx",
+  "snapshot_id": "MCw3MjY1MjViOGJjOGM3ZGY5Njg3MTNlOGJjY2FjMGU3ZGIzNGQxNWQ1",
   "tracks": [
     {
       "added_at": "2023-09-22 12:31:43",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-09-22 12:31:43",
       "album": {
-        "name": "Christmas With The Andrews Sisters",
-        "url": "https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo"
-      },
-      "artists": [
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-        }
-      ],
-      "duration_ms": 180160,
-      "name": "I'd Like To Hitch A Ride With Santa Claus",
-      "url": "https://open.spotify.com/track/4vWGn9T8UorlRuj2wtchId"
-    },
-    {
-      "added_at": "2023-09-22 12:31:43",
-      "album": {
         "name": "Let's Share Christmas",
         "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 192800,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
+    },
+    {
+      "added_at": "2023-09-22 12:31:43",
+      "album": {
+        "name": "Christmas With The Andrews Sisters",
+        "url": "https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo"
+      },
+      "artists": [
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        }
+      ],
+      "duration_ms": 180160,
+      "name": "I'd Like To Hitch A Ride With Santa Claus",
+      "url": "https://open.spotify.com/track/4vWGn9T8UorlRuj2wtchId"
     },
     {
       "added_at": "2023-09-22 12:31:43",
@@ -411,26 +411,6 @@
     {
       "added_at": "2023-09-22 12:31:43",
       "album": {
-        "name": "Spotify Singles - Christmas",
-        "url": "https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 166853,
-      "name": "Santa Claus Is Comin' To Town - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO"
-    },
-    {
-      "added_at": "2023-09-22 12:31:43",
-      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 187200,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/5R9NaAk7bp624MbMyhcoBZ"
+    },
+    {
+      "added_at": "2023-09-22 12:31:43",
+      "album": {
+        "name": "Spotify Singles - Christmas",
+        "url": "https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 166853,
+      "name": "Santa Claus Is Comin' To Town - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO"
     },
     {
       "added_at": "2023-09-22 12:31:43",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-09-22 12:31:43",
       "album": {
-        "name": "What A Night! A Christmas Album",
-        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "O Come All Ye Faithful",
-      "url": "https://open.spotify.com/track/7blQL8x8MJNBVrN6x7Jcjb"
-    },
-    {
-      "added_at": "2023-09-22 12:31:43",
-      "album": {
         "name": "It's Christmas Time",
         "url": "https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 159622,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb"
+    },
+    {
+      "added_at": "2023-09-22 12:31:43",
+      "album": {
+        "name": "What A Night! A Christmas Album",
+        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/7blQL8x8MJNBVrN6x7Jcjb"
     }
   ],
   "unique_name": "Fireside Christmas Jazz",

@@ -4,14 +4,15 @@
 
 > This is the essential Justin Bieber.
 
-97 songs - 5 hr 28 min
+98 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#thatPOWER](https://open.spotify.com/track/01TuObJVd7owWchVRuQbQw) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [\#willpower \(Deluxe\)](https://open.spotify.com/album/0VWYRbEcvJcPrqMGJirO6q) | 4:39 | 2021-11-17 |  |
 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 | 2021-11-17 |  |
 | [2 Much](https://open.spotify.com/track/0oaY19dUwZimIgzn3ZZLZO) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:32 | 2021-11-17 |  |
-| [2U](https://open.spotify.com/track/762UXiwEHYY97VL45sAUPR) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [2U](https://open.spotify.com/album/0EYVu7ginQ5nPsQj3woBAQ) | 3:14 | 2022-04-29 |  |
+| [2U](https://open.spotify.com/track/762UXiwEHYY97VL45sAUPR) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [2U](https://open.spotify.com/album/0EYVu7ginQ5nPsQj3woBAQ) | 3:14 | 2022-04-29 | 2023-09-25 |
+| [2U \(feat\. Justin Bieber\)](https://open.spotify.com/track/61WR5FfGNLJxpLsAc61qWQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [7: Anniversary Edition](https://open.spotify.com/album/0GJU424RiEyYQTLbZcHVA7) | 3:14 | 2023-09-18 |  |
 | [2U \(feat\. Justin Bieber\)](https://open.spotify.com/track/3A7qX2QjDlPnazUsRk5y0M) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [2U \(feat\. Justin Bieber\)](https://open.spotify.com/album/1PZviVfBJJxNw5EtAwzdUu) | 3:14 | 2021-11-17 | 2022-07-29 |
 | [All Around Me](https://open.spotify.com/track/5Py8zRKGkZvgHniVVtvNCN) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 2:16 | 2021-11-17 |  |
 | [All Around The World](https://open.spotify.com/track/1Mg8vLBYwizu7AuhYQO64V) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Believe \(Deluxe Edition\)](https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9) | 4:04 | 2021-11-17 |  |

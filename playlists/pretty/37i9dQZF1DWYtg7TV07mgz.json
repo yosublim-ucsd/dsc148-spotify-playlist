@@ -1,12 +1,12 @@
 {
   "description": "Floorfillers galore from the 90s and 00s.",
-  "num_followers": 1176666,
+  "num_followers": 1177120,
   "original_name": "Massive Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDA2ODhmZDNlNGQ1OTk5MWZjYWU3Nzg1MmM3OTk2ZDg0MDgxNzA2",
+  "snapshot_id": "MCw5NDdmNDE1Mjc4NTRkZWMwNGQxODI0M2MzNjY3OWUxMGNkOGViNmQ5",
   "tracks": [
     {
       "added_at": "2022-07-05 09:02:20",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-07-05 09:02:20",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC"
-      },
-      "artists": [
-        {
-          "name": "Haddaway",
-          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
-        }
-      ],
-      "duration_ms": 270373,
-      "name": "What Is Love - 7\" Mix",
-      "url": "https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs"
-    },
-    {
-      "added_at": "2022-07-05 09:02:20",
-      "album": {
         "name": "Infinity 2008",
         "url": "https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 192294,
       "name": "Infinity 2008 - Klaas Vocal Edit",
       "url": "https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"
+    },
+    {
+      "added_at": "2022-07-05 09:02:20",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC"
+      },
+      "artists": [
+        {
+          "name": "Haddaway",
+          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+        }
+      ],
+      "duration_ms": 270373,
+      "name": "What Is Love - 7\" Mix",
+      "url": "https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs"
     },
     {
       "added_at": "2022-07-05 09:02:20",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-07-05 09:02:20",
       "album": {
+        "name": "Children (Dance Vault Mixes)",
+        "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
+      },
+      "artists": [
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
+    },
+    {
+      "added_at": "2022-07-05 09:02:20",
+      "album": {
         "name": "Settle (Deluxe)",
         "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 255866,
       "name": "Latch",
       "url": "https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c"
-    },
-    {
-      "added_at": "2022-07-05 09:02:20",
-      "album": {
-        "name": "Children (Dance Vault Mixes)",
-        "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
-      },
-      "artists": [
-        {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
     },
     {
       "added_at": "2022-07-05 09:02:20",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-07-05 09:02:20",
       "album": {
-        "name": "Save The World",
-        "url": "https://open.spotify.com/album/728voOLBbJUBgK2vooghcS"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        }
-      ],
-      "duration_ms": 213337,
-      "name": "Save The World",
-      "url": "https://open.spotify.com/track/65hRZOQkVjmBdusz1N7aOv"
-    },
-    {
-      "added_at": "2022-07-05 09:02:20",
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 212133,
       "name": "Ecuador - Original Radio Edit",
       "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
+    },
+    {
+      "added_at": "2022-07-05 09:02:20",
+      "album": {
+        "name": "Save The World",
+        "url": "https://open.spotify.com/album/728voOLBbJUBgK2vooghcS"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "duration_ms": 213337,
+      "name": "Save The World",
+      "url": "https://open.spotify.com/track/65hRZOQkVjmBdusz1N7aOv"
     },
     {
       "added_at": "2022-07-05 09:02:20",
@@ -555,7 +555,7 @@
     {
       "added_at": "2022-07-05 09:02:20",
       "album": {
-        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
+        "name": "Best Of La Bouche feat. Melanie Thornton",
         "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
       },
       "artists": [
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-07-05 09:02:20",
       "album": {
-        "name": "Push The Beat For This Jam (The Second Chapter)",
-        "url": "https://open.spotify.com/album/485YVBf2oC9eWnj39VbtJL"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 235413,
-      "name": "The Logical Song",
-      "url": "https://open.spotify.com/track/18kaCWM0OOdSQTnxCcoSU5"
-    },
-    {
-      "added_at": "2022-07-05 09:02:20",
-      "album": {
         "name": "Catalogue",
         "url": "https://open.spotify.com/album/5sCp2ukwrtpYj5wGfMx78M"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 278000,
       "name": "Sing It Back - Boris Dlugosch Mix",
       "url": "https://open.spotify.com/track/53qhh1kdcX4gRBShoW4LK8"
+    },
+    {
+      "added_at": "2022-07-05 09:02:20",
+      "album": {
+        "name": "Push The Beat For This Jam (The Second Chapter)",
+        "url": "https://open.spotify.com/album/485YVBf2oC9eWnj39VbtJL"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 235413,
+      "name": "The Logical Song",
+      "url": "https://open.spotify.com/track/18kaCWM0OOdSQTnxCcoSU5"
     },
     {
       "added_at": "2022-07-05 09:02:20",

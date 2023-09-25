@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Paula Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,301 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,516 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 9 | [Egal \(was passiert\)](https://open.spotify.com/track/0kNkyLekrgYVDt6EPmslv2) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Egal \(was passiert\)](https://open.spotify.com/album/4mNn1ZVQzxRhOQjFav5rMe) | 3:18 |
 | 10 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 |
 | 11 | [Radioaktiv](https://open.spotify.com/track/0SQzPiHEiNvR5eMAStBUke) | [Sam James](https://open.spotify.com/artist/3VQwTh92cOv9BsboReaIQy) | [Radioaktiv](https://open.spotify.com/album/0iw5OxwsJ4nWXdn6N2GLLF) | 2:29 |
-| 12 | [Goldmund](https://open.spotify.com/track/1pyhRVCNXg47cBcVNFH6pr) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Goldmund](https://open.spotify.com/album/5KPlOAzEmWrWicVDaGs9bA) | 3:27 |
+| 12 | [Goldmund](https://open.spotify.com/track/5cGHrM4cc540PHUrOCJ4If) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 3:27 |
 | 13 | [nie wieder normal](https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [nie wieder normal](https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav) | 3:17 |
 | 14 | [Lange nicht gut](https://open.spotify.com/track/0AoOnrPNHPwuqgPoJX5LRB) | [Goldroger](https://open.spotify.com/artist/3sAbVxYjczgrSmGrxcu7bM) | [Lange nicht gut](https://open.spotify.com/album/0cBmAMmyymnRIlQUknmhaZ) | 2:49 |
 | 15 | [\\ der schönste mensch der welt](https://open.spotify.com/track/120jaxjSxt7ocidusCDQoy) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [vier aufnahmen](https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Irgendwo](https://open.spotify.com/track/1yJgf4ImIanoAfQudI60N7) | [Kicker Dibs](https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt), [dery](https://open.spotify.com/artist/1ZxMxowLXzup8y1McJ3JbT) | [Die Pointe](https://open.spotify.com/album/37bJUCwPLErO9HkGNJTJFs) | 2:57 |
 | 75 | [Alles Neu](https://open.spotify.com/track/1s3BpG01PThikupXaSwn9a) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Alles Neu](https://open.spotify.com/album/1fM6vzYrjVcN8RuC83bvhv) | 2:46 |
 
-Snapshot ID: `MCw2YWFkNzhlYmM5Y2Y1MDc5YmY3NjRiMWMzMjQ4ZmQ2ZWZiZmJkZTRl`
+Snapshot ID: `MCw3M2RiNDk3MDM5ODU5MTYzYzdiZjcxMmZiOTg4NDk0ODdhOTM5YTRm`

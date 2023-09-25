@@ -1,12 +1,12 @@
 {
   "description": " songs that feel like new and old friends, all stitched together.",
-  "num_followers": 173305,
+  "num_followers": 173404,
   "original_name": "patchwork",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWFiNWI2OGU5NzUyZmVhMWZiNWM0ODdhNDFjOWQ4NDNmN2QwMmMy",
+  "snapshot_id": "MCw2MTcwMGYxNmI5ZTg4OTI1OGRmZWJmMjI2NGFmMTFkZTZjNmEwNzQ4",
   "tracks": [
     {
       "added_at": "2023-08-14 17:02:20",
@@ -59,18 +59,22 @@
     {
       "added_at": "2023-08-14 17:02:20",
       "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+        "name": "Nothing Happens",
+        "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 320466,
-      "name": "Space Song",
-      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
+      "duration_ms": 178000,
+      "name": "Are You Bored Yet? (feat. Clairo)",
+      "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
     },
     {
       "added_at": "2023-08-14 17:02:20",
@@ -91,22 +95,18 @@
     {
       "added_at": "2023-08-14 17:02:20",
       "album": {
-        "name": "Nothing Happens",
-        "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
       },
       "artists": [
         {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Are You Bored Yet? (feat. Clairo)",
-      "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
       "added_at": "2023-08-14 17:02:20",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-08-14 17:02:20",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 220826,
-      "name": "Shatter",
-      "url": "https://open.spotify.com/track/4MP5tSTc6LxY8xhrUOv9Ya"
-    },
-    {
-      "added_at": "2023-08-14 17:02:20",
-      "album": {
         "name": "Spreading Rumours",
         "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2023-08-14 17:02:20",
       "album": {
-        "name": "But Not Kiss",
-        "url": "https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
       },
       "artists": [
         {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 222555,
-      "name": "But Not Kiss",
-      "url": "https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l"
+      "duration_ms": 220826,
+      "name": "Shatter",
+      "url": "https://open.spotify.com/track/4MP5tSTc6LxY8xhrUOv9Ya"
     },
     {
       "added_at": "2023-08-14 17:02:20",
@@ -819,6 +803,22 @@
       "duration_ms": 179120,
       "name": "touch tank",
       "url": "https://open.spotify.com/track/1TgCchWmdmmhGrtsa8NHwY"
+    },
+    {
+      "added_at": "2023-08-14 17:02:20",
+      "album": {
+        "name": "But Not Kiss",
+        "url": "https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 222555,
+      "name": "But Not Kiss",
+      "url": "https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l"
     },
     {
       "added_at": "2023-08-14 17:02:20",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-08-14 17:02:20",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 122466,
-      "name": "Being In Love",
-      "url": "https://open.spotify.com/track/4VBE0mwU8Nmm8hiqfCe4Ve"
-    },
-    {
-      "added_at": "2023-08-14 17:02:20",
-      "album": {
         "name": "Cool It Down",
         "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 257746,
       "name": "Spitting Off the Edge of the World",
       "url": "https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn"
+    },
+    {
+      "added_at": "2023-08-14 17:02:20",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 122466,
+      "name": "Being In Love",
+      "url": "https://open.spotify.com/track/4VBE0mwU8Nmm8hiqfCe4Ve"
     },
     {
       "added_at": "2023-08-14 17:02:20",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2023-08-14 17:02:20",
       "album": {
-        "name": "Kiss Ur Face Forever",
-        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
+        "name": "In the Sky",
+        "url": "https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
         }
       ],
-      "duration_ms": 166556,
-      "name": "Kiss Ur Face Forever",
-      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
+      "duration_ms": 217284,
+      "name": "Groceries",
+      "url": "https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn"
     },
     {
       "added_at": "2023-08-14 17:02:20",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-08-14 17:02:20",
       "album": {
-        "name": "In the Sky",
-        "url": "https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix"
+        "name": "Kiss Ur Face Forever",
+        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
       },
       "artists": [
         {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 217284,
-      "name": "Groceries",
-      "url": "https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn"
+      "duration_ms": 166556,
+      "name": "Kiss Ur Face Forever",
+      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
     },
     {
       "added_at": "2023-08-14 17:02:20",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-08-14 17:02:20",
       "album": {
-        "name": "Kenny",
-        "url": "https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 194133,
-      "name": "Kenny",
-      "url": "https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv"
-    },
-    {
-      "added_at": "2023-08-14 17:02:20",
-      "album": {
         "name": "Where Is My Mind?",
         "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 177260,
       "name": "Where Is My Mind?",
       "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
+    },
+    {
+      "added_at": "2023-08-14 17:02:20",
+      "album": {
+        "name": "Kenny",
+        "url": "https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 194133,
+      "name": "Kenny",
+      "url": "https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv"
     },
     {
       "added_at": "2023-08-14 17:02:20",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-08-14 17:02:20",
       "album": {
-        "name": "Smith Rock",
-        "url": "https://open.spotify.com/album/1iFNpfYW6jqir0jXis4vbp"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/7yKTW0Fh9arBDdUbY9xiKi"
-    },
-    {
-      "added_at": "2023-08-14 17:02:20",
-      "album": {
         "name": "ABSOLUTE HEARTBREAK",
         "url": "https://open.spotify.com/album/11Ax1twWIvL2xltYzbH3Up"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 154115,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/6dv59ySen7al8c1xGC7wIv"
+    },
+    {
+      "added_at": "2023-08-14 17:02:20",
+      "album": {
+        "name": "Smith Rock",
+        "url": "https://open.spotify.com/album/1iFNpfYW6jqir0jXis4vbp"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/7yKTW0Fh9arBDdUbY9xiKi"
     },
     {
       "added_at": "2023-08-14 17:02:20",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-08-14 17:02:20",
       "album": {
+        "name": "sulky baby",
+        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 278998,
+      "name": "sulky baby",
+      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
+    },
+    {
+      "added_at": "2023-08-14 17:02:20",
+      "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/4tRInpsZkScWnp3UWcdLTq"
       },
@@ -1659,26 +1675,6 @@
       "duration_ms": 184973,
       "name": "Buttons",
       "url": "https://open.spotify.com/track/11uXhnPkoGQtk3STW7ItHr"
-    },
-    {
-      "added_at": "2023-08-14 17:02:20",
-      "album": {
-        "name": "Hold On Baby",
-        "url": "https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        },
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 161297,
-      "name": "Little Bother (feat. Foushe\u00e9)",
-      "url": "https://open.spotify.com/track/3aWWm6V15SPqSgdxtyRM2I"
     }
   ],
   "unique_name": "patchwork",

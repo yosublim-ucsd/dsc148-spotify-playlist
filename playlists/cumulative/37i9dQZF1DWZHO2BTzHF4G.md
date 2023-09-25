@@ -4,7 +4,7 @@
 
 > Rock that was on repeat during the summers of the 2000s.
 
-147 songs - 9 hr 17 min
+148 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Pork And Beans](https://open.spotify.com/track/7wclPheMJAUKn2njmO2s3A) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ) | 3:09 | 2021-04-09 |  |
 | [Rockstar](https://open.spotify.com/track/1wDJgrFbCP7slccwN36Zt2) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Soundtrack to the 00's](https://open.spotify.com/album/3cYlMsMpkoydEftGXsE8vm) | 4:12 | 2021-04-09 | 2022-11-13 |
 | [Rockstar](https://open.spotify.com/track/3RlsVPIIs5KFhLFhxZ4iDF) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons \(Walmart Exclusive Edition\)](https://open.spotify.com/album/74qGFpCx9XpFaZUnqqdDtb) | 4:12 | 2021-04-09 | 2022-07-29 |
-| [Rockstar](https://open.spotify.com/track/6n9yCXvLhnYMgJIiIcMu7D) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons \(Special Edition\)](https://open.spotify.com/album/69ny9Y7VrjVP7JNK0xhYke) | 4:12 | 2021-04-09 |  |
+| [Rockstar](https://open.spotify.com/track/6n9yCXvLhnYMgJIiIcMu7D) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons \(Special Edition\)](https://open.spotify.com/album/69ny9Y7VrjVP7JNK0xhYke) | 4:12 | 2021-04-09 | 2023-09-25 |
+| [Rockstar \- 2020 Remaster](https://open.spotify.com/track/05tlUh0E6IFks9sCQguQKN) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All The Right Reasons \(15th Anniversary Expanded Edition\)](https://open.spotify.com/album/3MNvfg19MJsXCQ0I3WVdkm) | 4:15 | 2021-04-09 |  |
 | [Ruby](https://open.spotify.com/track/0VhhaYztcRWc7PEjJCjr1g) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/3Hrcrl4FUmt262YeNQJaTM) | 3:22 | 2021-04-09 | 2022-10-13 |
 | [Ruby](https://open.spotify.com/track/7f7PmeN76Cr3qpQTpqUPcG) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/05jUwmVUkmYzj3AeYqNr8B) | 3:22 | 2021-04-09 | 2022-10-22 |
 | [Ruby](https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob](https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU) | 3:24 | 2021-04-09 |  |

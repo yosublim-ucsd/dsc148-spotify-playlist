@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Azevedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,166 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,186 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sirenes](https://open.spotify.com/track/1wiMMoJ80HHpnDkZtNrzFF) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Deluca](https://open.spotify.com/artist/1tzl6cRoOkcJ8aTA2g9vBa) | [Paz Terrível](https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90) | 3:37 |
+| 1 | [Sirenes](https://open.spotify.com/track/1wiMMoJ80HHpnDkZtNrzFF) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Deluca](https://open.spotify.com/artist/0Gz4hLahmvjsPYwsDdbAI7) | [Paz Terrível](https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90) | 3:37 |
 | 2 | [Bonde do 7](https://open.spotify.com/track/1IRl8TX96Lb9VINOHlplHI) | [A$TRO BOY](https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE) | [Bonde do 7](https://open.spotify.com/album/4gikVQXWxC8tJ9PtX1iCWu) | 1:34 |
 | 3 | [Jardim das Flores](https://open.spotify.com/track/2guOhSMSG1p8WePFWhkhlj) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Jardim das Flores](https://open.spotify.com/album/1n1QRIqGrKqhoDjyXWMoKo) | 3:23 |
 | 4 | [Novinha do Peito Bicudo](https://open.spotify.com/track/48t7p44DDZoJpHq0NDgGdG) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Novinha do Peito Bicudo](https://open.spotify.com/album/0xauDsRaLwPZzkLSWYXbWa) | 2:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Putaria e Muita Rima](https://open.spotify.com/track/2s51xgrfLjp0rI6ibbU8Nu) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [TcheloBeats](https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B) | [Putaria e Muita Rima](https://open.spotify.com/album/1P8AHNOfhxcuvtirayw2DM) | 2:05 |
 | 75 | [Muda o Clima](https://open.spotify.com/track/5rRiLKbeO2Lb6FeId5eERS) | [UF GANG](https://open.spotify.com/artist/4yIsCbR2dnX4UbeAy1UDp3), [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Muda o Clima](https://open.spotify.com/album/7hWHZGvxbVWN8tbxZJv3rr) | 2:30 |
 
-Snapshot ID: `MCxjOThkMWFkMmQ4YzBkZTA4ZWQ1ZTg1NWJlM2M1MDk2ODM4N2YxYTNh`
+Snapshot ID: `MCxkNTJhNmJjODlhODM2NTcyODFhNjRlZWNmNDdlNmZhYTA0NzFlNjgz`

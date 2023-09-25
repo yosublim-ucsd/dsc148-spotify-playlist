@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,146 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,185 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \- Trending](https://open.spotify.com/track/5nJR43Y1coIT3QPchuCGfw) | [JalRaj](https://open.spotify.com/artist/5fuBZptKdXWB7NLT2eDwaT), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \[Trending\]](https://open.spotify.com/album/2KHpvJmpbbLlWMH1eY1vWh) | 2:56 |
 | 75 | [Baarishein \(Acoustic\)](https://open.spotify.com/track/3Ro0jYDrZcygFkdomURHqt) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein \(Acoustic\)](https://open.spotify.com/album/2YzCwXR0mLizrGV0sRVF2I) | 3:29 |
 
-Snapshot ID: `MCxjYzRjMjg5ZDRhMmJhOGFmODUyMjJjYzdlOTM2ODM2NDE2MTU3YjI2`
+Snapshot ID: `MCw3OTcyOTI5M2FiODgyYWEyZTc0ZTEwODRmYTM1ZTk2YjNkYzk3ZTEw`

@@ -4,7 +4,7 @@
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-98 songs - 4 hr 21 min
+99 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Belles belles belles](https://open.spotify.com/track/58A0ccFbVbjAoA07ENee7k) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Master Serie Vol 1](https://open.spotify.com/album/1NxQK1XBP8kUoIv990pCEw) | 2:14 | 2021-07-26 | 2022-07-29 |
 | [Belles Belles Belles](https://open.spotify.com/track/1TrzM2nhMXA2Y7sdqncXPE) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Belles, Belles, Belles](https://open.spotify.com/album/5AKROatvEzKMHX6p5KFvyB) | 2:14 | 2022-06-28 | 2022-11-13 |
 | [Butterfly](https://open.spotify.com/track/72rLswhYvQz9LRx3LogMIW) | [Danyel Gerard](https://open.spotify.com/artist/18wc7xvm8Ti7rqoLtf6jIU) | [Butterfly](https://open.spotify.com/album/72O3ydJomCcEjETdt0UtIq) | 3:25 | 2021-07-26 | 2023-03-25 |
-| [Butterfly](https://open.spotify.com/track/5zkZI5JT6pAOJ1q4nvDhXg) | [Danyel Gerard](https://open.spotify.com/artist/18wc7xvm8Ti7rqoLtf6jIU) | [Souvenirs De La France](https://open.spotify.com/album/2J8U1ZM3bWFz943PjdmU6Q) | 3:25 | 2022-06-28 |  |
+| [Butterfly](https://open.spotify.com/track/5zkZI5JT6pAOJ1q4nvDhXg) | [Danyel Gerard](https://open.spotify.com/artist/18wc7xvm8Ti7rqoLtf6jIU) | [Souvenirs De La France](https://open.spotify.com/album/2J8U1ZM3bWFz943PjdmU6Q) | 3:25 | 2022-06-28 | 2023-09-25 |
+| [Butterfly](https://open.spotify.com/track/3ZiYD5x1gKCrYtuHkxJ2kr) | [Danyel Gerard](https://open.spotify.com/artist/18wc7xvm8Ti7rqoLtf6jIU) | [O Melhor da Música Francesa](https://open.spotify.com/album/7o0DwyhqgvhgDXxyZez77o) | 3:27 | 2022-06-28 |  |
 | [C'est pas sérieux](https://open.spotify.com/track/42qeNYv2wPMRVu3C2OJrHZ) | [Les Chats Sauvages](https://open.spotify.com/artist/60U5Nsvpj5mJics5PcIkmd), [Dick Rivers](https://open.spotify.com/artist/7EErtRkIXKEnllrCa1a7xR) | [Est\-ce que tu le sais ? \(avec Dick Rivers\)](https://open.spotify.com/album/2eusU9U7fLiHhsQwoiFiou) | 2:18 | 2021-07-26 |  |
 | [Capri c'est fini](https://open.spotify.com/track/5mViPCYgYThWfhCRocs0Ar) | [Hervé Vilard](https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd) | [Les Grandes Chansons](https://open.spotify.com/album/0ciLIRt5oVC8vXsv7aSd0S) | 3:34 | 2022-06-28 | 2022-11-13 |
 | [Capri c'est fini](https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H) | [Hervé Vilard](https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd) | [Capri C'Est Fini](https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7) | 3:37 | 2022-06-28 |  |

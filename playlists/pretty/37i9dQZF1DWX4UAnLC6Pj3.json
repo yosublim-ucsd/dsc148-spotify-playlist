@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Carnaval en portada.",
-  "num_followers": 1139905,
+  "num_followers": 1140070,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjllZTE0ZjI2OTFkY2JkMzc1YmFkNDdhYjUyM2NjYzFkNGU2M2Q1",
+  "snapshot_id": "MCxlYjRmZGZmOGJhY2M0OTgxYmE1Y2E0ZGY1M2UwYWRjM2QzN2RhYzZi",
   "tracks": [
     {
       "added_at": "2023-09-22 06:52:49",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-09-22 06:52:49",
       "album": {
+        "name": "Hablando Claro",
+        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 161900,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/35HWGdRlsTQdRQbdfpVcWm"
+    },
+    {
+      "added_at": "2023-09-22 06:52:49",
+      "album": {
         "name": "Entre Botellas",
         "url": "https://open.spotify.com/album/2H0L8qCkkKasqEVdVEbhKs"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 208413,
       "name": "Entre Botellas",
       "url": "https://open.spotify.com/track/5cwSbUPG0HoiaAyuGV5tgS"
-    },
-    {
-      "added_at": "2023-09-22 06:52:49",
-      "album": {
-        "name": "Hablando Claro",
-        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 161900,
-      "name": "Ilegal",
-      "url": "https://open.spotify.com/track/35HWGdRlsTQdRQbdfpVcWm"
     },
     {
       "added_at": "2023-09-22 06:52:49",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-09-22 06:52:49",
       "album": {
-        "name": "Te Quiero Mil",
-        "url": "https://open.spotify.com/album/1lj9LmpujBYxwvM5IOvwBc"
-      },
-      "artists": [
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
-        }
-      ],
-      "duration_ms": 183986,
-      "name": "Te Quiero Mil",
-      "url": "https://open.spotify.com/track/741g3I9tKBq0GHEx0up03Z"
-    },
-    {
-      "added_at": "2023-09-22 06:52:49",
-      "album": {
         "name": "No Es Cierto Que Nunca Te Quise",
         "url": "https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 140063,
       "name": "No Es Cierto Que Nunca Te Quise",
       "url": "https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E"
+    },
+    {
+      "added_at": "2023-09-22 06:52:49",
+      "album": {
+        "name": "Te Quiero Mil",
+        "url": "https://open.spotify.com/album/1lj9LmpujBYxwvM5IOvwBc"
+      },
+      "artists": [
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "duration_ms": 183986,
+      "name": "Te Quiero Mil",
+      "url": "https://open.spotify.com/track/741g3I9tKBq0GHEx0up03Z"
     },
     {
       "added_at": "2023-09-22 06:52:49",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-09-22 06:52:49",
       "album": {
-        "name": "Lo Que Les Falta",
-        "url": "https://open.spotify.com/album/4cGj439SXTrDijNzAVh6pm"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        }
-      ],
-      "duration_ms": 147725,
-      "name": "Como un Diamante",
-      "url": "https://open.spotify.com/track/31H3yoObeK8WjkbJxoVgvq"
-    },
-    {
-      "added_at": "2023-09-22 06:52:49",
-      "album": {
         "name": "La Ultima M",
         "url": "https://open.spotify.com/album/5ouXM6FaBR9vMf6ZLK3fZr"
       },
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2023-09-22 06:52:49",
       "album": {
+        "name": "Lo Que Les Falta",
+        "url": "https://open.spotify.com/album/4cGj439SXTrDijNzAVh6pm"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "duration_ms": 147725,
+      "name": "Como un Diamante",
+      "url": "https://open.spotify.com/track/31H3yoObeK8WjkbJxoVgvq"
+    },
+    {
+      "added_at": "2023-09-22 06:52:49",
+      "album": {
         "name": "Las Preferidas, Vol. 5 (En vivo)",
         "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
       },
@@ -1667,22 +1667,6 @@
       "duration_ms": 245183,
       "name": "Due\u00f1o De Ti - En vivo",
       "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
-    },
-    {
-      "added_at": "2023-09-22 06:52:49",
-      "album": {
-        "name": "Belleza Pura",
-        "url": "https://open.spotify.com/album/2F47NaaD3GScaHWEVVRbS5"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Belleza Pura",
-      "url": "https://open.spotify.com/track/1xJMMiVYP5QtvFIEEXP0Vt"
     },
     {
       "added_at": "2023-09-22 06:52:49",
@@ -1703,18 +1687,18 @@
     {
       "added_at": "2023-09-22 06:52:49",
       "album": {
-        "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
-        "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"
+        "name": "Belleza Pura",
+        "url": "https://open.spotify.com/album/2F47NaaD3GScaHWEVVRbS5"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 423653,
-      "name": "Popurr\u00ed Al Divo (La Diferencia, Si Quieres, Mi Fracaso)",
-      "url": "https://open.spotify.com/track/4qMT2GDBi1r5u2JPQTmT6f"
+      "duration_ms": 204453,
+      "name": "Belleza Pura",
+      "url": "https://open.spotify.com/track/1xJMMiVYP5QtvFIEEXP0Vt"
     },
     {
       "added_at": "2023-09-22 06:52:49",
@@ -1735,6 +1719,22 @@
       "duration_ms": 188511,
       "name": "Si Esta Botella Hablara",
       "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
+    },
+    {
+      "added_at": "2023-09-22 06:52:49",
+      "album": {
+        "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
+        "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 423653,
+      "name": "Popurr\u00ed Al Divo (La Diferencia, Si Quieres, Mi Fracaso)",
+      "url": "https://open.spotify.com/track/4qMT2GDBi1r5u2JPQTmT6f"
     },
     {
       "added_at": "2023-09-22 06:52:49",
@@ -1875,6 +1875,26 @@
     {
       "added_at": "2023-09-22 06:52:49",
       "album": {
+        "name": "Aplaca Tus Berrinches",
+        "url": "https://open.spotify.com/album/7pb7D979yuDEsK1g5tWgKj"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Aplaca Tus Berrinches",
+      "url": "https://open.spotify.com/track/7kr4TyjK27pe7baowiwq0y"
+    },
+    {
+      "added_at": "2023-09-22 06:52:49",
+      "album": {
         "name": "C\u00falpame",
         "url": "https://open.spotify.com/album/73ltRLKwgNAzlbj4h07fLv"
       },
@@ -1911,26 +1931,6 @@
     {
       "added_at": "2023-09-22 06:52:49",
       "album": {
-        "name": "Aplaca Tus Berrinches",
-        "url": "https://open.spotify.com/album/7pb7D979yuDEsK1g5tWgKj"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Aplaca Tus Berrinches",
-      "url": "https://open.spotify.com/track/7kr4TyjK27pe7baowiwq0y"
-    },
-    {
-      "added_at": "2023-09-22 06:52:49",
-      "album": {
         "name": "La Bolsita",
         "url": "https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB"
       },
@@ -1943,26 +1943,6 @@
       "duration_ms": 180900,
       "name": "La Bolsita",
       "url": "https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI"
-    },
-    {
-      "added_at": "2023-09-22 06:52:49",
-      "album": {
-        "name": "Mis Canciones De Amor",
-        "url": "https://open.spotify.com/album/6EOLWVMRhAtT26zdpFNCI4"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Andy Gonzalez",
-          "url": "https://open.spotify.com/artist/60jdBH3rhXmo7em7oy6kyL"
-        }
-      ],
-      "duration_ms": 186856,
-      "name": "Mis Canciones De Amor",
-      "url": "https://open.spotify.com/track/3cZ0U0Hk5wvgy1IdV1h8st"
     },
     {
       "added_at": "2023-09-22 06:52:49",
@@ -1995,6 +1975,26 @@
       "duration_ms": 176146,
       "name": "Voy Pa\u2019Arriba Y Con Viada",
       "url": "https://open.spotify.com/track/3Ci2QXttB3371jfqJcmJcJ"
+    },
+    {
+      "added_at": "2023-09-22 06:52:49",
+      "album": {
+        "name": "Mis Canciones De Amor",
+        "url": "https://open.spotify.com/album/6EOLWVMRhAtT26zdpFNCI4"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Andy Gonzalez",
+          "url": "https://open.spotify.com/artist/60jdBH3rhXmo7em7oy6kyL"
+        }
+      ],
+      "duration_ms": 186856,
+      "name": "Mis Canciones De Amor",
+      "url": "https://open.spotify.com/track/3cZ0U0Hk5wvgy1IdV1h8st"
     },
     {
       "added_at": "2023-09-22 06:52:49",
@@ -2175,18 +2175,18 @@
     {
       "added_at": "2023-09-22 06:52:49",
       "album": {
-        "name": "Lobo Domesticado",
-        "url": "https://open.spotify.com/album/2JZDakCrIRWqOitb0Laity"
+        "name": "Made In Culiac\u00e1n",
+        "url": "https://open.spotify.com/album/7imq6EzxyDQqHDWOemSj7s"
       },
       "artists": [
         {
-          "name": "Chacho Y Su Vagancia",
-          "url": "https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Lobo Domesticado",
-      "url": "https://open.spotify.com/track/6UmM9cQDYp7YCQdHLxTilG"
+      "duration_ms": 141533,
+      "name": "Made In Culiac\u00e1n",
+      "url": "https://open.spotify.com/track/2agwS63hLGGke66GxSH3BL"
     }
   ],
   "unique_name": "Banda 2023",

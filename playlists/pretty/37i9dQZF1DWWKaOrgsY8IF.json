@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 129386,
+  "num_followers": 129407,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjQ2ZjNmMWFlYjliNDMxOWQzZWI2OTk4MWJhY2M1MWFkMTcyYTQ3",
+  "snapshot_id": "MCw5MmJmYWVmYWJmMmY1OTg5YjIwZWMyNzlmMzBmMTE1Mzg2N2M4ZWM3",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -503,18 +503,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "\u00c9l Lo Tiene Todo",
-        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
+        "name": "Djadja (feat. Maluma) [Remix]",
+        "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 214081,
-      "name": "\u00c9l Lo Tiene Todo",
-      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
+      "duration_ms": 166850,
+      "name": "Djadja (feat. Maluma) - Remix",
+      "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -535,22 +539,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Djadja (feat. Maluma) [Remix]",
-        "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
+        "name": "\u00c9l Lo Tiene Todo",
+        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 166850,
-      "name": "Djadja (feat. Maluma) - Remix",
-      "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
+      "duration_ms": 214081,
+      "name": "\u00c9l Lo Tiene Todo",
+      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -975,26 +975,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Enemigos",
-        "url": "https://open.spotify.com/album/1LT7cecI9sEVx569gvjyd4"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 197393,
-      "name": "Enemigos",
-      "url": "https://open.spotify.com/track/5XUtUnUsJ1PAkLZIiCfUD5"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Flamenkito",
         "url": "https://open.spotify.com/album/1gXu9jczbkEdYN6FNekRqH"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 202153,
       "name": "Flamenkito",
       "url": "https://open.spotify.com/track/4fsj5oMLYrCUlTDs4P9qw5"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Enemigos",
+        "url": "https://open.spotify.com/album/1LT7cecI9sEVx569gvjyd4"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 197393,
+      "name": "Enemigos",
+      "url": "https://open.spotify.com/track/5XUtUnUsJ1PAkLZIiCfUD5"
     },
     {
       "added_at": "2020-12-01 05:03:00",

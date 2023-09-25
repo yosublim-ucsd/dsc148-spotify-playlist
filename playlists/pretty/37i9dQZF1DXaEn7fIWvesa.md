@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 
 > A lo cubano 🔥 Con Jacob Forever en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,373 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,407 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 49 | [Tu & Yo \- Remix](https://open.spotify.com/track/2hW67JZRADAZAF093j8NqW) | [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [Bryan Omega](https://open.spotify.com/artist/6xWHyWz4dEAEcUieksnCqq), [Dekano Kano y Efowa Owa](https://open.spotify.com/artist/3lyh1gSW0AbRFRTksN8H9W), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Tu & Yo \(Remix\)](https://open.spotify.com/album/7aC9SavBc4WfPAbcVqiBbk) | 2:57 |
 | 50 | [El Gavilan](https://open.spotify.com/track/7fQb0rLMdcqIpuedld1yVp) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [El Gavilan](https://open.spotify.com/album/0PIJm7nEq8hfMKp88XtR2E) | 3:27 |
 
-Snapshot ID: `MCwyNjkzMjIwNjU5ZmNiYmJjMjQ4NjhhMDMyZGVhNTI4YWZiMjJhOGVh`
+Snapshot ID: `MCxmNWI1M2JiNWU3YzlkNjUwNjY0OGQxYmYzMjk3OTVlYWQ0YTUwM2Iy`

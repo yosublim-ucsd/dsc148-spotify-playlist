@@ -574,7 +574,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 179586,
       "name": "Blue In Green",
       "url": "https://open.spotify.com/track/0xze9SRrm4Ul5LA4N1MtcE"
@@ -1494,6 +1494,24 @@
       "duration_ms": 221053,
       "name": "From Now On",
       "url": "https://open.spotify.com/track/53roJ5AgOGeWt7f0sjKpXW"
+    },
+    {
+      "album": {
+        "name": "Gloomy Sunday",
+        "url": "https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk"
+      },
+      "artists": [
+        {
+          "name": "Alec Taylor Trio",
+          "url": "https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193256,
+      "name": "Gloomy Sunday",
+      "url": "https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3"
     },
     {
       "album": {
@@ -3188,7 +3206,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 318346,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/3dCDnpRsr2AISZ4ZsvfkvH"
@@ -4848,6 +4866,24 @@
       "duration_ms": 360706,
       "name": "These Foolish Things (Remind Me of You)",
       "url": "https://open.spotify.com/track/59VHmPVQP4XPbOeiiIwqG6"
+    },
+    {
+      "album": {
+        "name": "Think about that",
+        "url": "https://open.spotify.com/album/7qWpFNdlfnhWujIcby7yB9"
+      },
+      "artists": [
+        {
+          "name": "Bruce Willmington & Co",
+          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166057,
+      "name": "Think about that",
+      "url": "https://open.spotify.com/track/36hGg9XIlY2jlLdQSclabi"
     },
     {
       "album": {

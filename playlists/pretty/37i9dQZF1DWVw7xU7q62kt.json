@@ -1,12 +1,12 @@
 {
   "description": "Beats with a flavour of Jazz. Cover: James Francis",
-  "num_followers": 33159,
+  "num_followers": 33216,
   "original_name": "Jazzy Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjEwZGNjYTJhN2E3Y2IzMDQwMjQ3NmI1MzgxYTIyZjVjZDMzNTVi",
+  "snapshot_id": "MCxkN2UxYjkzODI4YmRmY2QyYTg5OWY2NzNmMjEzNzI3ODVkMzhiMzQw",
   "tracks": [
     {
       "added_at": "2023-09-22 00:01:00",
@@ -123,6 +123,30 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Table Talk",
+        "url": "https://open.spotify.com/album/3N5XJpMVK4IF158ilJIemH"
+      },
+      "artists": [
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        },
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        }
+      ],
+      "duration_ms": 177441,
+      "name": "Table Talk",
+      "url": "https://open.spotify.com/track/6uOaF86KVwPuSGkklnYrko"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Yesterday's Price",
         "url": "https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB"
       },
@@ -147,30 +171,6 @@
       "duration_ms": 315561,
       "name": "Yesterday's Price",
       "url": "https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Table Talk",
-        "url": "https://open.spotify.com/album/3N5XJpMVK4IF158ilJIemH"
-      },
-      "artists": [
-        {
-          "name": "Glimlip",
-          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
-        },
-        {
-          "name": "S\u00f8ren S\u00f8strom",
-          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
-        },
-        {
-          "name": "Soul Food Horns",
-          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
-        }
-      ],
-      "duration_ms": 177441,
-      "name": "Table Talk",
-      "url": "https://open.spotify.com/track/6uOaF86KVwPuSGkklnYrko"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Watercolors",
+        "url": "https://open.spotify.com/album/0ens67bGm8KPOXbMRSL86G"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dundiff",
+          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
+        }
+      ],
+      "duration_ms": 136946,
+      "name": "While She Waits",
+      "url": "https://open.spotify.com/track/7BAYKZau47DGuwZNvM1cwv"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Extra Careless",
         "url": "https://open.spotify.com/album/32IDleorcUx73pIkV3IBeR"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 170451,
       "name": "Extra Careless",
       "url": "https://open.spotify.com/track/08TvszYfAO8OYcpizm5R82"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Watercolors",
-        "url": "https://open.spotify.com/album/0ens67bGm8KPOXbMRSL86G"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dundiff",
-          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
-        }
-      ],
-      "duration_ms": 136946,
-      "name": "While She Waits",
-      "url": "https://open.spotify.com/track/7BAYKZau47DGuwZNvM1cwv"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Amor De Oto\u00f1o",
-        "url": "https://open.spotify.com/album/2KFPpWIjPLZliPeBhdL5f2"
-      },
-      "artists": [
-        {
-          "name": "Shuko",
-          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
-        }
-      ],
-      "duration_ms": 128584,
-      "name": "Amor De Oto\u00f1o",
-      "url": "https://open.spotify.com/track/2YdEIwKZ4Tc7zJ7dnl2lF1"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Come Again",
         "url": "https://open.spotify.com/album/6CoPJwN6vjxLbi7tA0Fmdu"
       },
@@ -855,22 +839,18 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "fugla",
-        "url": "https://open.spotify.com/album/2MyxEuKVIJgT2RHpK2HpUO"
+        "name": "Amor De Oto\u00f1o",
+        "url": "https://open.spotify.com/album/2KFPpWIjPLZliPeBhdL5f2"
       },
       "artists": [
         {
-          "name": "Flughand",
-          "url": "https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb"
-        },
-        {
-          "name": "steichi",
-          "url": "https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl"
+          "name": "Shuko",
+          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
         }
       ],
-      "duration_ms": 130240,
-      "name": "fugla",
-      "url": "https://open.spotify.com/track/38tYOR0HDj5UA2hev4YZvJ"
+      "duration_ms": 128584,
+      "name": "Amor De Oto\u00f1o",
+      "url": "https://open.spotify.com/track/2YdEIwKZ4Tc7zJ7dnl2lF1"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -887,6 +867,26 @@
       "duration_ms": 145272,
       "name": "Ancestors",
       "url": "https://open.spotify.com/track/0XhbvGiHIzF7BunDLqO2tc"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "fugla",
+        "url": "https://open.spotify.com/album/2MyxEuKVIJgT2RHpK2HpUO"
+      },
+      "artists": [
+        {
+          "name": "Flughand",
+          "url": "https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb"
+        },
+        {
+          "name": "steichi",
+          "url": "https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl"
+        }
+      ],
+      "duration_ms": 130240,
+      "name": "fugla",
+      "url": "https://open.spotify.com/track/38tYOR0HDj5UA2hev4YZvJ"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "It's Ok, B U",
+        "url": "https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 262846,
+      "name": "It's Ok, B U",
+      "url": "https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "D\u00e9dalo",
         "url": "https://open.spotify.com/album/3VG63zwDBrNHX52aWzDxFA"
       },
@@ -1159,26 +1175,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Realm of Ideas",
-        "url": "https://open.spotify.com/album/4pVmtV0zKvpv0yhneUtdj1"
-      },
-      "artists": [
-        {
-          "name": "High John",
-          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
-        },
-        {
-          "name": "Sandro S\u00e1ez",
-          "url": "https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Minding My Business",
-      "url": "https://open.spotify.com/track/3NaH4hu4TzPWn2C6NFNL4q"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Twelve Chapters",
         "url": "https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf"
       },
@@ -1203,6 +1199,26 @@
       "duration_ms": 223475,
       "name": "Dr. Disclosure",
       "url": "https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Realm of Ideas",
+        "url": "https://open.spotify.com/album/4pVmtV0zKvpv0yhneUtdj1"
+      },
+      "artists": [
+        {
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
+        },
+        {
+          "name": "Sandro S\u00e1ez",
+          "url": "https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO"
+        }
+      ],
+      "duration_ms": 225245,
+      "name": "Minding My Business",
+      "url": "https://open.spotify.com/track/3NaH4hu4TzPWn2C6NFNL4q"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1343,6 +1359,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Verdant",
+        "url": "https://open.spotify.com/album/4P5lOaPUYQ5bhpiBVq9w1t"
+      },
+      "artists": [
+        {
+          "name": "khoa",
+          "url": "https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj"
+        }
+      ],
+      "duration_ms": 146437,
+      "name": "Verdant",
+      "url": "https://open.spotify.com/track/6eopX3Kongrg9P751naBpe"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Rivers",
         "url": "https://open.spotify.com/album/24btn0dNAQauTIEK9sGQGq"
       },
@@ -1359,22 +1391,6 @@
       "duration_ms": 160000,
       "name": "Rivers",
       "url": "https://open.spotify.com/track/5mCtECEiN0CmjDDUB450KR"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Verdant",
-        "url": "https://open.spotify.com/album/4P5lOaPUYQ5bhpiBVq9w1t"
-      },
-      "artists": [
-        {
-          "name": "khoa",
-          "url": "https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj"
-        }
-      ],
-      "duration_ms": 146437,
-      "name": "Verdant",
-      "url": "https://open.spotify.com/track/6eopX3Kongrg9P751naBpe"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1423,6 +1439,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Wonderment",
+        "url": "https://open.spotify.com/album/33BNvmKLpLEMl8FjetvtCs"
+      },
+      "artists": [
+        {
+          "name": "Jonny Tobin",
+          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Wonderment",
+      "url": "https://open.spotify.com/track/26kYnw6WLvGp7Ra74JITZH"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Digilog I",
         "url": "https://open.spotify.com/album/0aLKKlg3Ax9BGfaDv7LQ3V"
       },
@@ -1459,22 +1491,6 @@
       "duration_ms": 181258,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/1SDTig6UDgcSrDBHmXDne2"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Wonderment",
-        "url": "https://open.spotify.com/album/33BNvmKLpLEMl8FjetvtCs"
-      },
-      "artists": [
-        {
-          "name": "Jonny Tobin",
-          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Wonderment",
-      "url": "https://open.spotify.com/track/26kYnw6WLvGp7Ra74JITZH"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1551,6 +1567,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Saucisses",
+        "url": "https://open.spotify.com/album/044XUQSGNdY6MjmGR9goR0"
+      },
+      "artists": [
+        {
+          "name": "Colombo",
+          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Saucisses",
+      "url": "https://open.spotify.com/track/4JHGTOdOKWXuGoilIl1AOk"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Trans Pacific",
         "url": "https://open.spotify.com/album/3gqv8ICfij6deG7ZpBWQXU"
       },
@@ -1579,38 +1611,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Saucisses",
-        "url": "https://open.spotify.com/album/044XUQSGNdY6MjmGR9goR0"
-      },
-      "artists": [
-        {
-          "name": "Colombo",
-          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Saucisses",
-      "url": "https://open.spotify.com/track/4JHGTOdOKWXuGoilIl1AOk"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Dominoes",
-        "url": "https://open.spotify.com/album/6Bt1kYgQdHFiFzo25V5KsB"
-      },
-      "artists": [
-        {
-          "name": "moondiver",
-          "url": "https://open.spotify.com/artist/1RwPRnLOygluoe1EJTCIgp"
-        }
-      ],
-      "duration_ms": 260153,
-      "name": "Dominoes",
-      "url": "https://open.spotify.com/track/0MgjvVDcrFz9Y4ECI4KNOM"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "synco",
         "url": "https://open.spotify.com/album/2TdnRV8hdjEQUjTukWgdT0"
       },
@@ -1627,6 +1627,22 @@
       "duration_ms": 260366,
       "name": "synco",
       "url": "https://open.spotify.com/track/3WfRUaBTwzKaROr346NNmk"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Dominoes",
+        "url": "https://open.spotify.com/album/6Bt1kYgQdHFiFzo25V5KsB"
+      },
+      "artists": [
+        {
+          "name": "moondiver",
+          "url": "https://open.spotify.com/artist/1RwPRnLOygluoe1EJTCIgp"
+        }
+      ],
+      "duration_ms": 260153,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/0MgjvVDcrFz9Y4ECI4KNOM"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1807,6 +1823,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Routes To Knowledge",
+        "url": "https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl"
+      },
+      "artists": [
+        {
+          "name": "The Golden Eternity",
+          "url": "https://open.spotify.com/artist/4aqECXxlXiQKDaOIJYrwTu"
+        }
+      ],
+      "duration_ms": 177201,
+      "name": "Routes To Knowledge",
+      "url": "https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Byzantine",
         "url": "https://open.spotify.com/album/6asKTaEIC7zt9Nb32ZaGV4"
       },
@@ -1851,22 +1883,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Routes To Knowledge",
-        "url": "https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl"
-      },
-      "artists": [
-        {
-          "name": "The Golden Eternity",
-          "url": "https://open.spotify.com/artist/4aqECXxlXiQKDaOIJYrwTu"
-        }
-      ],
-      "duration_ms": 177201,
-      "name": "Routes To Knowledge",
-      "url": "https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Annie's Tune",
         "url": "https://open.spotify.com/album/3g9x7MAnIZuGQwjp2TquRP"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 263333,
       "name": "Annie's Tune",
       "url": "https://open.spotify.com/track/1n6eQozvR8PbW2opBdmtLg"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "How It is Now",
-        "url": "https://open.spotify.com/album/2ok0mKvIlEg7jsFGYEZcV5"
-      },
-      "artists": [
-        {
-          "name": "Girls in Airports",
-          "url": "https://open.spotify.com/artist/6rmNdcuNwzokE2TQaI0ubr"
-        }
-      ],
-      "duration_ms": 294085,
-      "name": "Yield",
-      "url": "https://open.spotify.com/track/1lFql1YShXyrUMMMd8St6U"
     }
   ],
   "unique_name": "Jazzy Beats",

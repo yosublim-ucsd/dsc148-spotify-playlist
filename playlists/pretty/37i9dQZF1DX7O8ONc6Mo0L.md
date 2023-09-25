@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Paulo Cesar Baruk, Marcela Tais
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,299 likes - 80 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,452 likes - 80 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 41 | [Deserto](https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Rastros e Trilha](https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA) | 5:02 |
 | 42 | [Som das Águas \- Acústico](https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Som das Águas \(Acústico\)](https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB) | 3:45 |
 | 43 | [Meu Barquinho](https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Meu Barquinho](https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va) | 3:56 |
-| 44 | [Doce Presença](https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Doce Presença](https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E) | 4:07 |
-| 45 | [Espera Só Mais um Pouquinho](https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Espera Só Mais um Pouquinho](https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu) | 3:49 |
+| 44 | [Espera Só Mais um Pouquinho](https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Espera Só Mais um Pouquinho](https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu) | 3:49 |
+| 45 | [Doce Presença](https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Doce Presença](https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E) | 4:07 |
 | 46 | [Promessa \- Ao Vivo](https://open.spotify.com/track/1FOrlR1cxL3edaOIoH4uVn) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Promessa \(Ao Vivo\)](https://open.spotify.com/album/4exZVjNV5GZpCJa8iMVSgT) | 4:16 |
 | 47 | [Se Não Fosse Ele](https://open.spotify.com/track/3TsTuRLUCG7FeHzXRk2yUJ) | [Felipe Costa](https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Se Não Fosse Ele](https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr) | 4:49 |
 | 48 | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6) | 3:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Falar Com Deus \- Faixa Bônus](https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [On Tape \(Ao Vivo\)](https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL) | 3:48 |
 | 80 | [No Secreto](https://open.spotify.com/track/3e8PGGVzq84sBU1EuGBJ9k) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [No Secreto](https://open.spotify.com/album/6OGCe2qL5x7Xh3cWbuOk6K) | 6:50 |
 
-Snapshot ID: `MCxhMDAxZjY4YTJhMGQ4OTZhZWVlYWFiNWUzMTU0ZmJmYTQ3ZjlhMDY3`
+Snapshot ID: `MCwyMWRiZmM5NTk4MmQ2NzdmNWUzMDdkOGMwOTNlZWMwY2I0MmU5MDk3`

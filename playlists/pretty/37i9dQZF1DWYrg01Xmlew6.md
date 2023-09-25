@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Luchè e CoCo in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,261 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,370 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kiss You \(F\*\*k You\) \[feat\. Geolier\]](https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 3:27 |
-| 2 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 2:56 |
+| 2 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/14ZxYiB4WZvbma2Jr15MeP) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:56 |
 | 3 | [Non Siamo Uguali \(feat\. CoCo\)](https://open.spotify.com/track/5gNI6SVOOugp1KOrDpw3O4) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Dove Volano Le Aquile Vol\. 2](https://open.spotify.com/album/5533SD7HXknP7vKdshypG1) | 2:57 |
 | 4 | [IL MALE CHE MI FAI \(feat\. Marracash\)](https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 2:47 |
 | 5 | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr) | 2:59 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 54 | [X SEMPRE](https://open.spotify.com/track/28aSFfpukDwTd1h4VE4dfk) | [Pablo](https://open.spotify.com/artist/2v6DnAG79LafwKNHmyEhsJ), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ), [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7) | [X SEMPRE](https://open.spotify.com/album/0oK2BcR7azV1YOB2aaQptX) | 4:09 |
 | 55 | [NUNN’È COSA](https://open.spotify.com/track/3cUb1152ZSVWm421ksV7VH) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [NUNN’È COSA](https://open.spotify.com/album/6GJZfbAYH8ZwpYv8FocESH) | 2:28 |
 
-Snapshot ID: `MCw4M2U4ZWI2NTA3NDc5ZmVkNzYzZjMwZmExNjFmOTQxOThjNTBlNWVh`
+Snapshot ID: `MCw0ZWZjYzhhNzViMjRmMzgzMmZhNjM2YzE0Yzg1ZWU2OWVmZDViN2E1`

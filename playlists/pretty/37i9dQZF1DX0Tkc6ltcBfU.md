@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,193,084 likes - 76 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,193,281 likes - 76 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 75 | [A MOMENT WITH GOTTI \(FEAT\. YO GOTTI\)](https://open.spotify.com/track/58Oj2g9GDO4xYKrtgDNeUv) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:09 |
 | 76 | [Knowing \(feat\. BigWalkDog\)](https://open.spotify.com/track/6tZkiw9Uw6kYQyINbsUCZV) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Knowing \(feat\. BigWalkDog\)](https://open.spotify.com/album/1A8BuBrelEEYmBRPwYQYWs) | 2:53 |
 
-Snapshot ID: `MCw5N2U0ZmI2ZWQ4MWIzMjg5MzUzMDAxYzBkOWZiMjQ3ZTc1ZTQwMjQw`
+Snapshot ID: `MCxmYTUxOTdlMWE5YzAxZWY0NzNiYmNkNmQ1MmI4MzQ1M2QxMGQzNDFk`

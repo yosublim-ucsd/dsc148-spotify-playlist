@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Arkells
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,588 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,616 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Everything I Wasn't Looking For](https://open.spotify.com/track/1g3EiZKdAociChWVwTeHpA) | [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Everything I Wasn't Looking For](https://open.spotify.com/album/1bUzF4qTBK353pKjQ0i04V) | 3:12 |
 | 100 | [Dance With Myself](https://open.spotify.com/track/3Ozg0uLdo0xQGb2w0kWUad) | [Sophia Fracassi](https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT) | [Dance With Myself](https://open.spotify.com/album/42L2UX912IQEKg84KcO2SY) | 2:51 |
 
-Snapshot ID: `MCxhZGYzMDViZWFkMzgzYWE2NjU4OTk2ZmEzZDhjYzFlZDQ4YTgzMDc5`
+Snapshot ID: `MCxiZGFmZTFhMjMyMmMxMTQ3MDUyZWQzY2JhMTc4MDcyZTFmYTQ0YzI2`

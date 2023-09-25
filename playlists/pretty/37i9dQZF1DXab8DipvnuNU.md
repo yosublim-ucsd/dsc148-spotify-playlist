@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 
 > Curated by Bun B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,712 likes - 94 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,742 likes - 94 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 19 | [Int'l Players Anthem \(I Choose You\)](https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [UGK \(Underground Kingz\)](https://open.spotify.com/album/4GXlMz68LyGZeHzJcetFi1) | 4:19 |
 | 20 | [Mind Playing Tricks on Me](https://open.spotify.com/track/63BokRfXSQhEU6Qi2dSJpZ) | [Geto Boys](https://open.spotify.com/artist/3f5fB1YUbkUnW7cf7I0R48) | [We Can't Be Stopped](https://open.spotify.com/album/2MJEvcUvsLPjsvVgqn8xa4) | 5:08 |
 | 21 | [Still Tippin' \(feat\. Slim Thug and Paul Wall\)](https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la) | [Mike Jones](https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [Who Is Mike Jones?](https://open.spotify.com/album/1YU3MPIMY9rZOE899khVj2) | 4:31 |
-| 22 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
-| 23 | [O.P.P](https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Naughty By Nature](https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO) | 4:31 |
+| 22 | [O.P.P](https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Naughty By Nature](https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO) | 4:31 |
+| 23 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
 | 24 | [Boyz\-N\-The\-Hood \- Remix](https://open.spotify.com/track/3JdyhQORbJkCWT8xfLd8gD) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [DJ Yella](https://open.spotify.com/artist/1Wfh3Tz3xOB4JjqTk2zT5K) | [Eazy\-Duz\-It](https://open.spotify.com/album/2glPhGd3WXbnNttSdOOr2e) | 6:19 |
 | 25 | [Knuck If You Buck \(feat\. Lil' Scrappy\)](https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT) | [Crime Mob](https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo), [Lil Scrappy](https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB) | [Crime Mob](https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU) | 3:25 |
 | 26 | [Let Me Ride](https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:20 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 93 | [Top Billin'](https://open.spotify.com/track/0ctyMxVlNs8oE7k0ZMcrKn) | [Audio Two](https://open.spotify.com/artist/10toSzLMkc2zIYiiAemHt1) | [Old School Hip Hop Beats](https://open.spotify.com/album/2KDLQ8ypKKudHoO49Ttpi0) | 2:55 |
 | 94 | [Could This Be Love](https://open.spotify.com/track/0W9DTUYHHGLl62f4ETnTWI) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [It Starts with Love \(Deluxe\)](https://open.spotify.com/album/2kw3VjK47np2HYq8IkvgXk) | 5:13 |
 
-Snapshot ID: `MCwyZGZjMmE3ZWFlNWM3YWFhOWNlZTFlYzFjZTk0ZDlkYjhiYmRlNjAw`
+Snapshot ID: `MCw0ZmQ2NTVlZGQ0ZmIyYjgwZDExNjljMDZiZDhmMGE5MjFhYzRlNWMw`

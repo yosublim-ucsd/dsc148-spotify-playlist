@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,739 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,748 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 | 11 | [The Dark](https://open.spotify.com/track/3s5IOxoe3yc0UINOcZs6n8) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Dark](https://open.spotify.com/album/0vthbGW16gu7KsSkEeVDIh) | 4:58 |
 | 12 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 |
 | 13 | [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 |
-| 14 | [Middle Of Nowhere](https://open.spotify.com/track/01w1oPjMMgYoXOv6bJyP8Q) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Middle Of Nowhere](https://open.spotify.com/album/3eYfdXctkEmwlDK9GWf2oG) | 6:42 |
+| 14 | [Middle Of Nowhere](https://open.spotify.com/track/5wlMfZKIVAlZ9nfBFyjI2S) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Middle Of Nowhere](https://open.spotify.com/album/7vZoAzkg4fOTxHIBQF9MVN) | 6:42 |
 | 15 | [Untitled \#4](https://open.spotify.com/track/1kq9lzEHoY3p8naHWpqNlh) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Third Gleam](https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2) | 4:04 |
 | 16 | [Coal Mine](https://open.spotify.com/track/2r28OVJXaUWY5gkMdAzpeu) | [I, the Mountain](https://open.spotify.com/artist/0SpaSO2rguoxdzRV0Cnnaq) | [Coal Mine](https://open.spotify.com/album/1iV6yD61SdNZ4tkQcoUtJw) | 3:25 |
 | 17 | [Surrender](https://open.spotify.com/track/53vcgIyHUsxpeZjcEymEmh) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Young Heart](https://open.spotify.com/album/4qsLVZk1UnizpQJBkbFNdx) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 | 99 | [Glenfern](https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 4:30 |
 | 100 | [Full Size Render](https://open.spotify.com/track/0eNHKjlypkRo1v9HZ8UOdM) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Full Size Render](https://open.spotify.com/album/0n7Wt3JEnLARfOgdCFnxIC) | 2:58 |
 
-Snapshot ID: `MCxhODVjYzc2ODBjNzQxMjNlYzY0MWM1YzM1YmQ3MDczZGJhNmJiNGUw`
+Snapshot ID: `MCxjNDNkMWQyY2UyYTY3YjgxZDFmZGQ2ZGJlOTZlNTY4ZTNjYjNlMGE4`

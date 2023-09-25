@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Colo de Deus",
-  "num_followers": 316011,
+  "num_followers": 316140,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTVjY2Q3NjI1YzVlMzlmYjc0OGE4YjZkOWQ4MGI4ZWNhOTQ5ZjBi",
+  "snapshot_id": "MCwwMmM5OWQ2MWM2YmZmMmI4MDAxOGQyNWJhOGI5MDc4OTAwMDM0NzAz",
   "tracks": [
     {
       "added_at": "2023-09-01 05:59:46",
@@ -299,18 +299,22 @@
     {
       "added_at": "2023-09-01 05:59:46",
       "album": {
-        "name": "DNA de Maria",
-        "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
+        "name": "Decididamente",
+        "url": "https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN"
       },
       "artists": [
         {
-          "name": "Minist\u00e9rio Tua Palavra",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+          "name": "Cassiano Menke",
+          "url": "https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1"
+        },
+        {
+          "name": "Walmir Alencar",
+          "url": "https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN"
         }
       ],
-      "duration_ms": 218830,
-      "name": "DNA de Maria",
-      "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
+      "duration_ms": 258560,
+      "name": "Decididamente",
+      "url": "https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8"
     },
     {
       "added_at": "2023-09-01 05:59:46",
@@ -351,22 +355,18 @@
     {
       "added_at": "2023-09-01 05:59:46",
       "album": {
-        "name": "Decididamente",
-        "url": "https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN"
+        "name": "DNA de Maria",
+        "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
       },
       "artists": [
         {
-          "name": "Cassiano Menke",
-          "url": "https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1"
-        },
-        {
-          "name": "Walmir Alencar",
-          "url": "https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN"
+          "name": "Minist\u00e9rio Tua Palavra",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
         }
       ],
-      "duration_ms": 258560,
-      "name": "Decididamente",
-      "url": "https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8"
+      "duration_ms": 218830,
+      "name": "DNA de Maria",
+      "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
     },
     {
       "added_at": "2023-09-01 05:59:46",

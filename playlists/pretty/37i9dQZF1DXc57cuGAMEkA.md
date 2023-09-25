@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Doja Cat, B'z, OneRepublic, Alok, Cardi B,  and more! Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,807 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,896 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 72 | [HIT IT \(feat\. Big Boss Vette\)](https://open.spotify.com/track/3L4MXGjeHH1zdD1zOKkt0Q) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33), [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [HIT IT \(feat\. Big Boss Vette\)](https://open.spotify.com/album/4Zht36G6ZfWgmbtoJ6eTHF) | 2:22 |
 | 73 | [MOMENT](https://open.spotify.com/track/4Pnb0qA8DLwFxB2yU95uWl) | [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R) | [MOMENT](https://open.spotify.com/album/30B59RcwXiGlk4CH6asZy2) | 2:12 |
 | 74 | [Holy Toast](https://open.spotify.com/track/3DBPSo3h99XWiVrIJ8GNXD) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Holy Toast](https://open.spotify.com/album/7sa0Q70GxJXv8iIRmu37cw) | 3:02 |
-| 75 | [Fireflies](https://open.spotify.com/track/1hfDwBiBURnnVXruXzPd0I) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Fireflies](https://open.spotify.com/album/7u6Z333YGGWD55O2uqjeTj) | 4:51 |
+| 75 | [Fireflies](https://open.spotify.com/track/2IvIUND7ZGjPftDyOYAWJ9) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 4:51 |
 
 Snapshot ID: `MCxlYmYzNmQ0NGU0ZGU5MjdiMWI3ZWMxZGVlNzMzZmVlMWE4NjM0Yjhm`

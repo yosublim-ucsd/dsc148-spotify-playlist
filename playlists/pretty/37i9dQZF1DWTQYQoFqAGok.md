@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,705 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,714 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 15 | [Jazztepec](https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 3:58 |
 | 16 | [Charleston](https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [15 Éxitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta](https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1) | 2:28 |
 | 17 | [Mambo en Sax](https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj) | [Los Músicos De José](https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd) | [Dilo! Homenaje a Pérez Prado](https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY) | 3:15 |
-| 18 | [Susano's Calipso](https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB) | [Cristobal Lopez](https://open.spotify.com/artist/5NI5xhoDsyrbcnBYH6UNmI) | [Dream Maker \(Guitar Smooth Jazz\)](https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc) | 3:22 |
-| 19 | [Fijate Que Suave](https://open.spotify.com/track/1PwJUleR5YVeNBckjSXDTg) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Jazz Vinil](https://open.spotify.com/album/52WJbxe0xZuqq4UAChFNXX) | 4:11 |
+| 18 | [Fijate Que Suave](https://open.spotify.com/track/1PwJUleR5YVeNBckjSXDTg) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Jazz Vinil](https://open.spotify.com/album/52WJbxe0xZuqq4UAChFNXX) | 4:11 |
+| 19 | [Susano's Calipso](https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB) | [Cristobal Lopez](https://open.spotify.com/artist/5NI5xhoDsyrbcnBYH6UNmI) | [Dream Maker \(Guitar Smooth Jazz\)](https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc) | 3:22 |
 | 20 | [Calladito Te Ves Mejor](https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu) | [La Bermúdez](https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl), [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [Calladito Te Ves Mejor](https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C) | 3:56 |
 | 21 | [Al son de la marimba](https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh) | [Na'rimbo](https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt) | [...un poco mas.](https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM) | 6:10 |
 | 22 | [2 Cartas](https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Antonio Sánchez](https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw) | [2 Cartas](https://open.spotify.com/album/63hYNPwrWjNuTj9uxazvW3) | 4:45 |
-| 23 | [Breakfast At Tiffany's](https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd) | [Abraham Laboriel](https://open.spotify.com/artist/2KOqNGzvxHWkz3e18NkgVW) | [Guidum](https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx) | 2:47 |
-| 24 | [Los Pequeños Detalles](https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01) | [Iraida Noriega](https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi), [Zinco Big Band](https://open.spotify.com/artist/3cj2yEjzcCZVRaIuPgfkfv) | [Así Era Entonces, Ahora...](https://open.spotify.com/album/7DvwqriKTJbGOnrXQot7tX) | 4:30 |
+| 23 | [Los Pequeños Detalles](https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01) | [Iraida Noriega](https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi), [Zinco Big Band](https://open.spotify.com/artist/3cj2yEjzcCZVRaIuPgfkfv) | [Así Era Entonces, Ahora...](https://open.spotify.com/album/7DvwqriKTJbGOnrXQot7tX) | 4:30 |
+| 24 | [Breakfast At Tiffany's](https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd) | [Abraham Laboriel](https://open.spotify.com/artist/2KOqNGzvxHWkz3e18NkgVW) | [Guidum](https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx) | 2:47 |
 | 25 | [Té de Olvido](https://open.spotify.com/track/11DHmnBqBjuGyDFvYbriWn) | [Magos Herrera](https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh) | [Orquídeas Susurrantes](https://open.spotify.com/album/4wgY1NlxUvjbhXFbMPyTwz) | 3:59 |
 | 26 | [Fuego](https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF) | [Hilvana](https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG) | [Para Ser Libre](https://open.spotify.com/album/640scYqIfRaues9fUETg8p) | 3:13 |
 | 27 | [Caminos de Ayer](https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E), [Fernando Zenaido Maldonado](https://open.spotify.com/artist/6eHRIBeC0Pc4OWz6vOvEGv) | [Blues](https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox) | 2:59 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 43 | [Chorinho Blanco](https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil) | [Ingrid Beaujean](https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1) | [Días Lentos](https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38) | 3:34 |
 | 44 | [Nada Es Para Siempre](https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8) | [Lalo Galván](https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc) | [KonFussion](https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu) | 5:04 |
 | 45 | [Dana \(Cha\-Cha\-Shag\)](https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io) | [Gigio Romero](https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn) | [Electratoaster \- EP](https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS) | 4:17 |
-| 46 | [Bula](https://open.spotify.com/track/5pt7eRGJRbcK0zuEPEU1To) | [Chucho Zarzosa Su Piano y su Conjunto](https://open.spotify.com/artist/2MAh6OPwg7JREl7MzV8eMH) | [Chucho en Chipp's](https://open.spotify.com/album/5mOhIFiuLjHjOY2FH0Cmqs) | 2:35 |
-| 47 | [Andamos Huyendo](https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J) | [Amanda Tovalin](https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK) | [Andamos Huyendo](https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ) | 4:51 |
-| 48 | [Por los Caminos del Sur](https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt) | [Guerrero Jazz](https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6) | [Mi Sentimiento Guerrerense](https://open.spotify.com/album/6035edQMGEkEvpgomvasDC) | 5:39 |
+| 46 | [Por los Caminos del Sur](https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt) | [Guerrero Jazz](https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6) | [Mi Sentimiento Guerrerense](https://open.spotify.com/album/6035edQMGEkEvpgomvasDC) | 5:39 |
+| 47 | [Bula](https://open.spotify.com/track/5pt7eRGJRbcK0zuEPEU1To) | [Chucho Zarzosa Su Piano y su Conjunto](https://open.spotify.com/artist/2MAh6OPwg7JREl7MzV8eMH) | [Chucho en Chipp's](https://open.spotify.com/album/5mOhIFiuLjHjOY2FH0Cmqs) | 2:35 |
+| 48 | [Andamos Huyendo](https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J) | [Amanda Tovalin](https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK) | [Andamos Huyendo](https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ) | 4:51 |
 | 49 | [Safo \(La Sacerdotiza Del Amor\)](https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Frente A Frente: Mexican Jazz Jam](https://open.spotify.com/album/3hF6IXgJlQ0gEwHJzVl9fr) | 3:24 |
 | 50 | [La vida tiene que seguir, amor](https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj) | [Freddy Marichal](https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA), [Nuevas Relaciones, Las](https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c) | [Nuevas Relaciones: Atardecer](https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl) | 6:10 |
 
-Snapshot ID: `MCxmY2M2ZmQ2YzRlYTFlZDY2MTFlOWIxMjA5ZWYxN2JjZDhlZTBkMjFh`
+Snapshot ID: `MCwzMzhhODFlYTQ3MTgzYmI2YmJjMmQ4MjFhYjVhMmQ1ZThjNDBkYzJj`

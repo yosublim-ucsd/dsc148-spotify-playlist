@@ -1,12 +1,12 @@
 {
   "description": "Making moves all summer.",
-  "num_followers": 3158,
+  "num_followers": 3157,
   "original_name": "We Outside",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTQ1NWU4YmNiMWJmNjY0NDlmMTExNTM2NTYzM2U2YjU4NmY5ZTlj",
+  "snapshot_id": "MCw3MTgwMjM2Y2MzYjkzMjEwYzhjMDkzZWUwMWQ5OGRkYzdhNjNjOWVj",
   "tracks": [
     {
       "added_at": "2023-06-16 05:16:25",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-06-16 05:16:25",
       "album": {
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 161041,
+      "name": "DOGTOOTH",
+      "url": "https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw"
+    },
+    {
+      "added_at": "2023-06-16 05:16:25",
+      "album": {
         "name": "Put It On Da Floor Again (feat. Cardi B)",
         "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 185748,
       "name": "Put It On Da Floor Again (feat. Cardi B)",
       "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
-    },
-    {
-      "added_at": "2023-06-16 05:16:25",
-      "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 161041,
-      "name": "DOGTOOTH",
-      "url": "https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw"
     },
     {
       "added_at": "2023-06-16 05:16:25",

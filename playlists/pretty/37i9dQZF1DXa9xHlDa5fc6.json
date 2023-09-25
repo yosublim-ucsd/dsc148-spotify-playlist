@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 448101,
+  "num_followers": 448130,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGQ3M2YzYWM2ZTVjODgxNGQ5MzY4OTZhMWVlOGYwYjIxMTQyM2M5",
+  "snapshot_id": "MCxjYjlmMjQyODRkYTYxMGE4ZDY1MWU0YzkyODM2MmQxZDY3ODlkMWQ5",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/6sOmBkyGWJpzR04C7U7BZE"
-      },
-      "artists": [
-        {
-          "name": "Pinegrove",
-          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
-        }
-      ],
-      "duration_ms": 125830,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/6PsqixVNSE6N4WamoMFISK"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "It Won't Always Be Like This",
         "url": "https://open.spotify.com/album/5TCW5XPhG21i4XXfcYJVDg"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 313800,
       "name": "Bloodstream",
       "url": "https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/6sOmBkyGWJpzR04C7U7BZE"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "duration_ms": 125830,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/6PsqixVNSE6N4WamoMFISK"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 242922,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Falling In",
         "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 315491,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 242922,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Show Me How",
-        "url": "https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 293960,
-      "name": "Show Me How",
-      "url": "https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Indigo Puff",
         "url": "https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 231721,
       "name": "Indigo Puff",
       "url": "https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Show Me How",
+        "url": "https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 293960,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Run To The Moon",
-        "url": "https://open.spotify.com/album/5OUIMs7DlmNEY1ia8IVQfs"
-      },
-      "artists": [
-        {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
-        }
-      ],
-      "duration_ms": 225901,
-      "name": "Run To The Moon",
-      "url": "https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Impossible",
         "url": "https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 248399,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Run To The Moon",
+        "url": "https://open.spotify.com/album/5OUIMs7DlmNEY1ia8IVQfs"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "duration_ms": 225901,
+      "name": "Run To The Moon",
+      "url": "https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Hoops",
-        "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
-      },
-      "artists": [
-        {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
-        }
-      ],
-      "duration_ms": 158946,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/5Uw2SD3FTrwSu5DCrZMPBJ"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 152998,
       "name": "Puffer",
       "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "duration_ms": 158946,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Guitar Beat",
-        "url": "https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw"
-      },
-      "artists": [
-        {
-          "name": "Prelow",
-          "url": "https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn"
-        }
-      ],
-      "duration_ms": 205106,
-      "name": "Guitar Beat",
-      "url": "https://open.spotify.com/track/5xPcLp3G2eaR2rrKHKsFME"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Stars Are on Your Side",
         "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 218004,
       "name": "Stars Are on Your Side",
       "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Guitar Beat",
+        "url": "https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw"
+      },
+      "artists": [
+        {
+          "name": "Prelow",
+          "url": "https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn"
+        }
+      ],
+      "duration_ms": 205106,
+      "name": "Guitar Beat",
+      "url": "https://open.spotify.com/track/5xPcLp3G2eaR2rrKHKsFME"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1581,22 +1581,6 @@
       "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
     },
     {
-      "added_at": "2023-06-29 18:09:48",
-      "album": {
-        "name": "Set Yourself Free",
-        "url": "https://open.spotify.com/album/47OXVPMtjTrnDwnuptinJr"
-      },
-      "artists": [
-        {
-          "name": "Moon Taxi",
-          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
-        }
-      ],
-      "duration_ms": 185740,
-      "name": "Set Yourself Free",
-      "url": "https://open.spotify.com/track/4w7XRsCWPzXiC7HZUEVLFl"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Temporary Love",
@@ -1611,6 +1595,22 @@
       "duration_ms": 205129,
       "name": "Temporary Love",
       "url": "https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W"
+    },
+    {
+      "added_at": "2023-06-29 18:09:48",
+      "album": {
+        "name": "Set Yourself Free",
+        "url": "https://open.spotify.com/album/47OXVPMtjTrnDwnuptinJr"
+      },
+      "artists": [
+        {
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+        }
+      ],
+      "duration_ms": 185740,
+      "name": "Set Yourself Free",
+      "url": "https://open.spotify.com/track/4w7XRsCWPzXiC7HZUEVLFl"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Trouble With This Bed",
-        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 226884,
-      "name": "Trouble With This Bed",
-      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Talking in Circles",
         "url": "https://open.spotify.com/album/78JA1aRMAnFMj6AyBnp7Kx"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 201146,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Trouble With This Bed",
+        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 226884,
+      "name": "Trouble With This Bed",
+      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
     },
     {
       "added_at": "2023-05-26 04:00:00",

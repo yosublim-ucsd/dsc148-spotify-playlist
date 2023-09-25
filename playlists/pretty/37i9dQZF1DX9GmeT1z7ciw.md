@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 
 > 時には、思いっきりラウドな音に感情を乗せてシャウト。 Shout your heart out with these loud tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,847 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,885 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 | 30 | [I don't know](https://open.spotify.com/track/3qh01ZvWwxt1GV5bzOaUIC) | [Number Girl](https://open.spotify.com/artist/0FXxQ0TEYtebM8gGg0xdoC) | [OMOIDE IN MY HEAD 1 \~BEST & B\-SIDES\~](https://open.spotify.com/album/6ZVISn3PfMoymy86TllKg5) | 3:19 |
 | 31 | [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 |
 | 32 | [Lost Grace](https://open.spotify.com/track/3d1rPXAFydkR2nU8IaN8uz) | [Earthists.](https://open.spotify.com/artist/2fW1q3e7jiCe9l55PlIcNE) | [Have A Good Cult](https://open.spotify.com/album/44pHQUc72goqtick2zPk4f) | 2:38 |
-| 33 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 |
+| 33 | [King & Ashley](https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [King & Ashley](https://open.spotify.com/album/31usMFo80loZLgeHF7yljO) | 3:23 |
 | 34 | [お先に失礼します。](https://open.spotify.com/track/1bTZoQX1G6GmADCY0xwBbO) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [お先に失礼します。](https://open.spotify.com/album/0l4QylgmJ4qS6UfyMbMnlf) | 3:09 |
-| 35 | [King & Ashley](https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [King & Ashley](https://open.spotify.com/album/31usMFo80loZLgeHF7yljO) | 3:23 |
+| 35 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 |
 | 36 | [DENGEKI](https://open.spotify.com/track/0Y6MovlfBfQwYaV6kPJBrd) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4) | [AFJB](https://open.spotify.com/album/0G6Ecl2kJCspqH4sHqLL5b) | 3:36 |
 | 37 | [EXiSTENCE](https://open.spotify.com/track/4NOO855YQh16AF5FhhO41L) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [THE BEAUTiFUL PEOPLE](https://open.spotify.com/album/5GZMmsnK1viNAVvxIBB98A) | 4:04 |
 | 38 | [神喰](https://open.spotify.com/track/2fBizJMoZl7rMkyOnOKU5e) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [神喰](https://open.spotify.com/album/3FoVC8Zy0jfO1StE9FZKXt) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 | 49 | [Locust](https://open.spotify.com/track/6PfrqjudrParHtDBQ3bw9m) | [Prompts](https://open.spotify.com/artist/3roPPqGAbyY4WHCbJbJnjl), [KAITOPALEDUSK](https://open.spotify.com/artist/1SS5s1IOYIkoHfsuQNIK0L) | [Locust / Let The Rain Wash Over](https://open.spotify.com/album/4phEIX43og9GKlEjUcZmCm) | 2:24 |
 | 50 | [Chronostasis](https://open.spotify.com/track/2hvydf5uDU6LD8e55JEScU) | [View From The Soyuz](https://open.spotify.com/artist/3F0nXEE0ikWWVavikJGkOT) | [Immaculate](https://open.spotify.com/album/4MVWrveCovKtARU8jwY0YD) | 2:43 |
 
-Snapshot ID: `MCxkY2E1N2Y2OGFkNDYzMjYyN2JkZDhhNWU1NzBhOTMxZGU0MDhlNGY3`
+Snapshot ID: `MCw2YWJiM2VjOThiMWFjMTc3Y2M5ODQyZjdkMTdkNGYxMjAwMzQ0NWFk`

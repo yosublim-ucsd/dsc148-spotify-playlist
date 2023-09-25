@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: BIG WETT
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,418 likes - 104 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,486 likes - 104 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 103 | [We Could Be Love](https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [We Could Be Love](https://open.spotify.com/album/4p3Eue4nXRORfFiID2811z) | 3:09 |
 | 104 | [Oblivion Is Bliss](https://open.spotify.com/track/0EDZZavyZyH83xRxP9A34p) | [mavzy grx](https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR), [Merzost](https://open.spotify.com/artist/3fqgA6t6v53Ni8BJNDyQd2) | [Oblivion Is Bliss](https://open.spotify.com/album/311DWvlGaRfNjDVDWuNohM) | 2:11 |
 
-Snapshot ID: `MCxhNDM1MDJhNmM0NzQxZWI0MjQ1YzRjNzk5MDU4M2M5ZDc0NTQyYTJl`
+Snapshot ID: `MCwwOTgxZWYwNTdjMDVjYjg3ZmZmNGQ1NWQ5NzNmZDAzODQxZmU4NjI2`

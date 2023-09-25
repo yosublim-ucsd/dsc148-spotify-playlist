@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: King Gnu
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,418 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,182 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 36 | [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 |
 | 37 | [Mouth Flash \(Kuchinohanabi\)](https://open.spotify.com/track/7ab0UuDPSaMymJ9oCYDMnT) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mouth Flash \(Kuchinohanabi\)](https://open.spotify.com/album/0M6EYq1XZBMbBe7TRTasu2) | 3:50 |
 | 38 | [みちづれ](https://open.spotify.com/track/6wmcrRId5aeo7hiEqHAtEO) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Specter](https://open.spotify.com/album/5eQx95EHzDMcPurV2aByeh) | 3:13 |
-| 39 | [PARA PARA](https://open.spotify.com/track/29PEVvBaguhVOMMLkIVjDN) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [PARA PARA](https://open.spotify.com/album/3aCunvSQeBwKpfsAUTst6A) | 2:50 |
+| 39 | [PARA PARA](https://open.spotify.com/track/2gEoLrQPZowcrjZoETZ3J2) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:50 |
 | 40 | [二十歳の恋](https://open.spotify.com/track/1EA40FX9aBaKIXwIp83WzL) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 3:13 |
 | 41 | [Zurukunai?](https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Zurukunai?](https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA) | 3:28 |
 | 42 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [ほろよい](https://open.spotify.com/track/6vMQPwSKJWc4q272mUPqeJ) | [さんひ](https://open.spotify.com/artist/4idudB1HgSIESccE67FbNf) | [ほろよい](https://open.spotify.com/album/2DsVuF5n03nZIlB5TH3x8Q) | 3:23 |
 | 75 | [spiral](https://open.spotify.com/track/6xAIVrhyFQaHwPVWfUvWvE) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [spiral](https://open.spotify.com/album/5TcOT3xsaZzNiocd2Faxzs) | 3:51 |
 
-Snapshot ID: `MCw0MTY2MWQyZGUyZTU4OTRmN2NmYTE0NTc1Y2Y3NTQwOWQyZGNmOTlk`
+Snapshot ID: `MCwxNTdlMmNiMjhiMjQ4MTYyNGVhNmQ0N2I2OTE0ZDhjZWRjNzBlNjRi`

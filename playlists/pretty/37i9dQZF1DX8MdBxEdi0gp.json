@@ -1,12 +1,12 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 137842,
+  "num_followers": 137945,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTliMjMwYjhiZGI2OWY0ZmNiMzA1MWI1OGI1MmRiYmU4YWFmNGJh",
+  "snapshot_id": "MCxmYmJjYmJjNTdlNmFiNmRlNzQ1ZjAxZDQ1ZTlkMWUxYjQ5MzNlNDE2",
   "tracks": [
     {
       "added_at": "2023-06-23 17:27:36",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh"
-      },
-      "artists": [
-        {
-          "name": "Miguel Gallardo",
-          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Muchachita",
-      "url": "https://open.spotify.com/track/3PyTaC8BN0de4KfYaQDtBs"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "La Gran Fiesta Formose\u00f1a",
         "url": "https://open.spotify.com/album/0jKCSRoHto29EuooePa871"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 198226,
       "name": "Los Hombres No Deben Llorar",
       "url": "https://open.spotify.com/track/6UqbBLltlDQ7ozlRswVWeu"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh"
+      },
+      "artists": [
+        {
+          "name": "Miguel Gallardo",
+          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Muchachita",
+      "url": "https://open.spotify.com/track/3PyTaC8BN0de4KfYaQDtBs"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Bienvenido al Club",
-        "url": "https://open.spotify.com/album/4AtWbdrwpxM0vpKc7X55Rv"
-      },
-      "artists": [
-        {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
-        }
-      ],
-      "duration_ms": 241733,
-      "name": "Por volverte a ver",
-      "url": "https://open.spotify.com/track/2FcleEUIUJbhS5Lh6a94Gf"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "Grandes \u00c9xitos Vol.2",
         "url": "https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj"
+        "name": "Bienvenido al Club",
+        "url": "https://open.spotify.com/album/4AtWbdrwpxM0vpKc7X55Rv"
       },
       "artists": [
         {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
         }
       ],
-      "duration_ms": 192306,
-      "name": "Mary Es Mi Amor",
-      "url": "https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa"
+      "duration_ms": 241733,
+      "name": "Por volverte a ver",
+      "url": "https://open.spotify.com/track/2FcleEUIUJbhS5Lh6a94Gf"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Original Masters",
-        "url": "https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO"
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj"
       },
       "artists": [
         {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
         }
       ],
-      "duration_ms": 210333,
-      "name": "De Mi Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE"
+      "duration_ms": 192306,
+      "name": "Mary Es Mi Amor",
+      "url": "https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
+        "name": "Original Masters",
+        "url": "https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "De Mi Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
         "name": "Rock, Balada y Sentimiento, Vol. I",
         "url": "https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C"
       },
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "\u00c9xitos Eternos",
-        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
-      },
-      "artists": [
-        {
-          "name": "Los Pasteles Verdes",
-          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
-        }
-      ],
-      "duration_ms": 259866,
-      "name": "Hipocres\u00eda",
-      "url": "https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "15 Exitos En Espanol",
         "url": "https://open.spotify.com/album/7M4jG2ZAe19dGO8K2b8A9Q"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 197733,
       "name": "El Corazon Es Un Gitano",
       "url": "https://open.spotify.com/track/7nxkNNVzWpuoBHSBoeKoYJ"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "\u00c9xitos Eternos",
+        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
+      },
+      "artists": [
+        {
+          "name": "Los Pasteles Verdes",
+          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
+        }
+      ],
+      "duration_ms": 259866,
+      "name": "Hipocres\u00eda",
+      "url": "https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/3IqPx1fXB2GeEPcvT9RKn7"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "Cenizas",
-      "url": "https://open.spotify.com/track/3Zv4Z2YsgVoLoKKMahdDAN"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "Rocio Banquells",
         "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 251306,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/3IqPx1fXB2GeEPcvT9RKn7"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "Cenizas",
+      "url": "https://open.spotify.com/track/3Zv4Z2YsgVoLoKKMahdDAN"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Lo Mejor de Ivan",
-        "url": "https://open.spotify.com/album/00jEmmiHzvsIWK1Uepkoga"
-      },
-      "artists": [
-        {
-          "name": "Ivan",
-          "url": "https://open.spotify.com/artist/46pR6XQFnDyuprcvxrrHvq"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Te Quiero Tanto",
-      "url": "https://open.spotify.com/track/69GXCPQD5UpeW0oX1M91J4"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 239826,
       "name": "Esa Triste Guitarra",
       "url": "https://open.spotify.com/track/0OA9C6PLBsWYA3LDljB0E3"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "Lo Mejor de Ivan",
+        "url": "https://open.spotify.com/album/00jEmmiHzvsIWK1Uepkoga"
+      },
+      "artists": [
+        {
+          "name": "Ivan",
+          "url": "https://open.spotify.com/artist/46pR6XQFnDyuprcvxrrHvq"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Te Quiero Tanto",
+      "url": "https://open.spotify.com/track/69GXCPQD5UpeW0oX1M91J4"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "B\u00e9same Mucho",
-      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "Serie De Colecci\u00f3n 16 Autenticos Exitos",
         "url": "https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 205093,
       "name": "Pensaba en Ti - Tema Remasterizado",
       "url": "https://open.spotify.com/track/63bJH7VTZF8tgtgm7dPLrw"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "La M\u00fasica Que Inspir\u00f3 La Serie Original De Netflix, La Casa De Las Flores (Creada Por Manolo Caro)",
-        "url": "https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH"
-      },
-      "artists": [
-        {
-          "name": "Los Pulpos",
-          "url": "https://open.spotify.com/artist/3cfF0Dzyws8BcRvDRsNd5N"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "Lo Que Te Queda",
-      "url": "https://open.spotify.com/track/4SrOqEKxfldAFrV37aF1pQ"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "Estela Nu\u00f1ez... Sus Primeras E Inolvidables Grabaciones",
         "url": "https://open.spotify.com/album/2bPx9BRaxKsSAiYPzYaode"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 233293,
       "name": "Una L\u00e1grima (Una Lacrima)",
       "url": "https://open.spotify.com/track/4aUsqDkhFNG0IADV9SkaSY"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "La M\u00fasica Que Inspir\u00f3 La Serie Original De Netflix, La Casa De Las Flores (Creada Por Manolo Caro)",
+        "url": "https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH"
+      },
+      "artists": [
+        {
+          "name": "Los Pulpos",
+          "url": "https://open.spotify.com/artist/3cfF0Dzyws8BcRvDRsNd5N"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Lo Que Te Queda",
+      "url": "https://open.spotify.com/track/4SrOqEKxfldAFrV37aF1pQ"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Sonia Rivas",
-        "url": "https://open.spotify.com/album/6iUAHdlpev4yjjj3tEllhc"
-      },
-      "artists": [
-        {
-          "name": "Sonia Rivas",
-          "url": "https://open.spotify.com/artist/4FM1uFX0QdPKmhdEeslh1K"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "Todo Con \u00c9l",
-      "url": "https://open.spotify.com/track/5satdAuywrowLyNn9bIvGj"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "Gracias Por La Musica (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 278386,
       "name": "Estoy So\u00f1ando - Spanish Version",
       "url": "https://open.spotify.com/track/4fK0R7wwuSzAz8fhp3JwMU"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "Sonia Rivas",
+        "url": "https://open.spotify.com/album/6iUAHdlpev4yjjj3tEllhc"
+      },
+      "artists": [
+        {
+          "name": "Sonia Rivas",
+          "url": "https://open.spotify.com/artist/4FM1uFX0QdPKmhdEeslh1K"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Todo Con \u00c9l",
+      "url": "https://open.spotify.com/track/5satdAuywrowLyNn9bIvGj"
     },
     {
       "added_at": "2023-06-23 17:27:36",

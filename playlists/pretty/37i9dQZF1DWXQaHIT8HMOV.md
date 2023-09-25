@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan hits in one playlist\. Cover: Joshua Baraka
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,818 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,823 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,28 +35,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 25 | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV) | 3:07 |
 | 26 | [Nfa](https://open.spotify.com/track/4313TUVH2spsBkaGg8B8pC) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ) | [Nfa](https://open.spotify.com/album/4eh4a2glfPoGKT9tXk8paz) | 3:13 |
 | 27 | [Chai Mata](https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Chai Mata](https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw) | 2:55 |
-| 28 | [Ekyama](https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf) | [Jozzi Firebouy](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Will84](https://open.spotify.com/artist/1BeeJoeMWmKFM93rL0fF09) | [Ekyama](https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0) | 3:37 |
-| 29 | [Omwana](https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Omwana](https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2) | 3:32 |
+| 28 | [Omwana](https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Omwana](https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2) | 3:32 |
+| 29 | [Ekyama](https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf) | [Jozzi Firebouy](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Will84](https://open.spotify.com/artist/1BeeJoeMWmKFM93rL0fF09) | [Ekyama](https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0) | 3:37 |
 | 30 | [Bwereere](https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Bwereere](https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX) | 3:05 |
 | 31 | [Bega Bega](https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Lover Man](https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz) | 2:52 |
 | 32 | [Enjoyment](https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Enjoyment](https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4) | 3:13 |
 | 33 | [Pretty Young Thing](https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Pretty Young Thing](https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF) | 3:10 |
 | 34 | [Kika Buka](https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kika Buka](https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc) | 2:36 |
 | 35 | [Singa](https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Singa](https://open.spotify.com/album/5riKKBkN3da2gAB13Hh3B9) | 3:17 |
-| 36 | [Your Number](https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Your Number \(Acoustic\)](https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp) | 2:16 |
-| 37 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 |
-| 38 | [Kikole](https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK) | [Runbouy](https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4) | [Kikole](https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH) | 3:36 |
-| 39 | [Fertilizer](https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Fertilizer](https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp) | 2:55 |
+| 36 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 |
+| 37 | [Your Number](https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Your Number \(Acoustic\)](https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp) | 2:16 |
+| 38 | [Fertilizer](https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Fertilizer](https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp) | 2:55 |
+| 39 | [Kikole](https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK) | [Runbouy](https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4) | [Kikole](https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH) | 3:36 |
 | 40 | [Kitooke Kyagonja](https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7) | [B2c](https://open.spotify.com/artist/0w6MT5uoaHy7p8Z0cllzb4) | [Kitooke Kyagonja](https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa) | 3:10 |
 | 41 | [Mama I Made It](https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 2:17 |
 | 42 | [Wanting Me](https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Wanting Me](https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b) | 2:45 |
 | 43 | [On my Mind](https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [On My Mind](https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr) | 3:46 |
 | 44 | [Chai We Njaye](https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m) | [Omutume Planet](https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp) | [Chai We Njaye](https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc) | 2:45 |
-| 45 | [Riri](https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Music for the Soul](https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K) | 3:35 |
-| 46 | [Aye](https://open.spotify.com/track/0EznsEmD2Ob0W0tw5NewRu) | [Recho Rey](https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14) | [Aye](https://open.spotify.com/album/6CXDElxxiujEhPQbwcBXR9) | 2:44 |
-| 47 | [Bbuba](https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Bbuba](https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3) | 3:24 |
-| 48 | [Dont\-Stopp](https://open.spotify.com/track/7t1UWWVjom7keLZLzW8Wex) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Don't Stopp](https://open.spotify.com/album/5vAVcLMZjwc3gQGfRSW1y9) | 2:54 |
+| 45 | [Aye](https://open.spotify.com/track/0EznsEmD2Ob0W0tw5NewRu) | [Recho Rey](https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14) | [Aye](https://open.spotify.com/album/6CXDElxxiujEhPQbwcBXR9) | 2:44 |
+| 46 | [Riri](https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Music for the Soul](https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K) | 3:35 |
+| 47 | [Dont\-Stopp](https://open.spotify.com/track/7t1UWWVjom7keLZLzW8Wex) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Don't Stopp](https://open.spotify.com/album/5vAVcLMZjwc3gQGfRSW1y9) | 2:54 |
+| 48 | [Bbuba](https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Bbuba](https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3) | 3:24 |
 | 49 | [Kimugunyu](https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kimugunyu](https://open.spotify.com/album/3IXuIkjdJIq5tnLin2bIgE) | 3:00 |
-| 50 | [BESTIE](https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [BESTIE](https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB) | 2:53 |
+| 50 | [Omwenge](https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Omwenge](https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT) | 3:45 |
 
-Snapshot ID: `MCwzNGYyODBkOGNjZWNkYzRhMjFlNTliZmQ2ZDM4ZGZhNWY2MWFhMWNj`
+Snapshot ID: `MCxiNDIyYTMwN2JmMjAyZWE5NGI4OWQ3N2RiYmUzNzkwYzc4NTI2MDFl`

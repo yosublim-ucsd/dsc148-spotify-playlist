@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,356 likes - 100 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,483 likes - 100 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 99 | [Sanctuary \- Live](https://open.spotify.com/track/0MHXhxkwnHpMupZQgYy2ZI) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [SEU Worship \(Live\)](https://open.spotify.com/album/0TqKuDcPHP3dtKBJSkQ7hx) | 9:29 |
 | 100 | [Heart Wide Open](https://open.spotify.com/track/4dHyyfxYOffgt29aQlRzLh) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 4:42 |
 
-Snapshot ID: `MCxmNzE2NmEwNDg5ZTgxMWY1ZjA1NGY2ZmEwOWM1YWQxYTkxYTQ1MDc1`
+Snapshot ID: `MCxkYmFjMTk5Yjg5OTdlOGViOWVkYTAyNjI0MzMwNDdhMDQ2Y2JmYzA0`

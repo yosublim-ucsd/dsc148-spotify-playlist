@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzvkbLgvQvI.md) - [plain]
 
 > All the Latin hits that have graced the top of the charts\. Cover: Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,186 likes - 16 songs - 54 min 29 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,242 likes - 16 songs - 54 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

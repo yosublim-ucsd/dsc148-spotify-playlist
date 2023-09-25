@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 
 > A groovy and soulful house collection\. Cover: FISHER, Kita Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,961 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,012 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 | 59 | [Too Late to Say Sorry](https://open.spotify.com/track/2ML4DCDP2d0xg9O6Haatin) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx), [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Too Late to Say Sorry](https://open.spotify.com/album/4R5UWjU93Xjx8v2HrEtd8V) | 2:15 |
 | 60 | [Technicolour Kenny](https://open.spotify.com/track/6CKztDSyFEe7ti6HEGCHng) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Technicolour Kenny](https://open.spotify.com/album/1Sl4ptxEnHWL678iC3xSLK) | 3:50 |
 
-Snapshot ID: `MCw4ZDM2OWY5YjQ1NzdmMGNlZDFlODJhZGQ3OWZkOWM0M2Y2NDljMzY5`
+Snapshot ID: `MCw4M2QwMTNlMTY0MmQyYjdkNWRjZjQ1NDBiMjkyNzFlZjRjMzJhYmRj`

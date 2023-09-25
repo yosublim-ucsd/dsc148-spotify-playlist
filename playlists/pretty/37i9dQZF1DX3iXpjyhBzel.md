@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Isaias Saad
 
-[Spotify](https://open.spotify.com/user/spotify) - 997,131 likes - 100 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 997,499 likes - 100 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 60 | [Está Tudo Bem](https://open.spotify.com/track/27aah6LyyKTSI4Kpq51Jhf) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Está Tudo Bem](https://open.spotify.com/album/1vP6Rril4XZA72ehbnFWZs) | 5:52 |
 | 61 | [Todos Os Meus Dias \- Ao Vivo](https://open.spotify.com/track/6x5Q9YWT21xuqYU4odl6XA) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Gabriel Guedes \(Ao Vivo\)](https://open.spotify.com/album/4BrsoV9CkEuZsHN0LssDZs) | 3:24 |
 | 62 | [Você Não Imagina](https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Você Não Imagina](https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu) | 5:18 |
-| 63 | [Esse Vento Vai Passar \- Studio Session](https://open.spotify.com/track/5K5zTAn7Sf5UNmuIZ7e6Db) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Esse Vento Vai Passar \(Studio Session\)](https://open.spotify.com/album/2QACIXRqqL5NWMC6ws52y9) | 5:19 |
+| 63 | [Quebro Meu Vaso](https://open.spotify.com/track/6g88LTq36Dhe7Dgl3mRph3) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Quebro Meu Vaso](https://open.spotify.com/album/13Wq5d9gRK2l5SScsiiXO2) | 5:13 |
 | 64 | [Seu Amor Me Persegue \(Studio\)](https://open.spotify.com/track/6slb8IZD0bjmYLleaWEPNu) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Seu Amor Me Persegue](https://open.spotify.com/album/3a72jnT08o12FlWkSzdHAO) | 7:25 |
-| 65 | [Quebro Meu Vaso](https://open.spotify.com/track/6g88LTq36Dhe7Dgl3mRph3) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Quebro Meu Vaso](https://open.spotify.com/album/13Wq5d9gRK2l5SScsiiXO2) | 5:13 |
+| 65 | [Esse Vento Vai Passar \- Studio Session](https://open.spotify.com/track/5K5zTAn7Sf5UNmuIZ7e6Db) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Esse Vento Vai Passar \(Studio Session\)](https://open.spotify.com/album/2QACIXRqqL5NWMC6ws52y9) | 5:19 |
 | 66 | [Inflama \- Ao Vivo](https://open.spotify.com/track/5FrSW8HWQjFWV6XADtwPLN) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh) | [Inflama \(Ao Vivo\)](https://open.spotify.com/album/46BFASV2bY4obTjFmStnh8) | 6:51 |
 | 67 | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y) | 5:12 |
 | 68 | [Eu Vou Construir](https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Eu Vou Construir](https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH) | 6:49 |
@@ -87,10 +87,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 77 | [Filho \- Ao Vivo](https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Filho \(Ao Vivo\)](https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn) | 4:05 |
 | 78 | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/track/03mpdr8HJfKqihrPDl9F14) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/album/0WvYxMgrxjbcpSlLexrjRT) | 6:02 |
 | 79 | [A Resposta](https://open.spotify.com/track/6Z1489RmO6tTSWmghjA7FT) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [A Resposta](https://open.spotify.com/album/4UJ3wWteqxGpPadcxc7Atq) | 4:25 |
-| 80 | [Deus Cuida De Mim \- Ao Vivo](https://open.spotify.com/track/4C3JM08kRIAowxZJHuZ6Mk) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memórias 3 \- Lado A \(Ao Vivo\)](https://open.spotify.com/album/6YyvuTGa4V9R37qFNXQ0tI) | 4:28 |
+| 80 | [Com Muito Louvor \(Ao Vivo\)](https://open.spotify.com/track/6GCNJ1sqdNvtIzOwJj9Gun) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Com Muito Louvor \(Ao Vivo\)](https://open.spotify.com/album/4UjtxiZX4FA79cyDpad6rH) | 6:26 |
 | 81 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV) | 5:20 |
 | 82 | [Rei da Glória \- Ao Vivo](https://open.spotify.com/track/5bkQg34pw8HgHEWIHVrR9a) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Noite de Adoração II \(Ao Vivo\)](https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp) | 8:33 |
-| 83 | [Com Muito Louvor \(Ao Vivo\)](https://open.spotify.com/track/6GCNJ1sqdNvtIzOwJj9Gun) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Com Muito Louvor \(Ao Vivo\)](https://open.spotify.com/album/4UjtxiZX4FA79cyDpad6rH) | 6:26 |
+| 83 | [Deus Cuida De Mim \- Ao Vivo](https://open.spotify.com/track/4C3JM08kRIAowxZJHuZ6Mk) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memórias 3 \- Lado A \(Ao Vivo\)](https://open.spotify.com/album/6YyvuTGa4V9R37qFNXQ0tI) | 4:28 |
 | 84 | [Eu Tenho Pai](https://open.spotify.com/track/6tyGZ5AYYRSaUop9z3PbBP) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Eu Tenho Pai](https://open.spotify.com/album/2qXVPwFzQIoCpTwWD5hPJw) | 6:40 |
 | 85 | [Em Meio Ao Vendaval \(Ao Vivo\)](https://open.spotify.com/track/6ZxiEkmFOQGA5xrLiV3yTS) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Em Meio Ao Vendaval \(Ao Vivo\)](https://open.spotify.com/album/3iALD5FS2raKNCjouli13t) | 5:01 |
 | 86 | [Quem é Como Nosso Deus \(Ao Vivo\)](https://open.spotify.com/track/4oRVmlLVrRaQcsce0od2Q0) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Felippe Valadão](https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05) | [Quem é Como Nosso Deus \(Ao Vivo\)](https://open.spotify.com/album/6VYnO45xAXEfO3w3JT5zpp) | 6:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 99 | [De Ti Preciso \- Ao Vivo](https://open.spotify.com/track/3AbOa504l9MHWKjeUkiITQ) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [De Ti Preciso \(Ao Vivo\)](https://open.spotify.com/album/6hwTDPKPjPBcgKfOkCZ2F0) | 5:13 |
 | 100 | [O Grande Eu Sou](https://open.spotify.com/track/4bvgiKYPehGp4OUSflTPTt) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [O Grande Eu Sou](https://open.spotify.com/album/62QQniKZ3Sw4SAR2s6Er89) | 6:28 |
 
-Snapshot ID: `MCw2MzVjNzJiNGM2YzM2OGVmZTk4NWE2Y2E2MjU5MDhhMjVhZjkyNDZm`
+Snapshot ID: `MCxlNWM5NWMzZmQyNTVmZjY3ZjY2NWY0ODU3OWIzMjliY2JiNTVhZDM4`

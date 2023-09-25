@@ -1,6 +1,6 @@
 {
-  "description": "The most unforgettable love songs from the 80s.",
-  "num_followers": 2521396,
+  "description": "Las canciones de amor inolvidables de los 80.",
+  "num_followers": 2522674,
   "original_name": "80s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-06-16 18:04:16",
       "album": {
-        "name": "Heartbeat City (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf"
-      },
-      "artists": [
-        {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
-        }
-      ],
-      "duration_ms": 234332,
-      "name": "Drive - 2017 Remaster",
-      "url": "https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k"
-    },
-    {
-      "added_at": "2023-06-16 18:04:16",
-      "album": {
         "name": "What's Love Got to Do with It?",
         "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 226880,
       "name": "What's Love Got to Do with It",
       "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
+    },
+    {
+      "added_at": "2023-06-16 18:04:16",
+      "album": {
+        "name": "Heartbeat City (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "duration_ms": 234332,
+      "name": "Drive - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k"
     },
     {
       "added_at": "2023-06-16 18:04:16",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-06-16 18:04:16",
       "album": {
-        "name": "Dancing On The Ceiling (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "Say You, Say Me",
-      "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
-    },
-    {
-      "added_at": "2023-06-16 18:04:16",
-      "album": {
         "name": "Fahrenheit",
         "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 229880,
       "name": "I'll Be Over You",
       "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
+    },
+    {
+      "added_at": "2023-06-16 18:04:16",
+      "album": {
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "Say You, Say Me",
+      "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
     },
     {
       "added_at": "2023-06-16 18:04:16",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-06-16 18:04:16",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
+        "name": "Now And Forever",
+        "url": "https://open.spotify.com/album/0jWQH4FmSo5CUbRnMvvMoL"
       },
       "artists": [
         {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
         }
       ],
-      "duration_ms": 185694,
-      "name": "Never Tear Us Apart",
-      "url": "https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1"
+      "duration_ms": 237106,
+      "name": "Even the Nights Are Better",
+      "url": "https://open.spotify.com/track/09bRmFRViBORKQ2miwp04P"
     },
     {
       "added_at": "2023-06-16 18:04:16",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-06-16 18:04:16",
       "album": {
-        "name": "Now And Forever",
-        "url": "https://open.spotify.com/album/0jWQH4FmSo5CUbRnMvvMoL"
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
       },
       "artists": [
         {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
         }
       ],
-      "duration_ms": 237106,
-      "name": "Even the Nights Are Better",
-      "url": "https://open.spotify.com/track/09bRmFRViBORKQ2miwp04P"
+      "duration_ms": 185694,
+      "name": "Never Tear Us Apart",
+      "url": "https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1"
     },
     {
       "added_at": "2023-06-16 18:04:16",
@@ -1067,38 +1067,6 @@
     {
       "added_at": "2023-06-16 18:04:16",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
-      },
-      "artists": [
-        {
-          "name": "Climie Fisher",
-          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Love Changes (Everything)",
-      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
-    },
-    {
-      "added_at": "2023-06-16 18:04:16",
-      "album": {
-        "name": "Back To Front",
-        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "All Night Long - Single Version",
-      "url": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
-    },
-    {
-      "added_at": "2023-06-16 18:04:16",
-      "album": {
         "name": "Every Home Should Have One",
         "url": "https://open.spotify.com/album/6j8fP0fRB4TqeJiNJdSVlU"
       },
@@ -1115,18 +1083,18 @@
     {
       "added_at": "2023-06-16 18:04:16",
       "album": {
-        "name": "Rhythm Of The Night",
-        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
       },
       "artists": [
         {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+          "name": "Climie Fisher",
+          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
         }
       ],
-      "duration_ms": 267733,
-      "name": "Who's Holding Donna Now?",
-      "url": "https://open.spotify.com/track/66rdGSb6FMm0neFXxmJdPQ"
+      "duration_ms": 268186,
+      "name": "Love Changes (Everything)",
+      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
     },
     {
       "added_at": "2023-06-16 18:04:16",
@@ -1147,6 +1115,22 @@
     {
       "added_at": "2023-06-16 18:04:16",
       "album": {
+        "name": "Back To Front",
+        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "All Night Long - Single Version",
+      "url": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
+    },
+    {
+      "added_at": "2023-06-16 18:04:16",
+      "album": {
         "name": "The Power Of Love: The Best Of Jennifer Rush",
         "url": "https://open.spotify.com/album/6qCyqeMjwwh2wRQWvQyHgG"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 268200,
       "name": "The Power of Love",
       "url": "https://open.spotify.com/track/18DfMhEx4ddoreHrvZDF6Q"
+    },
+    {
+      "added_at": "2023-06-16 18:04:16",
+      "album": {
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "duration_ms": 267733,
+      "name": "Who's Holding Donna Now?",
+      "url": "https://open.spotify.com/track/66rdGSb6FMm0neFXxmJdPQ"
     },
     {
       "added_at": "2023-06-16 18:04:16",

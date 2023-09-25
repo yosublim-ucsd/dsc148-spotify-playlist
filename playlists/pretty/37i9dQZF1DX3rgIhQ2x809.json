@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 70090,
+  "num_followers": 70099,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzFiMzcxOTY2ZjlkMTk1YTJjNGFiOTc2ZWJkZmI4NGJlZGU0Njc3",
+  "snapshot_id": "MCwwMmQ2Nzg2MmU2OTk2YzkwZmViNTM2YmEzOWM1N2JlYjk5YTc5NjRm",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -623,26 +623,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Bandidos",
-        "url": "https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 224194,
-      "name": "Bandidos",
-      "url": "https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Dejanos Pasar",
         "url": "https://open.spotify.com/album/0sROwf7qAxdlMEGGQu85xN"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 175567,
       "name": "Dejanos Pasar",
       "url": "https://open.spotify.com/track/0hDILCoN7SBSMHc5qwZ73E"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Bandidos",
+        "url": "https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 224194,
+      "name": "Bandidos",
+      "url": "https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1387,6 +1387,30 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/3A35XT91xoDYsujfeGQFou"
+      },
+      "artists": [
+        {
+          "name": "Marconi Impara",
+          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "La Exce",
+          "url": "https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "La Familia",
+      "url": "https://open.spotify.com/track/52ANZNLGCbf8IKin6sQYIk"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "UNBROKEN",
         "url": "https://open.spotify.com/album/1rncm29FDkVNHn4je7YEln"
       },
@@ -1411,30 +1435,6 @@
       "duration_ms": 234240,
       "name": "Palestina",
       "url": "https://open.spotify.com/track/4MFjw5MqTZTiX3iOAk4mAA"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/3A35XT91xoDYsujfeGQFou"
-      },
-      "artists": [
-        {
-          "name": "Marconi Impara",
-          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "La Exce",
-          "url": "https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "La Familia",
-      "url": "https://open.spotify.com/track/52ANZNLGCbf8IKin6sQYIk"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Soy Lebron",
-        "url": "https://open.spotify.com/album/3LZxX3I05uI0BOyUtTwYFi"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        }
-      ],
-      "duration_ms": 149200,
-      "name": "Soy Lebron",
-      "url": "https://open.spotify.com/track/6bxRCBZ90jOnYQVmn9OvdF"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/0D7TME7LVUblhluJnxUT8n"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 197378,
       "name": "Tasty",
       "url": "https://open.spotify.com/track/54z9eqTwfhpLIj5kCi2rfM"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Soy Lebron",
+        "url": "https://open.spotify.com/album/3LZxX3I05uI0BOyUtTwYFi"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        }
+      ],
+      "duration_ms": 149200,
+      "name": "Soy Lebron",
+      "url": "https://open.spotify.com/track/6bxRCBZ90jOnYQVmn9OvdF"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "ST\u00dcSSY",
-        "url": "https://open.spotify.com/album/0jcpEFPesTzygPLDeriK1N"
-      },
-      "artists": [
-        {
-          "name": "Jovaan",
-          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
-        }
-      ],
-      "duration_ms": 144714,
-      "name": "ST\u00dcSSY",
-      "url": "https://open.spotify.com/track/2SKJxzp1EpB6Xfg1gNAcZB"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Perreo X Calle",
         "url": "https://open.spotify.com/album/2uGMXUYZTu0597ajBhZFSa"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 190000,
       "name": "Perreo X Calle",
       "url": "https://open.spotify.com/track/6TrHcYm0TFwZt5JeSOm8F4"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "ST\u00dcSSY",
+        "url": "https://open.spotify.com/album/0jcpEFPesTzygPLDeriK1N"
+      },
+      "artists": [
+        {
+          "name": "Jovaan",
+          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
+        }
+      ],
+      "duration_ms": 144714,
+      "name": "ST\u00dcSSY",
+      "url": "https://open.spotify.com/track/2SKJxzp1EpB6Xfg1gNAcZB"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Piky",
-        "url": "https://open.spotify.com/album/3xDyHaC1zdPc76EbS3QbM9"
-      },
-      "artists": [
-        {
-          "name": "Producto Sin Corte",
-          "url": "https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu"
-        }
-      ],
-      "duration_ms": 161775,
-      "name": "Piky",
-      "url": "https://open.spotify.com/track/3uDBz9yGkL8qgZxQcSdU1i"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Traficando",
         "url": "https://open.spotify.com/album/4uTZikMbZ7sKhApOhIQGxQ"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 267633,
       "name": "Traficando",
       "url": "https://open.spotify.com/track/4SQ6Wf45YaLFBsXXPfvuNZ"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Piky",
+        "url": "https://open.spotify.com/album/3xDyHaC1zdPc76EbS3QbM9"
+      },
+      "artists": [
+        {
+          "name": "Producto Sin Corte",
+          "url": "https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu"
+        }
+      ],
+      "duration_ms": 161775,
+      "name": "Piky",
+      "url": "https://open.spotify.com/track/3uDBz9yGkL8qgZxQcSdU1i"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Labios",
-        "url": "https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82"
-      },
-      "artists": [
-        {
-          "name": "Joonti",
-          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Labios",
-      "url": "https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Tratemos",
         "url": "https://open.spotify.com/album/3h19PVjctsFFCSkB37a1wE"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 229333,
       "name": "Tratemos",
       "url": "https://open.spotify.com/track/07i2KTypiJ4WqBpHVODAXh"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Gozo",
+        "url": "https://open.spotify.com/album/69vDVNFIBCFdWlkpf16Zgw"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        }
+      ],
+      "duration_ms": 203508,
+      "name": "Gozo",
+      "url": "https://open.spotify.com/track/4IomMRQFM45yVC2tN5CppP"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1859,18 +1859,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Gozo",
-        "url": "https://open.spotify.com/album/69vDVNFIBCFdWlkpf16Zgw"
+        "name": "Labios",
+        "url": "https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82"
       },
       "artists": [
         {
-          "name": "Gocho",
-          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+          "name": "Joonti",
+          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
         }
       ],
-      "duration_ms": 203508,
-      "name": "Gozo",
-      "url": "https://open.spotify.com/track/4IomMRQFM45yVC2tN5CppP"
+      "duration_ms": 166736,
+      "name": "Labios",
+      "url": "https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP"
     }
   ],
   "unique_name": "Hecho en Puerto Rico",

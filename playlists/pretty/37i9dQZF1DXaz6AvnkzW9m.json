@@ -1,12 +1,12 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Santa Fe Klan en portada.",
-  "num_followers": 102611,
+  "num_followers": 102771,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTlkNWJmZWFlNTk2NmZlMzkxMmJhOTdhNjk4NDQ4NmMzYzEyMGQy",
+  "snapshot_id": "MCxjZDUzNzMyMjkxZmZhM2E1OTY4MDE5OGQ4YWFiYzg5NGFjNmI5NjA4",
   "tracks": [
     {
       "added_at": "2023-09-22 06:00:00",
@@ -487,18 +487,22 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "En El Radio Un Cochinero",
-        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
+        "name": "Belicamente De Acci\u00f3n",
+        "url": "https://open.spotify.com/album/2zd2JBVZaaXjMlMVdfhhgu"
       },
       "artists": [
         {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+          "name": "La Autorizaci\u00f3n",
+          "url": "https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ"
+        },
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
         }
       ],
-      "duration_ms": 223431,
-      "name": "En El Radio Un Cochinero",
-      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
+      "duration_ms": 175110,
+      "name": "Belicamente De Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5fyWAm1MYH2zZ9BGR5iPFp"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -519,22 +523,18 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Belicamente De Acci\u00f3n",
-        "url": "https://open.spotify.com/album/2zd2JBVZaaXjMlMVdfhhgu"
+        "name": "En El Radio Un Cochinero",
+        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
       },
       "artists": [
         {
-          "name": "La Autorizaci\u00f3n",
-          "url": "https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ"
-        },
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
         }
       ],
-      "duration_ms": 175110,
-      "name": "Belicamente De Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5fyWAm1MYH2zZ9BGR5iPFp"
+      "duration_ms": 223431,
+      "name": "En El Radio Un Cochinero",
+      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Gorra L.A.",
-        "url": "https://open.spotify.com/album/1CSP6xUW9UGaQG4XsWRY1j"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 161571,
-      "name": "Gorra L.A.",
-      "url": "https://open.spotify.com/track/08OOZHubFNdgVZ3N714zjG"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Si Me Ven",
         "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 174432,
       "name": "Si Me Ven",
       "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Gorra L.A.",
+        "url": "https://open.spotify.com/album/1CSP6xUW9UGaQG4XsWRY1j"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 161571,
+      "name": "Gorra L.A.",
+      "url": "https://open.spotify.com/track/08OOZHubFNdgVZ3N714zjG"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
+        "name": "Que Soporten (Y La Queso)",
+        "url": "https://open.spotify.com/album/3DExPO534tjZE270sHmsJR"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Que Soporten (Y La Queso)",
+      "url": "https://open.spotify.com/track/3ml2gJVRbyXGz1kjFeAopL"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
         "name": "A 150",
         "url": "https://open.spotify.com/album/51g8xFmtl2Bm6TXRNidRkC"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 148317,
       "name": "A 150",
       "url": "https://open.spotify.com/track/1efOV43D7VeE2YyTZflN6F"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
-        "name": "Que Soporten (Y La Queso)",
-        "url": "https://open.spotify.com/album/3DExPO534tjZE270sHmsJR"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Que Soporten (Y La Queso)",
-      "url": "https://open.spotify.com/track/3ml2gJVRbyXGz1kjFeAopL"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -1427,18 +1427,22 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Cartier en Mano",
-        "url": "https://open.spotify.com/album/1nXeA6b9XN2vuMBHX4AdlL"
+        "name": "TRANQUILE\u00d3N",
+        "url": "https://open.spotify.com/album/5xCtNSL4NqQNgw3r7O2KKZ"
       },
       "artists": [
         {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+          "name": "Chiken Lira",
+          "url": "https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn"
+        },
+        {
+          "name": "Los Master Plus",
+          "url": "https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z"
         }
       ],
-      "duration_ms": 155818,
-      "name": "Cartier en Mano",
-      "url": "https://open.spotify.com/track/3cL0YHP6FIE3fWIujhdGCu"
+      "duration_ms": 219160,
+      "name": "TRANQUILE\u00d3N",
+      "url": "https://open.spotify.com/track/17tisFioZUL9GaClgNYV3S"
     }
   ],
   "unique_name": "Trap Corridos",

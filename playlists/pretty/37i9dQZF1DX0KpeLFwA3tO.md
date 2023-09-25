@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Grrrl Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,941 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,984 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 44 | [Inside My Head](https://open.spotify.com/track/5ZjtReVAQ6KGix7VkaE7h1) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Inside My Head](https://open.spotify.com/album/5xONWWaqM4zUrHp7cKeixJ) | 3:11 |
 | 45 | [RISK, RISK, RISK!](https://open.spotify.com/track/2FgFvtSuBAECcN7SJU5xMB) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [RISK, RISK, RISK!](https://open.spotify.com/album/4c0WVlK8VGkZ0PBfSSiGoQ) | 3:21 |
 | 46 | [Removed Their Hooks](https://open.spotify.com/track/0ggiwvRZnn8g3mJoLq91In) | ['68](https://open.spotify.com/artist/51EEn3UICoilrrWVZFz30C) | [Removed Their Hooks](https://open.spotify.com/album/2WEqK1EqFvKmM9rfNREcnf) | 3:21 |
-| 47 | [Better Than Life](https://open.spotify.com/track/0fsh3O5K4Cih85nuCqekP0) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Better Than Life](https://open.spotify.com/album/23ja9hIqOtQ70oJCOPFEow) | 1:29 |
+| 47 | [Better Than Life](https://open.spotify.com/track/1W7Gfi0JgMORjjPZkhNRlj) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/6aZFHnpTwonsLw8qVI5DdB) | 1:29 |
 | 48 | [FUTURE IS DUMB](https://open.spotify.com/track/3S0fU7Dg7fMw8v59aGl0aX) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [HELLMODE](https://open.spotify.com/album/7Gw4NIOgnylpbryrOJksn9) | 3:47 |
 | 49 | [Silent Disco](https://open.spotify.com/track/74pHl63oQm9m8OeEZY8kOv) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [Silent Disco](https://open.spotify.com/album/1uUbIHhnegUEadEbXaT6Pu) | 3:03 |
 | 50 | [Predator](https://open.spotify.com/track/5LT88wAiBchqnuM9ax4Jyf) | [Chelsea Manor](https://open.spotify.com/artist/6lcIRoW3WY9h7z0iqfghFc) | [Predator](https://open.spotify.com/album/2lCEjOo99WLMsxoGy4WeOv) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [THE OUTSIDE](https://open.spotify.com/track/6y8p0dDbtPOfAPoTdNv2xi) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [THE OUTSIDE](https://open.spotify.com/album/6SjNzyDPzCXbCyerVUvQQN) | 4:04 |
 | 100 | [MR IRRELEVANT](https://open.spotify.com/track/1ntq86lAohTY35bo8vJGZL) | [Josh Lambert](https://open.spotify.com/artist/3KOYBzBNdAbppX8MCcVxSO) | [MR IRRELEVANT](https://open.spotify.com/album/1HLgzLq7VkzMWCy1wTRBSg) | 2:57 |
 
-Snapshot ID: `MCxiYzA0YWYxYjQyZDExMDkwNmU2MjM3OTk5MTBkZTY1MmUzNTM3ZDU1`
+Snapshot ID: `MCxkYmM3OTc3NDNhNGIwYzkyZmZmZWEwNTlhYzQ3YTU4MWI3YTg4Yzdj`

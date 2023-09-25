@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 128717,
+  "num_followers": 128769,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjRiOWFhZGU1Y2M1NTU0MTM2Y2E3MTdlMTU2ZWQ1ZjIzZjcwY2Vj",
+  "snapshot_id": "MCxlZjk3ODY2M2YzZmIwNmZiOTRhMjgxOTVkMmRjM2FkM2JmNWI0NDI1",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:59",
@@ -269,20 +269,24 @@
       "url": "https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n"
     },
     {
-      "added_at": "2023-08-04 15:55:51",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Talk To Me Nice",
-        "url": "https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn"
+        "name": "Be Easy",
+        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
       },
       "artists": [
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
         }
       ],
-      "duration_ms": 229844,
-      "name": "Talk To Me Nice",
-      "url": "https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5"
+      "duration_ms": 132052,
+      "name": "Be Easy",
+      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
     },
     {
       "added_at": "2023-08-25 17:07:43",
@@ -325,24 +329,20 @@
       "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-08-04 15:55:51",
       "album": {
-        "name": "Be Easy",
-        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
+        "name": "Talk To Me Nice",
+        "url": "https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 132052,
-      "name": "Be Easy",
-      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
+      "duration_ms": 229844,
+      "name": "Talk To Me Nice",
+      "url": "https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5"
     },
     {
       "added_at": "2023-06-09 05:15:38",
@@ -473,22 +473,6 @@
       "url": "https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 173458,
-      "name": "ON 10",
-      "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
-    },
-    {
       "added_at": "2023-04-21 04:00:15",
       "album": {
         "name": "DO 4 LOVE (Black Coffee Remix)",
@@ -507,6 +491,22 @@
       "duration_ms": 224281,
       "name": "DO 4 LOVE - Black Coffee Remix",
       "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 173458,
+      "name": "ON 10",
+      "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
     },
     {
       "added_at": "2022-08-05 04:16:42",
@@ -561,26 +561,6 @@
       "url": "https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG"
     },
     {
-      "added_at": "2023-04-28 04:00:51",
-      "album": {
-        "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
-        "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        },
-        {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
-        }
-      ],
-      "duration_ms": 172884,
-      "name": "Tighten It Up - Barney Bones - DRAMA Edit",
-      "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
-    },
-    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Moon Shoes EP",
@@ -599,6 +579,26 @@
       "duration_ms": 217013,
       "name": "Free Room (feat. Appleby)",
       "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
+    },
+    {
+      "added_at": "2023-04-28 04:00:51",
+      "album": {
+        "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
+        "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "duration_ms": 172884,
+      "name": "Tighten It Up - Barney Bones - DRAMA Edit",
+      "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -929,26 +929,6 @@
       "url": "https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz"
     },
     {
-      "added_at": "2022-05-02 22:05:00",
-      "album": {
-        "name": "Circmvnt",
-        "url": "https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs"
-      },
-      "artists": [
-        {
-          "name": "Elujay",
-          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
-        },
-        {
-          "name": "HXNS",
-          "url": "https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0"
-        }
-      ],
-      "duration_ms": 153076,
-      "name": "1080p",
-      "url": "https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Chrome Bull",
@@ -967,6 +947,26 @@
       "duration_ms": 187938,
       "name": "Sneaky",
       "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
+    },
+    {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "Circmvnt",
+        "url": "https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs"
+      },
+      "artists": [
+        {
+          "name": "Elujay",
+          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+        },
+        {
+          "name": "HXNS",
+          "url": "https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0"
+        }
+      ],
+      "duration_ms": 153076,
+      "name": "1080p",
+      "url": "https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ"
     },
     {
-      "added_at": "2023-08-25 17:07:43",
-      "album": {
-        "name": "UPSIDE DOWN",
-        "url": "https://open.spotify.com/album/435sa84NSMTcIzBeSN178q"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "UPSIDE DOWN",
-      "url": "https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11"
-    },
-    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
@@ -1239,6 +1223,22 @@
       "duration_ms": 310340,
       "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
       "url": "https://open.spotify.com/track/4W1VDzvrBBG0lZvC221Qh5"
+    },
+    {
+      "added_at": "2023-08-25 17:07:43",
+      "album": {
+        "name": "UPSIDE DOWN",
+        "url": "https://open.spotify.com/album/435sa84NSMTcIzBeSN178q"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "UPSIDE DOWN",
+      "url": "https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1277,22 +1277,6 @@
       "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Simp",
-        "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 151676,
-      "name": "Simp",
-      "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
-    },
-    {
       "added_at": "2023-04-07 21:25:17",
       "album": {
         "name": "Freeway (with Estelle)",
@@ -1311,6 +1295,22 @@
       "duration_ms": 202000,
       "name": "Freeway (with Estelle)",
       "url": "https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Simp",
+        "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        }
+      ],
+      "duration_ms": 151676,
+      "name": "Simp",
+      "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -1385,24 +1385,20 @@
       "url": "https://open.spotify.com/track/3nOK7iHFsy16nsIflFhGnP"
     },
     {
-      "added_at": "2023-03-31 06:27:27",
+      "added_at": "2023-08-04 15:55:51",
       "album": {
-        "name": "Lock Up",
-        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
+        "name": "BACK 2 U",
+        "url": "https://open.spotify.com/album/7bjYLQ5geSdsztH5roji9w"
       },
       "artists": [
         {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
         }
       ],
-      "duration_ms": 223005,
-      "name": "Lock Up",
-      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
+      "duration_ms": 160855,
+      "name": "BACK 2 U",
+      "url": "https://open.spotify.com/track/5xihG1vCTRe0kh1Pdacscb"
     },
     {
       "added_at": "2022-07-29 04:11:59",
@@ -1421,20 +1417,24 @@
       "url": "https://open.spotify.com/track/6V6dHhxQHC935m5HmBEQ7p"
     },
     {
-      "added_at": "2023-08-04 15:55:51",
+      "added_at": "2023-03-31 06:27:27",
       "album": {
-        "name": "BACK 2 U",
-        "url": "https://open.spotify.com/album/7bjYLQ5geSdsztH5roji9w"
+        "name": "Lock Up",
+        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
       },
       "artists": [
         {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 160855,
-      "name": "BACK 2 U",
-      "url": "https://open.spotify.com/track/5xihG1vCTRe0kh1Pdacscb"
+      "duration_ms": 223005,
+      "name": "Lock Up",
+      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -1657,20 +1657,32 @@
       "url": "https://open.spotify.com/track/37dUHBmNPBtDhoi2HAVrIy"
     },
     {
-      "added_at": "2023-06-30 04:31:23",
+      "added_at": "2022-08-26 04:23:37",
       "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/2UkMebjhDLVDDFGZg2kEPY"
+        "name": "Treat U Good",
+        "url": "https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA"
       },
       "artists": [
         {
-          "name": "Godblesscomputers",
-          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+        },
+        {
+          "name": "Noah Slee",
+          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
+        },
+        {
+          "name": "Lyriya",
+          "url": "https://open.spotify.com/artist/3kh6Ltl9keXAm5NcLvdSjI"
+        },
+        {
+          "name": "MERON",
+          "url": "https://open.spotify.com/artist/1PUEwFv131uL8pigp6fNlG"
         }
       ],
-      "duration_ms": 225937,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK"
+      "duration_ms": 217791,
+      "name": "Treat U Good",
+      "url": "https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -1705,32 +1717,20 @@
       "url": "https://open.spotify.com/track/0jqJNqmrdryU1nnctIzu9n"
     },
     {
-      "added_at": "2022-08-26 04:23:37",
+      "added_at": "2023-06-30 04:31:23",
       "album": {
-        "name": "Treat U Good",
-        "url": "https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA"
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/2UkMebjhDLVDDFGZg2kEPY"
       },
       "artists": [
         {
-          "name": "Moods",
-          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
-        },
-        {
-          "name": "Noah Slee",
-          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
-        },
-        {
-          "name": "Lyriya",
-          "url": "https://open.spotify.com/artist/3kh6Ltl9keXAm5NcLvdSjI"
-        },
-        {
-          "name": "MERON",
-          "url": "https://open.spotify.com/artist/1PUEwFv131uL8pigp6fNlG"
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
         }
       ],
-      "duration_ms": 217791,
-      "name": "Treat U Good",
-      "url": "https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu"
+      "duration_ms": 225937,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1893,20 +1893,20 @@
       "url": "https://open.spotify.com/track/1I0TJSqkMgFHaS9foB6OJ1"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/3ZyxwnxqSbSdYpuUHFyP13"
+        "name": "Forbidden Feelingz",
+        "url": "https://open.spotify.com/album/27l2BTUmETSHmFQwsZyzTa"
       },
       "artists": [
         {
-          "name": "Mysie",
-          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
         }
       ],
-      "duration_ms": 142624,
-      "name": "PLAY",
-      "url": "https://open.spotify.com/track/4FuIICqqCqELB9TxsxLqNv"
+      "duration_ms": 129220,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/5Y8LjJ9Riiw8i5d6D06fYS"
     }
   ],
   "unique_name": "Choice Edit",

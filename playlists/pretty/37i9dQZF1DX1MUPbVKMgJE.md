@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 
 > All your Disco favorites\. Cover: Earth Wind & Fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526,073 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,526,296 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 | 49 | [Everybody Dance \- 2018 Remaster](https://open.spotify.com/track/15ifyO8wYntwyXAptfxhKr) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Chic \(2018 Remaster\)](https://open.spotify.com/album/388S3dsftPqG1nwgauItcx) | 6:42 |
 | 50 | [The Second Time Around](https://open.spotify.com/track/6yh8yf1jpPrTMA5cezYpbi) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Big Fun](https://open.spotify.com/album/0wPapw2OnSgmpg8G1DpZtI) | 3:43 |
 
-Snapshot ID: `MCwyOWEzNDQzYmZkZTQxMTBkYWYxMmU2ZjZiZmVjYWNhNzJkNDc0YzI0`
+Snapshot ID: `MCwxZmYyMTY2MThiNTE3NTA0ZWNlYjBiYWJhYjE2YWRkN2Y2YjU1MmVm`

@@ -1,12 +1,12 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Colbie Caillat",
-  "num_followers": 163220,
+  "num_followers": 163376,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDE5OWQwY2QxMTRjZjJlNDI1M2ZhODQyMTIzZWYzM2I5N2JlYmY3",
+  "snapshot_id": "MCw1ZTk5NGU4YWIxNjUxOWYyZGJjOTg3ZWJkNDFhZTQwMzkxY2VkNTAy",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Endless Summer Vacation",
-        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Thousand Miles (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/1GN6qqehnqUfUHH1gfK81v"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Texas (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 198106,
       "name": "Texas (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Thousand Miles (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/1GN6qqehnqUfUHH1gfK81v"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Dancin' In The Moonlight (feat. Lauren Alaina)",
-        "url": "https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr"
-      },
-      "artists": [
-        {
-          "name": "Chris Lane",
-          "url": "https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0"
-        },
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Dancin' In The Moonlight (feat. Lauren Alaina)",
-      "url": "https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Wishful Drinking (with Sam Hunt)",
         "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 194544,
       "name": "Wishful Drinking (with Sam Hunt)",
       "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Dancin' In The Moonlight (feat. Lauren Alaina)",
+        "url": "https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr"
+      },
+      "artists": [
+        {
+          "name": "Chris Lane",
+          "url": "https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Dancin' In The Moonlight (feat. Lauren Alaina)",
+      "url": "https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Giddy Up!",
+        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 162665,
+      "name": "Giddy Up!",
+      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "More Than Yesterday (feat. Russell Dickerson)",
         "url": "https://open.spotify.com/album/4Guul13nGTNGzV05VTMwqC"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 187661,
       "name": "More Than Yesterday (feat. Russell Dickerson)",
       "url": "https://open.spotify.com/track/0VNb0HzD2oxJ9zyRbv7xFH"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Giddy Up!",
-        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 162665,
-      "name": "Giddy Up!",
-      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Giving You Up",
+        "url": "https://open.spotify.com/album/5kb55Z7no2v4AJjBGL2h6p"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 230842,
+      "name": "Giving You Up",
+      "url": "https://open.spotify.com/track/3f3VeiJIaWOZcmkJpTqxyj"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil (Deluxe)",
         "url": "https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 150909,
       "name": "Bottle\u2019s Bout Dead (feat. ERNEST)",
       "url": "https://open.spotify.com/track/5QVJ97UEhK7tUe84OYs96p"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Giving You Up",
-        "url": "https://open.spotify.com/album/5kb55Z7no2v4AJjBGL2h6p"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 230842,
-      "name": "Giving You Up",
-      "url": "https://open.spotify.com/track/3f3VeiJIaWOZcmkJpTqxyj"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Baby I Am",
-        "url": "https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2"
-      },
-      "artists": [
-        {
-          "name": "Dalton Dover",
-          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
-        }
-      ],
-      "duration_ms": 176573,
-      "name": "Baby I Am",
-      "url": "https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Girl Of My Dreams (Deluxe)",
         "url": "https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 173893,
       "name": "Better Version (feat. Kelsea Ballerini)",
       "url": "https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Western",
+        "url": "https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "duration_ms": 195459,
+      "name": "Made",
+      "url": "https://open.spotify.com/track/2S9s6QYCdmSmXQDKpCtK6I"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1519,22 +1519,6 @@
       "duration_ms": 179901,
       "name": "Project",
       "url": "https://open.spotify.com/track/6TpqWzySgiHLoXvQvyGtqH"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Western",
-        "url": "https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy"
-      },
-      "artists": [
-        {
-          "name": "Spencer Crandall",
-          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
-        }
-      ],
-      "duration_ms": 195459,
-      "name": "Made",
-      "url": "https://open.spotify.com/track/2S9s6QYCdmSmXQDKpCtK6I"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1583,22 +1567,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Somethin' Bout You",
-        "url": "https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS"
-      },
-      "artists": [
-        {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "Somethin' Bout You",
-      "url": "https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "The Otherside",
         "url": "https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW"
       },
@@ -1611,6 +1579,22 @@
       "duration_ms": 195515,
       "name": "Till There's Nothing Left",
       "url": "https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Somethin' Bout You",
+        "url": "https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "Somethin' Bout You",
+      "url": "https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1783,6 +1767,26 @@
       "duration_ms": 205626,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/76XWHO6yy7a097yBT7DXVm"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "I Still Love You",
+        "url": "https://open.spotify.com/album/3pRvMR2NZEkoudW2t6DHoe"
+      },
+      "artists": [
+        {
+          "name": "Jessie James Decker",
+          "url": "https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz"
+        },
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 224149,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/1OcrmjcHuoTw1O5QHOpTc2"
     }
   ],
   "unique_name": "Pop Country",

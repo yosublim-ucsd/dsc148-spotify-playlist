@@ -581,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Again?",
+        "url": "https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172360,
+      "name": "Again?",
+      "url": "https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH"
+    },
+    {
+      "album": {
         "name": "The Alien Coast",
         "url": "https://open.spotify.com/album/5WhgDWJBLKg4pf1OJgoxZm"
       },
@@ -15786,7 +15804,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 194029,
       "name": "Technicolor Love (feat. redveil)",
       "url": "https://open.spotify.com/track/14jPneKsd6HTLtWKHATVcl"

@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 44025,
+  "num_followers": 44080,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzMzMDQwNmRmNzI2ZjBiYzYwMDQyZDhmN2I5NTE4ZjNlZDc2Y2Vi",
+  "snapshot_id": "MCxkZjA1ZWQ1ODRkNDk5ZGU2YmNiYjE3NDM0MWFmODdmYWQ4NzgyMDg0",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -147,18 +147,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
+        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
       },
       "artists": [
         {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
         }
       ],
-      "duration_ms": 179893,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
+      "duration_ms": 161266,
+      "name": "Caldonia - Single Version",
+      "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -195,18 +195,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
-        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
       },
       "artists": [
         {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
         }
       ],
-      "duration_ms": 161266,
-      "name": "Caldonia - Single Version",
-      "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
+      "duration_ms": 179893,
+      "name": "Down The Road Apiece",
+      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
+        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+        }
+      ],
+      "duration_ms": 334360,
+      "name": "Saturday Night Fish Fry - Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6NrCCHjmdopC3Jh0SGLPe5"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Louis Jordan & His Tympany Five: Choo Choo Ch'Boogie",
         "url": "https://open.spotify.com/album/2hB3069gKT6EDEbPNAIjLl"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 136546,
       "name": "Real Fine Daddy",
       "url": "https://open.spotify.com/track/6ZFkzS4x0VBL4VwthOydrU"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
-        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
-        }
-      ],
-      "duration_ms": 334360,
-      "name": "Saturday Night Fish Fry - Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6NrCCHjmdopC3Jh0SGLPe5"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Complete Imperial Recordings, 1950-1954",
-        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 124266,
-      "name": "Teenage Baby",
-      "url": "https://open.spotify.com/track/05D2bJ4V2uQm39GQX0mzvm"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Joe Williams' Finest Hour",
         "url": "https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 371893,
       "name": "Is You Is Or Is You Ain't My Baby",
       "url": "https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The Complete Imperial Recordings, 1950-1954",
+        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 124266,
+      "name": "Teenage Baby",
+      "url": "https://open.spotify.com/track/05D2bJ4V2uQm39GQX0mzvm"
     },
     {
       "added_at": "2022-03-28 19:44:25",

@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 281360,
+  "num_followers": 281436,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTU0YzRmZTg1MDMxOTcyZDhlMmQzYTIyMDQ2ZTZiZGMyNGZjN2E3",
+  "snapshot_id": "MCw5NjI3Y2U0M2Y0YzNkMmVjZGQ2YWJkZTQxZjViZjZmNzEwZGEyM2I5",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Complete Hank Williams",
-        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 163426,
-      "name": "Move It On Over",
-      "url": "https://open.spotify.com/track/4WThTuQ9hOeJWolUtHwkQy"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/0QSXhF0KcHeDOGY89JTtkr"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 152200,
       "name": "Young Love",
       "url": "https://open.spotify.com/track/7ow0KcdNRitEedvwQNTd6S"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Complete Hank Williams",
+        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 163426,
+      "name": "Move It On Over",
+      "url": "https://open.spotify.com/track/4WThTuQ9hOeJWolUtHwkQy"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Essential Eddy Arnold",
-        "url": "https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs"
-      },
-      "artists": [
-        {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "Cattle Call",
-      "url": "https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "22 Early Starday Recordings",
         "url": "https://open.spotify.com/album/5M4EJHZXWDI2XOaudxpg6G"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 136240,
       "name": "Why Baby Why",
       "url": "https://open.spotify.com/track/3vewZQLIjngv5dmPm1ph45"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Essential Eddy Arnold",
+        "url": "https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "Cattle Call",
+      "url": "https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA"
     },
     {
       "added_at": "2023-01-02 21:32:07",

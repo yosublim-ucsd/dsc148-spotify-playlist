@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > Are you ready for the floor? Cover: Jessica Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,151 likes - 66 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,180 likes - 66 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Like A Knife](https://open.spotify.com/track/3KtIEskaAF8eojLEoy9SgN) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [More Sad Music](https://open.spotify.com/album/4rBkmbNkDyYQYxjcPxJeTU) | 3:00 |
 | 2 | [The Last Time I Saw You](https://open.spotify.com/track/6gHcbKtydW4jO5scP8J0qn) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [The Last Time I Saw You](https://open.spotify.com/album/1UoZtiW0YVLlCp3cbjUgg4) | 3:35 |
-| 3 | [A Dream I have](https://open.spotify.com/track/4zEH0wmtKUm2T4vLmmJnBi) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:33 |
+| 3 | [A Dream I Have](https://open.spotify.com/track/4YaezxWIpJd3Po2LHYhGVd) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go \(Deluxe\)](https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf) | 4:33 |
 | 4 | [I Can Talk \- Myd Remix](https://open.spotify.com/track/2R5N0kDxOKJl3HjxRrxhdl) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [I Can Talk \(Myd Remix\)](https://open.spotify.com/album/7uTq3a6VR9qZpmw4clwXen) | 3:33 |
 | 5 | [Broken Mirror](https://open.spotify.com/track/44oPs8vjsT9v6Hjt50TvVh) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Innerlight EP](https://open.spotify.com/album/2tg28FJC1DoNaE19f9FpY7) | 3:08 |
 | 6 | [There for You](https://open.spotify.com/track/2Xk53t3TnNSqeSm2pXD6jv) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Just for the Times](https://open.spotify.com/album/751FUQcmvpQEinjZhTOLHH) | 3:48 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 65 | [Turn It Into Love](https://open.spotify.com/track/0NguAN1GjgnNFXqqu3V3LT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Froya](https://open.spotify.com/artist/1NNTp69Arw8ikxNNlKe8JI) | [Turn It Into Love](https://open.spotify.com/album/1QsRm8LBLS07AwJzaNZa9v) | 3:56 |
 | 66 | [Lights Out](https://open.spotify.com/track/3hzazse5o4NZA13isN8eMp) | [GRAEY](https://open.spotify.com/artist/7IWvzeznlyMEE1APQe9iFL) | [Lights Out](https://open.spotify.com/album/42vVIc93UsSgQKFrtsnoet) | 3:12 |
 
-Snapshot ID: `MCwwMDFlZTdkYzFlY2E0YWUwMzNhMmY4MTk0YzczYmMwZDgyM2M4NjI2`
+Snapshot ID: `MCxjZGFkNTM2ZDFjNDIzMjgxMTFlNTJmMjI3NzMwYjQ0ZjNiM2MxZTYx`

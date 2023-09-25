@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 106939,
+  "num_followers": 107004,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTU3NzdiMTlmNzY4MDlmZjA4N2I1MDY4YTgyNDFjMjUxOWZjODU1",
+  "snapshot_id": "MCw4ZDViZDk5NTFiMzVkNDRjNWY0MGM4ZThlMDUxZDBmZjg2NjE1Mzdh",
   "tracks": [
     {
       "added_at": "2021-12-20 17:02:25",
@@ -475,22 +475,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "El Mundo De Plan B",
-        "url": "https://open.spotify.com/album/7N120TiGhRlzC5WI9YSueT"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "La Danza Bella",
-      "url": "https://open.spotify.com/track/68WGyc8Am3SpUOo9dMjRAY"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "A Mover el Culo Con el Chombo",
         "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 180062,
       "name": "Chacarr\u00f3n",
       "url": "https://open.spotify.com/track/2srDyKCj9JJ0Iwvwdl8xj8"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "El Mundo De Plan B",
+        "url": "https://open.spotify.com/album/7N120TiGhRlzC5WI9YSueT"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "La Danza Bella",
+      "url": "https://open.spotify.com/track/68WGyc8Am3SpUOo9dMjRAY"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -559,6 +559,22 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
+        "name": "A Mover el Culo Con el Chombo",
+        "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
+      },
+      "artists": [
+        {
+          "name": "El Chombo",
+          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
+        }
+      ],
+      "duration_ms": 84192,
+      "name": "Quieren Chorizo",
+      "url": "https://open.spotify.com/track/4NQg9QGJbJFRW7HjAsYu0z"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
         "name": "12 Discipulos",
         "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "A Mover el Culo Con el Chombo",
-        "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
-      },
-      "artists": [
-        {
-          "name": "El Chombo",
-          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
-        }
-      ],
-      "duration_ms": 84192,
-      "name": "Quieren Chorizo",
-      "url": "https://open.spotify.com/track/4NQg9QGJbJFRW7HjAsYu0z"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Los Duen\u0303os De La Disco Clasico",
         "url": "https://open.spotify.com/album/4rVTwbTlIJsw4Gw9Y4bOZY"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 227448,
       "name": "Noche Enferma",
       "url": "https://open.spotify.com/track/3LnOseGJ1C8xj1mHBNRCFU"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Sin Parar",
-        "url": "https://open.spotify.com/album/3VkyAHMysQH0SN2FjF1c0v"
-      },
-      "artists": [
-        {
-          "name": "Wiso G",
-          "url": "https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt"
-        }
-      ],
-      "duration_ms": 206773,
-      "name": "La Qu\u00edmica",
-      "url": "https://open.spotify.com/track/08KfnyjxkgXveroTSvbMza"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -759,6 +743,22 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
+        "name": "Sin Parar",
+        "url": "https://open.spotify.com/album/3VkyAHMysQH0SN2FjF1c0v"
+      },
+      "artists": [
+        {
+          "name": "Wiso G",
+          "url": "https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt"
+        }
+      ],
+      "duration_ms": 206773,
+      "name": "La Qu\u00edmica",
+      "url": "https://open.spotify.com/track/08KfnyjxkgXveroTSvbMza"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/2TfyOwS5WUBjviqlduUbzZ"
       },
@@ -812,22 +812,6 @@
       },
       "artists": [
         {
-          "name": "Frankie Boy",
-          "url": "https://open.spotify.com/artist/7qoo1AvP85FXmN8cEwnBqN"
-        }
-      ],
-      "duration_ms": 101632,
-      "name": "Liza Love",
-      "url": "https://open.spotify.com/track/3Ct22HVsc9BMni7XKUIaKR"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Playero Dj Live",
-        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
-      },
-      "artists": [
-        {
           "name": "Ruben Sam",
           "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
         }
@@ -835,38 +819,6 @@
       "duration_ms": 123621,
       "name": "Brutalidad",
       "url": "https://open.spotify.com/track/3dvKl75j8fIkNLyoRVsNgl"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Soy El Mas Sensual - Renato Classics",
-        "url": "https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q"
-      },
-      "artists": [
-        {
-          "name": "Renato",
-          "url": "https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Soy El Mas Sensual",
-      "url": "https://open.spotify.com/track/682nWbALzgmrOYovxI0Me1"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Jamaica Land of the People",
-        "url": "https://open.spotify.com/album/2LOKPTo1YbmstOsqGURysV"
-      },
-      "artists": [
-        {
-          "name": "Lovindeer",
-          "url": "https://open.spotify.com/artist/2BHBhGqqA96TeKQB3Hrzcx"
-        }
-      ],
-      "duration_ms": 376280,
-      "name": "Wild Gilbert",
-      "url": "https://open.spotify.com/track/5PKdhX6Gvqg7tnV6xB4MMp"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -899,6 +851,54 @@
       "duration_ms": 279264,
       "name": "Playero Live Radio Version",
       "url": "https://open.spotify.com/track/2FUpJIirJxB2NLkmqDucCd"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Playero Dj Live",
+        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
+      },
+      "artists": [
+        {
+          "name": "Frankie Boy",
+          "url": "https://open.spotify.com/artist/7qoo1AvP85FXmN8cEwnBqN"
+        }
+      ],
+      "duration_ms": 101632,
+      "name": "Liza Love",
+      "url": "https://open.spotify.com/track/3Ct22HVsc9BMni7XKUIaKR"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Soy El Mas Sensual - Renato Classics",
+        "url": "https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q"
+      },
+      "artists": [
+        {
+          "name": "Renato",
+          "url": "https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Soy El Mas Sensual",
+      "url": "https://open.spotify.com/track/682nWbALzgmrOYovxI0Me1"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Jamaica Land of the People",
+        "url": "https://open.spotify.com/album/2LOKPTo1YbmstOsqGURysV"
+      },
+      "artists": [
+        {
+          "name": "Lovindeer",
+          "url": "https://open.spotify.com/artist/2BHBhGqqA96TeKQB3Hrzcx"
+        }
+      ],
+      "duration_ms": 376280,
+      "name": "Wild Gilbert",
+      "url": "https://open.spotify.com/track/5PKdhX6Gvqg7tnV6xB4MMp"
     },
     {
       "added_at": "2021-12-20 17:02:25",

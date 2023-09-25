@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 
 > The Official EA SPORTS F1 23 Soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,598 likes - 34 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,700 likes - 34 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 | 14 | [Can’t Let You Go](https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Little Jet](https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa) | [Can’t Let You Go](https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8) | 2:53 |
 | 15 | [Show My Love](https://open.spotify.com/track/075WtAJrh7uEbnInJVxjYj) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Show My Love](https://open.spotify.com/album/7riKp1e3NEWpgkevFL5v4U) | 2:43 |
 | 16 | [Oi](https://open.spotify.com/track/1q3Bh0X0zCczI7ewPQnmsg) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Oi](https://open.spotify.com/album/1MyrJ9bOkmIBHPT04WlUup) | 3:36 |
-| 17 | [Out Of Control](https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Out Of Control](https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk) | 2:48 |
-| 18 | [Immortal](https://open.spotify.com/track/4j3LxTzYF8IY5Y3h80dl8v) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Immortal](https://open.spotify.com/album/7xnzTKq48BTxKQ3JABpFxN) | 4:08 |
+| 17 | [Immortal](https://open.spotify.com/track/4j3LxTzYF8IY5Y3h80dl8v) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Immortal](https://open.spotify.com/album/7xnzTKq48BTxKQ3JABpFxN) | 4:08 |
+| 18 | [Out Of Control](https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Out Of Control](https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk) | 2:48 |
 | 19 | [Miss The Days](https://open.spotify.com/track/6V6dHhxQHC935m5HmBEQ7p) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [Miss The Days](https://open.spotify.com/album/2RR9j2toHQhD2V4bsr2DWK) | 3:40 |
 | 20 | [Don't Cry](https://open.spotify.com/track/5X107YxNbBbQBn6ofr7OPR) | [LODATO](https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv), [Ally Ahern](https://open.spotify.com/artist/4RSgbf1zgR2X2APEbTqxbM) | [Don't Cry](https://open.spotify.com/album/5fP4Ys7OD25Tn0fKmGXFbV) | 3:11 |
 | 21 | [Eleanor](https://open.spotify.com/track/4FGIHe2zLB3Y43mPybYdDa) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Freakout/Release](https://open.spotify.com/album/1GWWErA3u49ANQoGygvziN) | 5:09 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 | 33 | [Real Talk \(Boys Noize Remix\)](https://open.spotify.com/track/2Z9NWTkvE7dDFDpWhCY3bQ) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Real Talk \(Boys Noize Remix\)](https://open.spotify.com/album/71qWeuLd6mu03o55lvJPKH) | 6:45 |
 | 34 | [Go \(Otik Remix\)](https://open.spotify.com/track/0LF47HeMZteqsbcQRk1hkJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Go \(Otik Remix\)](https://open.spotify.com/album/0ybL4M8dUUD1YaxxUTVUcI) | 4:05 |
 
-Snapshot ID: `MCwxNTIyNmRiNjA2MTY2Zjc3NGJlNDM3NDcxNDY5MTg5NDYxNzA1YTky`
+Snapshot ID: `MCwwNTMzOTQ3ZTE3NmZhN2I0MjMwZDNlNDk3YTJiZmEwNzFmNWNlZGMw`

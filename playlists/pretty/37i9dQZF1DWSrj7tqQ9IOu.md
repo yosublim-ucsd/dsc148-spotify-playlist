@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Zélie
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,479 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,529 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [A Taste Of Possibility](https://open.spotify.com/track/09qAEZgB4KcFixRPilvca1) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [A Taste Of Possibility](https://open.spotify.com/album/4SiCcKUuHVHXJwRcPsb2Yf) | 3:46 |
 | 50 | [bb l'eau salée <3](https://open.spotify.com/track/6qMeuBJkaGj9rGDkw550pV) | [BARON.E](https://open.spotify.com/artist/1caQnYGFCNkm8cVRIzLZBE) | [bb l'eau salée <3](https://open.spotify.com/album/7vZ6cKjPGMmx8BIlWifr0n) | 3:24 |
 
-Snapshot ID: `MCwzN2YxNmNkZDlhOWUwYTRhOTkzYmI2ZDkyMGRiZjE1YzE5YTEyYjkx`
+Snapshot ID: `MCw2NzQ4YWJkOWIxZjVjYmZkYzU4Y2JiM2Y2NWNhMzBhOWM0MDkzNjQ5`

@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 3253,
+  "num_followers": 3256,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTVjOTAzMmU3NzZmODNlNTdkZDIzZjhiZjkzMTY2YTNiMmE5YWVh",
+  "snapshot_id": "MCw3NGMyNDY2ZjIzNmEyYTI3Nzg1NzczNTYyZjE0ZjEzYmFhNjlhMGZl",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Night Drive",
-        "url": "https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i"
-      },
-      "artists": [
-        {
-          "name": "Timecop1983",
-          "url": "https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r"
-        }
-      ],
-      "duration_ms": 358200,
-      "name": "It Was Only a Dream",
-      "url": "https://open.spotify.com/track/715mzRnO46sUW5P9ebzzMn"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Procession",
         "url": "https://open.spotify.com/album/0JCLdXVVINlBEugw8VtRRV"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 455593,
       "name": "Silent Messenger",
       "url": "https://open.spotify.com/track/4z2rlz9eCnfpWv2eAVg3SF"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i"
+      },
+      "artists": [
+        {
+          "name": "Timecop1983",
+          "url": "https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r"
+        }
+      ],
+      "duration_ms": 358200,
+      "name": "It Was Only a Dream",
+      "url": "https://open.spotify.com/track/715mzRnO46sUW5P9ebzzMn"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -699,8 +699,8 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Onyx",
-        "url": "https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/1LN7F08ntBaf1E63RlSmpT"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
         }
       ],
-      "duration_ms": 333803,
-      "name": "Immemorial",
-      "url": "https://open.spotify.com/track/6N5cVdUFPXwrFdlAjlsRwA"
+      "duration_ms": 284132,
+      "name": "What the Earth Bore",
+      "url": "https://open.spotify.com/track/4vfQOjhjyywh8OJQOAeGXD"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -851,8 +851,8 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/1LN7F08ntBaf1E63RlSmpT"
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
         }
       ],
-      "duration_ms": 284132,
-      "name": "What the Earth Bore",
-      "url": "https://open.spotify.com/track/4vfQOjhjyywh8OJQOAeGXD"
+      "duration_ms": 333803,
+      "name": "Immemorial",
+      "url": "https://open.spotify.com/track/6N5cVdUFPXwrFdlAjlsRwA"
     },
     {
       "added_at": "2022-07-06 17:58:03",

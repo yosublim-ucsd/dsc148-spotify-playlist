@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-587 songs - 1 day 0 hr 0 min
+589 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Blackstar](https://open.spotify.com/track/6djXsgxuBxkhZ304F6f9m6) | [Zoot Lix](https://open.spotify.com/artist/1hLSwZoc1fc7nbd87G36La) | [Blackstar](https://open.spotify.com/album/77nkWEQ9KlbYGdsAx0TGng) | 3:17 | 2022-02-17 | 2023-09-09 |
 | [Blank Canvas](https://open.spotify.com/track/4R9fYpcyz1BUFZ7FCiuJXg) | [Lake Valley](https://open.spotify.com/artist/7sXI0WtuyDELsesS7kW4qF) | [Blank Canvas](https://open.spotify.com/album/6zLHXiO7t2klPX6w5Dpt2T) | 2:32 | 2023-09-08 |  |
 | [Blessings](https://open.spotify.com/track/4hE1uYOJZy6UPe1mTGQBhK) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Blessings](https://open.spotify.com/album/5vgWOjahlIwxaVgsKDqE7k) | 2:18 | 2023-09-08 |  |
+| [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/7b7ga2HzGIRsOJqorPSX1M) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
 | [Bonafide Bars](https://open.spotify.com/track/5PsHl5DtzhLij9jRwZXnlJ) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Bonafide Bars](https://open.spotify.com/album/2vzK9BHm6HX2jLVfLPlDuP) | 2:29 | 2023-09-08 |  |
 | [Bootes](https://open.spotify.com/track/2TJyvCtn156DBQdRzFnJQ8) | [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi) | [Ophiuchus](https://open.spotify.com/album/6DPf7zkNcApNZjcJVz2o7H) | 3:05 | 2022-02-17 | 2023-01-20 |
 | [Bottomless](https://open.spotify.com/track/2z1BzTxjbkZONWcC31dB7o) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Bottomless](https://open.spotify.com/album/7Bhova4DJBNdj2ey7L84iY) | 2:12 | 2022-02-17 | 2023-09-09 |
@@ -260,13 +261,13 @@
 | [Latenights](https://open.spotify.com/track/4QzstlFFX0WAsSk0b0ft63) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Latenights](https://open.spotify.com/album/6SA7RcerGNmTM9OIQ994g5) | 2:31 | 2023-09-08 |  |
 | [Latex](https://open.spotify.com/track/2IfYpqvhlKUQ7BcURXGWHo) | [Sail & Weep](https://open.spotify.com/artist/1ufnSHs8Qsy6u9d5hQo4Ao) | [Latex](https://open.spotify.com/album/6yKF2qc08283e2ooJrdawF) | 2:37 | 2023-09-08 |  |
 | [Layer 11](https://open.spotify.com/track/1bGs3t13EhRBFpsriAPTrS) | [Chewsday](https://open.spotify.com/artist/2HGON9HbOgKaYL7F6IIYLU) | [Layer 11](https://open.spotify.com/album/0s6MSC4PuCQqllrO6FjAaI) | 2:20 | 2023-09-08 |  |
-| [Lazy Dreams](https://open.spotify.com/track/0MeDQSiROjluPfu8hF00bT) | [Goslow](https://open.spotify.com/artist/4vc0hwDIdfnY7qAYAk9hqn), [VOLKHIN](https://open.spotify.com/artist/4zLct3dcGnskzifqZebi2p) | [Lazy Dreams](https://open.spotify.com/album/0dsR4JBGi6wYvVh8NF9PB9) | 2:12 | 2023-09-08 |  |
+| [Lazy Dreams](https://open.spotify.com/track/0MeDQSiROjluPfu8hF00bT) | [Goslow](https://open.spotify.com/artist/4vc0hwDIdfnY7qAYAk9hqn), [VOLKHIN](https://open.spotify.com/artist/4zLct3dcGnskzifqZebi2p) | [Lazy Dreams](https://open.spotify.com/album/0dsR4JBGi6wYvVh8NF9PB9) | 2:12 | 2023-09-08 | 2023-09-25 |
 | [Lazy Wave](https://open.spotify.com/track/0NnNuDaIWS2aPRkKCgTDvE) | [Zeyn](https://open.spotify.com/artist/1NR5IwCw7nBTNjTQSKOb7Z) | [Lazy Wave](https://open.spotify.com/album/1gXyrT30rMvmePGUziVIVO) | 2:26 | 2023-09-08 |  |
 | [Leo](https://open.spotify.com/track/0o5oip1kRJnjeOUzNhEv2f) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Leo](https://open.spotify.com/album/20aInnjfIxphhV83JBPm0o) | 3:06 | 2022-02-17 | 2023-09-09 |
 | [Lepricorn Ride](https://open.spotify.com/track/2YO5oyN7TcyRMlytlKxLmr) | [Sebastian Flecci](https://open.spotify.com/artist/4gJKWV189rb49Y9vvWmk3S) | [Magicos](https://open.spotify.com/album/1ji6VCa1jsz9wQ6cTX5Y0E) | 2:03 | 2023-09-08 |  |
 | [Let It Love](https://open.spotify.com/track/4PThACYdVkpvTevBsLQh4X) | [KOHEI YOSHII](https://open.spotify.com/artist/3uO4RRkSXyaak1AaakNvsG), [Japanolofi Records](https://open.spotify.com/artist/3hpBOomrnPaXG3xfma7CUM) | [Let It Love](https://open.spotify.com/album/7uFQKLLBDOj3C4SzaDZJMt) | 2:24 | 2023-09-08 |  |
 | [Lets meet soon](https://open.spotify.com/track/29rrd6Sg1lAmLzflVCrejq) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82), [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Lets meet soon](https://open.spotify.com/album/0NTIuafaplcYS4BsuTXSFs) | 2:12 | 2023-09-08 |  |
-| [Let’s Talk](https://open.spotify.com/track/3PDYzBV9MDoceVJT05doMe) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Jackson Heights](https://open.spotify.com/album/0jwgd46SErxE9SXsRWzpf6) | 3:25 | 2023-09-22 |  |
+| [Let’s Talk](https://open.spotify.com/track/3PDYzBV9MDoceVJT05doMe) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Jackson Heights](https://open.spotify.com/album/0jwgd46SErxE9SXsRWzpf6) | 3:25 | 2023-09-22 | 2023-09-25 |
 | [Life on Hold](https://open.spotify.com/track/5BLgn3YW4egzpgV1q5oPTP) | [Lo\-Fi Eamonn](https://open.spotify.com/artist/2mh6iITVGFPDa7NxvcDzxy) | [Life on Hold](https://open.spotify.com/album/49uY4hBP3tRDggvjz8RiYp) | 2:20 | 2022-06-24 | 2023-09-09 |
 | [life on hold](https://open.spotify.com/track/5maOt1lIkCrS5r2DB2nfyr) | [Lo\-Fi Eamonn](https://open.spotify.com/artist/2mh6iITVGFPDa7NxvcDzxy) | [life on hold](https://open.spotify.com/album/7u7z7WwHVTeY19UMQQCFhb) | 2:20 | 2022-02-17 | 2022-07-29 |
 | [Light Colors](https://open.spotify.com/track/57icLTnAu0LHPOsdmfOhjF) | [IntoVerted](https://open.spotify.com/artist/7KPMTEva2Ul6kWl0ddz7kT) | [Light Colors](https://open.spotify.com/album/5myEgExIXQPG6fKTGbd0On) | 2:48 | 2022-02-17 | 2023-09-09 |
@@ -444,6 +445,7 @@
 | [silly me](https://open.spotify.com/track/1Bl2RqLfN5V3uCTpcWl7Bn) | [titicon](https://open.spotify.com/artist/5v5Qkgl02bizOecA6OY7p3) | [silly me](https://open.spotify.com/album/68WtH1tl9o9QSmEH3q5WKt) | 1:30 | 2023-09-08 |  |
 | [Silver Lining](https://open.spotify.com/track/49hqLCrBX4CnAkEM0iclaO) | [Fathomist B't](https://open.spotify.com/artist/7rPDCHQp2TrTEwaZRLvVD8) | [Silver Lining](https://open.spotify.com/album/1rCa089W6ZFhIcpVzw4tCJ) | 2:29 | 2022-02-17 | 2023-09-09 |
 | [Simple](https://open.spotify.com/track/7rOXbaE7eR2EckA348ui2m) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Simple](https://open.spotify.com/album/5D3DbCzuUxS5QtbVi14YpZ) | 2:09 | 2023-09-08 |  |
+| [Simple Solitude](https://open.spotify.com/track/6QRsJz7vfDqWmX2YT64yqn) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [Simple Solitude](https://open.spotify.com/album/7ji5s1oKZ0d1Vj8I9WJR5p) | 2:33 | 2023-09-22 |  |
 | [Skyline](https://open.spotify.com/track/0LprOZNXWLJdhVAkkykikL) | [Miss u Lots](https://open.spotify.com/artist/526OmKT6s2Lyjb2INyF047) | [Skyline](https://open.spotify.com/album/304DbtylJr8aVZPPNbMwvZ) | 2:15 | 2023-09-08 |  |
 | [Sleepless Times](https://open.spotify.com/track/0SIjNbculfq6PiPg1PkggT) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Sleepless Times](https://open.spotify.com/album/5QTYGdQ4X4lUNpf7cV5Z6d) | 2:32 | 2023-09-08 |  |
 | [Sleepy Turtle](https://open.spotify.com/track/1PMKS7BnOOXwFpEyspGwd3) | [2Shy](https://open.spotify.com/artist/0jHS1ZWecQVPwsloGNiCNr) | [Sleepy Turtle](https://open.spotify.com/album/0HXsJ0Dwrx5Kf4Py3fngRa) | 2:27 | 2023-09-08 |  |

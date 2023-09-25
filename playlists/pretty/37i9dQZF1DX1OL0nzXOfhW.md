@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover: Jeffrey Ngai 魏浚笙
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,759 likes - 59 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,769 likes - 59 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 6 | [DEMONS](https://open.spotify.com/track/0UMhOCEAdwvxWaZ0K7V6KU) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [DEMONS](https://open.spotify.com/album/4ZCF8pOZliBXL2RhM7VDFW) | 2:27 |
 | 7 | [FINE WINE](https://open.spotify.com/track/2TKieTpuTR9fs9u476JpQ3) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [FINE WINE](https://open.spotify.com/album/0fQfupuh1UH7VTkUx4kM1l) | 2:49 |
 | 8 | [L\-O\-V\-E](https://open.spotify.com/track/16t8e2uj33zEgLCFMITC8P) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [L\-O\-V\-E](https://open.spotify.com/album/4OCkp5uGvoBYHAegskOy8C) | 3:00 |
-| 9 | [give in to you](https://open.spotify.com/track/30uhhtCSKgdM41GpWRpLVJ) | [Lau Heung King](https://open.spotify.com/artist/4hoaMY482rsnuWzyVaa6Ql) | [give in to you](https://open.spotify.com/album/5dN9X6OlySq4wet8HP1Gfi) | 3:04 |
+| 9 | [give in to you](https://open.spotify.com/track/30uhhtCSKgdM41GpWRpLVJ) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [give in to you](https://open.spotify.com/album/5dN9X6OlySq4wet8HP1Gfi) | 3:04 |
 | 10 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 |
 | 11 | [純情](https://open.spotify.com/track/7CvTXPEEFrDinye9qEevka) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [純情](https://open.spotify.com/album/5atQKsd77QwGjmxvZhKey6) | 4:02 |
 | 12 | [彷彿](https://open.spotify.com/track/0ciMEnrEBZQeeB5PHQLIKt) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [彷彿](https://open.spotify.com/album/2Z4cHJ5pLtyeqNsE3NnM4P) | 5:16 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 58 | [Letter](https://open.spotify.com/track/2lbvrvkQz9KBViH9DqIHh3) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Letter](https://open.spotify.com/album/4FHTXsdIaOURNZksJ5OduD) | 2:52 |
 | 59 | [Hidey](https://open.spotify.com/track/2gxqb9SIEdO2GNsXMGy6RA) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:18 |
 
-Snapshot ID: `MCw0MmUzOTYwMjcxYmVhMWExMDE0ODNmN2NiNTMzMDNiNTRjYzA2ZDJk`
+Snapshot ID: `MCwxOGJjNDkwNzg0ZWM0MDViMzAwNmY3NjExNWJjYTZlNTk1NGRiZmJk`

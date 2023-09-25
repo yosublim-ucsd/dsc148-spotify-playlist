@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > Focus with soft study music in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,737,799 likes - 269 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,737,835 likes - 269 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -278,4 +278,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 268 | [Danderlion](https://open.spotify.com/track/4p3aBt5WfldkaRaDfBcfGG) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Danderlion](https://open.spotify.com/album/06mlIPE6BeK3DQlIxLkgjR) | 2:16 |
 | 269 | [Mol allena](https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:26 |
 
-Snapshot ID: `MCxmYzAyMTY1MTUwMjlkMDFiMzJhMTA5NDQ4ZWMwODRkZTFlMGI5ZmU0`
+Snapshot ID: `MCxkYWE1ZThmNzVjYjIzMzQ5NTAzMTQwZGUwM2E4ODcyN2I4MzEyZWM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: GreenWoodz
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,840 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,843 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 32 | [Je suis Lui](https://open.spotify.com/track/29FkN0B3K17qtzYEOnhyW3) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [Sous Pression](https://open.spotify.com/album/4Wqm3skMPygg27BNMtNEDw) | 2:03 |
 | 33 | [Chez la Psy](https://open.spotify.com/track/18wG7Ag5wdZ98So8R4yRT0) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Retour à Baveuse City](https://open.spotify.com/album/77ZB9Vg6efYbkqQvzFTRlK) | 3:03 |
 | 34 | [KENZO NIGO \- Sur moi](https://open.spotify.com/track/4C2zaqRvJjRq09u2Rar1Tx) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [LA VIE RAPIDE EARLY ACCESS](https://open.spotify.com/album/3HSqYFBuzJKMW5GkrDzxQq) | 3:25 |
-| 35 | [Many Men](https://open.spotify.com/track/5Hknkme6xbFMFZSznFQmUx) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Many Men](https://open.spotify.com/album/7fJ0Kv2ZFAr56IeVm3CRla) | 2:42 |
+| 35 | [Many Men](https://open.spotify.com/track/5Hknkme6xbFMFZSznFQmUx) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Many Men](https://open.spotify.com/album/7fJ0Kv2ZFAr56IeVm3CRla) | 2:41 |
 | 36 | [Montego Bay](https://open.spotify.com/track/7u3hvzsMpRgV3o8PHSFMS0) | [Nikki\-B](https://open.spotify.com/artist/0W4nncV2qo2VMYhhx1GBA0) | [Montego Bay](https://open.spotify.com/album/2WR2QlAGCRC5sJuJhZEUHS) | 3:02 |
 | 37 | [VISA](https://open.spotify.com/track/67g2ofnMNzwzUbbNt0eyPk) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [Yung Duce](https://open.spotify.com/artist/3xR8mAOFhKZZ8V89C4RWrl) | [VISA](https://open.spotify.com/album/1hslnP6PutZgrEVGYuBLjz) | 2:36 |
 | 38 | [Big AK](https://open.spotify.com/track/2hADPyFVEeSQcKPP9BSI9q) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Big AK](https://open.spotify.com/album/4NLnvzkJvogzebsHJELswl) | 1:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [CC](https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [CC](https://open.spotify.com/album/2mmmfA38Smu5e5OquI0Vjc) | 3:47 |
 | 75 | [30 Shots](https://open.spotify.com/track/5sJr70b05dLwOamB3s7o8L) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Little Bro](https://open.spotify.com/album/69GbVidiLTfUezF80QTcff) | 2:53 |
 
-Snapshot ID: `MCwwOGVjM2FiYjkzM2JlYjhjMThkNWFiMTY2NzgwM2VhYTUyOTAyODg1`
+Snapshot ID: `MCwwMDFjZWMxODg4NzkyOTlhZTNmYjQ5YzNkMTkyZGI0NDZmNWNjODQy`

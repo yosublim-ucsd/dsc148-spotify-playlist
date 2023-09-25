@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 
 > Feiern mit den größten aktuellen Partyhits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,271,235 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271,284 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 | 35 | [Ghost Town](https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Joris Sava](https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Ghost Town](https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa) | 2:42 |
 | 36 | [Party Sahne](https://open.spotify.com/track/2hFOXN8Eq2gXIGGMIdHdWJ) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [2022 war film gewesen](https://open.spotify.com/album/4OBzAh7kXYVdeBp1LTrZwZ) | 2:17 |
 | 37 | [Drinkin'](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Drinkin'](https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI) | 2:29 |
-| 38 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 |
-| 39 | [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/track/6ar9dvz5WuFLAyDGsZKLZx) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp) | [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/album/5LVK2zDPtnyTP7Xd5NrwEB) | 3:08 |
-| 40 | [Nachts wach \(Lila Wolken Bootleg\)](https://open.spotify.com/track/5qEGAHerczFt3HmL9lhh4j) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Nachts wach](https://open.spotify.com/album/6VLivifFeh65jFqwXCAar3) | 2:38 |
-| 41 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 |
+| 38 | [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/track/6ar9dvz5WuFLAyDGsZKLZx) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp) | [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/album/5LVK2zDPtnyTP7Xd5NrwEB) | 3:08 |
+| 39 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 |
+| 40 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 |
+| 41 | [Nachts wach \(Lila Wolken Bootleg\)](https://open.spotify.com/track/5qEGAHerczFt3HmL9lhh4j) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Nachts wach](https://open.spotify.com/album/6VLivifFeh65jFqwXCAar3) | 2:38 |
 | 42 | [Moment](https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Moment](https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV) | 3:24 |
 | 43 | [Sinner](https://open.spotify.com/track/1WumDA51R5dHvmRVhmoP6t) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [Sinner](https://open.spotify.com/album/23x07E0mPIzgXa1i4i6EnW) | 3:11 |
 | 44 | [ONLY 4 LIFE \- Remix](https://open.spotify.com/track/7jYwZOptDPesQgzj7vhsEF) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2), [FABE BROWN](https://open.spotify.com/artist/1H2agrqo1Y8alTi5Wde6UG) | [ONLY 4 LIFE \(Remix\)](https://open.spotify.com/album/5u6snJ3UY2taF6tY1WZzQH) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 | 49 | [Young Right Now](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Young Right Now](https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw) | 3:06 |
 | 50 | [Mangos mit Chili](https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Mangos mit Chili](https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM) | 2:14 |
 
-Snapshot ID: `MCxhOTUzZTk0ZjM0ODA4NDIwOGNiNTAzNjM2ZDFkZjdjZjQzN2IwOGM1`
+Snapshot ID: `MCxjMjZhMWRkMjE2NzkyM2I0OTYyMDFmNTU4NGE2NjhhNmM2ZWIxOTNh`

@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-404 songs - 1 day 0 hr 36 min
+405 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 | 2022-12-15 |  |
 | [Feels Like You](https://open.spotify.com/track/21UPL4RXZPmg2TZ2DgWADj) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Feels Like You](https://open.spotify.com/album/6KQTZTlcnqA82p6RkQk0yr) | 3:18 | 2023-03-07 | 2023-03-18 |
 | [Fire On Fire \- From "Watership Down"](https://open.spotify.com/track/5rFj8OzffT0iggSjcBaeND) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Fire On Fire \(From "Watership Down"\)](https://open.spotify.com/album/5utJfkRQ5yEIat3AIK6WIL) | 4:06 | 2022-10-20 | 2023-08-18 |
-| [Fireflies](https://open.spotify.com/track/1hfDwBiBURnnVXruXzPd0I) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Fireflies](https://open.spotify.com/album/7u6Z333YGGWD55O2uqjeTj) | 4:51 | 2023-09-21 |  |
+| [Fireflies](https://open.spotify.com/track/1hfDwBiBURnnVXruXzPd0I) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Fireflies](https://open.spotify.com/album/7u6Z333YGGWD55O2uqjeTj) | 4:51 | 2023-09-21 | 2023-09-25 |
+| [Fireflies](https://open.spotify.com/track/2IvIUND7ZGjPftDyOYAWJ9) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 4:51 | 2023-09-21 |  |
 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 | 2022-10-20 |  |
 | [Float Away](https://open.spotify.com/track/0BvZVtYs6d7FwMK9JlfXd0) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Float Away](https://open.spotify.com/album/3ia102yZXVYkbU25GbGxSe) | 3:06 | 2023-08-03 |  |
 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 | 2023-01-31 |  |

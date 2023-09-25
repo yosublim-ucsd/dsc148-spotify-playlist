@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The most innovative and forward thinking metal right now\. Cover: Static\-X
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,368 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,505 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,15 +34,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 24 | [Diazepam](https://open.spotify.com/track/2I2lcRhPdvzfpC8Q3Eb6uO) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer](https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5) | 2:33 |
 | 25 | [Terrible Lie](https://open.spotify.com/track/2e2aWPBaVWrNMngz5ftWPv) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Terrible Lie](https://open.spotify.com/album/2WSoYDdN55rm3lmGW8qSFl) | 4:03 |
 | 26 | [Dead World](https://open.spotify.com/track/3xafEn4vzr5HybW0uec4wS) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Dead World](https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF) | 4:01 |
-| 27 | [Stuck In My Ways](https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Cheaper Than Therapy](https://open.spotify.com/album/5v0QcUpjf2ucFObuv9Tpgb) | 4:48 |
-| 28 | [As They Bloom](https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [As They Bloom](https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ) | 3:57 |
+| 27 | [As They Bloom](https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [As They Bloom](https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ) | 3:57 |
+| 28 | [Stuck In My Ways](https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Cheaper Than Therapy](https://open.spotify.com/album/5v0QcUpjf2ucFObuv9Tpgb) | 4:48 |
 | 29 | [ANTAGONIST RETURNS](https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm) | [The Worst of Us](https://open.spotify.com/artist/42VxcSRld3QR7Rmv7m97RW), [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO), [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [THE AKUMA](https://open.spotify.com/artist/20kxwZ3KtZExRwq4s9IXZW) | [ANTAGONIST RETURNS](https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb) | 3:37 |
 | 30 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 |
 | 31 | [LXVE](https://open.spotify.com/track/1EN0MB0IzI9V7bagk3esAB) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [All Fine / eniF llA](https://open.spotify.com/album/7Lf2EWSPBMZZYJ0lWq1RMW) | 3:11 |
 | 32 | [Gatekeepers](https://open.spotify.com/track/63pBzNTtzByif59lsK3dou) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:28 |
 | 33 | [Believe](https://open.spotify.com/track/2zdtGFbUCmv0PhkylSQiHu) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Dead World](https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF) | 4:36 |
-| 34 | [BURNING RUBBER](https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [BURNING RUBBER](https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e) | 2:13 |
-| 35 | [I Spit On Your Grave](https://open.spotify.com/track/5TFvIb9M86dN3VgvHYqaPy) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [SEWERSTAR](https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp) | 3:39 |
+| 34 | [I Spit On Your Grave](https://open.spotify.com/track/5TFvIb9M86dN3VgvHYqaPy) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [SEWERSTAR](https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp) | 3:39 |
+| 35 | [BURNING RUBBER](https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [BURNING RUBBER](https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e) | 2:13 |
 | 36 | [Caterpillar](https://open.spotify.com/track/5IYf2klca6lYyOj7jhjF5j) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt) | [Caterpillar](https://open.spotify.com/album/1su4sMJNmHerXssClObphO) | 3:25 |
 | 37 | [Stuck In My Ways](https://open.spotify.com/track/4wEQ8ajmibfITVjawBjq61) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Stuck In My Ways](https://open.spotify.com/album/0IyXHRcQxesZtc09HdKCyv) | 2:54 |
 | 38 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 46 | [RedZone](https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [RedZone / Dead or Alive](https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN) | 3:47 |
 | 47 | [Heads Off](https://open.spotify.com/track/6YscsgZWCPcceessZBN1di) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Heads Off](https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7) | 4:31 |
 | 48 | [Moot](https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz), [Morgan Lander](https://open.spotify.com/artist/6UmXnQCZQvayT1eZxAIvz5) | [Moot](https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ) | 4:05 |
-| 49 | [Azure](https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Azure](https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN) | 4:14 |
-| 50 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 |
+| 49 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 |
+| 50 | [Azure](https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Azure](https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN) | 4:14 |
 | 51 | [Soul Revolution](https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution](https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel) | 3:34 |
 | 52 | [Arluck](https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Blood Year](https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb) | 6:33 |
 | 53 | [Red River](https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS) | [Show Me A Dinosaur](https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ) | [Plantgazer](https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP) | 9:36 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 73 | [FUCK WITH A WITCH 2](https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FUCK WITH A WITCH 2](https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e) | 1:30 |
 | 74 | [Demon Supreme](https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Demon Supreme](https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB) | 3:31 |
 | 75 | [Kings Today](https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq) | [Sicksense](https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc), [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ) | [Kings Today](https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI) | 3:55 |
-| 76 | [Shrinking Violet](https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj) | [Wear Your Wounds](https://open.spotify.com/artist/162Upzibi1m79dQDaEUjl3) | [Rust on the Gates of Heaven](https://open.spotify.com/album/4a2Q2U38lk0uDIQRhpNZ86) | 5:31 |
-| 77 | [Ancestral Recall](https://open.spotify.com/track/6ss6OkJFKQHnqO84sizM4w) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo) | [May Our Chambers Be Full](https://open.spotify.com/album/383HIXuM9TBUq1aVVFVyoc) | 3:54 |
+| 76 | [Ancestral Recall](https://open.spotify.com/track/6ss6OkJFKQHnqO84sizM4w) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo) | [May Our Chambers Be Full](https://open.spotify.com/album/383HIXuM9TBUq1aVVFVyoc) | 3:54 |
+| 77 | [Shrinking Violet](https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj) | [Wear Your Wounds](https://open.spotify.com/artist/162Upzibi1m79dQDaEUjl3) | [Rust on the Gates of Heaven](https://open.spotify.com/album/4a2Q2U38lk0uDIQRhpNZ86) | 5:31 |
 | 78 | [Synopsis](https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX) | [Mountain Eye](https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz) | [Synopsis](https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG) | 3:22 |
 | 79 | [Sun Up To Sun Down \- Remix](https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64), [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Sun Up To Sun Down \(Remix\)](https://open.spotify.com/album/0k0dMQoz9HiR6LtQUjykc8) | 2:28 |
 | 80 | [DIVINE DISINTEGRATION](https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W) | [ghostofblu](https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN) | [DIVINE DISINTEGRATION](https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR) | 2:08 |
 
-Snapshot ID: `MCwxYzRhZjI1YTA2OTIxNDMzZjk2MjBjOGI4MmFhMjQxMzU3OGYwMmI3`
+Snapshot ID: `MCw1ZjY0NzMzMDA3YjE3MWUxZDY3NDU0YmNkYThmNTc0MjZkYjg2MjUy`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 85157,
+  "num_followers": 85172,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGY0N2M1YzhjMzE5N2Q4YjdkYWNlNWY0ODJlZmVjZmIyNjBlYmM0",
+  "snapshot_id": "MCxmOGQ5N2I1MDcxZDRkOGFmNDAxNWM3NzFjNzRkOTY2Y2JhODg3Zjgx",
   "tracks": [
     {
       "added_at": "2023-04-14 06:55:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Anaranjado",
-        "url": "https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y"
+        "name": "Polvo Eres",
+        "url": "https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ"
       },
       "artists": [
         {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+          "name": "La Derecha",
+          "url": "https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO"
         }
       ],
-      "duration_ms": 196826,
-      "name": "Planetas",
-      "url": "https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z"
+      "duration_ms": 227665,
+      "name": "Emociones",
+      "url": "https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Polvo Eres",
-        "url": "https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ"
+        "name": "Anaranjado",
+        "url": "https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y"
       },
       "artists": [
         {
-          "name": "La Derecha",
-          "url": "https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO"
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
         }
       ],
-      "duration_ms": 227665,
-      "name": "Emociones",
-      "url": "https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp"
+      "duration_ms": 196826,
+      "name": "Planetas",
+      "url": "https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
+        "name": "Marteko Euriak",
+        "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
+      },
+      "artists": [
+        {
+          "name": "1280 Almas",
+          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
+        }
+      ],
+      "duration_ms": 175724,
+      "name": "El Viejo",
+      "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/2ETz2y2dJ7bD7XfXXUaKjq"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 217903,
       "name": "Ave Nocturna",
       "url": "https://open.spotify.com/track/7Hnw7DhlqhfdywAqjNDXy5"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
-        "name": "Marteko Euriak",
-        "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
-      },
-      "artists": [
-        {
-          "name": "1280 Almas",
-          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
-        }
-      ],
-      "duration_ms": 175724,
-      "name": "El Viejo",
-      "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
     },
     {
       "added_at": "2023-04-14 06:55:00",

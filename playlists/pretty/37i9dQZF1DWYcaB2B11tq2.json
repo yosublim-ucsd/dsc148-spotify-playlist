@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 386377,
+  "num_followers": 386548,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTFjYjhlZDYzOTM2MDY3ZTQ3MzhlMTg4ZjMyOGY2YjM0MDNiZjRj",
+  "snapshot_id": "MCwxZWM0YjQ0MTZkMTAwOTg3OGVhY2VmMjgwOTQzOWUyMGQyMzEyYjM2",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1207,22 +1207,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Jes\u00fas Salva",
-        "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
+        "name": "Mis Mejores Dias",
+        "url": "https://open.spotify.com/album/5AIn52y4PZqfcfKAMJuJWx"
       },
       "artists": [
         {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+          "name": "Josu\u00e9 Del Cid",
+          "url": "https://open.spotify.com/artist/5HmMfZ8kvduIyl1TOlWXCs"
         }
       ],
-      "duration_ms": 308253,
-      "name": "Abre hoy los cielos (feat. Evan Craft)",
-      "url": "https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG"
+      "duration_ms": 243200,
+      "name": "Dios es Fiel",
+      "url": "https://open.spotify.com/track/5JIaUt5IGH4zvGErRr91tv"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1243,18 +1239,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Mis Mejores Dias",
-        "url": "https://open.spotify.com/album/5AIn52y4PZqfcfKAMJuJWx"
+        "name": "Jes\u00fas Salva",
+        "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
       },
       "artists": [
         {
-          "name": "Josu\u00e9 Del Cid",
-          "url": "https://open.spotify.com/artist/5HmMfZ8kvduIyl1TOlWXCs"
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
         }
       ],
-      "duration_ms": 243200,
-      "name": "Dios es Fiel",
-      "url": "https://open.spotify.com/track/5JIaUt5IGH4zvGErRr91tv"
+      "duration_ms": 308253,
+      "name": "Abre hoy los cielos (feat. Evan Craft)",
+      "url": "https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG"
     },
     {
       "added_at": "2021-05-21 19:19:27",

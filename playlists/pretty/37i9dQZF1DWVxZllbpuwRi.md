@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 
 > Aqui o verão dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,920 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,902 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 84 | [Pa Ti \(For You\)](https://open.spotify.com/track/2wUgG5Fr9PQcIbKRfVJ76C) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pa Ti + Lonely](https://open.spotify.com/album/006fEVu63b1nSxinsXZgAt) | 3:49 |
 | 85 | [La Oportunidad \- Spotify Singles](https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [La Oportunidad \- Spotify Singles](https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy) | 3:27 |
 | 86 | [Roses \- \(Imanbek Remix\) \[Latino Gang\]](https://open.spotify.com/track/2JCOFv3vvv6HIfw7QOqpIz) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \[\(Imanbek Remix\) \[Latino Gang\]\]](https://open.spotify.com/album/6ccX7hrWPnlaBv1hYLok2u) | 3:28 |
-| 87 | [Balinha de Coração](https://open.spotify.com/track/265PFGoMLp50HHmtbKjvNW) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:16 |
-| 88 | [VERÃO DOS MEUS SONHOS](https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [REALVERSO: Lado A](https://open.spotify.com/album/5MuLBsEBEsPn0gGkIgmpZZ) | 3:09 |
-| 89 | [Silent Sun](https://open.spotify.com/track/6goDGZwcLI6jGJ6qr01Wsq) | [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb), [Sillaz](https://open.spotify.com/artist/7EroDVPELCYcB8zyB2XN9F), [RodMac](https://open.spotify.com/artist/7dbe4S6XKgCPQrZ5YtWOyP) | [Silent Sun](https://open.spotify.com/album/4vJs9flHsFfTPNxzoEwuG3) | 2:51 |
+| 87 | [Silent Sun](https://open.spotify.com/track/6goDGZwcLI6jGJ6qr01Wsq) | [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb), [Sillaz](https://open.spotify.com/artist/7EroDVPELCYcB8zyB2XN9F), [RodMac](https://open.spotify.com/artist/7dbe4S6XKgCPQrZ5YtWOyP) | [Silent Sun](https://open.spotify.com/album/4vJs9flHsFfTPNxzoEwuG3) | 2:51 |
+| 88 | [Balinha de Coração](https://open.spotify.com/track/265PFGoMLp50HHmtbKjvNW) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:16 |
+| 89 | [VERÃO DOS MEUS SONHOS](https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [REALVERSO: Lado A](https://open.spotify.com/album/5MuLBsEBEsPn0gGkIgmpZZ) | 3:09 |
 | 90 | [Ya Tú Me Conoces](https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya Tú Me Conoces](https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj) | 3:15 |
 | 91 | [Para](https://open.spotify.com/track/2VsMPBlyoaMMPyeT90DNBL) | [Gianluca Vacchi](https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Para](https://open.spotify.com/album/3EaB8p7k7eVnFrbfqWOFyN) | 2:57 |
 | 92 | [Sube La Music](https://open.spotify.com/track/2CIJusVSWZKH4XIXxipD0I) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Los Chulitos](https://open.spotify.com/album/61OuBz5Vh5z1n8z6Yu8rlN) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 99 | [POTINHO](https://open.spotify.com/track/7wYZrv7HWbscIMnJZ6hj03) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp), [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [POTINHO](https://open.spotify.com/album/2vhu177PuIf5IZQiuESQG7) | 2:57 |
 | 100 | [FORASTEIRO](https://open.spotify.com/track/0Q42wrYlyvS9pBfBRuE5Dp) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [CHAMA MEU NOME](https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1) | 2:46 |
 
-Snapshot ID: `MCxjYjg2ZTYxM2YzZWRlYTgwNjdjNGFhZmExMmJjZmUzY2U3YTc4NDg0`
+Snapshot ID: `MCxhY2UwYTFkNTkzZTA1NzY2ZjNlOTY2MGYyMjQyMWRlYTYxYzNkNDhk`

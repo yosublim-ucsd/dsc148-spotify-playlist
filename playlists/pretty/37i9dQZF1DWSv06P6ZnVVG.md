@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 
 > ¡Pa' toda la raza carnavalera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,539 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,621 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 13 | [El Condor Pasa](https://open.spotify.com/track/5wmZVCE7vxFr6Gzl6H4fOg) | [Banda RG\. Rancho Grande](https://open.spotify.com/artist/136OmZPTRgtELzB83WdW8g) | [Te Advierto](https://open.spotify.com/album/4T5rNGbPphSO5cBNjDEkNc) | 3:39 |
 | 14 | [Pavido Navido](https://open.spotify.com/track/4TCyAMh1wveeFD1lFVAvIY) | [Banda Estrellas De Sinaloa De German Lizarraga](https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX) | [Justo a Tiempo](https://open.spotify.com/album/5gWA8WBPHPbuQKzndxnFSc) | 2:44 |
 | 15 | [La Chucha](https://open.spotify.com/track/4D0nMy6ertx5YXsmBWux5p) | [Los 3 Del Norteño](https://open.spotify.com/artist/6E56D3DChYTAJTn65CiGDT) | [La Chucha](https://open.spotify.com/album/1PPUm7GpAdJ2HOMgXsYRNo) | 2:10 |
-| 16 | [Un Angel No Debe Llorar](https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84) | [Banda Ola Azul de Zirahuen](https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR) | [Nuestra Historia Musical \(Volumen 1\)](https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r) | 3:13 |
-| 17 | [La Mujer del Pelotero](https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:28 |
+| 16 | [La Mujer del Pelotero](https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:28 |
+| 17 | [Un Angel No Debe Llorar](https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84) | [Banda Ola Azul de Zirahuen](https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR) | [Nuestra Historia Musical \(Volumen 1\)](https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r) | 3:13 |
 | 18 | [Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana](https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Una No Es Ninguna](https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw) | 4:11 |
 | 19 | [El Toro Pinto](https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Exitos](https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj) | 4:49 |
 | 20 | [La Rabia](https://open.spotify.com/track/6vVdR7jAZVVCc4qx2JMLVz) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Bailando Ando](https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss) | 2:14 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 25 | [Las Güilotas](https://open.spotify.com/track/2bCsFEdKi0EXK8GWSkNClD) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Mudanzas A La Luna](https://open.spotify.com/album/6xJfh54aAD89uBv0b8EYIb) | 3:01 |
 | 26 | [Al Estilo Potosí: El Pistolero / Ordeñando la Vaca / Cuando los Frijoles Bailan](https://open.spotify.com/track/1nyMsdNsF6t7Ar88vnudFE) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [De la Ciudad pal' Rancho \(Puro Añuuu Weiii\)](https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ) | 4:24 |
 | 27 | [Arriba Pichataro \(En Vivo\)](https://open.spotify.com/track/7zB01FOcB5PzeuPKv8XPIb) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento En Vivo, Vol\. 2](https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz) | 2:25 |
-| 28 | [El Huitzuqueño](https://open.spotify.com/track/5DGE6ZCHbQU3id35BsHBLI) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [El Toro Meko](https://open.spotify.com/album/3H6XfV5BJvzjOXrnNMhN42) | 3:07 |
-| 29 | [Popurri Sones: Maria Chuchena / Ya Llegué ya Estoy Aquí / Era de Madrugada / Juan Colorado](https://open.spotify.com/track/1jMSzQlX6y0buI1XZX3ebH) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Una Vez Más](https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe) | 4:20 |
+| 28 | [Popurri Sones: Maria Chuchena / Ya Llegué ya Estoy Aquí / Era de Madrugada / Juan Colorado](https://open.spotify.com/track/1jMSzQlX6y0buI1XZX3ebH) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Una Vez Más](https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe) | 4:20 |
+| 29 | [El Huitzuqueño](https://open.spotify.com/track/5DGE6ZCHbQU3id35BsHBLI) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [El Toro Meko](https://open.spotify.com/album/3H6XfV5BJvzjOXrnNMhN42) | 3:07 |
 | 30 | [Mujer Alegre](https://open.spotify.com/track/7eKL6KLXRYboZ74w0138qx) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9), [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Mujer Alegre](https://open.spotify.com/album/5l1c87A41VA7IZijmFfdat) | 3:37 |
 | 31 | [Popurri De Sones Barbaro .\. Son Del Toro / Huitzuqueño / Los Colorados / Las Guacayas](https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [Puros Popurris De Sones](https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ) | 3:19 |
 | 32 | [Chineleando](https://open.spotify.com/track/1VlgSW0BissXc660YW5Yi4) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy) | [Contra Viento y Marea](https://open.spotify.com/album/3UeYQORMpoP5hGyn0udUBo) | 4:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 74 | [La Chiclanera](https://open.spotify.com/track/5LyKsB6bm885BC0NkddszI) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 2:11 |
 | 75 | [Palillos Chinos \(En Vivo\)](https://open.spotify.com/track/4INNovqJJ4umIRINUqQTRJ) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento](https://open.spotify.com/album/4i1HRGH3hUbUN80Yj8ACif) | 2:32 |
 
-Snapshot ID: `MCxmZjNmYTQ1YjNjZDcyZGQzNzc2NTIwNGZmYzhlNGM0ZmI1MTA1NTA1`
+Snapshot ID: `MCxiM2RkZmQ0ZGE3MDYwNWY0YzAwMzg5ZjdlNGE4ZWMzM2RkYjhjZWM0`

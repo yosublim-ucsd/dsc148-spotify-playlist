@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > เปิดให้ดังแล้วฟังเสียงเต็มๆ ของผู้หญิงจากประเทศไทย\. ศิลปิน: PAM ANSHISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,335 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,342 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [Closer \(Clothes Off\)](https://open.spotify.com/track/23siAc5fhlQ0CnWeXDTdI2) | [MATCHA](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Closer \(Clothes Off\)](https://open.spotify.com/album/6GBRwdee7lE4S0OLAwary7) | 3:15 |
 | 50 | [ฉันอยู่เพื่อรักเธอ \(Original Soundtrack "ครูเพ็ญศรีกับเลดี้ปอบ"\)](https://open.spotify.com/track/2b0v8PFfGgbGwfbmhyOvO2) | [Waii](https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC) | [ฉันอยู่เพื่อรักเธอ \(Original Soundtrack "ครูเพ็ญศรีกับเลดี้ปอบ"\)](https://open.spotify.com/album/4ifSnJ5l6Ijjgs9e1zcnWk) | 3:54 |
 
-Snapshot ID: `MCwwMWM4ODU4MWM5NzQ4MTVjMTk0MzI5Y2FlYTA4NDdiMGQ0NDJmNjAw`
+Snapshot ID: `MCxlNzg5NTcxYjkzMjlkZDVjOWRmYzg5YWQxYTQyMjUzOWRmYTUwMWNm`

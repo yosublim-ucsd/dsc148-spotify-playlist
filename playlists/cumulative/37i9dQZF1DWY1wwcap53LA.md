@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Michael Warren
 
-164 songs - 8 hr 27 min
+166 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [America Is My Hometown](https://open.spotify.com/track/0PzkjgdekFhhWPm8bsvcoK) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [America Is My Hometown](https://open.spotify.com/album/50b1BnRjuEuWc32uXcQXbn) | 2:54 | 2022-03-25 | 2023-02-18 |
 | [Another Round](https://open.spotify.com/track/11VDLa4XbXDIPC6rxbpAy1) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [Another Round](https://open.spotify.com/album/1cziB9zkAdtab5TMnmJ8sH) | 3:13 | 2023-01-13 |  |
 | [B.Y.O.B.](https://open.spotify.com/track/0eV8jHjIz5mC4hrDcARzur) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [B.Y.O.B.](https://open.spotify.com/album/5ax0ni9GqPz5ClUlFGw3bR) | 1:48 | 2021-12-03 |  |
-| [Baby I Am](https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2) | 2:56 | 2022-09-16 |  |
+| [Baby I Am](https://open.spotify.com/track/29XXIfVUURyxLnMD5K6OZl) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Never Giving Up On That](https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD) | 2:54 | 2023-09-15 |  |
+| [Baby I Am](https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2) | 2:56 | 2022-09-16 | 2023-09-25 |
 | [Baby I Am](https://open.spotify.com/track/6OSa9hgEvituO2SaaYBiwD) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/44lDYWVwQ1yo5r066GtpSo) | 2:56 | 2021-12-03 | 2022-09-18 |
 | [Ballin'](https://open.spotify.com/track/7v4wYRh7jlMC6vpNKkaLwv) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Ballin'](https://open.spotify.com/album/3p0m9rgUVt5BIDj2BfAoYi) | 1:54 | 2021-12-03 | 2023-02-18 |
 | [Be Like That \- feat\. Swae Lee & Khalid](https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be Like That \(feat\. Swae Lee & Khalid\)](https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp) | 3:11 | 2021-12-03 |  |
@@ -171,6 +172,7 @@
 | [Wrecked](https://open.spotify.com/track/14utDIRjqZIp00XPn6ixVx) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Wrecked](https://open.spotify.com/album/7aTwKQTvJ2g5aoVffmAFXs) | 2:48 | 2022-08-12 |  |
 | [Wrecked](https://open.spotify.com/track/4lWGy4jl5j7UYjjp4imcuP) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Red Dirt Cursed](https://open.spotify.com/album/6ZJaKkfHx5nfEkXXjq3Ond) | 2:48 | 2022-10-14 | 2022-11-13 |
 | [You Got a Small Town](https://open.spotify.com/track/0uxbkVqzKkxeVszRa0LFnb) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/2dRiCtzyR2XKR4mwwU370t) | 2:58 | 2021-12-03 | 2022-09-19 |
-| [You Got a Small Town](https://open.spotify.com/track/1F7UVBrslkA96RCiXxIhQ3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/3VbfZpES3qxhElY7c3DTVk) | 2:58 | 2022-09-16 |  |
+| [You Got a Small Town](https://open.spotify.com/track/1F7UVBrslkA96RCiXxIhQ3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/3VbfZpES3qxhElY7c3DTVk) | 2:58 | 2022-09-16 | 2023-09-25 |
+| [You Got a Small Town](https://open.spotify.com/track/4XETfjmA6u9yy3CSfh1oFL) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Never Giving Up On That](https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD) | 2:59 | 2023-09-15 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-157 songs - 7 hr 51 min
+158 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Je Ne Sais Quoi \(Eurovision 2010\) Orginal Version](https://open.spotify.com/track/48rIGviK0uiZKmXV6QifbE) | [Hera Björk](https://open.spotify.com/artist/1OjcrzJpR5p38qPTskMPU5) | [Je Ne Sais Quoi \(Eurovision 2010\) Orginal Version](https://open.spotify.com/album/4Px3bYcDM3xgfnR3mqMZFG) | 3:00 | 2020-02-25 | 2022-11-13 |
 | [Je t'adore \- Eurovision Mix](https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:02 | 2020-02-25 |  |
 | [La det swinge](https://open.spotify.com/track/0LmEzNrxk0lecRm8X58jiC) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [Bobbysocks!](https://open.spotify.com/album/17nnsL4uzJSeknmZVrlcDT) | 2:53 | 2020-02-25 | 2022-07-28 |
-| [La det swinge](https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [Bobbysocks / Let It Swing \- The Best Of Bobbysocks](https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T) | 2:56 | 2022-03-25 |  |
+| [La Det Swinge](https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [La Det Swinge](https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa) | 2:53 | 2023-05-05 |  |
+| [La det swinge](https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [Bobbysocks / Let It Swing \- The Best Of Bobbysocks](https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T) | 2:56 | 2022-03-25 | 2023-09-25 |
 | [La La Love](https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [La La Love](https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07) | 3:02 | 2020-02-25 |  |
 | [La Voix](https://open.spotify.com/track/4eOtl9eGcrK5asFl2S1HPZ) | [Malena Ernman](https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo) | [La Voix du Nord](https://open.spotify.com/album/5aOtux3Yx9MZV7IBhSVV5B) | 2:57 | 2020-02-25 | 2022-07-29 |
 | [La Voix](https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV) | [Malena Ernman](https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo), [Fredrik Kempe](https://open.spotify.com/artist/5a3wjp9dcWyJitaiwXIsC7) | [La voix du nord](https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml) | 2:57 | 2022-05-16 |  |

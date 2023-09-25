@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 195901,
+  "num_followers": 195917,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjQ0ZjFkMTQwNzMyODM1M2I5NTU0YTFkNTk0NGNiYzBkODAyOTU5",
+  "snapshot_id": "MCwxYzllMjg0MGExYjRlNGM3ODI4NTk5YjYyYTJiZjk1MDg4ZmE0ODYz",
   "tracks": [
     {
       "added_at": "2023-09-21 22:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Sweet Tea",
-        "url": "https://open.spotify.com/album/7KgXqySqEbM0qbJuyhfrXp"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 247957,
-      "name": "Sweet Tea",
-      "url": "https://open.spotify.com/track/2cxtkjiJYEiGD4hcZsjBWr"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Like The River",
         "url": "https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "Sweet Tea",
+        "url": "https://open.spotify.com/album/7KgXqySqEbM0qbJuyhfrXp"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 247957,
+      "name": "Sweet Tea",
+      "url": "https://open.spotify.com/track/2cxtkjiJYEiGD4hcZsjBWr"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "Satellit",
         "url": "https://open.spotify.com/album/69LrfrvfBFYag9DoBuXtep"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Happy Again",
-        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 154125,
-      "name": "Happy Again",
-      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "DOM SKA VETA",
         "url": "https://open.spotify.com/album/1ubnXqf93xsAR7EruzPL5L"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 195518,
       "name": "Vi ska aldrig g\u00e5 hem",
       "url": "https://open.spotify.com/track/7iSuirVvJsBXZ95UEd9vQ0"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 154125,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "Neutronstj\u00e4rnan",
+        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 248293,
+      "name": "Rosor & champagne",
+      "url": "https://open.spotify.com/track/19s1sITOZWsUyCBva6mVs8"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "Tappat - Spotify Singles",
         "url": "https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 150543,
       "name": "Tappat - Spotify Singles",
       "url": "https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "+3 bpm",
-        "url": "https://open.spotify.com/album/7fZMtaTLaGtmxTr92ELKbq"
-      },
-      "artists": [
-        {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
-        }
-      ],
-      "duration_ms": 135318,
-      "name": "Nej tack, det \u00e4r bra!",
-      "url": "https://open.spotify.com/track/3C23RjOroCMUmbdtmpSPX4"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -911,6 +911,22 @@
       "duration_ms": 187664,
       "name": "Vi \u00c4r P\u00e5 Riktigt",
       "url": "https://open.spotify.com/track/6ts0bxk9N8qiVA7UhhFOJY"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "+3 bpm",
+        "url": "https://open.spotify.com/album/7fZMtaTLaGtmxTr92ELKbq"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "duration_ms": 135318,
+      "name": "Nej tack, det \u00e4r bra!",
+      "url": "https://open.spotify.com/track/3C23RjOroCMUmbdtmpSPX4"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Konsten att fly",
-        "url": "https://open.spotify.com/album/7I7LQA7ITDQz76qwgwrxGs"
-      },
-      "artists": [
-        {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
-        }
-      ],
-      "duration_ms": 177053,
-      "name": "V\u00e4ck mig",
-      "url": "https://open.spotify.com/track/3ghOgeif39Qct3OWdRJdZD"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Till slutet av augusti (Live fr\u00e5n Benjamin's)",
         "url": "https://open.spotify.com/album/0wmrMW1NPeZvpPa3dKKypR"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 250635,
       "name": "Till slutet av augusti - Live fr\u00e5n Benjamin's",
       "url": "https://open.spotify.com/track/4DADoG4Te1jpbBBCbj7hiH"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Konsten att fly",
+        "url": "https://open.spotify.com/album/7I7LQA7ITDQz76qwgwrxGs"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "duration_ms": 177053,
+      "name": "V\u00e4ck mig",
+      "url": "https://open.spotify.com/track/3ghOgeif39Qct3OWdRJdZD"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Happier",
-        "url": "https://open.spotify.com/album/0WRCq5vjaNyOcVNRJaWNnM"
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
       },
       "artists": [
         {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
         }
       ],
-      "duration_ms": 173437,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/4cnHZj69PHA7h8QZxeOX6l"
+      "duration_ms": 180578,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1091,38 +1107,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Easy Go!",
-        "url": "https://open.spotify.com/album/5mp8GvPoshWM2qVTcX3Trk"
-      },
-      "artists": [
-        {
-          "name": "Raghd",
-          "url": "https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw"
-        }
-      ],
-      "duration_ms": 150308,
-      "name": "Easy Go!",
-      "url": "https://open.spotify.com/track/6k2qNuSSwA3qK0af7Lz2N5"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "All My Friends",
-        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 180578,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "V\u00e4ntar p\u00e5 en solig dag",
         "url": "https://open.spotify.com/album/0ZIEy5kwu7qDDDbPR0P4Jk"
       },
@@ -1135,6 +1119,38 @@
       "duration_ms": 323186,
       "name": "V\u00e4ntar p\u00e5 en solig dag",
       "url": "https://open.spotify.com/track/0rNfJBoTQWZvTyJoKz8QAT"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Happier",
+        "url": "https://open.spotify.com/album/0WRCq5vjaNyOcVNRJaWNnM"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "duration_ms": 173437,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/4cnHZj69PHA7h8QZxeOX6l"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Easy Go!",
+        "url": "https://open.spotify.com/album/5mp8GvPoshWM2qVTcX3Trk"
+      },
+      "artists": [
+        {
+          "name": "Raghd",
+          "url": "https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw"
+        }
+      ],
+      "duration_ms": 150308,
+      "name": "Easy Go!",
+      "url": "https://open.spotify.com/track/6k2qNuSSwA3qK0af7Lz2N5"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1155,26 +1171,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Call Me By Your Name",
-        "url": "https://open.spotify.com/album/0An6hUMasLgdJO5n2ZaLVO"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        },
-        {
-          "name": "Claudia Neuser",
-          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Call Me By Your Name",
-      "url": "https://open.spotify.com/track/1fJ3YZVLYkoMYDvrAqDf0M"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Genom eld (Spotify Singles)",
         "url": "https://open.spotify.com/album/4VKWJKb38zp0Af7WURVc0n"
       },
@@ -1187,22 +1183,6 @@
       "duration_ms": 166875,
       "name": "Genom eld - Spotify Singles",
       "url": "https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Neutronstj\u00e4rnan",
-        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
-      },
-      "artists": [
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
-        }
-      ],
-      "duration_ms": 248293,
-      "name": "Rosor & champagne",
-      "url": "https://open.spotify.com/track/19s1sITOZWsUyCBva6mVs8"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1275,6 +1255,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "Dead Man Walking",
+        "url": "https://open.spotify.com/album/1gW2Nl2haUPLXN2FNHVpsb"
+      },
+      "artists": [
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+        }
+      ],
+      "duration_ms": 177915,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/5X4EeFwgG6YYzU7xRt96RH"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "Mercedes",
         "url": "https://open.spotify.com/album/7KNuwMOtD6dFvliy5Ctv4m"
       },
@@ -1287,6 +1283,26 @@
       "duration_ms": 176426,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/6A8ZgOPEkhlGkyldDJGXtZ"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Call Me By Your Name",
+        "url": "https://open.spotify.com/album/0An6hUMasLgdJO5n2ZaLVO"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        },
+        {
+          "name": "Claudia Neuser",
+          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Call Me By Your Name",
+      "url": "https://open.spotify.com/track/1fJ3YZVLYkoMYDvrAqDf0M"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1311,38 +1327,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "She Fell In Love In The Summer",
-        "url": "https://open.spotify.com/album/2vO4UQ2hygAsDK99O6wnWN"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        }
-      ],
-      "duration_ms": 172215,
-      "name": "She Fell In Love In The Summer",
-      "url": "https://open.spotify.com/track/5ANOz0vfUZMisrIG3n6IBv"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Dead Man Walking",
-        "url": "https://open.spotify.com/album/1gW2Nl2haUPLXN2FNHVpsb"
-      },
-      "artists": [
-        {
-          "name": "SVEA",
-          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
-        }
-      ],
-      "duration_ms": 177915,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/5X4EeFwgG6YYzU7xRt96RH"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Du f\u00f6rtj\u00e4nar det",
         "url": "https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn"
       },
@@ -1355,22 +1339,6 @@
       "duration_ms": 199657,
       "name": "Du f\u00f6rtj\u00e4nar det",
       "url": "https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6"
-      },
-      "artists": [
-        {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
-        }
-      ],
-      "duration_ms": 192970,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1391,22 +1359,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Tack vare dig",
-        "url": "https://open.spotify.com/album/6MdYecbKxByYEUQqH8Lzkp"
-      },
-      "artists": [
-        {
-          "name": "Mwuana",
-          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Tack vare dig",
-      "url": "https://open.spotify.com/track/72COIJY2DM001e9tLVtYaX"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "i'm tired",
         "url": "https://open.spotify.com/album/1ZkucnleyUxjL4kSkTzcps"
       },
@@ -1423,6 +1375,26 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "Slipping Into Color",
+        "url": "https://open.spotify.com/album/6kuxykEjfFWmGv8IwXlmrO"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        },
+        {
+          "name": "April + VISTA",
+          "url": "https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj"
+        }
+      ],
+      "duration_ms": 225764,
+      "name": "Slumber",
+      "url": "https://open.spotify.com/track/0oF0OIjGA5DGl7WkyHjSXz"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "Worst Mom",
         "url": "https://open.spotify.com/album/2yJGak5X0vnrCtydSe1xau"
       },
@@ -1435,6 +1407,54 @@
       "duration_ms": 181080,
       "name": "Worst Mom",
       "url": "https://open.spotify.com/track/4EqDdwHM4tgzTZebfqBEXd"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "duration_ms": 192970,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Tack vare dig",
+        "url": "https://open.spotify.com/album/6MdYecbKxByYEUQqH8Lzkp"
+      },
+      "artists": [
+        {
+          "name": "Mwuana",
+          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Tack vare dig",
+      "url": "https://open.spotify.com/track/72COIJY2DM001e9tLVtYaX"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "She Fell In Love In The Summer",
+        "url": "https://open.spotify.com/album/2vO4UQ2hygAsDK99O6wnWN"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "duration_ms": 172215,
+      "name": "She Fell In Love In The Summer",
+      "url": "https://open.spotify.com/track/5ANOz0vfUZMisrIG3n6IBv"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1559,6 +1579,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn"
+      },
+      "artists": [
+        {
+          "name": "Paula Jiv\u00e9n",
+          "url": "https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D"
+        }
+      ],
+      "duration_ms": 171899,
+      "name": "Pluto - Bonus Track",
+      "url": "https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "Vatten",
         "url": "https://open.spotify.com/album/1TdBDgXrb8ELHqUKDl9uUa"
       },
@@ -1571,22 +1607,6 @@
       "duration_ms": 198986,
       "name": "Socker Och Vatten",
       "url": "https://open.spotify.com/track/4fGEODf7h2D1wtxE9SAaKE"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/0JRRrUZE1e1CIPIyePoJJg"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 189529,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/4x92YZy4mfx7cDmEok90kx"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1607,6 +1627,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/0JRRrUZE1e1CIPIyePoJJg"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 189529,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/4x92YZy4mfx7cDmEok90kx"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "Symfoni",
         "url": "https://open.spotify.com/album/2dYBO9CDVhABuAuX8lynWI"
       },
@@ -1623,38 +1659,6 @@
       "duration_ms": 178706,
       "name": "Symfoni",
       "url": "https://open.spotify.com/track/38MnFblJDWzj85GVosVhVX"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn"
-      },
-      "artists": [
-        {
-          "name": "Paula Jiv\u00e9n",
-          "url": "https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D"
-        }
-      ],
-      "duration_ms": 171899,
-      "name": "Pluto - Bonus Track",
-      "url": "https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Grammofon",
-        "url": "https://open.spotify.com/album/3F96hsqQCY2BnC3UTf5wm2"
-      },
-      "artists": [
-        {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
-        }
-      ],
-      "duration_ms": 189625,
-      "name": "Grammofon",
-      "url": "https://open.spotify.com/track/6wT8TBV3CkKbNvuDjxeGaa"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1691,46 +1695,34 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Say That Everything Will Be Alright (Music for ''Thin Blue Line'')",
-        "url": "https://open.spotify.com/album/0XmKdoMNtmqDp5oYJrXhMm"
+        "name": "Grammofon",
+        "url": "https://open.spotify.com/album/3F96hsqQCY2BnC3UTf5wm2"
       },
       "artists": [
         {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
-        },
-        {
-          "name": "Irya Gmeyner",
-          "url": "https://open.spotify.com/artist/3No4e9xTmvsjOeORRfPi6x"
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
         }
       ],
-      "duration_ms": 212432,
-      "name": "Say That Everything Will Be Alright (Music for ''Thin Blue Line'')",
-      "url": "https://open.spotify.com/track/0EA61Q5q4scc29VfvnmAgO"
+      "duration_ms": 189625,
+      "name": "Grammofon",
+      "url": "https://open.spotify.com/track/6wT8TBV3CkKbNvuDjxeGaa"
     },
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Missaoui",
-        "url": "https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn"
+        "name": "Dina \u00d6gon",
+        "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
       },
       "artists": [
         {
-          "name": "Cleo",
-          "url": "https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs"
-        },
-        {
-          "name": "Fricky",
-          "url": "https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2"
-        },
-        {
-          "name": "Academics",
-          "url": "https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg"
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
         }
       ],
-      "duration_ms": 283626,
-      "name": "Landet i fj\u00e4rran",
-      "url": "https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw"
+      "duration_ms": 237986,
+      "name": "Tombola 94",
+      "url": "https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI"
     }
   ],
   "unique_name": "Made in Sweden",

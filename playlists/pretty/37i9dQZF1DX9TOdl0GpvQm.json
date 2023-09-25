@@ -1,12 +1,12 @@
 {
   "description": "Walk the threshold into the netherworld...",
-  "num_followers": 126987,
+  "num_followers": 127049,
   "original_name": "Hauntology",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzUyMzZhYmI4MTQ1ZGUzNmZjODAwYjMzMmRiM2ZiMjIwNTc1ZDEw",
+  "snapshot_id": "MCw5MzY2M2Y3NzE0MzBmOGY4YzJkY2FjMzBkNDdkMTA2MjUwMDdhYTMw",
   "tracks": [
     {
       "added_at": "2021-10-27 14:20:30",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/4mqFrT3oGrx9dvSm0cbjJK"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Traces of Time",
-        "url": "https://open.spotify.com/album/2HnWEjopC87eePuc3NAbqr"
-      },
-      "artists": [
-        {
-          "name": "Emerald Web",
-          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
-        }
-      ],
-      "duration_ms": 716373,
-      "name": "Valley of the Birds",
-      "url": "https://open.spotify.com/track/02Zatp9qpcjzaO6JdjWLRK"
-    },
-    {
       "added_at": "2022-05-24 01:06:30",
       "album": {
         "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
@@ -575,18 +559,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "L'illustration Musicale",
-        "url": "https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1"
+        "name": "Traces of Time",
+        "url": "https://open.spotify.com/album/2HnWEjopC87eePuc3NAbqr"
       },
       "artists": [
         {
-          "name": "King Of Woolworths",
-          "url": "https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd"
+          "name": "Emerald Web",
+          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
         }
       ],
-      "duration_ms": 370800,
-      "name": "Delia Derbyshire",
-      "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
+      "duration_ms": 716373,
+      "name": "Valley of the Birds",
+      "url": "https://open.spotify.com/track/02Zatp9qpcjzaO6JdjWLRK"
     },
     {
       "added_at": "2022-03-11 06:00:33",
@@ -609,6 +593,22 @@
       "url": "https://open.spotify.com/track/2Zu8GTKVR2iXR3ZJIbbky3"
     },
     {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "L'illustration Musicale",
+        "url": "https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1"
+      },
+      "artists": [
+        {
+          "name": "King Of Woolworths",
+          "url": "https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd"
+        }
+      ],
+      "duration_ms": 370800,
+      "name": "Delia Derbyshire",
+      "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
+    },
+    {
       "added_at": "2022-02-25 03:58:22",
       "album": {
         "name": "Director",
@@ -623,6 +623,22 @@
       "duration_ms": 129953,
       "name": "Broken Theme",
       "url": "https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ"
+    },
+    {
+      "added_at": "2022-09-03 03:46:33",
+      "album": {
+        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
+        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "duration_ms": 160441,
+      "name": "Kommissar Brenkstrupp (Main Titles)",
+      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
     },
     {
       "added_at": "2022-08-22 21:35:06",
@@ -705,54 +721,6 @@
       "url": "https://open.spotify.com/track/4svWhqInElR6EybNv6UKRT"
     },
     {
-      "added_at": "2022-09-26 22:27:43",
-      "album": {
-        "name": "Variations For Piano & Tape",
-        "url": "https://open.spotify.com/album/3YajhQtcNYZbLooxeVp4KA"
-      },
-      "artists": [
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 2677133,
-      "name": "Variation #9: Pantelleria",
-      "url": "https://open.spotify.com/track/2OdF7JWprGAps570PA57dS"
-    },
-    {
-      "added_at": "2022-09-03 03:46:33",
-      "album": {
-        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
-        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
-      },
-      "artists": [
-        {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
-        }
-      ],
-      "duration_ms": 160441,
-      "name": "Kommissar Brenkstrupp (Main Titles)",
-      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Work And Non Work",
-        "url": "https://open.spotify.com/album/6BwEy6Zz4U5y09nbSJQE2j"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/3nwOKUn3QuT4UxJnB3dR8r"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "The Gone Away",
@@ -769,20 +737,20 @@
       "url": "https://open.spotify.com/track/5NDgIlcWR69yxix0SsI9jO"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
+      "added_at": "2022-09-26 22:27:43",
       "album": {
-        "name": "Across The Meridian",
-        "url": "https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg"
+        "name": "Variations For Piano & Tape",
+        "url": "https://open.spotify.com/album/3YajhQtcNYZbLooxeVp4KA"
       },
       "artists": [
         {
-          "name": "Pram",
-          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
         }
       ],
-      "duration_ms": 195346,
-      "name": "Shimmer and Disappear",
-      "url": "https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW"
+      "duration_ms": 2677133,
+      "name": "Variation #9: Pantelleria",
+      "url": "https://open.spotify.com/track/2OdF7JWprGAps570PA57dS"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -803,18 +771,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Garden Of Delete",
-        "url": "https://open.spotify.com/album/0B0pnJCB4ECF12VNo49p6g"
+        "name": "Work And Non Work",
+        "url": "https://open.spotify.com/album/6BwEy6Zz4U5y09nbSJQE2j"
       },
       "artists": [
         {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
         }
       ],
-      "duration_ms": 234938,
-      "name": "Animals",
-      "url": "https://open.spotify.com/track/0acBwRDpjauwpGXKSg5wCD"
+      "duration_ms": 211933,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/3nwOKUn3QuT4UxJnB3dR8r"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -835,6 +803,38 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
+        "name": "Lost Themes III: Alive After Death",
+        "url": "https://open.spotify.com/album/2GYD5j8wa4kEhlmN5GGiUT"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Alive After Death",
+      "url": "https://open.spotify.com/track/56HDKqe05gKgHddLWspkPP"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Across The Meridian",
+        "url": "https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg"
+      },
+      "artists": [
+        {
+          "name": "Pram",
+          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
+        }
+      ],
+      "duration_ms": 195346,
+      "name": "Shimmer and Disappear",
+      "url": "https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
         "name": "In Fabric OST",
         "url": "https://open.spotify.com/album/56h30DA2RokyYVDobT2U5a"
       },
@@ -851,18 +851,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Lost Themes III: Alive After Death",
-        "url": "https://open.spotify.com/album/2GYD5j8wa4kEhlmN5GGiUT"
+        "name": "Garden Of Delete",
+        "url": "https://open.spotify.com/album/0B0pnJCB4ECF12VNo49p6g"
       },
       "artists": [
         {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
         }
       ],
-      "duration_ms": 244666,
-      "name": "Alive After Death",
-      "url": "https://open.spotify.com/track/56HDKqe05gKgHddLWspkPP"
+      "duration_ms": 234938,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/0acBwRDpjauwpGXKSg5wCD"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/5VO5rqasOHmiRwTIOsXZrd"
     },
     {
-      "added_at": "2023-05-09 00:58:52",
-      "album": {
-        "name": "4:23",
-        "url": "https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ"
-      },
-      "artists": [
-        {
-          "name": "MIKE DEAN",
-          "url": "https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc"
-        }
-      ],
-      "duration_ms": 216665,
-      "name": "118k",
-      "url": "https://open.spotify.com/track/2zQPgkGPNxiCrbaBXKfBn1"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Sleep Games",
@@ -911,6 +895,22 @@
       "duration_ms": 309334,
       "name": "The Black Mill Video Tape",
       "url": "https://open.spotify.com/track/4AAmFIGUbQ4xnht6tyCOVk"
+    },
+    {
+      "added_at": "2023-05-09 00:58:52",
+      "album": {
+        "name": "4:23",
+        "url": "https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ"
+      },
+      "artists": [
+        {
+          "name": "MIKE DEAN",
+          "url": "https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc"
+        }
+      ],
+      "duration_ms": 216665,
+      "name": "118k",
+      "url": "https://open.spotify.com/track/2zQPgkGPNxiCrbaBXKfBn1"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -961,26 +961,6 @@
       "url": "https://open.spotify.com/track/4rAy9yzIm5tmsaTnHeJ892"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "The Power (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Ii8EDJc135TrI3uwSPbUk"
-      },
-      "artists": [
-        {
-          "name": "Gazelle Twin",
-          "url": "https://open.spotify.com/artist/0O9n1swkbCd1KqV2QrSVHl"
-        },
-        {
-          "name": "Max de Wardener",
-          "url": "https://open.spotify.com/artist/0Nz05huPXhsMC0iyVVlqZG"
-        }
-      ],
-      "duration_ms": 96597,
-      "name": "First Day",
-      "url": "https://open.spotify.com/track/4jqVZEFZJPpSdnwPKPAdg3"
-    },
-    {
       "added_at": "2022-07-15 05:23:56",
       "album": {
         "name": "Kof\u016b",
@@ -1011,6 +991,26 @@
       "duration_ms": 237373,
       "name": "Chrysalis",
       "url": "https://open.spotify.com/track/66S2XAQ2hPYoeZh62yHfUB"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "The Power (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Ii8EDJc135TrI3uwSPbUk"
+      },
+      "artists": [
+        {
+          "name": "Gazelle Twin",
+          "url": "https://open.spotify.com/artist/0O9n1swkbCd1KqV2QrSVHl"
+        },
+        {
+          "name": "Max de Wardener",
+          "url": "https://open.spotify.com/artist/0Nz05huPXhsMC0iyVVlqZG"
+        }
+      ],
+      "duration_ms": 96597,
+      "name": "First Day",
+      "url": "https://open.spotify.com/track/4jqVZEFZJPpSdnwPKPAdg3"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Galactic Sounds",
-        "url": "https://open.spotify.com/album/2rp2et7vphJtxSniKKD85T"
-      },
-      "artists": [
-        {
-          "name": "Retep Folo",
-          "url": "https://open.spotify.com/artist/0b3JoBlAB8qvm40kPJe2yU"
-        }
-      ],
-      "duration_ms": 130582,
-      "name": "Galactic Pulse",
-      "url": "https://open.spotify.com/track/6tgs5jLx331P1rjGeSLoZV"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "D.O.A. The Third and Final Report of Throbbing Gristle (Remastered)",
         "url": "https://open.spotify.com/album/5Mbw7VLJdYGYbwWBUbPPgi"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 249023,
       "name": "Hamburger Lady - Remastered",
       "url": "https://open.spotify.com/track/7eAewwhDIvqRKaIuRp71Sv"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Galactic Sounds",
+        "url": "https://open.spotify.com/album/2rp2et7vphJtxSniKKD85T"
+      },
+      "artists": [
+        {
+          "name": "Retep Folo",
+          "url": "https://open.spotify.com/artist/0b3JoBlAB8qvm40kPJe2yU"
+        }
+      ],
+      "duration_ms": 130582,
+      "name": "Galactic Pulse",
+      "url": "https://open.spotify.com/track/6tgs5jLx331P1rjGeSLoZV"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Broadcast And The Focus Group Investigate Witch Cults Of The Radio Age",
-        "url": "https://open.spotify.com/album/6LjY0vS5SEQfk8hjdWhCVV"
-      },
-      "artists": [
-        {
-          "name": "Broadcast And The Focus Group",
-          "url": "https://open.spotify.com/artist/7eYaQFJFmY2XYlZyf8SZhv"
-        }
-      ],
-      "duration_ms": 271853,
-      "name": "the be colony",
-      "url": "https://open.spotify.com/track/4Eqp1Eo7niTd574CMKpJGr"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "Valerie and Her Week of Wonders",
         "url": "https://open.spotify.com/album/7kMA3RbOjYLJ2igWgihhPY"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 162619,
       "name": "Valerie a T\u00fdden Divu - Main Theme Edit",
       "url": "https://open.spotify.com/track/143kjcTccAOt8Wd2UzAgqk"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Broadcast And The Focus Group Investigate Witch Cults Of The Radio Age",
+        "url": "https://open.spotify.com/album/6LjY0vS5SEQfk8hjdWhCVV"
+      },
+      "artists": [
+        {
+          "name": "Broadcast And The Focus Group",
+          "url": "https://open.spotify.com/artist/7eYaQFJFmY2XYlZyf8SZhv"
+        }
+      ],
+      "duration_ms": 271853,
+      "name": "the be colony",
+      "url": "https://open.spotify.com/track/4Eqp1Eo7niTd574CMKpJGr"
     },
     {
       "added_at": "2022-09-26 22:17:41",
@@ -1221,22 +1221,6 @@
       "url": "https://open.spotify.com/track/7a6Wi2bVkphjCOfLfQeaTr"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Black Mass",
-        "url": "https://open.spotify.com/album/32EFJNagV5NXoVUAu6WyG8"
-      },
-      "artists": [
-        {
-          "name": "Lucifer",
-          "url": "https://open.spotify.com/artist/2RpuZ69WQJXU2YMl0oAw1m"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Solomon's Rising",
-      "url": "https://open.spotify.com/track/15QDc2N1Uo2FM8oYV6IA1J"
-    },
-    {
       "added_at": "2022-03-11 06:00:33",
       "album": {
         "name": "Recordings from the \u00c5land Islands",
@@ -1255,6 +1239,22 @@
       "duration_ms": 222400,
       "name": "Under the Midnight Sun",
       "url": "https://open.spotify.com/track/01OqcCMrDvoVvNdIPAy92B"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Black Mass",
+        "url": "https://open.spotify.com/album/32EFJNagV5NXoVUAu6WyG8"
+      },
+      "artists": [
+        {
+          "name": "Lucifer",
+          "url": "https://open.spotify.com/artist/2RpuZ69WQJXU2YMl0oAw1m"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Solomon's Rising",
+      "url": "https://open.spotify.com/track/15QDc2N1Uo2FM8oYV6IA1J"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/1SciwnxrXz7WNUfcqH6lqF"
     },
     {
-      "added_at": "2023-07-24 18:41:05",
-      "album": {
-        "name": "Machine 2",
-        "url": "https://open.spotify.com/album/36qI4zOpB5Cya05BKEK2wZ"
-      },
-      "artists": [
-        {
-          "name": "The Bug",
-          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
-        }
-      ],
-      "duration_ms": 215950,
-      "name": "Sickness(Slowly dying)",
-      "url": "https://open.spotify.com/track/4SIulYErjs37Kk6A7zxwd6"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Broadcast And The Focus Group Investigate Witch Cults Of The Radio Age",
@@ -1337,20 +1321,20 @@
       "url": "https://open.spotify.com/track/2GuZ0I1IToF2FTiXhfaRc6"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
+      "added_at": "2023-07-24 18:41:05",
       "album": {
-        "name": "Los Desamores de Dewey Martino",
-        "url": "https://open.spotify.com/album/2piXKaen2vZtVg4ZDDUtYg"
+        "name": "Machine 2",
+        "url": "https://open.spotify.com/album/36qI4zOpB5Cya05BKEK2wZ"
       },
       "artists": [
         {
-          "name": "Dewey Martino",
-          "url": "https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX"
+          "name": "The Bug",
+          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Sopa De Salsa",
-      "url": "https://open.spotify.com/track/4Tqxf3WLxqmYaiRIcDVxQ7"
+      "duration_ms": 215950,
+      "name": "Sickness(Slowly dying)",
+      "url": "https://open.spotify.com/track/4SIulYErjs37Kk6A7zxwd6"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1367,6 +1351,22 @@
       "duration_ms": 185773,
       "name": "Flight of the Raven",
       "url": "https://open.spotify.com/track/6PVBbkAbQVb9PxordrVHa8"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Los Desamores de Dewey Martino",
+        "url": "https://open.spotify.com/album/2piXKaen2vZtVg4ZDDUtYg"
+      },
+      "artists": [
+        {
+          "name": "Dewey Martino",
+          "url": "https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Sopa De Salsa",
+      "url": "https://open.spotify.com/track/4Tqxf3WLxqmYaiRIcDVxQ7"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1437,22 +1437,6 @@
       "url": "https://open.spotify.com/track/656AfjtJiPra3BmDJihzbA"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
-        "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
-      },
-      "artists": [
-        {
-          "name": "Wilburn Burchette",
-          "url": "https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ"
-        }
-      ],
-      "duration_ms": 297440,
-      "name": "Witch's Will",
-      "url": "https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy"
-    },
-    {
       "added_at": "2022-04-06 03:05:40",
       "album": {
         "name": "Their Dark Dominion",
@@ -1467,6 +1451,22 @@
       "duration_ms": 176652,
       "name": "Moonlight and Magic",
       "url": "https://open.spotify.com/track/3cSV9CdfTgLo6z7NtFZjtK"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
+        "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
+      },
+      "artists": [
+        {
+          "name": "Wilburn Burchette",
+          "url": "https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ"
+        }
+      ],
+      "duration_ms": 297440,
+      "name": "Witch's Will",
+      "url": "https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy"
     },
     {
       "added_at": "2021-10-27 14:20:30",

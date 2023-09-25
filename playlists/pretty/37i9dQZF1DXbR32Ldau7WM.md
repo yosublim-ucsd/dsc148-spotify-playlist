@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now! Cover: THE BACK HORN
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,209 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,252 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 79 | [ハルジオン](https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ハルジオン](https://open.spotify.com/album/49qXfXRHzvvCaGOnSTFCST) | 3:58 |
 | 80 | [Stray Hearts](https://open.spotify.com/track/3sqx01xjg7G7Fehge1YqUP) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Stray Hearts](https://open.spotify.com/album/4vBh1pUF953y5Sf6Y9A3Su) | 4:33 |
 
-Snapshot ID: `MCw0NTI5ZDVkMTg1M2ZkMmNiZDRmYzA2NjBkZTZjODY2ZWUwZDJmOWIz`
+Snapshot ID: `MCw5YjlhZDFmNThjOTRkMTVkNGNiYWI2OTE3ZGMwNDQ5ODNhMDlkOGRm`

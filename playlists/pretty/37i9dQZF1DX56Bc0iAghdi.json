@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
-  "num_followers": 25894,
+  "num_followers": 25917,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWU1MzMwMWQxZjAzYWQyZmM3ZTIwYWU3ZjRhYmE0MTdhM2NiNDRm",
+  "snapshot_id": "MCw2ZTNmN2QxODA5OTA0YWY1ZTkxZjhiZGI3ZmZjMWNjMDc2YzllMmEw",
   "tracks": [
     {
       "added_at": "2023-02-18 06:22:02",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Wild Blue, Part I",
-        "url": "https://open.spotify.com/album/3xDD4CKNUEVmhOL1IY8MAL"
-      },
-      "artists": [
-        {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "Dear God",
-      "url": "https://open.spotify.com/track/6k9nsVCSf6QO1WnFsCsmVf"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "The Elements",
         "url": "https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 261398,
       "name": "Scars (Come With Livin')",
       "url": "https://open.spotify.com/track/5CYMOjWrVWZqHGv2ObF5mr"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "Wild Blue, Part I",
+        "url": "https://open.spotify.com/album/3xDD4CKNUEVmhOL1IY8MAL"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "Dear God",
+      "url": "https://open.spotify.com/track/6k9nsVCSf6QO1WnFsCsmVf"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Love Me Like You (TYE Remix)",
-        "url": "https://open.spotify.com/album/7t1QRFDMpYbZPFnirwkU3q"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Love Me Like You - TYE Remix",
-      "url": "https://open.spotify.com/track/67uQCds7ugUZn3TZUhc5dB"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "Sweet Water",
         "url": "https://open.spotify.com/album/05T3jbSK1BqRRvSU5q0P9Q"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Twenty Four Seven",
-        "url": "https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn"
+        "name": "Love Me Like You (TYE Remix)",
+        "url": "https://open.spotify.com/album/7t1QRFDMpYbZPFnirwkU3q"
       },
       "artists": [
         {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
         }
       ],
-      "duration_ms": 186513,
-      "name": "Fanatic",
-      "url": "https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe"
+      "duration_ms": 203000,
+      "name": "Love Me Like You - TYE Remix",
+      "url": "https://open.spotify.com/track/67uQCds7ugUZn3TZUhc5dB"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -499,6 +483,22 @@
       "duration_ms": 154624,
       "name": "Radical",
       "url": "https://open.spotify.com/track/1Y9JQO7FizZV8zLuy509I8"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "Twenty Four Seven",
+        "url": "https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "duration_ms": 186513,
+      "name": "Fanatic",
+      "url": "https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Listen More",
-        "url": "https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS"
-      },
-      "artists": [
-        {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Listen More",
-      "url": "https://open.spotify.com/track/0dgUhMtrxfWOvBT7SoVrty"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "Pep Talks",
         "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 144629,
       "name": "Joyboy",
       "url": "https://open.spotify.com/track/5fehE0eNK1ZrDgrTUJczNy"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "Listen More",
+        "url": "https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Listen More",
+      "url": "https://open.spotify.com/track/0dgUhMtrxfWOvBT7SoVrty"
     },
     {
       "added_at": "2023-02-18 06:22:02",

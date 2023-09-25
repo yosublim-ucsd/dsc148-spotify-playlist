@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 2018927,
+  "num_followers": 2019094,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWFjNzU3YWUwNDQ3ZGUxMDAyN2U1ZDk1NDhlMzY1NDViMzUxZmM4",
+  "snapshot_id": "MCwwNGM0ODc0OGJlOWZjOGI1OTQxYmRkM2RjM2I5MTBiOWJkODZhYzFh",
   "tracks": [
     {
       "added_at": "2023-09-01 04:21:06",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-09-01 04:21:06",
       "album": {
+        "name": "Dos Mundos - Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB"
+    },
+    {
+      "added_at": "2023-09-01 04:21:06",
+      "album": {
         "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 306453,
       "name": "Yo Tambi\u00e9n (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV"
-    },
-    {
-      "added_at": "2023-09-01 04:21:06",
-      "album": {
-        "name": "Dos Mundos - Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB"
     },
     {
       "added_at": "2023-09-01 04:21:06",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-01 04:21:06",
       "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
-    },
-    {
-      "added_at": "2023-09-01 04:21:06",
-      "album": {
         "name": "Un A\u00f1o",
         "url": "https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 164440,
       "name": "Un A\u00f1o",
       "url": "https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp"
+    },
+    {
+      "added_at": "2023-09-01 04:21:06",
+      "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
     },
     {
       "added_at": "2023-09-01 04:21:06",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-09-01 04:21:06",
       "album": {
-        "name": "De Adentro Pa Afuera",
-        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Aeropuerto",
-      "url": "https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp"
-    },
-    {
-      "added_at": "2023-09-01 04:21:06",
-      "album": {
         "name": "A la Mar",
         "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2023-09-01 04:21:06",
       "album": {
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Aeropuerto",
+      "url": "https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp"
+    },
+    {
+      "added_at": "2023-09-01 04:21:06",
+      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 219640,
       "name": "Amarillo",
       "url": "https://open.spotify.com/track/5Qn56ssVeZJfNwDCme7Eo0"
+    },
+    {
+      "added_at": "2023-09-01 04:21:06",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 203753,
+      "name": "Contigo En La Distancia",
+      "url": "https://open.spotify.com/track/03oCjV73Utu9KpXrgcqoTJ"
     },
     {
       "added_at": "2023-09-01 04:21:06",
@@ -1159,22 +1175,6 @@
       "duration_ms": 221293,
       "name": "S\u00f3lo D\u00e9jate Amar",
       "url": "https://open.spotify.com/track/7mUFcQWYwoRxRa5ZfI2mHG"
-    },
-    {
-      "added_at": "2023-09-01 04:21:06",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 203753,
-      "name": "Contigo En La Distancia",
-      "url": "https://open.spotify.com/track/03oCjV73Utu9KpXrgcqoTJ"
     },
     {
       "added_at": "2023-09-01 04:21:06",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-09-01 04:21:06",
       "album": {
-        "name": "NUEVE",
-        "url": "https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 171661,
-      "name": "NEGRO MATE",
-      "url": "https://open.spotify.com/track/2OsclrHyXnqYmKm6ji1vij"
-    },
-    {
-      "added_at": "2023-09-01 04:21:06",
-      "album": {
         "name": "Tiburones",
         "url": "https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 193975,
       "name": "Tiburones",
       "url": "https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM"
+    },
+    {
+      "added_at": "2023-09-01 04:21:06",
+      "album": {
+        "name": "NUEVE",
+        "url": "https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 171661,
+      "name": "NEGRO MATE",
+      "url": "https://open.spotify.com/track/2OsclrHyXnqYmKm6ji1vij"
     },
     {
       "added_at": "2023-09-01 04:21:06",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-09-01 04:21:06",
       "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "Beso En Las Rocas",
+      "url": "https://open.spotify.com/track/63hQU0ll74dtGBDMcyvdEC"
+    },
+    {
+      "added_at": "2023-09-01 04:21:06",
+      "album": {
         "name": "Y Si Me Enamoro",
         "url": "https://open.spotify.com/album/4g9alQMKvuCo6zzynC8JjV"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 215006,
       "name": "Y Si Me Enamoro",
       "url": "https://open.spotify.com/track/6un86RuZV1YnULXENqd2Sn"
-    },
-    {
-      "added_at": "2023-09-01 04:21:06",
-      "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "Beso En Las Rocas",
-      "url": "https://open.spotify.com/track/63hQU0ll74dtGBDMcyvdEC"
     },
     {
       "added_at": "2023-09-01 04:21:06",

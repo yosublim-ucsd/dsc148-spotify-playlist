@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 406151,
+  "num_followers": 406391,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWYyMWUyODE2ZjliMTVkYzgyNzkwOTkzZjI2M2ZkMDUzNGJkMGIw",
+  "snapshot_id": "MCw5N2QyYTkxMWIzZDhmMDA2ZDA0YjUxOTdkMGE5M2RjNjQ0NDU5ZTM3",
   "tracks": [
     {
       "added_at": "2023-04-19 21:20:11",
@@ -407,22 +407,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "FIRE ON MARZZ",
-        "url": "https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 153213,
-      "name": "Evil Spider",
-      "url": "https://open.spotify.com/track/0jeJE3TUJ5FrRuVLr7w4JQ"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Assume Form",
         "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 222400,
       "name": "I'll Come Too",
       "url": "https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "FIRE ON MARZZ",
+        "url": "https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 153213,
+      "name": "Evil Spider",
+      "url": "https://open.spotify.com/track/0jeJE3TUJ5FrRuVLr7w4JQ"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/5PBIfafBl1Rw9XfrfGWa7z"
     },
     {
-      "added_at": "2022-04-18 03:39:12",
-      "album": {
-        "name": "Three Dimensions Deep",
-        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 173774,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "You're Too Precious",
@@ -619,6 +603,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Morning Matters",
+        "url": "https://open.spotify.com/album/5Blcv1aeBSSVLkOcpR280c"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 236093,
+      "name": "Own Your Own",
+      "url": "https://open.spotify.com/track/3v7IwjkgOvcdoT0Odgrwzc"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "Green Eyes",
         "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
       },
@@ -633,20 +633,20 @@
       "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2022-04-18 03:39:12",
       "album": {
-        "name": "Morning Matters",
-        "url": "https://open.spotify.com/album/5Blcv1aeBSSVLkOcpR280c"
+        "name": "Three Dimensions Deep",
+        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
       },
       "artists": [
         {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 236093,
-      "name": "Own Your Own",
-      "url": "https://open.spotify.com/track/3v7IwjkgOvcdoT0Odgrwzc"
+      "duration_ms": 173774,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
     },
     {
       "added_at": "2023-04-05 03:06:38",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/55SbTToiQ8JTe524EeIn8b"
     },
     {
-      "added_at": "2022-02-25 03:07:19",
-      "album": {
-        "name": "MAHAL",
-        "url": "https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 241173,
-      "name": "The Loop",
-      "url": "https://open.spotify.com/track/4E8SsodyGGLgv7HPeSisw5"
-    },
-    {
       "added_at": "2023-04-05 03:20:02",
       "album": {
         "name": "For Granted",
@@ -759,6 +743,22 @@
       "duration_ms": 161946,
       "name": "For Granted",
       "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
+    },
+    {
+      "added_at": "2022-02-25 03:07:19",
+      "album": {
+        "name": "MAHAL",
+        "url": "https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 241173,
+      "name": "The Loop",
+      "url": "https://open.spotify.com/track/4E8SsodyGGLgv7HPeSisw5"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/1u0qpHAwzNshb1XU2EUclz"
     },
     {
-      "added_at": "2022-09-29 00:10:44",
-      "album": {
-        "name": "Mercurial World (Deluxe)",
-        "url": "https://open.spotify.com/album/01d2Rn2VtB6THtOb9nwM9p"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 189004,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/2gjrOwSGTDKpzoDdMCLr5s"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Spotlight",
@@ -1159,6 +1143,22 @@
       "duration_ms": 252693,
       "name": "Spotlight - Single Edit",
       "url": "https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8"
+    },
+    {
+      "added_at": "2022-09-29 00:10:44",
+      "album": {
+        "name": "Mercurial World (Deluxe)",
+        "url": "https://open.spotify.com/album/01d2Rn2VtB6THtOb9nwM9p"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 189004,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/2gjrOwSGTDKpzoDdMCLr5s"
     },
     {
       "added_at": "2023-03-30 03:13:10",
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/0aGWSE3g81t44RSjqfqr7o"
     },
     {
-      "added_at": "2023-05-24 02:01:11",
-      "album": {
-        "name": "I Hope You Can Forgive Me",
-        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
-      },
-      "artists": [
-        {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
-        }
-      ],
-      "duration_ms": 177401,
-      "name": "Stay Away (From Me)",
-      "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Off Off On",
@@ -1223,6 +1207,22 @@
       "duration_ms": 200480,
       "name": "Coming to Get You Nowhere",
       "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
+    },
+    {
+      "added_at": "2023-05-24 02:01:11",
+      "album": {
+        "name": "I Hope You Can Forgive Me",
+        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
+      },
+      "artists": [
+        {
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+        }
+      ],
+      "duration_ms": 177401,
+      "name": "Stay Away (From Me)",
+      "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1277,26 +1277,6 @@
       "url": "https://open.spotify.com/track/4s79MjBAL0LxmhrPM47G8F"
     },
     {
-      "added_at": "2023-06-02 02:31:02",
-      "album": {
-        "name": "The Universe",
-        "url": "https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 271112,
-      "name": "CooCool",
-      "url": "https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Something Like A War",
@@ -1317,24 +1297,24 @@
       "url": "https://open.spotify.com/track/5h6RX4lJ9opFcpGycS2ckD"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2023-06-02 02:31:02",
       "album": {
-        "name": "Sweetness Remixes",
-        "url": "https://open.spotify.com/album/45IJcpXoaZbDYSYN3qkeNb"
+        "name": "The Universe",
+        "url": "https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC"
       },
       "artists": [
         {
-          "name": "Sweet Whirl",
-          "url": "https://open.spotify.com/artist/3gMAzRuPRRTdDDbeBzlxKu"
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
         },
         {
-          "name": "Andras",
-          "url": "https://open.spotify.com/artist/6C3Q1d8QOpgYuRdsTmSoVm"
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
         }
       ],
-      "duration_ms": 206820,
-      "name": "Sweetness - Dub Mix by Andras",
-      "url": "https://open.spotify.com/track/6h5SiRf0aOLRql4UGopHOu"
+      "duration_ms": 271112,
+      "name": "CooCool",
+      "url": "https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN"
     },
     {
       "added_at": "2023-01-04 01:09:50",
@@ -1359,6 +1339,26 @@
       "duration_ms": 185250,
       "name": "The Moon Above",
       "url": "https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Sweetness Remixes",
+        "url": "https://open.spotify.com/album/45IJcpXoaZbDYSYN3qkeNb"
+      },
+      "artists": [
+        {
+          "name": "Sweet Whirl",
+          "url": "https://open.spotify.com/artist/3gMAzRuPRRTdDDbeBzlxKu"
+        },
+        {
+          "name": "Andras",
+          "url": "https://open.spotify.com/artist/6C3Q1d8QOpgYuRdsTmSoVm"
+        }
+      ],
+      "duration_ms": 206820,
+      "name": "Sweetness - Dub Mix by Andras",
+      "url": "https://open.spotify.com/track/6h5SiRf0aOLRql4UGopHOu"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1433,6 +1433,26 @@
       "url": "https://open.spotify.com/track/0XvzfXYGaGTYH2LbVAD4G0"
     },
     {
+      "added_at": "2022-01-12 18:14:24",
+      "album": {
+        "name": "ocean tales",
+        "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
+      },
+      "artists": [
+        {
+          "name": "santpoort",
+          "url": "https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ"
+        },
+        {
+          "name": "Little Green",
+          "url": "https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy"
+        }
+      ],
+      "duration_ms": 188951,
+      "name": "feather light",
+      "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
+    },
+    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Awake",
@@ -1463,26 +1483,6 @@
       "duration_ms": 164613,
       "name": "Baby No More",
       "url": "https://open.spotify.com/track/50YFf2wxdUPioeqahWKCl1"
-    },
-    {
-      "added_at": "2022-01-12 18:14:24",
-      "album": {
-        "name": "ocean tales",
-        "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
-      },
-      "artists": [
-        {
-          "name": "santpoort",
-          "url": "https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ"
-        },
-        {
-          "name": "Little Green",
-          "url": "https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy"
-        }
-      ],
-      "duration_ms": 188951,
-      "name": "feather light",
-      "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
     },
     {
       "added_at": "2022-01-21 20:29:12",

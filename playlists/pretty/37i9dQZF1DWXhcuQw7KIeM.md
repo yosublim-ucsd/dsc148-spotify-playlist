@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North\. Cover: The HU
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,880 likes - 80 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,028 likes - 80 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 56 | [Ymir](https://open.spotify.com/track/0bgGgqsmfGk2r177BsCrSI) | [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM), [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb) | [Eptir Ragnarök](https://open.spotify.com/album/7EvtTlwudXR5ca8x18iCUY) | 4:17 |
 | 57 | [Sven i Rosengård](https://open.spotify.com/track/1n8xLLvELDH8wmroa1hm1H) | [Garmarna](https://open.spotify.com/artist/7ED7dE68y0YZGpyXcuiRsI) | [Förbundet](https://open.spotify.com/album/6HTeDbq8HlLFE78im6CjyV) | 5:24 |
 | 58 | [Urzala](https://open.spotify.com/track/6CRcyL0s068af2UWWBvaJM) | [Theodor Bastard](https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF) | [Volch'ya Yagoda](https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS) | 4:04 |
-| 59 | [Valhalla Rising](https://open.spotify.com/track/43H07xlSOBTrLwuAVgAZd4) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [CVLT](https://open.spotify.com/album/6bliURGMEiDbsvaHxmKvD8) | 7:00 |
+| 59 | [Valhalla Rising](https://open.spotify.com/track/0GmPknOgicu33WuFr96ei0) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [CVLT](https://open.spotify.com/album/78XQBbOwtSRdRfsu0rlAOK) | 7:00 |
 | 60 | [The Loom](https://open.spotify.com/track/0RXlC9M8kO5AMFdjUOYNgA) | [Anilah](https://open.spotify.com/artist/3NLzz9ITW7kJHd5OZIeysW) | [The Loom](https://open.spotify.com/album/1qFY5y13Go221ctiBh9yfj) | 7:13 |
 | 61 | [Ég felé](https://open.spotify.com/track/4PSVK92v0jtq8NiOtgqnFe) | [The Moon & The Nightspirit](https://open.spotify.com/artist/7hm6tfDbNUdRrz2hfRpJG3) | [Ősforras](https://open.spotify.com/album/012OIS7HI85MqcAOKHL6fP) | 5:56 |
 | 62 | [Relics of the Natural Realm](https://open.spotify.com/track/5cbnif2ROYIXzqWWJ6ZUMa) | [Sojourner](https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X) | [Perennial](https://open.spotify.com/album/3zxt9rDcbBMJBPL6fmgTeJ) | 5:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 79 | [Anaia](https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC) | [IANAI](https://open.spotify.com/artist/1yGcDrrvQWSoki7RrXWPhh), [Client N](https://open.spotify.com/artist/4ItT2MdjEl4l5HrxkWT9QF) | [Sunir](https://open.spotify.com/album/4LmG2mr04QCWGQ51SiDrWA) | 6:38 |
 | 80 | [Isä Meidän](https://open.spotify.com/track/7rdSeeSS4JcYjUQtLSuRhZ) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Isä Meidän](https://open.spotify.com/album/63Hue96M6GYO6jc0QG4eWC) | 4:04 |
 
-Snapshot ID: `MCxmMjBjYWRmMWU4OTRhNTQzN2ExODFiMjFhZTgyZmFlZWRkYzE3NzEx`
+Snapshot ID: `MCxjMDRhYTNkYjk3Nzg0MDIzZDU3OTUwZWE5Y2U3YzEzMTk2NzIxNmNj`

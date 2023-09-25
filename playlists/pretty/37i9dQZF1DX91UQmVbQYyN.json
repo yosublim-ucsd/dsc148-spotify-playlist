@@ -1,12 +1,12 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Lana Del Rey",
-  "num_followers": 573301,
+  "num_followers": 573453,
   "original_name": "EQUAL Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWJlYTNmMTU4OWE3YWNiMjFkZmMzZDBjYjUzZWI0NDhiNWJjODgz",
+  "snapshot_id": "MCw0MTRlMTg0N2VkYzZjNzNkOTg0ZmQ3MmQzYjJlNTI4ZmFmMDEzZWUx",
   "tracks": [
     {
       "added_at": "2023-03-08 16:17:46",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "duration_ms": 268105,
+      "name": "Lost on You",
+      "url": "https://open.spotify.com/track/2LIh4uzqq9cXMPzzmcToHl"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
-        "name": "Lost on You",
-        "url": "https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw"
-      },
-      "artists": [
-        {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
-        }
-      ],
-      "duration_ms": 268105,
-      "name": "Lost on You",
-      "url": "https://open.spotify.com/track/2LIh4uzqq9cXMPzzmcToHl"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 184524,
-      "name": "Kyoto",
-      "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
         "name": "so sad so sexy",
         "url": "https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 139840,
       "name": "sex money feelings die",
       "url": "https://open.spotify.com/track/0g4fzRkbLeCDUCoe5iUOcf"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 184524,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 212183,
+      "name": "Your Best American Girl",
+      "url": "https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 200093,
       "name": "$20",
       "url": "https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
-        "name": "Puberty 2",
-        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 212183,
-      "name": "Your Best American Girl",
-      "url": "https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "So My Darling (Acoustic)",
-        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "So My Darling - Acoustic",
-      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 206465,
       "name": "Me & My Dog",
       "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
+        "name": "So My Darling (Acoustic)",
+        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "So My Darling - Acoustic",
+      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Cosmic Love",
-      "url": "https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
         "name": "The Covers Record",
         "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 139466,
       "name": "Sea of Love",
       "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Cosmic Love",
+      "url": "https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+        "name": "Pleasantville -Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
         }
       ],
-      "duration_ms": 252760,
-      "name": "That's Where I Am",
-      "url": "https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh"
+      "duration_ms": 307333,
+      "name": "Across the Universe",
+      "url": "https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Pleasantville -Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
       },
       "artists": [
         {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 307333,
-      "name": "Across the Universe",
-      "url": "https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa"
+      "duration_ms": 252760,
+      "name": "That's Where I Am",
+      "url": "https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 171662,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
         "name": "Daydream Nation (Deluxe Edition)",
         "url": "https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 417800,
       "name": "Teen Age Riot (Album Version)",
       "url": "https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 171662,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
     },
     {
       "added_at": "2023-03-08 16:17:46",

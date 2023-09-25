@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover : Garvit \- Priyansh
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,793 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,905 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Kho Ja](https://open.spotify.com/track/3FASTk6GGeW0PtQ0oVLp9h) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Kho Ja](https://open.spotify.com/album/7whhl16hNq2Pyh65Dh3Zvp) | 3:04 |
 | 75 | [Sirfira](https://open.spotify.com/track/4EtsQ4vcaGs13NFFLNS6yK) | [Harish Sagane](https://open.spotify.com/artist/5v3LPrihYPF2Uu9jDEKnjx) | [Sirfira](https://open.spotify.com/album/4tH5BHPomSPEGxjxKTPY8C) | 2:44 |
 
-Snapshot ID: `MCxhN2VhYmZkMjU3NjE2MTBlOGRmNGFjOTM5MjVmMDIwMWQ0NjYxZDFh`
+Snapshot ID: `MCxjY2EyMzU3YjkwZDIwNDIyZTBkMWI2YzQ4YzBmNjIxYjM5YjAyZjFk`

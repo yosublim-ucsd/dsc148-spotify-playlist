@@ -4,7 +4,7 @@
 
 > Songs so beautiful, they'll stop you in your tracks
 
-198 songs - 11 hr 50 min
+199 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Becoming](https://open.spotify.com/track/3JV5W3aXSfNGOSHIHndnX0) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Becoming](https://open.spotify.com/album/6InGSsBvvFqX6fo3fEwFFW) | 3:34 | 2023-03-31 |  |
 | [big brother](https://open.spotify.com/track/0pcNE2VKwl6LQCShBS7tRL) | [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [big brother](https://open.spotify.com/album/4OjUugcUcIX1XosSeeZEHG) | 2:58 | 2021-12-10 | 2022-08-20 |
 | [Brother](https://open.spotify.com/track/0FvVaTrZMaXm7qsQQh8HXe) | [Fran Lusty](https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK) | [Brother](https://open.spotify.com/album/58GJ648X070rfl1apkW3MT) | 3:47 | 2023-09-01 |  |
-| [Builder Boy](https://open.spotify.com/track/3gxmx971GXRYyQlygxj5rs) | [The Slow Show](https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO) | [Builder Boy](https://open.spotify.com/album/6vSdbAoBBwvffyjs4w1jts) | 3:09 | 2023-07-21 |  |
+| [Builder Boy](https://open.spotify.com/track/2PMlo1IRwGderZF9wPOiSm) | [The Slow Show](https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO) | [Subtle Love](https://open.spotify.com/album/4WtvNPYzwfFt04HIu4ZMyv) | 3:09 | 2023-09-01 |  |
+| [Builder Boy](https://open.spotify.com/track/3gxmx971GXRYyQlygxj5rs) | [The Slow Show](https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO) | [Builder Boy](https://open.spotify.com/album/6vSdbAoBBwvffyjs4w1jts) | 3:09 | 2023-07-21 | 2023-09-25 |
 | [Bumblebees and Blue Skies](https://open.spotify.com/track/0Bczbw2k63cjhOS078dXaF) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Bumblebees and Blue Skies](https://open.spotify.com/album/0OhZ0ZfAmshKSHDrxHALYW) | 5:16 | 2022-11-25 | 2023-02-18 |
 | [Bygone](https://open.spotify.com/track/3HIKGBx8u4F8o5kLyPmnez) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu), [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [Bygone](https://open.spotify.com/album/4VQ6zTBdeimyD77EmvnsrM) | 2:51 | 2021-12-10 | 2023-09-02 |
 | [Called You Out](https://open.spotify.com/track/2I0hkWJEy3BhVBvkWsnW5S) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Called You Out](https://open.spotify.com/album/50rX4SnIONzFzZD9kh94JL) | 2:35 | 2022-04-01 | 2023-05-13 |

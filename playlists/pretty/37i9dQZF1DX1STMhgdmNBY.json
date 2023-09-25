@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 61789,
+  "num_followers": 61874,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDNlZWJmMmEyNjVkYmYxMDJmYzI3NDliZDAwYWJlZTRkMWNiZjkw",
+  "snapshot_id": "MCwwYzM4YzQxNTI5ZjUxOTg5MmMxZmI4M2M2YTE1YzAzNmU1MDJlOWUw",
   "tracks": [
     {
       "added_at": "2023-08-23 10:28:38",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "Chicago Blues Session Volume 3",
-        "url": "https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8"
-      },
-      "artists": [
-        {
-          "name": "Magic Slim & The Teardrops",
-          "url": "https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat"
-        }
-      ],
-      "duration_ms": 442346,
-      "name": "So Easy To Love You",
-      "url": "https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
         "name": "Rancho Texicano: The Very Best of ZZ Top",
         "url": "https://open.spotify.com/album/6ti1HC6R2Op1enYiuCDf6k"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "Here Comes Shuggie Otis",
-        "url": "https://open.spotify.com/album/6mzeogguJ6lMUHWgBJzhcd"
+        "name": "Chicago Blues Session Volume 3",
+        "url": "https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8"
       },
       "artists": [
         {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+          "name": "Magic Slim & The Teardrops",
+          "url": "https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat"
         }
       ],
-      "duration_ms": 255946,
-      "name": "Gospel Groove",
-      "url": "https://open.spotify.com/track/55mwnnVCq90cdzFro3UFGZ"
+      "duration_ms": 442346,
+      "name": "So Easy To Love You",
+      "url": "https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -599,6 +583,22 @@
       "duration_ms": 210731,
       "name": "Barefoot In Heaven",
       "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
+        "name": "Here Comes Shuggie Otis",
+        "url": "https://open.spotify.com/album/6mzeogguJ6lMUHWgBJzhcd"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "duration_ms": 255946,
+      "name": "Gospel Groove",
+      "url": "https://open.spotify.com/track/55mwnnVCq90cdzFro3UFGZ"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
+        "name": "Big Walter Horton w/ Carey Bell",
+        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
       },
       "artists": [
         {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+          "name": "Big Walter Horton",
+          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
         }
       ],
-      "duration_ms": 170800,
-      "name": "I Just Want To Make Love To You - Single Version",
-      "url": "https://open.spotify.com/track/1OhUmE8Wkw1KBXx2gQcOo9"
+      "duration_ms": 278266,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/3ZD1wkVJDQDBwbPcp198Bk"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "Big Walter Horton w/ Carey Bell",
-        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
       },
       "artists": [
         {
-          "name": "Big Walter Horton",
-          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 278266,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/3ZD1wkVJDQDBwbPcp198Bk"
+      "duration_ms": 170800,
+      "name": "I Just Want To Make Love To You - Single Version",
+      "url": "https://open.spotify.com/track/1OhUmE8Wkw1KBXx2gQcOo9"
     },
     {
       "added_at": "2023-08-23 10:28:38",

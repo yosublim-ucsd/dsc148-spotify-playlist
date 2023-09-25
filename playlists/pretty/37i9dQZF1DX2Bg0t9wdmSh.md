@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/justinlaboy/">Justin LaBoy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,716 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,738 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 | 49 | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U) | 3:31 |
 | 50 | [Black Men Don't Cheat \(feat\. Charlamagne tha God\)](https://open.spotify.com/track/07qrV60yRqp8ckQaI1jKfp) | [Lil Duval](https://open.spotify.com/artist/6YiHht3u7FFszle72kpbdQ), [Charlamagne Tha God](https://open.spotify.com/artist/6xWbtkHMXCQkmvYqSK8TZv) | [Black Men Don't Cheat \(feat\. Charlamagne tha God\)](https://open.spotify.com/album/71HFkoLVwaoO8eFaf0t7UG) | 2:51 |
 
-Snapshot ID: `MCw5YWU1YzY4MGY4NWI2NzY2MjJjNDU4YTEzNmU2OTM0MGMzYzNhZDdh`
+Snapshot ID: `MCw2MmQ5ODVjYTQ2M2FlNzZkMGYyNWM2NzRiNTg5YmJmNTQzZTE2OTY2`

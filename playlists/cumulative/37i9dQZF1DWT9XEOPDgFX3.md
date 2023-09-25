@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Briston Maroney
 
-401 songs - 1 day 0 hr 57 min
+402 songs - 1 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Kings & Queens](https://open.spotify.com/track/03SZ2O8n8ngB92Xlnh3urC) | [Harmony Byrne](https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx) | [Kings & Queens](https://open.spotify.com/album/3vgMeqqU1tzZRnq4aMSxA1) | 4:38 | 2022-04-13 | 2022-12-17 |
 | [Lawn](https://open.spotify.com/track/0lwRMQQ6BxVBV0WaokbQ22) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Lawn](https://open.spotify.com/album/18fBg00a9TmorB9yvQwYlq) | 3:37 | 2022-01-21 | 2022-07-29 |
 | [Lawn](https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:37 | 2022-04-29 |  |
-| [lesson](https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Mia Gargaret](https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7) | 1:37 | 2022-04-13 |  |
+| [lesson](https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Mia Gargaret](https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7) | 1:37 | 2022-04-13 | 2023-09-25 |
 | [Let Go](https://open.spotify.com/track/3C37PWNd6ojQD8OhIp9aKu) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Let Go](https://open.spotify.com/album/6Am8g1lq0cXcOCmv5fwnzk) | 4:00 | 2023-03-03 | 2023-04-12 |
 | [Let Go of the Myth](https://open.spotify.com/track/61KPTGdmcm1PO88DER3OPz) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Let Go of the Myth](https://open.spotify.com/album/4VSYheyF1IVK4x2SiDUmPi) | 2:45 | 2023-01-20 | 2023-02-25 |
 | [Let It Be](https://open.spotify.com/track/1xflb6sCgJjMqbdtakgONq) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Let It Be](https://open.spotify.com/album/1dReIAToRq9PGXlsDWzRE9) | 3:42 | 2022-01-21 | 2023-06-17 |
@@ -336,6 +336,7 @@
 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 | 2022-01-21 |  |
 | [Sunshine](https://open.spotify.com/track/7jUitZww3URFitXC32ezRd) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:37 | 2023-09-01 |  |
 | [Sweetspot](https://open.spotify.com/track/6gJIgCURxpAOG61j5Q9LVx) | [Mess Esque](https://open.spotify.com/artist/52o8MHT44vLaGDarbic1zq) | [Mess Esque](https://open.spotify.com/album/3FxizRBHvFR28BC4yYGMih) | 7:57 | 2022-01-21 | 2023-06-17 |
+| [Swimming](https://open.spotify.com/track/0HVxfx5x8dZSTaK7EnIByn) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:12 | 2023-09-22 |  |
 | [Swimming](https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:12 | 2022-04-29 | 2023-03-11 |
 | [Swimming](https://open.spotify.com/track/7dJR6TWnJns4w9OVYeMY2P) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Swimming](https://open.spotify.com/album/7DarjMHpMdUo3ForHknW9t) | 4:12 | 2022-01-21 | 2022-07-28 |
 | [tap](https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [tap](https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np) | 4:31 | 2022-04-13 | 2023-08-12 |

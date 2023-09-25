@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-244 songs - 16 hr 16 min
+245 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,8 @@
 | [Silk](https://open.spotify.com/track/3kXHcC7133uiMrtYzjrhUO) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool \(Deluxe Edition\)](https://open.spotify.com/album/5Uqtbi6LDSKDNNzfVU58PM) | 4:03 | 2022-11-01 | 2022-11-13 |
 | [Silk](https://open.spotify.com/track/5z75fXqSd5jhRsV543Trxh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h) | 4:03 | 2022-01-27 |  |
 | [Silk](https://open.spotify.com/track/7f62MruiQN3mxACnIU0yxO) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool \(Deluxe Edition\)](https://open.spotify.com/album/0k5PHXVakV1aq3UmacxELa) | 4:03 | 2021-11-01 | 2022-07-29 |
-| [Sirens](https://open.spotify.com/track/6rjxyDTlJCGqo1XQ6vrq5R) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Sirens](https://open.spotify.com/album/5jtOLGuMV0eYTHJptwgI1D) | 4:28 | 2023-09-22 |  |
+| [Sirens](https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 4:28 | 2023-09-22 |  |
+| [Sirens](https://open.spotify.com/track/6rjxyDTlJCGqo1XQ6vrq5R) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Sirens](https://open.spotify.com/album/5jtOLGuMV0eYTHJptwgI1D) | 4:28 | 2023-09-22 | 2023-09-25 |
 | [Sleeping In Your Garden](https://open.spotify.com/track/1eG48OpdY0FRJcDlBwqzRi) | [Gia Ford](https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX) | [Sleeping In Your Garden](https://open.spotify.com/album/2am9dGCCUrwCw1DOX4wiXX) | 3:24 | 2022-01-27 |  |
 | [Sleeping In Your Garden](https://open.spotify.com/track/6rsWFFpAa5EtlXMwjYJfSj) | [Gia Ford](https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX) | [Sleeping In Your Garden](https://open.spotify.com/album/3hexKcgksYb1BG9CZjpxEG) | 3:24 | 2021-11-01 | 2022-07-29 |
 | [Slowdance I](https://open.spotify.com/track/4G0LxX3BHpxI6QJZbw0iK6) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [When I Have Fears](https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz) | 4:01 | 2021-11-01 |  |

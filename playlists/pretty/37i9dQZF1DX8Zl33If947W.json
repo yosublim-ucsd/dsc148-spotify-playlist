@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 143692,
+  "num_followers": 143811,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2NhNmE5YzYxNDI1ZDhjNjE1NzA3NzBlNWI2ZDY1ZjAzNGY0MTBj",
+  "snapshot_id": "MCwwZTY1OWVlY2UwM2ZlOTUxZDEyNGZmNGI3ODQyMTQ3Y2NkM2ZlOTBl",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Von hier an blind",
+        "url": "https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw"
+      },
+      "artists": [
+        {
+          "name": "Wir sind Helden",
+          "url": "https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Nur ein Wort",
+      "url": "https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Eigentlich",
         "url": "https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 158895,
       "name": "Eigentlich",
       "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Von hier an blind",
-        "url": "https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw"
-      },
-      "artists": [
-        {
-          "name": "Wir sind Helden",
-          "url": "https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Nur ein Wort",
-      "url": "https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Reim (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg"
+      },
+      "artists": [
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "duration_ms": 220373,
+      "name": "Verdammt, ich lieb Dich - 2020 Remastered",
+      "url": "https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Morgen",
         "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 135096,
       "name": "Morgen",
       "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Reim (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg"
-      },
-      "artists": [
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
-        }
-      ],
-      "duration_ms": 220373,
-      "name": "Verdammt, ich lieb Dich - 2020 Remastered",
-      "url": "https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Immer in Bewegung",
-        "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
-      },
-      "artists": [
-        {
-          "name": "Revolverheld",
-          "url": "https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0"
-        }
-      ],
-      "duration_ms": 212520,
-      "name": "Ich lass f\u00fcr dich das Licht an",
-      "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Dein ist mein ganzes Herz",
         "url": "https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 213666,
       "name": "Dein ist mein ganzes Herz",
       "url": "https://open.spotify.com/track/030dULvYNT5n8vYpIak51w"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Immer in Bewegung",
+        "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
+      },
+      "artists": [
+        {
+          "name": "Revolverheld",
+          "url": "https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0"
+        }
+      ],
+      "duration_ms": 212520,
+      "name": "Ich lass f\u00fcr dich das Licht an",
+      "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
     },
     {
       "added_at": "2023-03-06 08:21:00",

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: James Francis
 
-108 songs - 5 hr 57 min
+109 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Inner Peace](https://open.spotify.com/track/0EncdyFKNletEI25jFT3Ao) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Inner Peace](https://open.spotify.com/album/0oR0oXCg9PwlH5b0OglHBI) | 3:06 | 2023-08-22 | 2023-08-26 |
 | [Inside Out](https://open.spotify.com/track/41Iyj7VLspMaPVQP47toOK) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 5:21 | 2023-08-22 |  |
 | [Is This Jazz?](https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Is This Jazz?](https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8) | 3:01 | 2023-08-22 |  |
+| [It's Ok, B U](https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [It's Ok, B U](https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep) | 4:22 | 2023-09-22 |  |
 | [Je Pense A Toi](https://open.spotify.com/track/3LQydINc4g2TQBwaKroe7Y) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Reverie](https://open.spotify.com/album/7kOO8ODI0xLtD5JUX5IcNy) | 2:38 | 2023-08-22 |  |
 | [Jezerro](https://open.spotify.com/track/0wO5Kuq82JCh1w5XZBSqiZ) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Jezerro](https://open.spotify.com/album/0zRaAbN8C00tQH0nQJB5UE) | 2:33 | 2023-08-22 |  |
 | [Jour Soleil](https://open.spotify.com/track/4Q3QyzdPOkkbTT43ca3bUY) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [On s'amuse](https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE) | 4:32 | 2023-08-22 |  |
@@ -113,7 +114,7 @@
 | [While She Waits](https://open.spotify.com/track/7BAYKZau47DGuwZNvM1cwv) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Watercolors](https://open.spotify.com/album/0ens67bGm8KPOXbMRSL86G) | 2:16 | 2023-08-22 |  |
 | [Wonderment](https://open.spotify.com/track/26kYnw6WLvGp7Ra74JITZH) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Wonderment](https://open.spotify.com/album/33BNvmKLpLEMl8FjetvtCs) | 3:19 | 2023-08-22 |  |
 | [Yesterday's Price](https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG), [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [Yesterday's Price](https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB) | 5:15 | 2023-08-22 |  |
-| [Yield](https://open.spotify.com/track/1lFql1YShXyrUMMMd8St6U) | [Girls in Airports](https://open.spotify.com/artist/6rmNdcuNwzokE2TQaI0ubr) | [How It is Now](https://open.spotify.com/album/2ok0mKvIlEg7jsFGYEZcV5) | 4:54 | 2023-09-08 |  |
+| [Yield](https://open.spotify.com/track/1lFql1YShXyrUMMMd8St6U) | [Girls in Airports](https://open.spotify.com/artist/6rmNdcuNwzokE2TQaI0ubr) | [How It is Now](https://open.spotify.com/album/2ok0mKvIlEg7jsFGYEZcV5) | 4:54 | 2023-09-08 | 2023-09-25 |
 | [Young Alien](https://open.spotify.com/track/6XDUR4yC5W8cBzwxun8ZZj) | [Bear Garden](https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2) | [Young Alien](https://open.spotify.com/album/18SSwv5kDMT2uIk9HbH1XD) | 2:46 | 2023-08-22 |  |
 | [Yves](https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [Yves](https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI) | 5:19 | 2023-08-22 |  |
 

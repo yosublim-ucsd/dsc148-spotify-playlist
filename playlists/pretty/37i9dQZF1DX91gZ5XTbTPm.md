@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Sexyy Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,181 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,277 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 27 | [Losing You](https://open.spotify.com/track/16Oy2t41hPHbM8rjpdVGov) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [Why Do It Feel Like I'm Losing You](https://open.spotify.com/album/6nV5A2vlstzER5Aul45Ymn) | 5:05 |
 | 28 | [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/track/2Nlky0GKESaONs5FBZpisF) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/album/7vF5mIej4btrKYDtrnjH3b) | 4:01 |
 | 29 | [Barely Holdin' On](https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Barely Holdin' On](https://open.spotify.com/album/7A9wYUkASCE7q4z0kGPGEA) | 2:53 |
-| 30 | [TRY & SEE \(feat\. Future, G Herbo & Roddy Ricch\)](https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 3:07 |
+| 30 | [TRY & SEE \(feat\. G Herbo & Roddy Ricch\)](https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 3:07 |
 | 31 | [Redemption](https://open.spotify.com/track/10qjN7LKGHkp4fs5bByDZc) | [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [Justin Stone](https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk) | [Redemption](https://open.spotify.com/album/4QVtzRDsbRyMpxU9KUC0Fh) | 2:59 |
 | 32 | [Bosses Linking With Bosses](https://open.spotify.com/track/5w2HEVe6nQnn9yYCjeCBfu) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Summer's Mine](https://open.spotify.com/album/2T5rnsXB2Hu0LOw554ciPS) | 2:10 |
 | 33 | [Need Prescriptions \(feat\. Lil Durk\)](https://open.spotify.com/track/71dIX6uF8GBFCHbgx4JeXn) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [4 The Trenches](https://open.spotify.com/album/3Uqp9nAzjdY5Ew55jk0bCg) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 49 | [$outhside Story ft\. Common](https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Victor](https://open.spotify.com/album/5wa0dQzg8Qe4L28za33DcH) | 3:16 |
 | 50 | [Heartless](https://open.spotify.com/track/6aEy7UtgKz6T2oqAxezvur) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Heartless](https://open.spotify.com/album/5ekQl9UODgElvyAqdALxLJ) | 2:46 |
 
-Snapshot ID: `MCwyZjExODU1YTVhNDkzYTdmMDMxYjI4YjE1MDc5MTMyNDkwN2NiYjdh`
+Snapshot ID: `MCw5NWIyNGYzYzE4M2MzYzVkZTgxZGZhYjcxN2M5YTkwNjMzMDhhYWZj`

@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby :)",
-  "num_followers": 456560,
+  "num_followers": 456583,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjY4NTY1YzI2MGU4MGY5OTE5YmM3Y2I5MjVjY2U3OWFmODcwMDYz",
+  "snapshot_id": "MCwwZTRkZmFlNmZiYjljNDQ1NDM3ZjZhMGMyZDNmMTMzNWQ2YjEwMzI0",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Gardenia",
         "url": "https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 232160,
       "name": "Para\u00edso",
       "url": "https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
-      },
-      "artists": [
-        {
-          "name": "Noah Pino Palo",
-          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        }
-      ],
-      "duration_ms": 271162,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Leche de Tigre",
         "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 241314,
       "name": "Persona Favorita",
       "url": "https://open.spotify.com/track/6WklRgGMJsQEB74MvnS36U"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
+      },
+      "artists": [
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        }
+      ],
+      "duration_ms": 271162,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Ciclo",
-        "url": "https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 261402,
-      "name": "A la Madrugada",
-      "url": "https://open.spotify.com/track/0Y0fjDVP3AdvODBG0jOIht"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "555",
         "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
       },
@@ -595,22 +579,6 @@
       "duration_ms": 148538,
       "name": "Easy",
       "url": "https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Where Do You Go?",
-        "url": "https://open.spotify.com/album/0mgwFqh3CUu9DAX9HBvXpq"
-      },
-      "artists": [
-        {
-          "name": "Leanys",
-          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
-        }
-      ],
-      "duration_ms": 147067,
-      "name": "Where Do You Go?",
-      "url": "https://open.spotify.com/track/2T9810jw3SFTcQtHL89utw"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -635,6 +603,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 261402,
+      "name": "A la Madrugada",
+      "url": "https://open.spotify.com/track/0Y0fjDVP3AdvODBG0jOIht"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Bichota \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
       },
@@ -655,18 +639,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "vivir en los dosmil",
-        "url": "https://open.spotify.com/album/0XXM9pJOGUKNJHwiLkExak"
+        "name": "Where Do You Go?",
+        "url": "https://open.spotify.com/album/0mgwFqh3CUu9DAX9HBvXpq"
       },
       "artists": [
         {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
         }
       ],
-      "duration_ms": 142439,
-      "name": "vivir en los dosmil",
-      "url": "https://open.spotify.com/track/3WUlTT5mSRZNmPfbtkvwAS"
+      "duration_ms": 147067,
+      "name": "Where Do You Go?",
+      "url": "https://open.spotify.com/track/2T9810jw3SFTcQtHL89utw"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -687,18 +671,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Santo Domingo",
-        "url": "https://open.spotify.com/album/7MHtcxNInflrOkle3BVSSI"
+        "name": "vivir en los dosmil",
+        "url": "https://open.spotify.com/album/0XXM9pJOGUKNJHwiLkExak"
       },
       "artists": [
         {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
         }
       ],
-      "duration_ms": 156623,
-      "name": "Santo Domingo",
-      "url": "https://open.spotify.com/track/0iLN9FL8qQNsd13N5TVPAX"
+      "duration_ms": 142439,
+      "name": "vivir en los dosmil",
+      "url": "https://open.spotify.com/track/3WUlTT5mSRZNmPfbtkvwAS"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -739,18 +723,38 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "jard\u00edn de flores",
-        "url": "https://open.spotify.com/album/7ytEMDrNLT9r9vRYMmjtwi"
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/65EzIW9HRqb0a7v8gY3oXJ"
       },
       "artists": [
         {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        },
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 199523,
-      "name": "jard\u00edn de flores",
-      "url": "https://open.spotify.com/track/7DHPDiXzR6MIanHwQ0AuZi"
+      "duration_ms": 210763,
+      "name": "NO TE ALEJES",
+      "url": "https://open.spotify.com/track/4Nx5BIyMer4DjxbE5aJh1v"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Santo Domingo",
+        "url": "https://open.spotify.com/album/7MHtcxNInflrOkle3BVSSI"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "duration_ms": 156623,
+      "name": "Santo Domingo",
+      "url": "https://open.spotify.com/track/0iLN9FL8qQNsd13N5TVPAX"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -771,22 +775,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "TE QUIERO",
-        "url": "https://open.spotify.com/album/65EzIW9HRqb0a7v8gY3oXJ"
+        "name": "jard\u00edn de flores",
+        "url": "https://open.spotify.com/album/7ytEMDrNLT9r9vRYMmjtwi"
       },
       "artists": [
         {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        },
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         }
       ],
-      "duration_ms": 210763,
-      "name": "NO TE ALEJES",
-      "url": "https://open.spotify.com/track/4Nx5BIyMer4DjxbE5aJh1v"
+      "duration_ms": 199523,
+      "name": "jard\u00edn de flores",
+      "url": "https://open.spotify.com/track/7DHPDiXzR6MIanHwQ0AuZi"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Pelo Negro",
-        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
-      },
-      "artists": [
-        {
-          "name": "Jos Canela",
-          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
-        }
-      ],
-      "duration_ms": 192340,
-      "name": "Pelo Negro",
-      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Volver A Empezar",
         "url": "https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 175596,
       "name": "Volver A Empezar",
       "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Pelo Negro",
+        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
+      },
+      "artists": [
+        {
+          "name": "Jos Canela",
+          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
+        }
+      ],
+      "duration_ms": 192340,
+      "name": "Pelo Negro",
+      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "D\u00edas Negros",
+        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
+      },
+      "artists": [
+        {
+          "name": "Chango Menas",
+          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "D\u00edas Negros",
+      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Alej\u00e9monos",
         "url": "https://open.spotify.com/album/3ptNF4zl1sec0fViprKxCK"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 165458,
       "name": "Alej\u00e9monos",
       "url": "https://open.spotify.com/track/51UK26oZlN0iHGDFz9Idkp"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "D\u00edas Negros",
-        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
-      },
-      "artists": [
-        {
-          "name": "Chango Menas",
-          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "D\u00edas Negros",
-      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "fantasies",
-        "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 183200,
-      "name": "fantasies",
-      "url": "https://open.spotify.com/track/4IBBzp0rA5acqhx8oGbYQM"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Fugaz",
         "url": "https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 178285,
       "name": "Fugaz",
       "url": "https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "fantasies",
+        "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "fantasies",
+      "url": "https://open.spotify.com/track/4IBBzp0rA5acqhx8oGbYQM"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs"
-      },
-      "artists": [
-        {
-          "name": "Planeta Tres",
-          "url": "https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq"
-        }
-      ],
-      "duration_ms": 204166,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/2qKb3jyXEb4yqeZHlJaS3M"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Tm\u00ed",
         "url": "https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY"
       },
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Trebol",
-        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs"
       },
       "artists": [
         {
-          "name": "Ben Aler",
-          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
+          "name": "Planeta Tres",
+          "url": "https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq"
         }
       ],
-      "duration_ms": 226393,
-      "name": "Trebol",
-      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
+      "duration_ms": 204166,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/2qKb3jyXEb4yqeZHlJaS3M"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1571,6 +1555,22 @@
       "duration_ms": 193933,
       "name": "Hasta Que",
       "url": "https://open.spotify.com/track/5XMjWyEq3MJXQX80jj24yM"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Trebol",
+        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
+      },
+      "artists": [
+        {
+          "name": "Ben Aler",
+          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
+        }
+      ],
+      "duration_ms": 226393,
+      "name": "Trebol",
+      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
     },
     {
       "added_at": "2023-09-15 04:01:00",

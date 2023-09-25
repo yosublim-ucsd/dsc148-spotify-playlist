@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 165931,
+  "num_followers": 166012,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTk3ZDRkMTZhNDI4N2U2MmEzY2ZlNzRhM2NiNDExNjc5YWVhMmVj",
+  "snapshot_id": "MCxmODM4OWE3MDNhZTRlYmQ4ODMxOWFlOWVkYzdkMDBmYTg5MzU1NDUz",
   "tracks": [
     {
       "added_at": "2023-04-05 03:09:18",
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
     },
     {
-      "added_at": "2023-06-26 14:17:57",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
-    },
-    {
       "added_at": "2022-09-29 00:40:57",
       "album": {
         "name": "Pocket Fantasy",
@@ -439,6 +423,22 @@
       "duration_ms": 159480,
       "name": "Shining Armor",
       "url": "https://open.spotify.com/track/4yOYFgVepcDq7DFMYXP4bc"
+    },
+    {
+      "added_at": "2023-06-26 14:17:57",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
       "added_at": "2021-10-15 03:46:13",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "The Universe Is Always Right",
-        "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
-      },
-      "artists": [
-        {
-          "name": "Hayden Thorpe",
-          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
-        }
-      ],
-      "duration_ms": 244390,
-      "name": "The Universe Is Always Right",
-      "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "Silver Ladders",
         "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 225934,
       "name": "Silver Ladders",
       "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "The Universe Is Always Right",
+        "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
+      },
+      "artists": [
+        {
+          "name": "Hayden Thorpe",
+          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
+        }
+      ],
+      "duration_ms": 244390,
+      "name": "The Universe Is Always Right",
+      "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
     },
     {
       "added_at": "2022-02-25 03:06:43",
@@ -869,22 +869,6 @@
       "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Jacqueline",
-        "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
-      },
-      "artists": [
-        {
-          "name": "Jackie Lynn",
-          "url": "https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV"
-        }
-      ],
-      "duration_ms": 324022,
-      "name": "Dream St.",
-      "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
-    },
-    {
       "added_at": "2023-01-03 01:09:50",
       "album": {
         "name": "Time Skiffs",
@@ -899,6 +883,22 @@
       "duration_ms": 470299,
       "name": "Cherokee",
       "url": "https://open.spotify.com/track/1qFudtsBIsNMBumicKCVYm"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Jacqueline",
+        "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
+      },
+      "artists": [
+        {
+          "name": "Jackie Lynn",
+          "url": "https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV"
+        }
+      ],
+      "duration_ms": 324022,
+      "name": "Dream St.",
+      "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -933,22 +933,6 @@
       "url": "https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ"
     },
     {
-      "added_at": "2022-01-21 20:15:30",
-      "album": {
-        "name": "Songs For Vienna",
-        "url": "https://open.spotify.com/album/5j4EVgx8biIphy8M4InK0a"
-      },
-      "artists": [
-        {
-          "name": "Cid Rim",
-          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
-        }
-      ],
-      "duration_ms": 188873,
-      "name": "Feedback Loop",
-      "url": "https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg"
-    },
-    {
       "added_at": "2022-08-31 05:00:32",
       "album": {
         "name": "\u00a1Ay!",
@@ -965,6 +949,22 @@
       "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
     },
     {
+      "added_at": "2022-01-21 20:15:30",
+      "album": {
+        "name": "Songs For Vienna",
+        "url": "https://open.spotify.com/album/5j4EVgx8biIphy8M4InK0a"
+      },
+      "artists": [
+        {
+          "name": "Cid Rim",
+          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
+        }
+      ],
+      "duration_ms": 188873,
+      "name": "Feedback Loop",
+      "url": "https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg"
+    },
+    {
       "added_at": "2022-02-09 04:04:07",
       "album": {
         "name": "Sans oublier",
@@ -979,26 +979,6 @@
       "duration_ms": 228809,
       "name": "Tintagel",
       "url": "https://open.spotify.com/track/6y7lKUb0w54m0Fx49kzo1p"
-    },
-    {
-      "added_at": "2022-09-09 13:45:31",
-      "album": {
-        "name": "Jolene From Her Own Perspective",
-        "url": "https://open.spotify.com/album/3YCXgNmBuGEvNsWSYubcZj"
-      },
-      "artists": [
-        {
-          "name": "Okay Kaya",
-          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
-        },
-        {
-          "name": "zannie",
-          "url": "https://open.spotify.com/artist/5b39yaQXUinM6d6KuuLiCd"
-        }
-      ],
-      "duration_ms": 207253,
-      "name": "Jolene From Her Own Perspective",
-      "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
     },
     {
       "added_at": "2022-08-13 00:53:45",
@@ -1019,6 +999,26 @@
       "duration_ms": 286640,
       "name": "Go On",
       "url": "https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu"
+    },
+    {
+      "added_at": "2022-09-09 13:45:31",
+      "album": {
+        "name": "Jolene From Her Own Perspective",
+        "url": "https://open.spotify.com/album/3YCXgNmBuGEvNsWSYubcZj"
+      },
+      "artists": [
+        {
+          "name": "Okay Kaya",
+          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
+        },
+        {
+          "name": "zannie",
+          "url": "https://open.spotify.com/artist/5b39yaQXUinM6d6KuuLiCd"
+        }
+      ],
+      "duration_ms": 207253,
+      "name": "Jolene From Her Own Perspective",
+      "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -1113,6 +1113,22 @@
       "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
     },
     {
+      "added_at": "2022-11-08 17:40:24",
+      "album": {
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "duration_ms": 285898,
+      "name": "Follow the Cyborg",
+      "url": "https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Rivers That You Cannot See",
@@ -1145,22 +1161,6 @@
       "url": "https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY"
     },
     {
-      "added_at": "2022-11-08 17:40:24",
-      "album": {
-        "name": "Follow the Cyborg",
-        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
-      },
-      "artists": [
-        {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
-        }
-      ],
-      "duration_ms": 285898,
-      "name": "Follow the Cyborg",
-      "url": "https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98"
-    },
-    {
       "added_at": "2023-03-31 19:24:48",
       "album": {
         "name": "Counter Melodies",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T"
     },
     {
-      "added_at": "2023-06-02 00:24:20",
-      "album": {
-        "name": "Open the Gates",
-        "url": "https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh"
-      },
-      "artists": [
-        {
-          "name": "Irreversible Entanglements",
-          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
-        }
-      ],
-      "duration_ms": 159093,
-      "name": "Open the Gates",
-      "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Heartlow",
@@ -1207,6 +1191,22 @@
       "duration_ms": 218925,
       "name": "Heartlow - Edit",
       "url": "https://open.spotify.com/track/2vUDoEBAGVLvcy8kDE0FTg"
+    },
+    {
+      "added_at": "2023-06-02 00:24:20",
+      "album": {
+        "name": "Open the Gates",
+        "url": "https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh"
+      },
+      "artists": [
+        {
+          "name": "Irreversible Entanglements",
+          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
+        }
+      ],
+      "duration_ms": 159093,
+      "name": "Open the Gates",
+      "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1257,22 +1257,6 @@
       "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     },
     {
-      "added_at": "2023-03-31 19:12:14",
-      "album": {
-        "name": "Follow the Cyborg",
-        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
-      },
-      "artists": [
-        {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
-        }
-      ],
-      "duration_ms": 229183,
-      "name": "Nothing's Wrong",
-      "url": "https://open.spotify.com/track/3g5v5S6Adv3gqPpKuli6Q5"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Hildegard",
@@ -1295,6 +1279,22 @@
       "duration_ms": 186544,
       "name": "Jour 3",
       "url": "https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s"
+    },
+    {
+      "added_at": "2023-03-31 19:12:14",
+      "album": {
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "duration_ms": 229183,
+      "name": "Nothing's Wrong",
+      "url": "https://open.spotify.com/track/3g5v5S6Adv3gqPpKuli6Q5"
     },
     {
       "added_at": "2022-03-30 04:28:53",
@@ -1369,26 +1369,6 @@
       "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Al Sur",
-        "url": "https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy"
-      },
-      "artists": [
-        {
-          "name": "The Notwist",
-          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
-        },
-        {
-          "name": "Juana Molina",
-          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Al Sur",
-      "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
-    },
-    {
       "added_at": "2022-08-19 01:53:48",
       "album": {
         "name": "artclubdiscotheque",
@@ -1407,6 +1387,26 @@
       "duration_ms": 335433,
       "name": "artclubdiscotheque",
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Al Sur",
+        "url": "https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy"
+      },
+      "artists": [
+        {
+          "name": "The Notwist",
+          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
+        },
+        {
+          "name": "Juana Molina",
+          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Al Sur",
+      "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
     },
     {
       "added_at": "2023-05-12 04:28:08",
@@ -1617,22 +1617,6 @@
       "url": "https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "The Apple Drop",
-        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
-      },
-      "artists": [
-        {
-          "name": "Liars",
-          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
-        }
-      ],
-      "duration_ms": 316413,
-      "name": "Big Appetite",
-      "url": "https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM"
-    },
-    {
       "added_at": "2022-02-09 04:03:27",
       "album": {
         "name": "Unfamiliar Minds",
@@ -1649,20 +1633,20 @@
       "url": "https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2"
     },
     {
-      "added_at": "2023-03-31 19:24:48",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "1982",
-        "url": "https://open.spotify.com/album/2qNRcFR3VnrxgrBGB2JFuZ"
+        "name": "The Apple Drop",
+        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
       },
       "artists": [
         {
-          "name": "A Certain Ratio",
-          "url": "https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk"
+          "name": "Liars",
+          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
         }
       ],
-      "duration_ms": 174656,
-      "name": "SAMO",
-      "url": "https://open.spotify.com/track/7tUp7rwXgZ1VN9rjD6dn7F"
+      "duration_ms": 316413,
+      "name": "Big Appetite",
+      "url": "https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM"
     },
     {
       "added_at": "2022-08-31 04:56:45",
@@ -1679,6 +1663,22 @@
       "duration_ms": 215831,
       "name": "Don't Tell Me I'm Wrong",
       "url": "https://open.spotify.com/track/4NUBJ6FdoxJWGaLD5IAw5p"
+    },
+    {
+      "added_at": "2023-03-31 19:24:48",
+      "album": {
+        "name": "1982",
+        "url": "https://open.spotify.com/album/2qNRcFR3VnrxgrBGB2JFuZ"
+      },
+      "artists": [
+        {
+          "name": "A Certain Ratio",
+          "url": "https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk"
+        }
+      ],
+      "duration_ms": 174656,
+      "name": "SAMO",
+      "url": "https://open.spotify.com/track/7tUp7rwXgZ1VN9rjD6dn7F"
     },
     {
       "added_at": "2022-09-29 01:39:00",

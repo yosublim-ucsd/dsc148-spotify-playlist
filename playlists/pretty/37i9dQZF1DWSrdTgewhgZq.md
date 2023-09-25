@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 
 > Only the best Hip\-hop, only non\-stop hits\. Lil Wayne on Cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,058,769 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,059,116 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 | 3 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 |
 | 4 | [Balut](https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Balut](https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG) | 3:27 |
 | 5 | [Street Sweeper \(feat\. Swae Lee\)](https://open.spotify.com/track/2NqpZD00BADhsvldFVdO0j) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Street Sweeper \(feat\. Swae Lee\)](https://open.spotify.com/album/732QIKM3qkHhwZgxaZsBLZ) | 2:40 |
-| 6 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 |
+| 6 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 |
 | 7 | [Come See Me Live](https://open.spotify.com/track/05QPyN9ixkuKZgrddbD2xt) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [Perish Blue \(Fall Tour\)](https://open.spotify.com/album/69ivKBrtrEGTlP7g0c2aX3) | 3:25 |
 | 8 | [Hype Me Up](https://open.spotify.com/track/5CzbXW5uNehVSgeozqkQzx) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hype Me Up](https://open.spotify.com/album/4rXP4oMmequey8Q600Gs6i) | 4:02 |
 | 9 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 | 99 | [Red Light Green Light](https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Red Light Green Light](https://open.spotify.com/album/2u1Wc12FWm7X2ueUHCHxJC) | 2:39 |
 | 100 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 |
 
-Snapshot ID: `MCxiYjM5YjEwNzQwNjI0NzhkMTQxYTAxMzgwOTM3M2I3ODBkZGVjNTEw`
+Snapshot ID: `MCxjZWUyYmJlZTM3ZmI5ZDM5YjQ5MjljOTQxODg1NDc4MGMwODhiNzIx`

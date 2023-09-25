@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU?si=czPv541DQ32MDznf9sg6Mw">Beatenberg</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,357 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,395 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 69 | [Shelter](https://open.spotify.com/track/6OvAFU5qsu1BjBxY8IjtkU) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:17 |
 | 70 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
 
-Snapshot ID: `MCxiODFlZGRjODRmZGM1NWViNWVmZWUxMGI3OWU0MTg2ZjllNmQzMmZk`
+Snapshot ID: `MCxhM2I1ZGI3MTk2MWUxMzBmYTNmYzVmN2RjYWM5Mjk4ZDgzNjgxNGZk`

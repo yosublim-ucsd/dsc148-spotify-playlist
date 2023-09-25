@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: The National
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,250 likes - 92 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,266 likes - 92 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 19 | [we grew up together](https://open.spotify.com/track/343YezHfY7G8ZliqUHYQKS) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu), [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [we grew up together](https://open.spotify.com/album/0a8IV62EQe7cWglIFJXapM) | 4:04 |
 | 20 | [Sojourn](https://open.spotify.com/track/1tN9qCwdEYsYmu3e4IypgE) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Sojourn](https://open.spotify.com/album/3F8zTUdqovD6TNHlNsOPMg) | 3:33 |
 | 21 | [Run](https://open.spotify.com/track/7hVd0Hej4nlJiufYwKxhDT) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [Run](https://open.spotify.com/album/67VhkG0XlrHJj0JyRQJNR5) | 2:26 |
-| 22 | [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 |
+| 22 | [GAME](https://open.spotify.com/track/2aZ6Du5TkxZUjvHW9uH8Qj) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:45 |
 | 23 | [Born For Loving You](https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire / Born For Loving You](https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf) | 3:34 |
 | 24 | [Bigger](https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Bigger](https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl) | 3:18 |
 | 25 | [I Fucked It Up](https://open.spotify.com/track/4y3CJiXetWwEOEPpWQ6CfW) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE) | [Bird Machine](https://open.spotify.com/album/7DUDIoIEw2yGKi1wcLjRuy) | 1:42 |
@@ -99,6 +99,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 89 | [Demise](https://open.spotify.com/track/1bmGxnZmkNLBwpOzbLW4lP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Demise](https://open.spotify.com/album/1zVQEvr8pNrCtpn0o2wo42) | 3:12 |
 | 90 | [Skipping Like A Stone \(feat\. Beck\)](https://open.spotify.com/track/7JpclywOpe1Vthr9TPdkj2) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Skipping Like A Stone \(feat\. Beck\)](https://open.spotify.com/album/7nWojjbfKGtHyYeA8vsBXa) | 4:43 |
 | 91 | [Losing You](https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Losing You](https://open.spotify.com/album/1JtdjMrrJTW1wC4r8olF1t) | 3:02 |
-| 92 | [Better Than Life](https://open.spotify.com/track/0fsh3O5K4Cih85nuCqekP0) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Better Than Life](https://open.spotify.com/album/23ja9hIqOtQ70oJCOPFEow) | 1:29 |
+| 92 | [Better Than Life](https://open.spotify.com/track/1W7Gfi0JgMORjjPZkhNRlj) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/6aZFHnpTwonsLw8qVI5DdB) | 1:29 |
 
-Snapshot ID: `MCw3ZmY0MDRlMjcyMjAzYTUzNTY4MjMyNjQ2ZTUwZTJjMTI5YWIyMjQ0`
+Snapshot ID: `MCwzYzkxOTE5MjdhMmNlZDMwMWE1YzU2ZWQ1Y2VlNzcwYjc0MDZkMGQ2`

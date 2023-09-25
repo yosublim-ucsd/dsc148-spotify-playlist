@@ -1,12 +1,12 @@
 {
   "description": "Les indispensables de l'\u00e9t\u00e9.",
-  "num_followers": 189126,
+  "num_followers": 189169,
   "original_name": "Ultimate Summer Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzczZTU4ODY1NWI4OTU1MDVlZDMxZmFjYzhjMWFlNjNiMmY2ZjNh",
+  "snapshot_id": "MCxhZTdiN2U2ZjczMjQ0NTJhMDE5NDQzODY1ZGM5Njk2ZjQxYjk3MGU1",
   "tracks": [
     {
       "added_at": "2023-06-20 08:01:01",
@@ -171,18 +171,26 @@
     {
       "added_at": "2023-06-20 08:01:01",
       "album": {
-        "name": "Jubel (Radio Edit)",
-        "url": "https://open.spotify.com/album/7fkrTTjzWHgZQj7vizhTza"
+        "name": "Jubel",
+        "url": "https://open.spotify.com/album/0YmJBTpPvSVH3KouPoO8Wk"
       },
       "artists": [
         {
-          "name": "Klingande",
-          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
+          "name": "Konina",
+          "url": "https://open.spotify.com/artist/6KvaDqIuZn68YGfuSbdXBj"
+        },
+        {
+          "name": "Reaxys",
+          "url": "https://open.spotify.com/artist/53cQlT5Jn4pGKkvVDgifkI"
+        },
+        {
+          "name": "Deluxe1337",
+          "url": "https://open.spotify.com/artist/1h8UsH6AbwP6Bk8PE46coV"
         }
       ],
-      "duration_ms": 201626,
-      "name": "Jubel - Radio Edit",
-      "url": "https://open.spotify.com/track/0D2VYiRlBv43asKUgieZaM"
+      "duration_ms": 200150,
+      "name": "Jubel",
+      "url": "https://open.spotify.com/track/5m6adNVeSWlJoP0c0smACx"
     },
     {
       "added_at": "2023-06-20 08:01:01",

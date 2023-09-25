@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Anya",
+        "url": "https://open.spotify.com/album/24ovooxolcP6FKYdb3d33f"
+      },
+      "artists": [
+        {
+          "name": "Ray Love",
+          "url": "https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223157,
+      "name": "Anya",
+      "url": "https://open.spotify.com/track/7wJFntvhETfYAvg5r4lOzX"
+    },
+    {
+      "album": {
         "name": "Around Me",
         "url": "https://open.spotify.com/album/6878HE0QBMwKRpceYf0U5z"
       },
@@ -1100,6 +1118,24 @@
       "duration_ms": 191045,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/21rmrbV8sWD6G0DBErDASD"
+    },
+    {
+      "album": {
+        "name": "Day Dream",
+        "url": "https://open.spotify.com/album/1O1g0LpkzUi1REzd2A8FCw"
+      },
+      "artists": [
+        {
+          "name": "Madison Wynn-Riley",
+          "url": "https://open.spotify.com/artist/6q2hpvfVQLJUC04n4pjnBa"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143543,
+      "name": "Day Dream",
+      "url": "https://open.spotify.com/track/0cWJ8W7tdobRmx362SLh6t"
     },
     {
       "album": {
@@ -1946,6 +1982,24 @@
       "duration_ms": 151673,
       "name": "Habit-forming",
       "url": "https://open.spotify.com/track/6whyQbbwPowZ3u24SsgDWE"
+    },
+    {
+      "album": {
+        "name": "Hear This Lullaby",
+        "url": "https://open.spotify.com/album/1gPekjVyQYquvIe7uElfHp"
+      },
+      "artists": [
+        {
+          "name": "Baker St.",
+          "url": "https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149389,
+      "name": "Hear This Lullaby",
+      "url": "https://open.spotify.com/track/4jNPUwtMdOi6uLqJvi4Tgl"
     },
     {
       "album": {
@@ -3803,6 +3857,24 @@
     },
     {
       "album": {
+        "name": "New Light",
+        "url": "https://open.spotify.com/album/6zoQTTmNgvGwjIcWC2whcH"
+      },
+      "artists": [
+        {
+          "name": "Jaden Cohen",
+          "url": "https://open.spotify.com/artist/5FDFlNDmnGwmTB0broI9MA"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126409,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/6ghT3bOc0eKBxvHf4FzLr9"
+    },
+    {
+      "album": {
         "name": "Next to Nothing",
         "url": "https://open.spotify.com/album/0aUgCD4UfCBXhuz0uBtT5z"
       },
@@ -3890,6 +3962,24 @@
       "duration_ms": 109193,
       "name": "Now-empty",
       "url": "https://open.spotify.com/track/5Tfz82TMmH7gaqH7cvBXzJ"
+    },
+    {
+      "album": {
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/2he7TH3cwJVKipwDjFPkR7"
+      },
+      "artists": [
+        {
+          "name": "Jonath\u00e1n Bridges",
+          "url": "https://open.spotify.com/artist/2dQCJiivYdK2HuhoUKcerS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160482,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/2NN1eF0zkuC3ag0ILFNA7f"
     },
     {
       "album": {
@@ -4037,6 +4127,24 @@
     },
     {
       "album": {
+        "name": "Piece de resistance",
+        "url": "https://open.spotify.com/album/4X1xVsNHV3u6faxprtA3Pi"
+      },
+      "artists": [
+        {
+          "name": "Jan Singh",
+          "url": "https://open.spotify.com/artist/3754x5uMBUG3kwven7gOgu"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156880,
+      "name": "Piece de resistance",
+      "url": "https://open.spotify.com/track/4BqrjtDW2iF3Cqnm52eySR"
+    },
+    {
+      "album": {
         "name": "Piece Peace",
         "url": "https://open.spotify.com/album/3OMxn6aJ8hZhqecNYE9nkV"
       },
@@ -4102,7 +4210,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 248000,
       "name": "Polka Dots and Moonbeams",
       "url": "https://open.spotify.com/track/7sVXqVvhTvRi8f9jdvh4Z0"
@@ -5438,7 +5546,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 247414,
       "name": "The Reasons That I Love You",
       "url": "https://open.spotify.com/track/4jwFix4ZBxag78Cu1BOJf1"
@@ -5654,7 +5762,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 184319,
       "name": "These Empty Streets",
       "url": "https://open.spotify.com/track/65aPk9Q8mmd79kdNF7u4Z4"
@@ -5726,7 +5834,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 229000,
       "name": "Think Of Me",
       "url": "https://open.spotify.com/track/71XkgBBCKjktUfWl1SiQGg"
@@ -6158,7 +6266,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 256062,
       "name": "When We Lay Down",
       "url": "https://open.spotify.com/track/2fra5fucGEJTFXnE7NwnKZ"
@@ -6230,7 +6338,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 247278,
       "name": "Witchcraft",
       "url": "https://open.spotify.com/track/787b6CSG5VnNvAATPEk54g"

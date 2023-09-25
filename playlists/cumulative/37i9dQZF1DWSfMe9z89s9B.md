@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Amindi
 
-962 songs - 2 day 3 hr 37 min
+963 songs - 2 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Addiction](https://open.spotify.com/track/12sXX3cUzBCpwjIzqBYIw1) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Alt Therapy Session 1: Disillusion](https://open.spotify.com/album/6s055xE2xDpP378xhu8zSu) | 2:55 | 2021-06-18 | 2022-06-09 |
 | [Advantage](https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Advantage](https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb) | 3:25 | 2023-04-14 |  |
 | [advantages](https://open.spotify.com/track/67GD5DfgXGSGfnUaOOjd6u) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [LACUNA in The House Of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 3:08 | 2023-04-28 | 2023-09-02 |
+| [Again?](https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Again?](https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj) | 2:52 | 2023-09-22 |  |
 | [Alien Coast](https://open.spotify.com/track/3iDBTqpV5GwxE9a5G4PGxC) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [The Alien Coast](https://open.spotify.com/album/5WhgDWJBLKg4pf1OJgoxZm) | 3:58 | 2022-04-01 | 2022-04-10 |
 | [All About You](https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [All About You](https://open.spotify.com/album/36Lr1Ipl7w3gn0NdZbRcge) | 3:00 | 2021-03-19 | 2022-01-25 |
 | [All For Nothing](https://open.spotify.com/track/6mQJSMRpen9xCVdol1YMg5) | [Paloma Ford](https://open.spotify.com/artist/3H91WvXn7klxNAxzQ9CqVK), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [X Tapes](https://open.spotify.com/album/617IqqrVM4ldqwFGkHAXU0) | 4:40 | 2022-04-01 | 2022-04-09 |
@@ -823,7 +824,7 @@
 | [Teach](https://open.spotify.com/track/4YcEc3ZlbW3W2OqbPmjF4V) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Teach](https://open.spotify.com/album/7cWMXbPvvIVZwy72OuMYjY) | 2:55 | 2022-04-01 | 2022-04-14 |
 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/60wMNCIWYZwbOywZXgfQ9P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/album/633MrZ9lAeFFydmcMENiuA) | 3:16 | 2022-01-14 | 2022-04-15 |
 | [Technicolor Love](https://open.spotify.com/track/0xPbEroCoWAutN6yHJVWYN) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Technicolor Love](https://open.spotify.com/album/4jjEC6GHtOQdKqEi151fuC) | 3:14 | 2023-02-24 | 2023-03-04 |
-| [Technicolor Love \(feat\. redveil\)](https://open.spotify.com/track/14jPneKsd6HTLtWKHATVcl) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:14 | 2023-02-24 |  |
+| [Technicolor Love \(feat\. redveil\)](https://open.spotify.com/track/14jPneKsd6HTLtWKHATVcl) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:14 | 2023-02-24 | 2023-09-25 |
 | [Technicolor Love \(feat\. redveil\)](https://open.spotify.com/track/4qzulXfoTGX3FBqsW4AzRF) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Technicolor Love \(feat\. redveil\)](https://open.spotify.com/album/4HTdrR3aylcEuJQlyuH6Pn) | 3:14 | 2023-02-24 | 2023-04-24 |
 | [Tell Me](https://open.spotify.com/track/2acAftMCwuDIsKkTABFC5A) | [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo) | [HARMINE](https://open.spotify.com/album/3m8xrGYg4snYy54VS2IHsh) | 4:45 | 2022-05-20 | 2022-07-16 |
 | [Tell Me](https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Tell Me](https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV) | 3:42 | 2022-04-01 | 2022-04-08 |

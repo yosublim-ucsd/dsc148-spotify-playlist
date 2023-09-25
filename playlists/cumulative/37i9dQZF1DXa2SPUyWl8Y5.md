@@ -4,7 +4,7 @@
 
 > Focus with melodic techno and tech house.
 
-355 songs - 1 day 15 hr 12 min
+356 songs - 1 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Crystal](https://open.spotify.com/track/4Yk9hzsSjJTtMIrL56SXsP) | [Aalson](https://open.spotify.com/artist/2tL0yAKQDnj1zb4V9uLeOY) | [Crystal](https://open.spotify.com/album/0OgieWpe3AjbA2nNPhmLlc) | 7:20 | 2021-07-04 | 2021-08-07 |
 | [Curve](https://open.spotify.com/track/5J0id4CmRP4rC89UmwVFYd) | [Microtrauma](https://open.spotify.com/artist/4abBidW4ScsxlRcISTeKkB) | [Curve \| The Arc](https://open.spotify.com/album/7Cv8pKOfpX7oBQPMRQU0Qd) | 8:35 | 2020-10-03 | 2022-08-13 |
 | [Dark Future](https://open.spotify.com/track/5pogItD4GCGPkMR3SlLd1R) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Mind Kontrol EP](https://open.spotify.com/album/0Gb1g3zTWUGkO8OpG5nHmc) | 6:43 | 2023-04-28 | 2023-08-27 |
+| [Dawn Beyond](https://open.spotify.com/track/39lsi4cPpq25nzejBUprQS) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Dawn Beyond](https://open.spotify.com/album/0ONHjTZfUAt99kjcLbixcl) | 6:51 | 2023-09-01 |  |
 | [Daze](https://open.spotify.com/track/0lvHtNBtDCAXlqmb8pMLtb) | [Deciduous](https://open.spotify.com/artist/0TG899Kn3KPks5UJDG3ajI) | [Daze / Ancestry / Wakefulness](https://open.spotify.com/album/2Mq9fjXzRzrR0vfsPPQMa9) | 6:27 | 2019-11-08 | 2020-05-18 |
 | [Dea Dia](https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Dea Dia](https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh) | 8:50 | 2021-04-15 |  |
 | [Deep in My Mind \- Original Mix](https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Traum EP](https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud) | 5:16 | 2020-08-22 |  |
@@ -263,7 +264,7 @@
 | [Raven](https://open.spotify.com/track/5mWIDc1qe2JeFgagKcCwlN) | [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Spectre](https://open.spotify.com/album/4CC88awM6ljOoXXoxczDtZ) | 6:35 | 2019-06-22 | 2019-11-09 |
 | [Ray](https://open.spotify.com/track/1W34fm437pe2u3mWBpGyx0) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Ray](https://open.spotify.com/album/0M3SzXbojNxKF8QoXx2ImR) | 6:32 | 2019-05-26\* | 2019-12-18 |
 | [Rebirth](https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rebirth](https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY) | 7:59 | 2021-01-18 |  |
-| [Red Planet](https://open.spotify.com/track/44c74BqpkDXXmxeieS37P3) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [Static](https://open.spotify.com/album/09lSN1OFfFwaCmhwQpUdXz) | 9:30 | 2022-09-30 |  |
+| [Red Planet](https://open.spotify.com/track/44c74BqpkDXXmxeieS37P3) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [Static](https://open.spotify.com/album/09lSN1OFfFwaCmhwQpUdXz) | 9:30 | 2022-09-30 | 2023-09-25 |
 | [Red Planet](https://open.spotify.com/track/6yc1GhDYLaac1IahIgVdIP) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [Static](https://open.spotify.com/album/3vbUHWi4I1bn8dsDoKPwjx) | 9:30 | 2019-07-20 | 2022-11-18 |
 | [Reflection](https://open.spotify.com/track/2bmvyGjBwhjIqTNkMKYjrg) | [The Organism](https://open.spotify.com/artist/2ZbM7ypKR8jIF6sfyI54Kz) | [Perfect Strangers](https://open.spotify.com/album/1ocIKNd1qdeCHlv9dXQJjG) | 8:12 | 2019-06-22 | 2019-11-09 |
 | [Reframed Future](https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz) | [Schlepp Geist](https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95) | [10 Years URSL \- Reframed Future](https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT) | 7:05 | 2021-07-12 | 2023-09-06 |

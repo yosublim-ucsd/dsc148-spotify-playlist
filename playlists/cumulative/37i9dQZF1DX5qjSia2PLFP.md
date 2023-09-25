@@ -4,7 +4,7 @@
 
 > New music breaking waves\.  Cover:   <a href="spotify:artist:6OmxkansdRyVTvo6BpZzKF">jev.</a>
 
-417 songs - 19 hr 15 min
+418 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [1722](https://open.spotify.com/track/3LZ4y6jNGLW5PiSxxqmWSI) | [OTR CHAZ](https://open.spotify.com/artist/213MrGzuo2Y7Pt3foSroEx) | [Longwood Legends](https://open.spotify.com/album/7yB6Yw9gzbtYsCOMpMfvQv) | 2:36 | 2022-09-23 | 2023-01-21 |
 | [1amNOakland](https://open.spotify.com/track/6dj2sQDRoWEo6cEmMvgENV) | [Crook Brown](https://open.spotify.com/artist/2gPnIquy3p7SSbW0rRwDdX), [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed), [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0) | [..\. And I'm A Church Kid](https://open.spotify.com/album/6AcrPSc1byA4YOAUzI7ssX) | 4:55 | 2023-07-21 |  |
 | [1OF1](https://open.spotify.com/track/4eeBkMilZ85ie8eBZCRs3O) | [T$AN](https://open.spotify.com/artist/3xxFIilHFOKX6QaoJfBYrk) | [1OF1](https://open.spotify.com/album/6baQwRelsChN4b0zmU5tRO) | 3:12 | 2022-10-28 | 2023-02-25 |
-| [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 | 2023-08-18 |  |
+| [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 | 2023-08-18 | 2023-09-25 |
+| [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 | 2023-09-22 |  |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-02-24 | 2023-08-26 |
 | [2daside](https://open.spotify.com/track/0B6gI2Eupg8MigELBFHVA8) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [2daside](https://open.spotify.com/album/6X2jYQCXoTvHFkrn2TIBfN) | 2:17 | 2022-12-30 | 2023-07-08 |
 | [2much \- YCO Jay Remix](https://open.spotify.com/track/31c1ogOXzjQb0dVHly4UT4) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [yung dastard](https://open.spotify.com/artist/29QmqvNrylI5sgRYsCvdUU), [YCO Jay](https://open.spotify.com/artist/1ySQjU8BZWZLMQD317oF2C) | [2much \(YCO Jay Remix\)](https://open.spotify.com/album/0szOMBJCj3bT35xlKq6IjA) | 3:31 | 2021-12-28 | 2022-03-26 |

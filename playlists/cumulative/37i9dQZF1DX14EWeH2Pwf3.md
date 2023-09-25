@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia 🔥 Cover: Villabanks
 
-350 songs - 17 hr 18 min
+351 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,8 @@
 | [READY 4 WAR \(feat\. Artie 5ive\)](https://open.spotify.com/track/0pwRSrIxfrAdTLbPaEtZli) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [TRENCHES BABY](https://open.spotify.com/album/2hR7F1mFXBaSuGE9dL1B7i) | 2:48 | 2023-02-09 | 2023-03-03 |
 | [Regina del Block](https://open.spotify.com/track/4YBbmdQGEgshWH71LfbFEB) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Regina del Block](https://open.spotify.com/album/4nYOFpq5MQ0Eq5KvxfqsTD) | 3:18 | 2022-08-04 | 2022-11-18 |
 | [Restare \(feat\. Lazza\)](https://open.spotify.com/track/4Vguuo2E1onl5knqW1X3fH) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:46 | 2023-05-25 |  |
-| [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 2:56 | 2023-06-22 |  |
+| [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/14ZxYiB4WZvbma2Jr15MeP) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:56 | 2023-09-21 |  |
+| [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 2:56 | 2023-06-22 | 2023-09-25 |
 | [Rozzi](https://open.spotify.com/track/3Y00k9cPoW8BnJesUEFoWn) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Rozzi](https://open.spotify.com/album/1VE1SYRNN6bjR1NAoJupok) | 2:43 | 2022-07-15 | 2022-10-28 |
 | [RUNNING \(feat\. Rondodasosa, Keta, Sacky, Nko\)](https://open.spotify.com/track/0ckLdEC7jpctzReOBNq700) | [SEVEN 7oo](https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [SEVEN 7oo Mixtape](https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG) | 2:50 | 2022-05-26 | 2022-06-24 |
 | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p) | 3:57 | 2022-07-14 | 2023-02-09 |

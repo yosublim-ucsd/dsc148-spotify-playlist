@@ -1,12 +1,12 @@
 {
   "description": "Crowdpleasing classics for an easy, carefree day.",
-  "num_followers": 419566,
+  "num_followers": 419595,
   "original_name": "Backyard BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDEwNzM0MDdiNjg1ZTdjMjMzMTI3YjM0NmNmYjA1OTFhZTJkNzlj",
+  "snapshot_id": "MCxjMmU0YTUwMjUwNWUyZjU5YzIzODExYjk2YjFmZDhhYTQ3ZGY4OWVh",
   "tracks": [
     {
       "added_at": "2023-03-23 19:38:22",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "Silk Degrees",
-        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 315640,
-      "name": "Lowdown",
-      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
         "name": "Eddie Money (2022 Remaster)",
         "url": "https://open.spotify.com/album/5gMrkmI53zEn98WDwU0iye"
       },
@@ -907,6 +891,22 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
+        "name": "Silk Degrees",
+        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 315640,
+      "name": "Lowdown",
+      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
         "name": "Pretzel Logic",
         "url": "https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 272946,
       "name": "Rikki Don't Lose That Number",
       "url": "https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
+        "name": "Al Green Explores Your Mind",
+        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
     },
     {
       "added_at": "2023-03-23 19:38:22",
@@ -967,22 +983,6 @@
       "duration_ms": 265560,
       "name": "Stone in Love",
       "url": "https://open.spotify.com/track/4cgSBnNzOo9rhwzUczB7HI"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
-        "name": "Al Green Explores Your Mind",
-        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
     },
     {
       "added_at": "2023-03-23 19:38:22",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N"
     },
     {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
-        "name": "The Next Voice You Hear - The Best Of Jackson Browne",
-        "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 262733,
-      "name": "Somebody's Baby",
-      "url": "https://open.spotify.com/track/4SlCb8n5Jw52astU7GWPyV"
-    },
-    {
       "added_at": "2023-07-05 19:06:26",
       "album": {
         "name": "The Ultimate Jackie Wilson",
@@ -1111,6 +1095,22 @@
       "duration_ms": 181066,
       "name": "(Your Love Keeps Lifting Me) Higher & Higher",
       "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
+        "name": "The Next Voice You Hear - The Best Of Jackson Browne",
+        "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 262733,
+      "name": "Somebody's Baby",
+      "url": "https://open.spotify.com/track/4SlCb8n5Jw52astU7GWPyV"
     },
     {
       "added_at": "2023-03-23 19:38:22",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "Scarecrow",
-        "url": "https://open.spotify.com/album/1BYEhfr8qQGNhbqPAbfnxk"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "R.O.C.K. In The U.S.A. (A Salute To 60's Rock)",
-      "url": "https://open.spotify.com/track/0lqfBvf1Gqmmt3l5Qeirlm"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
         "name": "You Can Tune a Piano, But You Can't Tuna Fish",
         "url": "https://open.spotify.com/album/3w0BIqN0uMoOT2l2ppKuXx"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 335826,
       "name": "Roll with the Changes",
       "url": "https://open.spotify.com/track/16x9viSmRS3PII71Pdeowc"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
+        "name": "Scarecrow",
+        "url": "https://open.spotify.com/album/1BYEhfr8qQGNhbqPAbfnxk"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "R.O.C.K. In The U.S.A. (A Salute To 60's Rock)",
+      "url": "https://open.spotify.com/track/0lqfBvf1Gqmmt3l5Qeirlm"
     },
     {
       "added_at": "2023-03-23 19:38:22",

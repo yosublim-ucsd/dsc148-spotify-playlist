@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
-  "num_followers": 126888,
+  "num_followers": 126995,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjZiMDNlMjcxZmJjYWRkMjA1ZjMyZjBjMTNiZmE3NDAyNTU2YmFi",
+  "snapshot_id": "MCxmYWIyYWU0NWUyODhmNTA5NDY4ZmIyMTE4MTQ0NTg0ZmEzOWVmZWZj",
   "tracks": [
     {
       "added_at": "2023-09-15 03:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 281234,
-      "name": "Si No Te Hubieras Ido - En Vivo",
-      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "En el Gran Rex (En Vivo)",
         "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
@@ -604,17 +588,17 @@
       "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "En Vivo",
-        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
+        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
       },
       "artists": [
         {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
         }
       ],
-      "duration_ms": 221701,
-      "name": "Tu Sin Mi - En Vivo",
-      "url": "https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl"
+      "duration_ms": 281234,
+      "name": "Si No Te Hubieras Ido - En Vivo",
+      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -635,6 +619,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 221701,
+      "name": "Tu Sin Mi - En Vivo",
+      "url": "https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "La Misma Cancion (En Vivo)",
         "url": "https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV"
       },
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 175992,
+      "name": "Adios Amor Adios - En Vivo",
+      "url": "https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "20 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1y6ODDrdp8f3kFQ4GLCXS3"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 457826,
       "name": "Pechos Calientes / Mojada por Dentro / Ando Buscando / El No Va a Venir / Voy a Morir Dentro Tuyo - En Vivo",
       "url": "https://open.spotify.com/track/4iy9NqDkaRndLAllVspQHy"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 164071,
-      "name": "Una Calle Nos Separa - En Vivo",
-      "url": "https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 164071,
+      "name": "Una Calle Nos Separa - En Vivo",
+      "url": "https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "20 A\u00f1os Agitando el Avispero (En Vivo)",
         "url": "https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 198245,
       "name": "Soy Mala Fama - En Vivo",
       "url": "https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 175992,
-      "name": "Adios Amor Adios - En Vivo",
-      "url": "https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        },
-        {
-          "name": "Cartucho",
-          "url": "https://open.spotify.com/artist/7d2PwZelcQLuNIiVcWTSGN"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Estoy Buscando un Amor - En Vivo",
-      "url": "https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "Una Copa de M\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL"
       },
@@ -931,6 +911,42 @@
       "duration_ms": 1189088,
       "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
       "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        },
+        {
+          "name": "Cartucho",
+          "url": "https://open.spotify.com/artist/7d2PwZelcQLuNIiVcWTSGN"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Estoy Buscando un Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "En Vivo en Metropolis",
+        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
+      },
+      "artists": [
+        {
+          "name": "Siete Lunas",
+          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
+        }
+      ],
+      "duration_ms": 239307,
+      "name": "Mujer C\u00f3smica - En Vivo",
+      "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -971,22 +987,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "En Vivo en Metropolis",
-        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
-      },
-      "artists": [
-        {
-          "name": "Siete Lunas",
-          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
-        }
-      ],
-      "duration_ms": 239307,
-      "name": "Mujer C\u00f3smica - En Vivo",
-      "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "Ay, Amor (En Vivo)",
         "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 496146,
-      "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
-      "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "Mi Vida (En Vivo)",
         "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 483693,
       "name": "La Ventanita / Beso a Beso",
       "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 496146,
+      "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
+      "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
     },
     {
       "added_at": "2023-09-15 03:00:00",

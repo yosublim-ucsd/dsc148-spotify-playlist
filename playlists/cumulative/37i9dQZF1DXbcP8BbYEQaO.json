@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 167000,
       "name": "A Driver Saved My Night",
       "url": "https://open.spotify.com/track/4e64oQwdgwUUADrC26DCdI"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 165924,
       "name": "Biblical",
       "url": "https://open.spotify.com/track/5CGFCCgW9mOXxWiNNIPBeG"
@@ -974,6 +974,24 @@
       "duration_ms": 208173,
       "name": "Blitz",
       "url": "https://open.spotify.com/track/3YpRE5024OrZ0lgk5zrxeZ"
+    },
+    {
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/0XlZo1mxN0Kpw8ZJOmsqD9"
+      },
+      "artists": [
+        {
+          "name": "Lxandra",
+          "url": "https://open.spotify.com/artist/6kveFlWW2CZY1bfiX51UnW"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194914,
+      "name": "Blonde",
+      "url": "https://open.spotify.com/track/74zAyvz7pMqYeRIHBOHuLn"
     },
     {
       "album": {
@@ -1208,7 +1226,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205853,
       "name": "Burn Again",
       "url": "https://open.spotify.com/track/1n0R7zfIgTGKeJOnr6P4uQ"
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 188562,
       "name": "By The End Of The Night",
       "url": "https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT"
@@ -1338,7 +1356,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 159906,
       "name": "call me when ur lonely",
       "url": "https://open.spotify.com/track/5J9KqprFnG4M82Nx8fmScr"
@@ -1360,6 +1378,24 @@
       "duration_ms": 199906,
       "name": "Calling U Back",
       "url": "https://open.spotify.com/track/5WVWQQpBJqljbZtxo19CxS"
+    },
+    {
+      "album": {
+        "name": "Can't Do Better",
+        "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188616,
+      "name": "Can't Do Better",
+      "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
     },
     {
       "album": {
@@ -1410,7 +1446,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 186927,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/6iELCGVNptm6niTRM7aKPT"
@@ -1868,7 +1904,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 162066,
       "name": "Crashland",
       "url": "https://open.spotify.com/track/2niHo9G2lJz09Rt5tAFwTp"
@@ -1980,6 +2016,24 @@
       "duration_ms": 176813,
       "name": "Dance Away The Pain",
       "url": "https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg"
+    },
+    {
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201385,
+      "name": "Dance For You",
+      "url": "https://open.spotify.com/track/08LPlXNMTR7lXbcDZBss01"
     },
     {
       "album": {
@@ -2308,7 +2362,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 199773,
       "name": "Die 4 Ur Love",
       "url": "https://open.spotify.com/track/0lpTna9kRkFgbq9htSBmOK"
@@ -2326,7 +2380,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 260252,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
@@ -2550,7 +2604,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 282386,
       "name": "Duel",
       "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
@@ -2828,7 +2882,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 142285,
       "name": "Exscape",
       "url": "https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S"
@@ -2846,7 +2900,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 150720,
       "name": "eyes don't lie",
       "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
@@ -2890,6 +2944,24 @@
       "duration_ms": 198400,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/0IWBaEf7GOwKPKHyC32E1z"
+    },
+    {
+      "album": {
+        "name": "Ten Love Songs",
+        "url": "https://open.spotify.com/album/0pOyUME049kbscTdJ0p8Rt"
+      },
+      "artists": [
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/0rb0aRVkYbrwnGF2sBhGno"
     },
     {
       "album": {
@@ -3217,6 +3289,24 @@
     },
     {
       "album": {
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1OQ0lvy9RPGBRJH1i8DJes"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285898,
+      "name": "Follow the Cyborg",
+      "url": "https://open.spotify.com/track/1HOWyFATPgYbCBMdKM1A66"
+    },
+    {
+      "album": {
         "name": "Change the Locks",
         "url": "https://open.spotify.com/album/3qgwLXeathdYuMWou6QBep"
       },
@@ -3351,6 +3441,24 @@
     },
     {
       "album": {
+        "name": "Freak Show",
+        "url": "https://open.spotify.com/album/3QMT5o7gYCcEvE4WX72Ifa"
+      },
+      "artists": [
+        {
+          "name": "Amber Van Day",
+          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213700,
+      "name": "Freak Show",
+      "url": "https://open.spotify.com/track/7INybJicoIoZH7Uy2IVyOv"
+    },
+    {
+      "album": {
         "name": "Home (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac"
       },
@@ -3450,7 +3558,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 212165,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC"
@@ -3486,7 +3594,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201399,
       "name": "Get Wild",
       "url": "https://open.spotify.com/track/05vIJo5TbBbbYo7G5bB1Zy"
@@ -4542,7 +4650,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 207667,
       "name": "I Don't Know Why",
       "url": "https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV"
@@ -4596,7 +4704,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 211733,
       "name": "I DON\u2019T WANNA DO THIS ANYMORE",
       "url": "https://open.spotify.com/track/6FguetQoUCSHkng6Fe1ofO"
@@ -5062,7 +5170,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 185564,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/5LibBRN1juZ7RiUR0e2Hax"
@@ -5152,7 +5260,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 166797,
       "name": "Iridium",
       "url": "https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr"
@@ -5271,6 +5379,24 @@
     },
     {
       "album": {
+        "name": "Ten Love Songs",
+        "url": "https://open.spotify.com/album/0pOyUME049kbscTdJ0p8Rt"
+      },
+      "artists": [
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311653,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/3MAqVPyJzkYy2qZFx24OPw"
+    },
+    {
+      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY"
       },
@@ -5304,6 +5430,24 @@
       "duration_ms": 208181,
       "name": "Keeping It In The Dark - From 13 Reasons Why - Season 3 Soundtrack",
       "url": "https://open.spotify.com/track/2XtL4VAqehOQulLpf1sFVF"
+    },
+    {
+      "album": {
+        "name": "Robots vs. Party Girls",
+        "url": "https://open.spotify.com/album/7HuimoHm8u50Be2WZk8mrb"
+      },
+      "artists": [
+        {
+          "name": "Satellite Mode",
+          "url": "https://open.spotify.com/artist/1cV2hqt2CbxlRCGh0Pvkij"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190720,
+      "name": "Kill The Choreography",
+      "url": "https://open.spotify.com/track/5uCPD62VzJld8n1aHnXAvv"
     },
     {
       "album": {
@@ -5354,7 +5498,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 184611,
       "name": "LA Hallucinations",
       "url": "https://open.spotify.com/track/4MtbYFVMUsmr37KA52ZMN0"
@@ -5408,7 +5552,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 181100,
       "name": "latenight",
       "url": "https://open.spotify.com/track/1a5JGx5dbSPHC4jqNtcqiX"
@@ -5581,6 +5725,24 @@
     },
     {
       "album": {
+        "name": "Limelight",
+        "url": "https://open.spotify.com/album/6OszKA7UjG2z5xc8c36sId"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180959,
+      "name": "Limelight",
+      "url": "https://open.spotify.com/track/4xIRhtPC9MbM2YTHYIzw32"
+    },
+    {
+      "album": {
         "name": "Ralph",
         "url": "https://open.spotify.com/album/7fvhLoXyMHDrob2ceCfytA"
       },
@@ -5704,7 +5866,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196240,
       "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/50BCSiudZXPTLHWkQzulII"
@@ -5722,7 +5884,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-29",
+      "date_removed": null,
       "duration_ms": 153214,
       "name": "Lost In The Moment",
       "url": "https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa"
@@ -5776,7 +5938,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 221440,
       "name": "LOVE IS A\u2026",
       "url": "https://open.spotify.com/track/6CEwRvoydOQAXfteUT4OUN"
@@ -5816,6 +5978,24 @@
       "duration_ms": 212660,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe"
+    },
+    {
+      "album": {
+        "name": "Forever Now",
+        "url": "https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV"
+      },
+      "artists": [
+        {
+          "name": "The Psychedelic Furs",
+          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213973,
+      "name": "Love My Way",
+      "url": "https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo"
     },
     {
       "album": {
@@ -5906,7 +6086,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 184166,
       "name": "Love You When You\u2019re Gone",
       "url": "https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B"
@@ -6076,7 +6256,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 206653,
       "name": "Mathematics",
       "url": "https://open.spotify.com/track/0LGyz7yfuD5ttvy7kOcEKp"
@@ -6382,10 +6562,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 211057,
       "name": "Naked In Manhattan",
       "url": "https://open.spotify.com/track/1IfgSUsltB1wGK9SzK7SDa"
+    },
+    {
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211057,
+      "name": "Naked In Manhattan",
+      "url": "https://open.spotify.com/track/4LKYOetuIF5c9XjeLBL9av"
     },
     {
       "album": {
@@ -6559,6 +6757,24 @@
     },
     {
       "album": {
+        "name": "Subject to Change",
+        "url": "https://open.spotify.com/album/0tUNlUVBHtya0RTVv4Gd6e"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202160,
+      "name": "Nicer",
+      "url": "https://open.spotify.com/track/2OtR9U0vsPfTeuVnvGRdo8"
+    },
+    {
+      "album": {
         "name": "Nicer",
         "url": "https://open.spotify.com/album/51HQqGdM5M4BBvSHEKaffN"
       },
@@ -6682,7 +6898,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 184009,
       "name": "No One Hurts Me Like I Hurt Myself",
       "url": "https://open.spotify.com/track/6ywGrUZvGy9ofSWeO5Ak3x"
@@ -7216,7 +7432,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 166680,
       "name": "PIECES",
       "url": "https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6"
@@ -7516,7 +7732,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 194594,
       "name": "Rear View",
       "url": "https://open.spotify.com/track/03BphqIUSACDtLxYwTx88P"
@@ -7820,7 +8036,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 242266,
       "name": "Save A Kiss",
       "url": "https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7"
@@ -8870,7 +9086,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 173949,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/1x5vRfDFUZX8DV8OxV8GHb"
@@ -8928,7 +9144,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 196760,
       "name": "tears in the club (feat. the weeknd)",
       "url": "https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg"
@@ -9188,7 +9404,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 160661,
       "name": "THE ONE",
       "url": "https://open.spotify.com/track/0NHMIpUN5tk0zbHNvkIiav"
@@ -9260,7 +9476,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 220960,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL"
@@ -9285,6 +9501,24 @@
     },
     {
       "album": {
+        "name": "Mid Air",
+        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190720,
+      "name": "The Sea",
+      "url": "https://open.spotify.com/track/3plxwjwJXQ7dyRFzJEyQ9r"
+    },
+    {
+      "album": {
         "name": "THE SNAKE",
         "url": "https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm"
       },
@@ -9296,7 +9530,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 176953,
       "name": "THE SNAKE",
       "url": "https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ"
@@ -9336,6 +9570,24 @@
       "duration_ms": 250666,
       "name": "The Streets Where I Belong",
       "url": "https://open.spotify.com/track/5YS94vzqRIexErw7hMbufA"
+    },
+    {
+      "album": {
+        "name": "Dark Hearts",
+        "url": "https://open.spotify.com/album/1dMkUqXlm5b3JxSzBmVIX5"
+      },
+      "artists": [
+        {
+          "name": "Annie",
+          "url": "https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250666,
+      "name": "The Streets Where I Belong",
+      "url": "https://open.spotify.com/track/5oCBnYVIwXXn8X7hqLBHyg"
     },
     {
       "album": {
@@ -9682,7 +9934,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 188226,
       "name": "Treat Me Right",
       "url": "https://open.spotify.com/track/6NkOdTkgyQk5fSEtwGYpE6"
@@ -10058,7 +10310,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 242922,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
@@ -10148,7 +10400,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 214754,
       "name": "What's It Gonna Be?",
       "url": "https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ"
@@ -10206,7 +10458,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 231670,
       "name": "Where Do We Go From Here?",
       "url": "https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE"
@@ -10358,7 +10610,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 253026,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw"
@@ -10460,7 +10712,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
@@ -10536,7 +10788,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 170000,
       "name": "You Know What I Need",
       "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"

@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: David Kushner",
-  "num_followers": 859945,
+  "num_followers": 860362,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWZhMTE3ZTUxZmZmNjE4ZTFhMGFlYzk2ZWUxZWU1YWYxOTcwMjk4",
+  "snapshot_id": "MCw2N2Q5ZjEzMWI2NzBhMGQ3OWJiYWIyNDAxMDhhODI5ZmEyOWFlOGJm",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -127,18 +127,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },
       "artists": [
         {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 210080,
-      "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 136378,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 207519,
       "name": "Amadeus",
       "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 136378,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Backyard Mafia",
-        "url": "https://open.spotify.com/album/5nqB1Ti9gY4zym2yDMFyLZ"
+        "name": "All Day Long",
+        "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
       },
       "artists": [
         {
-          "name": "Oscar Blue",
-          "url": "https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z"
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
         }
       ],
-      "duration_ms": 215423,
-      "name": "Backyard Mafia",
-      "url": "https://open.spotify.com/track/2aRYPnIDsVUi4QqK9Ayp7E"
+      "duration_ms": 169433,
+      "name": "All Day Long",
+      "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "All Day Long",
-        "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
+        "name": "Backyard Mafia",
+        "url": "https://open.spotify.com/album/5nqB1Ti9gY4zym2yDMFyLZ"
       },
       "artists": [
         {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+          "name": "Oscar Blue",
+          "url": "https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z"
         }
       ],
-      "duration_ms": 169433,
-      "name": "All Day Long",
-      "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
+      "duration_ms": 215423,
+      "name": "Backyard Mafia",
+      "url": "https://open.spotify.com/track/2aRYPnIDsVUi4QqK9Ayp7E"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "I've Got a Song",
-        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "See the World",
         "url": "https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 257893,
       "name": "See the World",
       "url": "https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "I've Got a Song",
+        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Misnomer",
+        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 222815,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/4WW1X6S0bh1A17DiwQ4daj"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 185663,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/6Pxyb7fZ6uksEd5XnjQvHZ"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Misnomer",
-        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 222815,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "I Know the Way Home",
-        "url": "https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR"
-      },
-      "artists": [
-        {
-          "name": "Andrew Galucki",
-          "url": "https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP"
-        }
-      ],
-      "duration_ms": 201875,
-      "name": "I Know the Way Home",
-      "url": "https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Into The Mystery",
         "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 234677,
       "name": "Into The Mystery",
       "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "I Know the Way Home",
+        "url": "https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR"
+      },
+      "artists": [
+        {
+          "name": "Andrew Galucki",
+          "url": "https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP"
+        }
+      ],
+      "duration_ms": 201875,
+      "name": "I Know the Way Home",
+      "url": "https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh"
     },
     {
       "added_at": "2023-09-22 04:00:00",

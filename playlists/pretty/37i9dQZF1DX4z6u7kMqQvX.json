@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 103476,
+  "num_followers": 103485,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmRlYTg0NzdkMzYwMDIwNjkwMDdhNTViNmViOWQ2YzQyM2M5MTYy",
+  "snapshot_id": "MCwzNDU2ZDIxYWM5Zjc2MDIwYTU1YjJjYWQxMjY5NWExZGE2OWEwNjlk",
   "tracks": [
     {
       "added_at": "2023-09-08 03:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Radar",
-        "url": "https://open.spotify.com/album/3CiE56hBxIZtHpAWZHScv5"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 162288,
-      "name": "Radar",
-      "url": "https://open.spotify.com/track/4nW9jVbdboPpVCFJ8UWeKX"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "SMS",
         "url": "https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 188660,
       "name": "Me Conecto (feat. Jorge Drexler)",
       "url": "https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Radar",
+        "url": "https://open.spotify.com/album/3CiE56hBxIZtHpAWZHScv5"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 162288,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/4nW9jVbdboPpVCFJ8UWeKX"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 192070,
-      "name": "Sad Balada",
-      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 207809,
       "name": "Duele",
       "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 192070,
+      "name": "Sad Balada",
+      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "SUPERSTICIONES",
+        "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 277143,
+      "name": "Debajo de la Superficie",
+      "url": "https://open.spotify.com/track/5m8E676DefoMURyq1aTtiG"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Ni tan Bien",
         "url": "https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 187690,
       "name": "Buen viaje",
       "url": "https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "SUPERSTICIONES",
-        "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 277143,
-      "name": "Debajo de la Superficie",
-      "url": "https://open.spotify.com/track/5m8E676DefoMURyq1aTtiG"
     }
   ],
   "unique_name": "Amor Indie",

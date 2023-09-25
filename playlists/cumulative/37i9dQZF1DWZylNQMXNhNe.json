@@ -892,10 +892,32 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 173000,
       "name": "Expl\u00edcito",
       "url": "https://open.spotify.com/track/0rjoEhu8GFQubGx7dg1KLS"
+    },
+    {
+      "album": {
+        "name": "F\u00daRIA",
+        "url": "https://open.spotify.com/album/3J5ykRCZav5xEqcZTkh7Sm"
+      },
+      "artists": [
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Expl\u00edcito",
+      "url": "https://open.spotify.com/track/3Xj55DkJLJV52GJsxTNHKp"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 500660,
+  "num_followers": 501071,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGZmNDk2MGNkZTkwNzM0NGVhMzljYmVhODVmMTc4NjczMTJjNjkz",
+  "snapshot_id": "MCxlNDM0OGE1NzY2ZDBjMjI5OWMyMzRiOWI2Y2E0Y2I0YjU0YjhhNmI2",
   "tracks": [
     {
       "added_at": "2023-09-15 11:53:19",
@@ -647,26 +647,6 @@
     {
       "added_at": "2023-09-15 11:53:19",
       "album": {
-        "name": "Big City Life",
-        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Mattafix",
-          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
-        }
-      ],
-      "duration_ms": 146711,
-      "name": "Big City Life",
-      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
-    },
-    {
-      "added_at": "2023-09-15 11:53:19",
-      "album": {
         "name": "LiEBE AUF DER R\u00dcCKBANK",
         "url": "https://open.spotify.com/album/5LVK2zDPtnyTP7Xd5NrwEB"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 188520,
       "name": "LiEBE AUF DER R\u00dcCKBANK",
       "url": "https://open.spotify.com/track/6ar9dvz5WuFLAyDGsZKLZx"
+    },
+    {
+      "added_at": "2023-09-15 11:53:19",
+      "album": {
+        "name": "Big City Life",
+        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Mattafix",
+          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
+        }
+      ],
+      "duration_ms": 146711,
+      "name": "Big City Life",
+      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
     },
     {
       "added_at": "2023-09-15 11:53:19",
@@ -707,26 +707,22 @@
     {
       "added_at": "2023-09-15 11:53:19",
       "album": {
-        "name": "Turn On The Lights again.. (feat. Future)",
-        "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
+        "name": "Would You (go to bed with me?)",
+        "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
         },
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
         }
       ],
-      "duration_ms": 267946,
-      "name": "Turn On The Lights again.. (feat. Future)",
-      "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
+      "duration_ms": 120522,
+      "name": "Would You (go to bed with me?)",
+      "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
     },
     {
       "added_at": "2023-09-15 11:53:19",
@@ -751,22 +747,26 @@
     {
       "added_at": "2023-09-15 11:53:19",
       "album": {
-        "name": "Would You (go to bed with me?)",
-        "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
+        "name": "Turn On The Lights again.. (feat. Future)",
+        "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
       },
       "artists": [
         {
-          "name": "Campbell",
-          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         },
         {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 120522,
-      "name": "Would You (go to bed with me?)",
-      "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
+      "duration_ms": 267946,
+      "name": "Turn On The Lights again.. (feat. Future)",
+      "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
     },
     {
       "added_at": "2023-09-15 11:53:19",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-09-15 11:53:19",
       "album": {
+        "name": "Heute Nacht",
+        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Heute Nacht",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
+    },
+    {
+      "added_at": "2023-09-15 11:53:19",
+      "album": {
         "name": "Marea (we\u2019ve lost dancing)",
         "url": "https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 285375,
       "name": "Marea (we\u2019ve lost dancing)",
       "url": "https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR"
-    },
-    {
-      "added_at": "2023-09-15 11:53:19",
-      "album": {
-        "name": "Heute Nacht",
-        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Heute Nacht",
-      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
     },
     {
       "added_at": "2023-09-15 11:53:19",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2023-09-15 11:53:19",
       "album": {
+        "name": "DNA (Loving You) [feat. Hannah Boleyn]",
+        "url": "https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R"
+      },
+      "artists": [
+        {
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 164919,
+      "name": "DNA (Loving You) [feat. Hannah Boleyn]",
+      "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
+    },
+    {
+      "added_at": "2023-09-15 11:53:19",
+      "album": {
         "name": "Durstl\u00f6scher",
         "url": "https://open.spotify.com/album/4RF1l08nRRHF3lWfM35bUx"
       },
@@ -1139,6 +1159,22 @@
       "duration_ms": 161440,
       "name": "Durstl\u00f6scher",
       "url": "https://open.spotify.com/track/2QAsTQ1tydZ6mhYH2FyzfG"
+    },
+    {
+      "added_at": "2023-09-15 11:53:19",
+      "album": {
+        "name": "CHASE THE SUN",
+        "url": "https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc"
+      },
+      "artists": [
+        {
+          "name": "TurboKevin",
+          "url": "https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6"
+        }
+      ],
+      "duration_ms": 211288,
+      "name": "CHASE THE SUN",
+      "url": "https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt"
     },
     {
       "added_at": "2023-09-15 11:53:19",
@@ -1175,22 +1211,6 @@
     {
       "added_at": "2023-09-15 11:53:19",
       "album": {
-        "name": "CHASE THE SUN",
-        "url": "https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc"
-      },
-      "artists": [
-        {
-          "name": "TurboKevin",
-          "url": "https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6"
-        }
-      ],
-      "duration_ms": 211288,
-      "name": "CHASE THE SUN",
-      "url": "https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt"
-    },
-    {
-      "added_at": "2023-09-15 11:53:19",
-      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq"
       },
@@ -1203,6 +1223,26 @@
       "duration_ms": 147680,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz"
+    },
+    {
+      "added_at": "2023-09-15 11:53:19",
+      "album": {
+        "name": "It's That Time",
+        "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "duration_ms": 240250,
+      "name": "It's That Time",
+      "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
     },
     {
       "added_at": "2023-09-15 11:53:19",
@@ -1231,46 +1271,6 @@
     {
       "added_at": "2023-09-15 11:53:19",
       "album": {
-        "name": "DNA (Loving You) [feat. Hannah Boleyn]",
-        "url": "https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R"
-      },
-      "artists": [
-        {
-          "name": "Billy Gillies",
-          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 164919,
-      "name": "DNA (Loving You) [feat. Hannah Boleyn]",
-      "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
-    },
-    {
-      "added_at": "2023-09-15 11:53:19",
-      "album": {
-        "name": "It's That Time",
-        "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
-        }
-      ],
-      "duration_ms": 240250,
-      "name": "It's That Time",
-      "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
-    },
-    {
-      "added_at": "2023-09-15 11:53:19",
-      "album": {
         "name": "How I Fell in Love",
         "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
       },
@@ -1283,22 +1283,6 @@
       "duration_ms": 112551,
       "name": "How I Fell in Love",
       "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
-    },
-    {
-      "added_at": "2023-09-15 11:53:19",
-      "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/1xQnVy9txnqnRnbr2nlJf2"
-      },
-      "artists": [
-        {
-          "name": "01099",
-          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
-        }
-      ],
-      "duration_ms": 131122,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/4U4wfzEfxCHCiAdPg3oage"
     },
     {
       "added_at": "2023-09-15 11:53:19",
@@ -1339,6 +1323,22 @@
       "duration_ms": 164199,
       "name": "Auf die Party",
       "url": "https://open.spotify.com/track/5qDzKUTHCUiKhewBa9STsE"
+    },
+    {
+      "added_at": "2023-09-15 11:53:19",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/1xQnVy9txnqnRnbr2nlJf2"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        }
+      ],
+      "duration_ms": 131122,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4U4wfzEfxCHCiAdPg3oage"
     },
     {
       "added_at": "2023-09-15 11:53:19",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2023-09-15 11:53:19",
       "album": {
+        "name": "Say It Right",
+        "url": "https://open.spotify.com/album/7bcU3xaRbfbL62Gg6xj8ZH"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        },
+        {
+          "name": "Enny-Mae",
+          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
+        }
+      ],
+      "duration_ms": 165209,
+      "name": "Say It Right",
+      "url": "https://open.spotify.com/track/7v9PgkhtIlivxuFXO1Dl1V"
+    },
+    {
+      "added_at": "2023-09-15 11:53:19",
+      "album": {
         "name": "Push Up (Pusher Babe)",
         "url": "https://open.spotify.com/album/0ltiwZYAZlN3aY40yTLrJa"
       },
@@ -1667,26 +1687,6 @@
       "duration_ms": 131200,
       "name": "Push Up (Pusher Babe)",
       "url": "https://open.spotify.com/track/3vh4Xnm5Fi1lezdC1y5dZv"
-    },
-    {
-      "added_at": "2023-09-15 11:53:19",
-      "album": {
-        "name": "Say It Right",
-        "url": "https://open.spotify.com/album/7bcU3xaRbfbL62Gg6xj8ZH"
-      },
-      "artists": [
-        {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
-        },
-        {
-          "name": "Enny-Mae",
-          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
-        }
-      ],
-      "duration_ms": 165209,
-      "name": "Say It Right",
-      "url": "https://open.spotify.com/track/7v9PgkhtIlivxuFXO1Dl1V"
     },
     {
       "added_at": "2023-09-15 11:53:19",
@@ -1743,6 +1743,26 @@
     {
       "added_at": "2023-09-15 11:53:19",
       "album": {
+        "name": "S&M (With Chacel) [HYPERTECHNO Edit]",
+        "url": "https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        },
+        {
+          "name": "Chacel",
+          "url": "https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep"
+        }
+      ],
+      "duration_ms": 178614,
+      "name": "S&M (With Chacel) - HYPERTECHNO Edit",
+      "url": "https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM"
+    },
+    {
+      "added_at": "2023-09-15 11:53:19",
+      "album": {
         "name": "Mein kleines Herz (Bam Bam)",
         "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
       },
@@ -1767,42 +1787,22 @@
     {
       "added_at": "2023-09-15 11:53:19",
       "album": {
-        "name": "S&M (With Chacel) [HYPERTECHNO Edit]",
-        "url": "https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK"
+        "name": "About You Now (How I Feel)",
+        "url": "https://open.spotify.com/album/4a22kWJ4n6KE7apkohVxKp"
       },
       "artists": [
         {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
         },
         {
-          "name": "Chacel",
-          "url": "https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep"
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
         }
       ],
-      "duration_ms": 178614,
-      "name": "S&M (With Chacel) - HYPERTECHNO Edit",
-      "url": "https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM"
-    },
-    {
-      "added_at": "2023-09-15 11:53:19",
-      "album": {
-        "name": "Maneater",
-        "url": "https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw"
-      },
-      "artists": [
-        {
-          "name": "JKRS",
-          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
-        },
-        {
-          "name": "ECHO",
-          "url": "https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p"
+      "duration_ms": 162352,
+      "name": "About You Now (How I Feel)",
+      "url": "https://open.spotify.com/track/3Ipu6e4dwxdt8lmSI27ZFx"
     }
   ],
   "unique_name": "schiebt anders",

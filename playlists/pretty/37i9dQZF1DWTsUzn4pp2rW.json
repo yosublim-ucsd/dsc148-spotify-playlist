@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 138272,
+  "num_followers": 138363,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGQ2MDlhYWY0ZmUwZmZmNDk1ZTAwYTdhNGI2OGViZjRjZmYzNzJk",
+  "snapshot_id": "MCw3NGQ4Yjk4MWEwZDAxYTg0OGI0ODU5YmZmYjI3NDJhY2E0NGI1OTEz",
   "tracks": [
     {
       "added_at": "2023-09-22 00:01:00",
@@ -643,22 +643,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Don't Forget Me (When I'm Gone)",
-        "url": "https://open.spotify.com/album/2cjK6kxgKI8C2cv4zYqezC"
+        "name": "Make Someone Happy",
+        "url": "https://open.spotify.com/album/1jjxzX4wNzRiTETj76qlrz"
       },
       "artists": [
         {
-          "name": "Les Crossaders",
-          "url": "https://open.spotify.com/artist/2MmYl6uhjTpPB6mSnNOWHv"
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
         },
         {
-          "name": "Julie Benson",
-          "url": "https://open.spotify.com/artist/7I0kExgxiEOZ7JuzhE6mtZ"
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 184250,
-      "name": "Don't Forget Me (When I'm Gone)",
-      "url": "https://open.spotify.com/track/6DMbtQe33VCzkhmEQbjzYc"
+      "duration_ms": 282702,
+      "name": "Make Someone Happy",
+      "url": "https://open.spotify.com/track/1NwlQ1rL7MkuJppWF7lnHb"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -695,22 +695,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Make Someone Happy",
-        "url": "https://open.spotify.com/album/1jjxzX4wNzRiTETj76qlrz"
+        "name": "Don't Forget Me (When I'm Gone)",
+        "url": "https://open.spotify.com/album/2cjK6kxgKI8C2cv4zYqezC"
       },
       "artists": [
         {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+          "name": "Les Crossaders",
+          "url": "https://open.spotify.com/artist/2MmYl6uhjTpPB6mSnNOWHv"
         },
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Julie Benson",
+          "url": "https://open.spotify.com/artist/7I0kExgxiEOZ7JuzhE6mtZ"
         }
       ],
-      "duration_ms": 282702,
-      "name": "Make Someone Happy",
-      "url": "https://open.spotify.com/track/1NwlQ1rL7MkuJppWF7lnHb"
+      "duration_ms": 184250,
+      "name": "Don't Forget Me (When I'm Gone)",
+      "url": "https://open.spotify.com/track/6DMbtQe33VCzkhmEQbjzYc"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
-      },
-      "artists": [
-        {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
-        }
-      ],
-      "duration_ms": 91613,
-      "name": "Live Without You",
-      "url": "https://open.spotify.com/track/6Z175630nXFIv5o6wY47aF"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "This Too Shall Pass",
         "url": "https://open.spotify.com/album/4Vouu0GOiGtA7ivgYNZoJV"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 201979,
       "name": "This Too Shall Pass",
       "url": "https://open.spotify.com/track/0YtEa0cfa0txTHV99HVpNW"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+      },
+      "artists": [
+        {
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+        }
+      ],
+      "duration_ms": 91613,
+      "name": "Live Without You",
+      "url": "https://open.spotify.com/track/6Z175630nXFIv5o6wY47aF"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -847,6 +847,34 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Your Song",
+        "url": "https://open.spotify.com/album/5wgdPiD77nrKUBiW7ptss4"
+      },
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        },
+        {
+          "name": "Michael Wollny",
+          "url": "https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS"
+        },
+        {
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Wolfgang Haffner",
+          "url": "https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh"
+        }
+      ],
+      "duration_ms": 270847,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/0OelgOpyjbEyc1agABKR4P"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Cinematic",
         "url": "https://open.spotify.com/album/24OOx2oXqqdfOo5XRbjVUI"
       },
@@ -899,34 +927,6 @@
       "duration_ms": 249860,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/02ycfzy7qpE24I6NO7wPwO"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Your Song",
-        "url": "https://open.spotify.com/album/5wgdPiD77nrKUBiW7ptss4"
-      },
-      "artists": [
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        },
-        {
-          "name": "Michael Wollny",
-          "url": "https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS"
-        },
-        {
-          "name": "Lars Danielsson",
-          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
-        },
-        {
-          "name": "Wolfgang Haffner",
-          "url": "https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh"
-        }
-      ],
-      "duration_ms": 270847,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/0OelgOpyjbEyc1agABKR4P"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "H I M",
-        "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
-      },
-      "artists": [
-        {
-          "name": "Louis Amanti",
-          "url": "https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu"
-        }
-      ],
-      "duration_ms": 220728,
-      "name": "H I M",
-      "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Taller",
         "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 188413,
       "name": "You Can't Hide Away From Love",
       "url": "https://open.spotify.com/track/5wT4caQu7Qdom8A3ADhyYx"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "H I M",
+        "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
+      },
+      "artists": [
+        {
+          "name": "Louis Amanti",
+          "url": "https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu"
+        }
+      ],
+      "duration_ms": 220728,
+      "name": "H I M",
+      "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Melodic Canvas",
-        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
-      },
-      "artists": [
-        {
-          "name": "Robin Mckelle",
-          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
-        }
-      ],
-      "duration_ms": 207396,
-      "name": "Do You Believe",
-      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Much Rain",
         "url": "https://open.spotify.com/album/6Rl3a9T2VTGwCita9jJTeo"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 286678,
       "name": "Much Rain",
       "url": "https://open.spotify.com/track/3R7Cy7vHabyoHeWey6n6Dn"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Melodic Canvas",
+        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
+      },
+      "artists": [
+        {
+          "name": "Robin Mckelle",
+          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
+        }
+      ],
+      "duration_ms": 207396,
+      "name": "Do You Believe",
+      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Free Afternoon",
-        "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
-      },
-      "artists": [
-        {
-          "name": "Guilherme Cunha Ribeiro",
-          "url": "https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "A Better One for You",
-      "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Sugilite",
         "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 278961,
       "name": "Sugilite",
       "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Free Afternoon",
+        "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Cunha Ribeiro",
+          "url": "https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "A Better One for You",
+      "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "A Little Love",
-        "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
-      },
-      "artists": [
-        {
-          "name": "Quiana Lynell",
-          "url": "https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48"
-        }
-      ],
-      "duration_ms": 295560,
-      "name": "Move Me No Mountain",
-      "url": "https://open.spotify.com/track/4obdTojML5jR0RzMOmJEJa"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "The Window",
         "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 311002,
       "name": "Visions",
       "url": "https://open.spotify.com/track/5N3rW3s7zDsbSxLV3ERubK"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
+      },
+      "artists": [
+        {
+          "name": "Quiana Lynell",
+          "url": "https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48"
+        }
+      ],
+      "duration_ms": 295560,
+      "name": "Move Me No Mountain",
+      "url": "https://open.spotify.com/track/4obdTojML5jR0RzMOmJEJa"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
-      },
-      "artists": [
-        {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Spaceman",
-      "url": "https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Trying Times",
         "url": "https://open.spotify.com/album/5BA2kBYkdmrhKWtk3YY8ti"
       },
@@ -1915,6 +1899,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+      },
+      "artists": [
+        {
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Spaceman",
+      "url": "https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Can't Fight Love",
         "url": "https://open.spotify.com/album/5sA7cYMhDl7Xqx8fPmHpZV"
       },
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "When The Stars Align",
-        "url": "https://open.spotify.com/album/4LcdQw5uwritvZ25c3Bash"
-      },
-      "artists": [
-        {
-          "name": "Caleb Dinger",
-          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "When The Stars Align",
-      "url": "https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Same Soul",
         "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 293504,
       "name": "Your Hands",
       "url": "https://open.spotify.com/track/5L2WZHdSzV9rCsK6KWxb2E"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "When The Stars Align",
+        "url": "https://open.spotify.com/album/4LcdQw5uwritvZ25c3Bash"
+      },
+      "artists": [
+        {
+          "name": "Caleb Dinger",
+          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "When The Stars Align",
+      "url": "https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -2011,22 +2011,6 @@
       "duration_ms": 138320,
       "name": "Lime",
       "url": "https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
-      },
-      "artists": [
-        {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Okay Far Away",
-      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -2079,6 +2063,22 @@
       "duration_ms": 210454,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5U16vigbwV6tA5v9XHCm4h"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+      },
+      "artists": [
+        {
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "Okay Far Away",
+      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -2151,38 +2151,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Humphrey and Me",
-        "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
-      },
-      "artists": [
-        {
-          "name": "Claes Janson",
-          "url": "https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712"
-        }
-      ],
-      "duration_ms": 267355,
-      "name": "Humphrey and me",
-      "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Kettle",
-        "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
-      },
-      "artists": [
-        {
-          "name": "Ella Frank",
-          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Kettle",
-      "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Infant Eyes (Edit)",
         "url": "https://open.spotify.com/album/393PRcPTjHGLjUJrvFTihd"
       },
@@ -2203,6 +2171,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Kettle",
+        "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
+      },
+      "artists": [
+        {
+          "name": "Ella Frank",
+          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Kettle",
+      "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "A Bridge",
         "url": "https://open.spotify.com/album/6wFwaP0tCpw8N8PPYFEQIZ"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 243666,
       "name": "A Bridge",
       "url": "https://open.spotify.com/track/4PGyTgWYuHcMWhJBT7Rulv"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Humphrey and Me",
+        "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
+      },
+      "artists": [
+        {
+          "name": "Claes Janson",
+          "url": "https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712"
+        }
+      ],
+      "duration_ms": 267355,
+      "name": "Humphrey and me",
+      "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Love Rushes Past",
-        "url": "https://open.spotify.com/album/50bndooKOa7btzN0Y4vNC0"
-      },
-      "artists": [
-        {
-          "name": "A Blue Flame",
-          "url": "https://open.spotify.com/artist/38HZpPrz1oAtH4g0pq1oUo"
-        }
-      ],
-      "duration_ms": 160629,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "All For One",
         "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 282800,
       "name": "My Ship",
       "url": "https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Love Rushes Past",
+        "url": "https://open.spotify.com/album/50bndooKOa7btzN0Y4vNC0"
+      },
+      "artists": [
+        {
+          "name": "A Blue Flame",
+          "url": "https://open.spotify.com/artist/38HZpPrz1oAtH4g0pq1oUo"
+        }
+      ],
+      "duration_ms": 160629,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Follow",
-        "url": "https://open.spotify.com/album/0qcy7sm9UaA9qKFSOHVlvD"
-      },
-      "artists": [
-        {
-          "name": "Ragnar H",
-          "url": "https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT"
-        }
-      ],
-      "duration_ms": 232350,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/17BdO3lx1ovJHyELPJxIYa"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Heaven's King",
         "url": "https://open.spotify.com/album/5XY9ss7WjGTbJ4ZgtzmReQ"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 215352,
       "name": "Heaven's King",
       "url": "https://open.spotify.com/track/1GGuMQPqHVoalqP8uMHRmX"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/0qcy7sm9UaA9qKFSOHVlvD"
+      },
+      "artists": [
+        {
+          "name": "Ragnar H",
+          "url": "https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT"
+        }
+      ],
+      "duration_ms": 232350,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/17BdO3lx1ovJHyELPJxIYa"
     }
   ],
   "unique_name": "Jazz Pop",

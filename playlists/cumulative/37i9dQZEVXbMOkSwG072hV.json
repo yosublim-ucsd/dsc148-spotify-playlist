@@ -2885,6 +2885,40 @@
     },
     {
       "album": {
+        "name": "AUTOMOTIVO MORRO DO SAPO",
+        "url": "https://open.spotify.com/album/7xlFk7uWA9VEjmokaj30WS"
+      },
+      "artists": [
+        {
+          "name": "DJ Lukinhas 011",
+          "url": "https://open.spotify.com/artist/3nvX0kitJrrZnavNshtXeO"
+        },
+        {
+          "name": "CLUB DA DZ7",
+          "url": "https://open.spotify.com/artist/0OYVtrqGQ97ub2QGLNbOql"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "MC LIPEX",
+          "url": "https://open.spotify.com/artist/0ec8S8fFaIBKnKTTGcEZon"
+        },
+        {
+          "name": "Mc Magrinho",
+          "url": "https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126303,
+      "name": "AUTOMOTIVO MORRO DO SAPO",
+      "url": "https://open.spotify.com/track/150zX7fhfeBsCOuiSuvwMo"
+    },
+    {
+      "album": {
         "name": "Automotivo Psicod\u00e9lico",
         "url": "https://open.spotify.com/album/57DTtEecsPTaWkwPgHsCXS"
       },
@@ -16378,7 +16412,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 177230,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
@@ -18572,6 +18606,24 @@
       "duration_ms": 163880,
       "name": "Mant\u00e9m o Pique",
       "url": "https://open.spotify.com/track/4Fd1cs4q4oA95DmqiPSXhO"
+    },
+    {
+      "album": {
+        "name": "Mulheres Que Correm",
+        "url": "https://open.spotify.com/album/5ajBCpB4gYmVKTmSRIHd8I"
+      },
+      "artists": [
+        {
+          "name": "Bea Duarte",
+          "url": "https://open.spotify.com/artist/5LwfyJYVJBnqzbueSiWQqe"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Mar",
+      "url": "https://open.spotify.com/track/69BDkdG5O2JB5e1ZbvMEjO"
     },
     {
       "album": {
@@ -27758,7 +27810,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 174627,
       "name": "Ritmadinha Magn\u00edfica",
       "url": "https://open.spotify.com/track/3iYnR3R920UjhmWaWI9OiE"

@@ -1,12 +1,12 @@
 {
   "description": "Replongez dans les plus grands tubes d'\u00e9t\u00e9",
-  "num_followers": 71400,
+  "num_followers": 71410,
   "original_name": "Flashback tubes de l'\u00e9t\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjA3Njk2NDUyZmIxZDM2MGNiMDVhNjIwMWIwNjgyMmE2YjY1MmNm",
+  "snapshot_id": "MCxkMWNlZmQ4NzZhZDE5ZjAyNjRiNTg1ZDVhMWM0NzQ0OWFhMGJjNzY5",
   "tracks": [
     {
       "added_at": "2023-09-06 08:00:00",
@@ -79,18 +79,26 @@
     {
       "added_at": "2023-09-06 08:00:00",
       "album": {
-        "name": "Jubel EP",
-        "url": "https://open.spotify.com/album/29EeCNBZxGVdwHUAyos10R"
+        "name": "Jubel",
+        "url": "https://open.spotify.com/album/0YmJBTpPvSVH3KouPoO8Wk"
       },
       "artists": [
         {
-          "name": "Klingande",
-          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
+          "name": "Konina",
+          "url": "https://open.spotify.com/artist/6KvaDqIuZn68YGfuSbdXBj"
+        },
+        {
+          "name": "Reaxys",
+          "url": "https://open.spotify.com/artist/53cQlT5Jn4pGKkvVDgifkI"
+        },
+        {
+          "name": "Deluxe1337",
+          "url": "https://open.spotify.com/artist/1h8UsH6AbwP6Bk8PE46coV"
         }
       ],
-      "duration_ms": 198920,
-      "name": "Jubel - Radio Edit",
-      "url": "https://open.spotify.com/track/58VSx2Adlz83g6YVDdJ0zR"
+      "duration_ms": 200150,
+      "name": "Jubel",
+      "url": "https://open.spotify.com/track/5m6adNVeSWlJoP0c0smACx"
     },
     {
       "added_at": "2023-09-06 08:00:00",

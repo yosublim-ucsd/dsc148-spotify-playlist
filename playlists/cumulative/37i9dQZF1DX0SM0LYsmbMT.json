@@ -2066,7 +2066,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 124500,
       "name": "All Day",
       "url": "https://open.spotify.com/track/6txWAmBuNC0wGG9SzL6MRd"
@@ -29097,6 +29097,24 @@
     },
     {
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/5uUb9ixhJKIFVpJktTFair"
+      },
+      "artists": [
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134250,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/2Q0Sgox8fZRoqE61pD9m2y"
+    },
+    {
+      "album": {
         "name": "infinity",
         "url": "https://open.spotify.com/album/235sBSaHxVy5qDfDIpEfGO"
       },
@@ -40465,6 +40483,32 @@
     },
     {
       "album": {
+        "name": "Monte Carle",
+        "url": "https://open.spotify.com/album/0Jyb0EzJJjvPcyn4rfzj8q"
+      },
+      "artists": [
+        {
+          "name": "DLJ",
+          "url": "https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA"
+        },
+        {
+          "name": "\u00d8DYSSEE",
+          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
+        },
+        {
+          "name": "Florent Garcia",
+          "url": "https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138214,
+      "name": "Monte Carle",
+      "url": "https://open.spotify.com/track/4Y4dzMppLM00JInQ1bwdVa"
+    },
+    {
+      "album": {
         "name": "Monte Figasso",
         "url": "https://open.spotify.com/album/3KXpx9PC6zE0nE3FtGHWQ1"
       },
@@ -46484,7 +46528,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 113962,
       "name": "Otters",
       "url": "https://open.spotify.com/track/3wXlfGmKCqG30LxBj0zERw"

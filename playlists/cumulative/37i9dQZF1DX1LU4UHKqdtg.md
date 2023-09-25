@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: TOMORROW X TOGETHER + Anitta
 
-745 songs - 1 day 16 hr 48 min
+746 songs - 1 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [BLUE MOON](https://open.spotify.com/track/2CETP9YyMZchRIxp7z5LUf) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [BLUE MOON](https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh) | 2:51 | 2023-07-20 | 2023-08-17 |
 | [Bomb](https://open.spotify.com/track/14lY3e4KuLUT46WQWfKYKb) | [NIK](https://open.spotify.com/artist/69SEqE4oh5qoU6hHbebPvg) | [Bomb](https://open.spotify.com/album/5irXJnIU6jn0pBqRbe4z3c) | 3:05 | 2021-12-23 | 2022-01-05 |
 | [BONA BONA](https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [2ND FULL ALBUM 'REBOOT'](https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR) | 3:32 | 2023-07-28 |  |
+| [BONA BONA \- JP ver.](https://open.spotify.com/track/6MHC1y7Gd5U1aX2hsuTPBC) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [BONA BONA \(JP ver.\)](https://open.spotify.com/album/50GXqalTtZzcK9wjXu4gSK) | 3:32 | 2023-09-21 |  |
 | [BONVOYAGE](https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : From us\]](https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA) | 3:33 | 2023-05-25 | 2023-07-26 |
 | [BONVOYAGE \(Farewell Ver.\)](https://open.spotify.com/track/4xiuarCywWiw9qESd8Y7ng) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[BONVOYAGE \(Farewell Ver.\)\]](https://open.spotify.com/album/2oBHZWKC421qcUeMZLYNTO) | 3:32 | 2023-09-13 |  |
 | [Boogie Woogie](https://open.spotify.com/track/354txxGRPRqIHqPcSvibQP) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Boogie Woogie](https://open.spotify.com/album/0uK36l0cCAoyopQr6vVJEs) | 3:10 | 2022-08-11 | 2022-10-19 |

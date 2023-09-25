@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joyce Blessing ",
-  "num_followers": 4593,
+  "num_followers": 4662,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmMxNDYxYTc0YWY3NjkxZWU1ZGNiY2RmNDQwMWJhY2E5ZjVlMmQ1",
+  "snapshot_id": "MCxiYmY3NTA1MjJkYzY2ZjQ2NjIyYTdmNjg5ZDBjNzU0NWY5ZmMyYWI3",
   "tracks": [
     {
       "added_at": "2023-09-14 23:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
+        "name": "VICTORY",
+        "url": "https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU"
+      },
+      "artists": [
+        {
+          "name": "Joyce Blessing",
+          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
+        }
+      ],
+      "duration_ms": 236769,
+      "name": "VICTORY",
+      "url": "https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
         "name": "Deeper Touch",
         "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 781930,
       "name": "Deeper Medley",
       "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
-        "name": "Nyansabuakwa Nyame",
-        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 356200,
-      "name": "Nyansabuakwa Nyame",
-      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "VICTORY",
-        "url": "https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU"
+        "name": "Nyansabuakwa Nyame",
+        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
       },
       "artists": [
         {
-          "name": "Joyce Blessing",
-          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
         }
       ],
-      "duration_ms": 236769,
-      "name": "VICTORY",
-      "url": "https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW"
+      "duration_ms": 356200,
+      "name": "Nyansabuakwa Nyame",
+      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
     },
     {
       "added_at": "2023-09-14 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse liedjes! Cover: Suzan & Freek
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,508 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,547 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,25 +20,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 10 | [Niet Breken](https://open.spotify.com/track/4iv7QWrytOLIRIECHBJkqP) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Niet Breken](https://open.spotify.com/album/0uXGmsQzYBGfNPpsfP3vos) | 2:41 |
 | 11 | [Dit Is Wat Mijn Mama Zei](https://open.spotify.com/track/5QJoojtfYodIvWSfpeCcHh) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Metejoor](https://open.spotify.com/album/5i4UsOo0PWot8lF2p1JW0W) | 2:57 |
 | 12 | [Vrouw Van De Wereld](https://open.spotify.com/track/3ssFHRmjHtu6ZwSd8mCjCj) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/303su5NnOpJDJzlO9YNrGT) | 2:38 |
-| 13 | [Vanavond Komt Ze Naar Mij](https://open.spotify.com/track/1XlUhojwsf89SFoxuwvXW8) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [Vanavond Komt Ze Naar Mij](https://open.spotify.com/album/1kTXTth3kzIUg2mtiUxyOt) | 3:08 |
-| 14 | [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/7nyjc67qu7HJm24mjSspcb) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/6SY21zr7uf71GLBZxXsITj) | 3:07 |
-| 15 | [Niet Naar Huis](https://open.spotify.com/track/4ouO2G1LVrl7auDWbrI89h) | [Ayden](https://open.spotify.com/artist/4AD3pq7Rxp3tKxr0yGp0DS) | [Niet Naar Huis](https://open.spotify.com/album/5aRqWwUO68r33MD812weKs) | 2:15 |
-| 16 | [Kapitein](https://open.spotify.com/track/39lfuCGvxLUu5zIx5C9Y1C) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Kapitein](https://open.spotify.com/album/5Dz5CfH58kYE9nAwNwiFH3) | 3:14 |
-| 17 | [Sinds Jij Me Verliet](https://open.spotify.com/track/3bvoxX2yaOEYhID3YZ4ed4) | [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa), [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Beste Zangers 2023 \(Aflevering 1 \- Douwe Bob\)](https://open.spotify.com/album/6JfYuS9zHxWyNqrDj1RMYZ) | 3:05 |
-| 18 | [Ik Denk Aan Jou](https://open.spotify.com/track/0WEVWA0uwMVFLFsYUvLsin) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Ik Denk Aan Jou](https://open.spotify.com/album/6zlSdwdzvjhV2jFo2vMeSb) | 3:36 |
-| 19 | [Alleen](https://open.spotify.com/track/1SMbXa6Ri7Rg2lxsBbKvBB) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Alleen](https://open.spotify.com/album/3xbBtizQWbEZtmQrgK3jpA) | 3:19 |
-| 20 | [Mijn Stad](https://open.spotify.com/track/38BGAS5sGF07IDiQBe9TpO) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Mijn Stad](https://open.spotify.com/album/0dpAll3S247sdlkRXBGtrL) | 3:02 |
-| 21 | [Onderweg](https://open.spotify.com/track/2q0ZsFK74e4eZskq758hE8) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [NIELS](https://open.spotify.com/album/55kSSo7UN20j1iM7uW80yO) | 2:55 |
-| 22 | [Dansplaat](https://open.spotify.com/track/57EktM9Ekh0zIeVkRsWuou) | [Wander](https://open.spotify.com/artist/0AIzSAisaARpSG26MvzYyM) | [Dansplaat](https://open.spotify.com/album/2nw1l5iN2YxAGmRwLhoJhE) | 2:41 |
-| 23 | [Eigen Weg](https://open.spotify.com/track/2KPnl58uwUlx0wCRVOpZfj) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Eigen Weg](https://open.spotify.com/album/73AN0JXVr2eGgLp6rbVaL3) | 3:06 |
-| 24 | [ZO BEN JIJ](https://open.spotify.com/track/4DzdniulQXcwnnjUabxHLb) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [ZO BEN JIJ](https://open.spotify.com/album/4LY7izKbtV5aoHaQfDbmtn) | 2:02 |
-| 25 | [Wijze Woorden](https://open.spotify.com/track/1bWzMQ61eGySrjcQEX9TeS) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Wijze Woorden](https://open.spotify.com/album/0pOEH0NO9fj05LMjBAzEwG) | 2:16 |
-| 26 | [Zonder Jou](https://open.spotify.com/track/73O00q0bRA60M6LoVfrIpd) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Opzij](https://open.spotify.com/album/1PTTVXcXVkjmFovny2Is4C) | 3:03 |
-| 27 | [Magneet](https://open.spotify.com/track/6vKcQiib6tIYFtfygjwhWd) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Magneet](https://open.spotify.com/album/0euEcmBRqP9kRVeMyFbL3L) | 2:35 |
-| 28 | [Tranen Op Papier](https://open.spotify.com/track/3iphWgm8BldXfWkj7q6b0Y) | [Phillis](https://open.spotify.com/artist/0N9WidPPwB2dGm2q8umfFp) | [Tranen Op Papier](https://open.spotify.com/album/2Ig57EddQLFhqGTAx656F2) | 2:48 |
-| 29 | [Beter Af Alleen](https://open.spotify.com/track/5JsAI0uoaOOCM3PncU5vm8) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Dit Is Het Levenslied](https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc) | 2:48 |
-| 30 | [Kop In The Sand](https://open.spotify.com/track/4XCw1TmwEKcU2rbUQAvSNk) | [The Dean](https://open.spotify.com/artist/6ado6OQHT11e73WVhbAo4c) | [Kop In The Sand](https://open.spotify.com/album/3lRqcRvlYbaqK65LTnUZno) | 2:12 |
-| 31 | [Verblind Door De Liefde](https://open.spotify.com/track/6hNBsoqPGscZ7n3AkylGUA) | [Ginger](https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD) | [Verblind Door De Liefde](https://open.spotify.com/album/4nibfUi3NOq37haZTqiMkI) | 2:11 |
+| 13 | [Verblind Door De Liefde](https://open.spotify.com/track/6hNBsoqPGscZ7n3AkylGUA) | [Ginger](https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD) | [Verblind Door De Liefde](https://open.spotify.com/album/4nibfUi3NOq37haZTqiMkI) | 2:11 |
+| 14 | [Vanavond Komt Ze Naar Mij](https://open.spotify.com/track/1XlUhojwsf89SFoxuwvXW8) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [Vanavond Komt Ze Naar Mij](https://open.spotify.com/album/1kTXTth3kzIUg2mtiUxyOt) | 3:08 |
+| 15 | [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/7nyjc67qu7HJm24mjSspcb) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/6SY21zr7uf71GLBZxXsITj) | 3:07 |
+| 16 | [Niet Naar Huis](https://open.spotify.com/track/4ouO2G1LVrl7auDWbrI89h) | [Ayden](https://open.spotify.com/artist/4AD3pq7Rxp3tKxr0yGp0DS) | [Niet Naar Huis](https://open.spotify.com/album/5aRqWwUO68r33MD812weKs) | 2:15 |
+| 17 | [Kapitein](https://open.spotify.com/track/39lfuCGvxLUu5zIx5C9Y1C) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Kapitein](https://open.spotify.com/album/5Dz5CfH58kYE9nAwNwiFH3) | 3:14 |
+| 18 | [Sinds Jij Me Verliet](https://open.spotify.com/track/3bvoxX2yaOEYhID3YZ4ed4) | [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa), [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Beste Zangers 2023 \(Aflevering 1 \- Douwe Bob\)](https://open.spotify.com/album/6JfYuS9zHxWyNqrDj1RMYZ) | 3:05 |
+| 19 | [Ik Denk Aan Jou](https://open.spotify.com/track/0WEVWA0uwMVFLFsYUvLsin) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Ik Denk Aan Jou](https://open.spotify.com/album/6zlSdwdzvjhV2jFo2vMeSb) | 3:36 |
+| 20 | [Alleen](https://open.spotify.com/track/1SMbXa6Ri7Rg2lxsBbKvBB) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Alleen](https://open.spotify.com/album/3xbBtizQWbEZtmQrgK3jpA) | 3:19 |
+| 21 | [Mijn Stad](https://open.spotify.com/track/38BGAS5sGF07IDiQBe9TpO) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Mijn Stad](https://open.spotify.com/album/0dpAll3S247sdlkRXBGtrL) | 3:02 |
+| 22 | [Onderweg](https://open.spotify.com/track/2q0ZsFK74e4eZskq758hE8) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [NIELS](https://open.spotify.com/album/55kSSo7UN20j1iM7uW80yO) | 2:55 |
+| 23 | [Dansplaat](https://open.spotify.com/track/57EktM9Ekh0zIeVkRsWuou) | [Wander](https://open.spotify.com/artist/0AIzSAisaARpSG26MvzYyM) | [Dansplaat](https://open.spotify.com/album/2nw1l5iN2YxAGmRwLhoJhE) | 2:41 |
+| 24 | [Eigen Weg](https://open.spotify.com/track/2KPnl58uwUlx0wCRVOpZfj) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Eigen Weg](https://open.spotify.com/album/73AN0JXVr2eGgLp6rbVaL3) | 3:06 |
+| 25 | [ZO BEN JIJ](https://open.spotify.com/track/4DzdniulQXcwnnjUabxHLb) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [ZO BEN JIJ](https://open.spotify.com/album/4LY7izKbtV5aoHaQfDbmtn) | 2:02 |
+| 26 | [Wijze Woorden](https://open.spotify.com/track/1bWzMQ61eGySrjcQEX9TeS) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Wijze Woorden](https://open.spotify.com/album/0pOEH0NO9fj05LMjBAzEwG) | 2:16 |
+| 27 | [Zonder Jou](https://open.spotify.com/track/73O00q0bRA60M6LoVfrIpd) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Opzij](https://open.spotify.com/album/1PTTVXcXVkjmFovny2Is4C) | 3:03 |
+| 28 | [Magneet](https://open.spotify.com/track/6vKcQiib6tIYFtfygjwhWd) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Magneet](https://open.spotify.com/album/0euEcmBRqP9kRVeMyFbL3L) | 2:35 |
+| 29 | [Tranen Op Papier](https://open.spotify.com/track/3iphWgm8BldXfWkj7q6b0Y) | [Phillis](https://open.spotify.com/artist/0N9WidPPwB2dGm2q8umfFp) | [Tranen Op Papier](https://open.spotify.com/album/2Ig57EddQLFhqGTAx656F2) | 2:48 |
+| 30 | [Beter Af Alleen](https://open.spotify.com/track/5JsAI0uoaOOCM3PncU5vm8) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Dit Is Het Levenslied](https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc) | 2:48 |
+| 31 | [Kop In The Sand](https://open.spotify.com/track/4XCw1TmwEKcU2rbUQAvSNk) | [The Dean](https://open.spotify.com/artist/6ado6OQHT11e73WVhbAo4c) | [Kop In The Sand](https://open.spotify.com/album/3lRqcRvlYbaqK65LTnUZno) | 2:12 |
 | 32 | [Opzij](https://open.spotify.com/track/1yoDJQ04wFrCBw9rkVgtXp) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ) | [Opzij](https://open.spotify.com/album/1PTTVXcXVkjmFovny2Is4C) | 2:22 |
 | 33 | [De Bloemen Die Je Stuurde](https://open.spotify.com/track/1Wmj2gkXgEm0xLpvO5hT4s) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [De Bloemen Die Je Stuurde](https://open.spotify.com/album/1YS93womgDgRHgIXIapToF) | 2:48 |
 | 34 | [Samen Niets Doen](https://open.spotify.com/track/2JdAWHy81J3bfqhpVSBpqE) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Samen Niets Doen](https://open.spotify.com/album/0RXtdtgH5L4SE5H6FVcA27) | 2:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [Wat Als Het Lukt](https://open.spotify.com/track/0cyNDPp11HqsUH713X7WCe) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Bliksem & Donder](https://open.spotify.com/album/4eZx6Pc0j1rRJUmpdV9ThY) | 2:32 |
 | 60 | [Zoveel Mooie Dagen](https://open.spotify.com/track/1M6fiGx0cHpGLG08fibQdr) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Zoveel Mooie Dagen](https://open.spotify.com/album/1ksQKLepRaX5VQ7EnklmDm) | 2:29 |
 
-Snapshot ID: `MCw0YjYxYmYzOWYyZjQwMGQ1YWM1NzNmNTJmN2ZkODk1YTQzYWIyNzYx`
+Snapshot ID: `MCxhMmQwZjI0NWE1Zjg4MjFkNjg5MTAzZGI0YTNiZWMxYzAzNjM3YzQ5`

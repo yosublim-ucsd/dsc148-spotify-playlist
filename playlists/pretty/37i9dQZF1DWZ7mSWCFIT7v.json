@@ -1,12 +1,12 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 93798,
+  "num_followers": 93836,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzNhZDcyMDM3NzRlODVmNTU0OTAyNGViMTczN2Y4NTE5Mzk1Mjg5",
+  "snapshot_id": "MCwxNWNjZTk1MmFjNzdhMWZkNmFhY2UxOTQzMGNjMTFmNzk1YmU3MzJm",
   "tracks": [
     {
       "added_at": "2023-05-09 01:25:54",
@@ -473,22 +473,6 @@
       "url": "https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3"
     },
     {
-      "added_at": "2022-07-08 04:56:00",
-      "album": {
-        "name": "Spirit Exit",
-        "url": "https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        }
-      ],
-      "duration_ms": 619200,
-      "name": "Knot of Spirit - Synth Version",
-      "url": "https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "that day, on the beach",
@@ -503,6 +487,22 @@
       "duration_ms": 151302,
       "name": "memorial park",
       "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
+    },
+    {
+      "added_at": "2022-07-08 04:56:00",
+      "album": {
+        "name": "Spirit Exit",
+        "url": "https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        }
+      ],
+      "duration_ms": 619200,
+      "name": "Knot of Spirit - Synth Version",
+      "url": "https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H"
     },
     {
       "added_at": "2022-03-30 15:08:41",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
-      },
-      "artists": [
-        {
-          "name": "RX-101",
-          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
-        }
-      ],
-      "duration_ms": 349575,
-      "name": "Warm Electronics Box",
-      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Tar (Jan Jelinek Remix)",
         "url": "https://open.spotify.com/album/1zhaX3Hlb8Kfbhw5guWfHW"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+      },
+      "artists": [
+        {
+          "name": "RX-101",
+          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+        }
+      ],
+      "duration_ms": 349575,
+      "name": "Warm Electronics Box",
+      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "These Days Don't Exist",
         "url": "https://open.spotify.com/album/35KsUlRwLpWdta35Pknegr"
       },
@@ -843,22 +843,6 @@
       "duration_ms": 225136,
       "name": "Dream Walk",
       "url": "https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "MP Productions - EP 1",
-        "url": "https://open.spotify.com/album/0uOT2SqsYa1IV69KqRtKhT"
-      },
-      "artists": [
-        {
-          "name": "Mark Pritchard",
-          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
-        }
-      ],
-      "duration_ms": 228395,
-      "name": "Be Like Water",
-      "url": "https://open.spotify.com/track/7Cf9U4IO5YXjaNbh45sImM"
     },
     {
       "added_at": "2022-01-13 02:57:00",
@@ -875,6 +859,22 @@
       "duration_ms": 246604,
       "name": "Elysian Heights",
       "url": "https://open.spotify.com/track/1IEHhrdBcjiZ4tZ5CiDGb3"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "MP Productions - EP 1",
+        "url": "https://open.spotify.com/album/0uOT2SqsYa1IV69KqRtKhT"
+      },
+      "artists": [
+        {
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+        }
+      ],
+      "duration_ms": 228395,
+      "name": "Be Like Water",
+      "url": "https://open.spotify.com/track/7Cf9U4IO5YXjaNbh45sImM"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -925,30 +925,6 @@
       "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
     },
     {
-      "added_at": "2023-05-24 01:46:16",
-      "album": {
-        "name": "Uncanny Otion",
-        "url": "https://open.spotify.com/album/7ALhGZWsTvpl1PHkw6FdsV"
-      },
-      "artists": [
-        {
-          "name": "J. Albert",
-          "url": "https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK"
-        },
-        {
-          "name": "Will August Park",
-          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
-        },
-        {
-          "name": "J. Albert Meets Will August Park",
-          "url": "https://open.spotify.com/artist/6HO7Umhb43EPpjgZ7ZPNYK"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Uncanny Otion",
-      "url": "https://open.spotify.com/track/1J7R9RD1DdEbDGYhuukEFc"
-    },
-    {
       "added_at": "2022-08-24 01:27:39",
       "album": {
         "name": "Eve",
@@ -979,6 +955,30 @@
       "duration_ms": 154838,
       "name": "Boreal",
       "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
+    },
+    {
+      "added_at": "2023-05-24 01:46:16",
+      "album": {
+        "name": "Uncanny Otion",
+        "url": "https://open.spotify.com/album/7ALhGZWsTvpl1PHkw6FdsV"
+      },
+      "artists": [
+        {
+          "name": "J. Albert",
+          "url": "https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK"
+        },
+        {
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+        },
+        {
+          "name": "J. Albert Meets Will August Park",
+          "url": "https://open.spotify.com/artist/6HO7Umhb43EPpjgZ7ZPNYK"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Uncanny Otion",
+      "url": "https://open.spotify.com/track/1J7R9RD1DdEbDGYhuukEFc"
     },
     {
       "added_at": "2022-03-30 04:41:43",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Street Talk",
-        "url": "https://open.spotify.com/album/5vR8ut78J1NdClW40QmtuT"
-      },
-      "artists": [
-        {
-          "name": "Holodec",
-          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
-        }
-      ],
-      "duration_ms": 229367,
-      "name": "Street Talk",
-      "url": "https://open.spotify.com/track/0fTYyY4Egxd86l8Yvvo2Ag"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "I Can Hear the Birds",
         "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 262653,
       "name": "Bundeena",
       "url": "https://open.spotify.com/track/1QNgUvacqzNDdMOkXFtMlN"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Street Talk",
+        "url": "https://open.spotify.com/album/5vR8ut78J1NdClW40QmtuT"
+      },
+      "artists": [
+        {
+          "name": "Holodec",
+          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
+        }
+      ],
+      "duration_ms": 229367,
+      "name": "Street Talk",
+      "url": "https://open.spotify.com/track/0fTYyY4Egxd86l8Yvvo2Ag"
     },
     {
       "added_at": "2022-02-25 05:11:21",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Dub Protection & The Sportswear Mystics",
+        "url": "https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e"
+      },
+      "artists": [
+        {
+          "name": "The Diabolical Liberties",
+          "url": "https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb"
+        },
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "duration_ms": 311480,
+      "name": "Dub Protection",
+      "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "L'\u00e9treinte Imaginaire",
         "url": "https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn"
       },
@@ -1211,26 +1231,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Dub Protection & The Sportswear Mystics",
-        "url": "https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e"
-      },
-      "artists": [
-        {
-          "name": "The Diabolical Liberties",
-          "url": "https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb"
-        },
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        }
-      ],
-      "duration_ms": 311480,
-      "name": "Dub Protection",
-      "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "No era s\u00f3lida",
         "url": "https://open.spotify.com/album/0yUaUPdT2DcX9f24f61T3u"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 138405,
       "name": "Seca",
       "url": "https://open.spotify.com/track/1ZEzXlxCAHHdooAXNyeecB"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 223750,
-      "name": "Summer Places",
-      "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Misplaced",
-        "url": "https://open.spotify.com/album/0QppwjRDWUS0SPwD7L1cvS"
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
       },
       "artists": [
         {
-          "name": "Fthmlss",
-          "url": "https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3"
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
         }
       ],
-      "duration_ms": 112000,
-      "name": "Treks",
-      "url": "https://open.spotify.com/track/3LLih0W5lB0xEAQxSxoBW6"
+      "duration_ms": 223750,
+      "name": "Summer Places",
+      "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1307,6 +1291,22 @@
       "duration_ms": 338734,
       "name": "Every Since And Then",
       "url": "https://open.spotify.com/track/1RNe4viqCD97PgAChQers4"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Misplaced",
+        "url": "https://open.spotify.com/album/0QppwjRDWUS0SPwD7L1cvS"
+      },
+      "artists": [
+        {
+          "name": "Fthmlss",
+          "url": "https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Treks",
+      "url": "https://open.spotify.com/track/3LLih0W5lB0xEAQxSxoBW6"
     },
     {
       "added_at": "2022-09-30 02:46:46",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Angel Tears in Sunlight",
+        "url": "https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 270539,
+      "name": "Marking Time",
+      "url": "https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Badwater Psalm (Khotin Remix)",
         "url": "https://open.spotify.com/album/7KziNRnIuC3gccBpsjS28W"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 360000,
       "name": "Badwater Psalm - Khotin Remix",
       "url": "https://open.spotify.com/track/5g1o2X09PYouRGkp13SaQu"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Angel Tears in Sunlight",
-        "url": "https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 270539,
-      "name": "Marking Time",
-      "url": "https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1489,6 +1489,22 @@
       "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Blinking/Aubades",
+        "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
+      },
+      "artists": [
+        {
+          "name": "rAHHH",
+          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
+        }
+      ],
+      "duration_ms": 220212,
+      "name": "Aubades",
+      "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
+    },
+    {
       "added_at": "2023-04-15 02:42:19",
       "album": {
         "name": "1977",
@@ -1509,22 +1525,6 @@
       "url": "https://open.spotify.com/track/5CPTy1vepzxa0zqcs7F4F1"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Blinking/Aubades",
-        "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
-      },
-      "artists": [
-        {
-          "name": "rAHHH",
-          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
-        }
-      ],
-      "duration_ms": 220212,
-      "name": "Aubades",
-      "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
-    },
-    {
       "added_at": "2022-09-21 02:21:07",
       "album": {
         "name": "Waypoints",
@@ -1539,22 +1539,6 @@
       "duration_ms": 354645,
       "name": "The Clearing Pt. 2",
       "url": "https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C"
-    },
-    {
-      "added_at": "2022-04-23 04:22:08",
-      "album": {
-        "name": "Tommy",
-        "url": "https://open.spotify.com/album/7MvAvnrcS8LfjuGWddaodU"
-      },
-      "artists": [
-        {
-          "name": "Jack Sapienza",
-          "url": "https://open.spotify.com/artist/5iZW5E9q0Iv8t0Phtp887K"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Tommy",
-      "url": "https://open.spotify.com/track/1C8rpSZ77xf4lbFnl0Tunc"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1573,6 +1557,22 @@
       "url": "https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK"
     },
     {
+      "added_at": "2022-04-23 04:22:08",
+      "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/7MvAvnrcS8LfjuGWddaodU"
+      },
+      "artists": [
+        {
+          "name": "Jack Sapienza",
+          "url": "https://open.spotify.com/artist/5iZW5E9q0Iv8t0Phtp887K"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Tommy",
+      "url": "https://open.spotify.com/track/1C8rpSZ77xf4lbFnl0Tunc"
+    },
+    {
       "added_at": "2023-03-22 17:48:40",
       "album": {
         "name": "Los muertos no lloran",
@@ -1587,6 +1587,54 @@
       "duration_ms": 340590,
       "name": "Los muertos no lloran",
       "url": "https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS"
+    },
+    {
+      "added_at": "2022-01-21 20:27:00",
+      "album": {
+        "name": "Some Way",
+        "url": "https://open.spotify.com/album/2dpL1I201z6H3710toHacQ"
+      },
+      "artists": [
+        {
+          "name": "Holodec",
+          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
+        }
+      ],
+      "duration_ms": 217494,
+      "name": "Some Way",
+      "url": "https://open.spotify.com/track/6kRLQTgIr9LSudbn03qIMN"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Fir Wave",
+        "url": "https://open.spotify.com/album/6mfZkiUX4cK5rTVfKCJFqW"
+      },
+      "artists": [
+        {
+          "name": "Hannah Peel",
+          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
+        }
+      ],
+      "duration_ms": 263750,
+      "name": "Emergence in Nature",
+      "url": "https://open.spotify.com/track/6tRS5HuyInWuZJNcTHPOSK"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 311783,
+      "name": "Park Line",
+      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1621,38 +1669,6 @@
       "url": "https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh"
     },
     {
-      "added_at": "2022-01-21 20:27:00",
-      "album": {
-        "name": "Some Way",
-        "url": "https://open.spotify.com/album/2dpL1I201z6H3710toHacQ"
-      },
-      "artists": [
-        {
-          "name": "Holodec",
-          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
-        }
-      ],
-      "duration_ms": 217494,
-      "name": "Some Way",
-      "url": "https://open.spotify.com/track/6kRLQTgIr9LSudbn03qIMN"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 311783,
-      "name": "Park Line",
-      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Inkjet / Fluo",
@@ -1671,22 +1687,6 @@
       "duration_ms": 502161,
       "name": "Fluo",
       "url": "https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA"
-    },
-    {
-      "added_at": "2023-02-16 00:21:45",
-      "album": {
-        "name": "I Can't Die as Well",
-        "url": "https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok"
-      },
-      "artists": [
-        {
-          "name": "Fire-Toolz",
-          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
-        }
-      ],
-      "duration_ms": 145774,
-      "name": "I Can't Die as Well",
-      "url": "https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45"
     }
   ],
   "unique_name": "bleeps ^ glitches",

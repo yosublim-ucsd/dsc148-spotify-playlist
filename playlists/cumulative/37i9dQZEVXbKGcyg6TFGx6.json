@@ -8187,6 +8187,36 @@
     },
     {
       "album": {
+        "name": "El Final (Remix)",
+        "url": "https://open.spotify.com/album/2TXMVtej74BAUJNGygjUl1"
+      },
+      "artists": [
+        {
+          "name": "Juanfran",
+          "url": "https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY"
+        },
+        {
+          "name": "BANDIDO",
+          "url": "https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE"
+        },
+        {
+          "name": "Carlos Feria",
+          "url": "https://open.spotify.com/artist/2HEDKrO346KAYhGfmXaE7c"
+        },
+        {
+          "name": "Carlos Heredia",
+          "url": "https://open.spotify.com/artist/6SRzo6U0ay9Os3OXc2aahJ"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273473,
+      "name": "El Final - Remix",
+      "url": "https://open.spotify.com/track/2JBdEfaJGjKAkkGGZn1Iad"
+    },
+    {
+      "album": {
         "name": "Electrical Khamsin",
         "url": "https://open.spotify.com/album/0b22SIN7JoNhruWo6oXdfN"
       },
@@ -9232,7 +9262,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 176109,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/02RGARryimtGfuawXbKj8P"
@@ -9391,6 +9421,24 @@
     },
     {
       "album": {
+        "name": "Fly High",
+        "url": "https://open.spotify.com/album/1nek0i7m66HgxqY5IFfdrc"
+      },
+      "artists": [
+        {
+          "name": "B. Austin",
+          "url": "https://open.spotify.com/artist/42JZ0WPz5nnLLEe9H3Ijgi"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286477,
+      "name": "Fly High",
+      "url": "https://open.spotify.com/track/6BVB7RupdCbWrLYXJ8eggY"
+    },
+    {
+      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/7luOpgE6z2jUos0U6uVwc4"
       },
@@ -9468,6 +9516,24 @@
       "duration_ms": 133848,
       "name": "For The Night",
       "url": "https://open.spotify.com/track/59htSVPS7Q2HPzYRNtOxAD"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3kWMqJVMAWeTfyg4wAE190"
+      },
+      "artists": [
+        {
+          "name": "Papi Giddy",
+          "url": "https://open.spotify.com/artist/3DX9g8okDgAFS8ttp2Hehs"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171757,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0ycXEADE6ra6nW7cJgX5Qm"
     },
     {
       "album": {
@@ -11576,7 +11642,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 136360,
       "name": "H\u00e4sslich",
       "url": "https://open.spotify.com/track/3an1JVi8OsE0aG6dMS4Pes"
@@ -11818,7 +11884,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -14604,6 +14670,24 @@
           "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212241,
+      "name": "Like Crazy",
+      "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
+    },
+    {
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
       "date_removed": "2023-03-27",
@@ -15480,7 +15564,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 196089,
       "name": "Magot",
       "url": "https://open.spotify.com/track/69zAnyBtarXinChSUq925t"
@@ -17378,6 +17462,32 @@
       "duration_ms": 251249,
       "name": "MY EYES",
       "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
+    },
+    {
+      "album": {
+        "name": "My Flex",
+        "url": "https://open.spotify.com/album/5uXhw6aPhwFQmng52eQoDI"
+      },
+      "artists": [
+        {
+          "name": "DJEFX",
+          "url": "https://open.spotify.com/artist/1gtiugmWqsfjfweMnPrv43"
+        },
+        {
+          "name": "Mooski",
+          "url": "https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8"
+        },
+        {
+          "name": "euro",
+          "url": "https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156841,
+      "name": "My Flex",
+      "url": "https://open.spotify.com/track/67AgOrAogVDA4tvtWnSGcR"
     },
     {
       "album": {
@@ -22413,6 +22523,24 @@
     },
     {
       "album": {
+        "name": "SKY HIGH",
+        "url": "https://open.spotify.com/album/5SPnnsGmN2OobDec35VutN"
+      },
+      "artists": [
+        {
+          "name": "NICK SOURCE",
+          "url": "https://open.spotify.com/artist/1GVihtWAJ79P6vduc1mdMU"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138433,
+      "name": "SKY HIGH",
+      "url": "https://open.spotify.com/track/7mIk7a72hvVv7DYTywl9Jg"
+    },
+    {
+      "album": {
         "name": "Jefe",
         "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
       },
@@ -22984,7 +23112,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 247506,
       "name": "Special",
       "url": "https://open.spotify.com/track/2G4C8evrYTOcMhWNSKSBoy"
@@ -26790,7 +26918,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 168146,
       "name": "Wei\u00dfes Haus",
       "url": "https://open.spotify.com/track/2EbO8k2jAHVRMVvUB77nNt"

@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 52597,
+  "num_followers": 52649,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWRkYjgzYmVlMjc1ZTQyY2Q3MzA5M2UyMmVkNDdlMmJlYjQ3MGI5",
+  "snapshot_id": "MCwzZTU4YzUzOGYzNDY1MzFiNzM0MTIxZTE3MzE0ZWU4MGYzNmUzNDRi",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "1Uptown",
-        "url": "https://open.spotify.com/album/64Vqg5KJpTMnRGHIj0LhyX"
-      },
-      "artists": [
-        {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
-        }
-      ],
-      "duration_ms": 137160,
-      "name": "1Uptown",
-      "url": "https://open.spotify.com/track/0wi1ky0zqwG8195E4omWui"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Calmc",
         "url": "https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 173844,
       "name": "Calmc",
       "url": "https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "1Uptown",
+        "url": "https://open.spotify.com/album/64Vqg5KJpTMnRGHIj0LhyX"
+      },
+      "artists": [
+        {
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+        }
+      ],
+      "duration_ms": 137160,
+      "name": "1Uptown",
+      "url": "https://open.spotify.com/track/0wi1ky0zqwG8195E4omWui"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Stay Clean",
-        "url": "https://open.spotify.com/album/7o6IYuy24165gpEsv12hUQ"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        },
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 159022,
-      "name": "Stay Clean",
-      "url": "https://open.spotify.com/track/0uHxgbtjFtgFnvZddrENzf"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Imperfections",
         "url": "https://open.spotify.com/album/4Y6O56WU1RCfEXPmBnMhFf"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 166687,
       "name": "Imperfections",
       "url": "https://open.spotify.com/track/7Hly3BuOvebTEuRRRKjsGC"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Stay Clean",
+        "url": "https://open.spotify.com/album/7o6IYuy24165gpEsv12hUQ"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 159022,
+      "name": "Stay Clean",
+      "url": "https://open.spotify.com/track/0uHxgbtjFtgFnvZddrENzf"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Twerk Fi Mi Dolly",
-        "url": "https://open.spotify.com/album/1UlYEOozHX0d5gYeTP3CW0"
-      },
-      "artists": [
-        {
-          "name": "JayBlem",
-          "url": "https://open.spotify.com/artist/0kEFO0oiPQw4rcBplHjRuS"
-        }
-      ],
-      "duration_ms": 97488,
-      "name": "Twerk Fi Mi Dolly",
-      "url": "https://open.spotify.com/track/7FN8Ds6SKp6Ry8XQ34UCkB"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Dawkniss",
         "url": "https://open.spotify.com/album/1gWmZdRV5vAsll3BM5B3kg"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 161632,
       "name": "Dawkniss",
       "url": "https://open.spotify.com/track/4Io8OmQnfuNFQsM9PpMO6d"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Twerk Fi Mi Dolly",
+        "url": "https://open.spotify.com/album/1UlYEOozHX0d5gYeTP3CW0"
+      },
+      "artists": [
+        {
+          "name": "JayBlem",
+          "url": "https://open.spotify.com/artist/0kEFO0oiPQw4rcBplHjRuS"
+        }
+      ],
+      "duration_ms": 97488,
+      "name": "Twerk Fi Mi Dolly",
+      "url": "https://open.spotify.com/track/7FN8Ds6SKp6Ry8XQ34UCkB"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Who Cares",
+        "url": "https://open.spotify.com/album/20KtHUMM6VGYqfsUVF8QTb"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "Who Cares",
+      "url": "https://open.spotify.com/track/1V2JgYBZYFW5zmLrWMQf4w"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Want You Back",
         "url": "https://open.spotify.com/album/7DyRjxogpXhnbhSeTKj80P"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 153000,
       "name": "Want You Back",
       "url": "https://open.spotify.com/track/1jjKMxay070xOXjse6TsGw"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Who Cares",
-        "url": "https://open.spotify.com/album/20KtHUMM6VGYqfsUVF8QTb"
-      },
-      "artists": [
-        {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
-        }
-      ],
-      "duration_ms": 162360,
-      "name": "Who Cares",
-      "url": "https://open.spotify.com/track/1V2JgYBZYFW5zmLrWMQf4w"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1951,6 +1951,22 @@
       "duration_ms": 191526,
       "name": "Perfect Summer",
       "url": "https://open.spotify.com/track/2pCzjC7lGoH9KCv3ygYva3"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Foot",
+        "url": "https://open.spotify.com/album/0Eti6sYztHFTrS2p1hDRTV"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "duration_ms": 167021,
+      "name": "Foot",
+      "url": "https://open.spotify.com/track/07mwyrR0iD3MJjyBIRe4KQ"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2047,38 +2063,6 @@
       "duration_ms": 182909,
       "name": "Statistic",
       "url": "https://open.spotify.com/track/19NSqvgwMXkRc1g0FCvaR9"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Foot",
-        "url": "https://open.spotify.com/album/0Eti6sYztHFTrS2p1hDRTV"
-      },
-      "artists": [
-        {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
-        }
-      ],
-      "duration_ms": 167021,
-      "name": "Foot",
-      "url": "https://open.spotify.com/track/07mwyrR0iD3MJjyBIRe4KQ"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "I Am Great",
-        "url": "https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz"
-      },
-      "artists": [
-        {
-          "name": "I-Octane",
-          "url": "https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS"
-        }
-      ],
-      "duration_ms": 205251,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/3M9SdslKjGgu18LtRPiCBA"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2199,6 +2183,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "I Am Great",
+        "url": "https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz"
+      },
+      "artists": [
+        {
+          "name": "I-Octane",
+          "url": "https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS"
+        }
+      ],
+      "duration_ms": 205251,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3M9SdslKjGgu18LtRPiCBA"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Ride (Remix)",
         "url": "https://open.spotify.com/album/5ksTZQyb1EcTen6NYlEgL5"
       },
@@ -2215,6 +2215,22 @@
       "duration_ms": 185730,
       "name": "Ride - Remix",
       "url": "https://open.spotify.com/track/3SEfX0PJAkE9mqFVMSO4QO"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Three Little Birds",
+        "url": "https://open.spotify.com/album/5hnQr1o6d92rF3xQ78xngP"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 208835,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/4bfAZUN7Y2yxxrANVpcErC"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2243,22 +2259,6 @@
       "duration_ms": 163200,
       "name": "Every Gyal Waan We",
       "url": "https://open.spotify.com/track/7wcHrLyVTB0YhwqzRiRn8I"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Three Little Birds",
-        "url": "https://open.spotify.com/album/5hnQr1o6d92rF3xQ78xngP"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 208835,
-      "name": "Three Little Birds",
-      "url": "https://open.spotify.com/track/4bfAZUN7Y2yxxrANVpcErC"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2423,26 +2423,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "DOGGY STYLE",
-        "url": "https://open.spotify.com/album/6x3KI2Z8vWrzoyBh5dNFeZ"
-      },
-      "artists": [
-        {
-          "name": "Fittis",
-          "url": "https://open.spotify.com/artist/65ckf44h6fvV1qbuo2RvjZ"
-        },
-        {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "DOGGY STYLE",
-      "url": "https://open.spotify.com/track/7sGPyceH2EdIzW5vDqtGYU"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Geet Weh",
         "url": "https://open.spotify.com/album/2uRMF6ahQkrTDiVDabe635"
       },
@@ -2459,6 +2439,26 @@
       "duration_ms": 171935,
       "name": "Geet Weh",
       "url": "https://open.spotify.com/track/3UeNRslRMrBxd6fDytLvWL"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "DOGGY STYLE",
+        "url": "https://open.spotify.com/album/6x3KI2Z8vWrzoyBh5dNFeZ"
+      },
+      "artists": [
+        {
+          "name": "Fittis",
+          "url": "https://open.spotify.com/artist/65ckf44h6fvV1qbuo2RvjZ"
+        },
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "DOGGY STYLE",
+      "url": "https://open.spotify.com/track/7sGPyceH2EdIzW5vDqtGYU"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2539,6 +2539,26 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Life Story",
+        "url": "https://open.spotify.com/album/2XwxdxqI2MfrPsaSIfXUo0"
+      },
+      "artists": [
+        {
+          "name": "Silk Boss",
+          "url": "https://open.spotify.com/artist/5eDVLjuN0hk3ZhjJdCvHLF"
+        },
+        {
+          "name": "Terro Don",
+          "url": "https://open.spotify.com/artist/7oXpzQEwUnq5cFEGPK8wk7"
+        }
+      ],
+      "duration_ms": 208065,
+      "name": "Life Story",
+      "url": "https://open.spotify.com/track/54RD18DacMustMg17xzEC0"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Sun Roof Riddim",
         "url": "https://open.spotify.com/album/5e17Hox0IiEaQ2A2CldE9A"
       },
@@ -2567,26 +2587,6 @@
       "duration_ms": 230007,
       "name": "Ryda",
       "url": "https://open.spotify.com/track/3NMMclAO8N0zh2Ymqd85rU"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Life Story",
-        "url": "https://open.spotify.com/album/2XwxdxqI2MfrPsaSIfXUo0"
-      },
-      "artists": [
-        {
-          "name": "Silk Boss",
-          "url": "https://open.spotify.com/artist/5eDVLjuN0hk3ZhjJdCvHLF"
-        },
-        {
-          "name": "Terro Don",
-          "url": "https://open.spotify.com/artist/7oXpzQEwUnq5cFEGPK8wk7"
-        }
-      ],
-      "duration_ms": 208065,
-      "name": "Life Story",
-      "url": "https://open.spotify.com/track/54RD18DacMustMg17xzEC0"
     },
     {
       "added_at": "2023-05-24 08:21:37",

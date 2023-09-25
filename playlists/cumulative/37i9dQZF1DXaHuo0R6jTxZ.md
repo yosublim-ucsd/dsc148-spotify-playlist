@@ -4,7 +4,7 @@
 
 > Ya Wailee! Get ready for some serious 90s nostalgia\. Cover : Amr Diab
 
-67 songs - 5 hr 21 min
+68 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [El Ayam El Helwa](https://open.spotify.com/track/0SgNysKe6HDmTTI2WgI0oi) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Sahrany](https://open.spotify.com/album/7lSz0EJJ5fAABoP7CVIPN5) | 3:47 | 2021-02-21 | 2022-07-29 |
 | [El Hob El Ha'ei'y](https://open.spotify.com/track/3hQT53VbsScHcmOgZZs9I7) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [El Hob El Ha'ei'y](https://open.spotify.com/album/1rBP7yd7cCeXPrH2CveD75) | 5:44 | 2021-02-21 |  |
 | [El Hob El Hakiky](https://open.spotify.com/track/1M5rc5fRPuFPZsHEV08VLU) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [El Hob El Haqiqi](https://open.spotify.com/album/6QU7hiHOoaWfpFGEDX9Ix6) | 5:44 | 2021-02-21 | 2022-07-29 |
-| [Esa'aly](https://open.spotify.com/track/2BDA9qmy0Kp47nCsWWIy8O) | [Mohamed Fouad & Haggag Abdul Rahman](https://open.spotify.com/artist/2C6nBdNa0zhNWDYGtBNh6U) | [Esa'aly](https://open.spotify.com/album/08Xmbnzwl0qmaui4ystYRJ) | 4:14 | 2021-02-21 |  |
+| [Esa'aly](https://open.spotify.com/track/2BDA9qmy0Kp47nCsWWIy8O) | [Mohamed Fouad & Haggag Abdul Rahman](https://open.spotify.com/artist/2C6nBdNa0zhNWDYGtBNh6U) | [Esa'aly](https://open.spotify.com/album/08Xmbnzwl0qmaui4ystYRJ) | 4:14 | 2021-02-21 | 2023-09-25 |
 | [Eskandarany](https://open.spotify.com/track/7ASLjRJBMltLFRyDKmOdbo) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Layalyki](https://open.spotify.com/album/4GrJfxi95PEpCKmi2WVZGq) | 3:48 | 2021-02-21 |  |
 | [Habiby Da](https://open.spotify.com/track/5N0w2n2B3OzvBZv4WjcVyA) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Habiby Da](https://open.spotify.com/album/4L55wqHzJVwxNDHSqapcEt) | 4:27 | 2021-02-21 |  |
 | [Habiby Dah](https://open.spotify.com/track/42cnSk5u3sahzRWArTpetn) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Habiby Dah](https://open.spotify.com/album/57HScw4eUediqybWkFEyTF) | 4:27 | 2021-02-21 | 2022-07-29 |
@@ -75,5 +75,6 @@
 | [طبيب جراح](https://open.spotify.com/track/73Qln2DC1UheLEv1b08Fd7) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [طبيب جراح](https://open.spotify.com/album/36uGSGjHobfqKqsFpTHvlA) | 6:21 | 2023-04-12 |  |
 | [مالي صبر](https://open.spotify.com/track/65XBOq8w2igm2wqkMNSouA) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [احلى العيون](https://open.spotify.com/album/5hdgejTa41BMFTZwcB1h6d) | 5:22 | 2023-04-12 | 2023-08-08 |
 | [متل الكذبة](https://open.spotify.com/track/0nUsStTuR6rl5epa8kquud) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [شوق الصحارى](https://open.spotify.com/album/0N28yOfdkj9aOGeQcUSf0R) | 5:08 | 2023-04-12 |  |
+| [ياعمرنا](https://open.spotify.com/track/7042RePASZ2OVSYt97wJyz) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ذكريات](https://open.spotify.com/album/0l5WwYnIl9rtiP8vUzCdv9) | 4:31 | 2023-09-15 |  |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

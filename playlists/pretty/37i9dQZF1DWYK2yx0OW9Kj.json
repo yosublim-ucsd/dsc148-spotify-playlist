@@ -1,12 +1,12 @@
 {
   "description": "Ritmo latino!",
-  "num_followers": 243400,
+  "num_followers": 243589,
   "original_name": "Workout Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmIxMzMyNGNiNGVkMTRmNjEwNjViMDZlZmZjOGNkYjFkNGVkOWVj",
+  "snapshot_id": "MCw1MGI3YmJkYTZkYWNjNjdiYjYwZTNjMjE4NWRiN2IyZDY3ZDNhMzNi",
   "tracks": [
     {
       "added_at": "2023-09-07 22:00:00",
@@ -803,22 +803,18 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "69",
-        "url": "https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2"
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 221935,
-      "name": "69",
-      "url": "https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce"
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -843,18 +839,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+        "name": "69",
+        "url": "https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+      "duration_ms": 221935,
+      "name": "69",
+      "url": "https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce"
     },
     {
       "added_at": "2023-09-07 22:00:00",

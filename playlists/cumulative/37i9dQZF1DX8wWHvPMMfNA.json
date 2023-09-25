@@ -668,7 +668,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 180611,
       "name": "Anything Valuable",
       "url": "https://open.spotify.com/track/3CQ1gEocVfoT1qCm6jRs66"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 206311,
       "name": "Body and Soul",
       "url": "https://open.spotify.com/track/3i373wW6lYwp4gkjoVw2uk"
@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 229536,
       "name": "Delighted Mood",
       "url": "https://open.spotify.com/track/1zVWKtpnw1OBHOCW3nJDfg"
@@ -2734,7 +2734,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 213451,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/3VyR5Ge6OR28B8sSNlZGxN"
@@ -3272,6 +3272,24 @@
       "duration_ms": 227333,
       "name": "For Heavens Sake",
       "url": "https://open.spotify.com/track/0RhYQmwfGzHDBV3K8MaMDq"
+    },
+    {
+      "album": {
+        "name": "For Joey",
+        "url": "https://open.spotify.com/album/5yH3PzK17cmLCRpLWK6EzM"
+      },
+      "artists": [
+        {
+          "name": "Thames Quartet",
+          "url": "https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288925,
+      "name": "For Joey",
+      "url": "https://open.spotify.com/track/35wEuhjRDw3RDWZMTLSEnZ"
     },
     {
       "album": {
@@ -4054,7 +4072,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 569880,
       "name": "I Guess I'll Have To Change My Plan",
       "url": "https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG"
@@ -4832,6 +4850,24 @@
       "duration_ms": 302645,
       "name": "Intangible",
       "url": "https://open.spotify.com/track/5jU0M5C3puyWnDvrd27RSP"
+    },
+    {
+      "album": {
+        "name": "Into The Unknown",
+        "url": "https://open.spotify.com/album/0Ifmedg8QIdPrxzJm7eekM"
+      },
+      "artists": [
+        {
+          "name": "Joe Wilson Trio",
+          "url": "https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157590,
+      "name": "Into The Unknown",
+      "url": "https://open.spotify.com/track/5cSLtmuZmymDqxGxhJ0YSF"
     },
     {
       "album": {
@@ -6873,6 +6909,24 @@
     },
     {
       "album": {
+        "name": "My Ship",
+        "url": "https://open.spotify.com/album/4L2n6cYNRrpHlsIO6sokyR"
+      },
+      "artists": [
+        {
+          "name": "Cecil Andrews",
+          "url": "https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "My Ship",
+      "url": "https://open.spotify.com/track/6LfNBoBMp1pJtnm2VQm0gy"
+    },
+    {
+      "album": {
         "name": "My Sweetest You",
         "url": "https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq"
       },
@@ -8263,6 +8317,24 @@
     },
     {
       "album": {
+        "name": "Serendipity Swing",
+        "url": "https://open.spotify.com/album/5A0C9HvLAYvLE4PY7PzHaY"
+      },
+      "artists": [
+        {
+          "name": "Michael Stylez & Co",
+          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252128,
+      "name": "Serendipity Swing",
+      "url": "https://open.spotify.com/track/4nb9JJGOdtQ7CW5PsmkYUm"
+    },
+    {
+      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/6F1iyLE5hOfOxYLBP0PUmZ"
       },
@@ -8749,6 +8821,24 @@
     },
     {
       "album": {
+        "name": "Speak Low",
+        "url": "https://open.spotify.com/album/4rMsJgxLDc3JHVM4b9Nibp"
+      },
+      "artists": [
+        {
+          "name": "Madeleine West",
+          "url": "https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164726,
+      "name": "Speak Low",
+      "url": "https://open.spotify.com/track/1DvyJsR76IH3HPxEC0DQ67"
+    },
+    {
+      "album": {
         "name": "Spring Came Early",
         "url": "https://open.spotify.com/album/3m97OF4An5bONucwGKVgm4"
       },
@@ -8980,6 +9070,24 @@
       "duration_ms": 216670,
       "name": "Storvindeln",
       "url": "https://open.spotify.com/track/51JcTTZu3LG8aDEXBA4XzV"
+    },
+    {
+      "album": {
+        "name": "Story of My Dream",
+        "url": "https://open.spotify.com/album/6HuFY7tw5HA5ZMnurekM79"
+      },
+      "artists": [
+        {
+          "name": "Almost Here",
+          "url": "https://open.spotify.com/artist/5o7GNcXboXqTegTrAYHERs"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177431,
+      "name": "Story of My Dream",
+      "url": "https://open.spotify.com/track/3DgwDOJOfDGM6pdIWkkXA1"
     },
     {
       "album": {
@@ -10320,7 +10428,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 280866,
       "name": "Time And Again",
       "url": "https://open.spotify.com/track/18epPmynZUEZcGSUhTxK2t"
@@ -10879,6 +10987,24 @@
     },
     {
       "album": {
+        "name": "When Love Is Gone",
+        "url": "https://open.spotify.com/album/7oTWawtHkR0ZoDl63wlXBl"
+      },
+      "artists": [
+        {
+          "name": "Long Island Quartet",
+          "url": "https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215015,
+      "name": "When Love Is Gone",
+      "url": "https://open.spotify.com/track/2Nczjj8yaXkh6Q3w68N2Q6"
+    },
+    {
+      "album": {
         "name": "When Sunny Gets Blue",
         "url": "https://open.spotify.com/album/1BIRyHurwWkR2PiyW9Q54z"
       },
@@ -11016,7 +11142,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 233780,
       "name": "Whitsunday Islands",
       "url": "https://open.spotify.com/track/1zKGVPC73CCFAyTF5Hsyqy"

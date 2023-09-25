@@ -1,12 +1,12 @@
 {
   "description": "aquele mexid\u00e3o envolvente que o brasileiro ama / Foto: DENNIS, Mc Poze do Rodo",
-  "num_followers": 404368,
+  "num_followers": 404730,
   "original_name": "Puro SUCO DE BRASIL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTNjYzA0MTc4MTI0OTIxM2I2ZTc2Y2RiNTNkOTEyZWRjMzQ4MGFi",
+  "snapshot_id": "MCxhMDJiMzY3MTYyMWYyYTYyNDUwYmJkODQwYzJkZDUwOGE5N2U3Y2U2",
   "tracks": [
     {
       "added_at": "2023-09-22 17:53:14",
@@ -91,26 +91,6 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "Novidade na \u00c1rea",
-        "url": "https://open.spotify.com/album/1ehFLXfMUcEfTksKeFP0cl"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        }
-      ],
-      "duration_ms": 120014,
-      "name": "Novidade na \u00c1rea",
-      "url": "https://open.spotify.com/track/2uhw2oYbugGJbn10wipNX5"
-    },
-    {
-      "added_at": "2023-09-22 17:53:14",
-      "album": {
         "name": "Confia (Ao Vivo)",
         "url": "https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 159322,
       "name": "Lapada Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
+    },
+    {
+      "added_at": "2023-09-22 17:53:14",
+      "album": {
+        "name": "Novidade na \u00c1rea",
+        "url": "https://open.spotify.com/album/1ehFLXfMUcEfTksKeFP0cl"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        }
+      ],
+      "duration_ms": 120014,
+      "name": "Novidade na \u00c1rea",
+      "url": "https://open.spotify.com/track/2uhw2oYbugGJbn10wipNX5"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -543,26 +543,6 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "Cama Embrasa",
-        "url": "https://open.spotify.com/album/4AhQtALj74gYj252jZGkwI"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Cama Embrasa",
-      "url": "https://open.spotify.com/track/6p6ohOKSzL4JaIRzSeOmWx"
-    },
-    {
-      "added_at": "2023-09-22 17:53:14",
-      "album": {
         "name": "Anota A\u00ed (Ao Vivo)",
         "url": "https://open.spotify.com/album/5md8rYv1JhgQEsBMS5WREE"
       },
@@ -583,22 +563,22 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "Bombonzinho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2VXbLDxcWq4K4gsAEtLbBs"
+        "name": "Cama Embrasa",
+        "url": "https://open.spotify.com/album/4AhQtALj74gYj252jZGkwI"
       },
       "artists": [
         {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         },
         {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
         }
       ],
-      "duration_ms": 154701,
-      "name": "Bombonzinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/4o6v3Oooyt7HF20idztRD4"
+      "duration_ms": 178000,
+      "name": "Cama Embrasa",
+      "url": "https://open.spotify.com/track/6p6ohOKSzL4JaIRzSeOmWx"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -619,6 +599,26 @@
       "duration_ms": 156330,
       "name": "Americana Na Vaquejada",
       "url": "https://open.spotify.com/track/1M6rclDhYmqRBMFGNJOFKB"
+    },
+    {
+      "added_at": "2023-09-22 17:53:14",
+      "album": {
+        "name": "Bombonzinho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2VXbLDxcWq4K4gsAEtLbBs"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 154701,
+      "name": "Bombonzinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/4o6v3Oooyt7HF20idztRD4"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -667,22 +667,18 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "10 Anos (Ao Vivo / Vol.1)",
-        "url": "https://open.spotify.com/album/22jto4LUwVyh5A3Q3Fr4s1"
+        "name": "Diferent\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK"
       },
       "artists": [
         {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
         }
       ],
-      "duration_ms": 144298,
-      "name": "Quando Apaga A Luz - Ao Vivo",
-      "url": "https://open.spotify.com/track/1UtFywx23D3gScleyACbgD"
+      "duration_ms": 163038,
+      "name": "Diferent\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3PLdcrfVesYKyTpS1EXsxO"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -703,18 +699,22 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "Diferent\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK"
+        "name": "10 Anos (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/22jto4LUwVyh5A3Q3Fr4s1"
       },
       "artists": [
         {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
         }
       ],
-      "duration_ms": 163038,
-      "name": "Diferent\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/3PLdcrfVesYKyTpS1EXsxO"
+      "duration_ms": 144298,
+      "name": "Quando Apaga A Luz - Ao Vivo",
+      "url": "https://open.spotify.com/track/1UtFywx23D3gScleyACbgD"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -731,6 +731,26 @@
       "duration_ms": 129146,
       "name": "Marrento",
       "url": "https://open.spotify.com/track/5gH5JWzP4Iqqagm0f4UGL0"
+    },
+    {
+      "added_at": "2023-09-22 17:53:14",
+      "album": {
+        "name": "Covardia",
+        "url": "https://open.spotify.com/album/5Bqlwew4I7DSJ2nK0jR53u"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 150863,
+      "name": "Covardia",
+      "url": "https://open.spotify.com/track/5y7yYXNSsT89A27DQxbmUL"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -755,22 +775,18 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "Covardia",
-        "url": "https://open.spotify.com/album/5Bqlwew4I7DSJ2nK0jR53u"
+        "name": "A.Mago - Playlist do Mago",
+        "url": "https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So"
       },
       "artists": [
         {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
         }
       ],
-      "duration_ms": 150863,
-      "name": "Covardia",
-      "url": "https://open.spotify.com/track/5y7yYXNSsT89A27DQxbmUL"
+      "duration_ms": 178080,
+      "name": "MONTAGEM ANOS 2000",
+      "url": "https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -831,22 +847,6 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "MF No Rio, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        }
-      ],
-      "duration_ms": 202411,
-      "name": "Altas Loucurinhas (Uni Duni T\u00ea) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2kBbHpJTc7MWs8F3XhClBD"
-    },
-    {
-      "added_at": "2023-09-22 17:53:14",
-      "album": {
         "name": "Novinha do Onlyfans (Tchan Ran Tchan Tchan)",
         "url": "https://open.spotify.com/album/7vcEsYmKQdxArrMI7euRGw"
       },
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "A.Mago - Playlist do Mago",
-        "url": "https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So"
+        "name": "MF No Rio, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ"
       },
       "artists": [
         {
-          "name": "DJ Arana",
-          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
         }
       ],
-      "duration_ms": 178080,
-      "name": "MONTAGEM ANOS 2000",
-      "url": "https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h"
+      "duration_ms": 202411,
+      "name": "Altas Loucurinhas (Uni Duni T\u00ea) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2kBbHpJTc7MWs8F3XhClBD"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
-        "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 453018,
-      "name": "At\u00e9 Que Durou / Tu Mandas No Meu Cora\u00e7\u00e3o / Adorei / Supera",
-      "url": "https://open.spotify.com/track/1TFqH3zKOiTZoVe0OQuJte"
-    },
-    {
-      "added_at": "2023-09-22 17:53:14",
-      "album": {
         "name": "\u00d4 L\u00e1 na Ro\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/7MEyhNqU573GoqAMfbULeZ"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 160000,
       "name": "\u00d4 L\u00e1 na Ro\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/71VNsncPcTfQiklVO9uXfB"
+    },
+    {
+      "added_at": "2023-09-22 17:53:14",
+      "album": {
+        "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
+        "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 453018,
+      "name": "At\u00e9 Que Durou / Tu Mandas No Meu Cora\u00e7\u00e3o / Adorei / Supera",
+      "url": "https://open.spotify.com/track/1TFqH3zKOiTZoVe0OQuJte"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -955,6 +955,26 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
+        "name": "Balan\u00e7o da Rede",
+        "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 166435,
+      "name": "Balan\u00e7o da Rede",
+      "url": "https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt"
+    },
+    {
+      "added_at": "2023-09-22 17:53:14",
+      "album": {
         "name": "Parecia Tempestade",
         "url": "https://open.spotify.com/album/3DPPcBAX08PIfFZFsfzVTR"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 149639,
       "name": "Parecia Tempestade",
       "url": "https://open.spotify.com/track/29adI8c6c75mnnaJ3BFLID"
-    },
-    {
-      "added_at": "2023-09-22 17:53:14",
-      "album": {
-        "name": "Balan\u00e7o da Rede",
-        "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 166435,
-      "name": "Balan\u00e7o da Rede",
-      "url": "https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "Se Melhorar Estraga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5oITwDGkkWE8RxG8LQ6AV6"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 155284,
-      "name": "Gatilho - Ao Vivo",
-      "url": "https://open.spotify.com/track/42nZBOwXNdO24Ml032bLBS"
-    },
-    {
-      "added_at": "2023-09-22 17:53:14",
-      "album": {
         "name": "Eu Vou Cair na Noite",
         "url": "https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 125422,
       "name": "Eu Vou Cair na Noite",
       "url": "https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO"
+    },
+    {
+      "added_at": "2023-09-22 17:53:14",
+      "album": {
+        "name": "Se Melhorar Estraga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5oITwDGkkWE8RxG8LQ6AV6"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 155284,
+      "name": "Gatilho - Ao Vivo",
+      "url": "https://open.spotify.com/track/42nZBOwXNdO24Ml032bLBS"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
-        "name": "Golzinho Vermelho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7ua7P2NJBNVH5Jej9PVMv3"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 155050,
-      "name": "Golzinho Vermelho - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Htol3nnPzphX76oORiNHb"
-    },
-    {
-      "added_at": "2023-09-22 17:53:14",
-      "album": {
         "name": "Sarradinha",
         "url": "https://open.spotify.com/album/21BCcHAJmoutTXsFnHZBbh"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 142413,
       "name": "Sarradinha",
       "url": "https://open.spotify.com/track/64JdLJ0dFwI5lptGXHQxZs"
+    },
+    {
+      "added_at": "2023-09-22 17:53:14",
+      "album": {
+        "name": "Golzinho Vermelho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7ua7P2NJBNVH5Jej9PVMv3"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 155050,
+      "name": "Golzinho Vermelho - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Htol3nnPzphX76oORiNHb"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -1443,26 +1443,6 @@
       "duration_ms": 189800,
       "name": "Digo ou N\u00e3o Digo - Ao Vivo",
       "url": "https://open.spotify.com/track/2rtsT3CefzKc05JdAm8aQ5"
-    },
-    {
-      "added_at": "2023-09-22 17:53:14",
-      "album": {
-        "name": "Pode Apostar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5UmfrsNwNH8e7vLuL3MHP9"
-      },
-      "artists": [
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        },
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 193834,
-      "name": "Pode Apostar - Ao Vivo",
-      "url": "https://open.spotify.com/track/0IDtnboUFETT3X81lLisTk"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -1547,6 +1527,26 @@
     {
       "added_at": "2023-09-22 17:53:14",
       "album": {
+        "name": "Pode Apostar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5UmfrsNwNH8e7vLuL3MHP9"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 193834,
+      "name": "Pode Apostar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0IDtnboUFETT3X81lLisTk"
+    },
+    {
+      "added_at": "2023-09-22 17:53:14",
+      "album": {
         "name": "A Caminho do Bega [Piseiro Remix]",
         "url": "https://open.spotify.com/album/1iHsaiSw8TCeXR1EAni3RL"
       },
@@ -1571,26 +1571,6 @@
       "duration_ms": 136220,
       "name": "A Caminho do Bega [Piseiro Remix] (feat. Dj Mizzontti)",
       "url": "https://open.spotify.com/track/6GIIq2BZtZorfS2R2Y2vAT"
-    },
-    {
-      "added_at": "2023-09-22 17:53:14",
-      "album": {
-        "name": "Deixa Eu Viver (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2CeQU70wcB0vYGaKI2GB4B"
-      },
-      "artists": [
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 201856,
-      "name": "Deixa Eu Viver - Ao Vivo",
-      "url": "https://open.spotify.com/track/1vHWl4CiItYFf8X9Mrpcxy"
     },
     {
       "added_at": "2023-09-22 17:53:14",
@@ -1679,6 +1659,26 @@
       "duration_ms": 288764,
       "name": "Wonderful Pagode Rmx",
       "url": "https://open.spotify.com/track/33sVci9mshFZmvaRXCRlL4"
+    },
+    {
+      "added_at": "2023-09-22 17:53:14",
+      "album": {
+        "name": "Deixa Eu Viver (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2CeQU70wcB0vYGaKI2GB4B"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 201856,
+      "name": "Deixa Eu Viver - Ao Vivo",
+      "url": "https://open.spotify.com/track/1vHWl4CiItYFf8X9Mrpcxy"
     },
     {
       "added_at": "2023-09-22 17:53:14",

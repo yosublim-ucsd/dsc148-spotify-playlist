@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,405 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,401 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 20 | [Aforismos](https://open.spotify.com/track/1xlNttatz94ku8vVjH7OMS) | [Maria Codino](https://open.spotify.com/artist/7zuaGTLVm6z97wydRCyUdj), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Tiene Que Haber Un Mapa](https://open.spotify.com/album/4Nurj8APmgekx15HgXOyYB) | 3:28 |
 | 21 | [Azúcar y Algodón](https://open.spotify.com/track/5CpSOeDKKBQn9ua26UHLn0) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg) | [Caramelos de Felicidad](https://open.spotify.com/album/7pLDXo36pQJ7Dv2likm6nJ) | 3:08 |
 | 22 | [Wii Skii](https://open.spotify.com/track/3QCM2kRXwiVQTBY9VaA6vw) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Residencia Azul](https://open.spotify.com/album/7a0NP5cqVBLSe6YofHXcGL) | 3:37 |
-| 23 | [Me Da Igual](https://open.spotify.com/track/5tKX6GZWGhMomV6H4xLIQf) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF), [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Me Da Igual](https://open.spotify.com/album/3HIPYDTugzWUO0IIJ2lRzV) | 2:25 |
+| 23 | [Me da igual](https://open.spotify.com/track/5tKX6GZWGhMomV6H4xLIQf) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF), [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Me da igual](https://open.spotify.com/album/3HIPYDTugzWUO0IIJ2lRzV) | 2:25 |
 | 24 | [Cumbiecitas Elegantes](https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cumbiecitas Elegantes](https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq) | 2:47 |
 | 25 | [Climax](https://open.spotify.com/track/44rBnwPtuBSZTKUhjChFvI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [Climax](https://open.spotify.com/album/2C7rex6fcBtRICYrdOKxEz) | 2:28 |
 | 26 | [Limonadita Fresca](https://open.spotify.com/track/639HTh3UQI6kZXn6Qb7lH6) | [DJ Maff](https://open.spotify.com/artist/5CKb0P2vvpC9JD7wjB80gu), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Limonadita Fresca](https://open.spotify.com/album/0WNHeQl2UyqgvfqWfWrcEH) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 49 | [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 |
 | 50 | [Deseo](https://open.spotify.com/track/3NDB4oAYoM5kd50COEOTUR) | [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv), [D'Avila](https://open.spotify.com/artist/6elNbQJgp30Ml9u2jO9RwX), [Dimc](https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O) | [Deseo](https://open.spotify.com/album/0yxzynoJU2oS2piqELOsEa) | 3:24 |
 
-Snapshot ID: `MCw4ZWExYjI0NWUzZWM4MzVkMWMwYTA4OTEwYzA3NWQ2NWQ3MTlkMmQ0`
+Snapshot ID: `MCxkNWEwZjRkZGMzMTY1ZmNjZjlmNDE3MTI4MmQ3YTY0MDI3MmJhNzRi`

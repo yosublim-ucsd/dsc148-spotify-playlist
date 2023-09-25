@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。 Doja Cat, B'z, OneRepublic, Alok, Cardi B,  and more! Cover: Doja Cat
 
-2,926 songs - 6 day 22 hr 7 min
+2,927 songs - 6 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -803,7 +803,8 @@
 | [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/album/6YJVSyedYS0JQhntp53G4P) | 2:59 | 2023-03-31 | 2023-04-07 |
 | [Fire](https://open.spotify.com/track/7gjoOSCTd7hOKGUy2obiZG) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Fire](https://open.spotify.com/album/26hwQeC1iEYXVyxEYyqmsz) | 3:20 | 2023-05-04 | 2023-05-12 |
 | [Fire With Fire](https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [HRRTZ](https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fire With Fire](https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB) | 3:08 | 2023-05-11 | 2023-05-19 |
-| [Fireflies](https://open.spotify.com/track/1hfDwBiBURnnVXruXzPd0I) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Fireflies](https://open.spotify.com/album/7u6Z333YGGWD55O2uqjeTj) | 4:51 | 2023-09-22 |  |
+| [Fireflies](https://open.spotify.com/track/1hfDwBiBURnnVXruXzPd0I) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Fireflies](https://open.spotify.com/album/7u6Z333YGGWD55O2uqjeTj) | 4:51 | 2023-09-22 | 2023-09-25 |
+| [Fireflies](https://open.spotify.com/track/2IvIUND7ZGjPftDyOYAWJ9) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 4:51 | 2023-09-22 |  |
 | [Fireflies](https://open.spotify.com/track/2Pb1ekr2pXVYEMER3rNcIa) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM](https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49) | 3:26 | 2023-05-04 | 2023-05-12 |
 | [Firetruck](https://open.spotify.com/track/5D09TkOLzrkWTWqQxAId5V) | [SG5](https://open.spotify.com/artist/7D2TZnpK65Crptr2BgWrJ6) | [Firetruck](https://open.spotify.com/album/7bAkSGLaKkIcBb6RmhR8yN) | 2:24 | 2023-03-02 | 2023-03-10 |
 | [Fireworks](https://open.spotify.com/track/2bzo9vmgupmbM5VFuRl0ig) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Fireworks](https://open.spotify.com/album/6CIPuH9t8tX5p5fjuUFr2Q) | 3:18 | 2023-04-27 | 2023-05-01 |

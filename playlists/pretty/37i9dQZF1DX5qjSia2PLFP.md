@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:   <a href="spotify:artist:6OmxkansdRyVTvo6BpZzKF">jev.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,713 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,719 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 35 | [Rush](https://open.spotify.com/track/5KWamIPJw0yIM5AO2acHfy) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [RUSH](https://open.spotify.com/album/6qXJvv0V4AOJN3EHQS0YIl) | 3:40 |
 | 36 | [Our Roots Run Deep](https://open.spotify.com/track/3Wsb8BqisZpCO3ijhENBBa) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Our Roots Run Deep](https://open.spotify.com/album/7JBdi7uaBTZ0ZiLqALbYBy) | 3:04 |
 | 37 | [Smoke by the Ocean](https://open.spotify.com/track/3ofPPYsUS3T7sBWeVt9LXH) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Smoke by the Ocean](https://open.spotify.com/album/6mTkJ05Ki1bX9C3grNECWo) | 2:43 |
-| 38 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 |
+| 38 | [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 |
 | 39 | [FRIED](https://open.spotify.com/track/3Ni3aIyhb653KodcYFae0L) | [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR) | [FRIED](https://open.spotify.com/album/0yvrH8FMw4q4rJulnhRs5K) | 1:48 |
 | 40 | [Flow](https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8) | [Jourden](https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u) | [Flow](https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc) | 2:42 |
 | 41 | [Famous \(Lost to LA\)](https://open.spotify.com/track/1wE6Shwlye4gEdUaq6Cg3H) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Famous \(Lost to LA\)](https://open.spotify.com/album/7j0IT1ckuBJcBT01axVkNA) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 99 | [DAYS GO BY](https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [DAYS GO BY](https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw) | 4:31 |
 | 100 | [For Granted](https://open.spotify.com/track/6YmhApkbGfwiXlQ5tdyJbL) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:41 |
 
-Snapshot ID: `MCxjOGUwM2M0OTZmNjdiOTU0YTZkZTM1NDNmOGJmZTJhMmQxYWEyYzc2`
+Snapshot ID: `MCw2ODU2MmIwMjEwNGM2ZTk0ODk2NzZlNzBjZmYwMGI1NmUzMDFlZGZi`

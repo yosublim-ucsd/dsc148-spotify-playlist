@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 
 > ¡Vamos a bailar con Dios!
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,612 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,672 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cambiaste Mi Corazón](https://open.spotify.com/track/6wkcbqDurhYtPtZP5QxN5U) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 3:49 |
 | 2 | [Las Avispas](https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Coleccion Cristiana](https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v) | 3:15 |
 | 3 | [Dios Nunca Falla](https://open.spotify.com/track/3mBlNX9LKkJU8BM9B3k23Y) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Values](https://open.spotify.com/album/6IXTSDUaSGqqqA8eCzaQ4H) | 3:10 |
-| 4 | [Gravy](https://open.spotify.com/track/4iUDeFnfywaSOPG5fPaIb1) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [20/20](https://open.spotify.com/album/0LJ2GhneIQZdDuXZtVLAjN) | 3:49 |
-| 5 | [Ganarlos a Todos](https://open.spotify.com/track/0lbtoROQFkkyBda4nWE5vl) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Oxigeno](https://open.spotify.com/album/0tAVNYIxC7TpHEdkmZRtHE) | 5:21 |
+| 4 | [Ganarlos a Todos](https://open.spotify.com/track/0lbtoROQFkkyBda4nWE5vl) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Oxigeno](https://open.spotify.com/album/0tAVNYIxC7TpHEdkmZRtHE) | 5:21 |
+| 5 | [Gravy](https://open.spotify.com/track/4iUDeFnfywaSOPG5fPaIb1) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [20/20](https://open.spotify.com/album/0LJ2GhneIQZdDuXZtVLAjN) | 3:49 |
 | 6 | [El Que Reina](https://open.spotify.com/track/5EQtvJcs1972KsmMZDCCHR) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Suficiente](https://open.spotify.com/album/6xuPzzkawDA8P9vnRxWNSN) | 3:27 |
 | 7 | [No Fallará \(Remix\)](https://open.spotify.com/track/72XN9Vvud8SKkbWMsIvE15) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [No Fallará \(Remix\)](https://open.spotify.com/album/3b9P46dufcEVUm4TwrrTCf) | 6:20 |
 | 8 | [Sin Ti](https://open.spotify.com/track/57ogj5vevbzdRtC8Ng2Rtx) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 49 | [Motivo de mi cancion](https://open.spotify.com/track/2PNGkt8Xu4ex0e38LwBQVI) | [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv) | [Los Éxitos De Marcos Witt En Bachata](https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW) | 4:31 |
 | 50 | [Dios Está en Control](https://open.spotify.com/track/65X1pjaVF89MNtR59GRMWW) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Dios Está en Control](https://open.spotify.com/album/1mOugK66Bd9AXwzsTuZI1y) | 4:18 |
 
-Snapshot ID: `MCw1OWUxM2Q0ZGFlYzAzMjk2MTE4NjZlMjY2YzQwNjc1MjBmMGMzMjBj`
+Snapshot ID: `MCwyOTk4NmQ4ZGYzMzMzZWM4MjliNTZlNzM4NGFjZGRkMGE1OTVjOGQ5`

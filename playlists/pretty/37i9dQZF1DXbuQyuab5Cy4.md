@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,521 likes - 90 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,531 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 53 | [Phantom \(Haunted Version\) \[feat\. Tokyo's Revenge\]](https://open.spotify.com/track/53EkOo1VrJYEZCvBDLKoiK) | [Allen Mock](https://open.spotify.com/artist/1FWowTsaucHkPDgmAGGk4T), [Chow Chow](https://open.spotify.com/artist/2qntwTfzCkrCHjzi4SPSAt), [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [Phantom \(Haunted Version\) \[feat\. Tokyo's Revenge\]](https://open.spotify.com/album/2MXEvZxDkoiCm0sNKXoSgd) | 2:47 |
 | 54 | [Orbit](https://open.spotify.com/track/2xhaxIUaEj6RCYLhrQCn1i) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Orbit](https://open.spotify.com/album/6bVKbPVxy7yWyooCwqVcGX) | 3:15 |
 | 55 | [Our Demons \(feat\. Aja Volkman\)](https://open.spotify.com/track/3iFjScPoAC21CT5cbAFZ7b) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD), [Aja Volkman](https://open.spotify.com/artist/1acEKKXSDIHJifhq0Bj3g1) | [Love Death Immortality](https://open.spotify.com/album/1g03ut9FlCdvFbOcSvUxjs) | 5:16 |
-| 56 | [Dancing with the Devil \(feat\. Patrick Stump & Travis Barker\)](https://open.spotify.com/track/23qsXVjMacN21DNRjfWEBx) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Get Wet](https://open.spotify.com/album/7d2uP5sqFrhFz9p6CA9gu6) | 3:58 |
+| 56 | [Dancing with the Devil](https://open.spotify.com/track/23qsXVjMacN21DNRjfWEBx) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Get Wet](https://open.spotify.com/album/7d2uP5sqFrhFz9p6CA9gu6) | 3:58 |
 | 57 | [Cyberspace](https://open.spotify.com/track/5u1mRqeDEiNkLee97q458S) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN) | [Cyberspace](https://open.spotify.com/album/42Ul7pOsWYrg2OJlAiFB7i) | 4:50 |
 | 58 | [RAMPAGE](https://open.spotify.com/track/2QanQ4WoQAb8zwOzweQihV) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj) | [6 FEET UNDER](https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl) | 2:59 |
 | 59 | [Night Terror \(feat\. Of Mice & Men\)](https://open.spotify.com/track/5AhV1iYCYJfdz8gTaikr5L) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Unleashed](https://open.spotify.com/album/58RaTQA8XsNG9T7tl5n0ac) | 3:24 |

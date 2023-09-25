@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 122932,
+  "num_followers": 123072,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDQwYmM4ZGNiZDNjYjg1ZmMzMTFkYjU1MDdmODFjZjAzMmFmYWE1",
+  "snapshot_id": "MCxiNjczZGUwZmJiYTg4N2Q5NWZhYTE1OTE3MWY2M2I0MGY5MTRhMjA1",
   "tracks": [
     {
       "added_at": "2023-09-15 21:59:32",
@@ -555,26 +555,6 @@
     {
       "added_at": "2023-09-15 21:59:32",
       "album": {
-        "name": "Claro e Certo",
-        "url": "https://open.spotify.com/album/47ggi22ENuvh5a7AXHbDbI"
-      },
-      "artists": [
-        {
-          "name": "Rafa Blauth",
-          "url": "https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU"
-        },
-        {
-          "name": "Estev\u00e3o Queiroga",
-          "url": "https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK"
-        }
-      ],
-      "duration_ms": 241840,
-      "name": "Claro e Certo",
-      "url": "https://open.spotify.com/track/2C4bL85AHMERutNrejvo0B"
-    },
-    {
-      "added_at": "2023-09-15 21:59:32",
-      "album": {
         "name": "Releituras",
         "url": "https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 279989,
       "name": "Eu, Poema: Releitura",
       "url": "https://open.spotify.com/track/16Bum18plc6ET7bEvEOq3Z"
+    },
+    {
+      "added_at": "2023-09-15 21:59:32",
+      "album": {
+        "name": "Claro e Certo",
+        "url": "https://open.spotify.com/album/47ggi22ENuvh5a7AXHbDbI"
+      },
+      "artists": [
+        {
+          "name": "Rafa Blauth",
+          "url": "https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU"
+        },
+        {
+          "name": "Estev\u00e3o Queiroga",
+          "url": "https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK"
+        }
+      ],
+      "duration_ms": 241840,
+      "name": "Claro e Certo",
+      "url": "https://open.spotify.com/track/2C4bL85AHMERutNrejvo0B"
     },
     {
       "added_at": "2023-09-15 21:59:32",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-09-15 21:59:32",
       "album": {
-        "name": "Do Meu Interior",
-        "url": "https://open.spotify.com/album/7fOBtpFDjcVMxXjOCYA60I"
+        "name": "Mais Perto Quero Estar",
+        "url": "https://open.spotify.com/album/0Fct6gWAW1dnLNUvxyaHXC"
       },
       "artists": [
         {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+          "name": "Matheus Rizzo",
+          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
         }
       ],
-      "duration_ms": 159629,
-      "name": "Sobre Viver",
-      "url": "https://open.spotify.com/track/4Eso7tnV2l0RinzqhZS5uU"
+      "duration_ms": 201282,
+      "name": "Mais Perto Quero Estar",
+      "url": "https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK"
     },
     {
       "added_at": "2023-09-15 21:59:32",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-09-15 21:59:32",
       "album": {
-        "name": "Mais Perto Quero Estar",
-        "url": "https://open.spotify.com/album/0Fct6gWAW1dnLNUvxyaHXC"
+        "name": "Do Meu Interior",
+        "url": "https://open.spotify.com/album/7fOBtpFDjcVMxXjOCYA60I"
       },
       "artists": [
         {
-          "name": "Matheus Rizzo",
-          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
         }
       ],
-      "duration_ms": 201282,
-      "name": "Mais Perto Quero Estar",
-      "url": "https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK"
+      "duration_ms": 159629,
+      "name": "Sobre Viver",
+      "url": "https://open.spotify.com/track/4Eso7tnV2l0RinzqhZS5uU"
     },
     {
       "added_at": "2023-09-15 21:59:32",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-09-15 21:59:32",
       "album": {
+        "name": "Cora\u00e7\u00e3o de Aprendiz",
+        "url": "https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz"
+      },
+      "artists": [
+        {
+          "name": "Gabro",
+          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
+        }
+      ],
+      "duration_ms": 303071,
+      "name": "Cora\u00e7\u00e3o de Aprendiz",
+      "url": "https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy"
+    },
+    {
+      "added_at": "2023-09-15 21:59:32",
+      "album": {
         "name": "Meu Grande Amor (Vers\u00e3o Cordas)",
         "url": "https://open.spotify.com/album/2B1yYnuXCiZQ5GCDUHEdIe"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 442247,
       "name": "Meu Grande Amor - Vers\u00e3o Cordas",
       "url": "https://open.spotify.com/track/5Qtirs1grBbL6IlqlBa97i"
-    },
-    {
-      "added_at": "2023-09-15 21:59:32",
-      "album": {
-        "name": "Cora\u00e7\u00e3o de Aprendiz",
-        "url": "https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz"
-      },
-      "artists": [
-        {
-          "name": "Gabro",
-          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
-        }
-      ],
-      "duration_ms": 303071,
-      "name": "Cora\u00e7\u00e3o de Aprendiz",
-      "url": "https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy"
     },
     {
       "added_at": "2023-09-15 21:59:32",

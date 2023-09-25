@@ -4,7 +4,7 @@
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-225 songs - 13 hr 19 min
+226 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Gato de mate](https://open.spotify.com/track/5hVBYheKoBQfGIzMIhQk61) | [Néstor Garnica](https://open.spotify.com/artist/5MJFjxBEw8HCzFvYhYMs5w) | [Coplas del Violinero](https://open.spotify.com/album/2cv2sQMYxzLAFVxOGKuUCN) | 2:44 | 2022-02-21 | 2022-06-07 |
 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 | 2021-07-23 |  |
 | [Guitarra de Medianoche](https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Greatest Hits](https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV) | 3:16 | 2021-07-23 | 2023-09-15 |
+| [Jazmin de Luna](https://open.spotify.com/track/52KJTES45cbNkZOvdWj7d7) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Leyenda](https://open.spotify.com/album/0ElncY7qEVIgOs0QXBZUUO) | 3:09 | 2023-09-07 |  |
 | [Jazmín de Luna](https://open.spotify.com/track/4fbY00uU5nctQjO3xhoobi) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Tributo, Sus 20 Mejores Canciones](https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ) | 3:04 | 2021-07-23 | 2022-11-13 |
 | [Jazmín de Luna](https://open.spotify.com/track/3ia4suHJXrpiNqP3KUCc3t) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Por Siempre....](https://open.spotify.com/album/1o4WtYSLqFy93QykeBwx7T) | 3:05 | 2023-06-22 | 2023-09-15 |
 | [Juan de la Calle](https://open.spotify.com/track/0FEY980G19GmeiVBK2AYzA) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Juan de la Calle](https://open.spotify.com/album/6HRTNRUeBVVntGVR5e6Amf) | 3:12 | 2021-07-23 | 2022-07-29 |
@@ -161,7 +162,7 @@
 | [Luna Cautiva](https://open.spotify.com/track/3SutPPyD0uGNBjGuRlkcKq) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Éxitos Sin Fronteras](https://open.spotify.com/album/3hOcoCrLGJOwy1imKwFSt9) | 3:50 | 2021-07-23 | 2022-07-29 |
 | [Luna Cautiva](https://open.spotify.com/track/6RLy54zWiCxdbobwzSwBNq) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Éxitos Sin Fronteras](https://open.spotify.com/album/3SGF45hToDUlV5Gvurtmp7) | 3:50 | 2022-02-21 |  |
 | [Luna Tucumana](https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [His Great Songs](https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX) | 3:08 | 2021-07-23 |  |
-| [Luna Tucumana](https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Eternamente Tucu](https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f) | 3:20 | 2021-07-23 |  |
+| [Luna Tucumana](https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Eternamente Tucu](https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f) | 3:20 | 2021-07-23 | 2023-09-25 |
 | [Luna Tucumana](https://open.spotify.com/track/75tyu2vBzS0qHN7PMNtAH5) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Tito Francia](https://open.spotify.com/artist/3zTLMAxxbnq55CDqwj38vx) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 3:30 | 2021-07-23 | 2022-11-13 |
 | [Luna Tucumana](https://open.spotify.com/track/3LYoTVikNcpLp5HRiz4jsV) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Luna Tucumana](https://open.spotify.com/album/4kGesDHHRwrGSNTbVpnFqm) | 4:21 | 2021-07-23 | 2023-06-20 |
 | [Luna Tucumana \- Remastered 2003](https://open.spotify.com/track/2R85ZXoflj01lCJPWyDQZC) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Recordando Zambas Con Los Chalchaleros](https://open.spotify.com/album/4CEzKKz2fMSjjYwXBTlbZR) | 3:34 | 2021-07-23 |  |

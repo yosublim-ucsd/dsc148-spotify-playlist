@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,657 songs - 5 day 20 hr 9 min
+3,659 songs - 5 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Alicante](https://open.spotify.com/track/3u3vFZw2rdjJdaxIuBett2) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Alicante](https://open.spotify.com/album/05mYEeImGnMwV6XSziIh3g) | 3:02 | 2021-10-01 | 2021-11-19 |
 | [Alkaline](https://open.spotify.com/track/0OLOedccgpHlbwbAVbq5E0) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Alkaline](https://open.spotify.com/album/1O1glf5xkwb3tjF24HUR5N) | 2:07 | 2021-12-17 | 2021-12-23 |
 | [All About Us](https://open.spotify.com/track/3OGxdoXW2cXAdQ2ygP17CW) | [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [All About Us / Backpackers](https://open.spotify.com/album/4Pp8uHbcqmnBOhLR6MNLOb) | 2:02 | 2021-05-29 | 2021-10-14 |
-| [All Day](https://open.spotify.com/track/6txWAmBuNC0wGG9SzL6MRd) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [More/Less](https://open.spotify.com/album/09Nry8bvYmaqCRfv0sO52Y) | 2:04 | 2023-09-14 |  |
+| [All Day](https://open.spotify.com/track/6txWAmBuNC0wGG9SzL6MRd) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [More/Less](https://open.spotify.com/album/09Nry8bvYmaqCRfv0sO52Y) | 2:04 | 2023-09-14 | 2023-09-25 |
 | [All For](https://open.spotify.com/track/2hKFvprbrBNcS4YvSGNMKS) | [TV Culture](https://open.spotify.com/artist/4SMpfT0gDr82P6jyWArDve) | [All For](https://open.spotify.com/album/3NHwpJwQEh3tm4hA3be7BX) | 3:36 | 2021-10-22 | 2022-01-07 |
 | [All In](https://open.spotify.com/track/3sAaA0bpnPiauuKKJLiQFW) | [LBL](https://open.spotify.com/artist/0j0BXMwyoY9NJTbcviFEOp), [Johannes Onetake](https://open.spotify.com/artist/0VVyuGRHXy7PM7JELDbtbD), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [All In](https://open.spotify.com/album/4BUDocjcTETflwkQwBi0oW) | 2:01 | 2022-02-24 | 2022-04-01 |
 | [All In](https://open.spotify.com/track/5bx8CLHgWo7OS9nFLwhjlK) | [Mr Mantega](https://open.spotify.com/artist/367E3x81QkJ0luGzpk8pqj) | [Good Place](https://open.spotify.com/album/1st3ueuRjZLQYItGBa79mQ) | 2:17 | 2020-05-19 | 2020-07-31 |
@@ -1458,6 +1458,7 @@
 | [Indian Summer](https://open.spotify.com/track/1lUBPpihHy91TTKP3d2bAd) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Indian Summer](https://open.spotify.com/album/75hRvWdyt0w9HZUFrnDi5z) | 3:10 | 2021-11-19 | 2021-12-17 |
 | [Indian Summer](https://open.spotify.com/track/0WHE2eIQ0AvKdfRXakZIHc) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Indian Summer](https://open.spotify.com/album/6nDt870gW8iPtN9MrI8QvF) | 1:51 | 2022-10-27 |  |
 | [Indigo](https://open.spotify.com/track/6o072JVrUHju3ReQDwnQvX) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Indigo](https://open.spotify.com/album/0RIbSmYZMUBN2RVXYYbdxy) | 2:11 | 2021-07-24 | 2023-04-28 |
+| [Indigo](https://open.spotify.com/track/2Q0Sgox8fZRoqE61pD9m2y) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Indigo](https://open.spotify.com/album/5uUb9ixhJKIFVpJktTFair) | 2:14 | 2023-09-21 |  |
 | [infinity](https://open.spotify.com/track/1EsXJnF4BXO4XRYFl1Q9Xv) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [infinity](https://open.spotify.com/album/235sBSaHxVy5qDfDIpEfGO) | 1:33 | 2019-06-22 | 2019-11-15 |
 | [Inglewood](https://open.spotify.com/track/4gDjDAHlUwUfPgnmkf6fzY) | [Don Fizzy](https://open.spotify.com/artist/2zhwqqLtDHazsSVAZq0Jfj), [Cuebe](https://open.spotify.com/artist/3csK4XuQwgxouOsLopZhlH), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Inglewood](https://open.spotify.com/album/5puInZRtSIUcDseYJ1Ckwf) | 2:18 | 2021-08-20 | 2022-08-12 |
 | [Inglewood Sunset](https://open.spotify.com/track/4StT5zVHtsvvEwfPupfSIO) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Inglewood Sunset](https://open.spotify.com/album/5agTdlRTczucomF40fB9r2) | 1:57 | 2019-07-30 | 2019-11-06 |
@@ -2020,6 +2021,7 @@
 | [Monkey](https://open.spotify.com/track/7BQeUGV9rREXwDUWCE9ygW) | [IVE](https://open.spotify.com/artist/0ZwkOkCk6Ow2Mayne9rkPd) | [Osmose](https://open.spotify.com/album/1raZxtTvcjxtVP4C7GWen9) | 1:24 | 2020-08-25 | 2021-02-08 |
 | [Monro Beach](https://open.spotify.com/track/1i1uXh6JNzYxgmKKZRKgMA) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Monro Beach](https://open.spotify.com/album/57KaVUISHlqDK6SxMAOSH3) | 2:09 | 2021-11-27 |  |
 | [Montara](https://open.spotify.com/track/49VM3vCQBFr1wJJw7xByGf) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Montara](https://open.spotify.com/album/7aIvhwqFnvV3hFp0ocKwzO) | 3:45 | 2020-04-18 | 2020-07-11 |
+| [Monte Carle](https://open.spotify.com/track/4Y4dzMppLM00JInQ1bwdVa) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Monte Carle](https://open.spotify.com/album/0Jyb0EzJJjvPcyn4rfzj8q) | 2:18 | 2023-09-21 |  |
 | [Monte Figasso](https://open.spotify.com/track/0rUzZ4kuIP8jQreOD0LWCA) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Monte Figasso](https://open.spotify.com/album/3KXpx9PC6zE0nE3FtGHWQ1) | 2:58 | 2020-10-09 | 2020-12-04 |
 | [Monty](https://open.spotify.com/track/6bvDg7iOEPpFVLi07E3Ly4) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Monty](https://open.spotify.com/album/03NJNUwcVp8Viq8EHrH4HK) | 2:15 | 2022-08-01 | 2022-08-05 |
 | [Mood](https://open.spotify.com/track/55d1nNeg0xUvQHiwDxDm81) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Persevere](https://open.spotify.com/album/5DWjI6LAbfOEphkvnjLhWS) | 1:46 | 2022-03-17 | 2022-09-23 |
@@ -2316,7 +2318,7 @@
 | [oscarto](https://open.spotify.com/track/1CEEgJrmLuKDSm6pt7sXok) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow Vol\. 5](https://open.spotify.com/album/1jbN4bYY8ZX7FpkBn49FlG) | 1:36 | 2021-01-17 | 2021-03-14 |
 | [Osloer Straße \- Instrumental](https://open.spotify.com/track/3ESyOoe4nT5sEBGiKHOROZ) | [Galv](https://open.spotify.com/artist/7mbdcJkkgnyrlLvFBg32U6), [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW) | [Shigeo \- Instrumentals](https://open.spotify.com/album/7sNPCxItzNTviUXCiGQymE) | 1:56 | 2019-08-10 | 2019-11-15 |
 | [othello](https://open.spotify.com/track/5cB5hyrP15gtkFp0JVeiNd) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [othello](https://open.spotify.com/album/6cV8TkMfuzCKFOOYkjIvhi) | 3:01 | 2020-04-24 | 2020-07-01 |
-| [Otters](https://open.spotify.com/track/3wXlfGmKCqG30LxBj0zERw) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Otters](https://open.spotify.com/album/72CicGuIXlZpVJUIkcTNPE) | 1:53 | 2023-09-14 |  |
+| [Otters](https://open.spotify.com/track/3wXlfGmKCqG30LxBj0zERw) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Otters](https://open.spotify.com/album/72CicGuIXlZpVJUIkcTNPE) | 1:53 | 2023-09-14 | 2023-09-25 |
 | [Our Little Dilemma](https://open.spotify.com/track/56hqH6z2CU6G8NbVvVXAb2) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Our Little Dilemma](https://open.spotify.com/album/1oG7Rrh028vORF4dYs0GRI) | 3:22 | 2021-03-14 | 2021-05-21 |
 | [Out for a Stroll](https://open.spotify.com/track/36Foss260ItalU4rLJhYks) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Journey](https://open.spotify.com/album/0Y89JuEUKr68HwH9XDEmFA) | 3:42 | 2022-11-17 | 2022-12-24 |
 | [Out for a Stroll](https://open.spotify.com/track/52uThjP5ZMRijeBTKUMUkS) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Out for a Stroll](https://open.spotify.com/album/0LGnwyI6nxYH6ZHbyYtoDZ) | 3:42 | 2021-07-16 | 2022-11-20 |

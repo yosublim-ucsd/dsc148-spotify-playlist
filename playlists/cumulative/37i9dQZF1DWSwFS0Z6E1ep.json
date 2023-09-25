@@ -2586,7 +2586,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 143053,
       "name": "Little Bitty Pretty One",
       "url": "https://open.spotify.com/track/1ye9IP87nKYZ5YAGaEv9A1"
@@ -2608,6 +2608,28 @@
       "duration_ms": 143066,
       "name": "Little Bitty Pretty One",
       "url": "https://open.spotify.com/track/2yOXKIU9YtBSWjI3OA8tqj"
+    },
+    {
+      "album": {
+        "name": "Little Bitty Pretty One",
+        "url": "https://open.spotify.com/album/4nYxAqSN5IKtwX1E1wJtTO"
+      },
+      "artists": [
+        {
+          "name": "Thurston Harris",
+          "url": "https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT"
+        },
+        {
+          "name": "The Sharps",
+          "url": "https://open.spotify.com/artist/6ML5oUVCtIT9xBele6LLMn"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142453,
+      "name": "Little Bitty Pretty One",
+      "url": "https://open.spotify.com/track/6FMGHBZaYQY7oFS7vyZx8a"
     },
     {
       "album": {

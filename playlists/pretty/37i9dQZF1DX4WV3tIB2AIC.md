@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WV3tIB2AIC.md) - [plain]
 
 > Our editorial picks for the best gaming tracks of the year\. Cover: Lil Nas X \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,007 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,013 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WV3tIB2AIC.md) - [plain]
 | 25 | [Gospel \(with Eminem\)](https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Gospel \(with Eminem\)](https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX) | 3:30 |
 | 26 | [C’est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/3QqOcLtTU8zzlQRJCZzttP) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Marvelous](https://open.spotify.com/album/3DCLmgvu8dwEyJ3MpBcNka) | 2:40 |
 | 27 | [Everything Goes On](https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Everything Goes On](https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW) | 3:22 |
-| 28 | [HOME](https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF) | 2:54 |
-| 29 | [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 |
+| 28 | [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 |
+| 29 | [HOME](https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF) | 2:54 |
 | 30 | [Nail Tech](https://open.spotify.com/track/3ioJs8DQw527GmqJIp5gZG) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 3:26 |
 | 31 | [Blood Upon the Snow](https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 4:31 |
 | 32 | [Hurricane \(feat\. SHIBUI\)](https://open.spotify.com/track/1SlLP2AI4L2oh3VRJfHBpf) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Hurricane \(feat\. SHIBUI\)](https://open.spotify.com/album/5QGih7kgYuAfmYJROylEX3) | 2:33 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WV3tIB2AIC.md) - [plain]
 | 43 | [Rips in Jeans](https://open.spotify.com/track/7K0ga2R3IgiwDOZlk9SC9n) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Rips in Jeans](https://open.spotify.com/album/1hhHTkkClYXmZdIVzVfbX0) | 2:43 |
 | 44 | [Ounana](https://open.spotify.com/track/5vG6arj1VenNFvm33XTAoP) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Ounana](https://open.spotify.com/album/5usO7FkdsJQRcRL3FckUFH) | 2:31 |
 | 45 | [Set It Off](https://open.spotify.com/track/6qONYDmRz1s7Msz0yVDHMB) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [DPR CLINE](https://open.spotify.com/artist/4Z6fYh9ANGOfOSylYE5gZz) | [Set It Off](https://open.spotify.com/album/1dvFlkLfxQ9NsmZ61FUO4W) | 2:30 |
-| 46 | [Ballin](https://open.spotify.com/track/2eWHHPZS4pb7mEMcow4bqT) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Ballin](https://open.spotify.com/album/0dzZgJ3jzWe2WD7rG6nPaE) | 2:56 |
-| 47 | [First Flight To Mars](https://open.spotify.com/track/6UKz34hAzN9swLxG4Fz9i4) | [Ark Woods](https://open.spotify.com/artist/7rFWIQhhSOCe5eCBJhE77e) | [First Flight To Mars](https://open.spotify.com/album/450XgNiRqk6pdeKSIY504s) | 3:07 |
+| 46 | [First Flight To Mars](https://open.spotify.com/track/6UKz34hAzN9swLxG4Fz9i4) | [Ark Woods](https://open.spotify.com/artist/7rFWIQhhSOCe5eCBJhE77e) | [First Flight To Mars](https://open.spotify.com/album/450XgNiRqk6pdeKSIY504s) | 3:07 |
+| 47 | [Ballin](https://open.spotify.com/track/2eWHHPZS4pb7mEMcow4bqT) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Ballin](https://open.spotify.com/album/0dzZgJ3jzWe2WD7rG6nPaE) | 2:56 |
 | 48 | [The Final Battle](https://open.spotify.com/track/6mIuQuKlOK7l6HkQnHfvpQ) | [Tsukasa Saitoh](https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD) | [Elden Ring \(Original Soundtrack\)](https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir) | 4:58 |
 | 49 | [Fall 'N' Roll](https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL) | [Jukio Kallio](https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq), [Daniel Hagström](https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx) | [Fall Guys \(Original Soundtrack\)](https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT) | 3:13 |
 | 50 | [Before U](https://open.spotify.com/track/1iyXU0LHY9Irw7oohGf7hb) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Before U](https://open.spotify.com/album/3dRIkRoJIbmfi1Hh9IKrjC) | 2:34 |
 
-Snapshot ID: `MCw3NTM1ZDYwZDc2ZDBhY2FkMTQ3OWVlZDcwZGExYjBmZDUyYTEyY2Ez`
+Snapshot ID: `MCw1NmVkMjcyZDgzZjAyNDNlNWU4NTA3ZThjZDMzYmE1MjZkZDFjY2I3`

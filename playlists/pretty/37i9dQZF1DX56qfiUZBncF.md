@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,826 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,878 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 70 | [Frail State Of Mind](https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Frail State Of Mind](https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn) | 3:54 |
 | 71 | [Nirvana](https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Nirvana](https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh) | 4:26 |
 | 72 | [Naive](https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe) | [RKCB](https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc) | [Naive](https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI) | 3:33 |
-| 73 | [Hunger](https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU) | [Sam Sure](https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd) | [Hunger](https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA) | 3:12 |
-| 74 | [I'll Be There](https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There](https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J) | 3:55 |
+| 73 | [I'll Be There](https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There](https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J) | 3:55 |
+| 74 | [Hunger](https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU) | [Sam Sure](https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd) | [Hunger](https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA) | 3:12 |
 | 75 | [Gold \- Flume Rework](https://open.spotify.com/track/6iIDeCpn9TQB7yns5zwkc6) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Gold \(Flume Rework\)](https://open.spotify.com/album/0c6k1Sx08mOgZ1ZmnyqG9T) | 4:27 |
 | 76 | [cherry blossom](https://open.spotify.com/track/2pVym24miJgEbF170Is2lO) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [are we?](https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze) | 2:21 |
 | 77 | [Nighttime Hunger](https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [YOUNG](https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm) | 2:48 |
-| 78 | [6 Letters](https://open.spotify.com/track/1MJi765hSvWGBxCoxYeQsn) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [6 Letters](https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2) | 2:46 |
-| 79 | [Hummed Low](https://open.spotify.com/track/5ptxcmrUfNuLQezXE1Polu) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Odessa](https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH) | 3:35 |
+| 78 | [Hummed Low](https://open.spotify.com/track/5ptxcmrUfNuLQezXE1Polu) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Odessa](https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH) | 3:35 |
+| 79 | [6 Letters](https://open.spotify.com/track/1MJi765hSvWGBxCoxYeQsn) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [6 Letters](https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2) | 2:46 |
 | 80 | [What Kinda Music \- Jordan Rakei Remix](https://open.spotify.com/track/0FMgzGbCh8yNMibGY5L2cM) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music \(Jordan Rakei Remix\)](https://open.spotify.com/album/2xNZKNIlHUY9NKXrHzr19g) | 5:40 |
 | 81 | [Together](https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Together](https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx) | 3:44 |
 | 82 | [Sleepyhead](https://open.spotify.com/track/3MziBfxdRIQHTrdTJuk5qt) | [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Sleepyhead](https://open.spotify.com/album/4Gw8h2MKOE7pUJPwPHoIRI) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 99 | [Avery](https://open.spotify.com/track/31DUl7XE3OzX1IcnVG94g4) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Avery](https://open.spotify.com/album/643Gnd42azlZukIkuTucy6) | 3:14 |
 | 100 | [Losing Sleep](https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Losing Sleep](https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4) | 3:42 |
 
-Snapshot ID: `MCw5YjcwOTJlNjEwOTU5Y2VmZmFkZjE4YzQwYWMxZjk3ZWM5NDY1ZDQx`
+Snapshot ID: `MCxiOGM0MjkzNjgzMmQ0YTcxMjBmYzlmODI3ODMzMDRkN2YxOTI1ZjMz`

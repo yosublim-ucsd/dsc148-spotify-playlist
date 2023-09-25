@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,504 likes - 56 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,624 likes - 56 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 55 | [Nuovo Cinema Paradiso](https://open.spotify.com/track/4xx3UI7cLCk1awQPAPLeHj) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Nuovo Cinema Paradiso \(Original Motion Picture Soundtrack\) \[Remastered Edition\]](https://open.spotify.com/album/0O1LCjDQ6gFjaLG05xj0xH) | 2:58 |
 | 56 | [Under the Stars \- From "The Lion King"/Score](https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:45 |
 
-Snapshot ID: `MCw0NmE5MDRmNzhlOGJmOTdlZTNjZWE3ZDZiMmQ1ODVhMzY0ZDA5ZjQx`
+Snapshot ID: `MCwyZDdlMjk2M2FiMTk4YmJiMDY5MTU5ODc4ZGZmNzA0NjMzN2VmMGQx`

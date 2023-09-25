@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A calentar garganta!",
-  "num_followers": 1148995,
+  "num_followers": 1149161,
   "original_name": "La Cantina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWIzOWU2OWJjYzM2NTA3YmNjMjc0NmQ4ZTAwMmUwYmY2MjFiZDE0",
+  "snapshot_id": "MCxiYTA2ZGU0MmExNTRmMzViMGNkN2Y1ZjE2ZGIxYTE2MTIxYTllOTBl",
   "tracks": [
     {
       "added_at": "2023-09-22 19:07:18",
@@ -239,6 +239,26 @@
     {
       "added_at": "2023-09-22 19:07:18",
       "album": {
+        "name": "El Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Tony Melendez",
+          "url": "https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF"
+        }
+      ],
+      "duration_ms": 163223,
+      "name": "El Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
+    },
+    {
+      "added_at": "2023-09-22 19:07:18",
+      "album": {
         "name": "Vamos Bien",
         "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
@@ -267,26 +287,6 @@
       "duration_ms": 202560,
       "name": "El Color de Tus Ojos",
       "url": "https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq"
-    },
-    {
-      "added_at": "2023-09-22 19:07:18",
-      "album": {
-        "name": "El Amor De Tu Vida",
-        "url": "https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Tony Melendez",
-          "url": "https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF"
-        }
-      ],
-      "duration_ms": 163223,
-      "name": "El Amor De Tu Vida",
-      "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
     },
     {
       "added_at": "2023-09-22 19:07:18",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-09-22 19:07:18",
       "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 155802,
+      "name": "Me la Avente",
+      "url": "https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm"
+    },
+    {
+      "added_at": "2023-09-22 19:07:18",
+      "album": {
         "name": "Joan Sebastian Con Mariachi",
         "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
-    },
-    {
-      "added_at": "2023-09-22 19:07:18",
-      "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 155802,
-      "name": "Me la Avente",
-      "url": "https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm"
     },
     {
       "added_at": "2023-09-22 19:07:18",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-09-22 19:07:18",
       "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 273008,
-      "name": "Secreto De Amor",
-      "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
-    },
-    {
-      "added_at": "2023-09-22 19:07:18",
-      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 239310,
       "name": "Dame un Beso y Dime Adios - En Vivo",
       "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
+    },
+    {
+      "added_at": "2023-09-22 19:07:18",
+      "album": {
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 273008,
+      "name": "Secreto De Amor",
+      "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
     },
     {
       "added_at": "2023-09-22 19:07:18",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-09-22 19:07:18",
       "album": {
-        "name": "De Monterrey a Sinaloa",
-        "url": "https://open.spotify.com/album/1RVvXaNvZedvPDVQfozH1I"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Borracho de Amor",
-      "url": "https://open.spotify.com/track/4fYNJdS986IYQWxVoZjY3A"
-    },
-    {
-      "added_at": "2023-09-22 19:07:18",
-      "album": {
         "name": "Ojos En Blanco",
         "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 147053,
       "name": "Ya Te Perd\u00ed La Fe",
       "url": "https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5"
+    },
+    {
+      "added_at": "2023-09-22 19:07:18",
+      "album": {
+        "name": "De Monterrey a Sinaloa",
+        "url": "https://open.spotify.com/album/1RVvXaNvZedvPDVQfozH1I"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Borracho de Amor",
+      "url": "https://open.spotify.com/track/4fYNJdS986IYQWxVoZjY3A"
     },
     {
       "added_at": "2023-09-22 19:07:18",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-09-22 19:07:18",
       "album": {
-        "name": "La Mejor De Todas",
-        "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "La Mejor De Todas",
-      "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
-    },
-    {
-      "added_at": "2023-09-22 19:07:18",
-      "album": {
         "name": "Hoy M\u00e1s Fuerte",
         "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 131853,
       "name": "Fuiste M\u00eda",
       "url": "https://open.spotify.com/track/0QRHEmvbFr73h5Fyk33fji"
+    },
+    {
+      "added_at": "2023-09-22 19:07:18",
+      "album": {
+        "name": "La Mejor De Todas",
+        "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "La Mejor De Todas",
+      "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
     },
     {
       "added_at": "2023-09-22 19:07:18",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-09-22 19:07:18",
       "album": {
+        "name": "Ni Con Labios Prestados",
+        "url": "https://open.spotify.com/album/6qbkITbtEKq6CfhurxWvLx"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 244253,
+      "name": "Ni Con Labios Prestados",
+      "url": "https://open.spotify.com/track/3IxbwKm0uWtoHJQ04K1YbA"
+    },
+    {
+      "added_at": "2023-09-22 19:07:18",
+      "album": {
         "name": "2 Veces",
         "url": "https://open.spotify.com/album/0ddW33CDTAi75BC9ELsXSJ"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 189066,
       "name": "2 Veces",
       "url": "https://open.spotify.com/track/2G5kj8gYNAVM4pQ0IBBaGA"
-    },
-    {
-      "added_at": "2023-09-22 19:07:18",
-      "album": {
-        "name": "Ni Con Labios Prestados",
-        "url": "https://open.spotify.com/album/6qbkITbtEKq6CfhurxWvLx"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 244253,
-      "name": "Ni Con Labios Prestados",
-      "url": "https://open.spotify.com/track/3IxbwKm0uWtoHJQ04K1YbA"
     },
     {
       "added_at": "2023-09-22 19:07:18",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-09-22 19:07:18",
       "album": {
+        "name": "En El Area De Sue\u00f1os",
+        "url": "https://open.spotify.com/album/6pHjYeVeqfrhY7urDyaand"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "Le Dije Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/23IJBnRVYyPd2GD0mAkZTp"
+    },
+    {
+      "added_at": "2023-09-22 19:07:18",
+      "album": {
         "name": "Hoy M\u00e1s Fuerte",
         "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 176133,
       "name": "Con Un Botecito A Pecho",
       "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
-    },
-    {
-      "added_at": "2023-09-22 19:07:18",
-      "album": {
-        "name": "En El Area De Sue\u00f1os",
-        "url": "https://open.spotify.com/album/6pHjYeVeqfrhY7urDyaand"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 153266,
-      "name": "Le Dije Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/23IJBnRVYyPd2GD0mAkZTp"
     },
     {
       "added_at": "2023-09-22 19:07:18",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-09-22 19:07:18",
       "album": {
+        "name": "Tragos Amargos",
+        "url": "https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 161253,
+      "name": "Tragos Amargos",
+      "url": "https://open.spotify.com/track/3hqlTqu571M1MqRWX6ZX0x"
+    },
+    {
+      "added_at": "2023-09-22 19:07:18",
+      "album": {
         "name": "M\u00e1s Muerto Que Vivo",
         "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
       },
@@ -1275,18 +1291,34 @@
     {
       "added_at": "2023-09-22 19:07:18",
       "album": {
-        "name": "Tragos Amargos",
-        "url": "https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo"
+        "name": "Tu Amigo Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2"
       },
       "artists": [
         {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 161253,
-      "name": "Tragos Amargos",
-      "url": "https://open.spotify.com/track/3hqlTqu571M1MqRWX6ZX0x"
+      "duration_ms": 235600,
+      "name": "A D\u00f3nde Quiera Que Vaya",
+      "url": "https://open.spotify.com/track/3SAuHX9P3o0MIu7PDxFVur"
+    },
+    {
+      "added_at": "2023-09-22 19:07:18",
+      "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "Entonces Que Somos",
+      "url": "https://open.spotify.com/track/4xgBQfC09yhhY44xgcN6vx"
     },
     {
       "added_at": "2023-09-22 19:07:18",
@@ -1311,38 +1343,6 @@
       "duration_ms": 169986,
       "name": "Contigo No Fue",
       "url": "https://open.spotify.com/track/24KGKNglICq4YhNvaZfkA7"
-    },
-    {
-      "added_at": "2023-09-22 19:07:18",
-      "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "Entonces Que Somos",
-      "url": "https://open.spotify.com/track/4xgBQfC09yhhY44xgcN6vx"
-    },
-    {
-      "added_at": "2023-09-22 19:07:18",
-      "album": {
-        "name": "Tu Amigo Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 235600,
-      "name": "A D\u00f3nde Quiera Que Vaya",
-      "url": "https://open.spotify.com/track/3SAuHX9P3o0MIu7PDxFVur"
     },
     {
       "added_at": "2023-09-22 19:07:18",

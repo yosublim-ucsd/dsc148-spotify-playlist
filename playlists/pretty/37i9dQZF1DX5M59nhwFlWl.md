@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M59nhwFlWl.md) - [plain]
 
 > That unbridled, unholy, loud and dirty 90s rock goodness you know you love
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,885 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,961 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M59nhwFlWl.md) - [plain]
 | 49 | [Cut You In](https://open.spotify.com/track/0ecuZefr04QYl0cGpT53Nz) | [Jerry Cantrell](https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP) | [Boggy Depot](https://open.spotify.com/album/6AK1eIMwW1LxFNlqwiDED5) | 3:23 |
 | 50 | [Sheep Go To Heaven](https://open.spotify.com/track/4G8Eu3EDQZYhHPfJMFCv8V) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Prolonging the Magic](https://open.spotify.com/album/1vbpW28Od2ATmVyAZ0QZ3j) | 3:48 |
 
-Snapshot ID: `MCxmNmYzNWJlMzRmMDgyZDY0ZTZiMTJhMmQ0MDZlN2ZhODEzNTdiYjQy`
+Snapshot ID: `MCw1OTAwODczNjBmYzg3ZDBiYjMzMjVkYWU3MDI5MTZkMTFjZjdlMDg1`

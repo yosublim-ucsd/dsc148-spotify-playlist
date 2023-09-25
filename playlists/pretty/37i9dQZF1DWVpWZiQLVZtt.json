@@ -1,12 +1,12 @@
 {
   "description": "Pop Latino de los 80 y 90. Canciones que quedar\u00e1n para siempre. Foto: Luis Miguel",
-  "num_followers": 674352,
+  "num_followers": 674892,
   "original_name": "Cl\u00e1sicos del Pop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzJkNWMzNGJiNjU0ZTMyNDY3ZmY2YWM0YjhmNWIxNmExNWE5NzM2",
+  "snapshot_id": "MCxhMDM1ZTQwZWM5YjhmMDU5NjBmZGIyMWZmOGRlNDgzZGRlNTUxYjIw",
   "tracks": [
     {
       "added_at": "2022-03-15 03:49:22",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "Flor De Piel",
-        "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 283133,
-      "name": "Hacer El Amor Con Otro",
-      "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
         "name": "Hijas del Tomate",
         "url": "https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 213973,
       "name": "The Ketchup Song (Aserej\u00e9) - Spanglish Version",
       "url": "https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
+        "name": "Flor De Piel",
+        "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 283133,
+      "name": "Hacer El Amor Con Otro",
+      "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "TZN -The Best Of Tiziano Ferro (Spanish Edition)",
-        "url": "https://open.spotify.com/album/0Kk7kX25RVvNzkYfyGt8kv"
-      },
-      "artists": [
-        {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "Tardes Negras",
-      "url": "https://open.spotify.com/track/0IgtEvYFtZEapMoCcgizGQ"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
         "name": "Tierna La Noche",
         "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 281520,
       "name": "Az\u00facar Amargo",
       "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
+        "name": "TZN -The Best Of Tiziano Ferro (Spanish Edition)",
+        "url": "https://open.spotify.com/album/0Kk7kX25RVvNzkYfyGt8kv"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "duration_ms": 262693,
+      "name": "Tardes Negras",
+      "url": "https://open.spotify.com/track/0IgtEvYFtZEapMoCcgizGQ"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "Sin Bandera",
-        "url": "https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo"
+        "name": "En Extasis",
+        "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
       },
       "artists": [
         {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
         }
       ],
-      "duration_ms": 248200,
-      "name": "Entra en Mi Vida",
-      "url": "https://open.spotify.com/track/4W6za66pgH7QBbeiU9kS1v"
+      "duration_ms": 282893,
+      "name": "Piel Morena",
+      "url": "https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "En Extasis",
-        "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
+        "name": "Sin Bandera",
+        "url": "https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
         }
       ],
-      "duration_ms": 282893,
-      "name": "Piel Morena",
-      "url": "https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw"
+      "duration_ms": 248200,
+      "name": "Entra en Mi Vida",
+      "url": "https://open.spotify.com/track/4W6za66pgH7QBbeiU9kS1v"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "T\u00fa Y Yo",
-        "url": "https://open.spotify.com/album/2R7m2KEpz551kzsoayID3S"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 213060,
-      "name": "Diez Mil Maneras",
-      "url": "https://open.spotify.com/track/0bozYJjedwJwsvg7WWrWnX"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
         "name": "Arrasando",
         "url": "https://open.spotify.com/album/2PA0R3BGC5ZGCAR6G23sqO"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 239733,
       "name": "Arrasando",
       "url": "https://open.spotify.com/track/1EhDeCHd34jt7dMDqkGQBC"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
+        "name": "T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/2R7m2KEpz551kzsoayID3S"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 213060,
+      "name": "Diez Mil Maneras",
+      "url": "https://open.spotify.com/track/0bozYJjedwJwsvg7WWrWnX"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
+        "name": "Amor A La Mexicana",
+        "url": "https://open.spotify.com/album/2tOjQfrdrnRNOwtDY1BLqD"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 265333,
+      "name": "Amor A La Mexicana",
+      "url": "https://open.spotify.com/track/1LxoxVuG3T5Ji0eCua8N30"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
         "name": "Esclava De Tu Piel",
         "url": "https://open.spotify.com/album/4cllWOyTixZqsWOLj5BvPB"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 263173,
       "name": "Amante Bandido",
       "url": "https://open.spotify.com/track/1wJneaMg40pI9qxGXPxG9X"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
-        "name": "Amor A La Mexicana",
-        "url": "https://open.spotify.com/album/2tOjQfrdrnRNOwtDY1BLqD"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 265333,
-      "name": "Amor A La Mexicana",
-      "url": "https://open.spotify.com/track/1LxoxVuG3T5Ji0eCua8N30"
     },
     {
       "added_at": "2022-03-15 03:49:22",

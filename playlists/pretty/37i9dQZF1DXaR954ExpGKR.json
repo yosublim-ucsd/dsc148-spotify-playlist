@@ -1,12 +1,12 @@
 {
   "description": "The best Latin music from all around the world! Cover: Maria Becerra & Prabh Singh",
-  "num_followers": 169562,
+  "num_followers": 169665,
   "original_name": "Latino Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGE3NWM2ZDYwZGZkMzgyZWZiZGY2ZWJhODQwMjE4Y2Q3NzM2OTI1",
+  "snapshot_id": "MCxlODA2MTE2NTVjZmZmMGMwNDllOWUyMGQyN2E0MTY4ZDY0ZDRkYjk4",
   "tracks": [
     {
       "added_at": "2023-09-22 07:16:39",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
         "name": "MIRAGE (feat. Ozuna, Sfera Ebbasta & GIMS)",
         "url": "https://open.spotify.com/album/5WbgkuQehIgUQn9s5gpbZH"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 206054,
       "name": "MIRAGE (feat. Ozuna, GIMS & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
-        "name": "KU LO SA - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 147580,
-      "name": "KU LO SA - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -531,30 +531,6 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 185194,
-      "name": "Loco Contigo (feat. J. Balvin & Tyga)",
-      "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
         "name": "Te Menti",
         "url": "https://open.spotify.com/album/0ucVAnzaNBmu2fQIF459tl"
       },
@@ -575,6 +551,30 @@
       "duration_ms": 187129,
       "name": "Te Menti",
       "url": "https://open.spotify.com/track/1QtKYyXEw9tSMIlK4RfA8B"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 185194,
+      "name": "Loco Contigo (feat. J. Balvin & Tyga)",
+      "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -655,42 +655,6 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "Nibiru",
-        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Baila Baila Baila",
-      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
-        "name": "Palpita",
-        "url": "https://open.spotify.com/album/603fRSffKcKusaqnmhXos5"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Palpita",
-      "url": "https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -715,6 +679,42 @@
       "duration_ms": 212500,
       "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "Palpita",
+        "url": "https://open.spotify.com/album/603fRSffKcKusaqnmhXos5"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Palpita",
+      "url": "https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "Nibiru",
+        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Baila Baila Baila",
+      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
     },
     {
       "added_at": "2023-09-22 07:16:39",

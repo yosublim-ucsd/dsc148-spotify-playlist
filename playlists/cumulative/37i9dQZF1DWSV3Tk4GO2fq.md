@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1950s.
 
-308 songs - 14 hr 15 min
+309 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Ain't That A Shame](https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:32 | 2021-04-28 |  |
 | [All I Have to Do Is Dream](https://open.spotify.com/track/72nqbbrKjhXmDdRXQGq115) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Fabulous Fifties Nostalgia Vol 5](https://open.spotify.com/album/5Bi3wDUlDlfKUYb5S5kcY6) | 2:21 | 2021-04-28 | 2022-07-29 |
 | [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 | 2022-06-09 | 2023-09-15 |
+| [All I Have to Do Is Dream \(Single Version\)](https://open.spotify.com/track/0Q1tq0hFra4W9k6kx1MSjG) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [All I Have to Do Is Dream](https://open.spotify.com/album/7Dzfcj8tp9CUmkD6kXAqcb) | 2:20 | 2022-06-09 |  |
 | [All Shook Up](https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 1:57 | 2021-04-28 | 2023-09-14 |
 | [April In Paris](https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:05 | 2022-06-09 |  |
 | [At The Hop](https://open.spotify.com/track/6wcKmXUzB6SExvGbleZkeI) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [At The Hop](https://open.spotify.com/album/14OW44PB5YijRkKJtwEE58) | 2:29 | 2021-04-28 | 2022-07-29 |
@@ -146,7 +147,7 @@
 | [Keep A\-Knockin'](https://open.spotify.com/track/23HHXTq3Ms5p2gP9fgdC0i) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [The Essential Little Richard](https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf) | 2:18 | 2022-06-09 | 2022-11-13 |
 | [La Bamba \- Single Version](https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:06 | 2021-04-28 |  |
 | [Let The Good Times Roll](https://open.spotify.com/track/2ePDfIXoP2HmC1hfsujb2J) | [Shirley & Lee](https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y) | [Aladdin '52\-'59:Let The Good Times Roll](https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP) | 2:25 | 2021-04-28 | 2022-11-13 |
-| [Little Bitty Pretty One](https://open.spotify.com/track/1ye9IP87nKYZ5YAGaEv9A1) | [Thurston Harris](https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT) | [The Little Adventures of Thurston Harris \(65th Anniversary Edition\)](https://open.spotify.com/album/3CKsthBsGTsb5uK4e1TYuq) | 2:23 | 2022-06-09 |  |
+| [Little Bitty Pretty One](https://open.spotify.com/track/1ye9IP87nKYZ5YAGaEv9A1) | [Thurston Harris](https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT) | [The Little Adventures of Thurston Harris \(65th Anniversary Edition\)](https://open.spotify.com/album/3CKsthBsGTsb5uK4e1TYuq) | 2:23 | 2022-06-09 | 2023-09-25 |
 | [Little Bitty Pretty One](https://open.spotify.com/track/2yOXKIU9YtBSWjI3OA8tqj) | [Thurston Harris](https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT) | [Little Bitty Pretty One](https://open.spotify.com/album/0E72reqQQ7799PLL07DFnG) | 2:23 | 2021-04-28 | 2022-07-29 |
 | [Little Darlin'](https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [The Best Of The Diamonds](https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM) | 2:09 | 2021-04-28 |  |
 | [Living Doll \- 2003 Remaster](https://open.spotify.com/track/3koJ1vDWEITIrfMlNaHIu3) | [Cliff Richard & The Drifters](https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b) | [Stronger Thru the Years](https://open.spotify.com/album/3rLfzxtnwQMHi16pLYdSFw) | 2:36 | 2021-04-28 | 2022-07-29 |

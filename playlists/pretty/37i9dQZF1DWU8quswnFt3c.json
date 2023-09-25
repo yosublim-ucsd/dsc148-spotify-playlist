@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Shakira",
-  "num_followers": 919943,
+  "num_followers": 919910,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjg0Mjk3ZThmNjNlMmNhOGI3NTlmNTZmMDA2YjdmMTIxMGI4ODk0",
+  "snapshot_id": "MCw3MGMxMDM1NWEyNjVmMzc4ZjM0MjVkZGM4NmJhNGM1MjVlMmU5YWU0",
   "tracks": [
     {
       "added_at": "2023-09-22 14:08:31",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-09-22 14:08:31",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf"
-      },
-      "artists": [
-        {
-          "name": "Mystic Marley",
-          "url": "https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L"
-    },
-    {
-      "added_at": "2023-09-22 14:08:31",
-      "album": {
         "name": "Home With Me",
         "url": "https://open.spotify.com/album/4YuGF62IsiSP9PzRu3YERe"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 167065,
       "name": "Home With Me",
       "url": "https://open.spotify.com/track/4L5k6CJOltwqapOYT7OvkH"
+    },
+    {
+      "added_at": "2023-09-22 14:08:31",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf"
+      },
+      "artists": [
+        {
+          "name": "Mystic Marley",
+          "url": "https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L"
     },
     {
       "added_at": "2023-09-22 14:08:31",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-09-22 14:08:31",
       "album": {
-        "name": "Mummy (Please Stay)",
-        "url": "https://open.spotify.com/album/0ipXf0pCC9qEJVuVbrU5u0"
-      },
-      "artists": [
-        {
-          "name": "Talitha.",
-          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
-        }
-      ],
-      "duration_ms": 224449,
-      "name": "Mummy (Please Stay)",
-      "url": "https://open.spotify.com/track/0g7zNQmADaO6uNPNsCJPRw"
-    },
-    {
-      "added_at": "2023-09-22 14:08:31",
-      "album": {
         "name": "D\u00e9j\u00e0 vu",
         "url": "https://open.spotify.com/album/4mMT077W7zWQvtBJQNABkm"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 185045,
       "name": "D\u00e9j\u00e0 vu",
       "url": "https://open.spotify.com/track/65AkOkjVMHm8gwdg0j2khw"
+    },
+    {
+      "added_at": "2023-09-22 14:08:31",
+      "album": {
+        "name": "Mummy (Please Stay)",
+        "url": "https://open.spotify.com/album/0ipXf0pCC9qEJVuVbrU5u0"
+      },
+      "artists": [
+        {
+          "name": "Talitha.",
+          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
+        }
+      ],
+      "duration_ms": 224449,
+      "name": "Mummy (Please Stay)",
+      "url": "https://open.spotify.com/track/0g7zNQmADaO6uNPNsCJPRw"
     },
     {
       "added_at": "2023-09-22 14:08:31",

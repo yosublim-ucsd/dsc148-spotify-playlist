@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Chri$tian Gate$
 
-870 songs - 1 day 15 hr 31 min
+871 songs - 1 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,8 +287,9 @@
 | [Girls Rule The World](https://open.spotify.com/track/2XOStOIIkRktcYiALuPrZx) | [Teddy](https://open.spotify.com/artist/0a6Q2oHRwUYaZMChVBZWts), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Girls Rule The World](https://open.spotify.com/album/7G8PbHpKWnKrXCJyIHosj6) | 2:43 | 2022-01-07 | 2022-07-28 |
 | [Give u a Call](https://open.spotify.com/track/4M7hHEhRCrXDNmUZlls22t) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Give u a Call](https://open.spotify.com/album/4lW4itwhtpvoCfKjsSyEsB) | 2:23 | 2021-03-06 | 2021-05-29 |
 | [gladthatyourdoingsogreat](https://open.spotify.com/track/6H3LubQZSNqG2VZZABujOj) | [Belak](https://open.spotify.com/artist/2y83yKCgoia21m1ot4WxPL), [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd), [Mewatonin](https://open.spotify.com/artist/4eLOP3uju8JpGYOEQPKzeQ) | [I'm Over It](https://open.spotify.com/album/4R68iRCcg5dGG1NGGXpSbU) | 3:37 | 2021-02-22 | 2021-02-23 |
-| [Go Wild](https://open.spotify.com/track/16EzGL9U34odQa9iTm5Jb0) | [Drex Carter](https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc) | [Go Wild](https://open.spotify.com/album/0rxU5Ka6Tz2utlsS9qrWje) | 2:40 | 2023-09-01 |  |
+| [Go Wild](https://open.spotify.com/track/16EzGL9U34odQa9iTm5Jb0) | [Drex Carter](https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc) | [Go Wild](https://open.spotify.com/album/0rxU5Ka6Tz2utlsS9qrWje) | 2:40 | 2023-09-01 | 2023-09-25 |
 | [Go Wild](https://open.spotify.com/track/2V1UjIW8DUV9jzpcOffRXk) | [Drex Carter](https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc) | [Go Wild](https://open.spotify.com/album/6XNZaASEHduRzthfI6bOrc) | 2:40 | 2021-08-12 | 2023-08-30 |
+| [Go Wild](https://open.spotify.com/track/3p2f3cjwWArheRaM1F231N) | [Drex Carter](https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc) | [Go Wild](https://open.spotify.com/album/6Z2q115jZoFy2O5HwnfWsB) | 2:40 | 2023-09-01 |  |
 | [GONE](https://open.spotify.com/track/565VkYvqOmtu7zNvj9Znm8) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [GONZO](https://open.spotify.com/album/1hBEXLboAWv9jyl2HpEtbw) | 2:46 | 2022-07-15 |  |
 | [gone girl](https://open.spotify.com/track/3iH29NcCxYgI5shlkZrUoB) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Industry Plant](https://open.spotify.com/album/5UuzudgFxwLkxC1LFajC5e) | 2:16 | 2022-07-22 | 2023-01-28 |
 | [gone girl](https://open.spotify.com/track/6G0FACzGN80Dj2v4ass5rq) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [gone girl](https://open.spotify.com/album/6ZhOC5xr3JOdr7hmQTSqyR) | 2:16 | 2020-12-13\* | 2021-07-01 |

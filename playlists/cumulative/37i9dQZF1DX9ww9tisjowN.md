@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: King Gnu
 
-187 songs - 10 hr 54 min
+188 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Odo](https://open.spotify.com/track/37bNBNB332HXbSy6079cws) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 3:30 | 2023-07-06 | 2023-09-06 |
 | [OTONABLUE](https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:04 | 2023-05-09 |  |
 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2023-05-09 |  |
-| [PARA PARA](https://open.spotify.com/track/29PEVvBaguhVOMMLkIVjDN) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [PARA PARA](https://open.spotify.com/album/3aCunvSQeBwKpfsAUTst6A) | 2:50 | 2023-07-04 |  |
+| [PARA PARA](https://open.spotify.com/track/29PEVvBaguhVOMMLkIVjDN) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [PARA PARA](https://open.spotify.com/album/3aCunvSQeBwKpfsAUTst6A) | 2:50 | 2023-07-04 | 2023-09-25 |
+| [PARA PARA](https://open.spotify.com/track/2gEoLrQPZowcrjZoETZ3J2) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:50 | 2023-09-21 |  |
 | [PEEK\-A\-BOO \- feat\. 鈴木優人 & かてぃん\(角野隼斗\) with 麻布学園OB+オーケストラ](https://open.spotify.com/track/0BghOAtqgizpuVtJFUCFxn) | [PIKOTARO](https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2), [鈴木優人](https://open.spotify.com/artist/5OcbTVDfV9qxI7va2CwpNX), [かてぃん\(角野隼斗\)](https://open.spotify.com/artist/3pFcOAkJezpIkzIFurpXA9) | [PEEK\-A\-BOO \[feat\. 鈴木優人 & かてぃん\(角野隼斗\) with 麻布学園OB+オーケストラ\]](https://open.spotify.com/album/0scNuFoGoUmCWEC8VNHZiM) | 2:20 | 2023-06-27 | 2023-07-05 |
 | [PING PONG! \(feat\. YMCK\)](https://open.spotify.com/track/3J7aROvcIXinMbZd2LzL3B) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [YMCK](https://open.spotify.com/artist/7ByfNcFxztbyKLEIVKmFVc) | [WINK](https://open.spotify.com/album/105329tEvmR4S5ofi0EZig) | 3:16 | 2023-05-09 | 2023-07-05 |
 | [plan](https://open.spotify.com/track/1vTx59PSh5jHw2WmEpTgWN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [plan](https://open.spotify.com/album/1c7dUJR1HsiVLLLR901iMr) | 3:18 | 2023-07-11 | 2023-07-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Sapta Sagaradaache Ello \- Side A
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,058 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,115 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Yaaro Yaaro \(From "Yadha Yadha Hi"\)](https://open.spotify.com/track/1ASDt2sOPKNGdb4m84fQMS) | [Sangeetha Rajeev](https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG), [Ravi Prakash Chodimalla](https://open.spotify.com/artist/1J5d9DMAj9oYk7yKswHj8U), [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Yaaro Yaaro \(From "Yadha Yadha Hi"\)](https://open.spotify.com/album/6UQHF0v6t3opBWTiwgECKY) | 2:54 |
 | 75 | [Ninnanu Nodida \(from "Baanadariyalli"\)](https://open.spotify.com/track/4PMvYkH1nrA1KvJmWexQGW) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Ninnanu Nodida \(from "Baanadariyalli"\)](https://open.spotify.com/album/2jBMbxmjZGr3RAPY6tafvS) | 4:16 |
 
-Snapshot ID: `MCw4ZDcwYWQ1MDgxMTJjMDY3MWZmOWEyMGM4ODk5YjA1N2VmYzA4OWRl`
+Snapshot ID: `MCwxMWVjNzRlNjk5YmQ3MGFhZjUwMDQ2ODY2M2E0NTg5OGE3MTEyNmZh`

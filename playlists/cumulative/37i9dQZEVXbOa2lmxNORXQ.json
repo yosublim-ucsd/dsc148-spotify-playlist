@@ -8818,7 +8818,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 182068,
       "name": "Medayork",
       "url": "https://open.spotify.com/track/7lt9n5nDdBHBkwtEUonafc"
@@ -10038,7 +10038,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 201493,
       "name": "Nunca Volvieron",
       "url": "https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex"
@@ -11514,7 +11514,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 207626,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK"
@@ -13752,6 +13752,28 @@
       "duration_ms": 130013,
       "name": "TE MUDASTE",
       "url": "https://open.spotify.com/track/5RubKOuDoPn5Kj5TLVxSxY"
+    },
+    {
+      "album": {
+        "name": "Te Pintaron Pajaritos",
+        "url": "https://open.spotify.com/album/3ssXQwFXNc3NBc8r2aMS9E"
+      },
+      "artists": [
+        {
+          "name": "Yandar & Yostin",
+          "url": "https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl"
+        },
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172558,
+      "name": "Te Pintaron Pajaritos",
+      "url": "https://open.spotify.com/track/4jY5SnGbpH6FdGCqVbhOD4"
     },
     {
       "album": {

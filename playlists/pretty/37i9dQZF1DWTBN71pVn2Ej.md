@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,727 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,795 likes - 49 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 40 | [Done](https://open.spotify.com/track/0UPwyz3aaQdWPUGn6pEkrh) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU) | 2:47 |
 | 41 | [Pendulum](https://open.spotify.com/track/5v2WvShCblt55NLy82Orod) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Pendulum](https://open.spotify.com/album/0euPsI7rBBsxArzy7gvgVF) | 3:34 |
 | 42 | ['Til Forever](https://open.spotify.com/track/4LYF3Ioe7PoekNKuhHuC51) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | ['Til Forever](https://open.spotify.com/album/3Ouz4BXlPk9xvbY8OLY31q) | 2:48 |
-| 43 | [Safe Forever](https://open.spotify.com/track/0bJjmBXXf2610nAjRQGHwc) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [Safe Forever](https://open.spotify.com/album/2lu3Z6ZZ3gms0kf1IvWYM3) | 4:17 |
-| 44 | [Hypernormalisation](https://open.spotify.com/track/2J0rZv5OT6Sop5M52ezhwO) | [Crime In Stereo](https://open.spotify.com/artist/4ijffQAqzpGyaWDXuIZZI7) | [Hypernormalisation](https://open.spotify.com/album/2Meh2es5kGWqM1CcqgLt3i) | 3:27 |
-| 45 | [Kill the Moth](https://open.spotify.com/track/6xaYew5NA3m7QFHwayDjsy) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Kill the Moth](https://open.spotify.com/album/2U304e33s5VZ6xfzXKfYuS) | 2:21 |
-| 46 | [medicine](https://open.spotify.com/track/0VplI6SpGj9EDZgI0ms9M4) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [health](https://open.spotify.com/album/6RlfHyeW7fWanwGNIIKbuU) | 2:50 |
-| 47 | [Rose](https://open.spotify.com/track/3qIbYFc1e3ETWGVhvuDzRu) | [Wifecult](https://open.spotify.com/artist/3pSxlyCEcLbIhN4dXOMs2n) | [Kindness In Clarity, an EP](https://open.spotify.com/album/3ZbFcZvUBwOj3TFmQLOVTr) | 3:37 |
-| 48 | [Tangerine](https://open.spotify.com/track/0EnhQ7imjcQu06rNVQuXdX) | [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Pyrophonics](https://open.spotify.com/album/1gJ0OUh09ZHCCN8u9DSvkB) | 3:50 |
-| 49 | [BORED](https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [BORED](https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX) | 3:26 |
-| 50 | [California King](https://open.spotify.com/track/05d9myj33Qg4GWtm6MXA51) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [California King](https://open.spotify.com/album/6z7dribXEkoMdaZb8nds54) | 3:53 |
+| 43 | [Hypernormalisation](https://open.spotify.com/track/2J0rZv5OT6Sop5M52ezhwO) | [Crime In Stereo](https://open.spotify.com/artist/4ijffQAqzpGyaWDXuIZZI7) | [Hypernormalisation](https://open.spotify.com/album/2Meh2es5kGWqM1CcqgLt3i) | 3:27 |
+| 44 | [Kill the Moth](https://open.spotify.com/track/6xaYew5NA3m7QFHwayDjsy) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Kill the Moth](https://open.spotify.com/album/2U304e33s5VZ6xfzXKfYuS) | 2:21 |
+| 45 | [medicine](https://open.spotify.com/track/0VplI6SpGj9EDZgI0ms9M4) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [health](https://open.spotify.com/album/6RlfHyeW7fWanwGNIIKbuU) | 2:50 |
+| 46 | [Rose](https://open.spotify.com/track/3qIbYFc1e3ETWGVhvuDzRu) | [Wifecult](https://open.spotify.com/artist/3pSxlyCEcLbIhN4dXOMs2n) | [Kindness In Clarity, an EP](https://open.spotify.com/album/3ZbFcZvUBwOj3TFmQLOVTr) | 3:37 |
+| 47 | [Tangerine](https://open.spotify.com/track/0EnhQ7imjcQu06rNVQuXdX) | [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Pyrophonics](https://open.spotify.com/album/1gJ0OUh09ZHCCN8u9DSvkB) | 3:50 |
+| 48 | [BORED](https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [BORED](https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX) | 3:26 |
+| 49 | [California King](https://open.spotify.com/track/05d9myj33Qg4GWtm6MXA51) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [California King](https://open.spotify.com/album/6z7dribXEkoMdaZb8nds54) | 3:53 |
 
-Snapshot ID: `MCwxOTEwYWY0MzVkYzlhY2RhODBiNTIyNDE1ZjlhOGExMWZmNTY0Mzgw`
+Snapshot ID: `MCxlMjZjYWU0OTlkMDM5MDk1MDg5ZjZlOGI4MzQzZTlkY2VhMDhmODBj`

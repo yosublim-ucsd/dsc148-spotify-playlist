@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: Mr.Children \*👉 <a href="https://spice.eplus.jp/articles/322246?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-3,214 songs - 8 day 3 hr 2 min
+3,216 songs - 8 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [BOLD \(feat\. reina\)](https://open.spotify.com/track/3GJszdk6pDqqHN1XZJla8Z) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [BOLD \(feat\. reina\)](https://open.spotify.com/album/014D3rCQX8K9Hqqj9dYEl6) | 2:23 | 2023-05-31 | 2023-06-07 |
 | [BOLD \- feat\. reina](https://open.spotify.com/track/0ysitHytpmV4P83IKMxxdF) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [BOLD \(feat\. reina\)](https://open.spotify.com/album/1usd1sCOenjgbcgpbyHwpG) | 2:23 | 2023-05-30 | 2023-06-01 |
 | [BOMBAY](https://open.spotify.com/track/3ZW3IrLsgXG4yEPcNkgn43) | [Halle](https://open.spotify.com/artist/2hFqbr7kdnY7MLDsVP8Se8) | [BOMBAY](https://open.spotify.com/album/2Ws7G4HuorAFTkjGfRnB3c) | 4:10 | 2023-05-02 | 2023-05-10 |
+| [BONA BONA \- JP ver.](https://open.spotify.com/track/6MHC1y7Gd5U1aX2hsuTPBC) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [BONA BONA \(JP ver.\)](https://open.spotify.com/album/50GXqalTtZzcK9wjXu4gSK) | 3:32 | 2023-09-20 |  |
 | [Bones](https://open.spotify.com/track/1cPjAAWfHK6X6Z1aCIvRKu) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Bones](https://open.spotify.com/album/2TS85JeTN0ufeIKtMDzYtW) | 3:59 | 2023-01-31 | 2023-02-02 |
 | [Bones](https://open.spotify.com/track/2KpBeEYWN5dnpZdgJ8ZiUO) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Bones](https://open.spotify.com/album/1xgcfc5ogp9i9jRapwNnea) | 3:59 | 2023-02-01 | 2023-02-08 |
 | [Bongiri koiuta](https://open.spotify.com/track/0POtzhZLoUX2bsFatFD4rD) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Bongiri koiuta](https://open.spotify.com/album/7bUQB59SHqlbzJsHg4lRlM) | 4:19 | 2023-07-18 | 2023-07-26 |
@@ -669,7 +670,8 @@
 | [G IND / The End](https://open.spotify.com/track/4BciIJ1BUZ01SZWPNbO62K) | [GAPPER](https://open.spotify.com/artist/73VzPCfPdZ9EhliTgayVZ3), [in\-d](https://open.spotify.com/artist/53Mz6ePoXI88zSbdiRavSo) | [No Matter What](https://open.spotify.com/album/4mLDe1FH5fZEbBkvrmEbjN) | 3:05 | 2023-04-19 | 2023-04-26 |
 | [G.A.D.](https://open.spotify.com/track/2ODzC7a4omg68Yj6BzrKIu) | [QUBIT](https://open.spotify.com/artist/02Xm23NCqdYlyFnpcTfdmI) | [G.A.D.](https://open.spotify.com/album/2hv367X3TlSbK1lT9XWlVl) | 4:14 | 2023-06-20 | 2023-06-28 |
 | [GAME](https://open.spotify.com/track/2VtkTGHzX6otFrgjB37PNn) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/00tN5W3sO93jZSqpLywQBs) | 2:45 | 2023-09-19 | 2023-09-21 |
-| [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-20 |  |
+| [GAME](https://open.spotify.com/track/2aZ6Du5TkxZUjvHW9uH8Qj) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:45 | 2023-09-20 |  |
+| [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-20 | 2023-09-25 |
 | [Games](https://open.spotify.com/track/6NVReARNia3QhYdxOFbJKs) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [Lil Summer](https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX) | [Games](https://open.spotify.com/album/65x4kOH2moydRZrdVuTOK6) | 3:02 | 2023-08-23 | 2023-08-30 |
 | [Games](https://open.spotify.com/track/79I4b07SbnGxMymwuayz4h) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [Lil Summer](https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX) | [Games](https://open.spotify.com/album/0fCG9cV6fGZz5TIXrkpktZ) | 3:02 | 2023-08-22 | 2023-08-24 |
 | [Gamofu](https://open.spotify.com/track/1o2dd2Xtrvxp0gDsgR6cRz) | [BAUKHA](https://open.spotify.com/artist/7MIbS9ds7J2A9rLEaIYLRK) | [Gamofu](https://open.spotify.com/album/3sUzxE34EnW9v60WwYMKcI) | 2:33 | 2023-04-11 | 2023-04-19 |

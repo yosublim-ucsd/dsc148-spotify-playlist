@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-476 songs - 1 day 6 hr 39 min
+477 songs - 1 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Early Morning Thoughts](https://open.spotify.com/track/4QUlDSxJVMTYKaz3xBQ8F9) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 6:44 | 2022-09-13 |  |
 | [Earnestly](https://open.spotify.com/track/1cwJs07Bx640tEkvHfDemy) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Earnestly](https://open.spotify.com/album/4MdQCiNqlEXsbXxf3w08Nn) | 4:12 | 2023-06-08 |  |
 | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/track/4FONhpQFrEZI46uvAOi8OK) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/album/3m9hWHNQW4BoqIzx6oKd7w) | 3:26 | 2023-09-22 |  |
-| [Easy Dreamin'](https://open.spotify.com/track/5024U9ydj0BegOuxeNqRyU) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Easy Dreamin'](https://open.spotify.com/album/4JkR0RYW5wCohQPke2Kwl2) | 3:58 | 2023-09-22 |  |
+| [Easy Dreamin'](https://open.spotify.com/track/5024U9ydj0BegOuxeNqRyU) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Easy Dreamin'](https://open.spotify.com/album/4JkR0RYW5wCohQPke2Kwl2) | 3:58 | 2023-09-22 | 2023-09-25 |
 | [Easy To Love](https://open.spotify.com/track/5SAndzGm2VigenSmI1C3TP) | [Johnny Christoff](https://open.spotify.com/artist/2waZtHlhD0EjlIQl5Kpbmo) | [Easy To Love](https://open.spotify.com/album/3AH2fKZ4ERtOrXx4zo01Pw) | 3:28 | 2020-10-20\* | 2021-01-21 |
 | [Easy To Love](https://open.spotify.com/track/5p5CfayA88AVKc76DcwK5e) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Easy To Love](https://open.spotify.com/album/3UdLObFDAErU8FcAkhtPCr) | 3:23 | 2022-09-08 |  |
 | [Embraceable You](https://open.spotify.com/track/5oEyPyit0Qov2p1E6GLtnJ) | [Barry Harris Trio](https://open.spotify.com/artist/7Bpj43yWq3DUaMlNmTWYXH) | [Breakin' It Up](https://open.spotify.com/album/5xIu1QvYdJg4xZLw7J8n1S) | 3:56 | 2021-01-21 |  |
@@ -253,6 +253,7 @@
 | [Live Off The Juice](https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Live Off The Juice](https://open.spotify.com/album/4h1h2Wb9Q8FGElrdovvgHA) | 3:22 | 2023-03-16 |  |
 | [Living Wage](https://open.spotify.com/track/5sJdvym5Byu7ae2Uf83A0U) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Living Wage](https://open.spotify.com/album/3RblofRHuUzCRipvjB0geC) | 3:41 | 2023-09-22 |  |
 | [Lonely Woman \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/23VGdNEZzKVCpIazC3ZHK6) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Song For My Father](https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE) | 7:02 | 2021-01-21 | 2021-12-21 |
+| [Look around](https://open.spotify.com/track/2CiiP4HO5dwyFrvzqlvoVs) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Look around](https://open.spotify.com/album/5SLWLxPZeZepTlHGKrsm0r) | 3:45 | 2023-09-22 |  |
 | [Lost and Found](https://open.spotify.com/track/09YX8Z46RPayTuUF2Gmtiw) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Lost and Found](https://open.spotify.com/album/76v5tyzy1FuPR6XvYzXi3F) | 3:26 | 2020-10-20\* | 2021-01-07 |
 | [Lost in Orbit](https://open.spotify.com/track/7ijPIncR5k622S2j28ktCr) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Lost in Orbit](https://open.spotify.com/album/7L3O8woHpsgk4Us0PU7YdL) | 2:33 | 2020-10-20\* |  |
 | [Lost In Your Eyes](https://open.spotify.com/track/6LbXoojfOKm6iW4VIztDAT) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Lost In Your Eyes](https://open.spotify.com/album/2UDV9MOiixQUoXttk0sihh) | 4:02 | 2023-03-02 |  |

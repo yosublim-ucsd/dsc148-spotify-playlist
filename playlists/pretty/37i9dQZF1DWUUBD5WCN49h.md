@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP?si=58Qc9PanQNitwXKmdSXXFg"> Khaid </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,022 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,038 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 4 | [Eleyele](https://open.spotify.com/track/4AEQG338TenEGr5f7OEaMq) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Eleyele](https://open.spotify.com/album/6fPuy2F9Aega1ajo93h3lT) | 2:08 |
 | 5 | [Jara](https://open.spotify.com/track/4Kp8RzMUbGSEkjrElCRgww) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jara](https://open.spotify.com/album/6vda4JDcL24Ango61D6jGU) | 2:40 |
 | 6 | [Different](https://open.spotify.com/track/7BaPu3b5wbBtQ6Z09XL05O) | [ginius](https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw) | [Not My Concern / Different](https://open.spotify.com/album/6sgnWlAAGZI5p1FHoWTXFE) | 2:11 |
-| 7 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 |
+| 7 | [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 |
 | 8 | [Me & U](https://open.spotify.com/track/47EElDzmkP731PXNzeXt0G) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Me & U](https://open.spotify.com/album/2qjiZYwMeOeejMdtupyMXf) | 3:04 |
 | 9 | [Lagbaja](https://open.spotify.com/track/4FW8rTluyTmcf3uYAm8qrC) | [Dimi Keye](https://open.spotify.com/artist/4efVJ70KH16hdCL57EL7UN) | [Lagbaja](https://open.spotify.com/album/1iTFgbalclhMSBNDS3lbdq) | 2:40 |
 | 10 | [Pieces \(with Tay Iwar\)](https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [Break Up](https://open.spotify.com/track/2HC8oDukA9GvcWG5MuGYde) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [IN CASE I NEVER LOVE AGAIN \( ICINLA\)](https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY) | 3:02 |
 | 80 | [Us](https://open.spotify.com/track/1CbhFk1ayCQqg9AxgPjDCF) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Us](https://open.spotify.com/album/36vRBOExGT1fT7DQbjAEf8) | 2:46 |
 
-Snapshot ID: `MCw2Mzk5ODJiZGMwOThmODhmNzdjOTVjNDc2NDExYTMzMGJmNTdmZTQ3`
+Snapshot ID: `MCxhN2JlN2Q5NDUwYTkzNGU3YTA4N2FmNmIzNTJiNmQ0YTgyYTZiMjVk`

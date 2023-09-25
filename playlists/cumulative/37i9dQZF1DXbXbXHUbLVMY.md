@@ -4,11 +4,11 @@
 
 > Skandinavisk hiphop holder det 100! 🚨
 
-61 songs - 2 hr 33 min
+64 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Åh\) Tåmy, Tåmy \- Rifla x Sheriff](https://open.spotify.com/track/6BTqkUxJRluSfyWXICpuVF) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [\(Åh\) Tåmy, Tåmy \- Rifla x Sheriff](https://open.spotify.com/album/7cI6WjL8tRjS8mpFf07Wox) | 3:10 | 2023-09-21 |  |
+| [\(Åh\) Tåmy, Tåmy \- Rifla x Sheriff](https://open.spotify.com/track/6BTqkUxJRluSfyWXICpuVF) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [\(Åh\) Tåmy, Tåmy \- Rifla x Sheriff](https://open.spotify.com/album/7cI6WjL8tRjS8mpFf07Wox) | 3:10 | 2023-09-21 | 2023-09-25 |
 | [1877](https://open.spotify.com/track/0QhExfZSTY5TnRzHOxJGwm) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Xania](https://open.spotify.com/album/7H1IWk2YAccSqlGqkA6Ac7) | 2:39 | 2023-09-21 |  |
 | [95](https://open.spotify.com/track/41rOFUwgdYCySkMPb99RjL) | [Hiwá](https://open.spotify.com/artist/6dxaJO4moD1NB2YpmTRg4a), [Philip Emilio](https://open.spotify.com/artist/2GN0eor58XbyUUfQxWTgYn) | [95](https://open.spotify.com/album/3IKvmlokK9vfru4Aki55GX) | 2:42 | 2023-09-21 |  |
 | [Automatic](https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Automatic](https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P) | 2:10 | 2023-09-21 |  |
@@ -32,8 +32,9 @@
 | [Frossa](https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Frossa](https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO) | 2:34 | 2023-09-21 |  |
 | [G63](https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5) | 2:42 | 2023-09-21 |  |
 | [Gata](https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Gata](https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs) | 2:35 | 2023-09-21 |  |
+| [Go](https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Go](https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA) | 2:34 | 2023-09-21 |  |
 | [Har Dig](https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 3:22 | 2023-09-21 |  |
-| [Har du glemt meg?](https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Har du glemt meg?](https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY) | 2:45 | 2023-09-21 |  |
+| [Har du glemt meg?](https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Har du glemt meg?](https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY) | 2:45 | 2023-09-21 | 2023-09-25 |
 | [Hoodrich](https://open.spotify.com/track/0xNm2tIbdqPfNUJhVfDHrO) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Hoodrich](https://open.spotify.com/album/7g2eeeDJ8h67IE4FdJNeA9) | 2:24 | 2023-09-21 |  |
 | [Hva Velger Du?](https://open.spotify.com/track/6DZlnogbcsiGyMY8jzvRhu) | [Dio Mudara](https://open.spotify.com/artist/44dtVuy3JdjkJ0PqVh4nKy), [T Section](https://open.spotify.com/artist/6JQh39rF2lAj25dMHEXpoC) | [Hva Velger Du?](https://open.spotify.com/album/35YPGd2TO0R1JDqm3nSJI4) | 2:45 | 2023-09-21 |  |
 | [Hvor Som Helst](https://open.spotify.com/track/6bJJTDQthQY85h4W1l0vad) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Tessas Hævn \(Igen Bitch\)](https://open.spotify.com/album/0fpVZ3AwZeu6EWKuYB1ZEZ) | 2:16 | 2023-09-21 |  |
@@ -48,8 +49,10 @@
 | [Marokko Barcelona Colorado California](https://open.spotify.com/track/2jHkG1qU1vrb5gssUNTevT) | [Vågard](https://open.spotify.com/artist/6ZXRSfJDOksQ4bLcqXS71g), [Girson](https://open.spotify.com/artist/62DjNN5uijrpERaMexkBjE) | [Notoriske B.O.G.](https://open.spotify.com/album/1PBwk1ooupSISW2Py20p3O) | 4:12 | 2023-09-21 |  |
 | [Michelin Stjerner](https://open.spotify.com/track/4KjHgPOIsA8LlMwyAJRlfv) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 3:04 | 2023-09-21 |  |
 | [Millions](https://open.spotify.com/track/6Mel5VQ8UQXDT4aetZvzWg) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Millions](https://open.spotify.com/album/3Xdn3e64AD2PB90zCsA7i0) | 2:01 | 2023-09-21 |  |
-| [Narcissist](https://open.spotify.com/track/1XKxURVG2NMwaR92iF90Ek) | [Yung Slippy](https://open.spotify.com/artist/5q2b2XIdrnuvoT7hAZqWws), [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [Narcissist](https://open.spotify.com/album/6PSmLzomYnUw4VXEcJSzSp) | 2:05 | 2023-09-21 |  |
+| [Narcissist](https://open.spotify.com/track/1XKxURVG2NMwaR92iF90Ek) | [Yung Slippy](https://open.spotify.com/artist/5q2b2XIdrnuvoT7hAZqWws), [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [Narcissist](https://open.spotify.com/album/6PSmLzomYnUw4VXEcJSzSp) | 2:05 | 2023-09-21 | 2023-09-25 |
+| [Narcissist \(feat\. Rambow\)](https://open.spotify.com/track/5nYDSfRi5fN8ju240UGSkb) | [Yung Slippy](https://open.spotify.com/artist/5q2b2XIdrnuvoT7hAZqWws), [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [Narcissist \(feat\. Rambow\)](https://open.spotify.com/album/1eBSaoNmGwoFznhndULplu) | 2:05 | 2023-09-21 |  |
 | [Nånting i Luften](https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Nånting i Luften](https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y) | 2:31 | 2023-09-21 |  |
+| [Palmerna](https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Palmerna](https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa) | 2:27 | 2023-09-21 |  |
 | [PANGPANG](https://open.spotify.com/track/4lxCRiUcm8k3fiWf0wDrUf) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [PANGPANG](https://open.spotify.com/album/7JgAD3sKtMTpbWqLivjE0H) | 2:29 | 2023-09-21 |  |
 | [Pendejo](https://open.spotify.com/track/5jCm2CYGVougaTZo8g9uCW) | [Lille Pablo](https://open.spotify.com/artist/6Y4IHXCDwWvuNBmdqTIUTz) | [Pendejo](https://open.spotify.com/album/41ZSewcI8wnAyunssOkVAI) | 2:57 | 2023-09-21 |  |
 | [PRAPAPA](https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [PRAPAPA](https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9) | 2:04 | 2023-09-21 |  |

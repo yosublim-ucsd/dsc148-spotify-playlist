@@ -1,12 +1,12 @@
 {
   "description": "tunes for walking, driving, running, flying, etc",
-  "num_followers": 183935,
+  "num_followers": 184046,
   "original_name": "omw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTkwOGRkN2YzOGIxMDNjNzQwMjc3N2FjZmE2YTg2MDVkYzYxZjc2",
+  "snapshot_id": "MCw4YzBlNGE0NWQ0MTFjNzdhY2JjMzE4OGZhOWRlOTAxYmNmN2YxOWI4",
   "tracks": [
     {
       "added_at": "2023-08-09 21:18:22",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/373PVFL4mryTDGQSRZwf0D"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/6XM1bizWRQjDmrlDn4RRSy"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "its alright :)",
         "url": "https://open.spotify.com/album/6r8xvFmJ6SS7XU5dSfvdWB"
       },
@@ -275,18 +259,18 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Sea Sick",
-        "url": "https://open.spotify.com/album/1XQYd61d9bQA3ba5xUrhKB"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/373PVFL4mryTDGQSRZwf0D"
       },
       "artists": [
         {
-          "name": "binki",
-          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
         }
       ],
-      "duration_ms": 130714,
-      "name": "Sea Sick",
-      "url": "https://open.spotify.com/track/3qiX7QXv6w6y4wsr5KP6U1"
+      "duration_ms": 208000,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/6XM1bizWRQjDmrlDn4RRSy"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -307,6 +291,22 @@
       "duration_ms": 170125,
       "name": "Uno Dos",
       "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Sea Sick",
+        "url": "https://open.spotify.com/album/1XQYd61d9bQA3ba5xUrhKB"
+      },
+      "artists": [
+        {
+          "name": "binki",
+          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+        }
+      ],
+      "duration_ms": 130714,
+      "name": "Sea Sick",
+      "url": "https://open.spotify.com/track/3qiX7QXv6w6y4wsr5KP6U1"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "nice",
-        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 101298,
-      "name": "slideshow",
-      "url": "https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Chemicals",
         "url": "https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 254871,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "nice",
+        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 101298,
+      "name": "slideshow",
+      "url": "https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "What Does That Make Me?",
-        "url": "https://open.spotify.com/album/5f00WY9ZPJ6Pz2AnrNgy60"
-      },
-      "artists": [
-        {
-          "name": "Sad Night Dynamite",
-          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
-        }
-      ],
-      "duration_ms": 173641,
-      "name": "What Does That Make Me?",
-      "url": "https://open.spotify.com/track/6dIIH84jl5SgoLggwFFadz"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Dribble (feat. RIZ LA VIE) [Remix]",
         "url": "https://open.spotify.com/album/1H8Ygnlo5pb2cuG9a9n6Hw"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 241885,
       "name": "Dribble (feat. RIZ LA VIE) - Remix",
       "url": "https://open.spotify.com/track/6XIaGWpwKY7nzPJl7YIDA5"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "What Does That Make Me?",
+        "url": "https://open.spotify.com/album/5f00WY9ZPJ6Pz2AnrNgy60"
+      },
+      "artists": [
+        {
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
+        }
+      ],
+      "duration_ms": 173641,
+      "name": "What Does That Make Me?",
+      "url": "https://open.spotify.com/track/6dIIH84jl5SgoLggwFFadz"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Tennis Courts",
-        "url": "https://open.spotify.com/album/0RW5vXBF1fAe5W11bDstR7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Holliday",
-          "url": "https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0"
-        }
-      ],
-      "duration_ms": 180570,
-      "name": "Tennis Courts",
-      "url": "https://open.spotify.com/track/79SHyhyGcYf47aPKA4RnVx"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Too Sensitive",
         "url": "https://open.spotify.com/album/69mfyem8nlCqn02JURApPo"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 161176,
       "name": "Too Sensitive",
       "url": "https://open.spotify.com/track/4uqcGAE67v9zW5X1QBKtxz"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Tennis Courts",
+        "url": "https://open.spotify.com/album/0RW5vXBF1fAe5W11bDstR7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Holliday",
+          "url": "https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0"
+        }
+      ],
+      "duration_ms": 180570,
+      "name": "Tennis Courts",
+      "url": "https://open.spotify.com/track/79SHyhyGcYf47aPKA4RnVx"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "love deluxe",
+        "url": "https://open.spotify.com/album/5DlKYqA27vTrARUdV6x2T8"
+      },
+      "artists": [
+        {
+          "name": "Meltycanon",
+          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
+        }
+      ],
+      "duration_ms": 100714,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/1QWQaR1vH6E6Ap84HEc4va"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "The Lost Grooves EP",
         "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 173708,
       "name": "Looks",
       "url": "https://open.spotify.com/track/3f88AK7TqGIxaTjb3EdxMZ"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "love deluxe",
-        "url": "https://open.spotify.com/album/5DlKYqA27vTrARUdV6x2T8"
-      },
-      "artists": [
-        {
-          "name": "Meltycanon",
-          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
-        }
-      ],
-      "duration_ms": 100714,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/1QWQaR1vH6E6Ap84HEc4va"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds"
-      },
-      "artists": [
-        {
-          "name": "Baseball Game",
-          "url": "https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK"
-        }
-      ],
-      "duration_ms": 190346,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Through Tha Night",
         "url": "https://open.spotify.com/album/1D5Sl0DbkfNzlXGUjHk3A2"
       },
@@ -1411,54 +1395,6 @@
       "duration_ms": 196803,
       "name": "Through Tha Night",
       "url": "https://open.spotify.com/track/6Yzdmp0OAexAej7pQmoy84"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "Cashmere",
-        "url": "https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 183947,
-      "name": "Cashmere",
-      "url": "https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "frenemy",
-        "url": "https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU"
-      },
-      "artists": [
-        {
-          "name": "altopalo",
-          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
-        }
-      ],
-      "duration_ms": 186106,
-      "name": "Altopalo",
-      "url": "https://open.spotify.com/track/2WemKADv3m0xhqVPabjvI4"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "Yesteryear",
-        "url": "https://open.spotify.com/album/4ec8RXuBUknXHrkjpeNNdl"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 219795,
-      "name": "Yesteryear",
-      "url": "https://open.spotify.com/track/0u8AnQEMd9W6fDG2UbFjyz"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1479,6 +1415,70 @@
       "duration_ms": 198302,
       "name": "BREADWINNER",
       "url": "https://open.spotify.com/track/5UOuVrX6D7pAsIsMxSlex0"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Cashmere",
+        "url": "https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 183947,
+      "name": "Cashmere",
+      "url": "https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds"
+      },
+      "artists": [
+        {
+          "name": "Baseball Game",
+          "url": "https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK"
+        }
+      ],
+      "duration_ms": 190346,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Yesteryear",
+        "url": "https://open.spotify.com/album/4ec8RXuBUknXHrkjpeNNdl"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 219795,
+      "name": "Yesteryear",
+      "url": "https://open.spotify.com/track/0u8AnQEMd9W6fDG2UbFjyz"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "frenemy",
+        "url": "https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU"
+      },
+      "artists": [
+        {
+          "name": "altopalo",
+          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "Altopalo",
+      "url": "https://open.spotify.com/track/2WemKADv3m0xhqVPabjvI4"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "The Year of February",
-        "url": "https://open.spotify.com/album/0zOFA5clNhMCA3ffYcS5RI"
-      },
-      "artists": [
-        {
-          "name": "Forest Claudette",
-          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
-        }
-      ],
-      "duration_ms": 218499,
-      "name": "Creaming Soda",
-      "url": "https://open.spotify.com/track/0D8aqu4R2FCOtpw5WR7XWi"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Minialbum",
         "url": "https://open.spotify.com/album/74i0Ly2FBl4lIduvZ1RMtu"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 100745,
       "name": "Daytoday",
       "url": "https://open.spotify.com/track/1PQZTaIyqjYo92gpwgTuTb"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "The Year of February",
+        "url": "https://open.spotify.com/album/0zOFA5clNhMCA3ffYcS5RI"
+      },
+      "artists": [
+        {
+          "name": "Forest Claudette",
+          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+        }
+      ],
+      "duration_ms": 218499,
+      "name": "Creaming Soda",
+      "url": "https://open.spotify.com/track/0D8aqu4R2FCOtpw5WR7XWi"
     },
     {
       "added_at": "2023-08-09 21:18:22",

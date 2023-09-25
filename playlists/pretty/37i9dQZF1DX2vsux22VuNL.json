@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: R\u00f4 Rosa",
-  "num_followers": 285900,
+  "num_followers": 285962,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWQ0ZmZiMTI2M2IwYTRmYTI3NTBiMzczMThhYTBjZTcwYjQxYThj",
+  "snapshot_id": "MCxhMTM1NWIwMjFlNmQ3ZTZhNGMzNTIzNzEyOGRjMjUyNmI1NGY4ODkx",
   "tracks": [
     {
       "added_at": "2023-09-22 17:48:35",
@@ -291,6 +291,26 @@
     {
       "added_at": "2023-09-22 17:48:35",
       "album": {
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 243370,
+      "name": "Ver Em Cores",
+      "url": "https://open.spotify.com/track/2U0m94Ibhvj7UYhBfIwViP"
+    },
+    {
+      "added_at": "2023-09-22 17:48:35",
+      "album": {
         "name": "Te Pe\u00e7o Pra Ficar",
         "url": "https://open.spotify.com/album/4ekM383zmPmwR4S4EPinIl"
       },
@@ -331,26 +351,6 @@
       "duration_ms": 219534,
       "name": "Deixe-me Ir",
       "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
-    },
-    {
-      "added_at": "2023-09-22 17:48:35",
-      "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 243370,
-      "name": "Ver Em Cores",
-      "url": "https://open.spotify.com/track/2U0m94Ibhvj7UYhBfIwViP"
     },
     {
       "added_at": "2023-09-22 17:48:35",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-09-22 17:48:35",
       "album": {
-        "name": "Arcano 19",
-        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 244999,
-      "name": "Amor Bandido",
-      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
-    },
-    {
-      "added_at": "2023-09-22 17:48:35",
-      "album": {
         "name": "Ac\u00fastico Canc\u00fan",
         "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 212000,
       "name": "Uma Linda Mulher - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI"
+    },
+    {
+      "added_at": "2023-09-22 17:48:35",
+      "album": {
+        "name": "Arcano 19",
+        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 244999,
+      "name": "Amor Bandido",
+      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
     },
     {
       "added_at": "2023-09-22 17:48:35",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-09-22 17:48:35",
       "album": {
+        "name": "Pena Que Acabou",
+        "url": "https://open.spotify.com/album/79R8Ivfbp5Gz1PpvKoBVjJ"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        }
+      ],
+      "duration_ms": 145531,
+      "name": "Pena Que Acabou",
+      "url": "https://open.spotify.com/track/57DTGthLG6wQGuJV1QDJCA"
+    },
+    {
+      "added_at": "2023-09-22 17:48:35",
+      "album": {
         "name": "Um Dois",
         "url": "https://open.spotify.com/album/4YFG2PvHDejBIVpFD6HIv6"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 158467,
       "name": "Um Dois",
       "url": "https://open.spotify.com/track/5iSYwmatz4QkD60IiZGMQA"
-    },
-    {
-      "added_at": "2023-09-22 17:48:35",
-      "album": {
-        "name": "Pena Que Acabou",
-        "url": "https://open.spotify.com/album/79R8Ivfbp5Gz1PpvKoBVjJ"
-      },
-      "artists": [
-        {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
-        }
-      ],
-      "duration_ms": 145531,
-      "name": "Pena Que Acabou",
-      "url": "https://open.spotify.com/track/57DTGthLG6wQGuJV1QDJCA"
     },
     {
       "added_at": "2023-09-22 17:48:35",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2023-09-22 17:48:35",
       "album": {
-        "name": "Por Isso Me Liga",
-        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
-      },
-      "artists": [
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 219168,
-      "name": "Por Isso Me Liga",
-      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
-    },
-    {
-      "added_at": "2023-09-22 17:48:35",
-      "album": {
         "name": "Toda Mal\u00e9vola",
         "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 196691,
       "name": "Toda Mal\u00e9vola",
       "url": "https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK"
+    },
+    {
+      "added_at": "2023-09-22 17:48:35",
+      "album": {
+        "name": "Por Isso Me Liga",
+        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 219168,
+      "name": "Por Isso Me Liga",
+      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
     },
     {
       "added_at": "2023-09-22 17:48:35",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-09-22 17:48:35",
       "album": {
+        "name": "Sempre em Frente",
+        "url": "https://open.spotify.com/album/4nGrhdelNUboisIrusK5eS"
+      },
+      "artists": [
+        {
+          "name": "NAVALA",
+          "url": "https://open.spotify.com/artist/5qSepOy54NGAJ5rpIksl3p"
+        }
+      ],
+      "duration_ms": 203916,
+      "name": "Sempre em Frente",
+      "url": "https://open.spotify.com/track/6R17qo7qwpkPu7szy5tK7G"
+    },
+    {
+      "added_at": "2023-09-22 17:48:35",
+      "album": {
         "name": "n\u00e3o te amo mais",
         "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
       },
@@ -1571,6 +1587,26 @@
     {
       "added_at": "2023-09-22 17:48:35",
       "album": {
+        "name": "Espero Que N\u00e3o Dure (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2dmxASah4bRnBadFadPbXM"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Lopes",
+          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
+        },
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Espero Que N\u00e3o Dure - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2LipaKn124ClsUoFjCoQIJ"
+    },
+    {
+      "added_at": "2023-09-22 17:48:35",
+      "album": {
         "name": "Essa Daqui Voc\u00ea Sabe Que \u00c9 pra Voc\u00ea",
         "url": "https://open.spotify.com/album/5HbjLnESfjN6sui1F6E7rO"
       },
@@ -1615,26 +1651,6 @@
     {
       "added_at": "2023-09-22 17:48:35",
       "album": {
-        "name": "Contram\u00e3o",
-        "url": "https://open.spotify.com/album/5kYMFNNbCWdP6QnC0xxbNr"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Zoli",
-          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
-        },
-        {
-          "name": "CALIFFA",
-          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
-        }
-      ],
-      "duration_ms": 170538,
-      "name": "Contram\u00e3o",
-      "url": "https://open.spotify.com/track/14eggbtU5LaK77oKIduOyT"
-    },
-    {
-      "added_at": "2023-09-22 17:48:35",
-      "album": {
         "name": "O Que Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
       },
@@ -1651,6 +1667,26 @@
       "duration_ms": 176000,
       "name": "O Que Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
+    },
+    {
+      "added_at": "2023-09-22 17:48:35",
+      "album": {
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/5kYMFNNbCWdP6QnC0xxbNr"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Zoli",
+          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
+        },
+        {
+          "name": "CALIFFA",
+          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
+        }
+      ],
+      "duration_ms": 170538,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/14eggbtU5LaK77oKIduOyT"
     },
     {
       "added_at": "2023-09-22 17:48:35",
@@ -1695,22 +1731,6 @@
       "duration_ms": 125333,
       "name": "No Ponto",
       "url": "https://open.spotify.com/track/19467mwzgOpeJPFjWlsChc"
-    },
-    {
-      "added_at": "2023-09-22 17:48:35",
-      "album": {
-        "name": "Sempre em Frente",
-        "url": "https://open.spotify.com/album/4nGrhdelNUboisIrusK5eS"
-      },
-      "artists": [
-        {
-          "name": "NAVALA",
-          "url": "https://open.spotify.com/artist/5qSepOy54NGAJ5rpIksl3p"
-        }
-      ],
-      "duration_ms": 203916,
-      "name": "Sempre em Frente",
-      "url": "https://open.spotify.com/track/6R17qo7qwpkPu7szy5tK7G"
     },
     {
       "added_at": "2023-09-22 17:48:35",
@@ -1783,26 +1803,6 @@
       "duration_ms": 237712,
       "name": "Existe Vida Sem Voc\u00ea",
       "url": "https://open.spotify.com/track/4UDOZtOMOt9f26Ry1QiWzk"
-    },
-    {
-      "added_at": "2023-09-22 17:48:35",
-      "album": {
-        "name": "Espero Que N\u00e3o Dure (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2dmxASah4bRnBadFadPbXM"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Lopes",
-          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
-        },
-        {
-          "name": "Aka Rasta",
-          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Espero Que N\u00e3o Dure - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2LipaKn124ClsUoFjCoQIJ"
     },
     {
       "added_at": "2023-09-22 17:48:35",

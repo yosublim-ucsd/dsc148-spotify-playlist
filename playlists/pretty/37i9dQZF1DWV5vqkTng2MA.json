@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Abraham Alexander",
-  "num_followers": 373690,
+  "num_followers": 373739,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2VlNjM3YzA5N2YwZWU1N2U4YTFmZGI0NzZjYTIyMjliOWNmMTI1",
+  "snapshot_id": "MCwzYjRkYTBjMWI3OTgxMGVjNjAwNzY3NjE2NjZkZTIxNjYyYzYxYTE4",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/3Pr3e7FlIpuk61wTJIKP5o"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 293146,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/1LAd1okwAypfCyUflwrpkj"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Day of the Dead",
         "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 164533,
       "name": "Pining",
       "url": "https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/3Pr3e7FlIpuk61wTJIKP5o"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 293146,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/1LAd1okwAypfCyUflwrpkj"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Alta Falls",
-        "url": "https://open.spotify.com/album/1cVZMnYMB105JUmmCJPL7X"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 281893,
-      "name": "Never Been a Captain",
-      "url": "https://open.spotify.com/track/3XagkwVGPBOrbmvEd6aNf3"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Promenade Blue",
         "url": "https://open.spotify.com/album/586oHuLtO05ObUhSmsWrJT"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 154617,
       "name": "B. Santa Ana, 1986",
       "url": "https://open.spotify.com/track/5qwQD3zccHVx6YdknvbCyv"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Alta Falls",
+        "url": "https://open.spotify.com/album/1cVZMnYMB105JUmmCJPL7X"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 281893,
+      "name": "Never Been a Captain",
+      "url": "https://open.spotify.com/track/3XagkwVGPBOrbmvEd6aNf3"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Hollow Ground",
-        "url": "https://open.spotify.com/album/6sBFwUUcaUyWmLdlrDq0H5"
+        "name": "All My Shades Of Blue",
+        "url": "https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ"
       },
       "artists": [
         {
-          "name": "Cut Worms",
-          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
+          "name": "Ruen Brothers",
+          "url": "https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go"
         }
       ],
-      "duration_ms": 171468,
-      "name": "Don't Want to Say Good-bye",
-      "url": "https://open.spotify.com/track/2KOAvJEVENkb1he87yrgLC"
+      "duration_ms": 201000,
+      "name": "Summer Sun",
+      "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Hollow Ground",
+        "url": "https://open.spotify.com/album/6sBFwUUcaUyWmLdlrDq0H5"
+      },
+      "artists": [
+        {
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
+        }
+      ],
+      "duration_ms": 171468,
+      "name": "Don't Want to Say Good-bye",
+      "url": "https://open.spotify.com/track/2KOAvJEVENkb1he87yrgLC"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Sir Woman",
         "url": "https://open.spotify.com/album/1YrapTceavDda547u6Z9yg"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 264000,
       "name": "Party City",
       "url": "https://open.spotify.com/track/0aQuBy6wRLPE3Al7Eqv3Fa"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "All My Shades Of Blue",
-        "url": "https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ"
-      },
-      "artists": [
-        {
-          "name": "Ruen Brothers",
-          "url": "https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Summer Sun",
-      "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1467,22 +1467,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "My Back Was A Bridge For You To Cross",
-        "url": "https://open.spotify.com/album/1dCATYrVa8hV0sbVGBGacz"
+        "name": "Bahamas Is Afie",
+        "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
       },
       "artists": [
         {
-          "name": "ANOHNI",
-          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
-        },
-        {
-          "name": "Antony and the Johnsons",
-          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
         }
       ],
-      "duration_ms": 295013,
-      "name": "It Must Change",
-      "url": "https://open.spotify.com/track/6IvbVGkQgz03zyOMR5eIkz"
+      "duration_ms": 182800,
+      "name": "Little Record Girl",
+      "url": "https://open.spotify.com/track/5K467049SloeEJHvMhJDcl"
     }
   ],
   "unique_name": "the new retro",

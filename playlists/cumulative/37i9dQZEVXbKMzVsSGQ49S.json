@@ -2506,7 +2506,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
@@ -7704,7 +7704,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -8207,6 +8207,24 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3kWMqJVMAWeTfyg4wAE190"
+      },
+      "artists": [
+        {
+          "name": "Papi Giddy",
+          "url": "https://open.spotify.com/artist/3DX9g8okDgAFS8ttp2Hehs"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171757,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0ycXEADE6ra6nW7cJgX5Qm"
+    },
+    {
+      "album": {
         "name": "Forget Me",
         "url": "https://open.spotify.com/album/50IWCes196EP2nWO6i4I67"
       },
@@ -8372,7 +8390,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
@@ -16975,6 +16993,32 @@
     },
     {
       "album": {
+        "name": "My Flex",
+        "url": "https://open.spotify.com/album/5uXhw6aPhwFQmng52eQoDI"
+      },
+      "artists": [
+        {
+          "name": "DJEFX",
+          "url": "https://open.spotify.com/artist/1gtiugmWqsfjfweMnPrv43"
+        },
+        {
+          "name": "Mooski",
+          "url": "https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8"
+        },
+        {
+          "name": "euro",
+          "url": "https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156841,
+      "name": "My Flex",
+      "url": "https://open.spotify.com/track/67AgOrAogVDA4tvtWnSGcR"
+    },
+    {
+      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -19358,7 +19402,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
@@ -19554,7 +19598,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -22249,6 +22293,24 @@
     },
     {
       "album": {
+        "name": "SKY HIGH",
+        "url": "https://open.spotify.com/album/5SPnnsGmN2OobDec35VutN"
+      },
+      "artists": [
+        {
+          "name": "NICK SOURCE",
+          "url": "https://open.spotify.com/artist/1GVihtWAJ79P6vduc1mdMU"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138433,
+      "name": "SKY HIGH",
+      "url": "https://open.spotify.com/track/7mIk7a72hvVv7DYTywl9Jg"
+    },
+    {
+      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe"
       },
@@ -22400,7 +22462,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 310490,
       "name": "Slime You Out (feat. SZA)",
       "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
@@ -29592,7 +29654,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 220783,
       "name": "\u00de\u00fasund hj\u00f6rtu",
       "url": "https://open.spotify.com/track/1W6mzbheNeBCNWv2KjcaVe"

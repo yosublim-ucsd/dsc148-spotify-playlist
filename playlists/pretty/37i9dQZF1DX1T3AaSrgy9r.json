@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 106536,
+  "num_followers": 106709,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTA0ZDdmNTdkNzk0NGMxZDJkZTAyZGEyMmIyZjI0NzI5NTlkNTJi",
+  "snapshot_id": "MCxmYzZlNTBiODk4YzdjOTY3MTVjMTg0Mjc4MmQ3YzgzNDhlMTQ4MTJl",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -447,18 +447,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
+        "name": "A Little Less Conversation: Elvis vs JXL",
+        "url": "https://open.spotify.com/album/3nZRriUOOM8Gvv3ox8ybn1"
       },
       "artists": [
         {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
         }
       ],
-      "duration_ms": 236360,
-      "name": "Let Forever Be",
-      "url": "https://open.spotify.com/track/3m1JFLpKLYgMi1jf6Bu16P"
+      "duration_ms": 211506,
+      "name": "A Little Less Conversation - JXL Radio Edit Remix",
+      "url": "https://open.spotify.com/track/4rr0gWiMrF4sOIefs3IEvZ"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -479,22 +483,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "A Little Less Conversation: Elvis vs JXL",
-        "url": "https://open.spotify.com/album/3nZRriUOOM8Gvv3ox8ybn1"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        },
-        {
-          "name": "Junkie XL",
-          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
         }
       ],
-      "duration_ms": 211506,
-      "name": "A Little Less Conversation - JXL Radio Edit Remix",
-      "url": "https://open.spotify.com/track/4rr0gWiMrF4sOIefs3IEvZ"
+      "duration_ms": 236360,
+      "name": "Let Forever Be",
+      "url": "https://open.spotify.com/track/3m1JFLpKLYgMi1jf6Bu16P"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "The Fat of the Land",
-        "url": "https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 343386,
-      "name": "Smack My Bitch Up",
-      "url": "https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "90s 100 Hits",
         "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 213546,
       "name": "Insomnia - Radio Edit",
       "url": "https://open.spotify.com/track/7gWc0QEt2hoIkMv3XxPY1T"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "The Fat of the Land",
+        "url": "https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "duration_ms": 343386,
+      "name": "Smack My Bitch Up",
+      "url": "https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Exit Planet Dust",
-        "url": "https://open.spotify.com/album/1Bmuyq89rXZJNK1w8pauEg"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 332788,
-      "name": "Leave Home",
-      "url": "https://open.spotify.com/track/4mFDB35IaTzrzqMn4spMqo"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Big Calm",
         "url": "https://open.spotify.com/album/7rjjFxMFZjPzQzBMj6mXr2"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 348053,
       "name": "The Sea",
       "url": "https://open.spotify.com/track/7MRI6ZNv3neLVYy2kQ91nQ"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Exit Planet Dust",
+        "url": "https://open.spotify.com/album/1Bmuyq89rXZJNK1w8pauEg"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 332788,
+      "name": "Leave Home",
+      "url": "https://open.spotify.com/track/4mFDB35IaTzrzqMn4spMqo"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -863,6 +863,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Flat Beat",
+        "url": "https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Oizo",
+          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
+        }
+      ],
+      "duration_ms": 325173,
+      "name": "Flat Beat",
+      "url": "https://open.spotify.com/track/7GP1ZmPGH1puBliT9S6Fi5"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "When It Falls",
         "url": "https://open.spotify.com/album/2pTVmzJ3y3H2TI9dDQMvl7"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 416933,
       "name": "Somersault",
       "url": "https://open.spotify.com/track/6CgIaRVXNmpUgeVuHmA4a2"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Flat Beat",
-        "url": "https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Oizo",
-          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
-        }
-      ],
-      "duration_ms": 325173,
-      "name": "Flat Beat",
-      "url": "https://open.spotify.com/track/7GP1ZmPGH1puBliT9S6Fi5"
     },
     {
       "added_at": "2021-07-14 17:36:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,594 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,732 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 25 | [Summer Lovin' \- Edit](https://open.spotify.com/track/7q0vM8woumdTUt30GasolR) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Summer Lovin'](https://open.spotify.com/album/37AKccFPVCdMWUqWZeetrg) | 3:09 |
 | 26 | [Everything’s Gonna Be Alright](https://open.spotify.com/track/21lbj2ezsvMg0XoeBL49bw) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [London Community Gospel Choir](https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz) | [Untold Business](https://open.spotify.com/album/186HTycU1jAk9PociChcpO) | 3:33 |
 | 27 | [Way to Go \- Club Soda Mix](https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Way to Go \(Club Soda Mix\)](https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet) | 3:44 |
-| 28 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/track/6tRzd5IvfCywkLX8OdTDiB) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:22 |
-| 29 | [Don't Go \- Gerd Janson Re\-Work \- Shorter Edit](https://open.spotify.com/track/5E1si4zAa76zwPhwEHXFBU) | [Julie McDermott](https://open.spotify.com/artist/25ORH36m22WXNx98UdFT1T), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Don't Go \(Gerd Janson Re\-Work \- Shorter Edit\)](https://open.spotify.com/album/3jFPyqKhfD28o6XbRWd7V0) | 2:26 |
+| 28 | [Don't Go \- Gerd Janson Re\-Work \- Shorter Edit](https://open.spotify.com/track/5E1si4zAa76zwPhwEHXFBU) | [Julie McDermott](https://open.spotify.com/artist/25ORH36m22WXNx98UdFT1T), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Don't Go \(Gerd Janson Re\-Work \- Shorter Edit\)](https://open.spotify.com/album/3jFPyqKhfD28o6XbRWd7V0) | 2:26 |
+| 29 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/track/6tRzd5IvfCywkLX8OdTDiB) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:22 |
 | 30 | [My Own Way](https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [My Own Way](https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA) | 2:21 |
 | 31 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 |
 | 32 | [All 4 Love \(feat\. Tasty Lopez\)](https://open.spotify.com/track/2DJjMZfgND6WARNaxVCkI3) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Rene Amesz](https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m), [Tasty Lopez](https://open.spotify.com/artist/6bGjAU1yRMvrVDQsN9Awc0) | [Untold Business](https://open.spotify.com/album/186HTycU1jAk9PociChcpO) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 49 | [Please \- Single Edit](https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Please](https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR) | 3:39 |
 | 50 | [Armaghetton \- Aeroplane Remix](https://open.spotify.com/track/7K0NRDpluahVsxekmJ3ufu) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Greeko](https://open.spotify.com/artist/2G60xU64nhrlgfBPxIE8JH), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Armaghetton \(Aeroplane Remix\)](https://open.spotify.com/album/1es3fJXc54eFu7uUZkSsrh) | 3:33 |
 
-Snapshot ID: `MCxlNWVkZDgwMTE2YzFlNDM3NmM4NzczNTI0OTc3ZDk1MDZmY2Y3ZWFj`
+Snapshot ID: `MCxhMWMzYmUxMDIyNzQ4MmIzNDQ3OTEyZWY0OTU1MDgyODJhMTZlMDRk`

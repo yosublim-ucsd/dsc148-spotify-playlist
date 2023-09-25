@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,516 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,908 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Pocket](https://open.spotify.com/track/4rc2sb1NPhQjrL5e4KAtWn) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Pocket](https://open.spotify.com/album/2ler9sKkfETzVwEsUDJohW) | 3:02 |
 | 50 | [Diamant](https://open.spotify.com/track/6KUZmPHPg2SGrINq8SVLI7) | [MASIDI](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Diamant](https://open.spotify.com/album/6Tseko2czwOTsBe4A3ST5W) | 2:48 |
 
-Snapshot ID: `MCxmOTk2YWZhNzliYTVlNzRmN2QxZTVmMmEwMjYyOGQxMDMzOWFlMjg5`
+Snapshot ID: `MCwxNGQ5MjMyM2YzYTIyZmI0OTA3NDRlZWU4YjdhYjhjY2NiMzM4ZWMx`

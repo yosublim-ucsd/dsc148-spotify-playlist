@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 38233,
+  "num_followers": 38379,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWNiNGNhYTdlNDQ2MTQzOTQ3MmJhZWZiYjI2MTA1Yzk0NDllNjA2",
+  "snapshot_id": "MCw3YjUzNTRiNWQ5NDJjODA1MGE2YWY1OTE3OTJlNDFjNjQ1MzA3NmVk",
   "tracks": [
     {
       "added_at": "2023-09-07 22:00:00",
@@ -107,6 +107,30 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Careless Whisper",
+        "url": "https://open.spotify.com/album/1XjxeJw2RkvKoyj9ZQKqjI"
+      },
+      "artists": [
+        {
+          "name": "Toby Rose",
+          "url": "https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ"
+        },
+        {
+          "name": "ALUR",
+          "url": "https://open.spotify.com/artist/4IwYXGDh3e4LBKRxT9e623"
+        },
+        {
+          "name": "Eirik N\u00e6ss",
+          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/4wyIAKiAc8Twh1jgzylZWo"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Tell Me How",
         "url": "https://open.spotify.com/album/5M8b8IFy69V7CHCRfdkJuv"
       },
@@ -147,30 +171,6 @@
       "duration_ms": 144375,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Careless Whisper",
-        "url": "https://open.spotify.com/album/1XjxeJw2RkvKoyj9ZQKqjI"
-      },
-      "artists": [
-        {
-          "name": "Toby Rose",
-          "url": "https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ"
-        },
-        {
-          "name": "ALUR",
-          "url": "https://open.spotify.com/artist/4IwYXGDh3e4LBKRxT9e623"
-        },
-        {
-          "name": "Eirik N\u00e6ss",
-          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/4wyIAKiAc8Twh1jgzylZWo"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -327,26 +327,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "PLANT",
-          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
-        }
-      ],
-      "duration_ms": 158031,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "In Another Lifetime",
         "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 284563,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "PLANT",
+          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
+        }
+      ],
+      "duration_ms": 158031,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Thousand Lullabies",
-        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        }
-      ],
-      "duration_ms": 129573,
-      "name": "Thousand Lullabies",
-      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Forgot How to Love",
         "url": "https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 149055,
       "name": "Forgot How to Love",
       "url": "https://open.spotify.com/track/2DyOstPCEqOJfBA4tcMC6t"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Thousand Lullabies",
+        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        }
+      ],
+      "duration_ms": 129573,
+      "name": "Thousand Lullabies",
+      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -719,26 +719,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Rest Of My Life",
-        "url": "https://open.spotify.com/album/46dZ3gViTkdI4tJFQYIkul"
-      },
-      "artists": [
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        },
-        {
-          "name": "Eloi El",
-          "url": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
-        }
-      ],
-      "duration_ms": 139010,
-      "name": "Rest Of My Life",
-      "url": "https://open.spotify.com/track/03TeqvF26mItybhh9k3wPA"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Juno Love",
         "url": "https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 446585,
       "name": "Juno Love",
       "url": "https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/46dZ3gViTkdI4tJFQYIkul"
+      },
+      "artists": [
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "Eloi El",
+          "url": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
+        }
+      ],
+      "duration_ms": 139010,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/03TeqvF26mItybhh9k3wPA"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Take Me",
-        "url": "https://open.spotify.com/album/6QyELjKQuXl6Mvorlgf30X"
-      },
-      "artists": [
-        {
-          "name": "W\u00e4nderlost",
-          "url": "https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb"
-        },
-        {
-          "name": "MEDEIA",
-          "url": "https://open.spotify.com/artist/0uR3roDczoaOss4Ro7D30s"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/7q6WQDxck4kIeoACgtV2Gs"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Dollar For A Dime",
         "url": "https://open.spotify.com/album/1mU5hNit7ZSklzvUjEkZko"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 148965,
       "name": "Dollar For A Dime",
       "url": "https://open.spotify.com/track/11O5rC66Yk7sszOrQ7tB4r"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/6QyELjKQuXl6Mvorlgf30X"
+      },
+      "artists": [
+        {
+          "name": "W\u00e4nderlost",
+          "url": "https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb"
+        },
+        {
+          "name": "MEDEIA",
+          "url": "https://open.spotify.com/artist/0uR3roDczoaOss4Ro7D30s"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/7q6WQDxck4kIeoACgtV2Gs"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1423,22 +1423,18 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "A Radiant Sign",
-        "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
+        "name": "See You On The Other Side",
+        "url": "https://open.spotify.com/album/1epzNdkMhr8ERPKnYyUcqG"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
         }
       ],
-      "duration_ms": 232917,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F"
+      "duration_ms": 241061,
+      "name": "See You On The Other Side",
+      "url": "https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1459,18 +1455,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "See You On The Other Side",
-        "url": "https://open.spotify.com/album/1epzNdkMhr8ERPKnYyUcqG"
+        "name": "A Radiant Sign",
+        "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
       },
       "artists": [
         {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
         }
       ],
-      "duration_ms": 241061,
-      "name": "See You On The Other Side",
-      "url": "https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS"
+      "duration_ms": 232917,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F"
     },
     {
       "added_at": "2023-09-07 22:00:00",

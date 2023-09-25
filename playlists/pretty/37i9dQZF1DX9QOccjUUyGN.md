@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Arthurzin, WIU
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,620 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,617 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Estava Escrito](https://open.spotify.com/track/60pyQknGXQnrnLX1rIHN7r) | [Thiaguinho MT](https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Estava Escrito](https://open.spotify.com/album/0Iu4OkL8Y9AThCe1TIykmt) | 2:50 |
 | 75 | [Perfume Mais Caro](https://open.spotify.com/track/4thX4lgktnjxkHTniznxK8) | [DjMenorRB](https://open.spotify.com/artist/71uOnE19iET2zJ3TNzkG6X), [Pretão do Mt](https://open.spotify.com/artist/1UtfPD6oPcyJs6EqwJdt4e) | [Perfume Mais Caro](https://open.spotify.com/album/55zZHtvKCpn7OchaEl4Hp6) | 2:14 |
 
-Snapshot ID: `MCxlMjBkZDhkNjViMDJjZjcyNWY1NTUxMWNkZGEyMWYxMmQ3NDYzNDA3`
+Snapshot ID: `MCw2YWNhNTk5YWJiNDFmNzgzNDMxZTQ0NmNiZDU5ZmYzZmYzMzljODA2`

@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-404 songs - 21 hr 11 min
+405 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Ocean Drive \(feat\. Chris Brown\)](https://open.spotify.com/track/67epLDPaekqbQcxV0tNMVZ) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Ocean Drive \(feat\. Chris Brown\)](https://open.spotify.com/album/0fIwvs8RMDBB2l0CGuuWcU) | 3:24 | 2023-02-02 | 2023-02-17 |
 | [Off Switch \(feat\. GR€Y\)](https://open.spotify.com/track/7kyZIUl4X7vdckP6PPCH0h) | [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl), [GR€Y](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [Off Switch \(feat\. GR€Y\)](https://open.spotify.com/album/2muOqGjZGWo38FHmsq0AJr) | 2:53 | 2021-12-16 | 2023-01-13 |
 | [On Lock](https://open.spotify.com/track/75fxE44yD87YmT2n68gkw2) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [On Lock](https://open.spotify.com/album/59ig3e6AiguuU9sdiXcy1i) | 2:41 | 2023-01-12 | 2023-09-15 |
+| [On Mine](https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [On Mine](https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5) | 2:23 | 2023-09-21 |  |
 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 | 2023-08-31 |  |
 | [One Day Less](https://open.spotify.com/track/3rMbh1zLsh91EcNgu7KuPy) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [One Day Less](https://open.spotify.com/album/6btELiaRuDMZSrhu9PE2xY) | 3:27 | 2022-07-22 | 2023-01-13 |
 | [Online](https://open.spotify.com/track/7oPafvnkhwW6BPEmIvdzVk) | [Afroham](https://open.spotify.com/artist/1CYfML6hZtnvqIZbdcXE6E), [Djemeia](https://open.spotify.com/artist/1Sx36c12X39Dnwp3NHRgsJ) | [Online](https://open.spotify.com/album/2U4iDmJzwom2wsG7u0bN0v) | 2:45 | 2023-09-21 |  |
@@ -279,7 +280,7 @@
 | [P.G.N.L.](https://open.spotify.com/track/5X7eCLVnUIxEcjGsJCKIsz) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [P.G.N.L.](https://open.spotify.com/album/6i1S9izMd6VpzEjovsMfgT) | 2:24 | 2023-03-22 | 2023-09-01 |
 | [Paradise](https://open.spotify.com/track/3axMZtPeAAd2rwgADC6e8r) | [Emma McGrath](https://open.spotify.com/artist/3PZyI7b9LfYnS0QU827W8z) | [Settled in Motion \(Silent Minds, Pt\. 3\)](https://open.spotify.com/album/1imsfIDHUzROdivcxm2uaJ) | 3:10 | 2022-07-22 | 2023-01-13 |
 | [Paradise](https://open.spotify.com/track/7d9OgDTo1Q5TMTaY6oUQOB) | [Emma McGrath](https://open.spotify.com/artist/3PZyI7b9LfYnS0QU827W8z) | [Settled in Motion \(Silent Minds, Pt\. 3\)](https://open.spotify.com/album/4S26ALgxJHytVYSmr5NETb) | 3:10 | 2021-12-16 | 2022-07-29 |
-| [Patience](https://open.spotify.com/track/50YvgSEJQpNlvOaTNJzwnk) | [Sky Feliz](https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O) | [Patience](https://open.spotify.com/album/5NeVFESnfQbNb14PTKn3y4) | 2:32 | 2023-04-20 |  |
+| [Patience](https://open.spotify.com/track/50YvgSEJQpNlvOaTNJzwnk) | [Sky Feliz](https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O) | [Patience](https://open.spotify.com/album/5NeVFESnfQbNb14PTKn3y4) | 2:32 | 2023-04-20 | 2023-09-25 |
 | [Peace](https://open.spotify.com/track/2jVophLAvSRFwiC0bhk8K4) | [QUiNNA](https://open.spotify.com/artist/22rDvoC9Ih125ORFkRXU1p), [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX), [Sevendays](https://open.spotify.com/artist/7Bjrqi8xQL35Lp9KCRI3sY) | [Peace](https://open.spotify.com/album/4XyrBfLYVSRYIAIeAEJWF1) | 2:49 | 2023-05-12 |  |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-12-16 | 2023-02-03 |
 | [Perfect](https://open.spotify.com/track/0iiKH9FbsFKlh7QjmJtYAf) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Perfect](https://open.spotify.com/album/6GNFZBEpeXZq5zMMIVzCmh) | 2:48 | 2022-03-25 | 2022-07-23 |

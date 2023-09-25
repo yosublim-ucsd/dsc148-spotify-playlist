@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: Thrice",
-  "num_followers": 433479,
+  "num_followers": 433646,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2NmMjY5NzI5YjhkZWM5ZjI4YTdiMTAyZmIyMGFhNWZkYzQxY2Jm",
+  "snapshot_id": "MCwxYjg2OTBiMzY3MDAxNTk0MmNhZjBkNTJjNmE4ODUxMWFlYWVmMmI4",
   "tracks": [
     {
       "added_at": "2023-03-28 16:00:32",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Dance Gavin Dance",
-        "url": "https://open.spotify.com/album/12mJ1euri9hLMgGTT6RdQL"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 218453,
-      "name": "Uneasy Hearts Weigh The Most",
-      "url": "https://open.spotify.com/track/5oC0AAgJ7RoWOT3HznLMe1"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Tell All Your Friends (Remastered)",
         "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 181336,
       "name": "You're So Last Summer - Remastered",
       "url": "https://open.spotify.com/track/0cY6CAgB5wShSOTT3lQl2t"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Dance Gavin Dance",
+        "url": "https://open.spotify.com/album/12mJ1euri9hLMgGTT6RdQL"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 218453,
+      "name": "Uneasy Hearts Weigh The Most",
+      "url": "https://open.spotify.com/track/5oC0AAgJ7RoWOT3HznLMe1"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "The Sufferer & The Witness",
-        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
+        "name": "Bone Palace Ballet: Grand Coda",
+        "url": "https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk"
       },
       "artists": [
         {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
         }
       ],
-      "duration_ms": 227706,
-      "name": "Ready To Fall",
-      "url": "https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2"
+      "duration_ms": 208960,
+      "name": "Bulls Make Money, Bears Make Money, Pigs Get Slaughtered",
+      "url": "https://open.spotify.com/track/6XYFBEphCFnRlZ8JiQdv9y"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Bone Palace Ballet: Grand Coda",
-        "url": "https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk"
+        "name": "The Sufferer & The Witness",
+        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
       },
       "artists": [
         {
-          "name": "Chiodos",
-          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 208960,
-      "name": "Bulls Make Money, Bears Make Money, Pigs Get Slaughtered",
-      "url": "https://open.spotify.com/track/6XYFBEphCFnRlZ8JiQdv9y"
+      "duration_ms": 227706,
+      "name": "Ready To Fall",
+      "url": "https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2"
     },
     {
       "added_at": "2023-03-28 16:00:32",

@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: Conton Candy
 
-1,139 songs - 2 day 23 hr 53 min
+1,140 songs - 2 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Fuzzy](https://open.spotify.com/track/6wOiypD8mvXz732pnbGX75) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [Fuzzy](https://open.spotify.com/album/7ry322fIhLAxswrY2iQXeP) | 3:44 | 2023-06-27 | 2023-07-05 |
 | [G.A.D.](https://open.spotify.com/track/2ODzC7a4omg68Yj6BzrKIu) | [QUBIT](https://open.spotify.com/artist/02Xm23NCqdYlyFnpcTfdmI) | [G.A.D.](https://open.spotify.com/album/2hv367X3TlSbK1lT9XWlVl) | 4:14 | 2023-06-20 | 2023-08-25 |
 | [GAME](https://open.spotify.com/track/2VtkTGHzX6otFrgjB37PNn) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/00tN5W3sO93jZSqpLywQBs) | 2:45 | 2023-09-19 | 2023-09-21 |
-| [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-20 |  |
+| [GAME](https://open.spotify.com/track/2aZ6Du5TkxZUjvHW9uH8Qj) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:45 | 2023-09-21 |  |
+| [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-20 | 2023-09-25 |
 | [Game Over](https://open.spotify.com/track/3RTPhsEAhEOTcw4y7cAnbC) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Game Over](https://open.spotify.com/album/2l28sfvxclSXQOMHgm1fe3) | 3:19 | 2022-11-01 | 2022-12-16 |
 | [Gandhara](https://open.spotify.com/track/6h09yhrRik8ihuoDyaYjWy) | [Pirokalpin](https://open.spotify.com/artist/1ftpYph651Il5aufimlG9v) | [Gandhara](https://open.spotify.com/album/5SOlT2SB2SU62T1HcWxWSZ) | 3:56 | 2023-04-04 | 2023-04-12 |
 | [Gatsby](https://open.spotify.com/track/0fY2kx2T3v1XIsyL1fWNQP) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [KikiKaikai](https://open.spotify.com/album/4wkbntjtGIVTsORR7qH1XD) | 3:42 | 2023-09-05 | 2023-09-13 |
@@ -276,7 +277,7 @@
 | [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 | 2023-03-23 | 2023-05-31 |
 | [like like](https://open.spotify.com/track/3ITJU5IAi49tuu7ROVWMSt) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [like like](https://open.spotify.com/album/0UFQXjTiyoyJiB9axeHYd2) | 4:36 | 2022-10-18 | 2023-01-18 |
 | [line](https://open.spotify.com/track/1OvRhgVMmySVSreV9YnoBW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [around dusk](https://open.spotify.com/album/4XG2t9y3aHT7IjCFn3jwNF) | 3:01 | 2022-05-26 | 2022-07-27 |
-| [Line](https://open.spotify.com/track/5ySQdNH0V0xQB7N3LmjtAt) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Around Dusk](https://open.spotify.com/album/2ROkLQv3yr62pu56JjM483) | 3:01 | 2023-04-11 | 2023-09-20 |
+| [Line](https://open.spotify.com/track/5ySQdNH0V0xQB7N3LmjtAt) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Around Dusk](https://open.spotify.com/album/2ROkLQv3yr62pu56JjM483) | 3:01 | 2023-04-11 |  |
 | [Line of sight](https://open.spotify.com/track/2jTB1mOZvop7h4YddpJndw) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/0jhtODRQmtW7lvT9Ika34U) | 3:33 | 2023-03-16 | 2023-09-20 |
 | [Line of sight](https://open.spotify.com/track/4tUFxXSNCayPjtYoF3kI7T) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/7CUgVbMeNO27pF1kFDm5yV) | 3:33 | 2023-03-15 | 2023-03-16 |
 | [LITMUS](https://open.spotify.com/track/4SKkKCv06oN15DHpyKUnJk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [LITMUS](https://open.spotify.com/album/3xZrKf9hGGyU6GPEmEJ2q7) | 4:14 | 2022-06-07 | 2022-11-14 |
@@ -545,7 +546,7 @@
 | [Woolly](https://open.spotify.com/track/5fqq7HOGNSRjc9CSwkwhDk) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [Woolly](https://open.spotify.com/album/38f696Nby5Tqqwq3Cg8VNx) | 4:22 | 2022-06-02 | 2022-07-27 |
 | [Worthy of..](https://open.spotify.com/track/00CUwlsD6vMV8gh8M7FggK) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Worthy of..](https://open.spotify.com/album/4mJPj7GNJhMy1JIlo7r71S) | 4:09 | 2023-03-07 | 2023-03-15 |
 | [Wrecked](https://open.spotify.com/track/0ehS06b4aXxq6MLCHM8j7S) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/1pPxVO9m5EhZqlHpi36Haa) | 2:08 | 2023-06-27 | 2023-06-29 |
-| [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-06-27 |  |
+| [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-06-27 | 2023-09-25 |
 | [Yae](https://open.spotify.com/track/6GcVf0wzXw0F1WQx5xXHbb) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [HANAYODO \-flower and dust\-](https://open.spotify.com/album/2L8zOjcxhs8D7w04N9XIDe) | 4:21 | 2023-04-04 | 2023-04-12 |
 | [YAKITORI](https://open.spotify.com/track/2KLZ5Q7BthNOqAezv9VdkF) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/5jMq8144QUTyhsSOAh8cTS) | 1:44 | 2022-05-26 | 2022-06-01 |
 | [Yellow](https://open.spotify.com/track/16EN5mTrtaopu0EZm3jX7t) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Yellow](https://open.spotify.com/album/5tKHRmsmaKpKh4zQEAQoSR) | 3:10 | 2022-06-02 | 2022-07-15 |

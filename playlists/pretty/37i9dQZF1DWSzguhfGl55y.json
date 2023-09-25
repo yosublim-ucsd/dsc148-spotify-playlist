@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 617420,
+  "num_followers": 617516,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDcyNjJjOGVmMjhhMmU1ZTA3NmM3MWQ0MWI5NDc5MWEzMzI1YWM5",
+  "snapshot_id": "MCxiZjVhNzk5NWRiODIwYjA5MWU3NzI1MWZlNWQ1YmJjYzBlNDIzMjBh",
   "tracks": [
     {
       "added_at": "2023-07-13 12:12:51",
@@ -23,22 +23,6 @@
       "duration_ms": 260093,
       "name": "Alles neu",
       "url": "https://open.spotify.com/track/5hqxBvQJ3XJDSbxT9vyyqA"
-    },
-    {
-      "added_at": "2023-07-13 12:12:51",
-      "album": {
-        "name": "Raop",
-        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 172208,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/063ltSmgXNffmgYxippeke"
     },
     {
       "added_at": "2023-07-13 12:12:51",
@@ -67,6 +51,22 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
+        "name": "Raop",
+        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 172208,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/063ltSmgXNffmgYxippeke"
+    },
+    {
+      "added_at": "2023-07-13 12:12:51",
+      "album": {
         "name": "Ich (Premium Edition)",
         "url": "https://open.spotify.com/album/1pq1kLABw0A1UCLmfhYfZr"
       },
@@ -79,6 +79,22 @@
       "duration_ms": 204213,
       "name": "Schlechtes Vorbild",
       "url": "https://open.spotify.com/track/2L2NmbpVp1dHotlpVJ4zr8"
+    },
+    {
+      "added_at": "2023-07-13 12:12:51",
+      "album": {
+        "name": "Krieg Und Frieden",
+        "url": "https://open.spotify.com/album/73XaqJnXTtEF39anv29yrm"
+      },
+      "artists": [
+        {
+          "name": "Die Firma",
+          "url": "https://open.spotify.com/artist/32iYExttk1mlpOmY7gCqk3"
+        }
+      ],
+      "duration_ms": 206560,
+      "name": "Die Eine 2005",
+      "url": "https://open.spotify.com/track/3jd4ya9vCwExxTVOjPcqsf"
     },
     {
       "added_at": "2023-07-13 12:12:51",
@@ -99,22 +115,6 @@
       "duration_ms": 284693,
       "name": "Hurra die Welt geht unter",
       "url": "https://open.spotify.com/track/3NIDOSThELMihLSOMZcL4k"
-    },
-    {
-      "added_at": "2023-07-13 12:12:51",
-      "album": {
-        "name": "Krieg Und Frieden",
-        "url": "https://open.spotify.com/album/73XaqJnXTtEF39anv29yrm"
-      },
-      "artists": [
-        {
-          "name": "Die Firma",
-          "url": "https://open.spotify.com/artist/32iYExttk1mlpOmY7gCqk3"
-        }
-      ],
-      "duration_ms": 206560,
-      "name": "Die Eine 2005",
-      "url": "https://open.spotify.com/track/3jd4ya9vCwExxTVOjPcqsf"
     },
     {
       "added_at": "2023-07-13 12:12:51",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
-        "name": "Ganz Oben (Mixtape)",
-        "url": "https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk"
-      },
-      "artists": [
-        {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "Ein Affe und ein Pferd",
-      "url": "https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk"
-    },
-    {
-      "added_at": "2023-07-13 12:12:51",
-      "album": {
         "name": "0,9 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6tXpsYFPFHpbKXWpovbtFs"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 201979,
       "name": "Kokaina",
       "url": "https://open.spotify.com/track/0bAgUuRXs3q359aMIMrKdu"
+    },
+    {
+      "added_at": "2023-07-13 12:12:51",
+      "album": {
+        "name": "Ganz Oben (Mixtape)",
+        "url": "https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk"
+      },
+      "artists": [
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "Ein Affe und ein Pferd",
+      "url": "https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk"
     },
     {
       "added_at": "2023-07-13 12:12:51",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
-        "name": "Urlaub f\u00fcrs Gehirn",
-        "url": "https://open.spotify.com/album/4Uicg3ScGwWT6M0M59UjJR"
-      },
-      "artists": [
-        {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        }
-      ],
-      "duration_ms": 241973,
-      "name": "Urlaub f\u00fcrs Gehirn",
-      "url": "https://open.spotify.com/track/3Uu1Gpflq95f8NqKVPB5sz"
-    },
-    {
-      "added_at": "2023-07-13 12:12:51",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 284906,
       "name": "Dickes B (feat. Black Kappa)",
       "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
+    },
+    {
+      "added_at": "2023-07-13 12:12:51",
+      "album": {
+        "name": "Urlaub f\u00fcrs Gehirn",
+        "url": "https://open.spotify.com/album/4Uicg3ScGwWT6M0M59UjJR"
+      },
+      "artists": [
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "duration_ms": 241973,
+      "name": "Urlaub f\u00fcrs Gehirn",
+      "url": "https://open.spotify.com/track/3Uu1Gpflq95f8NqKVPB5sz"
     },
     {
       "added_at": "2023-07-13 12:12:51",
@@ -451,26 +451,18 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
-        "name": "Party 2020",
-        "url": "https://open.spotify.com/album/5nf3tQHGdH6J3iINNfOL6T"
+        "name": "Hahnenkampf",
+        "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
       },
       "artists": [
         {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
-        },
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC"
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
         }
       ],
-      "duration_ms": 188503,
-      "name": "Ohne mein Team",
-      "url": "https://open.spotify.com/track/6hOqWob9hUfgJr68J1vEhJ"
+      "duration_ms": 301173,
+      "name": "Walpurgisnacht",
+      "url": "https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu"
     },
     {
       "added_at": "2023-07-13 12:12:51",
@@ -491,22 +483,6 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
-        "name": "Hahnenkampf",
-        "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
-      },
-      "artists": [
-        {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        }
-      ],
-      "duration_ms": 301173,
-      "name": "Walpurgisnacht",
-      "url": "https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu"
-    },
-    {
-      "added_at": "2023-07-13 12:12:51",
-      "album": {
         "name": "Hinterland",
         "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
       },
@@ -519,6 +495,30 @@
       "duration_ms": 299026,
       "name": "Im Ascheregen",
       "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
+    },
+    {
+      "added_at": "2023-07-13 12:12:51",
+      "album": {
+        "name": "Party 2020",
+        "url": "https://open.spotify.com/album/5nf3tQHGdH6J3iINNfOL6T"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC"
+        }
+      ],
+      "duration_ms": 188503,
+      "name": "Ohne mein Team",
+      "url": "https://open.spotify.com/track/6hOqWob9hUfgJr68J1vEhJ"
     },
     {
       "added_at": "2023-07-13 12:12:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Gunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,189,005 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189,138 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 33 | [Can’t Go To Jail](https://open.spotify.com/track/1Xq5iwsvGxJ7SOaX5LdQc3) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Can’t Go To Jail](https://open.spotify.com/album/45sHVXRiTHH5o4KkIGiQld) | 1:58 |
 | 34 | [Bezzal Land](https://open.spotify.com/track/0YuGBW9XmWiUMXGVsnt9P2) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [Bezzal Land](https://open.spotify.com/album/5yqpAwyhVsmdbrDIItyPs7) | 2:42 |
 | 35 | [Now It’s Real](https://open.spotify.com/track/6LkUoldwZphq2VaNRHUq5N) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Now It’s Real](https://open.spotify.com/album/0QjhNM3DEemC41NSJ4Lu6E) | 4:13 |
-| 36 | [TRY & SEE \(feat\. Future, G Herbo & Roddy Ricch\)](https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 3:07 |
+| 36 | [TRY & SEE \(feat\. G Herbo & Roddy Ricch\)](https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 3:07 |
 | 37 | [Real Type \(feat\. Lil Baby\)](https://open.spotify.com/track/0iy3qv2NVOglVSz3w95QfT) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 3:23 |
 | 38 | [The One](https://open.spotify.com/track/3V0A5gVJFGy4Hmo3MJ59uD) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [I Showed U So](https://open.spotify.com/album/4GVyz2cTtsOtCX5Jk1zeaU) | 2:14 |
 | 39 | [No Dissin](https://open.spotify.com/track/02uL6BAXoxMOjVjGdKMJyR) | [Baby Jungle](https://open.spotify.com/artist/3chQVApiF3AoD6aym9IWwx) | [No Dissin](https://open.spotify.com/album/6FkChT69eCHKp0E9omQ6nn) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [B'CUZ \(feat\. G Herbo\)](https://open.spotify.com/track/2HvORsttUMTfUqEyhX7z1x) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [B'CUZ \(feat\. G Herbo\)](https://open.spotify.com/album/2DTtyXTqV77kHcu20TDNyE) | 2:51 |
 | 100 | [Bitch Let's Do It](https://open.spotify.com/track/3EN9CgupFLmuwmHYUPq0ny) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Richest Opp](https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2) | 3:05 |
 
-Snapshot ID: `MCxkZjUzMzlmOGZlZWE4ZTE0NmIyYmU2Yzc5ZGMyMThkNTc3NzRkMDQ5`
+Snapshot ID: `MCwxNWRhNjcwMDIzZTc3Njc5MThmMDBiNDU0ODNlY2IyZjZlNjJlMTIy`

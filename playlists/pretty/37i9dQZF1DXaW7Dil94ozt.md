@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 
 > Enjoy the songs from the lineup appearing at Let's Rock Festival 2023! \(Let's Rock Festival 2023에 출연하는 라인업의 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 617 likes - 120 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 631 likes - 120 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 | 82 | [SAY](https://open.spotify.com/track/5ZOIXw8NGRFw7gAxThPEGb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [The LIGHTS](https://open.spotify.com/album/2QtJUE3h7lHsKAUnTlNV4U) | 3:48 |
 | 83 | [백야](https://open.spotify.com/track/1Bk1nxhIqqIcWfoVdhNW8c) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [백야](https://open.spotify.com/album/3NxLhNRJxkC8ZLjLlXo6ia) | 4:10 |
 | 84 | [고래](https://open.spotify.com/track/66WJZasXsctB6RyN28qzBt) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [백야](https://open.spotify.com/album/3NxLhNRJxkC8ZLjLlXo6ia) | 4:01 |
-| 85 | [잘 지내자, 우리](https://open.spotify.com/track/3LC2XvIgfPpJChlceA82qU) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [사랑의 단상 Chapter 5\. : The Letter From Nowhere](https://open.spotify.com/album/28KClRRM4IQB7QN204Xkym) | 4:23 |
+| 85 | [Let's Do Well](https://open.spotify.com/track/3LC2XvIgfPpJChlceA82qU) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [사랑의 단상 Chapter 5 : The Letter From Nowhere](https://open.spotify.com/album/28KClRRM4IQB7QN204Xkym) | 4:23 |
 | 86 | [Punch Drunk Love Song](https://open.spotify.com/track/1og9EqLf2bQ9jxnk1LQ0OK) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Uni\-Verse](https://open.spotify.com/album/4Fw6xkU6BuR8rpAfOyeC8w) | 4:52 |
 | 87 | [Sunshine](https://open.spotify.com/track/6D4ZkbtBd4DshKMzStOf8x) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [SAVe tHE AiR GREEN CONCERT](https://open.spotify.com/album/7g9jb9Xf9iCZBbf46yMFVJ) | 3:46 |
 | 88 | [You are to me](https://open.spotify.com/track/4BZmO85MT6NaijjCw4H4CK) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [넌 나에게](https://open.spotify.com/album/0AVY7CcTOHqAbIy7xf5uHh) | 3:03 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 | 119 | [나 좋자고 그러는겨 Did It For Me](https://open.spotify.com/track/0xLfKXJta9gzJzwzgGJUL9) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [하지 말래 Don't Do It](https://open.spotify.com/album/76YzPru5W3pRbdIYVEy7IS) | 2:57 |
 | 120 | [Autumn Color](https://open.spotify.com/track/0gn5tFa1L4r00MgZHa1GyU) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [Autumn Color](https://open.spotify.com/album/4bacxFhgwgW5p5HWYl88J9) | 4:44 |
 
-Snapshot ID: `MCxhYTA5NzE5YTExYTEwN2M4OWMzYTgxYTBlOGZjMmQwNTYwN2EwOGMy`
+Snapshot ID: `MCxlNzIxNjRjYWUxNGQ2ZDE4OWM2YzgyMmVhZDM5NGE0NmFjM2FmZmU3`

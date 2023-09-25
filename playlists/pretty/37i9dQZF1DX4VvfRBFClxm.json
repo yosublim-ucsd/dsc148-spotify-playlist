@@ -1,12 +1,12 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Ed Sheeran",
-  "num_followers": 1476980,
+  "num_followers": 1477069,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmVkYTNjZmQ0YjU2MDMxN2ZkZDZhYjM0ZTlmMjEzNzU1YmZkYzQ0",
+  "snapshot_id": "MCwzOWY2OGRjZGU1MDEzNmJiYzc2Yzk3ZGFkMGIwMmM5MjRjN2FiMWZj",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 223429,
-      "name": "Latch - Acoustic",
-      "url": "https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "The Nashville Sound",
         "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 215563,
       "name": "If We Were Vampires",
       "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 223429,
+      "name": "Latch - Acoustic",
+      "url": "https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/3gLD93wFP8Js0aObN5mJBv"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 181958,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/6EWEyqtjFLafS95ncL4not"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 240146,
       "name": "Cherry Wine - Live",
       "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/3gLD93wFP8Js0aObN5mJBv"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 181958,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/6EWEyqtjFLafS95ncL4not"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Drift Back",
-        "url": "https://open.spotify.com/album/2Y5gD74jkosItJIdpWrhHl"
-      },
-      "artists": [
-        {
-          "name": "Phillip Phillips",
-          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
-        }
-      ],
-      "duration_ms": 194840,
-      "name": "Love Like That",
-      "url": "https://open.spotify.com/track/34WHC9NYUAc4IjMvt56qNq"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 236733,
       "name": "Shouldn't Matter but It Does",
       "url": "https://open.spotify.com/track/3MthJpM1IEYp2ulZe00LvP"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Drift Back",
+        "url": "https://open.spotify.com/album/2Y5gD74jkosItJIdpWrhHl"
+      },
+      "artists": [
+        {
+          "name": "Phillip Phillips",
+          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+        }
+      ],
+      "duration_ms": 194840,
+      "name": "Love Like That",
+      "url": "https://open.spotify.com/track/34WHC9NYUAc4IjMvt56qNq"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Breathe Again (Acoustic)",
-        "url": "https://open.spotify.com/album/2l6DPIMm6wtP1230819k1D"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 198381,
-      "name": "Breathe Again - Acoustic",
-      "url": "https://open.spotify.com/track/2Y29DHOl92FAqXy6Oe6f5h"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 179173,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Breathe Again (Acoustic)",
+        "url": "https://open.spotify.com/album/2l6DPIMm6wtP1230819k1D"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 198381,
+      "name": "Breathe Again - Acoustic",
+      "url": "https://open.spotify.com/track/2Y29DHOl92FAqXy6Oe6f5h"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1767,22 +1767,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Unbreakable Smile",
-        "url": "https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS"
+        "name": "A Face Like Mine",
+        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
       },
       "artists": [
         {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
         }
       ],
-      "duration_ms": 188946,
-      "name": "I Was Made For Loving You",
-      "url": "https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123"
+      "duration_ms": 200800,
+      "name": "My Arms Were Always Around You",
+      "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1803,18 +1799,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "A Face Like Mine",
-        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
+        "name": "Unbreakable Smile",
+        "url": "https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS"
       },
       "artists": [
         {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 200800,
-      "name": "My Arms Were Always Around You",
-      "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
+      "duration_ms": 188946,
+      "name": "I Was Made For Loving You",
+      "url": "https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123"
     },
     {
       "added_at": "2023-09-01 04:00:00",

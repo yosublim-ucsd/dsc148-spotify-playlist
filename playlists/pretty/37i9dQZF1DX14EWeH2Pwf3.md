@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Villabanks
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,071 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,523 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 7 | [Paradiso Artificiale \(feat\. Baby Gang & Kid Yugi\)](https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:42 |
 | 8 | [Kiss You \(F\*\*k You\) \[feat\. Geolier\]](https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 3:27 |
 | 9 | [TAF TAF](https://open.spotify.com/track/6eJIQo4C9LR9sACJI5fP7O) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [TAF TAF](https://open.spotify.com/album/7zC0Ei12gFL8TnHgEgmu6u) | 3:03 |
-| 10 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 2:56 |
+| 10 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/14ZxYiB4WZvbma2Jr15MeP) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:56 |
 | 11 | [ALBV](https://open.spotify.com/track/11CLbFT3tm8UTU2b0XNd79) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [ALBV](https://open.spotify.com/album/7CIlHDEtln2cbqATa3uRoF) | 2:39 |
 | 12 | [VETRI NERI](https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [VETRI NERI](https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn) | 2:44 |
 | 13 | [BON TON \(feat\. Lazza, Blanco, Sfera Ebbasta & Michelangelo\)](https://open.spotify.com/track/6tP2AFUZkz4PuUfssawUBn) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [10](https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Pelé](https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Pelé](https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC) | 2:13 |
 | 50 | [Umile \(feat\. Shiva\)](https://open.spotify.com/track/0zwcUxnzdX6eSeaLKkrVPB) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Umile](https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9) | 2:51 |
 
-Snapshot ID: `MCw2ZjIwYmM1NjEyMGYxMzBmYTdhZDQ5N2I2ZmVkZDE2NGQ5MTU5YTYy`
+Snapshot ID: `MCxhNjdiMmE0ZjJmMDNkMzM0MjFjOGQyZjYwMzBjNDJmOTM4MmI1NGMy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,622 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,682 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 37 | [Chall Huaschallay](https://open.spotify.com/track/756FMK950mmLA7hFN05QT2) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD) | [Huayno, Vol\. 1](https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P) | 2:39 |
 | 38 | [Al Compás de Mi Guitarra](https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 3:06 |
 | 39 | [Flor de Retama](https://open.spotify.com/track/44xGBoSZ8S98X3LzgUyuWK) | [Duo Retama](https://open.spotify.com/artist/12lOCts9qQhJiDDHEnao75) | [Wistu Vida](https://open.spotify.com/album/6Ow5JgeHaoriAgtP9jbDMU) | 6:28 |
-| 40 | [Nuestra Promesa](https://open.spotify.com/track/2z6PQ65b5pTBnI8lqMMwrR) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw), [Magaly Solier](https://open.spotify.com/artist/2XftZLqhgVPUlCn4g0uBZ6) | [Nuestra Promesa](https://open.spotify.com/album/1y5FGSrv0xgzhqJRSkvFob) | 4:50 |
-| 41 | [El Pio, Pio](https://open.spotify.com/track/2r9yZQgAutifXWUfefnUnz) | [Eusebio "Chato" Grados](https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32) | [Huaylash Pio Pio](https://open.spotify.com/album/2baljY40vl4lfiDbQ3e7OO) | 3:39 |
+| 40 | [El Pio, Pio](https://open.spotify.com/track/2r9yZQgAutifXWUfefnUnz) | [Eusebio "Chato" Grados](https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32) | [Huaylash Pio Pio](https://open.spotify.com/album/2baljY40vl4lfiDbQ3e7OO) | 3:39 |
+| 41 | [Nuestra Promesa](https://open.spotify.com/track/2z6PQ65b5pTBnI8lqMMwrR) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw), [Magaly Solier](https://open.spotify.com/artist/2XftZLqhgVPUlCn4g0uBZ6) | [Nuestra Promesa](https://open.spotify.com/album/1y5FGSrv0xgzhqJRSkvFob) | 4:50 |
 | 42 | [Linda Warmisitay](https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4) | [Yawar](https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW) | [De Colores](https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00) | 4:14 |
 | 43 | [Juntito a Ti](https://open.spotify.com/track/7nPN1YXRgC737Z5W0FM0G9) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [Lejos de Ti](https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7) | 5:16 |
 | 44 | [Profesorita](https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7) | [Los Campesinos](https://open.spotify.com/artist/4Y6bDQ3ZuNk1IcX4FmdrBZ) | [Grandes Exitos](https://open.spotify.com/album/1x7195GR18267D7Ix6xpzE) | 2:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 59 | [Amigo](https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:42 |
 | 60 | [La Cornuda](https://open.spotify.com/track/6OzTUt05pxFJAFJjGPxqU5) | [Pumita Cazador](https://open.spotify.com/artist/09c8HpNqJEMBl1bopgRqks) | [Soy Provinciano](https://open.spotify.com/album/1Ry5eqjZbUnnqgsEsUCQjt) | 5:40 |
 
-Snapshot ID: `MCwwNDA2MjFjNzNmOWU5MTMwODk1Yjg5MjVlZTY3ODgxM2QwYzVkOGNk`
+Snapshot ID: `MCwyODk4MzEwYTg5MzRmZjE1ZGFiOTczNDRmNDIzMTYwNTg1Y2U4MDk3`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6TshTCYwh9ySzOO6Jy4Ux2"> Maya Jane Coles</a>' favorite tracks\. Updated regularly\. Curated by Maya Jane Coles Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-99 songs - 8 hr 23 min
+100 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Chaos in the Distance](https://open.spotify.com/track/2dNYZepmpo2RrnytcoZTrW) | [CAYAM](https://open.spotify.com/artist/2aysJuzHqgXqkPJDwwB6a1), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Chaos in the Distance](https://open.spotify.com/album/2n9l0wW4X2UI1jWyipbkxF) | 6:12 | 2021-09-16 | 2022-07-30 |
 | [Clear Skies](https://open.spotify.com/track/0A8tgWH38E0s5n5iCwfvAU) | [Dustin Zahn](https://open.spotify.com/artist/6ScDJaxsDqmtEB0CZY3WAC) | [Tiny Shocks](https://open.spotify.com/album/3Bqx8SdEbAzx48FMM7UE6A) | 4:52 | 2021-09-16 | 2022-07-30 |
 | [Come \- Dub Mix](https://open.spotify.com/track/5JWYSFTiiMlf062LWImKV7) | [Confidential Recipe](https://open.spotify.com/artist/6lbEEehpkzrtDv09b0EWjx) | [The Bridge EP](https://open.spotify.com/album/5A4bbFcbcCp3sJkFAOOh8q) | 6:15 | 2022-07-29 |  |
-| [COMMA$](https://open.spotify.com/track/1kTBNfR261qWCxwZsH86b9) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [DIGITAL DIVA VOL 2](https://open.spotify.com/album/01UvhXyZirGiXyapIL1YzT) | 3:07 | 2022-07-29 |  |
+| [COMMA$](https://open.spotify.com/track/1kTBNfR261qWCxwZsH86b9) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [DIGITAL DIVA VOL 2](https://open.spotify.com/album/01UvhXyZirGiXyapIL1YzT) | 3:07 | 2022-07-29 | 2023-09-25 |
+| [COMMA$](https://open.spotify.com/track/6aUButsd7M5gkPNLXu5cc3) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [DIGITAL DIVA VOL 2](https://open.spotify.com/album/0nIttpHTxh27MTeCNeix4f) | 3:07 | 2022-07-29 |  |
 | [Crazy legs anthem](https://open.spotify.com/track/2QYJnjV3FQotNihkRCnONb) | [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Crazy legs anthem](https://open.spotify.com/album/13IlMC30FaQELiETA2fX7t) | 2:04 | 2022-07-29 |  |
 | [Decline Him](https://open.spotify.com/track/3Wa96y3cQWjIX9gN2dTb5t) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM) | [Transphobic](https://open.spotify.com/album/2vkSCPeqGqr2iCDZEbtieZ) | 3:33 | 2022-07-29 |  |
 | [Detroit Smash](https://open.spotify.com/track/1JQ86ttoKmzceBC5Zjb43u) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Language Of Love](https://open.spotify.com/album/2rQgsu3w89RoMEJtjoxnU9) | 4:57 | 2021-09-16 | 2022-07-30 |

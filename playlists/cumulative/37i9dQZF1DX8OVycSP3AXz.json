@@ -142,10 +142,28 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 205800,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/5zkZI5JT6pAOJ1q4nvDhXg"
+    },
+    {
+      "album": {
+        "name": "O Melhor da M\u00fasica Francesa",
+        "url": "https://open.spotify.com/album/7o0DwyhqgvhgDXxyZez77o"
+      },
+      "artists": [
+        {
+          "name": "Danyel Gerard",
+          "url": "https://open.spotify.com/artist/18wc7xvm8Ti7rqoLtf6jIU"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207733,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/3ZiYD5x1gKCrYtuHkxJ2kr"
     },
     {
       "album": {

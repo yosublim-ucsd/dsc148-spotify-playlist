@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwI9xDkwMFb.md) - [plain]
 
 > The official playlist for” Blue Orchestra” TVアニメ『<a href="https://aooke\-anime.com/">青のオーケストラ</a>』に登場する名曲を公式プレイリストで。©阿久井真／小学館／NHK・NEP・日本アニメーション
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,241 likes - 21 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,293 likes - 21 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwI9xDkwMFb.md) - [plain]
 | 20 | [Light Cavalry: Overture](https://open.spotify.com/track/7gz3tN6esipr13ktSoz9Le) | [Franz von Suppé](https://open.spotify.com/artist/0Yy8ebHB2Ubh1xVIdddNYF), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Sir Georg Solti](https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH) | [Famous Overtures](https://open.spotify.com/album/3QArONsmtuZiAOIUDpyFVZ) | 5:53 |
 | 21 | [Symphony No\. 9 in E Minor, Op\. 95, B\. 178 "From the New World": IV\. Allegro con fuoco \- Live at Philharmonie, Berlin, 1997](https://open.spotify.com/track/6LtIVDlwkraIk17Xz6MoCN) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Claudio Abbado](https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP) | [Dvorák: Symphony No.9; Othello Overture](https://open.spotify.com/album/3UzDwtg4tvx7gA5NeU9qyo) | 11:28 |
 
-Snapshot ID: `MCwxN2U5ZjI4Nzg0ZWY4Y2U2YWQ5MGQwZjM5NTc2YTJkNjEwY2IwYTNj`
+Snapshot ID: `MCxmZWM4NzE2ZGRjYjAzN2MyMzI2YTViNGViNjgxOWNhNzQzZGQxMDYy`

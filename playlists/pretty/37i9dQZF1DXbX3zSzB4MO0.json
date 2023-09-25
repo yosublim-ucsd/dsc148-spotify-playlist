@@ -1,12 +1,12 @@
 {
   "description": "Club vibes wherever you are!",
-  "num_followers": 805416,
+  "num_followers": 805659,
   "original_name": "Club Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTI4Yzk0YmFmMmU3MzRhMmI3YmQ4ZDViNjljYWZlZDhiYmY5MDVj",
+  "snapshot_id": "MCw1ZTNhMzVhZjEzZWNmNTkxZGYzZGQ3YWMyYWY0ZmJlNWVmZTQwZGQx",
   "tracks": [
     {
       "added_at": "2023-09-19 16:32:32",
@@ -839,18 +839,22 @@
     {
       "added_at": "2023-09-19 16:32:32",
       "album": {
-        "name": "Macarena",
-        "url": "https://open.spotify.com/album/4u8Cg6VFMrJDM6WvckaHau"
+        "name": "More Baby",
+        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
       },
       "artists": [
         {
-          "name": "Lenny Pearce",
-          "url": "https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8"
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
         }
       ],
-      "duration_ms": 123692,
-      "name": "Macarena",
-      "url": "https://open.spotify.com/track/38aDPziKNpMScJAdNro7vI"
+      "duration_ms": 175856,
+      "name": "More Baby",
+      "url": "https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a"
     },
     {
       "added_at": "2023-09-19 16:32:32",
@@ -871,6 +875,22 @@
     {
       "added_at": "2023-09-19 16:32:32",
       "album": {
+        "name": "Macarena",
+        "url": "https://open.spotify.com/album/4u8Cg6VFMrJDM6WvckaHau"
+      },
+      "artists": [
+        {
+          "name": "Lenny Pearce",
+          "url": "https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8"
+        }
+      ],
+      "duration_ms": 123692,
+      "name": "Macarena",
+      "url": "https://open.spotify.com/track/38aDPziKNpMScJAdNro7vI"
+    },
+    {
+      "added_at": "2023-09-19 16:32:32",
+      "album": {
         "name": "My Gasoline",
         "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 236999,
       "name": "My Gasoline",
       "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
-    },
-    {
-      "added_at": "2023-09-19 16:32:32",
-      "album": {
-        "name": "More Baby",
-        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 175856,
-      "name": "More Baby",
-      "url": "https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a"
     },
     {
       "added_at": "2023-09-19 16:32:32",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-09-19 16:32:32",
       "album": {
+        "name": "My Addiction",
+        "url": "https://open.spotify.com/album/04KOqBxpJIfL6NdOpwig4l"
+      },
+      "artists": [
+        {
+          "name": "Alex Guesta",
+          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
+        }
+      ],
+      "duration_ms": 157680,
+      "name": "My Addiction",
+      "url": "https://open.spotify.com/track/28WRWusCLgWULI6Gv7h8DL"
+    },
+    {
+      "added_at": "2023-09-19 16:32:32",
+      "album": {
         "name": "Lost In The Rhythm",
         "url": "https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 157673,
       "name": "Friends",
       "url": "https://open.spotify.com/track/4kwbbhuemSkRWvtN5dkWmb"
-    },
-    {
-      "added_at": "2023-09-19 16:32:32",
-      "album": {
-        "name": "My Addiction",
-        "url": "https://open.spotify.com/album/04KOqBxpJIfL6NdOpwig4l"
-      },
-      "artists": [
-        {
-          "name": "Alex Guesta",
-          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
-        }
-      ],
-      "duration_ms": 157680,
-      "name": "My Addiction",
-      "url": "https://open.spotify.com/track/28WRWusCLgWULI6Gv7h8DL"
     },
     {
       "added_at": "2023-09-19 16:32:32",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2023-09-19 16:32:32",
       "album": {
-        "name": "The Voodoo Babe",
-        "url": "https://open.spotify.com/album/43LUjSYSBd6THnIxFNqE9M"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "CHRSTPHR",
-          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
-        }
-      ],
-      "duration_ms": 126666,
-      "name": "The Voodoo Babe",
-      "url": "https://open.spotify.com/track/16Y0MeVVRU0SwpKDN9durD"
-    },
-    {
-      "added_at": "2023-09-19 16:32:32",
-      "album": {
         "name": "New Bottega",
         "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 188915,
       "name": "New Bottega",
       "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
+    },
+    {
+      "added_at": "2023-09-19 16:32:32",
+      "album": {
+        "name": "The Voodoo Babe",
+        "url": "https://open.spotify.com/album/43LUjSYSBd6THnIxFNqE9M"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "CHRSTPHR",
+          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
+        }
+      ],
+      "duration_ms": 126666,
+      "name": "The Voodoo Babe",
+      "url": "https://open.spotify.com/track/16Y0MeVVRU0SwpKDN9durD"
     },
     {
       "added_at": "2023-09-19 16:32:32",

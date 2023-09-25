@@ -1,12 +1,12 @@
 {
   "description": "Sad and gloomy instrumental Jazz.",
-  "num_followers": 42687,
+  "num_followers": 42736,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTEzMTAxYzY5NDdkNDcxMWZiZGExMzNkYzI5NzNmMDE0ZDJmZDI2",
+  "snapshot_id": "MCxkMjljYmFmOWExNTdlZjg3OTBhZmI4NGM5YWYxNjBkMGVkZDdiYjM4",
   "tracks": [
     {
       "added_at": "2023-09-22 11:18:45",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Tammy's Song",
-        "url": "https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2"
-      },
-      "artists": [
-        {
-          "name": "The Sweetgreens",
-          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
-        }
-      ],
-      "duration_ms": 260690,
-      "name": "Tammy's Song",
-      "url": "https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 379533,
       "name": "Curves",
       "url": "https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Tammy's Song",
+        "url": "https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2"
+      },
+      "artists": [
+        {
+          "name": "The Sweetgreens",
+          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
+        }
+      ],
+      "duration_ms": 260690,
+      "name": "Tammy's Song",
+      "url": "https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Same As Ever",
-        "url": "https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc"
-      },
-      "artists": [
-        {
-          "name": "The Collective",
-          "url": "https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP"
-        }
-      ],
-      "duration_ms": 310450,
-      "name": "The ballad of sad young men",
-      "url": "https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "Kept running",
         "url": "https://open.spotify.com/album/0SUlahoWIHJC4g0obxjHtt"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 164928,
       "name": "Kept running",
       "url": "https://open.spotify.com/track/6Ov3Bass8w3RrtUBX7T7xe"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Same As Ever",
+        "url": "https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc"
+      },
+      "artists": [
+        {
+          "name": "The Collective",
+          "url": "https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP"
+        }
+      ],
+      "duration_ms": 310450,
+      "name": "The ballad of sad young men",
+      "url": "https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Madrigal",
-        "url": "https://open.spotify.com/album/3g7XP0N3nxkDmmKfvRYEo7"
+        "name": "A Glimpse Of The Future",
+        "url": "https://open.spotify.com/album/5qXuFVg88DnAFDpYtl9A9S"
       },
       "artists": [
         {
-          "name": "Dave Oakley trio",
-          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
+          "name": "Nelly Vernon",
+          "url": "https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS"
         }
       ],
-      "duration_ms": 195124,
-      "name": "Madrigal",
-      "url": "https://open.spotify.com/track/3u4BpjWcxvAJNcW4AgRPFj"
+      "duration_ms": 149015,
+      "name": "A Glimpse Of The Future",
+      "url": "https://open.spotify.com/track/6D3Imkm2BqdYhn1RoFVGmY"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -731,18 +731,34 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "A Glimpse Of The Future",
-        "url": "https://open.spotify.com/album/5qXuFVg88DnAFDpYtl9A9S"
+        "name": "Madrigal",
+        "url": "https://open.spotify.com/album/3g7XP0N3nxkDmmKfvRYEo7"
       },
       "artists": [
         {
-          "name": "Nelly Vernon",
-          "url": "https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS"
+          "name": "Dave Oakley trio",
+          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
         }
       ],
-      "duration_ms": 149015,
-      "name": "A Glimpse Of The Future",
-      "url": "https://open.spotify.com/track/6D3Imkm2BqdYhn1RoFVGmY"
+      "duration_ms": 195124,
+      "name": "Madrigal",
+      "url": "https://open.spotify.com/track/3u4BpjWcxvAJNcW4AgRPFj"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Not Nice At All",
+        "url": "https://open.spotify.com/album/5TRSBkD21PjK91y6gfUWMH"
+      },
+      "artists": [
+        {
+          "name": "Bridgerton Vail",
+          "url": "https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC"
+        }
+      ],
+      "duration_ms": 176222,
+      "name": "Not Nice At All",
+      "url": "https://open.spotify.com/track/7pilE4NULuXBPHZNzODH5i"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -823,22 +839,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Daydreams",
-        "url": "https://open.spotify.com/album/4BtSurjJ5AKBGfNk1Tuav9"
-      },
-      "artists": [
-        {
-          "name": "Nelly Vernon",
-          "url": "https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS"
-        }
-      ],
-      "duration_ms": 204696,
-      "name": "Daydreams",
-      "url": "https://open.spotify.com/track/3DZ0VT9Cnl9P2kj5rEGske"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "Blueberry Street",
         "url": "https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 255734,
       "name": "Blueberry Street",
       "url": "https://open.spotify.com/track/6YeUTstb4pY8jUE3xWhX0d"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Daydreams",
+        "url": "https://open.spotify.com/album/4BtSurjJ5AKBGfNk1Tuav9"
+      },
+      "artists": [
+        {
+          "name": "Nelly Vernon",
+          "url": "https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS"
+        }
+      ],
+      "duration_ms": 204696,
+      "name": "Daydreams",
+      "url": "https://open.spotify.com/track/3DZ0VT9Cnl9P2kj5rEGske"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -887,22 +903,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Into The Silence",
-        "url": "https://open.spotify.com/album/71IfxXKpjfjsYRIGaYfdeD"
-      },
-      "artists": [
-        {
-          "name": "Avishai Cohen",
-          "url": "https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG"
-        }
-      ],
-      "duration_ms": 558493,
-      "name": "Life And Death",
-      "url": "https://open.spotify.com/track/3mIAMz6nLlzUawJZZzMZ5P"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ"
       },
@@ -915,6 +915,22 @@
       "duration_ms": 244879,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Into The Silence",
+        "url": "https://open.spotify.com/album/71IfxXKpjfjsYRIGaYfdeD"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG"
+        }
+      ],
+      "duration_ms": 558493,
+      "name": "Life And Death",
+      "url": "https://open.spotify.com/track/3mIAMz6nLlzUawJZZzMZ5P"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Not Nice At All",
-        "url": "https://open.spotify.com/album/5TRSBkD21PjK91y6gfUWMH"
-      },
-      "artists": [
-        {
-          "name": "Bridgerton Vail",
-          "url": "https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC"
-        }
-      ],
-      "duration_ms": 176222,
-      "name": "Not Nice At All",
-      "url": "https://open.spotify.com/track/7pilE4NULuXBPHZNzODH5i"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "Soul Dancer",
         "url": "https://open.spotify.com/album/4xPexgYDxOJDqYkf4DtAKs"
       },
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
+        "name": "Une Histoire Flamande",
+        "url": "https://open.spotify.com/album/5FgTkk5OWzO0vyWiZHANLZ"
+      },
+      "artists": [
+        {
+          "name": "Jenny Jones",
+          "url": "https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X"
+        }
+      ],
+      "duration_ms": 206490,
+      "name": "Une Histoire Flamande",
+      "url": "https://open.spotify.com/track/0gbrsvaa2jjGBPaDCjBaIw"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
         "name": "Unsentimental",
         "url": "https://open.spotify.com/album/1XetCzlMmbbOg5evN3Bp9d"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 300618,
       "name": "Unsentimental",
       "url": "https://open.spotify.com/track/7JmMOryQFeykS1BEWInJSs"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
-        "name": "The Now",
-        "url": "https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ"
-      },
-      "artists": [
-        {
-          "name": "Aaron Goldberg",
-          "url": "https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma"
-        }
-      ],
-      "duration_ms": 302640,
-      "name": "The Wind In The Night",
-      "url": "https://open.spotify.com/track/2IiD9iXyz8OWmRkHcfHdnN"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Une Histoire Flamande",
-        "url": "https://open.spotify.com/album/5FgTkk5OWzO0vyWiZHANLZ"
+        "name": "The Now",
+        "url": "https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ"
       },
       "artists": [
         {
-          "name": "Jenny Jones",
-          "url": "https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X"
+          "name": "Aaron Goldberg",
+          "url": "https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma"
         }
       ],
-      "duration_ms": 206490,
-      "name": "Une Histoire Flamande",
-      "url": "https://open.spotify.com/track/0gbrsvaa2jjGBPaDCjBaIw"
+      "duration_ms": 302640,
+      "name": "The Wind In The Night",
+      "url": "https://open.spotify.com/track/2IiD9iXyz8OWmRkHcfHdnN"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Beloved of the Sky",
-        "url": "https://open.spotify.com/album/68IrthAL7tVs8TkwPRudxJ"
-      },
-      "artists": [
-        {
-          "name": "Renee Rosnes",
-          "url": "https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD"
-        }
-      ],
-      "duration_ms": 440513,
-      "name": "The Winter of My Discontent",
-      "url": "https://open.spotify.com/track/4gCaFMkA1CERmgy1ny9fhy"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "Red Garland Revisited!",
         "url": "https://open.spotify.com/album/4NgTZ6fgi3EdfmUIsueHjD"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 335533,
       "name": "You Keep Coming Back Like A Song",
       "url": "https://open.spotify.com/track/7G0wlQpJ1CEwvhrP6W3kQU"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Beloved of the Sky",
+        "url": "https://open.spotify.com/album/68IrthAL7tVs8TkwPRudxJ"
+      },
+      "artists": [
+        {
+          "name": "Renee Rosnes",
+          "url": "https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD"
+        }
+      ],
+      "duration_ms": 440513,
+      "name": "The Winter of My Discontent",
+      "url": "https://open.spotify.com/track/4gCaFMkA1CERmgy1ny9fhy"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Seymour Reads the Constitution!",
-        "url": "https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau Trio",
-          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
-        }
-      ],
-      "duration_ms": 483280,
-      "name": "Seymour Reads the Constitution",
-      "url": "https://open.spotify.com/track/4RyonocCMahA7cIwTDW7E9"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "Monday",
         "url": "https://open.spotify.com/album/6MLTVkvJZuAGeKp5ckAFGt"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 300261,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/3KiC7pKGqv6PygM8rLEISq"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Seymour Reads the Constitution!",
+        "url": "https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau Trio",
+          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
+        }
+      ],
+      "duration_ms": 483280,
+      "name": "Seymour Reads the Constitution",
+      "url": "https://open.spotify.com/track/4RyonocCMahA7cIwTDW7E9"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
+        "name": "Gloomy Sunday",
+        "url": "https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk"
+      },
+      "artists": [
+        {
+          "name": "Alec Taylor Trio",
+          "url": "https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J"
+        }
+      ],
+      "duration_ms": 193256,
+      "name": "Gloomy Sunday",
+      "url": "https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
         "name": "Guardians of the Heart Machine",
         "url": "https://open.spotify.com/album/0XJ08jnqwmTt8qWDs100Ut"
       },
@@ -2115,34 +2131,18 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Take This",
-        "url": "https://open.spotify.com/album/4RI8UIrsKK3pODBLuYJo9r"
+        "name": "Think about that",
+        "url": "https://open.spotify.com/album/7qWpFNdlfnhWujIcby7yB9"
       },
       "artists": [
         {
-          "name": "Jacky Terrasson",
-          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
+          "name": "Bruce Willmington & Co",
+          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
         }
       ],
-      "duration_ms": 179586,
-      "name": "Blue In Green",
-      "url": "https://open.spotify.com/track/0xze9SRrm4Ul5LA4N1MtcE"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v"
-      },
-      "artists": [
-        {
-          "name": "Bugge Wesseltoft",
-          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
-        }
-      ],
-      "duration_ms": 318346,
-      "name": "My Foolish Heart",
-      "url": "https://open.spotify.com/track/3dCDnpRsr2AISZ4ZsvfkvH"
+      "duration_ms": 166057,
+      "name": "Think about that",
+      "url": "https://open.spotify.com/track/36hGg9XIlY2jlLdQSclabi"
     }
   ],
   "unique_name": "Sad Jazz",

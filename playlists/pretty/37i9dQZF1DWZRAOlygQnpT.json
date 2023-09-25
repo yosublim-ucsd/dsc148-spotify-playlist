@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar!",
-  "num_followers": 75676,
+  "num_followers": 75738,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDZjN2VhMTMyODM5ZTYyNTE3YTg2ZDAyMzA5NmUwNGUwNTczODE2",
+  "snapshot_id": "MCw0YjE4MjIyM2JjNTEwMTlhNDZlOWM1M2RmNDljMzA5YjgxMmU2NjMz",
   "tracks": [
     {
       "added_at": "2020-04-17 21:51:59",
@@ -875,22 +875,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Lucha Va Voom - Se\u00f1or Amor's Mexican R&R Faves",
-        "url": "https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B"
-      },
-      "artists": [
-        {
-          "name": "Los Belmonts",
-          "url": "https://open.spotify.com/artist/4QQX6KlJqcfMUEyWWfWaDs"
-        }
-      ],
-      "duration_ms": 167453,
-      "name": "Aprietalo",
-      "url": "https://open.spotify.com/track/52whxdjzl7LRzELK6T9Tse"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Atras de la Raya",
         "url": "https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 149629,
       "name": "Cuando Era Jovencito",
       "url": "https://open.spotify.com/track/5uvi6UhmUFn8jiSPxPOeIo"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Lucha Va Voom - Se\u00f1or Amor's Mexican R&R Faves",
+        "url": "https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B"
+      },
+      "artists": [
+        {
+          "name": "Los Belmonts",
+          "url": "https://open.spotify.com/artist/4QQX6KlJqcfMUEyWWfWaDs"
+        }
+      ],
+      "duration_ms": 167453,
+      "name": "Aprietalo",
+      "url": "https://open.spotify.com/track/52whxdjzl7LRzELK6T9Tse"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -955,22 +955,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "15 Exitos del Rock & Roll",
-        "url": "https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh"
-      },
-      "artists": [
-        {
-          "name": "Los Llopis",
-          "url": "https://open.spotify.com/artist/35OEkYqpkHK4ZWBktloFnE"
-        }
-      ],
-      "duration_ms": 191738,
-      "name": "Estremecete",
-      "url": "https://open.spotify.com/track/3IgqJHPKQUI3hJou7tYDAp"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Rock & Roll",
         "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 143480,
       "name": "Leroy",
       "url": "https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "15 Exitos del Rock & Roll",
+        "url": "https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh"
+      },
+      "artists": [
+        {
+          "name": "Los Llopis",
+          "url": "https://open.spotify.com/artist/35OEkYqpkHK4ZWBktloFnE"
+        }
+      ],
+      "duration_ms": 191738,
+      "name": "Estremecete",
+      "url": "https://open.spotify.com/track/3IgqJHPKQUI3hJou7tYDAp"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors",
+          "url": "https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf"
+        }
+      ],
+      "duration_ms": 157400,
+      "name": "Tequila Con Lim\u00f3n",
+      "url": "https://open.spotify.com/track/2FYdec3yREDp9gIoaWMOxn"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "Atras de la Raya",
         "url": "https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5"
       },
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Loco - Vintage Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+        "name": "Lucha Va Voom - Se\u00f1or Amor's Mexican R&R Faves",
+        "url": "https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B"
       },
       "artists": [
         {
-          "name": "Los Juniors",
-          "url": "https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf"
+          "name": "Los Belmonts",
+          "url": "https://open.spotify.com/artist/4QQX6KlJqcfMUEyWWfWaDs"
         }
       ],
-      "duration_ms": 157400,
-      "name": "Tequila Con Lim\u00f3n",
-      "url": "https://open.spotify.com/track/2FYdec3yREDp9gIoaWMOxn"
+      "duration_ms": 116146,
+      "name": "Los locos adams",
+      "url": "https://open.spotify.com/track/6fPwTYL4B8hTx4VL3DFCnQ"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1147,22 +1163,6 @@
       "duration_ms": 119745,
       "name": "Haciendote el Amor",
       "url": "https://open.spotify.com/track/1oNFfrgSdZ2Af22M60gix4"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Lucha Va Voom - Se\u00f1or Amor's Mexican R&R Faves",
-        "url": "https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B"
-      },
-      "artists": [
-        {
-          "name": "Los Belmonts",
-          "url": "https://open.spotify.com/artist/4QQX6KlJqcfMUEyWWfWaDs"
-        }
-      ],
-      "duration_ms": 116146,
-      "name": "Los locos adams",
-      "url": "https://open.spotify.com/track/6fPwTYL4B8hTx4VL3DFCnQ"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Exitos del Rock & Roll",
-        "url": "https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J"
-      },
-      "artists": [
-        {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
-        }
-      ],
-      "duration_ms": 137769,
-      "name": "Dile Adios",
-      "url": "https://open.spotify.com/track/4ydLUh2eqGDDgxBU4qquQK"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Rock Con Manolo Mu\u00f1oz, Vol. 1",
         "url": "https://open.spotify.com/album/6I5vEMZ1ke0g2PJz8gJDlp"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 132440,
       "name": "El Tigre",
       "url": "https://open.spotify.com/track/2MqQNwrDgJ53TedEeQtxzF"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Exitos del Rock & Roll",
+        "url": "https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J"
+      },
+      "artists": [
+        {
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+        }
+      ],
+      "duration_ms": 137769,
+      "name": "Dile Adios",
+      "url": "https://open.spotify.com/track/4ydLUh2eqGDDgxBU4qquQK"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Loco - Vintage Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
-      },
-      "artists": [
-        {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
-        }
-      ],
-      "duration_ms": 135373,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/552AXR7LxxOeAqtsNWHVjs"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Rock Con Manolo Mu\u00f1oz, Vol. 1",
         "url": "https://open.spotify.com/album/6I5vEMZ1ke0g2PJz8gJDlp"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 183875,
       "name": "Ay Preciosa",
       "url": "https://open.spotify.com/track/4gbCzon8Z58sdMUKac8C4Q"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+      },
+      "artists": [
+        {
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+        }
+      ],
+      "duration_ms": 135373,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/552AXR7LxxOeAqtsNWHVjs"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Rock, Puro Rock",
-        "url": "https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE"
-      },
-      "artists": [
-        {
-          "name": "Los Jockers",
-          "url": "https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK"
-        }
-      ],
-      "duration_ms": 165573,
-      "name": "El Esqueleto",
-      "url": "https://open.spotify.com/track/1vSBPw23dARiJyon6Ttoj7"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "15 Exitos del Rock & Roll",
         "url": "https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 139702,
       "name": "Twist del Perro",
       "url": "https://open.spotify.com/track/2ywie6JDekOY3roCbQWxG0"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Rock, Puro Rock",
+        "url": "https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE"
+      },
+      "artists": [
+        {
+          "name": "Los Jockers",
+          "url": "https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Hanky Panky",
+      "url": "https://open.spotify.com/track/3q57sljRO7snXYIsgaBgJT"
     }
   ],
   "unique_name": "Rock & Roll en Espa\u00f1ol",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Surusinghe
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,726 likes - 80 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,756 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 79 | [focus](https://open.spotify.com/track/7j2EYkn3WpohSBFypKdZwX) | [Cassettes For Kids](https://open.spotify.com/artist/4Zs7sfD9SC3wRBZ0U29CPB) | [focus](https://open.spotify.com/album/3wsAhTbmmsqC8AjAl3VWHx) | 5:31 |
 | 80 | [Mother \- Pretty Girl Remix](https://open.spotify.com/track/2rGOL5VgjeJUjQEoRVSQ8o) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Mother \(Remixes\)](https://open.spotify.com/album/4dkxdBbALMtQCORM3vne8u) | 5:50 |
 
-Snapshot ID: `MCw2ZWM5NjQwMWExZTRkOWVmNGJiZDgyODUzZDU5ZWFlZTE5NzMyZGU5`
+Snapshot ID: `MCw1M2YyNWQ5OWE3NjU1YzZjMGQ4ZDc5YmFiZmM4MmI0ZWU1MGRlYTM3`

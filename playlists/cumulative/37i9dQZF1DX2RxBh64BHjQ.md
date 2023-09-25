@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0gg11prPP6OqtUvBcKnPpq">Rylo Rodriguez</a>
 
-1,308 songs - 2 day 11 hr 14 min
+1,309 songs - 2 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,7 +497,7 @@
 | [Hollywood Hills](https://open.spotify.com/track/1UpELy8EIVtIJnvg5rmd5x) | [TOB Duke](https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS) | [Hollywood Hills](https://open.spotify.com/album/4ewwU60N1DslkeRHV4hRBB) | 2:14 | 2022-02-18 | 2022-04-02 |
 | [HOME](https://open.spotify.com/track/2WnPietHTd9hrIPbZnpoHL) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [HOME](https://open.spotify.com/album/3AQ0Ynvbg6lixOuNtuw5zo) | 2:54 | 2022-02-15 | 2022-05-28 |
 | [HOME \- Remix](https://open.spotify.com/track/3lcJOGpwiiLN7SjhV1UK9J) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [HOME \(Remix\)](https://open.spotify.com/album/3DQqcMjcI066eFySU4whoW) | 3:15 | 2022-06-10 | 2022-08-27 |
-| [Hood Rats \(with Sukihana\)](https://open.spotify.com/track/3bdyyYQ9Ykldt7XOgxWNQY) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Hood Rats \(with Sukihana\)](https://open.spotify.com/album/1dkqNDedqxeSUyFnmHL8Nx) | 2:55 | 2023-08-18 |  |
+| [Hood Rats \(with Sukihana\)](https://open.spotify.com/track/3bdyyYQ9Ykldt7XOgxWNQY) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Hood Rats \(with Sukihana\)](https://open.spotify.com/album/1dkqNDedqxeSUyFnmHL8Nx) | 2:55 | 2023-08-18 | 2023-09-25 |
 | [Hoppin Out](https://open.spotify.com/track/2qD5hkBGI47Pr1a2SnikZc) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ) | [Hoppin Out](https://open.spotify.com/album/6Ab3Hqoowg6OjsWpAgxcwf) | 2:41 | 2022-06-10 | 2022-07-30 |
 | [Hotel](https://open.spotify.com/track/1rfsEU57ofvxhII8Xs57WF) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel](https://open.spotify.com/album/4wSF1oy5QmEopBZ2KZxIy1) | 2:35 | 2022-08-05 | 2022-08-27 |
 | [House Call](https://open.spotify.com/track/3vXeEuBfgF26n6W1l8ujac) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [House Call](https://open.spotify.com/album/4UTojRG6aHmoZoXvH3C4aV) | 3:58 | 2023-05-19 | 2023-07-29 |
@@ -1022,6 +1022,7 @@
 | [Shackles to Diamonds](https://open.spotify.com/track/5e3gWKvlWtGLy5wh7tg1KY) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford Teaser](https://open.spotify.com/album/01aYWhU8KqQKOEKAzFrUOm) | 2:56 | 2022-03-18 | 2022-04-29 |
 | [Shake It](https://open.spotify.com/track/39QfWRz1THn0hSFP8UsVXb) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [GHOST](https://open.spotify.com/album/6oiwzCPmeSlYqSezjkFtSX) | 2:28 | 2023-04-28 | 2023-05-20 |
 | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [Bory300](https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH) | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z) | 1:58 | 2022-04-15 | 2022-07-23 |
+| [Shake Yo Dreads](https://open.spotify.com/track/5n2V631qeQri7jI6Kvbm4j) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shake Yo Dreads](https://open.spotify.com/album/2xQmFSVYsk6qOvFCwVXqgh) | 2:57 | 2023-09-24 |  |
 | [She Knows](https://open.spotify.com/track/7rUc8Bxj6y2yLImSLm7FRy) | [Rocco](https://open.spotify.com/artist/7IjqLxpglRdDUYta4R82B0) | [She Knows](https://open.spotify.com/album/7evmRdQK32AVYuXoliPUsh) | 2:30 | 2022-08-12 | 2022-10-22 |
 | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T) | 3:36 | 2023-06-23 | 2023-09-23 |
 | [Shine](https://open.spotify.com/track/4p9iGjTGqgTNks4La7tujc) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL) | [Shine](https://open.spotify.com/album/2b1FUXrlpSfYE1Y5BPYM9B) | 3:10 | 2021-12-10 | 2022-02-12 |

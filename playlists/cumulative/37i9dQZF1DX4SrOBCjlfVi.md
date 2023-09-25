@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Doja Cat, Moneybagg Yo and more\. Cover: Lil Tecca
 
-3,633 songs - 7 day 1 hr 51 min
+3,634 songs - 7 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2833,6 +2833,7 @@
 | [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 | 2023-07-10 | 2023-07-15 |
 | [Shake That A$$ Baby](https://open.spotify.com/track/19FFPF7lBVOomxN59L7UUK) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU) | [Shake That A$$ Baby](https://open.spotify.com/album/5VcgQj0bTAhewQa9FhJyy5) | 2:31 | 2022-05-27 | 2022-06-04 |
 | [Shake That Shit \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/3gP9gEf80R4j2mDjAsv6y5) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [BABYST5XNE GORILLAS 2](https://open.spotify.com/album/5NHBNP3hs6AP1yUVlc4VZv) | 3:33 | 2023-05-05 | 2023-05-13 |
+| [Shake Yo Dreads](https://open.spotify.com/track/5n2V631qeQri7jI6Kvbm4j) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shake Yo Dreads](https://open.spotify.com/album/2xQmFSVYsk6qOvFCwVXqgh) | 2:57 | 2023-09-24 |  |
 | [Shapeshifter](https://open.spotify.com/track/3I5tzGSgvtFWpMx2dRN0fl) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [ChanHays](https://open.spotify.com/artist/71WAGa6lzYIgOOvGwifQtk) | [Prisoner of Circumstance](https://open.spotify.com/album/1NybbGtRnS2FiOpnuK57AO) | 2:07 | 2023-06-09 | 2023-06-17 |
 | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/track/2TWmbQKpAPXudKaTZkk544) | [MoneySign $uede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz) | 2:36 | 2022-02-25 | 2022-03-05 |
 | [She Know](https://open.spotify.com/track/3iIXhhRB1zP1SIiu45zYV4) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [She Know](https://open.spotify.com/album/3dPd8uPJ6QwoKvnxzXnGhn) | 2:35 | 2022-12-09 | 2022-12-17 |

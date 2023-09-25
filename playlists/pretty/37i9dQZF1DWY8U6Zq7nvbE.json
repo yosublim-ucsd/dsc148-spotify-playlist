@@ -1,12 +1,12 @@
 {
   "description": "The best from the world of acoustic songs and pop covers right now.",
-  "num_followers": 1135435,
+  "num_followers": 1135480,
   "original_name": "Hot Acoustics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzkyYmVhOTM2OGRlMDM3ZWI5Yjc2OTdhNjljY2ZhMzM2MTljYWU2",
+  "snapshot_id": "MCwyMjhlYzJmNzlmNjQzYWIyMzEzMzJmMDljZjU1NmMwYzU0NDQ3N2Vj",
   "tracks": [
     {
       "added_at": "2023-08-31 14:40:35",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Ysabelle",
-        "url": "https://open.spotify.com/album/1LzchyMzJU8dRzQhlcy8n1"
-      },
-      "artists": [
-        {
-          "name": "Ysabelle Cuevas",
-          "url": "https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8"
-        }
-      ],
-      "duration_ms": 189673,
-      "name": "I Like Me Better",
-      "url": "https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Make Me (Cry) [Acoustic Version]",
         "url": "https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 232906,
       "name": "Make Me (Cry) - Acoustic Version",
       "url": "https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Ysabelle",
+        "url": "https://open.spotify.com/album/1LzchyMzJU8dRzQhlcy8n1"
+      },
+      "artists": [
+        {
+          "name": "Ysabelle Cuevas",
+          "url": "https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8"
+        }
+      ],
+      "duration_ms": 189673,
+      "name": "I Like Me Better",
+      "url": "https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Latch",
-        "url": "https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU"
-      },
-      "artists": [
-        {
-          "name": "Mel & Macy",
-          "url": "https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk"
-        }
-      ],
-      "duration_ms": 197684,
-      "name": "Latch",
-      "url": "https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Accidentally In Love",
         "url": "https://open.spotify.com/album/7BAXSSzHQB2XCWU3vry7dQ"
       },
@@ -707,34 +691,18 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "she's all i wanna be",
-        "url": "https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul"
+        "name": "Latch",
+        "url": "https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU"
       },
       "artists": [
         {
-          "name": "who's heather",
-          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
+          "name": "Mel & Macy",
+          "url": "https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk"
         }
       ],
-      "duration_ms": 197357,
-      "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 176542,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
+      "duration_ms": 197684,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -755,6 +723,38 @@
       "duration_ms": 216830,
       "name": "Black Car (feat. ALMA) - Acoustic",
       "url": "https://open.spotify.com/track/7dKtLzhDKZ2aKDqoyZYdEw"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 176542,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "she's all i wanna be",
+        "url": "https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul"
+      },
+      "artists": [
+        {
+          "name": "who's heather",
+          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
+        }
+      ],
+      "duration_ms": 197357,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "see you soon",
-        "url": "https://open.spotify.com/album/3R0uLgP4cb8h4BEMzmAvLW"
-      },
-      "artists": [
-        {
-          "name": "JML",
-          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
-        }
-      ],
-      "duration_ms": 158647,
-      "name": "see you soon",
-      "url": "https://open.spotify.com/track/3lAWDyjTH7SeHckJRJOGrf"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Back to Black",
         "url": "https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 183674,
       "name": "Back to Black",
       "url": "https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "see you soon",
+        "url": "https://open.spotify.com/album/3R0uLgP4cb8h4BEMzmAvLW"
+      },
+      "artists": [
+        {
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+        }
+      ],
+      "duration_ms": 158647,
+      "name": "see you soon",
+      "url": "https://open.spotify.com/track/3lAWDyjTH7SeHckJRJOGrf"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Redbone",
-        "url": "https://open.spotify.com/album/5iBdBYWTKoreXGuKlxBznd"
-      },
-      "artists": [
-        {
-          "name": "Isaac Hale",
-          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Redbone",
-      "url": "https://open.spotify.com/track/1AMaBApVmeyBWai8k0QAMQ"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Think Before I Talk (Acoustic)",
         "url": "https://open.spotify.com/album/4xBuuPBwFuPxv8sZNMqeVT"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 217400,
       "name": "Think Before I Talk - Acoustic",
       "url": "https://open.spotify.com/track/0xr4LgYImMBZL3lnniYzHv"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Redbone",
+        "url": "https://open.spotify.com/album/5iBdBYWTKoreXGuKlxBznd"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hale",
+          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/1AMaBApVmeyBWai8k0QAMQ"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Things I Chose To Remember",
-        "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "Under The Sun - Acoustic",
-      "url": "https://open.spotify.com/track/3mP7zuWtH3QQPEWBTXG3RE"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "I'm a Mess (Acoustic)",
         "url": "https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn"
       },
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Most of Us Are Strangers",
-        "url": "https://open.spotify.com/album/5ufRr4lWvGLNQsd6caY2bE"
+        "name": "Things I Chose To Remember",
+        "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
       },
       "artists": [
         {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
         }
       ],
-      "duration_ms": 222586,
-      "name": "Most of Us Are Strangers",
-      "url": "https://open.spotify.com/track/1xw0dNFXAfu6xJgKMlSUU5"
+      "duration_ms": 190960,
+      "name": "Under The Sun - Acoustic",
+      "url": "https://open.spotify.com/track/3mP7zuWtH3QQPEWBTXG3RE"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1407,6 +1391,22 @@
       "duration_ms": 170931,
       "name": "Barbie Girl",
       "url": "https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Most of Us Are Strangers",
+        "url": "https://open.spotify.com/album/5ufRr4lWvGLNQsd6caY2bE"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 222586,
+      "name": "Most of Us Are Strangers",
+      "url": "https://open.spotify.com/track/1xw0dNFXAfu6xJgKMlSUU5"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Let Me Love You",
-        "url": "https://open.spotify.com/album/0UkPFZiEY8VJLDiWFuYiqd"
-      },
-      "artists": [
-        {
-          "name": "Norah Davis",
-          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
-        }
-      ],
-      "duration_ms": 191496,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/0Vdw0avLSgSt2uZoSZOXTx"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Lose You To Love Me (Acoustic)",
         "url": "https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 254871,
       "name": "Lose You To Love Me - Acoustic",
       "url": "https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/0UkPFZiEY8VJLDiWFuYiqd"
+      },
+      "artists": [
+        {
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+        }
+      ],
+      "duration_ms": 191496,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/0Vdw0avLSgSt2uZoSZOXTx"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Ghost - acoustic",
-        "url": "https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 151374,
-      "name": "Ghost - Acoustic",
-      "url": "https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Ruin My Life (Piano Version)",
         "url": "https://open.spotify.com/album/3DXqU4NZEv2xORVGJx1bEq"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 190080,
       "name": "Ruin My Life - Piano Version",
       "url": "https://open.spotify.com/track/4Fxj5bX8ZlTGw42BIkFwng"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Ghost - acoustic",
+        "url": "https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 151374,
+      "name": "Ghost - Acoustic",
+      "url": "https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "Leave Me Breathless",
+        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/1hBcP9vQCIkoKfJRtGh4zX"
       },
@@ -1679,6 +1695,22 @@
       "duration_ms": 229855,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/4fiMHTOM1LyoqUKxCj540L"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Fake Plastic Trees",
+        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1699,22 +1731,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Leave Me Breathless",
-        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "We Found Love - Acoustic",
         "url": "https://open.spotify.com/album/0YuVbTUWFSxAPPQCGAat0u"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 157714,
       "name": "We Found Love - Acoustic",
       "url": "https://open.spotify.com/track/4qdLbr82uc46ZDr7pPsbR0"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "Fake Plastic Trees",
-        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "how do you sleep?",
-        "url": "https://open.spotify.com/album/6HHO3PkWgYYK6D0zAS9VUm"
-      },
-      "artists": [
-        {
-          "name": "who's heather",
-          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
-        }
-      ],
-      "duration_ms": 223340,
-      "name": "how do you sleep?",
-      "url": "https://open.spotify.com/track/6vRNE5P6s0GIZRQPJgLpF6"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Jealous (Acoustic)",
         "url": "https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 211639,
       "name": "Jealous (Acoustic)",
       "url": "https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "how do you sleep?",
+        "url": "https://open.spotify.com/album/6HHO3PkWgYYK6D0zAS9VUm"
+      },
+      "artists": [
+        {
+          "name": "who's heather",
+          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
+        }
+      ],
+      "duration_ms": 223340,
+      "name": "how do you sleep?",
+      "url": "https://open.spotify.com/track/6vRNE5P6s0GIZRQPJgLpF6"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2511,22 +2511,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "The Walls Are Way Too Thin (Floorboards Version)",
-        "url": "https://open.spotify.com/album/3Jbq63iQbuOOAtIYdHHRfb"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 203820,
-      "name": "The Walls Are Way Too Thin - Floorboards Version",
-      "url": "https://open.spotify.com/track/2axg4squnD1sycg3Ot1PVF"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Sure Thing",
         "url": "https://open.spotify.com/album/4gEJtympDfHPCd0I1Aft8c"
       },
@@ -2543,6 +2527,22 @@
       "duration_ms": 239178,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0b8ZH4B3FM4HHDabjfZFTL"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "The Walls Are Way Too Thin (Floorboards Version)",
+        "url": "https://open.spotify.com/album/3Jbq63iQbuOOAtIYdHHRfb"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 203820,
+      "name": "The Walls Are Way Too Thin - Floorboards Version",
+      "url": "https://open.spotify.com/track/2axg4squnD1sycg3Ot1PVF"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2779,22 +2779,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Empty Love",
-        "url": "https://open.spotify.com/album/3FGRYomaxqKCqrVmCr80db"
-      },
-      "artists": [
-        {
-          "name": "Jessy Hayden",
-          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
-        }
-      ],
-      "duration_ms": 210456,
-      "name": "Empty love",
-      "url": "https://open.spotify.com/track/2cBR3mLD9GnhyMSydDz6Go"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Pumped Up Kicks",
         "url": "https://open.spotify.com/album/4nKXb6pbqWLC72Ri695FTf"
       },
@@ -2811,18 +2795,18 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Pillowtalk",
-        "url": "https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz"
+        "name": "Empty Love",
+        "url": "https://open.spotify.com/album/3FGRYomaxqKCqrVmCr80db"
       },
       "artists": [
         {
-          "name": "Simon Sage",
-          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
+          "name": "Jessy Hayden",
+          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
         }
       ],
-      "duration_ms": 153374,
-      "name": "Pillowtalk",
-      "url": "https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02"
+      "duration_ms": 210456,
+      "name": "Empty love",
+      "url": "https://open.spotify.com/track/2cBR3mLD9GnhyMSydDz6Go"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2847,6 +2831,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "Pillowtalk",
+        "url": "https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz"
+      },
+      "artists": [
+        {
+          "name": "Simon Sage",
+          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
+        }
+      ],
+      "duration_ms": 153374,
+      "name": "Pillowtalk",
+      "url": "https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "You'll Never Walk Alone",
         "url": "https://open.spotify.com/album/7nUJxEfO6ShXWqz4QHCmTg"
       },
@@ -2859,6 +2859,38 @@
       "duration_ms": 161402,
       "name": "You'll Never Walk Alone",
       "url": "https://open.spotify.com/track/2eivkicsT39M1pz0A4mfSD"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/7r7rQgJcP9VU2uDV4uQfJo"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/7aq8uaeA9Uo1yu7HkiEGcG"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "THATS WHAT I WANT (Piano Acoustic)",
+        "url": "https://open.spotify.com/album/4uqUIxdqSwWRtnHGZBPcrj"
+      },
+      "artists": [
+        {
+          "name": "Sam Tsui",
+          "url": "https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0"
+        }
+      ],
+      "duration_ms": 176117,
+      "name": "THATS WHAT I WANT - Piano Acoustic",
+      "url": "https://open.spotify.com/track/4p95kpslEQ0PhjaeHPmqoD"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2883,38 +2915,6 @@
       "duration_ms": 156315,
       "name": "Keep It Simple (feat. Wilder Woods) - Acoustic",
       "url": "https://open.spotify.com/track/4utWb5IGy6JGSOYd1Ie7Lv"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "THATS WHAT I WANT (Piano Acoustic)",
-        "url": "https://open.spotify.com/album/4uqUIxdqSwWRtnHGZBPcrj"
-      },
-      "artists": [
-        {
-          "name": "Sam Tsui",
-          "url": "https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0"
-        }
-      ],
-      "duration_ms": 176117,
-      "name": "THATS WHAT I WANT - Piano Acoustic",
-      "url": "https://open.spotify.com/track/4p95kpslEQ0PhjaeHPmqoD"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/7r7rQgJcP9VU2uDV4uQfJo"
-      },
-      "artists": [
-        {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/7aq8uaeA9Uo1yu7HkiEGcG"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -3055,6 +3055,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "Sunroof (Acoustic)",
+        "url": "https://open.spotify.com/album/6M78VAGEkFKdVk2qm4ZQLB"
+      },
+      "artists": [
+        {
+          "name": "Ben Woodward",
+          "url": "https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn"
+        }
+      ],
+      "duration_ms": 137926,
+      "name": "Sunroof (Acoustic)",
+      "url": "https://open.spotify.com/track/58LmLQjGilHJqLLas40c3x"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "Black & Blue (Acoustic Version)",
         "url": "https://open.spotify.com/album/1KX6McwupYpQOAS4SfcNvG"
       },
@@ -3075,18 +3091,18 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Sunroof (Acoustic)",
-        "url": "https://open.spotify.com/album/6M78VAGEkFKdVk2qm4ZQLB"
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/2N76uyM3yxfn8Jpo00EMiL"
       },
       "artists": [
         {
-          "name": "Ben Woodward",
-          "url": "https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn"
+          "name": "Samuel Pine",
+          "url": "https://open.spotify.com/artist/59FqDnWsY5WbBqDR5YE2nv"
         }
       ],
-      "duration_ms": 137926,
-      "name": "Sunroof (Acoustic)",
-      "url": "https://open.spotify.com/track/58LmLQjGilHJqLLas40c3x"
+      "duration_ms": 152854,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/5YljSVhTtJ41C2H72vExEU"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -3103,22 +3119,6 @@
       "duration_ms": 232659,
       "name": "we don't talk anymore",
       "url": "https://open.spotify.com/track/4fMyUDYJvrFM3UjiLuvtlI"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/2N76uyM3yxfn8Jpo00EMiL"
-      },
-      "artists": [
-        {
-          "name": "Samuel Pine",
-          "url": "https://open.spotify.com/artist/59FqDnWsY5WbBqDR5YE2nv"
-        }
-      ],
-      "duration_ms": 152854,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/5YljSVhTtJ41C2H72vExEU"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -3235,6 +3235,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "I'll Save A Place",
+        "url": "https://open.spotify.com/album/673L0hxi8CysOnbBUot1fZ"
+      },
+      "artists": [
+        {
+          "name": "Carly Rose",
+          "url": "https://open.spotify.com/artist/0Z49rYPKsyCCLGq1UiHrBe"
+        }
+      ],
+      "duration_ms": 181313,
+      "name": "I'll Save A Place",
+      "url": "https://open.spotify.com/track/5f1yZuAiLBdKVXzzBQ1g5j"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "The Wave EP (Acoustic, Pt. 2)",
         "url": "https://open.spotify.com/album/6QKfX2rXkdaEiJQv2nX1G8"
       },
@@ -3255,22 +3271,6 @@
       "duration_ms": 149166,
       "name": "We Do - Acoustic",
       "url": "https://open.spotify.com/track/6NwD3nqu2zcC6gS0Yb5ulp"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "I'll Save A Place",
-        "url": "https://open.spotify.com/album/673L0hxi8CysOnbBUot1fZ"
-      },
-      "artists": [
-        {
-          "name": "Carly Rose",
-          "url": "https://open.spotify.com/artist/0Z49rYPKsyCCLGq1UiHrBe"
-        }
-      ],
-      "duration_ms": 181313,
-      "name": "I'll Save A Place",
-      "url": "https://open.spotify.com/track/5f1yZuAiLBdKVXzzBQ1g5j"
     },
     {
       "added_at": "2023-08-31 14:40:35",

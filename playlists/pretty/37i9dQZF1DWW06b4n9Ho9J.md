@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW06b4n9Ho9J.md) - [plain]
 
 > Editors' picks of the best indie tracks this year\. Cover: Japanese Breakfast
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,365 likes - 104 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,376 likes - 104 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW06b4n9Ho9J.md) - [plain]
 | 69 | [Soft Spot](https://open.spotify.com/track/30bqNfOgcJOw2EWJJl1w5J) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW) | 3:08 |
 | 70 | [I See You Sometimes](https://open.spotify.com/track/0FBqO0pBgYmtQfRFXp2UwW) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [I See You Sometimes](https://open.spotify.com/album/6EbLhss9FGRx89U6Oo4DkB) | 3:05 |
 | 71 | [It's a good day \(to fight the system\)](https://open.spotify.com/track/29pn29WZFkunYdDSv5w1Ta) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I’m not a mother, but I have children](https://open.spotify.com/album/3g658ZgE7SVrv89Y3VkjgX) | 3:17 |
-| 72 | [The Distance](https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:51 |
+| 72 | [The Distance](https://open.spotify.com/track/2L4HF8iN9aH2FH7jEs7EV6) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go \(Deluxe\)](https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf) | 4:51 |
 | 73 | [Turning Wheel](https://open.spotify.com/track/0mBpuZq2VrGiE2SCKRykV8) | [SPELLLING](https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh) | [The Turning Wheel](https://open.spotify.com/album/5Dqqrr1dhaZ3BcFthVUCj2) | 3:33 |
 | 74 | [Polly](https://open.spotify.com/track/0AaJgZIw1lJjc4QejCEpAu) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Digital Meadow](https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ) | 2:42 |
 | 75 | [Exploding House](https://open.spotify.com/track/5pynE1WnRqLPCTlLbrpDyi) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 6:04 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW06b4n9Ho9J.md) - [plain]
 | 103 | [eye 2 eye](https://open.spotify.com/track/6wlouslDoDFy2NH8HaPwQf) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [eye 2 eye](https://open.spotify.com/album/26suVOYpQ5SYiqo7CHyE46) | 3:05 |
 | 104 | [Whatever Tomorrow](https://open.spotify.com/track/2oQMAwDhT1YjSGb3YSLpXO) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ) | 4:23 |
 
-Snapshot ID: `MCxhNzJkMjZhNjY0OGRhMjg5OGQ4YzkwMzFkY2VjYWEyODllZDBmMmY4`
+Snapshot ID: `MCwzOGU1NDU3ZmE4NmZmMGFmNzg1YWQ2MDA3ZTdjMGNlNTY1ODBhZDZl`

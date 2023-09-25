@@ -1,12 +1,12 @@
 {
   "description": "From the jazzy, up-beat New Orleans blues to the slower, zydeco and Cajun-influenced Swamp blues. Cover: Kenny Neal",
-  "num_followers": 12822,
+  "num_followers": 12831,
   "original_name": "Louisiana Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTc2MjQzNTJhZDNkY2RjZWM2YzI2NzNmNGE1NDNlZjdlYWI5MDNj",
+  "snapshot_id": "MCwwNTdjYTMwYTU5ZWM2MjNiODZlOWJkODZmYzE1Y2JmMjAyY2YwZjNj",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Good Neighbor",
-        "url": "https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU"
-      },
-      "artists": [
-        {
-          "name": "John Boutt\u00e9",
-          "url": "https://open.spotify.com/artist/1lGFrlrax8KaaYwF2WJnDo"
-        }
-      ],
-      "duration_ms": 144800,
-      "name": "Accentuate The Positive",
-      "url": "https://open.spotify.com/track/0ObsP7kGu8zGZHKbQh6xal"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "Zodico Blues & Boogie",
         "url": "https://open.spotify.com/album/7FEkXD5ytxX2VSVES51rGC"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 141000,
       "name": "Boppin' The Rock",
       "url": "https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Hooked On Your Love",
+        "url": "https://open.spotify.com/album/53zsMq7ZaqjdF46y42ctJ1"
+      },
+      "artists": [
+        {
+          "name": "Kenny Neal",
+          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+        }
+      ],
+      "duration_ms": 277933,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/7vzerXDJCquhoncLgnJtHJ"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Hooked On Your Love",
-        "url": "https://open.spotify.com/album/53zsMq7ZaqjdF46y42ctJ1"
-      },
-      "artists": [
-        {
-          "name": "Kenny Neal",
-          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
-        }
-      ],
-      "duration_ms": 277933,
-      "name": "Old Friends",
-      "url": "https://open.spotify.com/track/7vzerXDJCquhoncLgnJtHJ"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "Louis Armstrong Plays W. C. Handy",
         "url": "https://open.spotify.com/album/6yvbyi8LOzXI59WkW6QzG2"
       },
@@ -523,22 +507,6 @@
       "duration_ms": 255933,
       "name": "Yellow Dog Blues",
       "url": "https://open.spotify.com/track/2kqpPGtxRatQsFrQWM4gLb"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 227960,
-      "name": "Brown Skin Woman",
-      "url": "https://open.spotify.com/track/4t348UYDuSGPqVkmU1Dt9P"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -559,6 +527,22 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 227960,
+      "name": "Brown Skin Woman",
+      "url": "https://open.spotify.com/track/4t348UYDuSGPqVkmU1Dt9P"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "Let's Talk It Over",
         "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 356773,
       "name": "Greasy Man",
       "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Walking On Fire",
+        "url": "https://open.spotify.com/album/3YsGA6EPreplix3nyYEWCI"
+      },
+      "artists": [
+        {
+          "name": "Kenny Neal",
+          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Blues Stew",
+      "url": "https://open.spotify.com/track/0M2HxpH3HARjQbpt1pH6K6"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -639,18 +639,30 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Walking On Fire",
-        "url": "https://open.spotify.com/album/3YsGA6EPreplix3nyYEWCI"
+        "name": "Vol. 1: Blues Won't Let Me Take My Rest",
+        "url": "https://open.spotify.com/album/6G2BuAE28vxLRAGJPgPBOb"
       },
       "artists": [
         {
-          "name": "Kenny Neal",
-          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+          "name": "Henry Gray",
+          "url": "https://open.spotify.com/artist/08zDtD8xQDP3tDApCnxrvY"
+        },
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        },
+        {
+          "name": "Bob Stroger",
+          "url": "https://open.spotify.com/artist/1JjFeW5yiXLb18bozbG1pe"
+        },
+        {
+          "name": "Willie \"Big Eyes\" Smith",
+          "url": "https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng"
         }
       ],
-      "duration_ms": 214706,
-      "name": "Blues Stew",
-      "url": "https://open.spotify.com/track/0M2HxpH3HARjQbpt1pH6K6"
+      "duration_ms": 232413,
+      "name": "Let's Get High",
+      "url": "https://open.spotify.com/track/2uYbT9w61amgpdsxN9Ozx3"
     }
   ],
   "unique_name": "Louisiana Blues",

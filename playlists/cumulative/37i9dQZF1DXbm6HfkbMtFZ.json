@@ -3909,6 +3909,24 @@
     },
     {
       "album": {
+        "name": "Come Around and Love Me",
+        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146813,
+      "name": "If You Don't Want My Love",
+      "url": "https://open.spotify.com/track/4A48ckONJNoXU5smWT9CeG"
+    },
+    {
+      "album": {
         "name": "If You Don't Want My Love",
         "url": "https://open.spotify.com/album/1t09sHx5LoUBFD8M4h94Nn"
       },
@@ -4260,7 +4278,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 150933,
       "name": "Just Ain't Gonna Work Out",
       "url": "https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X"

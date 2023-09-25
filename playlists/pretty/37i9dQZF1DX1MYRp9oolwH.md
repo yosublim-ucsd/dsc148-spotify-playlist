@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Hi Nanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,128 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,526 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 17 | [Vennello Aadapilla](https://open.spotify.com/track/4WFMMeXBuMgoNabiRjAWLc) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [J.V\. Sudhanshu](https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq), [Harika Narayan](https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn) | [Bedurulanka 2012 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ltTvOghT7Q60SplZgGWjm) | 4:15 |
 | 18 | [Potti Pilla](https://open.spotify.com/track/3ocPclZ3oyIHCaG7Jsl4kf) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Balagam](https://open.spotify.com/album/34y8xs6VBq9OldZUZGgZ4h) | 3:43 |
 | 19 | [Manase Marala Marala \(From "Sandeham"\)](https://open.spotify.com/track/3sTqB033Q4oBQJqOMs5IvL) | [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [K\. Pranati](https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP), [Subhash Anand](https://open.spotify.com/artist/2NP78xB5UtgQ5iXu8lpBip) | [Manase Marala Marala \(From "Sandeham"\)](https://open.spotify.com/album/7C4Tqmv5M23nwU5UO09ckg) | 3:31 |
-| 20 | [Nee Jathai \(From "Gandeevadhari Arjuna"\)](https://open.spotify.com/track/3CC7x1y5qV0cIDxnn4F5wA) | [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Elvya](https://open.spotify.com/artist/7nsHwDfvq2CVqfC2jt3Z9N), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Rehman](https://open.spotify.com/artist/6rcVCXZM8jdsftTbGBSec9) | [Nee Jathai \(From "Gandeevadhari Arjuna"\)](https://open.spotify.com/album/5CqD2pdZcAFtTkP2NqIWUU) | 3:54 |
+| 20 | [Nee Jathai](https://open.spotify.com/track/5tnfQ6duDT5puWQgXdM3iu) | [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Elvya](https://open.spotify.com/artist/7nsHwDfvq2CVqfC2jt3Z9N), [Rehman](https://open.spotify.com/artist/6rcVCXZM8jdsftTbGBSec9) | [Gandeevadhari Arjuna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GEBKVxYcebjsTSQOndDym) | 3:54 |
 | 21 | [Danger Pilla](https://open.spotify.com/track/4kouboIMeUzyGc1jXbUxet) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Extra \- Ordinary Man](https://open.spotify.com/album/6cjnJoGXjx3ITSuqug5xbo) | 4:26 |
 | 22 | [Milky Beauty](https://open.spotify.com/track/0FM8wzHhV64mwrDdEEuGdG) | [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Bholaa Shankar](https://open.spotify.com/album/5U5PEnuwaXr8ffWWmydl5X) | 3:33 |
 | 23 | [Jaanavule \(From "BRO"\)](https://open.spotify.com/track/70eTEktxIj0zLoJtgmouik) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [K\. Pranati](https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP) | [Jaanavule \(From "BRO"\)](https://open.spotify.com/album/7p8Cy3FZqb3ufyETDQkBOg) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Oh Bangaram](https://open.spotify.com/track/75UdklaJHB2iYhQMXmE3DS) | [Chaitan Bharadwaj](https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Vinaro Bhagyamu Vishnu Katha](https://open.spotify.com/album/5mw5TgQL15i1ernK02z9hV) | 3:48 |
 | 50 | [Ee Vela \(From "Raa Raa Penimiti"\)](https://open.spotify.com/track/3tKo5EmcMW9BzgwaHceHHc) | [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Ee Vela \(From "Raa Raa Penimiti"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7BXUPQfH5Ca1SsaG6r59dD) | 4:10 |
 
-Snapshot ID: `MCxiODk3NGFmZGQwMDBhNjQ3NjI1ZWI3MTRiZjQxMzc2ODJjMzMwNTY3`
+Snapshot ID: `MCw4ODlhMGU5NTQzNjcxYWQ0ZDI0MmQ4ZjUxY2YwNmQ0ODBjNjZmOTdk`

@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-362 songs - 22 hr 38 min
+363 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,8 @@
 | [S.O.S.](https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [S.O.S.](https://open.spotify.com/album/4RvKYGUHWX2X38wce7NufG) | 2:57 | 2021-03-06 | 2022-07-24 |
 | [Sandrail Silhouette](https://open.spotify.com/track/1wanXEOnOjtVk93VFv0xIQ) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Sandrail Silhouette](https://open.spotify.com/album/2vBvUI6HDD4bClYmKl16yw) | 4:29 | 2023-05-10 |  |
 | [Scattered Dreams](https://open.spotify.com/track/0A4yWwcpwp35JWPHGQ24X9) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Scattered Dreams](https://open.spotify.com/album/0EcAO4yEQf6oqzNzjm75xh) | 3:54 | 2023-05-10 | 2023-07-12 |
-| [Scattered Dreams](https://open.spotify.com/track/44IYLlpl5cPvqQH9Ff6GhQ) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Scattered Dreams](https://open.spotify.com/album/2nEeFzRFh8ppWwAvlVtgPv) | 3:54 | 2023-05-10 |  |
+| [Scattered Dreams](https://open.spotify.com/track/44IYLlpl5cPvqQH9Ff6GhQ) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Scattered Dreams](https://open.spotify.com/album/2nEeFzRFh8ppWwAvlVtgPv) | 3:54 | 2023-05-10 | 2023-09-25 |
+| [Scattered Dreams](https://open.spotify.com/track/73h8sk37Djar1B3LV3A6nQ) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Time Lapsed](https://open.spotify.com/album/2rzaUdlBmCJt9f5KjT2HDE) | 3:54 | 2023-07-21 |  |
 | [Seems Like Forever](https://open.spotify.com/track/0cjkj0qO9lIFy9VY8FZE47) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Seems Like Forever](https://open.spotify.com/album/0lXckcOqOJaSVpMXdhHcGU) | 5:18 | 2022-07-06 | 2023-02-10 |
 | [Seems Like Forever](https://open.spotify.com/track/3eIcEbicqr3ikj05Gkmziv) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Seems Like Forever](https://open.spotify.com/album/01rddRm7oUQ3GqOG9mkEO8) | 5:18 | 2022-01-27 | 2022-11-15 |
 | [Selene](https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Selene](https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7) | 4:54 | 2023-03-24 |  |

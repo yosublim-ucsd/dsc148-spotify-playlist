@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 
 > Miami me lo confirmó, featuring Feid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,087 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,123 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 | 22 | [Mas Rica Que Ayer](https://open.spotify.com/track/3XjvMZqm2AQ8thMCD6w9w2) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Mas Rica Que Ayer](https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu) | 3:19 |
 | 23 | [Un Cigarrillo](https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Cigarrillo](https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9) | 3:04 |
 | 24 | [LA BABY](https://open.spotify.com/track/1PyEIqKSHiGNK9KjxosuHi) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [LA BABY](https://open.spotify.com/album/0JxZiYcTT06o0ir80SbEdW) | 3:02 |
-| 25 | [MI EXXX](https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [MI EXXX](https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC) | 3:14 |
-| 26 | [La Triple M](https://open.spotify.com/track/6QX6tanKOhwMpPtu1p0zAL) | [Mawell](https://open.spotify.com/artist/6UO7zshgw0fLVF6DVKg9PN) | [La Triple M](https://open.spotify.com/album/4Mw8E2g1o54rGBTFeOd5lA) | 3:21 |
+| 25 | [La Triple M](https://open.spotify.com/track/6QX6tanKOhwMpPtu1p0zAL) | [Mawell](https://open.spotify.com/artist/6UO7zshgw0fLVF6DVKg9PN) | [La Triple M](https://open.spotify.com/album/4Mw8E2g1o54rGBTFeOd5lA) | 3:21 |
+| 26 | [MI EXXX](https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [MI EXXX](https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC) | 3:14 |
 | 27 | [UNA NOCHE EN MEDELLÍN \- REMIX](https://open.spotify.com/track/0GJwUAlBMJTbY4VE7iE761) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 3:25 |
 | 28 | [La Receta](https://open.spotify.com/track/5F9UDD7ZNbmyRFYyb4qF2z) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [La Receta](https://open.spotify.com/album/2KcbwgVZYmXv6Zh0hpY12y) | 2:55 |
 | 29 | [Cuando Te Toca](https://open.spotify.com/track/6N5kayELaZsZUOwW9uCBU2) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 | 49 | [De Revista \- Remix](https://open.spotify.com/track/0jEs4lbM1tLANAulsyDfjR) | [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [De Revista \(Remix\)](https://open.spotify.com/album/4t9Zm2EFBwVerXHe93ypW3) | 3:59 |
 | 50 | [No Te Bote](https://open.spotify.com/track/15pBzHFFi56qdMfJ2xR9YW) | [LKM](https://open.spotify.com/artist/72bHPNx6XJlnOXdZz5nsce) | [No Te Bote](https://open.spotify.com/album/0V8U6k2SHb0d0sU9SXxXSd) | 3:21 |
 
-Snapshot ID: `MCxlZmRjZWM2Y2Q3NGM2Yjg3YzIwNTllZDVkYjQxYTA3M2ZmNDFjMWJm`
+Snapshot ID: `MCw4MjNiN2YwMTFhMGM1MTE0MTE0YmY4MDVhNGI4ZTMyMWYxMTdhODJk`

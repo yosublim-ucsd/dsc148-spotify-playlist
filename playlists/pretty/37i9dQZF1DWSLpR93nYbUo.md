@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: Royale BR
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,277 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,285 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 69 | [Chasing Light](https://open.spotify.com/track/4N1z2twAYP5PDqqfFQ4Das) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4), [ANDREOS](https://open.spotify.com/artist/7twEvwc7oU5xGnWMVg1mdJ) | [Chasing Light](https://open.spotify.com/album/1ORBkNv6tEkdKfeDIThsq0) | 2:18 |
 | 70 | [Lorac](https://open.spotify.com/track/6BCIvGWOKKZJwXc9Hct21b) | [André Moret](https://open.spotify.com/artist/77TawwjtLlpegPo23bblci) | [Lorac](https://open.spotify.com/album/74AWF0pq8DW6ZplMMurVOx) | 7:40 |
 
-Snapshot ID: `MCxmZDA0YTJjMzMzNWI4ODRlZDU2ZDI5M2U4MGY1OWJkYzgwMDYxMzBh`
+Snapshot ID: `MCw1MjA4YWFkZmI5NzYyMTg1MDdhNDllYTgwNDQ0Zjk1YjI5YTBhOTc1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 
 > Eagles, The Byrds and all your favorite country rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,122 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,205 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 20 | [Train Leaves Here This Morning \- 2013 Remaster](https://open.spotify.com/track/5ro7xAxDVbtabTl8t3MzHz) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:10 |
 | 21 | [You're Only Lonely](https://open.spotify.com/track/0qzEkwri1hE0rgxVqdOBAf) | [JD Souther](https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5) | [You're Only Lonely](https://open.spotify.com/album/1JoT6VQQ8H5CUtPLEYw7o0) | 3:48 |
 | 22 | [Return of the Grievous Angel \- 2006 Remaster](https://open.spotify.com/track/7vOYp7KJ8gVmVbcatSVf9J) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 4:26 |
-| 23 | [Cadillac Ranch](https://open.spotify.com/track/7ny63lhhFA36LKmtu4IxiW) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Road Trip Blues Rock](https://open.spotify.com/album/5WHwosaLhR8vDOBMWZFFcQ) | 3:42 |
-| 24 | [Just Can't Be](https://open.spotify.com/track/0Ov9Hh2ygoGCkwTXMRYRcp) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Flying Burrito Brothers](https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1) | 4:58 |
+| 23 | [Just Can't Be](https://open.spotify.com/track/0Ov9Hh2ygoGCkwTXMRYRcp) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Flying Burrito Brothers](https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1) | 4:58 |
+| 24 | [Cadillac Ranch](https://open.spotify.com/track/7ny63lhhFA36LKmtu4IxiW) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Road Trip Blues Rock](https://open.spotify.com/album/5WHwosaLhR8vDOBMWZFFcQ) | 3:42 |
 | 25 | [Lonesome L.A\. Cowboy](https://open.spotify.com/track/6vOV8fmbk16LYgL2CQ64ih) | [New Riders of the Purple Sage](https://open.spotify.com/artist/2D3v3HJ9k3UzehaewnT3QA) | [The Adventures Of Panama Red](https://open.spotify.com/album/1O9T5fjUzGfSa609GiDEJY) | 4:03 |
 | 26 | [Colorado](https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [Manassas](https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo) | 2:52 |
 | 27 | [Don't Let Me Down](https://open.spotify.com/track/1PsDNPG1j7ySpFpxjHB5xb) | [Dillard & Clark](https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI) | [Through The Morning, Through The Night](https://open.spotify.com/album/4iClwik4oQvlJ9wFujkmiQ) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 49 | [Rebecca \- Remastered](https://open.spotify.com/track/6JivFldqJ4qjT7kYhygGTl) | [Longbranch/Pennywhistle](https://open.spotify.com/artist/7bK26KSS2vRPxiT2UDeYSF) | [Longbranch/Pennywhistle \(Remastered\)](https://open.spotify.com/album/6z5JQxMPg26VbiNjK0ktjp) | 2:48 |
 | 50 | [Someone Who Cares](https://open.spotify.com/track/2eSySlmf3c5114MaxAVaAS) | [Richie Furay](https://open.spotify.com/artist/2KpCZazKx8c2qBDtNXvmvf) | [Dance A Little Light](https://open.spotify.com/album/0TuDxWKVA21dJJtM14Ghfs) | 3:53 |
 
-Snapshot ID: `MCw3YzZlNDM2NmM5OGEwMzMyOWI1NDQyM2M3MmNkNGYwZTU2MTYwMjNm`
+Snapshot ID: `MCxlY2FjMWI2ZDY5Njg0N2FhZmI5YjRmMTMyYTc3NzNkMTU1NDFmNGU0`

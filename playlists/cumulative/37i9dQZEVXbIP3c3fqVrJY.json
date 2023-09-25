@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 163255,
       "name": "BEZ TEBE",
       "url": "https://open.spotify.com/track/77OedqonwR6D09NwHAEphs"
@@ -2436,7 +2436,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 130285,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/2sNrirJx5Se5MO2tU2lJVL"
@@ -2668,7 +2668,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -5658,6 +5658,24 @@
       "duration_ms": 242293,
       "name": "Eat Your Young",
       "url": "https://open.spotify.com/track/6PkxSIt2TYLMFa8ybyngVP"
+    },
+    {
+      "album": {
+        "name": "ecstacy (slowed)",
+        "url": "https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi"
+      },
+      "artists": [
+        {
+          "name": "SUICIDAL-IDOL",
+          "url": "https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119120,
+      "name": "ecstacy (slowed)",
+      "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
     },
     {
       "album": {
@@ -14330,7 +14348,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 220783,
       "name": "Never Get Over You",
       "url": "https://open.spotify.com/track/68Y2EMgrAZDrwRIlhWxLxa"
@@ -14404,7 +14422,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 145663,
       "name": "NEV\u00cd\u0160 NIC pt. 2",
       "url": "https://open.spotify.com/track/78LxO05G5BJglZUY2aTMYh"
@@ -15932,7 +15950,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 163578,
       "name": "Plakala",
       "url": "https://open.spotify.com/track/3h9EMra1EG4oncHLPiEJce"
@@ -17976,7 +17994,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 212173,
       "name": "SAVE",
       "url": "https://open.spotify.com/track/5arEkXTHnVRcpsl0BOND0E"
@@ -19080,7 +19098,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
@@ -19846,7 +19864,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 256720,
       "name": "Svaz \u010desk\u00fdch boh\u00e9m\u016f",
       "url": "https://open.spotify.com/track/0twbASvGKPDvbWviKZcpyy"
@@ -22004,7 +22022,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 140326,
       "name": "Vitej",
       "url": "https://open.spotify.com/track/7EaJ7n3cuFmjtq2nLkRVrQ"

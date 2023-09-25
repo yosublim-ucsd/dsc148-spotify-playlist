@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 151713,
+  "num_followers": 153125,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDQ3NDk3OTRiN2QzOWU5M2RlY2QyOTVjYmJjYjY5YjMzMWZhOGI3",
+  "snapshot_id": "MCwxODEwMDg4OTcwNWNmNjdiMmYzYTAzNzIxNDI5NTIyNWFiYzg3M2Qz",
   "tracks": [
     {
       "added_at": "2023-07-19 14:27:54",
@@ -393,22 +393,6 @@
       "url": "https://open.spotify.com/track/6tO5bxNnMuh1c3cziSpecA"
     },
     {
-      "added_at": "2023-07-12 16:22:38",
-      "album": {
-        "name": "NEON BLADE",
-        "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
-      },
-      "artists": [
-        {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
-        }
-      ],
-      "duration_ms": 265263,
-      "name": "NEON BLADE",
-      "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
-    },
-    {
       "added_at": "2023-09-08 14:53:42",
       "album": {
         "name": "RITMO DE TREINO",
@@ -431,6 +415,22 @@
       "duration_ms": 102923,
       "name": "RITMO DE TREINO",
       "url": "https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT"
+    },
+    {
+      "added_at": "2023-07-12 16:22:38",
+      "album": {
+        "name": "NEON BLADE",
+        "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "duration_ms": 265263,
+      "name": "NEON BLADE",
+      "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
     },
     {
       "added_at": "2023-09-08 14:53:42",
@@ -517,6 +517,22 @@
       "url": "https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb"
     },
     {
+      "added_at": "2023-09-08 14:53:42",
+      "album": {
+        "name": "WAKE UP!",
+        "url": "https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "duration_ms": 142940,
+      "name": "WAKE UP!",
+      "url": "https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W"
+    },
+    {
       "added_at": "2023-07-12 16:22:38",
       "album": {
         "name": "Crystals",
@@ -569,22 +585,6 @@
       "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
     },
     {
-      "added_at": "2023-09-08 14:53:42",
-      "album": {
-        "name": "WAKE UP!",
-        "url": "https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l"
-      },
-      "artists": [
-        {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
-        }
-      ],
-      "duration_ms": 142940,
-      "name": "WAKE UP!",
-      "url": "https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W"
-    },
-    {
       "added_at": "2023-07-12 16:22:38",
       "album": {
         "name": "GHOST!",
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ"
     },
     {
-      "added_at": "2023-07-12 16:22:38",
-      "album": {
-        "name": "Why Not",
-        "url": "https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Playa",
-          "url": "https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Why Not",
-      "url": "https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP"
-    },
-    {
       "added_at": "2023-09-08 14:53:42",
       "album": {
         "name": "Fluxxwave",
@@ -635,6 +619,22 @@
       "duration_ms": 150441,
       "name": "Fluxxwave",
       "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
+    },
+    {
+      "added_at": "2023-07-12 16:22:38",
+      "album": {
+        "name": "Why Not",
+        "url": "https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Playa",
+          "url": "https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Why Not",
+      "url": "https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP"
     },
     {
       "added_at": "2023-07-12 16:22:38",

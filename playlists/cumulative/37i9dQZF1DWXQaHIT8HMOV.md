@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan hits in one playlist\. Cover: Joshua Baraka
 
-171 songs - 8 hr 52 min
+172 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Bega Bega](https://open.spotify.com/track/4ctK1RbMMolmBH24Nws6bU) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Bega Bega](https://open.spotify.com/album/2K3kJ9PdnZ0FhQGiUfqQA9) | 2:52 | 2023-04-06 | 2023-05-06 |
 | [Belinda](https://open.spotify.com/track/64C4vezOJyDbudIGxquW89) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Belinda](https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW) | 2:13 | 2022-03-17 |  |
 | [Best Friend](https://open.spotify.com/track/2gmdaA7MrBs64moq2lJZzg) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Andy Muzic](https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z), [Kyvo Bouy](https://open.spotify.com/artist/3DEny7mL5yyeEDPYXdO3ky) | [Best Friend](https://open.spotify.com/album/3TPSJTBY0UhdQNt7NSlYwT) | 2:53 | 2023-06-02 | 2023-09-06 |
-| [BESTIE](https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [BESTIE](https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB) | 2:53 | 2022-11-10 |  |
+| [BESTIE](https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [BESTIE](https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB) | 2:53 | 2022-11-10 | 2023-09-25 |
 | [Bikole](https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6), [Oma Afrikana](https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf) | [Bikole](https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw) | 3:04 | 2022-07-29 | 2023-01-05 |
 | [Binkolele](https://open.spotify.com/track/0zDT3yAXoFiBn0gcj91uaJ) | [Kataleya & Kandle](https://open.spotify.com/artist/1a93I0beev2mbujNJiNuA4) | [Binkolele](https://open.spotify.com/album/6MfNYhFnajErRuvwzRBC8w) | 3:11 | 2023-07-21 |  |
 | [Bitimba](https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Bitimba](https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5) | 2:27 | 2022-08-19 |  |
@@ -125,6 +125,7 @@
 | [Omukwano \(Love\)](https://open.spotify.com/track/0OwVXpiH4Mikje2le0NQrG) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [Omukwano \(Love\)](https://open.spotify.com/album/1DvxeF75SryYMeYsarF6NN) | 3:03 | 2023-09-07 |  |
 | [Omwana](https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Omwana](https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2) | 3:32 | 2023-03-20 |  |
 | [Omwana Wabandi \- Remix](https://open.spotify.com/track/0vK7OUdfdcCiucULQAPE59) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Lex Raven](https://open.spotify.com/artist/3mZYpQsk8ZyHkMCdtQL4iM) | [Omwana Wabandi \(Remix\)](https://open.spotify.com/album/2SJek9xY189sLRGmm17vin) | 2:44 | 2022-05-12 | 2022-09-02 |
+| [Omwenge](https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Omwenge](https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT) | 3:45 | 2023-09-22 |  |
 | [On my Mind](https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [On My Mind](https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr) | 3:46 | 2023-06-09 |  |
 | [One Bite](https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [One Bite](https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO) | 2:54 | 2022-06-24 |  |
 | [Only You](https://open.spotify.com/track/6G7pOzNocRnRigGynUgrKP) | [Tracie UG](https://open.spotify.com/artist/3aiGkLgNvUdSQjPdlXelw6), [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Only You](https://open.spotify.com/album/1X7VdpscX61RBRxZJzwDFl) | 3:04 | 2023-02-03 | 2023-03-26 |

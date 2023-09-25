@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,691 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,713 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 49 | [I Wonder](https://open.spotify.com/track/6QsnUuIH1eWCmZ3Du1hzFJ) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [I Wonder](https://open.spotify.com/album/07vvTjXpmDxTVulZkXrK6p) | 4:11 |
 | 50 | [Day & Night](https://open.spotify.com/track/09iktHjNiTzCX6YT5XKScx) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Intimate Fonk](https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV) | 3:36 |
 
-Snapshot ID: `MCw0MWRkNWQ3OTg0YTY1YTM5ZDg5YTlkYWQ0MDM5NWEzZWJiMzY5MzA3`
+Snapshot ID: `MCwxZjhiODAzYjU5ZjcyNWU2ZTljODk4ZjQ3N2EyYWFlNzk1OTFkYjk4`

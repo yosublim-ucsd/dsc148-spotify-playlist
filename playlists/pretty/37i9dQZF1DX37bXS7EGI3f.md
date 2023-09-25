@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal\. Cover: Within Temptation
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,894 likes - 80 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,029 likes - 80 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,19 +63,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 53 | [We'll Be Free](https://open.spotify.com/track/5eHDFd1y53Ui8i7rk6N9nx) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [We'll Be Free](https://open.spotify.com/album/5JE6mHj7OvwXBWHhN2DPIV) | 4:02 |
 | 54 | [Dragonwings](https://open.spotify.com/track/4LNkBt5ErMrbXHeCPoDhzZ) | [Pagefire](https://open.spotify.com/artist/1gKEQdxsZV3e97GIhOwTmF), [Craig Cairns](https://open.spotify.com/artist/6iMoj5iPi4sUkBspHLJ4wK) | [Dragonwings](https://open.spotify.com/album/5myo6QeT0EwVkAVPw3MlR0) | 4:03 |
 | 55 | [Oblivion](https://open.spotify.com/track/4K658m16hnoNkRMAD8UFpE) | [Civil War](https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T) | [Invaders](https://open.spotify.com/album/4BL7mjdzThCY1w4GDX18j4) | 5:38 |
-| 56 | [The Gates of Time](https://open.spotify.com/track/0s1mKQbBg91ig5E613Zhuz) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Metamorphosis](https://open.spotify.com/album/3vXgzqeNQPIT9RDgShcKun) | 4:35 |
-| 57 | [Summer Wine](https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Summer Wine](https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj) | 4:05 |
+| 56 | [Summer Wine](https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Summer Wine](https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj) | 4:05 |
+| 57 | [The Gates of Time](https://open.spotify.com/track/0s1mKQbBg91ig5E613Zhuz) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Metamorphosis](https://open.spotify.com/album/3vXgzqeNQPIT9RDgShcKun) | 4:35 |
 | 58 | [The Bell](https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71) | [Eye of Melian](https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G), [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [The Bell](https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu) | 4:31 |
 | 59 | [Seventh Rum of a Seventh Rum](https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Seventh Rum of a Seventh Rum](https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY) | 3:21 |
 | 60 | [Not All Those Who Wander Are Lost](https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH), [Melissa Bonny](https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb) | [Not All Those Who Wander Are Lost](https://open.spotify.com/album/2Hdnxdxtbgbajj18nZcp65) | 4:46 |
 | 61 | [We Are Legion](https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Are Legion](https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq) | 3:41 |
 | 62 | [My Shadow Self](https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE) | [Dark Princess](https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN) | [Phoenix](https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1) | 3:02 |
 | 63 | [Empire](https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Pop Metal](https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz) | 3:11 |
-| 64 | [Holy Flaming Hammer of Unholy Cosmic Frost](https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Keeper of the Celestial Flame of Abernethy](https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh) | 4:35 |
-| 65 | [Now Is the Time](https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Now Is the Time](https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV) | 6:18 |
-| 66 | [Experience](https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Experience](https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM) | 5:14 |
-| 67 | [The Hanging Tree](https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [The Hanging Tree](https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM) | 4:27 |
-| 68 | [Time Machine \(feat\. Kai Hansen & Piet Sielck\)](https://open.spotify.com/track/2XxNP9FEnrytdaIElFsWoY) | [Heavenly](https://open.spotify.com/artist/7j3etSXgd9ZLYIUW7KWnpd), [Kai Hansen](https://open.spotify.com/artist/1jpvVuIxURdWfijigYFTch), [Piet Sielck](https://open.spotify.com/artist/1JCBpIh7DHq66ljTJ9E2uu) | [Coming from the Sky](https://open.spotify.com/album/4h1Gmx1wfgbqHZBOjP8kQc) | 7:06 |
+| 64 | [Now Is the Time](https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Now Is the Time](https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV) | 6:18 |
+| 65 | [Experience](https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Experience](https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM) | 5:14 |
+| 66 | [Holy Flaming Hammer of Unholy Cosmic Frost](https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Keeper of the Celestial Flame of Abernethy](https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh) | 4:35 |
+| 67 | [Time Machine \(feat\. Kai Hansen & Piet Sielck\)](https://open.spotify.com/track/2XxNP9FEnrytdaIElFsWoY) | [Heavenly](https://open.spotify.com/artist/7j3etSXgd9ZLYIUW7KWnpd), [Kai Hansen](https://open.spotify.com/artist/1jpvVuIxURdWfijigYFTch), [Piet Sielck](https://open.spotify.com/artist/1JCBpIh7DHq66ljTJ9E2uu) | [Coming from the Sky](https://open.spotify.com/album/4h1Gmx1wfgbqHZBOjP8kQc) | 7:06 |
+| 68 | [The Hanging Tree](https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [The Hanging Tree](https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM) | 4:27 |
 | 69 | [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 |
 | 70 | [Altar of Power](https://open.spotify.com/track/0VwzxtkLcWVsFwdLSHfHfX) | [Veonity](https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH) | [Elements of Power](https://open.spotify.com/album/3KVsdtxgGQN5hKi0AWqU0A) | 4:21 |
 | 71 | [Warning Sign](https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ) | [Dark Sarah](https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk) | [Warning Sign](https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH) | 4:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [Breathing Divinity](https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8) | [Jani Liimatainen](https://open.spotify.com/artist/15o2IVJ6hHAxdBBvAjjtn9), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [My Father's Son](https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr) | 5:03 |
 | 80 | [Victorious Dinogods](https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Dinosaur Warfare Pt\. 2 – The Great Ninja War](https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr) | 4:46 |
 
-Snapshot ID: `MCw0ZDJkMDY3ZTlhNWU4ZTlmN2MzOWExN2NlZDFjODM3MDI2YjU0NTgz`
+Snapshot ID: `MCwzZDUxYTY0ZmQ4OTQ4YTYxNDQxYzlmZTcyZTRiMWE1MjI1M2U5Mzc3`

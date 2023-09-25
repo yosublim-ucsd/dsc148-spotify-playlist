@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 
 > 50 canciones que llenan tu rutina de pura energía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,490 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,558 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 28 | [Silencio](https://open.spotify.com/track/33UmrviWxUiiXGUotGuKi9) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n), [Tony Dark Eyes](https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP) | [Unite](https://open.spotify.com/album/0V1uXFisZk2rhJrkNPZVAD) | 3:40 |
 | 29 | [La Música](https://open.spotify.com/track/1HBy0FTxfdKiZ8yLEYPdIS) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [La Música](https://open.spotify.com/album/2WemEhIuMzJqw9oBzD8Nwc) | 3:30 |
 | 30 | [Pump up the Volume](https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Juarez](https://open.spotify.com/artist/0Infrp3tv1N9fmtOhctOfN) | [Pump up the Volume](https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8) | 3:28 |
-| 31 | [Push Me](https://open.spotify.com/track/2IDa4VHiakky6xNeSrkYE8) | [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen), [Vale](https://open.spotify.com/artist/3xO9hPdz5KQ7wOXxshldeL), [House Music Bro](https://open.spotify.com/artist/6CK6I6I7fKtcThateyQpVY) | [Push Me](https://open.spotify.com/album/5jamFfc9LWWvJCceNcZZgg) | 4:25 |
-| 32 | [Somebody Like You](https://open.spotify.com/track/5AObadnwUbTjOtpJf6X10i) | [Martin Trevy](https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte), [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Somebody Like You](https://open.spotify.com/album/30yJH2QfFDdEyEpGoHxujc) | 2:55 |
+| 31 | [Somebody Like You](https://open.spotify.com/track/5AObadnwUbTjOtpJf6X10i) | [Martin Trevy](https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte), [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Somebody Like You](https://open.spotify.com/album/30yJH2QfFDdEyEpGoHxujc) | 2:55 |
+| 32 | [Push Me](https://open.spotify.com/track/2IDa4VHiakky6xNeSrkYE8) | [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen), [Vale](https://open.spotify.com/artist/3xO9hPdz5KQ7wOXxshldeL), [House Music Bro](https://open.spotify.com/artist/6CK6I6I7fKtcThateyQpVY) | [Push Me](https://open.spotify.com/album/5jamFfc9LWWvJCceNcZZgg) | 4:25 |
 | 33 | [Turn On The Bass](https://open.spotify.com/track/0KJBsIuWeIwpcnfFKtsQVt) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Playlist](https://open.spotify.com/album/05t3S7RiXvwsuYK4jj8Pf1) | 3:40 |
 | 34 | [Let You Down](https://open.spotify.com/track/1niAie0JRjlHg1id7hFCfS) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [Let You Down](https://open.spotify.com/album/0SIxLZVzSBT22y2s8Iw4X6) | 3:25 |
 | 35 | [Feel This Way](https://open.spotify.com/track/4agUkSkSCmHLMmOfcAnZuN) | [Enkode](https://open.spotify.com/artist/5OsTZlODtkuY6VgcRSBBee) | [Feel This Way](https://open.spotify.com/album/43rxxp3huVJbLUMBhNM23y) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 49 | [Change](https://open.spotify.com/track/7uHh8SlhRmPwxmm2jwu4Ph) | [Lemarroy](https://open.spotify.com/artist/0MbIn3hLqEhgj784ocMT1W), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Change](https://open.spotify.com/album/4qEQg7gOeQlsp61IjSTQ69) | 2:56 |
 | 50 | [Vampiro \(Pyura Remix\)](https://open.spotify.com/track/4XGyifnRty1FI3qQe8bhet) | [Lucas & The Woods](https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA), [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Vampiro \(Pyura Remix\)](https://open.spotify.com/album/2IcmfBYtzX45pZmlo8yV0q) | 3:40 |
 
-Snapshot ID: `MCxlYjY1ZDM0MzYwOTE5NjQ3N2FjNGIwOTdiZTJmNzYzODAzMjdjNWRm`
+Snapshot ID: `MCxhOGFkNTJlNGFkZWFhYTlmNjRmMjFjZTI4MzhkN2Q2MzQ1YTFmY2Jj`

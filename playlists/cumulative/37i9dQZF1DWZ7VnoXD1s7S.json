@@ -110,10 +110,28 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 301673,
       "name": "Agony - Instrumental",
       "url": "https://open.spotify.com/track/6HPmLVvM08mqGfYuUyjcOF"
+    },
+    {
+      "album": {
+        "name": "Agony (Remix)",
+        "url": "https://open.spotify.com/album/5Xj154q0kijKbdlMVAwalw"
+      },
+      "artists": [
+        {
+          "name": "NVBR",
+          "url": "https://open.spotify.com/artist/51U1llIay9sKYGWqp76q5U"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301714,
+      "name": "Agony - Remix",
+      "url": "https://open.spotify.com/track/0YsQ6dgNby7nascEb12v6G"
     },
     {
       "album": {

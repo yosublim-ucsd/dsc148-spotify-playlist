@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Lil Tecca, Doja Cat, Moneybagg Yo and Lola Brooke!
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,319 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,415 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 21 | [Kat Food](https://open.spotify.com/track/5v4343YrDV4xDT5ecBttkg) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Kat Food](https://open.spotify.com/album/5xmZD2L9WdoUNMPLP4gKj1) | 4:46 |
 | 22 | [Seventeen](https://open.spotify.com/track/5hzrmJKIS2CHmvlUWkdlYy) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Seventeen](https://open.spotify.com/album/5arhOeNsH3P6LCD69z2rAo) | 3:25 |
 | 23 | [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/album/5VUeDa4FENhqT8o2fuFdjK) | 2:37 |
-| 24 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 |
+| 24 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 |
 | 25 | [Too Fast \(Pull Over\) \(with Anderson .Paak & Latto\)](https://open.spotify.com/track/6vz3Fyhj6smbuYuaIZHksu) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Too Fast \(Pull Over\) \(with Anderson .Paak & Latto\)](https://open.spotify.com/album/1KNyxPSXQoZJ2KMQySCUUo) | 3:46 |
 | 26 | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj) | 3:37 |
 | 27 | [Half Doin Dope \(with BabyTron feat\. Lil Yachty\)](https://open.spotify.com/track/1J0O3RqCeoMcXbayQZDZXL) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [BlakkBoyz present Half Doin Dope/Van Gogh](https://open.spotify.com/album/19BajLbOujVKO4BPCTIzoc) | 3:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 74 | [June 22nd](https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [June 22nd](https://open.spotify.com/album/3T94lLozmbIFa4BiHNtkjC) | 3:10 |
 | 75 | [West Coast Weekend](https://open.spotify.com/track/3qnznOzVFYuDWjidDAxEV4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [West Coast Weekend](https://open.spotify.com/album/0JGkeI57qkg0jZbqPzzc25) | 3:19 |
 
-Snapshot ID: `MCw0Mzc3ZGYxZjIxNDM2Mjg0YzFmZTkzMDEzODUyODMwM2Q2M2E0NWMw`
+Snapshot ID: `MCxkZDgxM2I2YWFmZjFhM2U5NzczNzI0MDM3ZjNjNjZhNTJlYzQ2ODJk`

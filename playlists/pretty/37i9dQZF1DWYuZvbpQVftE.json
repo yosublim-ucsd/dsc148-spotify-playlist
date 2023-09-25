@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 19568,
+  "num_followers": 19603,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzZiZDk5ZWFhMmY2NzA3NTVjODE3NTlhMGEyY2Y4NWE0YzVmMWEx",
+  "snapshot_id": "MCw3MDEwYzAxNzM4YTViMDM4Nzc0OTc3NjY5ZjhmMzZkMDljZjc1NmU1",
   "tracks": [
     {
       "added_at": "2023-08-31 12:17:23",
@@ -223,6 +223,26 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
+        "name": "Stan Getz With Cal Tjader",
+        "url": "https://open.spotify.com/album/2JoYII1dEoiwkRSNexKo3J"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        },
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 236960,
+      "name": "I've Grown Accustomed To Her Face",
+      "url": "https://open.spotify.com/track/2p14371u2TyoND8KyyyN0T"
+    },
+    {
+      "added_at": "2023-08-31 12:17:23",
+      "album": {
         "name": "My Fair Lady",
         "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
       },
@@ -235,22 +255,6 @@
       "duration_ms": 362040,
       "name": "With A Little Bit Of Luck - Instrumental",
       "url": "https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo"
-    },
-    {
-      "added_at": "2023-08-31 12:17:23",
-      "album": {
-        "name": "Chet is Back",
-        "url": "https://open.spotify.com/album/7BsY0CO8mqyXnLf4KiB5AM"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 235133,
-      "name": "Chetty's Lullaby",
-      "url": "https://open.spotify.com/track/3CfVHLrRxTLDqGZA25w5Eh"
     },
     {
       "added_at": "2023-08-31 12:17:23",
@@ -271,22 +275,18 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
-        "name": "Stan Getz With Cal Tjader",
-        "url": "https://open.spotify.com/album/2JoYII1dEoiwkRSNexKo3J"
+        "name": "Chet is Back",
+        "url": "https://open.spotify.com/album/7BsY0CO8mqyXnLf4KiB5AM"
       },
       "artists": [
         {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        },
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 236960,
-      "name": "I've Grown Accustomed To Her Face",
-      "url": "https://open.spotify.com/track/2p14371u2TyoND8KyyyN0T"
+      "duration_ms": 235133,
+      "name": "Chetty's Lullaby",
+      "url": "https://open.spotify.com/track/3CfVHLrRxTLDqGZA25w5Eh"
     },
     {
       "added_at": "2023-08-31 12:17:23",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
-        "name": "My Fair Lady",
-        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
-      },
-      "artists": [
-        {
-          "name": "Shelly Manne And His Friends",
-          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
-        }
-      ],
-      "duration_ms": 338773,
-      "name": "On The Street Where You Live - Instrumental",
-      "url": "https://open.spotify.com/track/5kvgi3kVbX8AQ8kjpgEyuv"
-    },
-    {
-      "added_at": "2023-08-31 12:17:23",
-      "album": {
         "name": "The Steamer (Expanded Edition)",
         "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
       },
@@ -403,6 +387,26 @@
       "duration_ms": 426533,
       "name": "Grooveyard",
       "url": "https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG"
+    },
+    {
+      "added_at": "2023-08-31 12:17:23",
+      "album": {
+        "name": "Presenting Bud Shank",
+        "url": "https://open.spotify.com/album/1bEeCmIuAjwiC3ZOUBSvNP"
+      },
+      "artists": [
+        {
+          "name": "Bud Shank",
+          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
+        },
+        {
+          "name": "Bill Perkins",
+          "url": "https://open.spotify.com/artist/3hszaXRiD1mC582INBUhOL"
+        }
+      ],
+      "duration_ms": 200253,
+      "name": "A Sinner Kissed an Angel",
+      "url": "https://open.spotify.com/track/4Ns7MifKhkJwdDa0eNPZIu"
     },
     {
       "added_at": "2023-08-31 12:17:23",
@@ -439,22 +443,18 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
-        "name": "Presenting Bud Shank",
-        "url": "https://open.spotify.com/album/1bEeCmIuAjwiC3ZOUBSvNP"
+        "name": "My Fair Lady",
+        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
       },
       "artists": [
         {
-          "name": "Bud Shank",
-          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
-        },
-        {
-          "name": "Bill Perkins",
-          "url": "https://open.spotify.com/artist/3hszaXRiD1mC582INBUhOL"
+          "name": "Shelly Manne And His Friends",
+          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
         }
       ],
-      "duration_ms": 200253,
-      "name": "A Sinner Kissed an Angel",
-      "url": "https://open.spotify.com/track/4Ns7MifKhkJwdDa0eNPZIu"
+      "duration_ms": 338773,
+      "name": "On The Street Where You Live - Instrumental",
+      "url": "https://open.spotify.com/track/5kvgi3kVbX8AQ8kjpgEyuv"
     },
     {
       "added_at": "2023-08-31 12:17:23",
@@ -475,22 +475,18 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
-        "name": "Jimmy Raney Featuring Bob Brookmeyer",
-        "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
+        "name": "Bob Brookmeyer & Friends",
+        "url": "https://open.spotify.com/album/12JCMQ79q662srkjDGoe02"
       },
       "artists": [
-        {
-          "name": "Jimmy Raney",
-          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
-        },
         {
           "name": "Bob Brookmeyer",
           "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
         }
       ],
-      "duration_ms": 246466,
-      "name": "Isn't It Romantic",
-      "url": "https://open.spotify.com/track/7gQmV1v83oPr2BwBaw89Qr"
+      "duration_ms": 244466,
+      "name": "Sometime Ago",
+      "url": "https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV"
     },
     {
       "added_at": "2023-08-31 12:17:23",
@@ -515,22 +511,6 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
-        "name": "Bob Brookmeyer & Friends",
-        "url": "https://open.spotify.com/album/12JCMQ79q662srkjDGoe02"
-      },
-      "artists": [
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        }
-      ],
-      "duration_ms": 244466,
-      "name": "Sometime Ago",
-      "url": "https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV"
-    },
-    {
-      "added_at": "2023-08-31 12:17:23",
-      "album": {
         "name": "Afro-Cuban Influence",
         "url": "https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 257440,
       "name": "Moon Over Cuba",
       "url": "https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO"
+    },
+    {
+      "added_at": "2023-08-31 12:17:23",
+      "album": {
+        "name": "Jimmy Raney Featuring Bob Brookmeyer",
+        "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Raney",
+          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "Isn't It Romantic",
+      "url": "https://open.spotify.com/track/7gQmV1v83oPr2BwBaw89Qr"
     },
     {
       "added_at": "2023-08-31 12:17:23",

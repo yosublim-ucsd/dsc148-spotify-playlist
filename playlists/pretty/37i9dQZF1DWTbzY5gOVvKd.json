@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1200430,
+  "num_followers": 1200648,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2FlMzk2MzU4NWNkOTdiYjRhYzk0ODMxNDNmZjk0MzE1YTU3MzFk",
+  "snapshot_id": "MCxlMjc3NTQwZGQxNTIzMTZiYTRhYTA3NGQ0OGIyYTNiNmZlYzlkMDgx",
   "tracks": [
     {
       "added_at": "2023-09-21 09:34:19",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-09-21 09:34:19",
       "album": {
-        "name": "Grand Songs",
-        "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Dream a Little Dream of Me",
-      "url": "https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF"
-    },
-    {
-      "added_at": "2023-09-21 09:34:19",
-      "album": {
         "name": "To Love Again",
         "url": "https://open.spotify.com/album/7DwZcZjbCbluvYCOrIIKi6"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 240120,
       "name": "Are You Lonesome Tonight? (feat. Paul Buchanan)",
       "url": "https://open.spotify.com/track/7FWEDbQYuQtR1DhATgXxRg"
+    },
+    {
+      "added_at": "2023-09-21 09:34:19",
+      "album": {
+        "name": "Grand Songs",
+        "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Dream a Little Dream of Me",
+      "url": "https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF"
     },
     {
       "added_at": "2023-09-21 09:34:19",
@@ -643,6 +643,22 @@
       "duration_ms": 280706,
       "name": "My One and Only Love",
       "url": "https://open.spotify.com/track/6d3m5JM3OgVPI7GD7T5MYR"
+    },
+    {
+      "added_at": "2023-09-21 09:34:19",
+      "album": {
+        "name": "A Song For You",
+        "url": "https://open.spotify.com/album/2NIzfZC51PFLLiqu9irt51"
+      },
+      "artists": [
+        {
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Sunday Kind of Love",
+      "url": "https://open.spotify.com/track/6XmN8QIxuZt8ljcnaPmhOM"
     },
     {
       "added_at": "2023-09-21 09:34:19",
@@ -687,22 +703,6 @@
       "duration_ms": 128520,
       "name": "L-O-V-E",
       "url": "https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV"
-    },
-    {
-      "added_at": "2023-09-21 09:34:19",
-      "album": {
-        "name": "A Song For You",
-        "url": "https://open.spotify.com/album/2NIzfZC51PFLLiqu9irt51"
-      },
-      "artists": [
-        {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Sunday Kind of Love",
-      "url": "https://open.spotify.com/track/6XmN8QIxuZt8ljcnaPmhOM"
     },
     {
       "added_at": "2023-09-21 09:34:19",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-09-21 09:34:19",
       "album": {
-        "name": "Every Star Above",
-        "url": "https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t"
-      },
-      "artists": [
-        {
-          "name": "Mandy Barnett",
-          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
-        }
-      ],
-      "duration_ms": 173360,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/3wKXSiJ2OqbqPUXpppnjWh"
-    },
-    {
-      "added_at": "2023-09-21 09:34:19",
-      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 367453,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC"
+    },
+    {
+      "added_at": "2023-09-21 09:34:19",
+      "album": {
+        "name": "Every Star Above",
+        "url": "https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t"
+      },
+      "artists": [
+        {
+          "name": "Mandy Barnett",
+          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
+        }
+      ],
+      "duration_ms": 173360,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/3wKXSiJ2OqbqPUXpppnjWh"
     },
     {
       "added_at": "2023-09-21 09:34:19",
@@ -1019,38 +1019,6 @@
     {
       "added_at": "2023-09-21 09:34:19",
       "album": {
-        "name": "Dear Blossom,",
-        "url": "https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c"
-      },
-      "artists": [
-        {
-          "name": "Nicki Parrott",
-          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "I Walk A Little Faster",
-      "url": "https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC"
-    },
-    {
-      "added_at": "2023-09-21 09:34:19",
-      "album": {
-        "name": "Me and My Radio",
-        "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
-      },
-      "artists": [
-        {
-          "name": "Anthony Strong",
-          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
-        }
-      ],
-      "duration_ms": 318980,
-      "name": "I Can't Give You Anything",
-      "url": "https://open.spotify.com/track/3lxhuJetgOct3FN47LvZmO"
-    },
-    {
-      "added_at": "2023-09-21 09:34:19",
-      "album": {
         "name": "Date With A Dream",
         "url": "https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO"
       },
@@ -1067,6 +1035,22 @@
     {
       "added_at": "2023-09-21 09:34:19",
       "album": {
+        "name": "Dear Blossom,",
+        "url": "https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c"
+      },
+      "artists": [
+        {
+          "name": "Nicki Parrott",
+          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "I Walk A Little Faster",
+      "url": "https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC"
+    },
+    {
+      "added_at": "2023-09-21 09:34:19",
+      "album": {
         "name": "On Holiday",
         "url": "https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 285866,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W"
+    },
+    {
+      "added_at": "2023-09-21 09:34:19",
+      "album": {
+        "name": "Me and My Radio",
+        "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
+      },
+      "artists": [
+        {
+          "name": "Anthony Strong",
+          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
+        }
+      ],
+      "duration_ms": 318980,
+      "name": "I Can't Give You Anything",
+      "url": "https://open.spotify.com/track/3lxhuJetgOct3FN47LvZmO"
     },
     {
       "added_at": "2023-09-21 09:34:19",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-09-21 09:34:19",
       "album": {
+        "name": "First Conversation",
+        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
+      },
+      "artists": [
+        {
+          "name": "C\u00e6cilie Norby",
+          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+        }
+      ],
+      "duration_ms": 271773,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
+    },
+    {
+      "added_at": "2023-09-21 09:34:19",
+      "album": {
         "name": "All the Way (feat. Jordan Officer)",
         "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 172186,
       "name": "It's Always You",
       "url": "https://open.spotify.com/track/0rWS1OheLM9jpGznNwyrEj"
-    },
-    {
-      "added_at": "2023-09-21 09:34:19",
-      "album": {
-        "name": "First Conversation",
-        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
-      },
-      "artists": [
-        {
-          "name": "C\u00e6cilie Norby",
-          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
-        }
-      ],
-      "duration_ms": 271773,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
     },
     {
       "added_at": "2023-09-21 09:34:19",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-09-21 09:34:19",
       "album": {
-        "name": "Every Star Above",
-        "url": "https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t"
-      },
-      "artists": [
-        {
-          "name": "Mandy Barnett",
-          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "But Beautiful",
-      "url": "https://open.spotify.com/track/7mOnmZ2OWGfNMXEBIf3aUS"
-    },
-    {
-      "added_at": "2023-09-21 09:34:19",
-      "album": {
         "name": "Love Letters",
         "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 327000,
       "name": "There Is No Greater Love",
       "url": "https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j"
+    },
+    {
+      "added_at": "2023-09-21 09:34:19",
+      "album": {
+        "name": "Every Star Above",
+        "url": "https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t"
+      },
+      "artists": [
+        {
+          "name": "Mandy Barnett",
+          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "But Beautiful",
+      "url": "https://open.spotify.com/track/7mOnmZ2OWGfNMXEBIf3aUS"
     },
     {
       "added_at": "2023-09-21 09:34:19",

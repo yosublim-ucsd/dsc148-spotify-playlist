@@ -1312,7 +1312,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 170755,
       "name": "cumbia aesthetic",
       "url": "https://open.spotify.com/track/6iitVWohxBtt0HFopnMIkD"
@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 183685,
       "name": "Encerrada",
       "url": "https://open.spotify.com/track/0iJU9tl5QNx0x9Tkg2Z7zt"
@@ -2222,6 +2222,28 @@
     {
       "album": {
         "name": "6",
+        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219600,
+      "name": "Hipn\u00f3tico",
+      "url": "https://open.spotify.com/track/4jo8s0TQGVHnmZ2gjErAQ2"
+    },
+    {
+      "album": {
+        "name": "6",
         "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
       },
       "artists": [
@@ -2240,6 +2262,28 @@
       "duration_ms": 219600,
       "name": "Hipn\u00f3tico",
       "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n trae las cornetas?",
+        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191825,
+      "name": "Hora Loca",
+      "url": "https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry"
     },
     {
       "album": {
@@ -4982,7 +5026,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 228194,
       "name": "Sentir",
       "url": "https://open.spotify.com/track/52LzaPKWxeHxGTJq0GkEqx"

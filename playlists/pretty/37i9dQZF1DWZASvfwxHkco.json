@@ -1,12 +1,12 @@
 {
   "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ea\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: Martin Garrix ",
-  "num_followers": 68571,
+  "num_followers": 68586,
   "original_name": "mint Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTEzMGIzOTk1M2JiMTM4ODg4ZGRjOTk0ODI2ZDAxNGRkOTUwNDBj",
+  "snapshot_id": "MCw4NWQxZjdjYzcxOGQyMTUzYWY5OGRjZWExNDk5YjQyN2FiMjdmY2Qw",
   "tracks": [
     {
       "added_at": "2023-09-21 15:00:00",
@@ -1403,8 +1403,8 @@
     {
       "added_at": "2023-09-21 15:00:00",
       "album": {
-        "name": "Lionheart (Fearless)",
-        "url": "https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT"
+        "name": "Drinkin'",
+        "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
       },
       "artists": [
         {
@@ -1412,13 +1412,17 @@
           "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 186689,
-      "name": "Lionheart (Fearless)",
-      "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
+      "duration_ms": 149545,
+      "name": "Drinkin'",
+      "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
     },
     {
       "added_at": "2023-09-21 15:00:00",
@@ -1511,6 +1515,26 @@
     {
       "added_at": "2023-09-21 15:00:00",
       "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "duration_ms": 174020,
+      "name": "Candle Flame",
+      "url": "https://open.spotify.com/track/1Ad2HcIX9zBqoWRvxtpYGf"
+    },
+    {
+      "added_at": "2023-09-21 15:00:00",
+      "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5"
       },
@@ -1527,26 +1551,6 @@
       "duration_ms": 147973,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH"
-    },
-    {
-      "added_at": "2023-09-21 15:00:00",
-      "album": {
-        "name": "Point Me 2 (with Cardi B)",
-        "url": "https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l"
-      },
-      "artists": [
-        {
-          "name": "FendiDa Rappa",
-          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 225492,
-      "name": "Point Me 2 (with Cardi B)",
-      "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
     },
     {
       "added_at": "2023-09-21 15:00:00",
@@ -1575,28 +1579,28 @@
     {
       "added_at": "2023-09-21 15:00:00",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+        "name": "Point Me 2 (with Cardi B)",
+        "url": "https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
         },
         {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 174020,
-      "name": "Candle Flame",
-      "url": "https://open.spotify.com/track/1Ad2HcIX9zBqoWRvxtpYGf"
+      "duration_ms": 225492,
+      "name": "Point Me 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
     },
     {
       "added_at": "2023-09-21 15:00:00",
       "album": {
-        "name": "Drinkin'",
-        "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
+        "name": "Lionheart (Fearless)",
+        "url": "https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT"
       },
       "artists": [
         {
@@ -1604,17 +1608,13 @@
           "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 149545,
-      "name": "Drinkin'",
-      "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
+      "duration_ms": 186689,
+      "name": "Lionheart (Fearless)",
+      "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
     },
     {
       "added_at": "2023-09-21 15:00:00",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2023-09-21 15:00:00",
       "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
+    },
+    {
+      "added_at": "2023-09-21 15:00:00",
+      "album": {
         "name": "My Bad",
         "url": "https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b"
       },
@@ -1695,30 +1715,6 @@
       "duration_ms": 147180,
       "name": "My Bad",
       "url": "https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs"
-    },
-    {
-      "added_at": "2023-09-21 15:00:00",
-      "album": {
-        "name": "Seven (feat. Latto) (Alesso Remix)",
-        "url": "https://open.spotify.com/album/3nDzRDgvd0SxAxRHEefwDb"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 162480,
-      "name": "Seven (feat. Latto) (Alesso Remix)",
-      "url": "https://open.spotify.com/track/748MqeDRJ401KBqwCn5zHB"
     }
   ],
   "unique_name": "mint Japan",

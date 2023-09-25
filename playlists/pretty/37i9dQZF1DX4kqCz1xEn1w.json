@@ -1,12 +1,12 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 74232,
+  "num_followers": 74227,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTBlOWUxY2Y0NjE5NzlhZGNkODI4NmY5NDUyYWJkZmEzYWQ1YzJl",
+  "snapshot_id": "MCxlZTEzNzBjOGI3ZDg2Mjc3OWQ5MzgyMjdkNWY2MjdiNmM2NjNiYjky",
   "tracks": [
     {
       "added_at": "2023-04-09 08:58:44",
@@ -63,6 +63,22 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
+        "name": "10,000 Reasons (Live)",
+        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 342493,
+      "name": "10,000 Reasons (Bless The Lord) - Live",
+      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
         "name": "What A Beautiful Name",
         "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 238200,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
-        "name": "10,000 Reasons (Live)",
-        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 342493,
-      "name": "10,000 Reasons (Bless The Lord) - Live",
-      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -803,8 +803,8 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "Better Word",
-        "url": "https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67"
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/1axaX2Egn3WjsIrtjsxvrb"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
         }
       ],
-      "duration_ms": 202624,
-      "name": "Better Word - Single Version",
-      "url": "https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV"
+      "duration_ms": 271533,
+      "name": "Lion and the Lamb - Studio",
+      "url": "https://open.spotify.com/track/1uneiO81sTTdPvsjr54yPK"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -955,8 +955,8 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/1axaX2Egn3WjsIrtjsxvrb"
+        "name": "Better Word",
+        "url": "https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67"
       },
       "artists": [
         {
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
         }
       ],
-      "duration_ms": 271533,
-      "name": "Lion and the Lamb - Studio",
-      "url": "https://open.spotify.com/track/1uneiO81sTTdPvsjr54yPK"
+      "duration_ms": 202624,
+      "name": "Better Word - Single Version",
+      "url": "https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV"
     },
     {
       "added_at": "2023-04-09 08:58:44",

@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Tyler Joe Miller",
-  "num_followers": 451401,
+  "num_followers": 451466,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjgzZjg5MjM2ZjU5YjdmNzA2ODZmZWQzZjMzNzFiMGIwMDhiMTY1",
+  "snapshot_id": "MCwyNTMwOTVjZDMxYWYyZTE2Mjc4YmI1MWNjNWQxZmIyYjdhMjZjNTlk",
   "tracks": [
     {
       "added_at": "2023-09-22 04:01:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Looking for You + All Dogs Go to Heaven",
-        "url": "https://open.spotify.com/album/1Z9asNGoCrbamQYIoR9Q6j"
-      },
-      "artists": [
-        {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
-        }
-      ],
-      "duration_ms": 179973,
-      "name": "Looking for You",
-      "url": "https://open.spotify.com/track/67IfTiMwPNN0wQE7Scfzu9"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "MACON",
         "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 212030,
       "name": "If I Didn't Love You",
       "url": "https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Looking for You + All Dogs Go to Heaven",
+        "url": "https://open.spotify.com/album/1Z9asNGoCrbamQYIoR9Q6j"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "duration_ms": 179973,
+      "name": "Looking for You",
+      "url": "https://open.spotify.com/track/67IfTiMwPNN0wQE7Scfzu9"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Take Me Out",
-        "url": "https://open.spotify.com/album/6sJh3uH5blwXur99LVe2pQ"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 243453,
-      "name": "Take Me Out",
-      "url": "https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "Summer Don't Go",
         "url": "https://open.spotify.com/album/3GK5RCU4e54nVBhEruifRK"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 168524,
       "name": "Summer Don't Go",
       "url": "https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Take Me Out",
+        "url": "https://open.spotify.com/album/6sJh3uH5blwXur99LVe2pQ"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 243453,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Second Guessing",
-        "url": "https://open.spotify.com/album/3dUeViIWtPKrhBzcSzuXAD"
+        "name": "Girl to Girl",
+        "url": "https://open.spotify.com/album/1GcSAAAr9e2zcZKucagy5A"
       },
       "artists": [
         {
-          "name": "Griffen Palmer",
-          "url": "https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ"
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
         }
       ],
-      "duration_ms": 189782,
-      "name": "Second Guessing",
-      "url": "https://open.spotify.com/track/0rrF82CbDxrY8y5nDVM7um"
+      "duration_ms": 182666,
+      "name": "Back Then, Right Now",
+      "url": "https://open.spotify.com/track/3wAKfgic0OANcWf2QBxT8t"
     }
   ],
   "unique_name": "Country Favourites",

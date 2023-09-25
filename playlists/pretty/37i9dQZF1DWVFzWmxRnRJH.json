@@ -1,12 +1,12 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 231132,
+  "num_followers": 231267,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2FkMzIzZjMwYjYzNzQ3MGM5ZDkxMmY2YThkMWY0Y2U4ZGZmZThi",
+  "snapshot_id": "MCwxNWNmZDg3NDdhY2YzZGMwNWFlOGU3MmEyZDc2ODE4ZjA3MGJlMTQ3",
   "tracks": [
     {
       "added_at": "2021-09-23 20:29:34",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "I'm Countryfied",
-        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
-      },
-      "artists": [
-        {
-          "name": "Mel McDaniel",
-          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "Louisiana Saturday Night",
-      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Haywire",
         "url": "https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 192800,
       "name": "Why Don't We Just Dance",
       "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "I'm Countryfied",
+        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
+      },
+      "artists": [
+        {
+          "name": "Mel McDaniel",
+          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
+        }
+      ],
+      "duration_ms": 144186,
+      "name": "Louisiana Saturday Night",
+      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Everything I Love",
-        "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 158626,
-      "name": "Little Bitty",
-      "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Diamond Rio",
         "url": "https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 198333,
       "name": "Meet In the Middle",
       "url": "https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Everything I Love",
+        "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 158626,
+      "name": "Little Bitty",
+      "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "Tim McGraw",
-      "url": "https://open.spotify.com/track/0Om9WAB5RS09L80DyOfTNa"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Old 8 x 10",
         "url": "https://open.spotify.com/album/7vc42OZvG6c1vTz7GOmzTh"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 219080,
       "name": "Deeper Than the Holler",
       "url": "https://open.spotify.com/track/3xx0jE52PbtvwXgNaBUdch"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "Tim McGraw",
+      "url": "https://open.spotify.com/track/0Om9WAB5RS09L80DyOfTNa"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
-      },
-      "artists": [
-        {
-          "name": "John Michael Montgomery",
-          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "Life's a Dance",
-      "url": "https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "American Man: Greatest Hits Vol. II",
         "url": "https://open.spotify.com/album/3Ayxk9tKhpAE9gffRUWfDi"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 224960,
       "name": "You're Gonna Miss This",
       "url": "https://open.spotify.com/track/7Efs0OIW6zgQyH7ehKZYpN"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
+      },
+      "artists": [
+        {
+          "name": "John Michael Montgomery",
+          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "Life's a Dance",
+      "url": "https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
+        "name": "The Way That I Am",
+        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
         "name": "Mud On The Tires",
         "url": "https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS"
       },
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "The Way That I Am",
-        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
-      },
-      "artists": [
-        {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "Independence Day",
-      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Expressions",
         "url": "https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Little Bit Of Life",
-        "url": "https://open.spotify.com/album/1xG8gT4MixyJTNlvvXbU4F"
-      },
-      "artists": [
-        {
-          "name": "Craig Morgan",
-          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
-        }
-      ],
-      "duration_ms": 228653,
-      "name": "International Harvester",
-      "url": "https://open.spotify.com/track/0Ta3jOf8m9yCSWMVwd8Qlf"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Livin' It Up",
         "url": "https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 187000,
       "name": "Love Without End, Amen",
       "url": "https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Little Bit Of Life",
+        "url": "https://open.spotify.com/album/1xG8gT4MixyJTNlvvXbU4F"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        }
+      ],
+      "duration_ms": 228653,
+      "name": "International Harvester",
+      "url": "https://open.spotify.com/track/0Ta3jOf8m9yCSWMVwd8Qlf"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Judge Jerrod & The Hung Jury",
-        "url": "https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9"
-      },
-      "artists": [
-        {
-          "name": "Jerrod Niemann",
-          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Lover, Lover",
-      "url": "https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Third Rock From The Sun",
         "url": "https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 216200,
       "name": "Pickup Man",
       "url": "https://open.spotify.com/track/60w5eL1G4Or7LlTSrR5r8a"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Judge Jerrod & The Hung Jury",
+        "url": "https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9"
+      },
+      "artists": [
+        {
+          "name": "Jerrod Niemann",
+          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Lover, Lover",
+      "url": "https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Everywhere We Go",
-        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 188200,
-      "name": "How Forever Feels",
-      "url": "https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Tanya Tucker / Super Hits",
         "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 175200,
       "name": "Delta Dawn",
       "url": "https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Everywhere We Go",
+        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "How Forever Feels",
+      "url": "https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Let's Be Us Again",
-        "url": "https://open.spotify.com/album/3ZWRZwJXoyajqbbNGmzEpY"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 208693,
-      "name": "Mr. Mom",
-      "url": "https://open.spotify.com/track/0jSIovJtKxEXH6vI4oRx7I"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "C.W. McCall's Greatest Hits",
         "url": "https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 230600,
       "name": "Convoy",
       "url": "https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Let's Be Us Again",
+        "url": "https://open.spotify.com/album/3ZWRZwJXoyajqbbNGmzEpY"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 208693,
+      "name": "Mr. Mom",
+      "url": "https://open.spotify.com/track/0jSIovJtKxEXH6vI4oRx7I"
     }
   ],
   "unique_name": "Raised on Country",

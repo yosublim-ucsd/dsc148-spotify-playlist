@@ -4,7 +4,7 @@
 
 > Fun tracks for your Halloween festivities!
 
-140 songs - 8 hr 34 min
+141 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,12 +105,13 @@
 | [Skeleton Sam](https://open.spotify.com/track/2tscKg9DAFFhOhp8X3Ssf8) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [Hocus Pocus 2 \(Original Soundtrack\)](https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED) | 2:54 | 2022-10-12 |  |
 | [Smooth Criminal \(Radio Edit\)](https://open.spotify.com/track/2JW2OzKxxaN27jMX7eBC39) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [King Of Pop](https://open.spotify.com/album/1dGHYYHsN1QsCCNa6G5jRj) | 4:17 | 2021-10-27 | 2022-07-29 |
 | [Smooth Criminal \- 2012 Remaster](https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:17 | 2021-10-27 |  |
-| [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/2PmXD1CyQHqxhbi79osKTn) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [ドライブが楽しくなる洋楽ヒッツ！80年代 HITS](https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD) | 3:56 | 2023-01-27 |  |
+| [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/2PmXD1CyQHqxhbi79osKTn) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [ドライブが楽しくなる洋楽ヒッツ！80年代 HITS](https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD) | 3:56 | 2023-01-27 | 2023-09-25 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/30W04PUt6gHISFbrtFYkp0) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Happy Haunted Halloween Tunes](https://open.spotify.com/album/0Imh8AJGlHc3S0hHy8fImK) | 3:56 | 2022-10-12 | 2022-10-17 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/4P0UmzUN00aoPLrgnqfZUX) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Kids Songs: Halloween Party!](https://open.spotify.com/album/3ieg9cbiq6SacHVpPFQo14) | 3:56 | 2022-10-24 | 2022-11-07 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6tUEdj7qGKPN3rV6GpBwuc) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Halloween for Kids](https://open.spotify.com/album/7oYdF4y0Djq4nQpyHlcfYq) | 3:56 | 2022-10-24 | 2022-11-13 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6A4Jc8npNo79BOgsrPptLA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Scream](https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk) | 3:57 | 2021-10-27 | 2022-07-29 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv) | [Rockwell](https://open.spotify.com/artist/18SBju6wBZGpevPcsWMAM3) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 3:58 | 2021-10-27 | 2023-06-30 |
+| [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Somebody’s Watching Me \(Sped Up\)](https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT) | 3:58 | 2023-01-27 |  |
 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 | 2022-09-23 | 2022-10-24 |
 | [Spooky, Scary Skeletons \- Undead Tombstone Remix](https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music \(Deluxe Edition\)](https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4) | 2:05 | 2021-10-27 |  |
 | [Starboy](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:50 | 2021-10-27 | 2022-10-24 |

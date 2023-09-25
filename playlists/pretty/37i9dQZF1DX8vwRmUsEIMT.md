@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Bakar
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,010 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,005 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Dying Star \(feat\. Ethel Cain\)](https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 4:15 |
 | 80 | [Sliding](https://open.spotify.com/track/5iAp1pQB3dqB3rWfs38Yb6) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [Charlie Choppa](https://open.spotify.com/artist/4aTBKDsrXC1os9HzfPuDTR) | [Sliding](https://open.spotify.com/album/5WvQFSYrjHNsZ85XP22GtT) | 4:17 |
 
-Snapshot ID: `MCw3YzRjY2U3YjVhODVmZGFjOGExZGExYjZkM2VmOWQ5YjY4MGRiOTI0`
+Snapshot ID: `MCwxZWIwODA4NmM2MjE2NDgwYmJkMzY0ZmEzZjY0OGFiMjM5MTUzNWVk`

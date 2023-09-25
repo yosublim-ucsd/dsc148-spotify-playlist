@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG?si=Izso5YApS1qcjiLgMp9M6Q"> Lady Donli </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,392 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,420 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 47 | [PAPILO \(Smadumodu\)](https://open.spotify.com/track/2KVr1xCwXXLP5xdXSr0U54) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [PAPILO / ABENA](https://open.spotify.com/album/3XyMQj0gznOyea4pCdlRup) | 2:12 |
 | 48 | [Monica](https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ) | [TMXO](https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP) | [Monica](https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo) | 2:08 |
 | 49 | [I'm Good](https://open.spotify.com/track/6LVQaE9vOEGxFKQ3tTWU0B) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [I'm Good](https://open.spotify.com/album/5yt8yhFIRTXMtBnnqcD3Ul) | 2:35 |
-| 50 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 |
+| 50 | [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 |
 | 51 | [Need You](https://open.spotify.com/track/1LuBz3QaRPSXBdIwtcjdqY) | [Dusten Truce fka D\-Truce](https://open.spotify.com/artist/4RVAC7ldsfgOf2lybypHdv), [Emmeno](https://open.spotify.com/artist/1O3XebVqhYtCfgRFJV8jxF), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y) | [Smoke Break Vol.2](https://open.spotify.com/album/3hcpu050xbDERmszMMfmF6) | 3:27 |
 | 52 | [Operation](https://open.spotify.com/track/3OQdtUt44IXKDeU1NDUy6e) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [WINNY](https://open.spotify.com/album/4MeI2R28SeauCi3fhQmcG5) | 3:17 |
 | 53 | [Seek & Find \(feat\. Azanti\)](https://open.spotify.com/track/77jghFtCt5TBqaK7gutlrf) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Seek & Find \(feat\. Azanti\)](https://open.spotify.com/album/6ZIig4udjxAl6Zs27aHtpg) | 3:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 74 | [AMINA](https://open.spotify.com/track/71nnieDlMZ21AhPQ8ySK5x) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [AMINA](https://open.spotify.com/album/3Yj8pwMeifcSfO9ezAh4i5) | 2:52 |
 | 75 | [showmetheway !!](https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [showmetheway !!](https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G) | 2:20 |
 
-Snapshot ID: `MCwzNmY4OWJhM2NhZjcxMmUzODk0N2JhZDVjOGMzNjU3MTczNWE4NTUz`
+Snapshot ID: `MCwzODJkOTI4OGRkZTFmYWNkNzRkYTBhMTJhY2I5NDkzNTgwZWVhYTQy`

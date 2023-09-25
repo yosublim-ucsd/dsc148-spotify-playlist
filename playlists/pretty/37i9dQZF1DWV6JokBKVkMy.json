@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 1564,
+  "num_followers": 1574,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjFiNmIxNDQ4MGFlODc0OTFmZGQwNGJlMDA2ZTdmYTcxNDdlYWJh",
+  "snapshot_id": "MCw0OGFmNTIxNDRjNzE4OGU1MzdhODI5OTZmZDQ5ZGM4N2MxNmQ3Yzc5",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -147,18 +147,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Alim\u00e9 dif\u00e9 (Ile Maurice)",
-        "url": "https://open.spotify.com/album/70LlYn7WYSI6QLSBUCAjFb"
+        "name": "Sega Ar Pwa",
+        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
       },
       "artists": [
         {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/0DZpMT7NzKkrCPjYBtT3K0"
+          "name": "Sky to Be",
+          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
         }
       ],
-      "duration_ms": 313000,
-      "name": "Alim\u00e9 dif\u00e9 - Version originale",
-      "url": "https://open.spotify.com/track/1eW6Go45BRf63uRPsZ3XeJ"
+      "duration_ms": 209128,
+      "name": "Longanis",
+      "url": "https://open.spotify.com/track/5ychRz2LtFOqD5phpKVlEM"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -195,6 +195,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Alim\u00e9 dif\u00e9 (Ile Maurice)",
+        "url": "https://open.spotify.com/album/70LlYn7WYSI6QLSBUCAjFb"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/0DZpMT7NzKkrCPjYBtT3K0"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "Alim\u00e9 dif\u00e9 - Version originale",
+      "url": "https://open.spotify.com/track/1eW6Go45BRf63uRPsZ3XeJ"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Trottinette",
         "url": "https://open.spotify.com/album/5pBlzWYCpI1ftHAEF5IE0Z"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 184800,
       "name": "Trottinette",
       "url": "https://open.spotify.com/track/7wRYnhZoNWtqcFJHAycRiC"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Sega Ar Pwa",
-        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
-      },
-      "artists": [
-        {
-          "name": "Sky to Be",
-          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
-        }
-      ],
-      "duration_ms": 209128,
-      "name": "Longanis",
-      "url": "https://open.spotify.com/track/5ychRz2LtFOqD5phpKVlEM"
     },
     {
       "added_at": "2022-08-11 10:05:16",

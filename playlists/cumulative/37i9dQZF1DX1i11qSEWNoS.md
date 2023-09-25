@@ -4,11 +4,12 @@
 
 > und macht laune
 
-111 songs - 5 hr 16 min
+112 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [61 Grad \(Deep House RMX\)](https://open.spotify.com/track/5HsrYtb503rCCWyZvGtf4v) | [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [TM](https://open.spotify.com/artist/2yh2yg3b2viRskto7M1cx7) | [61 Grad \(Deep House RMX\)](https://open.spotify.com/album/4lT60ivI572gAiaChQ6cCw) | 1:53 | 2023-07-21 |  |
+| [About You Now \(How I Feel\)](https://open.spotify.com/track/3Ipu6e4dwxdt8lmSI27ZFx) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [About You Now \(How I Feel\)](https://open.spotify.com/album/4a22kWJ4n6KE7apkohVxKp) | 2:42 | 2023-09-15 |  |
 | [Airwaves](https://open.spotify.com/track/5CqkgDH8QZjSqqI3HmYxDD) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Airwaves](https://open.spotify.com/album/4ZylcATH7a5JkgNNGXxwhJ) | 2:58 | 2023-07-21 | 2023-08-26 |
 | [All Night](https://open.spotify.com/track/4taclmQm9wFcK4dKQjR5ny) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [All Night](https://open.spotify.com/album/5YX1KuyERTN67FxoqcLUQm) | 2:33 | 2023-07-21 |  |
 | [All The Things She Said \- Teaboy Flip](https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J) | [TEABOY](https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x) | [All The Things She Said \(Teaboy Flip\)](https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe) | 2:44 | 2023-07-21 |  |
@@ -65,7 +66,7 @@
 | [Lila Wolken](https://open.spotify.com/track/2i7LYnvqSFfmimscnZqVLn) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Miss Platnum](https://open.spotify.com/artist/30SUIQhGDLj1pP0yg4fSMu), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU) | [Lila Wolken \- EP](https://open.spotify.com/album/0uS3xAFBJqwjr0YqWBEGQo) | 3:48 | 2023-09-05 |  |
 | [Losing It](https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It](https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv) | 4:08 | 2023-08-11 |  |
 | [Macarena](https://open.spotify.com/track/38aDPziKNpMScJAdNro7vI) | [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [Macarena](https://open.spotify.com/album/4u8Cg6VFMrJDM6WvckaHau) | 2:03 | 2023-07-28 |  |
-| [Maneater](https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [ECHO](https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI) | [Maneater](https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw) | 2:34 | 2023-07-21 |  |
+| [Maneater](https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [ECHO](https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI) | [Maneater](https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw) | 2:34 | 2023-07-21 | 2023-09-25 |
 | [Mangos mit Chili](https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Mangos mit Chili](https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM) | 2:14 | 2023-07-21 |  |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2023-07-21 |  |
 | [Mein kleines Herz \(Bam Bam\)](https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Shaun Baker](https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj) | [Mein kleines Herz \(Bam Bam\)](https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7) | 2:30 | 2023-07-21 |  |

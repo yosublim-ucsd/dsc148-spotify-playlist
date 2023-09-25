@@ -1,12 +1,12 @@
 {
   "description": "Because we all deserve great pop love songs in one playlist.",
-  "num_followers": 3606101,
+  "num_followers": 3606204,
   "original_name": "Love Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmM3ZjFkOTc3YTZmNzlkYjM4OTQ3ZWYzNTNkZmJjYzEyOGY2Yzg5",
+  "snapshot_id": "MCw4YjJhMzlmNDM1YjZjODNhNTg1YWZiMDY1MWIzOTJhOGM1ZTY3NWIw",
   "tracks": [
     {
       "added_at": "2022-12-08 16:33:34",
@@ -185,7 +185,7 @@
         }
       ],
       "duration_ms": 242733,
-      "name": "Just Give Me a Reason (feat. Nate Ruess)",
+      "name": "Just Give Me a Reason",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
     },
     {
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "We Sing. We Dance. We Steal Things.",
-        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "The 20/20 Experience (Deluxe Version)",
         "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 484146,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "We Sing. We Dance. We Steal Things.",
+        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 196280,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 284760,
       "name": "This I Promise You",
       "url": "https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 196280,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "i don't want to watch the world end with someone else",
-        "url": "https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 184505,
-      "name": "i don't want to watch the world end with someone else",
-      "url": "https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "I've Been Expecting You",
         "url": "https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 258026,
       "name": "She's The One",
       "url": "https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "i don't want to watch the world end with someone else",
+        "url": "https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 184505,
+      "name": "i don't want to watch the world end with someone else",
+      "url": "https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Melancholic",
-        "url": "https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J"
+        "name": "Come On Over (Diamond Edition / Super Deluxe)",
+        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
       },
       "artists": [
         {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 170830,
-      "name": "Lay By Me",
-      "url": "https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS"
+      "duration_ms": 211842,
+      "name": "You're Still The One - International Mix",
+      "url": "https://open.spotify.com/track/0KANgTW49bVyG7IcI7HIia"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Come On Over (Diamond Edition / Super Deluxe)",
-        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
+        "name": "Melancholic",
+        "url": "https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
         }
       ],
-      "duration_ms": 211842,
-      "name": "You're Still The One - International Mix",
-      "url": "https://open.spotify.com/track/0KANgTW49bVyG7IcI7HIia"
+      "duration_ms": 170830,
+      "name": "Lay By Me",
+      "url": "https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS"
     }
   ],
   "unique_name": "Love Pop",

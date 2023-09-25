@@ -4,7 +4,7 @@
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-144 songs - 10 hr 37 min
+145 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [JOKER オールマイティ](https://open.spotify.com/track/5TPX8WWXHjfiDWeMk83fGY) | [High Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM ST@RTING LINE\-04 High Joker](https://open.spotify.com/album/0zYygSqzjxn3CdvZdSJtUV) | 5:26 | 2022-12-01 |  |
 | [JOYFUL HEART MAKER](https://open.spotify.com/track/0shXOeXxmhiVhVsr52F6wp) | [High Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM GROWING SIGN@L 18](https://open.spotify.com/album/61lUtgXia5yWLvkYm3K5Kl) | 4:00 | 2023-04-11 |  |
 | [LEADING YOUR DREAM](https://open.spotify.com/track/1vekJLRSAsjIznuT1qrjVE) | [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 03](https://open.spotify.com/album/0f7ipGixpoqOH09KNBGAUk) | 4:21 | 2022-12-01 |  |
-| [Learning Message](https://open.spotify.com/track/5ICy98VAWQfVgBialQdD6s) | [硲 道夫 \(CV.伊東健人\)](https://open.spotify.com/artist/4EhRW7ws3liEFllG66Nwlq) | [THE IDOLM@STER SideM ORIGIN@L PIECES 08](https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh) | 5:03 | 2022-12-01 |  |
+| [Learning Message](https://open.spotify.com/track/5ICy98VAWQfVgBialQdD6s) | [硲 道夫 \(CV.伊東健人\)](https://open.spotify.com/artist/4EhRW7ws3liEFllG66Nwlq) | [THE IDOLM@STER SideM ORIGIN@L PIECES 08](https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh) | 5:03 | 2022-12-01 | 2023-09-25 |
 | [Legacy of Spirit](https://open.spotify.com/track/71uO1WQe2jlb4qmTcP6pP5) | [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM ST@RTING LINE\-15 Legenders](https://open.spotify.com/album/4O9WYUp7Zu2kcO5MM7lNt2) | 4:33 | 2022-12-01 |  |
 | [LIVE in your SMILE](https://open.spotify.com/track/5xb0pajvByQuLCiksFCcrE) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8), [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK), [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0), [彩](https://open.spotify.com/artist/2FqtW7CPZV5K1VIu8eNZ4l), [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd), [S.E.M](https://open.spotify.com/artist/0OLHY6ORia3onwhPvE97I4), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4), [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM 4th ANNIVERSARY「LIVE in your SMILE/DREAM JOURNEY」](https://open.spotify.com/album/6BO9rXjfYfGQfcN1ODqeND) | 4:55 | 2022-12-01 |  |
 | [Make New Legend](https://open.spotify.com/track/4TzriFqTsiD4AMR0FBuXtA) | [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM 5th ANNIVERSARY 04](https://open.spotify.com/album/5Yet8gOB7zDw4ao5hA0WNS) | 4:38 | 2022-12-01 |  |
@@ -89,6 +89,7 @@
 | [Smiling Platter！](https://open.spotify.com/track/3kDmBdaw5LwkoFJjslFnTg) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM 49 ELEMENTS \-08 Café Parade](https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L) | 4:13 | 2023-02-25 |  |
 | [SOOTHING PLACE](https://open.spotify.com/track/2JMIDYzClNE2cxT5ZkNHaO) | [Frame](https://open.spotify.com/artist/5qydKuymRhyMaVPUfIqh8C) | [THE IDOLM@STER SideM GROWING SIGN@L 03 FRAME](https://open.spotify.com/album/1hbDBr6Ja9nEY5UrTXtAjv) | 4:49 | 2022-12-01 | 2022-12-13 |
 | [SPACY PARADISE](https://open.spotify.com/track/4bKqYB66PZMTVDRLNOK3fS) | [Jupiter](https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE) | [THE IDOLM@STER SideM 49 ELEMENTS \-05 Jupiter](https://open.spotify.com/album/3zBCmvg7DUOCEaIbTY8xOt) | 3:57 | 2022-12-22 |  |
+| [SPARKLE SIGN](https://open.spotify.com/track/0pMPm7ylpawoWSFzFin9JS) | [木村 龍 \(CV.濱 健人\)](https://open.spotify.com/artist/4Cdt0igkAmL0CvIvi6x7ie) | [THE IDOLM@STER SideM 49 ELEMENTS \-09 FRAME](https://open.spotify.com/album/79Tij9DwEitAmsRHck6aD6) | 3:42 | 2023-05-09 |  |
 | [STARLIGHT CELEBRATE!](https://open.spotify.com/track/6BcEDkvnAuVpfZGGnaNlTu) | [DRAMATIC STARS](https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43) | [THE IDOLM@STER SideM ST@RTING LINE\-02 DRAMATIC STARS](https://open.spotify.com/album/0dUz5C62qxJ4wy9Ua0IWSE) | 4:52 | 2022-12-01 |  |
 | [Study Equal Magic!](https://open.spotify.com/track/7KfXfSEQGeABJ1EKxrzcfq) | [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM ST@RTING LINE\-06 S.E.M](https://open.spotify.com/album/21ZxRoS0gEeQVaxHuIreOH) | 4:16 | 2022-12-01 |  |
 | [Sunset Colors](https://open.spotify.com/track/7ArxB3a8haA7S1TeVVFdaB) | [High Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM ANIMATION PROJECT 06 Sunset Colors](https://open.spotify.com/album/7s4lwo5mLV47Xd2abyT5yK) | 4:05 | 2022-12-01 |  |

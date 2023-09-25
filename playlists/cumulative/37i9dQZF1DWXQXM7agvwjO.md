@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Grrrl Gang
 
-988 songs - 2 day 11 hr 5 min
+989 songs - 2 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,8 @@
 | [Fuel](https://open.spotify.com/track/0gJmOAnZf2YXocQUYCQ77T) | [RESORT](https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng) | [Fuel](https://open.spotify.com/album/4Ss0Awq2lU4wnuBMH8wLWv) | 3:26 | 2023-06-08 | 2023-06-30 |
 | [FULL TIME LOVER](https://open.spotify.com/track/4G2l27MHZ9bk2VKjKxOzOA) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Elvia](https://open.spotify.com/artist/40cMQJtnfUdWW2OY6wvCt2) | [FULL TIME LOVER](https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt) | 2:00 | 2022-08-25 | 2022-09-16 |
 | [Fun Kaya Fun](https://open.spotify.com/track/4BNEjUYMw5eTestrJfHHId) | [Efek Rumah Kaca](https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b), [Suraa](https://open.spotify.com/artist/1VA3wkQ3Ux11Lf6P2k8b5z) | [Rimpang](https://open.spotify.com/album/1ooPTrKGBfTcD8iqdIAGy3) | 4:51 | 2023-01-26 | 2023-03-25 |
-| [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-21 |  |
+| [GAME](https://open.spotify.com/track/2aZ6Du5TkxZUjvHW9uH8Qj) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:45 | 2023-09-21 |  |
+| [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-21 | 2023-09-25 |
 | [Genius Made by Publishers](https://open.spotify.com/track/41aT4rpRoWE5iZ2CmbW3qe) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l), [Zen\(ego apartment\)](https://open.spotify.com/artist/4AySGpV1qQ9Ut7fAaHAYAu) | [Fight for Innocence](https://open.spotify.com/album/05M5e1ncRv4shELlWt1W0u) | 4:19 | 2023-02-23 | 2023-03-18 |
 | [Get Up](https://open.spotify.com/track/0NiDg4RY2CmZnwAJd8Bbw6) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Get Up](https://open.spotify.com/album/002rBz3Sdq0ES9zNCFg76j) | 3:32 | 2023-03-02 | 2023-05-19 |
 | [ghost everyday](https://open.spotify.com/track/0oHlUYSlYtaYDT3JihDBdp) | [Park Bird](https://open.spotify.com/artist/7bVJIMenC0rlgot8O60qpF), [Mellow Blush](https://open.spotify.com/artist/41kB8xHvAQWKVmmP201cU7) | [ghost everyday](https://open.spotify.com/album/5F7ub9vl3S0SvfpxALwMjQ) | 3:05 | 2022-10-28 | 2022-12-16 |
@@ -342,7 +343,7 @@
 | [Hey Aries](https://open.spotify.com/track/5bZzQ9JnJWLR9UE7T0Hm4I) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Hey Aries](https://open.spotify.com/album/6YscTA7rMIXvhbqHKufQBz) | 4:17 | 2023-05-04 | 2023-06-30 |
 | [Hey Molly](https://open.spotify.com/track/54IE9zQKLBvlwCWEN6AThL) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [ASYRAF NASIR](https://open.spotify.com/artist/0AuICTYmANWThRroYVxJrT) | [Hey Molly](https://open.spotify.com/album/0x4OQypKeySPVnldwJHS6u) | 2:32 | 2023-01-19 | 2023-03-10 |
 | [Hey Nina](https://open.spotify.com/track/0TjGz2TBgKmmoBXs48qy3b) | [Haliya](https://open.spotify.com/artist/3mElqeVM0OocytLEYXJpYh) | [Hey Nina](https://open.spotify.com/album/47E2z4EcJRLDrHRP49EjVv) | 3:43 | 2023-03-09 | 2023-04-21 |
-| [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 | 2023-02-16 | 2023-08-04 |
+| [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 | 2023-02-16 |  |
 | [History Of You](https://open.spotify.com/track/54wlNjIXeQKDk3DFF5C7BU) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [History Of You](https://open.spotify.com/album/1W4RW7pGOSln4nypumplni) | 4:08 | 2023-09-15 | 2023-09-22 |
 | [Hold](https://open.spotify.com/track/5qe2mnouQfrbzec96JvBD3) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Halfway To Heaven](https://open.spotify.com/album/433ib6biZjvMHN37vl9n0h) | 4:04 | 2022-03-24 | 2022-04-08 |
 | [Hold tight](https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [Jaw](https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn) | [Hold tight](https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ) | 2:54 | 2022-08-18 | 2022-08-26 |
@@ -648,7 +649,7 @@
 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-05-11 | 2022-07-29 |
 | [riverrun](https://open.spotify.com/track/1ED4RvaOua1xCVoXBArYup) | [Redza](https://open.spotify.com/artist/7rI4hvk9fjo1LAOXX1XvLG) | [riverrun](https://open.spotify.com/album/2gCNYNlbuhoziX3Sr9lZBJ) | 2:57 | 2022-11-24 | 2023-02-03 |
 | [Road](https://open.spotify.com/track/6f5OzmQxiXh6viB0WQP1C2) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 5:18 | 2022-12-08 | 2023-02-17 |
-| [Rock Bottom Blues \(feat\. James Reid\)](https://open.spotify.com/track/0WVmVKdoKnDr3xSpZLZjWC) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO), [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Rock Bottom Blues \(feat\. James Reid\)](https://open.spotify.com/album/7pd0Md4wVcAysaxgmNeKPV) | 2:20 | 2023-08-03 |  |
+| [Rock Bottom Blues \(feat\. James Reid\)](https://open.spotify.com/track/0WVmVKdoKnDr3xSpZLZjWC) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO), [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Rock Bottom Blues \(feat\. James Reid\)](https://open.spotify.com/album/7pd0Md4wVcAysaxgmNeKPV) | 2:20 | 2023-08-03 | 2023-09-25 |
 | [rocketship](https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [rocketship](https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE) | 2:39 | 2023-02-09 | 2023-02-17 |
 | [Rockstar](https://open.spotify.com/track/2OBm1U8uu9tq5w40QEIGAY) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Rockstar](https://open.spotify.com/album/6p6WyOh5Bd57KZiGNoY9Lx) | 3:02 | 2022-10-20 | 2022-12-09 |
 | [Rockstar \- TELEx TELEXs Remix](https://open.spotify.com/track/6eFnYnsZRq74oOEX46hb1J) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [TELEx TELEXs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q) | [Rockstar](https://open.spotify.com/album/2Meg43BBcqFj6CfjMNawcq) | 3:43 | 2023-04-07 | 2023-06-14 |

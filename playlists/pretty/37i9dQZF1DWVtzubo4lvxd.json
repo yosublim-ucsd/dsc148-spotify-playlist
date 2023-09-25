@@ -1,12 +1,12 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 111316,
+  "num_followers": 111344,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWJkYzYwMDBlY2MzYWY3YTc2NzgzNzU0YjQ4OTM2N2IwZDU5NmRi",
+  "snapshot_id": "MCxmYTJjMGQwYThkNTJmZDJkNDI1NmU1ODkxYWM1YTZmYzQxYTk4MjYz",
   "tracks": [
     {
       "added_at": "2022-04-15 12:09:52",
@@ -171,6 +171,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "Gentle Boy",
+        "url": "https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "duration_ms": 122704,
+      "name": "this girl",
+      "url": "https://open.spotify.com/track/6AknQdo6L05nsY2aQsxCFi"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "summer nights.",
         "url": "https://open.spotify.com/album/0hv3pidFBxSn1ZFLzD2irc"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 84315,
       "name": "summer nights.",
       "url": "https://open.spotify.com/track/7pDspg2l98EwYQRcBpmQWK"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Gentle Boy",
-        "url": "https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv"
-      },
-      "artists": [
-        {
-          "name": "Elijah Who",
-          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
-        }
-      ],
-      "duration_ms": 122704,
-      "name": "this girl",
-      "url": "https://open.spotify.com/track/6AknQdo6L05nsY2aQsxCFi"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "The Blyat Tapes,Vol.1",
-        "url": "https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu"
-      },
-      "artists": [
-        {
-          "name": "DVLTVN",
-          "url": "https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb"
-        }
-      ],
-      "duration_ms": 85514,
-      "name": "Dont.Be.Afraid.",
-      "url": "https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "\u30b9\u30e2\u30fc\u30af",
         "url": "https://open.spotify.com/album/5W8Y8PmcfrlkuYHdtV3OtP"
       },
@@ -471,18 +455,34 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Smooth",
-        "url": "https://open.spotify.com/album/0QdTwm7awdhqUMJ55IqY2N"
+        "name": "The Blyat Tapes,Vol.1",
+        "url": "https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu"
       },
       "artists": [
         {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+          "name": "DVLTVN",
+          "url": "https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb"
         }
       ],
-      "duration_ms": 122252,
-      "name": "Smooth",
-      "url": "https://open.spotify.com/track/1L6vtkHvjKWBIym93FmSPP"
+      "duration_ms": 85514,
+      "name": "Dont.Be.Afraid.",
+      "url": "https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Leave My Home",
+        "url": "https://open.spotify.com/album/2WMV7jPy8XKRtchqqBCheP"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 221890,
+      "name": "Leave My Home",
+      "url": "https://open.spotify.com/track/6mp9DV7vsQtdqR35RYSpdz"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -503,18 +503,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Leave My Home",
-        "url": "https://open.spotify.com/album/2WMV7jPy8XKRtchqqBCheP"
+        "name": "Smooth",
+        "url": "https://open.spotify.com/album/0QdTwm7awdhqUMJ55IqY2N"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
         }
       ],
-      "duration_ms": 221890,
-      "name": "Leave My Home",
-      "url": "https://open.spotify.com/track/6mp9DV7vsQtdqR35RYSpdz"
+      "duration_ms": 122252,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/1L6vtkHvjKWBIym93FmSPP"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/2dYxugKzxoX6phylPQ2I2x"
-      },
-      "artists": [
-        {
-          "name": "leaf beach",
-          "url": "https://open.spotify.com/artist/5fQYCNYjrT9c4ZssNrC0gh"
-        }
-      ],
-      "duration_ms": 110305,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/6trLPOBjf8nWjMtl5PibbV"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "another.wun",
         "url": "https://open.spotify.com/album/5H01iddYzVjiMY7CcMFpnS"
       },
@@ -587,34 +571,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Beat Batch #2",
-        "url": "https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB"
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/2dYxugKzxoX6phylPQ2I2x"
       },
       "artists": [
         {
-          "name": "Blvk",
-          "url": "https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb"
+          "name": "leaf beach",
+          "url": "https://open.spotify.com/artist/5fQYCNYjrT9c4ZssNrC0gh"
         }
       ],
-      "duration_ms": 77844,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "v i d r i o",
-        "url": "https://open.spotify.com/album/3hQgn6o9UbwOFtAnU6ADq6"
-      },
-      "artists": [
-        {
-          "name": "Jaeden Camstra",
-          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
-        }
-      ],
-      "duration_ms": 110409,
-      "name": "P a z",
-      "url": "https://open.spotify.com/track/1iOui2AZhEphqH5Yk1ktNz"
+      "duration_ms": 110305,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/6trLPOBjf8nWjMtl5PibbV"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -635,18 +603,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Around the World",
-        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
+        "name": "v i d r i o",
+        "url": "https://open.spotify.com/album/3hQgn6o9UbwOFtAnU6ADq6"
       },
       "artists": [
         {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+          "name": "Jaeden Camstra",
+          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Shanghai Nights",
-      "url": "https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75"
+      "duration_ms": 110409,
+      "name": "P a z",
+      "url": "https://open.spotify.com/track/1iOui2AZhEphqH5Yk1ktNz"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -667,6 +635,54 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "Beat Batch #2",
+        "url": "https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB"
+      },
+      "artists": [
+        {
+          "name": "Blvk",
+          "url": "https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb"
+        }
+      ],
+      "duration_ms": 77844,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Gentle Boy",
+        "url": "https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "duration_ms": 96405,
+      "name": "i love being with you",
+      "url": "https://open.spotify.com/track/3diGMqE8nIltVg7fFdwi9n"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Around the World",
+        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Shanghai Nights",
+      "url": "https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "Chillhop Essentials Winter 2016",
         "url": "https://open.spotify.com/album/57bNPwHszlEe7xhSWG2qvJ"
       },
@@ -679,6 +695,22 @@
       "duration_ms": 176500,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/5tn0g0j6ksRufhK0RI33r8"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Sonatina",
+        "url": "https://open.spotify.com/album/28sxvPZfJSRNw0yOwZ3pPU"
+      },
+      "artists": [
+        {
+          "name": "Huey Daze",
+          "url": "https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y"
+        }
+      ],
+      "duration_ms": 165235,
+      "name": "Afternoon Calm",
+      "url": "https://open.spotify.com/track/48GxDUMiiTQ4e7EvsU5hRq"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -703,22 +735,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Sonatina",
-        "url": "https://open.spotify.com/album/28sxvPZfJSRNw0yOwZ3pPU"
-      },
-      "artists": [
-        {
-          "name": "Huey Daze",
-          "url": "https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y"
-        }
-      ],
-      "duration_ms": 165235,
-      "name": "Afternoon Calm",
-      "url": "https://open.spotify.com/track/48GxDUMiiTQ4e7EvsU5hRq"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "long ago.",
         "url": "https://open.spotify.com/album/63BlmEk69qFmjJbO9n4Jb6"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 126087,
       "name": "long ago.",
       "url": "https://open.spotify.com/track/7BdazOnsFvAkQGyrp2djJM"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Gentle Boy",
-        "url": "https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv"
-      },
-      "artists": [
-        {
-          "name": "Elijah Who",
-          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
-        }
-      ],
-      "duration_ms": 96405,
-      "name": "i love being with you",
-      "url": "https://open.spotify.com/track/3diGMqE8nIltVg7fFdwi9n"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
-      },
-      "artists": [
-        {
-          "name": "Barnes Blvd.",
-          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
-        }
-      ],
-      "duration_ms": 178260,
-      "name": "Joan of Arc.",
-      "url": "https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "BODY N SOUL",
         "url": "https://open.spotify.com/album/3ors81EU27PDdPZkxM19xW"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 168000,
       "name": "Mindfulness",
       "url": "https://open.spotify.com/track/5BZ0yIZtKoySiBIMJK0YOP"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
+      },
+      "artists": [
+        {
+          "name": "Barnes Blvd.",
+          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
+        }
+      ],
+      "duration_ms": 178260,
+      "name": "Joan of Arc.",
+      "url": "https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "hometown",
-        "url": "https://open.spotify.com/album/1algiZiHrfsA4siGIdUZRq"
-      },
-      "artists": [
-        {
-          "name": "mommy",
-          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
-        }
-      ],
-      "duration_ms": 116061,
-      "name": "hammock",
-      "url": "https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Sofie's SOS Tape",
         "url": "https://open.spotify.com/album/4HSL9qNMgDUNQFngd3ODit"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 219149,
       "name": "Abeja",
       "url": "https://open.spotify.com/track/3mvaD4yyX71CV1idcd5lfJ"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "hometown",
+        "url": "https://open.spotify.com/album/1algiZiHrfsA4siGIdUZRq"
+      },
+      "artists": [
+        {
+          "name": "mommy",
+          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
+        }
+      ],
+      "duration_ms": 116061,
+      "name": "hammock",
+      "url": "https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Out of Sight, Out of Mind",
-        "url": "https://open.spotify.com/album/2C0V6vwxCcimlflcJksBSh"
+        "name": "oldies",
+        "url": "https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1"
       },
       "artists": [
         {
-          "name": "Ol' Burger Beats",
-          "url": "https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz"
+          "name": "lofi.samurai",
+          "url": "https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col"
         }
       ],
-      "duration_ms": 129800,
-      "name": "Set It",
-      "url": "https://open.spotify.com/track/3lpwEykKy6oCNas9rD2wTd"
+      "duration_ms": 103423,
+      "name": "hand of god",
+      "url": "https://open.spotify.com/track/17aeqWs7j6xU37MMQ6LofF"
     }
   ],
   "unique_name": "Sunset Chill",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,630 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,628 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 18 | [An Old Fashioned Christmas](https://open.spotify.com/track/7b3EE8oiI8Cu7sfDO46zs8) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Christmas Collection](https://open.spotify.com/album/1k0fZo1NgwWJUXsVX8SBHa) | 3:46 |
 | 19 | [Christmas In Herald Square](https://open.spotify.com/track/4XJ9FZtkJxnzGyB6mVXgld) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Classic Christmas Album](https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141) | 3:25 |
 | 20 | [Christmas in New York](https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Merry Christmas from José James](https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72) | 2:58 |
-| 21 | [I'd Like To Hitch A Ride With Santa Claus](https://open.spotify.com/track/4vWGn9T8UorlRuj2wtchId) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Christmas With The Andrews Sisters](https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo) | 3:00 |
-| 22 | [Snowfall](https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY) | [Don Sebesky](https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44) | [Let's Share Christmas](https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe) | 3:12 |
+| 21 | [Snowfall](https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY) | [Don Sebesky](https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44) | [Let's Share Christmas](https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe) | 3:12 |
+| 22 | [I'd Like To Hitch A Ride With Santa Claus](https://open.spotify.com/track/4vWGn9T8UorlRuj2wtchId) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Christmas With The Andrews Sisters](https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo) | 3:00 |
 | 23 | [The First Snowfall](https://open.spotify.com/track/5RIh3Tsq9U7CAvivB2iB7q) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [The Voice Of Christmas \- The Complete Decca Christmas Songbook](https://open.spotify.com/album/2FQOz20SAkrmTXtce20DFA) | 3:08 |
 | 24 | [Make Me a Present of You](https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb) | [Reflections III Christmas](https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6) | 3:33 |
-| 25 | [Santa Claus Is Comin' To Town \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Spotify Singles \- Christmas](https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6) | 2:46 |
-| 26 | [I'll Be Home For Christmas](https://open.spotify.com/track/5R9NaAk7bp624MbMyhcoBZ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:07 |
+| 25 | [I'll Be Home For Christmas](https://open.spotify.com/track/5R9NaAk7bp624MbMyhcoBZ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:07 |
+| 26 | [Santa Claus Is Comin' To Town \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Spotify Singles \- Christmas](https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6) | 2:46 |
 | 27 | [Winter Wonderland \- 1959 Version](https://open.spotify.com/track/4519fZrw2YqSdPOkzPkYYX) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Season's Greetings](https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9) | 3:26 |
 | 28 | [Christmas Eve](https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Billy Eckstine Sings](https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC) | 3:05 |
 | 29 | [Blue Christmas](https://open.spotify.com/track/7vdYX4mdSNdy9g8FeBSKRm) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Winter Wonderland](https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39) | 3:50 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 46 | [All Through The Night](https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [A Nancy Wilson Christmas](https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1) | 3:57 |
 | 47 | [Christmas Memories](https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Vivian Buczek](https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 4:58 |
 | 48 | [Christmas Blues](https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ) | [Holly Cole](https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX) | [Jazz To The World](https://open.spotify.com/album/48ZEjUeHqGxS6icwwRMuRh) | 2:57 |
-| 49 | [O Come All Ye Faithful](https://open.spotify.com/track/7blQL8x8MJNBVrN6x7Jcjb) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 4:14 |
-| 50 | [Jingle Bells](https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb) | [Luca Francis](https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a) | [It's Christmas Time](https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO) | 2:39 |
+| 49 | [Jingle Bells](https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb) | [Luca Francis](https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a) | [It's Christmas Time](https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO) | 2:39 |
+| 50 | [O Come All Ye Faithful](https://open.spotify.com/track/7blQL8x8MJNBVrN6x7Jcjb) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 4:14 |
 
-Snapshot ID: `MCwyMGU0NjhmMzkzY2I0Njg1N2FkZTE4Yzc3MTkzMTI3MmIzYmIzZjMx`
+Snapshot ID: `MCw3MjY1MjViOGJjOGM3ZGY5Njg3MTNlOGJjY2FjMGU3ZGIzNGQxNWQ1`

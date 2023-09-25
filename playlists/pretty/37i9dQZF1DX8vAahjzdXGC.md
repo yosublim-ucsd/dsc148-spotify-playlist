@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Andmesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,062 likes - 112 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,081 likes - 112 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 91 | [Summer Vibes](https://open.spotify.com/track/7aKX262g7OMTuPm9XwoYNS) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Summer Vibes](https://open.spotify.com/album/7Cm5Ys8oAUwV7COhNTF7aV) | 2:19 |
 | 92 | [off without me](https://open.spotify.com/track/6EIlZdUbxRWahYO5xOd8cf) | [Aseekmars](https://open.spotify.com/artist/13XDJTv59THUVpthxagkmV), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [off without me](https://open.spotify.com/album/37XA94NR32zE8RiX3DYWtA) | 3:21 |
 | 93 | [NOTHING IS OK RN](https://open.spotify.com/track/0qsPna12kWD3zZVf0aqkxq) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53), [ROYAL ESTATE](https://open.spotify.com/artist/0VHEsvWyL8en9IA2JI4jzh) | [nothing is ok rn](https://open.spotify.com/album/5gflFa4cw8mufbVL92OVQd) | 4:17 |
-| 94 | [give in to you](https://open.spotify.com/track/30uhhtCSKgdM41GpWRpLVJ) | [Lau Heung King](https://open.spotify.com/artist/4hoaMY482rsnuWzyVaa6Ql) | [give in to you](https://open.spotify.com/album/5dN9X6OlySq4wet8HP1Gfi) | 3:04 |
+| 94 | [give in to you](https://open.spotify.com/track/30uhhtCSKgdM41GpWRpLVJ) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [give in to you](https://open.spotify.com/album/5dN9X6OlySq4wet8HP1Gfi) | 3:04 |
 | 95 | [Lucent Tides](https://open.spotify.com/track/3LRwgm5Ws5deslamMvfFJX) | [Fourtwosixx](https://open.spotify.com/artist/22ayfWee5bg0mVkWFMEhgE), [Stella Kana](https://open.spotify.com/artist/5FEcv3g5zmaSJgnEVjMh1G) | [Lucent Tides](https://open.spotify.com/album/0NKWKMXxwK9S9LkyEiAPdU) | 4:28 |
 | 96 | [To The Bank](https://open.spotify.com/track/09Dw0K3RIvQR5bmrbQZIzr) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [To The Bank](https://open.spotify.com/album/21MKeEtRDAKYVLlTJW5NOb) | 2:42 |
 | 97 | [Lifetime](https://open.spotify.com/track/0jVRZSyLXC48J2G66b12Ms) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Lifetime](https://open.spotify.com/album/6PvL70jTGrQAekjocgG620) | 5:06 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 111 | [Main Thing](https://open.spotify.com/track/1aSjnYP1J124WyGB7MsJ5X) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Main Thing](https://open.spotify.com/album/5ZNijsH0jWLSZiD7BDB0YB) | 2:16 |
 | 112 | [Rodeo](https://open.spotify.com/track/7cD3GOKnMPgW4m37meuv3J) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Rodeo](https://open.spotify.com/album/3qRfgIajUoPGnLDZSlX33g) | 2:35 |
 
-Snapshot ID: `MCw4YmQ3NmYxODQxMzhkMzRlMmRlNzc3OTUyMDYwYTFmN2UyOThjZWJh`
+Snapshot ID: `MCxlYmU2ODdhNmY1ZDE0NzBmMzNhZmE5NjNlYWNmNGY2NThkNjNhZjVi`

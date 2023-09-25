@@ -4,7 +4,7 @@
 
 > no\-clip out of reality
 
-150 songs - 6 hr 49 min
+151 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [A Burning Memory](https://open.spotify.com/track/5p6VPBwZsP3q6shk54Jc0n) | [Reece Moseley](https://open.spotify.com/artist/0m2hCGAmJdkSFBXzrD3vNE) | [Mist](https://open.spotify.com/album/73kfSMiQB5qRFkG9Rdvggl) | 3:09 | 2022-08-22 |  |
 | [A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 7:52 | 2022-12-21 | 2023-08-17 |
 | [Ache](https://open.spotify.com/track/3tOx7feTSndrn23Pv5LKjX) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 1:22 | 2022-11-07 | 2023-06-13 |
-| [Agony \- Instrumental](https://open.spotify.com/track/6HPmLVvM08mqGfYuUyjcOF) | [Scammacist](https://open.spotify.com/artist/6cMsaDvwIUXtHGQPDbqHvn) | [Agony \(Instrumental\)](https://open.spotify.com/album/6mt70ysyrbOAdJBEDjqfHM) | 5:01 | 2023-08-16 |  |
+| [Agony \- Instrumental](https://open.spotify.com/track/6HPmLVvM08mqGfYuUyjcOF) | [Scammacist](https://open.spotify.com/artist/6cMsaDvwIUXtHGQPDbqHvn) | [Agony \(Instrumental\)](https://open.spotify.com/album/6mt70ysyrbOAdJBEDjqfHM) | 5:01 | 2023-08-16 | 2023-09-25 |
+| [Agony \- Remix](https://open.spotify.com/track/0YsQ6dgNby7nascEb12v6G) | [NVBR](https://open.spotify.com/artist/51U1llIay9sKYGWqp76q5U) | [Agony \(Remix\)](https://open.spotify.com/album/5Xj154q0kijKbdlMVAwalw) | 5:01 | 2023-08-30 |  |
 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 | 2022-12-21 | 2023-02-02 |
 | [aisatsana \[102\]](https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 5:21 | 2022-12-21 |  |
 | [All I Need](https://open.spotify.com/track/0FLFE8mxBn1yWAX8s2L8ru) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Instrumentals](https://open.spotify.com/album/1qeXFTaqknEjieQD8my4Hr) | 3:44 | 2022-08-22 | 2022-09-21 |

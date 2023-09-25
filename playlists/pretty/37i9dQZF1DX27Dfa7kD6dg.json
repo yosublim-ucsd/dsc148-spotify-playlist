@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 24657,
+  "num_followers": 24729,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDU5MzNlMTdhZGQ3ZDhlNDdkYTJjOGJlMDBmY2JmZjQ3NGUzYmY3",
+  "snapshot_id": "MCw1MDkzMTdjYWRjMzBjMDk5NGQzOGFlNTgwNTY3ZjZiODE3ZjQyZDE4",
   "tracks": [
     {
       "added_at": "2023-03-17 00:52:56",
@@ -623,8 +623,8 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "25th Anniversary",
-        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
+        "name": "Sin Salsa No Hay Para\u00edso",
+        "url": "https://open.spotify.com/album/2yc30O2X7cCE2LTzJCzO3l"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 274773,
-      "name": "Esos Ojitos Negros",
-      "url": "https://open.spotify.com/track/0rjZnZyqRc95UlV4lQNhxn"
+      "duration_ms": 281546,
+      "name": "Achilip\u00fa",
+      "url": "https://open.spotify.com/track/7sT08ys9gXDvYNyTP80zvs"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -703,8 +703,8 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Sin Salsa No Hay Para\u00edso",
-        "url": "https://open.spotify.com/album/2yc30O2X7cCE2LTzJCzO3l"
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 281546,
-      "name": "Achilip\u00fa",
-      "url": "https://open.spotify.com/track/7sT08ys9gXDvYNyTP80zvs"
+      "duration_ms": 274773,
+      "name": "Esos Ojitos Negros",
+      "url": "https://open.spotify.com/track/0rjZnZyqRc95UlV4lQNhxn"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1175,22 +1175,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
-        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x"
       },
       "artists": [
         {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
         },
         {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 271072,
-      "name": "Carro de Fuego",
-      "url": "https://open.spotify.com/track/3SXRNFtlBYZKgJeBstl8b3"
+      "duration_ms": 351333,
+      "name": "Ublabad\u00fa",
+      "url": "https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1215,22 +1215,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x"
+        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
+        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
       },
       "artists": [
         {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
         },
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
         }
       ],
-      "duration_ms": 351333,
-      "name": "Ublabad\u00fa",
-      "url": "https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO"
+      "duration_ms": 271072,
+      "name": "Carro de Fuego",
+      "url": "https://open.spotify.com/track/3SXRNFtlBYZKgJeBstl8b3"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
-        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        },
-        {
-          "name": "Gustavo Rodriguez",
-          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
-        }
-      ],
-      "duration_ms": 293067,
-      "name": "Mujer de Carne y Hueso",
-      "url": "https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
         "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 224493,
       "name": "A El",
       "url": "https://open.spotify.com/track/3U5EvqgBklihqlnlIuWcUR"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
+        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        },
+        {
+          "name": "Gustavo Rodriguez",
+          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
+        }
+      ],
+      "duration_ms": 293067,
+      "name": "Mujer de Carne y Hueso",
+      "url": "https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Cuando Parar\u00e1 La Lluvia",
-        "url": "https://open.spotify.com/album/0sHhkFC7qkLjTufP56kGlA"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
-        }
-      ],
-      "duration_ms": 280266,
-      "name": "Por Eso Est\u00e1 Conmigo",
-      "url": "https://open.spotify.com/track/6b0OsYDnKJNO7vM8YArVwz"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Con Bajo Y Todo",
         "url": "https://open.spotify.com/album/6ftic7itzGAW7BDdvi2PMx"
       },
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
+        "name": "Cuando Parar\u00e1 La Lluvia",
+        "url": "https://open.spotify.com/album/0sHhkFC7qkLjTufP56kGlA"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "Por Eso Est\u00e1 Conmigo",
+      "url": "https://open.spotify.com/track/6b0OsYDnKJNO7vM8YArVwz"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
         "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
         "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
       },
@@ -1519,22 +1519,6 @@
       "duration_ms": 235125,
       "name": "Ya Se Pein\u00f3 Mar\u00eda",
       "url": "https://open.spotify.com/track/5weRMk5hP0utlRS6nYK1dM"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "Pura Salsa",
-        "url": "https://open.spotify.com/album/7riHCrKoLv3Y0Vg9tnDWg1"
-      },
-      "artists": [
-        {
-          "name": "Azuquita Y Su Orquesta Melao",
-          "url": "https://open.spotify.com/artist/4DRX9H3y8WLxqYspsWHpFR"
-        }
-      ],
-      "duration_ms": 275040,
-      "name": "Salsa Na' Ma'",
-      "url": "https://open.spotify.com/track/2ltnuPephnEI9MTjcRfvto"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1571,6 +1555,22 @@
       "duration_ms": 161946,
       "name": "Tumba La Ca\u00f1a Jibarito",
       "url": "https://open.spotify.com/track/3qiFFGj7QQ2XOFbO0NA56s"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Pura Salsa",
+        "url": "https://open.spotify.com/album/7riHCrKoLv3Y0Vg9tnDWg1"
+      },
+      "artists": [
+        {
+          "name": "Azuquita Y Su Orquesta Melao",
+          "url": "https://open.spotify.com/artist/4DRX9H3y8WLxqYspsWHpFR"
+        }
+      ],
+      "duration_ms": 275040,
+      "name": "Salsa Na' Ma'",
+      "url": "https://open.spotify.com/track/2ltnuPephnEI9MTjcRfvto"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Dave Santiago & Latin Affair",
-        "url": "https://open.spotify.com/album/5nsIWHi6VDXMiQw7s55YHY"
-      },
-      "artists": [
-        {
-          "name": "Dave Santiago",
-          "url": "https://open.spotify.com/artist/4re8q1mKhYrYr3i1ivlsVq"
-        }
-      ],
-      "duration_ms": 322306,
-      "name": "La Peluca",
-      "url": "https://open.spotify.com/track/3cr60B0NqxUVBQARustTmn"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Yo Soy La Rumba",
         "url": "https://open.spotify.com/album/5WVBmJISneoN4do5JPLcDx"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 214360,
       "name": "Tanga",
       "url": "https://open.spotify.com/track/3Zl8hT1zwIa3wMlWFkfEWx"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Dave Santiago & Latin Affair",
+        "url": "https://open.spotify.com/album/5nsIWHi6VDXMiQw7s55YHY"
+      },
+      "artists": [
+        {
+          "name": "Dave Santiago",
+          "url": "https://open.spotify.com/artist/4re8q1mKhYrYr3i1ivlsVq"
+        }
+      ],
+      "duration_ms": 322306,
+      "name": "La Peluca",
+      "url": "https://open.spotify.com/track/3cr60B0NqxUVBQARustTmn"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Salsa Nama",
-        "url": "https://open.spotify.com/album/0wKo8Gv5tffGXI18AxsfbG"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 332532,
-      "name": "Nuestro Sue\u00f1o",
-      "url": "https://open.spotify.com/track/0hrzWL0y3GVHEeWVDrWw5g"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Hoy Y Ayer",
         "url": "https://open.spotify.com/album/1RDCs8PZwX9UnI2u6Jdquy"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 220333,
       "name": "Pachito Eche",
       "url": "https://open.spotify.com/track/1lezqUzhsYpLyDMf2BHjL4"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Salsa Nama",
+        "url": "https://open.spotify.com/album/0wKo8Gv5tffGXI18AxsfbG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 332532,
+      "name": "Nuestro Sue\u00f1o",
+      "url": "https://open.spotify.com/track/0hrzWL0y3GVHEeWVDrWw5g"
     },
     {
       "added_at": "2023-03-17 00:52:56",

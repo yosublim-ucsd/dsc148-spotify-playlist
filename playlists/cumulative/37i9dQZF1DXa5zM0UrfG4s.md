@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-324 songs - 14 hr 59 min
+325 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Ei runde til](https://open.spotify.com/track/660vI3gYDKGe8p3hEfNvwT) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Ei runde til](https://open.spotify.com/album/5Ik0lJYyGxtPu3OaKkwh4B) | 3:56 | 2021-12-16 | 2022-07-23 |
 | [Ei tid \- Akustisk versjon](https://open.spotify.com/track/38Qxu73W4pnkkwlKJaLfUK) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT), [Synne](https://open.spotify.com/artist/68UvCzlIOr87VYF5icJd2d) | [Ei tid \(Akustisk versjon\)](https://open.spotify.com/album/2JenyjghH78NEzzNDEfPvF) | 4:02 | 2021-12-16 | 2022-11-16 |
 | [En drikkesang](https://open.spotify.com/track/2z12HXARpuQP9teW2tGyz0) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [En drikkesang](https://open.spotify.com/album/3BwiO8gXGLlvgI8X3pdGMl) | 2:14 | 2023-04-06 | 2023-06-29 |
-| [EN GAMMAL AMAZON](https://open.spotify.com/track/4910aDasJAeKxAAo5fNHll) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [EN GAMMAL AMAZON](https://open.spotify.com/album/1Vi6Fpf8sGX9PAFY0q2bz6) | 2:16 | 2023-09-21 |  |
+| [EN GAMMAL AMAZON](https://open.spotify.com/track/4910aDasJAeKxAAo5fNHll) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [EN GAMMAL AMAZON](https://open.spotify.com/album/1Vi6Fpf8sGX9PAFY0q2bz6) | 2:16 | 2023-09-21 | 2023-09-25 |
 | [En gammal Amazon](https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [En gammal Amazon](https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa) | 2:46 | 2022-07-07 | 2023-09-14 |
 | [En gång till](https://open.spotify.com/track/0FupHylTHhYVgWAwzq5h58) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [En gång till](https://open.spotify.com/album/2g1GNjRGreJp22uF1ZUIAy) | 2:43 | 2022-06-02 | 2023-01-28 |
 | [En jävel på att ragga bil](https://open.spotify.com/track/1wzf0oO2OT51wljEGIprag) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [En jävel på att ragga bil](https://open.spotify.com/album/5tsqsn7LIbz7dNsdrhs82C) | 2:46 | 2023-08-10 |  |
@@ -303,6 +303,7 @@
 | [TOP GUN](https://open.spotify.com/track/4gobB2WY2C6HNFITwj5IPE) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [TOP GUN](https://open.spotify.com/album/3RgXPQL8B8CoOnXTXSQk8c) | 2:20 | 2023-02-23 |  |
 | [TRAKTEN TILL EPAN \(feat 1.Cuz & FRÖKEN SNUSK\)](https://open.spotify.com/track/0u8AMrMBM6S3YBDfPYwMfe) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [TRAKTEN TILL EPAN \(feat 1.Cuz & FRÖKEN SNUSK\)](https://open.spotify.com/album/0oYqqPkucziudAvLm4tyfa) | 2:04 | 2023-01-26 | 2023-04-05 |
 | [TRUCKER MOTHERFUCKER](https://open.spotify.com/track/2a6NdKqYB9CaMT2yfiXZnE) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [TRUCKER MOTHERFUCKER](https://open.spotify.com/album/12b3VQAefRu3rAFj0uZwdC) | 3:23 | 2023-06-27 | 2023-09-22 |
+| [TRUCKER MOTHERFUCKER](https://open.spotify.com/track/3VERP2rb6wFy5Qf8J2pcff) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [TRUCKER MOTHERFUCKER](https://open.spotify.com/album/1f1PdO6xQRI8nU32xDd0oq) | 3:23 | 2023-09-21 |  |
 | [Två Tölver](https://open.spotify.com/track/2UpB2xTnTenWwxTVg87msr) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [Två Tölver](https://open.spotify.com/album/4X7kcwcsUFzrIxtYuWZlEp) | 2:18 | 2022-10-15 | 2022-11-16 |
 | [Ung full och dum](https://open.spotify.com/track/6kh3aDbjz2VzP0hPYXw9Ty) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Ung full och dum](https://open.spotify.com/album/0btUOD4njBKXk157NpWBpH) | 2:20 | 2022-02-03 | 2022-07-26 |
 | [Unkarsvisa](https://open.spotify.com/track/5cahfdirvDllSTqi4dIArN) | [Gunnar Fjeldseth Band](https://open.spotify.com/artist/6IB3AURFYan3pLv4fFJblt) | [Det Er Hælj](https://open.spotify.com/album/7njZWyee7fcCok23SIcOde) | 3:23 | 2022-03-31 | 2022-04-20 |

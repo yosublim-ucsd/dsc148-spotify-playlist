@@ -1,12 +1,12 @@
 {
   "description": "Take it easy with these laid-back classical tunes.",
-  "num_followers": 404085,
+  "num_followers": 404140,
   "original_name": "Easy Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTM3ZTc4MmI4M2E3ZWQ2YzA3NmU0YTc4Nzg3MzA1MTIwNWRkNTAz",
+  "snapshot_id": "MCxhMzY5MWE4OWY3OWUxYzZiOWVlZWRhYjEzMDJmN2I5MjMwYjAwZmI4",
   "tracks": [
     {
       "added_at": "2023-07-07 08:23:03",
@@ -967,13 +967,17 @@
     {
       "added_at": "2023-07-07 08:23:03",
       "album": {
-        "name": "Beethoven, Schumann: Piano Quartets (Remastered)",
+        "name": "Beethoven & Schumann: Piano Quartets (Remastered)",
         "url": "https://open.spotify.com/album/0IDzHPTWKzxvq4yRePVQKz"
       },
       "artists": [
         {
           "name": "Ludwig van Beethoven",
           "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         },
         {
           "name": "Emanuel Ax",
@@ -986,10 +990,6 @@
         {
           "name": "Jaime Laredo",
           "url": "https://open.spotify.com/artist/3f6FlxZfcsNeOZCXgbp1yW"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         }
       ],
       "duration_ms": 468640,
@@ -1192,6 +1192,10 @@
           "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         },
         {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
           "name": "Emanuel Ax",
           "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
         },
@@ -1202,10 +1206,6 @@
         {
           "name": "Jaime Laredo",
           "url": "https://open.spotify.com/artist/3f6FlxZfcsNeOZCXgbp1yW"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         }
       ],
       "duration_ms": 418133,

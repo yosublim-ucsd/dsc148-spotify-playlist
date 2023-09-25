@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,943 likes - 69 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,910 likes - 69 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 22 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
 | 23 | [I Like Boys](https://open.spotify.com/track/51M1VWU6EMuNBGPfce03sZ) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [I Like Boys](https://open.spotify.com/album/5VUDQzV5sQED97pVSlGDdi) | 3:09 |
 | 24 | [DELİ](https://open.spotify.com/track/3dqetJY7RPBoXOC1nv8cX0) | [Elanur](https://open.spotify.com/artist/33FCgXF01vOfBtjoul6ne1) | [DELİ](https://open.spotify.com/album/6UUYyNcEYx5zaSgjEgqIr9) | 1:48 |
-| 25 | [Energy](https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L) | [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h) | [Energy](https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf) | 2:37 |
-| 26 | [Home With Me](https://open.spotify.com/track/4L5k6CJOltwqapOYT7OvkH) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Home With Me](https://open.spotify.com/album/4YuGF62IsiSP9PzRu3YERe) | 2:47 |
+| 25 | [Home With Me](https://open.spotify.com/track/4L5k6CJOltwqapOYT7OvkH) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Home With Me](https://open.spotify.com/album/4YuGF62IsiSP9PzRu3YERe) | 2:47 |
+| 26 | [Energy](https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L) | [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h) | [Energy](https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf) | 2:37 |
 | 27 | [Pao Sto Nisi](https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pao Sto Nisi](https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD) | 2:58 |
 | 28 | [Chắc Anh Có Nỗi Khổ Tâm](https://open.spotify.com/track/7GcPP6XnsvwJzJ7GMem62o) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl), [Châu Đăng Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk) | [Chắc Anh Có Nỗi Khổ Tâm](https://open.spotify.com/album/5aVa3UtePEKd3BBLmHWYdc) | 3:46 |
 | 29 | [Flori de mai](https://open.spotify.com/track/2Kr1NC1Qs9AzmpFeYFLinJ) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Flori de mai](https://open.spotify.com/album/1h4LGuEHf8r8ZXTpCHh2dP) | 2:57 |
 | 30 | [Flowers!](https://open.spotify.com/track/5hUWDfvdFgWCmmv8HWSi18) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Flowers!](https://open.spotify.com/album/0rOJqOs5SZZm63oZDvLNFU) | 2:25 |
 | 31 | [All Over Again](https://open.spotify.com/track/67U4ELgWMvHdnfYCTubs6e) | [Saya Noé](https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead) | [All Over Again](https://open.spotify.com/album/7HhucprxrFJcoonHk8Oh2A) | 2:35 |
 | 32 | [m00d](https://open.spotify.com/track/45DZdd09Sopo3UOoeJgifU) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [m00d](https://open.spotify.com/album/5zFqEhDGip3zPPvLshFeDk) | 3:04 |
-| 33 | [Mummy \(Please Stay\)](https://open.spotify.com/track/0g7zNQmADaO6uNPNsCJPRw) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY) | [Mummy \(Please Stay\)](https://open.spotify.com/album/0ipXf0pCC9qEJVuVbrU5u0) | 3:44 |
-| 34 | [Déjà vu](https://open.spotify.com/track/65AkOkjVMHm8gwdg0j2khw) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Déjà vu](https://open.spotify.com/album/4mMT077W7zWQvtBJQNABkm) | 3:05 |
+| 33 | [Déjà vu](https://open.spotify.com/track/65AkOkjVMHm8gwdg0j2khw) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Déjà vu](https://open.spotify.com/album/4mMT077W7zWQvtBJQNABkm) | 3:05 |
+| 34 | [Mummy \(Please Stay\)](https://open.spotify.com/track/0g7zNQmADaO6uNPNsCJPRw) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY) | [Mummy \(Please Stay\)](https://open.spotify.com/album/0ipXf0pCC9qEJVuVbrU5u0) | 3:44 |
 | 35 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
 | 36 | [Bine cu puțin rău](https://open.spotify.com/track/02kqrcZdWFtkU5UE5032eC) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Bine cu puțin rău](https://open.spotify.com/album/4jPhADH3p3ncfgKcW4MStH) | 3:18 |
 | 37 | [Дура \(Сумніваюсь у собі\)](https://open.spotify.com/track/24UrlcD3tsaFufoRuR5BHy) | [Ганна Польська](https://open.spotify.com/artist/2VSBrTn1uztlSxi9zm8nIE), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Дура \(Сумніваюсь у собі\)](https://open.spotify.com/album/3oeUpyrFubw2SSiQ1TO5BO) | 2:25 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 68 | [Silsilay Tor Gaya](https://open.spotify.com/track/1zHxHrICgqYDfyrYJIDFrw) | [Fariha Pervez](https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd) | [Silsilay Tor Gaya](https://open.spotify.com/album/6eLCSTvN2jg7x1lHTrgkXJ) | 4:17 |
 | 69 | [Like It Was Meant To Be](https://open.spotify.com/track/72GB7Yf1lIstTjcD7eQAju) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:29 |
 
-Snapshot ID: `MCxjZjg0Mjk3ZThmNjNlMmNhOGI3NTlmNTZmMDA2YjdmMTIxMGI4ODk0`
+Snapshot ID: `MCw3MGMxMDM1NWEyNjVmMzc4ZjM0MjVkZGM4NmJhNGM1MjVlMmU5YWU0`

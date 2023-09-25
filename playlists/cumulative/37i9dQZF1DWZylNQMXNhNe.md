@@ -4,7 +4,7 @@
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Kika Boom, Kaya Conky
 
-119 songs - 5 hr 16 min
+120 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Difícil De Esquecer](https://open.spotify.com/track/59gPzC6zAatOA6Rdjnve5q) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE) | [Difícil De Esquecer](https://open.spotify.com/album/4y85puLIpZ71bXlW5O7uKA) | 2:29 | 2023-07-14 |  |
 | [Emoji de Fogo \(Danny Bond & Cyberkills Remix\)](https://open.spotify.com/track/2Xr1tVdvdGBTKuGfGQMIsw) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [Emoji de Fogo \(Danny Bond & Cyberkills Remix\)](https://open.spotify.com/album/4OcBz7AFm3PVFIB6aLIrXU) | 2:48 | 2022-12-02 | 2023-06-17 |
 | [Eu Viciei](https://open.spotify.com/track/6eu0ufYZ5k4HkZqnceFsoc) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Eu Viciei](https://open.spotify.com/album/4GoAldSUHoIefEbIkY0aXF) | 2:14 | 2022-04-29 |  |
-| [Explícito](https://open.spotify.com/track/0rjoEhu8GFQubGx7dg1KLS) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [FÚRIA](https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ) | 2:53 | 2022-04-29 |  |
+| [Explícito](https://open.spotify.com/track/0rjoEhu8GFQubGx7dg1KLS) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [FÚRIA](https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ) | 2:53 | 2022-04-29 | 2023-09-25 |
+| [Explícito](https://open.spotify.com/track/3Xj55DkJLJV52GJsxTNHKp) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [FÚRIA](https://open.spotify.com/album/3J5ykRCZav5xEqcZTkh7Sm) | 2:53 | 2023-09-02 |  |
 | [FAZ FUMAÇA](https://open.spotify.com/track/2lbg5KCFm2n6hQHMlMdy63) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [FAZ FUMAÇA](https://open.spotify.com/album/7v3bymuI67SlsdARJ90VrG) | 2:33 | 2022-04-29 | 2023-04-01 |
 | [Follow Me](https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav) | 2:57 | 2022-07-22 | 2023-09-02 |
 | [Follow Me](https://open.spotify.com/track/0b8RxOVECQKVtkkdi47Cvk) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/4SB9fBomwBWpM0Zqz75Y1V) | 2:57 | 2022-04-29 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Charles Wesley Godwin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,158,842 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,159,554 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Summer Don't Go](https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Summer Don't Go](https://open.spotify.com/album/3GK5RCU4e54nVBhEruifRK) | 2:48 |
 | 100 | [Hey Whiskey](https://open.spotify.com/track/2Kw5QYMTLrRV7jpoE8YkMg) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Hey Whiskey](https://open.spotify.com/album/7bEvOn0bOFcr5eqvchRhOt) | 3:23 |
 
-Snapshot ID: `MCw5OGQ1NjVhNWZlZjg1MGQ1NjE2NWI2ZjRjYjM5ZmUyNmI4MDEyMjUw`
+Snapshot ID: `MCwxMThmNmEzY2EzYTcxNDg1NjYyMjkyZDgzYjJhMmNkMzc1ZjQ5NTJm`

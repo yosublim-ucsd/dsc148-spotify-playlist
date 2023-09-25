@@ -4,7 +4,7 @@
 
 > Smooth joints from around the globe\. Cover: Yussef Dayes
 
-138 songs - 9 hr 11 min
+139 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [I Met God](https://open.spotify.com/track/6v9CIwn1623LQd9x6qXodk) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [I Met God](https://open.spotify.com/album/3TUtl9BQPfP4kWqXveAyv6) | 4:22 | 2023-09-21 |  |
 | [I Need Therapy 2.4 \(alt\_demo\)](https://open.spotify.com/track/3kHfDibfmgiZR5eLodqjx8) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [I Need Therapy 2.4 \(alt\_demo\)](https://open.spotify.com/album/6YQvIFdk95oCIGcO4sCI05) | 2:06 | 2023-09-14 |  |
 | [I'm Scanning Things I Can't See](https://open.spotify.com/track/6PFMHtcCD9l1O7PVUvxRn5) | [Fievel Is Glauque](https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ) | [I'm Scanning Things I Can't See / Dark Dancing](https://open.spotify.com/album/0KwTL3GstzmHzXYVfVYpx9) | 2:28 | 2023-08-17 |  |
-| [Imali](https://open.spotify.com/track/3Z9lmDapyI88AyHZ8utTf1) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/1bgbyxRaOGJaHu4Qze6rle) | 2:42 | 2023-08-10 |  |
+| [Imali](https://open.spotify.com/track/3Z9lmDapyI88AyHZ8utTf1) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/1bgbyxRaOGJaHu4Qze6rle) | 2:42 | 2023-08-10 | 2023-09-25 |
 | [Isn't It Strange \(feat\. Thundercat & JD Beck\)](https://open.spotify.com/track/5iAlHXSoh1hMlHhXvHpRyC) | [Pedro Martins](https://open.spotify.com/artist/7fgw6kQggc48KiNoTGWNU5), [JD Beck](https://open.spotify.com/artist/2eoP74ao4wWLXJUNyFtuBg), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Rádio Mistério](https://open.spotify.com/album/7qk2Lb99r0A8ywmaiUhgZb) | 3:23 | 2023-08-17 |  |
 | [I’m The President](https://open.spotify.com/track/61KjKb7MNasVxEBMkcJblU) | [KNOWER](https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ) | [I’m The President](https://open.spotify.com/album/46uDfYz1fwX99tMqmziZ7L) | 4:07 | 2023-08-17 |  |
 | [Juice](https://open.spotify.com/track/5PCewEk7WLgWMpjXZwoy2Z) | [Mouche](https://open.spotify.com/artist/4VGuZY8GBZDsGI9PYW48Jj) | [Juice](https://open.spotify.com/album/5FHbLW2ofN5Go7BlyPrno2) | 3:28 | 2023-08-10 | 2023-09-01 |
@@ -92,6 +92,7 @@
 | [Pash Rash](https://open.spotify.com/track/1geU3dUBoTtkCoCJmU2L5D) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Friendship EP](https://open.spotify.com/album/3lKPrjciOT5snjX4nLOyit) | 6:08 | 2023-08-17 |  |
 | [phoenix](https://open.spotify.com/track/0JiS119XxHV9RfowD0GnIJ) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Hadiya George](https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9) | [phoenix](https://open.spotify.com/album/43nJVcXlrXfu540KyCab82) | 2:33 | 2023-08-10 | 2023-08-25 |
 | [Plate](https://open.spotify.com/track/3vFG1ZcB68ACOdeY99aYIm) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Forever Forever](https://open.spotify.com/album/338Gexpd2aM74CJBGfcuDC) | 3:27 | 2023-08-17 |  |
+| [Please, Forever Keep Me Near](https://open.spotify.com/track/4ilO1SUKWXJJdQUgBpIkAb) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [The Color of Sound](https://open.spotify.com/album/6hVUBys8AtFvmKGVimFVPl) | 3:13 | 2023-09-25 |  |
 | [poor man's boy](https://open.spotify.com/track/37078l3sNWX5jqt6PockGR) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [poor man's boy](https://open.spotify.com/album/5jZKYpgLEzCohYyYejUD4L) | 3:44 | 2023-08-10 | 2023-08-18 |
 | [RagJazz](https://open.spotify.com/track/7DAuQoUWFq40NBVXwWs4xU) | [NEONE the Wonderer](https://open.spotify.com/artist/72RMKo8u5oIuTtyE8HAv5E) | [RagJazz](https://open.spotify.com/album/3zxutQ3DFl5sBX7sxI2nVZ) | 4:19 | 2023-08-10 | 2023-09-08 |
 | [Regular Groove](https://open.spotify.com/track/7IiJt2xY8hfkDQUFn5udUL) | [Move 78](https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr) | [Regular Groove](https://open.spotify.com/album/49otrUutRG82UtwxkOifrl) | 3:20 | 2023-09-21 |  |

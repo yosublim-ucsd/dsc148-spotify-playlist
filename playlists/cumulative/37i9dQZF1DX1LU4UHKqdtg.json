@@ -1795,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "BONA BONA (JP ver.)",
+        "url": "https://open.spotify.com/album/50GXqalTtZzcK9wjXu4gSK"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212727,
+      "name": "BONA BONA - JP ver.",
+      "url": "https://open.spotify.com/track/6MHC1y7Gd5U1aX2hsuTPBC"
+    },
+    {
+      "album": {
         "name": "[Apocalypse : From us]",
         "url": "https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA"
       },

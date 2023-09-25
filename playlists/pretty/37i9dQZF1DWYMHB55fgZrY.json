@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Moderatto en portada.",
-  "num_followers": 509718,
+  "num_followers": 510206,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDk4Zjg2YjlmM2QwZjE0ZTllN2Y3NmMwZjdmYWRmZGNhY2U1ZGM3",
+  "snapshot_id": "MCw4OTZiMjdjNjNlZjE2MTI2OTIzZmFkMWZmNTQzNzQ1MmZhOTdjM2Nm",
   "tracks": [
     {
       "added_at": "2023-08-04 20:21:55",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
+        "name": "40 A\u00f1os Vol. 1",
+        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 294586,
+      "name": "A.D.O.",
+      "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
         "name": "Norte",
         "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 223440,
       "name": "C\u00e1mara De Faltas",
       "url": "https://open.spotify.com/track/6O3D5ai8UmEHwyicBq07pk"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
-        "name": "40 A\u00f1os Vol. 1",
-        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 294586,
-      "name": "A.D.O.",
-      "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Reptilectric",
-        "url": "https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 232288,
-      "name": "Reptilectric",
-      "url": "https://open.spotify.com/track/2sProjAkdt5b4TgShSRvgA"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
         "name": "\u00c9l No Lo Mat\u00f3",
         "url": "https://open.spotify.com/album/0kYHzDHyOWhCjBDAqDgoM8"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 278934,
       "name": "\u00c9l No Lo Mat\u00f3",
       "url": "https://open.spotify.com/track/0HCppMSh838nCgSxskJGzz"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
+        "name": "Reptilectric",
+        "url": "https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 232288,
+      "name": "Reptilectric",
+      "url": "https://open.spotify.com/track/2sProjAkdt5b4TgShSRvgA"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "Dead - En Vivo",
-      "url": "https://open.spotify.com/track/7xFn3dihBf60SS4m1wDDt5"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
         "name": "Blanco F\u00e1cil",
         "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
       },
@@ -1187,22 +1171,6 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Bestia",
-        "url": "https://open.spotify.com/album/3thOTiN8dswNmDUHEkIXiL"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 248939,
-      "name": "Bestia",
-      "url": "https://open.spotify.com/track/1r3L5Aze7FgPc0ck828XFz"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
         "name": "D.D. Y Ponle Play",
         "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
       },
@@ -1219,18 +1187,34 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
       },
       "artists": [
         {
-          "name": "Genitallica",
-          "url": "https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 181866,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW"
+      "duration_ms": 237840,
+      "name": "Dead - En Vivo",
+      "url": "https://open.spotify.com/track/7xFn3dihBf60SS4m1wDDt5"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
+        "name": "Bestia",
+        "url": "https://open.spotify.com/album/3thOTiN8dswNmDUHEkIXiL"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 248939,
+      "name": "Bestia",
+      "url": "https://open.spotify.com/track/1r3L5Aze7FgPc0ck828XFz"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -1247,6 +1231,22 @@
       "duration_ms": 183480,
       "name": "Mi Vida es un Tango",
       "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
+      },
+      "artists": [
+        {
+          "name": "Genitallica",
+          "url": "https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA"
+        }
+      ],
+      "duration_ms": 181866,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Restaurant",
-        "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
-      },
-      "artists": [
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
-        }
-      ],
-      "duration_ms": 269866,
-      "name": "Fotograf\u00eda",
-      "url": "https://open.spotify.com/track/5j14Xn8nJDcH9omZkBU4jP"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
         "name": "Volovan",
         "url": "https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 209346,
       "name": "Ella Es Azul",
       "url": "https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
+        "name": "Restaurant",
+        "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "duration_ms": 269866,
+      "name": "Fotograf\u00eda",
+      "url": "https://open.spotify.com/track/5j14Xn8nJDcH9omZkBU4jP"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -1367,38 +1367,6 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Amores Perros (Soundtrack)",
-        "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 253866,
-      "name": "Si Senor",
-      "url": "https://open.spotify.com/track/2gE3iFfPwzGGdsgEhbKWJS"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
-        "name": "Norte (Japanese Version)",
-        "url": "https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 303506,
-      "name": "Norte - Bonus",
-      "url": "https://open.spotify.com/track/0q78AOChXaZc2esoLmhSiW"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
         "name": "Un Tributo",
         "url": "https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ"
       },
@@ -1415,6 +1383,22 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
+        "name": "Amores Perros (Soundtrack)",
+        "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 253866,
+      "name": "Si Senor",
+      "url": "https://open.spotify.com/track/2gE3iFfPwzGGdsgEhbKWJS"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
         "name": "Cronicas De Un Laberinto",
         "url": "https://open.spotify.com/album/5ghbMJrms74bqNzZ8ziEZy"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 190893,
       "name": "Hay Amores Que Matan",
       "url": "https://open.spotify.com/track/3b9yTPrrIquBZsco8jVPi1"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
+        "name": "Norte (Japanese Version)",
+        "url": "https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 303506,
+      "name": "Norte - Bonus",
+      "url": "https://open.spotify.com/track/0q78AOChXaZc2esoLmhSiW"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Mucho Barato",
-        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 224200,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/5ZFF7Z06Lpmodfi70nj2vE"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
         "name": "Arunima",
         "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 265740,
       "name": "La Flotadera",
       "url": "https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
+        "name": "Mucho Barato",
+        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/5ZFF7Z06Lpmodfi70nj2vE"
     },
     {
       "added_at": "2023-08-04 20:21:55",

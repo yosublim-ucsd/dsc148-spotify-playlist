@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 40838,
+  "num_followers": 40869,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjYyN2YzYzhmNzkwN2RhYjMwZDFkZjBhZDUzODAxMmJmZTRjODIw",
+  "snapshot_id": "MCwxMWZhZTdiZmZkZWRmYWYwYjE1ZjgxOGIyMDM4ZjExYTMxNTMxMjNk",
   "tracks": [
     {
       "added_at": "2019-10-04 16:01:14",
@@ -373,24 +373,20 @@
       "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
+      "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 385706,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
+      "duration_ms": 168346,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/726OIMOZ6uDlvGsdUbbazS"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -433,6 +429,26 @@
       "url": "https://open.spotify.com/track/6y2YxIUeM9uMgAINRnb11K"
     },
     {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 385706,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
+    },
+    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "Baker's Holiday",
@@ -467,22 +483,6 @@
       "duration_ms": 192200,
       "name": "Black Orchid",
       "url": "https://open.spotify.com/track/1Xrlr0CvpV1dFakpGJDzLI"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 168346,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/726OIMOZ6uDlvGsdUbbazS"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
+        "name": "The New Standard",
+        "url": "https://open.spotify.com/album/15xN5nr2KFFScKLjVxwIgd"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 484293,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/4VqSbmpTxOgRU2MQoa6CSC"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
         "name": "The Very Best of Chris Botti",
         "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 332733,
       "name": "What's New?",
       "url": "https://open.spotify.com/track/6rUJjG9w109kXQywBxfPLV"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "The New Standard",
-        "url": "https://open.spotify.com/album/15xN5nr2KFFScKLjVxwIgd"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 484293,
-      "name": "Norwegian Wood",
-      "url": "https://open.spotify.com/track/4VqSbmpTxOgRU2MQoa6CSC"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Wholly Earth",
-        "url": "https://open.spotify.com/album/4eojsgohs6cXhmjtekufUE"
-      },
-      "artists": [
-        {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
-        }
-      ],
-      "duration_ms": 397160,
-      "name": "Conversation With A Baby",
-      "url": "https://open.spotify.com/track/0cPMVEgQVpm6m4uinaydQE"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "The Very Best of Chris Botti",
         "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 277466,
       "name": "Worlds Outside",
       "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Wholly Earth",
+        "url": "https://open.spotify.com/album/4eojsgohs6cXhmjtekufUE"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "duration_ms": 397160,
+      "name": "Conversation With A Baby",
+      "url": "https://open.spotify.com/track/0cPMVEgQVpm6m4uinaydQE"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1551,18 +1551,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Flip Wails: The Best Of The Verve Years",
-        "url": "https://open.spotify.com/album/3vfoDxP9LuKoxJLxT4HV5x"
+        "name": "The Urbane Jazz Of Roy Eldridge And Benny Carter",
+        "url": "https://open.spotify.com/album/0pvE5UDLRUUUm05zmxzTXF"
       },
       "artists": [
         {
-          "name": "Flip Phillips",
-          "url": "https://open.spotify.com/artist/6k3DSHCSh4p2EuIqm9hIU6"
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
         }
       ],
-      "duration_ms": 179600,
-      "name": "Singin' In The Rain",
-      "url": "https://open.spotify.com/track/4KMG8smP4ISXZzEeMNgk6W"
+      "duration_ms": 343893,
+      "name": "I Still Love Him So",
+      "url": "https://open.spotify.com/track/1mpmReowWLJGf3BTRKfyJv"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1597,26 +1601,6 @@
       "url": "https://open.spotify.com/track/1tXiZvtgg9XqlB86x4Ukqj"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Urbane Jazz Of Roy Eldridge And Benny Carter",
-        "url": "https://open.spotify.com/album/0pvE5UDLRUUUm05zmxzTXF"
-      },
-      "artists": [
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        },
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 343893,
-      "name": "I Still Love Him So",
-      "url": "https://open.spotify.com/track/1mpmReowWLJGf3BTRKfyJv"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Goodies",
@@ -1633,20 +1617,44 @@
       "url": "https://open.spotify.com/track/5Ms4U6Z2cDqkENFZ52VkTc"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
+      "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Bashin' - The Unpredictable Jimmy Smith (Expanded Edition)",
-        "url": "https://open.spotify.com/album/34SD5R6dsyvxAzhohq2gxB"
+        "name": "Flip Wails: The Best Of The Verve Years",
+        "url": "https://open.spotify.com/album/3vfoDxP9LuKoxJLxT4HV5x"
+      },
+      "artists": [
+        {
+          "name": "Flip Phillips",
+          "url": "https://open.spotify.com/artist/6k3DSHCSh4p2EuIqm9hIU6"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Singin' In The Rain",
+      "url": "https://open.spotify.com/track/4KMG8smP4ISXZzEeMNgk6W"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Complete Verve Singles",
+        "url": "https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd"
       },
       "artists": [
         {
           "name": "Jimmy Smith",
           "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+        },
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        },
+        {
+          "name": "Grady Tate",
+          "url": "https://open.spotify.com/artist/1T7xYP9ZRJytj25VAAdsB9"
         }
       ],
-      "duration_ms": 373800,
-      "name": "Bashin'",
-      "url": "https://open.spotify.com/track/5B5QXJzYyyzp4NaqyiI4gI"
+      "duration_ms": 203653,
+      "name": "I'll Close My Eyes",
+      "url": "https://open.spotify.com/track/4qs7B3M5OGp5HkRCAwt36N"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1683,6 +1691,22 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
+        "name": "Bashin' - The Unpredictable Jimmy Smith (Expanded Edition)",
+        "url": "https://open.spotify.com/album/34SD5R6dsyvxAzhohq2gxB"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+        }
+      ],
+      "duration_ms": 373800,
+      "name": "Bashin'",
+      "url": "https://open.spotify.com/track/5B5QXJzYyyzp4NaqyiI4gI"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
         "name": "The Complete Verve Studio Sessions",
         "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
       },
@@ -1695,30 +1719,6 @@
       "duration_ms": 240013,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/5aMjgZfUjvHrG23l5fIM4W"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Complete Verve Singles",
-        "url": "https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Smith",
-          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
-        },
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        },
-        {
-          "name": "Grady Tate",
-          "url": "https://open.spotify.com/artist/1T7xYP9ZRJytj25VAAdsB9"
-        }
-      ],
-      "duration_ms": 203653,
-      "name": "I'll Close My Eyes",
-      "url": "https://open.spotify.com/track/4qs7B3M5OGp5HkRCAwt36N"
     },
     {
       "added_at": "2019-10-02 08:54:10",

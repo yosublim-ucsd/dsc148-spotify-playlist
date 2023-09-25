@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 
 > Chaos in electronic form.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,133 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,176 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [wondering dub](https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [wondering dub](https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f) | 2:07 |
 | 2 | [E70 No\. 01](https://open.spotify.com/track/01iglyLhCYZYlCqAxY8Vfz) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 2:42 |
-| 3 | [The Metallic Index](https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index](https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr) | 1:34 |
-| 4 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 |
+| 3 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 |
+| 4 | [The Metallic Index](https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index](https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr) | 1:34 |
 | 5 | [Blow Up Yr Life \(U Need To\)](https://open.spotify.com/track/5c56mfcwKfh788koF3CCRy) | [Nina Keith](https://open.spotify.com/artist/1nuCYFGzi0e4xb8lE18m2i), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g), [Qur'an Shaheed](https://open.spotify.com/artist/6zYf3M745APT179QsjrlB4) | [Blow Up Yr Life \(U Need To\)](https://open.spotify.com/album/0Hn0apOsWV86eg8YDjsMAB) | 4:46 |
 | 6 | [Metropole](https://open.spotify.com/track/4CuUaiTclsHkpsYTfS7g0J) | [Stone Giants](https://open.spotify.com/artist/6Z9PPhoezsXDDnYdrF8HxI), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [West Coast Love Stories](https://open.spotify.com/album/5wQIX8UTy8aPbxUnen3324) | 3:40 |
 | 7 | [Of Air](https://open.spotify.com/track/11dsa1I6VKaJbbtUw2a9HG) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Of Air](https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX) | 3:08 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 42 | [Dencity](https://open.spotify.com/track/76IRaPhfYRF9xVZC3qTdR7) | [Trans\-4M](https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj) | [Sublunar Oracles](https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk) | 6:07 |
 | 43 | [Fallen Angels](https://open.spotify.com/track/0FTMZs0lK0MbQsSjQKjCqv) | [Little Snake](https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Fallen Angels](https://open.spotify.com/album/14yMrZlzYUSXovS9RyGkWh) | 4:29 |
 | 44 | [Forecast](https://open.spotify.com/track/4SJbP61kwGbrjFABXlhprD) | [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Motion Graphics](https://open.spotify.com/album/6pB6PQ1biJp8MFlUMTabEn) | 1:31 |
-| 45 | [Spafft Moutafft Seeall + California](https://open.spotify.com/track/4iveIsFbEyag9lKazFiXg6) | [Rimarimba](https://open.spotify.com/artist/1i51O70gGrEqrngjNWW3nm) | [In the Woods](https://open.spotify.com/album/0lHutFsPzdkHiR1tcJ3Hhm) | 4:35 |
-| 46 | [Magical Iridescence](https://open.spotify.com/track/6eM5mq1xnuvB6NWGOSBp84) | [Michel Genest](https://open.spotify.com/artist/51R7qjp3MIY8mBq4vYvu0x) | [Crystal Fantasy](https://open.spotify.com/album/34UpoK24E13czwERrCUqfM) | 2:40 |
-| 47 | [Aurelie \(Lido Pimienta Remix\)](https://open.spotify.com/track/0vFdrzcSex0hPwLnw3SFa1) | [Lou Canon](https://open.spotify.com/artist/2ZKNwYmNk7NS0oSNq5AieB), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Aurelie \(Lido Pimienta Remix\)](https://open.spotify.com/album/42imqapebSrpDVOjETHCnN) | 4:18 |
-| 48 | [New Planet](https://open.spotify.com/track/1oU8JXQGiir9KBnmC46qX8) | [Ford & Lopatin](https://open.spotify.com/artist/3eTOYD8UyQa3MalrtkyKha) | [Channel Pressure](https://open.spotify.com/album/0IukYhktfvsurQ1ojVNs1Z) | 3:22 |
+| 45 | [Magical Iridescence](https://open.spotify.com/track/6eM5mq1xnuvB6NWGOSBp84) | [Michel Genest](https://open.spotify.com/artist/51R7qjp3MIY8mBq4vYvu0x) | [Crystal Fantasy](https://open.spotify.com/album/34UpoK24E13czwERrCUqfM) | 2:40 |
+| 46 | [Spafft Moutafft Seeall + California](https://open.spotify.com/track/4iveIsFbEyag9lKazFiXg6) | [Rimarimba](https://open.spotify.com/artist/1i51O70gGrEqrngjNWW3nm) | [In the Woods](https://open.spotify.com/album/0lHutFsPzdkHiR1tcJ3Hhm) | 4:35 |
+| 47 | [New Planet](https://open.spotify.com/track/1oU8JXQGiir9KBnmC46qX8) | [Ford & Lopatin](https://open.spotify.com/artist/3eTOYD8UyQa3MalrtkyKha) | [Channel Pressure](https://open.spotify.com/album/0IukYhktfvsurQ1ojVNs1Z) | 3:22 |
+| 48 | [Aurelie \(Lido Pimienta Remix\)](https://open.spotify.com/track/0vFdrzcSex0hPwLnw3SFa1) | [Lou Canon](https://open.spotify.com/artist/2ZKNwYmNk7NS0oSNq5AieB), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Aurelie \(Lido Pimienta Remix\)](https://open.spotify.com/album/42imqapebSrpDVOjETHCnN) | 4:18 |
 | 49 | [Hypogean](https://open.spotify.com/track/2Dmu5AIckVaWZAYq5w7jhU) | [Ans M](https://open.spotify.com/artist/5JSQJFQcdMQIvt1iKnbOyF) | [Cicada Lullaby](https://open.spotify.com/album/3cRBLw9qVfwjz6jwNGkKDb) | 4:30 |
 | 50 | [Coris](https://open.spotify.com/track/1G5b1MCRsBsC9T53vv5SH9) | [OVSICORI](https://open.spotify.com/artist/0MVM5Khj39EkpVtLvU9Ujp) | [Bucle](https://open.spotify.com/album/0e2ihe6UiQ1SL73u98L98b) | 7:00 |
 
-Snapshot ID: `MCw4ZTQ5NWIwMTI1MjQ1YTE1OThjYThmYmZhODRmNmNkMmI0MTM0N2Jk`
+Snapshot ID: `MCwwMmRhOTc4OGQxMzRmOTIzMTA0M2Q1NmNmMGFmNmYxNGUxMDE4ZGQ2`

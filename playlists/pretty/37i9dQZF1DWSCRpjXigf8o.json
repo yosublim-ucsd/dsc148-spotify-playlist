@@ -1,12 +1,12 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 85632,
+  "num_followers": 85643,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWZiMWYwNzQ3MDRmYjFjZDI2Y2FlZjk2Nzk0MGRhMTAzMjAyMGJk",
+  "snapshot_id": "MCw3YWZmNDk0ODViZGQ3OWQ5OGQzYzhiNjQ1OWViNmZiMzljMGUxM2Qy",
   "tracks": [
     {
       "added_at": "2023-09-21 15:00:00",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-09-21 15:00:00",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
       "artists": [
         {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 296800,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "added_at": "2023-09-21 15:00:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-09-21 15:00:00",
       "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
         }
       ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+      "duration_ms": 296800,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
     },
     {
       "added_at": "2023-09-21 15:00:00",
@@ -1047,22 +1047,18 @@
     {
       "added_at": "2023-09-21 15:00:00",
       "album": {
-        "name": "IT'S YOU (feat. keshi)",
-        "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
+        "name": "The La's",
+        "url": "https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x"
       },
       "artists": [
         {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "The La's",
+          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
         }
       ],
-      "duration_ms": 173427,
-      "name": "IT'S YOU (feat. keshi)",
-      "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
+      "duration_ms": 162186,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P"
     },
     {
       "added_at": "2023-09-21 15:00:00",
@@ -1083,18 +1079,22 @@
     {
       "added_at": "2023-09-21 15:00:00",
       "album": {
-        "name": "The La's",
-        "url": "https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x"
+        "name": "IT'S YOU (feat. keshi)",
+        "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
       },
       "artists": [
         {
-          "name": "The La's",
-          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 162186,
-      "name": "There She Goes",
-      "url": "https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P"
+      "duration_ms": 173427,
+      "name": "IT'S YOU (feat. keshi)",
+      "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
     },
     {
       "added_at": "2023-09-21 15:00:00",
@@ -1431,8 +1431,8 @@
     {
       "added_at": "2023-09-21 15:00:00",
       "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/7u6Z333YGGWD55O2uqjeTj"
+        "name": "Flying Wig",
+        "url": "https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm"
       },
       "artists": [
         {
@@ -1442,7 +1442,7 @@
       ],
       "duration_ms": 291664,
       "name": "Fireflies",
-      "url": "https://open.spotify.com/track/1hfDwBiBURnnVXruXzPd0I"
+      "url": "https://open.spotify.com/track/2IvIUND7ZGjPftDyOYAWJ9"
     },
     {
       "added_at": "2023-09-21 15:00:00",

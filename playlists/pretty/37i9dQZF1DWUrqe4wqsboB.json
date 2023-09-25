@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 3290,
+  "num_followers": 3308,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmRjZmUxNzc0OGQ0YjU4MDQ0NDA1YzAzNGQ5ZjBmODRiZGEyYTIx",
+  "snapshot_id": "MCw5MjZlMTBkMjJlYWY3OGM5MWRhNDNkMTMxOTI4M2RmYjI0ZTkxNjZh",
   "tracks": [
     {
       "added_at": "2023-08-29 17:45:03",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        }
-      ],
-      "duration_ms": 170175,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob"
-    },
-    {
-      "added_at": "2023-08-29 17:45:03",
-      "album": {
         "name": "De Vuelta a Casa",
         "url": "https://open.spotify.com/album/5cWQZRUiVsVMK35FPJnNN0"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 238446,
       "name": "Agua",
       "url": "https://open.spotify.com/track/2hzyzFA7VZrtvFaWIYxynR"
+    },
+    {
+      "added_at": "2023-08-29 17:45:03",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        }
+      ],
+      "duration_ms": 170175,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob"
     },
     {
       "added_at": "2023-08-29 17:45:03",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "Vibra",
-        "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
-      },
-      "artists": [
-        {
-          "name": "Calma Carmona",
-          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
-        }
-      ],
-      "duration_ms": 174947,
-      "name": "Vibra",
-      "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
-    },
-    {
-      "added_at": "2023-08-29 17:45:03",
-      "album": {
         "name": "Tommy Bahama",
         "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 229963,
       "name": "Tommy Bahama",
       "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
+    },
+    {
+      "added_at": "2023-08-29 17:45:03",
+      "album": {
+        "name": "Vibra",
+        "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
+      },
+      "artists": [
+        {
+          "name": "Calma Carmona",
+          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
+        }
+      ],
+      "duration_ms": 174947,
+      "name": "Vibra",
+      "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
     },
     {
       "added_at": "2023-08-29 17:45:03",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "Circuito por Mil\u00e1n",
-        "url": "https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG"
-      },
-      "artists": [
-        {
-          "name": "Epilogio",
-          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
-        }
-      ],
-      "duration_ms": 194707,
-      "name": "Circuito por Mil\u00e1n",
-      "url": "https://open.spotify.com/track/6zLtJnwoiiNJ6vAF4a0KYF"
-    },
-    {
-      "added_at": "2023-08-29 17:45:03",
-      "album": {
         "name": "Letra Pa' tu Coco",
         "url": "https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 212453,
       "name": "Live This One",
       "url": "https://open.spotify.com/track/6J5lM8LW7QmSwcRkv4D7Tw"
+    },
+    {
+      "added_at": "2023-08-29 17:45:03",
+      "album": {
+        "name": "Circuito por Mil\u00e1n",
+        "url": "https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG"
+      },
+      "artists": [
+        {
+          "name": "Epilogio",
+          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
+        }
+      ],
+      "duration_ms": 194707,
+      "name": "Circuito por Mil\u00e1n",
+      "url": "https://open.spotify.com/track/6zLtJnwoiiNJ6vAF4a0KYF"
     },
     {
       "added_at": "2023-08-29 17:45:03",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "Pir\u00e1mide",
-        "url": "https://open.spotify.com/album/4kSAzEEJE6MzVHKvGFYv18"
-      },
-      "artists": [
-        {
-          "name": "Epilogio",
-          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Pir\u00e1mide",
-      "url": "https://open.spotify.com/track/5Cn79rGGFSePXgVIPS19Tb"
-    },
-    {
-      "added_at": "2023-08-29 17:45:03",
-      "album": {
         "name": "Duo Deleite",
         "url": "https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 187500,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/3v39Tno23I21Uot44jt1s8"
+    },
+    {
+      "added_at": "2023-08-29 17:45:03",
+      "album": {
+        "name": "Pir\u00e1mide",
+        "url": "https://open.spotify.com/album/4kSAzEEJE6MzVHKvGFYv18"
+      },
+      "artists": [
+        {
+          "name": "Epilogio",
+          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Pir\u00e1mide",
+      "url": "https://open.spotify.com/track/5Cn79rGGFSePXgVIPS19Tb"
     },
     {
       "added_at": "2023-08-29 17:45:03",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "Te Gusta, Me Gusta",
-        "url": "https://open.spotify.com/album/6NzxWW8X0f5Eye27bOMBWB"
-      },
-      "artists": [
-        {
-          "name": "Neysa Blay",
-          "url": "https://open.spotify.com/artist/221r7E6QASURKauguQwGWw"
-        }
-      ],
-      "duration_ms": 182634,
-      "name": "Te Gusta, Me Gusta",
-      "url": "https://open.spotify.com/track/1BZZhlU3Mdab6jIMgM6gu8"
-    },
-    {
-      "added_at": "2023-08-29 17:45:03",
-      "album": {
         "name": "El Hijo de Borik\u00e9n",
         "url": "https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
+        "name": "Te Gusta, Me Gusta",
+        "url": "https://open.spotify.com/album/6NzxWW8X0f5Eye27bOMBWB"
+      },
+      "artists": [
+        {
+          "name": "Neysa Blay",
+          "url": "https://open.spotify.com/artist/221r7E6QASURKauguQwGWw"
+        }
+      ],
+      "duration_ms": 182634,
+      "name": "Te Gusta, Me Gusta",
+      "url": "https://open.spotify.com/track/1BZZhlU3Mdab6jIMgM6gu8"
+    },
+    {
+      "added_at": "2023-08-29 17:45:03",
+      "album": {
         "name": "Lo Sencillo",
         "url": "https://open.spotify.com/album/22DTgDpU40DVijro8GQhGT"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 210031,
       "name": "Dulce Estar",
       "url": "https://open.spotify.com/track/3EZciZlYPvhbF0IpPC6EoB"
-    },
-    {
-      "added_at": "2023-08-29 17:45:03",
-      "album": {
-        "name": "EVEVerT\u00e9 (*XOXO 2)",
-        "url": "https://open.spotify.com/album/0sQwqf70LMb007dswR3Em3"
-      },
-      "artists": [
-        {
-          "name": "CANDE",
-          "url": "https://open.spotify.com/artist/41e5QAfoWQhKQEmqqbDgBp"
-        }
-      ],
-      "duration_ms": 160004,
-      "name": "Me Levant\u00e9 Hoy",
-      "url": "https://open.spotify.com/track/4Hmae2vybwrNtxTyE3c7Oe"
     },
     {
       "added_at": "2023-08-29 17:45:03",
@@ -823,18 +807,18 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "Prisma Tropical",
-        "url": "https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU"
+        "name": "EVEVerT\u00e9 (*XOXO 2)",
+        "url": "https://open.spotify.com/album/0sQwqf70LMb007dswR3Em3"
       },
       "artists": [
         {
-          "name": "Bal\u00fan",
-          "url": "https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU"
+          "name": "CANDE",
+          "url": "https://open.spotify.com/artist/41e5QAfoWQhKQEmqqbDgBp"
         }
       ],
-      "duration_ms": 293873,
-      "name": "La Nueva Ciudad",
-      "url": "https://open.spotify.com/track/07A2ymyQdaN7P1sbmJ6miC"
+      "duration_ms": 160004,
+      "name": "Me Levant\u00e9 Hoy",
+      "url": "https://open.spotify.com/track/4Hmae2vybwrNtxTyE3c7Oe"
     },
     {
       "added_at": "2023-08-29 17:45:03",
@@ -851,6 +835,22 @@
       "duration_ms": 149500,
       "name": "Cuando",
       "url": "https://open.spotify.com/track/7665iaCT1UHxhIR62sE0AJ"
+    },
+    {
+      "added_at": "2023-08-29 17:45:03",
+      "album": {
+        "name": "Prisma Tropical",
+        "url": "https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU"
+      },
+      "artists": [
+        {
+          "name": "Bal\u00fan",
+          "url": "https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU"
+        }
+      ],
+      "duration_ms": 293873,
+      "name": "La Nueva Ciudad",
+      "url": "https://open.spotify.com/track/07A2ymyQdaN7P1sbmJ6miC"
     }
   ],
   "unique_name": "Indie Boricua",

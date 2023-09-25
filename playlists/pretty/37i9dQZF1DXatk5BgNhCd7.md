@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Juan Luis Guerra 4.40
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,027 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,075 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Latidos](https://open.spotify.com/track/3DgomWud1aeGEreShqhbrj) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7), [CDI RECORDS S.A.](https://open.spotify.com/artist/6RYcrTuVVfidFKu0WKNc5k) | [Latidos](https://open.spotify.com/album/21S3A33s8jil3KqFnjL7vk) | 3:05 |
 | 50 | [Sigues En Mi Vida](https://open.spotify.com/track/68HfjBvYwUAFu3rRAGS1U7) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Sigues En Mi Vida](https://open.spotify.com/album/6g9RsKEGLj7Yz6SSaXDko7) | 2:57 |
 
-Snapshot ID: `MCw2ZTgyZjMxYTgzNWNhNGQwODRhNjNkMDJjZWMyZTNmYWRmMmYyMWFk`
+Snapshot ID: `MCwxZTJhY2E4ZjYxYzE0ZWFhYjMyOTM4ZmY1OTdjMmY1YzhmMjQwMzc2`

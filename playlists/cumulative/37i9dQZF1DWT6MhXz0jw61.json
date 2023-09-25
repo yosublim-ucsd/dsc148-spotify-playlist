@@ -7920,10 +7920,36 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 213240,
       "name": "Mind My Business",
       "url": "https://open.spotify.com/track/5ngsokogDVOgcahInF7sZe"
+    },
+    {
+      "album": {
+        "name": "Killing Time Before The Flood",
+        "url": "https://open.spotify.com/album/05hs3AI61sZUXmnpO5oQ17"
+      },
+      "artists": [
+        {
+          "name": "Wiley from Atlanta",
+          "url": "https://open.spotify.com/artist/6mkvJ6XHWVtPer8k0B0nTn"
+        },
+        {
+          "name": "Ben Reilly",
+          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
+        },
+        {
+          "name": "DavidTheTragic",
+          "url": "https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213240,
+      "name": "Mind My Business (feat. Ben Reilly & DavidTheTragic)",
+      "url": "https://open.spotify.com/track/7y0NT4p3ls8Bam8aOL2iks"
     },
     {
       "album": {

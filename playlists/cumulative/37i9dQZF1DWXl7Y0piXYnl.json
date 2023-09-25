@@ -2136,10 +2136,28 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 263206,
       "name": "I DM U",
       "url": "https://open.spotify.com/track/07oNLCkaprnGmx3edA3b1S"
+    },
+    {
+      "album": {
+        "name": "Gentle Confrontation",
+        "url": "https://open.spotify.com/album/6t8EEPPBUhJiYucv3zsIKx"
+      },
+      "artists": [
+        {
+          "name": "Loraine James",
+          "url": "https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263206,
+      "name": "I DM U",
+      "url": "https://open.spotify.com/track/5e0gYGMPLrsSUjSQONdjlF"
     },
     {
       "album": {

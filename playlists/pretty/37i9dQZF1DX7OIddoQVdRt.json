@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover:  <a href=\"https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=7476425269ff490a\">Pastor Mike Jr.</a>, <a href=\"https://www.thestellarawards.com/index.html\">Stellar Awards'</a> Artist of the Year ",
-  "num_followers": 630091,
+  "num_followers": 630173,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGE1ZDhjZDhhOGFhM2FmOWMwM2FjNDFiNGI2MGFkMTNhMzY0Y2Y3",
+  "snapshot_id": "MCxkNjU0OTI0YTU1YjUzMmE3OTc2YWJlMTM3ZmVlNTE0YmRlZDYyNmFi",
   "tracks": [
     {
       "added_at": "2023-08-04 07:09:27",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-08-04 07:09:27",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
-      },
-      "artists": [
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        }
-      ],
-      "duration_ms": 193791,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
         "name": "Worship Soul",
         "url": "https://open.spotify.com/album/5jCHlVKrD2YVFmwUNMcV4E"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 376372,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/7kTI1q9gPBPY4YNbTGKgLj"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 193791,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9"
     },
     {
       "added_at": "2023-08-04 07:09:27",
@@ -1812,26 +1812,6 @@
       },
       "artists": [
         {
-          "name": "Erica Campbell",
-          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
-        },
-        {
-          "name": "Warryn Campbell",
-          "url": "https://open.spotify.com/artist/3qSkdqhJ4upraMXTX2PdXu"
-        }
-      ],
-      "duration_ms": 312146,
-      "name": "Praying and Believing",
-      "url": "https://open.spotify.com/track/7hfv1V47dO8Wg930ARWsex"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
-        "name": "Warryn Campbell Presents My Block Inc.",
-        "url": "https://open.spotify.com/album/1cbaR2xRm6YAHgbTgr5met"
-      },
-      "artists": [
-        {
           "name": "The Walls Group",
           "url": "https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV"
         },
@@ -1843,6 +1823,26 @@
       "duration_ms": 241838,
       "name": "High and Lifted",
       "url": "https://open.spotify.com/track/5BEfxZNZZa4wN6mlz4LH4U"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
+        "name": "Warryn Campbell Presents My Block Inc.",
+        "url": "https://open.spotify.com/album/1cbaR2xRm6YAHgbTgr5met"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        },
+        {
+          "name": "Warryn Campbell",
+          "url": "https://open.spotify.com/artist/3qSkdqhJ4upraMXTX2PdXu"
+        }
+      ],
+      "duration_ms": 312146,
+      "name": "Praying and Believing",
+      "url": "https://open.spotify.com/track/7hfv1V47dO8Wg930ARWsex"
     },
     {
       "added_at": "2023-08-04 07:09:27",

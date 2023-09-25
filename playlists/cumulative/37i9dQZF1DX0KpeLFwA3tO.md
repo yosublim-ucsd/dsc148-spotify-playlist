@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Grrrl Gang
 
-1,332 songs - 2 day 18 hr 23 min
+1,333 songs - 2 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Best Kept Secret](https://open.spotify.com/track/1t7WwAVnHVfF2jgkTbCiSV) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Best Kept Secret](https://open.spotify.com/album/7FlwlWqXND3s375h0W5XTO) | 2:28 | 2022-10-06 | 2022-11-18 |
 | [Better Days](https://open.spotify.com/track/30yHfmaAM5kVB7GAoYhkA1) | [Makeout](https://open.spotify.com/artist/4RkIeqeY7seRZby4X73Ajk) | [Better Days](https://open.spotify.com/album/44hn7rJlXnCLgzlvx30LgR) | 3:09 | 2023-03-03 | 2023-04-14 |
 | [Better Each Day](https://open.spotify.com/track/3Mdx0JOsOWRI76zIwZKEyL) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Better Each Day](https://open.spotify.com/album/35XWKWnRUNK5w3ievzNtPc) | 3:04 | 2022-02-25 | 2022-04-22 |
-| [Better Than Life](https://open.spotify.com/track/0fsh3O5K4Cih85nuCqekP0) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Better Than Life](https://open.spotify.com/album/23ja9hIqOtQ70oJCOPFEow) | 1:29 | 2023-09-01 |  |
+| [Better Than Life](https://open.spotify.com/track/0fsh3O5K4Cih85nuCqekP0) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Better Than Life](https://open.spotify.com/album/23ja9hIqOtQ70oJCOPFEow) | 1:29 | 2023-09-01 | 2023-09-25 |
+| [Better Than Life](https://open.spotify.com/track/1W7Gfi0JgMORjjPZkhNRlj) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/6aZFHnpTwonsLw8qVI5DdB) | 1:29 | 2023-09-22 |  |
 | [Bielefeld, Paris oder Madrid](https://open.spotify.com/track/3ufC9vSr7giJmxTJE5IRjd) | [Deine Cousine](https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y) | [Bielefeld, Paris oder Madrid](https://open.spotify.com/album/26rzAyKIxDItDbUS6c4M9v) | 2:43 | 2022-06-30 | 2022-08-05 |
 | [Big Bad!](https://open.spotify.com/track/1OsQOPV4671B3MmJIuoeNg) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Big Bad!](https://open.spotify.com/album/0vygUxLK7ltBvtD4O0xzYh) | 2:11 | 2022-07-21 | 2022-09-09 |
 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 | 2023-08-03 |  |

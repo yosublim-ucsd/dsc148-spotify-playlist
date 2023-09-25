@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Estrella del Sol on cover. Updates every Wednesday.",
-  "num_followers": 115351,
+  "num_followers": 115469,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODY3OTAyYmI5YjA3Y2Q1MTg2OWNkZDlmZGExN2IxYWIzMTUyNjkz",
+  "snapshot_id": "MCxiYTJkMDVjMzIwZWI3MDA1MWVmOTJiMTMwM2EyZDMyODVmODZjODI4",
   "tracks": [
     {
       "added_at": "2023-09-13 15:55:38",
@@ -105,22 +105,6 @@
       "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
     },
     {
-      "added_at": "2023-06-28 01:00:55",
-      "album": {
-        "name": "Asa De Menino Chapter 2",
-        "url": "https://open.spotify.com/album/0iZIAcvk4pHh9GizYvoTMh"
-      },
-      "artists": [
-        {
-          "name": "Arthur Liory",
-          "url": "https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK"
-        }
-      ],
-      "duration_ms": 98115,
-      "name": "Asa De Menino Chapter 2",
-      "url": "https://open.spotify.com/track/7Ctmgg8dk0cSiFersf7nwZ"
-    },
-    {
       "added_at": "2023-08-30 04:00:00",
       "album": {
         "name": "Familiar Flavours",
@@ -135,6 +119,22 @@
       "duration_ms": 260202,
       "name": "Familiar Flavours",
       "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
+    },
+    {
+      "added_at": "2023-06-28 01:00:55",
+      "album": {
+        "name": "Asa De Menino Chapter 2",
+        "url": "https://open.spotify.com/album/0iZIAcvk4pHh9GizYvoTMh"
+      },
+      "artists": [
+        {
+          "name": "Arthur Liory",
+          "url": "https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK"
+        }
+      ],
+      "duration_ms": 98115,
+      "name": "Asa De Menino Chapter 2",
+      "url": "https://open.spotify.com/track/7Ctmgg8dk0cSiFersf7nwZ"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -261,22 +261,6 @@
       "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
-      "added_at": "2023-08-10 05:46:09",
-      "album": {
-        "name": "MY BLACK CAT",
-        "url": "https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ"
-      },
-      "artists": [
-        {
-          "name": "Nana Nina",
-          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "MY BLACK CAT",
-      "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
-    },
-    {
       "added_at": "2023-07-18 19:13:40",
       "album": {
         "name": "Subzero",
@@ -291,6 +275,22 @@
       "duration_ms": 282750,
       "name": "Subzero",
       "url": "https://open.spotify.com/track/6sJpI63m2ZJvJzfPH1DB3o"
+    },
+    {
+      "added_at": "2023-08-10 05:46:09",
+      "album": {
+        "name": "MY BLACK CAT",
+        "url": "https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ"
+      },
+      "artists": [
+        {
+          "name": "Nana Nina",
+          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "MY BLACK CAT",
+      "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
     },
     {
       "added_at": "2023-06-28 01:00:55",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-08-30 04:00:00",
       "album": {
-        "name": "Slowing Everything Down",
-        "url": "https://open.spotify.com/album/7I9HdlRfhn236XbMP6mCMk"
-      },
-      "artists": [
-        {
-          "name": "Nico Less",
-          "url": "https://open.spotify.com/artist/5AoXgqcYEvfXsp9WP2chqu"
-        }
-      ],
-      "duration_ms": 373163,
-      "name": "Slowing Everything Down",
-      "url": "https://open.spotify.com/track/2UwsVfyJpAKF0VFpfFc9JZ"
-    },
-    {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
         "name": "Wouldn\u2019t It Be Easy?",
         "url": "https://open.spotify.com/album/5lSRQqXZTgiK1kYqXSOs9t"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 149674,
       "name": "thing about a boy",
       "url": "https://open.spotify.com/track/1aOmzJa2WQndveXvOedH36"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Slowing Everything Down",
+        "url": "https://open.spotify.com/album/7I9HdlRfhn236XbMP6mCMk"
+      },
+      "artists": [
+        {
+          "name": "Nico Less",
+          "url": "https://open.spotify.com/artist/5AoXgqcYEvfXsp9WP2chqu"
+        }
+      ],
+      "duration_ms": 373163,
+      "name": "Slowing Everything Down",
+      "url": "https://open.spotify.com/track/2UwsVfyJpAKF0VFpfFc9JZ"
     },
     {
       "added_at": "2023-08-01 21:02:30",
@@ -657,20 +657,20 @@
       "url": "https://open.spotify.com/track/5DNJQWIQKqmfZGDC6lYJuR"
     },
     {
-      "added_at": "2023-07-18 19:13:40",
+      "added_at": "2023-08-30 04:00:00",
       "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/3h52mrddDECCjCN4giJrxh"
+        "name": "Birthday Party",
+        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
       },
       "artists": [
         {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+          "name": "Vines",
+          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
         }
       ],
-      "duration_ms": 229602,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid"
+      "duration_ms": 92737,
+      "name": "drive thru",
+      "url": "https://open.spotify.com/track/7jxS1PV00IKvsvqrCRdoXC"
     },
     {
       "added_at": "2023-08-01 21:02:30",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/6CxtBb5fB51AKCtMciI7Ce"
     },
     {
-      "added_at": "2023-08-23 14:01:12",
-      "album": {
-        "name": "Blue Angel Sparkling Silver",
-        "url": "https://open.spotify.com/album/5OQ0N0i26LsukbGcYeSa65"
-      },
-      "artists": [
-        {
-          "name": "Quiet Light",
-          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
-        }
-      ],
-      "duration_ms": 70616,
-      "name": "Somerville",
-      "url": "https://open.spotify.com/track/2wLRsTZsKnJUjQlY0tZi9x"
-    },
-    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "Huele a Fraude",
@@ -721,20 +705,36 @@
       "url": "https://open.spotify.com/track/56sdpPGIid7f1GkzibrJXV"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
+      "added_at": "2023-07-18 19:13:40",
       "album": {
-        "name": "Birthday Party",
-        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/3h52mrddDECCjCN4giJrxh"
       },
       "artists": [
         {
-          "name": "Vines",
-          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
         }
       ],
-      "duration_ms": 92737,
-      "name": "drive thru",
-      "url": "https://open.spotify.com/track/7jxS1PV00IKvsvqrCRdoXC"
+      "duration_ms": 229602,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid"
+    },
+    {
+      "added_at": "2023-08-23 14:01:12",
+      "album": {
+        "name": "Blue Angel Sparkling Silver",
+        "url": "https://open.spotify.com/album/5OQ0N0i26LsukbGcYeSa65"
+      },
+      "artists": [
+        {
+          "name": "Quiet Light",
+          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
+        }
+      ],
+      "duration_ms": 70616,
+      "name": "Somerville",
+      "url": "https://open.spotify.com/track/2wLRsTZsKnJUjQlY0tZi9x"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-07-18 19:13:40",
       "album": {
-        "name": "Latency at Villa Medici",
-        "url": "https://open.spotify.com/album/1vlmGQpA3TDWvkMXzPCjnL"
-      },
-      "artists": [
-        {
-          "name": "Damsel Elysium",
-          "url": "https://open.spotify.com/artist/6ry5d65fbavBIbowSQAFfS"
-        }
-      ],
-      "duration_ms": 706000,
-      "name": "27 Glass Ceilings",
-      "url": "https://open.spotify.com/track/1b12pTqgdXTuD4GRSRFAQj"
-    },
-    {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
         "name": "Tinnitus",
         "url": "https://open.spotify.com/album/1Ql9iOzse7nbLemXldLd1J"
       },
@@ -817,20 +801,20 @@
       "url": "https://open.spotify.com/track/41raaLWyqsMOStu9sYqJPK"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
+      "added_at": "2023-07-18 19:13:40",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/5haRNlDl1sHNbrJ2mYwAtj"
+        "name": "Latency at Villa Medici",
+        "url": "https://open.spotify.com/album/1vlmGQpA3TDWvkMXzPCjnL"
       },
       "artists": [
         {
-          "name": "Naoko Sakata",
-          "url": "https://open.spotify.com/artist/4Jd7iJiBlNefAj47YIio6x"
+          "name": "Damsel Elysium",
+          "url": "https://open.spotify.com/artist/6ry5d65fbavBIbowSQAFfS"
         }
       ],
-      "duration_ms": 475200,
-      "name": "Improvisation 15",
-      "url": "https://open.spotify.com/track/4ttcYW4q4RimK9gP5cjYkK"
+      "duration_ms": 706000,
+      "name": "27 Glass Ceilings",
+      "url": "https://open.spotify.com/track/1b12pTqgdXTuD4GRSRFAQj"
     },
     {
       "added_at": "2023-06-28 01:00:55",
@@ -847,6 +831,22 @@
       "duration_ms": 212472,
       "name": "Way Things Aren't",
       "url": "https://open.spotify.com/track/0iupNUfxhGo1AEPlfHz4m6"
+    },
+    {
+      "added_at": "2023-09-13 15:55:38",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/5haRNlDl1sHNbrJ2mYwAtj"
+      },
+      "artists": [
+        {
+          "name": "Naoko Sakata",
+          "url": "https://open.spotify.com/artist/4Jd7iJiBlNefAj47YIio6x"
+        }
+      ],
+      "duration_ms": 475200,
+      "name": "Improvisation 15",
+      "url": "https://open.spotify.com/track/4ttcYW4q4RimK9gP5cjYkK"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-08-01 13:11:26",
       "album": {
+        "name": "ISSUES (INTRO)",
+        "url": "https://open.spotify.com/album/1Tu36GzevcVClV0M7AgLDf"
+      },
+      "artists": [
+        {
+          "name": "DJ MELL G",
+          "url": "https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX"
+        }
+      ],
+      "duration_ms": 262675,
+      "name": "ISSUES (INTRO)",
+      "url": "https://open.spotify.com/track/201Y0nLSCr6ql1ueJlMPsT"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
         "name": "melancholia blue",
         "url": "https://open.spotify.com/album/6pLL6zz2kgDSKHA8mNiPDn"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "ISSUES (INTRO)",
-        "url": "https://open.spotify.com/album/1Tu36GzevcVClV0M7AgLDf"
+        "name": "V\u00e4ter und S\u00f6hne",
+        "url": "https://open.spotify.com/album/04Q7u5HiCCcjPbVMqCQbaW"
       },
       "artists": [
         {
-          "name": "DJ MELL G",
-          "url": "https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX"
+          "name": "Alex Kaminski",
+          "url": "https://open.spotify.com/artist/2206skMSHXiT4SREi6wpf7"
         }
       ],
-      "duration_ms": 262675,
-      "name": "ISSUES (INTRO)",
-      "url": "https://open.spotify.com/track/201Y0nLSCr6ql1ueJlMPsT"
+      "duration_ms": 353250,
+      "name": "V\u00e4ter und S\u00f6hne",
+      "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -911,22 +927,6 @@
       "duration_ms": 297017,
       "name": "The End of What?",
       "url": "https://open.spotify.com/track/52e028KD9UrxvpunBicff3"
-    },
-    {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
-        "name": "V\u00e4ter und S\u00f6hne",
-        "url": "https://open.spotify.com/album/04Q7u5HiCCcjPbVMqCQbaW"
-      },
-      "artists": [
-        {
-          "name": "Alex Kaminski",
-          "url": "https://open.spotify.com/artist/2206skMSHXiT4SREi6wpf7"
-        }
-      ],
-      "duration_ms": 353250,
-      "name": "V\u00e4ter und S\u00f6hne",
-      "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
     },
     {
       "added_at": "2023-06-28 01:00:55",
@@ -1041,6 +1041,22 @@
       "url": "https://open.spotify.com/track/2BIV4qwP2ATl31voaWEOv6"
     },
     {
+      "added_at": "2023-06-07 04:04:27",
+      "album": {
+        "name": "Outbound 5.1",
+        "url": "https://open.spotify.com/album/4AeXlrnJDR4YsA1ympQRdc"
+      },
+      "artists": [
+        {
+          "name": "Julian Stetter",
+          "url": "https://open.spotify.com/artist/5LItxzjKC2W1nRnxGflkkj"
+        }
+      ],
+      "duration_ms": 436890,
+      "name": "Bear",
+      "url": "https://open.spotify.com/track/00Kq9F35KrFQ99KoT32b8V"
+    },
+    {
       "added_at": "2023-07-18 19:13:40",
       "album": {
         "name": "Serduszko",
@@ -1061,22 +1077,6 @@
       "url": "https://open.spotify.com/track/7uE7jFI9QPPltoqp7Vh53J"
     },
     {
-      "added_at": "2023-06-07 04:04:27",
-      "album": {
-        "name": "Outbound 5.1",
-        "url": "https://open.spotify.com/album/4AeXlrnJDR4YsA1ympQRdc"
-      },
-      "artists": [
-        {
-          "name": "Julian Stetter",
-          "url": "https://open.spotify.com/artist/5LItxzjKC2W1nRnxGflkkj"
-        }
-      ],
-      "duration_ms": 436890,
-      "name": "Bear",
-      "url": "https://open.spotify.com/track/00Kq9F35KrFQ99KoT32b8V"
-    },
-    {
       "added_at": "2023-06-28 01:00:55",
       "album": {
         "name": "humanus",
@@ -1091,6 +1091,22 @@
       "duration_ms": 452207,
       "name": "500 ascended",
       "url": "https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "Gatherings",
+        "url": "https://open.spotify.com/album/5YGYciOp33ctilmWlgV0h0"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Neighbourhood",
+          "url": "https://open.spotify.com/artist/20jBFovpOUwDnYWNqdnTp4"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/3b0AuqT3ghwDbUXXExwgoe"
     },
     {
       "added_at": "2023-08-16 06:00:00",
@@ -1123,22 +1139,6 @@
       "duration_ms": 288000,
       "name": "POOLS",
       "url": "https://open.spotify.com/track/5Lijj3EPCxqzsccJNCm0ZV"
-    },
-    {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
-        "name": "Gatherings",
-        "url": "https://open.spotify.com/album/5YGYciOp33ctilmWlgV0h0"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Neighbourhood",
-          "url": "https://open.spotify.com/artist/20jBFovpOUwDnYWNqdnTp4"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/3b0AuqT3ghwDbUXXExwgoe"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -1257,22 +1257,6 @@
       "url": "https://open.spotify.com/track/30vEg5FXGG95wZws1LjwYR"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
-        "name": "Sophia Oscillations",
-        "url": "https://open.spotify.com/album/4oqNidSgmpDNdm0XbRZuWu"
-      },
-      "artists": [
-        {
-          "name": "Mission To The Sun",
-          "url": "https://open.spotify.com/artist/4xYUhkQrEDVfK3Zq1MAuU1"
-        }
-      ],
-      "duration_ms": 261433,
-      "name": "Attrition",
-      "url": "https://open.spotify.com/track/2jehW2Iv3rbQnEFrAdrAjz"
-    },
-    {
       "added_at": "2023-07-18 19:13:40",
       "album": {
         "name": "WIREPULLER",
@@ -1291,22 +1275,34 @@
     {
       "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "D & E",
-        "url": "https://open.spotify.com/album/2bf1rT3OYgPna75H14aTzs"
+        "name": "Sophia Oscillations",
+        "url": "https://open.spotify.com/album/4oqNidSgmpDNdm0XbRZuWu"
       },
       "artists": [
         {
-          "name": "Digo",
-          "url": "https://open.spotify.com/artist/4zLM9VqtCfvu0rklvg6LyH"
-        },
-        {
-          "name": "Eric Escanes",
-          "url": "https://open.spotify.com/artist/4OZp27Cc1JZprOvcjuoOb9"
+          "name": "Mission To The Sun",
+          "url": "https://open.spotify.com/artist/4xYUhkQrEDVfK3Zq1MAuU1"
         }
       ],
-      "duration_ms": 174953,
-      "name": "Snake Oil Salesman",
-      "url": "https://open.spotify.com/track/0bMIJUMXalCoA9KC2NHxtH"
+      "duration_ms": 261433,
+      "name": "Attrition",
+      "url": "https://open.spotify.com/track/2jehW2Iv3rbQnEFrAdrAjz"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "Vol. II",
+        "url": "https://open.spotify.com/album/73YNaAGxipWa1Lqe3Y2Qf5"
+      },
+      "artists": [
+        {
+          "name": "Silicone Prairie",
+          "url": "https://open.spotify.com/artist/41Cb0AUOB1YtrPLiDffzb0"
+        }
+      ],
+      "duration_ms": 88756,
+      "name": "Willkommen",
+      "url": "https://open.spotify.com/track/2hlNKxlqObtksthAmbidXA"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -1347,18 +1343,38 @@
     {
       "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "Vol. II",
-        "url": "https://open.spotify.com/album/73YNaAGxipWa1Lqe3Y2Qf5"
+        "name": "D & E",
+        "url": "https://open.spotify.com/album/2bf1rT3OYgPna75H14aTzs"
       },
       "artists": [
         {
-          "name": "Silicone Prairie",
-          "url": "https://open.spotify.com/artist/41Cb0AUOB1YtrPLiDffzb0"
+          "name": "Digo",
+          "url": "https://open.spotify.com/artist/4zLM9VqtCfvu0rklvg6LyH"
+        },
+        {
+          "name": "Eric Escanes",
+          "url": "https://open.spotify.com/artist/4OZp27Cc1JZprOvcjuoOb9"
         }
       ],
-      "duration_ms": 88756,
-      "name": "Willkommen",
-      "url": "https://open.spotify.com/track/2hlNKxlqObtksthAmbidXA"
+      "duration_ms": 174953,
+      "name": "Snake Oil Salesman",
+      "url": "https://open.spotify.com/track/0bMIJUMXalCoA9KC2NHxtH"
+    },
+    {
+      "added_at": "2023-07-18 19:13:40",
+      "album": {
+        "name": "Eel II (reduction)",
+        "url": "https://open.spotify.com/album/4fl7flDLyBjDpFoBn4DKJ0"
+      },
+      "artists": [
+        {
+          "name": "Hyunhye Seo",
+          "url": "https://open.spotify.com/artist/1smQb0kXgM0YKw0cEnTLpO"
+        }
+      ],
+      "duration_ms": 237938,
+      "name": "Eel II (reduction)",
+      "url": "https://open.spotify.com/track/1nFCWcGCm6vYuOMsjptQgD"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -1393,22 +1409,6 @@
       "url": "https://open.spotify.com/track/0Xla3rLHq8UmkD0DX6J9hm"
     },
     {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
-        "name": "Eel II (reduction)",
-        "url": "https://open.spotify.com/album/4fl7flDLyBjDpFoBn4DKJ0"
-      },
-      "artists": [
-        {
-          "name": "Hyunhye Seo",
-          "url": "https://open.spotify.com/artist/1smQb0kXgM0YKw0cEnTLpO"
-        }
-      ],
-      "duration_ms": 237938,
-      "name": "Eel II (reduction)",
-      "url": "https://open.spotify.com/track/1nFCWcGCm6vYuOMsjptQgD"
-    },
-    {
       "added_at": "2023-08-23 14:01:12",
       "album": {
         "name": "drizzy drone",
@@ -1441,22 +1441,6 @@
       "url": "https://open.spotify.com/track/7fE3ZAc2j7Z5Y4gQwW1lB0"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
-        "name": "SC46kop",
-        "url": "https://open.spotify.com/album/59CiMFG1pKHZREQnKg5n1b"
-      },
-      "artists": [
-        {
-          "name": "4THSEX",
-          "url": "https://open.spotify.com/artist/2ULfBdmjqfKsn3cFroeAYS"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "SC46kop",
-      "url": "https://open.spotify.com/track/2z0xkLDfg1BwlqKREicqpQ"
-    },
-    {
       "added_at": "2023-09-13 15:55:38",
       "album": {
         "name": "Follow Your Heartbeat",
@@ -1471,6 +1455,22 @@
       "duration_ms": 171440,
       "name": "Follow Your Heartbeat",
       "url": "https://open.spotify.com/track/3V9MoPnm3V6NyqrhbHsbqd"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "SC46kop",
+        "url": "https://open.spotify.com/album/59CiMFG1pKHZREQnKg5n1b"
+      },
+      "artists": [
+        {
+          "name": "4THSEX",
+          "url": "https://open.spotify.com/artist/2ULfBdmjqfKsn3cFroeAYS"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "SC46kop",
+      "url": "https://open.spotify.com/track/2z0xkLDfg1BwlqKREicqpQ"
     },
     {
       "added_at": "2023-08-01 13:11:26",

@@ -1,12 +1,12 @@
 {
   "description": "Hit dance per l'estate 2023! \u2600\ufe0f\ud83c\udf79\ud83c\udfdd\ufe0f",
-  "num_followers": 100707,
+  "num_followers": 100757,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTQ0M2E2MmY3MTU4MDRmNDk2MmJiMzM4MzM2OTNhMWI0NzI5ZTk4",
+  "snapshot_id": "MCxhYmQ5YTY5NjhhYjYzNzc3ZmQ0ZDgxYWE1YjU3ODhmMGVmMGI2Yjlm",
   "tracks": [
     {
       "added_at": "2023-09-18 15:39:02",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-09-18 15:39:02",
       "album": {
-        "name": "Smash My Heart",
-        "url": "https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 170706,
-      "name": "Smash My Heart",
-      "url": "https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG"
-    },
-    {
-      "added_at": "2023-09-18 15:39:02",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2023-09-18 15:39:02",
       "album": {
+        "name": "Smash My Heart",
+        "url": "https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 170706,
+      "name": "Smash My Heart",
+      "url": "https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG"
+    },
+    {
+      "added_at": "2023-09-18 15:39:02",
+      "album": {
         "name": "Don't You Wanna Play?",
         "url": "https://open.spotify.com/album/3i5KKkquh96MJz4IbA96IO"
       },
@@ -1039,6 +1039,22 @@
       "duration_ms": 138733,
       "name": "Don't You Wanna Play?",
       "url": "https://open.spotify.com/track/15hhlasuVIxEZ3O0PxlRkT"
+    },
+    {
+      "added_at": "2023-09-18 15:39:02",
+      "album": {
+        "name": "Easy On My Heart",
+        "url": "https://open.spotify.com/album/4HW5Zf1o0eOxIfQETZFqab"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 178593,
+      "name": "Easy On My Heart",
+      "url": "https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL"
     },
     {
       "added_at": "2023-09-18 15:39:02",
@@ -1067,22 +1083,6 @@
       "duration_ms": 190302,
       "name": "So Close",
       "url": "https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK"
-    },
-    {
-      "added_at": "2023-09-18 15:39:02",
-      "album": {
-        "name": "Easy On My Heart",
-        "url": "https://open.spotify.com/album/4HW5Zf1o0eOxIfQETZFqab"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 178593,
-      "name": "Easy On My Heart",
-      "url": "https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL"
     },
     {
       "added_at": "2023-09-18 15:39:02",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-09-18 15:39:02",
       "album": {
-        "name": "Tears In Ibiza (feat. AR/CO)",
-        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
-      },
-      "artists": [
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 143579,
-      "name": "Tears In Ibiza (feat. AR/CO)",
-      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
-    },
-    {
-      "added_at": "2023-09-18 15:39:02",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
       },
@@ -1199,6 +1179,26 @@
     {
       "added_at": "2023-09-18 15:39:02",
       "album": {
+        "name": "Tears In Ibiza (feat. AR/CO)",
+        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 143579,
+      "name": "Tears In Ibiza (feat. AR/CO)",
+      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
+    },
+    {
+      "added_at": "2023-09-18 15:39:02",
+      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 180638,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE"
+    },
+    {
+      "added_at": "2023-09-18 15:39:02",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 196224,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
     },
     {
       "added_at": "2023-09-18 15:39:02",
@@ -1255,22 +1271,6 @@
       "duration_ms": 166572,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2"
-    },
-    {
-      "added_at": "2023-09-18 15:39:02",
-      "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 196224,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
     },
     {
       "added_at": "2023-09-18 15:39:02",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2023-09-18 15:39:02",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4dvts8ZkUUsbQdGASHVmbi"
-      },
-      "artists": [
-        {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
-        },
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
-        }
-      ],
-      "duration_ms": 148086,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2KlnRC8jhbWokqr3PQMwgO"
-    },
-    {
-      "added_at": "2023-09-18 15:39:02",
-      "album": {
         "name": "Coming Home (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/3NVn8xsuoWREk1RCnNNHGo"
       },
@@ -1827,6 +1807,26 @@
       "duration_ms": 136866,
       "name": "Coming Home (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/4idV4UhKatC5h4Na8dhBQo"
+    },
+    {
+      "added_at": "2023-09-18 15:39:02",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4dvts8ZkUUsbQdGASHVmbi"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 148086,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2KlnRC8jhbWokqr3PQMwgO"
     },
     {
       "added_at": "2023-09-18 15:39:02",
@@ -1931,6 +1931,46 @@
     {
       "added_at": "2023-09-18 15:39:02",
       "album": {
+        "name": "How You Samba",
+        "url": "https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        }
+      ],
+      "duration_ms": 151680,
+      "name": "How You Samba",
+      "url": "https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv"
+    },
+    {
+      "added_at": "2023-09-18 15:39:02",
+      "album": {
+        "name": "Madan (King)",
+        "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 183609,
+      "name": "Madan (King)",
+      "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
+    },
+    {
+      "added_at": "2023-09-18 15:39:02",
+      "album": {
         "name": "Damn (You\u2019ve Got Me Saying)",
         "url": "https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp"
       },
@@ -1955,22 +1995,6 @@
     {
       "added_at": "2023-09-18 15:39:02",
       "album": {
-        "name": "Madan (King)",
-        "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 183609,
-      "name": "Madan (King)",
-      "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
-    },
-    {
-      "added_at": "2023-09-18 15:39:02",
-      "album": {
         "name": "Enjoy Your Life",
         "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
       },
@@ -1983,30 +2007,6 @@
       "duration_ms": 240053,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
-    },
-    {
-      "added_at": "2023-09-18 15:39:02",
-      "album": {
-        "name": "How You Samba",
-        "url": "https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
-        }
-      ],
-      "duration_ms": 151680,
-      "name": "How You Samba",
-      "url": "https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv"
     },
     {
       "added_at": "2023-09-18 15:39:02",

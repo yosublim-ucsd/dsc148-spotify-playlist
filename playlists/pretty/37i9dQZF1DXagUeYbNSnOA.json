@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring cKovi. Updates every Wednesday.",
-  "num_followers": 172645,
+  "num_followers": 172653,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDBlM2VmYTEyMTJhODZlMmZmMDUxYjA2ODA3NmY0ZTAyZjQyNjU1",
+  "snapshot_id": "MCxjNTFmY2MzOWI0NGU1OTM4M2U0OWMzNmViYjc1ZmVkOTljMzE2OWFm",
   "tracks": [
     {
       "added_at": "2023-09-20 06:00:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-09-20 06:00:00",
       "album": {
+        "name": "Departamento",
+        "url": "https://open.spotify.com/album/7AQYo4b92wZ6OKi3PbqT1b"
+      },
+      "artists": [
+        {
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+        }
+      ],
+      "duration_ms": 198253,
+      "name": "Departamento",
+      "url": "https://open.spotify.com/track/4gBM7Z5sxC6iyRveSn65XL"
+    },
+    {
+      "added_at": "2023-09-20 06:00:00",
+      "album": {
         "name": "Cerquita de Mi",
         "url": "https://open.spotify.com/album/6a6iVlTaKUZaHmBKNZUc1k"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 181504,
       "name": "Cerquita de Mi",
       "url": "https://open.spotify.com/track/6xKULMJ0wklfv5uAklt6rO"
-    },
-    {
-      "added_at": "2023-09-20 06:00:00",
-      "album": {
-        "name": "Departamento",
-        "url": "https://open.spotify.com/album/7AQYo4b92wZ6OKi3PbqT1b"
-      },
-      "artists": [
-        {
-          "name": "Agris",
-          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
-        }
-      ],
-      "duration_ms": 198253,
-      "name": "Departamento",
-      "url": "https://open.spotify.com/track/4gBM7Z5sxC6iyRveSn65XL"
     },
     {
       "added_at": "2023-09-20 06:00:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-09-20 06:00:00",
       "album": {
+        "name": "Tristella",
+        "url": "https://open.spotify.com/album/56w1q8N2YHIYoKruoUrAlK"
+      },
+      "artists": [
+        {
+          "name": "Esper\u00f3n",
+          "url": "https://open.spotify.com/artist/4VD0eThiy8dR6NTT0ZulGI"
+        }
+      ],
+      "duration_ms": 238389,
+      "name": "Tristella",
+      "url": "https://open.spotify.com/track/1phCFLjZZi9k3fyu1nSnHH"
+    },
+    {
+      "added_at": "2023-09-20 06:00:00",
+      "album": {
         "name": "La Sed",
         "url": "https://open.spotify.com/album/5yTIFCOtnQYxnqrPFPgx4z"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 268288,
       "name": "A Oscuras",
       "url": "https://open.spotify.com/track/06y5t4RZDzeTR4oO1FSfFL"
-    },
-    {
-      "added_at": "2023-09-20 06:00:00",
-      "album": {
-        "name": "Tristella",
-        "url": "https://open.spotify.com/album/56w1q8N2YHIYoKruoUrAlK"
-      },
-      "artists": [
-        {
-          "name": "Esper\u00f3n",
-          "url": "https://open.spotify.com/artist/4VD0eThiy8dR6NTT0ZulGI"
-        }
-      ],
-      "duration_ms": 238389,
-      "name": "Tristella",
-      "url": "https://open.spotify.com/track/1phCFLjZZi9k3fyu1nSnHH"
     },
     {
       "added_at": "2023-09-20 06:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-09-20 06:00:00",
       "album": {
-        "name": "MODA",
-        "url": "https://open.spotify.com/album/6ggoPcqaldJe77m7h1I1Ag"
-      },
-      "artists": [
-        {
-          "name": "M\u00d3RY",
-          "url": "https://open.spotify.com/artist/5FdrFhHWZupu9cqlWAg2WR"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "MODA",
-      "url": "https://open.spotify.com/track/4x6WlBCITrqjZZUHl1Dnhh"
-    },
-    {
-      "added_at": "2023-09-20 06:00:00",
-      "album": {
         "name": "CUANDO ME CANSE DE MI",
         "url": "https://open.spotify.com/album/4HP7e9eSfKsG7liqyEBalt"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 234959,
       "name": "CUANDO ME CANSE DE MI",
       "url": "https://open.spotify.com/track/2FOHQIcqFT3et7rAioADgK"
+    },
+    {
+      "added_at": "2023-09-20 06:00:00",
+      "album": {
+        "name": "MODA",
+        "url": "https://open.spotify.com/album/6ggoPcqaldJe77m7h1I1Ag"
+      },
+      "artists": [
+        {
+          "name": "M\u00d3RY",
+          "url": "https://open.spotify.com/artist/5FdrFhHWZupu9cqlWAg2WR"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "MODA",
+      "url": "https://open.spotify.com/track/4x6WlBCITrqjZZUHl1Dnhh"
     },
     {
       "added_at": "2023-09-20 06:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-09-20 06:00:00",
       "album": {
-        "name": "Un d\u00eda",
-        "url": "https://open.spotify.com/album/20QTVZ5mvjLIwPIaYcRRUO"
-      },
-      "artists": [
-        {
-          "name": "Caicedo",
-          "url": "https://open.spotify.com/artist/5G7M8mAOxDxQ0QpCtlcEFI"
-        }
-      ],
-      "duration_ms": 168156,
-      "name": "Un d\u00eda",
-      "url": "https://open.spotify.com/track/0b7B3oNHLzYiOmnm8z0GrX"
-    },
-    {
-      "added_at": "2023-09-20 06:00:00",
-      "album": {
         "name": "Canciones con vos",
         "url": "https://open.spotify.com/album/0GEduLt0Fz70LUrfcfhd89"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 141415,
       "name": "Canciones con vos",
       "url": "https://open.spotify.com/track/7GNdfZhLngbCNW895W8H10"
+    },
+    {
+      "added_at": "2023-09-20 06:00:00",
+      "album": {
+        "name": "Un d\u00eda",
+        "url": "https://open.spotify.com/album/20QTVZ5mvjLIwPIaYcRRUO"
+      },
+      "artists": [
+        {
+          "name": "Caicedo",
+          "url": "https://open.spotify.com/artist/5G7M8mAOxDxQ0QpCtlcEFI"
+        }
+      ],
+      "duration_ms": 168156,
+      "name": "Un d\u00eda",
+      "url": "https://open.spotify.com/track/0b7B3oNHLzYiOmnm8z0GrX"
     },
     {
       "added_at": "2023-09-20 06:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-09-20 06:00:00",
       "album": {
+        "name": "Su Forma de Mirar",
+        "url": "https://open.spotify.com/album/2RLaIhFb4i1sEkcsFPEJJb"
+      },
+      "artists": [
+        {
+          "name": "Tomates En Verano",
+          "url": "https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt"
+        }
+      ],
+      "duration_ms": 290793,
+      "name": "Su Forma de Mirar",
+      "url": "https://open.spotify.com/track/3OfvmpqvdGV9fKIdsMlsJT"
+    },
+    {
+      "added_at": "2023-09-20 06:00:00",
+      "album": {
         "name": "aterrizar",
         "url": "https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 229454,
       "name": "Fuerte",
       "url": "https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy"
-    },
-    {
-      "added_at": "2023-09-20 06:00:00",
-      "album": {
-        "name": "Su Forma de Mirar",
-        "url": "https://open.spotify.com/album/2RLaIhFb4i1sEkcsFPEJJb"
-      },
-      "artists": [
-        {
-          "name": "Tomates En Verano",
-          "url": "https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt"
-        }
-      ],
-      "duration_ms": 290793,
-      "name": "Su Forma de Mirar",
-      "url": "https://open.spotify.com/track/3OfvmpqvdGV9fKIdsMlsJT"
     },
     {
       "added_at": "2023-09-20 06:00:00",

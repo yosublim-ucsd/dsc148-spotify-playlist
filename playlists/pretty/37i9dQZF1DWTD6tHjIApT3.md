@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: Kyrie（アイナ・ジ・エンド）
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,687 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,761 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 38 | [貴方の側に。](https://open.spotify.com/track/6TTAZeyRDN03BHlhQ9Lq6L) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [貴方の側に。](https://open.spotify.com/album/4l2NmkiWx4EKEfZ1d4QXSM) | 4:02 |
 | 39 | [スマイルあげない](https://open.spotify.com/track/4LKpngNUdNSWMSewkMkKzL) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [スマイルあげない](https://open.spotify.com/album/0jQQr37kPhFRI6zjpP5Ys5) | 3:17 |
 | 40 | [愛をありがとう](https://open.spotify.com/track/5oDEAsNWeomAjcplALgqdw) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [愛をありがとう](https://open.spotify.com/album/5eaaXphQ2C5rwgoOKTbOp1) | 5:14 |
-| 41 | [マーメイド](https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [マーメイド](https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq) | 3:55 |
+| 41 | [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 |
 | 42 | [街の灯り](https://open.spotify.com/track/43Lf1FiIJ9CKK7klIqpDLa) | [Mao Uchu](https://open.spotify.com/artist/1XZBuRxX5xORatBQJLsakP) | [Far away from](https://open.spotify.com/album/6i0XnWWPNArV6CDkFZJUVA) | 4:58 |
-| 43 | [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 |
+| 43 | [マーメイド](https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [マーメイド](https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq) | 3:55 |
 | 44 | [Polaroid \(prod\. A.G.O\)](https://open.spotify.com/track/0iJOkpME4Aq3BxF6NZ6wvL) | [JU!iE](https://open.spotify.com/artist/4if9AbmB5HBpvMqKS3X0A7), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Polaroid \(prod\. A.G.O\)](https://open.spotify.com/album/2yqOMxejtQCFu1KCKDkQer) | 3:30 |
 | 45 | [恋泥棒。](https://open.spotify.com/track/0JnOpiUieuk9SdRv7Fkw2P) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [恋泥棒。](https://open.spotify.com/album/02oXm4Mjn4lWcc9xubCAW0) | 3:39 |
 | 46 | [サマータイムシンデレラ](https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [サマータイムシンデレラ](https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2) | 3:48 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 56 | [夏の終わり](https://open.spotify.com/track/1GCedKdM8UJCTt3HvV8HYU) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [夏の終わり](https://open.spotify.com/album/1uQTmJVphYfSw33v7NK12X) | 3:34 |
 | 57 | [Suki Lie](https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:15 |
 | 58 | [だるがらみ \(feat\. 関口シンゴ\)](https://open.spotify.com/track/7JgW7JNMfzONhTlkknDzac) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [YOLO](https://open.spotify.com/album/0KGXhKD7VkUdqhR7QfCSxq) | 2:34 |
-| 59 | [線香花火 \- feat\. 幾田りら](https://open.spotify.com/track/5p0iFOcN4kDKBqE9Tld5eJ) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [線香花火 \(feat\. 幾田りら\)](https://open.spotify.com/album/4cq0K1U2cesCfyNVQkgBXu) | 3:19 |
+| 59 | [破壊前夜のこと](https://open.spotify.com/track/7ccRC7ORwX4MqopJNucBai) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [破壊前夜のこと](https://open.spotify.com/album/5WKsrFoF3xsCQ4ui9d51Ud) | 3:42 |
 | 60 | [Senpai](https://open.spotify.com/track/1141uIU9WDqLCjbIbet1eu) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp) | [Senpai](https://open.spotify.com/album/3a9z2tnR8VQlJ3jYhHRLUg) | 3:21 |
-| 61 | [破壊前夜のこと](https://open.spotify.com/track/7ccRC7ORwX4MqopJNucBai) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [破壊前夜のこと](https://open.spotify.com/album/5WKsrFoF3xsCQ4ui9d51Ud) | 3:42 |
+| 61 | [線香花火 \- feat\. 幾田りら](https://open.spotify.com/track/5p0iFOcN4kDKBqE9Tld5eJ) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [線香花火 \(feat\. 幾田りら\)](https://open.spotify.com/album/4cq0K1U2cesCfyNVQkgBXu) | 3:19 |
 | 62 | [Jasmine High](https://open.spotify.com/track/3zEt8NRn2TIVX9dsRWqBXR) | [やましたりな](https://open.spotify.com/artist/1O235Li0262kkP7gfP6B5W) | [Jasmine High](https://open.spotify.com/album/55p2NKsX3uYTLLArpTns5j) | 4:39 |
 | 63 | [ピンクブルー](https://open.spotify.com/track/1VRwCezjpvjnCrab92b1dk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [pink blue](https://open.spotify.com/album/07kXEBPM0KuSkMTr73giQ0) | 3:56 |
 | 64 | [This is Love](https://open.spotify.com/track/2UpYcx6CtOFqdz0Enh608Y) | [uruwashi](https://open.spotify.com/artist/71tBDDxmRVFTrqs1D5e8gS), [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0), [高谷秀司](https://open.spotify.com/artist/7dkLPE7h3MieW9fchAcsky) | [This is Love](https://open.spotify.com/album/34p5vSdr7BrTg69dU0ThTP) | 3:42 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 80 | [meringue doll](https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [meringue doll](https://open.spotify.com/album/7qeJaFdCP3hCLm2KFp96Ts) | 4:13 |
 | 81 | [December](https://open.spotify.com/track/6OTYbrTn8BUb1WViI9HaAS) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [5am](https://open.spotify.com/album/1dLcTY0iMPyX7i6yrz5KjP) | 4:15 |
 | 82 | [初恋](https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [初恋 \(2022 Remastering\)](https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl) | 4:42 |
-| 83 | [Season](https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:28 |
-| 84 | [サークル](https://open.spotify.com/track/5sRnmEbAVSOcfqNlVwTfQe) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Sketch](https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy) | 3:15 |
+| 83 | [サークル](https://open.spotify.com/track/5sRnmEbAVSOcfqNlVwTfQe) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Sketch](https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy) | 3:15 |
+| 84 | [Season](https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:28 |
 | 85 | [ai no hana](https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p) | 4:02 |
 | 86 | [消えてしまいそうです](https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [消えてしまいそうです](https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z) | 4:17 |
 | 87 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 92 | [私は猫の目](https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [私は猫の目](https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx) | 3:10 |
 | 93 | [ラヴ・クラウド](https://open.spotify.com/track/066FlsZYTfxPIgLlFoAsNI) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Moon](https://open.spotify.com/album/631rw1DEmDYgdHb0QioP3y) | 3:39 |
 | 94 | [Pre\-Romance](https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [Pre\-Romance](https://open.spotify.com/album/27K1okvCknZXHbEwTU0qL2) | 3:12 |
-| 95 | [Resonantia](https://open.spotify.com/track/6JxGX21hLq96CSMgwCWDmr) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Resonantia](https://open.spotify.com/album/1QscnAgLAhBuG5TlF3dvHH) | 3:49 |
-| 96 | [Without Love](https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Without Love](https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71) | 4:07 |
+| 95 | [Without Love](https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Without Love](https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71) | 4:07 |
+| 96 | [Resonantia](https://open.spotify.com/track/6JxGX21hLq96CSMgwCWDmr) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Resonantia](https://open.spotify.com/album/1QscnAgLAhBuG5TlF3dvHH) | 3:49 |
 | 97 | [WORLD DANCE](https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [WORLD DANCE](https://open.spotify.com/album/6hS2sOF0dexmQBEOFnS3s1) | 3:41 |
 | 98 | [Always You](https://open.spotify.com/track/38kfx7lgJFHFxJMAvMMkRy) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Always You](https://open.spotify.com/album/4dSCQ1zLL6BqSYHgIepPQD) | 4:04 |
 | 99 | [魔法](https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [魔法](https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj) | 4:18 |
 | 100 | [違う曲にしようよ](https://open.spotify.com/track/7abFHUH53rYlZwmsjZCvND) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [伸び仕草懲りて暇乞い](https://open.spotify.com/album/4SnYZt2Wjitj8qgT58e3VJ) | 3:39 |
 
-Snapshot ID: `MCwxYWEyMzQwYzVmYzc3OTRlYjg1NGRkMGRiNTQzZmRmNjA5YzAzMmYx`
+Snapshot ID: `MCxhMWFmZWRkMTRmOTg2ZjM2MWVkNzBhNTQ4YzFkZmEyZGVlYmQxZjM3`

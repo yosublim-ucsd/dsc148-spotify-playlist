@@ -11764,10 +11764,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 234583,
       "name": "Scattered Dreams",
       "url": "https://open.spotify.com/track/44IYLlpl5cPvqQH9Ff6GhQ"
+    },
+    {
+      "album": {
+        "name": "Time Lapsed",
+        "url": "https://open.spotify.com/album/2rzaUdlBmCJt9f5KjT2HDE"
+      },
+      "artists": [
+        {
+          "name": "The Undercover Dream Lovers",
+          "url": "https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234583,
+      "name": "Scattered Dreams",
+      "url": "https://open.spotify.com/track/73h8sk37Djar1B3LV3A6nQ"
     },
     {
       "album": {
@@ -12283,6 +12301,24 @@
     },
     {
       "album": {
+        "name": "Flying Wig",
+        "url": "https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268659,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o"
+    },
+    {
+      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/5jtOLGuMV0eYTHJptwgI1D"
       },
@@ -12294,7 +12330,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 268659,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/6rjxyDTlJCGqo1XQ6vrq5R"
@@ -14610,10 +14646,28 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 360300,
       "name": "Twin",
       "url": "https://open.spotify.com/track/0cSsInmUJiXyxUWtLxaHjq"
+    },
+    {
+      "album": {
+        "name": "Flying Wig",
+        "url": "https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360300,
+      "name": "Twin",
+      "url": "https://open.spotify.com/track/4fHfYHQCg4xOwnjdS35lH4"
     },
     {
       "album": {

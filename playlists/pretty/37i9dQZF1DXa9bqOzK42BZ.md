@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: Bahati
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,677 likes - 79 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,681 likes - 79 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 18 | [Wewe Ni Zaidi](https://open.spotify.com/track/6tbeRA24xQkjvqB7nmqcfo) | [Erick Smith](https://open.spotify.com/artist/2DyY70tIr0laRzbYBA7bLg) | [Wewe Ni Zaidi](https://open.spotify.com/album/6twPp6yBQOTyAevVPbUZj1) | 5:20 |
 | 19 | [Uwezo](https://open.spotify.com/track/2CSXfQMjtbCi0bzPN8JqfM) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:41 |
 | 20 | [Kama Si Wewe](https://open.spotify.com/track/14hf7H0VxlkUp2AOMaFqmu) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Kama Si Wewe](https://open.spotify.com/album/406zuP4Ou96lLG9Stb5laf) | 4:57 |
-| 21 | [Bwana Unatawala \(Live\)](https://open.spotify.com/track/3O0Bvp1sMSdMVuLuRhe7yU) | [Essence Of Worship](https://open.spotify.com/artist/08DEnWbiZl4cLFGUjNzR39) | [Bwana Unatawala \(Live\)](https://open.spotify.com/album/2URrPzDAgysJCPyXImSEvs) | 18:46 |
+| 21 | [Bwana Unatawala \(Live\)](https://open.spotify.com/track/3l7rEcUJ4AQF4jKpWaHG8p) | [Essence Of Worship](https://open.spotify.com/artist/08DEnWbiZl4cLFGUjNzR39) | [Bwana Unatawala \(Live\)](https://open.spotify.com/album/3koeYsqfzhwDXkmrHmdKna) | 18:46 |
 | 22 | [Nothing](https://open.spotify.com/track/1cXe35isIgaErKaSyi1nP3) | [Nahash Mwathi](https://open.spotify.com/artist/76hAkhGlb3BipUcUL4thD1), [Jackson Saya](https://open.spotify.com/artist/7EFTCBaclOkenIPumLmGyn) | [Nothing](https://open.spotify.com/album/4Hl2UURqrZ88wlOolmc7Mv) | 4:31 |
 | 23 | [Natamani Wamebarikiwa](https://open.spotify.com/track/2xJA3Bbn20xQYiWh1Cjj6E) | [Pastor Anthony Musembi J.C.C\. Mombasa](https://open.spotify.com/artist/12UXrRdVxNm2TbYBeF0vl1) | [Pacato Worship](https://open.spotify.com/album/0rtr6F0F2LnjZKSFQXInWg) | 7:00 |
 | 24 | [Yesu Nitie Nguvu](https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q) | [William Yilima](https://open.spotify.com/artist/2DTRhfclXLK7d9FYyuWda0) | [Uko Wapi Mungu](https://open.spotify.com/album/3mFFb1dNZLjxLWNNTjaqW0) | 2:22 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 78 | [Nikumbushe Yehova](https://open.spotify.com/track/2YTmZTaHazQYsOfC7UqWtO) | [Kurasini SDA Choir](https://open.spotify.com/artist/6iEYr3D5bI9cIgJWSYN0tM) | [Mtanitafuta Pande Zote](https://open.spotify.com/album/70wLfW5cfXi1h1JfIITRUp) | 2:45 |
 | 79 | [Maneno](https://open.spotify.com/track/26CBYYDZANC7IaaAXTJIS1) | [Betty Bayo](https://open.spotify.com/artist/6Ai6VHx0i9hk6u8n7ySE0T) | [11th Hour](https://open.spotify.com/album/3H9GR3WPkAnmcCseOj9XmS) | 6:10 |
 
-Snapshot ID: `MCw0MzI5MGM1ZGY4Y2NkNmIxZWM2ZWNiMzAwY2Y3YzJkOTk5MDM5OWQ0`
+Snapshot ID: `MCxjNzMxZjA5ZDc0OTljZjEyNzM4MTlhZmQyNTYyMjJjMjUzNDBjNTNl`

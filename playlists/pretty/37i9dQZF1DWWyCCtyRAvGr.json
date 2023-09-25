@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 159109,
+  "num_followers": 159168,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2FhNGM2ZDE0YmE5MjViYmUzYjFjNjJjNDBmNWUwZWZhMzkwZDkw",
+  "snapshot_id": "MCw3MzhmNDNhZGY2MjA3MmQ0MThmNzE5NGM4ODM5YjZlYjBlYjQzNDg5",
   "tracks": [
     {
       "added_at": "2023-04-28 16:37:16",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Ice Pickin'",
         "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 318840,
       "name": "Cold, Cold Feeling",
       "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Rockin' With Reed",
-        "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
-        }
-      ],
-      "duration_ms": 143331,
-      "name": "Take Out Some Insurance",
-      "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Soul Tender",
         "url": "https://open.spotify.com/album/1LSwdjVS3iXgNAru0Ly5Vn"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 459940,
       "name": "Midnight Healing",
       "url": "https://open.spotify.com/track/4RKoKePOnKpRlR68xyBQCn"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Rockin' With Reed",
+        "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "duration_ms": 143331,
+      "name": "Take Out Some Insurance",
+      "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Men of the World: The Early Years",
-        "url": "https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Fast Talking Woman Blues - 2001 Remaster",
-      "url": "https://open.spotify.com/track/6ilP6a90n3JOOD1mxFtVBu"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "West Side Soul (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 296506,
       "name": "I Need You So Bad",
       "url": "https://open.spotify.com/track/5Afi4JrAnQtUsSYpYwbYAj"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Men of the World: The Early Years",
+        "url": "https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Fast Talking Woman Blues - 2001 Remaster",
+      "url": "https://open.spotify.com/track/6ilP6a90n3JOOD1mxFtVBu"
     },
     {
       "added_at": "2023-04-28 16:37:16",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Asadito a pura cumbia y cuarteto!",
-  "num_followers": 458788,
+  "num_followers": 459301,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTk5NDU1YzUwOGJiZmM2NWQ2MjE5NTU1NTlkZmRhZGRkNGI3M2Fl",
+  "snapshot_id": "MCw1NWE3YmFjMDA2OGFlMDliNDUxMzM0MjJlNDgzYjE5ODZkZTQ1MzNh",
   "tracks": [
     {
       "added_at": "2023-09-08 03:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "25 A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Jurabas Tu",
-      "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Imparables",
         "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 200071,
       "name": "Te Voy a Amar",
       "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "25 A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Jurabas Tu",
+      "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Un Mont\u00f3n de Estrellas (En Vivo Gran Rex)",
+        "url": "https://open.spotify.com/album/26n9BrsrguZZFxxLruIgNR"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 165326,
+      "name": "Un Mont\u00f3n de Estrellas - En Vivo Gran Rex",
+      "url": "https://open.spotify.com/track/555Op74S64KmntebD6O3wa"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
@@ -939,18 +955,18 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Un Mont\u00f3n de Estrellas (En Vivo Gran Rex)",
-        "url": "https://open.spotify.com/album/26n9BrsrguZZFxxLruIgNR"
+        "name": "Cuarteteando",
+        "url": "https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN"
       },
       "artists": [
         {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
         }
       ],
-      "duration_ms": 165326,
-      "name": "Un Mont\u00f3n de Estrellas - En Vivo Gran Rex",
-      "url": "https://open.spotify.com/track/555Op74S64KmntebD6O3wa"
+      "duration_ms": 354626,
+      "name": "Ocho Cuarenta",
+      "url": "https://open.spotify.com/track/6jDx3MNG0yJdrvEBZohKBE"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -971,22 +987,6 @@
       "duration_ms": 211213,
       "name": "Llorar\u00e1s M\u00e1s de Diez Veces",
       "url": "https://open.spotify.com/track/46kxzCwAMxrneUFJJT1njt"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Cuarteteando",
-        "url": "https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 354626,
-      "name": "Ocho Cuarenta",
-      "url": "https://open.spotify.com/track/6jDx3MNG0yJdrvEBZohKBE"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Los M\u00e1s Queridos",
-        "url": "https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Te Vas a Arrepentir",
-      "url": "https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Sa, Za...Sabor",
         "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 233613,
       "name": "Porque te amo",
       "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Los M\u00e1s Queridos",
+        "url": "https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Te Vas a Arrepentir",
+      "url": "https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "El Color De Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Red",
-          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "Amor De Adolescentes",
-      "url": "https://open.spotify.com/track/5v1umyExZ3id6U0RtHrHcD"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Vol\u00f3 la Paloma",
         "url": "https://open.spotify.com/album/3CVPHYjfA1obSJsehR7C03"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 290120,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/19oggfRyJpBt68pSKbFofW"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "El Color De Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Red",
+          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Amor De Adolescentes",
+      "url": "https://open.spotify.com/track/5v1umyExZ3id6U0RtHrHcD"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "El Maestro",
-        "url": "https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK"
-      },
-      "artists": [
-        {
-          "name": "Antonio Rios",
-          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "Nunca me faltes",
-      "url": "https://open.spotify.com/track/5XzVdBQbbexpDXQbwzxADj"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "No Te Vayas",
         "url": "https://open.spotify.com/album/5fLXLwHK9MshuBwROf4ILu"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 139163,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/2TzyHTZtgQM5G9LrSIAkjj"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "El Maestro",
+        "url": "https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK"
+      },
+      "artists": [
+        {
+          "name": "Antonio Rios",
+          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
+        }
+      ],
+      "duration_ms": 253266,
+      "name": "Nunca me faltes",
+      "url": "https://open.spotify.com/track/5XzVdBQbbexpDXQbwzxADj"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Con la Misma Moneda",
+        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 266760,
+      "name": "Con la Misma Moneda",
+      "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Si Me Tomo una Cerveza (Remix)",
         "url": "https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks"
       },
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Con la Misma Moneda",
-        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 266760,
-      "name": "Con la Misma Moneda",
-      "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
       },
@@ -1527,22 +1527,6 @@
       "duration_ms": 142410,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Inmenso",
-        "url": "https://open.spotify.com/album/2roYPReN5FJxE0iGXpkD21"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "No Quiero Dormir",
-      "url": "https://open.spotify.com/track/7f7xS49CafNLc5nInF6Lyb"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "10 A\u00f1os",
-        "url": "https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9"
+        "name": "Inmenso",
+        "url": "https://open.spotify.com/album/2roYPReN5FJxE0iGXpkD21"
       },
       "artists": [
         {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 230945,
-      "name": "Chica del Este",
-      "url": "https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s"
+      "duration_ms": 214800,
+      "name": "No Quiero Dormir",
+      "url": "https://open.spotify.com/track/7f7xS49CafNLc5nInF6Lyb"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1607,6 +1591,22 @@
       "duration_ms": 169250,
       "name": "La Cola",
       "url": "https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "10 A\u00f1os",
+        "url": "https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 230945,
+      "name": "Chica del Este",
+      "url": "https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s"
     },
     {
       "added_at": "2023-09-08 03:00:00",

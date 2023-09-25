@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 598522,
+  "num_followers": 598668,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTljNjQ2MjgzMzI2NmQ4YzUzNjdkZTVhNThlZmEzY2ZjMzE1ZmNh",
+  "snapshot_id": "MCxkNDgyNmYzMDA2MjBmM2JhODA0YjdhYTg3MmIxZGE5NWZjODI4ZDll",
   "tracks": [
     {
       "added_at": "2023-09-15 16:02:45",
@@ -471,18 +471,22 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "Altered Destiny",
-        "url": "https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5"
+        "name": "Osama (Edit)",
+        "url": "https://open.spotify.com/album/5q1Iq5mxmYODLmwTlmDw6u"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
         }
       ],
-      "duration_ms": 185578,
-      "name": "Altered Destiny - Chill Mix",
-      "url": "https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV"
+      "duration_ms": 223666,
+      "name": "Osama - Edit",
+      "url": "https://open.spotify.com/track/5i2gTPIuhhA1mcFQpmD5rf"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -511,42 +515,18 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "Osama (Edit)",
-        "url": "https://open.spotify.com/album/5q1Iq5mxmYODLmwTlmDw6u"
+        "name": "Altered Destiny",
+        "url": "https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5"
       },
       "artists": [
         {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
-        },
-        {
-          "name": "Kasango",
-          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 223666,
-      "name": "Osama - Edit",
-      "url": "https://open.spotify.com/track/5i2gTPIuhhA1mcFQpmD5rf"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
-        "name": "La Perla (Tourist Remix)",
-        "url": "https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        },
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 317003,
-      "name": "La Perla - Tourist Remix",
-      "url": "https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt"
+      "duration_ms": 185578,
+      "name": "Altered Destiny - Chill Mix",
+      "url": "https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -579,6 +559,26 @@
       "duration_ms": 324333,
       "name": "Cynnes",
       "url": "https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
+        "name": "La Perla (Tourist Remix)",
+        "url": "https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        },
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 317003,
+      "name": "La Perla - Tourist Remix",
+      "url": "https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "Roads Of Gold",
-        "url": "https://open.spotify.com/album/5j2ZsWodikhixJNHhUCGKq"
-      },
-      "artists": [
-        {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        },
-        {
-          "name": "Redward Martin",
-          "url": "https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2"
-        }
-      ],
-      "duration_ms": 310602,
-      "name": "Roads Of Gold - Edit",
-      "url": "https://open.spotify.com/track/1M1g0SAJavX4mMLqEqKTDn"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
         "name": "Estaci\u00f3n Esperanza",
         "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
+        "name": "Roads Of Gold",
+        "url": "https://open.spotify.com/album/5j2ZsWodikhixJNHhUCGKq"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "Redward Martin",
+          "url": "https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2"
+        }
+      ],
+      "duration_ms": 310602,
+      "name": "Roads Of Gold - Edit",
+      "url": "https://open.spotify.com/track/1M1g0SAJavX4mMLqEqKTDn"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
+        "name": "NOSTALGIA*",
+        "url": "https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl"
+      },
+      "artists": [
+        {
+          "name": "MATVE\u00cf",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "NOSTALGIA*",
+      "url": "https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
         "name": "BRONSON Remixes N\u00b0.2",
         "url": "https://open.spotify.com/album/1hP7MPj4ZcjxqBGh4ILRoU"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 307889,
       "name": "DAWN - Hayden James Remix",
       "url": "https://open.spotify.com/track/56TRkdp1HtLVtNuX8P3QbB"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
-        "name": "NOSTALGIA*",
-        "url": "https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl"
-      },
-      "artists": [
-        {
-          "name": "MATVE\u00cf",
-          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "NOSTALGIA*",
-      "url": "https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
+        "name": "Laufen",
+        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
+      },
+      "artists": [
+        {
+          "name": "MonoJack",
+          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
+        },
+        {
+          "name": "Fritz K\u00f6lner",
+          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
+        }
+      ],
+      "duration_ms": 257709,
+      "name": "Laufen",
+      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
         "name": "Alone (andhim Remix)",
         "url": "https://open.spotify.com/album/5dAIxyXI3nmT0IogiHaid6"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 269965,
       "name": "Alone - andhim Remix",
       "url": "https://open.spotify.com/track/7uUQfixTumDZwmOydFdkXE"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
-        "name": "Laufen",
-        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
-      },
-      "artists": [
-        {
-          "name": "MonoJack",
-          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
-        },
-        {
-          "name": "Fritz K\u00f6lner",
-          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
-        }
-      ],
-      "duration_ms": 257709,
-      "name": "Laufen",
-      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -1211,18 +1211,22 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "Better In The Dark",
-        "url": "https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax"
+        "name": "What U Doing",
+        "url": "https://open.spotify.com/album/65xPPLYFiHhx6YxRV3S9fV"
       },
       "artists": [
         {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
         }
       ],
-      "duration_ms": 352054,
-      "name": "Better In The Dark",
-      "url": "https://open.spotify.com/track/16UraNXA43rxM6EihGAl9r"
+      "duration_ms": 229523,
+      "name": "What U Doing",
+      "url": "https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -1259,38 +1263,18 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "What U Doing",
-        "url": "https://open.spotify.com/album/65xPPLYFiHhx6YxRV3S9fV"
+        "name": "Better In The Dark",
+        "url": "https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax"
       },
       "artists": [
         {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        },
-        {
-          "name": "Leo Wood",
-          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
         }
       ],
-      "duration_ms": 229523,
-      "name": "What U Doing",
-      "url": "https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        }
-      ],
-      "duration_ms": 221966,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua"
+      "duration_ms": 352054,
+      "name": "Better In The Dark",
+      "url": "https://open.spotify.com/track/16UraNXA43rxM6EihGAl9r"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT"
       },
       "artists": [
         {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
         }
       ],
-      "duration_ms": 479075,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
+      "duration_ms": 221966,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
+      },
+      "artists": [
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        }
+      ],
+      "duration_ms": 479075,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
         "name": "Malmedy",
         "url": "https://open.spotify.com/album/7waFlfds2xOWUiUn3YHqfo"
       },
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "Gershwin",
-        "url": "https://open.spotify.com/album/6qTrbmdkz9DOxfFRGmKWGw"
-      },
-      "artists": [
-        {
-          "name": "OLING",
-          "url": "https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv"
-        }
-      ],
-      "duration_ms": 253338,
-      "name": "Gershwin",
-      "url": "https://open.spotify.com/track/5YYUwGeR0uVKLeHr4vjuo3"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
         "name": "Kilian",
         "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 420115,
       "name": "Kilian",
       "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
+        "name": "Gershwin",
+        "url": "https://open.spotify.com/album/6qTrbmdkz9DOxfFRGmKWGw"
+      },
+      "artists": [
+        {
+          "name": "OLING",
+          "url": "https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv"
+        }
+      ],
+      "duration_ms": 253338,
+      "name": "Gershwin",
+      "url": "https://open.spotify.com/track/5YYUwGeR0uVKLeHr4vjuo3"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17"
+      },
+      "artists": [
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+        }
+      ],
+      "duration_ms": 238095,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
         "name": "Howl (Logic1000 Remix)",
         "url": "https://open.spotify.com/album/6HbMk0eBtEDGFMMlkpV5gq"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 289156,
       "name": "Howl - Logic1000 Remix",
       "url": "https://open.spotify.com/track/4ZS3lUdUGn5NFaw5FwWIgB"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17"
-      },
-      "artists": [
-        {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
-        }
-      ],
-      "duration_ms": 238095,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO"
     },
     {
       "added_at": "2023-09-15 16:02:45",

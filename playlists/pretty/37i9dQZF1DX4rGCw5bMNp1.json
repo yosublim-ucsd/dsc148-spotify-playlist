@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 131937,
+  "num_followers": 131971,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTEyYzcwMzIxYmFjYWFmZmU5OGNlN2FiOWIxMTc2ZDJlNzg2YjFi",
+  "snapshot_id": "MCw4OTdkNjA4MjgxZGFlMDNmZjJjM2RlMWY4Y2VkMjNmYjNhZTVjMmYy",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -169,22 +169,6 @@
       "url": "https://open.spotify.com/track/79lwbvYgFFw3eNbBx4bBRw"
     },
     {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 173533,
-      "name": "Back Door Man",
-      "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
-    },
-    {
       "added_at": "2018-02-27 18:08:29",
       "album": {
         "name": "Living Chicago Blues, Vol. 3",
@@ -199,6 +183,22 @@
       "duration_ms": 258226,
       "name": "She's Fine",
       "url": "https://open.spotify.com/track/1GUvbwCftGCU9HTeg1DPAW"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 173533,
+      "name": "Back Door Man",
+      "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -393,22 +393,6 @@
       "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
     },
     {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
-        "name": "Masters Of Modern Blues",
-        "url": "https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O"
-      },
-      "artists": [
-        {
-          "name": "Floyd Jones",
-          "url": "https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "Dark Road",
-      "url": "https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo"
-    },
-    {
       "added_at": "2018-02-27 18:08:29",
       "album": {
         "name": "Living Chicago Blues, Vol. 3",
@@ -423,6 +407,22 @@
       "duration_ms": 280573,
       "name": "Drown In My Own Tears",
       "url": "https://open.spotify.com/track/4bdbkXLaoccDNp6lLsZWRG"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "Masters Of Modern Blues",
+        "url": "https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O"
+      },
+      "artists": [
+        {
+          "name": "Floyd Jones",
+          "url": "https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y"
+        }
+      ],
+      "duration_ms": 217120,
+      "name": "Dark Road",
+      "url": "https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -775,22 +775,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Earl Hooker: Simply The Best",
-        "url": "https://open.spotify.com/album/0TGgq70vAHg6mvS51TjYKH"
-      },
-      "artists": [
-        {
-          "name": "Andrew Odom",
-          "url": "https://open.spotify.com/artist/3edYUdDu4mSxpqjfBhAtV8"
-        }
-      ],
-      "duration_ms": 298200,
-      "name": "Farther Up The Road",
-      "url": "https://open.spotify.com/track/0NqQU0BPlVb8HMNmcHnQPD"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "Blues Legend",
         "url": "https://open.spotify.com/album/7KXkrjLNQwj33DTXrVVCtJ"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 171985,
       "name": "Cut That Out",
       "url": "https://open.spotify.com/track/7ettn7nIUjM7Koqh7WwOaF"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Earl Hooker: Simply The Best",
+        "url": "https://open.spotify.com/album/0TGgq70vAHg6mvS51TjYKH"
+      },
+      "artists": [
+        {
+          "name": "Andrew Odom",
+          "url": "https://open.spotify.com/artist/3edYUdDu4mSxpqjfBhAtV8"
+        }
+      ],
+      "duration_ms": 298200,
+      "name": "Farther Up The Road",
+      "url": "https://open.spotify.com/track/0NqQU0BPlVb8HMNmcHnQPD"
     },
     {
       "added_at": "2016-03-21 20:31:35",

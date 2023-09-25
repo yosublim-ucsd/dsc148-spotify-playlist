@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: jev.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,136 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,175 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fly god manners](https://open.spotify.com/track/0hLYU06I6ppGIhqiJ4uZom) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [LONERWRLD, vol 1](https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah) | 2:10 |
 | 2 | [Stand Up](https://open.spotify.com/track/3wOQQaIfJtmWZHDyS6qTRz) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [777](https://open.spotify.com/album/2O7VQiUdIl95INCJ4yJfdl) | 2:28 |
 | 3 | [Addicting](https://open.spotify.com/track/1fS52XXkjaBJhKAYxqSzCw) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [K3](https://open.spotify.com/album/5177KbwBNYTWdCgo5UtoeD) | 1:46 |
-| 4 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 |
+| 4 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 |
 | 5 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 |
 | 6 | [28 BARS](https://open.spotify.com/track/1lCz8ybnOw12NH0ZmVXxVH) | [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [28 BARS](https://open.spotify.com/album/7F1N7nrbUAHUAcaP268cPI) | 1:34 |
 | 7 | [Fuck Em Up Moses](https://open.spotify.com/track/4tH1p1TYEtXkLNtPDPHnvI) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Fuck Em Up Moses](https://open.spotify.com/album/5LxED8zuZ1X7XUMdQS60E6) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Fatality](https://open.spotify.com/track/0PN3ehH0hcjSbwCmy5WtWR) | [Paris Richards](https://open.spotify.com/artist/2QKgfzDlgGJCv1hkfOovKH), [Dub J](https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE) | [Fatality](https://open.spotify.com/album/1O2zImTgvxU8lRdkGvcTUi) | 2:15 |
 | 100 | [Let's Slide](https://open.spotify.com/track/1O8OlK7VP4R8LGLFgNlZvm) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Let's Slide](https://open.spotify.com/album/2yTm9rMmF7nklt9MV3rtxK) | 2:24 |
 
-Snapshot ID: `MCxjOWQ1YTEyZDE2ZThiZDBiMWZmZWFiMzE2MTgxYzlmOTFjMDNiYzQx`
+Snapshot ID: `MCxiMWJjOTBjNzZmMTBlM2M4NWE5MDM3NTQ0ZmY4MTYxODU3YTAyYzg5`

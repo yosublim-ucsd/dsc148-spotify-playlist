@@ -1,12 +1,12 @@
 {
   "description": "The best Latin Indie tracks right now, featuring Simon Grossman.",
-  "num_followers": 154854,
+  "num_followers": 155180,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzJmYjMwMWFlMGEzZTQzNTQxMjY1OTRmOGM0NmNkMGRhYWZjMTZl",
+  "snapshot_id": "MCw4NDVmMGJiNDE5YjAzZTQxMWJjNDA3MWIxYWYwZjI2OTU3ZDgyMGM0",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "CARISMA",
-        "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "en la ciudad",
         "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 211986,
       "name": "en la ciudad",
       "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "CARISMA",
+        "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Match",
-        "url": "https://open.spotify.com/album/3kx5G9S55HO7FRFOK3rJ79"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Match",
-      "url": "https://open.spotify.com/track/50xxt81t7cjfV0wPhUTmiU"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "MIMO",
         "url": "https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 151207,
       "name": "FRESH",
       "url": "https://open.spotify.com/track/51O1GVKmV5xJhemFjotvSV"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Match",
+        "url": "https://open.spotify.com/album/3kx5G9S55HO7FRFOK3rJ79"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Match",
+      "url": "https://open.spotify.com/track/50xxt81t7cjfV0wPhUTmiU"
     },
     {
       "added_at": "2023-09-15 04:01:00",

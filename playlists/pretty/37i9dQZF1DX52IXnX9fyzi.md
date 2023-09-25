@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,813 likes - 248 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,977 likes - 248 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -257,4 +257,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 247 | [Sea Change](https://open.spotify.com/track/3pJnfyKoVePwVmljB6Wun1) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Sea Change](https://open.spotify.com/album/1jqlahQiSw1r4Leg6IQp3S) | 2:51 |
 | 248 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 |
 
-Snapshot ID: `MCw1ZjZkYjc5YjI3ZTI2OGFlNGZlZDgzZWI5NzVhM2RiY2I1NzRhZmI3`
+Snapshot ID: `MCwxNzczNjE0ODU5ZDY2ZmRjYmY4MDA0MzhlYzYyZjA5YjBlOWU5ZTU1`

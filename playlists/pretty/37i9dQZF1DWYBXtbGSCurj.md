@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Ecologyk, Jotapê, Yunk Vino, Only
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,580 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,626 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Minha Vida é um Filme](https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Minha Vida é um Filme](https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj) | 3:06 |
 | 75 | [Preferida](https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 2:10 |
 
-Snapshot ID: `MCw4NDhiNGRlZjUwMWZhMDM4MjNkYmJjYTlmZmM5ZjMyNjQxNDczODg2`
+Snapshot ID: `MCw3ZTgyNmI1OWU5ZmM3NGVkOTdhMjlkNzExMjc3YjYyODVlNGM4MmVj`

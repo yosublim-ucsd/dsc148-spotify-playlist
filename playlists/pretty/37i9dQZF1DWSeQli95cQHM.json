@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 9898,
+  "num_followers": 9908,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGY2OWJjNzlkMTRjYWI0NmE4NTRlY2M5N2VkOTkxNDZiMGJhNDJl",
+  "snapshot_id": "MCxmZTgyMTY1MTZjMDk2YjcwMzMxY2MzM2Q3MDI0NTAzMTU3OGRlMjk2",
   "tracks": [
     {
       "added_at": "2023-09-22 03:03:00",
@@ -303,18 +303,22 @@
     {
       "added_at": "2023-09-22 03:03:00",
       "album": {
-        "name": "Pared\u00e3o",
-        "url": "https://open.spotify.com/album/6OvJhMF1Fu7LEoYCpIDptq"
+        "name": "Come With Me",
+        "url": "https://open.spotify.com/album/7f0bGISHCJJFKYsM6yVNb7"
       },
       "artists": [
         {
           "name": "CESRV",
           "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        },
+        {
+          "name": "Cybass",
+          "url": "https://open.spotify.com/artist/0qKOvfud2ajAxBCZySk29p"
         }
       ],
-      "duration_ms": 258005,
-      "name": "De AK em Cima da CB1000",
-      "url": "https://open.spotify.com/track/6fnPjo1Q1kkYoitZh2yP2U"
+      "duration_ms": 257600,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/3y6hObDg86mAhr4C7SfmYf"
     },
     {
       "added_at": "2023-09-22 03:03:00",
@@ -371,42 +375,6 @@
     {
       "added_at": "2023-09-22 03:03:00",
       "album": {
-        "name": "Criptogramas",
-        "url": "https://open.spotify.com/album/3VcGCItNhMLK3PG6bthKVu"
-      },
-      "artists": [
-        {
-          "name": "Vermelho Wonder",
-          "url": "https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu"
-        }
-      ],
-      "duration_ms": 333103,
-      "name": "Criptogramas",
-      "url": "https://open.spotify.com/track/3DDPknKZvBbb98U1zEDN0w"
-    },
-    {
-      "added_at": "2023-09-22 03:03:00",
-      "album": {
-        "name": "Come With Me",
-        "url": "https://open.spotify.com/album/7f0bGISHCJJFKYsM6yVNb7"
-      },
-      "artists": [
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        },
-        {
-          "name": "Cybass",
-          "url": "https://open.spotify.com/artist/0qKOvfud2ajAxBCZySk29p"
-        }
-      ],
-      "duration_ms": 257600,
-      "name": "Come With Me",
-      "url": "https://open.spotify.com/track/3y6hObDg86mAhr4C7SfmYf"
-    },
-    {
-      "added_at": "2023-09-22 03:03:00",
-      "album": {
         "name": "Movimento Paralelo, Vol.1",
         "url": "https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76"
       },
@@ -423,18 +391,34 @@
     {
       "added_at": "2023-09-22 03:03:00",
       "album": {
-        "name": "Geleia de Morango",
-        "url": "https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD"
+        "name": "Pared\u00e3o",
+        "url": "https://open.spotify.com/album/6OvJhMF1Fu7LEoYCpIDptq"
       },
       "artists": [
         {
-          "name": "Noporn",
-          "url": "https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ"
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
         }
       ],
-      "duration_ms": 349250,
-      "name": "Geleia de Morango",
-      "url": "https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI"
+      "duration_ms": 258005,
+      "name": "De AK em Cima da CB1000",
+      "url": "https://open.spotify.com/track/6fnPjo1Q1kkYoitZh2yP2U"
+    },
+    {
+      "added_at": "2023-09-22 03:03:00",
+      "album": {
+        "name": "Criptogramas",
+        "url": "https://open.spotify.com/album/3VcGCItNhMLK3PG6bthKVu"
+      },
+      "artists": [
+        {
+          "name": "Vermelho Wonder",
+          "url": "https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu"
+        }
+      ],
+      "duration_ms": 333103,
+      "name": "Criptogramas",
+      "url": "https://open.spotify.com/track/3DDPknKZvBbb98U1zEDN0w"
     },
     {
       "added_at": "2023-09-22 03:03:00",
@@ -455,18 +439,34 @@
     {
       "added_at": "2023-09-22 03:03:00",
       "album": {
-        "name": "VA IFN 001 - Techno Concept",
-        "url": "https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6"
+        "name": "Geleia de Morango",
+        "url": "https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD"
       },
       "artists": [
         {
-          "name": "Mau Maioli",
-          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
+          "name": "Noporn",
+          "url": "https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ"
         }
       ],
-      "duration_ms": 311129,
-      "name": "Fixity - Original Mix",
-      "url": "https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70"
+      "duration_ms": 349250,
+      "name": "Geleia de Morango",
+      "url": "https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI"
+    },
+    {
+      "added_at": "2023-09-22 03:03:00",
+      "album": {
+        "name": "TRAVESSIA",
+        "url": "https://open.spotify.com/album/6U6CxG7eUVvVMUDP4mxzRI"
+      },
+      "artists": [
+        {
+          "name": "CyberKills",
+          "url": "https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3"
+        }
+      ],
+      "duration_ms": 207517,
+      "name": "SINA",
+      "url": "https://open.spotify.com/track/2jC1cPEjIui4v96OfqbvIi"
     },
     {
       "added_at": "2023-09-22 03:03:00",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-09-22 03:03:00",
       "album": {
-        "name": "TRAVESSIA",
-        "url": "https://open.spotify.com/album/6U6CxG7eUVvVMUDP4mxzRI"
+        "name": "VA IFN 001 - Techno Concept",
+        "url": "https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6"
       },
       "artists": [
         {
-          "name": "CyberKills",
-          "url": "https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3"
+          "name": "Mau Maioli",
+          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
         }
       ],
-      "duration_ms": 207517,
-      "name": "SINA",
-      "url": "https://open.spotify.com/track/2jC1cPEjIui4v96OfqbvIi"
+      "duration_ms": 311129,
+      "name": "Fixity - Original Mix",
+      "url": "https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70"
     },
     {
       "added_at": "2023-09-22 03:03:00",
@@ -635,26 +635,6 @@
     {
       "added_at": "2023-09-22 03:03:00",
       "album": {
-        "name": "Corpo",
-        "url": "https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz"
-      },
-      "artists": [
-        {
-          "name": "Gezender",
-          "url": "https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a"
-        },
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        }
-      ],
-      "duration_ms": 303161,
-      "name": "Corpo Fechado",
-      "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
-    },
-    {
-      "added_at": "2023-09-22 03:03:00",
-      "album": {
         "name": "Ch\u00e1 de trombeta",
         "url": "https://open.spotify.com/album/3v6CT4nFEl2aUw0E5CY2Zp"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 420000,
       "name": "Ch\u00e1 de trombeta",
       "url": "https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5"
+    },
+    {
+      "added_at": "2023-09-22 03:03:00",
+      "album": {
+        "name": "Corpo",
+        "url": "https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz"
+      },
+      "artists": [
+        {
+          "name": "Gezender",
+          "url": "https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a"
+        },
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        }
+      ],
+      "duration_ms": 303161,
+      "name": "Corpo Fechado",
+      "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
     },
     {
       "added_at": "2023-09-22 03:03:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-09-22 03:03:00",
       "album": {
-        "name": "Feel Me",
-        "url": "https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW"
-      },
-      "artists": [
-        {
-          "name": "Aninha",
-          "url": "https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf"
-        }
-      ],
-      "duration_ms": 351451,
-      "name": "Feel Me - Original mix",
-      "url": "https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5"
-    },
-    {
-      "added_at": "2023-09-22 03:03:00",
-      "album": {
         "name": "Flame of the Pine Cone",
         "url": "https://open.spotify.com/album/5qWaHba39117j2eCaKiHIW"
       },
@@ -743,6 +727,38 @@
       "duration_ms": 409258,
       "name": "Flame of the Pine Cone - Spaniol's Blue Note Remix",
       "url": "https://open.spotify.com/track/5juJXWm2B17gJBvMq7Gr6r"
+    },
+    {
+      "added_at": "2023-09-22 03:03:00",
+      "album": {
+        "name": "Feel Me",
+        "url": "https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW"
+      },
+      "artists": [
+        {
+          "name": "Aninha",
+          "url": "https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf"
+        }
+      ],
+      "duration_ms": 351451,
+      "name": "Feel Me - Original mix",
+      "url": "https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5"
+    },
+    {
+      "added_at": "2023-09-22 03:03:00",
+      "album": {
+        "name": "Keyboard Cats EP",
+        "url": "https://open.spotify.com/album/5aPc3zrMNTcnOLE72B1l8t"
+      },
+      "artists": [
+        {
+          "name": "Amanda Mussi",
+          "url": "https://open.spotify.com/artist/6yoR3GxDnUclI3jI8exbvQ"
+        }
+      ],
+      "duration_ms": 369924,
+      "name": "Keyboard Cats",
+      "url": "https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO"
     },
     {
       "added_at": "2023-09-22 03:03:00",
@@ -771,18 +787,18 @@
     {
       "added_at": "2023-09-22 03:03:00",
       "album": {
-        "name": "Keyboard Cats EP",
-        "url": "https://open.spotify.com/album/5aPc3zrMNTcnOLE72B1l8t"
+        "name": "N\u00f3dulo",
+        "url": "https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb"
       },
       "artists": [
         {
-          "name": "Amanda Mussi",
-          "url": "https://open.spotify.com/artist/6yoR3GxDnUclI3jI8exbvQ"
+          "name": "Entropia-Entalpia",
+          "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
         }
       ],
-      "duration_ms": 369924,
-      "name": "Keyboard Cats",
-      "url": "https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO"
+      "duration_ms": 453333,
+      "name": "Sobre Tum Tum Ta",
+      "url": "https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46"
     },
     {
       "added_at": "2023-09-22 03:03:00",
@@ -831,22 +847,6 @@
       "duration_ms": 337643,
       "name": "Sem Sono",
       "url": "https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx"
-    },
-    {
-      "added_at": "2023-09-22 03:03:00",
-      "album": {
-        "name": "N\u00f3dulo",
-        "url": "https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb"
-      },
-      "artists": [
-        {
-          "name": "Entropia-Entalpia",
-          "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
-        }
-      ],
-      "duration_ms": 453333,
-      "name": "Sobre Tum Tum Ta",
-      "url": "https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46"
     },
     {
       "added_at": "2023-09-22 03:03:00",

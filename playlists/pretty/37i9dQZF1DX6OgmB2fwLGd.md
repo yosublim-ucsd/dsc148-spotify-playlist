@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: 310babii
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,395,400 likes - 100 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,395,399 likes - 100 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [S3 X](https://open.spotify.com/track/0Gm3lagTye1zcIJkF8wh7c) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F), [Yung Kayo](https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh) | [On My Own](https://open.spotify.com/album/4l2mKkUUdZyEbQUVJ3oudo) | 2:38 |
 | 100 | [Fallin](https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Fallin](https://open.spotify.com/album/1wt8UJYePXqJkNx2R7R32Q) | 2:21 |
 
-Snapshot ID: `MCw1YjIwOTU5M2M4ODhjNzIxZWY2NzFmMjViNGEyNzYwMDIzOTgzODIx`
+Snapshot ID: `MCw1MjcyY2ZmZDAyYjJiZTc2M2E1YjBhMDQ2NzBhOWExNDg1OTEyMzhh`

@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: SIX LOUNGE
 
-798 songs - 2 day 2 hr 7 min
+799 songs - 2 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [Fuzzy](https://open.spotify.com/track/6wOiypD8mvXz732pnbGX75) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [Fuzzy](https://open.spotify.com/album/7ry322fIhLAxswrY2iQXeP) | 3:44 | 2023-06-27 | 2023-08-02 |
 | [G.A.D.](https://open.spotify.com/track/2ODzC7a4omg68Yj6BzrKIu) | [QUBIT](https://open.spotify.com/artist/02Xm23NCqdYlyFnpcTfdmI) | [G.A.D.](https://open.spotify.com/album/2hv367X3TlSbK1lT9XWlVl) | 4:14 | 2023-06-20 | 2023-07-26 |
 | [GAME](https://open.spotify.com/track/2VtkTGHzX6otFrgjB37PNn) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/00tN5W3sO93jZSqpLywQBs) | 2:45 | 2023-09-20 | 2023-09-21 |
-| [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-20 |  |
+| [GAME](https://open.spotify.com/track/2aZ6Du5TkxZUjvHW9uH8Qj) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:45 | 2023-09-21 |  |
+| [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-20 | 2023-09-25 |
 | [Get High](https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Get High](https://open.spotify.com/album/1vyUAdY2zcg4r5ZwIdBNaK) | 3:40 | 2023-01-13 | 2023-02-15 |
 | [ghosted](https://open.spotify.com/track/0X53TLIHdotP2JeUYq4NbW) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [アマリリス](https://open.spotify.com/album/4jqo33DQb1mHK7ynzNmKa9) | 2:54 | 2023-09-05 |  |
 | [Gift \(alt ver.\)](https://open.spotify.com/track/51u4vuTh5g43isSIHLwXl3) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [Gift \(alt ver.\)](https://open.spotify.com/album/4e0NQvgBanO1WXGg3PieA6) | 4:19 | 2023-09-20 |  |

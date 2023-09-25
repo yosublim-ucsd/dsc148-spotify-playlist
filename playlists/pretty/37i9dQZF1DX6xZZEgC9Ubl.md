@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: Chri$tian Gate$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,519,156 likes - 152 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519,572 likes - 152 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 99 | [start again](https://open.spotify.com/track/3pkacg4CSnP4i0K907SODj) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [leave me where you found me](https://open.spotify.com/album/5ErAWZUiPinYqoryslUsFy) | 2:51 |
 | 100 | [HURT SO BAD](https://open.spotify.com/track/61UW1ahvPB6hxLPxjM2VoK) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [HURT SO BAD](https://open.spotify.com/album/7lJSH2Ex6k51cNarafJkBQ) | 2:34 |
 | 101 | [Normal](https://open.spotify.com/track/5j2O2yeurM9fD2rgCPt7pD) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Normal](https://open.spotify.com/album/0vSwuVKVrx6L4RJuJkWiAL) | 2:42 |
-| 102 | [Go Wild](https://open.spotify.com/track/16EzGL9U34odQa9iTm5Jb0) | [Drex Carter](https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc) | [Go Wild](https://open.spotify.com/album/0rxU5Ka6Tz2utlsS9qrWje) | 2:40 |
+| 102 | [Go Wild](https://open.spotify.com/track/3p2f3cjwWArheRaM1F231N) | [Drex Carter](https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc) | [Go Wild](https://open.spotify.com/album/6Z2q115jZoFy2O5HwnfWsB) | 2:40 |
 | 103 | [Holding On](https://open.spotify.com/track/4yePx3vjQVM5gPmbYBEnSc) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Holding On](https://open.spotify.com/album/2lubPCgx6xQH6n9x4qVzFk) | 3:11 |
 | 104 | [you never meant it](https://open.spotify.com/track/4LMlIX9Y8qziRafzW30mGc) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [cøzybøy](https://open.spotify.com/artist/3sWtaNsmsCx0TFaQkP8QAm) | [you never meant it](https://open.spotify.com/album/6qT7iBnEv3I56ESve2jgfn) | 1:57 |
 | 105 | [i'm sorry](https://open.spotify.com/track/5zbaVaJgphpr6ZiIzoYilC) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [i'm sorry](https://open.spotify.com/album/63y7aQhALoZ1L9Z3EQzLvI) | 3:12 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 151 | [my world](https://open.spotify.com/track/4YC4jW8DAxwANQXJDMiDqh) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [my world](https://open.spotify.com/album/2tOL4tC0w7iUUkl76ZcpBl) | 2:21 |
 | 152 | [Outta Time](https://open.spotify.com/track/661BYxmgtbIFtG5K2GDhip) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9), [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [Outta Time](https://open.spotify.com/album/59A0LQ9jDtBqjd9dxXkAGm) | 2:05 |
 
-Snapshot ID: `MCw3YzNhZTEzODBlMDMzOTg3MjczYzcwNGYxOTJkNmRhMzBlOTRhNjYx`
+Snapshot ID: `MCwxNzRiZjRhMDdkMTIzODQ3OWM1NWJlOThkOTIwZWJlZWRiODgxODky`

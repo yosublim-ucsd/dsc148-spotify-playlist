@@ -4264,7 +4264,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 99718,
       "name": "Cockpit Country",
       "url": "https://open.spotify.com/track/2C1NJiTMTVsLzpEn2BYw6e"
@@ -6692,7 +6692,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 148500,
       "name": "Fire Inside",
       "url": "https://open.spotify.com/track/6mS822S9l2BKN0RzmTyLfP"
@@ -11073,6 +11073,24 @@
     },
     {
       "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/1jlHR4iZJzzw25bVjRBG5P"
+      },
+      "artists": [
+        {
+          "name": "Cal Credence",
+          "url": "https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147857,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/5pbMjvDEHdFVRkxjNeaUFu"
+    },
+    {
+      "album": {
         "name": "New Energy",
         "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
       },
@@ -12514,6 +12532,24 @@
       "duration_ms": 164660,
       "name": "New Growth",
       "url": "https://open.spotify.com/track/2I0x0mu9XbWlIfqoLoTHcj"
+    },
+    {
+      "album": {
+        "name": "Newfoundland",
+        "url": "https://open.spotify.com/album/2Qc4mA0oXvPM20LnxiYAwH"
+      },
+      "artists": [
+        {
+          "name": "ohlos",
+          "url": "https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Newfoundland",
+      "url": "https://open.spotify.com/track/0LfVn0YGjq376wVwJo4THd"
     },
     {
       "album": {
@@ -15874,7 +15910,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 169500,
       "name": "Sapphire Lake",
       "url": "https://open.spotify.com/track/1JkJyzYF2rFW8JNtKAcvJg"
@@ -21480,6 +21516,24 @@
       "duration_ms": 140432,
       "name": "Yesterday's Tomorrow",
       "url": "https://open.spotify.com/track/7D2wp7jItC0PNJMp3fvDZm"
+    },
+    {
+      "album": {
+        "name": "yo!",
+        "url": "https://open.spotify.com/album/3Ud214zFe6QW4agzbC0UnK"
+      },
+      "artists": [
+        {
+          "name": "H I K E",
+          "url": "https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120169,
+      "name": "yo!",
+      "url": "https://open.spotify.com/track/76Bwn0o3omms1v8BmIryYL"
     },
     {
       "album": {

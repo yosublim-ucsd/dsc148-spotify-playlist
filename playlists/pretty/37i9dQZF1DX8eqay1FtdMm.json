@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bSion(\uc2dc\uc628)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 326461,
+  "num_followers": 326458,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Yzg3MDUxNTYyMzdhZGI0NDY0ODg1NDg3YWI4NDNiMDRjYTIzNWI4",
+  "snapshot_id": "MCw3NWE5MGE4MTVkMGMwMDA3MWZlMWM3YTc1ZDQ2ZDBhZGFjYjhjMjI5",
   "tracks": [
     {
       "added_at": "2023-09-22 13:45:54",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-09-22 13:45:54",
       "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
-      },
-      "artists": [
-        {
-          "name": "Joosiq",
-          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
-        }
-      ],
-      "duration_ms": 212608,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
-    },
-    {
-      "added_at": "2023-09-22 13:45:54",
-      "album": {
         "name": "Bye",
         "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 290960,
       "name": "Soju Hanjan",
       "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
+    },
+    {
+      "added_at": "2023-09-22 13:45:54",
+      "album": {
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
+      },
+      "artists": [
+        {
+          "name": "Joosiq",
+          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
+        }
+      ],
+      "duration_ms": 212608,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
     },
     {
       "added_at": "2023-09-22 13:45:54",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-09-22 13:45:54",
       "album": {
-        "name": "Hate Everything",
-        "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 205759,
-      "name": "Hate Everything - Korean Version",
-      "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
-    },
-    {
-      "added_at": "2023-09-22 13:45:54",
-      "album": {
         "name": "in the bed",
         "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 265058,
       "name": "in the bed",
       "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
+    },
+    {
+      "added_at": "2023-09-22 13:45:54",
+      "album": {
+        "name": "Hate Everything",
+        "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 205759,
+      "name": "Hate Everything - Korean Version",
+      "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
     },
     {
       "added_at": "2023-09-22 13:45:54",
@@ -1123,22 +1123,18 @@
     {
       "added_at": "2023-09-22 13:45:54",
       "album": {
-        "name": "Need you (With Sung Si Kyung)",
-        "url": "https://open.spotify.com/album/4LsFiCmcvpuz0yD6BoSBpL"
+        "name": "A Love Supreme",
+        "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
       },
       "artists": [
         {
           "name": "SOLE",
           "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        },
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
         }
       ],
-      "duration_ms": 240066,
-      "name": "Need you (With Sung Si Kyung)",
-      "url": "https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD"
+      "duration_ms": 210106,
+      "name": "I Want to Be Closer to You",
+      "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
     },
     {
       "added_at": "2023-09-22 13:45:54",
@@ -1159,22 +1155,6 @@
     {
       "added_at": "2023-09-22 13:45:54",
       "album": {
-        "name": "Love Me Love Me",
-        "url": "https://open.spotify.com/album/2rtrqdfMeYxBNxpxcUl3cY"
-      },
-      "artists": [
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "Love Me Love Me",
-      "url": "https://open.spotify.com/track/6PDGLp3PVAVdwVeFRLYvS5"
-    },
-    {
-      "added_at": "2023-09-22 13:45:54",
-      "album": {
         "name": "Faith OST",
         "url": "https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd"
       },
@@ -1187,6 +1167,22 @@
       "duration_ms": 267937,
       "name": "Walking Slowly",
       "url": "https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9"
+    },
+    {
+      "added_at": "2023-09-22 13:45:54",
+      "album": {
+        "name": "Love Me Love Me",
+        "url": "https://open.spotify.com/album/2rtrqdfMeYxBNxpxcUl3cY"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Love Me Love Me",
+      "url": "https://open.spotify.com/track/6PDGLp3PVAVdwVeFRLYvS5"
     },
     {
       "added_at": "2023-09-22 13:45:54",
@@ -1271,18 +1267,22 @@
     {
       "added_at": "2023-09-22 13:45:54",
       "album": {
-        "name": "A Love Supreme",
-        "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
+        "name": "Need you (With Sung Si Kyung)",
+        "url": "https://open.spotify.com/album/4LsFiCmcvpuz0yD6BoSBpL"
       },
       "artists": [
         {
           "name": "SOLE",
           "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        },
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
         }
       ],
-      "duration_ms": 210106,
-      "name": "I Want to Be Closer to You",
-      "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
+      "duration_ms": 240066,
+      "name": "Need you (With Sung Si Kyung)",
+      "url": "https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD"
     },
     {
       "added_at": "2023-09-22 13:45:54",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-09-22 13:45:54",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM"
-      },
-      "artists": [
-        {
-          "name": "Huh Gak",
-          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
-        }
-      ],
-      "duration_ms": 263966,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw"
-    },
-    {
-      "added_at": "2023-09-22 13:45:54",
-      "album": {
         "name": "The Fairy Tale",
         "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 227054,
       "name": "Tale",
       "url": "https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB"
+    },
+    {
+      "added_at": "2023-09-22 13:45:54",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "duration_ms": 263966,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw"
     },
     {
       "added_at": "2023-09-22 13:45:54",

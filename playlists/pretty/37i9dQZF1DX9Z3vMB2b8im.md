@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,296,698 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,297,008 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 49 | [Revolution 0](https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:17 |
 | 50 | [Becoming](https://open.spotify.com/track/3JV5W3aXSfNGOSHIHndnX0) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Becoming](https://open.spotify.com/album/6InGSsBvvFqX6fo3fEwFFW) | 3:34 |
 | 51 | [Heavy](https://open.spotify.com/track/7y7Wd6SDy39DHRfRU20GNU) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Heavy](https://open.spotify.com/album/1JvNzY5bVTLty67NvTW4CT) | 4:04 |
-| 52 | [Builder Boy](https://open.spotify.com/track/3gxmx971GXRYyQlygxj5rs) | [The Slow Show](https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO) | [Builder Boy](https://open.spotify.com/album/6vSdbAoBBwvffyjs4w1jts) | 3:09 |
+| 52 | [Builder Boy](https://open.spotify.com/track/2PMlo1IRwGderZF9wPOiSm) | [The Slow Show](https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO) | [Subtle Love](https://open.spotify.com/album/4WtvNPYzwfFt04HIu4ZMyv) | 3:09 |
 | 53 | [Unconditional](https://open.spotify.com/track/4s3G9Ifc1dp8xEksZxNe8P) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Devon or Las Vegas](https://open.spotify.com/album/2iBH65jlLWmkzAAkqu0Ade) | 4:20 |
 | 54 | [Midnight](https://open.spotify.com/track/1ru2yZCJsLgHuiFJr506BV) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Sunset Traveler](https://open.spotify.com/album/6mRDTbYQi7iQEbrCtAHibh) | 1:44 |
 | 55 | [Tell Somebody](https://open.spotify.com/track/4X3hEZz6tBEhXEjwcN0I6J) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 3:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 79 | [Warped Window](https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW) | 4:55 |
 | 80 | [In Spite of the Weather \- Bill Ryder\-Jones Re\-Imagining](https://open.spotify.com/track/1LyI8GoZSzCR9BcBAHcAAX) | [Michael Price](https://open.spotify.com/artist/6Ie1HZJ0vFXxxogMhPnZcg), [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4), [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [In Spite of the Weather \(Bill Ryder\-Jones Re\-Imagining\)](https://open.spotify.com/album/34tiEPjAQZ8BQwl3HMpIoy) | 5:56 |
 
-Snapshot ID: `MCwzNDY3ODFiYWViNzNkMTIzZjBjMmM5YThlZWI4YjllNGI0ZWY4ZjQ2`
+Snapshot ID: `MCw1YzBmZDUwMDA1ZjdiMDk3ODA2MTQxYTBlYmQxYTk0YmIwNWExMTJj`

@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 39369,
+  "num_followers": 39416,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjFiZDdhZjUwMGM0Zjg4Y2Q0NzZlYmIxZTgzMzUzYjdlOTgxODYw",
+  "snapshot_id": "MCxhODE0NGFjOWU1YjNhYTk2ZDFiOWEwYzQ3MzA3ODg4MTIyOGY5ODVh",
   "tracks": [
     {
       "added_at": "2023-08-23 10:31:46",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 159626,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
         "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 566960,
       "name": "12:15 Slow Goonbash Blues",
       "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 159626,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf"
+      },
+      "artists": [
+        {
+          "name": "Brian Grey",
+          "url": "https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS"
+        }
+      ],
+      "duration_ms": 259846,
+      "name": "Part Time Blues",
+      "url": "https://open.spotify.com/track/5kqntu2ajqzuIMZP0aZFnW"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "Country, Blues & More",
         "url": "https://open.spotify.com/album/7uePfdkQNlG54ecNTMY6RP"
       },
@@ -455,22 +471,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf"
-      },
-      "artists": [
-        {
-          "name": "Brian Grey",
-          "url": "https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS"
-        }
-      ],
-      "duration_ms": 259846,
-      "name": "Part Time Blues",
-      "url": "https://open.spotify.com/track/5kqntu2ajqzuIMZP0aZFnW"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "The Peacock Recordings: 1949-1959",
         "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 154506,
       "name": "Okie Dokie Stomp",
       "url": "https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "What's The Word?",
+        "url": "https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        }
+      ],
+      "duration_ms": 158493,
+      "name": "Extra Jimmies",
+      "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -515,22 +531,6 @@
       "duration_ms": 197466,
       "name": "Lookin' Good",
       "url": "https://open.spotify.com/track/1Lw0Oi8JapLOIU8bfZV7PW"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "What's The Word?",
-        "url": "https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "Extra Jimmies",
-      "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "For Collectors Only (The Wham Of That Memphis Man)",
-        "url": "https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Mack",
-          "url": "https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns"
-        }
-      ],
-      "duration_ms": 132333,
-      "name": "Wham!",
-      "url": "https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "R&B from the Marquee / At the Cavern (Remastered)",
         "url": "https://open.spotify.com/album/435zTVZqyNJba4YteDro9M"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 150465,
       "name": "Gotta Move",
       "url": "https://open.spotify.com/track/7CBgw5vnA4TWHmtWyoy6ll"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "For Collectors Only (The Wham Of That Memphis Man)",
+        "url": "https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Mack",
+          "url": "https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns"
+        }
+      ],
+      "duration_ms": 132333,
+      "name": "Wham!",
+      "url": "https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
-        "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
-      },
-      "artists": [
-        {
-          "name": "Little Sonny",
-          "url": "https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "The Creeper Returns",
-      "url": "https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "All Kinds Of Blues",
         "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 246333,
       "name": "Frankie And Johnny Boogie",
       "url": "https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
+        "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
+      },
+      "artists": [
+        {
+          "name": "Little Sonny",
+          "url": "https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "The Creeper Returns",
+      "url": "https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Screamin' the Blues",
-        "url": "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY"
+        "name": "The Peacock Recordings: 1949-1959",
+        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
       },
       "artists": [
         {
-          "name": "Screamin' Jay Hawkins",
-          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
         }
       ],
-      "duration_ms": 188800,
-      "name": "Sweet Ginny",
-      "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
+      "duration_ms": 173000,
+      "name": "Ain't That Dandy",
+      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1023,34 +1023,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Peacock Recordings: 1949-1959",
-        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
+        "name": "Screamin' the Blues",
+        "url": "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY"
       },
       "artists": [
         {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+          "name": "Screamin' Jay Hawkins",
+          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Ain't That Dandy",
-      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "I Feel Like Goin' On",
-        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Earl",
-          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
-        }
-      ],
-      "duration_ms": 393666,
-      "name": "Little Johnny Lee",
-      "url": "https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD"
+      "duration_ms": 188800,
+      "name": "Sweet Ginny",
+      "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1067,6 +1051,22 @@
       "duration_ms": 139413,
       "name": "Jukebox Shuffle",
       "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "I Feel Like Goin' On",
+        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        }
+      ],
+      "duration_ms": 393666,
+      "name": "Little Johnny Lee",
+      "url": "https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Midnight In Memphis",
-        "url": "https://open.spotify.com/album/0W13XEedSrRjAWMNGilF60"
-      },
-      "artists": [
-        {
-          "name": "Curtis Baker & The Bravehearts",
-          "url": "https://open.spotify.com/artist/3lQTRCvi6W0iU1VZurddTR"
-        }
-      ],
-      "duration_ms": 187582,
-      "name": "Midnight In Memphis",
-      "url": "https://open.spotify.com/track/3LD6GIWctcXt9wm3z89zps"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 564133,
       "name": "The Messiah Will Come",
       "url": "https://open.spotify.com/track/0slDISVZUMJaIB85uEYIAu"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Midnight In Memphis",
+        "url": "https://open.spotify.com/album/0W13XEedSrRjAWMNGilF60"
+      },
+      "artists": [
+        {
+          "name": "Curtis Baker & The Bravehearts",
+          "url": "https://open.spotify.com/artist/3lQTRCvi6W0iU1VZurddTR"
+        }
+      ],
+      "duration_ms": 187582,
+      "name": "Midnight In Memphis",
+      "url": "https://open.spotify.com/track/3LD6GIWctcXt9wm3z89zps"
     },
     {
       "added_at": "2023-08-23 10:31:46",

@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Fernandinho",
-  "num_followers": 129270,
+  "num_followers": 129378,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2I0MzhlZTE2MjdhMzg1NDEzZDQ1MmQyZmJkMzE2ZDgzZjE4ZTQ2",
+  "snapshot_id": "MCw3OWIzYzlhNjY2YjBkODYyMDJkZDIyODcyMGEwNWYxOGNhZmQ1ZmEw",
   "tracks": [
     {
       "added_at": "2023-09-15 22:12:22",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-09-15 22:12:22",
       "album": {
-        "name": "ATEU",
-        "url": "https://open.spotify.com/album/2C9WkmNAfnnFciTun3JAsb"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 245462,
-      "name": "ATEU",
-      "url": "https://open.spotify.com/track/0hz6L1XvtmDUgb5Z0zP0ua"
-    },
-    {
-      "added_at": "2023-09-15 22:12:22",
-      "album": {
         "name": "Cora\u00e7\u00e3o de Pedra",
         "url": "https://open.spotify.com/album/11lguPTBBroA3Vk3WCbXbo"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 225489,
       "name": "Cora\u00e7\u00e3o de Pedra",
       "url": "https://open.spotify.com/track/74RE99ZIixd6P7tzg0yY06"
+    },
+    {
+      "added_at": "2023-09-15 22:12:22",
+      "album": {
+        "name": "ATEU",
+        "url": "https://open.spotify.com/album/2C9WkmNAfnnFciTun3JAsb"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "duration_ms": 245462,
+      "name": "ATEU",
+      "url": "https://open.spotify.com/track/0hz6L1XvtmDUgb5Z0zP0ua"
     },
     {
       "added_at": "2023-09-15 22:12:22",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-09-15 22:12:22",
       "album": {
-        "name": "Mauro",
-        "url": "https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 250475,
-      "name": "Escolho Ser Fiel",
-      "url": "https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my"
-    },
-    {
-      "added_at": "2023-09-15 22:12:22",
-      "album": {
         "name": "Bartimeu",
         "url": "https://open.spotify.com/album/7BOTcVXmkt4fZaPEJpQXam"
       },
@@ -623,6 +607,22 @@
     {
       "added_at": "2023-09-15 22:12:22",
       "album": {
+        "name": "Palavrantiga Ao Vivo (Pt. 4)",
+        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
+      },
+      "artists": [
+        {
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+        }
+      ],
+      "duration_ms": 322400,
+      "name": "Rookmaaker - Ao Vivo",
+      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
+    },
+    {
+      "added_at": "2023-09-15 22:12:22",
+      "album": {
         "name": "Lembre-se 90's",
         "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
       },
@@ -639,18 +639,34 @@
     {
       "added_at": "2023-09-15 22:12:22",
       "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 4)",
-        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
+        "name": "Mauro",
+        "url": "https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz"
       },
       "artists": [
         {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
         }
       ],
-      "duration_ms": 322400,
-      "name": "Rookmaaker - Ao Vivo",
-      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
+      "duration_ms": 250475,
+      "name": "Escolho Ser Fiel",
+      "url": "https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my"
+    },
+    {
+      "added_at": "2023-09-15 22:12:22",
+      "album": {
+        "name": "Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 536192,
+      "name": "Santo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
     },
     {
       "added_at": "2023-09-15 22:12:22",
@@ -675,34 +691,18 @@
     {
       "added_at": "2023-09-15 22:12:22",
       "album": {
-        "name": "Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
+        "name": "Palavrantiga Ao Vivo (Pt. 3)",
+        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
       },
       "artists": [
         {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
         }
       ],
-      "duration_ms": 536192,
-      "name": "Santo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
-    },
-    {
-      "added_at": "2023-09-15 22:12:22",
-      "album": {
-        "name": "Descanso",
-        "url": "https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 403932,
-      "name": "Descanso",
-      "url": "https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL"
+      "duration_ms": 250600,
+      "name": "Palavra Antiga - Ao Vivo",
+      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
     },
     {
       "added_at": "2023-09-15 22:12:22",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-09-15 22:12:22",
       "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 3)",
-        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
+        "name": "Descanso",
+        "url": "https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH"
       },
       "artists": [
         {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
         }
       ],
-      "duration_ms": 250600,
-      "name": "Palavra Antiga - Ao Vivo",
-      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
+      "duration_ms": 403932,
+      "name": "Descanso",
+      "url": "https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL"
     },
     {
       "added_at": "2023-09-15 22:12:22",
@@ -771,6 +771,22 @@
       "duration_ms": 314137,
       "name": "NAVES IMPERIAIS",
       "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
+    },
+    {
+      "added_at": "2023-09-15 22:12:22",
+      "album": {
+        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 274005,
+      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
     },
     {
       "added_at": "2023-09-15 22:12:22",
@@ -847,22 +863,6 @@
       "duration_ms": 350664,
       "name": "Sou Teu",
       "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
-    },
-    {
-      "added_at": "2023-09-15 22:12:22",
-      "album": {
-        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 274005,
-      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
     },
     {
       "added_at": "2023-09-15 22:12:22",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-09-15 22:12:22",
       "album": {
-        "name": "Recome\u00e7o",
-        "url": "https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ"
-      },
-      "artists": [
-        {
-          "name": "ID2",
-          "url": "https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Recome\u00e7o",
-      "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
-    },
-    {
-      "added_at": "2023-09-15 22:12:22",
-      "album": {
         "name": "Profundo",
         "url": "https://open.spotify.com/album/1m0GeZjCt95u0WiONSKcDc"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 323440,
       "name": "Simplesmente",
       "url": "https://open.spotify.com/track/2bHetBlOSHbqxRdqcgu9NP"
+    },
+    {
+      "added_at": "2023-09-15 22:12:22",
+      "album": {
+        "name": "Recome\u00e7o",
+        "url": "https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ"
+      },
+      "artists": [
+        {
+          "name": "ID2",
+          "url": "https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Recome\u00e7o",
+      "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
     },
     {
       "added_at": "2023-09-15 22:12:22",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-09-15 22:12:22",
       "album": {
+        "name": "Eletroac\u00fastica",
+        "url": "https://open.spotify.com/album/3aYjifiAsVAUmGDsJHcHKl"
+      },
+      "artists": [
+        {
+          "name": "Catedral",
+          "url": "https://open.spotify.com/artist/0SJRRI0eT6oeymfwyWsImX"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Quem Disse Que O Amor Pode Acabar",
+      "url": "https://open.spotify.com/track/6cqobMBwfdZddO4GxOQrI3"
+    },
+    {
+      "added_at": "2023-09-15 22:12:22",
+      "album": {
         "name": "Quebre as Correntes",
         "url": "https://open.spotify.com/album/1fto84wZULJvDxB44FccKm"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 240805,
       "name": "At\u00e9 o Fim",
       "url": "https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow"
-    },
-    {
-      "added_at": "2023-09-15 22:12:22",
-      "album": {
-        "name": "Eletroac\u00fastica",
-        "url": "https://open.spotify.com/album/3aYjifiAsVAUmGDsJHcHKl"
-      },
-      "artists": [
-        {
-          "name": "Catedral",
-          "url": "https://open.spotify.com/artist/0SJRRI0eT6oeymfwyWsImX"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Quem Disse Que O Amor Pode Acabar",
-      "url": "https://open.spotify.com/track/6cqobMBwfdZddO4GxOQrI3"
     },
     {
       "added_at": "2023-09-15 22:12:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,236,612 likes - 74 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,236,700 likes - 74 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 73 | [Killing Papa](https://open.spotify.com/track/1Doiq7cx2iQsju9ysyU14s) | [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa) | [Killing Papa](https://open.spotify.com/album/2x1e6uUdxOVT0hcLLRqSL5) | 2:01 |
 | 74 | [Alive and Aware](https://open.spotify.com/track/2uiePx5QE4EaBL59qEjrpC) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [Alive and Aware](https://open.spotify.com/album/29HFxfP82OKhDq7ZmaA2aU) | 3:08 |
 
-Snapshot ID: `MCxjZGI5YjdmZGE4ODlkMzc2ZmViZTk5N2RiYjRmMjM5Njg4MmQyN2E1`
+Snapshot ID: `MCwzMGY4YWRiNzMyYTk5NGM1YTFjYjE4MGZmZGI2YWZiNWIxMDc5ZTM0`

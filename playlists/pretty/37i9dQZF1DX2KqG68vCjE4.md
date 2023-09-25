@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KqG68vCjE4.md) - [plain]
 
 > Wishing Willie Nelson a happy 90th birthday with Spotify Singles tributes from Margo Price feat\. Particle Kid, The War and Treaty, & Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,006 likes - 36 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,009 likes - 36 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KqG68vCjE4.md) - [plain]
 | 18 | [Busted](https://open.spotify.com/track/2kuOsKK8W1fd6jWJh0u7O7) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I Don't Know A Thing About Love: The Songs of Harlan Howard](https://open.spotify.com/album/4lO42iHAoge8T139BkRc8S) | 3:28 |
 | 19 | [Still Is Still Moving to Me](https://open.spotify.com/track/25KGhrFfFD9VdxHEe4Hona) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Across The Borderline](https://open.spotify.com/album/1muFplXWqYYvymuFr3AExp) | 3:30 |
 | 20 | [Silver Stallion](https://open.spotify.com/track/6ivUoajqXRNVIyEGhRkucw) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman 2](https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn) | 3:12 |
-| 21 | [Just Breathe \(feat\. Lukas Nelson\)](https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Heroes](https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT) | 4:02 |
+| 21 | [Just Breathe](https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Heroes](https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT) | 4:02 |
 | 22 | [Summertime](https://open.spotify.com/track/2wKeVJRRxc9O3Wu7ur0Y2i) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Bobbie Nelson](https://open.spotify.com/artist/0Is1LbHQZfGwaQkpW6LfwU), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Loving You](https://open.spotify.com/album/52chGdpRUEAu29jmJsaMSR) | 4:05 |
 | 23 | [I'm the Only Hell My Mama Ever Raised](https://open.spotify.com/track/2BdBVq6So5sBCbALS2p1rR) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [First Rose of Spring](https://open.spotify.com/album/5WVhM9o7WmTU8n4JgGYHdC) | 4:11 |
 | 24 | [If You've Got the Money I've Got the Time](https://open.spotify.com/track/1s2Wyk3QM2qZ9J863GFd3n) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Sound In Your Mind](https://open.spotify.com/album/3d5AwnJrZpuP4iX59NUBwC) | 2:02 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KqG68vCjE4.md) - [plain]
 | 35 | [To All the Girls I've Loved Before](https://open.spotify.com/track/0uBwcaTkY1BPpIZhxuhS67) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [1100 Bel Air Place](https://open.spotify.com/album/6DfzQpFxFMI7JXS23ctnWE) | 3:32 |
 | 36 | [Big River](https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman](https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU) | 2:47 |
 
-Snapshot ID: `MCwyY2Q5NWRkMTcwMTQ5NTFhMWUwYmE4NjY4N2VkYzM1MGRlNGJhNTEx`
+Snapshot ID: `MCw3ZjgxNTg5MDA2ZDUwYjU1NjAyYzY2MmQ3MWZkM2MxMGZiOGU1NWEz`

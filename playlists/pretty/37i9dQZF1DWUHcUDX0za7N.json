@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM?si=iyU8ZgF1TN6hxaTEXBD7CQ\"> Cheque </a> ",
-  "num_followers": 26173,
+  "num_followers": 26233,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODJiNTUzMjI3ZGMwMWI4MmU4N2U0NTBmYTE4ZmQ4OWE0YjdjYmFk",
+  "snapshot_id": "MCwzZTQ3MTVjOWFiZTVhYzM5NzNkZGQ0OTMzNTMyOTU0MTU0ZDIzMDIw",
   "tracks": [
     {
       "added_at": "2023-09-21 23:00:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "FIREGUN (feat. Fireboy DML)",
-        "url": "https://open.spotify.com/album/1t7HLxUEYRN3TUBGkoazWj"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "FIREGUN (feat. Fireboy DML)",
-      "url": "https://open.spotify.com/track/5UautcyJDjHxwnejNAkfg9"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 153174,
       "name": "Account Balance",
       "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "FIREGUN (feat. Fireboy DML)",
+        "url": "https://open.spotify.com/album/1t7HLxUEYRN3TUBGkoazWj"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "FIREGUN (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/5UautcyJDjHxwnejNAkfg9"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1303,22 +1303,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Wale",
-        "url": "https://open.spotify.com/album/0ZGdzWQHW8wFqR0sjLgovr"
+        "name": "Gbedu",
+        "url": "https://open.spotify.com/album/78tVCq1xaSu5u8L3sABqE4"
       },
       "artists": [
         {
-          "name": "Anonymous Music",
-          "url": "https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG"
-        },
-        {
-          "name": "Barry Jhay",
-          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
         }
       ],
-      "duration_ms": 137094,
-      "name": "Wale",
-      "url": "https://open.spotify.com/track/13TxEG5hiRAVAiKDI4ycGC"
+      "duration_ms": 189026,
+      "name": "Gbedu",
+      "url": "https://open.spotify.com/track/1XhTCQFzYcgFeJpkw2x2VV"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1343,22 +1339,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Bando Diaries",
-        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+        "name": "Wale",
+        "url": "https://open.spotify.com/album/0ZGdzWQHW8wFqR0sjLgovr"
       },
       "artists": [
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+          "name": "Anonymous Music",
+          "url": "https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
         }
       ],
-      "duration_ms": 158298,
-      "name": "Bando Diaries",
-      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
+      "duration_ms": 137094,
+      "name": "Wale",
+      "url": "https://open.spotify.com/track/13TxEG5hiRAVAiKDI4ycGC"
     }
   ],
   "unique_name": "Naija Bars ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 
 > Dive in to the Ambient of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,249 likes - 75 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,303 likes - 75 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 177680,
       "name": "Cough",
       "url": "https://open.spotify.com/track/2SggWVBRvkOmtQRfbKh6sV"
@@ -3460,7 +3460,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 141818,
       "name": "King of Pop",
       "url": "https://open.spotify.com/track/6IvgXou1CDNFO1cuILIqsf"
@@ -3720,6 +3720,24 @@
       "duration_ms": 274285,
       "name": "La Maluka",
       "url": "https://open.spotify.com/track/7EJfaSvCBWNJwKYe7ol4D7"
+    },
+    {
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145910,
+      "name": "La Pio Pio",
+      "url": "https://open.spotify.com/track/6nK5Zt2RI6xqEaU8CgMojZ"
     },
     {
       "album": {
@@ -4970,7 +4988,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 142363,
       "name": "Peppermint",
       "url": "https://open.spotify.com/track/1I4ZQ2KVDziVs6IFBYJFis"

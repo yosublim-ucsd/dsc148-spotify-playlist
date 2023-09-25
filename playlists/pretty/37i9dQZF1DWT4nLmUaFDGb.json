@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 428710,
+  "num_followers": 428989,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmJlMWY2NzgzNjc1NjdiYTFiNDRkY2NlZDAwOGE4NDFkMzdiNTFj",
+  "snapshot_id": "MCwwNGI1N2IyNGRjYzU0MzM4YTU0NTdkNGI0ODA0ZWE2YTViNTZkOWUz",
   "tracks": [
     {
       "added_at": "2023-09-22 00:01:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 222146,
-      "name": "I've Never Been In Love Before",
-      "url": "https://open.spotify.com/track/4IqrPu63viykyz34gUYKAx"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Peter Cincotti",
         "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 251920,
       "name": "Sway",
       "url": "https://open.spotify.com/track/2DPBgT4BHfawknU40BZ1gg"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 222146,
+      "name": "I've Never Been In Love Before",
+      "url": "https://open.spotify.com/track/4IqrPu63viykyz34gUYKAx"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Duets An American Classic",
-        "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/2cb5IF0FtYPqFujORervcL"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 273626,
       "name": "Suzanne (feat. Gregory Porter)",
       "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Duets An American Classic",
+        "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/2cb5IF0FtYPqFujORervcL"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Coming Back To You",
-        "url": "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Coming Back To You",
-      "url": "https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Castles in the Air",
         "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
       },
@@ -1111,22 +1091,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Lumi\u00e9re",
-        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
-      },
-      "artists": [
-        {
-          "name": "Emily Sage",
-          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "Lumi\u00e9re",
-      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Frenchy",
         "url": "https://open.spotify.com/album/33aacw53MZVyxjzjqxcs9o"
       },
@@ -1143,6 +1107,42 @@
       "duration_ms": 180866,
       "name": "Un homme et une femme",
       "url": "https://open.spotify.com/track/70DFIIL8qvunU5PWwsFDtw"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Coming Back To You",
+        "url": "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Coming Back To You",
+      "url": "https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Lumi\u00e9re",
+        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
+      },
+      "artists": [
+        {
+          "name": "Emily Sage",
+          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Lumi\u00e9re",
+      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Linger Awhile (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 183523,
-      "name": "Sometimes Today Seems Like Yesterday",
-      "url": "https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "I Belong To You",
         "url": "https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 196320,
       "name": "I Belong to You",
       "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Linger Awhile (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 183523,
+      "name": "Sometimes Today Seems Like Yesterday",
+      "url": "https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Take on Me",
+        "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "I\u00b4m a Fool to Want You",
         "url": "https://open.spotify.com/album/0SzmD3ohQtsXaTVh7VSbJ5"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 246349,
       "name": "I\u00b4m a Fool to Want You",
       "url": "https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Take on Me",
-        "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "I Only Have Eyes For You",
+        "url": "https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF"
+      },
+      "artists": [
+        {
+          "name": "Chris Weeks",
+          "url": "https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO"
+        }
+      ],
+      "duration_ms": 250745,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "On The Moon",
         "url": "https://open.spotify.com/album/5aQ4x8ZmB8m4N5UxJGMOgH"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 241413,
       "name": "Autumn Breeze",
       "url": "https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "I Only Have Eyes For You",
-        "url": "https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF"
-      },
-      "artists": [
-        {
-          "name": "Chris Weeks",
-          "url": "https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO"
-        }
-      ],
-      "duration_ms": 250745,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/2OsdUvKFnHmZcPE0aSH6Fy"
-      },
-      "artists": [
-        {
-          "name": "Lauren Coleman",
-          "url": "https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek"
-        }
-      ],
-      "duration_ms": 150349,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/0sGzxxnh6MTgrfP8zQjW01"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Boy Boredom",
         "url": "https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 221241,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/2OsdUvKFnHmZcPE0aSH6Fy"
+      },
+      "artists": [
+        {
+          "name": "Lauren Coleman",
+          "url": "https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek"
+        }
+      ],
+      "duration_ms": 150349,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/0sGzxxnh6MTgrfP8zQjW01"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -2251,18 +2251,18 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G"
+        "name": "Mr Bojangles",
+        "url": "https://open.spotify.com/album/0afzBbT854T6FpmF3IYU5g"
       },
       "artists": [
         {
-          "name": "Sophia HP",
-          "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
+          "name": "Kareen Guiock-Thuram",
+          "url": "https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER"
         }
       ],
-      "duration_ms": 228639,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP"
+      "duration_ms": 283413,
+      "name": "Mr. Bojangles",
+      "url": "https://open.spotify.com/track/3vUiGKmDz5Nef45PoYvrgh"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -2283,18 +2283,18 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Mr Bojangles",
-        "url": "https://open.spotify.com/album/0afzBbT854T6FpmF3IYU5g"
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G"
       },
       "artists": [
         {
-          "name": "Kareen Guiock-Thuram",
-          "url": "https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER"
+          "name": "Sophia HP",
+          "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
         }
       ],
-      "duration_ms": 283413,
-      "name": "Mr. Bojangles",
-      "url": "https://open.spotify.com/track/3vUiGKmDz5Nef45PoYvrgh"
+      "duration_ms": 228639,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -2351,22 +2351,6 @@
       "duration_ms": 345176,
       "name": "You Are There",
       "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Hilltop",
-        "url": "https://open.spotify.com/album/1vlxR6EAMlpVU3DsUysk63"
-      },
-      "artists": [
-        {
-          "name": "Sophia HP",
-          "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
-        }
-      ],
-      "duration_ms": 272768,
-      "name": "Hilltop",
-      "url": "https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -2479,6 +2463,22 @@
       "duration_ms": 257000,
       "name": "I Try",
       "url": "https://open.spotify.com/track/1TQZRpTbH3aWDqmr5mBo2z"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Hilltop",
+        "url": "https://open.spotify.com/album/1vlxR6EAMlpVU3DsUysk63"
+      },
+      "artists": [
+        {
+          "name": "Sophia HP",
+          "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
+        }
+      ],
+      "duration_ms": 272768,
+      "name": "Hilltop",
+      "url": "https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF"
     }
   ],
   "unique_name": "Easy Jazz",

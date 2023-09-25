@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Feid & Rema",
-  "num_followers": 114230,
+  "num_followers": 114259,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGQ4NWExMjI3MGJiYzNlYTE4MWMzZmIyOTQzMTNjNzEwMmJjMzU1",
+  "snapshot_id": "MCw5YWZjMGEzZGI2MGE1ODRiYmI2ZDAyMmZjMTA0ZDNjNmE0NDI2NmU5",
   "tracks": [
     {
       "added_at": "2023-09-22 06:08:09",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-09-22 06:08:09",
       "album": {
-        "name": "Guava Rose",
-        "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
-      },
-      "artists": [
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
-          "name": "Eva Ruiz",
-          "url": "https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV"
-        }
-      ],
-      "duration_ms": 192108,
-      "name": "Guava Rose",
-      "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
-    },
-    {
-      "added_at": "2023-09-22 06:08:09",
-      "album": {
         "name": "TumbaGobierno",
         "url": "https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 192849,
       "name": "Uchi Wala",
       "url": "https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61"
+    },
+    {
+      "added_at": "2023-09-22 06:08:09",
+      "album": {
+        "name": "Guava Rose",
+        "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Eva Ruiz",
+          "url": "https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV"
+        }
+      ],
+      "duration_ms": 192108,
+      "name": "Guava Rose",
+      "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
     },
     {
       "added_at": "2023-09-22 06:08:09",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2023-09-22 06:08:09",
       "album": {
+        "name": "Toko Challenge",
+        "url": "https://open.spotify.com/album/5YM0xejbqgF9nsg4gUHrW0"
+      },
+      "artists": [
+        {
+          "name": "DJ Flex",
+          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+        },
+        {
+          "name": "Kreatunez",
+          "url": "https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv"
+        }
+      ],
+      "duration_ms": 98772,
+      "name": "Toko Challenge",
+      "url": "https://open.spotify.com/track/7lVYGPGRWwW6BvRtv56LFU"
+    },
+    {
+      "added_at": "2023-09-22 06:08:09",
+      "album": {
         "name": "Sanga Zoo (feat. Farruko)",
         "url": "https://open.spotify.com/album/5StbSlzS0COrqrPJDhQr9V"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 231520,
       "name": "Sanga Zoo (feat. Farruko)",
       "url": "https://open.spotify.com/track/6RcQeYGYy2N8CR6N1HJN5T"
-    },
-    {
-      "added_at": "2023-09-22 06:08:09",
-      "album": {
-        "name": "Toko Challenge",
-        "url": "https://open.spotify.com/album/5YM0xejbqgF9nsg4gUHrW0"
-      },
-      "artists": [
-        {
-          "name": "DJ Flex",
-          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
-        },
-        {
-          "name": "Kreatunez",
-          "url": "https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv"
-        }
-      ],
-      "duration_ms": 98772,
-      "name": "Toko Challenge",
-      "url": "https://open.spotify.com/track/7lVYGPGRWwW6BvRtv56LFU"
     },
     {
       "added_at": "2023-09-22 06:08:09",

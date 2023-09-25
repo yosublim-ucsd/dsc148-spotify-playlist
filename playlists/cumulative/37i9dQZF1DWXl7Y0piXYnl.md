@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-265 songs - 19 hr 42 min
+266 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Hold Back Love](https://open.spotify.com/track/5ehidRHI0uXVkWupwoXjjG) | [Aasthma](https://open.spotify.com/artist/0oWDC2Rq9mbNIzMxoRpdoc) | [Arrival](https://open.spotify.com/album/5WNzuEnFYu55NoA2VmRN1e) | 3:27 | 2022-10-27 | 2023-04-07 |
 | [Hop On \- FJAAK Remix](https://open.spotify.com/track/1BNF2g4QdSFN4TE4SAQpVk) | [Sterac](https://open.spotify.com/artist/2QFnCeEbTqsb0YUYpFl08v), [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [CROWD001: Raving Wasps](https://open.spotify.com/album/61uqowB1dOuBnGN0V1NQGs) | 4:22 | 2023-08-31 | 2023-09-15 |
 | [Hype Beast](https://open.spotify.com/track/6whBYdE8GepAR0X27SuYXo) | [Byrell The Great](https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO), [Princess Precious](https://open.spotify.com/artist/4GwCanrqEtG8SVYYY21rH5) | [Snack Time](https://open.spotify.com/album/3Z4pnbIrUyyOCDcQuHtzLG) | 2:35 | 2023-04-06 | 2023-08-25 |
-| [I DM U](https://open.spotify.com/track/07oNLCkaprnGmx3edA3b1S) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [I DM U](https://open.spotify.com/album/5Xkm7MoWZZ8uh4aVaXuIyd) | 4:23 | 2023-09-21 |  |
+| [I DM U](https://open.spotify.com/track/07oNLCkaprnGmx3edA3b1S) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [I DM U](https://open.spotify.com/album/5Xkm7MoWZZ8uh4aVaXuIyd) | 4:23 | 2023-09-21 | 2023-09-25 |
+| [I DM U](https://open.spotify.com/track/5e0gYGMPLrsSUjSQONdjlF) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Gentle Confrontation](https://open.spotify.com/album/6t8EEPPBUhJiYucv3zsIKx) | 4:23 | 2023-09-21 |  |
 | [I Want You To Know](https://open.spotify.com/track/4bZAsC7ftR11pHpRNk2Mhc) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 4:47 | 2023-09-14 | 2023-09-22 |
 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 | 2023-08-31 | 2023-09-15 |
 | [Incredibly Annoying \- Safety Trance Remix](https://open.spotify.com/track/1Q0gzmihIHWXV2Z2Dgr0Mr) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Safety Trance](https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF) | [Incredibly Annoying \(Safety Trance Remix\)](https://open.spotify.com/album/1GwE2IJL9Q3ez73dDQcPlg) | 2:54 | 2023-08-24 |  |

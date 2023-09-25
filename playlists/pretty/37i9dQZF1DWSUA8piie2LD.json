@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 94283,
+  "num_followers": 94414,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzljYTNiNzQzYjVlMjI0NTcwNDM5M2Q4NDVlZDE2YTA2MDgxMTEx",
+  "snapshot_id": "MCxlYjNmYjJjMTI2Nzg5MDYxMmEzMjQzNzIwMjk5MDU2MWM4Y2NkNTcz",
   "tracks": [
     {
       "added_at": "2023-09-22 07:10:35",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-09-22 07:10:35",
       "album": {
-        "name": "Born 2 Groove",
-        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 309386,
-      "name": "Slow Jam",
-      "url": "https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq"
-    },
-    {
-      "added_at": "2023-09-22 07:10:35",
-      "album": {
         "name": "Pleasure Seeker",
         "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 269893,
       "name": "Pleasure Seeker",
       "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
+    },
+    {
+      "added_at": "2023-09-22 07:10:35",
+      "album": {
+        "name": "Born 2 Groove",
+        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 309386,
+      "name": "Slow Jam",
+      "url": "https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq"
     },
     {
       "added_at": "2023-09-22 07:10:35",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-09-22 07:10:35",
       "album": {
+        "name": "Livin' Large",
+        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "Don't Let Me Be Lonely Tonight",
+      "url": "https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h"
+    },
+    {
+      "added_at": "2023-09-22 07:10:35",
+      "album": {
         "name": "Temptation",
         "url": "https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 275773,
       "name": "Lip Service",
       "url": "https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7"
-    },
-    {
-      "added_at": "2023-09-22 07:10:35",
-      "album": {
-        "name": "Livin' Large",
-        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 178933,
-      "name": "Don't Let Me Be Lonely Tonight",
-      "url": "https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h"
     },
     {
       "added_at": "2023-09-22 07:10:35",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-09-22 07:10:35",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
-      },
-      "artists": [
-        {
-          "name": "Fourplay",
-          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
-        }
-      ],
-      "duration_ms": 340386,
-      "name": "Fields of Gold",
-      "url": "https://open.spotify.com/track/0f8lc6QabkwdZ89O2qRXkp"
-    },
-    {
-      "added_at": "2023-09-22 07:10:35",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 266693,
       "name": "The Closer I Get To You",
       "url": "https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4"
+    },
+    {
+      "added_at": "2023-09-22 07:10:35",
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
+      },
+      "artists": [
+        {
+          "name": "Fourplay",
+          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
+        }
+      ],
+      "duration_ms": 340386,
+      "name": "Fields of Gold",
+      "url": "https://open.spotify.com/track/0f8lc6QabkwdZ89O2qRXkp"
     },
     {
       "added_at": "2023-09-22 07:10:35",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-09-22 07:10:35",
       "album": {
+        "name": "In the Moment",
+        "url": "https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk"
+      },
+      "artists": [
+        {
+          "name": "Althea Rene",
+          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
+        }
+      ],
+      "duration_ms": 251960,
+      "name": "In the Moment",
+      "url": "https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ"
+    },
+    {
+      "added_at": "2023-09-22 07:10:35",
+      "album": {
         "name": "Soul Express",
         "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 278666,
       "name": "Soul Express",
       "url": "https://open.spotify.com/track/6j9WWYS5j00w1MltPhTlH3"
-    },
-    {
-      "added_at": "2023-09-22 07:10:35",
-      "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ"
     },
     {
       "added_at": "2023-09-22 07:10:35",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-09-22 07:10:35",
       "album": {
-        "name": "In the Moment",
-        "url": "https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk"
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G"
       },
       "artists": [
         {
-          "name": "Althea Rene",
-          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
         }
       ],
-      "duration_ms": 251960,
-      "name": "In the Moment",
-      "url": "https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ"
+      "duration_ms": 253760,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ"
     },
     {
       "added_at": "2023-09-22 07:10:35",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-09-22 07:10:35",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW"
-      },
-      "artists": [
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 276226,
-      "name": "If Only For One Night",
-      "url": "https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S"
-    },
-    {
-      "added_at": "2023-09-22 07:10:35",
-      "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/1GJNf1s72ibGmeTC8TitLU"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 294733,
       "name": "Anything and Everything",
       "url": "https://open.spotify.com/track/67nk03tcRdD1QEt1nOp92g"
+    },
+    {
+      "added_at": "2023-09-22 07:10:35",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 276226,
+      "name": "If Only For One Night",
+      "url": "https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S"
     },
     {
       "added_at": "2023-09-22 07:10:35",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-09-22 07:10:35",
       "album": {
-        "name": "For The Love",
-        "url": "https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp"
+        "name": "Just Around The Corner",
+        "url": "https://open.spotify.com/album/5P3BwMI5e1pmoS5qLWPTe8"
       },
       "artists": [
         {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
         }
       ],
-      "duration_ms": 280868,
-      "name": "I Just Can't Let Go",
-      "url": "https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB"
+      "duration_ms": 254333,
+      "name": "Blue Water",
+      "url": "https://open.spotify.com/track/6QABTLX06XCH6aKBptDcf7"
     },
     {
       "added_at": "2023-09-22 07:10:35",
@@ -1039,6 +1039,22 @@
       "duration_ms": 288800,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
+    },
+    {
+      "added_at": "2023-09-22 07:10:35",
+      "album": {
+        "name": "For The Love",
+        "url": "https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp"
+      },
+      "artists": [
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        }
+      ],
+      "duration_ms": 280868,
+      "name": "I Just Can't Let Go",
+      "url": "https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB"
     },
     {
       "added_at": "2023-09-22 07:10:35",
@@ -1075,18 +1091,34 @@
     {
       "added_at": "2023-09-22 07:10:35",
       "album": {
-        "name": "Just Around The Corner",
-        "url": "https://open.spotify.com/album/5P3BwMI5e1pmoS5qLWPTe8"
+        "name": "Le Tour d'Amour",
+        "url": "https://open.spotify.com/album/0bT3CNQPw1ZjiTbC4cWlo8"
       },
       "artists": [
         {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+          "name": "Boulevard Pacific",
+          "url": "https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE"
+        },
+        {
+          "name": "Thomas Darelid",
+          "url": "https://open.spotify.com/artist/3VgrYw0LQjgMkYa5kuYeaQ"
+        },
+        {
+          "name": "Henrik Janson",
+          "url": "https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED"
+        },
+        {
+          "name": "Jenny Kristoffersson",
+          "url": "https://open.spotify.com/artist/3sKtRVB4wK89xAGqbgcmWy"
+        },
+        {
+          "name": "Per Lindvall",
+          "url": "https://open.spotify.com/artist/2DeT2uR8f8SINDvVEEGSFc"
         }
       ],
-      "duration_ms": 254333,
-      "name": "Blue Water",
-      "url": "https://open.spotify.com/track/6QABTLX06XCH6aKBptDcf7"
+      "duration_ms": 200640,
+      "name": "Le Tour d'Amour",
+      "url": "https://open.spotify.com/track/0tHzz8mldvPxA2lmw8dfnn"
     },
     {
       "added_at": "2023-09-22 07:10:35",
@@ -1151,38 +1183,6 @@
       "duration_ms": 256693,
       "name": "Missin' You",
       "url": "https://open.spotify.com/track/0D1P8mNIcNqqrIPjfrSxeW"
-    },
-    {
-      "added_at": "2023-09-22 07:10:35",
-      "album": {
-        "name": "Le Tour d'Amour",
-        "url": "https://open.spotify.com/album/0bT3CNQPw1ZjiTbC4cWlo8"
-      },
-      "artists": [
-        {
-          "name": "Boulevard Pacific",
-          "url": "https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE"
-        },
-        {
-          "name": "Thomas Darelid",
-          "url": "https://open.spotify.com/artist/3VgrYw0LQjgMkYa5kuYeaQ"
-        },
-        {
-          "name": "Henrik Janson",
-          "url": "https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED"
-        },
-        {
-          "name": "Jenny Kristoffersson",
-          "url": "https://open.spotify.com/artist/3sKtRVB4wK89xAGqbgcmWy"
-        },
-        {
-          "name": "Per Lindvall",
-          "url": "https://open.spotify.com/artist/2DeT2uR8f8SINDvVEEGSFc"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "Le Tour d'Amour",
-      "url": "https://open.spotify.com/track/0tHzz8mldvPxA2lmw8dfnn"
     },
     {
       "added_at": "2023-09-22 07:10:35",

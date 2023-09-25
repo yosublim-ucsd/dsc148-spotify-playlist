@@ -1,12 +1,12 @@
 {
   "description": "All your favourite mood boosting bangers...",
-  "num_followers": 586366,
+  "num_followers": 586822,
   "original_name": "Happy Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjBjODliOTc0OTEzZmRiODc1MmY1NjYwMjBiNTMxZDYwYjA3Nzg3",
+  "snapshot_id": "MCwyNWUzYWI3MDZhNzBhOWQ5ZmRjYWUzNThjM2RiMDFhZTYwNzQ5Nzkz",
   "tracks": [
     {
       "added_at": "2023-09-12 14:45:49",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-09-12 14:45:49",
       "album": {
-        "name": "Can't Tame Her",
-        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 196939,
-      "name": "Can't Tame Her",
-      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
-    },
-    {
-      "added_at": "2023-09-12 14:45:49",
-      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
+    {
+      "added_at": "2023-09-12 14:45:49",
+      "album": {
+        "name": "Can't Tame Her",
+        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 196939,
+      "name": "Can't Tame Her",
+      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
     },
     {
       "added_at": "2023-09-12 14:45:49",
@@ -863,8 +863,8 @@
     {
       "added_at": "2023-09-12 14:45:49",
       "album": {
-        "name": "Lionheart (Fearless)",
-        "url": "https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT"
+        "name": "Drinkin'",
+        "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
       },
       "artists": [
         {
@@ -872,13 +872,17 @@
           "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 186689,
-      "name": "Lionheart (Fearless)",
-      "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
+      "duration_ms": 149545,
+      "name": "Drinkin'",
+      "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
     },
     {
       "added_at": "2023-09-12 14:45:49",

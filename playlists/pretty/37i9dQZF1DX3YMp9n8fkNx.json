@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: Matchbox Twenty",
-  "num_followers": 1278644,
+  "num_followers": 1278875,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWYyMjA3M2IwMjJlMGRhYmU5Zjg2YzE2YWI5MWEzYjdmZDUyZDll",
+  "snapshot_id": "MCwzMTYwNDMwODFmZTcwMWYyZWRlNGNmODJiN2E5ZDhiNTllMTIzZjFi",
   "tracks": [
     {
       "added_at": "2023-01-18 21:25:04",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 159226,
-      "name": "Buddy Holly",
-      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "Out Of Time (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 225786,
       "name": "Shiny Happy People",
       "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 159226,
+      "name": "Buddy Holly",
+      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Stunt (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY"
-      },
-      "artists": [
-        {
-          "name": "Barenaked Ladies",
-          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "One Week",
-      "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "Finest",
         "url": "https://open.spotify.com/album/7hPq9fDWwXPo1tT0oi3XcM"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 219466,
       "name": "I'm Gonna Be (500 Miles)",
       "url": "https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "Stunt (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY"
+      },
+      "artists": [
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "One Week",
+      "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Doubt",
-        "url": "https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi"
-      },
-      "artists": [
-        {
-          "name": "Jesus Jones",
-          "url": "https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Right Here Right Now",
-      "url": "https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "Mobile Estates",
         "url": "https://open.spotify.com/album/74T4OTGbvmJWobgc4ABtMq"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 207026,
       "name": "Better Days (And the Bottom Drops Out)",
       "url": "https://open.spotify.com/track/460Wn6Dq2uMviG5nPXtPnb"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "Doubt",
+        "url": "https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi"
+      },
+      "artists": [
+        {
+          "name": "Jesus Jones",
+          "url": "https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Right Here Right Now",
+      "url": "https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC"
     },
     {
       "added_at": "2023-01-18 21:25:04",

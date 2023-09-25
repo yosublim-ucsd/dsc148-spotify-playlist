@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-196 songs - 8 hr 43 min
+197 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,12 +129,13 @@
 | [Skeleton Inside!](https://open.spotify.com/track/5RYJpJXyhU4jxB5JPMKX7Q) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [Kooky Spooky..\. In Stereo!](https://open.spotify.com/album/1V2nJyNQSsEDRhP8xOOSDv) | 4:23 | 2021-09-10 |  |
 | [Skeletone](https://open.spotify.com/track/3oag5OqiSruFgmz5mft1B0) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [I FOUND YOU!](https://open.spotify.com/album/5cgca90mQ014PmAoEOkxbF) | 2:35 | 2021-09-10 |  |
 | [Smelloween](https://open.spotify.com/track/3vntT5h9WBgNOej8x0Oq3g) | [Mr Yipadee](https://open.spotify.com/artist/2EDBzZNew0M639G7RKCTsS), [Deano Yipadee](https://open.spotify.com/artist/7hQbFjNyMcJxjwmlieqPy1) | [Halloween Songs For Kids](https://open.spotify.com/album/5b83BDTJvUGohjOfy4cYWy) | 2:08 | 2021-09-10 |  |
-| [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/2PmXD1CyQHqxhbi79osKTn) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [ドライブが楽しくなる洋楽ヒッツ！80年代 HITS](https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD) | 3:56 | 2022-10-11 |  |
+| [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/2PmXD1CyQHqxhbi79osKTn) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [ドライブが楽しくなる洋楽ヒッツ！80年代 HITS](https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD) | 3:56 | 2022-10-11 | 2023-09-25 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/30W04PUt6gHISFbrtFYkp0) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Happy Haunted Halloween Tunes](https://open.spotify.com/album/0Imh8AJGlHc3S0hHy8fImK) | 3:56 | 2022-10-11 | 2022-10-17 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/4P0UmzUN00aoPLrgnqfZUX) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Kids Songs: Halloween Party!](https://open.spotify.com/album/3ieg9cbiq6SacHVpPFQo14) | 3:56 | 2022-10-11 | 2022-11-07 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6tUEdj7qGKPN3rV6GpBwuc) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Halloween for Kids](https://open.spotify.com/album/7oYdF4y0Djq4nQpyHlcfYq) | 3:56 | 2022-10-11 | 2022-11-13 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6A4Jc8npNo79BOgsrPptLA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Scream](https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk) | 3:57 | 2021-08-30 | 2022-07-29 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv) | [Rockwell](https://open.spotify.com/artist/18SBju6wBZGpevPcsWMAM3) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 3:58 | 2021-08-30 | 2023-06-30 |
+| [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Somebody’s Watching Me \(Sped Up\)](https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT) | 3:58 | 2022-10-11 |  |
 | [Somebody’s Watching Me](https://open.spotify.com/track/1kjOgPtsd6QPpa9LECfLK3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:47 | 2021-09-10 |  |
 | [Somebody’s Watching Me](https://open.spotify.com/track/2jwMh6fBHaTF1mS8v0fJQ3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Party!](https://open.spotify.com/album/6CpueN14uwF290ufghdCgT) | 3:47 | 2021-08-30 |  |
 | [Spongebob Squarepants Theme](https://open.spotify.com/track/4cwAvEnJRST9QoKR2bGLIW) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [Bestest Kids Halloween Songs Ever](https://open.spotify.com/album/1xkWTua1mHxl3ZDP5E6VCm) | 0:46 | 2021-08-30 |  |

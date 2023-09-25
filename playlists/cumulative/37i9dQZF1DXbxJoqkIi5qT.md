@@ -4,7 +4,7 @@
 
 > "I use my art to gain perspective and find peace\. The journey is in the destination\. Take in the view, you deserve it." Cover: Hayley Kiyoko
 
-39 songs - 2 hr 28 min
+40 songs - 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,8 +39,9 @@
 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 | 2022-10-04 |  |
 | [Oh My God](https://open.spotify.com/track/44I5NYJ7CGEcaLOuG2zJsU) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [These Two Windows](https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP) | 3:07 | 2022-10-04 |  |
 | [panorama](https://open.spotify.com/track/7CM0JwhONajGpNY2a2KIra) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 2:55 | 2022-10-04 |  |
+| [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2022-10-04 |  |
 | [Pink Pony Club](https://open.spotify.com/track/6IFjVdrrtV3MngDnP89bHM) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Pink Pony Club](https://open.spotify.com/album/3PKq6CrZYLvkNvTLD5DO4x) | 4:18 | 2022-10-04 | 2023-03-11 |
-| [Pink Pony Club](https://open.spotify.com/track/6rcuy6XqlB9bqvtIRDl25u) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Pink Pony Club](https://open.spotify.com/album/7p5A0E4ivsJ6Gv4iKriANy) | 4:18 | 2022-10-04 |  |
+| [Pink Pony Club](https://open.spotify.com/track/6rcuy6XqlB9bqvtIRDl25u) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Pink Pony Club](https://open.spotify.com/album/7p5A0E4ivsJ6Gv4iKriANy) | 4:18 | 2022-10-04 | 2023-09-25 |
 | [Runaway](https://open.spotify.com/track/7Blur9E42zXY8KkqXXRV1A) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 4:12 | 2022-10-04 |  |
 | [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 | 2022-10-04 |  |
 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj) | 3:41 | 2022-10-04 |  |

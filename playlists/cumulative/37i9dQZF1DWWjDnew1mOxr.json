@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 186280,
       "name": "Back to the Light",
       "url": "https://open.spotify.com/track/3DbbslE3KZNVQ2aCsjcF40"
@@ -1504,6 +1504,24 @@
       "duration_ms": 227145,
       "name": "Isn't",
       "url": "https://open.spotify.com/track/5kD48GFbfBOUEXMXyfhnWr"
+    },
+    {
+      "album": {
+        "name": "ITSA",
+        "url": "https://open.spotify.com/album/2MPhNCqzpEbSZkWX5juNYo"
+      },
+      "artists": [
+        {
+          "name": "L'objectif",
+          "url": "https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219670,
+      "name": "ITSA",
+      "url": "https://open.spotify.com/track/6e4xO6Q0hZY2cVvOdQHWZv"
     },
     {
       "album": {

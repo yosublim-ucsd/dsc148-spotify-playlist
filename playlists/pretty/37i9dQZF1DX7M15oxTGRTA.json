@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 82170,
+  "num_followers": 82299,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzQ1MWE2ZWQ5ZWRhMjNhNWE1MWM1MjVhOWRmMTIyOGY2ZTUzY2Fj",
+  "snapshot_id": "MCxlNDNiOWEwZDg1YTA3NzUwNDQyZjU0NDg0Yjg1MmZmMzBlNjVlY2Q5",
   "tracks": [
     {
       "added_at": "2023-09-14 19:15:58",
@@ -299,7 +299,23 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 257920,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Harold Melvin & The Blue Notes",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
       "artists": [
@@ -313,24 +329,8 @@
         }
       ],
       "duration_ms": 205906,
-      "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
+      "name": "If You Don't Know Me by Now",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 300106,
-      "name": "The Lady in My Life",
-      "url": "https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Spellbound",
-        "url": "https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH"
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
       "artists": [
         {
-          "name": "Paula Abdul",
-          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 292933,
-      "name": "Rush Rush",
-      "url": "https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC"
+      "duration_ms": 300106,
+      "name": "The Lady in My Life",
+      "url": "https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -383,18 +383,18 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Music Box",
-        "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Paula Abdul",
+          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
         }
       ],
-      "duration_ms": 257920,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB"
+      "duration_ms": 292933,
+      "name": "Rush Rush",
+      "url": "https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -427,6 +427,22 @@
       "duration_ms": 262266,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -471,22 +487,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "I Can't Help It",
-      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Jarreau",
         "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Karyn White",
-        "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
-      },
-      "artists": [
-        {
-          "name": "Karyn White",
-          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
-        }
-      ],
-      "duration_ms": 347453,
-      "name": "Superwoman",
-      "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Life Is A Song Worth Singing (Expanded Edition)",
         "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 275826,
       "name": "Ready Or Not",
       "url": "https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Karyn White",
+        "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
+      },
+      "artists": [
+        {
+          "name": "Karyn White",
+          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
+        }
+      ],
+      "duration_ms": 347453,
+      "name": "Superwoman",
+      "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Rope A Dope Style",
-        "url": "https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta"
-      },
-      "artists": [
-        {
-          "name": "Levert",
-          "url": "https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS"
-        }
-      ],
-      "duration_ms": 322200,
-      "name": "Baby I'm Ready",
-      "url": "https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Hangin' Tough",
         "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 263533,
       "name": "Please Don't Go Girl",
       "url": "https://open.spotify.com/track/2unWjXOcFWT2vlleStTEJy"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Rope A Dope Style",
+        "url": "https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta"
+      },
+      "artists": [
+        {
+          "name": "Levert",
+          "url": "https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS"
+        }
+      ],
+      "duration_ms": 322200,
+      "name": "Baby I'm Ready",
+      "url": "https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Rhythm Nation 1814",
-        "url": "https://open.spotify.com/album/4OD3LU6001esAtFshDX46M"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 332741,
-      "name": "Come Back To Me",
-      "url": "https://open.spotify.com/track/0NSSqYISjnav81CEn6EgBY"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Betty Wright Live",
         "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 498866,
       "name": "Tonight Is the Night - Live",
       "url": "https://open.spotify.com/track/4vzcQG9LnS00DR6s2fSS3j"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Rhythm Nation 1814",
+        "url": "https://open.spotify.com/album/4OD3LU6001esAtFshDX46M"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 332741,
+      "name": "Come Back To Me",
+      "url": "https://open.spotify.com/track/0NSSqYISjnav81CEn6EgBY"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "On The Rise",
+        "url": "https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb"
+      },
+      "artists": [
+        {
+          "name": "The S.O.S Band",
+          "url": "https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6"
+        }
+      ],
+      "duration_ms": 416733,
+      "name": "Tell Me If You Still Care",
+      "url": "https://open.spotify.com/track/2QRR9j7uTyK4nvt7lt5qOB"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "The Best Of Fourplay",
         "url": "https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 235733,
       "name": "Between the Sheets [Edit] (feat. Chaka Khan and Nathan East)",
       "url": "https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "On The Rise",
-        "url": "https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb"
-      },
-      "artists": [
-        {
-          "name": "The S.O.S Band",
-          "url": "https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6"
-        }
-      ],
-      "duration_ms": 416733,
-      "name": "Tell Me If You Still Care",
-      "url": "https://open.spotify.com/track/2QRR9j7uTyK4nvt7lt5qOB"
     },
     {
       "added_at": "2023-09-14 19:15:58",

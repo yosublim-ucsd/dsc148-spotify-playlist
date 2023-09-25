@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Cleo Sol
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,883 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,103 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [World In My Hands](https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [World In My Hands](https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT) | 3:14 |
 | 100 | [This Too](https://open.spotify.com/track/7E0ck3kZmSzHTsnkXRINPv) | [hxzel](https://open.spotify.com/artist/5vzywo9BwgSd4vK5hz9qA8), [Beatchild](https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P) | [This Too](https://open.spotify.com/album/4vtdwsnDNvj0tKjONcqA45) | 2:37 |
 
-Snapshot ID: `MCxmN2U4MThkMjZmM2YxYTRlYzdlOGJmMGM0YzQ2ZmZkOTVjYTIwNTUz`
+Snapshot ID: `MCw1YTczYTdkMzUyMTNhNzczMGY0YzNiNWFmMGEyYTc2OTYxMTAzOTc0`

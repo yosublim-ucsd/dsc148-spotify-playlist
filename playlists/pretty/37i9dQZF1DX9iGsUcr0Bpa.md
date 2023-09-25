@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: Lil Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,701 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,780 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 49 | [Mask 2 My Face](https://open.spotify.com/track/3j4yKzIaTnsruQDmfaw2kK) | [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [Both Worlds, \*69](https://open.spotify.com/album/6QH3lzZB4MIpYGhuCISHKt) | 4:10 |
 | 50 | [Candy](https://open.spotify.com/track/77jEqaW8UgLiiBNEhjtAFW) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 3:43 |
 
-Snapshot ID: `MCxiNDc1ZmJjZmExZmFhM2QwMmMwOTA3ZDk1NjEwZDZkYjRiNWI5ZDRk`
+Snapshot ID: `MCxiZjhmYmI3ZmUzYWU1ZDE0YzU5MmU1Yzk1ZmY2ZTMyM2RjODhhMmY0`

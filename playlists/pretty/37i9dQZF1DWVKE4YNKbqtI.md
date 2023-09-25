@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 
 > Little Walter, Junior Wells, James Cotton the finest blues harmonica players.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,741 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,752 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 15 | [Have A Good Time](https://open.spotify.com/track/0xfzxjWLAsAZB0KC1juVUZ) | [Big Walter Horton](https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX) | [Big Walter Horton w/ Carey Bell](https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5) | 3:48 |
 | 16 | [One More Headache](https://open.spotify.com/track/5uPWILEXkNy1D0MJzi9ByM) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Resurrection Of Pigboy Crabshaw](https://open.spotify.com/album/5nEOJtjR1clDZQZwAlA7Qs) | 3:40 |
 | 17 | [Down Home Blues](https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t), [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Harp Attack!](https://open.spotify.com/album/1zivuph8N0dHpL4k0SA94b) | 6:23 |
-| 18 | [What My Mama Told Me](https://open.spotify.com/track/7HLVfPFYRba4she3c0qIAp) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Harpslinger](https://open.spotify.com/album/324FrIkjqOJ7rwTS4vGarw) | 3:04 |
-| 19 | [Diggin' My Potatoes](https://open.spotify.com/track/7vsJLJHAYHRmovTbRTgRFx) | [Brownie McGhee](https://open.spotify.com/artist/3qXzj7WzBV3kwy1yEV1RcC), [Sonny Terry](https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv) | [Wizard Of The Harmonica](https://open.spotify.com/album/5lDFjfrldTB4HSFWkDYUBw) | 3:37 |
+| 18 | [Diggin' My Potatoes](https://open.spotify.com/track/7vsJLJHAYHRmovTbRTgRFx) | [Brownie McGhee](https://open.spotify.com/artist/3qXzj7WzBV3kwy1yEV1RcC), [Sonny Terry](https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv) | [Wizard Of The Harmonica](https://open.spotify.com/album/5lDFjfrldTB4HSFWkDYUBw) | 3:37 |
+| 19 | [What My Mama Told Me](https://open.spotify.com/track/7HLVfPFYRba4she3c0qIAp) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Harpslinger](https://open.spotify.com/album/324FrIkjqOJ7rwTS4vGarw) | 3:04 |
 | 20 | [Bottle It Up and Go](https://open.spotify.com/track/5eHeHvy9wdvATbd7Wj4R8T) | [Snooky Pryor](https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3) | [Too Cool to Move](https://open.spotify.com/album/62xvQ20A7TCjo2ZeafeuJx) | 3:02 |
 | 21 | [The Wine Talkin'](https://open.spotify.com/track/4jwpFbAnl9e5fsMbhVZgjV) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Hail To The Kings!](https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA) | 3:49 |
 | 22 | [Cotton Mouth Man](https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Cotton Mouth Man](https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS) | 3:47 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 26 | [Nobody But You](https://open.spotify.com/track/4ASjWJnPks6GVzNH41Z37Y) | [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t), [Billy Branch & The Sons of Blues](https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y) | [Roots And Branches \- The Songs Of Little Walter](https://open.spotify.com/album/3MHdul04DePzuVe9iW9vBz) | 3:07 |
 | 27 | [Play With Your Poodle](https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Deep In The Blues](https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU) | 3:39 |
 | 28 | [Carey Bell Rocks](https://open.spotify.com/track/0vZun5MdpB8oEjq2Ekw4K9) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Heartaches And Pain](https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC) | 3:31 |
-| 29 | [Looking For A Woman](https://open.spotify.com/track/6JuJtd8K0jpEejEBJBitlA) | [Rick Estrin & The Nightcats](https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U) | [Groovin' In Greaseland](https://open.spotify.com/album/3fZLjidk1UlpKM9Kw5NWSh) | 5:21 |
-| 30 | [Down Home Shake\-Down](https://open.spotify.com/track/6QDIT5BB8mJDa1EBjeFL1y) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 3:37 |
+| 29 | [Down Home Shake\-Down](https://open.spotify.com/track/6QDIT5BB8mJDa1EBjeFL1y) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 3:37 |
+| 30 | [Looking For A Woman](https://open.spotify.com/track/6JuJtd8K0jpEejEBJBitlA) | [Rick Estrin & The Nightcats](https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U) | [Groovin' In Greaseland](https://open.spotify.com/album/3fZLjidk1UlpKM9Kw5NWSh) | 5:21 |
 | 31 | [Sonny's Whoopin' The Doop](https://open.spotify.com/track/5lBRVkZlET9bscUXoeDwuk) | [Sonny Terry](https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv) | [Whoopin'](https://open.spotify.com/album/18VA8US97hZKDnkJQTKfmA) | 4:46 |
 | 32 | [Jason Solo](https://open.spotify.com/track/0KVqA1NoDClaWnKkqQV8wP) | [JJ Appleton](https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE), [Jason Ricci](https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN) | [Dirty Memory](https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn) | 6:02 |
 | 33 | [Don't Bite the Hand That Feeds You](https://open.spotify.com/track/0Gjw2bx2khjm0OueuMFBKL) | [Kim Wilson](https://open.spotify.com/artist/3LkeAX21Tyb0t1CCAP5aq3) | [That's Life](https://open.spotify.com/album/5M8gkXa4AULN9NESM0a4Ii) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 49 | [You Got It](https://open.spotify.com/track/2RnKaMIWn5HQgkg0wghuir) | [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Up All Night](https://open.spotify.com/album/3agi8buLixKwrmVNiKPHGN) | 3:14 |
 | 50 | [Bluesy](https://open.spotify.com/track/078lhMIegYPNI58tyFn6o8) | [Louis Myers](https://open.spotify.com/artist/2MHJe9H2p09aSHJm7yrwNh) | [Blues Harp Hero](https://open.spotify.com/album/5lkj3Xw9Xw5VUY38BvTmXL) | 2:44 |
 
-Snapshot ID: `MCw0NGZkMjNkM2JjODU1YmI3Zjg0MmYzOTA3OGM2OWU0NDliZDZmMTYw`
+Snapshot ID: `MCwyYzU4ZTg4MGMwM2EzOTI1Mjc2ZjI0OTMwNGU5MDBiN2MzOTc5MzQ5`

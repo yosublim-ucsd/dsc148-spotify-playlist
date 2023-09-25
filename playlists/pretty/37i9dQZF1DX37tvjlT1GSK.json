@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Becky G en portada. ",
-  "num_followers": 742251,
+  "num_followers": 742334,
   "original_name": "Sierre\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWY3OGQzMTlhNzFjZGM1MTYzZWVhZjA4NzBkYWIwMjVhM2UzMmYx",
+  "snapshot_id": "MCw3NjJmNzk1YTVmMzBiZjVlNGU3YzdiN2YyMGI5MWNiNWUzZTgzZmRi",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -67,26 +67,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Ella Baila Sola",
-        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 165671,
-      "name": "Ella Baila Sola",
-      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "El Azul",
         "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 187225,
       "name": "El Azul",
       "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Ella Baila Sola",
+        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Soy El Unico",
-      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "The Life in Your Eyes",
         "url": "https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 175124,
       "name": "Amor Fugaz",
       "url": "https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 213999,
+      "name": "Soy El Unico",
+      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Obsessed Pt. 2",
+        "url": "https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 197365,
+      "name": "Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Buenas Rachas",
         "url": "https://open.spotify.com/album/18pfoIprtoyL7UZ0r5aJ2e"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 153655,
       "name": "Buenas Rachas",
       "url": "https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 189750,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 189750,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Ahora Estoy Mejor",
         "url": "https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 202573,
       "name": "Qui\u00e9n Te Entiende",
       "url": "https://open.spotify.com/track/0VYFakqQG8p6yHrqq9TAoY"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Obsessed Pt. 2",
-        "url": "https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 197365,
-      "name": "Dos Extra\u00f1os",
-      "url": "https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "No Tengo Rival",
-        "url": "https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 135127,
-      "name": "El Convoy de los Hermanos",
-      "url": "https://open.spotify.com/track/4BwiQHmZt92xZpQsLaRbw7"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "D\u00e9jenla Que Sea Feliz",
         "url": "https://open.spotify.com/album/0lFXVyddx801x6GVdtxBF3"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 175677,
       "name": "D\u00e9jenla Que Sea Feliz",
       "url": "https://open.spotify.com/track/0Js77UpzQj50fJLYvEVUXH"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "No Tengo Rival",
+        "url": "https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 135127,
+      "name": "El Convoy de los Hermanos",
+      "url": "https://open.spotify.com/track/4BwiQHmZt92xZpQsLaRbw7"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "GXLE 3",
+        "url": "https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/7FI04jmsPiLOz4GfpnCw3M"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Ni\u00f1a Fiel",
         "url": "https://open.spotify.com/album/3KpHEtgSEBgbycuWbZFcCV"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 129022,
       "name": "Una en Un Millon",
       "url": "https://open.spotify.com/track/2fuftZ5cJqs2T2lZqDVr5y"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "GXLE 3",
-        "url": "https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/7FI04jmsPiLOz4GfpnCw3M"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Los Envidiosos",
-        "url": "https://open.spotify.com/album/7Bf354JhLL28E8E0YAz0wL"
+        "name": "Bulgari",
+        "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 181553,
-      "name": "Los Envidiosos",
-      "url": "https://open.spotify.com/track/5p82KrCO024Gsbkex8SGiQ"
+      "duration_ms": 164115,
+      "name": "Bulgari",
+      "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Bulgari",
-        "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
+        "name": "Los Envidiosos",
+        "url": "https://open.spotify.com/album/7Bf354JhLL28E8E0YAz0wL"
       },
       "artists": [
         {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 164115,
-      "name": "Bulgari",
-      "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
+      "duration_ms": 181553,
+      "name": "Los Envidiosos",
+      "url": "https://open.spotify.com/track/5p82KrCO024Gsbkex8SGiQ"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1823,22 +1823,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Le Compre Casa A Mi Ama",
-        "url": "https://open.spotify.com/album/1DNXHL4tTugdaeGBow9s5x"
+        "name": "Nomas La Cara Tienes",
+        "url": "https://open.spotify.com/album/11hxZaPUq1lmZStd6eAsJ7"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
         }
       ],
-      "duration_ms": 204437,
-      "name": "Le Compre Casa A Mi Ama",
-      "url": "https://open.spotify.com/track/0BeBLgI1gpn9rJHqcUjJSX"
+      "duration_ms": 217266,
+      "name": "Nomas La Cara Tienes",
+      "url": "https://open.spotify.com/track/1zq7qEX7okw69ydD9Py2KC"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1859,6 +1855,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Le Compre Casa A Mi Ama",
+        "url": "https://open.spotify.com/album/1DNXHL4tTugdaeGBow9s5x"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 204437,
+      "name": "Le Compre Casa A Mi Ama",
+      "url": "https://open.spotify.com/track/0BeBLgI1gpn9rJHqcUjJSX"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Noches De Verano",
         "url": "https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 158000,
       "name": "Efecto Al Corazon",
       "url": "https://open.spotify.com/track/467uh81a8AkjzFd77ly5M0"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Nomas La Cara Tienes",
-        "url": "https://open.spotify.com/album/11hxZaPUq1lmZStd6eAsJ7"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 217266,
-      "name": "Nomas La Cara Tienes",
-      "url": "https://open.spotify.com/track/1zq7qEX7okw69ydD9Py2KC"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "El Fantasma Sin Limites",
-        "url": "https://open.spotify.com/album/20DBzLmBV3sbpgST1u1575"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 173132,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7iUHkEl7p5ooN0Kq2IrmwH"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Sobran Motivos",
         "url": "https://open.spotify.com/album/1hMkbq5j73T1z3nfUz4stQ"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 235224,
       "name": "Sobran Motivos",
       "url": "https://open.spotify.com/track/7k6ljvd7ny9AUHWEFBrBFa"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "El Fantasma Sin Limites",
+        "url": "https://open.spotify.com/album/20DBzLmBV3sbpgST1u1575"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 173132,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7iUHkEl7p5ooN0Kq2IrmwH"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4xM0FfeqFIyDwYbWhjuBoe"
-      },
-      "artists": [
-        {
-          "name": "Los Luna",
-          "url": "https://open.spotify.com/artist/3je77Yzq2c9d7lcxx7hvkC"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3rVlDhGNxSQApSOFM4XHYd"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Empezar de Nuevo",
         "url": "https://open.spotify.com/album/6J6C7D6kL82ie5XKRTUqrK"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 227509,
       "name": "Empezar de Nuevo",
       "url": "https://open.spotify.com/track/7hCT8qcGvyVr0FQmpoCI93"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4xM0FfeqFIyDwYbWhjuBoe"
+      },
+      "artists": [
+        {
+          "name": "Los Luna",
+          "url": "https://open.spotify.com/artist/3je77Yzq2c9d7lcxx7hvkC"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3rVlDhGNxSQApSOFM4XHYd"
     },
     {
       "added_at": "2023-09-15 04:00:00",

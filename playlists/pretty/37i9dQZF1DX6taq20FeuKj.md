@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6taq20FeuKj.md) - [plain]
 
 > Get your gaming session going with this epic rap mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,089,223 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,089,407 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6taq20FeuKj.md) - [plain]
 | 97 | [Shotta Flow \(Feat\. Blueface\) \[Remix\]](https://open.spotify.com/track/67XyC1GdSkKb9sbRRkUDXS) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Shotta Flow \(Feat\. Blueface\) \[Remix\]](https://open.spotify.com/album/0lDRXaECpMSYYCsTYRDulh) | 2:56 |
 | 98 | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/album/1NXM5lF9YB7a3f1e4R48oH) | 3:49 |
 | 99 | [Sanguine Paradise](https://open.spotify.com/track/3XiNC94b4Tq1xwv70sQJGN) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Sanguine Paradise](https://open.spotify.com/album/49K82qcZN4u109e6Zw8io1) | 4:03 |
-| 100 | [Love Scars](https://open.spotify.com/track/0AICBlLzFCTpUqmAbtzB2z) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You](https://open.spotify.com/album/7ae73nWyKrrH9wwGm97RIA) | 2:23 |
+| 100 | [Suge](https://open.spotify.com/track/2gwkD6igEhQbDQegRCcdoB) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 2:43 |
 
-Snapshot ID: `MCw4ODQzMmZkN2RkNWVkNTRhZTFhNjMzMWM1Nzc0YzU1ZmJmOGJkOGQ1`
+Snapshot ID: `MCxlZjQ1MzZlZDVkNzBmOTdiNmU3MjU4MTMzNWJhMGI2NDkzZDk1OGU5`

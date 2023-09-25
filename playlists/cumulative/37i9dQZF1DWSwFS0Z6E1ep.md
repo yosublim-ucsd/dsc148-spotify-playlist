@@ -4,7 +4,7 @@
 
 > 
 
-291 songs - 12 hr 38 min
+292 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,8 +149,9 @@
 | [Lipstick On Your Collar](https://open.spotify.com/track/5Y1GkapUCSqXvoAujohJL2) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:18 | 2022-06-07 | 2023-01-09 |
 | [Lipstick On Your Collar](https://open.spotify.com/track/6k9j9Fn10bsv107KJtDJnh) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Rock N' Roll Million Sellers \(Expanded Edition\)](https://open.spotify.com/album/4ZCdD24gksJsgFX3QzOuXG) | 2:19 | 2022-06-07 |  |
 | [Listen to Me Baby](https://open.spotify.com/track/1TmCBDbeAqLVJQisfTV27g) | [Smokey Joe Baugh](https://open.spotify.com/artist/7MJfNyVNdyNcNJ5yrvrTun) | [Jukebox Rockabilly](https://open.spotify.com/album/5uBQwZS0XOPPwMLuQrYQH6) | 2:27 | 2021-04-23 | 2022-07-21 |
-| [Little Bitty Pretty One](https://open.spotify.com/track/1ye9IP87nKYZ5YAGaEv9A1) | [Thurston Harris](https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT) | [The Little Adventures of Thurston Harris \(65th Anniversary Edition\)](https://open.spotify.com/album/3CKsthBsGTsb5uK4e1TYuq) | 2:23 | 2022-06-07 |  |
+| [Little Bitty Pretty One](https://open.spotify.com/track/1ye9IP87nKYZ5YAGaEv9A1) | [Thurston Harris](https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT) | [The Little Adventures of Thurston Harris \(65th Anniversary Edition\)](https://open.spotify.com/album/3CKsthBsGTsb5uK4e1TYuq) | 2:23 | 2022-06-07 | 2023-09-25 |
 | [Little Bitty Pretty One](https://open.spotify.com/track/2yOXKIU9YtBSWjI3OA8tqj) | [Thurston Harris](https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT) | [Little Bitty Pretty One](https://open.spotify.com/album/0E72reqQQ7799PLL07DFnG) | 2:23 | 2021-04-23 | 2022-07-29 |
+| [Little Bitty Pretty One](https://open.spotify.com/track/6FMGHBZaYQY7oFS7vyZx8a) | [Thurston Harris](https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT), [The Sharps](https://open.spotify.com/artist/6ML5oUVCtIT9xBele6LLMn) | [Little Bitty Pretty One](https://open.spotify.com/album/4nYxAqSN5IKtwX1E1wJtTO) | 2:22 | 2022-06-07 |  |
 | [Little Darlin'](https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [The Best Of The Diamonds](https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM) | 2:09 | 2021-04-23 |  |
 | [Little Fine Healthy Thing](https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Something for Nothing / Little Fine Healthy Thing](https://open.spotify.com/album/681gmpIrqPEGuvIKwJ0CRR) | 2:33 | 2022-04-29 |  |
 | [Lollipop](https://open.spotify.com/track/4A6Wc861ATCUC9tZe5S52X) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Hits](https://open.spotify.com/album/4F4lUBkTplYHYYCKFW9kZf) | 2:09 | 2021-04-23 | 2022-07-21 |

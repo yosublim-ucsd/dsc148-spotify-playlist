@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2506634,
+  "num_followers": 2507238,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTVkMTRjMzE0ZDkwMTdjODI1NzA5MzEzNjhmNmQ5ZDI3ZDA0NjJk",
+  "snapshot_id": "MCw1OWQwZGY4MDcwOGM0YTE5NmM2ZjUyZDNlZDk3ODM4ZDE0NGVhYTQy",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Bittersweet Goodbye",
+        "url": "https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh"
+      },
+      "artists": [
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        }
+      ],
+      "duration_ms": 166778,
+      "name": "Bittersweet Goodbye",
+      "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "MONEY ON THE DASH",
         "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 145666,
       "name": "MONEY ON THE DASH",
       "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Bittersweet Goodbye",
-        "url": "https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh"
-      },
-      "artists": [
-        {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
-        }
-      ],
-      "duration_ms": 166778,
-      "name": "Bittersweet Goodbye",
-      "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1755,6 +1755,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Wings (I Won't Let You Down)",
+        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "duration_ms": 171904,
+      "name": "Wings (I Won't Let You Down)",
+      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/0lnPUG1O0J3zTNgLa6B5Nj"
       },
@@ -1779,26 +1799,6 @@
       "duration_ms": 156985,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/6Hht0SIzJwQYBkDD07Dnoj"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Wings (I Won't Let You Down)",
-        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 171904,
-      "name": "Wings (I Won't Let You Down)",
-      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2115,26 +2115,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Sparks",
-        "url": "https://open.spotify.com/album/5OkPS4db29TTA4FAMnbTly"
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "DEL-30",
-          "url": "https://open.spotify.com/artist/3YUMfiE2ROxoup2bHSUXjU"
-        },
-        {
-          "name": "Mali-Koa",
-          "url": "https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24"
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
         }
       ],
-      "duration_ms": 170322,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/0SG7XH1L4gMwcXkLuMjDgq"
+      "duration_ms": 163000,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2159,6 +2155,30 @@
       "duration_ms": 181333,
       "name": "ACID",
       "url": "https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Sparks",
+        "url": "https://open.spotify.com/album/5OkPS4db29TTA4FAMnbTly"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "DEL-30",
+          "url": "https://open.spotify.com/artist/3YUMfiE2ROxoup2bHSUXjU"
+        },
+        {
+          "name": "Mali-Koa",
+          "url": "https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/0SG7XH1L4gMwcXkLuMjDgq"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2199,6 +2219,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 220887,
+      "name": "Explore Your Future",
+      "url": "https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH"
       },
@@ -2219,22 +2255,6 @@
       "duration_ms": 159375,
       "name": "Desire",
       "url": "https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 220887,
-      "name": "Explore Your Future",
-      "url": "https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2283,6 +2303,22 @@
       "duration_ms": 146692,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/3StjwfadugiV10gNhLDu29"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "Hold On To Now",
+      "url": "https://open.spotify.com/track/4sB1OmmCi2Iwe9MaVlUubR"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2491,26 +2527,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Off The Ground",
         "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
       },
@@ -2563,22 +2579,6 @@
       "duration_ms": 138620,
       "name": "Forget You (with Gabry Ponte)",
       "url": "https://open.spotify.com/track/7gJynFtygTiif6xdoipmUm"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 159047,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
     },
     {
       "added_at": "2023-09-22 04:00:00",

@@ -731,6 +731,28 @@
     },
     {
       "album": {
+        "name": "Tu Puto Rock Star",
+        "url": "https://open.spotify.com/album/2AsfhvrXVEVrJllqaIZHCd"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        },
+        {
+          "name": "Bombermusik",
+          "url": "https://open.spotify.com/artist/2G0BZ5R609vNHGsHIaKNMJ"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/0aP4dyDE4k1LUg7TAgYYRx"
+    },
+    {
+      "album": {
         "name": "ABRE LAS PATOTAS",
         "url": "https://open.spotify.com/album/1Vj0Z6awDhe0HEwvnkydJI"
       },
@@ -2668,7 +2690,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
@@ -10192,7 +10214,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 170000,
       "name": "Flores en An\u00f3nimo",
       "url": "https://open.spotify.com/track/62pg2fFuBb6zgU2gqJR8kP"
@@ -13508,7 +13530,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 185920,
       "name": "Killin\u2019 Me Good",
       "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
@@ -18100,7 +18122,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 180374,
       "name": "Movezz en silencio",
       "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
@@ -22601,6 +22623,24 @@
     },
     {
       "album": {
+        "name": "Quien Es Dei V?",
+        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162244,
+      "name": "Quien Es Dei V?",
+      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
+    },
+    {
+      "album": {
         "name": "QUIENES SON",
         "url": "https://open.spotify.com/album/29oehbbF6k3rgM5BD9D3jW"
       },
@@ -25240,6 +25280,28 @@
       "duration_ms": 185338,
       "name": "Sobran Motivos",
       "url": "https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au"
+    },
+    {
+      "album": {
+        "name": "Social Path",
+        "url": "https://open.spotify.com/album/69mwX2uyO8FKCc8KkRMHw7"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198786,
+      "name": "Social Path",
+      "url": "https://open.spotify.com/track/0fkL0fOhEzRK8WFe2ixt2d"
     },
     {
       "album": {
@@ -28604,7 +28666,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 269714,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/4tQofG51E0juZBBVr6pral"

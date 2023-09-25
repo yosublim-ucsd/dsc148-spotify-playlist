@@ -2026,10 +2026,28 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 291664,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/1hfDwBiBURnnVXruXzPd0I"
+    },
+    {
+      "album": {
+        "name": "Flying Wig",
+        "url": "https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291664,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/2IvIUND7ZGjPftDyOYAWJ9"
     },
     {
       "album": {

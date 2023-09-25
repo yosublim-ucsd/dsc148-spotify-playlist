@@ -4,7 +4,7 @@
 
 > Boss music for boss people\. Cover: JAMIE WEBSTER
 
-165 songs - 9 hr 34 min
+166 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Alright](https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Alright](https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p) | 4:24 | 2023-01-10 | 2023-06-15 |
 | [Another Round](https://open.spotify.com/track/0ansLolwMuxl8ubtrFCfFe) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd) | [Another Round](https://open.spotify.com/album/7ksHqKW6Bcf6vAFMJ5mB1D) | 5:07 | 2023-01-10 |  |
 | [Avalanche](https://open.spotify.com/track/0LIekCgqw0a3Ule7WtPfBJ) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Avalanche](https://open.spotify.com/album/2Rntp0bJx7YKBmV3Kg8wbm) | 3:10 | 2023-01-10 | 2023-02-24 |
-| [Back to the Light](https://open.spotify.com/track/3DbbslE3KZNVQ2aCsjcF40) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Back to the Light](https://open.spotify.com/album/5HsJ8jtEXFxujuleSECHng) | 3:06 | 2023-09-19 |  |
+| [Back to the Light](https://open.spotify.com/track/3DbbslE3KZNVQ2aCsjcF40) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Back to the Light](https://open.spotify.com/album/5HsJ8jtEXFxujuleSECHng) | 3:06 | 2023-09-19 | 2023-09-25 |
 | [Baggio](https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Baggio](https://open.spotify.com/album/039GsP3Uy8n0l7JlZcADEg) | 3:41 | 2023-05-19 |  |
 | [Be Someone](https://open.spotify.com/track/3cZejV8KMlKPA4hWBNkBVM) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 3:50 | 2023-03-31 | 2023-09-17 |
 | [Big Deal](https://open.spotify.com/track/71V2WDbjwMTVPhbKzX8r0j) | [Cortney Dixon](https://open.spotify.com/artist/1KyaMEHOakwjwLlLYorYYp) | [Big Deal](https://open.spotify.com/album/5aX2YO1amh4g9A20dlnT3T) | 3:45 | 2023-01-10 | 2023-06-08 |
@@ -91,6 +91,7 @@
 | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/track/3aVGdoYas2GPVZNLN1IxXY) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/2YoatZbkNsBRrfmX0pq9Ay) | 2:45 | 2023-01-10 | 2023-02-07 |
 | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/track/6LTVD3zeHqAAiSqyKDhNEH) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This? \(Myd Remix\)](https://open.spotify.com/album/5ntFw6kOzBWC6xXf5SS5Q6) | 2:45 | 2023-01-10 | 2023-02-24 |
 | [Isn't](https://open.spotify.com/track/5kD48GFbfBOUEXMXyfhnWr) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [Isn't](https://open.spotify.com/album/6uIUWQiVY2uoHvXT779jdv) | 3:47 | 2023-01-10 |  |
+| [ITSA](https://open.spotify.com/track/6e4xO6Q0hZY2cVvOdQHWZv) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [ITSA](https://open.spotify.com/album/2MPhNCqzpEbSZkWX5juNYo) | 3:39 | 2023-09-19 |  |
 | [Jackie Down The Line](https://open.spotify.com/track/3ITvhrRB5TlEks19k9qy2k) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S) | 4:01 | 2023-07-28 |  |
 | [Jackie Down The Line](https://open.spotify.com/track/4DNbKvO9fI8bjnxis4yddk) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 4:01 | 2023-01-10 | 2023-09-03 |
 | [Jellyfish](https://open.spotify.com/track/5QoAoPROnMerJZXHSdCA6U) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Jellyfish](https://open.spotify.com/album/6h0uAe4jR7ej8bFFl5JNhI) | 3:32 | 2023-02-03 | 2023-03-11 |

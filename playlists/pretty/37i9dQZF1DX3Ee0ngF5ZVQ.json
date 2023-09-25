@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Cody Johnson",
-  "num_followers": 418647,
+  "num_followers": 418755,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzI5Njk2YzI0OTA0ZGU2NzlkYzdlZTc0NjRjNjIxYzdmZjY3ODVm",
+  "snapshot_id": "MCw3NDBiMzdmZTNjOWFhYmI5YzI5NDY3NmNmZjA3OWM5MjQxZmExOTBi",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Pecos & the Rooftops",
-        "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq"
       },
       "artists": [
         {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
         }
       ],
-      "duration_ms": 214582,
-      "name": "Hurt No More",
-      "url": "https://open.spotify.com/track/4vdMdvjrwdm3CR5oobcBIS"
+      "duration_ms": 230344,
+      "name": "All It Cost Me Was Everything",
+      "url": "https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq"
+        "name": "Pecos & the Rooftops",
+        "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
         }
       ],
-      "duration_ms": 230344,
-      "name": "All It Cost Me Was Everything",
-      "url": "https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5"
+      "duration_ms": 214582,
+      "name": "Hurt No More",
+      "url": "https://open.spotify.com/track/4vdMdvjrwdm3CR5oobcBIS"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Easy as Hello",
-        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
+        "name": "How The Hurtin' Goes",
+        "url": "https://open.spotify.com/album/2ncmrKQvRbxIkds4J4o3Ly"
       },
       "artists": [
         {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+          "name": "Curtis Grimes",
+          "url": "https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP"
         }
       ],
-      "duration_ms": 279796,
-      "name": "Easy as Hello",
-      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
+      "duration_ms": 170896,
+      "name": "How The Hurtin' Goes",
+      "url": "https://open.spotify.com/track/0kx8fHSdEZPDaSommWNjfa"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "How The Hurtin' Goes",
-        "url": "https://open.spotify.com/album/2ncmrKQvRbxIkds4J4o3Ly"
+        "name": "Easy as Hello",
+        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
       },
       "artists": [
         {
-          "name": "Curtis Grimes",
-          "url": "https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP"
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
         }
       ],
-      "duration_ms": 170896,
-      "name": "How The Hurtin' Goes",
-      "url": "https://open.spotify.com/track/0kx8fHSdEZPDaSommWNjfa"
+      "duration_ms": 279796,
+      "name": "Easy as Hello",
+      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Boy From Anderson County",
+        "url": "https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 244290,
+      "name": "Boy From Anderson County",
+      "url": "https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Outta Dirt",
         "url": "https://open.spotify.com/album/16CEupIepvrJlX6ay6NM9n"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 164412,
       "name": "Outta Dirt",
       "url": "https://open.spotify.com/track/0iUAgtPIBPFzAXqdy9sDb5"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Boy From Anderson County",
-        "url": "https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 244290,
-      "name": "Boy From Anderson County",
-      "url": "https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1475,18 +1475,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Sound of You Gone",
-        "url": "https://open.spotify.com/album/0WbLRjZ0z3dhov2EU0zjzf"
+        "name": "Settle for a Beer (with Triston Marez)",
+        "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
       },
       "artists": [
         {
-          "name": "Grace Tyler",
-          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+          "name": "Triston Marez",
+          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+        },
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
         }
       ],
-      "duration_ms": 210310,
-      "name": "Sound of You Gone",
-      "url": "https://open.spotify.com/track/1Ezm2kChBPSkNRbeL8zwJV"
+      "duration_ms": 174327,
+      "name": "Settle for a Beer (with Triston Marez)",
+      "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1523,26 +1527,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Settle for a Beer (with Triston Marez)",
-        "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
-      },
-      "artists": [
-        {
-          "name": "Triston Marez",
-          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
-        },
-        {
-          "name": "Braxton Keith",
-          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
-        }
-      ],
-      "duration_ms": 174327,
-      "name": "Settle for a Beer (with Triston Marez)",
-      "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/1Om7EoqiNsXCCMeiTzC9BZ"
       },
@@ -1555,22 +1539,6 @@
       "duration_ms": 208827,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/40TItUSmH99bXtbzp0pl4H"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "What Is It Even?",
-        "url": "https://open.spotify.com/album/7pOByvaZQPALod9AwZJi3j"
-      },
-      "artists": [
-        {
-          "name": "Joshua Ray Walker",
-          "url": "https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr"
-        }
-      ],
-      "duration_ms": 221520,
-      "name": "Goodbye Horses",
-      "url": "https://open.spotify.com/track/4dM6n7StQUjohoWk0JFLw4"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1591,6 +1559,38 @@
       "duration_ms": 136358,
       "name": "9 To 5 (feat. Kylie Frey)",
       "url": "https://open.spotify.com/track/1fVv9DVpLNiobkGlE1LrtH"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "What Is It Even?",
+        "url": "https://open.spotify.com/album/7pOByvaZQPALod9AwZJi3j"
+      },
+      "artists": [
+        {
+          "name": "Joshua Ray Walker",
+          "url": "https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Goodbye Horses",
+      "url": "https://open.spotify.com/track/4dM6n7StQUjohoWk0JFLw4"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Bridges To Burn",
+        "url": "https://open.spotify.com/album/1WG4fgaNMXbxbsbjJR1X6G"
+      },
+      "artists": [
+        {
+          "name": "Nick Hickman",
+          "url": "https://open.spotify.com/artist/54dy3kYqGy3V4obgZZP08h"
+        }
+      ],
+      "duration_ms": 190171,
+      "name": "Bridges to Burn",
+      "url": "https://open.spotify.com/track/0wC4KXkDpSPnwmGjp1Wopt"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1623,6 +1623,22 @@
       "duration_ms": 211152,
       "name": "If I Was Your Cowboy",
       "url": "https://open.spotify.com/track/1xt38dgCBqNv1e0hSRyuqm"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Sound of You Gone",
+        "url": "https://open.spotify.com/album/0WbLRjZ0z3dhov2EU0zjzf"
+      },
+      "artists": [
+        {
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+        }
+      ],
+      "duration_ms": 210310,
+      "name": "Sound of You Gone",
+      "url": "https://open.spotify.com/track/1Ezm2kChBPSkNRbeL8zwJV"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1691,22 +1707,6 @@
       "duration_ms": 245426,
       "name": "Shooting Hand",
       "url": "https://open.spotify.com/track/0Ce7IONNgK3YPWcHPBIu0P"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Bridges To Burn",
-        "url": "https://open.spotify.com/album/1WG4fgaNMXbxbsbjJR1X6G"
-      },
-      "artists": [
-        {
-          "name": "Nick Hickman",
-          "url": "https://open.spotify.com/artist/54dy3kYqGy3V4obgZZP08h"
-        }
-      ],
-      "duration_ms": 190171,
-      "name": "Bridges to Burn",
-      "url": "https://open.spotify.com/track/0wC4KXkDpSPnwmGjp1Wopt"
     }
   ],
   "unique_name": "Texas Country Now",

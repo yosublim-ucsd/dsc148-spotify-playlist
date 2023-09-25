@@ -1,12 +1,12 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 61315,
+  "num_followers": 61456,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWRjNTkzY2UzMzlkZjU3YjYzYmJjNmE5ZjJhM2UxM2JiNzRiODM4",
+  "snapshot_id": "MCxhZjIyY2QzZDQwZmM5ZjFiMmZjNjMwM2ViNWJhNDIyZDkzNWQzYzA2",
   "tracks": [
     {
       "added_at": "2023-09-22 08:15:22",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-09-22 08:15:22",
       "album": {
-        "name": "See You At The Fair",
-        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 270266,
-      "name": "Someone to Watch Over Me",
-      "url": "https://open.spotify.com/track/18iF9PLIbNvy01JS5zLkDT"
-    },
-    {
-      "added_at": "2023-09-22 08:15:22",
-      "album": {
         "name": "Volume 2 (Vol. 2)",
         "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 209012,
       "name": "I Waited For You - Remastered 1998",
       "url": "https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz"
+    },
+    {
+      "added_at": "2023-09-22 08:15:22",
+      "album": {
+        "name": "See You At The Fair",
+        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 270266,
+      "name": "Someone to Watch Over Me",
+      "url": "https://open.spotify.com/track/18iF9PLIbNvy01JS5zLkDT"
     },
     {
       "added_at": "2023-09-22 08:15:22",
@@ -383,26 +383,6 @@
     {
       "added_at": "2023-09-22 08:15:22",
       "album": {
-        "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        },
-        {
-          "name": "Bud Shank Quintet",
-          "url": "https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS"
-        }
-      ],
-      "duration_ms": 260240,
-      "name": "Ev'ry Time We Say Goodbye",
-      "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
-    },
-    {
-      "added_at": "2023-09-22 08:15:22",
-      "album": {
         "name": "Ben And \"Sweets\"",
         "url": "https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 254133,
       "name": "My Romance",
       "url": "https://open.spotify.com/track/3LT1zcX6o7Xv2IfJrlU4f1"
+    },
+    {
+      "added_at": "2023-09-22 08:15:22",
+      "album": {
+        "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        },
+        {
+          "name": "Bud Shank Quintet",
+          "url": "https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS"
+        }
+      ],
+      "duration_ms": 260240,
+      "name": "Ev'ry Time We Say Goodbye",
+      "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
     },
     {
       "added_at": "2023-09-22 08:15:22",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-09-22 08:15:22",
       "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 276133,
-      "name": "Things Ain't What They Used To Be",
-      "url": "https://open.spotify.com/track/69enZcR3Rr9Bg3fNzHEp9y"
-    },
-    {
-      "added_at": "2023-09-22 08:15:22",
-      "album": {
         "name": "I Just Dropped By To Say Hello",
         "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 185786,
       "name": "Stairway To The Stars",
       "url": "https://open.spotify.com/track/1EpnnS4RqJQrA3OMxVJ6Ks"
+    },
+    {
+      "added_at": "2023-09-22 08:15:22",
+      "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 276133,
+      "name": "Things Ain't What They Used To Be",
+      "url": "https://open.spotify.com/track/69enZcR3Rr9Bg3fNzHEp9y"
     },
     {
       "added_at": "2023-09-22 08:15:22",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-09-22 08:15:22",
       "album": {
-        "name": "I Remember Miles",
-        "url": "https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 334626,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm"
-    },
-    {
-      "added_at": "2023-09-22 08:15:22",
-      "album": {
         "name": "Social Call",
         "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 251680,
       "name": "Gone With the Wind",
       "url": "https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn"
+    },
+    {
+      "added_at": "2023-09-22 08:15:22",
+      "album": {
+        "name": "I Remember Miles",
+        "url": "https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 334626,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm"
     },
     {
       "added_at": "2023-09-22 08:15:22",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-09-22 08:15:22",
       "album": {
+        "name": "Dear Old Stockholm",
+        "url": "https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 330800,
+      "name": "Dear Lord",
+      "url": "https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp"
+    },
+    {
+      "added_at": "2023-09-22 08:15:22",
+      "album": {
         "name": "The Total - Vol. 1",
         "url": "https://open.spotify.com/album/23M5IolFq5GgcaYSikTyQH"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": "2023-09-22 08:15:22",
       "album": {
-        "name": "Dear Old Stockholm",
-        "url": "https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 330800,
-      "name": "Dear Lord",
-      "url": "https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp"
-    },
-    {
-      "added_at": "2023-09-22 08:15:22",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/66lE5oVdR8QZjXNbYjJulR"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-09-22 08:15:22",
       "album": {
-        "name": "Wailing With Lou",
-        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 413080,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm"
-    },
-    {
-      "added_at": "2023-09-22 08:15:22",
-      "album": {
         "name": "Give Him The Ooh-La-La (Expanded Edition)",
         "url": "https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog"
       },
@@ -983,6 +967,22 @@
     {
       "added_at": "2023-09-22 08:15:22",
       "album": {
+        "name": "Wailing With Lou",
+        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 413080,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm"
+    },
+    {
+      "added_at": "2023-09-22 08:15:22",
+      "album": {
         "name": "The Hawk Relaxes",
         "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 356973,
       "name": "Moonglow",
       "url": "https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik"
+    },
+    {
+      "added_at": "2023-09-22 08:15:22",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 436573,
+      "name": "Mad About The Boy",
+      "url": "https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT"
     },
     {
       "added_at": "2023-09-22 08:15:22",
@@ -1019,38 +1035,18 @@
     {
       "added_at": "2023-09-22 08:15:22",
       "album": {
-        "name": "The President Plays With The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
+        "name": "Verve Jazz Masters 43: Ben Webster",
+        "url": "https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe"
       },
       "artists": [
         {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
         }
       ],
-      "duration_ms": 204333,
-      "name": "These Foolish Things",
-      "url": "https://open.spotify.com/track/07l1kkIQkfNlCmVwMC4GD0"
-    },
-    {
-      "added_at": "2023-09-22 08:15:22",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 436573,
-      "name": "Mad About The Boy",
-      "url": "https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT"
+      "duration_ms": 261333,
+      "name": "Come Rain Or Come Shine",
+      "url": "https://open.spotify.com/track/02ptMhCrjCMFVzXKMGbF1E"
     },
     {
       "added_at": "2023-09-22 08:15:22",
@@ -1087,22 +1083,6 @@
     {
       "added_at": "2023-09-22 08:15:22",
       "album": {
-        "name": "Verve Jazz Masters 43: Ben Webster",
-        "url": "https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Come Rain Or Come Shine",
-      "url": "https://open.spotify.com/track/02ptMhCrjCMFVzXKMGbF1E"
-    },
-    {
-      "added_at": "2023-09-22 08:15:22",
-      "album": {
         "name": "By Special Request",
         "url": "https://open.spotify.com/album/5mRJwyqRM2bhb6VxiESoK0"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 191546,
       "name": "Something To Live For",
       "url": "https://open.spotify.com/track/6vztWp5jzOaYM9HaCaZWvO"
+    },
+    {
+      "added_at": "2023-09-22 08:15:22",
+      "album": {
+        "name": "The President Plays With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "These Foolish Things",
+      "url": "https://open.spotify.com/track/07l1kkIQkfNlCmVwMC4GD0"
     },
     {
       "added_at": "2023-09-22 08:15:22",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-09-22 08:15:22",
       "album": {
-        "name": "Presenting Red Garland",
-        "url": "https://open.spotify.com/album/4h7i5B7Q7rRXIwTEulF8d3"
-      },
-      "artists": [
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        }
-      ],
-      "duration_ms": 311946,
-      "name": "You Better Go Now",
-      "url": "https://open.spotify.com/track/1Qi67EpJAbVzUefw4UGyFq"
-    },
-    {
-      "added_at": "2023-09-22 08:15:22",
-      "album": {
         "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
         "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 207413,
       "name": "Mood Indigo",
       "url": "https://open.spotify.com/track/6wDBY75wrVJoQZsSCyM234"
+    },
+    {
+      "added_at": "2023-09-22 08:15:22",
+      "album": {
+        "name": "Presenting Red Garland",
+        "url": "https://open.spotify.com/album/4h7i5B7Q7rRXIwTEulF8d3"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "duration_ms": 311946,
+      "name": "You Better Go Now",
+      "url": "https://open.spotify.com/track/1Qi67EpJAbVzUefw4UGyFq"
     }
   ],
   "unique_name": "Jazz Bar",

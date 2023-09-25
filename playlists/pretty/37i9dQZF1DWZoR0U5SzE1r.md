@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,798 likes - 100 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,938 likes - 100 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,16 +61,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 51 | [Come Alive](https://open.spotify.com/track/78pKjOa4gToyRxn3cVc7Sa) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Awake](https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC) | 4:32 |
 | 52 | [Alleluia \- Live](https://open.spotify.com/track/4FmpJYb8ng0grrLjzDhQBB) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Live From New York](https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP) | 8:04 |
 | 53 | [Yes I Will](https://open.spotify.com/track/5vMzNmHm2ec2zrqiYhkQzZ) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Yes I Will](https://open.spotify.com/album/0OOv0GLx4DQc5tPTkRo6sz) | 3:54 |
-| 54 | [Hallelujah For The Cross \- Live](https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Hallelujah For The Cross \(Live\)](https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL) | 5:31 |
-| 55 | [Healer](https://open.spotify.com/track/2uDngplEd0RW5hqcAur5uY) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb) | 5:07 |
+| 54 | [Healer](https://open.spotify.com/track/2uDngplEd0RW5hqcAur5uY) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb) | 5:07 |
+| 55 | [Hallelujah For The Cross \- Live](https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Hallelujah For The Cross \(Live\)](https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL) | 5:31 |
 | 56 | [Insatiable](https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Insatiable](https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan) | 4:26 |
 | 57 | [King Of Glory \- Live](https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [King Of Glory \(Live\)](https://open.spotify.com/album/4zl5e8SW0ckoKiiD32HaLh) | 4:09 |
 | 58 | [My Hallelujah](https://open.spotify.com/track/6ibX7aG1bsQzTJb5gUjCpn) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Praise Before My Breakthrough](https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9) | 4:06 |
 | 59 | [Breathe \- Live](https://open.spotify.com/track/5OfIpf1OOrbWYBBAMZpO5N) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Touching Heaven \(Live\)](https://open.spotify.com/album/51TJKJhXFke5OZaU56B9qe) | 6:00 |
 | 60 | [Fire in My Bones](https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Fire in My Bones](https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy) | 4:32 |
 | 61 | [Captain](https://open.spotify.com/track/3YWY2vDpD4ygZRMW9u0bby) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Empires](https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD) | 5:31 |
-| 62 | [Dancing On The Waves \- Live At The Wheelhouse](https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Dancing On The Waves \(Live\)](https://open.spotify.com/album/6Y4TkUVERN9O7D1FTgV08r) | 4:29 |
-| 63 | [Call on Your Name](https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Call on Your Name](https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ) | 5:09 |
+| 62 | [Call on Your Name](https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Call on Your Name](https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ) | 5:09 |
+| 63 | [Dancing On The Waves \- Live At The Wheelhouse](https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Dancing On The Waves \(Live\)](https://open.spotify.com/album/6Y4TkUVERN9O7D1FTgV08r) | 4:29 |
 | 64 | [More Than Enough \- Live](https://open.spotify.com/track/6EIDCcB7NlRox5jIrErS8b) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Church Volume One \(Live\)](https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj) | 8:36 |
 | 65 | [Already Done](https://open.spotify.com/track/59anQv3Oeypyj7vVRZ7S9g) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [Already Done](https://open.spotify.com/album/5fFrCKg2XIKXQNlAmZ8q0z) | 5:24 |
 | 66 | [Enough](https://open.spotify.com/track/20GHzOIG9y0mn3yjwv9FT0) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi) | [The Work, Vol\. I](https://open.spotify.com/album/0s2eJECLVrND9PFWeiAu6A) | 5:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 99 | [Take Courage \(Live\)](https://open.spotify.com/track/64Gil9pakWkRHqnXZSSbrm) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Every Nation](https://open.spotify.com/album/5bO5rv7fN82wztgC4Q4TZv) | 5:50 |
 | 100 | [Inhabit \- Live](https://open.spotify.com/track/2z2s7KN9tLmijBa6k1ECKd) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word \(Live\)](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 5:51 |
 
-Snapshot ID: `MCwyOTAzMDE0ZTFlZDMzZTgwMDNlYTFhMTgwZTkyYmFiMTNlYjZkN2Uy`
+Snapshot ID: `MCwxMGJjZGU3MWM3NzkwYTY4YmNhZGRiM2JjY2FkNTY0OGYxNjFjZWMz`

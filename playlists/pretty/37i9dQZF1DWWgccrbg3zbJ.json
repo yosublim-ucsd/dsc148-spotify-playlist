@@ -1,12 +1,12 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 149710,
+  "num_followers": 150261,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzM2YTI3YTcwM2JhNTIwOGNiNTBhNDNhOGMwZDZkNjlmM2Q5MjQw",
+  "snapshot_id": "MCwwMzE2OTVhOGJmZjQ2Nzc1MWNhYjBkMDc5MGNmZmU4ZDVlMzYzZTY5",
   "tracks": [
     {
       "added_at": "2023-09-20 12:15:02",
@@ -559,18 +559,22 @@
     {
       "added_at": "2023-09-20 12:15:02",
       "album": {
-        "name": "Can\u00e7\u00e3o do Amor Demais",
-        "url": "https://open.spotify.com/album/416m16l0FUDAkyckFQRJqn"
+        "name": "Rio Revisited",
+        "url": "https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd"
       },
       "artists": [
         {
-          "name": "Elizeth Cardoso",
-          "url": "https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 113545,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/31qmV57ho2T38s9fB1xiuJ"
+      "duration_ms": 203226,
+      "name": "Samba Do Aviao - Live",
+      "url": "https://open.spotify.com/track/3qhAqp4xBxqg8zEAFmcXmF"
     },
     {
       "added_at": "2023-09-20 12:15:02",
@@ -611,22 +615,18 @@
     {
       "added_at": "2023-09-20 12:15:02",
       "album": {
-        "name": "Rio Revisited",
-        "url": "https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd"
+        "name": "Can\u00e7\u00e3o do Amor Demais",
+        "url": "https://open.spotify.com/album/416m16l0FUDAkyckFQRJqn"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+          "name": "Elizeth Cardoso",
+          "url": "https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW"
         }
       ],
-      "duration_ms": 203226,
-      "name": "Samba Do Aviao - Live",
-      "url": "https://open.spotify.com/track/3qhAqp4xBxqg8zEAFmcXmF"
+      "duration_ms": 113545,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/31qmV57ho2T38s9fB1xiuJ"
     },
     {
       "added_at": "2023-09-20 12:15:02",

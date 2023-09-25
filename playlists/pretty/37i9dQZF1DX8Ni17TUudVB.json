@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 139672,
+  "num_followers": 139691,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTdmNDkzYTRhNTVkMTc0ODdiMTFlMDU0Y2Y3OWUyMmY3ODQzZDli",
+  "snapshot_id": "MCw2MzliNjE1MWJlNjEyZGEwYzBhMTYwMTAzZTNkNGRiMzk2ZDAxNTM1",
   "tracks": [
     {
       "added_at": "2023-09-11 15:59:41",
@@ -371,26 +371,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 246061,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "Mad World",
         "url": "https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 153303,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/6WsaEpK2Bky9ZGCCaQPyg4"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 246061,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay"
-      },
-      "artists": [
-        {
-          "name": "INNDRIVE",
-          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "SICKO MODE (Skrillex Remix)",
         "url": "https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 304512,
       "name": "SICKO MODE - Skrillex Remix",
       "url": "https://open.spotify.com/track/0u695M7KyzXaPIjpEbxOkB"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay"
+      },
+      "artists": [
+        {
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "Check This Out",
-        "url": "https://open.spotify.com/album/2UJEcNBmxdzbEn9r9CUrdz"
-      },
-      "artists": [
-        {
-          "name": "Toby Green",
-          "url": "https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP"
-        }
-      ],
-      "duration_ms": 151020,
-      "name": "Check This Out",
-      "url": "https://open.spotify.com/track/40mYZdW4XYsfVU4D1L3cXx"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "Nothing To Do",
         "url": "https://open.spotify.com/album/5Dfz1XYeRSSdhOOTNrhedG"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 153652,
       "name": "Nothing To Do",
       "url": "https://open.spotify.com/track/23xtuubzgbV2UCKepN0h84"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "Check This Out",
+        "url": "https://open.spotify.com/album/2UJEcNBmxdzbEn9r9CUrdz"
+      },
+      "artists": [
+        {
+          "name": "Toby Green",
+          "url": "https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP"
+        }
+      ],
+      "duration_ms": 151020,
+      "name": "Check This Out",
+      "url": "https://open.spotify.com/track/40mYZdW4XYsfVU4D1L3cXx"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
+        "name": "Death Rail",
+        "url": "https://open.spotify.com/album/4C0vIxaCTSloENgeyOFgZ8"
+      },
+      "artists": [
+        {
+          "name": "Hi I'm Ghost",
+          "url": "https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34"
+        }
+      ],
+      "duration_ms": 151112,
+      "name": "Death Rail",
+      "url": "https://open.spotify.com/track/6ZI5UgjEGb82o1XaAZKLJ2"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
         "name": "Morenito",
         "url": "https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 190819,
       "name": "Morenito",
       "url": "https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
-        "name": "Death Rail",
-        "url": "https://open.spotify.com/album/4C0vIxaCTSloENgeyOFgZ8"
-      },
-      "artists": [
-        {
-          "name": "Hi I'm Ghost",
-          "url": "https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34"
-        }
-      ],
-      "duration_ms": 151112,
-      "name": "Death Rail",
-      "url": "https://open.spotify.com/track/6ZI5UgjEGb82o1XaAZKLJ2"
     },
     {
       "added_at": "2023-09-11 15:59:41",

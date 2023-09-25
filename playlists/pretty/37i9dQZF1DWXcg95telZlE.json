@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 321233,
+  "num_followers": 321470,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmJkOTMyZmMwYTQ0OTYzZmZmNGRlMmIxZmJiMTc4ZjE0MjI2ODdi",
+  "snapshot_id": "MCw3NzE2M2RmNzlmYjA2ZjZjNWE3YjNlZThjNzJkMDgyODQ0YzdmODk3",
   "tracks": [
     {
       "added_at": "2022-05-30 12:59:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
-        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
-      },
-      "artists": [
-        {
-          "name": "The Fleetwoods",
-          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
-        }
-      ],
-      "duration_ms": 145133,
-      "name": "Mr. Blue",
-      "url": "https://open.spotify.com/track/6bnFjTW3EnMG4BwreDnSHK"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 150893,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/4ydtQJImyQg6UDFFZBzgxp"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
+        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
+      },
+      "artists": [
+        {
+          "name": "The Fleetwoods",
+          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
+        }
+      ],
+      "duration_ms": 145133,
+      "name": "Mr. Blue",
+      "url": "https://open.spotify.com/track/6bnFjTW3EnMG4BwreDnSHK"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Presenting the Spaniels",
-        "url": "https://open.spotify.com/album/3FXBB39hDogIg4qUjEmVn2"
-      },
-      "artists": [
-        {
-          "name": "The Spaniels",
-          "url": "https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P"
-        }
-      ],
-      "duration_ms": 160280,
-      "name": "Goodnight, Sweetheart, Goodnight",
-      "url": "https://open.spotify.com/track/5VLKQp1YTubqXJ02HnViz5"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 164400,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/2Gd007dAbihobxsTG9m7cZ"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Presenting the Spaniels",
+        "url": "https://open.spotify.com/album/3FXBB39hDogIg4qUjEmVn2"
+      },
+      "artists": [
+        {
+          "name": "The Spaniels",
+          "url": "https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "Goodnight, Sweetheart, Goodnight",
+      "url": "https://open.spotify.com/track/5VLKQp1YTubqXJ02HnViz5"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1295,8 +1295,8 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Pat Boone Sings",
-        "url": "https://open.spotify.com/album/0vdjMYJN23OwAzxkG1mSvW"
+        "name": "Pat Boone Sings (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Btlm07VEQhfqvsTbkjL9H"
       },
       "artists": [
         {
@@ -1306,7 +1306,7 @@
       ],
       "duration_ms": 115506,
       "name": "Sugar Moon",
-      "url": "https://open.spotify.com/track/256gK1JCGxJ0U9GUmvDYPC"
+      "url": "https://open.spotify.com/track/6hc2AUvS54icf4z9qQHbaT"
     },
     {
       "added_at": "2022-05-30 12:59:00",

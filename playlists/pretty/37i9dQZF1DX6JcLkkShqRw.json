@@ -1,12 +1,12 @@
 {
   "description": "Flow sudamericano con Cris Mj & DJ Tao.",
-  "num_followers": 312907,
+  "num_followers": 313030,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmM0MDE4ZDk3ZjBhZTEwYjYyZmVkOGZjYzAyZTg2ZGZmZWZlYWI5",
+  "snapshot_id": "MCw5ZDg5ZWJkNzY2M2Q5NmI3NjY5MzMyYTA1OGJjY2IxNWIwNmNmMTMy",
   "tracks": [
     {
       "added_at": "2023-09-22 03:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "AUTOM\u00c1TICO",
-        "url": "https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 175317,
-      "name": "AUTOM\u00c1TICO",
-      "url": "https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "TU DUO FAVORITO",
         "url": "https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
+        "name": "AUTOM\u00c1TICO",
+        "url": "https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 175317,
+      "name": "AUTOM\u00c1TICO",
+      "url": "https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
         "name": "Me Veo Rico",
         "url": "https://open.spotify.com/album/3BmMCU5KM1F53Y8v6JGT2G"
       },
@@ -743,42 +743,6 @@
       "duration_ms": 164724,
       "name": "Me Veo Rico",
       "url": "https://open.spotify.com/track/7D3Be8tkPLMzWKohmi63hb"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "LOUD (feat. Piero 47, 3TRIPLE J, JulianoChieff)",
-        "url": "https://open.spotify.com/album/6FtE6zJfTCiDMh0ju5B8nN"
-      },
-      "artists": [
-        {
-          "name": "Drakomafia",
-          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
-        },
-        {
-          "name": "Il Nene De Oro",
-          "url": "https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T"
-        },
-        {
-          "name": "Lleflight",
-          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
-        },
-        {
-          "name": "Piero 47",
-          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
-        },
-        {
-          "name": "3TRIPLE J",
-          "url": "https://open.spotify.com/artist/2lvn0dSSamgNsFZPaJPzoR"
-        },
-        {
-          "name": "JulianoChieff",
-          "url": "https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l"
-        }
-      ],
-      "duration_ms": 341266,
-      "name": "LOUD (feat. Piero 47, 3TRIPLE J, JulianoChieff)",
-      "url": "https://open.spotify.com/track/4urZ3ocnvCpgU0Rv1P6Pd5"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -823,6 +787,42 @@
       "duration_ms": 160961,
       "name": "+ Q LA XUXA",
       "url": "https://open.spotify.com/track/16uLbwxv5QmVjueCO0mG50"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "LOUD (feat. Piero 47, 3TRIPLE J, JulianoChieff)",
+        "url": "https://open.spotify.com/album/6FtE6zJfTCiDMh0ju5B8nN"
+      },
+      "artists": [
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        },
+        {
+          "name": "Il Nene De Oro",
+          "url": "https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T"
+        },
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        },
+        {
+          "name": "3TRIPLE J",
+          "url": "https://open.spotify.com/artist/2lvn0dSSamgNsFZPaJPzoR"
+        },
+        {
+          "name": "JulianoChieff",
+          "url": "https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l"
+        }
+      ],
+      "duration_ms": 341266,
+      "name": "LOUD (feat. Piero 47, 3TRIPLE J, JulianoChieff)",
+      "url": "https://open.spotify.com/track/4urZ3ocnvCpgU0Rv1P6Pd5"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
+        "name": "DANCE CRIP",
+        "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 165019,
+      "name": "DANCE CRIP",
+      "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 222857,
       "name": "Traductor",
       "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "DANCE CRIP",
-        "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 165019,
-      "name": "DANCE CRIP",
-      "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
+        "name": "Salimo de Noche",
+        "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "Salimo de Noche",
+      "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
         "name": "De Nada (Remix)",
         "url": "https://open.spotify.com/album/53eR7ZWqLIdRVZHcQfHgaC"
       },
@@ -1251,26 +1271,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Salimo de Noche",
-        "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "Salimo de Noche",
-      "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "Ese Corte",
         "url": "https://open.spotify.com/album/5w1Dc758WHXknbwunFxAZU"
       },
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
+        "name": "Baila para Mi",
+        "url": "https://open.spotify.com/album/6YfDEmXLmPFRlz4iScphbu"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "duration_ms": 164322,
+      "name": "Baila para Mi",
+      "url": "https://open.spotify.com/track/2KxfFzjyd5mpJu66s66w2S"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
         "name": "Mu\u00f1eca",
         "url": "https://open.spotify.com/album/3cBboEvTyis7wuw6viGmaH"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 182603,
       "name": "Mu\u00f1eca",
       "url": "https://open.spotify.com/track/5MxnvIBS4UMUpbZUKQsuNA"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "Baila para Mi",
-        "url": "https://open.spotify.com/album/6YfDEmXLmPFRlz4iScphbu"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        }
-      ],
-      "duration_ms": 164322,
-      "name": "Baila para Mi",
-      "url": "https://open.spotify.com/track/2KxfFzjyd5mpJu66s66w2S"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Anti Rana",
-        "url": "https://open.spotify.com/album/5waPP31TcvQa9KCO1eO6XW"
-      },
-      "artists": [
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        }
-      ],
-      "duration_ms": 189216,
-      "name": "Anti Rana",
-      "url": "https://open.spotify.com/track/1Zjdt705TM2Hr26YDKgnyc"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "Nos Comemos (feat. Ozuna)",
         "url": "https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC"
       },
@@ -1407,6 +1391,42 @@
       "duration_ms": 191086,
       "name": "Nos Comemos (feat. Ozuna)",
       "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "Anti Rana",
+        "url": "https://open.spotify.com/album/5waPP31TcvQa9KCO1eO6XW"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "duration_ms": 189216,
+      "name": "Anti Rana",
+      "url": "https://open.spotify.com/track/1Zjdt705TM2Hr26YDKgnyc"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "Hood (Remix)",
+        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 176372,
+      "name": "Hood - Remix",
+      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1431,26 +1451,6 @@
       "duration_ms": 195555,
       "name": "X5",
       "url": "https://open.spotify.com/track/5Ocr2jOr3Qs5ncv4Fduvzk"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "Hood (Remix)",
-        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 176372,
-      "name": "Hood - Remix",
-      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Con Puras de 25",
-        "url": "https://open.spotify.com/album/5YScK348YCNiTK8yotpMM5"
-      },
-      "artists": [
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        },
-        {
-          "name": "Best",
-          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "Con Puras de 25",
-      "url": "https://open.spotify.com/track/7Am9Us7Lub64dgaJ3jCeL7"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "T\u00fa crees en m\u00ed?",
         "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
       },
@@ -1555,26 +1535,22 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "TU DIABLO",
-        "url": "https://open.spotify.com/album/5nNEzv707WMcyARly8bUNs"
+        "name": "Con Puras de 25",
+        "url": "https://open.spotify.com/album/5YScK348YCNiTK8yotpMM5"
       },
       "artists": [
         {
-          "name": "ITHAN NY",
-          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
         },
         {
-          "name": "Tunechikidd",
-          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
-        },
-        {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
         }
       ],
-      "duration_ms": 249463,
-      "name": "TU DIABLO",
-      "url": "https://open.spotify.com/track/7yYUEygHvdK2wnOzupPfZw"
+      "duration_ms": 138461,
+      "name": "Con Puras de 25",
+      "url": "https://open.spotify.com/track/7Am9Us7Lub64dgaJ3jCeL7"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1655,18 +1631,26 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "511",
-        "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
+        "name": "TU DIABLO",
+        "url": "https://open.spotify.com/album/5nNEzv707WMcyARly8bUNs"
       },
       "artists": [
         {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        },
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
         }
       ],
-      "duration_ms": 106095,
-      "name": "TOI HECHO",
-      "url": "https://open.spotify.com/track/1qjb7lJPQ4oxQ3kSeZYXlt"
+      "duration_ms": 249463,
+      "name": "TU DIABLO",
+      "url": "https://open.spotify.com/track/7yYUEygHvdK2wnOzupPfZw"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1691,6 +1675,22 @@
       "duration_ms": 150613,
       "name": "Vengo De La Brea",
       "url": "https://open.spotify.com/track/6ECKufSE72CsQUb3PRNYmq"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "511",
+        "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 106095,
+      "name": "TOI HECHO",
+      "url": "https://open.spotify.com/track/1qjb7lJPQ4oxQ3kSeZYXlt"
     },
     {
       "added_at": "2023-09-22 03:00:00",

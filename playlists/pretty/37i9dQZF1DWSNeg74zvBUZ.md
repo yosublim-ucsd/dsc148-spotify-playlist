@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 
 > Sunlight! The most precious gold to be found on Earth.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,107 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,111 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 2 | [Olson](https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:31 |
 | 3 | [sunrise mtn](https://open.spotify.com/track/39fB9kG8siVbe6cOOtVliL) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [sunrise mtn](https://open.spotify.com/album/0I0Wpet0SNMfo0hgcwzsQB) | 2:31 |
 | 4 | [Kintsugi](https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū](https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s) | 1:06 |
-| 5 | [Forevertime Journeys](https://open.spotify.com/track/5hpZxgvARgsbmQjQaGmYIW) | [naran ratan](https://open.spotify.com/artist/2keywPnpoD1RhMrs2Qrrsj) | [Trees etc.](https://open.spotify.com/album/0Hi7a09Vn6FuPZSsADVfsI) | 1:33 |
+| 5 | [Space 1](https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:08 |
 | 6 | [Spring Siesta](https://open.spotify.com/track/6jC1mrjxfjNKh7IZhZl5Im) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [David Ralicke](https://open.spotify.com/artist/3M0FPaOfQNhmv3WZ7CU62Y) | [Spring Siesta](https://open.spotify.com/album/4oR4Hey6GVUpl6GGtaaaze) | 4:01 |
-| 7 | [Space 1](https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:08 |
+| 7 | [Forevertime Journeys](https://open.spotify.com/track/5hpZxgvARgsbmQjQaGmYIW) | [naran ratan](https://open.spotify.com/artist/2keywPnpoD1RhMrs2Qrrsj) | [Trees etc.](https://open.spotify.com/album/0Hi7a09Vn6FuPZSsADVfsI) | 1:33 |
 | 8 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
 | 9 | [Always Returning \- Remastered 2005](https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:04 |
 | 10 | [Chipinque](https://open.spotify.com/track/2nY28xLbU220DiDAc3177k) | [Tiempo Fuera](https://open.spotify.com/artist/3tsfuCKw78MCVfLoKHUn4Z) | [Chipinque](https://open.spotify.com/album/1C66AJuEWFwkg2MB9JnkjM) | 3:14 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 41 | [Impossible Island](https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 7:28 |
 | 42 | [Canone Infinito](https://open.spotify.com/track/4rbLiyMabI4JhlLeXqb5ps) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Scacco Matto](https://open.spotify.com/album/2vgQwkBwLcdwdwvQecpp1p) | 4:59 |
 | 43 | [acceptances](https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [acceptances](https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ) | 3:18 |
-| 44 | [12121](https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Biologica, Volume One \(Water\)](https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq) | 2:36 |
-| 45 | [November](https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [A flame my love, a frequency](https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp) | 2:08 |
+| 44 | [November](https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [A flame my love, a frequency](https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp) | 2:08 |
+| 45 | [12121](https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Biologica, Volume One \(Water\)](https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq) | 2:36 |
 | 46 | [Celeste](https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:22 |
 | 47 | [The Pillow Sisters](https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [The Pillow Sisters](https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM) | 2:39 |
 | 48 | [Gradual of Image](https://open.spotify.com/track/5m2Tets6QqS5IMuL0v8pf4) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka) | 3:08 |
-| 49 | [Morning Dancing](https://open.spotify.com/track/7CuqddnG0PqziRanIm6WrQ) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Jim Doney](https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8) | [Point Zero](https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI) | 9:52 |
-| 50 | [Yulquen](https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:37 |
+| 49 | [Yulquen](https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:37 |
+| 50 | [Morning Dancing](https://open.spotify.com/track/7CuqddnG0PqziRanIm6WrQ) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Jim Doney](https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8) | [Point Zero](https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI) | 9:52 |
 
-Snapshot ID: `MCw1MWQ2YmIxYWVmNzBlMWZiYjFkNTFkOTdiMDcxNmE3MzFkYWExZmIw`
+Snapshot ID: `MCw2NzU1MTU4NDJjOTBkNGVmNjUwODc3NjJiYzE5MzM4YWFkN2M2ZmY2`

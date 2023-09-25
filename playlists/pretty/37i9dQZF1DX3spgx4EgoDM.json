@@ -1,12 +1,12 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 153160,
+  "num_followers": 153232,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTA4YWJlNGRlZmM1MzkyNzA1ZDdmN2U3ZmUzYzJjYTg0M2JhOWU2",
+  "snapshot_id": "MCwzYjQ5NzNlYTVkNzJhNjllZWQwY2FjNzUzYWY4M2VmMjg3NGFjZGU1",
   "tracks": [
     {
       "added_at": "2023-08-23 19:03:49",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-08-23 19:03:49",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
-    },
-    {
-      "added_at": "2023-08-23 19:03:49",
-      "album": {
         "name": "Adi\u00f3s Amor",
         "url": "https://open.spotify.com/album/14am71BKAcj6UvGOIXoo6e"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 259910,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/367069JY6QWPaCJM21OVBC"
+    },
+    {
+      "added_at": "2023-08-23 19:03:49",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
     },
     {
       "added_at": "2023-08-23 19:03:49",
@@ -659,8 +659,8 @@
     {
       "added_at": "2023-08-23 19:03:49",
       "album": {
-        "name": "Esto S\u00ed Es Cumbia",
-        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
+        "name": "C\u00f3mo Te Voy a Olvidar",
+        "url": "https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl"
       },
       "artists": [
         {
@@ -668,13 +668,13 @@
           "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         },
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 266213,
-      "name": "Nunca Es Suficiente",
-      "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
+      "duration_ms": 216986,
+      "name": "Mis Sentimientos",
+      "url": "https://open.spotify.com/track/2tyEPvpKX4m20YOGo5W6O4"
     },
     {
       "added_at": "2023-08-23 19:03:49",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-08-23 19:03:49",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+        "name": "Un Sentimiento",
+        "url": "https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI"
       },
       "artists": [
         {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
         }
       ],
-      "duration_ms": 204680,
-      "name": "Besar Tu Piel",
-      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
+      "duration_ms": 203933,
+      "name": "El Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6"
     },
     {
       "added_at": "2023-08-23 19:03:49",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-08-23 19:03:49",
       "album": {
-        "name": "Un Sentimiento",
-        "url": "https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI"
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
       },
       "artists": [
         {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
         }
       ],
-      "duration_ms": 203933,
-      "name": "El Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6"
+      "duration_ms": 204680,
+      "name": "Besar Tu Piel",
+      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
     },
     {
       "added_at": "2023-08-23 19:03:49",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-08-23 19:03:49",
       "album": {
-        "name": "Los Exitos Mas Calientes",
-        "url": "https://open.spotify.com/album/0CFZMKonWgHqhJ1jFipGDt"
-      },
-      "artists": [
-        {
-          "name": "La Luz Roja De San Marcos",
-          "url": "https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb"
-        }
-      ],
-      "duration_ms": 233717,
-      "name": "Cumbia Sampuesana",
-      "url": "https://open.spotify.com/track/4AwgFDiynuu52p5xtpRlNG"
-    },
-    {
-      "added_at": "2023-08-23 19:03:49",
-      "album": {
         "name": "No Te Contaron Mal",
         "url": "https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 176864,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
+    },
+    {
+      "added_at": "2023-08-23 19:03:49",
+      "album": {
+        "name": "Los Exitos Mas Calientes",
+        "url": "https://open.spotify.com/album/0CFZMKonWgHqhJ1jFipGDt"
+      },
+      "artists": [
+        {
+          "name": "La Luz Roja De San Marcos",
+          "url": "https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb"
+        }
+      ],
+      "duration_ms": 233717,
+      "name": "Cumbia Sampuesana",
+      "url": "https://open.spotify.com/track/4AwgFDiynuu52p5xtpRlNG"
     },
     {
       "added_at": "2023-08-23 19:03:49",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-08-23 19:03:49",
       "album": {
-        "name": "El Color De Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Red",
-          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "No Podre Olvidarme",
-      "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
-    },
-    {
-      "added_at": "2023-08-23 19:03:49",
-      "album": {
         "name": "Cumbia Nena",
         "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 204293,
       "name": "Yo Tomo",
       "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
+    },
+    {
+      "added_at": "2023-08-23 19:03:49",
+      "album": {
+        "name": "El Color De Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Red",
+          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "No Podre Olvidarme",
+      "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
     },
     {
       "added_at": "2023-08-23 19:03:49",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-08-23 19:03:49",
       "album": {
-        "name": "Los M\u00e1s Queridos",
-        "url": "https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Te Vas a Arrepentir",
-      "url": "https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ"
-    },
-    {
-      "added_at": "2023-08-23 19:03:49",
-      "album": {
         "name": "Sa, Za...Sabor",
         "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 233613,
       "name": "Porque te amo",
       "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
+    },
+    {
+      "added_at": "2023-08-23 19:03:49",
+      "album": {
+        "name": "Los M\u00e1s Queridos",
+        "url": "https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Te Vas a Arrepentir",
+      "url": "https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ"
     },
     {
       "added_at": "2023-08-23 19:03:49",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-08-23 19:03:49",
       "album": {
-        "name": "30 Aniversario (Edici\u00f3n Limitada)",
-        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
-      },
-      "artists": [
-        {
-          "name": "Campeche Show",
-          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "A Donde Iras Ahora",
-      "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
-    },
-    {
-      "added_at": "2023-08-23 19:03:49",
-      "album": {
         "name": "Cumbia Baby!",
         "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
       },
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2023-08-23 19:03:49",
       "album": {
-        "name": "La Fiesta es de Nosotros",
-        "url": "https://open.spotify.com/album/67YStxw0rxexYKzFU6ocdT"
+        "name": "30 Aniversario (Edici\u00f3n Limitada)",
+        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
       },
       "artists": [
         {
-          "name": "Villa Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
         }
       ],
-      "duration_ms": 272044,
-      "name": "Serenata cruel",
-      "url": "https://open.spotify.com/track/2gEhAH0eZwl3b8si4l3tZ1"
+      "duration_ms": 185880,
+      "name": "A Donde Iras Ahora",
+      "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
     },
     {
       "added_at": "2023-08-23 19:03:49",
@@ -1391,6 +1375,22 @@
       "duration_ms": 253266,
       "name": "Nunca me faltes",
       "url": "https://open.spotify.com/track/5XzVdBQbbexpDXQbwzxADj"
+    },
+    {
+      "added_at": "2023-08-23 19:03:49",
+      "album": {
+        "name": "La Fiesta es de Nosotros",
+        "url": "https://open.spotify.com/album/67YStxw0rxexYKzFU6ocdT"
+      },
+      "artists": [
+        {
+          "name": "Villa Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
+        }
+      ],
+      "duration_ms": 272044,
+      "name": "Serenata cruel",
+      "url": "https://open.spotify.com/track/2gEhAH0eZwl3b8si4l3tZ1"
     },
     {
       "added_at": "2023-08-23 19:03:49",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-08-23 19:03:49",
       "album": {
-        "name": "15A\u00f1ero",
-        "url": "https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk"
-      },
-      "artists": [
-        {
-          "name": "Villa Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Para dormir contigo otra vez",
-      "url": "https://open.spotify.com/track/7eYjn1bChNho1ELP0mbyeA"
-    },
-    {
-      "added_at": "2023-08-23 19:03:49",
-      "album": {
         "name": "Con la Misma Moneda",
         "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 266760,
       "name": "Con la Misma Moneda",
       "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
+    },
+    {
+      "added_at": "2023-08-23 19:03:49",
+      "album": {
+        "name": "15A\u00f1ero",
+        "url": "https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk"
+      },
+      "artists": [
+        {
+          "name": "Villa Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Para dormir contigo otra vez",
+      "url": "https://open.spotify.com/track/7eYjn1bChNho1ELP0mbyeA"
     },
     {
       "added_at": "2023-08-23 19:03:49",
@@ -1643,34 +1643,18 @@
     {
       "added_at": "2023-08-23 19:03:49",
       "album": {
-        "name": "17 Hits",
-        "url": "https://open.spotify.com/album/1cJXdbu4wHVf4dYoDy5Dyn"
+        "name": "Boquita de Caramelo",
+        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
       },
       "artists": [
         {
-          "name": "Los Charros De Lumaco",
-          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
+          "name": "Grupo Sombras",
+          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
         }
       ],
-      "duration_ms": 467533,
-      "name": "Megamix: Como Dejar de Amarte / Hoy Que Te Vas / La Mesa del Rincon / Charro para Rato",
-      "url": "https://open.spotify.com/track/58f4umXEEGdf1S75sXWXGZ"
-    },
-    {
-      "added_at": "2023-08-23 19:03:49",
-      "album": {
-        "name": "Qu\u00e9 Iron\u00eda",
-        "url": "https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 267445,
-      "name": "Qu\u00e9 Iron\u00eda",
-      "url": "https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7"
+      "duration_ms": 243920,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
     },
     {
       "added_at": "2023-08-23 19:03:49",
@@ -1695,18 +1679,34 @@
     {
       "added_at": "2023-08-23 19:03:49",
       "album": {
-        "name": "Amor Entre S\u00e1banas",
-        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
+        "name": "Qu\u00e9 Iron\u00eda",
+        "url": "https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno"
       },
       "artists": [
         {
-          "name": "La Noche",
-          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
         }
       ],
-      "duration_ms": 181254,
-      "name": "Que Nadie Se Entere",
-      "url": "https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J"
+      "duration_ms": 267445,
+      "name": "Qu\u00e9 Iron\u00eda",
+      "url": "https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7"
+    },
+    {
+      "added_at": "2023-08-23 19:03:49",
+      "album": {
+        "name": "Grandes \u00c9xitos Regrabados",
+        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 242242,
+      "name": "Iluminar\u00e1",
+      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     }
   ],
   "unique_name": "Cocina con Cumbia",

@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 292448,
+  "num_followers": 292572,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWNlOTg0NDczYTcwMzRkYThhNzQ5MWQzMTNjYjg4NzQzMjQ4MjE4",
+  "snapshot_id": "MCxhYThiYzJhY2YxNzVmYzUyZTJiODk4MmU3MzY5NWExODEzZGE4NDk5",
   "tracks": [
     {
       "added_at": "2023-07-21 10:37:28",
@@ -75,8 +75,8 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Scattered Dreams",
-        "url": "https://open.spotify.com/album/2nEeFzRFh8ppWwAvlVtgPv"
+        "name": "Time Lapsed",
+        "url": "https://open.spotify.com/album/2rzaUdlBmCJt9f5KjT2HDE"
       },
       "artists": [
         {
@@ -86,7 +86,7 @@
       ],
       "duration_ms": 234583,
       "name": "Scattered Dreams",
-      "url": "https://open.spotify.com/track/44IYLlpl5cPvqQH9Ff6GhQ"
+      "url": "https://open.spotify.com/track/73h8sk37Djar1B3LV3A6nQ"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
-      },
-      "artists": [
-        {
-          "name": "atmos bloom",
-          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
-        }
-      ],
-      "duration_ms": 135375,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "27 Club",
-        "url": "https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW"
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
       },
       "artists": [
         {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+          "name": "atmos bloom",
+          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
         }
       ],
-      "duration_ms": 214137,
-      "name": "27 Club",
-      "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
+      "duration_ms": 135375,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -999,6 +983,22 @@
       "duration_ms": 340000,
       "name": "Near",
       "url": "https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "27 Club",
+        "url": "https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 214137,
+      "name": "27 Club",
+      "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Full Hand",
-        "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
-      },
-      "artists": [
-        {
-          "name": "Kevin Krauter",
-          "url": "https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "Opportunity",
-      "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "number own",
         "url": "https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 159032,
       "name": "number own",
       "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Full Hand",
+        "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
+      },
+      "artists": [
+        {
+          "name": "Kevin Krauter",
+          "url": "https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Opportunity",
+      "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Twin Heavy",
-        "url": "https://open.spotify.com/album/6LFY3DlCGt04t3LY9NjNIC"
-      },
-      "artists": [
-        {
-          "name": "Willie J Healey",
-          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
-        }
-      ],
-      "duration_ms": 227681,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/2vmMoVSY98yTOpMZSDxMUf"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "rest up",
         "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 204464,
       "name": "rest up",
       "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Twin Heavy",
+        "url": "https://open.spotify.com/album/6LFY3DlCGt04t3LY9NjNIC"
+      },
+      "artists": [
+        {
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+        }
+      ],
+      "duration_ms": 227681,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/2vmMoVSY98yTOpMZSDxMUf"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Liquid",
-        "url": "https://open.spotify.com/album/4dsMSKFHn0ICTkyhdslZps"
-      },
-      "artists": [
-        {
-          "name": "Tommy Newport",
-          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Bubblegum",
-      "url": "https://open.spotify.com/track/1n5dQpgnlJaMxg29J2vhW2"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 190720,
       "name": "Drown",
       "url": "https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Liquid",
+        "url": "https://open.spotify.com/album/4dsMSKFHn0ICTkyhdslZps"
+      },
+      "artists": [
+        {
+          "name": "Tommy Newport",
+          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Bubblegum",
+      "url": "https://open.spotify.com/track/1n5dQpgnlJaMxg29J2vhW2"
     },
     {
       "added_at": "2023-07-21 10:37:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,579 likes - 216 songs - 13 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,835 likes - 216 songs - 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 215 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 216 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MCw3N2ZhNmY2NTliNzFlZTk0MTY0MjFmOTA1ZGQ3OGNjZjMzMWUwNDlj`
+Snapshot ID: `MCw1NzE1ZmMxM2EzOTRmMTI1MTU4NDI4MGUzNGQ5YTQzMmZiM2M4ZTk0`

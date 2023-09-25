@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-878 songs - 2 day 7 hr 27 min
+880 songs - 2 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Find the truth](https://open.spotify.com/track/11kTme3riMq4bEgawgtGT6) | [Rainy。](https://open.spotify.com/artist/2xhw0zn3geEHR4WX62KrAl) | [Find the truth](https://open.spotify.com/album/3LfcO5kUpQBwGFwT4DkM6o) | 3:50 | 2022-05-28 | 2022-06-03 |
 | [Fine Days](https://open.spotify.com/track/7IvySywtSMnhPm2pDPIDfj) | [諏訪ななか](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Fine Days](https://open.spotify.com/album/5G2H3tBsXRon4X7ska2MwG) | 3:40 | 2022-11-02 | 2022-12-07 |
 | [first death](https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [first death](https://open.spotify.com/album/1IbsEpB7SmkJSaeTajYw7R) | 4:01 | 2022-11-29 | 2023-01-13 |
+| [FLY & DIVE](https://open.spotify.com/track/1GyJ9861V1V5xddnmDIRpx) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [FLY & DIVE](https://open.spotify.com/album/5DQw8dUj4sorH7LFW6LBFc) | 3:44 | 2023-09-24 |  |
 | [Fly Away](https://open.spotify.com/track/5QLswL5FY0brw1yGXCGrdg) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fly Away](https://open.spotify.com/album/5bFzkvTOLC0iC6anD4wEsn) | 3:01 | 2023-04-01 | 2023-05-24 |
 | [Fly Away](https://open.spotify.com/track/60P9cFDj9TMUZpiUc0O1Rm) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fly Away](https://open.spotify.com/album/6qe4u576emFA48psNmvU4e) | 3:01 | 2023-04-01 | 2023-04-03 |
 | [Follow You!](https://open.spotify.com/track/6Vz2wRCUC46AFLKcsOctWr) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Follow You!](https://open.spotify.com/album/6TXA4m00EeLl10QlKW0PZP) | 3:40 | 2023-05-30 | 2023-07-07 |
@@ -603,7 +604,7 @@
 | [サムライハート\(Some Like It Hot!!\) \- New Version \-](https://open.spotify.com/track/4kAAFbY5pyUCgRtxxjysPM) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [サムライハート\(Some Like It Hot!!\) \-New Version\-](https://open.spotify.com/album/64UfMDi2h1SPbZH0Btb857) | 3:18 | 2023-06-08 | 2023-07-19 |
 | [シャル・ウィ・ダンス?](https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?](https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ) | 4:26 | 2022-07-12 | 2022-10-14 |
 | [シュガー・シュガー・スパイス](https://open.spotify.com/track/5EtOLv7nGSg2ENdoGIawwp) | [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz) | [シュガー・シュガー・スパイス](https://open.spotify.com/album/5bMZUNtbIraIVGF7FH9WYO) | 3:56 | 2022-10-27 | 2022-11-25 |
-| [シュワワ！](https://open.spotify.com/track/6i14Dt4OAf81mL91d6gei1) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [シュワワ！](https://open.spotify.com/album/6zKwI9Fs0yI6x1HIc5rRS8) | 3:42 | 2023-08-08 |  |
+| [シュワワ！](https://open.spotify.com/track/6i14Dt4OAf81mL91d6gei1) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [シュワワ！](https://open.spotify.com/album/6zKwI9Fs0yI6x1HIc5rRS8) | 3:42 | 2023-08-08 | 2023-09-25 |
 | [シュークリーム・ファンク](https://open.spotify.com/track/275ULfjS2XcfhP7u4XXyft) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [シュークリーム・ファンク](https://open.spotify.com/album/7CyrqVpM8tZFbhOJyHuI2o) | 3:35 | 2023-04-08 | 2023-07-05 |
 | [ジャーニーズ・トランク](https://open.spotify.com/track/5KyeSqbimlZlsy7ofZXw2T) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [ジャーニーズ・トランク](https://open.spotify.com/album/6OGSorkbD4Rgm6Haa0rbDe) | 4:20 | 2022-12-20 | 2023-01-06 |
 | [ジャーニーズ・トランク](https://open.spotify.com/track/1sk0w6ug8F6RXKA7iCZJcY) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [ジャーニーズ・トランク](https://open.spotify.com/album/6QC9ZNC4o9hzMsGBVs2NAQ) | 4:21 | 2022-12-20 | 2022-12-22 |
@@ -711,7 +712,7 @@
 | [五等分の軌跡](https://open.spotify.com/track/2x8LTwwFltPH8kjOThZaWu) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の軌跡](https://open.spotify.com/album/1LwNX4lCrDG1LJpFSMT11Z) | 4:09 | 2022-05-28 | 2022-07-27 |
 | [人なんだ](https://open.spotify.com/track/6CZzcCnBPSNIHKb1c29lB4) | [Suara](https://open.spotify.com/artist/4gaoQ5e8RCOVswub7zcfoV) | [人なんだ](https://open.spotify.com/album/0nKpIhPmduqYZ5e6o7pr0q) | 4:55 | 2022-07-28 | 2022-09-28 |
 | [人芝居](https://open.spotify.com/track/74sYtRs4LCDIpdBP8xDMSP) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [人芝居](https://open.spotify.com/album/7vRJFhwnCxhkQnk9SnSg4U) | 4:07 | 2022-07-05 | 2022-09-21 |
-| [今この瞬間を](https://open.spotify.com/track/3Qws2SXBbgEs1TyLoA1XFC) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [今この瞬間を](https://open.spotify.com/album/6cdk5VOBLQ2KpYu8ADzPwq) | 3:29 | 2023-07-18 |  |
+| [今この瞬間を](https://open.spotify.com/track/3Qws2SXBbgEs1TyLoA1XFC) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [今この瞬間を](https://open.spotify.com/album/6cdk5VOBLQ2KpYu8ADzPwq) | 3:29 | 2023-07-18 | 2023-09-25 |
 | [今を、生きる為に](https://open.spotify.com/track/578KbVViSYTjl713NHSYGx) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [今を、生きる為に](https://open.spotify.com/album/5LLoBEyJTODqQx81FWZLgR) | 4:46 | 2022-12-27 | 2023-01-18 |
 | [僕の存在証明](https://open.spotify.com/track/78seZJUexoZXLXzGcDb0Fo) | [YAKUSHIMARU Etsuko](https://open.spotify.com/artist/6h32A03szyWpPmQCZSJ4Mi) | [やくしまるえつこメトロオーケストラ \- 僕の存在証明](https://open.spotify.com/album/2zBxVave0oMTAW0myJctb9) | 6:03 | 2022-05-28 | 2022-07-08 |
 | [僕らが愚かだなんて誰が言った](https://open.spotify.com/track/1iXdAh0ctEUnzfr307V3mB) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [僕らが愚かだなんて誰が言った](https://open.spotify.com/album/7tVIIansxs3RkgIGhrLBZk) | 4:26 | 2022-05-28 | 2022-06-29 |
@@ -753,6 +754,7 @@
 | [壱雫空](https://open.spotify.com/track/4Ov105HP2yCcWhgP6DsaDO) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [壱雫空](https://open.spotify.com/album/4QuwzcnydyFVs20IoD8ttf) | 3:09 | 2023-06-29 | 2023-08-02 |
 | [夏の雪](https://open.spotify.com/track/4SJnBgbqNliUIfxigwQBcS) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [夏の雪](https://open.spotify.com/album/2O7PwmRoBvdiC6o2VUN5tj) | 4:42 | 2022-10-11 | 2023-01-11 |
 | [夏夢ノイジー\(TVSize\)](https://open.spotify.com/track/6jcncY7ZCJnPkJmzXgpl6s) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [夏夢ノイジー\(TVSize\)](https://open.spotify.com/album/2H365zwPM4W0fVbvUCEnWx) | 1:36 | 2022-07-07 | 2022-07-29 |
+| [夏暁](https://open.spotify.com/track/1viY1xpThPrBqZvaCjYqHJ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [夏暁](https://open.spotify.com/album/5N6ezwJ6Sr3pyupk8TV9ez) | 3:52 | 2023-09-24 |  |
 | [夕さりのカノン](https://open.spotify.com/track/37lVT9BHrBRUsLxYUOZw9x) | [粗品](https://open.spotify.com/artist/7xqEtCgCQWtiuvlkM5Wigc), [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [夕さりのカノン](https://open.spotify.com/album/0UpP21Crlupm1SaIE33tIy) | 3:11 | 2023-04-25 | 2023-07-05 |
 | [夢想的クロニクル](https://open.spotify.com/track/1gCtuZ1H0PbzBkNY1UIx6n) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [夢想的クロニクル](https://open.spotify.com/album/4NvsZjjP7cG1eTuK7Q1Q6w) | 4:01 | 2022-07-12 | 2022-07-29 |
 | [夢現、夏風薫る](https://open.spotify.com/track/5btlspRyO7f9Zvbiosu0KN) | [梶原岳人](https://open.spotify.com/artist/1ZSbJqrZp4HiQlhPPScaKG) | [夢現、夏風薫る](https://open.spotify.com/album/54cPWGbDrhtKQ6p7idmprT) | 4:30 | 2023-09-19 |  |

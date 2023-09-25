@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 76738,
+  "num_followers": 76899,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTQxNWE2N2IzM2Y3YmEzMTI0NTg1ZjQwNmY0MGZhODM3NWEzMTUw",
+  "snapshot_id": "MCw0NTdmNTI2NzcwZDY3YjUwY2RmZTVmMjM1YWI3NWVlMmVmNTk0NGQ2",
   "tracks": [
     {
       "added_at": "2023-09-02 00:01:21",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
-    },
-    {
-      "added_at": "2023-09-02 00:01:21",
-      "album": {
         "name": "Te Vi Na Rua",
         "url": "https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 174310,
       "name": "Te Vi Na Rua",
       "url": "https://open.spotify.com/track/7sJhzlcx24p2qjCl4gjhPw"
+    },
+    {
+      "added_at": "2023-09-02 00:01:21",
+      "album": {
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+      },
+      "artists": [
+        {
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -279,6 +279,22 @@
       "duration_ms": 154137,
       "name": "Idiota Raiz (Deixa Ir)",
       "url": "https://open.spotify.com/track/1T9yLjCFIh5IcE2NXjNPjd"
+    },
+    {
+      "added_at": "2023-09-02 00:01:21",
+      "album": {
+        "name": "Farol das Estrelas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "Farol das Estrelas - Ao Vivo",
+      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -339,22 +355,6 @@
       "duration_ms": 148965,
       "name": "Oceana",
       "url": "https://open.spotify.com/track/41F3OUGWKcsdIn1ujcx5hN"
-    },
-    {
-      "added_at": "2023-09-02 00:01:21",
-      "album": {
-        "name": "Farol das Estrelas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "Farol das Estrelas - Ao Vivo",
-      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -435,6 +435,26 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
+        "name": "Bloco Do Silva #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "Sozinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
+    },
+    {
+      "added_at": "2023-09-02 00:01:21",
+      "album": {
         "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
       },
@@ -447,22 +467,6 @@
       "duration_ms": 145304,
       "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
-    },
-    {
-      "added_at": "2023-09-02 00:01:21",
-      "album": {
-        "name": "Beleza Rara",
-        "url": "https://open.spotify.com/album/73QNNUQgxuX6fH9WNI4wCb"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 205411,
-      "name": "Beleza Rara",
-      "url": "https://open.spotify.com/track/5QELf6GWQ6hMURJhpYUNth"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -483,6 +487,22 @@
       "duration_ms": 164237,
       "name": "C\u00e9u Ros\u00e9",
       "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
+    },
+    {
+      "added_at": "2023-09-02 00:01:21",
+      "album": {
+        "name": "Beleza Rara",
+        "url": "https://open.spotify.com/album/73QNNUQgxuX6fH9WNI4wCb"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 205411,
+      "name": "Beleza Rara",
+      "url": "https://open.spotify.com/track/5QELf6GWQ6hMURJhpYUNth"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -523,26 +543,6 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "Bloco Do Silva #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "Sozinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
-    },
-    {
-      "added_at": "2023-09-02 00:01:21",
-      "album": {
         "name": "raiz",
         "url": "https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5"
       },
@@ -559,22 +559,22 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "Banho de Mar",
-        "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
+        "name": "Aroeira",
+        "url": "https://open.spotify.com/album/2UgKurYZr5NjpgWfmWKyMb"
       },
       "artists": [
         {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+          "name": "Murilo Chester",
+          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
         },
         {
-          "name": "Re.Significa",
-          "url": "https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ"
+          "name": "Casa Amarela",
+          "url": "https://open.spotify.com/artist/0WpQ43GRHEtGhC913ZwXYs"
         }
       ],
-      "duration_ms": 169531,
-      "name": "Banho de Mar",
-      "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
+      "duration_ms": 173354,
+      "name": "Aroeira",
+      "url": "https://open.spotify.com/track/0s7VE3dMS68jvco0GNNR5s"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -599,22 +599,22 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "Aroeira",
-        "url": "https://open.spotify.com/album/2UgKurYZr5NjpgWfmWKyMb"
+        "name": "Banho de Mar",
+        "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
       },
       "artists": [
         {
-          "name": "Murilo Chester",
-          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
         },
         {
-          "name": "Casa Amarela",
-          "url": "https://open.spotify.com/artist/0WpQ43GRHEtGhC913ZwXYs"
+          "name": "Re.Significa",
+          "url": "https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ"
         }
       ],
-      "duration_ms": 173354,
-      "name": "Aroeira",
-      "url": "https://open.spotify.com/track/0s7VE3dMS68jvco0GNNR5s"
+      "duration_ms": 169531,
+      "name": "Banho de Mar",
+      "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "O amor te d\u00e1",
-        "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/2aoZn4WaR7tmFKHb40p7Xw"
       },
       "artists": [
         {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+          "name": "Fino Coletivo",
+          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
         }
       ],
-      "duration_ms": 247812,
-      "name": "O amor te d\u00e1",
-      "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
+      "duration_ms": 238253,
+      "name": "Minha Menina Bonita",
+      "url": "https://open.spotify.com/track/1f2WAWsmxx6JKrKTBO46UU"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/2aoZn4WaR7tmFKHb40p7Xw"
+        "name": "O amor te d\u00e1",
+        "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
       },
       "artists": [
         {
-          "name": "Fino Coletivo",
-          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
         }
       ],
-      "duration_ms": 238253,
-      "name": "Minha Menina Bonita",
-      "url": "https://open.spotify.com/track/1f2WAWsmxx6JKrKTBO46UU"
+      "duration_ms": 247812,
+      "name": "O amor te d\u00e1",
+      "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
+        "name": "Lua Nova",
+        "url": "https://open.spotify.com/album/14AZf0JZKJgmls9y59eA2c"
+      },
+      "artists": [
+        {
+          "name": "PH Moraes",
+          "url": "https://open.spotify.com/artist/71p4sNYcu8jEUqJ69tfrVU"
+        },
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Lua Nova",
+      "url": "https://open.spotify.com/track/5uZDrsNXW8qUuP9pli1CO3"
+    },
+    {
+      "added_at": "2023-09-02 00:01:21",
+      "album": {
         "name": "Entre Homens e Autom\u00f3veis",
         "url": "https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 189882,
       "name": "Mais Perto",
       "url": "https://open.spotify.com/track/2CgP6wLHomU7h1sMGCXIBC"
-    },
-    {
-      "added_at": "2023-09-02 00:01:21",
-      "album": {
-        "name": "Sem Filtro (Ao Vivo em Noronha)",
-        "url": "https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg"
-      },
-      "artists": [
-        {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 184914,
-      "name": "Louca - Ao Vivo",
-      "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -1071,22 +1071,22 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "Lua Nova",
-        "url": "https://open.spotify.com/album/14AZf0JZKJgmls9y59eA2c"
+        "name": "Sem Filtro (Ao Vivo em Noronha)",
+        "url": "https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg"
       },
       "artists": [
         {
-          "name": "PH Moraes",
-          "url": "https://open.spotify.com/artist/71p4sNYcu8jEUqJ69tfrVU"
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
         },
         {
-          "name": "Marina Peralta",
-          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 161250,
-      "name": "Lua Nova",
-      "url": "https://open.spotify.com/track/5uZDrsNXW8qUuP9pli1CO3"
+      "duration_ms": 184914,
+      "name": "Louca - Ao Vivo",
+      "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
     },
     {
       "added_at": "2023-09-02 00:01:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,275 likes - 96 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,280 likes - 96 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 75 | [Devastation \(with PAMÉ\)](https://open.spotify.com/track/6oxH7cP0JbbICm8DdVYta9) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [Devastation \(with PAMÉ\)](https://open.spotify.com/album/1yFtcNjSezziWM0lXQAT5h) | 3:22 |
 | 76 | [keep a window open//](https://open.spotify.com/track/32Y6HMKVOnPXqmtOr8TR4j) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [keep a window open//](https://open.spotify.com/album/5YJXQWhjuBdthyBOewxTql) | 2:30 |
 | 77 | [Burn](https://open.spotify.com/track/7xusJWTJfFsyNw0SJYICfv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/2pwTxu5gfazogIb5zYaLhf) | 2:23 |
-| 78 | [give in to you](https://open.spotify.com/track/30uhhtCSKgdM41GpWRpLVJ) | [Lau Heung King](https://open.spotify.com/artist/4hoaMY482rsnuWzyVaa6Ql) | [give in to you](https://open.spotify.com/album/5dN9X6OlySq4wet8HP1Gfi) | 3:04 |
+| 78 | [give in to you](https://open.spotify.com/track/30uhhtCSKgdM41GpWRpLVJ) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [give in to you](https://open.spotify.com/album/5dN9X6OlySq4wet8HP1Gfi) | 3:04 |
 | 79 | [Lucent Tides](https://open.spotify.com/track/3LRwgm5Ws5deslamMvfFJX) | [Fourtwosixx](https://open.spotify.com/artist/22ayfWee5bg0mVkWFMEhgE), [Stella Kana](https://open.spotify.com/artist/5FEcv3g5zmaSJgnEVjMh1G) | [Lucent Tides](https://open.spotify.com/album/0NKWKMXxwK9S9LkyEiAPdU) | 4:28 |
 | 80 | [To The Bank](https://open.spotify.com/track/09Dw0K3RIvQR5bmrbQZIzr) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [To The Bank](https://open.spotify.com/album/21MKeEtRDAKYVLlTJW5NOb) | 2:42 |
 | 81 | [Lifetime](https://open.spotify.com/track/0jVRZSyLXC48J2G66b12Ms) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Lifetime](https://open.spotify.com/album/6PvL70jTGrQAekjocgG620) | 5:06 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 95 | [Main Thing](https://open.spotify.com/track/1aSjnYP1J124WyGB7MsJ5X) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Main Thing](https://open.spotify.com/album/5ZNijsH0jWLSZiD7BDB0YB) | 2:16 |
 | 96 | [Rodeo](https://open.spotify.com/track/7cD3GOKnMPgW4m37meuv3J) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Rodeo](https://open.spotify.com/album/3qRfgIajUoPGnLDZSlX33g) | 2:35 |
 
-Snapshot ID: `MCxjOTFjZjBkZWZlZmRkMGI1Yzc2YTE1MzllYmM5MmY3MjkzYWM1NDFm`
+Snapshot ID: `MCxkMTFmMzk5NWFhM2I3ZTM1OTZhN2FjNjYxNWUxZDE3ZGRhOGU0NjJk`

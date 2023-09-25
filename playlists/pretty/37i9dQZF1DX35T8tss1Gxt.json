@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz?si=e38a49f3f17a4147\">Dante Bowe</a>",
-  "num_followers": 213285,
+  "num_followers": 213423,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2U5MjJlYjMxOTZhY2FlNWMyZmRmOWUwMmY5Zjg0ZmZhZmNiZTk1",
+  "snapshot_id": "MCxkMzY5NDNjYmZiMGJiMGZjZjZkMWY1NWFlYzIzYTEzNTM3NTJlOGIy",
   "tracks": [
     {
       "added_at": "2023-07-21 11:58:05",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Home Called Heaven",
-        "url": "https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 227719,
-      "name": "Home Called Heaven",
-      "url": "https://open.spotify.com/track/1RUgjAvt8majG62li8evpf"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "Get to Me",
         "url": "https://open.spotify.com/album/56aVzknaQ0OunipgBpWn4y"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 198373,
       "name": "Get to Me",
       "url": "https://open.spotify.com/track/2LRIT8uc9Xj6qZDGwAXFhT"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "Home Called Heaven",
+        "url": "https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 227719,
+      "name": "Home Called Heaven",
+      "url": "https://open.spotify.com/track/1RUgjAvt8majG62li8evpf"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -543,6 +543,42 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
+        "name": "Big God",
+        "url": "https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        },
+        {
+          "name": "Buchi",
+          "url": "https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Big God",
+      "url": "https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "Hold On Me",
+        "url": "https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 172113,
+      "name": "Hold On Me",
+      "url": "https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
         "name": "Way Home",
         "url": "https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm"
       },
@@ -571,42 +607,6 @@
       "duration_ms": 191476,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
-        "name": "Hold On Me",
-        "url": "https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 172113,
-      "name": "Hold On Me",
-      "url": "https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
-        "name": "Big God",
-        "url": "https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP"
-      },
-      "artists": [
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        },
-        {
-          "name": "Buchi",
-          "url": "https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Big God",
-      "url": "https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "My Worship",
-        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
-      },
-      "artists": [
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 201938,
-      "name": "My Worship",
-      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 147604,
       "name": "Has anyone ever left you high and dry?",
       "url": "https://open.spotify.com/track/2F5hDBihY3yLQhoznHGDed"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "My Worship",
+        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 201938,
+      "name": "My Worship",
+      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
+        "name": "more like you",
+        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
+      },
+      "artists": [
+        {
+          "name": "Reed Deming",
+          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "more like you",
+      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
         "name": "Kingdom Business: Season 1",
         "url": "https://open.spotify.com/album/3BHQ2gvtr6npNexUhaGKJ1"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 248926,
       "name": "Crazy Kinda Love",
       "url": "https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
-        "name": "more like you",
-        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
-      },
-      "artists": [
-        {
-          "name": "Reed Deming",
-          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "more like you",
-      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Motive",
-        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
-      },
-      "artists": [
-        {
-          "name": "Kennis Clark",
-          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Motive",
-      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "pillow soft",
         "url": "https://open.spotify.com/album/27ToXf5vltBPO8rnssYEUp"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 143439,
       "name": "pillow soft",
       "url": "https://open.spotify.com/track/0t8fKvRdEPoDf7995BN5gX"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
+      },
+      "artists": [
+        {
+          "name": "Kennis Clark",
+          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Motive",
+      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Young Love",
-        "url": "https://open.spotify.com/album/2eviPVL3x8z0RBqV3YGQwg"
-      },
-      "artists": [
-        {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
-        }
-      ],
-      "duration_ms": 263791,
-      "name": "Young Love",
-      "url": "https://open.spotify.com/track/2j85h5KZCPzIH5toHo42kd"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "Ultimate Self",
         "url": "https://open.spotify.com/album/7GNJ7E8VAFTktjPHM5xFbd"
       },
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
+        "name": "Young Love",
+        "url": "https://open.spotify.com/album/2eviPVL3x8z0RBqV3YGQwg"
+      },
+      "artists": [
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "duration_ms": 263791,
+      "name": "Young Love",
+      "url": "https://open.spotify.com/track/2j85h5KZCPzIH5toHo42kd"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
       },
@@ -1263,26 +1263,6 @@
       "duration_ms": 235994,
       "name": "Okay",
       "url": "https://open.spotify.com/track/0PSiRaqS435Yg2EReUCm0p"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
-        "name": "Godfidence",
-        "url": "https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku"
-      },
-      "artists": [
-        {
-          "name": "Kennis Clark",
-          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
-        },
-        {
-          "name": "Kristelle",
-          "url": "https://open.spotify.com/artist/1tSoHKZsP9949r1PCPJrr9"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Godfidence",
-      "url": "https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1323,6 +1303,26 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
+        "name": "Godfidence",
+        "url": "https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku"
+      },
+      "artists": [
+        {
+          "name": "Kennis Clark",
+          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
+        },
+        {
+          "name": "Kristelle",
+          "url": "https://open.spotify.com/artist/1tSoHKZsP9949r1PCPJrr9"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Godfidence",
+      "url": "https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
         "name": "MAN-UH",
         "url": "https://open.spotify.com/album/04foyPb4nLC1gaOimMYPFe"
       },
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx"
+        "name": "Let You In",
+        "url": "https://open.spotify.com/album/3Cc6mAPJrSzD7jRMmvxudJ"
       },
       "artists": [
         {
-          "name": "Pauline Zoe Park",
-          "url": "https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T"
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
         }
       ],
-      "duration_ms": 211209,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD"
+      "duration_ms": 203023,
+      "name": "Let You In",
+      "url": "https://open.spotify.com/track/4DRdaM4ItZyTXVTtJQbsCr"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Let You In",
-        "url": "https://open.spotify.com/album/3Cc6mAPJrSzD7jRMmvxudJ"
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx"
       },
       "artists": [
         {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+          "name": "Pauline Zoe Park",
+          "url": "https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T"
         }
       ],
-      "duration_ms": 203023,
-      "name": "Let You In",
-      "url": "https://open.spotify.com/track/4DRdaM4ItZyTXVTtJQbsCr"
+      "duration_ms": 211209,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1451,34 +1451,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Vol 3",
-        "url": "https://open.spotify.com/album/6XNIUHPboj5X6br6mTkpFi"
-      },
-      "artists": [
-        {
-          "name": "Bay Worship Collective",
-          "url": "https://open.spotify.com/artist/0sqo3WtvwFbQzu9eMRWOuT"
-        },
-        {
-          "name": "Josh Manongdo",
-          "url": "https://open.spotify.com/artist/2k86aeAGM873qCIVSGImKe"
-        },
-        {
-          "name": "Sarita Canel",
-          "url": "https://open.spotify.com/artist/5sUMPqfzRZPTsNbmguPX9N"
-        },
-        {
-          "name": "Ariel Catanyag",
-          "url": "https://open.spotify.com/artist/2dmtwwOZ1U96RuKPLVitgt"
-        }
-      ],
-      "duration_ms": 281250,
-      "name": "Thanks and Praise",
-      "url": "https://open.spotify.com/track/4RgrucjGNOmcNo2NF7hsYb"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "polaroids.",
         "url": "https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL"
       },
@@ -1495,6 +1467,22 @@
       "duration_ms": 155688,
       "name": "who.",
       "url": "https://open.spotify.com/track/4nz2Tku7f6FyEE0WZfd2mZ"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
+      },
+      "artists": [
+        {
+          "name": "Daphne Richardson",
+          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1527,18 +1515,30 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
+        "name": "Vol 3",
+        "url": "https://open.spotify.com/album/6XNIUHPboj5X6br6mTkpFi"
       },
       "artists": [
         {
-          "name": "Daphne Richardson",
-          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
+          "name": "Bay Worship Collective",
+          "url": "https://open.spotify.com/artist/0sqo3WtvwFbQzu9eMRWOuT"
+        },
+        {
+          "name": "Josh Manongdo",
+          "url": "https://open.spotify.com/artist/2k86aeAGM873qCIVSGImKe"
+        },
+        {
+          "name": "Sarita Canel",
+          "url": "https://open.spotify.com/artist/5sUMPqfzRZPTsNbmguPX9N"
+        },
+        {
+          "name": "Ariel Catanyag",
+          "url": "https://open.spotify.com/artist/2dmtwwOZ1U96RuKPLVitgt"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
+      "duration_ms": 281250,
+      "name": "Thanks and Praise",
+      "url": "https://open.spotify.com/track/4RgrucjGNOmcNo2NF7hsYb"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Amidst",
-        "url": "https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL"
-      },
-      "artists": [
-        {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Erica Bostick",
-          "url": "https://open.spotify.com/artist/4nd82r9V5SLx3xQTuwSwLn"
-        }
-      ],
-      "duration_ms": 240500,
-      "name": "Grounded",
-      "url": "https://open.spotify.com/track/5Xr1ZmaHuUxp7cIuIK9Aly"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "Simple Ways",
         "url": "https://open.spotify.com/album/7vs8N6AbGXg8i0K4y6aEpc"
       },
@@ -1711,6 +1691,26 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
+        "name": "Amidst",
+        "url": "https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL"
+      },
+      "artists": [
+        {
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Erica Bostick",
+          "url": "https://open.spotify.com/artist/4nd82r9V5SLx3xQTuwSwLn"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "Grounded",
+      "url": "https://open.spotify.com/track/5Xr1ZmaHuUxp7cIuIK9Aly"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY"
       },
@@ -1723,6 +1723,22 @@
       "duration_ms": 186337,
       "name": "You",
       "url": "https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "Bad To The Bone",
+        "url": "https://open.spotify.com/album/7KHmdsP2gT7wwUWyNMnnMH"
+      },
+      "artists": [
+        {
+          "name": "Yung Kriss",
+          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
+        }
+      ],
+      "duration_ms": 161584,
+      "name": "Bad To The Bone",
+      "url": "https://open.spotify.com/track/72uOlb4ynq8xEWHhfYGGMl"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1747,26 +1763,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "I Surrender All (Allt till Jesus)",
-        "url": "https://open.spotify.com/album/6ipfGbwsNXM67WKpoyN3EG"
-      },
-      "artists": [
-        {
-          "name": "Ri-An",
-          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
-        },
-        {
-          "name": "Tommy Iceland",
-          "url": "https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU"
-        }
-      ],
-      "duration_ms": 192968,
-      "name": "I Surrender All (Allt till Jesus)",
-      "url": "https://open.spotify.com/track/0YbNff7JhsieHxmHFgEuzX"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "Nothing To Something",
         "url": "https://open.spotify.com/album/7xSHG5Qj1WZJ0ykFgnMwjY"
       },
@@ -1783,18 +1779,22 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Bad To The Bone",
-        "url": "https://open.spotify.com/album/7KHmdsP2gT7wwUWyNMnnMH"
+        "name": "I Surrender All (Allt till Jesus)",
+        "url": "https://open.spotify.com/album/6ipfGbwsNXM67WKpoyN3EG"
       },
       "artists": [
         {
-          "name": "Yung Kriss",
-          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
+          "name": "Ri-An",
+          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
+        },
+        {
+          "name": "Tommy Iceland",
+          "url": "https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU"
         }
       ],
-      "duration_ms": 161584,
-      "name": "Bad To The Bone",
-      "url": "https://open.spotify.com/track/72uOlb4ynq8xEWHhfYGGMl"
+      "duration_ms": 192968,
+      "name": "I Surrender All (Allt till Jesus)",
+      "url": "https://open.spotify.com/track/0YbNff7JhsieHxmHFgEuzX"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Lean on the Lord",
-        "url": "https://open.spotify.com/album/4Q2apaYoaJfqEz0aFep7xl"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 214903,
-      "name": "Lean on the Lord",
-      "url": "https://open.spotify.com/track/1YEShExhORN9sq3CmGMDJ3"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "Preach",
         "url": "https://open.spotify.com/album/6EujkT5oqXhCfzmXFJS7Vj"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 180000,
       "name": "Preach",
       "url": "https://open.spotify.com/track/5mzY0sgr4IfN9MI8lDU3Zv"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "Lean on the Lord",
+        "url": "https://open.spotify.com/album/4Q2apaYoaJfqEz0aFep7xl"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 214903,
+      "name": "Lean on the Lord",
+      "url": "https://open.spotify.com/track/1YEShExhORN9sq3CmGMDJ3"
     },
     {
       "added_at": "2023-07-21 11:58:05",

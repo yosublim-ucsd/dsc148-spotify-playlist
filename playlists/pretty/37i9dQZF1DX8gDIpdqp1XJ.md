@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,823 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,800 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 19 | [Wagging Tongue \- Wet Leg Remix](https://open.spotify.com/track/5yxtxZ7IfGO18XHbRJxtkd) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wagging Tongue \(Remixes\)](https://open.spotify.com/album/3Oc7qOr81qHQIfNMjdEU1H) | 4:38 |
 | 20 | [It's Only You](https://open.spotify.com/track/4XNFRGDxbNppqGovD1lg2u) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [It's Only You](https://open.spotify.com/album/1tJ5NCd8wSi7cS1dDQdd0M) | 3:21 |
 | 21 | [Always](https://open.spotify.com/track/5uHgKIUzqrpRt10p1crJma) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Always](https://open.spotify.com/album/1vBq4EJTv9SxqYJ01tCZDp) | 3:27 |
-| 22 | [Sirens](https://open.spotify.com/track/6rjxyDTlJCGqo1XQ6vrq5R) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Sirens](https://open.spotify.com/album/5jtOLGuMV0eYTHJptwgI1D) | 4:28 |
+| 22 | [Sirens](https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 4:28 |
 | 23 | [The Great American Picnic](https://open.spotify.com/track/48AgoVXugpMSwRm9eAiKEj) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [When Horses Would Run](https://open.spotify.com/album/4Zb3FQcdXKngObTXue6FZf) | 2:16 |
 | 24 | [Reality/Nostalgia](https://open.spotify.com/track/5ufzQWGIyZV7b4hzwEsU8R) | [Pink Skies](https://open.spotify.com/artist/52hSI2C4N5tiTqSRIvWfyV) | [Reality/Nostalgia](https://open.spotify.com/album/4ZEcYPg2Vx8xb4gwwKFErN) | 3:53 |
 | 25 | [It's Ok \(it's Not Ok\)](https://open.spotify.com/track/4InJf4lGFizBLNnmAd2dzq) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [DREAM SOUP](https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP) | 3:04 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 46 | [The Skin And The Glove](https://open.spotify.com/track/5OWzC2szdxlxz1Pbx4Lj9n) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [An Object In Motion](https://open.spotify.com/album/3mTGLl8U9ZyNA1CnbHISgD) | 6:02 |
 | 47 | [Love It Is Not Love](https://open.spotify.com/track/6Vt9VWwLberr7ByuYsTmti) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw), [The Shacks](https://open.spotify.com/artist/6vqxTQz5ZOfRSQZWfes7mR) | [Love It Is Not Love](https://open.spotify.com/album/4NhcBOfwaQODR4OY3boMSV) | 3:39 |
 | 48 | [Iggy](https://open.spotify.com/track/2HKILv0izIotCwJeBsnmpP) | [Chelsea Days](https://open.spotify.com/artist/0Ix2QkyM31FfPRCQjnkttP) | [sincerely,](https://open.spotify.com/album/5p24JDgC6pO7shv1OmX2dO) | 2:53 |
-| 49 | [Twin](https://open.spotify.com/track/0cSsInmUJiXyxUWtLxaHjq) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Twin](https://open.spotify.com/album/4isUn6sML2OYlUq8tFxU9S) | 6:00 |
+| 49 | [Twin](https://open.spotify.com/track/4fHfYHQCg4xOwnjdS35lH4) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 6:00 |
 | 50 | [My Grandma Says We Have No Future](https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [My Grandma Says We Have No Future](https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o) | 2:54 |
 | 51 | [Gay Days \- Bonus Track](https://open.spotify.com/track/0ooYPyv6xa8EZYbigLcsAo) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Gay Days](https://open.spotify.com/album/5lQfWYN9oYdYFMakRSk8UA) | 3:30 |
 | 52 | [Sunshine](https://open.spotify.com/track/16LiikrNSmBq35Fp7s9PjJ) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Fresh As A Head Of Lettuce](https://open.spotify.com/album/7aDruEppNXesqQkoAHcW6L) | 3:41 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 60 | [Natural Form](https://open.spotify.com/track/60Oujdr8ytHABaPlKeGjsJ) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Easy Listening](https://open.spotify.com/album/7tC9rKANwW84UPxA22zbzo) | 3:09 |
 | 61 | [All Depends on You](https://open.spotify.com/track/4kIMpGDL8hxjK6Z1b21RHP) | [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v), [Will Fox](https://open.spotify.com/artist/7c7k5fRzBsUmyyGuU5pj67) | [All Depends on You](https://open.spotify.com/album/34KHMjrWFJlXwq11lIhFNr) | 3:19 |
 | 62 | [Dust Bunny](https://open.spotify.com/track/4QTHlDa9mWxjzBdD17XjUl) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Dust Bunny](https://open.spotify.com/album/0qMEPsD1rNIgtJ5dBdBtro) | 3:04 |
-| 63 | [Scattered Dreams](https://open.spotify.com/track/44IYLlpl5cPvqQH9Ff6GhQ) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Scattered Dreams](https://open.spotify.com/album/2nEeFzRFh8ppWwAvlVtgPv) | 3:54 |
+| 63 | [Scattered Dreams](https://open.spotify.com/track/73h8sk37Djar1B3LV3A6nQ) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Time Lapsed](https://open.spotify.com/album/2rzaUdlBmCJt9f5KjT2HDE) | 3:54 |
 | 64 | [Everything Unspoken](https://open.spotify.com/track/2pTGZ8uKH5xwwsUYVGZVbH) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Everything Unspoken](https://open.spotify.com/album/4zMnF8DIMnTyvrSdH24q8w) | 3:49 |
 | 65 | [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 |
 | 66 | [Mirror](https://open.spotify.com/track/4pY31Bh2ErqBXVEOaRUDxX) | [Rusty Santos](https://open.spotify.com/artist/62in8jmY3oFPiBLYlviXSw), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Mirror](https://open.spotify.com/album/21NQ1l4xUaVRBEdYc8lW9Q) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [Low Lights and Throwback Tunes](https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM) | [common goldfish](https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F) | [Low Lights and Throwback Tunes](https://open.spotify.com/album/7gKrqg4cpCrDFhApfYmnXF) | 4:07 |
 | 100 | [2 Steppin'](https://open.spotify.com/track/4cbV9dRnFNNsfc5B6RAbLX) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [2 Steppin'](https://open.spotify.com/album/7gEURTKTw4fIvmmnSxT16h) | 2:50 |
 
-Snapshot ID: `MCwyYjk4Y2ZlODgwOWIxODk4NDViNDkwNWQwM2I1MTU3MzA4NDY4Y2M5`
+Snapshot ID: `MCxkMzBjNGI5YTAwYmI5OGViYjNiMDUwZDVlZjZhM2JlNDExNjg2ODlk`

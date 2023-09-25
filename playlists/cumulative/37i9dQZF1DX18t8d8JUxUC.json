@@ -659,6 +659,24 @@
     },
     {
       "album": {
+        "name": "Ganas de Dejarte",
+        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
+      },
+      "artists": [
+        {
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139688,
+      "name": "Ganas de Dejarte",
+      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
+    },
+    {
+      "album": {
         "name": "Lisboa",
         "url": "https://open.spotify.com/album/4GhLuGhfn4tJ3bnT1pK4Gz"
       },
@@ -1412,7 +1430,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 209200,
       "name": "Recuerdo",
       "url": "https://open.spotify.com/track/3LMgh9j8noZZnredEUYlDC"

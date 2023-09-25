@@ -2306,7 +2306,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 140013,
       "name": "Ay Cari\u00f1o",
       "url": "https://open.spotify.com/track/05GZJN3FA5uHicXdJGpj7i"
@@ -4711,6 +4711,28 @@
     },
     {
       "album": {
+        "name": "Code Con Sprite",
+        "url": "https://open.spotify.com/album/16Se32zA6eykzAZhWWncKH"
+      },
+      "artists": [
+        {
+          "name": "EleFlow ElAlien",
+          "url": "https://open.spotify.com/artist/7p1nNLuf0jzc60GCanEGBX"
+        },
+        {
+          "name": ". Cris Mj",
+          "url": "https://open.spotify.com/artist/17oj6L3lZ9xYrtzTUxqQqF"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194638,
+      "name": "Code Con Sprite",
+      "url": "https://open.spotify.com/track/6VA0v4ZxYhjYyp4iw1JOij"
+    },
+    {
+      "album": {
         "name": "Hasta el Fin Del Mundo",
         "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
       },
@@ -7102,7 +7124,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 140706,
       "name": "El Guat\u00f3n Loyola",
       "url": "https://open.spotify.com/track/3aFCdWQnmCskffgpP9UN8L"
@@ -12942,7 +12964,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 111960,
       "name": "Los Viejos Estandartes",
       "url": "https://open.spotify.com/track/3LhhnpM828NTPHuQIAFqkW"
@@ -16318,7 +16340,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 148314,
       "name": "No Me Sueltes",
       "url": "https://open.spotify.com/track/0nxTx0b1KOKwycQESSeZym"
@@ -19728,7 +19750,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 172797,
       "name": "QLONA",
       "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"

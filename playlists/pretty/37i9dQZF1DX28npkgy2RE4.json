@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Brent Cobb",
-  "num_followers": 413480,
+  "num_followers": 413507,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjlmN2EwYmY5NTMwMTlhOWRjMzE5YjU1N2EwMDM1ZDVjN2JhMGFl",
+  "snapshot_id": "MCxlOTZkMjIzMzIyYmVhODIyY2Q1MTU2MmU5ZGZjNzI3YTJjOTQ2ZmNi",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 187388,
-      "name": "Certainty",
-      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Best Day Of My Life",
         "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 146895,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 187388,
+      "name": "Certainty",
+      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 265920,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Ready or Not (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 192901,
       "name": "Ready or Not (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Remind Me Tomorrow",
-        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 265920,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Fits Of Laughter",
-        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Sugar in the Creek",
-      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Tomb",
         "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Worry No More",
-        "url": "https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL"
+        "name": "Fits Of Laughter",
+        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
       },
       "artists": [
         {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
         }
       ],
-      "duration_ms": 221066,
-      "name": "Worry No More",
-      "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
+      "duration_ms": 251746,
+      "name": "Sugar in the Creek",
+      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -743,6 +727,22 @@
       "duration_ms": 266756,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Worry No More",
+        "url": "https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Worry No More",
+      "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Old Bone / Trust No Man",
-        "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 187120,
-      "name": "Old Bone",
-      "url": "https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Song For Our Daughter",
         "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 247920,
       "name": "Held Down",
       "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Old Bone / Trust No Man",
+        "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 187120,
+      "name": "Old Bone",
+      "url": "https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "The Wire",
         "url": "https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc"
       },
@@ -1311,34 +1295,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Wilderado",
-        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
+        "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
       },
       "artists": [
         {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
         }
       ],
-      "duration_ms": 220405,
-      "name": "Help Me Down",
-      "url": "https://open.spotify.com/track/564vp2eEPOegtvHjnkhnhs"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "I'm Not Sorry, I Was Just Being Me",
-        "url": "https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC"
-      },
-      "artists": [
-        {
-          "name": "King Hannah",
-          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
-        }
-      ],
-      "duration_ms": 209603,
-      "name": "All Being Fine",
-      "url": "https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ"
+      "duration_ms": 223453,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1375,6 +1343,38 @@
       "duration_ms": 199123,
       "name": "I Know You Know Me (With Matt Berninger)",
       "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 220405,
+      "name": "Help Me Down",
+      "url": "https://open.spotify.com/track/564vp2eEPOegtvHjnkhnhs"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "I'm Not Sorry, I Was Just Being Me",
+        "url": "https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC"
+      },
+      "artists": [
+        {
+          "name": "King Hannah",
+          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
+        }
+      ],
+      "duration_ms": 209603,
+      "name": "All Being Fine",
+      "url": "https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "I Think Of Angels",
+      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "To Love",
         "url": "https://open.spotify.com/album/2FK4yXQGrYTLS1DjKavwoe"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 216189,
       "name": "Every Day's A Lesson In Humility",
       "url": "https://open.spotify.com/track/0rUHnNylp4QiqLOx3hL2EY"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "I Think Of Angels",
-      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Desert Woman",
-        "url": "https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 256402,
-      "name": "Desert Woman",
-      "url": "https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "In The Blossom of Their Shade",
         "url": "https://open.spotify.com/album/34QLCed0oGYCeSJLSNQmuf"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 236813,
       "name": "Lose This Number",
       "url": "https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Desert Woman",
+        "url": "https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 256402,
+      "name": "Desert Woman",
+      "url": "https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1711,6 +1711,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Deli Daydreams",
+        "url": "https://open.spotify.com/album/46PFhovdF7y9Q3Z7qdCohx"
+      },
+      "artists": [
+        {
+          "name": "Kojaque",
+          "url": "https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY"
+        },
+        {
+          "name": "Kean Kavanagh",
+          "url": "https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B"
+        }
+      ],
+      "duration_ms": 294296,
+      "name": "Eviction Notice",
+      "url": "https://open.spotify.com/track/2BGC8XJPFRm3f7ZX2FRPNy"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Shabang",
         "url": "https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv"
       },
@@ -1739,26 +1759,6 @@
       "duration_ms": 214748,
       "name": "Brooklyn Baby",
       "url": "https://open.spotify.com/track/5KSvKQn5QPkHc8QqObqZcC"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Deli Daydreams",
-        "url": "https://open.spotify.com/album/46PFhovdF7y9Q3Z7qdCohx"
-      },
-      "artists": [
-        {
-          "name": "Kojaque",
-          "url": "https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY"
-        },
-        {
-          "name": "Kean Kavanagh",
-          "url": "https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B"
-        }
-      ],
-      "duration_ms": 294296,
-      "name": "Eviction Notice",
-      "url": "https://open.spotify.com/track/2BGC8XJPFRm3f7ZX2FRPNy"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Show Up",
-        "url": "https://open.spotify.com/album/1JD1hz1p5bnIX0AE8svwtY"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 201053,
-      "name": "Show Up",
-      "url": "https://open.spotify.com/track/1p17XN8yqoY5LHEG0Inqam"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Spin It Faster",
         "url": "https://open.spotify.com/album/1T6SLtqelpeRnPQAG2ehKI"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 236217,
       "name": "Spin It Faster",
       "url": "https://open.spotify.com/track/65kIGQ8TIXVLKxcZahctVO"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Show Up",
+        "url": "https://open.spotify.com/album/1JD1hz1p5bnIX0AE8svwtY"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 201053,
+      "name": "Show Up",
+      "url": "https://open.spotify.com/track/1p17XN8yqoY5LHEG0Inqam"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Fever Breaks",
+        "url": "https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 286440,
+      "name": "Old Black Magic",
+      "url": "https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Still Life (feat. Joseph)",
         "url": "https://open.spotify.com/album/3Xk3lT15u68kn5kxyCdGGs"
       },
@@ -1883,22 +1899,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Fever Breaks",
-        "url": "https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 286440,
-      "name": "Old Black Magic",
-      "url": "https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Different Kinds of Light",
         "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Note to Self",
-        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
-      },
-      "artists": [
-        {
-          "name": "Bre Kennedy",
-          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "I (motsi)",
         "url": "https://open.spotify.com/album/5MMU5axa9ADuQuhoeoah4G"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 197437,
       "name": "It's a good day (to fight the system)",
       "url": "https://open.spotify.com/track/0NB9wJK1drissTXrrgj63w"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Note to Self",
+        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
+      },
+      "artists": [
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1995,18 +1995,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Strange Weather",
-        "url": "https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF"
+        "name": "Snowplow",
+        "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
       },
       "artists": [
         {
-          "name": "Slaughter Beach, Dog",
-          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        },
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
         }
       ],
-      "duration_ms": 208817,
-      "name": "Strange Weather",
-      "url": "https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS"
+      "duration_ms": 161776,
+      "name": "Snowplow",
+      "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2027,22 +2031,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Snowplow",
-        "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
+        "name": "Strange Weather",
+        "url": "https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF"
       },
       "artists": [
         {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        },
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+          "name": "Slaughter Beach, Dog",
+          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
         }
       ],
-      "duration_ms": 161776,
-      "name": "Snowplow",
-      "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
+      "duration_ms": 208817,
+      "name": "Strange Weather",
+      "url": "https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Satan / Jacob Rose",
-        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 196264,
-      "name": "Satan",
-      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "August",
         "url": "https://open.spotify.com/album/1MLYRx0yyQKW7TyFvSye5z"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 168000,
       "name": "August",
       "url": "https://open.spotify.com/track/1P3bMnRagrHsJxjh2O2S8w"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Satan / Jacob Rose",
+        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 196264,
+      "name": "Satan",
+      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Nun",
-        "url": "https://open.spotify.com/album/7j1ejF21Qf7iyg9KJztFnF"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 208662,
-      "name": "Nun",
-      "url": "https://open.spotify.com/track/2cDNCAsL794kS4lRg3Bpvl"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Cosmic Dancer",
         "url": "https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn"
       },
@@ -2315,6 +2299,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Nun",
+        "url": "https://open.spotify.com/album/7j1ejF21Qf7iyg9KJztFnF"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 208662,
+      "name": "Nun",
+      "url": "https://open.spotify.com/track/2cDNCAsL794kS4lRg3Bpvl"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Practice Magic and Seek Professional Help When Necessary",
         "url": "https://open.spotify.com/album/2f5KpUAT9lDedlKG3PQLQz"
       },
@@ -2327,6 +2327,22 @@
       "duration_ms": 161972,
       "name": "Song to Make You Fall in Love With Me",
       "url": "https://open.spotify.com/track/6uamXLhBaOLWaDkaftKTzr"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Warm Chris",
+        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Lawn",
+      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2359,22 +2375,6 @@
       "duration_ms": 225484,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Warm Chris",
-        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Lawn",
-      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
     },
     {
       "added_at": "2023-09-22 04:00:00",

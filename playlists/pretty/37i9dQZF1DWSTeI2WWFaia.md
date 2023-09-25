@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Mick Jenkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,623,179 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,623,231 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 46 | [Super Rare \(feat\. Hello O'Shay\)](https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Protea](https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk) | 3:20 |
 | 47 | [Andre 3000 \(feat\. Bangladesh\)](https://open.spotify.com/track/1Bm1hJhiao6NAT06jCdEsU) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [7xvethegenius](https://open.spotify.com/artist/3qIgGknqPwbSOTd6aLmah5), [Bangladesh](https://open.spotify.com/artist/0lKIUVjGFoPfBH6nXfudEx) | [Conway The Machine Presents: Drumwork The Album](https://open.spotify.com/album/23duSQFjfpcwNRHhYJmT2L) | 4:29 |
 | 48 | [Runway](https://open.spotify.com/track/1OnukNKu7NWY4ouTc7w26u) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB) | [Runway](https://open.spotify.com/album/5pKCdjwCiOVwVVy28d2sFV) | 3:06 |
-| 49 | [MARATHON](https://open.spotify.com/track/4YsYeD30IRuVA4BnG2qRKY) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [MARATHON](https://open.spotify.com/album/3Fw74FRQhHTDA57xb2O3ki) | 3:17 |
-| 50 | [$outhside Story ft\. Common](https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Victor](https://open.spotify.com/album/5wa0dQzg8Qe4L28za33DcH) | 3:16 |
+| 49 | [$outhside Story ft\. Common](https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Victor](https://open.spotify.com/album/5wa0dQzg8Qe4L28za33DcH) | 3:16 |
+| 50 | [MARATHON](https://open.spotify.com/track/4YsYeD30IRuVA4BnG2qRKY) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [MARATHON](https://open.spotify.com/album/3Fw74FRQhHTDA57xb2O3ki) | 3:17 |
 
-Snapshot ID: `MCxmZDZjNDY5MTMyZjhlMWE2MGEwY2I0MDM2NTQyYzQ2OTc2MGE0NTE2`
+Snapshot ID: `MCw2ZmNmYjI0NTc2MDY3MTY1MTFmM2Q0OWU0YmJhNGM0Yjg4ZTc1YjA3`

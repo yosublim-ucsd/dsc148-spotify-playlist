@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,819 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,844 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 24 | [Yesu Nitie Nguvu](https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q) | [William Yilima](https://open.spotify.com/artist/2DTRhfclXLK7d9FYyuWda0) | [Uko Wapi Mungu](https://open.spotify.com/album/3mFFb1dNZLjxLWNNTjaqW0) | 2:22 |
 | 25 | [Naomba](https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:42 |
 | 26 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 |
-| 27 | [Tawala](https://open.spotify.com/track/6dvk6TqiOxnkLL3T7zkup5) | [Ben Cyco](https://open.spotify.com/artist/357UDX6McIJEWiI0ttqWug), [Laura Karwirwa](https://open.spotify.com/artist/7wkxMxxw3LihaaaWQA7tYT) | [Tawala](https://open.spotify.com/album/2SvM1aj4W4cHTwdSuTyHQs) | 3:06 |
-| 28 | [WINNING](https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW) | [Harmini](https://open.spotify.com/artist/3c1kXccl4TUVz1V24nCjz9), [Chud'e](https://open.spotify.com/artist/2ouXp33PnlerCKJs32Dmej) | [WINNING](https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0) | 2:32 |
+| 27 | [WINNING](https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW) | [Harmini](https://open.spotify.com/artist/3c1kXccl4TUVz1V24nCjz9), [Chud'e](https://open.spotify.com/artist/2ouXp33PnlerCKJs32Dmej) | [WINNING](https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0) | 2:32 |
+| 28 | [Tawala](https://open.spotify.com/track/6dvk6TqiOxnkLL3T7zkup5) | [Ben Cyco](https://open.spotify.com/artist/357UDX6McIJEWiI0ttqWug), [Laura Karwirwa](https://open.spotify.com/artist/7wkxMxxw3LihaaaWQA7tYT) | [Tawala](https://open.spotify.com/album/2SvM1aj4W4cHTwdSuTyHQs) | 3:06 |
 | 29 | [Ndio](https://open.spotify.com/track/3CnETTK4rc5A5XnTWpvjWZ) | [Rehema Simfukwe](https://open.spotify.com/artist/6LL0XXSfIWHDxuDf9HmnjL) | [Ndio](https://open.spotify.com/album/5CzUS1DY6pEqcYUxq9fiLm) | 9:23 |
 | 30 | [Ebenezer](https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh) | [Angela Chibalonza](https://open.spotify.com/artist/6o1Crwek2BEtkfAsI204iR) | [Nimekutana Na Yesu](https://open.spotify.com/album/7uG3igTPfTvad0ePaGCWM2) | 4:55 |
 | 31 | [Blessings \(Everywhere I Go\)](https://open.spotify.com/track/6wgw0w5N3AQ7AfHcoL2JqW) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Blessings \(Everywhere I Go\)](https://open.spotify.com/album/0EpZhsAfVEDl1vGfhV6mMg) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 49 | [Upendo Wa Yesu](https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Hapa Nilipo](https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz) | 4:21 |
 | 50 | [Thamani Ya Wokovu](https://open.spotify.com/track/5npUvkxp8M3tT4DMSjvoeS) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Nipe Macho](https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV) | 5:15 |
 
-Snapshot ID: `MCxjODRiNjMwN2NkZDI5MTJkMjc2Y2VmODdjZjM1MjI1ZDI3ZWQ1NzVh`
+Snapshot ID: `MCw3MWZkNjY3MzNkYzFkN2ViZWRkOTZkYmE3ODhiY2QxMTMxMDQ0YTgy`

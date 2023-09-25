@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 
 > New York, Jersey, and Connecticut music breaking waves\. Cover:  <a href="https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf?si=HnkORnFzR9KomL6aQeDbYg">Ice Spice</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,481 likes - 71 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,592 likes - 71 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

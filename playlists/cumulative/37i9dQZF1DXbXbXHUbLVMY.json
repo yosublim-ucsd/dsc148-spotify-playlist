@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 190346,
       "name": "(\u00c5h) T\u00e5my, T\u00e5my - Rifla x Sheriff",
       "url": "https://open.spotify.com/track/6BTqkUxJRluSfyWXICpuVF"
@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154043,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
+    },
+    {
+      "album": {
         "name": "PISTOLER POESI OCH SEX",
         "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
       },
@@ -518,7 +536,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 165040,
       "name": "Har du glemt meg?",
       "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
@@ -816,10 +834,32 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 125826,
       "name": "Narcissist",
       "url": "https://open.spotify.com/track/1XKxURVG2NMwaR92iF90Ek"
+    },
+    {
+      "album": {
+        "name": "Narcissist (feat. Rambow)",
+        "url": "https://open.spotify.com/album/1eBSaoNmGwoFznhndULplu"
+      },
+      "artists": [
+        {
+          "name": "Yung Slippy",
+          "url": "https://open.spotify.com/artist/5q2b2XIdrnuvoT7hAZqWws"
+        },
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125826,
+      "name": "Narcissist (feat. Rambow)",
+      "url": "https://open.spotify.com/track/5nYDSfRi5fN8ju240UGSkb"
     },
     {
       "album": {
@@ -838,6 +878,24 @@
       "duration_ms": 151168,
       "name": "N\u00e5nting i Luften",
       "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
+    },
+    {
+      "album": {
+        "name": "Palmerna",
+        "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147013,
+      "name": "Palmerna",
+      "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
     },
     {
       "album": {

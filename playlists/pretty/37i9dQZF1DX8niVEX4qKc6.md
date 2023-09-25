@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Silvina Moreno
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,831 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,883 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 65 | [Timba](https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Esta podría ser la señal](https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE) | 1:17 |
 | 66 | [Todas las Flores de Enero](https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Todas las Flores de Enero](https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a) | 2:14 |
 | 67 | [Pitada](https://open.spotify.com/track/2IAfP9ex8Vv70VESb0D3C0) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [PITADA](https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH) | 4:03 |
-| 68 | [Musikita del Cielo](https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Musikita del Cielo](https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz) | 3:00 |
-| 69 | [En Redondel \- Acústica](https://open.spotify.com/track/5ojsrMggxGkBFt7J1ECcTl) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Polos \(Acústico\)](https://open.spotify.com/album/3gtfXh1084dgAtUyDqHeQC) | 4:31 |
+| 68 | [En Redondel \- Acústica](https://open.spotify.com/track/5ojsrMggxGkBFt7J1ECcTl) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Polos \(Acústico\)](https://open.spotify.com/album/3gtfXh1084dgAtUyDqHeQC) | 4:31 |
+| 69 | [Musikita del Cielo](https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Musikita del Cielo](https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz) | 3:00 |
 | 70 | [Mensajes en el Mar](https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Mensajes en el Mar](https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre) | 4:07 |
 | 71 | [telepatía // acoustic](https://open.spotify.com/track/2syQErCMMM1rXeZqtuaqxg) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [telepatía // acoustic](https://open.spotify.com/album/1JRP2EB8MGMhTa1PXcBdMB) | 2:58 |
 | 72 | [Un Pacto](https://open.spotify.com/track/3g8vgAx9nQWBWw2USi5xEA) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De la Cabeza 2](https://open.spotify.com/album/3p2WuAT2zLzKwVoDFaPwml) | 4:37 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 79 | [Las Plantas Crecen](https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Las Plantas Crecen](https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV) | 1:55 |
 | 80 | [Fin del Mundo](https://open.spotify.com/track/4s6KoIwPyCL8vXFCTCXKCw) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Fin del Mundo](https://open.spotify.com/album/1T24IS66qX4DlVj1xIhUv0) | 3:52 |
 | 81 | [BIG BANG](https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [BIG BANG](https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS) | 3:03 |
-| 82 | [Ojos de Río](https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Ojos de Río](https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM) | 2:16 |
-| 83 | [Mírenla \(Acústico\)](https://open.spotify.com/track/3adqew32aN0DuInXYwwAzA) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 4:25 |
+| 82 | [Mírenla \(Acústico\)](https://open.spotify.com/track/3adqew32aN0DuInXYwwAzA) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 4:25 |
+| 83 | [Ojos de Río](https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Ojos de Río](https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM) | 2:16 |
 | 84 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 |
 | 85 | [De Musica Ligera](https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT) | [Sámdalo](https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7) | [De Musica Ligera](https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK) | 2:54 |
 | 86 | [Desapego](https://open.spotify.com/track/7ByPSNnUNiphi4BD9ZkrHO) | [Purahei Soul](https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p) | [Desapego](https://open.spotify.com/album/2NuOfxucLkgP5MsLRkU6Ej) | 3:38 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 96 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
 | 97 | [Mágica](https://open.spotify.com/track/46rlf6zgGnGcHZG233h3Uf) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Mágica](https://open.spotify.com/album/1dLbHPD9bGcsTAj9dA2GHQ) | 2:16 |
 | 98 | [Vasos Vacíos](https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tributo A Los Fabulosos Cadillacs](https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76) | 5:21 |
-| 99 | [Arrancacorazones \- Acústico en Vivo](https://open.spotify.com/track/1S5nq7DelsGNc4DVFaJHul) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Acústico,Teatro Opera, Buenos Aires, Argentina.](https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE) | 3:46 |
-| 100 | [Bajo el Sol](https://open.spotify.com/track/5IYW0nAdMPfJ512iVuvQAu) | [Joaco Terán](https://open.spotify.com/artist/1cy3VfdlWVJIquPPSeJ81Z) | [Madre Tierra](https://open.spotify.com/album/0ahJlAKdoQnWYXH6eWaenG) | 3:23 |
+| 99 | [Bajo el Sol](https://open.spotify.com/track/5IYW0nAdMPfJ512iVuvQAu) | [Joaco Terán](https://open.spotify.com/artist/1cy3VfdlWVJIquPPSeJ81Z) | [Madre Tierra](https://open.spotify.com/album/0ahJlAKdoQnWYXH6eWaenG) | 3:23 |
+| 100 | [Arrancacorazones \- Acústico en Vivo](https://open.spotify.com/track/1S5nq7DelsGNc4DVFaJHul) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Acústico,Teatro Opera, Buenos Aires, Argentina.](https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE) | 3:46 |
 
-Snapshot ID: `MCxmNjJhOWIxZmJmMTcyOGVhNTdiOGUyMmNhZDI3MTg4ZjllYTVjMTA3`
+Snapshot ID: `MCw4YWRmZjg4NDc0MzQ4OTY0ZDU1YTg3Y2YwNjFmNDliMDlkYTAxNDUw`

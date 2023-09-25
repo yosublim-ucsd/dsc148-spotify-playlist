@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Marra e Gu\u00e8",
-  "num_followers": 192371,
+  "num_followers": 192520,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjVmMGI0NTJiMDFiNTQ2MWRmMDNhZGU4MTIxNzQxNWI3MTZlMDhm",
+  "snapshot_id": "MCwwYzMxYjkyZWEyN2E4NTgxMjVhYWI1MjRmYjNlMjFkMzg1MmFkYTBh",
   "tracks": [
     {
       "added_at": "2023-09-21 22:01:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "BOSS",
-        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 144930,
-      "name": "BOSS",
-      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
         "name": "Potere",
         "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 181661,
       "name": "Non Abbiamo Et\u00e0",
       "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 144930,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -903,6 +903,34 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
+        "name": "MACHETE MIXTAPE 4",
+        "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
+      },
+      "artists": [
+        {
+          "name": "MACHETE",
+          "url": "https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 144097,
+      "name": "MARYLEAN (feat. Marracash) - prod. Low Kidd",
+      "url": "https://open.spotify.com/track/28fRkU3vhqAJdl9i9458pQ"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
         "name": "Cancelo",
         "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
       },
@@ -931,34 +959,6 @@
       "duration_ms": 170018,
       "name": "KUMITE",
       "url": "https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "MACHETE MIXTAPE 4",
-        "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
-      },
-      "artists": [
-        {
-          "name": "MACHETE",
-          "url": "https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
-          "name": "Nitro",
-          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 144097,
-      "name": "MARYLEAN (feat. Marracash) - prod. Low Kidd",
-      "url": "https://open.spotify.com/track/28fRkU3vhqAJdl9i9458pQ"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1183,70 +1183,6 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 180009,
-      "name": "Torna Da Me",
-      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "Trap Lovers",
-        "url": "https://open.spotify.com/album/4d4Uj2jua4sNA16D3XX6WW"
-      },
-      "artists": [
-        {
-          "name": "Dark Polo Gang",
-          "url": "https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0"
-        }
-      ],
-      "duration_ms": 228287,
-      "name": "Cambiare Adesso",
-      "url": "https://open.spotify.com/track/2xjxaKiYssIdDU6DCPpZPt"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "23 6451",
-        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
-      },
-      "artists": [
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "fuck 3x",
-      "url": "https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "LUNEDI'",
-      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
         "name": "Santeria",
         "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
       },
@@ -1267,6 +1203,70 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 180009,
+      "name": "Torna Da Me",
+      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "23 6451",
+        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "fuck 3x",
+      "url": "https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "Trap Lovers",
+        "url": "https://open.spotify.com/album/4d4Uj2jua4sNA16D3XX6WW"
+      },
+      "artists": [
+        {
+          "name": "Dark Polo Gang",
+          "url": "https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0"
+        }
+      ],
+      "duration_ms": 228287,
+      "name": "Cambiare Adesso",
+      "url": "https://open.spotify.com/track/2xjxaKiYssIdDU6DCPpZPt"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "LUNEDI'",
+      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
         "name": "Davide",
         "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
       },
@@ -1279,6 +1279,26 @@
       "duration_ms": 180346,
       "name": "Lo Sai Che Ci Penso",
       "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "Allenamento #2",
+        "url": "https://open.spotify.com/album/7JhrhjpQtkrAeABlv4eQFT"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+        }
+      ],
+      "duration_ms": 151421,
+      "name": "Allenamento #2",
+      "url": "https://open.spotify.com/track/3RsSxNSorUqe9K4qEGTlGC"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1315,26 +1335,6 @@
       "duration_ms": 206510,
       "name": "Bella",
       "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "Allenamento #2",
-        "url": "https://open.spotify.com/album/7JhrhjpQtkrAeABlv4eQFT"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "AVA",
-          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
-        }
-      ],
-      "duration_ms": 151421,
-      "name": "Allenamento #2",
-      "url": "https://open.spotify.com/track/3RsSxNSorUqe9K4qEGTlGC"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "Untouchable",
-        "url": "https://open.spotify.com/album/6bIGovgsemnS7Y7DzvT61N"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 151440,
-      "name": "Effe",
-      "url": "https://open.spotify.com/track/6RQjUikQBjV183yPTvrUvr"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
         "name": "Crack Musica",
         "url": "https://open.spotify.com/album/5jEMsm5dqdur3YKs8RL56B"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 251653,
       "name": "Cavallini (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/3StzACYDEYmfOOWNU83iRs"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "Untouchable",
+        "url": "https://open.spotify.com/album/6bIGovgsemnS7Y7DzvT61N"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 151440,
+      "name": "Effe",
+      "url": "https://open.spotify.com/track/6RQjUikQBjV183yPTvrUvr"
     }
   ],
   "unique_name": "Hit Rap Italiane",

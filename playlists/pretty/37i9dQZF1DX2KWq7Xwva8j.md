@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Yarea
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,599 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,620 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 49 | [hey, goodbye](https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Novia del Año](https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0) | 2:56 |
 | 50 | [novio del año](https://open.spotify.com/track/61N27UaFzOqJrhIOruw8Vy) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Novia del Año](https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0) | 2:34 |
 
-Snapshot ID: `MCwxYzJhOGJiOGRjZjkxODBjMWZiNTcwNWVjZjJiYjk3ODA5OWM0ZDdi`
+Snapshot ID: `MCwwZTY2NzA4MGFlMWQ1OTZmOTBhNTdhNTc0NDNmYWIwYjYzYjcxOTA1`

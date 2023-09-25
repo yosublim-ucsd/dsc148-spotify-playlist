@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 229173,
       "name": "99 Red Balloons",
       "url": "https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 173279,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 214830,
       "name": "Blood In The Water",
       "url": "https://open.spotify.com/track/1eFtuUsdNIh7vTyyG6mwIo"
@@ -856,7 +856,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 301080,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/05lBXOMA1uHpVPEQZyjoh3"
@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 207986,
       "name": "DEVIL",
       "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 225840,
       "name": "Don't Back Down",
       "url": "https://open.spotify.com/track/4f74h9bcuHOroCaVsKIr4F"
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 292580,
       "name": "Even Flow",
       "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
@@ -2026,7 +2026,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 231400,
       "name": "Father Of Mine",
       "url": "https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN"
@@ -2296,7 +2296,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 282906,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
@@ -2678,7 +2678,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 187693,
       "name": "Hollywood Baby",
       "url": "https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5"
@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 199906,
       "name": "Last Resort",
       "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
@@ -3550,6 +3550,24 @@
       "duration_ms": 190173,
       "name": "Lifestyles of the Rich & Famous",
       "url": "https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"
+    },
+    {
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/5LrQKwzxSxCXVIFr4XJ48F"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173073,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/1pExLSWrXaDyDdLmznxm7u"
     },
     {
       "album": {
@@ -5272,7 +5290,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 214106,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/74KI6d8jEM2zwOAo3luayU"
@@ -5812,7 +5830,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 239877,
       "name": "Stuck In a Car With You",
       "url": "https://open.spotify.com/track/105tJEDg9Q5LF5aoZ96ckp"
@@ -6176,6 +6194,24 @@
       "duration_ms": 183853,
       "name": "The Fear",
       "url": "https://open.spotify.com/track/2cppGOIz0cuDnKoGzrDsJQ"
+    },
+    {
+      "album": {
+        "name": "Opposites (Deluxe)",
+        "url": "https://open.spotify.com/album/3wKxJeyD60VukP9dBXN4ES"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214040,
+      "name": "The Joke's on Us",
+      "url": "https://open.spotify.com/track/7vviX4QCLnVPaTyteKXY42"
     },
     {
       "album": {
@@ -6658,7 +6694,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 215530,
       "name": "We Didn\u2019t Start The Fire (Bonus Track)",
       "url": "https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h"
@@ -6748,7 +6784,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 206200,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/6PHn6aXuM2FkzonGWJxY28"
@@ -7120,7 +7156,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 243733,
       "name": "You\u2019re One Of Us Now",
       "url": "https://open.spotify.com/track/6EwRKnESYfyuqDmMjbDhYw"

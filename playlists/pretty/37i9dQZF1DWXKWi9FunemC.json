@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 231608,
+  "num_followers": 231857,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWVmMDYzNjYwNzRlMDQ3OTNlOTE1ZmI3ZDNhZjQyODgwZmNiMWMz",
+  "snapshot_id": "MCw4YWY4YjBhMGQ3Nzg5NDljNjhiMTEwYTYxM2FlMGU0YWZlMzUxOWQ3",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Obey / Hidden Here",
-        "url": "https://open.spotify.com/album/6HEZcwsH3hTAfEYwC2DqXg"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 235168,
-      "name": "Obey",
-      "url": "https://open.spotify.com/track/7hRadFcj5kcgS9PkWV1wce"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Now More Than Ever",
         "url": "https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 280413,
       "name": "Take This",
       "url": "https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Obey / Hidden Here",
+        "url": "https://open.spotify.com/album/6HEZcwsH3hTAfEYwC2DqXg"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 235168,
+      "name": "Obey",
+      "url": "https://open.spotify.com/track/7hRadFcj5kcgS9PkWV1wce"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Secret Place",
-        "url": "https://open.spotify.com/album/29pydTpePrgdD4rHOMohlz"
-      },
-      "artists": [
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        },
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 181011,
-      "name": "Secret Place",
-      "url": "https://open.spotify.com/track/1ALad9pAC3JSK7SvqGAwKa"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
       },
@@ -779,6 +759,26 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Secret Place",
+        "url": "https://open.spotify.com/album/29pydTpePrgdD4rHOMohlz"
+      },
+      "artists": [
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        },
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 181011,
+      "name": "Secret Place",
+      "url": "https://open.spotify.com/track/1ALad9pAC3JSK7SvqGAwKa"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "On Christ (House Church)",
         "url": "https://open.spotify.com/album/44eE0gE1CPQpBKeAscz6Tw"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 264289,
       "name": "On Christ (House Church)",
       "url": "https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Meadow",
+        "url": "https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf"
+      },
+      "artists": [
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Meadow",
+      "url": "https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -811,22 +827,6 @@
       "duration_ms": 211251,
       "name": "With Lifted Hands (Acoustic) [feat. Martin Smith]",
       "url": "https://open.spotify.com/track/5Vmj0vCnP9Kf6PuxzERwic"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Meadow",
-        "url": "https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf"
-      },
-      "artists": [
-        {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Meadow",
-      "url": "https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Morning Sun, Rising Tide",
-        "url": "https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q"
-      },
-      "artists": [
-        {
-          "name": "Mark & Sarah Tillman",
-          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
-        }
-      ],
-      "duration_ms": 236466,
-      "name": "Oh What a Father",
-      "url": "https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Raise a Hallelujah (Acoustic)",
         "url": "https://open.spotify.com/album/1PYuHatpVpavaTCBi6tidn"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 303176,
       "name": "Raise a Hallelujah (Acoustic)",
       "url": "https://open.spotify.com/track/6PJpu9oZI9OXKTx2sBH2CL"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Morning Sun, Rising Tide",
+        "url": "https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q"
+      },
+      "artists": [
+        {
+          "name": "Mark & Sarah Tillman",
+          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+        }
+      ],
+      "duration_ms": 236466,
+      "name": "Oh What a Father",
+      "url": "https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "If It Wasn\u2019t for the Cross",
-        "url": "https://open.spotify.com/album/013ERHFnsYzmZz8BdfyiEN"
-      },
-      "artists": [
-        {
-          "name": "The Lowly Heirs",
-          "url": "https://open.spotify.com/artist/5Rut8SvWARj6uzDoajjUbX"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "If It Wasn\u2019t for the Cross",
-      "url": "https://open.spotify.com/track/07zvagUEBLjgBUGRALm963"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "\u2020 (just the cross)",
         "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 398333,
       "name": "\u2020 (just the cross) - Live",
       "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "If It Wasn\u2019t for the Cross",
+        "url": "https://open.spotify.com/album/013ERHFnsYzmZz8BdfyiEN"
+      },
+      "artists": [
+        {
+          "name": "The Lowly Heirs",
+          "url": "https://open.spotify.com/artist/5Rut8SvWARj6uzDoajjUbX"
+        }
+      ],
+      "duration_ms": 254666,
+      "name": "If It Wasn\u2019t for the Cross",
+      "url": "https://open.spotify.com/track/07zvagUEBLjgBUGRALm963"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
-      },
-      "artists": [
-        {
-          "name": "Grant Leslie",
-          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Refuge",
-      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Resting Place (To the Cross)",
         "url": "https://open.spotify.com/album/0Dvdd8C1sQ7g9wDsNJ0bWM"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 243346,
       "name": "Resting Place (To the Cross)",
       "url": "https://open.spotify.com/track/016DP00vwMNLR10fT8jQka"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
+      },
+      "artists": [
+        {
+          "name": "Grant Leslie",
+          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Old Soul",
+        "url": "https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW"
+      },
+      "artists": [
+        {
+          "name": "Finding Favour",
+          "url": "https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM"
+        }
+      ],
+      "duration_ms": 221684,
+      "name": "Old Soul",
+      "url": "https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Closer Than a Brother",
         "url": "https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Old Soul",
-        "url": "https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW"
-      },
-      "artists": [
-        {
-          "name": "Finding Favour",
-          "url": "https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM"
-        }
-      ],
-      "duration_ms": 221684,
-      "name": "Old Soul",
-      "url": "https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "In Christ Alone",
         "url": "https://open.spotify.com/album/2lA40iswKQzdMwbVnCqo66"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 256750,
       "name": "In Christ Alone",
       "url": "https://open.spotify.com/track/6p0CAEpscLMHWl99ieKwgD"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Worth The Wait",
+        "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
+      },
+      "artists": [
+        {
+          "name": "Bryan McCleery",
+          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
+        }
+      ],
+      "duration_ms": 235056,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1303,6 +1319,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Keeper of Days",
+        "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 354223,
+      "name": "Teach Us That One Song",
+      "url": "https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Love Is",
         "url": "https://open.spotify.com/album/3EHmC2TzK9W3AnDds89CiX"
       },
@@ -1315,22 +1347,6 @@
       "duration_ms": 282000,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/08XZufZzE2JDLQj9TEwur3"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Worth The Wait",
-        "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
-      },
-      "artists": [
-        {
-          "name": "Bryan McCleery",
-          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
-        }
-      ],
-      "duration_ms": 235056,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "After All These Years: A Collection",
-        "url": "https://open.spotify.com/album/1ixYVxV8caqaVDiHrktthj"
-      },
-      "artists": [
-        {
-          "name": "Andrew Peterson",
-          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Isn't It Love - 2014 Version",
-      "url": "https://open.spotify.com/track/04Lw9ot3N6m7o4Z02JdwCx"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6PPK6jGfdlNYfsH9jt4YZh"
       },
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Keeper of Days",
-        "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
+        "name": "After All These Years: A Collection",
+        "url": "https://open.spotify.com/album/1ixYVxV8caqaVDiHrktthj"
       },
       "artists": [
         {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+          "name": "Andrew Peterson",
+          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
         }
       ],
-      "duration_ms": 354223,
-      "name": "Teach Us That One Song",
-      "url": "https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY"
+      "duration_ms": 279373,
+      "name": "Isn't It Love - 2014 Version",
+      "url": "https://open.spotify.com/track/04Lw9ot3N6m7o4Z02JdwCx"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Letting Go (Alternate Version)",
-        "url": "https://open.spotify.com/album/4OnW0Q4uEWqOFxz10S7fQJ"
+        "name": "Simple Song",
+        "url": "https://open.spotify.com/album/4XIbGDudysSue0NbViGIPS"
       },
       "artists": [
         {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
         }
       ],
-      "duration_ms": 212739,
-      "name": "Letting Go - Alternate Version",
-      "url": "https://open.spotify.com/track/2hrpfntURuJcSPYJy7nIr8"
+      "duration_ms": 202117,
+      "name": "Simple Song",
+      "url": "https://open.spotify.com/track/6gwpHIcYcnpXsvKFA3Gkyz"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Simple Song",
-        "url": "https://open.spotify.com/album/4XIbGDudysSue0NbViGIPS"
+        "name": "Letting Go (Alternate Version)",
+        "url": "https://open.spotify.com/album/4OnW0Q4uEWqOFxz10S7fQJ"
       },
       "artists": [
         {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
         }
       ],
-      "duration_ms": 202117,
-      "name": "Simple Song",
-      "url": "https://open.spotify.com/track/6gwpHIcYcnpXsvKFA3Gkyz"
+      "duration_ms": 212739,
+      "name": "Letting Go - Alternate Version",
+      "url": "https://open.spotify.com/track/2hrpfntURuJcSPYJy7nIr8"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Fortress (Acoustic)",
+        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
+      },
+      "artists": [
+        {
+          "name": "Refuge Worship",
+          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
+        }
+      ],
+      "duration_ms": 249485,
+      "name": "Fortress (Acoustic)",
+      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Up Again (Acoustic Mix)",
         "url": "https://open.spotify.com/album/6bxngQfzDAqyDJfjD7ynEq"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 213360,
       "name": "Up Again (Acoustic Mix)",
       "url": "https://open.spotify.com/track/0P7JFcfRbg69vyuVkMIori"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Fortress (Acoustic)",
-        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
-      },
-      "artists": [
-        {
-          "name": "Refuge Worship",
-          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
-        }
-      ],
-      "duration_ms": 249485,
-      "name": "Fortress (Acoustic)",
-      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
     },
     {
       "added_at": "2023-07-28 04:01:00",

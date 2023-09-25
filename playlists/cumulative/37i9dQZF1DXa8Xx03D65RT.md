@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-695 songs - 1 day 5 hr 13 min
+696 songs - 1 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Driftwood](https://open.spotify.com/track/5z58G03wjA3kj4S57GyYOm) | [San Fiore](https://open.spotify.com/artist/2dVta8IapeaopXnWcmKUSm) | [Driftwood](https://open.spotify.com/album/0aQQWZsYV33bEK5z3vhJvC) | 2:58 | 2023-03-20 | 2023-07-25 |
 | [Drops](https://open.spotify.com/track/6tAVuHk9SgULudReDLhcgj) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Stories](https://open.spotify.com/album/10i8H3JBp0J5sRVaONz6qe) | 2:36 | 2022-05-27 | 2022-09-24 |
 | [Duality](https://open.spotify.com/track/1sdV3pcwnK8twgSyqGtmo7) | [Bethany Howell](https://open.spotify.com/artist/0SDJYZtFgByzaTKZrb21kj) | [Water Lilies](https://open.spotify.com/album/7HUWpZuHBpU73fqW0sLEFA) | 2:13 | 2022-05-27 | 2023-02-22 |
-| [Dusk to dawn](https://open.spotify.com/track/130InHyyoQxDbRgScp4i6O) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Scenery](https://open.spotify.com/album/6zs3f5KpHjW6yvVN5xQ0Bc) | 2:34 | 2022-05-27 |  |
+| [Dusk to dawn](https://open.spotify.com/track/130InHyyoQxDbRgScp4i6O) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Scenery](https://open.spotify.com/album/6zs3f5KpHjW6yvVN5xQ0Bc) | 2:34 | 2022-05-27 | 2023-09-25 |
 | [Dvale](https://open.spotify.com/track/38NHJt6bYHiIiXzAqUMlCO) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Dvale](https://open.spotify.com/album/5xLLJf0vaJI7XaX86NmtFw) | 2:59 | 2022-07-20 | 2022-09-24 |
 | [Dvale](https://open.spotify.com/track/3bfXhbANHZ65viUlQMYtBR) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Dvale](https://open.spotify.com/album/32YKmdwX6mljtaTRxcFJNx) | 2:59 | 2022-05-27 | 2022-07-29 |
 | [Each glorious entity](https://open.spotify.com/track/6wldb27dwn4uxIGPELz55b) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Each glorious entity](https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r) | 2:13 | 2023-09-18 |  |
@@ -424,6 +424,7 @@
 | [Nowesind](https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nowesind](https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X) | 1:59 | 2022-05-27 | 2023-01-21 |
 | [Numéro 1](https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Numéro 1](https://open.spotify.com/album/2FD6tNq2lHhx57hK0q1X35) | 2:34 | 2022-05-27 | 2023-05-15 |
 | [nyvallen](https://open.spotify.com/track/5Fc41UbpeLPaltHBkrL5kz) | [Ove Roos](https://open.spotify.com/artist/6qPCa2xnuweDEXoBg5Byr0) | [nyvallen](https://open.spotify.com/album/2dnicxYzWPd2TJg1qz6qxp) | 2:08 | 2023-07-03 |  |
+| [Of Great Expectations](https://open.spotify.com/track/2YpreA94zbFfECbdJWzIec) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [For Tiny Feet](https://open.spotify.com/album/1GjPYdwgU2AU0Isa8pEYGN) | 2:10 | 2023-09-18 |  |
 | [of view](https://open.spotify.com/track/4CK2atgvodyG3xJPXXt58U) | [Kaiteki](https://open.spotify.com/artist/4nUBYLhgaW3B3EuWJgfhma) | [Thoughts of View](https://open.spotify.com/album/6hP9TRgcIHRY8NXYVEFQka) | 3:46 | 2022-07-20 | 2023-07-25 |
 | [Oh Endless Day](https://open.spotify.com/track/7gqehJjwPZxAkMFEsxMAYr) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [Oh Endless Day](https://open.spotify.com/album/3RRumjF8Ef3D6eGngq3Vbb) | 4:47 | 2022-05-27 | 2022-09-24 |
 | [Old Flame](https://open.spotify.com/track/4zUOnBrIEKo9D70FelAthz) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Old Flame](https://open.spotify.com/album/2Ghtml0EN6GDcy896wqkMO) | 2:08 | 2022-09-23 | 2023-08-26 |

@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Luchè e CoCo in cover.
 
-232 songs - 10 hr 52 min
+233 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [RFTS 2 \(Freestyle\)](https://open.spotify.com/track/0bhvxnFCiCm4p2iEdt2b5u) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [RFTS 2 \(Freestyle\)](https://open.spotify.com/album/2cgpTKFKtfQ52DYZnV6qJG) | 2:21 | 2022-05-10 | 2022-05-13 |
 | [RFTS 3: Transalp \(Freestyle\)](https://open.spotify.com/track/2ip5V8poyS2rkYlvfQ0mxw) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [RFTS 3: Transalp \(Freestyle\)](https://open.spotify.com/album/421OGAOihQdZuiXiVoCVV5) | 2:08 | 2022-05-12 | 2022-09-02 |
 | [RICCHEZZA](https://open.spotify.com/track/1ZtubpenKBRE4ACrynt0MA) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:04 | 2023-01-06 | 2023-04-07 |
-| [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 2:56 | 2023-05-18 |  |
+| [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/14ZxYiB4WZvbma2Jr15MeP) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:56 | 2023-09-22 |  |
+| [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 2:56 | 2023-05-18 | 2023-09-25 |
 | [Royalty](https://open.spotify.com/track/21kRy3Z2XAL80IOabWrOnx) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96), [Baloo](https://open.spotify.com/artist/7fjRLtiDvaLA8CeqGCmEYA) | [Royalty \(Stirpe Nova, Vol.2\)](https://open.spotify.com/album/0eNJ6p3SIEa9o6PxJV35Bn) | 2:57 | 2023-05-11 | 2023-06-02 |
 | [RRR](https://open.spotify.com/track/0JQuV2J2SiAWYVXguQC9DK) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [RRR](https://open.spotify.com/album/6zGUCCNrn0F9UK4bW8FkHT) | 2:48 | 2023-06-22 | 2023-07-07 |
 | [Rubrica](https://open.spotify.com/track/6n4lKgcmZ61fbAsBtliX3D) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy) | [Rubrica](https://open.spotify.com/album/4Cd8ymdLbKpXM6vxwVpc5F) | 2:35 | 2022-06-28 | 2022-10-14 |

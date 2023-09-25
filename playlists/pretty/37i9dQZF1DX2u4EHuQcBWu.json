@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 179570,
+  "num_followers": 179658,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDBkN2ZkOWJkYjk0ZWQ0ZTZiMTYzODk3MDRhZjMxYzg1Njk2ZThi",
+  "snapshot_id": "MCxjM2I0YmNhYmU5MjlkYmU3ZWVjNTM4NjgyYTJiZjZkOWQzMDZkM2Q3",
   "tracks": [
     {
       "added_at": "2021-09-24 14:38:22",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Antolog\u00eda del Canto Nuevo Vol. 2",
-        "url": "https://open.spotify.com/album/6ABGUSzgpN1gX8vIW4abGu"
-      },
-      "artists": [
-        {
-          "name": "Sol y Lluvia",
-          "url": "https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI"
-        }
-      ],
-      "duration_ms": 147520,
-      "name": "Para Que Nunca Mas",
-      "url": "https://open.spotify.com/track/3hucW9oJIdJkxjaNxAc6wd"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
         "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
       },
@@ -525,6 +509,22 @@
       "url": "https://open.spotify.com/track/17QskQeUQ8Pskjgv5tThIw"
     },
     {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Casa Babylon",
+        "url": "https://open.spotify.com/album/0DzXs04hKcMYg7D2JSLptk"
+      },
+      "artists": [
+        {
+          "name": "Mano Negra",
+          "url": "https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2"
+        }
+      ],
+      "duration_ms": 237640,
+      "name": "Senor Matanza",
+      "url": "https://open.spotify.com/track/2uR6DAqwZCfDeD6jFrD5zA"
+    },
+    {
       "added_at": "2022-12-16 02:27:34",
       "album": {
         "name": "SE BUSCA",
@@ -543,18 +543,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Casa Babylon",
-        "url": "https://open.spotify.com/album/0DzXs04hKcMYg7D2JSLptk"
+        "name": "Antolog\u00eda del Canto Nuevo Vol. 2",
+        "url": "https://open.spotify.com/album/6ABGUSzgpN1gX8vIW4abGu"
       },
       "artists": [
         {
-          "name": "Mano Negra",
-          "url": "https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2"
+          "name": "Sol y Lluvia",
+          "url": "https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI"
         }
       ],
-      "duration_ms": 237640,
-      "name": "Senor Matanza",
-      "url": "https://open.spotify.com/track/2uR6DAqwZCfDeD6jFrD5zA"
+      "duration_ms": 147520,
+      "name": "Para Que Nunca Mas",
+      "url": "https://open.spotify.com/track/3hucW9oJIdJkxjaNxAc6wd"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -663,22 +663,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Bombea",
-        "url": "https://open.spotify.com/album/6ca14tXhlFLOuNf03Ryxa4"
-      },
-      "artists": [
-        {
-          "name": "Doctor Kr\u00e1pula",
-          "url": "https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r"
-        }
-      ],
-      "duration_ms": 216688,
-      "name": "La Fuerza del Amor",
-      "url": "https://open.spotify.com/track/2Hej26B36YlkZ97Xw4xW3M"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Plata Ta T\u00e1",
         "url": "https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 255506,
       "name": "Plata Ta T\u00e1",
       "url": "https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Bombea",
+        "url": "https://open.spotify.com/album/6ca14tXhlFLOuNf03Ryxa4"
+      },
+      "artists": [
+        {
+          "name": "Doctor Kr\u00e1pula",
+          "url": "https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r"
+        }
+      ],
+      "duration_ms": 216688,
+      "name": "La Fuerza del Amor",
+      "url": "https://open.spotify.com/track/2Hej26B36YlkZ97Xw4xW3M"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0"
     },
     {
-      "added_at": "2022-04-28 15:30:51",
-      "album": {
-        "name": "El Corrido de Milo Vela",
-        "url": "https://open.spotify.com/album/0TkqWGLLhKA7Izw3sPpIq8"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "El Corrido de Milo Vela",
-      "url": "https://open.spotify.com/track/3zwBVTTefiTWLRerxC2fts"
-    },
-    {
       "added_at": "2021-09-24 14:38:22",
       "album": {
         "name": "Entren Los Que Quieran",
@@ -867,6 +851,22 @@
       "duration_ms": 249733,
       "name": "Calma Pueblo (feat. Omar Rodr\u00edguez)",
       "url": "https://open.spotify.com/track/4eES4FfNECMQCcb4Ao9yhj"
+    },
+    {
+      "added_at": "2022-04-28 15:30:51",
+      "album": {
+        "name": "El Corrido de Milo Vela",
+        "url": "https://open.spotify.com/album/0TkqWGLLhKA7Izw3sPpIq8"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "El Corrido de Milo Vela",
+      "url": "https://open.spotify.com/track/3zwBVTTefiTWLRerxC2fts"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -923,18 +923,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
-        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
+        "name": "El Diablito",
+        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
       },
       "artists": [
         {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 242216,
-      "name": "Latinoam\u00e9rica Es un Pueblo al Sur de Estados Unidos",
-      "url": "https://open.spotify.com/track/6Y57xXG66eowb6BqZfbd0U"
+      "duration_ms": 280933,
+      "name": "Aqu\u00ed No Pasa Nada",
+      "url": "https://open.spotify.com/track/3fwn1dl9oo9tbUWCGzhJXx"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -955,18 +955,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "El Diablito",
-        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
+        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
+        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
       },
       "artists": [
         {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
         }
       ],
-      "duration_ms": 280933,
-      "name": "Aqu\u00ed No Pasa Nada",
-      "url": "https://open.spotify.com/track/3fwn1dl9oo9tbUWCGzhJXx"
+      "duration_ms": 242216,
+      "name": "Latinoam\u00e9rica Es un Pueblo al Sur de Estados Unidos",
+      "url": "https://open.spotify.com/track/6Y57xXG66eowb6BqZfbd0U"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1133,22 +1133,6 @@
       "url": "https://open.spotify.com/track/3oF7I6xfM2ALb4rJ6d3mTt"
     },
     {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "La Nueva Cancion Chilena, Vol. 1",
-        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
-      },
-      "artists": [
-        {
-          "name": "Rolando Alarcon",
-          "url": "https://open.spotify.com/artist/1zVfOfIieOhrYPFXa6oMEt"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "Si Somos Americanos",
-      "url": "https://open.spotify.com/track/5kScKNyugdcqoEPKWPpBq1"
-    },
-    {
       "added_at": "2022-04-01 20:17:41",
       "album": {
         "name": "Ej\u00e9rcito de Paz",
@@ -1179,6 +1163,22 @@
       "duration_ms": 346506,
       "name": "Sobreviviendo",
       "url": "https://open.spotify.com/track/26YfhyustEuuQpTzxp4tdP"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "La Nueva Cancion Chilena, Vol. 1",
+        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
+      },
+      "artists": [
+        {
+          "name": "Rolando Alarcon",
+          "url": "https://open.spotify.com/artist/1zVfOfIieOhrYPFXa6oMEt"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "Si Somos Americanos",
+      "url": "https://open.spotify.com/track/5kScKNyugdcqoEPKWPpBq1"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Antolog\u00eda 1968-1992",
-        "url": "https://open.spotify.com/album/1rJ7VkFSDPEB9m27A8NAO4"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "Plegaria A Un Labrador",
-      "url": "https://open.spotify.com/track/1AD8C9GGDDvzm6i0r0v4c2"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Amiga",
         "url": "https://open.spotify.com/album/2DkMyi2F1bhA15rX0Ul2kN"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 262533,
       "name": "Cordillera",
       "url": "https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Antolog\u00eda 1968-1992",
+        "url": "https://open.spotify.com/album/1rJ7VkFSDPEB9m27A8NAO4"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "Plegaria A Un Labrador",
+      "url": "https://open.spotify.com/track/1AD8C9GGDDvzm6i0r0v4c2"
     },
     {
       "added_at": "2022-07-15 04:43:21",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "Pateando Piedras",
+        "url": "https://open.spotify.com/album/0Av7hm17VTE9gQgJ2pg7WW"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 179188,
+      "name": "Por Que No Se Van",
+      "url": "https://open.spotify.com/track/0U79l5US7T8snNuDSrZ3X6"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "La Venganza de los Brujos",
         "url": "https://open.spotify.com/album/2dujTRtUMm8HuUWfoLfpRK"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 308732,
       "name": "Prende la Mecha",
       "url": "https://open.spotify.com/track/1iMVWpvtyXZArqtWA6osQ8"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Pateando Piedras",
-        "url": "https://open.spotify.com/album/0Av7hm17VTE9gQgJ2pg7WW"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 179188,
-      "name": "Por Que No Se Van",
-      "url": "https://open.spotify.com/track/0U79l5US7T8snNuDSrZ3X6"
     },
     {
       "added_at": "2021-09-24 14:38:22",

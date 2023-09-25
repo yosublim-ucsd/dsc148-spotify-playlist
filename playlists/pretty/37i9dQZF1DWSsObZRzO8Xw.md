@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Welcome to the universe of complex rhythms and mesmerizing loops\. Cover: Elephant Gym
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,144 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,284 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 21 | [Cat Fantastic](https://open.spotify.com/track/1kaWnMc0ryiFtPwWVKmZtb) | [TTNG](https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0) | [13.0.0.0.0](https://open.spotify.com/album/3QQOkN9iqJJrwXohbNYRiP) | 4:53 |
 | 22 | [Aftermath](https://open.spotify.com/track/60qzUWBoLLARs9B82yD346) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Time Will Die and Love Will Bury It](https://open.spotify.com/album/6VZQ25XyT12V0wH7oai4cG) | 3:52 |
 | 23 | [Climbing a Wall](https://open.spotify.com/track/2GZLWeDxVyCxDBdVzVjbMi) | [Floral](https://open.spotify.com/artist/1FVOt1XlpnaCueBolWF92k) | [Floral EP](https://open.spotify.com/album/4oH7pwltJtcV5Kg9hdb6Kr) | 3:39 |
-| 24 | [At the Turf Field Behind My Parents' House](https://open.spotify.com/track/4bhQ4kGrhteFbgSDSaOVqv) | [Giraffes? Giraffes!](https://open.spotify.com/artist/5wGMwXlBLMpuJzRpPxNFjq) | [Memory Lame](https://open.spotify.com/album/4xa1QJqW4ZVywlZQgMLKR9) | 4:33 |
-| 25 | [Sultans of Ping](https://open.spotify.com/track/4F89IseMV1ILFfE8d9coyR) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Ghost City](https://open.spotify.com/album/63PgGSb6ZkwPVfMZVOhObO) | 4:46 |
+| 24 | [Sultans of Ping](https://open.spotify.com/track/4F89IseMV1ILFfE8d9coyR) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Ghost City](https://open.spotify.com/album/63PgGSb6ZkwPVfMZVOhObO) | 4:46 |
+| 25 | [At the Turf Field Behind My Parents' House](https://open.spotify.com/track/4bhQ4kGrhteFbgSDSaOVqv) | [Giraffes? Giraffes!](https://open.spotify.com/artist/5wGMwXlBLMpuJzRpPxNFjq) | [Memory Lame](https://open.spotify.com/album/4xa1QJqW4ZVywlZQgMLKR9) | 4:33 |
 | 26 | [Mullally](https://open.spotify.com/track/02tJP7k7AstDD5wLrRb16H) | [And So I Watch You from Afar](https://open.spotify.com/artist/7qKMNwlACMZOUdMG3acwst) | [The Endless Shimmering](https://open.spotify.com/album/5EQ5o0bmdRsKTyBaca3l9r) | 3:53 |
 | 27 | [Cartus](https://open.spotify.com/track/2Hv4izofAjPpHD4CtdemPP) | [Kjjjjjjjjj](https://open.spotify.com/artist/41H3nsLvw0N1Z8FBov2Jgd) | [Centro De Dispersión](https://open.spotify.com/album/2cBhV03l2xuxYP072bNNde) | 3:04 |
 | 28 | [Baboon](https://open.spotify.com/track/6gFhXzwUBpe6VIWsoF3DwG) | [TTNG](https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0) | [Animals](https://open.spotify.com/album/6gl4ylXxmNMpOxBImNe9n3) | 3:26 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 30 | [Shiva](https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Fontana Bella](https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc) | 3:37 |
 | 31 | [Ten\-Day Interval](https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 4:44 |
 | 32 | [That's Git](https://open.spotify.com/track/3XY1XnhE0QjPUZqpIb7GDn) | [Olde Pine](https://open.spotify.com/artist/1jvXgRFagbj6jaZQlzwokx) | [The EPs](https://open.spotify.com/album/6a6At1Djmp0LHbmFfaOUHI) | 5:04 |
-| 33 | [Cut Self Not](https://open.spotify.com/track/1aT2dSJgcxRs4q0sfB188o) | [Faraquet](https://open.spotify.com/artist/5OBJZtgvHxSJZYyQ8T9AoS) | [The View From This Tower](https://open.spotify.com/album/4fNXymFLxgp2wfBWunVaeN) | 2:54 |
-| 34 | [Fiftzeen](https://open.spotify.com/track/4ZTs0vtv1Nesc71d9vsKIn) | [You Slut!](https://open.spotify.com/artist/57FhnNHVDTmK7wsrNAq84o) | [Medium Bastard](https://open.spotify.com/album/2BIgyOi0OlKk5KZnFN6KEY) | 3:02 |
+| 33 | [Fiftzeen](https://open.spotify.com/track/4ZTs0vtv1Nesc71d9vsKIn) | [You Slut!](https://open.spotify.com/artist/57FhnNHVDTmK7wsrNAq84o) | [Medium Bastard](https://open.spotify.com/album/2BIgyOi0OlKk5KZnFN6KEY) | 3:02 |
+| 34 | [Cut Self Not](https://open.spotify.com/track/1aT2dSJgcxRs4q0sfB188o) | [Faraquet](https://open.spotify.com/artist/5OBJZtgvHxSJZYyQ8T9AoS) | [The View From This Tower](https://open.spotify.com/album/4fNXymFLxgp2wfBWunVaeN) | 2:54 |
 | 35 | [Teratology](https://open.spotify.com/track/5xF88xyWRwEMVq3waLRcah) | [The Physics House Band](https://open.spotify.com/artist/30EilmonVXftR1pWoALezP) | [Horizons / Rapture](https://open.spotify.com/album/5dcX51nu4mtE7vu3tNJyTN) | 6:25 |
 | 36 | [KALA](https://open.spotify.com/track/45oVbRMfv2I5ICtCI6jfPW) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t), [Mario Camarena](https://open.spotify.com/artist/1C5b4zPDtIjrhOVVvBBtCZ) | [SIMILAR](https://open.spotify.com/album/4eEgCTAwqEajxJNFw0bwYA) | 3:19 |
 | 37 | [minet](https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv) | [archipiélagos](https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d) | [split](https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN) | 3:45 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 54 | [Gemelos Cóctel](https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 3:51 |
 | 55 | [It's Not](https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI) | [Mylets](https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR) | [M\. Rueff](https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH) | 2:43 |
 | 56 | [Saint Loser](https://open.spotify.com/track/4E1L60kHbxTpsHx0AKocTF) | [Forests](https://open.spotify.com/artist/2ew0XBmcP0n50UWzVVQygC) | [Get In Losers, We’re Going to Eternal Damnation](https://open.spotify.com/album/4c2Nq7XkRFNISEOZ9uYrbc) | 3:03 |
-| 57 | [Solace](https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb) | [Heavy Ocean](https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX) | [H/O](https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm) | 7:35 |
-| 58 | [Echolocation](https://open.spotify.com/track/51Vs7KeraqZwfR5OQLuaeI) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Installation](https://open.spotify.com/album/5ZDDJpw5rFAtHNnmGMqiaO) | 3:54 |
+| 57 | [Echolocation](https://open.spotify.com/track/51Vs7KeraqZwfR5OQLuaeI) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Installation](https://open.spotify.com/album/5ZDDJpw5rFAtHNnmGMqiaO) | 3:54 |
+| 58 | [Solace](https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb) | [Heavy Ocean](https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX) | [H/O](https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm) | 7:35 |
 | 59 | [Cloudy](https://open.spotify.com/track/31R2zckDu43rRW9inEVtoS) | [Trees Before Fall](https://open.spotify.com/artist/0feW6OzAxJuE9si7Q5B8T8) | [Trees Before Fall](https://open.spotify.com/album/2T1bfNOah0IU8Q5XNYWN4i) | 4:59 |
 | 60 | [I'm Calmer Than You Are](https://open.spotify.com/track/6dVeC65T0SN94OFlXfjbgc) | [Tangled Hair](https://open.spotify.com/artist/15apg2MS107wZD0LvXnkMw) | [Two Eps](https://open.spotify.com/album/2mvec1eyAYGf9sfZJgufBb) | 3:57 |
 | 61 | [Bonus Trigger](https://open.spotify.com/track/2SDtTQfwz93RMCGsgTuvPr) | [Town Portal](https://open.spotify.com/artist/1yYkeH8fDEJY4bJtlUseKK) | [The Occident](https://open.spotify.com/album/11jPIR10T2GX93P5rsy4Mi) | 3:07 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 69 | [Sea Song](https://open.spotify.com/track/6Ld0jTImMWx6C5l7i1MlZI) | [Faraquet](https://open.spotify.com/artist/5OBJZtgvHxSJZYyQ8T9AoS) | [The View From This Tower](https://open.spotify.com/album/4fNXymFLxgp2wfBWunVaeN) | 4:10 |
 | 70 | [Beow](https://open.spotify.com/track/69pFXap7G2AGMUXV0Njtab) | [Suffer Like G Did](https://open.spotify.com/artist/7mFJ8ikeW57cChHbHpYiUf) | [Beow](https://open.spotify.com/album/2Kxe4roMOtztT6Qn6fvNgl) | 3:28 |
 | 71 | [Jazztas](https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [Canis Allegro](https://open.spotify.com/album/71YTAB1yF7RROLkgKOLFy6) | 5:02 |
-| 72 | [Cramm](https://open.spotify.com/track/1kdYAlixc4q9O1HO1tbfw2) | [Three Trapped Tigers](https://open.spotify.com/artist/1FGfJBdp4l7sELXNf92jrT) | [Route One or Die](https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH) | 4:58 |
-| 73 | [Floaty Boaty](https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr) | [House Tours](https://open.spotify.com/artist/0JJrpuxdhv0fmrMQR7PEC7) | [Floaty Boaty](https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF) | 4:16 |
+| 72 | [Floaty Boaty](https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr) | [House Tours](https://open.spotify.com/artist/0JJrpuxdhv0fmrMQR7PEC7) | [Floaty Boaty](https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF) | 4:16 |
+| 73 | [Cramm](https://open.spotify.com/track/1kdYAlixc4q9O1HO1tbfw2) | [Three Trapped Tigers](https://open.spotify.com/artist/1FGfJBdp4l7sELXNf92jrT) | [Route One or Die](https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH) | 4:58 |
 | 74 | [Mimi Ashi](https://open.spotify.com/track/1gFr9j7lS0HIgRiJUQWTMm) | [Oh No! Yoko](https://open.spotify.com/artist/1PegkW9qkeu5tDVletMpjr) | [Sorrow EP](https://open.spotify.com/album/1O55VrSOG9wwOHgD4F7XRY) | 2:18 |
 | 75 | [Espejos Dorados](https://open.spotify.com/track/08dEcUg90k8QDBpwNxHwjQ) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Imago](https://open.spotify.com/album/6wkTq5B02oGnBnx7X1bWBt) | 4:18 |
 | 76 | [Bambú](https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o) | [Puerto Austral](https://open.spotify.com/artist/4PeFo2mhFvz9CeURn4nQ5o) | [51°31'47"S 58°07'44"W](https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O) | 3:33 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 89 | [Torino](https://open.spotify.com/track/3ph50wGap6ERq55TPRV89D) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio y la Última Vuelta al Palejonú](https://open.spotify.com/album/49x51YGTHDL8fbERpiuxyH) | 4:11 |
 | 90 | [Hornet Vision](https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD) | [nevraska](https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET) | [I left work on my way home december 1st 1955](https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV) | 3:48 |
 | 91 | [Habanero](https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7) | [FRDZ](https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t) | [Fernández](https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw) | 4:05 |
-| 92 | [All We Need Is A Little Energon And A Lot Of Luck](https://open.spotify.com/track/5Ot1YTCuTtmqfcH01kN6fT) | [Meet Me in St\. Louis](https://open.spotify.com/artist/507WKf85fzZkH5W2c61m10) | [All We Need Is A Little Energon And A Lot Of Luck](https://open.spotify.com/album/20zLM4mMsPQVVKiaXMxylI) | 3:44 |
-| 93 | [Novelesco](https://open.spotify.com/track/34EmVSEZKS6hrEVAVtGMdN) | [Defórmica](https://open.spotify.com/artist/2472MBj59UMXdRCn5zwbwF) | [Páramo](https://open.spotify.com/album/6dvTFKqd5icLCXWLL1NlNz) | 5:03 |
+| 92 | [Novelesco](https://open.spotify.com/track/34EmVSEZKS6hrEVAVtGMdN) | [Defórmica](https://open.spotify.com/artist/2472MBj59UMXdRCn5zwbwF) | [Páramo](https://open.spotify.com/album/6dvTFKqd5icLCXWLL1NlNz) | 5:03 |
+| 93 | [All We Need Is A Little Energon And A Lot Of Luck](https://open.spotify.com/track/5Ot1YTCuTtmqfcH01kN6fT) | [Meet Me in St\. Louis](https://open.spotify.com/artist/507WKf85fzZkH5W2c61m10) | [All We Need Is A Little Energon And A Lot Of Luck](https://open.spotify.com/album/20zLM4mMsPQVVKiaXMxylI) | 3:44 |
 | 94 | [Scilla](https://open.spotify.com/track/0aNi1cBUNwl8Cmn8Erwu8R) | [Valerian Swing](https://open.spotify.com/artist/5tj8t2rXNyMRpER4EbFU93) | [Aurora](https://open.spotify.com/album/0cqqM2zJd407HJklMjwhjZ) | 3:58 |
 | 95 | [El Capitán](https://open.spotify.com/track/2qocldaWoDwzSPR4D1Dqpv) | [Yo Triceratop](https://open.spotify.com/artist/7APdZybMciE2luVovmsSmZ) | [Limerencia: Split](https://open.spotify.com/album/17k2pajUNOQUUoWSjFd4st) | 4:22 |
 | 96 | [Andes](https://open.spotify.com/track/0RqMmK2Cf5TuSekASvzxwL) | [Montaña](https://open.spotify.com/artist/5oZKQvQiZPui8fMeeo5a2S) | [Coordenadas](https://open.spotify.com/album/6SxAPJhbN9xsgcPtEPg9C0) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 99 | [Queso](https://open.spotify.com/track/7v0tdOisj4IEYUjM8KBCBz) | [Hungría](https://open.spotify.com/artist/0OrifgXKiu7rDYQbFW0Dpx) | [Magyarország vagy halál](https://open.spotify.com/album/5HdscyNkq8Wqeb4ksu775M) | 5:37 |
 | 100 | [Caballos \(Horses\)](https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l) | [The Polar Dream](https://open.spotify.com/artist/1fH2nvEznZkYOyj0BjOhNp) | [Kiev](https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt) | 5:03 |
 
-Snapshot ID: `MCw3MTA2NmE4NDRjM2MwYzU0ZDIzNjcxYWQ1ZmRkOTI3NGY1YmU3YTEz`
+Snapshot ID: `MCxhNTM2OGNlODc3ZjZjNzE0YzlhZmU4NzY4ODQ1ODNiYmQyZmI5ZjRl`

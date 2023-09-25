@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 171552,
+  "num_followers": 171592,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTQyYWViZDdiNWI4ZmQxODNjNWM4YjllYzk2MzIzYjFhN2FmZWQ1",
+  "snapshot_id": "MCxhOGY0MGRjMTU5ZmEzMWZhZmZlZjEzY2Q0ZDk4ZTkzMTM2NmMwYTgz",
   "tracks": [
     {
       "added_at": "2023-02-20 09:56:57",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Punk",
-        "url": "https://open.spotify.com/album/4nq7ji9BCTkKjqZ2SQ8MLW"
-      },
-      "artists": [
-        {
-          "name": "Gazzelle",
-          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Sopra",
-      "url": "https://open.spotify.com/track/4EWRqLKdXgr0lPjAv6mxc4"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "Colpa Delle Favole",
         "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 240738,
       "name": "Rondini Al Guinzaglio",
       "url": "https://open.spotify.com/track/1jhHPnmgZepKU8qX4VhRZ0"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Punk",
+        "url": "https://open.spotify.com/album/4nq7ji9BCTkKjqZ2SQ8MLW"
+      },
+      "artists": [
+        {
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Sopra",
+      "url": "https://open.spotify.com/track/4EWRqLKdXgr0lPjAv6mxc4"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
+        "name": "MAX 20",
+        "url": "https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4"
+      },
+      "artists": [
+        {
+          "name": "Max Pezzali",
+          "url": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
+        }
+      ],
+      "duration_ms": 253100,
+      "name": "L'universo tranne noi",
+      "url": "https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
         "name": "Soundtrack '96 - 06 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW"
       },
@@ -795,38 +811,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "MAX 20",
-        "url": "https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4"
-      },
-      "artists": [
-        {
-          "name": "Max Pezzali",
-          "url": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
-        }
-      ],
-      "duration_ms": 253100,
-      "name": "L'universo tranne noi",
-      "url": "https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "it.pop",
-        "url": "https://open.spotify.com/album/5HCZg475b1R5XJvgmiAN7t"
-      },
-      "artists": [
-        {
-          "name": "Alex Britti",
-          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
-        }
-      ],
-      "duration_ms": 228986,
-      "name": "Oggi Sono Io",
-      "url": "https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "Zero Gravity",
         "url": "https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 209400,
       "name": "D'improvviso",
       "url": "https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Gemelli Diversi",
+        "url": "https://open.spotify.com/album/2win94a4gptG9kru2p6Hka"
+      },
+      "artists": [
+        {
+          "name": "Gemelli Diversi",
+          "url": "https://open.spotify.com/artist/1rmR17cbB34R3cKheHJBDZ"
+        }
+      ],
+      "duration_ms": 240240,
+      "name": "Un attimo ancora",
+      "url": "https://open.spotify.com/track/0rork59Tm6wKPD4SMTay1n"
     }
   ],
   "unique_name": "Amore Davvero",

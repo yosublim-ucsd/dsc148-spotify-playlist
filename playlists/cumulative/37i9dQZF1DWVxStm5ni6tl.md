@@ -4,7 +4,7 @@
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Anaïs Cardot, Artwork by: Isu Kim
 
-302 songs - 15 hr 15 min
+303 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [CALL HER BACK](https://open.spotify.com/track/3B3i8gxv4lZNu5kGzBZ317) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [THE BIG PICTURE](https://open.spotify.com/album/6y2sUWXuDVM2YBwSGnryrg) | 2:32 | 2023-08-23 | 2023-09-14 |
 | [CALL ME](https://open.spotify.com/track/2YvOuJTbvg7uzC4JOwtzFf) | [Ree$e](https://open.spotify.com/artist/3qXPgZfxUT2yTyoO7v5mUL) | [CALL ME](https://open.spotify.com/album/72rQB1quJHxP7Wm2ISAhfs) | 2:42 | 2023-08-30 | 2023-09-07 |
 | [Calloused Heart](https://open.spotify.com/track/4lnWGvLnQxb0W6WMqKLtjB) | [IAMTHELIVING](https://open.spotify.com/artist/4In8v2qeNt0xIzOFqm6mVb) | [Calloused Heart](https://open.spotify.com/album/3NiyAN6XBaUSVuBZh8tU8c) | 4:04 | 2023-09-20 |  |
-| [Can Do \(feat\. Sean Kingston\)](https://open.spotify.com/track/171VrPDBwQYrnULd66YU7s) | [Victory](https://open.spotify.com/artist/4S201rIkfML6EKr74B6W4X), [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Can Do \(feat\. Sean Kingston\)](https://open.spotify.com/album/1yDZEhSAfA5wi9ahTwhY5i) | 3:30 | 2023-09-20 | 2023-09-24 |
+| [Can Do \(feat\. Sean Kingston\)](https://open.spotify.com/track/171VrPDBwQYrnULd66YU7s) | [Victory](https://open.spotify.com/artist/4S201rIkfML6EKr74B6W4X), [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Can Do \(feat\. Sean Kingston\)](https://open.spotify.com/album/1yDZEhSAfA5wi9ahTwhY5i) | 3:30 | 2023-09-20 |  |
 | [Can’t Be Replaced](https://open.spotify.com/track/7fIT6KXMgn8SJzg025oZh9) | [IAMTHELIVING](https://open.spotify.com/artist/4In8v2qeNt0xIzOFqm6mVb) | [Can’t Be Replaced](https://open.spotify.com/album/1Nza8gymgRpQ4fpaeVcHc9) | 4:20 | 2023-08-23 | 2023-09-21 |
 | [Can’t Explain](https://open.spotify.com/track/14CWwpO81KQk2bfAgnDLdr) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Can’t Explain](https://open.spotify.com/album/1rYcphC606XUgGhkmE9wjW) | 2:02 | 2023-09-20 |  |
 | [Capture the Flag](https://open.spotify.com/track/6tpw9KnAg1p2dDpjojn7ve) | [Violent Ground](https://open.spotify.com/artist/4NggpgL0QyEmrdYQTrXUdy), [Mattmac](https://open.spotify.com/artist/2wn3YMzruUNJ2Ee1z6xnjY) | [Capture the Flag](https://open.spotify.com/album/3r6L8g6JftR74j0XHTNOpr) | 3:24 | 2023-09-20 |  |
@@ -234,7 +234,8 @@
 | [Rodeo](https://open.spotify.com/track/7Lo3423g8A1MYcK52MtzgM) | [Nicolette & The Nobodies](https://open.spotify.com/artist/7mnm3y9s2LSUt4st0SQfhA) | [Rodeo](https://open.spotify.com/album/6LzFNPZcqnrLzHlkW2ANvz) | 3:26 | 2023-08-30 | 2023-09-07 |
 | [Rosé](https://open.spotify.com/track/6xGagAOYdYmSZrBRIDoREc) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO), [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Suiker](https://open.spotify.com/artist/3UZSNnTycoiDTXY72xLV14) | [Rosé](https://open.spotify.com/album/2US1trwBIEqtNCzH7myt6u) | 2:36 | 2023-08-23 | 2023-09-14 |
 | [Rumours](https://open.spotify.com/track/6IXPMTm9es1QqzGNt7q6xh) | [Yehra](https://open.spotify.com/artist/3PLqRcOQ0mbGN3mPELPAZI) | [Rumours](https://open.spotify.com/album/6ljc6wEyQMYNc2FhxXVeKU) | 2:44 | 2023-08-23 | 2023-09-14 |
-| [Run Wild](https://open.spotify.com/track/4XbYw0AQeTsjWHkyfqN2ce) | [POSTDATA](https://open.spotify.com/artist/05mMvlRkzuup4xMEKV8619) | [Run Wild](https://open.spotify.com/album/7KDhMhjaSnuRPyki0YLdbU) | 3:42 | 2023-09-06 |  |
+| [Run Wild](https://open.spotify.com/track/4TNytloSCaLfz72Sz8PA6I) | [POSTDATA](https://open.spotify.com/artist/05mMvlRkzuup4xMEKV8619) | [Run Wild](https://open.spotify.com/album/1w6j48TD97WFowGpkTB644) | 3:42 | 2023-09-20 |  |
+| [Run Wild](https://open.spotify.com/track/4XbYw0AQeTsjWHkyfqN2ce) | [POSTDATA](https://open.spotify.com/artist/05mMvlRkzuup4xMEKV8619) | [Run Wild](https://open.spotify.com/album/7KDhMhjaSnuRPyki0YLdbU) | 3:42 | 2023-09-06 | 2023-09-25 |
 | [Runaway](https://open.spotify.com/track/0agVesxTRMBILK1I1LosM1) | [Omega Mighty](https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r) | [Runaway](https://open.spotify.com/album/5cTmXTvq9gPQlF4kSnam24) | 2:18 | 2023-08-16 | 2023-08-31 |
 | [Runnin](https://open.spotify.com/track/3srMBy9bUmxBMsXnMW298Z) | [Ben Dadoun](https://open.spotify.com/artist/3BS9OLvXhHGUZ6G5RormDD), [Jackson Welchner](https://open.spotify.com/artist/1erW4LJFwj2DR3g6uEmqmg), [Justin Juan](https://open.spotify.com/artist/47618gr5OEFj5KfKIOWYxG), [Connor Lum](https://open.spotify.com/artist/4nlPsFMpj6u7gC8YcPNZ9M) | [Runnin](https://open.spotify.com/album/296hZxkmHp0rxdiyEJtWC9) | 2:51 | 2023-07-26 | 2023-08-03 |
 | [Sad Inside](https://open.spotify.com/track/0QwLESikAN40ywqElIYdgW) | [Carter & the Capitals](https://open.spotify.com/artist/6ZWoBajJXHS7uyQ4IlsYzr) | [Sad Inside](https://open.spotify.com/album/0lZzSGbZ1KWxDbJssFWi4L) | 3:57 | 2023-07-26 | 2023-08-17 |

@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Elmiene
 
-1,534 songs - 3 day 9 hr 36 min
+1,535 songs - 3 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [2 seater \(feat\. Smino\)](https://open.spotify.com/track/31utIsi83TdTRNLxvDHZTU) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [2 seater \(feat\. Smino\)](https://open.spotify.com/album/74cs9FDpfW0pxPCMXu89xj) | 3:04 | 2022-02-25 | 2022-04-02 |
 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 | 2022-11-11 | 2022-12-10 |
 | [2022](https://open.spotify.com/track/54iEZINzQt6ltApofgtCpO) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [2022](https://open.spotify.com/album/2OapHw2hXgZqImkWjbBq5D) | 2:45 | 2023-01-13 | 2023-02-04 |
-| [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 | 2023-08-18 |  |
+| [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 | 2023-08-18 | 2023-09-25 |
+| [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 | 2023-08-18 |  |
 | [212](https://open.spotify.com/track/5dPXwjX9VgldfSkl5IFnYy) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [212](https://open.spotify.com/album/3zgMK2eV0XgSjoxfCk6vnk) | 2:26 | 2023-05-05 | 2023-06-17 |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-02-24 | 2023-05-06 |
 | [22](https://open.spotify.com/track/4U6yLrVw2BrPIzDQ5cDiEk) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Jermaine Elliott](https://open.spotify.com/artist/60jDnkxR5FyCUAGUX4zDNv) | [22](https://open.spotify.com/album/7DtDowNbgFYIyDYnp3ZfA0) | 3:41 | 2022-08-12 | 2022-09-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 
 > Spa treatment role\-play and ASMR massage sounds to give you tingles and help you relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,774 likes - 47 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,812 likes - 47 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 | 34 | [Wet Handcream](https://open.spotify.com/track/3heo2bEqjcAw7hvFfhCNMf) | [ASMR Layla](https://open.spotify.com/artist/29yYPUL6ELKFbIbV5DN0Iq) | [House Triggers](https://open.spotify.com/album/7y4gM1dtvtbJ0VcgBvw0hw) | 3:29 |
 | 35 | [Jennifer's Silicon Brush](https://open.spotify.com/track/3vMJDguczmKoE8ioJHkf5K) | [My ASMR Room](https://open.spotify.com/artist/74ewzpfsEL70CLM2hU9K4B) | [Yummy ASMR](https://open.spotify.com/album/3PKQMXqfzyjCiLr1HdLKZH) | 4:18 |
 | 36 | [A Deep Ear Massage](https://open.spotify.com/track/0XMRFPrEPHoWRVnfBaId3g) | [Chloe C ASMR](https://open.spotify.com/artist/0qLW4QW8EMXTxjBph3jY4q) | [A Deep Ear Massage](https://open.spotify.com/album/0VChj0yICJTZk7Fer3bqiv) | 3:24 |
-| 37 | [Rubbing it](https://open.spotify.com/track/6xYKogdbhvY0BoR50nGdSc) | [Willy Ymer](https://open.spotify.com/artist/6F5ZrBdFO0aI22v3p4GPK3) | [Fluffy Pillow](https://open.spotify.com/album/3BafvyZxxVaBbAg7cJ5rcQ) | 2:46 |
+| 37 | [Muscle Massage](https://open.spotify.com/track/7AhE5d2ZLVovBK1pAKP3vv) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR Chiropractor Roleplay \| Neck & Back Cracking \(Cracking Sounds\) Relaxing Doctor Check\-Up](https://open.spotify.com/album/1qfg4vz3VDJRqLzZrl6Vz5) | 3:53 |
 | 38 | [Foamy Ear Massage Part 2](https://open.spotify.com/track/2Xq3eHJDv4Wdy605g02qp9) | [Karuna Satori ASMR](https://open.spotify.com/artist/3gK713oCPxcYsIsfAXSpl5) | [Foamy Ear Massage](https://open.spotify.com/album/37njbdb7VxWKN4w0U6E0Y9) | 6:10 |
 | 39 | [Oil and Lotion Ear Massage, Pt\. 1](https://open.spotify.com/track/56eRIbddAsBVUVRkgnsuaI) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [Oil and Lotion Ear Massage](https://open.spotify.com/album/5dAMrjESOsEnoUBdFFNReX) | 7:38 |
-| 40 | [Muscle Massage](https://open.spotify.com/track/7AhE5d2ZLVovBK1pAKP3vv) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR Chiropractor Roleplay \| Neck & Back Cracking \(Cracking Sounds\) Relaxing Doctor Check\-Up](https://open.spotify.com/album/1qfg4vz3VDJRqLzZrl6Vz5) | 3:53 |
+| 40 | [Rubbing it](https://open.spotify.com/track/6xYKogdbhvY0BoR50nGdSc) | [Willy Ymer](https://open.spotify.com/artist/6F5ZrBdFO0aI22v3p4GPK3) | [Fluffy Pillow](https://open.spotify.com/album/3BafvyZxxVaBbAg7cJ5rcQ) | 2:46 |
 | 41 | [Oil Massage](https://open.spotify.com/track/6zl4uiCSDE1RyH55jrV9gX) | [ASMR LillyVinnily](https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ) | [ASMR \| Some of My Favourite Sounds](https://open.spotify.com/album/6tFZnaQPznbCNkHokxTvFp) | 2:50 |
 | 42 | [ASMR Take a Bath with Me, Pt\. 2](https://open.spotify.com/track/7v87pqdX327uORNqtZOZQc) | [Mad ASMR Triggers](https://open.spotify.com/artist/5PZXh446gcT8Gv0zr6nIGe) | [ASMR Take a Bath with Me \[Washing, Soap, Foam & Water Sounds\]](https://open.spotify.com/album/4nVP5iTX21EDzkUCPPTFu7) | 3:16 |
 | 43 | [Tingly Lice Check, Pt\. 4](https://open.spotify.com/track/7GKeGFrZ3jTjVpEIjT4tv8) | [Relax Academy ASMR](https://open.spotify.com/artist/36Kz9Uv48lAjIm5F2dbd0k) | [ASMR Tingly Lice Check with Tweezers](https://open.spotify.com/album/42BBfI4WctzHTlCjEvXv9y) | 5:46 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 | 46 | [Real Relaxing Brushing Sounds, Pt\. 4](https://open.spotify.com/track/1kYA2IGzg8FQWm2ISv2BwY) | [Relax Academy ASMR](https://open.spotify.com/artist/36Kz9Uv48lAjIm5F2dbd0k) | [ASMR Brush Massage, Relaxing Brushing Sounds Real Person](https://open.spotify.com/album/4yZCHZC1WUf1wIsSM5Mds3) | 2:28 |
 | 47 | [Scalp Massage](https://open.spotify.com/track/3K9vwqX5tIKaYl1vQGgi7G) | [ASMR LillyVinnily](https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ) | [ASMR 6 Ear Massages To Help Stop Your Brain From Overthinking \(No Talking\)](https://open.spotify.com/album/0A3QJ5aCPJoh0KxqRysTo6) | 8:26 |
 
-Snapshot ID: `MCw2MGFjYjI1YTNiNGM2NmJlNWM3MjBiNjBkOTQ2NjA1NDk4NTdhM2E4`
+Snapshot ID: `MCxkN2ExMDRkMGU5N2M3NDUwOWYzZDRiODYxOWMyYjJjMDBmNzA3MGIw`

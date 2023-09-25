@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-5,950 songs - 9 day 9 hr 39 min
+5,951 songs - 9 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2321,7 +2321,7 @@
 | [Home\_](https://open.spotify.com/track/1xtGl9Bz444K4f7mvyYTKm) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3), [MARTIN $KY](https://open.spotify.com/artist/0iK1U5DGAdiqJvL1vq858A) | [Home\_](https://open.spotify.com/album/2RZqTVcilRwVYj8nGR9X1t) | 2:17 | 2019-09-08 | 2021-06-04 |
 | [Homeboy](https://open.spotify.com/track/3oGQ8l61l9FVwjacyXONfp) | [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4) | [Homeboy](https://open.spotify.com/album/2T1yUCOwyDxZ4DmeIPrs1g) | 1:52 | 2020-08-30 | 2021-10-02 |
 | [Homecoming](https://open.spotify.com/track/6tM654EInJ5XGUpG3y0dz3) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Homecoming](https://open.spotify.com/album/5Pts60Xd2JiyN5DAb9fa2A) | 2:09 | 2022-11-25 | 2023-04-06 |
-| [Homecoming](https://open.spotify.com/track/4smqcp7wpCfclJHaWJGYP3) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t), [Torgny Elgstrand](https://open.spotify.com/artist/5bHkOOTJw2yCfHxIXtrZ7L) | [Homecoming](https://open.spotify.com/album/4beF7bvYVGfyBXqE2Rt16S) | 1:48 | 2023-02-13 | 2023-09-22 |
+| [Homecoming](https://open.spotify.com/track/4smqcp7wpCfclJHaWJGYP3) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t), [Torgny Elgstrand](https://open.spotify.com/artist/5bHkOOTJw2yCfHxIXtrZ7L) | [Homecoming](https://open.spotify.com/album/4beF7bvYVGfyBXqE2Rt16S) | 1:48 | 2023-02-13 |  |
 | [Homecooking](https://open.spotify.com/track/3rr4I5VFW8TJebCkbrQK3N) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [Homecooking](https://open.spotify.com/album/0SBmOpP4rB6nvKK82sYuXr) | 2:11 | 2023-05-31 | 2023-09-16 |
 | [Homem](https://open.spotify.com/track/1JDdR5is4gANpzsjEklSUW) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Homem](https://open.spotify.com/album/6XIrk9e2bDso281pKwHVgg) | 2:17 | 2020-10-27 | 2021-10-20 |
 | [Homem](https://open.spotify.com/track/6kuTiJKvaCLBIRjzZyZERM) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Homem](https://open.spotify.com/album/4DNUhGmLh60x15p2qKHR7w) | 2:17 | 2021-10-26 | 2022-05-05 |
@@ -3078,6 +3078,7 @@
 | [Low Light](https://open.spotify.com/track/50GgGFke22W9dVw6AgGHJu) | [NogEgg](https://open.spotify.com/artist/3zNeAHbUtEQvwQ62KLn9FT) | [Low Light](https://open.spotify.com/album/541XWxsAYmzTzAGndjcEy3) | 2:07 | 2023-08-03 |  |
 | [Lowaltitude](https://open.spotify.com/track/2VjiQGqn4r6Y0a7V2V4NPB) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Lowaltitude](https://open.spotify.com/album/6NCUt3BUBQUn3XaLcgB8lO) | 2:05 | 2022-05-27 | 2022-09-23 |
 | [Lowkey](https://open.spotify.com/track/2vPZkk05tEl3NCwTSLqf9H) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Formal Chicken](https://open.spotify.com/artist/5k3Cw8TfLQt40L5dbqxJKD), [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD) | [Lowkey](https://open.spotify.com/album/16c23L2Mjpd6FbVMhLXCfl) | 2:08 | 2020-01-03 | 2020-07-07 |
+| [Lowkey](https://open.spotify.com/track/4sJFru7sPCDgKaYFBBgFB2) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [Lowkey](https://open.spotify.com/album/1h2ThUgZxnvMrDyRhbtRlP) | 2:18 | 2023-09-22 |  |
 | [Lowlands](https://open.spotify.com/track/1qVp6f89ewJz9Pid2MxBBH) | [Alina Hardin](https://open.spotify.com/artist/4cwcwW2CuzFhrXpUqS34Ku) | [Alina Hardin](https://open.spotify.com/album/0q9JmkGSdOxGJT5N0EEET8) | 4:36 | 2021-05-20 | 2021-08-31 |
 | [Lowlight](https://open.spotify.com/track/3xwT2Uqka5bypGpHIhWeNC) | [V.Raeter](https://open.spotify.com/artist/4xeIXkA9fl2gegj9YIfJtQ) | [Lowlight](https://open.spotify.com/album/0Eaml8vPlG7O1V6p3tM6R8) | 1:49 | 2022-01-14 | 2022-07-08 |
 | [Lowrider Club](https://open.spotify.com/track/3lNe8vCEfsoZSafUFqpSqH) | [Green Piccolo](https://open.spotify.com/artist/0Of8ndqAY23l2wV3sS6Zez) | [Lowrider Club](https://open.spotify.com/album/2Ds03w5NOuT8sAUCUw7kLu) | 2:43 | 2023-01-13 | 2023-03-25 |
@@ -4521,7 +4522,7 @@
 | [Shone](https://open.spotify.com/track/537zUO5oZmXNszz9Cl2cOH) | [catch92](https://open.spotify.com/artist/3yXLoJ2Yak6kiuXbSIssRo) | [Shone](https://open.spotify.com/album/53EahMxCQ0ks1UNa1WG15U) | 2:20 | 2022-09-02 | 2022-11-20 |
 | [Shooting Star](https://open.spotify.com/track/4MOhfQEoDhJ4Kb1SaWbMLZ) | [MAFFYN](https://open.spotify.com/artist/7i6UGI2zH0k1SsPgfFCB1S), [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx) | [Shooting Star](https://open.spotify.com/album/67GnuaHXixKDnuBoQf3UPK) | 2:12 | 2021-07-29 | 2022-03-12 |
 | [Shore](https://open.spotify.com/track/2fRZj7P8wV34zb5OltBVqE) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Shore](https://open.spotify.com/album/1TlRXsdSE49gQPU0yiIspY) | 2:40 | 2022-11-18 | 2023-02-14 |
-| [Shore Doze](https://open.spotify.com/track/4o658oYZwsyDSZ4q7Dy7yJ) | [Czapter](https://open.spotify.com/artist/26uxSNbgGIV8gFNvPNhZge) | [Music For Abandoned Airports](https://open.spotify.com/album/2ODE92UGcWARwXfaLvRLTx) | 2:22 | 2022-12-02 |  |
+| [Shore Doze](https://open.spotify.com/track/4o658oYZwsyDSZ4q7Dy7yJ) | [Czapter](https://open.spotify.com/artist/26uxSNbgGIV8gFNvPNhZge) | [Music For Abandoned Airports](https://open.spotify.com/album/2ODE92UGcWARwXfaLvRLTx) | 2:22 | 2022-12-02 | 2023-09-25 |
 | [Shorebreak](https://open.spotify.com/track/7nOB52izsr8QCUP6IdvMZF) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Shorebreak](https://open.spotify.com/album/04cnaZIcMfSDc5EKbqOOdE) | 1:21 | 2022-08-05 | 2022-11-18 |
 | [Shoreditch](https://open.spotify.com/track/0CQq9NEFcGNi3FMxpMKwj4) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Shoreditch](https://open.spotify.com/album/0swV7ZNwhh78Q6bqHVKJRc) | 2:33 | 2021-07-11 | 2022-03-12 |
 | [short run](https://open.spotify.com/track/45tQjnqMygB3NfLbkq3cIC) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Kushed Down](https://open.spotify.com/album/38EvL0BXMMcw9knOWRg0bq) | 1:30 | 2023-02-13 | 2023-05-10 |
@@ -5820,7 +5821,7 @@
 | [Winter in Paris](https://open.spotify.com/track/2bjZULuwwGlvNK83JeMzP1) | [gknister](https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7) | [Winter in Paris](https://open.spotify.com/album/4hNO3PRLJHxi0BXmgOP4Lm) | 2:01 | 2023-01-20 | 2023-09-22 |
 | [Winter Landscape In Moonlight](https://open.spotify.com/track/2vHEcAo2T6v3lT0KxJowyt) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Winter Landscape In Moonlight](https://open.spotify.com/album/02eZqjYgyFIWR5D766t27P) | 2:46 | 2022-12-09 | 2023-04-13 |
 | [Winter Melody](https://open.spotify.com/track/1p97ORAMUOY7ThHkyokXgC) | [Jazzy Underground](https://open.spotify.com/artist/4WyvUTY8OXpek6GksJh8wl) | [Winter Melody](https://open.spotify.com/album/7xcbWHqaVUGYEzBRxqGTd3) | 1:30 | 2023-01-06 | 2023-09-08 |
-| [Winter rain](https://open.spotify.com/track/4S2QNrT4UyeCZK9dyBpFnp) | [PRODA](https://open.spotify.com/artist/2wKsHaG2GNyzDYW3nhDlJZ) | [Winter rain](https://open.spotify.com/album/2iWEmXEyT7CSQ3sFMW3GDZ) | 2:13 | 2023-01-06 |  |
+| [Winter rain](https://open.spotify.com/track/4S2QNrT4UyeCZK9dyBpFnp) | [PRODA](https://open.spotify.com/artist/2wKsHaG2GNyzDYW3nhDlJZ) | [Winter rain](https://open.spotify.com/album/2iWEmXEyT7CSQ3sFMW3GDZ) | 2:13 | 2023-01-06 | 2023-09-25 |
 | [Winter Wonderland](https://open.spotify.com/track/7GvkwVWW90W8vvUIgj54vt) | [Soft Eyez](https://open.spotify.com/artist/6ojMQVQeJuZ8PGwHoIO4fT) | [Winter Wonderland](https://open.spotify.com/album/0QTZHBEsjse6oTZlOxbrJn) | 1:52 | 2021-12-17 | 2021-12-27 |
 | [wintertale](https://open.spotify.com/track/6Oaa0s5yzNB8LMGGM7dJDL) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [wintertale](https://open.spotify.com/album/741s6yQUkm8BSIbhOY2ABs) | 1:24 | 2022-12-23 | 2023-08-11 |
 | [Winter’s Butterfly](https://open.spotify.com/track/7KnEwMYwJIkW2PU8wqkEGG) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Winter’s Butterfly](https://open.spotify.com/album/052vacW1ZsS24rfrqDNqPO) | 2:21 | 2022-12-09 | 2023-01-20 |

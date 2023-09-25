@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,760 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,126 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Daddy DJ](https://open.spotify.com/track/2Rq69o9Sim7evcQ382ylPR) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Karlie Chui](https://open.spotify.com/artist/3DRMPNs23drO22bqK9ceWA) | [Daddy DJ](https://open.spotify.com/album/6Fp2vEjNNadaQMw0JgbFCZ) | 3:42 |
 | 70 | [Rhythm Of The Night](https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Rhythm Of The Night](https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE) | 3:10 |
 
-Snapshot ID: `MCwwZGUyMDY1OWZhN2YzODA0MDAyMzNhNDY3YzY4YWU2Mzg4Y2ZhNTNl`
+Snapshot ID: `MCwzYzZhMjcyYTkzODUwNzBiM2JmMTNhMzYxOWUzMGQ2OTk4OTJmYzY0`

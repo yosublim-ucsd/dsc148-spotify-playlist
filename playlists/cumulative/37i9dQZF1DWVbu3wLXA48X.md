@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: The National
 
-1,179 songs - 2 day 23 hr 8 min
+1,181 songs - 2 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Better \- Edit](https://open.spotify.com/track/6NIrjH865NExM8juniJlLY) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Better \(Edit\)](https://open.spotify.com/album/6R34iy63JPKrzmIUxCHnW7) | 3:31 | 2023-07-16 | 2023-08-26 |
 | [Better Apart](https://open.spotify.com/track/1MaXSKqoQ2UxothMqc77Xq) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [STILL EMO](https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz) | 3:10 | 2023-08-11 | 2023-09-01 |
 | [Better in the Shade](https://open.spotify.com/track/3A9xFLSTS6K9dII3fbDr4O) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 3:36 | 2022-04-22 | 2022-05-06 |
-| [Better Than Life](https://open.spotify.com/track/0fsh3O5K4Cih85nuCqekP0) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Better Than Life](https://open.spotify.com/album/23ja9hIqOtQ70oJCOPFEow) | 1:29 | 2023-09-01 |  |
+| [Better Than Life](https://open.spotify.com/track/0fsh3O5K4Cih85nuCqekP0) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Better Than Life](https://open.spotify.com/album/23ja9hIqOtQ70oJCOPFEow) | 1:29 | 2023-09-01 | 2023-09-25 |
+| [Better Than Life](https://open.spotify.com/track/1W7Gfi0JgMORjjPZkhNRlj) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/6aZFHnpTwonsLw8qVI5DdB) | 1:29 | 2023-09-22 |  |
 | [Between Me and Chicago](https://open.spotify.com/track/1PhvvtogiRMvf21bNpSbAF) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Chicago](https://open.spotify.com/album/6goOtwMw4OF57CNsO7MfRV) | 3:24 | 2022-07-22 | 2022-09-17 |
 | [Bewitched](https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp) | 4:06 | 2023-08-01 | 2023-09-01 |
 | [Bichulae \(feat\. Luli Lee\)](https://open.spotify.com/track/0Ygqbr8k7lp9VQpmRWVkzY) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL), [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Bichulae](https://open.spotify.com/album/0wqZQ4tOQj6pB1MlURlFof) | 3:09 | 2022-01-28 | 2022-03-25 |
@@ -387,7 +388,8 @@
 | [Full On](https://open.spotify.com/track/7KXtsy8RVVeVL5vj6twTTV) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Worlds End FM](https://open.spotify.com/album/14FhzR5HOUxorgSJ55Dr1E) | 2:43 | 2023-06-09 | 2023-07-01 |
 | [FULL TIME LOVER](https://open.spotify.com/track/4G2l27MHZ9bk2VKjKxOzOA) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Elvia](https://open.spotify.com/artist/40cMQJtnfUdWW2OY6wvCt2) | [FULL TIME LOVER](https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt) | 2:00 | 2022-08-26 | 2022-10-14 |
 | [Futures Bet](https://open.spotify.com/track/3yFjPsstCq0drlRdusBhgn) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Futures Bet](https://open.spotify.com/album/3defi3J2QNJ8eikcfjV7Gs) | 4:52 | 2023-01-13 | 2023-02-25 |
-| [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-22 |  |
+| [GAME](https://open.spotify.com/track/2aZ6Du5TkxZUjvHW9uH8Qj) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:45 | 2023-09-22 |  |
+| [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-22 | 2023-09-25 |
 | [Gamma Rays](https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Gamma Rays](https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3) | 4:20 | 2023-01-13 | 2023-02-25 |
 | [Garment Bag](https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Garment Bag](https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN) | 2:25 | 2023-06-30 | 2023-08-19 |
 | [Gettin’ to the Point](https://open.spotify.com/track/6pZOH8IcAfdSTXNMBs3pg6) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Reset](https://open.spotify.com/album/20NAtKWWeyYn9QIzOejT0Y) | 2:30 | 2022-08-11 | 2022-09-30 |

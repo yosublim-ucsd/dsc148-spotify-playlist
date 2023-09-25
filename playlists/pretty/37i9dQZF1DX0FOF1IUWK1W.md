@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Dj GBR, Mc IG, MC Ryan SP, MC PH, Mc Davi, Mc Luki, Mc Don Juan, Mc Kadu, TrapLaudo, MC GP, MC GH do 7 e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,912,896 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,915,896 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Leão](https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 2](https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf) | 2:46 |
 | 50 | [Namorando Ou Não \- Ao Vivo](https://open.spotify.com/track/0ZAL7RbP2FsM3rObV60o7T) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Namorando Ou Não \(Ao Vivo\)](https://open.spotify.com/album/6ZjnfGC0jZM3gnucvMpbpf) | 2:48 |
 
-Snapshot ID: `MCxlMDNjNzkxZDI3MjhmZTEyMTE2NTU0YzYxOGNiOGU5NmU1YWRiM2Mz`
+Snapshot ID: `MCw4NWE4MzM2Mjc0YWMyM2IwYzNkYTNhNDUzOTgyNDYzOWEwZjBhYTk2`

@@ -1,12 +1,12 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 78015,
+  "num_followers": 78214,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTc5ZDgwMmMzZTExOGYwMDBhNDcyZGU1MzYzNTQ5MTVkMDIxODIy",
+  "snapshot_id": "MCxiOGU1MDgxMWI1ODZjMjQ5N2Q1YTA5NzQ2YjBjZDRlZmQxNGI5MmFj",
   "tracks": [
     {
       "added_at": "2023-02-13 23:17:15",
@@ -555,8 +555,8 @@
     {
       "added_at": "2023-02-13 23:17:15",
       "album": {
-        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
+        "name": "2.000",
+        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 290733,
-      "name": "Como Te Olvido",
-      "url": "https://open.spotify.com/track/7IbDpOVisfNkYWR07l1Y5U"
+      "duration_ms": 289724,
+      "name": "Un Osito Dormilon",
+      "url": "https://open.spotify.com/track/2kfy5uzINhvThNfTqgXNPt"
     },
     {
       "added_at": "2023-02-13 23:17:15",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-02-13 23:17:15",
       "album": {
-        "name": "Tierra Mala",
-        "url": "https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        }
-      ],
-      "duration_ms": 289933,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf"
-    },
-    {
-      "added_at": "2023-02-13 23:17:15",
-      "album": {
         "name": "Alto Voltaje",
         "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 246800,
       "name": "Infiel",
       "url": "https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp"
+    },
+    {
+      "added_at": "2023-02-13 23:17:15",
+      "album": {
+        "name": "Tierra Mala",
+        "url": "https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        }
+      ],
+      "duration_ms": 289933,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf"
     },
     {
       "added_at": "2023-02-13 23:17:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 
 > Non\-stop energy, riffs and belters.\. it never gets old, no guest list required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,516 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,626 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 | 49 | [Big](https://open.spotify.com/track/06KIwbnnaaXJSw4iDXEWj8) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7) | 1:45 |
 | 50 | [It's Getting Boring By The Sea](https://open.spotify.com/track/0Y1FLqg7c4YFCKP2F6HXsG) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [Box of Secrets](https://open.spotify.com/album/0uOyWZz1ZnQczjvuF9SWWf) | 2:56 |
 
-Snapshot ID: `MCw3OGEzYjVhOGI3MzUzZjVhYjcyMzcyZDMzZWYxMTM0YmI1OGRmOGMz`
+Snapshot ID: `MCxjNTkyMTYyYjhlNDk5MDI4MTg2NDFkYjcxMTY3NDZhM2Y5MjZiY2I2`

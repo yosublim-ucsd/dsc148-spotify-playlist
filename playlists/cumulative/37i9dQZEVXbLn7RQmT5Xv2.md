@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-700 songs - 1 day 16 hr 33 min
+701 songs - 1 day 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,7 +454,7 @@
 | [Salt El Zein \- صلاة الزين](https://open.spotify.com/track/5o7YSTsbNeo98lSacuNIi5) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Salt El Zein \- صلاة الزين](https://open.spotify.com/album/2FLoi19Rf5ejnlHfPYF4zp) | 2:36 | 2023-05-01 |  |
 | [SAME3 EL HAKY](https://open.spotify.com/track/4TsCqhS1FsmVTXrNzjykbr) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Lorenzoo](https://open.spotify.com/artist/2xKNNvun5ikWnywLrU5Gr7) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 2:14 | 2023-02-22 | 2023-04-26 |
 | [Samurai](https://open.spotify.com/track/7dTgSeAVu9EWJusdCsRyTo) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Samurai](https://open.spotify.com/album/17r6jfsKAlkpqUPuMOHClZ) | 2:55 | 2021-03-27\* | 2022-09-26 |
-| [Samurai](https://open.spotify.com/track/1EBmjew9K69csBqRxI8BeO) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 2:57 | 2022-09-25 |  |
+| [Samurai](https://open.spotify.com/track/1EBmjew9K69csBqRxI8BeO) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 2:57 | 2022-09-25 | 2023-09-25 |
 | [SAN STEFANO](https://open.spotify.com/track/0B6AYBv6KlwUwHtAIj9lzF) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/6KKkeRpV3Nf7QVouHOyqNR) | 2:57 | 2022-06-13 | 2022-07-21 |
 | [SAN STEFANO](https://open.spotify.com/track/2iFj2z7KNZjQfYZHVk02ZT) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 2:57 | 2022-07-28 | 2022-09-16 |
 | [SAN STEFANO](https://open.spotify.com/track/3uuBWISXaoIBP5qzBGRHkC) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 2:57 | 2022-07-20 | 2022-07-29 |
@@ -642,6 +642,7 @@
 | [سمع هس](https://open.spotify.com/track/7v6T4DIvmmmUmyAxMdNUAJ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Karim Abdelaziz](https://open.spotify.com/artist/2MFCrt54MlbqNJZdjWiTUs), [Karim Mahmoud Abdelaziz](https://open.spotify.com/artist/0jDk5u8slIxP4B5AtbyZq6) | [سمع هس](https://open.spotify.com/album/44zSqMLdhsuJc6iGs9VruL) | 2:36 | 2023-07-19 | 2023-09-24 |
 | [سيري](https://open.spotify.com/track/6GC2ckZFyjdbAfAHPYRER2) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [سيري](https://open.spotify.com/album/5NHI0t2ytAVZTVIM0XfTBZ) | 3:33 | 2022-04-05 | 2022-04-23 |
 | [شارع الحياه مش هو هو \- كنت اسد بس الحسد](https://open.spotify.com/track/5uY9sxUgX1EarWZXCKdzzu) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [شارع الحياه مش هو هو \(كنت اسد بس الحسد\)](https://open.spotify.com/album/5KoxyECjOwq9JjiRwxfoTZ) | 4:57 | 2023-09-23 |  |
+| [شايفك متابع عصام صاصا و محمود الليثي \- \( سيبك اللي خلع \)](https://open.spotify.com/track/0mHuKt8J66Uvjvot1pM3Lm) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [شايفك متابع عصام صاصا و محمود الليثي](https://open.spotify.com/album/41oKKeUNmcZiWwX7BGRRF0) | 2:42 | 2023-09-24 |  |
 | [شيراتون](https://open.spotify.com/track/3S2aU4rUZXbVOxyVzgzXQ5) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [شيراتون](https://open.spotify.com/album/0aB2clpFGE0NgXtRKtO5PS) | 3:34 | 2021-03-27\* | 2022-03-01 |
 | [شيماء](https://open.spotify.com/track/4neYwcLQvLZ6kEdgF0cicX) | [Yousef Sosta \- يوسف سوسته](https://open.spotify.com/artist/65Nyf594MWahWOsMrgcFq9) | [شيماء](https://open.spotify.com/album/1iyn88en2SMsBTW6JEUMmf) | 2:04 | 2021-12-02 | 2021-12-06 |
 | [صاحبي من غبائه](https://open.spotify.com/track/3RLpfYSIQlW1YI6bIexpUy) | [Mody Amin](https://open.spotify.com/artist/65PQtmRWkjiL4TrRyLo2Gx), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [صاحبي من غبائه](https://open.spotify.com/album/1K9oCdpNQGZfDGDvHzLEbb) | 4:09 | 2021-05-06 | 2023-04-25 |

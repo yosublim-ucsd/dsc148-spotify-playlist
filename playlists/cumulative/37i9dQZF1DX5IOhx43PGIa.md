@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: Laufey.
 
-610 songs - 1 day 7 hr 42 min
+611 songs - 1 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [everything sucks \(feat\. Eric Nam\)](https://open.spotify.com/track/5AUMjaFnLEWzriTPTOEI56) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [everything sucks \(feat\. Eric Nam\)](https://open.spotify.com/album/3mx2H1xWJmafdZAH06TEHI) | 1:59 | 2022-05-27 | 2022-06-04 |
 | [EXPIRED](https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [EXPIRED](https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy) | 2:26 | 2022-05-27 | 2023-05-06 |
 | [F.R.A.](https://open.spotify.com/track/1G19L5PfO1tBVCTXlnk7Rp) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [F.R.A.](https://open.spotify.com/album/0pHPutLElm4mGvrKYr4sRW) | 2:14 | 2022-05-27 | 2022-06-04 |
+| [Falling In Love](https://open.spotify.com/track/03c2bluectSWUWsIRbSpjB) | [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp), [Dinah Jane](https://open.spotify.com/artist/59KQTERLpPa7M0F25fRH6V) | [Falling In Love](https://open.spotify.com/album/4RDu4REbJHnc4rgvulKdUs) | 2:25 | 2023-09-22 |  |
 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 | 2023-08-11 |  |
 | [Feels Like I'm Flying](https://open.spotify.com/track/0rOoY7stMHi3T7J2KmkNdV) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/7Kwkp5g082UgcpJtXVOEh7) | 2:35 | 2022-11-11 | 2023-02-18 |
 | [Feels Like I'm Flying](https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/6qjchU3qtiwl1TJfM2Pgru) | 2:35 | 2022-05-27 | 2022-10-13 |
@@ -274,7 +275,7 @@
 | [I Wish I Didn't Love You](https://open.spotify.com/track/6JuD8oygJeA3kfUH7BqXZg) | [Ashley Mehta](https://open.spotify.com/artist/0SkdOD7lcoBZaLOh2dsMsA) | [I Wish I Didn't Love You](https://open.spotify.com/album/106vwzEKRQeu6OqP7KOk2p) | 3:09 | 2023-03-10 | 2023-08-26 |
 | [i'm having a hard time being myself](https://open.spotify.com/track/0SWaiAaopRPU4waN2GO9lZ) | [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU) | [i'm having a hard time being myself](https://open.spotify.com/album/3NdGDRYfBGATp0dKub8B09) | 2:56 | 2022-05-27 | 2022-12-30 |
 | [I'm Not Crying](https://open.spotify.com/track/1aHHY8YfeH2tepf185bzF7) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [I'm Not Crying](https://open.spotify.com/album/2uUnItlwyHkVGL7INYvinp) | 2:29 | 2023-05-12 | 2023-08-27 |
-| [I'VE SEEN THIS MOVIE BEFORE Pt.2](https://open.spotify.com/track/6bZ6d4DqovVDecNAluId9h) | [hyejin](https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX), [Aleebi](https://open.spotify.com/artist/5eo2IBMqyII25TtyBJ4359), [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [I'VE SEEN THIS MOVIE BEFORE Pt.2](https://open.spotify.com/album/3qJp0l4TtjzUNXQ3cJnMPh) | 3:28 | 2023-05-05 |  |
+| [I'VE SEEN THIS MOVIE BEFORE Pt.2](https://open.spotify.com/track/6bZ6d4DqovVDecNAluId9h) | [hyejin](https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX), [Aleebi](https://open.spotify.com/artist/5eo2IBMqyII25TtyBJ4359), [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [I'VE SEEN THIS MOVIE BEFORE Pt.2](https://open.spotify.com/album/3qJp0l4TtjzUNXQ3cJnMPh) | 3:28 | 2023-05-05 | 2023-09-25 |
 | [IdgaF](https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [IdgaF](https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk) | 1:43 | 2023-07-07 | 2023-08-31 |
 | [If I Say I Love You](https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [If I Say I Love You](https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP) | 3:50 | 2023-09-22 |  |
 | [If You Leave Me Alone](https://open.spotify.com/track/4BJV20iCiOS0GAETnb94HI) | [Bones & The Boy](https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [Bones & The Boy](https://open.spotify.com/album/3iOJeQg8mGnbKmOlsZtUlT) | 2:31 | 2022-06-24 | 2023-02-18 |

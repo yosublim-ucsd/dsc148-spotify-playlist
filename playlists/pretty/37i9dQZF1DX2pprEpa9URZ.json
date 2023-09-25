@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 732194,
+  "num_followers": 732378,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjZlZTBhMGRhMGUwYmU2NTI4OTdiNzY2ZTVjYjVjMTM2ZDE5OThk",
+  "snapshot_id": "MCw3ZGUzMzJjYTIyZGIwMDE0Mjk4NmJjNWEzZmZlOWRjYWEyOGZiYzFm",
   "tracks": [
     {
       "added_at": "2023-09-01 17:03:00",
@@ -527,6 +527,26 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
+        "name": "Mori Shej",
+        "url": "https://open.spotify.com/album/1poZEQjEYpOq7YZ1KUHHGu"
+      },
+      "artists": [
+        {
+          "name": "Satori",
+          "url": "https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0"
+        },
+        {
+          "name": "Peia",
+          "url": "https://open.spotify.com/artist/7fmsT5hyByIpjzMfgrhTM2"
+        }
+      ],
+      "duration_ms": 274261,
+      "name": "Mori Shej",
+      "url": "https://open.spotify.com/track/6xP9DPvBHvyNGlARsRs0Vg"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
         "name": "6 Years of Underyourskin Records",
         "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 449509,
       "name": "Se Va, Se Va",
       "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
-        "name": "Mori Shej",
-        "url": "https://open.spotify.com/album/1poZEQjEYpOq7YZ1KUHHGu"
-      },
-      "artists": [
-        {
-          "name": "Satori",
-          "url": "https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0"
-        },
-        {
-          "name": "Peia",
-          "url": "https://open.spotify.com/artist/7fmsT5hyByIpjzMfgrhTM2"
-        }
-      ],
-      "duration_ms": 274261,
-      "name": "Mori Shej",
-      "url": "https://open.spotify.com/track/6xP9DPvBHvyNGlARsRs0Vg"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -759,26 +759,6 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Chaghaf",
-        "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        }
-      ],
-      "duration_ms": 427000,
-      "name": "Chaghaf",
-      "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
         "name": "Man Dies Alone",
         "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
       },
@@ -811,18 +791,22 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Kanasi",
-        "url": "https://open.spotify.com/album/01lYRkmYe19HKCTPOcrIs1"
+        "name": "Chaghaf",
+        "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
       },
       "artists": [
         {
-          "name": "Solidmind",
-          "url": "https://open.spotify.com/artist/1SDkgFr0b1jBtP7tenTJEF"
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
         }
       ],
-      "duration_ms": 387898,
-      "name": "Kanasi",
-      "url": "https://open.spotify.com/track/01Fg7rZ2Zlitgplt3TCjQH"
+      "duration_ms": 427000,
+      "name": "Chaghaf",
+      "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -847,18 +831,18 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Ay vora",
-        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
+        "name": "Kanasi",
+        "url": "https://open.spotify.com/album/01lYRkmYe19HKCTPOcrIs1"
       },
       "artists": [
         {
-          "name": "Essex",
-          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
+          "name": "Solidmind",
+          "url": "https://open.spotify.com/artist/1SDkgFr0b1jBtP7tenTJEF"
         }
       ],
-      "duration_ms": 273142,
-      "name": "Ay vora",
-      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
+      "duration_ms": 387898,
+      "name": "Kanasi",
+      "url": "https://open.spotify.com/track/01Fg7rZ2Zlitgplt3TCjQH"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -891,6 +875,22 @@
       "duration_ms": 454680,
       "name": "Into Your Tribe - Bedouin Remix",
       "url": "https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Ay vora",
+        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
+      },
+      "artists": [
+        {
+          "name": "Essex",
+          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
+        }
+      ],
+      "duration_ms": 273142,
+      "name": "Ay vora",
+      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Bosque",
-        "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
-      },
-      "artists": [
-        {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
-        }
-      ],
-      "duration_ms": 393428,
-      "name": "Bosque",
-      "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
         "name": "The Landing",
         "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 435466,
       "name": "The Landing - Nadav Dagon & JPattersson",
       "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Bosque",
+        "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        }
+      ],
+      "duration_ms": 393428,
+      "name": "Bosque",
+      "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Doors To Shambhala",
-        "url": "https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr"
-      },
-      "artists": [
-        {
-          "name": "You Man",
-          "url": "https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp"
-        }
-      ],
-      "duration_ms": 271906,
-      "name": "Ummo",
-      "url": "https://open.spotify.com/track/4MKb3ULfmzOcPpoho89AaJ"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
         "name": "Osam",
         "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 482715,
       "name": "Entrecote",
       "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Doors To Shambhala",
+        "url": "https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr"
+      },
+      "artists": [
+        {
+          "name": "You Man",
+          "url": "https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp"
+        }
+      ],
+      "duration_ms": 271906,
+      "name": "Ummo",
+      "url": "https://open.spotify.com/track/4MKb3ULfmzOcPpoho89AaJ"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Limbo EP",
-        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
-      },
-      "artists": [
-        {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
-        }
-      ],
-      "duration_ms": 401815,
-      "name": "Wawanko",
-      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
         "name": "Solstice Vibes III",
         "url": "https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 403831,
       "name": "Flowers in Mind",
       "url": "https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Limbo EP",
+        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
+      },
+      "artists": [
+        {
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+        }
+      ],
+      "duration_ms": 401815,
+      "name": "Wawanko",
+      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -1203,22 +1203,6 @@
       "duration_ms": 201818,
       "name": "Raga",
       "url": "https://open.spotify.com/track/3uyd4cW7ukADr3iSjFIy5G"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
-        "name": "RAI",
-        "url": "https://open.spotify.com/album/3ydSWrutw1Q9JMXkTnFBUW"
-      },
-      "artists": [
-        {
-          "name": "Sound Quelle",
-          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
-        }
-      ],
-      "duration_ms": 238168,
-      "name": "RAI",
-      "url": "https://open.spotify.com/track/2aEugZjPLE6nDImluCkcS1"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -1255,34 +1239,18 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/5LlS93cEkVy5VermCbVEp4"
+        "name": "RAI",
+        "url": "https://open.spotify.com/album/3ydSWrutw1Q9JMXkTnFBUW"
       },
       "artists": [
         {
-          "name": "Antaares",
-          "url": "https://open.spotify.com/artist/4a6SWpboKXeExMh2XbSHC3"
+          "name": "Sound Quelle",
+          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
         }
       ],
-      "duration_ms": 396960,
-      "name": "Ciclos",
-      "url": "https://open.spotify.com/track/6G6SAy7BwNGKttAFGjADmQ"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
-        "name": "Jendayi EP",
-        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
-      },
-      "artists": [
-        {
-          "name": "Anber",
-          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
-        }
-      ],
-      "duration_ms": 391511,
-      "name": "Jendayi",
-      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
+      "duration_ms": 238168,
+      "name": "RAI",
+      "url": "https://open.spotify.com/track/2aEugZjPLE6nDImluCkcS1"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -1303,6 +1271,38 @@
       "duration_ms": 408000,
       "name": "Dilmano Dilbero - Sariel Orenda Remix",
       "url": "https://open.spotify.com/track/7bx1ucv7nua47Eaf3024Mt"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Jendayi EP",
+        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
+      },
+      "artists": [
+        {
+          "name": "Anber",
+          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
+        }
+      ],
+      "duration_ms": 391511,
+      "name": "Jendayi",
+      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/5LlS93cEkVy5VermCbVEp4"
+      },
+      "artists": [
+        {
+          "name": "Antaares",
+          "url": "https://open.spotify.com/artist/4a6SWpboKXeExMh2XbSHC3"
+        }
+      ],
+      "duration_ms": 396960,
+      "name": "Ciclos",
+      "url": "https://open.spotify.com/track/6G6SAy7BwNGKttAFGjADmQ"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -1347,30 +1347,6 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Voodoo Guitar",
-        "url": "https://open.spotify.com/album/1fvW1MQTnRPKT0xqE5cKzI"
-      },
-      "artists": [
-        {
-          "name": "Dan Bay",
-          "url": "https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw"
-        },
-        {
-          "name": "Max Clouth",
-          "url": "https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1"
-        },
-        {
-          "name": "Timboletti",
-          "url": "https://open.spotify.com/artist/4i0bLWWYQMI3P1KFrTWsHG"
-        }
-      ],
-      "duration_ms": 637455,
-      "name": "Voodoo Guitar - Timboletti Remix",
-      "url": "https://open.spotify.com/track/73dICB4SbDjpD4ShzTyLM1"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
         "name": "Version",
         "url": "https://open.spotify.com/album/5PpbFirZsHSSonZhxWx500"
       },
@@ -1395,6 +1371,30 @@
       "duration_ms": 329756,
       "name": "Afro Sambroso - Rampa Version",
       "url": "https://open.spotify.com/track/23IBJoNkMZNL286OoJobc9"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Voodoo Guitar",
+        "url": "https://open.spotify.com/album/1fvW1MQTnRPKT0xqE5cKzI"
+      },
+      "artists": [
+        {
+          "name": "Dan Bay",
+          "url": "https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw"
+        },
+        {
+          "name": "Max Clouth",
+          "url": "https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1"
+        },
+        {
+          "name": "Timboletti",
+          "url": "https://open.spotify.com/artist/4i0bLWWYQMI3P1KFrTWsHG"
+        }
+      ],
+      "duration_ms": 637455,
+      "name": "Voodoo Guitar - Timboletti Remix",
+      "url": "https://open.spotify.com/track/73dICB4SbDjpD4ShzTyLM1"
     },
     {
       "added_at": "2023-09-01 17:03:00",

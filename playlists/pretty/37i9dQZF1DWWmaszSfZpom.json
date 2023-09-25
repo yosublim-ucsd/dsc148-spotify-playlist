@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 1010429,
+  "num_followers": 1010474,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2VlNWJkYzBiOGI0ZjUwZGY3MTAzMmI0YWYzNGZiMjJkOTc2MTBi",
+  "snapshot_id": "MCxiMTY0ZjE1NTQ2NjdlZjM2ZmU3ZTQ3OTMyNDFhYzgwZjMwZmE5MGUw",
   "tracks": [
     {
       "added_at": "2023-06-26 14:06:50",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "BRABA",
-        "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 129782,
-      "name": "BRABA",
-      "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Ela \u00c9 do Tipo",
         "url": "https://open.spotify.com/album/1hG0rwH2mYAzpWhGEYBRS8"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 204930,
       "name": "Ela \u00c9 do Tipo",
       "url": "https://open.spotify.com/track/2x8TNY9KwNvD19gVGs4WOP"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "BRABA",
+        "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 129782,
+      "name": "BRABA",
+      "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -423,6 +423,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Vem Me Satisfazer",
+        "url": "https://open.spotify.com/album/04frJOjcTaZjBc80SmMhHN"
+      },
+      "artists": [
+        {
+          "name": "MC Ingryd",
+          "url": "https://open.spotify.com/artist/09EYYUcfEDOvj3D5f45L99"
+        },
+        {
+          "name": "DJ Henrique da VK",
+          "url": "https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ"
+        }
+      ],
+      "duration_ms": 188388,
+      "name": "Vem Me Satisfazer",
+      "url": "https://open.spotify.com/track/63SHcJzckFykS8faA5zojY"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/1iCDTyPPAevNAvqC6WFlRy"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 276480,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/0qxLQ6opocOGyFnlXqJ53x"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Vem Me Satisfazer",
-        "url": "https://open.spotify.com/album/04frJOjcTaZjBc80SmMhHN"
-      },
-      "artists": [
-        {
-          "name": "MC Ingryd",
-          "url": "https://open.spotify.com/artist/09EYYUcfEDOvj3D5f45L99"
-        },
-        {
-          "name": "DJ Henrique da VK",
-          "url": "https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ"
-        }
-      ],
-      "duration_ms": 188388,
-      "name": "Vem Me Satisfazer",
-      "url": "https://open.spotify.com/track/63SHcJzckFykS8faA5zojY"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "VAI MENINA",
-        "url": "https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 122435,
-      "name": "VAI MENINA",
-      "url": "https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Privil\u00e9gio",
         "url": "https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 151384,
       "name": "Privil\u00e9gio",
       "url": "https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "VAI MENINA",
+        "url": "https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 122435,
+      "name": "VAI MENINA",
+      "url": "https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -755,22 +755,18 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "TOMA",
-        "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
+        "name": "Fuleragem",
+        "url": "https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+          "name": "MC WM",
+          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
         }
       ],
-      "duration_ms": 129654,
-      "name": "TOMA",
-      "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
+      "duration_ms": 141473,
+      "name": "Fuleragem",
+      "url": "https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -791,18 +787,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Fuleragem",
-        "url": "https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT"
+        "name": "TOMA",
+        "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
       },
       "artists": [
         {
-          "name": "MC WM",
-          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
         }
       ],
-      "duration_ms": 141473,
-      "name": "Fuleragem",
-      "url": "https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay"
+      "duration_ms": 129654,
+      "name": "TOMA",
+      "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -875,46 +875,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Rainha da Favela",
-        "url": "https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 160904,
-      "name": "Rainha da Favela",
-      "url": "https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "MODO TURBO",
-        "url": "https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 150259,
-      "name": "MODO TURBO",
-      "url": "https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Ritmo Mexicano",
         "url": "https://open.spotify.com/album/5DCpaUsXmzXZbZ3ETGZOJv"
       },
@@ -927,6 +887,22 @@
       "duration_ms": 190354,
       "name": "Ritmo Mexicano",
       "url": "https://open.spotify.com/track/0SEq5iH5GdLdu4LBf9CzOW"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Rainha da Favela",
+        "url": "https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 160904,
+      "name": "Rainha da Favela",
+      "url": "https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -971,6 +947,30 @@
       "duration_ms": 161730,
       "name": "Preta do Cabelo Cacheado",
       "url": "https://open.spotify.com/track/0Ve3XWcrsgy90xo0UL2syx"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "MODO TURBO",
+        "url": "https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 150259,
+      "name": "MODO TURBO",
+      "url": "https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Espirra o lan\u00e7a",
+        "url": "https://open.spotify.com/album/2vVlusorMbZz0KabAljXLV"
+      },
+      "artists": [
+        {
+          "name": "DJ Kaue00s",
+          "url": "https://open.spotify.com/artist/1XFWZNuLxDjQR35rEwbquF"
+        }
+      ],
+      "duration_ms": 190058,
+      "name": "Espirra o lan\u00e7a",
+      "url": "https://open.spotify.com/track/5FTsdMGSSqWaFa3igQZ53p"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Amor ou o Litr\u00e3o",
         "url": "https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 173913,
       "name": "Amor ou o Litr\u00e3o",
       "url": "https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Espirra o lan\u00e7a",
-        "url": "https://open.spotify.com/album/2vVlusorMbZz0KabAljXLV"
-      },
-      "artists": [
-        {
-          "name": "DJ Kaue00s",
-          "url": "https://open.spotify.com/artist/1XFWZNuLxDjQR35rEwbquF"
-        }
-      ],
-      "duration_ms": 190058,
-      "name": "Espirra o lan\u00e7a",
-      "url": "https://open.spotify.com/track/5FTsdMGSSqWaFa3igQZ53p"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1303,30 +1303,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Tudo Ok",
-        "url": "https://open.spotify.com/album/33h1DnrztGgynGDWwzQEiA"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho MT",
-          "url": "https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV"
-        },
-        {
-          "name": "Mila",
-          "url": "https://open.spotify.com/artist/606eWexxNhc6Mj0RuCxMA9"
-        },
-        {
-          "name": "JS o M\u00e3o de Ouro",
-          "url": "https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Tudo Ok",
-      "url": "https://open.spotify.com/track/4HUZBG98TYbxSR9V1V2DWS"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Catucada Profunda",
         "url": "https://open.spotify.com/album/1EEgxBKfry7iIg1VNN63X5"
       },
@@ -1347,6 +1323,30 @@
       "duration_ms": 173538,
       "name": "Catucada Profunda",
       "url": "https://open.spotify.com/track/4chepxSHy5zbkLSpTVOJ1o"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Tudo Ok",
+        "url": "https://open.spotify.com/album/33h1DnrztGgynGDWwzQEiA"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho MT",
+          "url": "https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV"
+        },
+        {
+          "name": "Mila",
+          "url": "https://open.spotify.com/artist/606eWexxNhc6Mj0RuCxMA9"
+        },
+        {
+          "name": "JS o M\u00e3o de Ouro",
+          "url": "https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Tudo Ok",
+      "url": "https://open.spotify.com/track/4HUZBG98TYbxSR9V1V2DWS"
     },
     {
       "added_at": "2023-06-26 14:06:50",

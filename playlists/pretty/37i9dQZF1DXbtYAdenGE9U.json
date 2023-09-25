@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 470027,
+  "num_followers": 470999,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -419,26 +419,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
-      },
-      "artists": [
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        },
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 210786,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "Vocal Trance Hits - The Anthems",
         "url": "https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 227133,
       "name": "Castles In The Sky",
       "url": "https://open.spotify.com/track/3uMZMYC0GurzpeTf9QvPe0"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        },
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 210786,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW"
     },
     {
       "added_at": "2023-08-11 10:02:57",

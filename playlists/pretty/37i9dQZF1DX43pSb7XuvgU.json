@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 121842,
+  "num_followers": 122026,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTFjNzE5ZDFjZjhjYjdiNWE1NmMwZTQyY2E2ZTVkMjg3YzM4YTEz",
+  "snapshot_id": "MCw4ZDU3YmUzZTczNjllZWY5MTAxNmJlZTlhOTQ5MDMwZjE3YjQ4MmU4",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Con Mariachi Vol.2",
-        "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 132773,
-      "name": "Ya No Vuelvo a Molestarte",
-      "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Cosas De Enamorados",
         "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
@@ -1279,8 +1263,8 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Siempre Estoy Pensando En Ti",
-        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
+        "name": "Con Mariachi Vol.2",
+        "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
       },
       "artists": [
         {
@@ -1288,9 +1272,9 @@
           "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 192266,
-      "name": "Que Sea Mi Condena",
-      "url": "https://open.spotify.com/track/6VBwBAHFJchFh9dtGvh4Zb"
+      "duration_ms": 132773,
+      "name": "Ya No Vuelvo a Molestarte",
+      "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1307,6 +1291,22 @@
       "duration_ms": 217160,
       "name": "Isi",
       "url": "https://open.spotify.com/track/7lmrAz5HtInzClDe8MXWw1"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Siempre Estoy Pensando En Ti",
+        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Que Sea Mi Condena",
+      "url": "https://open.spotify.com/track/6VBwBAHFJchFh9dtGvh4Zb"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Have You Ever Seen The Rain? (Gracias Al Sol)",
-        "url": "https://open.spotify.com/album/3X2YDyu4CldfyNrq293rjT"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 164213,
-      "name": "Have You Ever Seen The Rain? (Gracias Al Sol)",
-      "url": "https://open.spotify.com/track/1o42lyL3IxECjsj5hVryhZ"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 250813,
       "name": "La Frontera",
       "url": "https://open.spotify.com/track/7HMBDmx3tDOzBpyUuaB24v"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Have You Ever Seen The Rain? (Gracias Al Sol)",
+        "url": "https://open.spotify.com/album/3X2YDyu4CldfyNrq293rjT"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 164213,
+      "name": "Have You Ever Seen The Rain? (Gracias Al Sol)",
+      "url": "https://open.spotify.com/track/1o42lyL3IxECjsj5hVryhZ"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "El Pr\u00edncipe de la Canci\u00f3n",
+        "url": "https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 259946,
+      "name": "Te Quiero Tal Como Eres - Just the Way You Are",
+      "url": "https://open.spotify.com/track/5YmvD7VUaakAnlLUBBIz5W"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Los D\u00fao",
         "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 392813,
       "name": "As\u00ed Fue",
       "url": "https://open.spotify.com/track/7HGymGTKfdACYRI4g7H2Gu"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "El Pr\u00edncipe de la Canci\u00f3n",
-        "url": "https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 259946,
-      "name": "Te Quiero Tal Como Eres - Just the Way You Are",
-      "url": "https://open.spotify.com/track/5YmvD7VUaakAnlLUBBIz5W"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Musica Original De La Pelicula Gavilan O Paloma",
-        "url": "https://open.spotify.com/album/1QiCz8Wjz3lJLZnK7PEVhy"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 246893,
-      "name": "Mi Vida",
-      "url": "https://open.spotify.com/track/0eXhCBr3S9MlyUpW42aSyU"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "En el Palacio de Bellas Artes",
         "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 275000,
       "name": "De M\u00ed Enam\u00f3rate (En Vivo) - En el Palacio de Bellas Artes",
       "url": "https://open.spotify.com/track/1nxQjDGVHaaLNBD0uQMSTO"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Musica Original De La Pelicula Gavilan O Paloma",
+        "url": "https://open.spotify.com/album/1QiCz8Wjz3lJLZnK7PEVhy"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 246893,
+      "name": "Mi Vida",
+      "url": "https://open.spotify.com/track/0eXhCBr3S9MlyUpW42aSyU"
     },
     {
       "added_at": "2021-12-29 23:33:57",

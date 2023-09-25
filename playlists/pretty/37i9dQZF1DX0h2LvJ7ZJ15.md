@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,385 likes - 111 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038,909 likes - 111 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 110 | [Whatta Man \- Slowed + Reverb](https://open.spotify.com/track/6Wd9I9eFM4TX2XleK9Z4wp) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ), [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48), [Paul Leigh Paige](https://open.spotify.com/artist/0fxiEm0sTs3Itu0IW6Y44z) | [slowed + reverb](https://open.spotify.com/album/2aOhO8ulqkulygQQ1QHQYD) | 5:29 |
 | 111 | [Good Ones \- Perfume Genius Remix](https://open.spotify.com/track/0S986gqvIWWdZzTKZGqKfU) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Good Ones \(Perfume Genius Remix\)](https://open.spotify.com/album/0fF3b80mTfc9IXeSATBX0u) | 3:23 |
 
-Snapshot ID: `MCwxNjU2MGViMTZmMDc5NzI3ZTg0MDQzNDNmYzJmODU5ZjFiZWMyMDgz`
+Snapshot ID: `MCxhMjUxZWM0YWFiZmRhMTI5MmJlZDA0YzlmNDZmMmFlYTY2ZTMzMmE5`

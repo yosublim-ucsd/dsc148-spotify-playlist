@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-358 songs - 1 day 2 hr 6 min
+359 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Ever So Lonely / Eyes / Ocean](https://open.spotify.com/track/6PeTYB1Wiv5ijg46xkPBdE) | [Sheila Chandra](https://open.spotify.com/artist/7eYoqLpLD211aYrxb64AzN) | [Weaving My Ancestors' Voices \(Real World Gold\)](https://open.spotify.com/album/18xHLkID2nZIjqAGCrKVs6) | 3:24 | 2023-07-10 |  |
 | [Exodus](https://open.spotify.com/track/3UuqC9dKWG0bLu6TrPIe4F) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 7:40 | 2023-07-10 |  |
 | [Fantastic Man](https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0) | 6:26 | 2023-07-10 |  |
+| [Feel Good \(feat\. Khruangbin\) \- Edit](https://open.spotify.com/track/5EhyJGUafXNnPniaIQnSER) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Feel Good \(feat\. Khruangbin\)](https://open.spotify.com/album/1UsruEVoYrg43BOPvwAHry) | 3:37 | 2023-07-10 |  |
 | [Flores y Tamales](https://open.spotify.com/track/6gucJfZpSTJp3g0Do75dgM) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [The Thread That Keeps Us \(Deluxe Edition\)](https://open.spotify.com/album/5Ws4bwfBSjDopuj2oUISaU) | 2:48 | 2023-07-10 |  |
 | [Floricanto](https://open.spotify.com/track/0E1jfqTSwFlGFskSYqn3ZM) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI) | [La Llorona](https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP) | 4:10 | 2023-07-10 |  |
 | [Footsteps](https://open.spotify.com/track/6LN5AQcUWItYKTSwJPFIWy) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt), [Carol C](https://open.spotify.com/artist/3PDTHN0oVucy6WF2LVlS9A) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:51 | 2023-07-10 |  |
@@ -165,7 +166,7 @@
 | [I Put A Spell On You](https://open.spotify.com/track/7d8XI4XryEEn5PSEU0Qucw) | [Natacha Atlas](https://open.spotify.com/artist/0aVJmlOwIxTZeHzhFiFL5Y) | [Ayeshteni](https://open.spotify.com/album/6jh1Z1LrIk15IVIO5zceAH) | 3:42 | 2023-07-10 |  |
 | [I Zimbra \- 2005 Remaster](https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 3:08 | 2023-07-10 |  |
 | [I'd Rather Go Blind](https://open.spotify.com/track/0QTDCY85qljLPKHoekvrVL) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Daptone Records Singles Collection: Volume 5](https://open.spotify.com/album/6exNhKZyY5D4KOqSVJk0mx) | 3:33 | 2023-07-10 | 2023-08-14 |
-| [I'd Rather Go Blind](https://open.spotify.com/track/6SN0zMxQ7PlgpmwuVcGMgE) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [One Step Ahead](https://open.spotify.com/album/6oFyBwOwT0nh0hyOzr0Iht) | 3:36 | 2023-07-10 |  |
+| [I'd Rather Go Blind](https://open.spotify.com/track/6SN0zMxQ7PlgpmwuVcGMgE) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [One Step Ahead](https://open.spotify.com/album/6oFyBwOwT0nh0hyOzr0Iht) | 3:36 | 2023-07-10 | 2023-09-25 |
 | [Iko\-Iko](https://open.spotify.com/track/2wzFOtxpGbozpot0eQqsZ9) | [Zap Mama](https://open.spotify.com/artist/5UUHefXYUqgqmROQvDmJLL) | [A Ma Zone](https://open.spotify.com/album/251btTN1lTIGvJyyKiI19G) | 3:22 | 2023-07-10 |  |
 | [Ila Mata](https://open.spotify.com/track/76dtn2aKmnUOqE28BCzIuS) | [Bab L' Bluz](https://open.spotify.com/artist/07J09Vf9YReIIaFtarQshi) | [Nayda!](https://open.spotify.com/album/2Ctf8UeMAI9Iy2ODkUQyxv) | 4:23 | 2023-07-10 |  |
 | [Ilaló](https://open.spotify.com/track/36MwyyD3Bf7RHlq1zqmfMr) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Bienaventuranza](https://open.spotify.com/album/4drzgKTRP2tpl3Sic0osBQ) | 5:00 | 2023-07-10 |  |

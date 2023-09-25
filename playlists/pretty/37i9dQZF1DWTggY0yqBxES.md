@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Ben Reilly
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,302 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,393 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 9 | [SKED \[Feat\. Kenny Mason\]](https://open.spotify.com/track/57WwGbbzcKCG4tF4LdJjU5) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [SKED \[feat\. Kenny Mason\]](https://open.spotify.com/album/5aQJMDgrFgssrR5xS4p5MX) | 2:38 |
 | 10 | [Die Today](https://open.spotify.com/track/2AVrcU1B8cpy66ycCnkYvv) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [Die Today](https://open.spotify.com/album/5mkPnpc6Ueoa5hdb1aXYmY) | 2:58 |
 | 11 | [ACT](https://open.spotify.com/track/53digzlDS79znypcRuFXBo) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Mogli the Iceburg](https://open.spotify.com/artist/1SZikSUx9fZ2cUFjrmM6Sy) | [L O W B L O W](https://open.spotify.com/album/6HxhnZSjU62P9B0OzZXh1v) | 2:27 |
-| 12 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 |
+| 12 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 |
 | 13 | [FOCUSED](https://open.spotify.com/track/3IdXc5Yfz1pdsv5NfbKldV) | [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [GENERATIONAL CURSE](https://open.spotify.com/album/4eEU0y6UgZnMw4rqSV2xBs) | 4:28 |
 | 14 | [I Don't Wanna Be In Love, But I Don't Wanna Be Alone](https://open.spotify.com/track/0Cy1cXdjWDZogM5YVk0EDI) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [I Don't Wanna Be In Love, But I Don't Wanna Be Alone](https://open.spotify.com/album/78nImjHu9SijmNwWEccFQn) | 2:50 |
 | 15 | [ALMIGHTY DOLLAR/WHITSELL STREET](https://open.spotify.com/track/0BRmIGB86T8dFWiPLAnl77) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [SUNDAY DINNER](https://open.spotify.com/album/43C9qcFuylC5QjGspwpqTl) | 4:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [DevilSmilez!](https://open.spotify.com/track/7kNPpjQ9cLHVpnI1tRxNyQ) | [Trent the HOOLiGAN](https://open.spotify.com/artist/2LqdHOzQiJd0WRn0dcTDe9) | [ALLGASNOBRAKEZ!](https://open.spotify.com/album/1L5443W7z7PRMLuhgdjy1t) | 2:48 |
 | 100 | [High Beams \- JPEGMAFIA Remix](https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [High Beams \(JPEGMAFIA Remix\)](https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti) | 2:37 |
 
-Snapshot ID: `MCwyMjlmM2YyNmFiOGM1ZmY3ZmEwMzA5MGNjN2I5YjZiODI4NjY2ZThm`
+Snapshot ID: `MCw4MTY5NTNjZTNiMjVjNzZmMTY4OWI0NzdkYTM2YzBjMjVlZDgxOTMz`

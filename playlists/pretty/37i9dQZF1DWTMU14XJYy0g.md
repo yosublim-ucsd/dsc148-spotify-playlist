@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: La Franela
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,426 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,574 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 99 | [Nuevo Comienzo](https://open.spotify.com/track/67tXLMcNhEfTYBsuBQ8aHE) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Nuevo Comienzo](https://open.spotify.com/album/3t9n5vhwmuQU14VJZfCAmg) | 3:06 |
 | 100 | [Galvanizado](https://open.spotify.com/track/2fuNZrprXsWj8MxzAblDhO) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w) | [Galvanizado](https://open.spotify.com/album/4csOppCBwphip5JnxwhL7Z) | 3:17 |
 
-Snapshot ID: `MCw4NmU4ZjIxY2RhOTBkMTUzZDE5ZTE4NWViNTE3ZmQyMzBhOGExMDI5`
+Snapshot ID: `MCwyZDg2NmI4YmU4MjEzNjA0MTYwYTIxYzI0MzZlMmY4MmQ1NGU0MDFm`

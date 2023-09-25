@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 19376,
+  "num_followers": 19392,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzI0YWIyMzA3Y2I2NzkzMjQwMTM2NmQxMmQ4ZmRlZjA1ZWZjZWM0",
+  "snapshot_id": "MCxmNTVhN2QzYmI4OTEyODgxYzA0ODQ3NTRiYjE2YzgwYWJiNWNjYjY4",
   "tracks": [
     {
       "added_at": "2023-09-15 03:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Un X100To",
-        "url": "https://open.spotify.com/album/3qFH6xUlirc58HvKzoaQnU"
-      },
-      "artists": [
-        {
-          "name": "FrioLento",
-          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
-        }
-      ],
-      "duration_ms": 167673,
-      "name": "Un X100To",
-      "url": "https://open.spotify.com/track/3qqpcNOdikbvhBHfuNmNv0"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "Nuevos miedos - Nadie va a decidir por vos",
         "url": "https://open.spotify.com/album/0PxQldH41ENWpTMyX3buKN"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 221516,
       "name": "Nadie va a decidir por vos",
       "url": "https://open.spotify.com/track/3pQeLODdZQBI4f8DTiDlLs"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Un X100To",
+        "url": "https://open.spotify.com/album/3qFH6xUlirc58HvKzoaQnU"
+      },
+      "artists": [
+        {
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+        }
+      ],
+      "duration_ms": 167673,
+      "name": "Un X100To",
+      "url": "https://open.spotify.com/track/3qqpcNOdikbvhBHfuNmNv0"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/1MO1AHHmmTcd3LY40a15Xs"
-      },
-      "artists": [
-        {
-          "name": "Luca Bocci",
-          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
-        }
-      ],
-      "duration_ms": 206875,
-      "name": "Perla",
-      "url": "https://open.spotify.com/track/73A39Bh59zZbSuYxsKduVk"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "Puedo Con Esto (Fuera de Foco)",
         "url": "https://open.spotify.com/album/6CfLbqRfL0xrUIQZ6fa6id"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 234792,
       "name": "Puedo Con Esto - Fuera de Foco",
       "url": "https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/1MO1AHHmmTcd3LY40a15Xs"
+      },
+      "artists": [
+        {
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
+        }
+      ],
+      "duration_ms": 206875,
+      "name": "Perla",
+      "url": "https://open.spotify.com/track/73A39Bh59zZbSuYxsKduVk"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "La Primera Exploracion",
-        "url": "https://open.spotify.com/album/59xOCYVLOGYpUoygJU8ccU"
-      },
-      "artists": [
-        {
-          "name": "Temporada de Tormentas",
-          "url": "https://open.spotify.com/artist/1C78D9fdVfE6A4O09iplw4"
-        }
-      ],
-      "duration_ms": 337560,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/6VKX4w8MblhshBO4GHZlQi"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "La Nieve",
         "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 211699,
       "name": "La Nieve",
       "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "La Primera Exploracion",
+        "url": "https://open.spotify.com/album/59xOCYVLOGYpUoygJU8ccU"
+      },
+      "artists": [
+        {
+          "name": "Temporada de Tormentas",
+          "url": "https://open.spotify.com/artist/1C78D9fdVfE6A4O09iplw4"
+        }
+      ],
+      "duration_ms": 337560,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/6VKX4w8MblhshBO4GHZlQi"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "Bitcha",
+        "url": "https://open.spotify.com/album/1DbD5SRuAb3Hhtwy9WeGpK"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Desbats",
+          "url": "https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP"
+        }
+      ],
+      "duration_ms": 214738,
+      "name": "Bitcha",
+      "url": "https://open.spotify.com/track/66eI95IhQNQqaWEl8y8ExE"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "Ariel",
         "url": "https://open.spotify.com/album/7eb9kb0GxEUuK8HFuWKIya"
       },
@@ -1079,34 +1095,18 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Bitcha",
-        "url": "https://open.spotify.com/album/1DbD5SRuAb3Hhtwy9WeGpK"
+        "name": "Como Bailan los Dem\u00e1s",
+        "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
       },
       "artists": [
         {
-          "name": "Juli\u00e1n Desbats",
-          "url": "https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP"
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
         }
       ],
-      "duration_ms": 214738,
-      "name": "Bitcha",
-      "url": "https://open.spotify.com/track/66eI95IhQNQqaWEl8y8ExE"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Savia Roja",
-        "url": "https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B"
-      },
-      "artists": [
-        {
-          "name": "Las Luces Primeras",
-          "url": "https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY"
-        }
-      ],
-      "duration_ms": 153710,
-      "name": "Toxi",
-      "url": "https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF"
+      "duration_ms": 243951,
+      "name": "El Im\u00e1n",
+      "url": "https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Como Bailan los Dem\u00e1s",
-        "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
+        "name": "Savia Roja",
+        "url": "https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B"
       },
       "artists": [
         {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+          "name": "Las Luces Primeras",
+          "url": "https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY"
         }
       ],
-      "duration_ms": 243951,
-      "name": "El Im\u00e1n",
-      "url": "https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP"
+      "duration_ms": 153710,
+      "name": "Toxi",
+      "url": "https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "Rayo El\u00e9ctrico",
+        "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
+      },
+      "artists": [
+        {
+          "name": "Poncho",
+          "url": "https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 258629,
+      "name": "Rayo El\u00e9ctrico",
+      "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "El Club Audiovisual",
         "url": "https://open.spotify.com/album/6lQhvKS0pAvBzG54hATdiQ"
       },
@@ -1459,26 +1479,6 @@
       "duration_ms": 262500,
       "name": "San Camilo",
       "url": "https://open.spotify.com/track/311A2rODtSCuXld6Uyj4TQ"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Rayo El\u00e9ctrico",
-        "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
-      },
-      "artists": [
-        {
-          "name": "Poncho",
-          "url": "https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 258629,
-      "name": "Rayo El\u00e9ctrico",
-      "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Corriendo",
-        "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
-      },
-      "artists": [
-        {
-          "name": "TELESCOPIOS",
-          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
-        }
-      ],
-      "duration_ms": 159576,
-      "name": "Corriendo",
-      "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "La Cena",
         "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 166500,
       "name": "La Cena",
       "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Corriendo",
+        "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
+      },
+      "artists": [
+        {
+          "name": "TELESCOPIOS",
+          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
+        }
+      ],
+      "duration_ms": 159576,
+      "name": "Corriendo",
+      "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1651,6 +1651,30 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "No Ves Tal Vez (Evlay Remix)",
+        "url": "https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        },
+        {
+          "name": "Jono McCleery",
+          "url": "https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        }
+      ],
+      "duration_ms": 313608,
+      "name": "No Ves Tal Vez - Evlay Remix",
+      "url": "https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "AMORA",
         "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
       },
@@ -1667,22 +1691,6 @@
       "duration_ms": 208822,
       "name": "AMORA",
       "url": "https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Un Secreto",
-        "url": "https://open.spotify.com/album/4uxwhFNLUv5vpnrohAmxl7"
-      },
-      "artists": [
-        {
-          "name": "Un Pasillo",
-          "url": "https://open.spotify.com/artist/2RqgJvWs8T8DBZouPrOREw"
-        }
-      ],
-      "duration_ms": 172250,
-      "name": "Un Secreto",
-      "url": "https://open.spotify.com/track/6DpFtcYZwHLh0Lz5WLcCIZ"
     }
   ],
   "unique_name": "6PM Indie",

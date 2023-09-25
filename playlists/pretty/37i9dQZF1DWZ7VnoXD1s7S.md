@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,510 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,047 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 16 | [Oh Klahoma](https://open.spotify.com/track/6SZwj6cjc8JQbkrr8cbIUn) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:05 |
 | 17 | [I'll Never Smile Again](https://open.spotify.com/track/2Pi0rY9FcbaecqO0AyhXbu) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [The Seventeen Number Ones](https://open.spotify.com/album/1HgqHVY48hdhuiacZky4nV) | 3:09 |
 | 18 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 |
-| 19 | [Agony \- Instrumental](https://open.spotify.com/track/6HPmLVvM08mqGfYuUyjcOF) | [Scammacist](https://open.spotify.com/artist/6cMsaDvwIUXtHGQPDbqHvn) | [Agony \(Instrumental\)](https://open.spotify.com/album/6mt70ysyrbOAdJBEDjqfHM) | 5:01 |
+| 19 | [Agony \- Remix](https://open.spotify.com/track/0YsQ6dgNby7nascEb12v6G) | [NVBR](https://open.spotify.com/artist/51U1llIay9sKYGWqp76q5U) | [Agony \(Remix\)](https://open.spotify.com/album/5Xj154q0kijKbdlMVAwalw) | 5:01 |
 | 20 | [Memoir \#02 \[06.12.09\]](https://open.spotify.com/track/2mei1NCzlPpkh98PzEqc4N) | [Maria Pseftoga](https://open.spotify.com/artist/0eiGR5RtOEfEFqRhSp6mIa), [May Roosevelt](https://open.spotify.com/artist/3Fs0Rcn2Ss2fqbrLvLN4Kt) | [Memoir \#02 \[06.12.09\]](https://open.spotify.com/album/5bQrNKusEFt4fgS5z0Pjog) | 1:57 |
 | 21 | [Fallen Down \(Reprise\)](https://open.spotify.com/track/23b9BdZ2WZnDSeDzNUTVvZ) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 2:30 |
 | 22 | [Six Forty Seven](https://open.spotify.com/track/2WuK1opHQzRo18YXCtY2DF) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Six Forty Seven](https://open.spotify.com/album/0FawTVuFbmS9KLWA8TAtau) | 1:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 74 | [Submersible](https://open.spotify.com/track/0qsVyB8EPHAlId8v3jqpcg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4X5lHc7Fw8PPTbQAC37wvA) | 3:50 |
 | 75 | [Swimmer](https://open.spotify.com/track/7gZbMIgWT6TWzCTlkGaiIq) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [The Work](https://open.spotify.com/album/6WgLRmwO5Kljv9GjDiRHnV) | 1:34 |
 
-Snapshot ID: `MCwxMWI2NTE1NWU2MGI4ODlmYWQxNzZiNzVkOWY2YjE3OGNmODhmNjUw`
+Snapshot ID: `MCw0ZTcwNmE1YzM5MzYxYzk4M2UyOGI5MTI1MDk1MjA5NWZhMTlhMzQz`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNTU4NjAsMDAwMDAwMDBkZGZlYzA3OWQ4ZTY1NjJhMjRiOTQ2NTI0NTU0NTIyZQ==",
+  "snapshot_id": "MjgyNTU4NjAsMDAwMDAwMDAxNDFmODYzN2U2MzlhOTBiYjkyNDYwMDE3ZDhlNWVhNQ==",
   "tracks": [
     {
       "added_at": "2023-09-22 03:00:00",
@@ -195,30 +195,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Women of Piano. Great Female Pianists of the Golden Age, Vol. 2",
-        "url": "https://open.spotify.com/album/4BupmuWOYjSq0hNiVF1mfb"
-      },
-      "artists": [
-        {
-          "name": "Adolph von Henselt",
-          "url": "https://open.spotify.com/artist/2tvF63YWN56fC5aMVwEA6u"
-        },
-        {
-          "name": "Peter Phillips",
-          "url": "https://open.spotify.com/artist/2aWlsaSemY3u7rGARqX1xp"
-        },
-        {
-          "name": "Annie Cory",
-          "url": "https://open.spotify.com/artist/3u28vVaBm8Z3W1avMjsHRx"
-        }
-      ],
-      "duration_ms": 107589,
-      "name": "Etude De Concert, Op. 2, No. 6, Si Oiseau J'etais, \"Were I a Bird\" - Welte-Mignon 1654",
-      "url": "https://open.spotify.com/track/2xmFyAEU7U5Mr6Kjb9fJGa"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "Amanecer frente a tu casa",
         "url": "https://open.spotify.com/album/4GDQAefrY2m6Uu7pAvGTrT"
       },
@@ -247,6 +223,30 @@
       "duration_ms": 142812,
       "name": "Peace & Abundance",
       "url": "https://open.spotify.com/track/7o4CCMMBngZ6e6EvPrR2HV"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "Women of Piano. Great Female Pianists of the Golden Age, Vol. 2",
+        "url": "https://open.spotify.com/album/4BupmuWOYjSq0hNiVF1mfb"
+      },
+      "artists": [
+        {
+          "name": "Adolph von Henselt",
+          "url": "https://open.spotify.com/artist/2tvF63YWN56fC5aMVwEA6u"
+        },
+        {
+          "name": "Peter Phillips",
+          "url": "https://open.spotify.com/artist/2aWlsaSemY3u7rGARqX1xp"
+        },
+        {
+          "name": "Annie Cory",
+          "url": "https://open.spotify.com/artist/3u28vVaBm8Z3W1avMjsHRx"
+        }
+      ],
+      "duration_ms": 107589,
+      "name": "Etude De Concert, Op. 2, No. 6, Si Oiseau J'etais, \"Were I a Bird\" - Welte-Mignon 1654",
+      "url": "https://open.spotify.com/track/2xmFyAEU7U5Mr6Kjb9fJGa"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Live 1978 - 1992",
-        "url": "https://open.spotify.com/album/4EhLtPuNeDItiaoZy4gFBk"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 406306,
-      "name": "Sultans Of Swing - Live At The Rainbow / Dec 1979",
-      "url": "https://open.spotify.com/track/6rJUHPNJ6dHnqU6mrk3C1O"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "Fake As Hell (with Avril Lavigne)",
         "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 243520,
       "name": "Slave Driver - Live At The Sundown Theatre, Edmonton, UK / May 1973",
       "url": "https://open.spotify.com/track/6umprZ3p3BbDjBFa6bsKd4"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "Live 1978 - 1992",
+        "url": "https://open.spotify.com/album/4EhLtPuNeDItiaoZy4gFBk"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 406306,
+      "name": "Sultans Of Swing - Live At The Rainbow / Dec 1979",
+      "url": "https://open.spotify.com/track/6rJUHPNJ6dHnqU6mrk3C1O"
     },
     {
       "added_at": "2023-09-22 03:00:00",

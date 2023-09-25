@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Never Giving Up On That",
+        "url": "https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD"
+      },
+      "artists": [
+        {
+          "name": "Dalton Dover",
+          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174879,
+      "name": "Baby I Am",
+      "url": "https://open.spotify.com/track/29XXIfVUURyxLnMD5K6OZl"
+    },
+    {
+      "album": {
         "name": "Baby I Am",
         "url": "https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2"
       },
@@ -160,7 +178,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 176573,
       "name": "Baby I Am",
       "url": "https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3"
@@ -3098,10 +3116,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 178453,
       "name": "You Got a Small Town",
       "url": "https://open.spotify.com/track/1F7UVBrslkA96RCiXxIhQ3"
+    },
+    {
+      "album": {
+        "name": "Never Giving Up On That",
+        "url": "https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD"
+      },
+      "artists": [
+        {
+          "name": "Dalton Dover",
+          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179732,
+      "name": "You Got a Small Town",
+      "url": "https://open.spotify.com/track/4XETfjmA6u9yy3CSfh1oFL"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWY1wwcap53LA"

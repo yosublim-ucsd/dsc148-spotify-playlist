@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best in modern country music\. Cover: Maren Morris
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,400 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,508 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 74 | [Sometimes She Stays](https://open.spotify.com/track/0YyhcqBtNVFppSW6LOXJXU) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Damn Love](https://open.spotify.com/album/7mmVEoq1bAhpr3H5maA0T1) | 3:59 |
 | 75 | [All I Need Is You](https://open.spotify.com/track/0lbHiQaHPlp5gGtsUPtj6l) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [The Outlaw Side Of Me](https://open.spotify.com/album/4cp8Sbd4AguoCXt2qw4Dn2) | 2:42 |
 
-Snapshot ID: `MCxhODAwMTU2ZmFkOGNjMmFkYTRhMjEyNmJmMDQ4ZTBiNzczZjQyOWIz`
+Snapshot ID: `MCw5YTA0NDRmYjBjMmJjZTFjYjkyY2RlOGJiYzA2Mzg5ZDg5NTk5MWRh`

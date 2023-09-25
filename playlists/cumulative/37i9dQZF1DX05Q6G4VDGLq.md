@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-727 songs - 1 day 19 hr 40 min
+729 songs - 1 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [Hometown Again](https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Hometown Again](https://open.spotify.com/album/2eN9SpfwZpcRW8MYvptqKG) | 4:35 | 2022-10-27 |  |
 | [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 | 2022-06-28 |  |
 | [Hope](https://open.spotify.com/track/4bKVx5gwMwv0pEN79Jo8V6) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Hope](https://open.spotify.com/album/6KISGlQsr69gUTLtsLABa2) | 3:57 | 2022-12-08 | 2023-09-02 |
-| [Hoping](https://open.spotify.com/track/6RhZRRN9d78ef1Qhevnxkk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Hoping](https://open.spotify.com/album/4fSuViLnkUt5fKf6w3SxtC) | 3:23 | 2022-06-28 |  |
+| [Hoping](https://open.spotify.com/track/6RhZRRN9d78ef1Qhevnxkk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Hoping](https://open.spotify.com/album/4fSuViLnkUt5fKf6w3SxtC) | 3:23 | 2022-06-28 | 2023-09-25 |
 | [Hoppet](https://open.spotify.com/track/50QdRhmKuE8C2z1NGkiKxB) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Hoppet](https://open.spotify.com/album/6IOoncN42rM25gZJx0rp8J) | 2:35 | 2022-06-28 |  |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/4C4nNem1wGqL8xXrE1Ak1e) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [How Long Has This Been Going On?](https://open.spotify.com/album/3W0jGlzSvEXMh9tL3d2x3P) | 4:57 | 2022-06-28 | 2022-10-08 |
 | [Hum Sweet Serenades](https://open.spotify.com/track/4HCsxaiFhQ5J6JZbsv9TUm) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [Hum Sweet Serenades](https://open.spotify.com/album/0XrvNpJzc7mLeoHBiuzbzF) | 3:03 | 2023-03-16 |  |
@@ -328,10 +328,11 @@
 | [It's Your Smile](https://open.spotify.com/track/0WnGSR1VwZxJE9M37zjBQ3) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [It's Your Smile](https://open.spotify.com/album/2BQpZP1DmHdtJGtVaOG4LL) | 2:55 | 2022-06-28 |  |
 | [Its That Simple](https://open.spotify.com/track/1ancD3oX9uRaQ0oKrFVTi8) | [Robert Elovsson Quartet](https://open.spotify.com/artist/2JtAEXEXjrclv4NJwoGyB7) | [Its That Simple](https://open.spotify.com/album/2wpIk2wkFrfh1aW0E8us4Y) | 4:12 | 2022-06-28 | 2023-09-10 |
 | [It´s Easy To Remember](https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:32 | 2022-06-28 |  |
+| [It´s Wonderful](https://open.spotify.com/track/4fIrqRgwWZeHWx1xYzMk0z) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [It´s Wonderful](https://open.spotify.com/album/4NCJxvMwHsCIykqMx97Bew) | 3:12 | 2023-09-22 |  |
 | [I´ll Be Around](https://open.spotify.com/track/4axKyMqOx8NIyGsfKBA7Cv) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´ll Be Around](https://open.spotify.com/album/50XozG3HbIyUJWTJ9Fsoao) | 3:35 | 2022-06-28 |  |
 | [I´ll Never Smile Again](https://open.spotify.com/track/5vFqxBA36r8w1NKDUhpt07) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [I´ll Never Smile Again](https://open.spotify.com/album/3ce31a140RpGp1inchw4Cx) | 4:05 | 2022-06-28 |  |
 | [I´m Glad There Is You](https://open.spotify.com/track/5aSfAExWXaU5P4wuPkBINx) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 4:29 | 2022-06-28 |  |
-| [I´m Old Fashioned](https://open.spotify.com/track/5ANvL1PhHrU00JHPfIT6d8) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´m Old Fashioned](https://open.spotify.com/album/5MTHEEsQcOHppWKKxSAUt6) | 4:46 | 2022-06-28 |  |
+| [I´m Old Fashioned](https://open.spotify.com/track/5ANvL1PhHrU00JHPfIT6d8) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´m Old Fashioned](https://open.spotify.com/album/5MTHEEsQcOHppWKKxSAUt6) | 4:46 | 2022-06-28 | 2023-09-25 |
 | [I’m Sentimental, After All](https://open.spotify.com/track/529n27BE2TPAhHMHfmlE2B) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [I’m Sentimental, After All](https://open.spotify.com/album/7j9lWOy0juahXQyS0k8ELB) | 2:28 | 2022-06-28 |  |
 | [Jardin du Luxembourg](https://open.spotify.com/track/78qHrGoXAPNGip2OFzKpLp) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Jardin du Luxembourg](https://open.spotify.com/album/39JBgmbpRckZqhiqnlX5wp) | 4:07 | 2022-08-30 | 2023-09-02 |
 | [Jazz Noir](https://open.spotify.com/track/34X5CVjvYwM4yaPY1D8bAd) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Jazz Noir](https://open.spotify.com/album/3C4NdEsW6ibEIqZbXkxNf9) | 3:47 | 2023-08-10 |  |
@@ -522,6 +523,7 @@
 | [Rainy Mix](https://open.spotify.com/track/2lCpVqpPOJQ30mstKPHBqj) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Rainy Mix](https://open.spotify.com/album/35cS4jrVD80N8kb8WspUqV) | 4:37 | 2022-06-28 | 2023-09-03 |
 | [Reaching](https://open.spotify.com/track/1zL6ms4dZJ1l8y8F46llOv) | [The Midnight Quartet](https://open.spotify.com/artist/3RgMoZ7V6T8taBTLb58Wld) | [Reaching](https://open.spotify.com/album/7nWW2h7SFTPQJgJX0h1IMA) | 3:22 | 2022-06-28 | 2022-10-08 |
 | [Red Roses](https://open.spotify.com/track/2bJ6vXeDbSvF2xngmc57UZ) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [Red Roses](https://open.spotify.com/album/5Rz2VaBkjjV8gxfkBNycF8) | 2:48 | 2023-06-15 |  |
+| [Reflections in Blue](https://open.spotify.com/track/2vq1b2eqBWKZpxoVHECAGs) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Reflections in Blue](https://open.spotify.com/album/4y2Qcm0gdpw1ibhfj4QZD4) | 2:32 | 2023-09-22 |  |
 | [Remembering The Rain](https://open.spotify.com/track/3YMMHEfRPihLMV9L2BKrWT) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Remembering The Rain](https://open.spotify.com/album/1OIGPx7tRAreD3TfIVbMTT) | 3:22 | 2023-05-11 |  |
 | [Remi](https://open.spotify.com/track/4ZZaGozqh1YKbGzRIpbLqh) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Remi](https://open.spotify.com/album/2MS0JjlkQv1PkwjecdR4ER) | 3:31 | 2023-08-10 |  |
 | [Reminiscence](https://open.spotify.com/track/4SjpZ8cCLF6LjCKLr3zZNj) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Reminiscence](https://open.spotify.com/album/16oWfTUfptSqQ1xF9WaJLE) | 2:47 | 2023-06-15 |  |

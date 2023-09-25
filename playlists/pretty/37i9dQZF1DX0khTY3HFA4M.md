@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,179 likes - 493 songs - 19 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,334 likes - 493 songs - 19 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -502,4 +502,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 492 | [Something To Sing About](https://open.spotify.com/track/42nEk1NmYLyftkrv1SNfWs) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Something To Sing About](https://open.spotify.com/album/6ZK7xjavf50MFK7iPg27iG) | 2:44 |
 | 493 | [zenopholy](https://open.spotify.com/track/4ZSXL5YKaiiHdeL7oKrnNg) | [class e](https://open.spotify.com/artist/0HfmQce99SOzQR5dBgURe1) | [zenopholy](https://open.spotify.com/album/6AdEsV9lIr9W4I4JQFZE6P) | 2:24 |
 
-Snapshot ID: `MCwxNWM1YmUyMmE2MzE1NmQ3MjNiYjY2OGQwOTM4NjhlZjBlMTAzNDhk`
+Snapshot ID: `MCxjMzZlMjFlZjllY2I3YTVlMGYwZjc2MDg2MGE5OTY4NDgyYTA5YmM4`

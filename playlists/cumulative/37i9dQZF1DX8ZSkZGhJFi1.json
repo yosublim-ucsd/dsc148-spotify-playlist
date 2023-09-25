@@ -867,6 +867,24 @@
     },
     {
       "album": {
+        "name": "blue bird",
+        "url": "https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA"
+      },
+      "artists": [
+        {
+          "name": "Slipp",
+          "url": "https://open.spotify.com/artist/7b7ga2HzGIRsOJqorPSX1M"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134703,
+      "name": "blue bird",
+      "url": "https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj"
+    },
+    {
+      "album": {
         "name": "Bonafide Bars",
         "url": "https://open.spotify.com/album/2vzK9BHm6HX2jLVfLPlDuP"
       },
@@ -4804,7 +4822,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 132000,
       "name": "Lazy Dreams",
       "url": "https://open.spotify.com/track/0MeDQSiROjluPfu8hF00bT"
@@ -4920,7 +4938,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 205333,
       "name": "Let\u2019s Talk",
       "url": "https://open.spotify.com/track/3PDYzBV9MDoceVJT05doMe"
@@ -8222,6 +8240,24 @@
       "duration_ms": 129500,
       "name": "Simple",
       "url": "https://open.spotify.com/track/7rOXbaE7eR2EckA348ui2m"
+    },
+    {
+      "album": {
+        "name": "Simple Solitude",
+        "url": "https://open.spotify.com/album/7ji5s1oKZ0d1Vj8I9WJR5p"
+      },
+      "artists": [
+        {
+          "name": "Chilou",
+          "url": "https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153658,
+      "name": "Simple Solitude",
+      "url": "https://open.spotify.com/track/6QRsJz7vfDqWmX2YT64yqn"
     },
     {
       "album": {

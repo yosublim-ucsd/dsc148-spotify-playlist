@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: AC Slater & Chris Lorenzo (Fly With Us)",
-  "num_followers": 434443,
+  "num_followers": 434528,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzM5YjA1ZDYzMDY3MDRkNjNkZTE4YjMzNjc3MWY5YTQyNWYyMDU4",
+  "snapshot_id": "MCw2YzA3YWJiMTBmNjhkZGZiMDRiOGU5YjcxYzU4ZTJkNDc0NGE4NDY3",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -655,6 +655,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "buttons!",
+        "url": "https://open.spotify.com/album/1BNaZf2C1HMVCC2pCRdYsr"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 239047,
+      "name": "buttons!",
+      "url": "https://open.spotify.com/track/3PXb8ZLJiz59pSO5ZrJDx0"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Banga",
         "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
       },
@@ -735,26 +755,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "buttons!",
-        "url": "https://open.spotify.com/album/1BNaZf2C1HMVCC2pCRdYsr"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 239047,
-      "name": "buttons!",
-      "url": "https://open.spotify.com/track/3PXb8ZLJiz59pSO5ZrJDx0"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "BUBBLEGUM",
         "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
       },
@@ -803,6 +803,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Operators Vol. 1",
+        "url": "https://open.spotify.com/album/1Rjcfo697Eu593qzBkUn9G"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "House Call",
+          "url": "https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA"
+        }
+      ],
+      "duration_ms": 150761,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/7wSqfT8bbqVYviAe0xI9np"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Chain Gang",
         "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 201904,
       "name": "Goons",
       "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Operators Vol. 1",
-        "url": "https://open.spotify.com/album/1Rjcfo697Eu593qzBkUn9G"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "House Call",
-          "url": "https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA"
-        }
-      ],
-      "duration_ms": 150761,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/7wSqfT8bbqVYviAe0xI9np"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Otherside",
-        "url": "https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG"
-      },
-      "artists": [
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        },
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Otherside",
-      "url": "https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "NRG",
         "url": "https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 220898,
       "name": "NRG",
       "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Otherside",
+        "url": "https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1375,42 +1375,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/3xjnO30PBWtbz6CuaMn3gg"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/4LGm8vygHnOdvoATybWmaW"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Fiya (Curbi Edit)",
-        "url": "https://open.spotify.com/album/296eebCCSymVYHR6fjiISA"
-      },
-      "artists": [
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        },
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 280771,
-      "name": "Fiya - Curbi Edit",
-      "url": "https://open.spotify.com/track/6hKNTG13AmbPZXy891jAZk"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/6OW0DiGRajH1WvL1wPFlhe"
       },
@@ -1447,6 +1411,42 @@
       "duration_ms": 145777,
       "name": "Party All Night",
       "url": "https://open.spotify.com/track/6MCsbkXWaDDa408N1pUky7"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/3xjnO30PBWtbz6CuaMn3gg"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/4LGm8vygHnOdvoATybWmaW"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Fiya (Curbi Edit)",
+        "url": "https://open.spotify.com/album/296eebCCSymVYHR6fjiISA"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        },
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 280771,
+      "name": "Fiya - Curbi Edit",
+      "url": "https://open.spotify.com/track/6hKNTG13AmbPZXy891jAZk"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1559,22 +1559,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Supah Fly",
-        "url": "https://open.spotify.com/album/2wmk33OnnDzrrPPydJcpsd"
+        "name": "Ignite",
+        "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
       },
       "artists": [
         {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
         },
         {
-          "name": "Michael Sparks",
-          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+          "name": "Haus of Panda",
+          "url": "https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo"
+        },
+        {
+          "name": "MYLK",
+          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
         }
       ],
-      "duration_ms": 181874,
-      "name": "Supah Fly",
-      "url": "https://open.spotify.com/track/4zndIOEwqNne000JFuaGoD"
+      "duration_ms": 196800,
+      "name": "Ignite",
+      "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1591,6 +1595,26 @@
       "duration_ms": 215625,
       "name": "That's Right",
       "url": "https://open.spotify.com/track/3z8PEIdsoccN24sC7h9tB5"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Supah Fly",
+        "url": "https://open.spotify.com/album/2wmk33OnnDzrrPPydJcpsd"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "Supah Fly",
+      "url": "https://open.spotify.com/track/4zndIOEwqNne000JFuaGoD"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1627,30 +1651,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Ignite",
-        "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
-      },
-      "artists": [
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        },
-        {
-          "name": "Haus of Panda",
-          "url": "https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo"
-        },
-        {
-          "name": "MYLK",
-          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Ignite",
-      "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO"
       },
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Daddy's Back",
-        "url": "https://open.spotify.com/album/4GCZvwAgE1yE1K2H9l1f5W"
-      },
-      "artists": [
-        {
-          "name": "Black V Neck",
-          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
-        }
-      ],
-      "duration_ms": 179047,
-      "name": "Daddy's Back",
-      "url": "https://open.spotify.com/track/2kD5WaS17Ud2k4M4IwJxC0"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "SOOTHSAYER (Jon Casey Remix)",
         "url": "https://open.spotify.com/album/5DK8df3mkpoHP6zOn25zP8"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 191250,
       "name": "SOOTHSAYER (Jon Casey Remix)",
       "url": "https://open.spotify.com/track/6XWrXUk2UB4porMxQXFljZ"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Daddy's Back",
+        "url": "https://open.spotify.com/album/4GCZvwAgE1yE1K2H9l1f5W"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        }
+      ],
+      "duration_ms": 179047,
+      "name": "Daddy's Back",
+      "url": "https://open.spotify.com/track/2kD5WaS17Ud2k4M4IwJxC0"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Let It Drop",
-        "url": "https://open.spotify.com/album/7ioBTB82MiREoFryyTsx3V"
-      },
-      "artists": [
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        }
-      ],
-      "duration_ms": 193809,
-      "name": "Let It Drop",
-      "url": "https://open.spotify.com/track/0t9JXoDIf0sHBXNkw8Hw3o"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Slang Bang",
         "url": "https://open.spotify.com/album/0KEhLU0pumICuuu387MJ5Z"
       },
@@ -2115,6 +2099,26 @@
       "duration_ms": 204651,
       "name": "Slang Bang",
       "url": "https://open.spotify.com/track/2qYh4nKrsYsXb3T7U1VWxi"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Bodymorph",
+        "url": "https://open.spotify.com/album/50YeWlWfzOaFYPJjeQsqm3"
+      },
+      "artists": [
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        },
+        {
+          "name": "Serathrone",
+          "url": "https://open.spotify.com/artist/6VJx4L98UdyXINLjVYMHZt"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "Bodymorph",
+      "url": "https://open.spotify.com/track/2ThE3B5ysWddfWZ4EXWjeR"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2143,22 +2147,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Bodymorph",
-        "url": "https://open.spotify.com/album/50YeWlWfzOaFYPJjeQsqm3"
+        "name": "Let It Drop",
+        "url": "https://open.spotify.com/album/7ioBTB82MiREoFryyTsx3V"
       },
       "artists": [
         {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        },
-        {
-          "name": "Serathrone",
-          "url": "https://open.spotify.com/artist/6VJx4L98UdyXINLjVYMHZt"
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
         }
       ],
-      "duration_ms": 243333,
-      "name": "Bodymorph",
-      "url": "https://open.spotify.com/track/2ThE3B5ysWddfWZ4EXWjeR"
+      "duration_ms": 193809,
+      "name": "Let It Drop",
+      "url": "https://open.spotify.com/track/0t9JXoDIf0sHBXNkw8Hw3o"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2175,26 +2175,6 @@
       "duration_ms": 155714,
       "name": "Kill Me",
       "url": "https://open.spotify.com/track/3zXS11n8H34fWV53hg7XAr"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Front To Back (feat. DLMT)",
-        "url": "https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR"
-      },
-      "artists": [
-        {
-          "name": "FOMO",
-          "url": "https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX"
-        },
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "Front To Back (feat. DLMT)",
-      "url": "https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2219,6 +2199,26 @@
       "duration_ms": 161574,
       "name": "Who U With (feat. Killa Kela)",
       "url": "https://open.spotify.com/track/7HKsIwDpv9CqbXRkkMVkYU"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Front To Back (feat. DLMT)",
+        "url": "https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR"
+      },
+      "artists": [
+        {
+          "name": "FOMO",
+          "url": "https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX"
+        },
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "Front To Back (feat. DLMT)",
+      "url": "https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El"
     },
     {
       "added_at": "2023-09-22 04:00:00",

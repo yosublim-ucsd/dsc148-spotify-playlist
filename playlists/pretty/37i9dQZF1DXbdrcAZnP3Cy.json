@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! Cover: Vicente Fern\u00e1ndez",
-  "num_followers": 153101,
+  "num_followers": 153350,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "Mi Mayor Anhelo",
-        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 209786,
-      "name": "Mi Mayor Anhelo",
-      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
         "name": "Borrachera Con los Honorables (En Vivo)",
         "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 188429,
       "name": "La Boda del Huitlacoche - En Vivo",
       "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
+        "name": "Mi Mayor Anhelo",
+        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 209786,
+      "name": "Mi Mayor Anhelo",
+      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Cumbia Con La Luna",
-      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
         "name": "Zool\u00f3gico Tropical",
         "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 198613,
       "name": "Cumbia De La Cobra",
       "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Cumbia Con La Luna",
+      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
+        "name": "Lo Nuevo Y\u2026Lo Mejor",
+        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 216346,
+      "name": "El Gigante De Hierro",
+      "url": "https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
         "name": "Cumbias con Garra Vol. IV *",
         "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 172706,
       "name": "Tao, Tao",
       "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
-        "name": "Lo Nuevo Y\u2026Lo Mejor",
-        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
-        }
-      ],
-      "duration_ms": 216346,
-      "name": "El Gigante De Hierro",
-      "url": "https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "Fiesta Mexicana Con La Banda",
-        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "La ni\u00f1a fresa",
-      "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
         "name": "El Muchacho Alegre",
         "url": "https://open.spotify.com/album/7lgWY3Kx4zTv1fgv0qaRCx"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 156322,
       "name": "El Muchacho Alegre",
       "url": "https://open.spotify.com/track/1vWFjySESZSYWZ8GCwGGWt"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
+        "name": "Fiesta Mexicana Con La Banda",
+        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "La ni\u00f1a fresa",
+      "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
+        "name": "En Vida",
+        "url": "https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 145826,
+      "name": "En Vida",
+      "url": "https://open.spotify.com/track/0drxfRtLx9xMFAahZKGdh8"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
         "name": "El Coco No",
         "url": "https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 134785,
       "name": "Mi Trokita Cumbia",
       "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
-        "name": "En Vida",
-        "url": "https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 145826,
-      "name": "En Vida",
-      "url": "https://open.spotify.com/track/0drxfRtLx9xMFAahZKGdh8"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "La Del Mo\u00f1o Colorado",
-        "url": "https://open.spotify.com/album/6I8NtD0YFtJn6osq3YPadR"
-      },
-      "artists": [
-        {
-          "name": "Los Pedernales",
-          "url": "https://open.spotify.com/artist/2t9iBcBG9KoBeOZHevRzsc"
-        }
-      ],
-      "duration_ms": 300733,
-      "name": "La Del Mo\u00f1o Colorado",
-      "url": "https://open.spotify.com/track/4fkCG6ZvZ4oFHnNJQmD0lE"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 219480,
       "name": "C\u00f3mo Me Duele",
       "url": "https://open.spotify.com/track/50GRxHQ3cW2yBmlPIF9urf"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
+        "name": "La Del Mo\u00f1o Colorado",
+        "url": "https://open.spotify.com/album/6I8NtD0YFtJn6osq3YPadR"
+      },
+      "artists": [
+        {
+          "name": "Los Pedernales",
+          "url": "https://open.spotify.com/artist/2t9iBcBG9KoBeOZHevRzsc"
+        }
+      ],
+      "duration_ms": 300733,
+      "name": "La Del Mo\u00f1o Colorado",
+      "url": "https://open.spotify.com/track/4fkCG6ZvZ4oFHnNJQmD0lE"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "Grandes Exitos de La Cumbia Vol. 2",
-        "url": "https://open.spotify.com/album/4eIT6DsACeCBoV6Bg5o3H8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
-        }
-      ],
-      "duration_ms": 219968,
-      "name": "El Paso del Gigante",
-      "url": "https://open.spotify.com/track/3G0msIrMQ9vVzvFrnkS6vw"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
         "name": "Se Menea Se Menea",
         "url": "https://open.spotify.com/album/2E8WzqhyEL9SqioQ5Fgg8D"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 151875,
       "name": "Se Menea",
       "url": "https://open.spotify.com/track/6uhEqYTqhEkSH6Rlf3ILpj"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
+        "name": "Grandes Exitos de La Cumbia Vol. 2",
+        "url": "https://open.spotify.com/album/4eIT6DsACeCBoV6Bg5o3H8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 219968,
+      "name": "El Paso del Gigante",
+      "url": "https://open.spotify.com/track/3G0msIrMQ9vVzvFrnkS6vw"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "Pistear, Pistear",
-        "url": "https://open.spotify.com/album/3Vi5kjZrUvp4vJmUg6dMR0"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 165946,
-      "name": "Pistear, Pistear, Pistear",
-      "url": "https://open.spotify.com/track/6lsukPXxhMdPfG6nVtLE2R"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
         "name": "Arrempujala Arremangala",
         "url": "https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 193306,
       "name": "La Jaiba",
       "url": "https://open.spotify.com/track/0BQ7uJTvZDZxH4k7cwrSQ1"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
+        "name": "Pistear, Pistear",
+        "url": "https://open.spotify.com/album/3Vi5kjZrUvp4vJmUg6dMR0"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 165946,
+      "name": "Pistear, Pistear, Pistear",
+      "url": "https://open.spotify.com/track/6lsukPXxhMdPfG6nVtLE2R"
     },
     {
       "added_at": "2023-05-01 21:44:18",

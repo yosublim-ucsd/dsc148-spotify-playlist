@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 689619,
+  "num_followers": 689668,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTI5ODg0NWNkOWE5Yzg0ZmMwNmRjMzE4MTQyMmMwZDcwMDk3MWQy",
+  "snapshot_id": "MCw4Y2IxZWY3NGJjYjgzNGI2OTBlM2M4NGU4ZWZiNmU2N2EwNDBjYmUy",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Love Is Hell",
-        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 248280,
-      "name": "Wonderwall",
-      "url": "https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 346373,
       "name": "Harvest Moon - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 248280,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "7\" Singles",
-        "url": "https://open.spotify.com/album/46QQwFMdIzeLyBfIeQrqYp"
-      },
-      "artists": [
-        {
-          "name": "Kishi Bashi",
-          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "This Must Be the Place (Naive Melody) [by Talking Heads]",
-      "url": "https://open.spotify.com/track/7nSomK5Wrh8KWUCJbluEgo"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Wish You Were Here",
         "url": "https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 285719,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "7\" Singles",
+        "url": "https://open.spotify.com/album/46QQwFMdIzeLyBfIeQrqYp"
+      },
+      "artists": [
+        {
+          "name": "Kishi Bashi",
+          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "This Must Be the Place (Naive Melody) [by Talking Heads]",
+      "url": "https://open.spotify.com/track/7nSomK5Wrh8KWUCJbluEgo"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229574,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Leave Me Breathless",
         "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 206586,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229574,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Playing Chess",
         "url": "https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 185755,
       "name": "You Never Can Tell",
       "url": "https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 154869,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Sunday Night Sessions",
         "url": "https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 296152,
       "name": "And It Stoned Me (Cover)",
       "url": "https://open.spotify.com/track/2sRkcqgxX11ylhpatCauqC"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 154869,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Helplessly Hoping",
-        "url": "https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 159229,
-      "name": "Helplessly Hoping",
-      "url": "https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Transfiguration of Vincent",
         "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 300186,
       "name": "Let\u2019s Dance",
       "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Helplessly Hoping",
+        "url": "https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 159229,
+      "name": "Helplessly Hoping",
+      "url": "https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Elvis Now",
-        "url": "https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Man in the Mirror",
         "url": "https://open.spotify.com/album/5VleQQSPbU6LEzONZK38F5"
       },
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Elvis Now",
+        "url": "https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 271573,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Judah & The Lion (Live)",
         "url": "https://open.spotify.com/album/67GBzlYsDzYVJvdQ9l5HXy"
       },
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Never Surrender",
-        "url": "https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9"
-      },
-      "artists": [
-        {
-          "name": "Dante Hart",
-          "url": "https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6"
-        }
-      ],
-      "duration_ms": 228099,
-      "name": "Never Surrender",
-      "url": "https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Greatest Hits And Others",
         "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 140000,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Never Surrender",
+        "url": "https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9"
+      },
+      "artists": [
+        {
+          "name": "Dante Hart",
+          "url": "https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6"
+        }
+      ],
+      "duration_ms": 228099,
+      "name": "Never Surrender",
+      "url": "https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7HJujLCjpNW735tY2vhgmc"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 212186,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Black Pumas (Expanded Deluxe Edition)",
         "url": "https://open.spotify.com/album/1gn89OoC81JmZk95TMmOux"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 192963,
       "name": "Strangers - From \"Life In A Day\"",
       "url": "https://open.spotify.com/track/7bJfi2JjwxKFw6NVkdzIvl"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7HJujLCjpNW735tY2vhgmc"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 212186,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc"
     },
     {
       "added_at": "2023-09-08 04:00:00",

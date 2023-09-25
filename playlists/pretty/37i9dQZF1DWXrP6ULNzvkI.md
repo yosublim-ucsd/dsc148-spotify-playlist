@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrP6ULNzvkI.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks from around the world this year\. Cover: Katherine Li \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,831 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,845 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrP6ULNzvkI.md) - [plain]
 | 27 | [without you](https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV) | [Secily](https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2) | [without you](https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z) | 2:56 |
 | 28 | [Didn't You](https://open.spotify.com/track/79yJPBXQYjLIcU7lxrDkC6) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Canyon](https://open.spotify.com/album/1qSYkiIAFof7yxgLsrvxl7) | 4:03 |
 | 29 | [Golden Rope](https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [Golden Rope](https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8) | 3:40 |
-| 30 | [la cumbia del cucuy](https://open.spotify.com/track/3rcXJHkUO7cVNNtNKQqrSU) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [la cumbia del cucuy](https://open.spotify.com/album/53REtGUvpq4HmuOKh1wYqN) | 2:14 |
+| 30 | [la cumbia del cucuy](https://open.spotify.com/track/4KpXzvH7Gtqc8BVnkov3Ui) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Cumbialicious](https://open.spotify.com/album/0nbjdwPL1EjjNmVZr8hTnG) | 2:14 |
 | 31 | [safety](https://open.spotify.com/track/455NN00cexwUiy0CkRbgqe) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:03 |
 | 32 | [Smack Yo'](https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Smack Yo'](https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm) | 4:05 |
 | 33 | [Sleazy Flow](https://open.spotify.com/track/5mt882Eqx22RwFOTE01jS8) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Sleazy Flow](https://open.spotify.com/album/4Qku5Zl0Smuzw2ZbupxtaV) | 1:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrP6ULNzvkI.md) - [plain]
 | 74 | [Aura](https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 7:17 |
 | 75 | [Summer Love](https://open.spotify.com/track/6864esbZ0WOrK05LZ0w0de) | [Bambina](https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1) | [Summer Love](https://open.spotify.com/album/5rZfNDMajoJcaEZX0duZtq) | 3:55 |
 
-Snapshot ID: `MCwzNTM3Yzk3YjFkNDU1YWJmZmMyZWJiYzVkZDRkNjNkNTQxZjY3ZTg3`
+Snapshot ID: `MCwyOTcwMTE4NTMwMWIzY2UyNTFjZTFjZDYxNzU5YWU3NDQ3Njg3ZTlk`

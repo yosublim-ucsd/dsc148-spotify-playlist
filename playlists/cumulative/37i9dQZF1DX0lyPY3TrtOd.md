@@ -4,7 +4,7 @@
 
 > FEEL GOOD ALERT 🌼🌻 Beetje indie, beetje alternative en alles wat nog meer goed voelt.
 
-137 songs - 7 hr 41 min
+139 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Hassle](https://open.spotify.com/track/6Yy3wtQiWNjNLyeNY8sXzS) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [A Hassle](https://open.spotify.com/album/3g1I3lrauszWOo1IfpksLe) | 2:49 | 2023-04-04 | 2023-06-02 |
 | [Action Figures Fighting](https://open.spotify.com/track/30hwT0deSgqiaBMxijn35R) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Action Figures Fighting](https://open.spotify.com/album/2Q5fUG18Rtq9gT8F1Nahdv) | 2:43 | 2023-02-23 | 2023-03-03 |
 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-08-22 |  |
+| [All Night](https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [All Night](https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk) | 3:28 | 2023-09-24 |  |
 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 | 2023-02-23 | 2023-04-05 |
 | [Archetype](https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:48 | 2023-02-23 | 2023-05-19 |
 | [At Least That’s What They’re Saying](https://open.spotify.com/track/5fDZ51dVnkGJuh4KeebRuu) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Unknown Affairs](https://open.spotify.com/album/2wPpwzhLcc8kapEVejp2VG) | 3:16 | 2023-04-04 |  |
@@ -92,7 +93,7 @@
 | [Manifest](https://open.spotify.com/track/4PNvV0RKHaKgkVgqZCHkiE) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Manifest](https://open.spotify.com/album/3pmmi3IjlwZfKBoR3bMPbb) | 2:26 | 2023-06-30 |  |
 | [Millennium](https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [The Mattson 2](https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:01 | 2023-02-23 | 2023-04-28 |
 | [Moment](https://open.spotify.com/track/3gX2v5AUWXsWloNP4w94LU) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:32 | 2023-02-23 |  |
-| [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-07 |  |
+| [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-07 | 2023-09-25 |
 | [Move On](https://open.spotify.com/track/7u7EEK1938YLwisU38x8j8) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Move On](https://open.spotify.com/album/26zYyUQZWrSkWggGmnqZ5f) | 4:26 | 2023-02-23 | 2023-07-08 |
 | [My Everything](https://open.spotify.com/track/3NBweAfNWhU9Zu1xDLHAR8) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Dekel](https://open.spotify.com/artist/6wglqk5rW63K9eaeqxzZpI) | [My Everything](https://open.spotify.com/album/0GlHeseuowxs1NOGdPm3nI) | 3:58 | 2023-02-23 | 2023-07-14 |
 | [Never Enough](https://open.spotify.com/track/4W8zk9Kyvg3FzwAk0kjtuj) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 4:03 | 2023-02-23 | 2023-04-05 |
@@ -126,6 +127,7 @@
 | [So Cool](https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [So Cool](https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY) | 3:05 | 2023-06-01 |  |
 | [Something Like This](https://open.spotify.com/track/2Xn7cHKdRP0hBXaUr38J7R) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Something Like This](https://open.spotify.com/album/614lKhTpvtyBqnU7C5w5e4) | 3:18 | 2023-05-08 |  |
 | [SOW](https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:06 | 2023-05-12 |  |
+| [Start Again](https://open.spotify.com/track/2dPOMJfe0ingxUn9g6S52d) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [I Feel You Feel](https://open.spotify.com/album/0kp7hFBIN1CFuv3gIBcdDo) | 4:03 | 2023-09-24 |  |
 | [Stubborn](https://open.spotify.com/track/4Iq71aDAJ4Uiqa3J0uXfoW) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Stubborn](https://open.spotify.com/album/61qaZAT9e9rhKLZ7r54AK2) | 3:08 | 2023-02-23 | 2023-04-05 |
 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2023-06-01 |  |
 | [Sunshine](https://open.spotify.com/track/4ZRr2gW76pb3huK79JFts6) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Sunshine](https://open.spotify.com/album/4tAYC8O702Uag2ILdlPkqj) | 2:47 | 2023-07-13 |  |
@@ -139,7 +141,7 @@
 | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/track/6GBY5tHb2U39hYDGjrpQ0Y) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/album/51uooEnqVtqGx2K0lscvqr) | 2:54 | 2023-05-11 |  |
 | [tnght](https://open.spotify.com/track/0NsyX6CQK6DHIDcAaJSDNc) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [tnght](https://open.spotify.com/album/2PoqShlVwFJZYajERLXzAe) | 3:27 | 2023-02-23 | 2023-04-28 |
 | [To The Floor](https://open.spotify.com/track/7huFrzl3tBNxSr8tp6zyDf) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [To The Floor](https://open.spotify.com/album/1kFVmxdH3QCMjHe5oMBBBp) | 3:09 | 2023-02-23 |  |
-| [Together](https://open.spotify.com/track/28u7GKDbThIk4xsqm8XTGK) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Girls](https://open.spotify.com/album/5AQ0QApvqyjvkTfstFBI0L) | 2:26 | 2023-04-04 |  |
+| [Together](https://open.spotify.com/track/28u7GKDbThIk4xsqm8XTGK) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Girls](https://open.spotify.com/album/5AQ0QApvqyjvkTfstFBI0L) | 2:26 | 2023-04-04 | 2023-09-25 |
 | [TWO SUGARS](https://open.spotify.com/track/5rZrM1ppBHmHogxLcw8wtH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 2:55 | 2023-02-23 | 2023-03-03 |
 | [Waiting Outside](https://open.spotify.com/track/0ImFkJEKGw1N1CTvQmnVSX) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:40 | 2023-02-23 | 2023-05-26 |
 | [What You Know](https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 3:11 | 2023-02-23 | 2023-04-05 |

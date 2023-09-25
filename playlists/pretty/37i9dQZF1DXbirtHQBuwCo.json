@@ -1,6 +1,6 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: GEMINI)",
-  "num_followers": 946511,
+  "num_followers": 946874,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -236,8 +236,8 @@
       },
       "artists": [
         {
-          "name": "Shinae An",
-          "url": "https://open.spotify.com/artist/5tepoFUu7KqTFW7GLufuQQ"
+          "name": "\uc548\uc2e0\uc560",
+          "url": "https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ"
         }
       ],
       "duration_ms": 181262,
@@ -379,18 +379,22 @@
     {
       "added_at": "2023-09-22 03:36:23",
       "album": {
-        "name": "Peanut Butter & Tears",
-        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
       },
       "artists": [
         {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 225613,
-      "name": "Peanut Butter & Tears",
-      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
+      "duration_ms": 151733,
+      "name": "I'm Gonna Love You",
+      "url": "https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu"
     },
     {
       "added_at": "2023-09-22 03:36:23",
@@ -443,22 +447,18 @@
     {
       "added_at": "2023-09-22 03:36:23",
       "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+        "name": "Peanut Butter & Tears",
+        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
       },
       "artists": [
         {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 151733,
-      "name": "I'm Gonna Love You",
-      "url": "https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu"
+      "duration_ms": 225613,
+      "name": "Peanut Butter & Tears",
+      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
     },
     {
       "added_at": "2023-09-22 03:36:23",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-09-22 03:36:23",
       "album": {
+        "name": "Horizon - NCT LAB",
+        "url": "https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf"
+      },
+      "artists": [
+        {
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+        }
+      ],
+      "duration_ms": 222706,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T"
+    },
+    {
+      "added_at": "2023-09-22 03:36:23",
+      "album": {
         "name": "Love Part 2",
         "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 214920,
       "name": "Don't ever say love me (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo"
-    },
-    {
-      "added_at": "2023-09-22 03:36:23",
-      "album": {
-        "name": "Horizon - NCT LAB",
-        "url": "https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf"
-      },
-      "artists": [
-        {
-          "name": "JAEHYUN",
-          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
-        }
-      ],
-      "duration_ms": 222706,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T"
     },
     {
       "added_at": "2023-09-22 03:36:23",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-09-22 03:36:23",
       "album": {
-        "name": "Let Me In",
-        "url": "https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP"
-    },
-    {
-      "added_at": "2023-09-22 03:36:23",
-      "album": {
         "name": "Moodswings In To Order",
         "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2023-09-22 03:36:23",
       "album": {
-        "name": "Bambi - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl"
       },
       "artists": [
         {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 213053,
-      "name": "Bambi",
-      "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
+      "duration_ms": 197533,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP"
     },
     {
       "added_at": "2023-09-22 03:36:23",
@@ -835,6 +819,22 @@
       "duration_ms": 196120,
       "name": "Forever Only",
       "url": "https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz"
+    },
+    {
+      "added_at": "2023-09-22 03:36:23",
+      "album": {
+        "name": "Bambi - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 213053,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
     },
     {
       "added_at": "2023-09-22 03:36:23",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-09-22 03:36:23",
       "album": {
+        "name": "Moodswings in This Order",
+        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Dope Lovers",
+      "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
+    },
+    {
+      "added_at": "2023-09-22 03:36:23",
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -903,38 +919,6 @@
       "duration_ms": 229359,
       "name": "D (Half Moon)",
       "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
-    },
-    {
-      "added_at": "2023-09-22 03:36:23",
-      "album": {
-        "name": "Bambi - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "Cry For Love",
-      "url": "https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw"
-    },
-    {
-      "added_at": "2023-09-22 03:36:23",
-      "album": {
-        "name": "Moodswings in This Order",
-        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Dope Lovers",
-      "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
     },
     {
       "added_at": "2023-09-22 03:36:23",
@@ -995,38 +979,6 @@
     {
       "added_at": "2023-09-22 03:36:23",
       "album": {
-        "name": "MOVIE",
-        "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 183146,
-      "name": "MOVIE",
-      "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
-    },
-    {
-      "added_at": "2023-09-22 03:36:23",
-      "album": {
-        "name": "Hear Me Out",
-        "url": "https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Hear Me Out",
-      "url": "https://open.spotify.com/track/44EXniDpWap2veS1gH1svO"
-    },
-    {
-      "added_at": "2023-09-22 03:36:23",
-      "album": {
         "name": "Moodswings In To Order",
         "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
       },
@@ -1043,8 +995,8 @@
     {
       "added_at": "2023-09-22 03:36:23",
       "album": {
-        "name": "Delight - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+        "name": "Bambi - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
       },
       "artists": [
         {
@@ -1052,9 +1004,25 @@
           "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
         }
       ],
-      "duration_ms": 227173,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44"
+      "duration_ms": 210893,
+      "name": "Cry For Love",
+      "url": "https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw"
+    },
+    {
+      "added_at": "2023-09-22 03:36:23",
+      "album": {
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 183146,
+      "name": "MOVIE",
+      "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
     },
     {
       "added_at": "2023-09-22 03:36:23",
@@ -1075,6 +1043,22 @@
     {
       "added_at": "2023-09-22 03:36:23",
       "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/44EXniDpWap2veS1gH1svO"
+    },
+    {
+      "added_at": "2023-09-22 03:36:23",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 205120,
       "name": "For You",
       "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
+    },
+    {
+      "added_at": "2023-09-22 03:36:23",
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 227173,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44"
     },
     {
       "added_at": "2023-09-22 03:36:23",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-09-22 03:36:23",
       "album": {
+        "name": "HOLO",
+        "url": "https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 178520,
+      "name": "HOLO",
+      "url": "https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp"
+    },
+    {
+      "added_at": "2023-09-22 03:36:23",
+      "album": {
         "name": "Sun And Moon",
         "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 207493,
       "name": "Make Up (Feat. Crush)",
       "url": "https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9"
-    },
-    {
-      "added_at": "2023-09-22 03:36:23",
-      "album": {
-        "name": "Delight - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
     }
   ],
   "unique_name": "TrenChill K-R&B",

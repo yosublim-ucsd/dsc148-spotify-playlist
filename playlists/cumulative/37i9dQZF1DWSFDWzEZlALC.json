@@ -2586,10 +2586,28 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 207217,
       "name": "Goldmund",
       "url": "https://open.spotify.com/track/1pyhRVCNXg47cBcVNFH6pr"
+    },
+    {
+      "album": {
+        "name": "Von Wind und Anonymit\u00e4t",
+        "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207217,
+      "name": "Goldmund",
+      "url": "https://open.spotify.com/track/5cGHrM4cc540PHUrOCJ4If"
     },
     {
       "album": {

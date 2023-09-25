@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Bakar along with the best alternative songs of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,694 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,725 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 59 | [life goes by](https://open.spotify.com/track/7MBC9JuSIvqSUz8s4aMzMz) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [life goes by](https://open.spotify.com/album/1Sqtv8W45M3jWecsa4rtRY) | 2:33 |
 | 60 | [In Between](https://open.spotify.com/track/0q1ojrOIoqEjGvojo4Y0FK) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [In Between](https://open.spotify.com/album/6z3SytoRF8ak4NLSdvQH1f) | 2:34 |
 
-Snapshot ID: `MCw1N2JmZTM4NTMzMTkyODAzMTJiMDdkMTE1ZTI2OGI3ZGExYjMxNDgz`
+Snapshot ID: `MCxjN2VjZjdiNTdmMTRiOWI4OWUyNjgxZTEzMTgyNTI2OTMxYTg0Y2Ux`

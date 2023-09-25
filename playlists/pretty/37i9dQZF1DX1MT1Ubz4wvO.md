@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Evlay en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,301 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,311 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Parques](https://open.spotify.com/track/70eEHmpy3nWtUY34rxINYh) | [aroa ay](https://open.spotify.com/artist/11VTXvScf8D82FdfeUp8UC) | [Parques](https://open.spotify.com/album/7Lguz8hKheTreGUVN88fsF) | 3:21 |
 | 50 | [Fuego, Fuerza y Alma \(Te Recuerdo Víctor\)](https://open.spotify.com/track/0nKY4yoX4rgEgJmBsrwAIr) | [Lujuria](https://open.spotify.com/artist/2Edew7ZyaH9y44T9zw5s3R) | [¿Cuántos Somos en Total?](https://open.spotify.com/album/6a2i7RmKOpfv8tqhZOKVgp) | 4:38 |
 
-Snapshot ID: `MCxjMDU2ODhlYTVhNGZjMGE5YTYzZDJhZjdhNTJhYTQwNzkzNDE2MzBl`
+Snapshot ID: `MCwyZWZlOWE1MjVhMjdlZDY3YTU2NmExZjZhMWRjYmY5Y2MxYjY0NGJh`

@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 41675,
+  "num_followers": 41722,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODlkZWM4MWQzM2MyM2IzZWZjNjAzN2YwZGUxYjFjYWVjMGE5MjFj",
+  "snapshot_id": "MCw5YThjMjU1MTE3YzUxOGM0YTk1ZmUxMWE1ZjBhMDc0MzQ0MTA1NDk4",
   "tracks": [
     {
       "added_at": "2023-09-12 15:27:53",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 234266,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
         "name": "Welcome To The Madhouse",
         "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 158259,
       "name": "live more & love more",
       "url": "https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 234266,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "people pleaser / sleep at night",
-        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 146654,
-      "name": "people pleaser",
-      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
         "name": "How Does It Feel",
         "url": "https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 198221,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
+        "name": "people pleaser / sleep at night",
+        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 146654,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "Are You Awake?",
-        "url": "https://open.spotify.com/album/6Zxv2rfp6HzEMNW5fb1Un4"
-      },
-      "artists": [
-        {
-          "name": "Lauren Mayberry",
-          "url": "https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph"
-        }
-      ],
-      "duration_ms": 224429,
-      "name": "Are You Awake?",
-      "url": "https://open.spotify.com/track/6liAgoBoFdFbKW4ai28HIE"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
         "name": "Can I Jump?",
         "url": "https://open.spotify.com/album/2oRM1rJALdQfceK3i7SxG3"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 223851,
       "name": "Can I Jump?",
       "url": "https://open.spotify.com/track/4xo2cd0kmp3GO1jZzAst1D"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
+        "name": "Are You Awake?",
+        "url": "https://open.spotify.com/album/6Zxv2rfp6HzEMNW5fb1Un4"
+      },
+      "artists": [
+        {
+          "name": "Lauren Mayberry",
+          "url": "https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph"
+        }
+      ],
+      "duration_ms": 224429,
+      "name": "Are You Awake?",
+      "url": "https://open.spotify.com/track/6liAgoBoFdFbKW4ai28HIE"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "Get Better",
-        "url": "https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU"
-      },
-      "artists": [
-        {
-          "name": "Cate",
-          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
-        }
-      ],
-      "duration_ms": 171913,
-      "name": "Get Better",
-      "url": "https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
         "name": "Good Vibrations",
         "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 229444,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
+        "name": "Get Better",
+        "url": "https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU"
+      },
+      "artists": [
+        {
+          "name": "Cate",
+          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
+        }
+      ],
+      "duration_ms": 171913,
+      "name": "Get Better",
+      "url": "https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ"
     },
     {
       "added_at": "2023-09-12 15:27:53",

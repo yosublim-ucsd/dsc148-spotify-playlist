@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Dotan
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,923 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,951 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 99 | [A Fool](https://open.spotify.com/track/0yup5kApYOD1UANw4hgJrt) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp) | [A Fool](https://open.spotify.com/album/6Avdb3Kzzi5byUmnACETXh) | 3:32 |
 | 100 | [No Way To Live](https://open.spotify.com/track/40sY5Tx27mNTyrOytXuPp7) | [Lumi](https://open.spotify.com/artist/4a27RJTzPnKgoQpVlLONZf) | [No Way To Live](https://open.spotify.com/album/3fHdS5pUbXVsjlcwU7VKUs) | 4:06 |
 
-Snapshot ID: `MCwxZjVkY2IyYmZhZTY0ODI3NDJiMGNjMWUwZTgxYWNhMjJjMmUwYTY2`
+Snapshot ID: `MCwwZTQ5ZjUxYjAxZjU3MDhhYjNhZWU5MWMxZjdjNDY1MGIyNWM4ZWE0`

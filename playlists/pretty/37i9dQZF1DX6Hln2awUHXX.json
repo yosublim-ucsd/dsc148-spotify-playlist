@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 92801,
+  "num_followers": 92853,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjJmZWY5MTllMzBlZTEyNjYzYzllMDYzYTgyNjFlN2E2ZDdmNGUz",
+  "snapshot_id": "MCw2ZDgzZWUxODQ0YzQ2NzYwZTY2ZjIxNmM4ZWEzN2M0OTRhMWQ5MmM2",
   "tracks": [
     {
       "added_at": "2022-06-28 08:58:25",
@@ -919,34 +919,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner : Tristan und Isolde",
-        "url": "https://open.spotify.com/album/6BIzBPVDbAw4DdyMOENCFe"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        },
-        {
-          "name": "Marjana Lipovsek",
-          "url": "https://open.spotify.com/artist/3VqRvmqol6junQB7O4qROM"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        }
-      ],
-      "duration_ms": 155573,
-      "name": "Wagner: Tristan und Isolde, Act 2: \"Einsam wachend in der Nacht\" (Brang\u00e4ne)",
-      "url": "https://open.spotify.com/track/7hVykp1rVnRwGrjJkURE3q"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Essentials",
         "url": "https://open.spotify.com/album/2J6V4iNZrA2YPl7ZA7H1tf"
       },
@@ -991,6 +963,34 @@
       "duration_ms": 510844,
       "name": "Lohengrin, WWV 75 / Act 3: Mein lieber Schwan!",
       "url": "https://open.spotify.com/track/2WSJaKbu2e3wfM4FuJh2fz"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner : Tristan und Isolde",
+        "url": "https://open.spotify.com/album/6BIzBPVDbAw4DdyMOENCFe"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        },
+        {
+          "name": "Marjana Lipovsek",
+          "url": "https://open.spotify.com/artist/3VqRvmqol6junQB7O4qROM"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "duration_ms": 155573,
+      "name": "Wagner: Tristan und Isolde, Act 2: \"Einsam wachend in der Nacht\" (Brang\u00e4ne)",
+      "url": "https://open.spotify.com/track/7hVykp1rVnRwGrjJkURE3q"
     },
     {
       "added_at": "2022-06-28 08:58:25",

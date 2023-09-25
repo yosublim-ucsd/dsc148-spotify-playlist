@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 22948,
+  "num_followers": 23030,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWQ5MWJhZmQ3ZDkxNWY1MzNjOTFjMzllOTMyNGY1MzIxOTY3ZWU4",
+  "snapshot_id": "MCxiZWYyMDQ1MmIyNzNkMTZjYjExYzQwNzI3YzI2YjIxMDJmNDNjMWRl",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Willy Chirino",
+          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
+        }
+      ],
+      "duration_ms": 352480,
+      "name": "Medias Negras - Live Version",
+      "url": "https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Todos Vuelven Live, Vol. 2",
         "url": "https://open.spotify.com/album/5vuelvutC4GRdYdO4Ka3Bq"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 489853,
       "name": "Pedro Navaja - Live",
       "url": "https://open.spotify.com/track/7lStMGLa4YPstX9AedQSl2"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "Willy Chirino",
-          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
-        }
-      ],
-      "duration_ms": 352480,
-      "name": "Medias Negras - Live Version",
-      "url": "https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l"
     },
     {
       "added_at": "2022-03-18 05:00:00",

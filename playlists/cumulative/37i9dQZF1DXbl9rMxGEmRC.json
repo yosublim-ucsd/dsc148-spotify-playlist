@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "VOID",
+        "url": "https://open.spotify.com/album/0h4IKieMCRbXIit4uQ1PWQ"
+      },
+      "artists": [
+        {
+          "name": "KEN Mode",
+          "url": "https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416040,
+      "name": "A Reluctance of Being",
+      "url": "https://open.spotify.com/track/1lWTj52J0d7kVVdiHD63TH"
+    },
+    {
+      "album": {
         "name": "Here For None",
         "url": "https://open.spotify.com/album/03CPGRDNYWE7pmA9yXDdNa"
       },
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 287316,
       "name": "Burn the Witch",
       "url": "https://open.spotify.com/track/5knAIdfCrDg5NCf3s4JpWT"
@@ -1831,6 +1849,24 @@
     },
     {
       "album": {
+        "name": "Almost Human",
+        "url": "https://open.spotify.com/album/11ijTGeUpHPm1Jn2Ktvqd6"
+      },
+      "artists": [
+        {
+          "name": "Wormhole",
+          "url": "https://open.spotify.com/artist/2foAanYCza7knczRDB8DFt"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208226,
+      "name": "Data Fortress Orbital Stationary",
+      "url": "https://open.spotify.com/track/7oc3g2lOyb5mabY0BTMXFe"
+    },
+    {
+      "album": {
         "name": "Datalysium",
         "url": "https://open.spotify.com/album/5jK98rWaNqgZISUm3Mg5QG"
       },
@@ -1954,7 +1990,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 281298,
       "name": "Death March",
       "url": "https://open.spotify.com/track/29jdT24cfdRzOmn57MSFlS"
@@ -2451,6 +2487,24 @@
     },
     {
       "album": {
+        "name": "El\u00e4v\u00e4lt\u00e4 Haudattu",
+        "url": "https://open.spotify.com/album/1nLCyDUx6qpz6rHRhhCRkf"
+      },
+      "artists": [
+        {
+          "name": "Kaunis Kuolematon",
+          "url": "https://open.spotify.com/artist/325i7BW7vMnVBl9YWdT6zN"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400689,
+      "name": "El\u00e4v\u00e4lt\u00e4 Haudattu",
+      "url": "https://open.spotify.com/track/6zUgqWeAA89rqzVnmTxt6f"
+    },
+    {
+      "album": {
         "name": "Debemur Morti",
         "url": "https://open.spotify.com/album/3VbVGFavQH097kd1SfT5ZJ"
       },
@@ -2750,7 +2804,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 487000,
       "name": "Fallen From Grace",
       "url": "https://open.spotify.com/track/1t2m0aOaRBvVPo1mUrpiiH"

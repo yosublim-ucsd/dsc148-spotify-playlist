@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2aPBXGmXrt.md) - [plain]
 
 > This is the essential Justin Bieber.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,997,364 likes - 77 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,998,613 likes - 77 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2aPBXGmXrt.md) - [plain]
 | 27 | [Anyone](https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Anyone](https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU) | 3:10 |
 | 28 | [Company](https://open.spotify.com/track/61uyGDPJ06MkxJtHgPmuyO) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:28 |
 | 29 | [As I Am \(feat\. Khalid\)](https://open.spotify.com/track/4MmMxyew8yq1OEyJOMaX6M) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 2:54 |
-| 30 | [2U](https://open.spotify.com/track/762UXiwEHYY97VL45sAUPR) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [2U](https://open.spotify.com/album/0EYVu7ginQ5nPsQj3woBAQ) | 3:14 |
+| 30 | [2U \(feat\. Justin Bieber\)](https://open.spotify.com/track/61WR5FfGNLJxpLsAc61qWQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [7: Anniversary Edition](https://open.spotify.com/album/0GJU424RiEyYQTLbZcHVA7) | 3:14 |
 | 31 | [Never Say Never](https://open.spotify.com/track/5GYbkDveRD2I8M5ZJ14hWn) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Never Say Never \- The Remixes](https://open.spotify.com/album/0wZJCeyfJ0LVrrtH4CwQYw) | 3:47 |
 | 32 | [There She Go \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/59ltMnCjkPJqUM4pBlc1o2) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Justice \(Triple Chucks Deluxe\)](https://open.spotify.com/album/7DjqzdD8MYtzgiJDGHltsp) | 3:35 |
 | 33 | [attention \(with Justin Bieber\)](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [attention \(with Justin Bieber\)](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 |

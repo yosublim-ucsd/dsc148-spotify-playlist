@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Mr Pig y Mario Bautista en portada.",
-  "num_followers": 54970,
+  "num_followers": 54976,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmE2NDE0NDRhNWExNzA1YzY2ODBkOGZjZjBhNzgzNjAyNGM2ODlm",
+  "snapshot_id": "MCwzYWVjZWJjNjk4YmUyZTgxNTZiYWUwNDQ5Y2VlZDc1MGMxYmIyMmU5",
   "tracks": [
     {
       "added_at": "2023-09-12 19:22:53",
@@ -623,18 +623,26 @@
     {
       "added_at": "2023-09-12 19:22:53",
       "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f"
+        "name": "Quem\u00e1",
+        "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
       },
       "artists": [
         {
-          "name": "Iker Azcu\u00e9",
-          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Andrew Mathers",
+          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
         }
       ],
-      "duration_ms": 171707,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb"
+      "duration_ms": 149250,
+      "name": "Quem\u00e1",
+      "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
     },
     {
       "added_at": "2023-09-12 19:22:53",
@@ -675,26 +683,18 @@
     {
       "added_at": "2023-09-12 19:22:53",
       "album": {
-        "name": "Quem\u00e1",
-        "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f"
       },
       "artists": [
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Andrew Mathers",
-          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
+          "name": "Iker Azcu\u00e9",
+          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
         }
       ],
-      "duration_ms": 149250,
-      "name": "Quem\u00e1",
-      "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
+      "duration_ms": 171707,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb"
     },
     {
       "added_at": "2023-09-12 19:22:53",
@@ -791,30 +791,6 @@
     {
       "added_at": "2023-09-12 19:22:53",
       "album": {
-        "name": "Brake Test",
-        "url": "https://open.spotify.com/album/1sb9HqNdyxgAhBykc1FGZI"
-      },
-      "artists": [
-        {
-          "name": "Kevin Brand",
-          "url": "https://open.spotify.com/artist/37FEWLu0vHMvO4n1SHnWBS"
-        },
-        {
-          "name": "Guztavo MX",
-          "url": "https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q"
-        },
-        {
-          "name": "Nitai Charan",
-          "url": "https://open.spotify.com/artist/5R74FYSqMPIUYTHQs2TA6I"
-        }
-      ],
-      "duration_ms": 137812,
-      "name": "Brake Test",
-      "url": "https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN"
-    },
-    {
-      "added_at": "2023-09-12 19:22:53",
-      "album": {
         "name": "Time (feat. Alexia Langis)",
         "url": "https://open.spotify.com/album/4SElNkH0p7XWGmRZSNoDsi"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 187317,
       "name": "Time (feat. Alexia Langis)",
       "url": "https://open.spotify.com/track/3aw25wFUuAAB8rxheGg09G"
+    },
+    {
+      "added_at": "2023-09-12 19:22:53",
+      "album": {
+        "name": "Brake Test",
+        "url": "https://open.spotify.com/album/1sb9HqNdyxgAhBykc1FGZI"
+      },
+      "artists": [
+        {
+          "name": "Kevin Brand",
+          "url": "https://open.spotify.com/artist/37FEWLu0vHMvO4n1SHnWBS"
+        },
+        {
+          "name": "Guztavo MX",
+          "url": "https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q"
+        },
+        {
+          "name": "Nitai Charan",
+          "url": "https://open.spotify.com/artist/5R74FYSqMPIUYTHQs2TA6I"
+        }
+      ],
+      "duration_ms": 137812,
+      "name": "Brake Test",
+      "url": "https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN"
     },
     {
       "added_at": "2023-09-12 19:22:53",
@@ -939,6 +939,30 @@
     {
       "added_at": "2023-09-12 19:22:53",
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/3sXt7lzsm7c0nJFb7huHjl"
+      },
+      "artists": [
+        {
+          "name": "Alfred Beck",
+          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
+        },
+        {
+          "name": "Riallo",
+          "url": "https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u"
+        },
+        {
+          "name": "Sapir Amar",
+          "url": "https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z"
+    },
+    {
+      "added_at": "2023-09-12 19:22:53",
+      "album": {
         "name": "Ojos (La Noche Mix)",
         "url": "https://open.spotify.com/album/6V1G5cBs5JILHRvoFfLQ45"
       },
@@ -987,30 +1011,6 @@
       "duration_ms": 279594,
       "name": "The Same Loop Again",
       "url": "https://open.spotify.com/track/6XereS7uqOuoevU1yp8HWC"
-    },
-    {
-      "added_at": "2023-09-12 19:22:53",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/3sXt7lzsm7c0nJFb7huHjl"
-      },
-      "artists": [
-        {
-          "name": "Alfred Beck",
-          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
-        },
-        {
-          "name": "Riallo",
-          "url": "https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u"
-        },
-        {
-          "name": "Sapir Amar",
-          "url": "https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z"
     },
     {
       "added_at": "2023-09-12 19:22:53",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2023-09-12 19:22:53",
       "album": {
-        "name": "Esto Aqui No Acaba",
-        "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Flor Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Esto Aqui No Acaba",
-      "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
-    },
-    {
-      "added_at": "2023-09-12 19:22:53",
-      "album": {
         "name": "Just Leave The Past Behind",
         "url": "https://open.spotify.com/album/69sTttBrKs2MQBoND8cDcU"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 222000,
       "name": "Just Leave The Past Behind - Human Version",
       "url": "https://open.spotify.com/track/3KFjNp9m5fDzNpmoBkndMq"
+    },
+    {
+      "added_at": "2023-09-12 19:22:53",
+      "album": {
+        "name": "Esto Aqui No Acaba",
+        "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Flor Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Esto Aqui No Acaba",
+      "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
     },
     {
       "added_at": "2023-09-12 19:22:53",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-09-12 19:22:53",
       "album": {
-        "name": "Ra Ta Ta (LNY TNZ Remix)",
-        "url": "https://open.spotify.com/album/4Enuiub0K5xwy99vI3N7uy"
-      },
-      "artists": [
-        {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
-        },
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        }
-      ],
-      "duration_ms": 174420,
-      "name": "Ra Ta Ta - LNY TNZ Remix",
-      "url": "https://open.spotify.com/track/6vWmJH7KvTMT9YKWnsocZl"
-    },
-    {
-      "added_at": "2023-09-12 19:22:53",
-      "album": {
         "name": "Huellas",
         "url": "https://open.spotify.com/album/2h9Vvbub3Vjtcc28F8NuRG"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 228907,
       "name": "Huellas",
       "url": "https://open.spotify.com/track/6GmNKFbiPwZJ01fYkBeToB"
+    },
+    {
+      "added_at": "2023-09-12 19:22:53",
+      "album": {
+        "name": "Ra Ta Ta (LNY TNZ Remix)",
+        "url": "https://open.spotify.com/album/4Enuiub0K5xwy99vI3N7uy"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        },
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "duration_ms": 174420,
+      "name": "Ra Ta Ta - LNY TNZ Remix",
+      "url": "https://open.spotify.com/track/6vWmJH7KvTMT9YKWnsocZl"
     },
     {
       "added_at": "2023-09-12 19:22:53",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-09-12 19:22:53",
       "album": {
-        "name": "Eunoia",
-        "url": "https://open.spotify.com/album/6vvIKaVVvt3qHX94edFmmj"
-      },
-      "artists": [
-        {
-          "name": "Leimantour",
-          "url": "https://open.spotify.com/artist/23dJcrY31UxUxew6zHi02N"
-        }
-      ],
-      "duration_ms": 428000,
-      "name": "Eunoia",
-      "url": "https://open.spotify.com/track/2ki07Ir7ZDaQdJWnmYopFy"
-    },
-    {
-      "added_at": "2023-09-12 19:22:53",
-      "album": {
         "name": "Give Me Your Heart (Somos Uno)",
         "url": "https://open.spotify.com/album/3R79qs8T32OudQdPBZ0Ope"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 209267,
       "name": "Give Me Your Heart (Somos Uno)",
       "url": "https://open.spotify.com/track/0cEkRIcJMo0KIxNsWiKyob"
+    },
+    {
+      "added_at": "2023-09-12 19:22:53",
+      "album": {
+        "name": "Eunoia",
+        "url": "https://open.spotify.com/album/6vvIKaVVvt3qHX94edFmmj"
+      },
+      "artists": [
+        {
+          "name": "Leimantour",
+          "url": "https://open.spotify.com/artist/23dJcrY31UxUxew6zHi02N"
+        }
+      ],
+      "duration_ms": 428000,
+      "name": "Eunoia",
+      "url": "https://open.spotify.com/track/2ki07Ir7ZDaQdJWnmYopFy"
     },
     {
       "added_at": "2023-09-12 19:22:53",

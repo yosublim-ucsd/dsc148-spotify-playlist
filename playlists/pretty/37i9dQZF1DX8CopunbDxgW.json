@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: CRi",
-  "num_followers": 866160,
+  "num_followers": 866203,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTMwOWZjYTJjOGFlZDhkYTJlOTBhNTUwYTc4NDJlZjgwYjFiYzEy",
+  "snapshot_id": "MCw0YmRjOGYyYzBlMDdmNDA3YmUyYTk2MzgyNjBhYWZlNWJjNTIyNWZk",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -451,26 +451,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Heartquake",
-        "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 218373,
-      "name": "Heartquake",
-      "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Selfish Soul (ODESZA Remix)",
         "url": "https://open.spotify.com/album/4aJcCRF4B3Tjefsu0aZKu2"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 206210,
       "name": "Selfish Soul - ODESZA Remix",
       "url": "https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Heartquake",
+        "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 218373,
+      "name": "Heartquake",
+      "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -645,26 +645,6 @@
       "url": "https://open.spotify.com/track/7Eg6WudP6Qp7JzqldA2ZTH"
     },
     {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "To be honest (SG Lewis Remix)",
-        "url": "https://open.spotify.com/album/78tzLrfhvjKqMeLQ7Tq6en"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 238901,
-      "name": "To be honest - SG Lewis Remix",
-      "url": "https://open.spotify.com/track/15D7d8uC0db0q0QkMdHia8"
-    },
-    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "Peach",
@@ -685,6 +665,26 @@
       "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
     },
     {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "To be honest (SG Lewis Remix)",
+        "url": "https://open.spotify.com/album/78tzLrfhvjKqMeLQ7Tq6en"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 238901,
+      "name": "To be honest - SG Lewis Remix",
+      "url": "https://open.spotify.com/track/15D7d8uC0db0q0QkMdHia8"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "Bioluminescence",
@@ -701,24 +701,20 @@
       "url": "https://open.spotify.com/track/2Xm2BD8quy1r576X4L0MGT"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
+      "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Can't Help But Think About You",
-        "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
+        "name": "ITALODISCO (English Version)",
+        "url": "https://open.spotify.com/album/43pxODk9GVXEEnXfzzNLRu"
       },
       "artists": [
         {
-          "name": "Lincoln Jesser",
-          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
-        },
-        {
-          "name": "EMME",
-          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
         }
       ],
-      "duration_ms": 208185,
-      "name": "Can't Help But Think About You",
-      "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
+      "duration_ms": 199512,
+      "name": "ITALODISCO - English Version",
+      "url": "https://open.spotify.com/track/2dscdzSfNdj2QLpZkPnKTQ"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -741,20 +737,24 @@
       "url": "https://open.spotify.com/track/72UXdc6vi8bgtJHpTuLjHl"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "ITALODISCO (English Version)",
-        "url": "https://open.spotify.com/album/43pxODk9GVXEEnXfzzNLRu"
+        "name": "Can't Help But Think About You",
+        "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
       },
       "artists": [
         {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+          "name": "Lincoln Jesser",
+          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
+        },
+        {
+          "name": "EMME",
+          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
         }
       ],
-      "duration_ms": 199512,
-      "name": "ITALODISCO - English Version",
-      "url": "https://open.spotify.com/track/2dscdzSfNdj2QLpZkPnKTQ"
+      "duration_ms": 208185,
+      "name": "Can't Help But Think About You",
+      "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -897,6 +897,30 @@
       "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
     },
     {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Summer of Luv (feat. Unknown Mortal Orchestra) [Bakermat Remix]",
+        "url": "https://open.spotify.com/album/1PoyQK1c3DiDe0TeNz21z0"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Summer of Luv (feat. Unknown Mortal Orchestra) - Bakermat Remix",
+      "url": "https://open.spotify.com/track/2i7dmjiBBXxJEBwTg0XO4o"
+    },
+    {
       "added_at": "2023-09-15 04:00:00",
       "album": {
         "name": "Gimme",
@@ -993,46 +1017,6 @@
       "url": "https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Summer of Luv (feat. Unknown Mortal Orchestra) [Bakermat Remix]",
-        "url": "https://open.spotify.com/album/1PoyQK1c3DiDe0TeNz21z0"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        },
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "Summer of Luv (feat. Unknown Mortal Orchestra) - Bakermat Remix",
-      "url": "https://open.spotify.com/track/2i7dmjiBBXxJEBwTg0XO4o"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 217369,
-      "name": "Cold Blooded",
-      "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
-    },
-    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "OFF+ON",
@@ -1051,6 +1035,22 @@
       "duration_ms": 196846,
       "name": "OFF+ON",
       "url": "https://open.spotify.com/track/3PNrKIzVnDDGAsnekImbOI"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 217369,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "All the Good Times Never Die",
-        "url": "https://open.spotify.com/album/4rGaiJ09OCioTTfcMFvdPL"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        },
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "All the Good Times Never Die",
-      "url": "https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Back To Life",
         "url": "https://open.spotify.com/album/7aJdFN1wN5WTF9kP0tJQVz"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 253200,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/3HqPsN2UyQAn4QxMJKbs1w"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "All the Good Times Never Die",
+        "url": "https://open.spotify.com/album/4rGaiJ09OCioTTfcMFvdPL"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        },
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "All the Good Times Never Die",
+      "url": "https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "You Don't Ignore (Too Late)",
-        "url": "https://open.spotify.com/album/5zzxMokPf1XRxfM1n6NnFB"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "You Don't Ignore (Too Late)",
-      "url": "https://open.spotify.com/track/2uWCpK3UYOCF4lDcE36XHM"
-    },
-    {
       "added_at": "2023-09-08 04:00:00",
       "album": {
         "name": "Dreaming",
@@ -1175,6 +1159,22 @@
       "duration_ms": 205695,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/7oKcK43owb4FnfOTLQQrTF"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "You Don't Ignore (Too Late)",
+        "url": "https://open.spotify.com/album/5zzxMokPf1XRxfM1n6NnFB"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "You Don't Ignore (Too Late)",
+      "url": "https://open.spotify.com/track/2uWCpK3UYOCF4lDcE36XHM"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "All The Things We Say / Move Me",
-        "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 231105,
-      "name": "All The Things We Say",
-      "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Show Me The Money (with Tkay Maidza)",
         "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 187058,
       "name": "Show Me The Money (with Tkay Maidza)",
       "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "All The Things We Say / Move Me",
+        "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 231105,
+      "name": "All The Things We Say",
+      "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Float",
-        "url": "https://open.spotify.com/album/5slmjDmkuBgIkl3HPc3GHw"
-      },
-      "artists": [
-        {
-          "name": "SAFIA",
-          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Float",
-      "url": "https://open.spotify.com/track/2vHCoBojKudmRjFUnPsKys"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Jam City Presents EFM",
         "url": "https://open.spotify.com/album/0qeUqiPHZbBNfQjcWxIvWR"
       },
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Float",
+        "url": "https://open.spotify.com/album/5slmjDmkuBgIkl3HPc3GHw"
+      },
+      "artists": [
+        {
+          "name": "SAFIA",
+          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/2vHCoBojKudmRjFUnPsKys"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Time To Run",
         "url": "https://open.spotify.com/album/4hDuBgVAlRGJT5Bv1wWeoq"
       },
@@ -1583,26 +1583,6 @@
       "duration_ms": 253000,
       "name": "Time To Run",
       "url": "https://open.spotify.com/track/7kcGTBLBblNXP2tSs49s5k"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Replacements (feat. La Roux)",
-        "url": "https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk"
-      },
-      "artists": [
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        },
-        {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "Replacements (feat. La Roux)",
-      "url": "https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1631,22 +1611,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Let's Break It Down",
-        "url": "https://open.spotify.com/album/1rTS8SMvq0BXmgV3dk2rTL"
+        "name": "Replacements (feat. La Roux)",
+        "url": "https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk"
       },
       "artists": [
         {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
         },
         {
-          "name": "St. Panther",
-          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
         }
       ],
-      "duration_ms": 190080,
-      "name": "Let's Break It Down",
-      "url": "https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1"
+      "duration_ms": 229960,
+      "name": "Replacements (feat. La Roux)",
+      "url": "https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1667,6 +1647,26 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Let's Break It Down",
+        "url": "https://open.spotify.com/album/1rTS8SMvq0BXmgV3dk2rTL"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Let's Break It Down",
+      "url": "https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "turn it all the way up",
         "url": "https://open.spotify.com/album/5TGDbBxkgpfVtjZF6FTyUX"
       },
@@ -1683,22 +1683,6 @@
       "duration_ms": 156097,
       "name": "turn it all the way up",
       "url": "https://open.spotify.com/track/40FhKFG0SIUpxE7doxifpZ"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Be Quiet, They're Listening",
-        "url": "https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ"
-      },
-      "artists": [
-        {
-          "name": "OTR",
-          "url": "https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "In The Summer",
-      "url": "https://open.spotify.com/track/15wh4sekuZ58WzHW1V33Zi"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1723,6 +1707,22 @@
       "duration_ms": 242711,
       "name": "hollatchu",
       "url": "https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Be Quiet, They're Listening",
+        "url": "https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ"
+      },
+      "artists": [
+        {
+          "name": "OTR",
+          "url": "https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "In The Summer",
+      "url": "https://open.spotify.com/track/15wh4sekuZ58WzHW1V33Zi"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1757,6 +1757,26 @@
       "url": "https://open.spotify.com/track/0CdNOaZUy8JAbx7cuDoks1"
     },
     {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Don't Let Go (feat. Roseau)",
+        "url": "https://open.spotify.com/album/1rxzpMLYFGhhQbxuAKlZfF"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        },
+        {
+          "name": "Roseau",
+          "url": "https://open.spotify.com/artist/00NNRHsBc0J7SEOuf80hgO"
+        }
+      ],
+      "duration_ms": 166303,
+      "name": "Don't Let Go (feat. Roseau)",
+      "url": "https://open.spotify.com/track/02NJ2ws6rsEeh7DhsHqqvv"
+    },
+    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "Palaces : The Remixes, Pt. 3",
@@ -1779,26 +1799,6 @@
       "duration_ms": 277865,
       "name": "Sirens (feat. Caroline Polachek) [Tourist Remix]",
       "url": "https://open.spotify.com/track/6OoLVkHNPsKuPdOBAkhg4r"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Don't Let Go (feat. Roseau)",
-        "url": "https://open.spotify.com/album/1rxzpMLYFGhhQbxuAKlZfF"
-      },
-      "artists": [
-        {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
-        },
-        {
-          "name": "Roseau",
-          "url": "https://open.spotify.com/artist/00NNRHsBc0J7SEOuf80hgO"
-        }
-      ],
-      "duration_ms": 166303,
-      "name": "Don't Let Go (feat. Roseau)",
-      "url": "https://open.spotify.com/track/02NJ2ws6rsEeh7DhsHqqvv"
     },
     {
       "added_at": "2023-08-25 04:00:00",

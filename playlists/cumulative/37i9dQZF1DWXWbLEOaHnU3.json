@@ -1556,7 +1556,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 417391,
       "name": "Elsewhere - Original mix",
       "url": "https://open.spotify.com/track/6rr9fNtCD6NJISKD3X6Q2u"
@@ -5134,6 +5134,24 @@
       "duration_ms": 257142,
       "name": "Transparent",
       "url": "https://open.spotify.com/track/4MRwMKUwl3ognSdlzQyZ9f"
+    },
+    {
+      "album": {
+        "name": "Trumpet",
+        "url": "https://open.spotify.com/album/31OFHrOtxs6uuf1mu3GNiR"
+      },
+      "artists": [
+        {
+          "name": "Dang3r",
+          "url": "https://open.spotify.com/artist/1w3bZrV4XveeRTaCJAtkGr"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443186,
+      "name": "Trumpet",
+      "url": "https://open.spotify.com/track/7m8eozR3eg3MFxWomFcA8L"
     },
     {
       "album": {

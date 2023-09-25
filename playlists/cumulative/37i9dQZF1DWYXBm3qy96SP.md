@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: blink\-182
 
-603 songs - 1 day 10 hr 50 min
+604 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Breathing](https://open.spotify.com/track/1HkOpqQDHMorS6LKl3qIPp) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Breathing](https://open.spotify.com/album/6bO8Aa7MD8XUQTm4WcH59U) | 3:04 | 2023-07-20 | 2023-07-28 |
 | [Bright Light](https://open.spotify.com/track/7wXJBljsXeoWnq4ziW6sfB) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [DARKFIGHTER](https://open.spotify.com/album/5drsoG7zv1wwOSnKBnW2EZ) | 4:33 | 2023-06-01 | 2023-06-09 |
 | [Bubblegum](https://open.spotify.com/track/0DgOpYaaJtM0MELwbHFAeT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 4:39 | 2023-07-20 | 2023-07-28 |
+| [Bubblegum](https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW) | 4:39 | 2023-09-21 |  |
 | [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-07-27 |  |
 | [Bumblebee](https://open.spotify.com/track/7xCQbRkgXIZKzIrB8yrG6v) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Bumblebee](https://open.spotify.com/album/0IHo9Z1H5vlLINGbtN2ALE) | 3:39 | 2023-08-31 | 2023-09-08 |
 | [butterflies \(From Barbie The Album\)](https://open.spotify.com/track/0awsZaKWdHDpbayAdfYY0p) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [butterflies \(From Barbie The Album\)](https://open.spotify.com/album/6vrh5MHwmmqW4WYZr4wWfg) | 2:16 | 2023-07-20 | 2023-07-28 |
@@ -424,7 +425,7 @@
 | [red \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 3:25 | 2023-03-16 |  |
 | [Red Flags](https://open.spotify.com/track/4rINATFnopomhiBQfGPTR1) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Red Flags](https://open.spotify.com/album/6YGzHWAxYqFbZusxEF7xL3) | 3:39 | 2023-09-07 | 2023-09-22 |
 | [Rehab](https://open.spotify.com/track/3b1WgrrZodxXASonmXLqTS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 4:11 | 2023-09-08 | 2023-09-22 |
-| [Rescued](https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:18 | 2023-06-22 |  |
+| [Rescued](https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:18 | 2023-06-22 | 2023-09-25 |
 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 | 2023-04-20 | 2023-06-23 |
 | [Resolution/Revolution](https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Resolution/Revolution](https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m) | 3:22 | 2023-08-03 | 2023-08-11 |
 | [RIDE TOUGH!](https://open.spotify.com/track/6LCz9LsnSyO9AFbquwLxO3) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/6es5vAYj4JJpyMucQiBNNn) | 2:06 | 2023-04-06 | 2023-04-21 |

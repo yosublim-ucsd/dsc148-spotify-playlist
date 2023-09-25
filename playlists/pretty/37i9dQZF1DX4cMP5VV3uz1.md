@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,862 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,953 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 58 | [All For You](https://open.spotify.com/track/3y1fEFFHFv79OYeCbzc774) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [All For You](https://open.spotify.com/album/254Y0CD07dB40q84db89EB) | 3:22 |
 | 59 | [When It Rains, It Pours](https://open.spotify.com/track/0Qb8vbig4Wky0RKhOWh2Ze) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [When It Rains, It Pours](https://open.spotify.com/album/7gw75X0Cp4ya2yz6tW0Rio) | 3:17 |
 | 60 | [Voodoo People \- Pendulum Mix](https://open.spotify.com/track/7C0PzxbsQx59DgGVRsquwJ) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Their Law The Singles 1990 \- 2005](https://open.spotify.com/album/0aZZ90ZakcGFzFiBMKHrCy) | 5:07 |
-| 61 | [Downers \- Rework](https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers \(Rework\)](https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk) | 3:01 |
+| 61 | [Want You](https://open.spotify.com/track/3QRE0rMSiI6ceS0ZOxFblB) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Want You](https://open.spotify.com/album/1gwNOFmeMRGzIj2752iJEB) | 4:07 |
 | 62 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 |
-| 63 | [Want You](https://open.spotify.com/track/3QRE0rMSiI6ceS0ZOxFblB) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Want You](https://open.spotify.com/album/1gwNOFmeMRGzIj2752iJEB) | 4:07 |
+| 63 | [Downers \- Rework](https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers \(Rework\)](https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk) | 3:01 |
 | 64 | [Through It All \- Hedex Remix](https://open.spotify.com/track/5ts712TiZXqdbbkef0mRrI) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Through It All \(Hedex Remix\)](https://open.spotify.com/album/3g9yPWc8yVPueR4Zk1LPot) | 3:50 |
 | 65 | [Absolute](https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Fernquest](https://open.spotify.com/artist/7vUiDGA4jzsPS8RSTaiFrL) | [Absolute](https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9) | 3:04 |
 | 66 | [Daga Da](https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [We'll Be Alright EP](https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61) | 3:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 74 | [Kraken](https://open.spotify.com/track/76FWqanqrb3nf3XZ3vIv7x) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Konetix](https://open.spotify.com/artist/5PeWO3p58iWJNlYdsW4wmV) | [Kraken](https://open.spotify.com/album/1Ac1pcGtOMPK4JEuWRqUsP) | 2:38 |
 | 75 | [Take You Higher](https://open.spotify.com/track/2rnDPE04mBt78lfmp9JNDP) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Lazers Not Included](https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB) | 4:47 |
 
-Snapshot ID: `MCw2MDVjNmYwOWYyNDA0NmY1NGU5OGFmNGU5N2NhNDhjYTQ2NmIyYzRh`
+Snapshot ID: `MCw3ZjkzNzEyMzU5NTcyMTBhMmM1NGRmZjllOGUyMGFkMmY3YzBiMDg1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,902 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,039 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 46 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 |
 | 47 | [We Didn't Have Much](https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Straight Outta The Country](https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP) | 2:54 |
 | 48 | [Heartland \- Pure Country/Soundtrack Version](https://open.spotify.com/track/0U4R6UqrJo43TmImPku9H8) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Pure Country](https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX) | 2:18 |
-| 49 | [You Got a Small Town](https://open.spotify.com/track/1F7UVBrslkA96RCiXxIhQ3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/3VbfZpES3qxhElY7c3DTVk) | 2:58 |
+| 49 | [You Got a Small Town](https://open.spotify.com/track/4XETfjmA6u9yy3CSfh1oFL) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Never Giving Up On That](https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD) | 2:59 |
 | 50 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |
 | 51 | [Free And Easy \(Down The Road I Go\)](https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Greatest Hits / Every Mile A Memory 2003 \- 2008](https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6) | 3:21 |
 | 52 | [Where I Find God](https://open.spotify.com/track/6jhLdxpo93lXFaJwX7znaa) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 4:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 99 | [Gone But Not Forgotten](https://open.spotify.com/track/1lJuY06cD1aBtPJ4Xh9LFK) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Gone But Not Forgotten](https://open.spotify.com/album/37snSBOMCp6s8pvK6gb8dL) | 2:53 |
 | 100 | [Some Gave All](https://open.spotify.com/track/3wKfQaOgFxZ0qhXjo4iqlI) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 4:05 |
 
-Snapshot ID: `MCw1NjlkNDU1OGYxYzc4MDIwNTY3MzlmNDZhNWFjNWQ3NGY5NDcwMjhi`
+Snapshot ID: `MCwyOGE5NGNjMTIzODcwNjNlNTdhNDdhNGNhNTc0ZTQzYTBmOWZjZTRm`

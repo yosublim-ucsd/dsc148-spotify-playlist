@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Michael Warren
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,718 likes - 120 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,752 likes - 120 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 40 | [Gonna Be Alright](https://open.spotify.com/track/3Eo9aTE1gnvShpP21Vb7tu) | [Cowboy Troy](https://open.spotify.com/artist/3Rd3kr9QoBdHGjD1Hk0tkj) | [Gonna Be Alright](https://open.spotify.com/album/6jlXxGbWeMOMbSEU9TJ3K9) | 2:56 |
 | 41 | [See You in Church](https://open.spotify.com/track/6KncYAsbwJj852e0gyajOE) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [See You in Church.](https://open.spotify.com/album/0EY9R4wwDyk8crB65GYfKv) | 3:08 |
 | 42 | [Just Say I Love You](https://open.spotify.com/track/4iVi2YeSzYut5CgMu9WBu3) | [Chapel Hart](https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj) | [Just Say I Love You](https://open.spotify.com/album/2HCLaqqb00O9PPNy4aYXx3) | 4:00 |
-| 43 | [You Got a Small Town](https://open.spotify.com/track/1F7UVBrslkA96RCiXxIhQ3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/3VbfZpES3qxhElY7c3DTVk) | 2:58 |
+| 43 | [You Got a Small Town](https://open.spotify.com/track/4XETfjmA6u9yy3CSfh1oFL) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Never Giving Up On That](https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD) | 2:59 |
 | 44 | [Found It In You \- Demo](https://open.spotify.com/track/6PiD58522iUZHJETf0zbAu) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Tiera](https://open.spotify.com/album/50jNCjQGuhYEG5z6iVmzRC) | 3:14 |
 | 45 | [Tall Boy](https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Tall Boy](https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w) | 2:20 |
 | 46 | [Hit Different](https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Hit Different](https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB) | 3:13 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 67 | [Sunday Toasted](https://open.spotify.com/track/7trnSmH2rP4Dz9EWCigzhz) | [Zinn](https://open.spotify.com/artist/5mGMpDd5gyYAXp9Goofy6D) | [Sunday Toasted](https://open.spotify.com/album/7FtqnNR1z6z0nqEyinGd5F) | 2:43 |
 | 68 | [Un\-Break My Heart \- Spotify Singles](https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:16 |
 | 69 | [Come On With It](https://open.spotify.com/track/670avKEDoIrvyoLOgNJF7m) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Come On With It](https://open.spotify.com/album/5xPnmT5CGuQp1E0vxPXveO) | 2:37 |
-| 70 | [Baby I Am](https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2) | 2:56 |
+| 70 | [Baby I Am](https://open.spotify.com/track/29XXIfVUURyxLnMD5K6OZl) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Never Giving Up On That](https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD) | 2:54 |
 | 71 | [Be Like That \- feat\. Swae Lee & Khalid](https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be Like That \(feat\. Swae Lee & Khalid\)](https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp) | 3:11 |
 | 72 | [Missing Nothing](https://open.spotify.com/track/3ARM0QYcfyLZuci5WuTynO) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Missing Nothing](https://open.spotify.com/album/2E1kBO77PoakfIp5yUIFpx) | 2:36 |
 | 73 | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy) | 4:20 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 119 | [Good Love](https://open.spotify.com/track/7sMoGNd6xOM7CD1WdFRWBQ) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Good Love](https://open.spotify.com/album/3lpdLJbh71M7f7YezuOEww) | 2:59 |
 | 120 | [Small Town](https://open.spotify.com/track/2AQNauizjgSmFeUIdtlNqS) | [Warrick McZeke](https://open.spotify.com/artist/49r2zkItXkIJc5tDfnVCIi) | [Small Town](https://open.spotify.com/album/7ESdUin17RB1cW22mGntRb) | 3:42 |
 
-Snapshot ID: `MCw3MTRlYmM2MDA5NmJiYjEzM2M1ZDFjZWRmODFhNmFlY2NkZWM5Yjcx`
+Snapshot ID: `MCxmZGYzZmU2Nzg5OGU3YTE2MGMyZDM1MWMzN2EzMzBjZWQwN2FjMGRl`

@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Sweden.",
-  "num_followers": 615251,
+  "num_followers": 615288,
   "original_name": "Top 50 - Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQ4ODMzNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQ4OTIwMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
+      "album": {
+        "name": "Farv\u00e4l",
+        "url": "https://open.spotify.com/album/3OBYM95WFMy24ZiWK5vPHQ"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "duration_ms": 158507,
+      "name": "Farv\u00e4l",
+      "url": "https://open.spotify.com/track/15vhsww4sVuzPOqN04DdBc"
+    },
+    {
+      "added_at": "2023-09-24 08:06:34",
       "album": {
         "name": "Dans fr\u00e5n dig",
         "url": "https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g"
@@ -33,23 +49,7 @@
       "url": "https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
-      "album": {
-        "name": "Farv\u00e4l",
-        "url": "https://open.spotify.com/album/3OBYM95WFMy24ZiWK5vPHQ"
-      },
-      "artists": [
-        {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
-        }
-      ],
-      "duration_ms": 158507,
-      "name": "Farv\u00e4l",
-      "url": "https://open.spotify.com/track/15vhsww4sVuzPOqN04DdBc"
-    },
-    {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -73,7 +73,23 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 154043,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
+    },
+    {
+      "added_at": "2023-09-24 08:06:34",
       "album": {
         "name": "Ikv\u00e4ll Igen",
         "url": "https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
         "name": "On My Love",
         "url": "https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -141,23 +157,23 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
-        "name": "Salam",
-        "url": "https://open.spotify.com/album/56xgHK320guDeJaXou4VQu"
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
       },
       "artists": [
         {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
         }
       ],
-      "duration_ms": 137861,
-      "name": "Salam",
-      "url": "https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz"
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/5ryLFHTIipAHhnxUVjmytI"
@@ -177,39 +193,23 @@
       "url": "https://open.spotify.com/track/1KB9MeVcnX2rjNGRYvP4aU"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P"
+        "name": "Kan Inte G\u00e5",
+        "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
       },
       "artists": [
         {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
         }
       ],
-      "duration_ms": 130666,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze"
+      "duration_ms": 146718,
+      "name": "Kan Inte G\u00e5",
+      "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
         "name": "Soldat",
         "url": "https://open.spotify.com/album/30rq6uVi2lypmp6787cImE"
@@ -233,207 +233,7 @@
       "url": "https://open.spotify.com/track/4c9lx29ADaRI0Hzy8ql69V"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
-      "album": {
-        "name": "Neutronstj\u00e4rnan",
-        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
-      },
-      "artists": [
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
-        }
-      ],
-      "duration_ms": 248293,
-      "name": "Rosor & champagne",
-      "url": "https://open.spotify.com/track/19s1sITOZWsUyCBva6mVs8"
-    },
-    {
-      "added_at": "2023-09-23 10:36:34",
-      "album": {
-        "name": "Kan Inte G\u00e5",
-        "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
-      },
-      "artists": [
-        {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
-        }
-      ],
-      "duration_ms": 146718,
-      "name": "Kan Inte G\u00e5",
-      "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
-    },
-    {
-      "added_at": "2023-09-23 10:36:34",
-      "album": {
-        "name": "B\u00e4st h\u00e4r inne",
-        "url": "https://open.spotify.com/album/5StD84eoU8BOFcReirunrU"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 299733,
-      "name": "B\u00e4st h\u00e4r inne",
-      "url": "https://open.spotify.com/track/2r8X5szspfSyhUlVes7plU"
-    },
-    {
-      "added_at": "2023-09-23 10:36:34",
-      "album": {
-        "name": "Hj\u00e4rtat utanp\u00e5 min skjorta",
-        "url": "https://open.spotify.com/album/7egKQhPVOgOgM22MIRfYmP"
-      },
-      "artists": [
-        {
-          "name": "Norlie & KKV",
-          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
-        }
-      ],
-      "duration_ms": 146331,
-      "name": "Hj\u00e4rtat utanp\u00e5 min skjorta",
-      "url": "https://open.spotify.com/track/1OOQi3ImCyejs9oLZJeG7I"
-    },
-    {
-      "added_at": "2023-09-23 10:36:34",
-      "album": {
-        "name": "Neutronstj\u00e4rnan",
-        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
-      },
-      "artists": [
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "\u00c4r det n\u00e5t jag ska ta med",
-      "url": "https://open.spotify.com/track/2a7tGulq9dxg88WWHP3XlV"
-    },
-    {
-      "added_at": "2023-09-23 10:36:34",
-      "album": {
-        "name": "Andas in andas ut",
-        "url": "https://open.spotify.com/album/4Hy5SVsOUpO5ggDl3xOyen"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 156760,
-      "name": "Andas in andas ut",
-      "url": "https://open.spotify.com/track/7tHkIqI9XU8qCfLHIzl0pp"
-    },
-    {
-      "added_at": "2023-09-23 10:36:34",
-      "album": {
-        "name": "Neutronstj\u00e4rnan",
-        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
-      },
-      "artists": [
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
-        }
-      ],
-      "duration_ms": 397253,
-      "name": "Min gata i stan",
-      "url": "https://open.spotify.com/track/5qXKuapHkxosZWkYjwrzj3"
-    },
-    {
-      "added_at": "2023-09-23 10:36:34",
-      "album": {
-        "name": "Neutronstj\u00e4rnan",
-        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
-      },
-      "artists": [
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
-        }
-      ],
-      "duration_ms": 296480,
-      "name": "N\u00e5t som verkligen \u00e4r bra",
-      "url": "https://open.spotify.com/track/2AF3NZG80HjQve5W7wu9Th"
-    },
-    {
-      "added_at": "2023-09-23 10:36:34",
-      "album": {
-        "name": "Sprinter",
-        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Sprinter",
-      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
-    },
-    {
-      "added_at": "2023-09-23 10:36:34",
-      "album": {
-        "name": "Upp och ner och hit och dit med Babblarna",
-        "url": "https://open.spotify.com/album/6P4rV3154g0xVp9vrOyYH1"
-      },
-      "artists": [
-        {
-          "name": "Babblarna",
-          "url": "https://open.spotify.com/artist/1aA5OGASCVhznQYm71BMYg"
-        }
-      ],
-      "duration_ms": 334053,
-      "name": "Babblarnas vaggvisa",
-      "url": "https://open.spotify.com/track/3GygspQIcYy5OnRiw245Qh"
-    },
-    {
-      "added_at": "2023-09-23 10:36:34",
-      "album": {
-        "name": "Palmerna",
-        "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
-      },
-      "artists": [
-        {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
-        }
-      ],
-      "duration_ms": 147013,
-      "name": "Palmerna",
-      "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
-    },
-    {
-      "added_at": "2023-09-23 10:36:34",
-      "album": {
-        "name": "Somna med Humlan Djojj",
-        "url": "https://open.spotify.com/album/7Fwal5B7DbHxVEjZRmckum"
-      },
-      "artists": [
-        {
-          "name": "Humlan Djojj",
-          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
-        },
-        {
-          "name": "Josefine G\u00f6testam",
-          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
-        }
-      ],
-      "duration_ms": 140046,
-      "name": "Djurens vaggvisa",
-      "url": "https://open.spotify.com/track/5maA851Fle6XexgJgJzFjF"
-    },
-    {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
         "name": "RAGGARBILAR (WARRA WARRA)",
         "url": "https://open.spotify.com/album/25wtWAZwZCTg3qIIhasZXh"
@@ -457,107 +257,55 @@
       "url": "https://open.spotify.com/track/1Rl4O8fqcMTBN8o2rilFBL"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
-        "name": "Josefin",
-        "url": "https://open.spotify.com/album/6Berl5qBDpBAksUykxTT4v"
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P"
       },
       "artists": [
         {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
         }
       ],
-      "duration_ms": 221217,
-      "name": "Josefin",
-      "url": "https://open.spotify.com/track/5LDi79YkHmZ1vRLMlyNlNH"
+      "duration_ms": 130666,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
-        "name": "F\u00d6RS\u00d6KER LE",
-        "url": "https://open.spotify.com/album/5bcB7h6aFU9mQj3hUjLmre"
+        "name": "Andas in andas ut",
+        "url": "https://open.spotify.com/album/4Hy5SVsOUpO5ggDl3xOyen"
       },
       "artists": [
         {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
         }
       ],
-      "duration_ms": 229658,
-      "name": "F\u00d6RS\u00d6KER LE",
-      "url": "https://open.spotify.com/track/3Jr1fTt0S8JZSVok1LwMR9"
+      "duration_ms": 156760,
+      "name": "Andas in andas ut",
+      "url": "https://open.spotify.com/track/7tHkIqI9XU8qCfLHIzl0pp"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
-        "name": "Durackord",
-        "url": "https://open.spotify.com/album/2XMFONFWIuKj3Uwjzc4t08"
+        "name": "Upp och ner och hit och dit med Babblarna",
+        "url": "https://open.spotify.com/album/6P4rV3154g0xVp9vrOyYH1"
       },
       "artists": [
         {
-          "name": "Tjuvjakt",
-          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
-        },
-        {
-          "name": "ADAAM",
-          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+          "name": "Babblarna",
+          "url": "https://open.spotify.com/artist/1aA5OGASCVhznQYm71BMYg"
         }
       ],
-      "duration_ms": 179232,
-      "name": "Durackord",
-      "url": "https://open.spotify.com/track/3GhXLFuS9GSzWqrrjlqRoX"
+      "duration_ms": 334053,
+      "name": "Babblarnas vaggvisa",
+      "url": "https://open.spotify.com/track/3GygspQIcYy5OnRiw245Qh"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
-      "album": {
-        "name": "En annan jag",
-        "url": "https://open.spotify.com/album/5IScUyxaPLwT91UoEm4aXn"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 165252,
-      "name": "Den sista s\u00e5ngen",
-      "url": "https://open.spotify.com/track/5KHO2Rsilm7Nq9Wr8TxmnN"
-    },
-    {
-      "added_at": "2023-09-23 10:36:34",
-      "album": {
-        "name": "Gr\u00e4t",
-        "url": "https://open.spotify.com/album/15S6L5LQiWcBNtrEPHufAp"
-      },
-      "artists": [
-        {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
-        }
-      ],
-      "duration_ms": 194394,
-      "name": "Gr\u00e4t",
-      "url": "https://open.spotify.com/track/1VJBnmHm3gUyJnPKetgC3j"
-    },
-    {
-      "added_at": "2023-09-23 10:36:34",
-      "album": {
-        "name": "K\u00e4nslokall",
-        "url": "https://open.spotify.com/album/0by3vmltZZetCzPLg90D1p"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 123169,
-      "name": "K\u00e4nslokall",
-      "url": "https://open.spotify.com/track/4eamNeQdsYOWCxqm6s4r8w"
-    },
-    {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
         "name": "Neutronstj\u00e4rnan",
         "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
@@ -568,28 +316,64 @@
           "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
         }
       ],
-      "duration_ms": 230746,
-      "name": "Alltid n\u00e4stan d\u00e4r",
-      "url": "https://open.spotify.com/track/3R6PS7vYHZDzI610oack26"
+      "duration_ms": 231906,
+      "name": "\u00c4r det n\u00e5t jag ska ta med",
+      "url": "https://open.spotify.com/track/2a7tGulq9dxg88WWHP3XlV"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+        "name": "Somna med Humlan Djojj",
+        "url": "https://open.spotify.com/album/7Fwal5B7DbHxVEjZRmckum"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Humlan Djojj",
+          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
+        },
+        {
+          "name": "Josefine G\u00f6testam",
+          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
         }
       ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+      "duration_ms": 140046,
+      "name": "Djurens vaggvisa",
+      "url": "https://open.spotify.com/track/5maA851Fle6XexgJgJzFjF"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
+      "album": {
+        "name": "Neutronstj\u00e4rnan",
+        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 248293,
+      "name": "Rosor & champagne",
+      "url": "https://open.spotify.com/track/19s1sITOZWsUyCBva6mVs8"
+    },
+    {
+      "added_at": "2023-09-24 08:06:34",
+      "album": {
+        "name": "Neutronstj\u00e4rnan",
+        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 296480,
+      "name": "N\u00e5t som verkligen \u00e4r bra",
+      "url": "https://open.spotify.com/track/2AF3NZG80HjQve5W7wu9Th"
+    },
+    {
+      "added_at": "2023-09-24 08:06:34",
       "album": {
         "name": "Banan Melon Kiwi & Citron",
         "url": "https://open.spotify.com/album/0nUdcTL27UO3plbL2aNGkR"
@@ -605,23 +389,171 @@
       "url": "https://open.spotify.com/track/2ZfaBbRMcEgSF8JnJIaEBP"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
-        "name": "F\u00e5nga mig n\u00e4r jag faller",
-        "url": "https://open.spotify.com/album/4NsssUJj3cxavJQDU8axoG"
+        "name": "Josefin",
+        "url": "https://open.spotify.com/album/6Berl5qBDpBAksUykxTT4v"
       },
       "artists": [
         {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
         }
       ],
-      "duration_ms": 147880,
-      "name": "F\u00e5nga mig n\u00e4r jag faller",
-      "url": "https://open.spotify.com/track/6HuNgzEw9b4tDcSDCQBS1O"
+      "duration_ms": 221217,
+      "name": "Josefin",
+      "url": "https://open.spotify.com/track/5LDi79YkHmZ1vRLMlyNlNH"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
+      "album": {
+        "name": "Salam",
+        "url": "https://open.spotify.com/album/56xgHK320guDeJaXou4VQu"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 137861,
+      "name": "Salam",
+      "url": "https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz"
+    },
+    {
+      "added_at": "2023-09-24 08:06:34",
+      "album": {
+        "name": "Sprinter",
+        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Sprinter",
+      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+    },
+    {
+      "added_at": "2023-09-24 08:06:34",
+      "album": {
+        "name": "Neutronstj\u00e4rnan",
+        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 397253,
+      "name": "Min gata i stan",
+      "url": "https://open.spotify.com/track/5qXKuapHkxosZWkYjwrzj3"
+    },
+    {
+      "added_at": "2023-09-24 08:06:34",
+      "album": {
+        "name": "B\u00e4st h\u00e4r inne",
+        "url": "https://open.spotify.com/album/5StD84eoU8BOFcReirunrU"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 299733,
+      "name": "B\u00e4st h\u00e4r inne",
+      "url": "https://open.spotify.com/track/2r8X5szspfSyhUlVes7plU"
+    },
+    {
+      "added_at": "2023-09-24 08:06:34",
+      "album": {
+        "name": "En annan jag",
+        "url": "https://open.spotify.com/album/5IScUyxaPLwT91UoEm4aXn"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "duration_ms": 165252,
+      "name": "Den sista s\u00e5ngen",
+      "url": "https://open.spotify.com/track/5KHO2Rsilm7Nq9Wr8TxmnN"
+    },
+    {
+      "added_at": "2023-09-24 08:06:34",
+      "album": {
+        "name": "Gr\u00e4t",
+        "url": "https://open.spotify.com/album/15S6L5LQiWcBNtrEPHufAp"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "duration_ms": 194394,
+      "name": "Gr\u00e4t",
+      "url": "https://open.spotify.com/track/1VJBnmHm3gUyJnPKetgC3j"
+    },
+    {
+      "added_at": "2023-09-24 08:06:34",
+      "album": {
+        "name": "KOMMER DU IH\u00c5G?",
+        "url": "https://open.spotify.com/album/4T9cDX7VHq0uxIIotzK4Ct"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "KOMMER DU IH\u00c5G?",
+      "url": "https://open.spotify.com/track/7yfMu3Ez41fQXuD9gUbFjQ"
+    },
+    {
+      "added_at": "2023-09-24 08:06:34",
+      "album": {
+        "name": "F\u00d6RS\u00d6KER LE",
+        "url": "https://open.spotify.com/album/5bcB7h6aFU9mQj3hUjLmre"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 229658,
+      "name": "F\u00d6RS\u00d6KER LE",
+      "url": "https://open.spotify.com/track/3Jr1fTt0S8JZSVok1LwMR9"
+    },
+    {
+      "added_at": "2023-09-24 08:06:34",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2023-09-24 08:06:34",
       "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
@@ -641,39 +573,23 @@
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
-        "name": "PISTOLER POESI OCH SEX",
-        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+        "name": "F\u00e5nga mig n\u00e4r jag faller",
+        "url": "https://open.spotify.com/album/4NsssUJj3cxavJQDU8axoG"
       },
       "artists": [
         {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
         }
       ],
-      "duration_ms": 202954,
-      "name": "Har Dig",
-      "url": "https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9"
+      "duration_ms": 147880,
+      "name": "F\u00e5nga mig n\u00e4r jag faller",
+      "url": "https://open.spotify.com/track/6HuNgzEw9b4tDcSDCQBS1O"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
-      "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
-    },
-    {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
         "name": "Neutronstj\u00e4rnan",
         "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
@@ -684,28 +600,12 @@
           "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
         }
       ],
-      "duration_ms": 256320,
-      "name": "En lampa i m\u00e4ssing",
-      "url": "https://open.spotify.com/track/4BJP5hoJG1UXiPTnyEQNFg"
+      "duration_ms": 230746,
+      "name": "Alltid n\u00e4stan d\u00e4r",
+      "url": "https://open.spotify.com/track/3R6PS7vYHZDzI610oack26"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
-      "album": {
-        "name": "KOMMER DU IH\u00c5G?",
-        "url": "https://open.spotify.com/album/4T9cDX7VHq0uxIIotzK4Ct"
-      },
-      "artists": [
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "KOMMER DU IH\u00c5G?",
-      "url": "https://open.spotify.com/track/7yfMu3Ez41fQXuD9gUbFjQ"
-    },
-    {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -721,7 +621,59 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "added_at": "2023-09-24 08:06:34",
+      "album": {
+        "name": "JAG VILL HA DIG H\u00c4R HOS MIG",
+        "url": "https://open.spotify.com/album/27PgcVTjOkYNS3Y48VtyeA"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "duration_ms": 121219,
+      "name": "RID MIG SOM EN DALAH\u00c4ST",
+      "url": "https://open.spotify.com/track/74xfr2lyWfi2qZjWtqovBg"
+    },
+    {
+      "added_at": "2023-09-24 08:06:34",
+      "album": {
+        "name": "Hj\u00e4rtat utanp\u00e5 min skjorta",
+        "url": "https://open.spotify.com/album/7egKQhPVOgOgM22MIRfYmP"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "duration_ms": 146331,
+      "name": "Hj\u00e4rtat utanp\u00e5 min skjorta",
+      "url": "https://open.spotify.com/track/1OOQi3ImCyejs9oLZJeG7I"
+    },
+    {
+      "added_at": "2023-09-24 08:06:34",
       "album": {
         "name": "Natten blir till dag",
         "url": "https://open.spotify.com/album/3AqAKMOt7dNZqbvPAhYzbZ"
@@ -737,7 +689,39 @@
       "url": "https://open.spotify.com/track/2cqyU75B4rXPHlU2X6WLCI"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
+      "album": {
+        "name": "Neutronstj\u00e4rnan",
+        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "En lampa i m\u00e4ssing",
+      "url": "https://open.spotify.com/track/4BJP5hoJG1UXiPTnyEQNFg"
+    },
+    {
+      "added_at": "2023-09-24 08:06:34",
+      "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 202954,
+      "name": "Har Dig",
+      "url": "https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9"
+    },
+    {
+      "added_at": "2023-09-24 08:06:34",
       "album": {
         "name": "Neutronstj\u00e4rnan",
         "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
@@ -753,27 +737,55 @@
       "url": "https://open.spotify.com/track/5THadTahrY6xuDbzVwqCFG"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
-        "name": "Standard",
-        "url": "https://open.spotify.com/album/3klHl3l7VxUautqwwQc678"
+        "name": "Palmerna",
+        "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
       },
       "artists": [
         {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
-        },
-        {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
         }
       ],
-      "duration_ms": 127209,
-      "name": "Standard",
-      "url": "https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V"
+      "duration_ms": 147013,
+      "name": "Palmerna",
+      "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
+      "album": {
+        "name": "DISKOTEKA",
+        "url": "https://open.spotify.com/album/6B3r8BialUCTnVf6o8D4yQ"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 132666,
+      "name": "DISKOTEKA",
+      "url": "https://open.spotify.com/track/16jNbcjTGEskPA06R4wbQz"
+    },
+    {
+      "added_at": "2023-09-24 08:06:34",
+      "album": {
+        "name": "Neutronstj\u00e4rnan",
+        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 383973,
+      "name": "V\u00e5r tid",
+      "url": "https://open.spotify.com/track/1sLzMNcepqXukRSp61o2Zx"
+    },
+    {
+      "added_at": "2023-09-24 08:06:34",
       "album": {
         "name": "Feeling Myself (Roc Boyz Remix)",
         "url": "https://open.spotify.com/album/4RCbNOVT6CdMVHt2kJqsjK"
@@ -793,23 +805,7 @@
       "url": "https://open.spotify.com/track/67en3njm0MOvKPIM3lkR3V"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
-      "album": {
-        "name": "Vibe Check",
-        "url": "https://open.spotify.com/album/0OrXgNFMNUFlwddX4NnCtD"
-      },
-      "artists": [
-        {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
-        }
-      ],
-      "duration_ms": 192586,
-      "name": "Vibe Check",
-      "url": "https://open.spotify.com/track/3b7YMGle84C9SLNmJC6dz0"
-    },
-    {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
         "name": "Neutronstj\u00e4rnan",
         "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
@@ -825,39 +821,39 @@
       "url": "https://open.spotify.com/track/15Fs9wpP2uQQewAceBGYPc"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
-        "name": "Neutronstj\u00e4rnan",
-        "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
+        "name": "K\u00e4nslokall",
+        "url": "https://open.spotify.com/album/0by3vmltZZetCzPLg90D1p"
       },
       "artists": [
         {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
         }
       ],
-      "duration_ms": 383973,
-      "name": "V\u00e5r tid",
-      "url": "https://open.spotify.com/track/1sLzMNcepqXukRSp61o2Zx"
+      "duration_ms": 123169,
+      "name": "K\u00e4nslokall",
+      "url": "https://open.spotify.com/track/4eamNeQdsYOWCxqm6s4r8w"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
-        "name": "Vill va med dig",
-        "url": "https://open.spotify.com/album/2kEXuEfiNApqFQHym7qXcI"
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
       "artists": [
         {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 168473,
-      "name": "Vill va med dig",
-      "url": "https://open.spotify.com/track/56flxHBv6c08oCUjQhXeb1"
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-09-23 10:36:34",
+      "added_at": "2023-09-24 08:06:34",
       "album": {
         "name": "Vart tr\u00f6tt sen 98",
         "url": "https://open.spotify.com/album/3rjXf1oKR0Gfj383FwercY"

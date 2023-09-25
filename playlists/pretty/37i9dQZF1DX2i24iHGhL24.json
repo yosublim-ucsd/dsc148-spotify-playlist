@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 110313,
+  "num_followers": 110396,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmNjNTc2OTk0ZjhiMmE4N2FhZTE2NTFiOTZlMWJkMTAxYmFlYTdk",
+  "snapshot_id": "MCw4ZDZlODcyNDQzZjhlNDg4MDVkODMxOTFiMmE5ZjcxYzM4Y2MxOTBk",
   "tracks": [
     {
       "added_at": "2023-09-04 16:45:54",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 241776,
-      "name": "You'll Be In My Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "PopArt: The Hits",
         "url": "https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 237653,
       "name": "Always on My Mind - 2003 Remaster",
       "url": "https://open.spotify.com/track/2SWn864dJI5RNyrp3F4Kp1"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 241776,
+      "name": "You'll Be In My Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Desafinado (From 'Minions: The Rise of Gru' Soundtrack)",
-        "url": "https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 130955,
-      "name": "Desafinado - From 'Minions: The Rise of Gru' Soundtrack",
-      "url": "https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 218253,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Desafinado (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 130955,
+      "name": "Desafinado - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Everytime - Spotify Singles",
-        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "Everytime - Spotify Singles",
-      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Cruel Summer (Acoustic Version)",
         "url": "https://open.spotify.com/album/3N4veDCnNnZ848pdYaTjqU"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 176789,
       "name": "Cruel Summer (Acoustic Version)",
       "url": "https://open.spotify.com/track/6hc3zqzRD2IOI2VVvbCebw"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Everytime - Spotify Singles",
+        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "Everytime - Spotify Singles",
+      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1224,6 +1224,22 @@
       "added_at": "2023-09-04 16:45:54",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 255126,
+      "name": "Castle On The Hill - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
       },
       "artists": [
@@ -1251,22 +1267,6 @@
       "duration_ms": 200655,
       "name": "True Colors (Spotify Singles)",
       "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 255126,
-      "name": "Castle On The Hill - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Emily In Paris Season 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0"
-      },
-      "artists": [
-        {
-          "name": "Ashley Park",
-          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
-        }
-      ],
-      "duration_ms": 124805,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6dgZhiW5isdLIrpOdDqrwr"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Praise You",
         "url": "https://open.spotify.com/album/65CxUyETl0Q4A2u6dZtbiA"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 169050,
       "name": "Praise You",
       "url": "https://open.spotify.com/track/56dOfIe8TCrSvPBnQduue9"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Emily In Paris Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0"
+      },
+      "artists": [
+        {
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+        }
+      ],
+      "duration_ms": 124805,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6dgZhiW5isdLIrpOdDqrwr"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 256278,
-      "name": "Un-Break My Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
         "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 194595,
       "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
       "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 256278,
+      "name": "Un-Break My Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
-        "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
-      },
-      "artists": [
-        {
-          "name": "Jillian Jacqueline",
-          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
-        }
-      ],
-      "duration_ms": 243562,
-      "name": "I Feel It Coming (Recorded At Sound Stage Nashville)",
-      "url": "https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Walking On The Moon",
         "url": "https://open.spotify.com/album/2kwI7O2JRV0R0WXLPr9teL"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 241213,
       "name": "Walking On The Moon",
       "url": "https://open.spotify.com/track/64NgJu6rPcsDYCN4IhYjDE"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
+        "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
+      },
+      "artists": [
+        {
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        }
+      ],
+      "duration_ms": 243562,
+      "name": "I Feel It Coming (Recorded At Sound Stage Nashville)",
+      "url": "https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Before You Go",
-        "url": "https://open.spotify.com/album/3SewgCi6w47DDbwSZvZnyq"
-      },
-      "artists": [
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        }
-      ],
-      "duration_ms": 233865,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/2TNAiE0HUKBVR4jckoN5YE"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Nothing Compares 2 U",
         "url": "https://open.spotify.com/album/237lAdghHVsaFBpkOa7uoP"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 259866,
       "name": "Nothing Compares 2 U",
       "url": "https://open.spotify.com/track/0m0Tv8qRoePqoWmU2Py5Gk"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/3SewgCi6w47DDbwSZvZnyq"
+      },
+      "artists": [
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        }
+      ],
+      "duration_ms": 233865,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/2TNAiE0HUKBVR4jckoN5YE"
     },
     {
       "added_at": "2023-09-04 16:45:54",

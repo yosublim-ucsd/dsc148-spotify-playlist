@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > The biggest festival songs of 2023\. emotional festival music \- mainstage music \- edm 2023 \- edm hits \- progressive house \- bigroom \- future rave \- techno \- festival music
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 85,974 likes - 100 songs - 5 hr 7 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 86,002 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

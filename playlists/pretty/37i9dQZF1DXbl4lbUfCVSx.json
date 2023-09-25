@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 28390,
+  "num_followers": 28450,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "MCw1ZDQ5MDEwZjU0YzhiMzU2NTdhYjk2YTAwNTBjN2YzMTMyNjk2MDNk",
   "tracks": [
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
-        "name": "Entre vous et moi (32 Hits)",
-        "url": "https://open.spotify.com/album/2FLvO78SIGxE9bDTliU2uB"
-      },
-      "artists": [
-        {
-          "name": "Harry Diboula",
-          "url": "https://open.spotify.com/artist/57BxOfFiszAxhvXp5gE5Hn"
-        }
-      ],
-      "duration_ms": 267693,
-      "name": "Tu me manques",
-      "url": "https://open.spotify.com/track/2tjdUXAQO53oMqpRoA4bwP"
-    },
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 114934,
       "name": "Kompa SHATTA",
       "url": "https://open.spotify.com/track/4LNVUNUOPf5Ri12DkJeFH3"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Entre vous et moi (32 Hits)",
+        "url": "https://open.spotify.com/album/2FLvO78SIGxE9bDTliU2uB"
+      },
+      "artists": [
+        {
+          "name": "Harry Diboula",
+          "url": "https://open.spotify.com/artist/57BxOfFiszAxhvXp5gE5Hn"
+        }
+      ],
+      "duration_ms": 267693,
+      "name": "Tu me manques",
+      "url": "https://open.spotify.com/track/2tjdUXAQO53oMqpRoA4bwP"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -287,22 +287,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Resan",
-        "url": "https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG"
-      },
-      "artists": [
-        {
-          "name": "T-Vice",
-          "url": "https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N"
-        }
-      ],
-      "duration_ms": 307493,
-      "name": "Ma Cherie Je T'aime",
-      "url": "https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "The Very Best Of Jackito (Pou ti moun yo)",
         "url": "https://open.spotify.com/album/0LSK0lr70DojaaTTY05B6g"
       },
@@ -319,18 +303,18 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Degaje",
-        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
+        "name": "Resan",
+        "url": "https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG"
       },
       "artists": [
         {
-          "name": "Harmonik",
-          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+          "name": "T-Vice",
+          "url": "https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N"
         }
       ],
-      "duration_ms": 271712,
-      "name": "Cheri Benyen M'",
-      "url": "https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj"
+      "duration_ms": 307493,
+      "name": "Ma Cherie Je T'aime",
+      "url": "https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -347,6 +331,22 @@
       "duration_ms": 395226,
       "name": "Libre D'aimer",
       "url": "https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Degaje",
+        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
+      },
+      "artists": [
+        {
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+        }
+      ],
+      "duration_ms": 271712,
+      "name": "Cheri Benyen M'",
+      "url": "https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -399,22 +399,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Tantan- Pam Pam Pam",
-        "url": "https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8"
-      },
-      "artists": [
-        {
-          "name": "Tantan",
-          "url": "https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL"
-        }
-      ],
-      "duration_ms": 386733,
-      "name": "Pam Pam Pam",
-      "url": "https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Encyclopedie",
         "url": "https://open.spotify.com/album/1RI9JdAdq2TMcJh7LiMle9"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 402933,
       "name": "Is It Real?",
       "url": "https://open.spotify.com/track/2i4lLBucZUbHunIH7maIst"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Tantan- Pam Pam Pam",
+        "url": "https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8"
+      },
+      "artists": [
+        {
+          "name": "Tantan",
+          "url": "https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL"
+        }
+      ],
+      "duration_ms": 386733,
+      "name": "Pam Pam Pam",
+      "url": "https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -463,22 +463,18 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Atis Lokal Pap Janm Lague",
-        "url": "https://open.spotify.com/album/5mIhKdY0S8JUMvlOHzC4Cy"
+        "name": "Diferan",
+        "url": "https://open.spotify.com/album/4Fvn3EqC18EGayl4mndJq9"
       },
       "artists": [
         {
-          "name": "Mikaben",
-          "url": "https://open.spotify.com/artist/3KoKlLuiiCm6rUS9BO89Fp"
-        },
-        {
-          "name": "Carimi",
-          "url": "https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat"
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
         }
       ],
-      "duration_ms": 285933,
-      "name": "Fanm Sa a Move",
-      "url": "https://open.spotify.com/track/5dIb9hXtgboh7H50zFhwfM"
+      "duration_ms": 297960,
+      "name": "Mwen bouke",
+      "url": "https://open.spotify.com/track/5I8RwPZFt7hw1sBGgltoE2"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -507,18 +503,22 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Diferan",
-        "url": "https://open.spotify.com/album/4Fvn3EqC18EGayl4mndJq9"
+        "name": "Atis Lokal Pap Janm Lague",
+        "url": "https://open.spotify.com/album/5mIhKdY0S8JUMvlOHzC4Cy"
       },
       "artists": [
         {
-          "name": "Harmonik",
-          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+          "name": "Mikaben",
+          "url": "https://open.spotify.com/artist/3KoKlLuiiCm6rUS9BO89Fp"
+        },
+        {
+          "name": "Carimi",
+          "url": "https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat"
         }
       ],
-      "duration_ms": 297960,
-      "name": "Mwen bouke",
-      "url": "https://open.spotify.com/track/5I8RwPZFt7hw1sBGgltoE2"
+      "duration_ms": 285933,
+      "name": "Fanm Sa a Move",
+      "url": "https://open.spotify.com/track/5dIb9hXtgboh7H50zFhwfM"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -619,6 +619,22 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
+        "name": "Degaje",
+        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
+      },
+      "artists": [
+        {
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+        }
+      ],
+      "duration_ms": 331871,
+      "name": "Simplicit\u00e9",
+      "url": "https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
         "name": "Ha\u00efti Twoubadou Volume 1",
         "url": "https://open.spotify.com/album/7xVvyQ8qlFd6FbV7OYsAIA"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 255000,
       "name": "Lanmou Doudou",
       "url": "https://open.spotify.com/track/2jl6qxOAmEuQB5QWrMsVbD"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
-        "name": "Degaje",
-        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
-      },
-      "artists": [
-        {
-          "name": "Harmonik",
-          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
-        }
-      ],
-      "duration_ms": 331871,
-      "name": "Simplicit\u00e9",
-      "url": "https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI"
     },
     {
       "added_at": "2020-06-03 18:17:45",

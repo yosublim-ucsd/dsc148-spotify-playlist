@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 234660,
+  "num_followers": 234696,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGExMGMzYWMxMTkxZDllZjM5M2M1Mzc2NjFlNDU3YjcyZmRiNjA4",
+  "snapshot_id": "MCwxMjk2MThiODJmMGNhMmYzMjBlNDg2MTM3ZjkyMTQyMzVmNjYxMzEw",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "duration_ms": 262254,
+      "name": "Run - Twenty Version",
+      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/2g1SAILgSY5GB70zgYarni"
       },
@@ -731,22 +747,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
-      },
-      "artists": [
-        {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        }
-      ],
-      "duration_ms": 262254,
-      "name": "Run - Twenty Version",
-      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Leaving The 99 (Remix)",
         "url": "https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze"
       },
@@ -759,38 +759,6 @@
       "duration_ms": 242468,
       "name": "Leaving The 99 - Remix",
       "url": "https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Calm Before the Storm",
-        "url": "https://open.spotify.com/album/3jWsaxV8HH7v4osDCriC6Q"
-      },
-      "artists": [
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        }
-      ],
-      "duration_ms": 235153,
-      "name": "Calm Before the Storm",
-      "url": "https://open.spotify.com/track/7wsBA8293E5O4SMS1nH350"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Still Mighty",
-        "url": "https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "Still Mighty",
-      "url": "https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -811,6 +779,38 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Still Mighty",
+        "url": "https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "Still Mighty",
+      "url": "https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Calm Before the Storm",
+        "url": "https://open.spotify.com/album/3jWsaxV8HH7v4osDCriC6Q"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 235153,
+      "name": "Calm Before the Storm",
+      "url": "https://open.spotify.com/track/7wsBA8293E5O4SMS1nH350"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "hard to dream",
         "url": "https://open.spotify.com/album/0QFiXNPL6xwYY6wYC8H1jq"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Every Morning",
-        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
-      },
-      "artists": [
-        {
-          "name": "Aaron Shust",
-          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "You Are Fullness",
         "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 325893,
       "name": "First Love",
       "url": "https://open.spotify.com/track/3eOxPVgmYGVYPMnPK44Rm1"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Every Morning",
+        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
+      },
+      "artists": [
+        {
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Heaven Is Everywhere",
-        "url": "https://open.spotify.com/album/5UeiyI4lj9FMmNQWymskL1"
-      },
-      "artists": [
-        {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
-        }
-      ],
-      "duration_ms": 234890,
-      "name": "Heaven Is Everywhere",
-      "url": "https://open.spotify.com/track/1rPFqJjK21mcwaT0C10EfS"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Feel Holy",
         "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 331800,
       "name": "Feel Holy",
       "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Heaven Is Everywhere",
+        "url": "https://open.spotify.com/album/5UeiyI4lj9FMmNQWymskL1"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 234890,
+      "name": "Heaven Is Everywhere",
+      "url": "https://open.spotify.com/track/1rPFqJjK21mcwaT0C10EfS"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Keep Your Head Up (Radio Version)",
-        "url": "https://open.spotify.com/album/0EqvE6md1QlGSu2qjYHc1r"
-      },
-      "artists": [
-        {
-          "name": "Fireflight",
-          "url": "https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy"
-        }
-      ],
-      "duration_ms": 215603,
-      "name": "Keep Your Head Up - Radio Version",
-      "url": "https://open.spotify.com/track/5MCclZ7cXNHyyAkvNqHYBm"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 339706,
       "name": "Peter",
       "url": "https://open.spotify.com/track/0vfUIl2gKEUdX0Dupf8Yrq"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Keep Your Head Up (Radio Version)",
+        "url": "https://open.spotify.com/album/0EqvE6md1QlGSu2qjYHc1r"
+      },
+      "artists": [
+        {
+          "name": "Fireflight",
+          "url": "https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy"
+        }
+      ],
+      "duration_ms": 215603,
+      "name": "Keep Your Head Up - Radio Version",
+      "url": "https://open.spotify.com/track/5MCclZ7cXNHyyAkvNqHYBm"
     },
     {
       "added_at": "2022-12-16 05:02:00",

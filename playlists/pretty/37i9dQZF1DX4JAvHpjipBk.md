@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Doja Cat, Zach Bryan, Brent Faiyaz, Lil Tecca, Shakira, Bakar and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,177,086 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,177,388 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Downtown](https://open.spotify.com/track/1agzjKir1PVW91rkCbiXks) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Downtown](https://open.spotify.com/album/1QRMi6OGmvL3PR7uctgSa7) | 2:11 |
 | 100 | [buttons!](https://open.spotify.com/track/3PXb8ZLJiz59pSO5ZrJDx0) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [buttons!](https://open.spotify.com/album/1BNaZf2C1HMVCC2pCRdYsr) | 3:59 |
 
-Snapshot ID: `MCxlM2IxNzkwNWY3NTE0MmRjYTg3YWEyZGM1ZDU1ZjZkMzg0NmNiNmY4`
+Snapshot ID: `MCxjZDhhMzhlODRhYzA2ODFjODQ2MTEwOWIyNTA3YWMwYzk1MDFiY2Qy`

@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-873 songs - 2 day 9 hr 10 min
+876 songs - 2 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -642,7 +642,8 @@
 | [Scab](https://open.spotify.com/track/5ntc7RlZu43qOqNsHfEseg) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Black Lipstick](https://open.spotify.com/album/74qi2MyJ2r82E283Uswsih) | 3:47 | 2021-04-02 | 2022-04-20 |
 | [Scarecrow](https://open.spotify.com/track/2XhDgAUM1rS7vjsfxZuVOy) | [Wand](https://open.spotify.com/artist/53by9P3tpXOW1diWCI6MNu) | [Scarecrow](https://open.spotify.com/album/2xPhotQpUe565CYiI07aFx) | 5:17 | 2021-04-02 | 2022-04-15 |
 | [Scattered Dreams](https://open.spotify.com/track/0A4yWwcpwp35JWPHGQ24X9) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Scattered Dreams](https://open.spotify.com/album/0EcAO4yEQf6oqzNzjm75xh) | 3:54 | 2023-05-05 | 2023-07-12 |
-| [Scattered Dreams](https://open.spotify.com/track/44IYLlpl5cPvqQH9Ff6GhQ) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Scattered Dreams](https://open.spotify.com/album/2nEeFzRFh8ppWwAvlVtgPv) | 3:54 | 2023-05-05 |  |
+| [Scattered Dreams](https://open.spotify.com/track/44IYLlpl5cPvqQH9Ff6GhQ) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Scattered Dreams](https://open.spotify.com/album/2nEeFzRFh8ppWwAvlVtgPv) | 3:54 | 2023-05-05 | 2023-09-25 |
+| [Scattered Dreams](https://open.spotify.com/track/73h8sk37Djar1B3LV3A6nQ) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Time Lapsed](https://open.spotify.com/album/2rzaUdlBmCJt9f5KjT2HDE) | 3:54 | 2023-05-05 |  |
 | [Schedule](https://open.spotify.com/track/1MpAPtGwhH1zagZwpQ7a6r) | [Post Animal](https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE) | [Schedule](https://open.spotify.com/album/3YuYutAkjm9WsxG53Sek6u) | 4:14 | 2021-04-02 | 2022-04-19 |
 | [Seize the Day](https://open.spotify.com/track/0zyJIiJw64jCFAqpZGT7vE) | [Blac Rabbit](https://open.spotify.com/artist/0UvgR4VckgdEkBhTOjxwCc) | [Seize the Day](https://open.spotify.com/album/08DK7K5Z1uwDObLOKzMca1) | 5:02 | 2021-04-02 | 2022-04-21 |
 | [Sense](https://open.spotify.com/track/2oeqKWbVwK5Ly2vjwWJKHd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Paper Mâché Dream Balloon](https://open.spotify.com/album/0RyezpNCj0HGTv2Mrwaat5) | 3:30 | 2022-07-22 | 2023-04-29 |
@@ -671,7 +672,8 @@
 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 4:26 | 2023-01-27 | 2023-07-22 |
 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/5t6VBNWXxcwlrxCjU7ytGg) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/album/5IDEZ1rerrSPTypdQI3od9) | 4:26 | 2023-01-27 | 2023-04-22 |
 | [Since August](https://open.spotify.com/track/3Xd1JtZaloVCfKqMTF5C1Y) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Since August](https://open.spotify.com/album/4VQYpmg1K5PHZvKnsRGRN9) | 2:55 | 2023-08-04 |  |
-| [Sirens](https://open.spotify.com/track/6rjxyDTlJCGqo1XQ6vrq5R) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Sirens](https://open.spotify.com/album/5jtOLGuMV0eYTHJptwgI1D) | 4:28 | 2023-08-04 |  |
+| [Sirens](https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 4:28 | 2023-08-04 |  |
+| [Sirens](https://open.spotify.com/track/6rjxyDTlJCGqo1XQ6vrq5R) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Sirens](https://open.spotify.com/album/5jtOLGuMV0eYTHJptwgI1D) | 4:28 | 2023-08-04 | 2023-09-25 |
 | [sixteen hours](https://open.spotify.com/track/3TsVcIajFrh1rPWAUcjkfX) | [ABUNAI](https://open.spotify.com/artist/4ERQ5vLev8bVkNEwbTa9gc) | [sixteen hours](https://open.spotify.com/album/4XiMdP2f1K0p77MiTUuf7V) | 4:29 | 2022-05-06 | 2022-07-29 |
 | [Skateboard](https://open.spotify.com/track/6DuUfwLgh3aY4oKZR6UBOH) | [The Palms](https://open.spotify.com/artist/1zVGInzEij1qk9ZlMlOC2X) | [Skateboard](https://open.spotify.com/album/5kLuYmONHbZaG0DfoD0Ej9) | 3:11 | 2021-06-04 | 2022-07-16 |
 | [Sleep Apnea](https://open.spotify.com/track/7H4AhGitjSmRZxKMaeH9wX) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Clash The Truth](https://open.spotify.com/album/40TgysF80nR70X6NCIvSHz) | 2:26 | 2021-04-02 | 2022-04-13 |
@@ -795,7 +797,8 @@
 | [Trust Me](https://open.spotify.com/track/0pvrCp6dJ07yIqv10yGzT7) | [Barnaby Keen](https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA) | [Trust Me](https://open.spotify.com/album/17zWsw6bRbky5USG6OeO08) | 3:41 | 2021-07-02 | 2022-07-22 |
 | [Turn Up The Sunshine \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Turn Up The Sunshine \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/2q70l752ZOyY6kr7PZjAex) | 3:49 | 2022-05-20 | 2022-09-03 |
 | [Turning Into Water](https://open.spotify.com/track/65HmMmSpSTBnn7lwfEt9kC) | [Maybird](https://open.spotify.com/artist/0Aev3tJ4D1LLfG6q9f7fkP) | [Turning Into Water](https://open.spotify.com/album/0CQqmftSoTl9QMiyIW9bGa) | 3:21 | 2021-04-02 | 2022-04-18 |
-| [Twin](https://open.spotify.com/track/0cSsInmUJiXyxUWtLxaHjq) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Twin](https://open.spotify.com/album/4isUn6sML2OYlUq8tFxU9S) | 6:00 | 2023-06-22 |  |
+| [Twin](https://open.spotify.com/track/0cSsInmUJiXyxUWtLxaHjq) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Twin](https://open.spotify.com/album/4isUn6sML2OYlUq8tFxU9S) | 6:00 | 2023-06-22 | 2023-09-25 |
+| [Twin](https://open.spotify.com/track/4fHfYHQCg4xOwnjdS35lH4) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 6:00 | 2023-06-22 |  |
 | [Twinkle](https://open.spotify.com/track/0HYx2H2vKfC3CqwdsmDWcf) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Sticky Thumb](https://open.spotify.com/album/5fRFL33mS6f2EtH9RjOz68) | 3:14 | 2022-04-20 | 2022-07-12 |
 | [Two Face](https://open.spotify.com/track/6bgNDCH3ybqlyzCXaJcsrO) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Fatigue](https://open.spotify.com/album/2dFXtpw7b5PTKHo5kN17bG) | 4:06 | 2022-07-22 | 2022-07-30 |
 | [Two Face](https://open.spotify.com/track/7eE8Doh8THjGp6Vpg3RdQ8) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Two Face](https://open.spotify.com/album/52G5UzGDFImfKKpMiYzn1W) | 4:07 | 2021-06-04 | 2022-07-29 |

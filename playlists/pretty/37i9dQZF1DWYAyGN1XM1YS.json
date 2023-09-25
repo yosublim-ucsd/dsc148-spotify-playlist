@@ -1,12 +1,12 @@
 {
   "description": "Do you remember when you fell in love with emo and post-hardcore? Cover: Weezer",
-  "num_followers": 120211,
+  "num_followers": 120326,
   "original_name": "mEMOries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzM1MjM1M2JhYmZmNzUxNWQ1ZjBjZTNkOTYyNGM2OGIxZGNlMDY2",
+  "snapshot_id": "MCw3MzhiNzg4Njg1ODIzN2U2ODI2OTY5MTdlNWRhOTAwMDVmMTNjYTg0",
   "tracks": [
     {
       "added_at": "2023-03-28 15:58:25",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Everything You Ever Wanted To Know About Silence Remaster",
-        "url": "https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Siberian Kiss - 2009 Remaster",
-      "url": "https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "Crimes (Bonus Track Version)",
         "url": "https://open.spotify.com/album/5wTuKjG1mxNJORaGY4Qw5F"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 194586,
       "name": "Love Rhymes With Hideous Car Wreck",
       "url": "https://open.spotify.com/track/4ZDgRXaafbD7MTx1iep94S"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Everything You Ever Wanted To Know About Silence Remaster",
+        "url": "https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Siberian Kiss - 2009 Remaster",
+      "url": "https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm"
     }
   ],
   "unique_name": "mEMOries",

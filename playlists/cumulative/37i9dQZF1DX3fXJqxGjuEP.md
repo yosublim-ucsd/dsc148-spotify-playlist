@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-481 songs - 1 day 4 hr 51 min
+482 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Helado de Mango](https://open.spotify.com/track/3h3L1IArPewYKXLgb6YLX1) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [Helado de Mango](https://open.spotify.com/album/5fd7vj3legWUCGUdEhM6S8) | 3:28 | 2021-10-20 | 2022-07-29 |
 | [Helado de Mango](https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [Helado de Mango](https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub) | 3:28 | 2021-10-20 | 2022-08-08 |
 | [High Tide](https://open.spotify.com/track/4LAsGHxgNj7iylCek7Rr1a) | [Ley Line](https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX) | [High Tide](https://open.spotify.com/album/4x411PuFnRrYYAJkSLi4Im) | 3:10 | 2022-03-17 | 2022-04-23 |
+| [Hora Loca](https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:11 | 2023-09-25 |  |
 | [Hoy Como Siempre](https://open.spotify.com/track/5pQXW3nrM4KEDTK4iD3Iu9) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Hoy Como Siempre](https://open.spotify.com/album/2wDRsuHc2loxSQykUIbt3v) | 4:09 | 2021-10-20 | 2022-07-29 |
 | [Hoy Es Mañana](https://open.spotify.com/track/1lTgSM8RrTANbfPwx9ipif) | [Pernett](https://open.spotify.com/artist/2ovmrverobmQvD14n5REoU), [The Caribbean Ravers](https://open.spotify.com/artist/48u4Rcx3bbMC5PtUm2AVcd) | [Música Para Pick Up](https://open.spotify.com/album/1XpYE30QnfPWIZxBEgK1Vo) | 3:32 | 2021-10-20 | 2022-10-01 |
 | [Humedad](https://open.spotify.com/track/4FG5aqW3ii8uwi6ghYkhUQ) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN) | [ELCANO](https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw) | 4:17 | 2022-04-05 | 2022-07-03 |
@@ -488,6 +489,6 @@
 | [¿A Dónde Vas?](https://open.spotify.com/track/7wzsI1Gca3y33WE2FhN45m) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Miocarditis](https://open.spotify.com/album/7gohod4Ik5cAHMLXRSoJ9j) | 3:40 | 2021-10-20 | 2022-11-13 |
 | [¿De qué se trata la vida, mi vida?](https://open.spotify.com/track/6iwnylaKVXVOnKWdMBSpUq) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:07 | 2021-10-20 | 2022-07-23 |
 | [¿Por qué tan seria?](https://open.spotify.com/track/6iRD4cphPoZyZKOjzPw14N) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [¿Por qué tan seria?](https://open.spotify.com/album/4QS2QeZPBx1bJlKtF1bC9R) | 3:49 | 2021-10-20 | 2022-07-29 |
-| [Últimos Días](https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Últimos Días](https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3) | 5:19 | 2021-10-20 |  |
+| [Últimos Días](https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Últimos Días](https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3) | 5:19 | 2021-10-20 | 2023-09-25 |
 
 \*This playlist was first scraped on 2022-01-13. Prior content cannot be recovered.

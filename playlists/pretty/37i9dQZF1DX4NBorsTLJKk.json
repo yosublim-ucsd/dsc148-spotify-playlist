@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 32030,
+  "num_followers": 32043,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGE1NmViN2FhMjhmZDhkNjExN2ZkYzM5OTkxMzA0MDBmZWQwYjg4",
+  "snapshot_id": "MCxhNzcyOTE3Mzc4YWQ3OGYwY2ZkNTRjNWJlMWNiNGNmZTEzNjFkOTMy",
   "tracks": [
     {
       "added_at": "2023-09-20 01:51:29",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u771f\u611b \u65b0\u66f2 + \u771f\u6b63\u7cbe\u9078",
-        "url": "https://open.spotify.com/album/2yt1DMuGmxNqy1D5uuwmwW"
-      },
-      "artists": [
-        {
-          "name": "Jacky Cheung",
-          "url": "https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd"
-        }
-      ],
-      "duration_ms": 256826,
-      "name": "\u85cd\u96e8",
-      "url": "https://open.spotify.com/track/6xJggWssdiq6VaFK13MXYB"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u7d66\u5929\u738b\u661f",
         "url": "https://open.spotify.com/album/4mrjsYBHIsDiYzHrYdxNfY"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
+        "name": "\u771f\u611b \u65b0\u66f2 + \u771f\u6b63\u7cbe\u9078",
+        "url": "https://open.spotify.com/album/2yt1DMuGmxNqy1D5uuwmwW"
+      },
+      "artists": [
+        {
+          "name": "Jacky Cheung",
+          "url": "https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd"
+        }
+      ],
+      "duration_ms": 256826,
+      "name": "\u85cd\u96e8",
+      "url": "https://open.spotify.com/track/6xJggWssdiq6VaFK13MXYB"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
         "name": "\u4eca\u591c\u6709\u96e8",
         "url": "https://open.spotify.com/album/1ryMYhFdPQmH1i8Cby5KRU"
       },
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "Hormone Boys",
-        "url": "https://open.spotify.com/album/7FDNFIWHR4WyIBzqwZpaGD"
-      },
-      "artists": [
-        {
-          "name": "Hormone Boys",
-          "url": "https://open.spotify.com/artist/7MR5iqnOtuXv9RMMMQbOIl"
-        }
-      ],
-      "duration_ms": 249022,
-      "name": "\u50be\u96e8",
-      "url": "https://open.spotify.com/track/2XyEyfd1d02fCeLG56gRSh"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u4e00\u842c\u5c0f\u6642",
         "url": "https://open.spotify.com/album/571Mh6oowokeW1RIfqCmaz"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 286440,
       "name": "\u5169\u4eba\u96e8\u5929",
       "url": "https://open.spotify.com/track/3Y7mPzWHKsEKZNdqe4wjtu"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "Hormone Boys",
+        "url": "https://open.spotify.com/album/7FDNFIWHR4WyIBzqwZpaGD"
+      },
+      "artists": [
+        {
+          "name": "Hormone Boys",
+          "url": "https://open.spotify.com/artist/7MR5iqnOtuXv9RMMMQbOIl"
+        }
+      ],
+      "duration_ms": 249022,
+      "name": "\u50be\u96e8",
+      "url": "https://open.spotify.com/track/2XyEyfd1d02fCeLG56gRSh"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u7b49\u4f60\u7b49\u5230\u6211\u5fc3\u75db\u7cbe\u9078",
-        "url": "https://open.spotify.com/album/2AY3Vq53r5djnUyL6fo80f"
-      },
-      "artists": [
-        {
-          "name": "Jacky Cheung",
-          "url": "https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd"
-        }
-      ],
-      "duration_ms": 288760,
-      "name": "\u5206\u624b\u7e3d\u8981\u5728\u96e8\u5929",
-      "url": "https://open.spotify.com/track/3J83vhU2i0PQhuBqrRuXS7"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/28obHlyyrD8mHa4PLlccXD"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 254248,
       "name": "\u59b3\u9084\u6015\u5927\u96e8\u55ce - \u570b\u8a9e",
       "url": "https://open.spotify.com/track/2dFeKAGD3TBcFB9TAjnlfN"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u7b49\u4f60\u7b49\u5230\u6211\u5fc3\u75db\u7cbe\u9078",
+        "url": "https://open.spotify.com/album/2AY3Vq53r5djnUyL6fo80f"
+      },
+      "artists": [
+        {
+          "name": "Jacky Cheung",
+          "url": "https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd"
+        }
+      ],
+      "duration_ms": 288760,
+      "name": "\u5206\u624b\u7e3d\u8981\u5728\u96e8\u5929",
+      "url": "https://open.spotify.com/track/3J83vhU2i0PQhuBqrRuXS7"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u4e0b\u96e8\u5929",
-        "url": "https://open.spotify.com/album/65cvYcrZQA6nWGphMBlYYI"
-      },
-      "artists": [
-        {
-          "name": "Moon Chew",
-          "url": "https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "\u4e0b\u96e8\u5929",
-      "url": "https://open.spotify.com/track/4OoJ6yYi1h01D0LWXT8dQr"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u897f\u7a97",
         "url": "https://open.spotify.com/album/15KBlwp8Ism6KoUQxRHNQd"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 239520,
       "name": "\u897f\u7a97\u7684\u96e8",
       "url": "https://open.spotify.com/track/3H4SYYPnK2hkBtNDG0O6i3"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u4e0b\u96e8\u5929",
+        "url": "https://open.spotify.com/album/65cvYcrZQA6nWGphMBlYYI"
+      },
+      "artists": [
+        {
+          "name": "Moon Chew",
+          "url": "https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "\u4e0b\u96e8\u5929",
+      "url": "https://open.spotify.com/track/4OoJ6yYi1h01D0LWXT8dQr"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1rE6znC1DlxxgHUyqsDLYe"
-      },
-      "artists": [
-        {
-          "name": "\u5c0f\u7537\u5b69\u6a02\u5718",
-          "url": "https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "\u6700\u611b\u96e8\u5929",
-      "url": "https://open.spotify.com/track/3yUnqU8SLFOdraGY5lCueD"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
         "url": "https://open.spotify.com/album/0K3iozUW87nXOIRQAxOSHU"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 265760,
       "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
       "url": "https://open.spotify.com/track/4w1ios6mGj4BEadg1jSiCL"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1rE6znC1DlxxgHUyqsDLYe"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u7537\u5b69\u6a02\u5718",
+          "url": "https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "\u6700\u611b\u96e8\u5929",
+      "url": "https://open.spotify.com/track/3yUnqU8SLFOdraGY5lCueD"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "SINGING IN THE RAIN",
-        "url": "https://open.spotify.com/album/74kYd0GlI6TQ9zurIWfN70"
-      },
-      "artists": [
-        {
-          "name": "Rainie Yang",
-          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
-        }
-      ],
-      "duration_ms": 228088,
-      "name": "SINGING IN THE RAIN",
-      "url": "https://open.spotify.com/track/1P5tiSLIE2Kp6rpOLMSJXZ"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u5fae\u96e8",
         "url": "https://open.spotify.com/album/43wEkgik29K31WN42WmlRr"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 233052,
       "name": "\u5fae\u96e8",
       "url": "https://open.spotify.com/track/4Xmums18xhKhwgWtOKXnZy"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "SINGING IN THE RAIN",
+        "url": "https://open.spotify.com/album/74kYd0GlI6TQ9zurIWfN70"
+      },
+      "artists": [
+        {
+          "name": "Rainie Yang",
+          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
+        }
+      ],
+      "duration_ms": 228088,
+      "name": "SINGING IN THE RAIN",
+      "url": "https://open.spotify.com/track/1P5tiSLIE2Kp6rpOLMSJXZ"
     },
     {
       "added_at": "2023-09-20 01:51:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 
 > Productores latinos underground para bailar con audífonos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,028 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,036 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 10 | [Sin control](https://open.spotify.com/track/3UkXq2GbRv2RdwHvwrPkph) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/3OjVcHtegHO8FE3DUkTmTX) | 3:46 |
 | 11 | [Invierno \(Remix\)](https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Techno Para Dos](https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h), [Alondra Máynez](https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd) | [Invierno \(Remix\)](https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj) | 4:45 |
 | 12 | [Ágni](https://open.spotify.com/track/6oFeHebu9Jv72wfFrC2wRm) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Zenit & Nadir](https://open.spotify.com/album/5F3AulLRnkl7a52gcim5q6) | 5:01 |
-| 13 | [Maelstrom](https://open.spotify.com/track/1xBqxKhj35tVGNmq4NpQ4e) | [Fortu & Mendoza](https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex), [Catatonique](https://open.spotify.com/artist/2MYL2t7eQ5DTL4HBQ7dL9q) | [Maelstrom](https://open.spotify.com/album/1hefknIQ0TMrdyr6HT1qtI) | 5:42 |
-| 14 | [Hurt](https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI) | [Sangre Nueva](https://open.spotify.com/artist/0YmokPIhVketCTSXBRp20R), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Goteo](https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24) | 5:00 |
+| 13 | [Hurt](https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI) | [Sangre Nueva](https://open.spotify.com/artist/0YmokPIhVketCTSXBRp20R), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Goteo](https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24) | 5:00 |
+| 14 | [Maelstrom](https://open.spotify.com/track/1xBqxKhj35tVGNmq4NpQ4e) | [Fortu & Mendoza](https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex), [Catatonique](https://open.spotify.com/artist/2MYL2t7eQ5DTL4HBQ7dL9q) | [Maelstrom](https://open.spotify.com/album/1hefknIQ0TMrdyr6HT1qtI) | 5:42 |
 | 15 | [Internet Dump](https://open.spotify.com/track/5xXab44aWtEqltnKl3mTlD) | [Neukrapsio](https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa), [Miss Ayesha](https://open.spotify.com/artist/3aJK7LhPLg4rDr6hTbABzZ) | [Internet Dump](https://open.spotify.com/album/4Gml4rYNKgY0bpXKLG6GSW) | 2:06 |
 | 16 | [Land III \- Vocal Mix](https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4), [Carmen Ruiz](https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB) | [Land III](https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG) | 4:44 |
 | 17 | [Si Mami](https://open.spotify.com/track/3iG93FbuY3fqgfedMCC6A7) | [Michael Fortvne](https://open.spotify.com/artist/6BIKs7su9UYmtKs5nj3Jpz), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Si Mami](https://open.spotify.com/album/6RMpW1nConyzYdawMen6ps) | 5:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 49 | [La Nueva Mortalidad](https://open.spotify.com/track/0Mrl7x8w70d4eTm5aaFDMW) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [La Nueva Mortalidad \(Remaster 2021\)](https://open.spotify.com/album/7a2G1S8B3foJ9Ai6U6hOkO) | 5:51 |
 | 50 | [K Royal Con Las de Harina](https://open.spotify.com/track/08V1tV1HjwZeV04MaV9dpQ) | [Dietscha Jung](https://open.spotify.com/artist/6DYNkp4jACOeI3bn2gmKqg) | [Hola](https://open.spotify.com/album/632kGPMnxUSMHTngCCeb4Z) | 2:21 |
 
-Snapshot ID: `MCw0NDFhNWU3YmE5MTM2YjNhNWRjNDZiNTRhMjJiNGE1MTlkNzU3Y2Iy`
+Snapshot ID: `MCw4MDNkMDFmNjE2YWU4NzdmOTRlZThlM2NhMTY1MGFmZTNmNzNmNjMx`

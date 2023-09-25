@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM?si=iyU8ZgF1TN6hxaTEXBD7CQ"> Cheque </a>
 
-266 songs - 12 hr 48 min
+267 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Bad Since '97](https://open.spotify.com/track/5t5oLw5209yleTnJSqM097) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:14 | 2022-08-25 |  |
 | [Balance](https://open.spotify.com/track/3x8oSPH4XYzkBiG53D02xo) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj) | [Balance](https://open.spotify.com/album/3ajc5gJ1vNgCBOrYMj6iYK) | 3:27 | 2022-10-14 | 2022-10-29 |
 | [Ball Till We Fall](https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ball Till We Fall](https://open.spotify.com/album/1ykaxeBYRvI0boqwTezPTx) | 2:23 | 2022-06-09 | 2023-03-25 |
-| [Bando Diaries](https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Bando Diaries](https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC) | 2:38 | 2022-06-09 |  |
+| [Bando Diaries](https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Bando Diaries](https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC) | 2:38 | 2022-06-09 | 2023-09-25 |
 | [Bank Alert](https://open.spotify.com/track/70WgWpbCRbDAsOCHiDL9ve) | [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU) | [Z Pack](https://open.spotify.com/album/5Ck8mMUb5nvnbNIKYTUjXF) | 2:45 | 2023-07-13 | 2023-08-04 |
 | [Barawo](https://open.spotify.com/track/2gSBzguJZzHSMEP9snKgyf) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Barawo](https://open.spotify.com/album/10bd7xHvx7jhVis9sMwqAK) | 3:49 | 2022-06-09 | 2023-07-18 |
 | [Basic](https://open.spotify.com/track/2VDTxpDlQnSfZgLbJnufV6) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Rasaqi NFG](https://open.spotify.com/artist/2ZuybLhxJk89IgAGhjCb5n) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/4RuSx7uURK2Dsqq11bKMJx) | 4:38 | 2022-06-09 | 2022-11-25 |
@@ -92,6 +92,7 @@
 | [Flimsy Excusees](https://open.spotify.com/track/2rB5XZMKGKxbhXS9B5HVTp) | [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [Flimsy Excusees/ Bad Character](https://open.spotify.com/album/6OFSAmfK3cCLQpP0XSEo5p) | 2:36 | 2022-09-12 | 2022-10-07 |
 | [Fun for Love](https://open.spotify.com/track/3doWW3a8etr8hhVSJXYhFv) | [Davolee](https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a), [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Fun for Love](https://open.spotify.com/album/3SHD5LOEnhMsJqwEoozkbQ) | 2:38 | 2023-03-18 | 2023-03-25 |
 | [FYN](https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:27 | 2022-06-09 |  |
+| [Gbedu](https://open.spotify.com/track/1XhTCQFzYcgFeJpkw2x2VV) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Gbedu](https://open.spotify.com/album/78tVCq1xaSu5u8L3sABqE4) | 3:09 | 2023-09-21 |  |
 | [Ghost Mode](https://open.spotify.com/track/1NP9rjEfsd9h6f8sVGCwRi) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [No Guts No Glory](https://open.spotify.com/album/5Zhg797sEPjrogcC4XXaEP) | 3:50 | 2022-10-14 | 2022-10-29 |
 | [Go German](https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Go German](https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN) | 2:58 | 2022-06-09 |  |
 | [Go Home](https://open.spotify.com/track/0WREazGSegTBW0deOqpOTV) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Go Home](https://open.spotify.com/album/0nCaveQokllncgYPf3K9Qm) | 2:18 | 2022-06-09 | 2023-07-01 |

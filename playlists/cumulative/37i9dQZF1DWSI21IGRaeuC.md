@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-223 songs - 18 hr 23 min
+224 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Bring It Back](https://open.spotify.com/track/1EQ2D7HRLZDz2aPSibkACT) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bring It Back](https://open.spotify.com/album/2hQ4dYGyQeKXSQbQRTB61k) | 5:41 | 2023-06-09 |  |
 | [buss it.](https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [winter '23](https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy) | 6:10 | 2023-03-17 |  |
 | [C'mon](https://open.spotify.com/track/3p28zxsE5Ndd9CJUvpUwnC) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [C'mon](https://open.spotify.com/album/1JFfBxteXBD0yGNbfENRdA) | 4:00 | 2023-08-04 | 2023-09-17 |
-| [can't stop the swing.](https://open.spotify.com/track/2mTNrZp8XBLay7hwwcAj81) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [spring '23](https://open.spotify.com/album/0sI5QLNxVfY8SeHGm70RZL) | 6:04 | 2023-05-26 |  |
+| [can't stop the swing.](https://open.spotify.com/track/2mTNrZp8XBLay7hwwcAj81) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [spring '23](https://open.spotify.com/album/0sI5QLNxVfY8SeHGm70RZL) | 6:04 | 2023-05-26 | 2023-09-25 |
 | [CDWU](https://open.spotify.com/track/7BAx0TzD2eE7amrzEZH1Hg) | [Simon Kidzoo](https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA) | [CDWU EP](https://open.spotify.com/album/04CqfNadncHwswivDrT9xM) | 3:02 | 2022-07-22 | 2022-07-29 |
 | [Changes](https://open.spotify.com/track/6WMjfoQiJn7Bbs7Bv7G6rT) | [Simon Kidzoo](https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA) | [Changes EP](https://open.spotify.com/album/6OICJ3V1eLF0NTfMY4Em4n) | 2:51 | 2022-06-10 | 2022-07-29 |
 | [Clapped](https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [Clapped](https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ) | 3:30 | 2022-11-11 |  |
@@ -214,6 +214,7 @@
 | [TRiPPPY](https://open.spotify.com/track/7prJ30LIy445yr1uzsy9Lr) | [Cour T.](https://open.spotify.com/artist/2800ldRznHIt29Q3cUdU5o) | [TRiPPPY](https://open.spotify.com/album/5iRqBscsuyaj50XKN6xAvQ) | 5:30 | 2023-08-18 |  |
 | [Troll](https://open.spotify.com/track/2QLlGPzBYeixEyqJKqzqj9) | [Dimmish](https://open.spotify.com/artist/3BPvVhOECwv7HSHVZaq3BG) | [Lunar EP](https://open.spotify.com/album/3u0oUHmJjfBn9pmbsulv3L) | 7:42 | 2022-06-03 | 2022-07-27 |
 | [Tunnel](https://open.spotify.com/track/0zi1coACnVRJskyFHyLQje) | [DJOKO](https://open.spotify.com/artist/3fdC2UHP39tyWCUsHB6qlv) | [Ride On EP & Mancini Remix](https://open.spotify.com/album/4wZKnCELfrXj676lyK8GAl) | 5:53 | 2022-06-03 | 2022-07-27 |
+| [Unique](https://open.spotify.com/track/7chDllCV1g3mIf27gjOJnl) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Unique EP](https://open.spotify.com/album/1p5cdny6T3dcuF0vFlkpjF) | 4:03 | 2023-09-22 |  |
 | [Untitled A](https://open.spotify.com/track/0dCoAtdih1oipgbx4jFqcg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [DJ Cosworth](https://open.spotify.com/artist/0Sgo1SIN7qc7fDw7v14IDm) | [Untitled](https://open.spotify.com/album/1KemAxEMdpdvlJQNLXIRIy) | 5:48 | 2022-10-12 |  |
 | [Walk The Line \- Radio Edit](https://open.spotify.com/track/4xt43vcfXajgYbcDdOjOgI) | [Jesse Jonez](https://open.spotify.com/artist/4uRQ0KBoYFYkziR9SIZW3i) | [Walk The Line \(Radio Edit\)](https://open.spotify.com/album/16VndWG1tn0N7Qpp7sz51Z) | 3:21 | 2023-03-24 | 2023-04-29 |
 | [Warning](https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Warning](https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp) | 5:36 | 2022-11-11 |  |

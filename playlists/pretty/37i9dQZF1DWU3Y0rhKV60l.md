@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 
 > Keep your focus and drown out distracting sounds with white noise from the oceans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,508 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,536 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 | 55 | [Sandy Gulf \(Ocean\)](https://open.spotify.com/track/19fsuPH0RsbaPJ1VQ586CM) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Pieces of Paradise \(Nature\)](https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ) | 2:40 |
 | 56 | [Sleepy Rolling Depths \(Ocean\)](https://open.spotify.com/track/61QIkVCbYisHbmc8qae4yh) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [The Vast Sea](https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y) | 2:31 |
 | 57 | [Powerful Waves](https://open.spotify.com/track/3DqGnCwlU4RDBOdB2AExfv) | [Exotic Wave Sounds](https://open.spotify.com/artist/1kwv2ZDCeSTSoa9J88tN3N) | [Part One](https://open.spotify.com/album/39zcjubfAiJRC0EbKtruol) | 3:30 |
-| 58 | [Luscious Waves](https://open.spotify.com/track/7DuENdWAHfixMKYqEObGPx) | [Focus 365](https://open.spotify.com/artist/3zMGPjG6X1Rw0JGeBOoEV2) | [Luscious Waves](https://open.spotify.com/album/4h9XHDPN6L0AFyomHKjis8) | 2:48 |
+| 58 | [Ocean Waves Indonesia](https://open.spotify.com/track/1Vmc9mZYLSttBKyFC2E0dS) | [Natural Sound Escapes](https://open.spotify.com/artist/14BvO4zkMab4WlRfbqv5cM) | [Ocean Waves Indonesia](https://open.spotify.com/album/6JPjDC6NKIFndVbzPEFeJv) | 2:55 |
 | 59 | [Deep And Beautiful \- Seamless](https://open.spotify.com/track/4GahIgDfF61wccryMGdTeu) | [Somnography](https://open.spotify.com/artist/7jjmpyxSEBfFehyESBdMpM) | [Thunderous Ocean](https://open.spotify.com/album/6CJiA8Yu7j4YbN7YwHHjKX) | 2:57 |
-| 60 | [Ocean Waves Indonesia](https://open.spotify.com/track/1Vmc9mZYLSttBKyFC2E0dS) | [Natural Sound Escapes](https://open.spotify.com/artist/14BvO4zkMab4WlRfbqv5cM) | [Ocean Waves Indonesia](https://open.spotify.com/album/6JPjDC6NKIFndVbzPEFeJv) | 2:55 |
+| 60 | [Luscious Waves](https://open.spotify.com/track/7DuENdWAHfixMKYqEObGPx) | [Focus 365](https://open.spotify.com/artist/3zMGPjG6X1Rw0JGeBOoEV2) | [Luscious Waves](https://open.spotify.com/album/4h9XHDPN6L0AFyomHKjis8) | 2:48 |
 
-Snapshot ID: `MCwzMTVmYWFiMGUzZTM4NTA3ZDZhZDViNjY2NzFlYmJmZDhhMmU4MTll`
+Snapshot ID: `MCw3YWMyOTg1MTY0ZmY5MzEwNWU4OTc5ZjZiYzFjNTI5ZDI2OTBmZjVk`

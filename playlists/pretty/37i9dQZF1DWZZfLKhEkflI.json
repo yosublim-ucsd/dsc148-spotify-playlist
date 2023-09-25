@@ -1,12 +1,12 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 64884,
+  "num_followers": 64922,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Zjk4ZTYyZTA4N2FjY2YyNjFjMTNhM2JlOWQ4MmVjYTg3MGU3ZDgx",
+  "snapshot_id": "MCxjYjllYTBjY2VkZTA1M2VjYzQwZWEwZGE3MWIyZjVlZjY1MDQwY2I1",
   "tracks": [
     {
       "added_at": "2023-09-13 11:53:55",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-09-13 11:53:55",
       "album": {
-        "name": "Six Pieces Of Silver",
-        "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver Quintet",
-          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Camouflage - Remastered 1998/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
-    },
-    {
-      "added_at": "2023-09-13 11:53:55",
-      "album": {
         "name": "Sonny Rollins",
         "url": "https://open.spotify.com/album/0eySuZQb7ZGcE5qOAXvRlO"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 478453,
       "name": "Decision - Remastered 1999",
       "url": "https://open.spotify.com/track/4Sd3IwEYdoyTsFl9Tfp6WX"
+    },
+    {
+      "added_at": "2023-09-13 11:53:55",
+      "album": {
+        "name": "Six Pieces Of Silver",
+        "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver Quintet",
+          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
+        }
+      ],
+      "duration_ms": 265893,
+      "name": "Camouflage - Remastered 1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
     },
     {
       "added_at": "2023-09-13 11:53:55",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-09-13 11:53:55",
       "album": {
-        "name": "Boss Tenor",
-        "url": "https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        }
-      ],
-      "duration_ms": 507933,
-      "name": "Hittin' The Jug - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/3kIhfQW7A4H7yd4a86uFt5"
-    },
-    {
-      "added_at": "2023-09-13 11:53:55",
-      "album": {
         "name": "Rollin' With Leo (Remastered)",
         "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2023-09-13 11:53:55",
       "album": {
-        "name": "A Fickle Sonance",
-        "url": "https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL"
+        "name": "Boss Tenor",
+        "url": "https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs"
       },
       "artists": [
         {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
         }
       ],
-      "duration_ms": 294893,
-      "name": "Sundu - Remastered 1999 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5tSD3SWFAbQxM9RL5Mxx3A"
+      "duration_ms": 507933,
+      "name": "Hittin' The Jug - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/3kIhfQW7A4H7yd4a86uFt5"
     },
     {
       "added_at": "2023-09-13 11:53:55",
@@ -955,6 +939,22 @@
       "duration_ms": 439866,
       "name": "Say You're Mine - Rudy Van Gelder Edition/2006 Digital Remaster",
       "url": "https://open.spotify.com/track/0MfnaTLO0CLErXjJCzFzsd"
+    },
+    {
+      "added_at": "2023-09-13 11:53:55",
+      "album": {
+        "name": "A Fickle Sonance",
+        "url": "https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 294893,
+      "name": "Sundu - Remastered 1999 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5tSD3SWFAbQxM9RL5Mxx3A"
     },
     {
       "added_at": "2023-09-13 11:53:55",

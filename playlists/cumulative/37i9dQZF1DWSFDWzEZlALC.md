@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Paula Hartmann
 
-374 songs - 18 hr 13 min
+375 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [gloria](https://open.spotify.com/track/2UTAtsMndGwUnYwFal6iVQ) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [gloria](https://open.spotify.com/album/0Jprwfz5Yv9WzebYv5fKWQ) | 2:33 | 2023-09-14 |  |
 | [gold junge](https://open.spotify.com/track/7hULHmycFmInX4qSucxMNd) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [gold junge](https://open.spotify.com/album/0C4SR1CjMjx4X3HWbi4A1D) | 3:12 | 2023-02-13 | 2023-02-15 |
 | [Goldener Tag](https://open.spotify.com/track/7ae25NOyV3pnNzza9r8t8M) | [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl) | [Goldener Tag](https://open.spotify.com/album/6Dr38kPVSbzhY60ynspDoo) | 3:45 | 2023-02-02 | 2023-02-10 |
-| [Goldmund](https://open.spotify.com/track/1pyhRVCNXg47cBcVNFH6pr) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Goldmund](https://open.spotify.com/album/5KPlOAzEmWrWicVDaGs9bA) | 3:27 | 2023-09-07 |  |
+| [Goldmund](https://open.spotify.com/track/1pyhRVCNXg47cBcVNFH6pr) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Goldmund](https://open.spotify.com/album/5KPlOAzEmWrWicVDaGs9bA) | 3:27 | 2023-09-07 | 2023-09-25 |
+| [Goldmund](https://open.spotify.com/track/5cGHrM4cc540PHUrOCJ4If) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 3:27 | 2023-09-22 |  |
 | [Großstadt](https://open.spotify.com/track/5uUxjP4KTYbAoXUwWst7pc) | [STEEZY](https://open.spotify.com/artist/7qrYjRiwMxIIxbuvVyVIeL) | [Großstadt](https://open.spotify.com/album/65YTatv1UhdOAvOTzuoksR) | 2:43 | 2023-03-16 | 2023-04-07 |
 | [Grüne Augen lügen nicht](https://open.spotify.com/track/4lptrKbbydmqa74YS0a1rt) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Grüne Augen lügen nicht](https://open.spotify.com/album/3abp46f8f2mmo86iem7Hkf) | 2:59 | 2023-02-13 | 2023-02-15 |
 | [Grüne Nikes](https://open.spotify.com/track/4Jm6VtIbCtbihnRRAcUgIz) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Grüne Nikes](https://open.spotify.com/album/20qDAt3kR7A5B5KziIMY1r) | 2:28 | 2023-02-13 | 2023-02-15 |

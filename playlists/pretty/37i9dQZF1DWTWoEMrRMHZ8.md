@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Joyce Alane
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,460 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,501 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 44 | [Retalhos De Cetim](https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp) | [Benito 80](https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1), [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i) | [Novo Samba Sempre Novo](https://open.spotify.com/album/5BW4rMXqWggq5fR8RHG1cf) | 3:57 |
 | 45 | [Lindo Dom](https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Lindo Dom](https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf) | 3:13 |
 | 46 | [Coração Selvagem](https://open.spotify.com/track/1CJ2c62JnJK3Ax7O2C11vw) | [Ana Cañas](https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz) | [Ana Cañas Canta Belchior](https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K) | 5:22 |
-| 47 | [Mambo Só](https://open.spotify.com/track/6wbuwrwibFeMivN1QY5ykb) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8), [Edson Cordeiro](https://open.spotify.com/artist/3EsTnSgLh83J05mfHAQMIb) | [Mambo Só](https://open.spotify.com/album/14YinmJrI1sgO44h9X3Vqn) | 2:47 |
-| 48 | [Drão \- Remasterizado](https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Drão \(Remasterizado\)](https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr) | 5:11 |
+| 47 | [Drão \- Remasterizado](https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Drão \(Remasterizado\)](https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr) | 5:11 |
+| 48 | [Mambo Só](https://open.spotify.com/track/6wbuwrwibFeMivN1QY5ykb) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8), [Edson Cordeiro](https://open.spotify.com/artist/3EsTnSgLh83J05mfHAQMIb) | [Mambo Só](https://open.spotify.com/album/14YinmJrI1sgO44h9X3Vqn) | 2:47 |
 | 49 | [Quase um Segundo](https://open.spotify.com/track/6uZF39sCk7ZhqO2GLfu3pj) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Nu Com a Minha Música](https://open.spotify.com/album/5QD7kCLT9EwJ5ifCdlxFkc) | 3:36 |
 | 50 | [Sunsets For Somebody Else \(feat\. Rogê\) \- Brasil Version](https://open.spotify.com/track/1q4JXsjK3jgljGn3ZGtiQ1) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Sunsets For Somebody Else & Big Sur \(Brasil Versions\)](https://open.spotify.com/album/4DgFZiSAbSzubaX5gY6Mgf) | 3:53 |
 | 51 | [Teimosa](https://open.spotify.com/track/6LMUkpnOYYLR81PhMD1Ult) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn), [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm) | [Um Gosto de Sol](https://open.spotify.com/album/3KHEbkkbnX5ioSzVXwXw8V) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 99 | [Mal Acostumada](https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Doce Carnaval](https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB) | 4:30 |
 | 100 | [Banho de Cheiro](https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Doce Carnaval](https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB) | 3:13 |
 
-Snapshot ID: `MCwzZDRiZTkxOTIxYmRlOGQxN2ExMDAzZWE4NWVjMjQwNjVjYWFlZDY0`
+Snapshot ID: `MCwyYTc3MmNmOTZhMTUzZWZkNjE2NmM3MjcwNDE5MjQ1Y2NjYzY5YmMw`

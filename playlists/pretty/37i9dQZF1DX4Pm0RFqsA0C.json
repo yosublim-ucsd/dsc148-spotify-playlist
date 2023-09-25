@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 4551,
+  "num_followers": 4565,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODg0YjRmMTE5NjRmM2FhYjE1YWNlNWY4NmQxZjc1Nzk2YjdmNGQ3",
+  "snapshot_id": "MCw4OGM2NGVmN2Q4YjY3NDk5NTdlNGIyOGIyNjJkNTIxYWRjOGMyOTA1",
   "tracks": [
     {
       "added_at": "2021-02-01 12:18:54",
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
         }
       ],
-      "duration_ms": 238004,
-      "name": "\uc6b0\uc5f0",
-      "url": "https://open.spotify.com/track/5OBXA0nZ8ANfS8w2ZVWh6X"
+      "duration_ms": 255741,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/5NJ46GTkjkN7pc5soOyiMu"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
         }
       ],
-      "duration_ms": 255741,
-      "name": "GO",
-      "url": "https://open.spotify.com/track/5NJ46GTkjkN7pc5soOyiMu"
+      "duration_ms": 238004,
+      "name": "\uc6b0\uc5f0",
+      "url": "https://open.spotify.com/track/5OBXA0nZ8ANfS8w2ZVWh6X"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 234888,
+      "name": "White",
+      "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "Second Birth",
         "url": "https://open.spotify.com/album/62tR9ZoFJr4GcfTMgjDacm"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 240430,
       "name": "\ubfcc\uc694\ubfcc\uc694",
       "url": "https://open.spotify.com/track/4FyJtlsvCNO8uS58aqI354"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "HEY, COME ON! - The 4th Album",
-        "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Hey, Come On!",
-      "url": "https://open.spotify.com/track/5VOTPW5potAFI9gH3QrjV5"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1155,34 +1155,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
+        "name": "HEY, COME ON! - The 4th Album",
+        "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
       },
       "artists": [
         {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
         }
       ],
-      "duration_ms": 234888,
-      "name": "White",
-      "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "Psy From The Psycho World",
-        "url": "https://open.spotify.com/album/1MHlOpXB48S9GqnDqnEb69"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        }
-      ],
-      "duration_ms": 193280,
-      "name": "\uc0c8",
-      "url": "https://open.spotify.com/track/3J7ZJczjrnWB2jvoYKkrlo"
+      "duration_ms": 208440,
+      "name": "Hey, Come On!",
+      "url": "https://open.spotify.com/track/5VOTPW5potAFI9gH3QrjV5"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1203,6 +1187,22 @@
       "duration_ms": 237029,
       "name": "\uc77c\uacfc \uc774\ubd84\uc758 \uc77c",
       "url": "https://open.spotify.com/track/0QxCpNGS8ZgDAx5aZldkgi"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Psy From The Psycho World",
+        "url": "https://open.spotify.com/album/1MHlOpXB48S9GqnDqnEb69"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "\uc0c8",
+      "url": "https://open.spotify.com/track/3J7ZJczjrnWB2jvoYKkrlo"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Jaurim, The Wonder Land",
-        "url": "https://open.spotify.com/album/5e0Jv8JbDWQxbRZq3xhZE3"
-      },
-      "artists": [
-        {
-          "name": "JAURIM",
-          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Magic carpet ride",
-      "url": "https://open.spotify.com/track/5rtSUuJx5VMaG88z9YEJUa"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Return",
         "url": "https://open.spotify.com/album/4tFPCuB69IGx1YyvrhNwEV"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 261250,
       "name": "\ube44\uc758 \ub7a9\uc18c\ub514",
       "url": "https://open.spotify.com/track/0zXc1HfRIwrf7j2vcvDAjN"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Jaurim, The Wonder Land",
+        "url": "https://open.spotify.com/album/5e0Jv8JbDWQxbRZq3xhZE3"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Magic carpet ride",
+      "url": "https://open.spotify.com/track/5rtSUuJx5VMaG88z9YEJUa"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "VOICE MAIL",
-        "url": "https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz"
+        "name": "Com` Back",
+        "url": "https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq"
       },
       "artists": [
         {
-          "name": "Un",
-          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
+          "name": "SECHSKIES",
+          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
         }
       ],
-      "duration_ms": 217417,
-      "name": "\ud3c9\uc0dd",
-      "url": "https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd"
+      "duration_ms": 237706,
+      "name": "Hunch",
+      "url": "https://open.spotify.com/track/4LbF66hFr9e51PvFYcTLr1"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Com` Back",
-        "url": "https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq"
+        "name": "VOICE MAIL",
+        "url": "https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz"
       },
       "artists": [
         {
-          "name": "SECHSKIES",
-          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
+          "name": "Un",
+          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
         }
       ],
-      "duration_ms": 237706,
-      "name": "Hunch",
-      "url": "https://open.spotify.com/track/4LbF66hFr9e51PvFYcTLr1"
+      "duration_ms": 217417,
+      "name": "\ud3c9\uc0dd",
+      "url": "https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Best & J Duet Collection CD 1",
-        "url": "https://open.spotify.com/album/3eqkTlVX3GOgtyCc2magH4"
-      },
-      "artists": [
-        {
-          "name": "Steve Yoo",
-          "url": "https://open.spotify.com/artist/64mQUXcqmQCyywZEc7BtS9"
-        }
-      ],
-      "duration_ms": 226089,
-      "name": "Hope You Find It",
-      "url": "https://open.spotify.com/track/107muHC439r1aQ7hQhOfaD"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Travel \u221e Directions",
         "url": "https://open.spotify.com/album/3i1AS6MZNPsORiHrJYTHgb"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 253570,
       "name": "\uc2ac\ud508 \ucd08\ub300\uc7a5",
       "url": "https://open.spotify.com/track/78kHVc50ML3pR6TNaBVQgP"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Best & J Duet Collection CD 1",
+        "url": "https://open.spotify.com/album/3eqkTlVX3GOgtyCc2magH4"
+      },
+      "artists": [
+        {
+          "name": "Steve Yoo",
+          "url": "https://open.spotify.com/artist/64mQUXcqmQCyywZEc7BtS9"
+        }
+      ],
+      "duration_ms": 226089,
+      "name": "Hope You Find It",
+      "url": "https://open.spotify.com/track/107muHC439r1aQ7hQhOfaD"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Choose My Life-U - The 5th Album",
-        "url": "https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd"
-      },
-      "artists": [
-        {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "\ub2ec\ub9ac\uae30",
-      "url": "https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "NEW SENSATION",
         "url": "https://open.spotify.com/album/42TDA9jm3vXiUbc2FIWrVD"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 253257,
       "name": "\uc5b4\ub290 \uc9f8\uc988\ubc14...",
       "url": "https://open.spotify.com/track/1u2GIyfP9dKfkpLiCsYNJx"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Choose My Life-U - The 5th Album",
+        "url": "https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd"
+      },
+      "artists": [
+        {
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "\ub2ec\ub9ac\uae30",
+      "url": "https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "LOVE - The 3rd Album",
-        "url": "https://open.spotify.com/album/0CCksGwhBwxJlwvpkjw7VR"
-      },
-      "artists": [
-        {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
-        }
-      ],
-      "duration_ms": 252506,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/4At8x7VjqQ4zUiWpKgH6lu"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Only One - The 3rd Album",
         "url": "https://open.spotify.com/album/431ofqzymjNOtNAMLRJ92j"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 234400,
       "name": "Only One",
       "url": "https://open.spotify.com/track/5TnG4hgREznnqDYe9IYlZc"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "LOVE - The 3rd Album",
+        "url": "https://open.spotify.com/album/0CCksGwhBwxJlwvpkjw7VR"
+      },
+      "artists": [
+        {
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+        }
+      ],
+      "duration_ms": 252506,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/4At8x7VjqQ4zUiWpKgH6lu"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -2435,18 +2435,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+        "name": "Wedding - The 6th Album",
+        "url": "https://open.spotify.com/album/2z3PuFKRY0tH0XOIzZzfoF"
       },
       "artists": [
         {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
         }
       ],
-      "duration_ms": 232386,
-      "name": "\ub9e5\uc8fc\uc640 \ub545\ucf69",
-      "url": "https://open.spotify.com/track/2VoJPrLM3lxfE9DiDhE4yL"
+      "duration_ms": 275373,
+      "name": "\uc911\ub3c5 Deep Sorrow",
+      "url": "https://open.spotify.com/track/3MuiFHZtmoSiNIfO7AF767"
     }
   ],
   "unique_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",

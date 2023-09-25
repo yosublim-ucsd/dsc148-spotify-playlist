@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 ### [عراقي جديد](https://open.spotify.com/playlist/37i9dQZF1DWVSIz2AGspV4)
 
-> أحدث الاغاني العراقية\. غلاف :رحمة رياض
+> أحدث الاغاني العراقية\. غلاف :المحمود غياث
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,125 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,172 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [El Goumar](https://open.spotify.com/track/6TC2P6Nw8yn9fKKPTjjkM9) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [El Goumar](https://open.spotify.com/album/3xMJN5P46bFonTmWSbWteW) | 3:04 |
+| 1 | [Methl Eyounech](https://open.spotify.com/track/51fWcoMwz08PdFATIydFMi) | [Mahmood AlGhiath](https://open.spotify.com/artist/7L7OKjCuLFVhDc0tA0RmVi) | [Methl Eyounech](https://open.spotify.com/album/705X273FVbOrvXLU6mBhrU) | 4:05 |
 | 2 | [Eshagtak](https://open.spotify.com/track/2PaI1Yc8Tt0cGI8NG1wcQe) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Eshagtak](https://open.spotify.com/album/1IJ8KRUc9fUJlfEKk8umQT) | 3:25 |
-| 3 | [Methl Eyounech](https://open.spotify.com/track/51fWcoMwz08PdFATIydFMi) | [Mahmood AlGhiath](https://open.spotify.com/artist/7L7OKjCuLFVhDc0tA0RmVi) | [Methl Eyounech](https://open.spotify.com/album/705X273FVbOrvXLU6mBhrU) | 4:05 |
+| 3 | [El Goumar](https://open.spotify.com/track/6TC2P6Nw8yn9fKKPTjjkM9) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [El Goumar](https://open.spotify.com/album/3xMJN5P46bFonTmWSbWteW) | 3:04 |
 | 4 | [دخيلك ارجع](https://open.spotify.com/track/6KMMgPgvhpIssOttUciCpL) | [Karar Salah](https://open.spotify.com/artist/7rIhO4AYbAaZlGQeMAAFg5) | [دخيلك ارجع](https://open.spotify.com/album/3wCN6wClWNnN4wTuEgnLi4) | 3:11 |
 | 5 | [Helo Hal Shuur](https://open.spotify.com/track/3uISh70Fop6BaAEQTpfUSW) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Helo Hal Shuur](https://open.spotify.com/album/7JHeEldInEzQ2mWDDYeCWv) | 4:34 |
 | 6 | [Ya El Ghashash \- يالغشاش](https://open.spotify.com/track/69F05yNX2cTsQANGxub8Ph) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Ya El Ghashash \(يالغشاش\)](https://open.spotify.com/album/7DbmlwivNtglxYVWxQ807a) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 49 | [Alhub Ibada](https://open.spotify.com/track/7qUeVqUrz1HIOfoMBnHUoC) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Alhub Ibada](https://open.spotify.com/album/2zXWcsl5FBgJGVhd3BEOVI) | 1:53 |
 | 50 | [Screenshot](https://open.spotify.com/track/7p5KOUo1Z3p4523IXuC8od) | [Hussam Al Majed](https://open.spotify.com/artist/1vR9BAtUE91PkAXpO8UOi0), [Sajjad Al Kaabi](https://open.spotify.com/artist/0dCw2zbfudQRX8T1LhJDov) | [Screenshot](https://open.spotify.com/album/4kfU56vhxuRSVNvc9NiS7Q) | 2:49 |
 
-Snapshot ID: `MCwyOGFjYmY5MGIwYTM4NmViNGQ2ODNkNGIyNWM4OGRkNzM5ZGY5ZmYz`
+Snapshot ID: `MCw2NjFiZDMwZWEzY2Y2OWY5ODVlY2YxNGQ5ZjExNGE5YjY3NjBhZDQ2`

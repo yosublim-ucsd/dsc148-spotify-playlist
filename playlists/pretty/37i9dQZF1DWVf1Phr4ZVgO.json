@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1025013,
+  "num_followers": 1025313,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzUyYTNhY2Y5OWM3MjAwNDQ3Y2I1ZjE0ODgyZTIwNDUwMGRlNWI4",
+  "snapshot_id": "MCw2N2ZjMTIxZDZhNWQyZjk5OGJjMWZmYzQ5YThiYmJjYzliMTc2NzMw",
   "tracks": [
     {
       "added_at": "2023-09-21 09:35:53",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-09-21 09:35:53",
       "album": {
+        "name": "This Guy's In Love",
+        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
+      },
+      "artists": [
+        {
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "I've Got a Crush On You",
+      "url": "https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ"
+    },
+    {
+      "added_at": "2023-09-21 09:35:53",
+      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 176013,
       "name": "One for My Baby (And One More for the Road)",
       "url": "https://open.spotify.com/track/1c4oqyJGptLz2Yt7LLheX8"
-    },
-    {
-      "added_at": "2023-09-21 09:35:53",
-      "album": {
-        "name": "This Guy's In Love",
-        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
-      },
-      "artists": [
-        {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "I've Got a Crush On You",
-      "url": "https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ"
     },
     {
       "added_at": "2023-09-21 09:35:53",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-09-21 09:35:53",
       "album": {
+        "name": "I Wanna Be Around",
+        "url": "https://open.spotify.com/album/11KbbI91LeZUkXALWALytD"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 134893,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr"
+    },
+    {
+      "added_at": "2023-09-21 09:35:53",
+      "album": {
         "name": "The Ultimate Bobby Darin",
         "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
       },
@@ -439,38 +455,6 @@
     {
       "added_at": "2023-09-21 09:35:53",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 186040,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa"
-    },
-    {
-      "added_at": "2023-09-21 09:35:53",
-      "album": {
-        "name": "I Wanna Be Around",
-        "url": "https://open.spotify.com/album/11KbbI91LeZUkXALWALytD"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 134893,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr"
-    },
-    {
-      "added_at": "2023-09-21 09:35:53",
-      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 5 (1954)",
         "url": "https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM"
       },
@@ -487,18 +471,34 @@
     {
       "added_at": "2023-09-21 09:35:53",
       "album": {
-        "name": "The Genius Of Ray Charles",
-        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 164666,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy"
+      "duration_ms": 186040,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa"
+    },
+    {
+      "added_at": "2023-09-21 09:35:53",
+      "album": {
+        "name": "Swing When You're Winning",
+        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Mr Bojangles",
+      "url": "https://open.spotify.com/track/0aIXPVVZArfwTOrPYSOaa5"
     },
     {
       "added_at": "2023-09-21 09:35:53",
@@ -515,22 +515,6 @@
       "duration_ms": 153533,
       "name": "For Once in My Life",
       "url": "https://open.spotify.com/track/0aei3EH5p7mzipPPAXxpzq"
-    },
-    {
-      "added_at": "2023-09-21 09:35:53",
-      "album": {
-        "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "The Lady Is A Tramp - Remastered 1998",
-      "url": "https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2"
     },
     {
       "added_at": "2023-09-21 09:35:53",
@@ -555,18 +539,34 @@
     {
       "added_at": "2023-09-21 09:35:53",
       "album": {
-        "name": "Swing When You're Winning",
-        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
+        "name": "The Genius Of Ray Charles",
+        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 197800,
-      "name": "Mr Bojangles",
-      "url": "https://open.spotify.com/track/0aIXPVVZArfwTOrPYSOaa5"
+      "duration_ms": 164666,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy"
+    },
+    {
+      "added_at": "2023-09-21 09:35:53",
+      "album": {
+        "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "The Lady Is A Tramp - Remastered 1998",
+      "url": "https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2"
     },
     {
       "added_at": "2023-09-21 09:35:53",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-09-21 09:35:53",
       "album": {
-        "name": "I Belong To You",
-        "url": "https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d"
-      },
-      "artists": [
-        {
-          "name": "Emilia Mitiku",
-          "url": "https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2"
-        }
-      ],
-      "duration_ms": 196320,
-      "name": "I Belong to You",
-      "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
-    },
-    {
-      "added_at": "2023-09-21 09:35:53",
-      "album": {
         "name": "16 Most Requested Songs",
         "url": "https://open.spotify.com/album/0RwTLz72XNNeZi7tEjOobb"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 160773,
       "name": "My Kind Of Girl",
       "url": "https://open.spotify.com/track/1nyda3RgBap7i8OYxPAi7K"
+    },
+    {
+      "added_at": "2023-09-21 09:35:53",
+      "album": {
+        "name": "I Belong To You",
+        "url": "https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d"
+      },
+      "artists": [
+        {
+          "name": "Emilia Mitiku",
+          "url": "https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2"
+        }
+      ],
+      "duration_ms": 196320,
+      "name": "I Belong to You",
+      "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
     },
     {
       "added_at": "2023-09-21 09:35:53",

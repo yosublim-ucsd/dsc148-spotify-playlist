@@ -1,12 +1,12 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 64029,
+  "num_followers": 64251,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODMyMGY1ZmQyNjc4MjUyNTIwNWZmMDkzMzU4MTVlMGNjNzdlZTZl",
+  "snapshot_id": "MCw1OWE3ZGVkMTJhNTFlMDZhZjhkZDJjMjQ3M2FhNDdhYWQyY2ZmYTk3",
   "tracks": [
     {
       "added_at": "2023-05-03 18:57:46",
@@ -752,22 +752,6 @@
       "added_at": "2023-05-03 18:57:46",
       "album": {
         "name": "Corridos de Caballos",
-        "url": "https://open.spotify.com/album/6KeA70JeLK0ne7LmZOFRBn"
-      },
-      "artists": [
-        {
-          "name": "Chayito Valdez",
-          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
-        }
-      ],
-      "duration_ms": 205165,
-      "name": "El Moro de Cumpas",
-      "url": "https://open.spotify.com/track/5GvkaQSSvmBaupwWKG7heR"
-    },
-    {
-      "added_at": "2023-05-03 18:57:46",
-      "album": {
-        "name": "Corridos de Caballos",
         "url": "https://open.spotify.com/album/5kXoqUH7dnPoWFEuHQCNgI"
       },
       "artists": [
@@ -779,6 +763,22 @@
       "duration_ms": 274000,
       "name": "Oak Tree Special",
       "url": "https://open.spotify.com/track/1rsSDPPOODrFc9K1PkB24f"
+    },
+    {
+      "added_at": "2023-05-03 18:57:46",
+      "album": {
+        "name": "Corridos de Caballos",
+        "url": "https://open.spotify.com/album/6KeA70JeLK0ne7LmZOFRBn"
+      },
+      "artists": [
+        {
+          "name": "Chayito Valdez",
+          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
+        }
+      ],
+      "duration_ms": 205165,
+      "name": "El Moro de Cumpas",
+      "url": "https://open.spotify.com/track/5GvkaQSSvmBaupwWKG7heR"
     },
     {
       "added_at": "2023-05-03 18:57:46",

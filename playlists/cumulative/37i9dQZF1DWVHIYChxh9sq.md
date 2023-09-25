@@ -4,7 +4,7 @@
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Recluta y Adrian Chaparro
 
-407 songs - 22 hr 32 min
+408 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [La Mb](https://open.spotify.com/track/3FfCRdvFfPA93T8zT2dGqV) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Mb](https://open.spotify.com/album/5R2kp5lNX5KmyRxFw4bRfl) | 3:23 | 2022-05-12 |  |
 | [La Mejor De Todas \- En Vivo](https://open.spotify.com/track/1Zcd5ZiB8YdfFJmTCQI9mg) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Concierto Mundial Digital Live](https://open.spotify.com/album/2gijh9dOUhi9ZmovGBDD3f) | 3:57 | 2022-05-12 | 2023-02-03 |
 | [La Miche](https://open.spotify.com/track/5qyaHfrDEredbekaDs3PZk) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [La Miche](https://open.spotify.com/album/5VAP6Y5ff8BBPflsMV77fS) | 4:09 | 2023-03-17 | 2023-09-17 |
+| [La Miche](https://open.spotify.com/track/6RjFJ1uPqPb6jT7oJzW6ye) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [La Miche](https://open.spotify.com/album/15mju7ZNBfATY5x6FwbfWj) | 4:09 | 2023-06-16 |  |
 | [La Mitad \- en Vivo](https://open.spotify.com/track/7pjkkFo5S9KVObBPbthtDw) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 3:22 | 2022-05-12 | 2022-12-09 |
 | [La Muchacha del Salado "la Nicholette" \(En Vivo\)](https://open.spotify.com/track/1CIm69POXMEVdDhT1tmE2I) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras de Servando, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/4qJsTs0meLzRDbZNIGd5dX) | 2:44 | 2022-12-08 | 2023-07-30 |
 | [La Muchacha Del Salado "La Nicholette" \(En vivo\)](https://open.spotify.com/track/5dgSrp2BNzQXzYblHtzAao) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa) | 2:44 | 2023-06-16 |  |
@@ -291,7 +292,7 @@
 | [Lárgate \- En Vivo](https://open.spotify.com/track/3V4vwziUxmEPgVnzkRCEdg) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Lárgate \(En Vivo\)](https://open.spotify.com/album/5EFOvXqlA0BNEzXlLqhJNF) | 3:15 | 2022-05-12 |  |
 | [Maestra del Engaño \- En Vivo](https://open.spotify.com/track/27BVgB1VHa9RrUhi2mGrHu) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Maestra del Engaño \(En Vivo\)](https://open.spotify.com/album/6KTq0B6tFLsoemadvjD8Ql) | 2:42 | 2022-05-12 | 2023-02-11 |
 | [Malas Rachas \(En Vivo\)](https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas \(En Vivo\)](https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi) | 4:16 | 2022-12-08 |  |
-| [Maniaco Enfermo](https://open.spotify.com/track/3048sEV1VZ5jcqDvLm3CDL) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [En Vivo Desde La D](https://open.spotify.com/album/5IOVPxrxFdSQx6txrGoBNg) | 3:43 | 2022-05-12 |  |
+| [Maniaco Enfermo](https://open.spotify.com/track/3048sEV1VZ5jcqDvLm3CDL) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [En Vivo Desde La D](https://open.spotify.com/album/5IOVPxrxFdSQx6txrGoBNg) | 3:43 | 2022-05-12 | 2023-09-25 |
 | [Margarita Margarita \(En Vivo\)](https://open.spotify.com/track/5C7Md1p8ojkNNXoHeX9FLc) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [En Vivo Desde Chicago](https://open.spotify.com/album/2z6kMSAE2UYjf4ToJNriLb) | 2:43 | 2022-12-08 |  |
 | [Margarita, Margarita](https://open.spotify.com/track/3vZTRTYZarnASwkSHz9oFv) | [Comando Único](https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK) | [En Vivo, Vol\. 3](https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3) | 2:36 | 2023-03-17 |  |
 | [Mas Que Amigos \- En Vivo](https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:07 | 2023-03-17 |  |

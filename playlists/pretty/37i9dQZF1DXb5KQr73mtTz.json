@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 15341,
+  "num_followers": 15363,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjMyMjIzZGUyYzMyMWU2M2VkNzNkMDdiMjY5NjQxM2JlZTExOGI4",
+  "snapshot_id": "MCw3NDAyOTU0ODVkOTJkNDM3ZDk2M2E5YjM3NjE4NmNmNjk5MmFmNmFl",
   "tracks": [
     {
       "added_at": "2023-09-20 06:38:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-09-20 06:38:00",
       "album": {
-        "name": "Meaningless",
-        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 160370,
-      "name": "Meaningless",
-      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
-    },
-    {
-      "added_at": "2023-09-20 06:38:00",
-      "album": {
         "name": "Still Here",
         "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
       },
@@ -719,18 +703,34 @@
     {
       "added_at": "2023-09-20 06:38:00",
       "album": {
-        "name": "My Liberation Notes OST Part 11",
-        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
+        "name": "Meaningless",
+        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
       },
       "artists": [
         {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
         }
       ],
-      "duration_ms": 259056,
-      "name": "Here We Are",
-      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
+      "duration_ms": 160370,
+      "name": "Meaningless",
+      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
+    },
+    {
+      "added_at": "2023-09-20 06:38:00",
+      "album": {
+        "name": "Eyebrow Moon",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2023-09-20 06:38:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-09-20 06:38:00",
       "album": {
-        "name": "Eyebrow Moon \ub208\uc379\ub2ec",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+        "name": "My Liberation Notes OST Part 11",
+        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
       },
       "artists": [
         {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
         }
       ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
+      "duration_ms": 259056,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
     },
     {
       "added_at": "2023-09-20 06:38:00",

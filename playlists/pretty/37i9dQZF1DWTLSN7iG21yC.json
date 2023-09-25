@@ -1,12 +1,12 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 938482,
+  "num_followers": 938549,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWEyMzFiZWMzNzZlZjYwN2QzZDc1NDM3YjE3YWZiODc1ZTc0MWJh",
+  "snapshot_id": "MCxlY2FjN2NkNWJhYWM0ZGUzNmY4MWRlNDU3ZmQ1YTA2ODE2MGFiMWI3",
   "tracks": [
     {
       "added_at": "2023-04-14 04:07:54",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
     },
     {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 153037,
-      "name": "Meltdown",
-      "url": "https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5"
-    },
-    {
       "added_at": "2023-04-14 04:07:54",
       "album": {
         "name": "Goldmine",
@@ -727,6 +711,22 @@
       "duration_ms": 215140,
       "name": "The Good Ones",
       "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 153037,
+      "name": "Meltdown",
+      "url": "https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 186514,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Drive (feat. Wes Nelson)",
         "url": "https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 186514,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
         "name": "You Will Be Found (with Summer Walker) [From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf"
       },
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "SunKissing",
-        "url": "https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        }
-      ],
-      "duration_ms": 177253,
-      "name": "SunKissing",
-      "url": "https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Part Of Me",
         "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 202193,
       "name": "Part Of Me",
       "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "SunKissing",
+        "url": "https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "duration_ms": 177253,
+      "name": "SunKissing",
+      "url": "https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "All 4 Nothing",
-        "url": "https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 164688,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "5SOS5",
         "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 147744,
       "name": "BLENDER",
       "url": "https://open.spotify.com/track/1xnsTtYlN5GYO30FqYLG1i"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "All 4 Nothing",
+        "url": "https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 164688,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 193621,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "working",
         "url": "https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 210219,
       "name": "working",
       "url": "https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -1701,22 +1701,6 @@
       "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
     },
     {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "The Dumb Song",
-        "url": "https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "The Dumb Song",
-      "url": "https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv"
-    },
-    {
       "added_at": "2023-04-14 04:07:54",
       "album": {
         "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
@@ -1735,6 +1719,22 @@
       "duration_ms": 161146,
       "name": "In The Dark (with Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "The Dumb Song",
+        "url": "https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "The Dumb Song",
+      "url": "https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Don't",
-        "url": "https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/2q9YHakYN697yPpEitqybk"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 207346,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/2q9YHakYN697yPpEitqybk"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Heart Wants What It Wants",
-        "url": "https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 182085,
-      "name": "Heart Wants What It Wants",
-      "url": "https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "A Second to Midnight",
         "url": "https://open.spotify.com/album/6kp91tuVBPtw7HvwTJjDHr"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 207986,
       "name": "A Second to Midnight",
       "url": "https://open.spotify.com/track/3YY9Yu1JsgVfF1lOXEenq9"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Heart Wants What It Wants",
+        "url": "https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 182085,
+      "name": "Heart Wants What It Wants",
+      "url": "https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "The Juice: Vol. III",
-        "url": "https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 172289,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/3qptm6j356NV9FOJri6OgZ"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "I'll Never Not Love You",
         "url": "https://open.spotify.com/album/40Ud7EvNeSxYcpNibD0Qhu"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 218390,
       "name": "I'll Never Not Love You",
       "url": "https://open.spotify.com/track/3tKggonCKJgCG7nroEH2np"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "The Juice: Vol. III",
+        "url": "https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "duration_ms": 172289,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/3qptm6j356NV9FOJri6OgZ"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -2409,6 +2409,58 @@
       "url": "https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H"
     },
     {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "chemistry (Deluxe)",
+        "url": "https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "River Rose",
+          "url": "https://open.spotify.com/artist/3XuRfMxcjE1DgQJ21eALvD"
+        }
+      ],
+      "duration_ms": 204720,
+      "name": "you don\u2019t make me cry (feat. River Rose)",
+      "url": "https://open.spotify.com/track/6rbr35phTqlk7F3gVym16B"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Waking Up Dreaming",
+        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 198802,
+      "name": "Waking Up Dreaming",
+      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Like A Saviour",
+        "url": "https://open.spotify.com/album/0bAL4OMaZIgjmUH3j7q6kb"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 220403,
+      "name": "Like A Saviour",
+      "url": "https://open.spotify.com/track/5aNjxmDikP3zGMHfO9dop5"
+    },
+    {
       "added_at": "2023-04-14 04:07:54",
       "album": {
         "name": "YESSIE",
@@ -2443,34 +2495,18 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Like A Saviour",
-        "url": "https://open.spotify.com/album/0bAL4OMaZIgjmUH3j7q6kb"
+        "name": "golden years",
+        "url": "https://open.spotify.com/album/09knoNCuy7aCw2Ze6g5lBt"
       },
       "artists": [
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
         }
       ],
-      "duration_ms": 220403,
-      "name": "Like A Saviour",
-      "url": "https://open.spotify.com/track/5aNjxmDikP3zGMHfO9dop5"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
-        "name": "Waking Up Dreaming",
-        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 198802,
-      "name": "Waking Up Dreaming",
-      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
+      "duration_ms": 169744,
+      "name": "golden years",
+      "url": "https://open.spotify.com/track/4xP5bdGofMzMQyH1TDFPp8"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -2487,22 +2523,6 @@
       "duration_ms": 194798,
       "name": "Dark Skies",
       "url": "https://open.spotify.com/track/1LdldZb0pYsiAF88CHOSk3"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
-        "name": "golden years",
-        "url": "https://open.spotify.com/album/09knoNCuy7aCw2Ze6g5lBt"
-      },
-      "artists": [
-        {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
-        }
-      ],
-      "duration_ms": 169744,
-      "name": "golden years",
-      "url": "https://open.spotify.com/track/4xP5bdGofMzMQyH1TDFPp8"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2603,26 +2623,6 @@
       "duration_ms": 137307,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "chemistry (Deluxe)",
-        "url": "https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        },
-        {
-          "name": "River Rose",
-          "url": "https://open.spotify.com/artist/3XuRfMxcjE1DgQJ21eALvD"
-        }
-      ],
-      "duration_ms": 204720,
-      "name": "you don\u2019t make me cry (feat. River Rose)",
-      "url": "https://open.spotify.com/track/6rbr35phTqlk7F3gVym16B"
     }
   ],
   "unique_name": "Work From Home",

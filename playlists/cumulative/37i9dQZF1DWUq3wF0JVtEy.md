@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-354 songs - 17 hr 18 min
+355 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2022-01-28 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/1KOAr3G8LaibCpHeaWtL2u) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Mr\. Brightside](https://open.spotify.com/album/5RyXZZrzXpINCtbaJGfsF0) | 3:46 | 2021-10-29 | 2022-05-29 |
 | [My City’s On Fire \- Tiësto Remix](https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [My City’s On Fire \(Tiësto Remix\)](https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP) | 2:21 | 2022-10-14 |  |
-| [my luv \- bonus track](https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [2HEARTs dlux](https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ) | 3:59 | 2022-09-09 |  |
+| [my luv \- bonus track](https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [2HEARTs dlux](https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ) | 3:59 | 2022-09-09 | 2023-09-25 |
 | [My Thing](https://open.spotify.com/track/7w4AVHX30XFZpAqfbTYwcf) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Triple M](https://open.spotify.com/artist/2Tw3Czv2kxEz8h3RILbzjT) | [My Thing](https://open.spotify.com/album/4tbbX4leGDkZXfDEcIwwvM) | 2:24 | 2022-04-01 | 2022-07-11 |
 | [New Transition](https://open.spotify.com/track/44r1pQrd6IshgUFKGE1YrJ) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [New Transition](https://open.spotify.com/album/5EixwwR5Qh4COnnrfIME3i) | 2:49 | 2022-04-01 | 2022-07-23 |
 | [Night Rider](https://open.spotify.com/track/4rKQA3rD8ytaoaRABz9CL6) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Together](https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf) | 3:35 | 2023-08-11 |  |
@@ -332,6 +332,7 @@
 | [This Is Love](https://open.spotify.com/track/0TeIpXK4mS251xn4HNbL5x) | [Melissa Pools](https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW), [Municipal](https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6) | [This Is Love](https://open.spotify.com/album/5StBcXiU25jAcDmA4GOjQN) | 2:08 | 2022-04-01 | 2023-03-11 |
 | [Thrills \(feat\. Jaxon Rose\)](https://open.spotify.com/track/2KnOz4On4UakMbBYlfPa9K) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Jaxon Rose](https://open.spotify.com/artist/0IyRRQX0XYxwropqhXgZLz) | [Thrills \(feat\. Jaxon Rose\)](https://open.spotify.com/album/0AHVfgQ7mjSC2cocVF5uOx) | 3:22 | 2021-10-29 | 2023-01-06 |
 | [Thugstools](https://open.spotify.com/track/3XpMVGPshroNu6iEuzCqwv) | [FRATTA](https://open.spotify.com/artist/2NFs798ZCPVsZAAZcZziGI), [Gaba](https://open.spotify.com/artist/6uPDwlTytGAzI42bG23K5I) | [Thugstools](https://open.spotify.com/album/2M142UzZMRGFHA5dDhGolv) | 3:35 | 2021-10-29 | 2022-07-29 |
+| [TikTak](https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [TikTak](https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u) | 2:17 | 2023-09-22 |  |
 | [Time](https://open.spotify.com/track/55f2O4I6eZ8GLCinoWRF6y) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Time](https://open.spotify.com/album/2d2ED1cEdtypHWeJR9RxOl) | 2:56 | 2022-03-18 | 2023-03-06 |
 | [Together](https://open.spotify.com/track/3ydFRJUABULlXklU1M24TV) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Together](https://open.spotify.com/album/1uYrEieSyuTVtTnszT4eUg) | 3:06 | 2021-10-29 | 2022-08-06 |
 | [Tonight](https://open.spotify.com/track/4QoMRrDVsT1RVFq7Wy6xLM) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Tonight](https://open.spotify.com/album/7erfcSAjDkFRRHo4bTsXit) | 3:40 | 2022-02-18 | 2023-09-23 |

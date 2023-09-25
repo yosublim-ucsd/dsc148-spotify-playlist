@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Excision & Subtronics.",
-  "num_followers": 974704,
+  "num_followers": 974744,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2IxYWRkYjA2MDBjNDNjM2QxMThmM2QyMWQ5ODY5ZmI3NTNiZDM3",
+  "snapshot_id": "MCw2YjVkYjI2MTJiNzkxMTlhM2RhYzlmNWFlYjI1ZjRhMDVkNWE3NWY5",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Muscaria / Everglade March (VIP)",
+        "url": "https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        }
+      ],
+      "duration_ms": 169462,
+      "name": "Muscaria",
+      "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Pump",
         "url": "https://open.spotify.com/album/3LocwBHPnRIn9FFkDLMQ9d"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 264827,
       "name": "Pump",
       "url": "https://open.spotify.com/track/0wdmg7VuwWNWnRkDWOh27n"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Muscaria / Everglade March (VIP)",
-        "url": "https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        }
-      ],
-      "duration_ms": 169462,
-      "name": "Muscaria",
-      "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Pocketknife",
-        "url": "https://open.spotify.com/album/2dAJpqKsJv9xiWMAH1z0k0"
-      },
-      "artists": [
-        {
-          "name": "EDDIE",
-          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 259812,
-      "name": "Pocketknife",
-      "url": "https://open.spotify.com/track/4s3SY8wz9GaTMkAYBloV4k"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Move Back",
         "url": "https://open.spotify.com/album/0d2xyxHilLmIIqfugVYOVI"
       },
@@ -1107,22 +1087,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Where You At",
-        "url": "https://open.spotify.com/album/1ojzEUbTPZd1TvXbcV4mj7"
+        "name": "Pocketknife",
+        "url": "https://open.spotify.com/album/2dAJpqKsJv9xiWMAH1z0k0"
       },
       "artists": [
         {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
         },
         {
-          "name": "Conrank",
-          "url": "https://open.spotify.com/artist/3qNEgvMVFSPWLeBGuqRQ4F"
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
         }
       ],
-      "duration_ms": 235200,
-      "name": "Where You At",
-      "url": "https://open.spotify.com/track/1l4Jlmelh8O7QSURiSxQXT"
+      "duration_ms": 259812,
+      "name": "Pocketknife",
+      "url": "https://open.spotify.com/track/4s3SY8wz9GaTMkAYBloV4k"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1139,6 +1119,26 @@
       "duration_ms": 140196,
       "name": "On & On",
       "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Where You At",
+        "url": "https://open.spotify.com/album/1ojzEUbTPZd1TvXbcV4mj7"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Conrank",
+          "url": "https://open.spotify.com/artist/3qNEgvMVFSPWLeBGuqRQ4F"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Where You At",
+      "url": "https://open.spotify.com/track/1l4Jlmelh8O7QSURiSxQXT"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Get Wompy",
-        "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
-      },
-      "artists": [
-        {
-          "name": "SIPPY",
-          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Get Wompy",
-      "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/6FhJbGFOc9MO1SM5zrfMkg"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 197538,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2nUDK9SvpAA5EEMOJ4Bsn4"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Get Wompy",
+        "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Get Wompy",
+      "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1435,6 +1435,34 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Shapeshifter (feat. Styles of Beyond) [Zardonic & Pythius Remix]",
+        "url": "https://open.spotify.com/album/2tc5jcJXOOaSLgGpa2ELcG"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        },
+        {
+          "name": "Styles Of Beyond",
+          "url": "https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX"
+        },
+        {
+          "name": "Zardonic",
+          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
+        },
+        {
+          "name": "Pythius",
+          "url": "https://open.spotify.com/artist/0CRJK2gwHjs3IKm4uhjNTR"
+        }
+      ],
+      "duration_ms": 304460,
+      "name": "Shapeshifter (feat. Styles of Beyond) - Zardonic & Pythius Remix",
+      "url": "https://open.spotify.com/track/2UuHVdvmK8hcjLF6ek117I"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/7MgxcmKEBi7OSNvdep5nsF"
       },
@@ -1503,26 +1531,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Mothership",
-        "url": "https://open.spotify.com/album/7bQMFsjUNd7QTMA6z8kHJE"
-      },
-      "artists": [
-        {
-          "name": "F.O.O.L",
-          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
-        },
-        {
-          "name": "SKUM",
-          "url": "https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z"
-        }
-      ],
-      "duration_ms": 243844,
-      "name": "Mothership",
-      "url": "https://open.spotify.com/track/4RcndKiQfqi78jtR3x7acx"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Play With You",
         "url": "https://open.spotify.com/album/2cRHpoN1heCtuKIHHxwo8w"
       },
@@ -1539,6 +1547,26 @@
       "duration_ms": 214005,
       "name": "Take Your Throne",
       "url": "https://open.spotify.com/track/6hZ9RASHR1lgLRtRjjjhDn"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Mothership",
+        "url": "https://open.spotify.com/album/7bQMFsjUNd7QTMA6z8kHJE"
+      },
+      "artists": [
+        {
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        },
+        {
+          "name": "SKUM",
+          "url": "https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z"
+        }
+      ],
+      "duration_ms": 243844,
+      "name": "Mothership",
+      "url": "https://open.spotify.com/track/4RcndKiQfqi78jtR3x7acx"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1583,66 +1611,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/4nDapjSoCGVjrUHJP85pLp"
-      },
-      "artists": [
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        },
-        {
-          "name": "Ravenscoon",
-          "url": "https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ"
-        },
-        {
-          "name": "Jessy Covets",
-          "url": "https://open.spotify.com/artist/0e35qB87R4rgIfDysLHzAV"
-        }
-      ],
-      "duration_ms": 240428,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/75eUZ1Em0I86W4RbBL8EZV"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "\u5929\u306e\u5ddd (River of Heaven)",
-        "url": "https://open.spotify.com/album/6NitlvfyIC8Bxo4wRP6syP"
-      },
-      "artists": [
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        },
-        {
-          "name": "Holly",
-          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
-        }
-      ],
-      "duration_ms": 191435,
-      "name": "Quasar",
-      "url": "https://open.spotify.com/track/4B9l4icnBVdbp7u5lXVGFI"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Cheap Thrills",
-        "url": "https://open.spotify.com/album/2HCpsqhia2r9yhCzZd5fll"
-      },
-      "artists": [
-        {
-          "name": "Effin",
-          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Thrill",
-      "url": "https://open.spotify.com/track/4cnSDRJALb1Tts0m7wcB3J"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/5gPc52ohFMwjEGcV3sQu4N"
       },
@@ -1667,6 +1635,46 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2HCpsqhia2r9yhCzZd5fll"
+      },
+      "artists": [
+        {
+          "name": "Effin",
+          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Thrill",
+      "url": "https://open.spotify.com/track/4cnSDRJALb1Tts0m7wcB3J"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/4nDapjSoCGVjrUHJP85pLp"
+      },
+      "artists": [
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Ravenscoon",
+          "url": "https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ"
+        },
+        {
+          "name": "Jessy Covets",
+          "url": "https://open.spotify.com/artist/0e35qB87R4rgIfDysLHzAV"
+        }
+      ],
+      "duration_ms": 240428,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/75eUZ1Em0I86W4RbBL8EZV"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Nonstop",
         "url": "https://open.spotify.com/album/3tS6hhl22D2BWjA7Y0Vf35"
       },
@@ -1687,22 +1695,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Bassline",
-        "url": "https://open.spotify.com/album/4NQardSGvLWdwHLJwSHZm3"
+        "name": "\u5929\u306e\u5ddd (River of Heaven)",
+        "url": "https://open.spotify.com/album/6NitlvfyIC8Bxo4wRP6syP"
       },
       "artists": [
         {
-          "name": "Super Future",
-          "url": "https://open.spotify.com/artist/6Xri2X6xp5SDLr08hva6Bb"
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
         },
         {
-          "name": "Wreckno",
-          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
         }
       ],
-      "duration_ms": 254117,
-      "name": "Bassline",
-      "url": "https://open.spotify.com/track/1ZIglHDIFjtMiFV2VItzPg"
+      "duration_ms": 191435,
+      "name": "Quasar",
+      "url": "https://open.spotify.com/track/4B9l4icnBVdbp7u5lXVGFI"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1719,6 +1727,26 @@
       "duration_ms": 219428,
       "name": "Witchcraft",
       "url": "https://open.spotify.com/track/562XrisoThlh0IP3Gid2vb"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Bassline",
+        "url": "https://open.spotify.com/album/4NQardSGvLWdwHLJwSHZm3"
+      },
+      "artists": [
+        {
+          "name": "Super Future",
+          "url": "https://open.spotify.com/artist/6Xri2X6xp5SDLr08hva6Bb"
+        },
+        {
+          "name": "Wreckno",
+          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+        }
+      ],
+      "duration_ms": 254117,
+      "name": "Bassline",
+      "url": "https://open.spotify.com/track/1ZIglHDIFjtMiFV2VItzPg"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1751,34 +1779,6 @@
       "duration_ms": 215564,
       "name": "Liminality",
       "url": "https://open.spotify.com/track/2OgUZFfxYwjJLN36Xcu7EK"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Shapeshifter (feat. Styles of Beyond) [Zardonic & Pythius Remix]",
-        "url": "https://open.spotify.com/album/2tc5jcJXOOaSLgGpa2ELcG"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        },
-        {
-          "name": "Styles Of Beyond",
-          "url": "https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX"
-        },
-        {
-          "name": "Zardonic",
-          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
-        },
-        {
-          "name": "Pythius",
-          "url": "https://open.spotify.com/artist/0CRJK2gwHjs3IKm4uhjNTR"
-        }
-      ],
-      "duration_ms": 304460,
-      "name": "Shapeshifter (feat. Styles of Beyond) - Zardonic & Pythius Remix",
-      "url": "https://open.spotify.com/track/2UuHVdvmK8hcjLF6ek117I"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Summer Of Saigon",
+        "url": "https://open.spotify.com/album/770o01vMAudjvaj6TzBnMO"
+      },
+      "artists": [
+        {
+          "name": "Elephant Heart",
+          "url": "https://open.spotify.com/artist/2nwPBvsuf070C7KYSWoXbD"
+        }
+      ],
+      "duration_ms": 233452,
+      "name": "Summer Of Saigon",
+      "url": "https://open.spotify.com/track/5BWpRTmIud6QuaKxZI4Ilr"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Starfire",
         "url": "https://open.spotify.com/album/68her7Ju4UvZFtMXTsTIEj"
       },
@@ -1899,6 +1915,26 @@
       "duration_ms": 228923,
       "name": "Starfire",
       "url": "https://open.spotify.com/track/5x2FToE9OYtZt1McsqhiFY"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Dominate (Boombox Cartel Edit)",
+        "url": "https://open.spotify.com/album/6pyOAdOI2rY9eilAUn8tUI"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        },
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        }
+      ],
+      "duration_ms": 111040,
+      "name": "Dominate - Boombox Cartel Edit",
+      "url": "https://open.spotify.com/track/3HDTkL6fBNThcfeqKk8D17"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1971,46 +2007,6 @@
       "duration_ms": 204375,
       "name": "KILLA",
       "url": "https://open.spotify.com/track/1B8rygL2m0YFYXKfxNqsG1"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Along The Way",
-        "url": "https://open.spotify.com/album/3BskIApiATh6ffjlksP6mz"
-      },
-      "artists": [
-        {
-          "name": "12th Planet",
-          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
-        },
-        {
-          "name": "BLKLBL",
-          "url": "https://open.spotify.com/artist/2MSTncOrtc0tGz5Dls7XIP"
-        }
-      ],
-      "duration_ms": 242986,
-      "name": "Along The Way",
-      "url": "https://open.spotify.com/track/0t5ba5bIUxBvwsHfC0XSSQ"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/7aI7DD29eHD9yO4Aed3rDQ"
-      },
-      "artists": [
-        {
-          "name": "STAR SEED",
-          "url": "https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd"
-        },
-        {
-          "name": "Catlea",
-          "url": "https://open.spotify.com/artist/3MKB5HGt7ZcprzEZt4BxMV"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/6u2buWQK4lGRUcHsyqPNEk"
     }
   ],
   "unique_name": "Bass Arcade",

@@ -4,7 +4,7 @@
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-137 songs - 8 hr 17 min
+138 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 | 2023-06-30 | 2023-07-12 |
 | [XXX's And OOO's \(An American Girl\)](https://open.spotify.com/track/08c3wmdjKSjxTJY9cHSts7) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx) | 2:47 | 2021-11-12 |  |
 | [You Got a Small Town](https://open.spotify.com/track/0uxbkVqzKkxeVszRa0LFnb) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/2dRiCtzyR2XKR4mwwU370t) | 2:58 | 2021-11-12 | 2022-09-19 |
-| [You Got a Small Town](https://open.spotify.com/track/1F7UVBrslkA96RCiXxIhQ3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/3VbfZpES3qxhElY7c3DTVk) | 2:58 | 2022-07-01 |  |
+| [You Got a Small Town](https://open.spotify.com/track/1F7UVBrslkA96RCiXxIhQ3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/3VbfZpES3qxhElY7c3DTVk) | 2:58 | 2022-07-01 | 2023-09-25 |
+| [You Got a Small Town](https://open.spotify.com/track/4XETfjmA6u9yy3CSfh1oFL) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Never Giving Up On That](https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD) | 2:59 | 2023-08-21 |  |
 | [You've Got to Stand for Something](https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD) | [Aaron Tippin](https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M) | [You've Got to Stand for Something](https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt) | 3:02 | 2021-11-12 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

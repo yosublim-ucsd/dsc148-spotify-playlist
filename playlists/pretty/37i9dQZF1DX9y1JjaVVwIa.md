@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 
 > El sonido experimental del Caribe 🌴🦀⚛️
 
-[Spotify](https://open.spotify.com/user/spotify) - 391 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 392 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 | 24 | [El Futuro Ya Pasó \(feat\. iLe\)](https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg) | [Trending Tropics](https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Trending Tropics](https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V) | 3:08 |
 | 25 | [Heart Full of Love](https://open.spotify.com/track/0GKfAI5sNpbv1ALYiPgbU0) | [ÌFÉ](https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF) | [0000+0000](https://open.spotify.com/album/3YjfgRAfbaZEKrYkrXRVPp) | 4:10 |
 | 26 | [Bajito a selva](https://open.spotify.com/track/4CTqfYYGAv8NQEkMyQmy3R) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp), [Los Misterios](https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj) | [El Juidero](https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj) | 4:59 |
-| 27 | [Yo Sé Que Tú Me Conoces](https://open.spotify.com/track/3H2VzqCdBQCJ5I0Zd8iUlp) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Miss Universos](https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl) | 4:18 |
+| 27 | [Crónico](https://open.spotify.com/track/5lYzXlMGYuo6KEb9EZueVA) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Crónico](https://open.spotify.com/album/0TO7obZfq3fJWuorgrTUae) | 3:01 |
 | 28 | [Métele](https://open.spotify.com/track/7eQRFMGV6hPDQZiXlLwuYw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [EP I](https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1) | 4:08 |
 | 29 | [El arca de Mima](https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw) | [El arca de Mima](https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n) | 4:22 |
 | 30 | [No Es Importante](https://open.spotify.com/track/07H0vnntj9PXpuntUFjrMB) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [No Es Importante](https://open.spotify.com/album/3oKNrRZlkCeSqYaCjGNaLe) | 3:29 |
-| 31 | [Crónico](https://open.spotify.com/track/5lYzXlMGYuo6KEb9EZueVA) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Crónico](https://open.spotify.com/album/0TO7obZfq3fJWuorgrTUae) | 3:01 |
+| 31 | [Yo Sé Que Tú Me Conoces](https://open.spotify.com/track/3H2VzqCdBQCJ5I0Zd8iUlp) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Miss Universos](https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl) | 4:18 |
 | 32 | [Te Crees Tú](https://open.spotify.com/track/1FT5c0bdVWkgPctocSQywO) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Te Crees Tú](https://open.spotify.com/album/26toS8EEQOsP65CWSnkksd) | 3:32 |
 | 33 | [NTE](https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:51 |
 | 34 | [Dos amores](https://open.spotify.com/track/5pNQNliJQxIHlTSzgrrptY) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw), [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Dos amores](https://open.spotify.com/album/0y8SaZZySSkDnMQH40qoyM) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 | 49 | [La Cabra Jala Pal Monte](https://open.spotify.com/track/5F7BVBpJmYpZ9Z9yfl3YlI) | [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3) | [La Cabra Jala Pal Monte](https://open.spotify.com/album/1dBySlCgtNn1GTcvceaWiZ) | 3:06 |
 | 50 | [Fake Blood](https://open.spotify.com/track/6Yww6YfgWVZiLE4oP7NS3Y) | [ÌFÉ](https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF), [Robby The Lord](https://open.spotify.com/artist/2PJpVNQhGk5OpKU82okjgO) | [0000+0000](https://open.spotify.com/album/3YjfgRAfbaZEKrYkrXRVPp) | 4:17 |
 
-Snapshot ID: `MCw3ZDhiZGMwYWFmZjcwMjEyOTFjNThiZTE3N2U1Mjg2MmUyOGFhMzhi`
+Snapshot ID: `MCwxNzlmN2EyYTExMjBiZjY3MGU0OGNiZjdjZGI1NTk1NThjY2FlMDNm`

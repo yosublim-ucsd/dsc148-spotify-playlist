@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,936,515 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,937,732 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [Like Dat](https://open.spotify.com/track/0Jpy3D9eHScoriQ8VJaJN8) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Like Dat](https://open.spotify.com/album/3vUjwG73H1QBNs3W3HuyNn) | 2:45 |
 | 50 | [Lick Or Sum](https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lick Or Sum](https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR) | 2:21 |
 
-Snapshot ID: `MCw1YWJhZmQ1MDhhZmM5YzRiNGI1YzJkOWY2NWM4YzRlMDg0ZWY4ZmQ2`
+Snapshot ID: `MCwxMjk1NzJjZmJjMDUxZjYzZjZmZjkwNmJlMTVlZjZmMzBkNzI4OTlm`

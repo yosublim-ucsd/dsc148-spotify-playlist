@@ -1,12 +1,12 @@
 {
   "description": "Una mezcla de rock y punk para motivarte. Get pumped!",
-  "num_followers": 10077,
+  "num_followers": 10165,
   "original_name": "Gym & Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTE1M2E4OGJhNjY2MDY1MmIyMWRhNTc0YWY2ZjNjOWJiZmVjZDEw",
+  "snapshot_id": "MCwyNjQ4OWEzNzQ3NjVkZWJiZGFlYmE2MGI4NmZiZDQ3ZGQ2MWY3OTAw",
   "tracks": [
     {
       "added_at": "2023-09-14 02:53:18",
@@ -651,18 +651,22 @@
     {
       "added_at": "2023-09-14 02:53:18",
       "album": {
-        "name": "Aztl\u00e1n",
-        "url": "https://open.spotify.com/album/0yFFH0eR0XJSoF0S5d5peT"
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
       },
       "artists": [
         {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 292120,
-      "name": "No Hay Mal Que Dure",
-      "url": "https://open.spotify.com/track/5YExs1OO0ol2fIaRm7WmLN"
+      "duration_ms": 204455,
+      "name": "Venganza",
+      "url": "https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1"
     },
     {
       "added_at": "2023-09-14 02:53:18",
@@ -683,22 +687,18 @@
     {
       "added_at": "2023-09-14 02:53:18",
       "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
+        "name": "Aztl\u00e1n",
+        "url": "https://open.spotify.com/album/0yFFH0eR0XJSoF0S5d5peT"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 204455,
-      "name": "Venganza",
-      "url": "https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1"
+      "duration_ms": 292120,
+      "name": "No Hay Mal Que Dure",
+      "url": "https://open.spotify.com/track/5YExs1OO0ol2fIaRm7WmLN"
     },
     {
       "added_at": "2023-09-14 02:53:18",
@@ -739,22 +739,22 @@
     {
       "added_at": "2023-09-14 02:53:18",
       "album": {
-        "name": "Cansado de estar triste",
-        "url": "https://open.spotify.com/album/65JzMj5NQD539KQ0FzGBU2"
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
       "artists": [
         {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         },
         {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 175867,
-      "name": "Cansado de estar triste",
-      "url": "https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x"
+      "duration_ms": 177826,
+      "name": "Nublado (feat. Travis Barker)",
+      "url": "https://open.spotify.com/track/5p5CzJAFaStkaqrQhkYpBT"
     },
     {
       "added_at": "2023-09-14 02:53:18",
@@ -775,22 +775,22 @@
     {
       "added_at": "2023-09-14 02:53:18",
       "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+        "name": "Cansado de estar triste",
+        "url": "https://open.spotify.com/album/65JzMj5NQD539KQ0FzGBU2"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
         },
         {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
         }
       ],
-      "duration_ms": 177826,
-      "name": "Nublado (feat. Travis Barker)",
-      "url": "https://open.spotify.com/track/5p5CzJAFaStkaqrQhkYpBT"
+      "duration_ms": 175867,
+      "name": "Cansado de estar triste",
+      "url": "https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x"
     },
     {
       "added_at": "2023-09-14 02:53:18",

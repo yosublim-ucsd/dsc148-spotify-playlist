@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-527 songs - 1 day 7 hr 44 min
+528 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [If We Want To](https://open.spotify.com/track/5duLlJqkjbHt891ElG8TM2) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [A Memory Of A Memory Of A Postcard](https://open.spotify.com/album/5hm348PpGnmB1dRrj2r9Bg) | 4:08 | 2021-12-16 | 2022-04-21 |
 | [If You Don't Want My Love](https://open.spotify.com/track/2364WrvPTUHobDNURudCbM) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/2pCNvQ7AcClmXZmpIfyP2N) | 2:26 | 2023-03-24 | 2023-04-30 |
 | [If You Don't Want My Love](https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6) | 2:26 | 2023-06-20 | 2023-09-11 |
+| [If You Don't Want My Love](https://open.spotify.com/track/4A48ckONJNoXU5smWT9CeG) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 2:26 | 2023-09-19 |  |
 | [If You Don't Want My Love](https://open.spotify.com/track/5BO76ay1UPZEj72HUqJtxA) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/1t09sHx5LoUBFD8M4h94Nn) | 2:26 | 2023-04-25 | 2023-06-11 |
 | [If You Want Me to Stay](https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 3:00 | 2022-03-30 |  |
 | [Inside And Out](https://open.spotify.com/track/6rouj6pwJgrh6whnljzXPd) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 4:17 | 2022-03-30 | 2022-04-19 |
@@ -234,7 +235,7 @@
 | [Juicy](https://open.spotify.com/track/3VEdzfUk5q70JDmBH0F0Wa) | [Emmett Kai](https://open.spotify.com/artist/3iFMfPvVhkPDaR6uCaBV9q) | [Midnight](https://open.spotify.com/album/04q89UZFZgoHq13VI8Etar) | 3:22 | 2021-12-16 | 2022-07-28 |
 | [Jumping Fences](https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt) | [The Olivia Tremor Control](https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB) | [Dusk at Cubist Castle](https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh) | 1:52 | 2022-10-14 |  |
 | [Just Ain't Gonna Work Out](https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX) | 2:30 | 2022-03-30 | 2022-04-20 |
-| [Just Ain't Gonna Work Out](https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU) | 2:30 | 2023-09-19 |  |
+| [Just Ain't Gonna Work Out](https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU) | 2:30 | 2023-09-19 | 2023-09-25 |
 | [Just Another Honky](https://open.spotify.com/track/0VBNUr0tXN3GaxOjBoB0Es) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:34 | 2022-03-30 | 2023-09-07 |
 | [Just Go](https://open.spotify.com/track/2szxIrlLVWJ7JRxDAGdzzc) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:06 | 2021-12-16 | 2023-06-22 |
 | [Just Like You Used To](https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q) | 3:08 | 2022-12-28 | 2023-04-30 |

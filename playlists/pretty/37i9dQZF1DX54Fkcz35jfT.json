@@ -1,12 +1,12 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: NOISEMAKER",
-  "num_followers": 40086,
+  "num_followers": 40118,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjJhOWU1M2IxODlkODYyMGM0ZGRmMmZkZDRkOTY3YmRiNmI5YzFi",
+  "snapshot_id": "MCwzNWY5ZDBkZmM2ODYzOTc5NmRmOTA3NDk2YTY3YmViOTFkZDM4ZTg1",
   "tracks": [
     {
       "added_at": "2023-09-21 16:14:09",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-09-21 16:14:09",
       "album": {
-        "name": "\u30ae\u30df\u00a5\u30a8\u30f3~Give me yen",
-        "url": "https://open.spotify.com/album/7cO4cBDEdMvJqzk04iye21"
-      },
-      "artists": [
-        {
-          "name": "BACKSHOW",
-          "url": "https://open.spotify.com/artist/3mD0HSVVmh2kNCfbdDlF1D"
-        }
-      ],
-      "duration_ms": 185877,
-      "name": "\u30ae\u30df\u00a5\u30a8\u30f3~Give me yen",
-      "url": "https://open.spotify.com/track/4DMxsnb7a1AT1j11z8M4rC"
-    },
-    {
-      "added_at": "2023-09-21 16:14:09",
-      "album": {
         "name": "Keep going",
         "url": "https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 246518,
       "name": "Mountain Top",
       "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
+    },
+    {
+      "added_at": "2023-09-21 16:14:09",
+      "album": {
+        "name": "\u30ae\u30df\u00a5\u30a8\u30f3~Give me yen",
+        "url": "https://open.spotify.com/album/7cO4cBDEdMvJqzk04iye21"
+      },
+      "artists": [
+        {
+          "name": "BACKSHOW",
+          "url": "https://open.spotify.com/artist/3mD0HSVVmh2kNCfbdDlF1D"
+        }
+      ],
+      "duration_ms": 185877,
+      "name": "\u30ae\u30df\u00a5\u30a8\u30f3~Give me yen",
+      "url": "https://open.spotify.com/track/4DMxsnb7a1AT1j11z8M4rC"
     },
     {
       "added_at": "2023-09-21 16:14:09",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-09-21 16:14:09",
       "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH"
-      },
-      "artists": [
-        {
-          "name": "NEMOPHILA",
-          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
-        }
-      ],
-      "duration_ms": 201105,
-      "name": "RISE",
-      "url": "https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R"
-    },
-    {
-      "added_at": "2023-09-21 16:14:09",
-      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/0m1gOpBNelReGcRVwEn31d"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 193450,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/40ScGVclGVcxNVDnZTaOs6"
+    },
+    {
+      "added_at": "2023-09-21 16:14:09",
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH"
+      },
+      "artists": [
+        {
+          "name": "NEMOPHILA",
+          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
+        }
+      ],
+      "duration_ms": 201105,
+      "name": "RISE",
+      "url": "https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R"
     },
     {
       "added_at": "2023-09-21 16:14:09",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-09-21 16:14:09",
       "album": {
-        "name": "hellsong. (let it in)",
-        "url": "https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb"
-      },
-      "artists": [
-        {
-          "name": "CVLTE",
-          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
-        }
-      ],
-      "duration_ms": 185712,
-      "name": "hellsong. (let it in)",
-      "url": "https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ"
-    },
-    {
-      "added_at": "2023-09-21 16:14:09",
-      "album": {
         "name": "Dance & Scream",
         "url": "https://open.spotify.com/album/3FOmxufq21hJt1qWq0MABi"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 252093,
       "name": "Love at First Sight",
       "url": "https://open.spotify.com/track/6NLHGKCYCnXt7pU6VQSrAf"
+    },
+    {
+      "added_at": "2023-09-21 16:14:09",
+      "album": {
+        "name": "hellsong. (let it in)",
+        "url": "https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb"
+      },
+      "artists": [
+        {
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+        }
+      ],
+      "duration_ms": 185712,
+      "name": "hellsong. (let it in)",
+      "url": "https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ"
     },
     {
       "added_at": "2023-09-21 16:14:09",

@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1174498,
+  "num_followers": 1174895,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDI5ZDM0ZjJhYjM5NWJjMjJhYjhhNGUyYzY3MzU4ODc0NjM4YjA0",
+  "snapshot_id": "MCwwNmIyZGYyODE4ODNiNjY3ZTYzOWQxMjdmOGMzNzY4Y2FmMjI5NzZi",
   "tracks": [
     {
       "added_at": "2023-09-21 22:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "POETRY JAM (feat. Foggieraw)",
-        "url": "https://open.spotify.com/album/080MkxfDcHTrtEs0JGkb1z"
-      },
-      "artists": [
-        {
-          "name": "Ciscero",
-          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
-        },
-        {
-          "name": "Foggieraw",
-          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
-        }
-      ],
-      "duration_ms": 198525,
-      "name": "POETRY JAM (feat. Foggieraw)",
-      "url": "https://open.spotify.com/track/4m4IJ0GaepAsVNP3qqSVDW"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "The Actual Proof",
         "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 163636,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "POETRY JAM (feat. Foggieraw)",
+        "url": "https://open.spotify.com/album/080MkxfDcHTrtEs0JGkb1z"
+      },
+      "artists": [
+        {
+          "name": "Ciscero",
+          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
+        },
+        {
+          "name": "Foggieraw",
+          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
+        }
+      ],
+      "duration_ms": 198525,
+      "name": "POETRY JAM (feat. Foggieraw)",
+      "url": "https://open.spotify.com/track/4m4IJ0GaepAsVNP3qqSVDW"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Speakthru (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/4kYA3PqnQ9nKhMtREJqW0i"
-      },
-      "artists": [
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        },
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 187175,
-      "name": "Shine Thru",
-      "url": "https://open.spotify.com/track/7oedV61tJa8X3ZPE4egKpy"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "What Am I to Do?",
         "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 244733,
       "name": "What Am I to Do?",
       "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Speakthru (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/4kYA3PqnQ9nKhMtREJqW0i"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 187175,
+      "name": "Shine Thru",
+      "url": "https://open.spotify.com/track/7oedV61tJa8X3ZPE4egKpy"
     },
     {
       "added_at": "2023-09-21 22:00:00",

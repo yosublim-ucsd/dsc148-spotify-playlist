@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 236721,
+  "num_followers": 236814,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2E3ZDMxZmE2MTE0YzNlZjM4OWEzNWEzODc3NGU4YTc5OWJlMGI3",
+  "snapshot_id": "MCwyYzFlNWFmOTMzMTZkYmIzYWVlNTBkNGJjNjY1OWYxZDhiMGRiNDli",
   "tracks": [
     {
       "added_at": "2023-09-21 22:00:00",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "R e s e n t m e n t",
-        "url": "https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 224187,
-      "name": "R e s e n t m e n t",
-      "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
         "url": "https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 195000,
       "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
       "url": "https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "R e s e n t m e n t",
+        "url": "https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 224187,
+      "name": "R e s e n t m e n t",
+      "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 216524,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "BB/ANG3L",
         "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 182278,
       "name": "Uh Huh",
       "url": "https://open.spotify.com/track/6lF9MVbhNfe0EZcACAdaFM"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 216524,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Deeper",
-        "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
+        "name": "Bestie",
+        "url": "https://open.spotify.com/album/6kRPeBs9unh27QfKtYy0GE"
       },
       "artists": [
         {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
         }
       ],
-      "duration_ms": 214455,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
+      "duration_ms": 174545,
+      "name": "Bestie",
+      "url": "https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Bestie",
-        "url": "https://open.spotify.com/album/6kRPeBs9unh27QfKtYy0GE"
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
       },
       "artists": [
         {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Bestie",
-      "url": "https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW"
+      "duration_ms": 214455,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "feelings 4 u",
-        "url": "https://open.spotify.com/album/18Q7p6s4Va4TVe7OqA5yoe"
-      },
-      "artists": [
-        {
-          "name": "Colette Lush",
-          "url": "https://open.spotify.com/artist/6cPaKxbdmfSTmt1wKh4GcX"
-        }
-      ],
-      "duration_ms": 144352,
-      "name": "feelings 4 u",
-      "url": "https://open.spotify.com/track/0bJymL5VTkMpiaZWw5048W"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Bag (with Lucky Daye)",
         "url": "https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 211400,
       "name": "Bag (with Lucky Daye)",
       "url": "https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "feelings 4 u",
+        "url": "https://open.spotify.com/album/18Q7p6s4Va4TVe7OqA5yoe"
+      },
+      "artists": [
+        {
+          "name": "Colette Lush",
+          "url": "https://open.spotify.com/artist/6cPaKxbdmfSTmt1wKh4GcX"
+        }
+      ],
+      "duration_ms": 144352,
+      "name": "feelings 4 u",
+      "url": "https://open.spotify.com/track/0bJymL5VTkMpiaZWw5048W"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "On Mine",
+        "url": "https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5"
+      },
+      "artists": [
+        {
+          "name": "Imani Williams",
+          "url": "https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 143986,
+      "name": "On Mine",
+      "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "Candy Store",
         "url": "https://open.spotify.com/album/3nzA2nfVpSVNIVbJPXzFQR"
       },
@@ -1759,22 +1779,6 @@
       "duration_ms": 194307,
       "name": "PPL",
       "url": "https://open.spotify.com/track/0ZuqNhqowaaWYp4KBL5v3i"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/5NeVFESnfQbNb14PTKn3y4"
-      },
-      "artists": [
-        {
-          "name": "Sky Feliz",
-          "url": "https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O"
-        }
-      ],
-      "duration_ms": 152562,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/50YvgSEJQpNlvOaTNJzwnk"
     }
   ],
   "unique_name": "R&B Magic",

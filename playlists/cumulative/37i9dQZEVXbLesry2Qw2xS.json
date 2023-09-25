@@ -5905,6 +5905,24 @@
     },
     {
       "album": {
+        "name": "Traveling in Dimensions",
+        "url": "https://open.spotify.com/album/5jbbsBjvy6Xmm7jyXUJJnY"
+      },
+      "artists": [
+        {
+          "name": "Wanderson Bezerra",
+          "url": "https://open.spotify.com/artist/0t2thoONTtdSPfN02VObOQ"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105222,
+      "name": "Dimension Change",
+      "url": "https://open.spotify.com/track/5tbE97IP6NpkgFMFyGsGjG"
+    },
+    {
+      "album": {
         "name": "Dinero",
         "url": "https://open.spotify.com/album/6FfydthOJNOSCM8BeSqKh3"
       },
@@ -6578,7 +6596,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
@@ -8354,7 +8372,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -13172,7 +13190,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-25",
       "duration_ms": 121411,
       "name": "Kommunikatsiooni Probleem",
       "url": "https://open.spotify.com/track/7JDPjTzXu2rIbWjoAmKPLq"
@@ -17572,6 +17590,32 @@
       "duration_ms": 251249,
       "name": "MY EYES",
       "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
+    },
+    {
+      "album": {
+        "name": "My Flex",
+        "url": "https://open.spotify.com/album/5uXhw6aPhwFQmng52eQoDI"
+      },
+      "artists": [
+        {
+          "name": "DJEFX",
+          "url": "https://open.spotify.com/artist/1gtiugmWqsfjfweMnPrv43"
+        },
+        {
+          "name": "Mooski",
+          "url": "https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8"
+        },
+        {
+          "name": "euro",
+          "url": "https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156841,
+      "name": "My Flex",
+      "url": "https://open.spotify.com/track/67AgOrAogVDA4tvtWnSGcR"
     },
     {
       "album": {
@@ -23960,7 +24004,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 111626,
       "name": "Stargirl Interlude",
       "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"

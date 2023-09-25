@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Chris Lake & Aluna
 
-1,275 songs - 3 day 1 hr 20 min
+1,276 songs - 3 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,6 +544,7 @@
 | [In The Club](https://open.spotify.com/track/2Nt5P7S3Fb5UfWentBaDS1) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:33 | 2022-12-28 | 2023-01-06 |
 | [In The Dark](https://open.spotify.com/track/1LX0J6oKsraPm6kWwRObzR) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [In The Dark](https://open.spotify.com/album/0jHCu9TvD0ZbfM2TlEbLqY) | 3:13 | 2022-09-16 | 2022-12-03 |
 | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF) | 2:36 | 2022-11-11 | 2023-03-18 |
+| [In Your Mind](https://open.spotify.com/track/1fljgBD0HxUOOtLDQ9WSaM) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [In Your Mind](https://open.spotify.com/album/1lnxNRd7kCfp1AGkVehKCU) | 2:34 | 2023-09-22 |  |
 | [Industria](https://open.spotify.com/track/6Kv4u43WIqxp6eBTXaaCiM) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Industria](https://open.spotify.com/album/4UsNAuPjCA5HQsGUYvgZr0) | 3:31 | 2022-04-22 | 2022-07-23 |
 | [Infrared](https://open.spotify.com/track/3yHiLDeERi7k1q3InysVYI) | [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ) | [Infrared](https://open.spotify.com/album/0eRYQNzFjAayeFzgcw3Tvx) | 5:18 | 2022-01-14 | 2022-06-11 |
 | [Inside My Mind](https://open.spotify.com/track/3vl8JYvFMneZNXSGvMjrZI) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Inside My Mind](https://open.spotify.com/album/0vE2iJeMSfo7Q3J2b4esej) | 3:29 | 2023-02-10 | 2023-04-22 |
@@ -917,7 +918,7 @@
 | [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 | 2022-05-13 | 2023-02-04 |
 | [Ritmo \- HUGEL Edit](https://open.spotify.com/track/6U0NVioYt4nZARPNOKhExY) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Ritmo \(HUGEL Edit\)](https://open.spotify.com/album/6jl8AuIfgD8jznXf0Rjh1C) | 2:45 | 2023-02-03 | 2023-03-25 |
 | [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 3:37 | 2022-05-13 | 2022-09-17 |
-| [RNCL](https://open.spotify.com/track/7BYAcW2avsjOYqMFmCGD0P) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [RNCL](https://open.spotify.com/album/0a9oirk3mX6TOm7WK4GZ3T) | 3:11 | 2023-08-18 |  |
+| [RNCL](https://open.spotify.com/track/7BYAcW2avsjOYqMFmCGD0P) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [RNCL](https://open.spotify.com/album/0a9oirk3mX6TOm7WK4GZ3T) | 3:11 | 2023-08-18 | 2023-09-25 |
 | [Rock & Roll](https://open.spotify.com/track/5uRm2oHJnyUlWY7KETuP2r) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Rock & Roll](https://open.spotify.com/album/4j5XQFMWoEqXvR2NJFiCKl) | 2:32 | 2022-06-10 | 2022-10-01 |
 | [Rock The Casbah](https://open.spotify.com/track/3D0LkP3sKoCuwPihiRtJfr) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Rock The Casbah](https://open.spotify.com/album/6cRtfyZvWhfhrZZR1r4cRo) | 3:05 | 2023-04-28 | 2023-08-12 |
 | [Rock The House](https://open.spotify.com/track/51C2icKkwWdJRBErc2qno3) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [Rock The House EP](https://open.spotify.com/album/3IDGAi5SfiLS2HAGCpDmCA) | 2:59 | 2021-11-26 | 2022-01-06 |

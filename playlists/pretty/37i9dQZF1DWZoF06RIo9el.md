@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de septiembre 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,544,829 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,544,831 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 46 | [no quiero olvidarte](https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [no quiero olvidarte](https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb) | 3:50 |
 | 47 | [Trasplante de Corazón](https://open.spotify.com/track/3VqKXI13KCXegeHhcSX0DS) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Trasplante de Corazón](https://open.spotify.com/album/0Se6CCfIxUEK55p3v4vTC7) | 3:25 |
 | 48 | [Ya Me Han Fallado](https://open.spotify.com/track/0cXzcDn8QRWgugkQn2Fl3F) | [Milo Mae](https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP) | [Ya Me Han Fallado](https://open.spotify.com/album/68xJmSqQas7rRiTaUjOgiW) | 2:48 |
-| 49 | [80's](https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [80's](https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES) | 3:33 |
-| 50 | [AMIGA DEL ALCOHOL](https://open.spotify.com/track/4wL75NdSDkaK9KocyH5JHY) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [LI4M](https://open.spotify.com/artist/0ItFkNpFwk5M1GEWtZzhbs) | [AMIGA DEL ALCOHOL](https://open.spotify.com/album/3l5PnrhVfXZL9NiAxk0e36) | 3:13 |
+| 49 | [AMIGA DEL ALCOHOL](https://open.spotify.com/track/4wL75NdSDkaK9KocyH5JHY) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [LI4M](https://open.spotify.com/artist/0ItFkNpFwk5M1GEWtZzhbs) | [AMIGA DEL ALCOHOL](https://open.spotify.com/album/3l5PnrhVfXZL9NiAxk0e36) | 3:13 |
+| 50 | [80's](https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [80's](https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES) | 3:33 |
 
-Snapshot ID: `MCwwM2U2NDhkM2UyZTA1NmZmMjIxZTYwYTA2YTYyYmZlYWI1Njc2N2Rj`
+Snapshot ID: `MCxiY2IyNmE4MzJjYmZmZTFmODE3ODc0OGM1NjllYTRmZGYyOTQ3MmM4`

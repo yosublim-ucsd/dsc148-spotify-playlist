@@ -1,12 +1,12 @@
 {
   "description": "Being alone (again) can be tough, but these songs will keep you company.",
-  "num_followers": 3350554,
+  "num_followers": 3350649,
   "original_name": "Alone Again",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGI2NDQzYmFkMTllNGYzNWFlZmI1ZGIzMzMzN2QxNjFlY2QyYzdk",
+  "snapshot_id": "MCw1ZjQ2ZWM3ODIxZjYxMmY2ZWY3YTVlMTNkMzQ0NmJhMmEzZmRlMDdm",
   "tracks": [
     {
       "added_at": "2023-04-07 20:03:50",
@@ -153,7 +153,7 @@
         }
       ],
       "duration_ms": 242733,
-      "name": "Just Give Me a Reason (feat. Nate Ruess)",
+      "name": "Just Give Me a Reason",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
     },
     {
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "go",
-        "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "go",
-      "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "go",
+        "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "go",
+      "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1007,22 +1007,18 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "What Is Love? (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
+        "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 205986,
-      "name": "I Miss You (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/0Ult84lvFuqNvbyXwyRQ58"
+      "duration_ms": 257720,
+      "name": "It Will Rain",
+      "url": "https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1047,18 +1043,22 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP"
+        "name": "What Is Love? (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 257720,
-      "name": "It Will Rain",
-      "url": "https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C"
+      "duration_ms": 205986,
+      "name": "I Miss You (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/0Ult84lvFuqNvbyXwyRQ58"
     },
     {
       "added_at": "2023-06-09 11:28:14",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 191307,
-      "name": "Stone Cold",
-      "url": "https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Savage Garden (Original Version)",
         "url": "https://open.spotify.com/album/0980NRxcxOXllQhJQ8iPu4"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 276289,
       "name": "Truly Madly Deeply",
       "url": "https://open.spotify.com/track/2ntpyUU3itxHWcJnOJmVic"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 191307,
+      "name": "Stone Cold",
+      "url": "https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz"
     },
     {
       "added_at": "2023-06-16 07:56:00",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 215110,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0pkIJFV6mviH9dmBYsFwTM"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
         "name": "Turn Back Time",
         "url": "https://open.spotify.com/album/1NuCGiddS5MLz3XU2QViaK"
       },
@@ -1819,22 +1835,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Foreword",
-        "url": "https://open.spotify.com/album/44D28vK3JSIQ7oQNAfoeBD"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 197846,
-      "name": "Dear No One",
-      "url": "https://open.spotify.com/track/2wWboDFZJPWXVNlHUbdSVQ"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Handwritten",
         "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
       },
@@ -1847,6 +1847,22 @@
       "duration_ms": 214533,
       "name": "Life Of The Party",
       "url": "https://open.spotify.com/track/14hJ5tc1VCFMWhVn9axRTC"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Foreword",
+        "url": "https://open.spotify.com/album/44D28vK3JSIQ7oQNAfoeBD"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 197846,
+      "name": "Dear No One",
+      "url": "https://open.spotify.com/track/2wWboDFZJPWXVNlHUbdSVQ"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1879,22 +1895,6 @@
       "duration_ms": 181900,
       "name": "405",
       "url": "https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
-        "name": "Music Box",
-        "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 215110,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0pkIJFV6mviH9dmBYsFwTM"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1993,22 +1993,6 @@
       "url": "https://open.spotify.com/track/6Nq8YtPAHuL1outooeiFde"
     },
     {
-      "added_at": "2023-05-26 07:08:00",
-      "album": {
-        "name": "you don't love me anymore",
-        "url": "https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 204398,
-      "name": "you don't love me anymore",
-      "url": "https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9"
-    },
-    {
       "added_at": "2023-04-07 20:03:50",
       "album": {
         "name": "The Thrill Of It All (Special Edition)",
@@ -2027,6 +2011,22 @@
       "duration_ms": 283294,
       "name": "No Peace",
       "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
+    },
+    {
+      "added_at": "2023-05-26 07:08:00",
+      "album": {
+        "name": "you don't love me anymore",
+        "url": "https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 204398,
+      "name": "you don't love me anymore",
+      "url": "https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Hate Everything",
-        "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "Hate Everything",
-      "url": "https://open.spotify.com/track/52UDFFwUueOBfJ2vB5BqRr"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Is It Just Me?",
         "url": "https://open.spotify.com/album/3DgJhCabZjQ3zMcw0E8zWX"
       },
@@ -2163,6 +2147,22 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
+        "name": "Hate Everything",
+        "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "Hate Everything",
+      "url": "https://open.spotify.com/track/52UDFFwUueOBfJ2vB5BqRr"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
         "name": "Bridges",
         "url": "https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO"
       },
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/2HkUMYp8oYG62y7qKK2olM"
-      },
-      "artists": [
-        {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
-        }
-      ],
-      "duration_ms": 224144,
-      "name": "I Don't Want You Back",
-      "url": "https://open.spotify.com/track/38nKfxyRrjYfx0ODX1W5yB"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Tee Shirt",
         "url": "https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 159506,
       "name": "Tee Shirt - Soundtrack Version",
       "url": "https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/2HkUMYp8oYG62y7qKK2olM"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        }
+      ],
+      "duration_ms": 224144,
+      "name": "I Don't Want You Back",
+      "url": "https://open.spotify.com/track/38nKfxyRrjYfx0ODX1W5yB"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "English Rain",
-        "url": "https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Please Don't Say You Love Me",
-      "url": "https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Handwritten (Revisited)",
         "url": "https://open.spotify.com/album/11fLgnq2LE8p5hzo8urweI"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 274586,
       "name": "Running Low",
       "url": "https://open.spotify.com/track/2ePgwid1o7NKDpUmNGC69b"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "English Rain",
+        "url": "https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Please Don't Say You Love Me",
+      "url": "https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -2449,7 +2449,7 @@
         }
       ],
       "duration_ms": 211413,
-      "name": "Why Don't You Love Me (feat. Demi Lovato)",
+      "name": "Why Don't You Love Me",
       "url": "https://open.spotify.com/track/0cEBv7oJxFp3bfTFqWFI0R"
     },
     {

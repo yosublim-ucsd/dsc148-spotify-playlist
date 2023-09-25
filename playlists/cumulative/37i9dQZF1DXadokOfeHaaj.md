@@ -4,7 +4,7 @@
 
 > Are you ready for the floor? Cover: Jessica Winter
 
-76 songs - 5 hr 14 min
+77 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [2\. \(feat\. Search Party Animal\)](https://open.spotify.com/track/3lIGc9ugPh6E9LWnSmPH6Q) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq), [Search Party Animal](https://open.spotify.com/artist/2SdChJVcsPBYIrFDsjc72Z) | [2\. \(feat\. Search Party Animal\)](https://open.spotify.com/album/2llVj3pdMaqG7RJLrka6NX) | 3:20 | 2021-10-28 |  |
 | [20:30 Matlock](https://open.spotify.com/track/2oaJGdFU48klcIlBgy0hu1) | [King Emerald](https://open.spotify.com/artist/3w2bgMhJPzzbHGYXCtBSA1) | [20:30 Matlock](https://open.spotify.com/album/5AZ5WrnrEmXndCQfgU9Uas) | 3:29 | 2021-10-28 |  |
 | [A bite of papaya](https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [A bite of papaya](https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n) | 4:17 | 2021-10-28 |  |
-| [A Dream I have](https://open.spotify.com/track/4zEH0wmtKUm2T4vLmmJnBi) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:33 | 2021-10-28 |  |
+| [A Dream I Have](https://open.spotify.com/track/4YaezxWIpJd3Po2LHYhGVd) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go \(Deluxe\)](https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf) | 4:33 | 2021-10-28 |  |
+| [A Dream I have](https://open.spotify.com/track/4zEH0wmtKUm2T4vLmmJnBi) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:33 | 2021-10-28 | 2023-09-25 |
 | [A Hero's Death \- Soulwax Remix](https://open.spotify.com/track/0aTTn1Xb7rRH0TXkUx5OCJ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [A Hero's Death \(Soulwax Remix\)](https://open.spotify.com/album/6k5jA2u04coOGjgIgsQkU4) | 4:29 | 2021-10-28 | 2023-09-03 |
 | [A Hero's Death \- Soulwax Remix](https://open.spotify.com/track/2SHfsvx6kgQnbWD1us8RGp) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [A Hero's Death \(Soulwax Remix\)](https://open.spotify.com/album/5s7L9VhyEkIY5M4yLadgVR) | 4:29 | 2021-10-28 |  |
 | [All About You \(feat\. Foster The People\) \- Tensnake Remix](https://open.spotify.com/track/1DeI7qWSf8BRIIOtcbEssN) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [All About You \(feat\. Foster The People\) \[Tensnake Remix\]](https://open.spotify.com/album/6Dwgd1sa4nYfzbW9eI7Vt6) | 5:26 | 2021-10-28 |  |
